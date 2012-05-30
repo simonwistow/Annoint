@@ -1,0 +1,15 @@
+common: &common
+  from_email: steve@coachstevo.com
+  questionnaires:
+    io: http://example.com/io/
+    si: http://example.com/si/
+    sdtc: http://example.com/sdtc/
+    demographics: http://example.com/demographics
+
+development:
+  <<: *common
+  sendmail: false
+  
+production:
+  <<: *common
+  sendmail: true

@@ -1,0 +1,290 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____27/11/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+                    
+         "The only thing to do in the circumstances was to comply
+         with the order by turning off the Internet in its entirety,"
+    - KEN BASS, attorney, after libraries forbidden net-filter software
+             http://www.wired.com/news/news/politics/story/16481.html
+                                         ...this could take some time
+         
+
+                                >> HARD NEWS <<
+                                tastes like spew
+
+         JIM "how much for my beautiful daughter" BARKSDALE finally
+         got the downpayment this week, selling his NETSCAPE beauty
+         for four billion dollars to the first dodgy merchant
+         to pony up. And while STEVE CASE ogles his new bride with
+         his SUN MICROSYSTEM pals, making her dance in the Penthouse
+         window to spite the Microsoft neighbours, Mozilla's first
+         and only loves sit in bars across the world, drinking too
+         much and nuzzling up to Opera and pretending it's all the
+         same. Our angle? Forget it. We're all doomed. 
+         http://www.wco.com/~destiny/aolpie.htm
+                               - there goes the Network Neighbourhood 
+         http://www.tarin.com/aofaq.html
+        - guess this means I'll go back to mixing cocktails for Gates
+         http://www.ex-mozilla.org/date.html
+      - Rob McCool? Gone? You still haven't PAID for NCSA httpd, man!
+         http://www.mozilla.org/fear.html
+                                            - or, "You've got malloc"
+
+         CLIFF STANFORD'S REDBUS announced their first funding move
+         this week. In an exciting move away from cliche, Cliff has
+         invested in the British film industry: an
+         underexposed sector with great potential for growth. Living
+         up to his expressed intent to fund "unique" ideas, the first
+         Redbus film - unlike any other British film we've ever seen
+         - is a gritty expose of the gangster underworld of South
+         London. Tellingly, it's called "Out of Depth". 
+         http://www.films.redbus.co.uk/
+                             - The British are... oh, what's the use.
+         
+         The world of new media TV continues to attract innovative
+         approaches in marketing: take DIXONS, who with admirable
+         pluck, have been attempting to sell ON DIGITAL digiboxes in
+         areas where no-one can receive a digital signal. Not a
+         problem: rumour has it that some demonstrations of "digital
+         quality" are being arranged by hiding a DVD round the back of
+         the showroom models. Well, that's *technically* a
+         demonstration of the quality, isn't it? No problems with TV
+         coverage for ONLINE MAGIC's Rob Passmore, who was so
+         involved in working out the confidential fee for OM's
+         Interactive TV pitch to British Airways, that he sent the
+         spreadsheet as an attachment to all his competitors on the
+         public I-TV mailing list. Now *that's* broadcasting!
+         http://www.onlinemagic.com/ 
+                                            - no archive. That's odd.
+        
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+         
+         ABC, Business Mag, ZDNET UK discover best way to increase
+         hits : slag off Linux... JIM GOAD in gaol -
+         http://search.dejanews.com/getdoc.xp?AN=414597297 ... only
+         four more days before "pornographic or offensive" material
+         held on SEMA's internal servers will be "extensively
+         investigated... "If there had been cameras in Diana's car we
+         wouldn't have all this conspiracy theory stuff.", says
+         popular media-related death expert, NOEL EDMONDS... JON KATZ
+         believes Netscape created in 80's... Heavy weather at the
+         BBC: http://www.ntk.net/doh/bbc982711.gif ... time for that
+         BBC SPORTS PERSONALITY chain-letter again... BT buys into
+         EXCITE UK, yawn... Government looks for NET CZAR, yawn...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+         
+         You can just smell the endorphin analogues wafting over
+         London, as today sees the clash of the INTERNATIONAL
+         FESTIVAL OF CHOCOLATE (Royal Horticultural Society Hall SW1,
+         until 29/11/98) and smaller decaff rival THE NATIONAL HONEY
+         SHOW (Kensington Town Hall W8, 26-28/11/98) - their promise
+         of "other hive products" does not, of course, refer to Dark
+         Skies merchandising. EROTICA 98 (London Olympia,
+         27-29/11/98) looks seedy enough to make you side with
+         anti-porn campaigners, while hardcore S&M enthusiasts can of
+         course torment themselves over whether it really is a
+         "proper" APPLE EXPO just next door (London Olympia, until
+         Sat 28/11/98).
+         http://www.exhibitions.co.uk/xnet03.html
+                                   - cover yourself with chocolate...
+         http://www.erotica-uk.com/
+                                 - ...get someone else to lick it off
+         http://www.apple-expo.com/
+         - euphemistically "co-locating" with Total Design Technology
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         We all have our own reasons for not using Microsoft Office.
+         Some don't like the bloated feature set. Others are using
+         unsupported operating systems, like Linux, or Solaris, or
+         OS/2. And a few of us don't use it because our intern was so
+         horrified that we wrote NTK using Word, he made us
+         uninstall it and convert all our macros to Vi. During that
+         difficult crossover period, we briefly learned to love
+         Stardivision's STAROFFICE, a multi-platform clone of the
+         Office suite. This package replicates the Office look 'n'
+         feel to an eery, doppelganger extent - right down to the
+         menu settings, file formats and an ability to slow a
+         turbo-injected PC to a crawl when the whim takes it. We've
+         heard better things of the newest version, although there's
+         still an element of "Microsoft software has bugs: everyone
+         else has understandable teething difficulties". It's free for
+         Personal Use, and now available in a tangy Windows flavour,
+         as well as OS/2 and that weirdo hippy freeware UNIX-clone
+         thing.
+         http://www.stardivision.com/
+                                         - off to ditch those wizards
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         "sticker-type disposable bras"... Darth Vader: Geek Gone
+         Bad... not quite what LEGO had in mind, part 394 -
+         http://www.legomindstorms.com/mypage/loadRCX.asp?UserID=841&SlotN=1
+         ... pity the fool who don't hack
+         http://www.geocities.com/Area51/Rampart/6331/hackers.html
+         ... notice how faster the Net is when the Yanks are on
+         holiday? could mixing cold remedies be causing ECSTASY
+         DEATHS?... proximity detector also plays Tetris
+         http://www.viktoria.informatics.gu.se/groups/play/ipad/ ...
+         EUROPANTO... why don't they just fork the
+         Op*n S*urce trademark?... and when the football fans have
+         destroyed themselves, we shall TAKE OVER THE WORLD:
+         http://www.geocities.com/Colosseum/Field/6261/ ... KOREA's
+         favourite HTML software: +"illegal copy" +"Namo WebEditor"
+         ..."and what's worse, Michael Parkinson has 'J Fox'
+         disease!"... JACK WOMACK to make comics... CLAIRE RAYNER vs
+         http://wings.motorola.com/uk/js/motorola_microsite.html ...
+
+                               
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> novelty Elvis cover artist The King may help ensure
+         FRIDAY NIGHT'S ALL WRIGHT (10.40pm, Fri, ITV)... BBC2
+         struggles to get through an hour-plus of dance culture
+         without using adjectives "banging", "wicked" in Pete Tong's
+         CLUBLIFE 98 (12.10am, Fri, BBC2), featuring The Prodigy,
+         Fatboy Slim, Massive Attack, and - possibly unrelated - bad
+         language and male nudity... while comic book wannabe DARKMAN
+         (11.40pm, Fri, BBC1) chases Frances McDormand away from Sam
+         Raimi into the arms of - the Coens!... missing Comic Relief?
+         Here's hoping STEPHEN FRY'S LIVE FROM THE LIGHTHOUSE (9pm,
+         Sat, C4) will deliver that tricky mix of bad-taste humour
+         and heartfelt sermonising, including Mel, Sue, and a sort of
+         "Rock'N'Roll AIDS Years" from the folks who brought you
+         controversial Radio 4 comedy quiz, King Stupid... if only
+         those krazy cultists weren't so keen to commit
+         Jonestown-style suicide, ponders WACO: THE RULES OF
+         ENGAGEMENT (10pm, Sat, BBC2), maybe we'd find out if they
+         really are destroyed evidence of CIA mind-control...
+         similar-themed EVERYMAN (10.30pm, Sun, BBC1) and LOCKERBIE:
+         A NIGHT REMEMBERED (7.45pm, Sun, C4) veer towards
+         unfortunate mid-air collision... and too much footie, not
+         enough autism in Nick Hornby's obsessive romance FEVER PITCH
+         (9.30pm, Sun, C4)... "sensationalist tell-all documentaries
+         exaggerate, make things up" reveals sensationalist, tell-all
+         documentary ON AIR: THE TRUTH ABOUT TV (11.15pm, Mon,
+         BBC2)... admit it, you were hoping that Robin Williams
+         vehicle SEIZE THE DAY (10.55pm, Mon, C5) was the Dead Poets
+         Society spin-off TV series, where a different pupil kills
+         himself every week... pointless sci-fi comparisons continue
+         in the "Bionic Woman" series opener of QED (9.30pm, Tue,
+         BBC1)... no obvious explanation for ratings-grabbing star
+         fests STARS IN THEIR EYES CELEBRITY SPECIAL (8pm, Wed, ITV)
+         - Vorderman as Cher - and inverse-sexism charity slave
+         auction MEN FOR SALE (9pm, Wed, ITV)... and, classic nuke
+         comedy status aside, kudos to DR STRANGELOVE (12.05am, Thu,
+         BBC1) and its "no fighting in the war room" humour - for at
+         least partly inspiring hacker fave WarGames...
+
+         FILM>> "It's a competent Elmore Leonard adaptation!"
+         trumpets everyone who cares, but George Clooney, Jennifer
+         "Anaconda" Lopez crime romance OUT OF SIGHT (imdb: murder /
+         jail-break / prison / robbery / bank-robbery /
+         based-on-novel / boxing / diamonds / kidnapping) is written
+         by the guy who did the last "good" Elmore Leonard
+         adaptation, Get Shorty, so be warned...  style wins again
+         over average content as cop shrinks Kevin Spacey, Samuel L
+         Jackson phone-battle to decide who deserves the title THE
+         NEGOTIATOR (imdb: hostage / police) - yet surely they could
+         have been talked out of a 140 minute run-time?... and
+         another well-worn theme, the '70s Jewish family sex/class
+         teen comedy, er, comes of age among the SLUMS OF BEVERLY
+         HILLS (imdb: black-comedy / coming-of-age / sexual / drugs)
+         - it's The Fresh Princess Of Bel Air!... take your pic from
+         the latest wacko Brit-made restricted release romances, with
+         Jude "Shopping" Law's THE WISDOM OF CROCODILES (imdb:
+         vampire) rather darker than alternate Sliding Doors comedy
+         IF ONLY (imdb: also known as The Man With Rain In His
+         Shoes), featuring Charlotte "Marmalade Atkins: The
+         Naughtiest Girl In The World" Coleman, and Notting Hill. "If
+         only men and women were exactly the same", ponders the
+         poster for this one, missing the rather obvious evolutionary
+         reasons why they aren't...
+
+         CONSUMERISM WILL EAT ITSELF>> *two* new instant meal thrills
+         this week, with the long-awaited debut of CROSSE & BLACKWELL
+         NEW YORK TAKE OUT microwaveable frozen noodles, in US
+         TV-style top-opening cartons! Faint bitter odour of hot wet
+         cardboard while cooking (a la microwave french fries), and
+         at UKP1.99, they're replicating both the recognisable
+         flavour of a "real" Chinese takeaway - *and* a substantial
+         portion of the price... clocking in at a more reasonable
+         UKP0.99-1.49 (vegetarian-top predator) are TESCO
+         PASTA/RICE/NOODLE POTS, 350g of fresh carbohydrate with
+         thick, tasty sauces - a real high-end Pot Noodle competitor,
+         though with much-reduced shelf life (4-7 days?)...
+         meanwhile, delightfully named reader JAY GOOBY points out
+         that never-actually-seen-in-America take-out cartons are
+         available from WOK WOK in London's Soho (and possibly other
+         branches) - a matter on which our transatlantic
+         correspondents remain suspiciously, tellingly silent...
+         random, desperate mix-and-matching continues in chocolate,
+         throwing up semi-sickly treats like CADBURY'S NUTS ABOUT
+         CARAMEL, which would be quite pleasant without the nagging
+         doubt that "Nuts In Caramel", or even "Caramel About Nuts"
+         would be a far more accurate description... still, now we
+         know that Mint Crunchies have appeared intermittently since
+         the 1970s, thanks to Nicholas Whittaker's SWEET TALK
+         (Gollancz, UKP16.99), UKP), a largely subjective geek-tone
+         social history of UK confection. Much better on stuff he
+         remembers (1960s onwards), and - fatal flaw - no index!...
+         probably a proper books round-up next time, but also
+         tempting your Amazon account this week: the various TOP
+         SECRET RECIPES ("Kitchen Clones of America's Favourite
+         Brand-Name Foods") by Tood Wilbur (Penguin US, US$10.95).
+         KFC, Egg McMuffins, even Mrs Fields' Cookies carefully
+         reverse-engineered, but obscure US ingredients/measurements
+         made our DIY Mars disgusting... which leaves us with this
+         month's official "taste abomination" award, tied between the
+         self-explanatorily revolting TREACLE TOFFEE ROLLOs and the
+         ill-advised NESTLE TOFFEE CRISPMAS ("Toffee, Crisped Rice
+         and *Spicy Fruit* Filled Milk Chocolate"). Crap name, foul
+         taste, and the pseudo-fascist slogan "The special recipe of
+         Toffee Crispmas is enhanced by Nestle's proud chocolate
+         heritage" gives it a fighting chance: we'll leave it to Bad
+         Candy headquarters http://www.geocities.com/NapaValley/2066/
+         to taste both and decide...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "those two guys on the left" 
+             http://www.citysun.ac.uk/klawler/sp-george/ozzy1.jpg
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+

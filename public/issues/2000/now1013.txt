@@ -1,0 +1,388 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-10-13_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The only thing that prevents people downloading whole
+          movies on the Net is bandwidth in the local loop ... It is
+          not technological issues that prevent it, it is business and
+          political issues which slow it down."
+         - PETER COCHRANE, Chief Technologist at BT
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2637274,00.html
+         ...although we always *say* it's technological problems
+                       otherwise Oftel would - hey, is this thing on?
+
+
+                                >> HARD NEWS <<
+                                carnage ensues
+
+         Stuff the polls, ye sons of freedom! In a week when the
+         www.voteauction.com moved offshore (a site almost as
+         refreshingly honest as the Danish www.theburglar.com , but
+         not quite as mercenary as its sister www.rentasoldier.com ),
+         and George W Bush suggested that the Columbine murders were
+         caused by a child's "heart turn[ing] dark as a result of
+         being on the Internet", it's good to see one US-centric
+         election approximate to decent result. Sure, the ICANN
+         European poll was decidedly bent toward Germany and their
+         candidate, Chaos Computer Club's ANDY MUELLER-MAGUHN, but
+         the surprise hit in the West was KARL "I remember when this
+         was all Arpanet" AUERBACH, who knocked out Lawrence Lessig
+         in the final round. Possibly this was due to his arcane
+         knowledge of pre-IP protocols, but we think mainly due to
+         his incredibly commonsense approach to the whole DNS mess.
+         Like the man says, this Net thing can bear *millions* of
+         TLDs before it falls over, and the only way to smack the 
+         value out of the few we fight over now is by opening the
+         namespace floodgates. 'Course, that's not what the lawyers
+         hired to keep the NSI et al's hoarded domains want to hear.
+         But when they go "wah wah wah, not listening" in future 
+         ICANN discussions, at least there's a chance that the
+         meetings will be open enough for us to hear their wails.
+         http://www.cavebear.com/ialc
+                               - hmm. he does *look* kind of bearish.
+         http://www.iol.ie/~kooltek/
+                                - more polls that don't go as planned
+         http://planetquake.com/politicalarena/
+                                       - we want Karl and Andy skins!
+
+         So, the NTK staff are settling down to watch the Saturday 
+         afternoon transmission of "Team Knight Rider" when, in the 
+         Carlton TV area at least, it's replaced by a kids' gameshow 
+         called SWAP TEAM, where youngsters compete to win a futuristic 
+         currency called SwapIts, in what seems to be a Metal Gear-
+         themed redesign of "The Crystal Maze". Nothing untoward in 
+         that, perhaps, unless these are the very same SwapIts that 
+         are used to broker deals at newly launched toy-exchange site 
+         http://www.swapitshop.com - a suspicion fuelled further by the 
+         appearance of a Swapitshop link on the show's own site, 
+         http://www.swap-team.co.uk/ , and, indeed, a Swapitshop ad 
+         during the half-time break. Might that not be a direct 
+         contravention of the ITC rule that "No undue prominence may be 
+         given in any programme to a commercial product or service" - 
+         whether in the form of conventional programme sponsorship, 
+         paid product placement, or just promising to give them a 
+         mention in return for a pair of boxing gloves and a bike?
+     http://www.itc.org.uk/regulating/prog_reg/prog_code/section_10.asp
+       - Ner-ner ner-ner ner! You've - got - an - undue - prominence!
+         http://www.thetimes.co.uk/article/0,,16012,00.html
+- "We are not in market for hype", says TIMES INTERFACE, in same issue that...
+         http://www.thetimes.co.uk/article/0,,16028,00.html
+- ...an all-in-one fax/copier/printer "could change the way we do business"
+
+         The Observer, 2000-10-08. John Arlidge reports: "Ten years
+         ago Berners-Lee wrote the electronic code that enables
+         computers across the world to 'talk' to each-other down a
+         telephone line. The internet was born and has grown from a
+         single website to more than 800,000,000, with e-commerce,
+         chatrooms and email transforming the way we work, shop, do
+         business, socialise and relax." Okay, we know that sometimes
+         we can be a bit picky about the technical details, so we'll
+         cut this down to one question. Why the quotes around "talk"?
+         Does this mean everything else (like "ten years ago",
+         "electronic code", "down" a "telephone line", "internet was
+         born", "grown from a single website", "more than
+         800,000,000") *isn't* some over-stretched flight-of-fancy
+         metaphor? Or is this weird quotation reversal, whereby
+         actually "talk" is the only word that makes any kind of
+         sense? Yep, it's time for another NTK competition. Send your
+         the "best" "examples" of Internet "explanations" from the
+         "proper" media, and win some kind of "prize".
+         http://www.observer.co.uk/uk_news/story/0,6903,379162,00.html
+                                         - and no cheating, you hacks
+ http://www.guardianunlimited.co.uk/Archive/Article/0,4273,4070482,00.html
+                                           - although mild plagiarism
+http://www.salon.com/business/col/shalit/2000/09/30/olympic_ads/index1.html
+                                                       - is permitted
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         SUNDAY TIMES journalists create creature "97% human, 3% pig":
+http://www.sunday-times.co.uk/news/pages/sti/2000/10/08/stifgnaus01001.html 
+         ... BUDWEISER spam 850 addresses with Blair Witch 2 ticket 
+         offer - by pasting them all into "To:" field. No-one's (yet) 
+         caused endless WHAZZUP? chain by hitting "Reply to all"... my 
+         MIND - is GOING: http://www.ntk.net/2000/10/13/dohhal.jpg ... 
+         THUS Ops manager complains about Scottish connectivity for 
+         FREESERVE: http://x72.deja.com/getdoc.xp?AN=677159239 ... what 
+         about the HUMAN RIGHT not to do *anything* we don't want to? 
+         http://www.shout99.com/contractors/showarticle.pl?id=4574 ... 
+         MP3 NEWS http://uk.fc.yahoo.com/m/mp3.html also includes 
+         updates on Rio Tinto's DIAMOND MINE... http://uk.clust.com/ 
+         product catalogue "goes live in August 2000" - waiting for all 
+         the other buying clubs to go bust at the same time?... FALCO! 
+         http://www.pheasnt.demon.co.uk/MUDGE/ISS25/INDEX25.HTM - who'd 
+         have seen that coming, eh?... http://www.sonypsx2.com/ points 
+         to... http://www.perlscripters.com/ ... MIR to IPO: one market 
+         crash you don't want to see... backwards-compatibility, 
+         MICROSOFT-style: http://www.ntk.net/2000/10/13/IE2_screen.gif 
+         ... children's LAN parties: "there is blood", reports ABC: 
+http://abcnews.go.com/onair/GoodMorningAmerica/GMA001009Computer_parties.html
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         "Is There Anything New About The New Economy?" asks the (sold 
+         out) GUARDIAN UNLIMITED debate on Tuesday, though we reckon 
+         they'd get some rather more radical definitions of the phrase 
+         "new economy" if they asked anyone at tomorrow's ANARCHIST 
+         BOOKFAIR (Sat 2000-10-14, Conway Hall, London WC1). As well as 
+         numerous slickly-organised Powerpoint presentations on direct 
+         action and the like, there's Rob Newman doing some alternative 
+         comedy ("You know the inherently expoloitative nature of 
+         international globalisation? That's *you*, that is"), while 
+         The Stewart Home Society [see NTK 2000-03-31] will attempt to 
+         subvert the subversives by using the event to make "flaming 
+         hats" and "sex dolls" out of bread.
+         http://freespace.virgin.net/anarchist.bookfair/
+           - assuming it's not blockaded by reactionary direct-action
+         http://www.stewarthomesociety.org/
+              - notorious troublemakers (even by anarchist standards)
+         http://www.guardianunlimited.co.uk/neweconomy/
+          - Smartarse answer: "Well, yes - it doesn't make any money"
+
+         Don't you feel oddly violated when the ICA starts digging up 
+         your most precious teenage memories, running a retro arcade, 
+         blathering about how "Computer games are having a pervasive 
+         impact on our culture", and making you want to visit their 
+         stupid GAMES - INTO THE REAL conference (10am, Sat 2000-10-14, 
+         London, UKP16) just to shout "No, games AREN'T cool - not 
+         compared to the things I really did think were cool back then, 
+         like Iron Maiden" in their goateed new-media faces? Anyway, 
+         because they're looking at "work which originated from or was 
+         influenced by computer games developments", there won't even 
+         be any real programmers there, though the usual roll-call 
+         includes the lovely JC "Joystick Nation" HERZ (like all three 
+         "Bits" presenters rolled into one), EDWARD "Playing Fields" 
+         WATSON, and famed publicity-shy recluse PETER "ex-Bullfrog" 
+         MOLYNEUX. 
+         http://www.ica.org.uk/newmedia/games/
+         -  "composer of the music for Tomb Raider 1-3". Ta-da-DAAAA!
+         http://www.ica.org.uk/talk/111179/
+    - though Matt "Yahoo Serious" Jones recommends John Maeda, on Thu
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         What we should be doing this week is an in-depth review of
+         BIND 9's new security features (with nifty DNS-based
+         distributed key management) and Python 2.0b1 (with nifty new
+         licensing). But instead, we'll just offload a backlog of
+         Palm goodies, in the somewhat desperate hope that you
+         haven't all traded them in for iPAQs yet. First up: the
+         continuing saga of IMETRO, the underground route planner that
+         includes every tube from Newcastle to Kyoto. Still has some
+         weird bugs in it - NTK's Silicon Valley offices are nine
+         minutes away from Berkeley, somehow - but probably worth the
+         download in beam-trading potential alone. And for those of
+         you who crave more Web-page-grabbers, and have already eaten
+         up all the sites accessible via SITESCOOPER (the *official*
+         NTK ripper), you might want to experiment with MALSYNC, an
+         AvantGo compatible conduit for Unix, or the more general
+         PLUCKER HTML reader which has been around for yonks and
+         works on Windows and OS/2. Unless you're too busy playing
+         with the multiple processor capabilities of Bind and porting
+         all your old lisp code to Python, you big fat geek
+         show-offs.
+         http://sitescooper.org
+           - hey, stick us in your man page and you'd be official too
+         http://plucker.gnu-designs.com/
+                       - so many grabbers, so few synonyms for "grab"
+         http://home.worldnet.fr/~patriceb/Technique/iMetro/Metro-en.html
+                                                - le metro est arrive
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         scary new candidate for seven-headed BEAST OF REVELATIONS: 
+         http://darryn-reeds.tripod.com/S-Club-7-secrets.html ... JULIE 
+         "First Tuesday" MEYER not the unfeeling Randian we implied: 
+         http://users.ap.net/~sheva51/memory.html#m-o ... IDLER imitate 
+         ONION: http://www.idler.co.uk/pc/html/dotcom.html ... BLAIR 
+         WITCH SCHOOL PROJECT: http://surrealist.custard.org/lego/dead/ 
+         ... foul language, body piercing, killing Christ - it's THE 
+         BIBLE: http://shanmonster.bla-bla.com/rants/rant61b.html - vs 
+         http://www.jokesonline.org/ ... never "show your working" 
+         again: http://www.cecm.sfu.ca/projects/ISC/ISCmain.html ... 
+         NIELSEN RATING: X - http://www.oasisproductions.net/jake/fear/ 
+         ... http://www.whitelead.com/jrh/screenshots/ - SimDiana, 
+         SimRodneyKing... new AIBO is PROGRAMMABLE UPSKIRT CAMERA: 
+         http://www.aibo-europe.com/en/features/index03.html ... life 
+         imitates TVGOHOME: http://www.365television.com/production/ 
+         ... well, they sound just like typical ORACLE 8i applications 
+         to us: http://www.ora.com/news/feuerstein_1000.html ... and 
+         finally: that's no copyright symbol - it's an EYELESS SMILEY!: 
+         http://freespace.virgin.net/nigel.ayers/eyeless.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> exactly a year since its last showing, goof-riddled Bond 
+         yawn TOMORROW NEVER DIES (8.55pm, Fri, ITV) goes up against 
+         equally flawed HIGHLANDER II: THE QUICKENING (10.30pm, Fri, 
+         BBC1)... C4 steals the baton of Stuart Maconie's retro clip-
+         shows back from the BBC's "I Love The '70s/ '80s", with a run 
+         of four year-specific TOP TEN shows (9pm, Sat, C4), starting 
+         with 1990... and, after last week's "The Specialist", this 
+         week's Saturday night ITV "mad bomber" flick is the wildly 
+         confusing SPEED 2: CRUISE CONTROL (9pm, Sat, ITV) - followed 
+         by hotly unawaited Denis Leary/ Sandra Bullock love-on-the-run 
+         rom-com STOLEN HEARTS (11.20pm, Sat, ITV)... BBC2 acquires 
+         staggeringly badly-animated Sky1 refugee ROSWELL CONSPIRACIES 
+         (10am, Sun, BBC2)... hopefully Robert "The Human Body" Winston 
+         will be using a sufficiently vague definition of SUPERHUMAN 
+         (9.10pm, Sun, BBC1) to include Kevin Warwick... pitting BBC1's 
+         first-ever "News At Ten" in a cut-throat ratings battle with 
+         undifferentiated martial arts Bond knock-off JACKIE CHAN'S 
+         FIRST STRIKE (9pm, Sun, C5) and Woody Harrelson's porno-biopic 
+         THE PEOPLE VS LARRY FLYNT (10.10pm, Sun, C4) - latest in the 
+         epic saga of "Vs" films that began with "Kramer Vs Megalon"... 
+         Sky1 are currently repeating the most recent BBC2 SEINFELD 
+         episodes at the almost-less-contemptuous time of 3am in the 
+         morning... the BBC's "Webwise" campaign staggers on, with the 
+         baffling http://www.bbc.co.uk/webwise site accompanied by 
+         Vanessa Feltz's NET RESCUE (2.55pm, Mon-Fri, BBC1) and another 
+         beardie Bill Thompson TOMORROW'S WORLD WEBWISE (7pm, Wed, 
+         BBC1) - nicely counterpointed by ROBOCOP (10.15pm, Wed, C5), 
+         even if ITV has already shown it twice in the last 6 months... 
+         if you're posting comments like "Why are they suddenly all 
+         talking with American accents and fighting lame CGI aliens?", 
+         that's because you're watching MEN IN BLACK (8.30pm, Tue, 
+         BBC1) instead of ATTACHMENTS (9pm, Tue, BBC2)... and it's 
+         boffin-vs-boffin on Thu, as Clive Sinclair tries to win back 
+         the R&D budget for future UK PC innovation in a new series of 
+         LATE NIGHT POKER (12midnight, Thu, C4), and nuclear explosions 
+         cause instant global warming in black-and-white suspenser THE 
+         DAY THE EARTH CAUGHT FIRE (12.50am, Thu, BBC1)... 
+         
+         FILM>> there's only one place we want to see that "Stuart 
+         Little" mouse guy, and that's in Tom Green's mouth - put on 
+         your best Atari T-shirt for "American Pie"-style proctological 
+         odyssey ROAD TRIP (http://www.cndb.com : [Amy Smart] take her 
+         top off: she hasn't very big tits but she's wonderful; Hot 
+         Scene! A must if you love tiny perfect breasts!; Interestingly 
+         the director intended this scene to be the modern version of 
+         Phoebe Cates' classic topless walk in Fast Times at Ridgemont 
+         High - it doesn't even come close)... doesn't seem to be any 
+         extra footage in this DVD-promoting re-release - like you need 
+         an excuse to re-recite all the dialogue to THIS IS SPINAL TAP 
+         (imdb: docu-drama /parody /spoof /heavy-metal /urban-legend 
+         /independent-film /spontaneous-combustion /fake-documentary 
+         /washed-out /fictional-band /music)... Disney combine "Walking 
+         With Dinosaurs" and "The Lion King" in CGI-animated historo-
+         travesty DINOSAUR (http://www.capalert.com : since the period 
+         of Dinosaur is between Creation and the Garden of Eden, no one 
+         knows for sure how predator/prey aggression manifested itself, 
+         if at all; this movie may challenge or complicate your young 
+         child's separation of fantasy and reality, [...] especially 
+         when they try to separate fact from fiction with regards to 
+         the theory of evolution)... Jet-Li doesn't exactly come across 
+         as a younger, sprightlier Jackie Chan in straight-to-video-ish 
+         pseudo-Hong-Kong wirework actioner ROMEO MUST DIE (imdb: afro-
+         american / body-landing-on-car / chinese-american / helicopter 
+         / jailbreak / gang / interracial-romance / hong-kong / san-
+         francisco / impalement / interracial / x-rayed-skeleton / 
+         chinese-mafia / video-game / asian-american / amazing-grace-
+         hymn / betrayal / desert-eagle / martial-arts / real-estate / 
+         murder / revenge)... and not much mirth, oddly, in tragic-love 
+         period drama THE HOUSE OF MIRTH (http://www.bbfc.co.uk: Passed 
+         'PG' for mild language, violence and drugs use): Dan Aykroyd, 
+         Gillian "X Files" Anderson, and fellow ginger Eric Stoltz - 
+         together at last!...
+         
+         FEAR OF A BLANK NAPSTER>> obviously the time comes when you've 
+         downloaded every record you ever owned (or wanted to own) (or 
+         just heard on the radio) (or whatever), so we've taken to 
+         populating our "Hot List" with tracks that either weren't 
+         released over here, or no-one heard of them when they did: 
+         BELLATRIX's "Jediwannabe" - the Icelandic Star Wars-themed 
+         hybrid of Hole's "Celebrity Skin" and Amii Stewart's "Knock On 
+         Wood"; BT's ranting big-beat workout "Never Gonna Come Back 
+         Down" from the soundtrack of "Gone In 60 Seconds"; DYNAMITE 
+         HACK's acoustic cover of NWA's "Boys In The Hood"; and, in the 
+         retro dept, BILLY BRAGG's 1986 B-side spoken word version of 
+         "Don't Walk Away Renee". Oh, and if you want to hear ROBBIE 
+         WILLIAMS say "sodomy", you need the 4:45 version of "Kids" - 
+         not the 4:46 version from Kylie's album or the 3:32 edit from 
+         what seems to be the US release... speaking of censorship, 
+         it's a fine line between sexism and sexy: GEORGE OVERTON noted 
+         that CYPRESS HILL "aren't allowed to say 'bitch' in their vid 
+         of 'You Can't Get the Best of Me'", despite MEREDITH BROOKS 
+         having had a major airplay hit in 1997 with a song with 
+         "Bitch" as its title... Top Of The Pops didn't bleep Ali G's 
+         "punani" from the beginning of MADONNA's "Music", even though 
+         MTV did, implying that you need a certain degree of MTV-
+         viewing sophistication to be offended by it... while MATHEW 
+         "KUJI" BEVAN enthused that Radio 1 left "the umpteen 'Shit's 
+         in" EMINEM's ace "Stan" (sample comes from Dido's "Thank-You", 
+         3:45, not as good), even when playing at 10am - yet alleged 
+         that MTV cut the word "trees" from WYCLIFFE AND THE ROCK's "It 
+         Doesn't Matter", suspecting "garden full of trees" to be an 
+         oblique drugs reference. He found the track's computer voice 
+         saying 'It doesn't matter' "awfully reminiscent" of "the Amiga 
+         speech synthesiser"... his mind warped by endless analogies 
+         between our modern internet and the Victorian telegraph, TOM 
+         STANDAGE proposed a variation on our usual soundalikes game, 
+         arguing: "Lots of TV ads were obviously storyboarded with a 
+         particular track, but when it came to getting permission to 
+         use it, it was either too expensive or refused altogether. So 
+         then the agency gets someone to throw together a similar-
+         sounding rip-off at the same tempo that sounds the same to the 
+         suits anyway". He cites such well-researched examples as "some 
+         crappy car ad that was obviously supposed to have 'Kashmir' 
+         (or PUFF DADDY's version thereof) but now has a rip-off 
+         version instead; a cosmetics ad that used to have FIONA APPLE 
+         but now has an imitation; and - well, no doubt you know of far 
+         more examples than I do". Well, not off the top of our heads, 
+         Tom, but we're open to suggestions - this could be the new 
+         playing "Dark Side Of The Moon" over "The Wizard Of Oz"!... 
+         and finally, Idler regular MATTHEW DE ABAITUA spotted child 
+         techno-prodigy DANIEL PEMBERTON [see NTK 2000-09-08] "at this 
+         year's Big Chill, gadding about clad in a white boiler suit, 
+         decorated with hand-stencilled Ghostbusters logo. His DJ set 
+         brought much-needed humour to the peaceful yet somewhat 
+         earnest festival. When he fluffed a mix, he leapt three feet 
+         in the air and yelped like a startled comedy cat". Have *you* 
+         witnessed Daniel Pemberton - or Toby Slater, or David 
+         McCandless even - in a novelty DJ performance, while dressed 
+         as a 1980s film character? If so, let us know - we're ready 
+         to believe you...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+    "popular in the smoking carriage of the 08:59 to Birmingham New Street" 
+         
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

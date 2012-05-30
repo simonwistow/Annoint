@@ -1,0 +1,338 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-01-15_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+
+         "I'm an object, too, so people project their own fantasies -
+                     'the most powerful woman on the Net' - on to me."
+                                                - Esther Dyson
+                http://www.independent.co.uk/net/990111ne/story1.html
+               ...although it's mostly just Dyson/Gates slash fiction
+
+
+                                >> HARD NEWS <<
+                                  free to use 
+
+         If there's no such thing as a free lunch, how come everybody
+         wants in? FREESERVE continues to jerk the chain with Dixons'
+         announcement of 900,000 accounts - over half of which are being
+         used! - although Dixons chairman Stanley Kalms didn't say it
+         with the hugest of grins. Perhaps that deal with Energis
+         (you get the interconnect charges: we'll take the ad
+         revenue) wasn't the corker he imagined? AOL, who months ago
+         were boasting of their 500,000 figure, now say they've found
+         some hiding under the servers, and really have a million 
+         customers, because after all, each household can have more
+         than one e-mail address, right? And that scary ghost-woman
+         off the telly ads, she counts too. AOL also sniped 
+         that Freeserve's figures were "disingenuous", which implies
+         that they don't know what that word means. We couldn't
+         confirm several reports that AOL/COMPUSERVE are misleading
+         wavering users with "Freeserve about to announce charges"
+         claims - although our test unsubscriber seemed very pleased
+         with the *two* free months she was bribed with - free ISPs
+         everywhere! Unpleasantly needy BRITISH TELECOM, meanwhile,
+         are asking Oftel for a bigger cut of the interconnect
+         charges "to support the cost of the local loop". Ah, yes,
+         that publicly-subsidised wire into everyone's home - what
+         an albatross around the neck that must be. Of course, poor
+         as an orphan child and straddled with restrictive Oftel
+         controls as it is, BT would never co-operate on implementing
+         a free Internet service themselves - or would they, TESCO.NET?
+         http://www.freeserve.net/
+                             - our prediction: everybody free by 2000
+         http://www.btinteractive.com/pr.html
+                                    - followed by the xDSL apocalypse
+         http://www.tech-info.freeserve.co.uk/
+                                               - tips for cheapskates
+        
+         Nice to see Librettos being put to better use than as
+         portable Quake-stations: last Monday, RODDY MANSFIELD and
+         his associates from the video newszine UNDERCURRENTS
+         barricaded themselves into Shell's London offices to protest
+         the company's mistreatment of the citizens of the Niger
+         Delta. Hours later they were forcibly expelled by police,
+         who smashed through partition walls to arrest them. Despite
+         Shell cutting off light and electricity, the team managed to
+         issue press releases and photos via the 133Mhz Tosh, a
+         cellular modem and digital camera. It's a hack that could
+         have wider applications. As previous Undercurrents docs have
+         shown, Police officers at protests have taken to arresting
+         legitimate videojournalists. After being released without
+         charge, their tapes are returned too late for mainstream
+         news programmes to use. In some cases, the police actively
+         erase footage. Now, hardware hacker that you are, you'll
+         realise that a handheld videocam feeding into a digitiser,
+         broadcasting via a line o' sight link (2500MHz? 1900MHz?) to
+         a mobile archive centre would provide these impromptu
+         censors - and us eager Max Headroom fans - with... well,
+         must-see TV. Think you'd like to help develop such a
+         monster? Give our operators a bleep. 
+         mailto:stef@spesh.com
+                   - unconnected with undercurrents, we hasten to add
+         http://www.kemptown.org/shell/pictures.html
+                  - but, you know, if we do come up with anything 
+         
+         And finally - a moment's silence, please for what must be
+         the Falco du Falco. As of this Thursday, ACORN COMPUTERS is
+         no more. In a statement to the press, the Acorn board
+         (Hermann Hauser, Lesley Judd, Ian Macnaught-Davies, and
+         Commander Jameson off of Elite) declared that "the brand
+         values associated with Acorn are no longer an accurate
+         reflection of the work that we are undertaking", and a new
+         name was needed. And here it is: Element 14. Brand values
+         associated with this new title are: confusion, discord,
+         Milla Jovovitch, and barely restrained giggling. Element 14
+         will concentrate on the Digital TV market. The symbolism,
+         you understand, is from Silicon, which is the fourteenth
+         element. The name does not derives from the fact that
+         Acorn's new boxes run like they're powered by fourteen Acorn
+         Electrons. Show some respect.
+         http://www.e-14.com/
+                                             - but you can call me Si
+         http://www.ntk.net/index.cgi?back=a98/now0213.txt&l=306#l 
+                     - I know I keep asking this, but what's a Falco?
+        
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+ 
+         Web tips from the GUARDIAN EDUCATION SUPP 1999-01-12
+         "Warning: keep images small and only use 1 or 2 per
+         page."... number of images on new Guardian front page:
+         sixteen... PRINCESS DIANA's face patented (hope the plastic
+         surgeons got a royalty too)... PUBLIC ENEMY release new
+         single as "MP4" (one louder, we take it) - live up to name
+         by including virus in executable... ANSWER ME's Jim Goad
+         gets three years... shit hits the ION STORM:
+         http://www.dallasobserver.com/1999/011499/feature1-1.html
+         Dublin band calls itself "Workstation"... ANNALS OF
+         IRREPRODUCIBLE RESULTS declares the official Y2K scapegoat
+         to be: Bill Gates (runners up Jesus and Pope Gregory) ...
+         it's grim up North - but not *that* grim
+         http://www.ntk.net/doh/bbc990113.html ... BUGNET withholds
+         1998 bug-free award, says all software is "abysmal",
+         especially Windows... JAMES CAMERON says films not making a
+         profit so they should double ticket prices... cypherpunks to
+         kidnap that Irish girl, shotgun-marry her to
+         http://news.bbc.co.uk/hi/english/sci/tech/newsid%5F145000/145179.stm
+         (btw, mind you, at least she's onto something -
+         http://jya.com/flannery.htm for details)... SLATE classes
+         itself, as "office supplies" on credit card invoice -
+         http://www.ntk.net/doh/slate990115.gif - isn't that what
+         they put porn sites under?
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         They say his hatred of Microsoft dates from the day Bill
+         Gates humiliated him at a developer conference after he
+         asked an innocent question from the floor. Now ERIC RAYMOND,
+         editor of The New Hacker's Dictionary, author of The
+         Cathedral And The Bazaar, Neo-Pagan, Anarchist Wacko and
+         Saint, will be taking *your* questions - and because of our
+         tyrannical gun laws, he'll be unarmed. Will Bill take this
+         brief window of opportunity to hit back? Or will Mr
+         Raymond's mastery of the ancient art of Tae Kwon Do protect
+         him? Find out, by not paying Netproject's 300UKP, and going
+         instead to the London Commonwealth Conference Centre in
+         Kensington, London, at 1915GMT, 1999-01-20, where the London
+         Unix User Group are exhibiting him for free.
+         http://www.ukuug.org/lugs/erluug.shtml 
+         - as in speech, not as in beer. well, unless you're buying
+         http://www.netproject.com/ 
+         - get your company to pay. that's how free software works
+
+         Post-consumer sarcastic man-children LEE AND HERRING return
+         to our Sun am TV consciousness in March, but genuine stalker
+         obsessives can catch their live practice runs at the
+         Riverside Studios, Hammersmith, London at 5pm Saturdays from
+         tomorrow (1999-01-16) - and yes, you even have to pay for
+         it. Further details are at the self-explanatory "Lee And
+         Herring Web Pages", along with 30 mins of exclusive
+         out-takes from the last series, including unseen editions of
+         "Pause For Thought For The Day", "When Insects Attack", "The
+         School", and "Histor's Eye" - the absence of which,
+         admittedly, was one of the highlights of the last live one
+         we went to.
+         http://www.leeandherring.com
+                     - "quick before I'm told to take it down again!"
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         A couple of "not ready for prime time" tools for you this
+         week. We've mentioned Windows shell replacements before (in
+         the form of market leader LITESTEP), but for those of you
+         with a yen to sample, say, an OpenGL desktop that throws old
+         windows ten inches *behind* the screen, or - blasphemy of
+         blasphemies - a port of Enlightenment for Windows, Floach is
+         your place to visit. All beta code, all rather silly. Begone.
+         http://floach.pimpin.net/
+              - the bigger the screenshot, the longer the time wasted
+
+         Not sure about this one, but it squeaks in by virtue of
+         being a Plucky British Startup. It's a Windows only GIF/JPEG
+         optimiser that operates in a sensible, backgroundy way
+         (automatically refreshing GIFs from changed Photoshop files,
+         semi-automatic cutting-up large images to form mosaics for
+         HTML tables, etc). The authors say they're keen for
+         suggestions: we'd humbly suggest losing the complex
+         crippleware registration, dropping the price big time,
+         porting it to the Mac, and perhaps including some actual 
+         pictures on the perversely textual Website. Moan, moan, moan.
+         http://www.ignite-it.co.uk/
+         - "More GIFs" "Better off on the Mac" - what *are* we saying?
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         MOZILLA stumbles - http://www.mozilla.org/status/ ... BT
+         ADSL trial extended to July - AAARRGH! ... an ICQ->E-mail
+         gateway? How sick is that? ... PRODIGY users "used to stick
+         gaffer tape on monitors to mask the 'new' banner ads" -
+         allegedly... friendly new HSBC name for Midland stands for
+         Gibsonesque HONG-KONG SHANGHAI BANKING CORPORATION... it's
+         an EC directive that cosmetic ingredients have to be listed
+         in LATIN... Swamp Thing artist JOE ORLANDO dead (but did
+         they find the body?)... "It takes approximately 25 min to
+         download the MPEG video demonstration" -
+         http://www.dog-diaper.com/ ... emote, Darwin, emote!
+         http://paradigm.soci.brocku.ca/~lward/DARWIN/DARWIN00.HTML
+         ... what is Stephen Wolfram *up* to?... you know the joke
+         already http://www.specialeditioncigars.com/ ... inevitably,
+         http://www.studiocreations.com/trooperclerks/ ... GEORGE
+         COSTANZA to visit VOYAGER... "taking the guesswork out of
+         nuclear terrorism", writes our contributor:
+         http://www.pbs.org/wgbh/pages/amex/bomb/sfeature/blastmap.html
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> if out-of-nowhere TOP OF THE POPS (7.30pm, Fri, BBC1)
+         presenter Kate Thornton looks vaguely familiar, it's 'cos
+         she also "presents" C4's nauseating cookery Blind Date clone
+         DISHES (6pm, Thu, C4), and appeared on LWT's yoof issues
+         show, Straight Up, with a looky-likey of Brit uber-hacker
+         Simon Gardner... giant computerised building goes mad,
+         imprisons Paul "Aliens / Mad About You" Reiser in derivative
+         '90s disaster sci-fi THE TOWER (12.35am, Fri, some ITV)...
+         but it whiles away the hours waiting for the repeated,
+         predictable but cute, birthday party episode of top geek
+         sitcom DWEEBS (4.40am, Fri, C4)... ANIMAL MINDS (6pm, Sat,
+         BBC2) presents a largely uncritical view of non-human
+         "intelligent" behaviour - not a million miles away from
+         BBC1's concurrent GENERATION GAME... but THE NATURAL WORLD
+         (5.55pm, Sun, BBC2) restores some balance by exposing the
+         darker side of those evilly grinning dolphins... caution:
+         PROJECT ALF (5.20pm, Sun, C5) is the feature-length ET-style
+         spin-off of the muppetty TV show... while this dedicated soul 
+         http://www.peejo.demon.co.uk/lattara/nudity/0698.htm has
+         saved you the trouble of watching Anna Friel's dark, erotic,
+         repeated drama THE TRIBE (11.05pm, Sun, BBC2)... the "Better
+         Than Life" episode of RED DWARF (9pm, Mon, BBC2) is not
+         based around what Craig Charles said when he got off on that
+         rape charge... "How Come I'm Appearing 'Naked' Again In GQ?"
+         is unlikely to be among Gail Porter's contributions to HOW
+         II (4.50pm, Tue, ITV)... and "no crypto system is completely
+         unbreakable" is the hidden message of four-part
+         Enigma-breaking Bletchley Park docu-drama STATION X (9pm,
+         Tue, C4)... SEINFELD / SANDERS (from 11.10pm, Tue, BBC2) pop
+         up unexpectedly: catch them before they're "disappeared"
+         again... a meek student visits a parallel universe where
+         Rutger Hauer is still making zany sci-fi trash in
+         CROSSWORLDS (9pm, Wed, C5)... mad (even by Chris Morris
+         standards) ambient sketch show BLUE JAM returns, boldy ahead
+         of the 2am watershed (12midnight, Radio 1, Wed)... and
+         fortunately BLOOD ON THE CARPET (9.50pm, Wed, BBC2) is the
+         story of how beardie-weirdie ice-creamers Ben & Jerry took
+         on Haagen-Dazs, and not the name of one of their new
+         flavours...
+
+         FILM>> take up cinema's invitation to MEET JOE BLACK (imdb:
+         comedy / romance) and, after the first hour or two, you
+         really will be yearning for death's sweet embrace; it's yet
+         another overlong Brad Pitt vehicle where he plays the Grim
+         Reaper like Data out of Star Trek, and falls for Claire
+         Forlani, the girl who once asked Colin out in Press Gang...
+         so, worth tracking down THE OPPOSITE OF SEX (imdb: aids /
+         ashes / gay / road / sex) - The Opposite Of Widely
+         Distributed, more like - largely for Christina Ricci and
+         Lisa Kudrow punching up this patchily misanthropic designer
+         indie... else it's three films dealing variously with
+         improbability - appropriate given your chances of finding a
+         cinema showing them... Larry "Seinfeld" David's
+         mean-spirited fruit-machine payout-sharer SOUR GRAPES (imdb:
+         comedy)... interlinking Czech-made post-nuclear portmanteau
+         THE BUTTONERS (imdb: coincidence / episodic /
+         short-stories)... and Evil Dead-style over-grossing crime
+         thriller DOBERMANN (imdb: gangster) - not based around the
+         Sgt Bilko character of the same name... 
+
+         MAGS>> double FALCOOOO! for superlame men's mag DELUXE (as
+         predicted NTK 1998-04-10, 1998-10-23) and - perhaps more
+         surprisingly - established gadget-pornster STUFF, leaving
+         Dennis Publishing's non-computer division with just MAXIM
+         and, er, HOME ENTERTAINMENT... our analyst blames "TV babe
+         tits fatigue", with Maxim, FHM and Loaded all losing
+         circulation here, which FHM and Loaded (and the resurrected
+         Stuff) hope to revitalise with upcoming US launches...
+         taking transatlantic inspiration the other way, EMAP's
+         foolhardy attempt to do a UK Entertainment Weekly will be
+         called HEAT (due Feb), prompting NTK contrib Lloyd Wood's
+         tagline: "Burn it for fuel"... meanwhile FRONTIERS
+         charitably puts "Tomorrow's World" in big letters on its
+         cover to both pay tribute to its deceased BBC Magazines
+         rival, and to con bemused mums into buying it by accident...
+         and no, that's not NTK ed Danny O'Brien posing with the
+         nekkid ladies on the latest DAZED & CONFUSED... newsgroup
+         gossip on the OFFICIAL PLAYSTATION MAGAZINE Rollcage compo
+         is that 23.10 is the time to beat; sources recommend a
+         "250kph start" and a "good line onto beach"... buying the
+         special Star Wars edition of VANITY FAIR reveals both the
+         identity of the mystery thing on George Lucas's knee, and
+         that the more you see of this new prequel, the worse it
+         looks... but mag of the month goes to HITS MONTHLY (UKP2.50)
+         who, in a bizarre double CGI-insect movie merchandising
+         coup, devote their Jan issue entirely to Antz *and* A Bug's
+         Life, with box-office battling stickers, posters, spotter's
+         guides to real insects, and cast list filmographies
+         obviously pasted (ahem) straight from the Internet Movie
+         Database, right down to the ordinal numbers and quotes
+         around TV shows: David Hyde-Pierce - 8."Frasier" (1993)
+         9.Sleepless In Seattle 10."Powers That Be, The" (1992)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+        It is registered at the Post Office as "I think this means us" 
+         http://www.uexpress.com/ups/comics/cl/strips/cl9812291854.gif
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

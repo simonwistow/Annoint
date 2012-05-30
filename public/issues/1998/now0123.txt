@@ -1,0 +1,343 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____23/01/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "[It] is not amusing, it's stalking and the kind of bonehead
+         behaviour that disfigures the Net."
+              - tgreen@cix.co.uk fights back at NTK's Winder-baiting
+                                    well, two out of three ain't bad
+
+
+                               >> HARD NEWS <<
+                                   gumshoes
+
+         Trapped in a corner of the doomed browser complex, the
+         decimated NETSCAPE troops argue futilely over tactics
+         against the spreading Explorer nest. Unable to take it any
+         longer, Netscape sales guy FRANK HECKER blurts it out "I
+         say we take off and GNU the entire code from orbit!" A
+         crazy idea - so crazy that only Hecker and the hardcore
+         Linuxen at www.slashdot.org were even considering it. But
+         the Netscape board listened - and now they're handing out
+         the entire source to Netscape Communicator 5.0 (with
+         minimal copyright) to anyone who wants in. From March, if
+         you have a C++ compiler, a *very big* compile machine, and
+         a few hours to wait for the builds, you too can play
+         around, fix bugs, add features, and customise Netscape's
+         browser all to hell. The source will be collated and then
+         redistributed by Netscape (who will then presumably plug
+         all the proprietary code, like Java and RSA stuff, back
+         in). And once we've done that, all of us working together
+         for the common good, we can climb into these big Gnuscape
+         exoskeletons we've built and go kick Gates' ass. Or that's
+         the plan. So only question we're left asking is: Is this 
+         going to be a standup fight, sir - or just another bughunt?  
+         http://www.netscape.com/newsref/pr/newsrelease558.html?cp=nws01flh1
+         - In case you haven't been paying attention to current events, 
+                                  we just got our asses kicked, pal!
+         http://www.openscape.org/
+                        - Oh you want some too, do you? Huh? Do you?
+         http://people.netscape.com/hecker/
+            - he can't make that kind of decision, he's just a grunt
+         http://www.gnu.ai.mit.edu/philosophy/free-sw.html
+            - Oh, I get it. They're from that "Aliens". And this Gnu thing?
+         http://www.slashdot.org/slashdot.cgi?mode=article&artnum=499
+                    - they had the skinny; they wear the scoop crown
+
+         NEW SCOTLAND YARD's Vice Squad made another well-researched
+         foray into Net legislation with the successful prosecution
+         of a Net porn site owner under the Obscene Publications Act
+         at Preston Crown Court. Well, successful in the sense that
+         the man pleaded guilty and may well go to prison. Slightly
+         less successful was the spin taken by Superintendent Martin
+         Jauch, who, according to the police press release, claimed
+         the result showed "a hypertext link on the Internet
+         constitutes a publication for the purposes of the Obscene
+         Publications Act." That's to say, if you *point* to a page
+         that is viewed as obscene, you *yourself* are publishing
+         it. Yahoo and AltaVista should expect the knock on the door
+         any minute now. Footnote: At a conference a year ago, Mr
+         Jauch said that he was not an expert on the Net, but that
+         this did not matter in enforcing the law.
+         http://www.ntk.net/hyperlinks/ - the press release
+         http://www.teleport.com/~room101/badthing/police.htm
+                                                - an inexpert writes
+
+         At last, someone's found a way to make money out of Net
+         publishing. When former AMIGA POWER staffers Stuart
+         Campbell and Jonathan Nash stuck their "AP2" tribute page
+         online, they must have worried that it would be of little
+         interest (or comprehensibility) to non-readers (or non-
+         staff) of the deceased Future Publishing mag. Thrillingly,
+         they then discovered their entire site - an estimated
+         200,000 words - on the cover CD of the current issue of
+         EMAP's CU AMIGA magazine, still containing both their
+         copyright symbols and the unusual claim that "CU Amiga
+         sucks dogs' cocks in hell". Hurry if you want a copy, as
+         the authors believe they may be able to: a) sue EMAP for
+         two person-years of writer's salaries; and b) get CU Amiga
+         injuncted off the shelves. Uberfreelancer Campbell sounds
+         more than capable - only this week, he apparently came
+         within 14 hours of "sending the bailiffs round" to the
+         offices of Edge for late payment on a game review.
+         http://www.cu-amiga.co.uk/cucd/index.html
+             - whatever happened to that Amiga public domain spirit?
+         http://prim1.aqcom.com/ap2/comments/footnotes/good_news.html
+         - yes, piracy is *wrong* (well, when it's companies doing it)
+
+         In other news, blah blah blah Microsoft blah blah
+         Department of Justice blah blah blah settlement. Blah blah
+         Microsoft will remove browser from Windows 95 installation
+         CD-ROMs after they said it was blah blah [EXPLETIVE
+         DELETED] impossible. Blah blah spokesman said rest of case
+         blah blah unchanged. Microsoft continued to claim blah
+         Special Master Lessig blah blah caught dancing in ladies
+         garments blah blah tattoo of Marc Andreessen underneath
+         blah blah possible impeachment.
+         http://www.theonion.com/onion3302/index3302.html
+         - better jokes at the Onion, as ever:
+         MICROSOFT SIGNS JUSTICE ATTORNEY TO $350 M ENDORSEMENT DEAL
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         Microsoft to buy BT rumour "bollocks"... Birt says "BBC
+         will strive to bring the benefits of the new technologies
+         to every home in the land"... same day, beeb.com sends 5
+         copies of spam to all subscribers... Wired 6.2 raves about
+         Wit Capital Corp, turns out Wired Ventures part-own it...
+         same week, wired.com spams ad for Wit to all its
+         subscribers... at last, a techno mix of Bittersweet
+         Symphony... whatever happened to FLAMINGO, VNU's answer to
+         "Stuff" magazine?... new US TV game show will feature
+         "opening CD wrappers, jumping over puddles" as contests...
+         www.rant.co.uk gone "biweekly"... Future Publishing being
+         sold - FUTURENET looking shaky?... STARSHIP TROOPERS spin-
+         off single due Feb, features Sarah Brightman... DRUDGE
+         fights claims he is illiterate gossip-monger who got lucky,
+         says "I have an incredible level of credibility"...
+
+
+                              >> EVENT QUEUE <<
+                 there's more to outside than the newsagents
+
+         The gene for DNA-hacking gets *fully* expressed at the ICA
+         tomorrow (24/1/98), when straight-down-the-line Darwinians
+         Helena Cronin and Lee Silver (the geneticist who, in an
+         unguarded moment, told the NY Times that "all of science
+         fiction is true") battle it out with sceptical Steven and
+         Hilary Rose (no relation), and disabled campaigner Tom
+         Shakespeare. Steven "Language Instinct" Pinker will also be
+         speaking, presumably in a creole of his own devising. The niche
+         they fight for is called EVOLUTION REVOLUTION, and tickets are
+         available from the ICA box office at 0171 930 3647.
+         www.amazon.com/exec/obidos/subst/excerpts/dab/0195120353.html
+                                    - my meme's nicer than your meme
+         http://www.redpepper.org.uk/xcronin.html
+                                   - my meme can beat your meme easy
+         http://www.redpepper.org.uk/xrose.html
+                        - yeah? well your meme wears nazi army boots
+
+         Although their own site denies it (citing "turmoil in European
+         legislation"), we firmly believe next week to be that of the
+         AMUSEMENT TRADES EXHIBITION INTERNATIONAL at Earls Court,
+         London, 27-29/01/98 - a world of not just arcade coin-ops and
+         "cabinets", but also "dark rides", "pushers", "cranes" and
+         "redemption" (which means machines with tickets that you swap
+         for prizes, rather than the Christian concept of deliverance
+         from the bondage of sin). It coincides - perhaps too
+         conveniently - with the LONDON PARKS & ATTRACTIONS trade event
+         next door - featuring "all aspects of park attractions and
+         major rides." Fountains? Slides? Rollercoasters? Benches?
+         http://www.eco.co.uk/cgi-bin/ecosearch/events.conf?1-98
+             - then it's the British International Toy & Hobby Fair!
+         http://medoc.ipl.co.uk/abe/newprod.html
+                     - Starship Troopers pinball: want to know more?
+
+         Viva Zapatista (again)! Viva Cyberliberties (again)!
+         Supporters of those redoubtable postmodern Mexican freedom-
+         fighters (or are they poststructuralist terrorists? Perhaps
+         we shall never truly know) are launching a "Zapatista
+         Netstrike" on the 29/01/98 at 4.00pm GMT. The plan is to
+         stage a virtual "sit-in" of a number of prominent mexican
+         Websites - all,  they state, "simbols of the mexican
+         neoliberalism". Protesters should enter the URLs provided,
+         then repeatedly press the reload button at the appointed
+         time to make their point felt. Hmm. Call us neoliberal
+         lackeys, but we can't help thinking there are less labour-
+         intensive denial of service attacks than this...
+         http://www.dada.it/stranet/news/
+                                 - why didn't the IRA think of this?
+         www.eco.utexas.edu/Homepages/faculty/Cleaver/zapsincyber.html
+          - we explained who they were months ago: do try to keep up
+
+
+                                >> TRACKING <<
+                               pings for things
+
+         Big update to MacOS 8.0 kicking around on Apple's site. No
+         big features to speak of (you were all dying for the DVD
+         support, weren't you?), but worth getting as it does one of
+         those "intangible speed-up" tricks. Biggest gain is on a
+         Java virtual machine that is both faster and more ... shall
+         we say, working than the last one. Also packaged is
+         Navigator 4 and, embarrassingly, Internet Explorer 3.
+         http://www.apple.com/macos/macos8.1/
+          - NO, there's NO BLOODY SOURCE. STOP ASKING THAT.
+
+         A little bit of Tracking backlog to clear following last
+         week's unpleasant Windernacht - super-generous Ben Thompson
+         sent his fellow NTK subscribers a Christmas gift which we,
+         typically, forgot to pass on. It's a small applet that he
+         says is "designed for those people in your life who cannot
+         use the address bar or bookmark a page or think that the
+         IE4 Channels is the world's greatest invention." I think
+         you know who he means. And similarly useful tool for those
+         "umm... I know haven't spoken to you for 5 years, weird
+         geek acquaintance, but can you fix this?" moments is QNX, a
+         windowing Web browser/mini-realtime UNIXish OS that boots
+         off one floppy and should allow you to at least dial-in to
+         look up technical info from an otherwise broken machine.
+         Been around for yonks, but we kept forgetting. Sorry.
+         http://www.hadida.com/start/               happy Christmas!
+         http://www.qnx.com/                    it *is* cool, though
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Rich Branson to appear in FRIENDS? ... Chen Tao - upcoming
+         HEAVEN'S GATE copycats?... THUNDERBIRDS movie to star
+         Kristin Scott Thomas... winner of LOEBNER prize gives his
+         thoughts: www.fringeware.com/~robitron/ALTALK.TXT ... best
+         title in SCIENCE for months: "Migrating Planets" ...
+         http://www.movioke.com ... who's the biggest sinner? BOB
+         HOPE http://balaams-ass.com/journal/warnings/bobhope.htm or
+         CHRISTA MCAULIFFE www.trosch.org/for/7j05/7oct05.htm ? ....
+         from Spain: a "LADY DI" commemorative macro virus... the
+         Linux PDA: www.mauve.demon.co.uk/tortoise.html ... RUGRATS
+         movie... HITCH-HIKER'S GUIDE movie agaain... QUAKE dolls:
+         www.cybermodels.co.uk ... are you bigger than ELVIS?
+         www.mcs.net/~jorn/html/finder/elvis.html ... AMERICAN
+         PSYCHO movie exec produced by REM's Michael Stipe... that
+         Whitehouse aide? Sources say it was a BJ...
+
+
+                               >> GEEK MEDIA <<
+                                 video, feeds
+
+         TV>> chuckle to another frantically farcical FRASIER (10pm,
+         Fri, C4), then what looks like the spitting image of
+         playboy Web designer Matt Jones in the title role of YOUNG
+         EINSTEIN (1.30am, Fri, LWT + some regions)... Dani Behr's
+         ICE WARRIORS (6.15pm, Sat, ITV) struggle to out-daft
+         Gladiators, and hopefully, following last week's Blind Date
+         revelations, will have one called Cosmo The Infiltrator...
+         if it follows the usual pattern (see current Q Magazine),
+         the voting for the MUSIC OF THE MILLENNIUM (6.30pm, Sat &
+         7.55pm, Mon-Thu, C4) will actually be unusually skewed
+         towards the music of the last six months... it sounds
+         promising, but KNIGHTRIDER 2000 (4.15pm, Sun, LWT only)
+         eventually ditches the KITT Tranz-Am, David Hasselhof *and*
+         the single mothers on which he invariably preyed, clearing
+         the road for US-only sequel series Team Knight Rider...
+         could the ancients really have written the books of Erich
+         von Daniken?, inquires great-looking sci-fi nonsense
+         STARGATE (7.10pm, Sun, BBC1)... RADICAL HIGHS (7.15pm, Mon,
+         BBC2) confirms it's maybe just a not-so-radical reworking
+         of They Who Dare, with a still-welcome look at illegal BASE
+         jumping... tragically, among the now-unmade episodes of
+         SEINFELD (11.15pm, Tue, BBC2) were plans for "The Surprise
+         Claymation Episode" and "The 3-Inch Kramer"... with one
+         called "In Dino Veritas", SLIDERS (6.45pm, Wed, BBC2) slips
+         further into a universe of dull movie rip-offs and terrible
+         episode titles... and they say that the "3" in ROBOCOP 3
+         (10.40pm, ITV, Thu) isn't an indication of it being the
+         third in the series - but merely a mark out of 10...
+
+         FILM>> At last! It's Aliens and The Abyss done as a period
+         costume teenage love story! It's, quite literally, TITANIC
+         (MPAA rated: PG-13 for "disaster related peril and
+         violence, nudity, sensuality and brief language")... let's
+         face it, if Alex "Repo Man" Cox can't even be trusted to
+         host that BBC2 movie slot nowadays, who on earth let him
+         loose on Rebecca De "cod" Mornay's bizarre Vegas gamble THE
+         WINNER (imdb: crime / thriller / comedy)?... botched Irish
+         crime thriller I WENT DOWN (imdb: Ireland / UK) has to be
+         funnier than John Godber's UP AND UNDER (imdb: comedy /
+         rugby), if only because the former *doesn't* have Neil
+         Morrissey, Samantha Janus, Tony Slattery, Griff Rhys Jones,
+         and that fat bloke off 2.4 Children... the guy who did Jean
+         de Florette and Manon Des Sources (and, er, Germinal)
+         agonises over meaningful WW2 drama LUCIE AUBRAC (imdb:
+         French)... and romantic-comedy curiosity of the week:
+         Russell "LA Confidential" Crowe and Salma "Mrs Robert
+         Rodriguez" Hayek are the *only characters* in the vignettes
+         and monologues that make up BREAKING UP (MPAA rated: R for
+         "language and sexuality")...
+
+         FEEDING>> it's an *egg fight* out there! CADBURY'S has
+         hastened the release of its Easter range, with the
+         traditional CREME EGG (in full size and compact formats -
+         www.cremeegg.co.uk), the foully over-chocolatey VELVET EGG
+         (even the name's disgusting), and of course their excellent
+         MINI EGGS, which, after the Astros debacle, are still the
+         Cad's only successful foray into the sugar-coated solid-
+         choc market... of course, that territory rightly belongs to
+         NESTLE'S SMARTIES, who, for the first time, have hit back
+         with their own MINI EGGS, in both GIANT SMARTIES and MILKY
+         BAR variants, implying that the words "Mini" and "Egg" are
+         so generic that they cannot be registered as trademarks. In
+         case that's true, NTK has registered minieggs.co.uk and
+         will sell it to the highest bidder - in eggs!... missing
+         the point a little, MARKS AND SPENCERS have created an
+         edible TAMAGOTCHI choccy egg (packaging shows the
+         nyorotchi, ginjirotchi and kuchipatchi that you may find -
+         and eat - inside)... plus, last we checked, they're still
+         dumping post-Xmas stocks of their edible TRIVAL PURSUIT and
+         POP QUIZ board games... elsewhere in confectioning, the
+         major turf war fought with the soggy biscuits of the
+         unfortunately named OSCAR SPUNKMEYER versus flapjack
+         newcomers THE FABULOUS BAKIN' BOYS hots up with the news
+         that Kentucky Fried Chicken get their muffins from an
+         operation rejoicing in the name of FRANK BRADY'S
+         INGESTIBLES... back with savouries, M&S patron saint ST
+         MICHAEL gazed enviously upon WAITROSE's ingenious PIZZA
+         WRAP (soft base, grill for 3-4 mins, available in cheese &
+         tomato or cheese & smoked bacon), then miraculously created
+         his own PIZZA METRO (stonebaked, oven cook 8-10 mins,
+         available in mozzarella & tomato or the frankly surreal
+         potato, bacon & onion). Pizza Wrap still has the edge,
+         despite Pizza Metro boasting this intriguing warning:
+         "IMPORTANT: A CHARACTERISTIC OF THIS PRODUCT IS ITS
+         IRREGULARITY. THIS DOES NOT AFFECT ITS EATING QUALITY."
+         Bon appetit!
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "art wank bonehead".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

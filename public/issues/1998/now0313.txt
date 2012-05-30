@@ -1,0 +1,367 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____13/03/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "[Steve Jobs] will wait for the exact climate. He will feel
+                                                         the pulse."
+         - RICHARD DOHERTY, on the ETA for Apple "entertainment device"
+                                          he can still feel a pulse?
+
+  LET THE SARCASM BE UNCONFINED! NTK LIVE, THIS MONDAY, 18.30GMT, 16/3/98
+                        (SEE EVENT QUEUE FOR DETAILS)
+
+
+                               >> HARD NEWS <<
+                             and what it behooves
+
+         It was a week of keynotes, keywords, and kebabing in the
+         JAVA corner of Internet World. MICROSOFT launched their
+         latest Java compiler, designed to be just like everyone
+         elses' offerings, except faster and more incompatible. They
+         introduced their own set of classes, while refusing to even
+         look at Sun's official set (literally - Microsoft's top
+         Java man "deliberately avoided looking at the Sun JFCs"; in
+         case he was turned, Indiana-Jones-like, into ashes?). And,
+         following the official MS line of "if it ain't broke, fix
+         it so it is", they added two extra keywords to the
+         language. The Java purists responded with their "write
+         once, run around everywhere - screaming" mantra, but worse
+         was to come. On Wednesday, gaunt Apple, still slavering
+         over Bill Gates' $150 million food parcel of last year,
+         announced they were going with Bill's Java, not Sun's. As
+         Sun whined, Microsoft's Steve Ballmer was gloating in the
+         New Yorker about obtaining the original Java license: "We
+         didn't come in there saying, 'Hallelujah brother, we love
+         you Sun, you're our boys'". Not when Apple really *are*
+         your boys.
+         http://www.sjmercury.com/business/microsoft/java/docs/java030698.htm
+                      - official: keywords were not "near" and "far"
+         http://www.developer.com/news/stories/031198_wfc.html
+            - technical details explained so you can get these jokes
+         http://www.apple.com/pr/library/1998/mar/11java.html
+                                                          - attaboys
+
+         So, what happens when the ageing hippies of the Digital
+         Revolution get even more aged, and *squishy-soft* on the
+         truths they held so self-evidently dear? Well, all that
+         cranky libertarianism goes out the window for a start, and
+         shiny new TECHNOREALISM takes its place. A fine assemblage
+         of cyberspace's comfortable-shoe-wearing thinkers took to
+         the soapboxes on Wednesday to announce their
+         Technorealistic manifesto. Among the new slogans being
+         chanted on the barricades outside Harvard Business School
+         was the catchy "Information wants to be protected",,
+         "Government has an important role to play on the electronic
+         frontier" and "Are technological changes good or bad?" -
+         altogether now - "The answer is BOTH!". Interested parties
+         (who must number at least twenty) looked forward to pitched
+         street battles between the John Perry Barlite old guard and
+         the cardigan-wearing shocktroops, but to no avail. For who
+         were the first to offer their lives for the new crusade?
+         Why, rumour has it, Wired editor and "hive consciousness"
+         guru Kevin Kelly, Howard "psychedelic funster" Rheingold
+         and ... Mr "Cyberspace Declaration of Independence"
+         himself. So what would happen if they held a war, and every
+         turned up on the same side?
+         http://www.technorealism.org/
+                  - "Technorealism is by no means an exclusive club"
+         http://www.technorealist.org/
+                   - or is there a more... satisfactory explanation?
+
+         What does it matter if you let one ex-governor of Hong Kong
+         go, when you have the whole of the EUROPEAN PARLIAMENT in
+         your pocket? After initial pressure from Mr Murdoch's
+         companies, the EU is currently moving to make not only the
+         advertising and sale of pirate decrypting devices (like Sky
+         smartcard hacks - ah, if they still worked) illegal Europe-
+         wide, but also "the provision of information and measures
+         facilitating unauthorised access". By the terms of the
+         proposal, that would criminalise any attempt to demonstrate
+         the weakness of, say, 40-bit crypto by brute force
+         breaking, or indeed any public discussion of security
+         weaknesses in an encryption system. That would put a bit of
+         a damper on future www.distributed.net efforts, news
+         coverage of the latest BugTraq NT hole - and indeed, any
+         discussion of crypto flaws at all. Oh, and if we were to
+         tell you that you can log in to most registration Websites
+         with the user id "cypherpunk", password "cypherpunk"? Well,
+         we wouldn't, because they'd come and arrest us for it. Doh.
+         Click below for useful tips in contacting your MEP. But
+         hurry - the first consultative period ends next Wednesday.
+         What? The EC didn't tell you earlier? What an *oversight*.
+         http://www.cl.cam.ac.uk/~mgk25/ca-law/
+                  - Us? We're still puppets of Ross "Gerry" Anderson
+         http://www.hackwatch.com/~kooltek/
+                                                   - Hack the skies!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         REVOLUTION's Website so revolutionary, it forgets about
+         MIME types... MARS PATHFINDER declared dead... asteroid
+         *not* going to hit after all, despite excellent tie-in with
+         ARMAGEDDON movie, and some poor loser registering
+         1997XF11.COM ... GQ CD-ROM "pants on a stick"... MICROSOFT
+         security patch stops Win 95 machines logging onto NT
+         networks... LINEONE redesign sucks... NEWS.COM blows the
+         lid on "Rockwell modems slow" shocker... Slashdot calls for
+         NEWTON to be GPL'd... RALPH NADER's letter urging Dell to
+         pre-install Linux on PCs appears to be written using
+         Microsoft Word... world's TV experts fails to get "ignorant
+         slut" joke from SATURDAY NIGHT LIVE when used to describe
+         Teletubbies producer... WEBBYAWARDS.COM go to: Bezerk, The
+         Well, Salon, Bert Is Evil, and INTERNET MOVIE DATABASE...
+         ADA'WEB art site "defunded" by backers.... hypercaffeinated
+         citrus cola SURGE (stronger than Jolt) has US ad slogan
+         "Feed The Rush"... Bath-based MODIFIED.COM release "Evolver
+         ECD" and "PhatBoy 1.0" - and still no clear explanation of
+         what they do... Tiger GAME.COM slashed to UKP35, games
+         still UKP20-25... and WWW.WORD.COM folds, giving our first
+         FALCO! to Anon of NY - see NTK 13/2/98 ...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Yeah, we know - they think that ghettoising it all into
+         SCIENCE WEEK [13/03/98 - 22/03/98] makes it OK to bang on
+         incessantly about the "arts" and "humanities" the rest of
+         the year. That said, some top nerd action to enjoy over the
+         next 10 days (clearly, it's a hyperfuturistic *decimal*
+         week), largely based around UK techno central: London's
+         Science Museum, South Kensington (open till 9pm Tue-Fri).
+         Their centrepiece: help build the "world's largest
+         diamond", though some listings don't seem to realise that -
+         at 202kg, 3m high and comprising just "30,000 molecules" -
+         it's clearly just a plastic model and not genuine
+         crystalline carbon. If you can't cut it there, a vast
+         touring Turing Test will come to you online, sponsored by
+         Tomorrow's World MegaLab, the Electronic Telegraph, and
+         FringeWare at the SXSW Interactive festival, Austin, Texas.
+         Punters will be invited to vote on the human-ness of famed
+         chatbots "Barry DeFacto", "Albert One", "ALICE", and - stop
+         us if you can see this joke coming - "Philippa Forester".
+         http://www.bbc.co.uk/tw/megalab/megalab.html
+         "I really didn't need to know that on about, thanks." (sic)
+         http://www.setweek.org/
+                   - evil science kids... with goggles! and a probe!
+
+         But what happens when SCIENCE GOES BAD? That's the poorly
+         held-to theme of next week's NEED TO KNOW LIVE, our under-
+         rehearsed RealAudio show and multimedia performance
+         experience. Tune in at the URL below, or join us in our
+         makeshift "studio" at the WEBSHACK, 15 Dean Street, London,
+         England, UK, Earth. Highlights you may otherwise avoid
+         include: a 24-hour "Smash Microsoft" Bill-a-thon, our hard-
+         hitting game review "It Ruined My Life", spontaneous
+         protests against the Starburst/Opal Fruit controversy,
+         cruel and vindictive technical support calls with the man
+         from www.superkaylo.com , Memepool roundtable with guests
+         Rupert Goodwins and ... um, some other people. And some
+         other jokes. Show starts at 18.30GMT on Monday 16/3/98, but
+         be sure to turn up early to guarantee a space. No, really.
+         Free entry for those who turn up!
+         http://www.ntk.net/live/ - this is where it'll be
+         http://www.webshack-cafe.com/site/html/mapanim.html
+                                        - and this is where it'll be
+
+
+                                >> TRACKING <<
+                        they upload it, we upbraid it
+
+         MACROMEDIA, as you know, employ only the most bi-polar of
+         manic depressives in their efforts to preserve the mystique
+         of their "50% genius, 50% idiocy" product range. After the
+         loveliness of Dreamweaver, they're due for a stinker in
+         FIREWORKS, the new Web-oriented GIF design package.
+         Unfortunately, it's too early to tell from the Beta
+         Developer Premiere Overview Version they've posted to their
+         ftp site. So early, in fact, we'd recommend you wait for
+         the next Preview Pre-Release Time-Limited Version, when at
+         least some of the cooler features won't be so horrifically
+         slow. To pass the time, you could check out the new Initial
+         Release Free Trial Sampler of Paintshop Pro 5. PSP remains
+         the Photoshop for urchins set, but now includes proper
+         layers, masks 'n' proper selection lassoos, a weirdo
+         Picture Tube feature that promises great GIF cliche
+         possibilities, and a nifty animation utility. Plus the
+         chunky interface is guaranteed to piss off any Kai
+         "Trouser" Krause fans in your office. Bo-nus!
+         http://www.macromedia.com/software/fireworks/
+         - no relation to the Netscape/Macromedia Fireworks thing
+         http://ne2.news.com/News/Item/0,4,3069,00.html
+         - which appears to have disappeared without trace
+         http://www.jasc.com/psp5beta.html
+                               - the thinking man's Sausage Software
+
+         You've probably already heard about this - a Director
+         program that turns the .WAVs on your PC's hard drive into
+         an ambient industrial racket. We'll mention it anyway.
+         That's because RAIDER is actually a lot better than it
+         sounds (literally!), and also because the author is moving
+         into an office next to us soon, and if we keep on his good
+         side maybe he won't turn into the "noisy neighbour" he has
+         the terrifying potential to be.
+         http://www.andyw.com/raider/
+                - Eno having a coronary in a sawmill, in slow motion
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Bawdy Bard Baud : www.zug.com/zug/scrawl/nudebard/ ... Y2K
+         problem hits stonemasons - guess who pre-inscribed "19"
+         onto all the gravestones? ... maintaining our editorial
+         integrity, we can confidently announce WAVTV is
+         *frightful*... 3COM register www.palmpc.com - teehee...
+         appeals hearing in LOUISE WOODWARD hearing postponed due to
+         *another* power-cut - what Satanic powers doth the witch
+         possess?... www.x-stream.com/ ... first track on Air's
+         "Moon Safari" - is it the SIM CITY music, or what?... "win
+         your own pub" FOR ST PATRICK'S DAY: www.guinness.ie ... it
+         is the next generation of the NEXT GENERATION mag site:
+         http://xena.next-generation.com/jsmid/ ...
+         www.greydirect.co.uk/start2.htm ... "TATOOINE Or Bust"...
+         Robert "Begbie" Carlyle to play next BOND VILLAIN...
+         www2.ecst.csuchico.edu/~atman/attention-fat-bastards.html
+         ... MRS OSBERG - you're storing up trouble for yourself...
+         http://www.spy.org.uk/ ... Following last week's worst URL,
+         we passed on both www.bienplusrapidequunrouteur.3com.com &
+         www.llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogog
+         och.co.uk (obvious cheating), and settled on
+         www.64slicesamericancheese.com (because it's British)...
+
+
+                               >> GEEK MEDIA <<
+               is the television off for any particular reason?
+
+         TV >> better late than never for the return of FATHER TED
+         (9.30pm, Fri, C4; also 9pm, Sun) - a bit like a sitcom
+         spinoff of the movie The Butcher Boy, only without all them
+         murders... see how much bouncier Flubber would have been
+         without Robin Williams in the original THE ABSENT MINDED
+         PROFESSOR (3.10pm, Sat, LWT only)... THE SHADOW (8.15pm,
+         Sat, BBC1) is the comic book movie adaptation with the
+         power to cloud men's minds; and also features Alec Baldwin,
+         direction from Highlander hack Russell Mulcahy, and a theme
+         tune by Jim Steinman... BBC1's entire month's allocation of
+         sassiness is required to enforce hilarity when RUBY WAX
+         MEETS: THE SPICE GIRLS (7.30pm, Sun, BBC1)... and why are
+         those suspiciously British helicopters hovering over the
+         otherwise convincing 'Nam nightmare of Kubrick's FULL METAL
+         JACKET (10pm, Sun, C4)?... as described in TO THE ENDS OF
+         THE EARTH (8pm, Mon, C4), the Thylacine was actually a
+         marsupial wolf, and not - as the Radio Times claims - "a
+         kind of flesh-eating kangaroo"... WITNESS (9pm, Mon, C4)
+         celebrates the eve of St Patrick's Day with accounts of
+         Irish women institutionalised for sexual impropriety,
+         narrated by Ballykissangel cleric-bait Dervla Kirwan... Who
+         loves you? And who do you love? Arnie's back again in
+         proto-Gladiators romp THE RUNNING MAN (9pm, Mon, C5)... you
+         can't often go wrong with a Bill Murray movie, and he even
+         co-directed meandering heist spoof QUICK CHANGE (10pm, Tue,
+         C4)... Julian Clary apologises for a lifetime of useless
+         material in FIRST ON FOUR (10pm, Wed, C4), including his
+         famous "fisting" gag... and maybe they should transplant
+         this week's "entertaining geneticists" DNA into all the
+         other guests coming up on HORIZON (9.30pm, Thu, BBC2)...
+
+         FILM >> a week of interesting ideas, all marred by
+         imperfections: even Helen "Twister" Hunt, Jack "Batman"
+         Nicholson and Greg "Talk Soup" Kinnear can't improve the
+         cruel-yet-schmaltzy script in multi-Oscar nominated AS GOOD
+         AS IT GETS (imdb: comedy / scar / waitress / sickness /
+         relationship / mother-daughter / mental-illness / writing /
+         homophobia / quirks / dog / lap-dog / single-parent /
+         painter / drawing / misanthrope / racism / shrink / callboy
+         / gay / love) And yeah, what kind of poster tagline is
+         "Brace Yourself For Melvin"?... slight over-smugness is the
+         capital crime of Hoffman/ De Niro spin-doctor spoof WAG THE
+         DOG (imdb: satire / scandal / plane-crash / comedy /
+         political) - disappointingly, it's not about a dog called
+         "Wag" (then they could do a sequel called "Socks The Cat"),
+         but more like a US version of Yes Minister... Denzel
+         Washington's FALLEN (imdb: action / thriller / mystery /
+         twist-in-the-end / drama / horror) also has John Goodman
+         from Roseanne, and is a stylish extended X Files about a
+         body-swapping murder-demon, largely spoiled by the fact
+         that at no point does any character turn to the camera to
+         say: "EXCELLENT! This new Earth-body... PLEASES ME!"...
+
+         MAGS >> the latest SATELLITE TIMES (Xena on the cover)
+         includes an effusive apology to the Christian Channel, yet
+         no specific reasons why - NTK spies reveal: it's because
+         last month they listed CC programmes under the heading
+         "Satanic Black Masses For Lord Beelzebub"... among the
+         questions that currently tax science's greatest minds:
+         which is worse - TOMORROW'S WORLD MAGAZINE or COMPUTER
+         ACTIVE? Please write to letters@computeractive.co.uk and
+         point out any (of its many) errors you can spot, while TWM
+         is *so dull* your eyes literally fall off the page... in
+         the graphics pipeline: EMAP's youth-oriented ents mag (aka
+         Project J) to be headed by ex Sky-ed David Hepworth; IDG
+         may be planning up to 3 new games titles; and Future
+         Publishing's pop-sci nonsense FRONTIERS (due 26/03/98)
+         promises a "free-to-enter MENSA IQ test" - what, they mean
+         "an ad"?... if you didn't already buy the last-ever SPY, it
+         harbours a supercool science gossip column called A Hot
+         Month Under The Lab Coat (p20)... current issue of
+         "Spectrum And Emulators" zine THE ZX FILES (about UKP2,
+         from paulwhite@thezxfiles.demon.co.uk) contains
+         authentically badly written reports on Russian Spectrum
+         clones, plus astonishing revelations about the Z80 versions
+         of Dune 2 and Doom... yeah, we know, Websites don't really
+         count, but EON ( www.eonmagazine.com ) comes from the folks
+         who did the original Sci-Fi Universe mag (still light-years
+         ahead of anyone else); it's now backed by ID4 producer Dean
+         Devlin, and still features SFU sci-fi agony aunt Deep Space
+         Nina... sticking online, POPGOB ( www.begbie.com/popgob/ )
+         is a refreshingly offensive Brit music humour mag - with a
+         slightly odd page where "Philippa Forester off of
+         Tomorrow's World" reviews the latest singles, and implying
+         a rather different rumour to the one that we'd heard...
+
+
+                        >> UNSOLICITED ADVERTISING <<
+                         like we were going to say no
+
+         "NASTY BAD-NATURED COMPANY making good money out of things
+         that are always already broken require new person[s] to
+         work on some unsullied topper things. Platform agnostic
+         software and graphic designers should apply now for the
+         chance to work in London's most powerful corner shop.
+         Become one of mutleymedia's chosen people and inherit the
+         dirt."
+                                                    - jobs@tui.co.uk
+ 
+         Want to advertise in NTK? Want to risk us humiliating your
+         company with subsequent smarmy comment? Contact
+         sellingout@spesh.com for details and "rate card".
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+   It is registered at the Post Office as "part of the Corley conspiracy".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

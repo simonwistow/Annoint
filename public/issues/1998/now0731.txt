@@ -1,0 +1,329 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____31/07/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+       "If there were no profit to be made from dealing in software,
+                   then it would not be as attractive to criminals"
+                     - Microsoft's anti-piracy manager, DAVID GREGORY
+                         ...legal counsel advises me to rephrase that
+
+
+                                >> HARD NEWS <<
+                                  soft options
+                                  
+         Prosecutors claiming enough evidence to broaden their
+         enquiry, demands for a video deposition, long denials of
+         wrongdoing that no-one believes, your number two preparing
+         to take the mantle of President... and even if the DOJ
+         aren't quite pouring over Gates' corduroys for
+         clues yet, CALDERA have managed to get the next best thing,
+         with a court order demanding the release of the Windows 95
+         source to the pro-Open Software company. Sadly, they're only
+         allowed to use it to demonstrate that their DOS clone
+         could have been used instead of MS-DOS on Windows 95
+         machines. And they're not going to get it all, Microsoft
+         say. Only the bits without the GNU licensed code in it, we
+         guess...
+         http://www.caldera.com/  
+         - there's got to be a Bill Sux joke here somewhere
+http://www.nytimes.com/library/tech/yr/mo/biztech/articles/29microsoft.html
+         - wouldn't it just be crazy if the two videos got mixed up?
+         
+         The Net, said Jonathan (not the) Miller in this weeks' GUARDIAN, 
+         is "a seething mass of fraud and disinformation", where "it is
+         more important to be cool than true". This is, as far as we
+         could work out from his article, because it lacks all the
+         "traditional checking and sourcing" of the proper media.
+         Thank God, then, for the professional journalist. Among the
+         hard-hitting news stories, carefully examined for veracity
+         and then lovingly reprinted in the infinitely more
+         trustworthy national press, was the BILL SUX fake Pentium
+         chip graffito (hey, it was in Time, wasn't it? It wasn't?),
+         the crashed-saucer technology TRANSFER CAPACITOR ("It's
+         either the smartest publicity in the history of computers or
+         the most shocking revelation in the history of UFOs. Or
+         both.", mulls TIMES INTERFACE's special correspondent, URI
+         GELLER), Altavista.com selling its URL for $3.5 million
+         (deal not actually signed yet), Charles Shaar Murray's
+         CONNECTED opinion piece on the idiots who buy wide-screen
+         TVs (don't those sideways-stretched faces get annoying, he
+         asks, without mentioning that you can turn them off). And -
+         just by coincidence - almost every story that Miller cited
+         as being the fault of the Net. Still, we're sure they'll all
+         be running corrections in due course, eh, gang?
+         http://reports.guardian.co.uk/articles/1998/7/28/13318.html
+         - of course, now it's on the Web, it's instantly discredited
+         http://www.ee.mu.oz.au/staff/summer/billsux/index.html
+            - anyone remember the picture of Paula Abdul in that Mac?
+         http://www.american-computer.com/roswell.htm
+                           - imagine what's scrawled over these chips
+         
+         We're not sure how we'd test the "we don't do people over"
+         claim over at the new MI5's site. The protestations of
+         openness seem a little belied by encoding everything in PDF
+         format (security through obscurity if ever we saw it), and
+         they don't seem half as broadminded as those nice fellows at
+         the ROYAL ULSTER CONSTABULARY, who have not only have a
+         bigger Website, but patched in a bunch of their Belfast
+         surveillance cameras, too. The irony is, though, that both
+         these secretive organisation are now more visible than the
+         Mark Dz's anti-surveillance site, www.spy.org.uk. Due to a
+         intriguing polical decision by Cyber Patrol, users of the
+         filtered software can now spy on Ulster, but can't read
+         about why they shouldn't.  
+         http://www.mi5.gov.uk/
+                                                - nice short URLs tho      
+         http://www.ruc.police.uk/ 
+         - Children's Ulster Constabulary, meet the Kid's CIA Homepage
+         http://www.spy.org.uk/
+                        - now buy the T-shirt, fly to Ulster, and sue
+        
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                             
+         GUINNESS BOOK OF RECORDS "Internet" category out of date before
+         going to press... CORAL's site at http://194.130.104.13/
+         soffering 4/1 odds for France to win the World Cup... "Nader
+         to Gates: You're too rich"... Investors like portals,
+         Computerworld study uncovers... BRAVO to try again after
+         strange unpopularity of Messy Absentee Disinterested Girl
+         Cam... "Death Of Music" Greatly Exaggerated, confides
+         DOTMUSIC... DAWSON'S CREEK voted "least family-friendly"
+         show by http://www.parentstv.org/ ... despite the suffering
+         his films inflicted on humanity, "Man can't sue Jim
+         Belushi", reports JAM MOVIES... IBM release "Rapid Access
+         Keyboard", which promises to "speed access to the Internet"
+         - also speeds their access to your 325UKP... TERRASERVER 
+         blocks access from Iraq, Cuba, North Korea, and crowds of
+         more than three schoolchildren at a time... Microsoft
+         patents music... AQUA upset by widespread piracy of their
+         album clearly they need money to fight MATTEL lawsuit... and
+         what's happening at http://www.futurenet.co.uk/ - and why is
+         it pointing to http://www.mformat.demon.co.uk/, in direct
+         breach of Demon's Acceptable Use Policy, section 29?
+        
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         How low-level can *you* go?, asks Finland's biggest annual
+         demo party, ASSEMBLY '98, starting next Fri (from 2pm,
+         07/08/98) at the Helsinki Fair Centre - enticingly described
+         as "completely dark, except for hundreds of displays which
+         shed pulsating light into the hall". Compos are for 4K/ 64K
+         intros, PC, Amiga, C64, Java, Wild, plus "outdoor", and
+         (without wanting to sound too much like the Eurovision song
+         contest) UK hopes are pinned on former Amiga winners nERVE ^
+         aXIS. Ticket price is 240 FIM (around UKP 27), with "no one
+         day tickets, nor reductions for girls, space aliens or rock
+         stars", to which cynics may add "- each equally likely to
+         attend". 
+         http://www.assembly.org/ 
+         - "damages caused by visitors will be REDUCED from the prizes"
+         http://dspace.dial.pipex.com/zone/ 
+                             - if only they had a "swearing" compo...           
+
+         Oh, and there's another double helping of Radio 4's "brand
+         new panel game about stuff", KING STUPID, this time on
+         Monday 03/08/98, 7.30pm at Broadcasting House Radio
+         Theatre, Portland Place, London W1. Contestants remain
+         Peter "Fist Of Fun" Baynham, Sue "Light Lunch" Perkins,
+         Simon "Faith In The Future" Pegg, and Dave "NTK" Green
+         (maybe not as conventionally amusing as the other three, but
+         I did win the second round last time; yes, be impressed.)
+         For tickets, mail david@pozzitive.demon.co.uk with the
+         subject line "I laugh at re-takes, they get funnier every
+         time." 
+
+         Meanwhile, many miles away from our clumsy attempts at a
+         personality cult, THE LAND IS OURS is organising a Mass
+         Tresspass somewhere near Brighton. Meet at Brighton Station
+         at noon on 2/8/98; curious police officers should call 01237
+         685913 for less details. Tea, dinner and breakfast supplied
+         by the Anarchist Teapot Action Kitchen; take food to share,
+         sunscreen, footballs, kites, water, kids - "but no dogs".
+         Alternatively, underemployed Gen-Xers may rather listen to
+         Nigel Plaskitt, better known off screen as HARTLEY HARE,
+         who will be speaking of his work on Pipkins at the Dudley
+         Museum and Art Gallery, Dudley, near Birmingham on Saturday
+         1/8/98. The . . . . . . time? 1430BST. More details from
+         the Museum on 01384 815575.
+         http://freespace.virgin.net/greg.taylor1/pkindx.htm 
+                                           - now that's a *class* act 
+         http://www.msunion.org/tlio/         The Homepage Is Outdated
+         
+
+                                >> TRACKING << 
+                            mostly significant bits 
+
+         It's been a contentious time in the Quake Movie community
+         recently, what with the poor box office of THE TOILET
+         TRAGEDY, and the unexpected critical panning of HOMOSEXUAL
+         FILM REVIEWERS ("I was appalled... Every single line in the
+         movie seemed to centre around us being gay" - Psyck's
+         Popcorn Jungle, "We know that the 'film' Homosexual Film
+         Reviewers was born from your gay sexual frustration with
+         your brother" - Q-Corpse). Next week, however, all critics'
+         lips will be pursed, every filmmakers' gaze turned toward
+         CLAN PHANTASM, producers of this Summer's blockbuster,
+         DEVIL'S COVENANT. Preview screenings were not available at
+         time of going to press, but Devil's Covenant surely
+         promises a revolution in Quake Movieland, if only because
+         the q-flick checks in at an astounding *130* minutes
+         duration. Could it be the "Birth of a Nation" of this
+         youthful medium? Perhaps - although expect more gibbing.
+         http://www.planetquake.com/phantasm/ 
+                                           - and a lot more "Hyurrgh"
+         http://qmovies.vortexq.com/history.html
+                            - from the earliest days to Blahbalicious
+         http://eschaton.reality-x.co.uk/
+                                            - the British are coming! 
+          
+         
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         aint-it-cool goes aint-it-slashdot ... viva DOOM 2000...
+         http://www.macosrumors.com/images/PCad.jpg ... Corrie at
+         0.05fps http://ds.dial.pipex.com/town/plaza/ec91/ ...
+         Netscape Netcenter suggest you use same password as your
+         bank account - nice *TRY*, Andreessen... "I'm a haemophiliac
+         of the bleeding edge"... http://www.bittersweets.org/ ...
+         "Things I learnt from..." every film you've ever seen:
+         http://gpgod.home.mindspring.com/things.html ... 001 888 573
+         8255... archival intermemory... unusual repurposing of
+         content at http://www.jewsforjesus.org/anim/southprk.gif ...
+         preserving Speccie games by copying the tapes to Minidisc...
+         www.pithemovie.com vs www.piethemovie.com... try Babelfish on
+         http://sonymusic.de/Music/Columbia/Artists2/spacecurls/story.htm
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         FILM>> cute cast, rocking soundtrack, plus a barely coherent
+         showcase for loads of unrelated Brit f/x houses - so of
+         course, it's the plot that gets LOST IN SPACE (imdb: action
+         / sci-fi / thriller / spacecraft / insect / family /
+         dysfunctional-family / robot / time-travel / sabotage /
+         space / based-on-tv-series / space-travel / future /
+         futuristic)... unusual recommendation of the week (despite
+         appalling trailer): THE CASTLE (imdb: Australian), made by
+         the folks behind Paramount's god-like ultra-dark
+         Drop-The-Dead-Donkey-alike, Frontline... "Eddie Murphy is a
+         physician who talks to the animals. Hopefully they are
+         funnier than he is." warned The Stinkers 
+         <http://www.thestinkers.com/1998.html> of DR DOLITTLE (imdb:
+         children's / doctor / san-francisco / family /
+         talking-animal / orangutans / guinea-pig / pigeons /
+         bathroom-humor / flatulence / father-son / animals /
+         father-daughter / based-on-novel / monkey / comedy / dog /
+         tigers / owls), with Brady Bunch/ Private Parts director
+         Betty Thomas guilty of serious malpractice (see also
+         http://www.drdoolittle.com/ )...
+         
+         TV>> Errata! While NTK (and all other listings mags)
+         genuinely believed it was the Arnie movie called THE
+         RUNNING MAN showing last Sun, it was in fact "the
+         slightly less futuristic 1960s crime thriller by the same
+         name, complete with astonishingly tacky titles
+         featuring a shadow mincing around" (subscriber Martin
+         Frost)... NTK regrets the error, though not as much as
+         the appearance in some satellite listings of "Need To Know:
+         Exploring how technology can be fun" as part of the
+         new line-up for Sky's [.tv] relaunched computer
+         channel. In fact, our "Adam & Joe vs Bob Cringely
+         Newsnight" concept chat-show is called 404 NOT FOUND (7pm,
+         Thu, Astra transponder 58, 10.847GHz Vertical) -
+         webcasts coming soon... be ready for sci-fi B-movies
+         tonight, with Dan Aykroyd's CONEHEADS (9pm, Fri, BBC2),
+         James Earl Jones hosting a weird double bill remake of THE
+         TWILIGHT ZONE: ROD SERLING'S LOST CLASSICS (11.15pm,
+         Fri, BBC2), Roger Corman's MST3K fodder IT
+         CONQUERED THE WORLD (1.05am, Fri, BBC1), and the truly
+         terrible "Sandkings" first-ever remake of THE OUTER
+         LIMITS (12.45am, Fri, BBC2)... Sat is even better with
+         ROBIN COOK'S FORMULA FOR DEATH (9pm, Sat, BBC1) -
+         possibly the best title of the month, even if it is the
+         "Coma" author, not the foreign secretary... we did the
+         "McCandless" joke last time they scheduled
+         FREEJACK (1050pm, Sat, BBC1) back in April... plus Gene
+         Roddenberry's post-apocalyptic GENESIS II (12.35am, Sat,
+         BBC1)... oh, and "one of the best films of the '80s",
+         apparently: De Niro/ Scorsese's RAGING BULL (11.10pm,
+         Sat, BBC2)... who'd win in a fight between that Sling Blade
+         guy, Gilbert Grape, and Raymond Babbitt from RAIN MAN
+         (9.50pm, Sun, BBC1) - especially if they could borrow
+         Jack Nicholson's axe from THE SHINING (10pm, Sun,
+         C4)?... EQUINOX (9pm, Tue, C4) tries to generate some
+         excitement from "laser death rays", while Christian Slater
+         uses more conventional techniques to pick off the
+         HEATHERS (10pm, Tue, C4), part of C4's new "Vile
+         Teens" season - what next, Pump Up The Volume?... the
+         A-Team's Amy Allen is one of the few reasons to watch lame
+         John Candy Western spoof WAGONS EAST (10pm, Wed,
+         BBC1)... and Jon Ronson's vague Edinburgh tie-in
+         CRITICAL CONDITION (11pm, Wed, C4) sees Financial Times
+         journo and (we think) NTK subscriber Ian Shuttleworth trying
+         his hand at stand-up comedy...
+
+         CONFECTION CORNER>> seems the print media picked up on the
+         "Be My Icon/ Page Me/ Fax Me/ Email Me" versions of LOVE
+         HEARTS only after they'd been in distribution for 8 weeks or
+         so. Sources (including the startlingly desgined
+         http://www.swizzels-matlow.com ) also confirm that the
+         hundreds of slogans on the popular "compressed powder
+         sweets" do not yet include "www.cupid" (as was widely
+         reported), possibly to avoid embarrassing redirections to,
+         say, http://cupid.net ... this month's genuine new brands: a
+         5-finger variant of KIT KAT (previously thought indigenous
+         only to vending machines in swimming pools), and JOOSTERS,
+         the violently flavoured Jelly Bean-battlers from the makers
+         of Opal Fruit^N^N^N^N^N Starbursts - we think we'll continue
+         getting our fruity chews from POLO GUMMIES... and finally,
+         subscriber TONY BLEWS draws attention to the packets of
+         SKITTLES ice lolly snacks, which proudly proclaim "Skittles
+         - Fun Up!". "I doubt very much that they are fun up most
+         orifices", worries Tony, though obviously that depends on
+         just how hot your workplace gets...
+
+                               >> LEGAL NOTE <<
+                               
+         The Jonathan Miller mentioned in NTK's Hard News item is a
+         respected journalist. No slur on his good name was intended
+         in the aforementioned piece, and should not be read into our
+         comments on the content of his article. NTK unreservedly
+         apologises for any offence the item may have caused to him,
+         or his family, and hopes that by mentioning this in advance,
+         he won't threaten to sue us, like what he did last time we
+         wrote about him. And we're not being sarcastic or anything.
+         
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "con vibrato".
+           (http://www.btinternet.com/~hotelnet/mobile/viewtune.htm)
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial licence details.
+                                                    ^-oops!
+                 Tips, news and gossip to tips@spesh.com.earth
+

@@ -1,0 +1,256 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-11-19_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+            "Gates also said that making the Windows
+             secret source code public, a remedy suggested
+             by some, would be bad for consumers... It would
+             be bad if 'when people buy Windows they don't
+             know what is in it,' he said."
+         http://www.techweb.com/wire/story/reuters/REU19991115S0006
+                                     ...isn't that kind of the point?
+
+
+                                >> HARD NEWS <<
+                                leave no bruise
+
+         In accordance with prophecy, NAPSTER got peppered with RIAA
+         lawyer shrapnel this week, but sensing that they had the
+         will of the people (and an army of slashdot anonymous
+         cowards) on their side, continued to release betas of their
+         snazzy MP3 distribution system. In preparation for the
+         inevitable next step, free source implementations of the
+         client appeared for Linux - and strong rumours of a Perl
+         server waiting in the wings, should the Napsters get kill
+         -9ed by the music industry police. Do you think we should
+         tell them about Hotline next?
+         http://www.bigredh.com/index2.html
+         - or maybe we should shut the hell up? Vote in our readers poll!
+         http://www.wired.com/news/business/0,1367,32559,00.html
+                                         - hey Napster! Napsteroonie!
+
+         The problem with exposing the villainy of the Net on
+         consumer action problems is, short of doorstepping Tim
+         Berners-Lee and Vint Cerf, there's nobody obvious to *nab*.
+         Naturally, that doesn't stop our protectors having a go.
+         Facting us until we fart next week are Sue Lawley and her
+         CRIME SQUAD, who have been exposing hacking and software
+         piracy online where'er they find it. And if they don't find
+         it - what then? That's the question that some Web companies
+         have been asking after they were contacted by the program,
+         and asked to "hack their own servers to show how it's done".
+         When, naturally, they declined, the programme makers hinted
+         that they really should, because otherwise the squad and
+         their new mates would do it anyway. And to whom are we
+         supposed to complain about that? Also making the Net safer
+         for the rest of us next week, an upcoming "Here And Now"
+         looks into Web fraud. At least they had the decency to
+         invent a *funny* fake threat:
+         http://members.tripod.com/bellilug
+   - ... you know, I'm sure someone was touting this at First Tuesday
+         http://www.bbc.co.uk/schedules/1999/11/22/bbc1.html
+       - watch out for *two* appearences by NTK platinum subscribers!
+         http://www.bbc.co.uk/webguide/c09231999.shtml
+                                  - you lay *off* her, Anne Robinson!
+
+         After the war, the decommissioning. NSI have begun working
+         out the conditions of their pax with ICANN, including this
+         week, the announcement that they'd be redirecting the
+         rs.internic.net whois server to the registry whois at
+         whois.nsiregistry.net. So from December whois *won't* tell
+         you who owns the domain, but instead refer you someone else
+         who should know who owns the domain. Sound confusing? Well,
+         just wait until automatic domain lookup programs
+         start breaking on 1999-12-01 - then you'll have confusion by
+         the lorry-load. The format to the new whois is completely
+         different to the old service, even though it should have
+         been possible for NSI to set up a backwards compatible,
+         cross-registry whois (a la www.geektools.com) with just a
+         little more coding. There could have been good tech reasons
+         for not doing that, but we'll never know, because NSI knows
+         best. Even, we note, when it comes to leaking out personal
+         info on their prospective shareholders...
+         http://www.netsol.com/ir/db/
+         - bit unfair. But you'd think they'd use a *proper* database, right?
+         http://www.nsiregistry.com/
+                - try out the new whois. try to fix your code in time
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         DAVID BRAKE doin' a Weblog ... "MP3s Popular With Students",
+         uncovers NEWSBYTES ... MP responds to e-mail - 381 days
+         after it was sent ... www.phonebusters.com - paging Mr Jimmy
+         Cauty ... that's no way to talk about the Holy of Holies:
+         http://www.ntk.net/doh/19991119pope.gif ... The MAHIR
+         Nightmare continues: http://kiss.to/mahir ... FUTURE's
+         futuregamer.com proudly display their top 100 web site award
+         - from Future's .Net mag... EASYEVERYTHING block DIY nuke
+         info ... APPLE dump British personalisation into the
+         "trash": http://macweek.zdnet.com/1999/11/07/english.html
+         ... how desperate for hits can you get?
+         http://www.nationalreview.com/goldberg/goldberg111299.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         WHIT DIFFIE, who looks so like Uncle Sam that the irony is
+         almost suffocating, is in town again. Barring heckling from
+         Mallet, he'll be speaking at the British Museum on "cracking
+         later codes" - and given that it's being organised by the
+         Egyptian Antiquities department in connection with their
+         Rosetta Stone exhibition, we'd imagine that "later" here
+         covers a lot of ground. It's on at 1800GMT, Tuesday,
+         1999-11-23 - call the British Museum on 0171 323 8312 for
+         tickets and more info.
+         http://www.nextstep.com/stepback/cycle8/99/encryption.html
+                                   - a superstar, that's what you are
+         http://www.british-museum.ac.uk/cracking_codes/
+                              - earliest example of a HOW-TO document
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         No matter how many time Steve Job's minions crop-dust their
+         homes with Agent Orange, a hardy crowd of user interface
+         loyalists keep the MacOS look-and-feel flame alive. Their
+         latest samizhack is SHERLOCK II WINFIX - a patch that'll
+         remove all those ugly pseudo-metallic trimmings from the
+         latest Sherlock app, and squeeze it back into a normal
+         Macintosh window. Now, could somebody do the same thing for
+         Quicktime 4?
+         http://www.teamdraw.com/raul/stuff/stuff2.3.html
+                                                       - nice imagery
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         AI for cats: http://www.bitboost.com/pawsense/index.html ...
+         GOOGLE text ads ... TIM BERNERS-LEE invokes "special powers"
+         to get E-pinions to remove trademark on "Web of Trust" ...
+         ... as if Y2K wasn't going to be entertaining enough:
+         http://www.nbc.com/y2k/show.html ... the funny things gaijin
+         say: http://www.mangajin.com/ezine/bloopers.html ... for all
+         your RALPH FIENNES Astrology needs:
+         http://members.aol.com/IsisDawn/RFAstLnk.htm ... Oh No! They
+         killed Kenny's mum!
+         http://www.mtv.com/news/headlines/991116/story8.html ...
+         after GONORRHEA boxer shorts:
+         http://photopoint.com/dcm/features/f-micro1.html ... best
+         embedded MIDI in years:
+         http://www.countdownalliance.net/nashville/palpy4pres/ ...
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV (AND RADIO)>> Yes, the reason we're a bit early this week
+         is to give you a chance in hell of catching Bill Gibson's
+         favourite Velvet Underground MP3s in DESERT ISLAND DISCS
+         (Fri, 09:00, Radio 4)... we warned SO GRAHAM NORTON (Fri,
+         22:30, C4) last series; if they try faking any more
+         hilarious "website phonecalls", we will *have them*... and
+         for some reason TV stations don't want anyone watching on
+         Saturday night, which is why they're givng us Bruce Willis
+         vanity project HUDSON HAWK (Sat, 00:40, ITV), Joe Dante's
+         PIRANHA (Sat, 23:25, C4), Bob Geldof and Mel Smith in NUMBER
+         ONE (Sat, 00:25, C5), and worthy extended Bosnia APC product
+         placement army drama WARRIORS (Sat, 21:00, BBC1) - not to be
+         confused with the 1979 gang movie of the same name... still,
+         Satellite viewers can tussle with SKYROCKET (Sat, 18:00,
+         Sky1) some kind of webcast thing featuring The Simpsons/
+         KotH/ Futurama/ Family Guy/ PJs, and known NTK subscriber,
+         Ben Moor (crap site at http://www.skyrocket.co.uk/ )... then
+         console themselves with season 3 of SOUTH PARK (Sun, 23:00,
+         Sky1), featuring Jennifer Annistonandon... Hugh Grant/ Gene
+         Hackman medico-thriller EXTREME MEASURES (Sun, 22:00, C4)
+         comes on like a comatose "Coma"... while the ever-impartial
+         BBC balances its current "Webwise" campaign with no less
+         than *three* po-faced investigations into "cyber-crime": THE
+         MONEY PROGRAMME (Sun, 22:30, BBC2), Kuji-featuring THE CRIME
+         SQUAD (19:30, Mon, BBC1) [see news], Julia Sawalahalaha's
+         guide to 21ST CENTURY STALKING (Wed 12/01, 22:15, BBC1) plus
+         - the inevitable - TERMINATOR 2: JUDGMENT DAY (Wed, 22:20,
+         BBC1)...
+
+         FILM>> at last! *another* heavy-handed fly-on-the-wall
+         satire: ED TV (http://www.capalert.com/capreports/ : noted
+         lesbian actress as a central figure; vulgar hand gesture,
+         manipulation of human anatomy, and body gesture; a sexual
+         T-shirt; homosexual presence). Ellen DeGeneres, Rob Reiner
+         televise the daily activities (though sadly no real-life
+         drug-bust antics) of Matthew McConaughey to an audience of
+         confused FHM readers who inexplicably prefer Liz Hurley over
+         Jenna "Dharma And Greg" Elfman... clearly having learned
+         nothing from the ridiculous current ad campaign for Disney's
+         "moo-LARN", couldn't supposedly brainy Ralph Fiennes and
+         writer Michael Ignatieff have come up with a pronounceable
+         title for ponderous Liv Tyler period melodrama ONEGIN (imdb:
+         duel / russia)? We advise asking for "One Gin" at the box
+         office - "a double vodka and a packet of crisps!"...
+         otherwise an exceptional week for offloading nondescript
+         rubbish: loathsome Ray Winstone romantic comedy FANNY AND
+         ELVIS; Claire Danes and Kate Beckinsale as drug-smuggling
+         foreign jailbait in BROKEDOWN PALACE; inspiration-free
+         Redbus horror sequel THE RAGE: CARRIE 2; and, on limited
+         release, "monks prefer footy to boring old religion"
+         cultural imperialism celebration THE CUP, whose trailer is
+         indistinguishable from a Nike ad... finally, it's not a
+         shelf heading at your local butchers, but the name of
+         Harrison Ford/ Kristen "Lady Penelope" Scott Thomas's
+         mid-life desperation romance RANDOM HEARTS (imdb comment:
+         "'In a perfect world they never would have met.' In a
+         perfect world filmmakers would think twice before embarking
+         on adaptations of bad '80s novels"). After this and "Six
+         Days, Seven Nights", what is it with Harrison Ford and plane
+         crashes? Doesn't a guy his age have simpler ways of meeting
+         available women?...
+
+         COMPO>> You! Yes, you!  Do you use one of those "out of the
+         office" autoresponder programs? You know, the one that
+         ignores "Precedence:" headers? Don't deny it, we've got an
+         inbox that says otherwise. Well, as a special offer to any
+         subscribers who mail us anything that matches our magic
+         regexp, this week we'll automatically send (free of charge)
+         a special message: It could be an amusing Dave Barry quote,
+         an ascii-art Bart Simpson, or even a randomly picked Project
+         Guttenburg e-text. Share and Enjoy! And the best thing is,
+         if your autoresponder is *really* broken, it's the gift that
+         we'll keep on giving! (If you're not sure if you're eligible
+         for our special offer please consult your mail
+         administrator.  If a look of panic creeps across their face,
+         do let us know.)
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+                 "the lowest form of wit" (p121, Internet Monthly)
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

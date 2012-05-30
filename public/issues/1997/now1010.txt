@@ -1,0 +1,428 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK> 
+| \ | |_   _| |/ / _ __   ____10/10/97_ o Join! Mail 'subscribe ntknow' 
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net 
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at: 
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                   "People underestimate what companies can do under
+         competitive pressure. Nobody saw Netscape coming and no-one
+                                 is really sure where we are going."
+                                    - JIM BARKSDALE, CEO of Netscape
+                              somebody else want to look at the map?
+
+
+                               >> HARD NEWS <<
+                                soft wariness
+
+         "American taxpayers, companies, and government built the
+         Internet. This is something uniquely American." So said the
+         uniquely American Representative for Mississippi, Charles
+         "Chip" Pickering - keen footballer, farmer, and chairman of
+         the US House Science Committee. He was defending his
+         committee's decision this week to consider legislation
+         banning non-Americans from registering .com addresses, and
+         his horror at the idea of passing control of domain name
+         admin to a bunch of foreign Swiss guys. Also, the committee
+         was very concerned that NetNames (a company run by a known
+         British citizen, Ivan Pope) had been going around actually
+         *aiding* and *abetting* Libya by running its .ly domain -
+         in direct contravention to the USA's foreign policy. This
+         despicable act, of course, would go unchecked if domain
+         names were controlled by a neutral international body. We
+         at NTK applaud Mr Pickering's intent on keeping the
+         Internet free of foreigners (particularly the Libyan bits),
+         and have extradited ourselves from .com domain as a show of
+         support. Also, we'd like to take this space to condemn
+         outright the Gadaffi-lover Pope, who has already registered
+         the terrorist domains "net.ly" and "f.ly".
+         http://www.msnbc.com/news/113761.asp#BODY
+                               - can no-one stop this evil dictator?
+         http://democracy.net/events/09301997/realaudio.cgi?soundbite=briefing
+                      - fast forward to 20:20 to hear his evil plans
+         http://www.ntk.net/
+         - what? He says we can't have .net either? But .co.uk sucks!
+
+
+         You'll have read about NORWEB's "breakthrough in sending
+         data through the electrical supply" in all the papers. And,
+         if you're like us, you'll have greeted it with a hearty
+         "yeah, riight". Well, in answer to your unspoken, cynical,
+         questions - yes, it does include an uplink (the 1Mbps is
+         *bidirectional*), yes, NORWEB do have some clue about
+         connecting to the Net (they were involved in the setting up
+         of MaNAP - see NTKs passim - and have fibre all over the
+         North West) and no, it isn't 1Mbps straight into the home
+         (you'll be sharing that bandwidth with the other 200 or so
+         families connected via your local sub-station). In terms of
+         performance, it's not dissimilar to ADSL, BT's chosen
+         technology to ram high bandwidth up their copper telephone
+         wires, but then, BT aren't exactly in a hurry to make phone
+         access redundant, are they? BT themselves gave a muted
+         response to Norweb's announcement, saying they did not
+         believe their business would be affected because "strong
+         content was the key to success on the Internet." Yeah,
+         riight.
+         http://www.adsl.com/
+                    - those Hugh Laurie ads must be worth *billions*
+         http://www.norweb.net/
+          - oh, and it won't work in the US. Phew, eh, Mr Pickering?
+         http://www.ntk.net/archive.cgi?back=a97/now0725.txt&line=40#l
+                 - expect a glut of Oasis Websites by 3rd quarter 98
+
+         Thick impenetrable smoke continued to billow over the
+         island of JAVA this week, as current rulers SUN
+         MICROSYSTEMS set fire to thousands of acres of MICROSOFT
+         licensing contract. Sun filed suit Tuesday against
+         Microsoft over Explorer 4.0's implementation of the Java
+         language, claiming (hold your breath) trademark
+         infringement, false advertising, breach of contract, unfair
+         competition, interference with prospective economic
+         advantage, inducing breach of contract and dumping that
+         giant 'E' on Netscape's porch last week (technically a
+         Class A drugs offence). What Sun seem *really* riled about
+         is Microsoft's seeming intent to ignore Sun's plans for
+         future Java class libraries. The key to Java's power lie
+         with these libraries, which a) Sun will control and b)
+         Microsoft won't. But Explorer ships with a few classes of
+         Microsoft's own - ones that neatly seek to replace Sun's.
+         They can't get Gates on this trickiness - but Sun do
+         believe they can catch him on other tweaks to the current
+         libs that Microsoft couldn't resist making. So, will a
+         swift settlement help clear the air over Java? Judging by
+         the length of previous MS cases, it's going to be a long
+         time before the rains come again.
+         http://www.sun.com/announcement/
+         - best use of "fear, uncertainty and doubt" in a press release
+         http://www.macinsider.com/mozilla.jpeg more 'on e' jokes here
+         http://seawifs.gsfc.nasa.gov/SEAWIFS/IMAGES/SEAWIFS/fires.jpg
+                                          - call it pathetic fallacy
+
+         Another thing the US doesn't have - yet - is a suitable
+         legal recourse against spamming. Scotland Yard's Computer
+         Crime Unit were called in recently to assist the Isle of
+         Man ISP ENTERPRISE NET, following a series of bulk-mailed
+         messages which seemed to emanate from their dial-up
+         accounts. A gentleman is currently helping police with
+         their inquiries. And that's all we can say at this stage.
+         We'll keep you informed.
+         http://orion.webspan.net/~arny/cmuse.html
+                                  - that Computer Misuse Act in full
+         http://www.enterprise.net
+               - for legal reasons we can't make jokes in this story
+
+
+                               >> ANTI-NEWS <<
+                        you ran that past us - again?
+
+         "Flaming the famous is popular on the Internet" uncovers
+         CNN... Times INTERFACE section refers to "degauzing" disks
+         - that's removing the lint inside, is it?... TORY PARTY now
+         has fewer subscribers than C|NET's SHAREWARE DESPATCH...
+         EVENING STANDARD warns Blair against being taken in by Bill
+         Gates hype, then states "his Explorer 4 system is now the
+         dominant navigational software on the Internet"...
+         INTERFACE journalist visits EU Net regulation conference,
+         asks "What is PICS?"... STEVE JOBS aims to "kick ass"...
+         BBC clamps down on small Notts bakery for making
+         TELETUBBIES BISCUITS... DEMON gets EASYNET-style license to
+         operate as telco... bug found in Money 98, IE 4.0... RAY
+         HAMMOND discovers Microsoft investing in biotech, deduces
+         Gates is planning "immortality"... after Shift Control,
+         TIMES (creators of renowned INTERFACE section) to launch
+         on-line cyber-hip students' mag...
+
+
+                               >> EVENT QUEUE <<
+                  a social calendar for the interrupt-driven
+
+         Just one week till the start of DEVELOP '97, Miller
+         Freeman's combined exhibition/conference for games coders
+         and software groupies, which runs from 17/10/97 to
+         19/10/97. Celebs this year include ubiquitous former
+         Bullfrog Peter Molyneux, Dave "Earthworm Jim" Perry, and -
+         most excitingly - EUGENE JARVIS, the man behind Defender,
+         Robotron, Stargate and, er, Cruisin' USA. Taking place at
+         The Novotel, Hammersmith (didn't they hold Amiga shows
+         there once?), the event hopes to acknowledge the "growing
+         importance of AI, 3D and online gaming", though if the
+         latter's more your bag, also check out Online Games 1997,
+         from 4/11/97 to 5/11/97 at the Cafe Royal on Regent St. (Is
+         that perhaps a slightly smaller venue?)
+         http://www.develop96.com/
+         - old, but it's the same every year; replace Saturn with N64
+         http://www.cs.uregina.ca/~bakay/jarvis/jarvis.html
+                              - the very essence of "essential cool"
+
+         Want to be doused in anti-matter? Want an injection of
+         radioactive water? Want a photo of YOUR OWN BRAIN? That's
+         the deal going down at the WELLCOME DEPARTMENT OF COGNITIVE
+         NEUROLOGY, who are on the lookout for volunteers for
+         experiments involving their Positron Emission Tomography
+         (PET) and Magnetic Resonance Imaging (MRI) units. You'll
+         spend a couple of hours doing some simple tasks while huge
+         bits of impressive machinery scan your head. The
+         radioactivity of the water, which is injected into your
+         arm, is minimal (equivalent to around 9 months in Devon or
+         about .2 seconds in Balei, see below), the photo of your
+         brain can be ftp'd to the site of your choice or printed
+         out, and you get a free Institute of Neurology T-shirt. We
+         genuinely think this is a great deal. Are we mad? There's
+         only one real way to find out...
+         http://www.fil.ion.ucl.ac.uk/volunteers.html
+         - or contact Dr Naranda Ramnani directly on 0171 833 7484
+         http://www.spb.su/times/284-285/radioactive.html
+                     - Reclaim The Streets readers: please calm down
+
+         Continuing that old rivalry, Mr Patrick Stewart has taken
+         Shatner's lead in planning a new marriage. That's right -
+         Captain Picard has engaged the babe. His fiancee is Wendy
+         Neuss, a producer on Star Trek: Voyager. Stewart has been
+         married twice previously - once to choreographer Sheila
+         Falconer, and once in that Season 5 episode when he touches
+         the satellite thing and lives out an entire life on a
+         doomed planet, only to find it was all - a dream!
+         http://204.162.80.99/News/Items/0,1,1761,00.html
+              - somewhat old news, but we thought you'd want to know
+
+
+                                >> TRACKING <<
+                   web site come by this way two moons past
+
+         As predicted in NTK (actually, it was a joke), you can now
+         run Horace Goes Skiing on the PSION SERIES 5. Yup, the beta
+         of a Psion ZX SPECTRUM Emulator is available for download.
+         Even more impressively, the same company has released a
+         shaded 3D Doom WAD renderer. We can't wait to see what they
+         do when John Carmack releases the full Doom source later
+         this year, as promised. Or if they get hold of the pirated
+         Quake source that's doing the rounds. Or if they take any
+         more of our jokes so seriously.
+         http://www.palmtop.nl/spectrum.html
+          - the great thing is, the Series 5 has *better* resolution
+         http://www.palmtop.nl/encore.html
+                  - what *is* it with RISC chips and emulators, huh?
+         http://www.ntk.net/archive.cgi?back=a97/now0620.txt&line=18#l
+                                               - just for the record
+
+         Connectix have released Speed Doubler 8, the MacOS-
+         compatible version of their popular, ah, speed doubling
+         software for the Mac. Extra features include a QuicKeys-
+         alike, which allows you to assign keys to perform sets of
+         Finder commands, and a folder synchronising utility. The
+         package costs $49.00, and they've organised a rebate system
+         for Connectix users - but only in the US. Guess we're not
+         uniquely American enough for them.
+         http://www.connectix.com/html/speeddoubler.html
+                    - run it on a 350Hz Mac, and you go back in time
+
+         A medium-to-heavily buggy pre-release of DREAMWEAVER,
+         Macromedia's promising HTML design suite, is available to
+         download from their site. Nice touches include support for
+         layers and dynamic HTML programming, tight source
+         generation, plus a vaguely-comprehensible method for
+         dealing with frames. Down points - we couldn't run it for
+         more than five minutes before it puked on our shoes. Not so
+         much try before you buy, as try before *they* try.
+         http://www.dreamweaver.com
+               - masochistic first adopter/designer hybrids, sign up
+
+         They're just catching on to Teletubbies and, by way of
+         cultural exchange (or perhaps reprisal), the US is coming
+         right back with SOUTH PARK, a mildly controversial pseudo-
+         2D/3D animation that started life as a short film depicting
+         a fight between Jesus and Father Christmas. The show
+         already seems to have been banned in Canada, but Comedy
+         Central are catering to fans everywhere with a themed South
+         Park chat area, using The Palace software to emulate
+         classic show activities like "kicking the baby, killing
+         Kenny, or making Stan puke". Also hoping to gross millions:
+         Ren And Stimpy creators SPUMCO, who launch their new net-
+         only Shockwave cartoon, The Goddamn George Liquor Program,
+         next Wednesday.
+         http://www.weirdness.net/~acd/soxmas/soxmas.mov
+                                             - 50 megs, but worth it
+         http://comedycentral.com
+         http://www.spumco.com
+                 - let's hope it wasn't just banned 'cos it was shit
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Gameboy inventor GUMPEI YOKOI goes to that secret level in
+         the sky... SOJOURNER contact re-established, reports
+         current NTK heartthrob on +1 800 391 6654... OASIS heckled
+         with laser pointers... www.afterlife.org/ ... how much
+         would you pay to see KILLER WHALES and GREAT WHITE SHARKS
+         fighting?... www.westword.com/extra/conspire.html ... Best
+         IE4.0 error message so far "We need your fax number so that
+         we can respect your wish not to receive unwanted faxes"
+         ... a recent domain name transfer document (.com, Chip!) 
+         authorised by all five SPICE GIRLS... British company
+         registers TRICORDER as trademark... where is Jet Set
+         Willy's MATTHEW SMITH?... www.snotartwig.com/home.html ...
+         at last! Duke Nukem action figures!...
+         www.sagebrush.com/~sells/ ... when Bill Gates registered at
+         one UK Website, the password hint he was sent was "it's
+         where you work"... BBC 75th birthday warts-and-all docu
+         "stops" at 1987, when JOHN BIRT joined... Lego Island? LEGO
+         DOOMWAD! www.gyugyi.com/legocad/legocad.html
+
+
+                               >> MO' MEDIA <<
+          why don't your turn in and do something less interesting?
+
+         TV>> the weekend starts with multiple deja-vu - wasn't Sam
+         Raimi/Coen Bros shlocker CRIMEWAVE (12.10am, Fri, BBC1)
+         shown on C5 just a few weeks ago?... Ross and Rachel split
+         up, get back together again in FRIENDS (9pm, Fri, C4),
+         should anyone still care... plus: there seem to be *two*
+         "Carry On" movie seasons running simultaneously on LWT
+         (CARRY ON FOLLOW THAT CAMEL, 2.55pm, Sat) and C4 (CARRY ON
+         CONSTABLE, 5.55pm, Sun)... CLIVE BARKER'S A-Z OF HORROR
+         (11.30pm, Sat, BBC2) turns its tedious attentions to
+         possession classic The Exorcist, but is fortunately
+         followed by understated black and white spookfest THE
+         HAUNTING (12.10am, Sat, BBC2) - tough competition for
+         Tiswas' favourite car chase in THE BLUES BROTHERS
+         (12midnight, Sat, ITV)... surprise '70s repeat of the week
+         is, of course, aren't-foreigners-funny sitcom MIND YOUR
+         LANGUAGE (4.15pm, Sun, LWT only)... whoever decided that it
+         should be sci-fi every week on THE OUTER LIMITS (9.15pm,
+         BBC2, Sun) has improved it no end... well *done* the BBC -
+         those out-of-date episodes of THE SIMPSONS (6pm, Mon & Fri,
+         BBC2) are now back twice a week - for five weeks only...
+         the final DECISIVE WEAPONS (8pm, Mon, BBC2) can't seem to
+         make up its mind about the F117A stealth fighter, while the
+         terminally boring EQUINOX (9pm, Mon, C4) looks, aptly
+         enough, at comas... it's not just rounding off 75 mins of
+         sitcom greats with SEINFELD and LARRY SANDERS (from
+         11.15pm, Tue, BBC2), THE PHIL SILVERS SHOW is on at
+         midnight nearly every day this week... and, in other good
+         news, the one with the intellectual sports heroes is by far
+         the best episode of SLIDERS (6.45pm, Wed, BBC2) in this (or
+         any other) universe...
+
+         MOVIES>> in THE GAME (imdb: thriller / mystery), Michael
+         Douglas plays - you've guessed it - another powerful (but
+         vulnerable) man whose life turns upside-down. This time,
+         the culprit is Consumer Recreation Services, perhaps best
+         described as a paintball company gone mad. Not quite as
+         grippingly unpleasant as director David Fincher's previous
+         Se7en, but then again, what is?... alternatively, there's
+         Disney selling public domain culture back to you in
+         HERCULES (imdb: adventure / animation / comedy / musical /
+         hercules / disney-animated-feature / legend), albeit
+         disguised with Gerald Scarfe sketches and oodles of self-
+         parody... still, probably more laughs than Gary Oldman's
+         gritty take on Harry Enfield's "The Slobs", NIL BY MOUTH
+         (MPAA rated: R for "graphic drug use, non-stop strong
+         language, some nudity and brutal domestic violence")... or
+         indeed the latest Robin Williams abomination FATHER'S DAY
+         (MPAA rated: PG-13 for "drug references and some sex-
+         related humor" - by all accounts, not enough of it)...
+
+         GAMES>> hotly awaited race-car sequel FORMULA 1 '97
+         (Psygnosis, PC & Playstation) did over 2 million quids'
+         worth of business in its first three days on sale,
+         apparently about as much as the UK opening weekend for the
+         movie Men In Black... cute-animals-in-space shoot-em-up
+         LYLAT WARS (Nintendo, N64) seems unlikely to knock F197 off
+         the top spot, but does include a vibrating rumble pack for
+         its UKP59.99 price tag. What we want to know: *who is it*
+         who won't let them use its cooler US title, STARFOX 64,
+         over here? Maybe George Lucas, who apparently doesn't want
+         anyone calling stuff "Star [Anything]"?... KURUSHI (Sony,
+         PlayStation) is the world's most nightmarishly Kafkaesque
+         gothic Tetris clone, but the only realistic fluid movement
+         in speedboat cash-in RAPID RACER (Sony, PlayStation) will
+         be your tears of disappointment and rage... and yes, we
+         here at Special Projects *were* involved in writing some of
+         the questions (though none of the rude swearing ones) in
+         the UK version of YOU DON'T KNOW JACK (BMG, PC & Mac,
+         UKP29.99), and, truth be told, it turned out much better
+         than we thought. Smack your own (slightly wordy) 15 meg
+         demo at www.jackuk.com/
+
+         COMPO RESULTS >> You didn't think anyone would take us up
+         on it, did you? Well, neither did we. So it was great
+         reluctance and irritation that we award ten pounds and a
+         bunch of CDs to NTK reader DAVID MERY for winning last
+         week's STALKING BILL GATES challenge. David, who works at
+         NTK's favourite hardcore top-shelf development mag, EXE,
+         not only met the man himself on his visit to Cambridge
+         (requirement #1), but also incomprehensibly harangued him
+         in front of the world's press about releasing the source to
+         the original Gates-and-Allen coded 4KB BASIC (as Gates
+         promised to do almost a decade ago) - winning him an extra
+         bonus fiver. Congratulations to David. And as for you, Mr
+         Gates - the clock is counting. You wouldn't want another
+         court case on your hands, would you? Ha ha ha. Only joking.
+         Please put that writ away. Thankyou.
+
+
+                            >> XMAS COMPETITION <<
+                          can life get much better?
+
+         But there's more. At last, NTK can reveal its long-
+         promised, genuinely job-threatening (for both you and us)
+         SUPER-DUPER XMAS COMPETITION. Winners to this *not* only
+         get a CHOICE GIFTS FROM THE INCREDIBLE HAMPER OF GEEKY
+         GOODIES, *not* only get to APPEAR IN NTK (possibly
+         pseudonymously), but ::drum roll:: every one of them will
+         receive a VIP INVITATION to the infamous ".NOT AWARDS"
+         celebration party, to take place this December in the
+         bustling metropolis of London (rated three stars by Wired
+         Magazine), where they will mix with the lowest shameful
+         ranks of this country's digeradoes. And yet, they will feel
+         no embarrassment for they will be treated as THE LIVING
+         GODS THEY INDUBITABLY ARE.
+
+         How can you win such incomprehensible plunder?
+         We have to say: it's not easy. To have a chance, you'll
+         need a keen mind - a quick wit. To stand a good chance,
+         you'll have to be the Webmaster of a major corporation or
+         financial institution. And to win the top prize - the
+         coveted "CAPT'N OF THE READERSHIP 1997", you'll have to be
+         out of your fucking mind.
+
+         For the rules, see http://www.ntk.net/compo/
+
+         This week's clue:
+
+               My top level domains would not concern Chip,
+               My middle, though nine bytes, is made of two bits.
+               Its first char is rolling - at least when it's vocal,
+               The transition is transport, but only the local.
+               My last is in kilobyte but not in computer,
+               My whole is a gauge for annoying commuters.
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "e-mailing confetti".
+
+      special spesh thanks to the domainmeisters at www.123domainme.com
+                 for saving us from domain transfer purgatory
+
+                                 NEED TO KNOW
+             THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                           but retain SMALL PRINT.
+     Contact terry@spesh.com for fascinating commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 

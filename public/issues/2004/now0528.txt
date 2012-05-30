@@ -1,0 +1,213 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-05-28_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         
+        "Iran has mastered between 60 and 70% of the technology needed 
+         for the production of nuclear fuel, a former Iranian 
+         representative to the International Atomic Energy Agency 
+         (IAEA) said..."
+http://www.news24.com/News24/World/News/0,6119,2-10-1462_1532374,00.html
+             ...at 90%, they'll have enough energy to start building a 
+                Battle Lab, Spy Satellite, army of Chrono Legionnaires
+
+
+                               >> HARD NEWS <<
+                          henceforths and hithertos
+
+         Last time the purple T Rex made a flailing-armed assault on
+         the Net, it was to demand that a parody song be removed from
+         a site for trademark reasons. The site in question? The EFF,
+         who did what you'd expect: sighed a little, then pulled back
+         a curtain to reveal sixteen thousand First Amendment/
+         Copyright Jedi attack lawyers. This time, scenting easier prey,
+         BARNEY THE DINOSAUR went for a smaller, crunchier, victim: the 
+         owner of barney.co.uk, six year old Barney Loosemore. Latter
+         Barney was of course maliciously hoarding the domain under
+         the ridiculous pretense that he had as much right to his own
+         Christian name as said fictional corporate entity. Mmm, good
+         multinational branded dinosaur eats here. Unfortunately,
+         Barney L.'s dad is Tom Loosemore. Tom is an old school
+         netizen, ex-Wired UK refugee. He helped set up FaxYourMP,
+         and various other NTK favourites. Tom sat down and
+         explained, in words that even dinosaurs understand, why you
+         can't steal domains from little children. Nominet's dispute
+         arbiter agreed, spattered HIT Entertainment's plea with
+         corrective "[sics]", and kicked it out of pretend domain 
+         name court as fast as its stubby little, reptilian little,
+         vexatious little extinct legs could stumble. Jesus, even the
+         real dinosaurs didn't go *picking fights* with meteors.
+www.nominet.org.uk/DisputeResolution/Decisions/Drs01544Barneycouk.html
+                        - worth reading for the ill-concealed contempt
+         http://www.hitentertainment.com/portal/flash/player.asp
+    - can someone cause some kind of worldwide Wiggle-extinction event?
+  
+         There probably won't be much of an NTK next week; we'll most 
+         likely send out a schedule for the ground-breaking UK NOTCON 
+         taking place the following Sunday (2004-06-06) - which might 
+         still be useful even if you can't make it to London, due to a 
+         "more than token" effort to webcast and IRC-dissect as many 
+         sessions as possible. Then we're hoping to take off most of 
+         the rest of June for essential site maintenance, and perhaps 
+         even a redesign as controversial as 2000's slightly greyer 
+         border on the website and 1997's ditching of the "Culture" 
+         section. Please continue to send us stuff, however, especially 
+         if it might still be funny in a couple of weeks' time, or if 
+         your reminiscences of the last 7 years are as poignant as 
+         those of reader BEN SCHOFIELD, who must speak for many of us 
+         as he recalls: "Jesus Christ, I've been reading this every 
+         week for seven years. I've no more money than when I started, 
+         and my main leisure activities still consist of getting drunk 
+         and sitting in front of computers. Where has my life gone?"
+         http://www.notcon04.com/
+            - just a thought, Ben: maybe it's gone to South Kensington
+        
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         that's a *lot* of <form enctype="multipart/form-data"> tags: 
+         http://www.ntk.net/2004/05/28/dohcgi.gif ... double negative 
+         o' the week: http://www.ntk.net/2004/05/28/dohieee.gif ... 
+         Transport for London's political incorrectness gone mad: 
+         http://www.ntk.net/2004/05/28/dohdefect.gif ... Widdy of week: 
+       http://halfpricewebdesign.co.uk/?f=The%20Whole%20Fricking%20World
+         ... not quite his original goal of retaining both American 
+         continents for the Spanish empire, but still keeping his hand 
+         in: http://www.ntk.net/2004/05/28/dohincharge.gif ... those 
+         missing millions: http://www.ntk.net/2004/05/28/doh2e.gif , 
+         http://www.ntk.net/2004/05/28/doheco.gif ... guess why we 
+         didn't run the last line of the main text as a Google search: 
+      http://www.antiquerestorer.co.uk/sbs/clockbase.htm ... reassuringly 
+         expensive: http://www.ntk.net/2004/05/28/dohhar.gif ... for real 
+         completists: http://www.ntk.net/2004/05/28/dohwing.gif ... enjoy 
+         "Various Artists"?: http://www.ntk.net/2004/05/28/dohvar.gif ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         By some freakish act of omission, we've never mentioned
+         TWISTED, Python's own event-driven based-on-a-MUD became-an-
+         appserver-cum-package-installer-cum-IRC-bot framework.
+         Similiarly, we've never banged on about JYTHON, the Python
+         that runs in the Java VM. Allow us to address both these
+         failings by talking about two funky web-testing applications
+         built upon each. Python Browsing Probe (PBP) is a web
+         session scripting tool built on Twisted and Python's
+         "mechanize". It lets you script and record a set of Pythonish
+         commands for clicking on buttons and filling in forms,
+         letting you automate a whole Web session in a text file.
+         Mechanize can't *quite* cope with Javascript (yet): so if
+         you want to use Python to, ooh, say, automate your bank's
+         javascriptastic statement-downloading Webpage, you might
+         want to try Jython with HTTPUNIT. HttpUnit is Java's own
+         browser emulator, which, thanks to the Mozilla project's
+         Rhino javascript-in-java, is pretty down with the .js. If
+         you're a Pythonista looking to test your own flaky website
+         (or spider someone else's), and/or you like Javascript 
+         implementations named after funny animals, give them a try.
+         http://pbp.berlios.de/
+               - also linked to buildbot, a neat Python tinderbox lite
+         http://httpunit.sourceforge.net/
+                              - pretty easy to get running with Jython
+         http://www.jython.org/
+                                             - Jython now up to 2.2ish
+         http://wwwsearch.sourceforge.net/python-spidermonkey/
+                      - Javascript in Python. Now my head really hurts.
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         come on, you were all thinking it: www.martian.fm/artburn.htm 
+         ... not the not-safe-for-work "derriere" the Renault ads had 
+         in mind: http://images.google.com/images?q=megane&safe=off ... 
+         Future launch "paperless", potentially "readerless" magazine: 
+       http://www.indiemagazine.co.uk/cgi-bin/news.cgi?id=2593&section=3
+         ... Oxfam http://www.bignoisemusic.com/ rebadge of Peter 
+         Gabriel's OD2 service requires IE5, Windows Media Player 7, 
+         "doesn't even display in Opera", apparently... handy IQ test 
+         - by seeing how many stupid diallers you're dumb enough to 
+         install: http://www.personaltest.co.uk/ ... spoof "fan" mail?: 
+         ftp://ftp.bbc.co.uk/pub/sketch/monkey.txt (semi-anonymised 
+         mirror: http://www.ntk.net/2004/05/21/dohmonkey.txt )... 
+         together at last: http://sam.zoy.org/fun/goatse/ ... webcams - 
+         were they the "blogs" of the 1990s?: http://www.biddycam.com/ 
+         ... amazingly, it's all just "concerned citizens" helping out:
+http://www.google.com/groups?selm=c7sa0t%24prj%241%40FreeBSD.csie.NCTU.edu.tw
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+ 
+         TV>> BIG BROTHER (10pm, Fri, C4) "gets evil" in its new 
+         series, an intriguing development for anyone who thought 
+         TV's most exploitative glorification of CCTV surveillance, 
+         presented by cackling bully Davina McCall, might have gone 
+         some distance down that path already... Andrew Gilligan has 
+         clearly moved on from all that recent unpleasantness when he 
+         asks "Do Our Spies Sex It Up?" in 30 MINUTES (6pm, Sat, C4) 
+         ... and despite apparent inaccuracies in the opening explosion 
+         http://www.intuitor.com/moviephysics/swordfish.html , we still 
+         have a soft spot for anti-terrorist hacker curio SWORDFISH 
+         (10pm, Sun, C4)... the Digital Spy forums claim that HOW 
+         FRIENDS CHANGED THE WORLD (3.55pm, Mon, C4) was previously 
+         pulled from transmission due to Warner Bros "rights issues" 
+         http://forum.digitalspy.co.uk/board/showthread.php?t=125420 
+         ... Arnie erases a painful relationship using memory implants, 
+         an Uzi in relentless "Eternal Sunshine" companion TOTAL RECALL 
+         (10.20pm, Mon, BBC1)... C5 takes its second look at STRANGER 
+         THAN FICTION: THE TRUTH BEHIND THE MOON LANDINGS (9pm, Wed, 
+         C5) http://www.ntk.net/index.cgi?b=02002-08-09&l=208#l in less 
+         than 2 years... as science and sensationalism satisfactorily 
+         combine in new three-part embryology docu HUMAN MUTANTS (9pm, 
+         Thu, C4)... 
+         
+         FILM>> wisecracking audiences will enjoy the long gaps for 
+         sarcastic comments after almost every line of the daft dialogue 
+         in largely enjoyable low-key ID4 remake THE DAY AFTER TOMORROW 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7580 : 
+         Production told American Humane that these scenes were filmed 
+         using real wolves, and then later, in post production, CG 
+         wolves were substituted [...] The director was disappointed at 
+         how calm the wolves were; Emmerich wanted them to snarl and 
+         fight with each other, but the wrangler said that they would 
+         not behave that way since they were from the same pack. Scenes 
+         of the wolves walking through snow and chasing Sam and the 
+         other men were computer generated, as was the wolf that jumped 
+         against the window)...
+                                              
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                       "for every sparrow that falls..."
+     http://pants.heddley.com/2003/12/01/2003-12-01.html#1070280672.720354
+     
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

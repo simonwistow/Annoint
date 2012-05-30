@@ -1,0 +1,340 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-07-26_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "The system does not store the actual fingerprint, but a map 
+         of it which takes in the print's key features..." 
+                          - Stephen Phillips, Micro Librarian Systems
+                    http://news.bbc.co.uk/1/low/education/2144188.stm
+              ...UK schoolkids allowed to keep their "actual" fingers 
+                 
+
+                                >> HARD NEWS <<
+                              where Stanford flew
+
+         A public fight between former partners spills onto a Web
+         forum - with accusations of poor hygiene, two-timing, and
+         sex with goats. Well, even without that last one, the REDBUS
+         vs REDBUS INTERHOUSE spat still promises to be the best
+         online tussle this side of Watford FC. In the red corner:
+         the directors of colocation corp Interhouse, the first and
+         dearest of Cliff Stanford's startup firms after flogging
+         Demon. In the redder corner - Cliff Stanford himself, trying
+         to regain control after being unceremoniously squeezed off
+         the board a few weeks back. Net veteran that he is, Cliff's
+         revenge involves brushing off the forum software, kicking up
+         the HTML, and spooling his side of the story to the
+         shareholders on his Website. The punters, unused to this
+         degree of corporate transparency, have been peppering him
+         with questions - including at one stage requesting (and
+         getting) a detailed breakdown of Cliff's use of the Redbus
+         private jet. The incumbent board are a bit more taciturn.
+         But even Bo Bendtsen, founder of cheapo webhosting co
+         UK2.NET and newly minted Interhouse company director, has
+         been popping in to fend off Cliff's criticisms. And
+         stumbling, it appears, right into the paths of other
+         Interhouse customers, less than happy to see the owner of a
+         competing hosting company take an executive role in their
+         coloc. That said, Bo's no stranger to BBSs: shame we've yet
+         to see any of his old friends from the FidoNet days post
+         their opinions.
+         http://www.redbus.be/rise/
+   - sign up for the forums. hell, buy a share and turn up to the EGM
+         http://www.terminate.com/fidonet/
+                                - Bo looking cool in his earlier days
+         http://www.metafilter.com/mefi/18685
+                                               - goatse.cx in Watford
+
+         Still, it's not all pain and strife. To rollback through a
+         few bits of good news from previous weeks: Yahoo turned off
+         their medieval -> medireview autoconverter, depriving the
+         English language of another synonym for "old and busted";
+         the JPEG committee has, like our anonymous contact, also
+         spotted Lucent pursuing patent claims on JPEG/JBIG codes,
+         and is pursuing it. And, going back a bit further, you may
+         remember ROSS ANDERSON getting het up about the UK Export
+         Bill, which would have placed export bans on a bunch of
+         dangerous items, including some ideas and code. After five
+         months of lobbying, Ross and his cohorts this week got the
+         government to include an amendment that excludes scientific
+         research, material being published, and work in the public
+         domain. Which means you can still write letters about crypto
+         to your friends outside .uk without being convicted of
+         thoughtcrime and ten years in jail. Truly a week in which
+         things got worse slower!
+         http://www.jpeg.org/newsrel1.html
+                              - Joint Photographic Experts, Assemble!
+         http://www.ntk.net/2002/02/08/#HARD_NEWS
+                                               - early Export rumours
+         http://www.cl.cam.ac.uk/users/rja14/exportbill.html
+                                   - Ross actually scarier when happy 
+
+         Bram Cohen, the flaxen-haired hacker behind CodeCon, has
+         been beavering away on BITTORRENT, his P2P obsession,
+         fulltime and unpaid, for eight months. It's nearly ready to
+         ship at DEFCON next week, but it needs a mite more testing.
+         But there's a problem: how *do* you stress test a "swarming
+         downloader"? BitTorrent's a helper app that's designed to
+         allow servers to redistribute the download burden of
+         slashdottings amongst the audience. Download a big
+         BitTorrent-enabled file, and you'll simultaneously upload
+         chunks to your fellow downloaders. It's a nice practical
+         application of P2P. Except how do you simulate a
+         slashdotting? Especially when you've already shrugged off
+         one bona fide, slashdot.org appearence? Cohen sensibly
+         thought of two words here: free pr0n. So he's got a 700meg
+         porn file on his site he'd like you all to download. All of
+         you. Preferably at the same time. If you're curious about
+         network scaling issues, realworld Python applications, or
+         you're just filthy, follow the link below. Preferably within
+         a few minutes of getting this mail. You can always delete
+         the file after you're done - hell, with production values
+         like this, and copyright laws like that, it'd probably be
+         best if you did. And maybe best if you didn't do this at work.
+         http://bitconjurer.org/BitTorrent/download.html
+                  - for Windows and UNIX (including a Debian package)
+         http://www.debian.org/CD/
+          - no, *Deb*ian - talking of which, why not go hardcore, and
+                              distribute the Debian 3.0 ISOs instead?
+
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         starting to run out of the PUERILE GOOGLE MISSPELLINGS: 
+         http://www.google.com/search?q=scientits , cocunt, phpinfo(), 
+         http://www.google.com/search?q=%22DO+NOT+QUOTE+OR+CITE%22 , 
+         and top of the list for "replace this text with title", it's 
+         NASA: http://www.hq.nasa.gov/office/budget/fy96/table.html - 
+         c'mon guys, it's hardly rocket science... what's she pointing 
+         at?: http://www.ntk.net/2002/07/26/dohoo.gif ... alarming new 
+         BULL line: http://www.ntk.net/2002/07/26/dohbull.gif ... "We 
+         ALL need a bilingual tag line": http://www.caerphillycu.co.uk/ 
+         ... the public face http://www.netmgt.com/ of "public design": 
+         http://www.netmgt.com/public_design/ ... recommended by top 
+         amnesiacs: http://www.oup-usa.org/isbn/0340742313.html ... "To 
+         evict Narinder": http://www.bigbrother-online.co.uk/ ... BBC 
+         covers Worldcom crash in pioneering Point/Counterpoint format: 
+         http://www.ntk.net/2002/07/26/dohpoint.gif ... latest EDGE 
+         reviews ailing, Edge-sponsored "Game On" show at Barbican -
+         "well worth a visit", Edge concludes... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         At least three non-London-based events taking place in the 
+         world next week: Finnish demo party THE ASSEMBLY (from Thu 
+         2002-08-01, Hartwall-Areena, Helsinki, from 35 Euros) - now 
+         with Nokia 7650 programming compo; and of course the rumoured 
+         last-ever DEFCON (from Fri 2002-08-02, Alexis Park Hotel, Las 
+         Vegas, US$75). Rounding off this faintly Nordic trio is of 
+         course the Edinburgh Festival, at which we have the pleasure 
+         of recommending consumer-goods home-delivery homage THE 
+         MEASURE OF A MILKMAN (3.15pm, from Wed 2002-07-31, The 
+         Pleasance, Edinburgh, from UKP4), a one-man masterpiece from 
+         Andrew MacKay, best known as "The Professor" from pub landlord 
+         sitcom "Time Gentlemen Please", "Pie Man" from "Lee And 
+         Herring's Fist Of Fun", and a former "Michael Faraday" (and, 
+         we think, "Nikola Tesla") at the Science Museum. 
+         http://www.assembly.org/content/compos/rules_nokia_24h.html
+          - Symbian OS not to be confused with http://www.sybian.com/
+         http://www.defcon.org/
+                                  - coffee, guns, and cannonball runs
+     http://www.edfringe.com/searchshows/detail.php?type=show&id=MILK
+                              - love these NASDAQ-style stock symbols 
+     http://www.edfringe.com/searchshows/detail.php?type=show&id=TALK
+                                             - id=COCK not available?
+    http://www.edfringe.com/searchshows/detail.php?type=show&id=JSPRI
+                            - Lee also launching his "Pea Green Boat"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The problem with chart-drawing programs is the same as their
+         big brothers, presentation programs: the more powerful they
+         are, the more of your precious life you spend tweaking. At
+         what angle and shade of puce, I wonder, should my 3D
+         pyramidical scattergram of our accounting discrepancies over
+         time be? Sometimes you just want a barchart. Well, for
+         simple-living Unix folk, old PLOTICUS may be the answer.
+         PLOTICUS takes in data and config info on the command line,
+         wipes its hands on its denim overalls, and belches a
+         barchart (or linechart, or scatter graph, or whatever) in
+         SVG, PS, PNG or somesuch. It's been around for years. It
+         isn't in Java or PHP, and doesn't use XML. When things go
+         wrong, it doesn't raise an exception, it segfaults. The
+         built-in scripting language looks like something you wrote
+         that time, drunk. But most data sources can be shovelled
+         into it with a bit of Perl massage, and there's a great big
+         pile of built-in (and hackable) scripts that cover most
+         eventualities, and you want a quick-and-dirty chart of your
+         logfile? It's yours. And if you want baroque, you know where
+         the PowerPoint is kept.
+         http://ploticus.sourceforge.net/doc/Welcome.html
+                                               - ooh! bioinformatics!
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         http://news.bbc.co.uk/1/hi/world/americas/2151754.stm imitates 
+         http://www.theonion.com/onion3626/hersheys_pay_obese.html ... 
+         http://www.newscientist.com/news/news.jsp?id=ns99992572 imitates 
+         http://www.theonion.com/onion3631/christian_right_lobbies.html 
+         ... ambiguity in the (figurative?) use of "WE DISHONOR GOD BY 
+         TOLERATING THE LIKES OF THESE": http://www.christocracy.net/ 
+         ... future Al-Qaeda steganographic strategies revealed: 
+www.google.com/groups?q=hihihi&selm=3d2daef8.31075143%40news.btinternet.com
+         ... also from our upcoming "dumb search engine tricks" special: 
+http://www.google.com/search?q=%22self-referential+google+link%22&btnI=1 , 
+         and, of course: http://labs.google.com/sets?q1=hugh&q2=pugh
+         ... semi-literate slashdot-comment found poetry of the week: 
+         http://features.slashdot.org/comments.pl?sid=36274&cid=3908805
+         ... top 100 "best singles ever" - for fans of novelty hits and 
+         TV themes: http://tv.cream.org/arksingles.htm ... well, that 
+         settles it: http://www.simulation-argument.com/ ... you'll go 
+         blind (again): http://www.newsqueak.com/gawking/animatrix/ ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> near non-stop nudity in the movie adaptation of the 
+         Register-recommended spyware screensaver VIRTUAL GIRL (9.55pm, 
+         Fri, C5): http://www.theregister.co.uk/content/6/20169.html 
+         ... Madeline from TV's "La Femme Nikita" breaks a few other 
+         taboos in David "Three Kings" O Russell's debut SPANKING THE 
+         MONKEY (12.20am, Fri, BBC2)... while BIG BROTHER - THE "LIVE" 
+         FINAL (from 8pm, Fri, C4) is intriguingly juxtaposed with the 
+         Richard Burton Eurythmics-themed movie of NINETEEN EIGHTY-FOUR 
+         (2.45am, Fri, C4)... following her popular series of Lloyds 
+         TSB ads, Saturday is Joely Richardson night, as she lezzes up 
+         with Saffron "Deep Blue Sea" Burrows in ART THAT SHOOK THE 
+         WORLD: VICTORIA WOOLF'S ORLANDO (7.05pm, Sat, BBC2), and - 
+         inexplicably - tries to have a child with Hugh Laurie in Ben 
+         Elton-scripted abortion MAYBE BABY (9.05pm, Sat, BBC1)... so 
+         thank heavens for ITV's now-annual showing of SPECIES 
+         (11.30pm, Sat, ITV)... INDIA CALLING (11.05pm, Sun, C4) goes 
+         behind the scenes at an English-language call centre in 
+         Delhi... MAYBE IT'S ME (7pm, Mon-Fri, E4) is the teen sitcom 
+         made by the Pop-Up Video folks, but the title's already been 
+         toned down from "Maybe I'm Adopted"... and, after carting a 
+         fridge around Ireland etc, the supremely irritating Tony Hawks 
+         takes on another pointless bet in ONE HIT WONDERLAND (8pm, 
+         Mon-Fri, Discovery) - stick to skateboarding, dude!... this 
+         week's prurient factual programming includes unsurprising 
+         historical revelations in SEX BC (9pm, Mon, C4), a nice 
+         advertising opportunity for Norton Utilities in the breaks 
+         between THE REAL GARY GLITTER (10.35pm, Tue, C4), a would-be 
+         transsexual Buffy The Vampire Slayer fan in MAKE ME A MAN 
+         (9pm, Wed, C4), and Chris Tarrant parlaying his "Is that your 
+         final answer?" reputation into a voiceover spot on AMNESIA: 
+         TRAPPED IN TIME (8pm, Tue, C5)... Rutger Hauer stalks fellow 
+         USAF pilot Robert "Terminator 2" Patrick in TACTICAL ASSAULT 
+         (9pm, Tue, C5)... and the competition to find terrestrial TV's 
+         worst presenter gets a lot more interesting, as POP (5pm, Fri, 
+         C5) provides a primetime slot for ex-Kenickie vocalist and 
+         PlayUK veteran Lauren Laverne... 
+         
+         FILM>> Crikey, Stevo - looks like you've cut out a couple of 
+         "wanker"s to get a PG rating for deranged talking-to-camera 
+         film-of-the-year contender CROCODILE HUNTER: COLLISION COURSE
+( www.screenit.com/movies/2002/the_crocodile_hunter_collision_course.html :
+         Steve finds and smells dried lizard "poo" and then puts some 
+         in his pocket to save it; Steve playfully pats Terri on her 
+         clothed butt; Terri shows some cleavage in a tank-top; we see 
+         a dog urinating on a man's hat)... otherwise there's yet 
+         another chance to see the maestro flaunting his crude period 
+         humour and novelty wigs - but that's enough about the added-
+         nudity director's cut re-release of Mozart genius AMADEUS 
+       ( http://www.suntimes.com/ebert/ebert_reviews/2002/04/041401.html :
+         The one brief scene of Constanze's breasts, in medium-long 
+         shot, has inspired the flywheels at the MPAA to re-rate the 
+         movie R from its original PG. Thus high school students are 
+         discouraged from seeing this movie)... Mike Myers increasingly 
+         overstretches himself in basically the same fricking identical 
+         film, but with a bigger budget, as AUSTIN POWERS IN GOLDMEMBER 
+   ( http://www.screenit.com/movies/2002/austin_powers_in_goldmember.html :
+         we see that Britney Spears has a navel ring and a small 
+         tattoo; Beyonce Knowles plays [Myers'] foxy female sidekick 
+         who fights with some people, uses some brief profanity and 
+         wears various styles of revealing clothing)...
+         
+         THE VICTORIAN AFFECTATION>> and well done to the following NTK 
+         readers who've taken advantage of the recent downturn to write 
+         that book they'd always wanted to. Though obviously XCom02 
+         lightning presentation stars JAMES BERESFORD and CHE PAULA 
+         DUNLOP didn't write all of THE ALT.CYBERPUNK.CHATSUBO 
+         ANTHOLOGY (UKP16.99) http://www.accanthology.com/ themselves - 
+         they downloaded their favourite stories (and poems) - with the 
+         authors' permission - off Usenet, where some of the highlights 
+         - eg David Palmer's "Bugs" - can handily still be found: 
+     http://groups.google.com/groups?selm=1lpq23INNch3%40gap.caltech.edu
+         ... former GEEK PRIDE organiser TIM MCEACHERN has collected 
+         the wisdom garnered in his years working with the mighty 
+         Andover keiretsu in "yet another clueless business manifesto 
+         for the post-digital age" THE NEW NEW ECONOMY (UKP13.99) 
+         http://www.geeknation.com/ (love that lossy jpeg!), though he 
+         admits that he "wishes he'd thought of" a promo piece like: 
+         http://www.satirewire.com/news/june02/economy_of_errors.shtml
+         ... while ADAM WISHART, who makes those "Blood on the Carpet" 
+         and "Back to the Floor" TV shows, provides an impressively 
+         even-handed account of the "Toywar" row over the etoy.com 
+         domain in LEAVING REALITY BEHIND: INSIDE THE BATTLES FOR THE 
+         SOUL OF THE INTERNET (UKP16.99), which is apparently only just 
+         appearing in shops now because the litigation-crazed etoy 
+         artists collective - who are supposed to be the *good guys* - 
+         tried to injunct it for alleged negative portrayal of them: 
+http://amsterdam.nettime.org/Lists-Archives/nettime-l-0203/msg00050.html
+         ... elsewhere in dead tree publishing: MARK BENNETT proudly 
+         announces that you can now buy Brit cyberzine BLACK ICE (from 
+         UKP5) online: http://www.blackicemedia.net/ , which is useful, 
+         because it's almost impossible to find in the shops. Internal 
+         NTK fanboy opinion maintains that Marvel's THE ULTIMATES  
+         http://persiancaesar.com/continuity/ultimates.htm is "the new 
+         Authority", while this month's must-not purchase - in case you 
+         were tempted - is the suspiciously titled 16-page (+CD) CRAZY 
+         PC (UKP3.95), whose occasional lapses into French lead us to 
+         fear it's a very poorly revived version of CRAZYNET from 1999: 
+         http://www.ntk.net/index.cgi?b=01999-07-16&l=278#l ... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "the t-shirts are so you can see where we are"
+              http://slashdot.org/comments.pl?sid=36782&cid=3957114
+    
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

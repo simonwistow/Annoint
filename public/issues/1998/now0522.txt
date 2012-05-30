@@ -1,0 +1,356 @@
+
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____22/05/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+          "The launch event... will focus on the two specific issues
+                of copyright and education which we believe pose the
+                         greatest threat to music and its creators."
+                - invite to launch of British Music Rights manifesto
+         (Royal Festival Hall, 27/05/98, e-mail britishmusic@bmr.org)
+              they'll never find the MP3 sites if they can't read...
+
+
+
+                               >> HARD NEWS <<
+                                in garish hues
+
+         MICROSOFT continued to act out their "weakest 800-pound
+         gorilla ever to stalk the Earth" routine this week, as they
+         reeled in mock astonishment from the inevitable DOJ/State
+         Attorneys General lawsuits. Bill played for time, pleading
+         with the authorities to postpone the wrangling over Windows
+         98 until 1999, when he was sure it would sort itself out.
+         There were signs, however, that Gates' wimp mask is
+         beginning to slip. Shortly after the action was filed, a US
+         communications satellite "ceased to function", taking out
+         vital pager services and public radio across the continent.
+         Was this the "damage to the economy" Bill was hinting at
+         last week? One satellite per week, Mr Klein, until you
+         submit to our demands...
+         http://www.news.com/News/Item/0,4,22227,00.html
+                        - no, Mr Andreessen - I expect you to *die*!
+         http://www.usdoj.gov/atr/cases3/micros/ms_index.htm
+                              - world domination. The same old dream
+         http://www.microsoft.com/games/urbanassault/
+                                 - they trying to tell us something?
+
+         Probably not an auspicious week, then, for MOTOROLA to ink
+         a deal with TELEDESIC, merging their high-bandwidth, global
+         data wherever you want it, low-earth-orbit satellite
+         constellations. Or maybe it is _ after all, Teledesic is
+         backed by Bill G, and with their main competitor now their
+         bestest friend (to the tune of some $750 million for a 26%
+         share in the project), Teledesic looks to be developing a
+         monopoly in the space-based Net, too. That is, of course,
+         if it all works. Everyone's waiting for this September,
+         when Motorola's lower-fi proof-of-concept voice 'n' pager
+         network, Iridium, gets plugged in. So who do you get to
+         cheer? Well, UK/French Matra Marconi is in the Teledesic
+         deal somewhere, and you can always put a shout out for
+         Hammersmith-Broadway-Shopping-Centre-based ICO, who aren't
+         as flashy, aren't as rich, are only providing global mobile
+         phone functionality, and haven't really got going yet. But
+         *they* are British. Hoo...ray.
+         http://www.teledesic.com/
+         - what to call the new system? Mmm. "Skynet" has a nice ring...
+         http://www.ico.com/
+                                 - "bent-pipe analogue transponders"
+         http://www.sat-net.com/L.Wood/
+                                           - orbiting NTK subscriber
+
+         Some tricky decisions for our automated FALCO monitor this
+         week. *Another* Brit Web agency (CHBi) got bought by
+         *another* bunch of brash New Yorkers (but this time,
+         Razorfish, have the nicer GIFs). Following Online Magic's
+         almost total assimilation by agency.com, we're pegging this
+         as a Falco for CHBi. Elsewhere, academic cleverclogs KBW
+         merged with Oyster "10 Downing Street" Systems, to become
+         Oyster Partners. We'll peg that down as death to KBW, which
+         is unfair, but - nah, we don't care. FalcooOoo!
+         http://www.ntk.net/index.cgi?back=a98/now0213.txt&l=306#l
+            - So let's imagine I'm a new subscriber. What's "Falco?"
+         http://www.teammanager.com/falco/
+                                                      - Way New Dead
+
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         AOL to nab ICQ for $300 million - who says you can't buy
+         off your buddies?... Keith Teare's REALNAMES are *paying*
+         Altavista for their appearances... TRIPOD offer "Ask Evel
+         Knievel" column... EU currency hologram "goes missing"...
+         Members of SCOTTISH FREE PRESBYTERIAN CHURCH slam *own*
+         Website: "Two thirds of all downloads on the Internet are
+         pornographic. Do we want our magazine to appear on
+         something, two thirds of which is for utter depravity?"...
+         RIAA begins suing MPEG3 IRC channel ops...  COMPUSERVE
+         announces Sinatra death: runs picture of Curly Watts...
+         Porn as percentage of total video sales in AUSTRALIA: 20% -
+         anyone told Lynda La Plante? ... Future's PLAYSTATION TIPS
+         mag gives cheat for ReBoot that lets you play "as Eno" -
+         what, *Brian* Eno? ... THE ONION'z timing strikes again:
+         http://www.theonion.com/onion3319/schoolshooting.html
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Appropriately enough, the year's sweatiest video game
+         tradeshow, E3, happens next week in Atlanta, Georgia -
+         unofficial humidity capital of the Deep South. Among the
+         "still going" claims from Nintendo, Sega et al, will be
+         formerly cred Gen X author DOUGLAS COUPLAND, adding weight
+         to the claim that he's "lost it" with his inspired,
+         insightful new title for Prima Games Publishing: Lara's
+         Book - Lara Croft And The Tomb Raider Phenomenon.
+         http://e3.emu-land.org/
+         - "through the eyes of two computer nerds" (unique perspective)
+
+         If it's May, then it must be SCRAMBLING FOR SAFETY time. If
+         you want to hear the people behind the DTI and EC crypto
+         proposals, and then hear lots of other people ask
+         entertainingly awkward questions back, this is the event
+         for you. All the usual suspects are attending - DTI
+         spokesman Nigel Hickson, the gentle Mr Ross Anderson, the
+         God-like Whit Diffie, and Simon "How did you find out I
+         work for Privacy International?" Davies. More fun than
+         bear-baiting and with greater ramifications for the online
+         community too. Install a backdoor in *your* diary for
+         Friday, 29/05/98, 9.50AM - 1700PM, at the Bloomsbury
+         Theatre, London. Tickets are free for the general public,
+         but you should register first (with your PGP key) at the
+         URL below.
+         http://www.cl.cam.ac.uk/users/rja14/sfs98.html
+                                              - Can I bring my nyms?
+
+         The KLF clearly left room for improvement; Londoners
+         everywhere can join this year's attempt to hack the Turner
+         Prize at the LONDON BRIDGE event from 7.45-9.15am next Fri
+         (29/05/98). Passing commuters will be issued with "designer
+         headwear made from paper card... constructed on the split
+         headband principle... customarily referred to as 'ears'" -
+         to make for a funnier-than-usual webcam netcast. Remarkable
+         ears are also a minor selling point of Planet Mirth's Ben
+         Moor, and his one-man high-energy physics family drama A
+         SUPERCOLLIDER FOR THE FAMILY - your "last chance" to catch
+         it is at the Grace Theatre at the Latchmere, London SW11,
+         2000PM next Thu or Fri, or possibly in Bath sometime in
+         June.
+         http://www.londonbridge29may.com
+         - then they split the cash between participants?
+         http://www.latchmere.co.uk/grace.htm
+         - "The world's best feelgood movie that never got made"
+                                                         (The Times)
+
+
+                                >> TRACKING <<
+                             head up! load down!
+
+         Enough selfless dedication to the Mozilla project! Enough
+         ceaseless work on XML parsers, IRC Perl interfaces, and
+         dull bug patches to GNU libraries! You're the very model of
+         a Open Source contributor, and now you want to HAVE SOME
+         FUN. Can we suggest you take a look at SABRE, the Free
+         Software flight simulator? It runs on Linux and Windows 95,
+         looks smoochy in hi-res SVGA graphics, and has all the
+         source you'd ever want to idly toy with. Alternatively, you
+         could download, kick it up, and watch the flashencockpits
+         und blinkenHUDs. As an added bonus, the "Flight Model" is
+         so simplistic, you can actually fly the plane without
+         having taken a degree in aeronautics.
+         http://sabre.cobite.com/
+                                          - the original homepage...
+         http://sabre.cobite.com/guide6.html
+                                        - but this is why we like it
+
+         By now, you've probably heard what the big AMIGA news was
+         last week. If you haven't, we bet you don't even care. But
+         for those of you who love the Amiga scene, not for the the
+         endlessly postponed OS announcements, but for the flush-
+         faced camaraderie, the real news is the release of the
+         brand new Amiga theme song, "Back for the Future". Teutonic
+         in flavour, and insufficiently martial for our liking (we
+         hoped it would sound like the Red Army Choir on the eve of
+         the Battle of Stalingrad), it should nonetheless bring a
+         tear to anyone who had an Amiga Forever sig. A CD of the
+         song is also available, which features an extended remix,
+         the Boing Ball noise and a speech by Petro Tyschtschenko.
+         You think we'd make this stuff up?
+         http://www.amiga.de/gb/Produkte/ThemeCD.html
+                                           - only 14,95 Deutschmark!
+         http://www.epicmarketing.ltd.net/theme.html
+                                            - or 4.99UKP + 1UKP P&P!
+         http://home.t-online.de/home/ripera/nxef-1.htm
+                - Pop-up on ANNEX, the band: they are "fine dancers"
+         http://www.amigainc.com/051598-woa.html
+                - oh, alright, have your boring Amiga OS news, then.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         TOM CHRISTIANSEN sets off nukes in the Perl vs
+         gnu.misc.discuss wars... SPRINGER does bestiality...
+         BlueTooth ... Dreamcast - yuk... arrosage vs polluriel ...
+         http://emptywebsite.com/ ... PANAMSAT was in "safe mode"
+         before accident, press officer claims - but was networking
+         turned on?... referring to domestic/work problems as
+         "planet killers/extinction level events"...
+         http://google.stanford.edu ... So is DIMENSION MUSIC buying
+         up *everybody* in the MP3 community? ...  forget digital
+         cameras: www.imagek.com ... www.denounce.com ... This
+         week's tip comes from LYCOS: "The minus sign (-) excludes
+         words from your search. Example: bill clinton -roger" ...
+         Adam and Joe meet TROOPS.MOV - www.jedinet.com/cinema/ ...
+
+
+                               >> GEEK MEDIA <<
+                   what the well-read autistic is watching
+
+         TV>> some tasty morsels, but surely EC health regs prevent
+         excessive consumption of Victor Lewis-Smith's TV OFFAL
+         (11pm, Fri, C4)... fans *wish* there had "only one" with
+         the arrival of HIGHLANDER III: THE SORCERER (10.25pm, Fri,
+         BBC1)... sadly, it isn't Kevin Kelly on the receiving end
+         of a fatal drugs overdose in John Belushi bio-pic WIRED
+         (12.40am, Fri, "some" ITV)... and, enraged by Lewis-Smith's
+         pranks, a wheelchair-bound physicist goes on a murderous
+         rampage in THE CRIMES OF STEPHEN HAWKE (2.40am, Fri, C4)...
+         this week's C4 theme night based around cheaty-pants panel-
+         game re-creation QUIZ SHOW (9pm, Sat, C4)... if you only
+         ever see one episode of SOUTH PARK (10pm, Sat, Sky1;
+         repeated 11pm, Sun), make sure it's the debut of magic
+         excrement, and '90s icon, "Mr Hankey"... Roger Corman's
+         "cult" (ie dreadful) THE DAY THE WORLD ENDED (1.30am, Sat,
+         BBC2) unwittingly heralds a brief sci-fi season called -
+         unbelievably - "Out Of This World"... and two words sum up
+         Altman's SHORT CUTS (2240, c5): *long film*... Muhammad Ali
+         docu WHEN WE WERE KINGS (9.50pm, Sun, BBC2) punches out
+         parping Brit comedy BRASSED OFF (9pm, Sun, C4) - like The
+         Full Monty, but with trombones!... 15 years, and they still
+         haven't made a hacker movie more elite than WARGAMES
+         (3.55pm, Mon, BBC1)... Rachel "Chain Reaction" Weisz looks
+         less attractive than ever in Euro '96-set romance MY SUMMER
+         WITH DES (9pm, Mon, BBC1)... and Hollywood's obsession with
+         Tibet now traced back to bizarro Eddie Murphy vehicle THE
+         GOLDEN CHILD (10.40pm, Mon, BBC1)... self-flagellating
+         heavy-handed beeb satire IN THE RED (9pm, Tue, BBC2)
+         unlikely to be as funny as US teens vs Commies classic RED
+         DAWN (9pm, Tue, C5)... plus: repeats for award-winning I'M
+         ALAN PARTRIDGE (10pm, Tue, BBC2).... FOR THE LOVE OF
+         (2.20am, Tue, C4) looks at numbers - especially 23... best
+         www.ntk.net/killer comment for the final episode of KILLER
+         NET (10pm, Tue, C4) comes from Keith Lawler: "I waited
+         patiently for someone to point out that he [DS Collingwood]
+         played Jerec in Jedi Knight. You'd think he'd remember."...
+         and no doubt it's logical chronology rather than pseudo-
+         porn ratings-grabbing that ensures an early outing for the
+         "reproduction" episode of THE HUMAN BODY (10.20pm, Wed,
+         BBC1)...
+
+         FILM>> cyborg powersuit comedy STAR KID (MPAA rated: PG for
+         "fantasy combat violence and language") is, at last, a
+         kids' version of The Terminator - and no, Terminator 2
+         doesn't count... low-key indie smartass Tom DiCillo
+         turns on the modelling business in THE REAL BLONDE (imdb:
+         satire / gay / career / film-industry / dog / sexual-
+         harassment / actors / soap / money / waiter / modelling /
+         acting) - but hasn't twigged that he'll never be as good
+         again as Living In Oblivion... like any good car crash,
+         move on, there's nothing to see in wholly unnecessary
+         sequel BLUES BROTHERS 2000 (MPAA rated: PG-13 for "exotic
+         dancing and some language") - worst of all, it isn't even
+         set in the year 2000!...
+
+         FIGHT TO REPLY>> many have leapt to the defence of Lynda
+         LaPlante's much maligned Killer Net, some not even directly
+         linked to the making of the programme... DAVID AMOR
+         confesses "I was the consultant that LaPlante Productions
+         hired to advise on the script," and goes on to reassure us
+         that the tech stuff *was* all theoretically possible,
+         albeit highly unlikely. "I know what can and can't be done
+         on the Internet," he concludes. "Please keep my e-mail
+         address anonymous." Smart move, David - apparently there's
+         some real nutjobs out there... MARK JORDAN of Compuhire
+         wasn't too proud to admit that "I run the company which
+         provided Killer Net with all the computer hardware and
+         software... as well as your Technical Criticisms I would
+         also welcome any comments on how you would prefer to see
+         the net portrayed on UK film & TV productions." Hmm, how
+         about moderately sensibly, like in Neighbours? That'd be a
+         start... and re: the "75 [or 90] per cent of material on
+         the Net is porn" debate [see NTK 08/05/98], .net editor
+         RICHARD LONGHURST responds "It heartens me to see that you
+         at NTK bother to read .net, though you obviously failed to
+         appreciate the Killer Net rent-a-stat irony." Oh, .net is
+         supposed to be *ironic* now is it? Well, *that's* a
+         relief... Arawak's SHANE WALTER ingeniously queried our
+         description of the ICA's ONEDOTZERO2 [also NTK 08/05/98] as
+         the "usual blurry nonsense", proclaiming "nothing usual
+         about this stuff matey! ...we replaced the workstations
+         with Sony PlayStations for the week... conceptual art went
+         out the window as the black sweatered art elite tore up
+         track in Gran Turismo!" Hey, maybe that'll get them to up
+         the frame rates in their "art"... "Thanks for mis-
+         representing my comments about PGP so wildly in your
+         newsletter," chortles Chris Ward-Johnson (aka The Times'
+         Interface DR KEYBOARD). "Pity you didn't see fit to carry
+         my subsequent article on it - or perhaps you do know some
+         way to ensure the provenance of a public key without some
+         secure method of transmission?" Well, you could just phone
+         them up with your PGP *fingerprint* (unless you don't trust
+         the phones, in which case your "secure FTP" solution sounds
+         a bit silly, doesn't it?), or build up a trust network
+         using the public keyservers - though surely a *real* doctor
+         would know that?... and finally, thanks to everyone who
+         pointed out that typing "Need To Know" into
+         www.realnames.com [NTK 08/05/98] actually takes you to a
+         syphilis information page, but the last word goes to LLOYD
+         WOOD, who contrasts line 171 in NTK 17/04/98 ("...shut the
+         HELL UP") with line 52 in NTK 18/07/97 ("...shut the fuck
+         up!"), positing that we used "hell" more in 1998 and "fuck"
+         more in '97 - "Either all the amusement's gone out of it
+         now the CDA's toast, or you guys are slowly losing your
+         balls... still, it's a necessary move for mass-market
+         American acceptance." Au contraire, Lloyd, au contraire - a
+         quick session with our search CGI reveals that NTK has
+         *already* used as many cuss-words in 1998 than in the whole
+         of last year, ie (1997 values in brackets): 9 (9) fucks, 9
+         (12) shits, 1 (0) cunts, 5 (2) bollocks, 1 (0) use of the
+         phrase "sucks dogs' cocks in hell" and - for all you
+         www.screenit.com fans out there - 3 (6) uses of "God" and 0
+         (2) uses of "Jesus" as exclamations... 
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+                  "sharing its birthday with Java. *Uh*-oh."
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

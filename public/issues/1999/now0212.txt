@@ -1,0 +1,326 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-02-12_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+       
+        "Negroponte is just like any ordinary rock star. He gets out
+        of the plane and when he walks down the stairs he still
+        doesn't know which country he is in."
+         - ex-DIGICASH employee on the bankrupt company's board member
+                                      ...well, it's all atoms, right?
+                                         http://jya.com/digicrash.htm 
+
+                                
+                                >> HARD NEWS <<
+                                 lack of clues 
+
+         "Just give us your fokking MONNY!" pleaded this week's
+         rather more self-serving version of Live Aid, seemingly
+         daring Euro MEPs to see who could propose the craziest
+         online anti-piracy measure. International petitioners
+         including The Corrs (Ireland), Jean Michel Jarre (France),
+         and The Spice Girls (2 years ago) scored a rare hit with a
+         ban on unauthorised web cacheing (which surely wouldn't
+         affect those "secure" new distribution systems that the
+         music biz has so much faith in); next is a levy on blank
+         CDs, guaranteed to win the sympathy of everyone who uses
+         them as, say, the data storage they were originally designed
+         for. We're with Malcolm McLaren on why record sales are
+         really in decline: because punters can hear their favourite
+         genre, varying endlessly, on the multiplicity of FM radio
+         stations. As the Phonographic Industry's Frances Moore
+         pointed out, it's "like a music company giving away its most
+         precious asset" - only he was referring to MP3s appearing on
+         "an Internet bulletin board".
+         http://www.ntk.net/euro/
+                       - they come up with all these cool amendments...
+         http://www.ntk.net/euro/nonsense.html
+                              ...then (natch) stick with the original 
+
+         After this ear-bashing, the EC wouldn't do anything as stupid
+         again, would they? Hey, perhaps they *already are*. Last
+         month, during the ongoing privacy discussions between the US
+         and Europe, officials representing the EC began suggesting
+         that not only is caching illegal, but so is storing IP
+         numbers. Because IP quads can refer to an "identifiable
+         person" (well, no, they refer to identifiable machines, but
+         do carry on), even those logs that your Webserver holds
+         could be in breach of EC law. Thankfully, we're guessing
+         that the British Data Protection People wouldn't be so insane as to
+         implement this - but, it's still a sparkling demonstration
+         of the clue-vacuum at the heart of government. On the other
+         hand, this one's been fed to us third hand and via the US
+         authorities but when the second hand was Vint Cerf, who
+         exactly were they trying to fool?
+ http://lyris.isoc.org/cgi-bin/lyris/lyris.pl?visit=isoc-members-discuss
+ - search for "privacy". ironic, since it's supposed to be a closed list
+         
+         From four sources this week, we've had tales of woe
+         regarding WHICH ONLINE. How their marketing department has
+         gone rogue, how they're now flogging products from their
+         Website (legit, but not quite right, yes?), and - most
+         damnable of all, how if you want to escape from their free
+         trial offer without paying for the full month, you have to
+         *write* to them, begging to be taken off. And if we don't
+         investigate them, who will? Let us know if you've any
+         stories, and we'll entertain you with a Cook Report style
+         punch up involving plenty of white goods.
+         http://www.which.net/
+          - ISP of the Consumers' Association? When do we get shares?
+         http://www.cookreport.com/
+                                       - not that cook report. idiot.
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+ 
+         the Cringely on that free PC thang:
+         http://www.pbs.org/cringely/pulpit/pulpit19990211.html ...
+         new king of Jordan appeared in Star Trek: Voyager once...
+         old king however no good at Web design deadlines:
+         http://www.kinghussein.gov.jo/day.html ... "Couples break up
+         because of decreased levels of satisfaction in the
+         relationship - not because they stop loving each other",
+         uncovers REUTERS ... best Tinky Winky site:
+         http://www.liberty.edu/chancellor/nlj/feb99/politics2.htm -
+         "Parents should be aware that the cards feature the same
+         impudent and vile language as the series" ... British Police
+         Unpopular, suggests poll... not even the HOME SHOPPING
+         NETWORK can flog HOTWIRED? ... ICA local funding halved - this
+         time not by PC thefts... Linus don't surf SLASHDOT... BT
+         considering postponing ADSL to "end of this year", the
+         *bastards*... trial MICROSOFT shows speed difference between
+         Windows 95 and 98 (by using different speed modems)... SF
+         restaurant offers free food to those tattooing themselves
+         with their logo... NZ to give Great Apes rights, Gibraltar
+         less enthusiastic - and Charlton Heston *furious*... 
+
+                          >> ANTI-NEWS OF THE YEAR <<
+
+                        "Grateful Dead to release MP3s"
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Tech journo Wendy Grossman may lead a double-life as a folk
+         singer, but somehow we doubt she'll be kicking off her talk
+         MY LIFE AS A SKEPTIC with EMF's incredulity anthem,
+         "Unbelievable". Be cool though, wouldn't it? It's all part
+         of Skeptics In The Pub, believed to be Britain's only
+         regular skeptics event: 7.30 pm, usually the third Thursday
+         of each month (in this case 1999-02-18), upstairs in the
+         Florence Nightingale pub, London SE1. Skeptics and
+         non-skeptics are welcome to discuss science, pseudo-science,
+         the paranormal, alternative medicine and postmodernism, and
+         presumably to have huge arguments about whose turn it
+         *really* is to buy a round...
+         http://linus.mcc.ac.uk/~moleary/ASKE/
+         - "some British skeptics appear to have reservations about ASKE"
+         http://www.skeptic.org.uk/
+                                                 - that's the spirit!
+
+                                
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         We all know that net.artists are absinthe-swigging buffoons,
+         with not the wit to sponge their drool-stained chins as they
+         stare uncomprehendingly at Macromedia Lingo manuals;
+         half-lifes who spend their fat grant cheques in the
+         bawdy-houses of Hoxton and clog up the arteries of The Great
+         Work with their sclerotic Web pages clogged with feckless,
+         Photoschlocked mundanity. Bleating non-descripts, crowing at
+         their own uncommercial purity even as they lick the ass of
+         state and commerce with their manipulative talk of
+         Interactive TV and Educational Community Projects.
+         Stupid people who... who... smell of wee. Anyway, 
+         the 12-HOUR ISBN JPEG PROJECT, we like. Firstly, it
+         does what it says on the TCP/IP packet: a brand new
+         monochrome JPEG to download every twelve hours.
+         Secondly, the creator, Brad Brace, has been doing it for
+         FOUR YEARS. Thirdly, he uses ftp and an alt newsgroup to
+         propagate it: protocolically correct and righteously old
+         skool. Fourthly, it has some hack value: cronjobbed with a
+         shell script, it makes a charming, low-bandwidth, desktop
+         wallpaper. And finally, he *really* pisses net.artists off
+         by spamming their mailing lists with ASCII art. Reeespect.
+         http://www.teleport.com/~bbrace/12hr-isbn-jpeg.html
+                                            - hey, looks pretty geeky
+         http://art-bin.com/art/rbrad.html
+                                                       - oh. oh, well
+         http://www.ntk.net/12hr/get12
+                                   - cronjob for bash 'n' WindowMaker
+         
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         http://www.evl.uic.edu/caylor/MONKEY/famousmonkeys.html ...
+         DAVE WINER apparently unaware that killer app for
+         http://www.mailtothefuture.com/ is suicide notes... oh no!
+         *more* Heath Buntings! http://www.d-b.net/dti/ ... using
+         whois as a contact manager... Joe-Bob Briggs back from
+         grave: http://www.tnt-tv.com/monstervision/this_week.html ...
+         ORANGE going 14.4K?... "rock the deathstar" seems too easy
+         http://mosespa.starwars.com/products/large_product.gsp/id=201/
+         the Americans are "adapting" FAWLTY TOWERS... you know, we
+         preferred it when he was just eating our balls:
+         http://www.pcgamer.com/thl/ ... STARSHIP TROOPERS: ANIMATED
+         SERIES - yes to mobile infantry power armour, no to mixed
+         shower scenes... maybe it is all weather balloons:
+         http://www.accuweather.com/weatherf/ufo_qx01 ... Trip and
+         the 3DO guys get it in the -uh, neck at
+         http://www.gaminginsider.com/ ... bad handwriting = bad
+         person http://www.myhandwriting.com/analyze/hlltrt5.html ...
+         they *wish* http://www.tnt-tv.com/movies/tntoriginals/pirates/ 
+
+                               
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> BBC2's Comedy Zone has never looked funnier:
+         unconvincing nostalgia rubbish DAYS LIKE THESE (8.30pm, Fri,
+         ITV) is literally Carsey-Warner's search-and-replace on the
+         US "That 70s Sh**" (s/Red Forman/Ron Forman/ s/Jackie
+         Burkhardt/Jackie Burget/)... presumably her involvement in
+         that dire Spice Girls "spoof" qualifies Kathy Burke to spoil
+         the flow of Mark Lamarr's gags in NEVER MIND THE BUZZCOCKS
+         (9.30pm, Fri, BBC2)... and, in common with over 58 per cent
+         of her output from 1982 to 1992, there is either partial or
+         full Greta Scacchi nudity contributing to WHITE MISCHIEF
+         (10.25pm, Fri, BBC1)... Howard Stableford gazes enviously on
+         the Ballykissangel success of former colleague Kieran
+         Prendiville, while he is left probing the mind and brain on
+         OPEN SATURDAY (9.15pm, Sat, BBC2)... another WW2 weekend,
+         with apologetically titled ONE OF OUR AIRCRAFT IS MISSING
+         (12.35pm, Sat, BBC2) and A BRIDGE TOO FAR (8.55pm, Sat, C4),
+         plus sci-fi's David McCallum in the plywood-framed MOSQUITO
+         SQUADRON (2.15pm, Sat, BBC2)... surprisingly, it's the same
+         Colin Wilson who wrote both "new existentialism" bible The
+         Outsider and the trash space opera Space Vampires,
+         inspiration for lively Dan "Alien" O'Bannon, Peter "Double
+         Deckers" Firth slash nonsense LIFEFORCE (10.50pm, Sat,
+         C5)... no wonder Peter Berg went mad and directed those Very
+         Bad Things, after the sex-toy treatment he gets in THE LAST
+         SEDUCTION (10pm, Sun, C4) - 18 months since last showing...
+         other Valentine's Day treats include MEN BEHAVING BADLY, a
+         god-awful documentary about Gretna Green, a rape trauma
+         episode of THE LAKES, and the "Noreen Sleeps With Warren
+         Show" of DWEEBS (2.25am, Sun, C4) - believed to be the CGI
+         Keanu Reeves episode, not shown as part of original US
+         run... we've got ANIMAL POLICE (9.30pm, Mon, BBC1) and
+         ANIMAL ER (8.30pm, Mon, C5) but oddly no-one's doing ANIMAL
+         FIRE-BRIGADE... a nervous RIAA would very much like to BLAME
+         IT ON RIO (10pm, Mon, C4) but Michael Caine and Demi Moore
+         have little on Keri "Felicity, Dead Man's Curve" Russell in
+         an early TVM role in THE BABYSITTER'S SEDUCTION (10.45pm,
+         Mon, BBC1)... BBC2 flagrantly interrupts its regular snooker
+         coverage for some of those occasional episodes of SEINFELD
+         (11.15pm, Tue, BBC2), LARRY SANDERS and BUFFY THE VAMPIRE
+         SLAYER (6.40pm, Wed, BBC2)... isn't it weird how Alan J
+         Pakula "died" after making conspiracy-revealing movies like
+         All The President's Men, tonight's similar THE PARALLAX VIEW
+         (11.50pm, Thu, BBC1), and, er, The Pelican Brief... and, in
+         a plot twist we've seen only 5 or 6 times before, nanobots
+         aboard RED DWARF VIII (9pm, Thu, BBC2) have built a tiny
+         version of the old ship from 10 years ago, complete with
+         crew - minus those who had too much self-respect to
+         return...   
+
+         FILM>> Londoners obviously have different expectations of
+         what makes a good Valentine's date movie, with the
+         ultra-bleak talk-heavy Ben Stiller sex games of YOUR FRIENDS
+         AND NEIGHBOURS (imdb: sauna / sex / adultery / art-gallery /
+         black-comedy / cruelty / dysfunction / infidelity / lesbian
+         / mysogynists / relationship) - after this, Neil "The
+         Company Of Men" LaBute hopes to move to screwball slapstick
+         comedies... or Roberto Benigni's Italian-made sub-Chaplin
+         homage LIFE IS BEAUTIFUL (imdb: holocaust / wwii), which is
+         either a charming triumph of clowning over adversity, or an
+         irresponsible Allo Allo-style attempt to make fun out of
+         concentration camps... fans of naming films after songs will
+         be pleased to see that the poster for mildly unusual
+         hypnosis love-story DON'T GO BREAKING MY HEART (imdb:
+         comedy/ romance) features the tagline "He couldn't if he
+         tried!" - clearly an improvement on the original title, the
+         motivational soundalike "Us Begins With You" (geddit? "U"!
+         oh, never mind)... and maybe it's half-term or something,
+         going by the frenzy of daft family films: least annoying
+         should be semi-Romanian Billy Crystal curio MY GIANT (imdb:
+         car-crash / monastry / monks / movies / sport / wrestling)-
+         Michael Lehmann's gone from Heathers, Meet The Applegates,
+         to The Truth About Cats And Dogs - and this... the naughty
+         8-year-old antics of MADELINE (imdb: based-on-novel / family
+         / kids-and-family) sound silly, but not as dumb as bad dad
+         Michael Keaton coming back to life as a snowman in largely
+         pointless f/x weepie JACK FROST (imdb: MPAA: Rated PG for
+         mild language) - not to be confused with the similarly
+         themed straight-to-video horror release of the same name...
+
+         A PUNISHMENT YOU CAN TASTE>> the egg-spawning continues,
+         with the crazy paved Easter grenade fragmenting into CHEWITS
+         BUBBLE-EGGS (25p packet of 6) -  hollow dino eggs, related
+         to the original Chewits genus in name only, much like other
+         Leaf bubblegums, but with fantastic "foaming" flavours. All
+         the fun of eating soap, without that unpleasant "soap"
+         taste... upcoming CADBURY'S YOWIE -
+         http://www.cadbury.com.au/yowie - is already usurped by
+         euro-Kinder-clone CRAZY ZOO (40p), also offering mutatable
+         animals for the junior geneticists of tomorrow... meanwhile
+         Cadbury's excellent MINI EGGS have jumped species to the
+         thriving ecosystem of chocolate "pudding corners" - not as
+         good as the MUNCHIES choc/toffee version, Mini Egg lids tend
+         to peel off in supermarkets and refrigerate rock-hard... the
+         "fat free" revelations continue, with FRY'S (ie CADBURY'S)
+         TURKISH DELIGHT relaunching as "92% fat free (and always has
+         been)", but it turns out that an ordinary Mars Bar is (and
+         always has been?) 82.4% fat free - presumably better for you
+         than a bag of GO AHEAD CRISPS - only 80% fat free ... reader
+         "recommendations" have flooded in for HARIBO MILLENNIUM BUGS
+         ("repackaged Starmix gelatine gum sweets labelled 'Bugs,
+         Viren, Virus'" - seen in Sainsburys, anon), MACCORNS CHEESE,
+         CHOCOLATE AND BACON FLAVOURED POPCORN
+         (http://www.maccorns.co.uk - 99p, seen in Aberdeen Spar, Ali
+         Daniels), and Nestle's rapid response to the Crunchie
+         Explosion, the WONKA EXPLODER BAR ("Chocolate and space
+         dust: one of the more bizarre oral experiences" - Jane L
+         Trobridge)... most romantic Valentine's cash-in strangely
+         isn't TESCO'S "KISS KIND" GARLIC BREAD (95p - 10p more than
+         usual), nor MR LAZENBY'S SPECIAL SAUSAGE (59p, 4oz, contains
+         oysters, premium pork, ginger), but none other than KP SKIPS
+         stepping on Lovehearts territory with a "secret love
+         message" revealed to your beau when they vigorously rub your
+         packet (ho ho). Not sure that empty crisp bags have the
+         emotional impact of cards and flowers and chocolate, but it
+         couldn't hurt to try...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+          It is registered at the Post Office as "liking boiled food" 
+                (http://www.multimap.com/uk/ still intact. phew.)
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

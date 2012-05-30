@@ -1,0 +1,317 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-02-08_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+   "...the brand-name purveyors of American food, fashion and
+   entertainment have never had it so good. Hardly a city on the
+   planet is without McDonald's and CNN and Levi's and MTV. American
+   films are omnipresent and in some markets dominant, accounting for
+   nearly three quarters of movie admissions in Western Europe. Who
+   Wants To Be A Millionaire is a hit in several Asian countries."
+         "The Ever-Expanding Profit-Maximizing
+                     Cultural-Imperialist, Wonderful World of Disney"
+                                                 - WIRED 10.02, pp.72
+ ... Millionaire comes from the US? Is that your *final answer*, Wired?
+                                  Or would you like to call a friend?
+
+
+                                >> HARD NEWS <<
+                                etat des .coops
+
+         Cambridge cryptomancer ROSS ANDERSON continues to be
+         citizen-most-likely-to-be-classed-a-munition, as he blows
+         the (and his) lid off a classy new bit of UK legislation.
+         The EXPORT CONTROL BILL 2002, Anderson notes, allows the
+         government to proactively prohibit any "transfer of
+         technology" between British people and dirty foreigners.
+         "Technology" here means intangibles like encryption
+         algorithms, and reverse-engineering techniques. "Transfer"
+         here includes teaching or publishing in peer-reviewed
+         journals. Or speaking loudly to people who might know
+         foreigners. (Oh, and the government can also ban any talk of
+         DSPs, spread spectrum devices, parallel programming and the
+         crazy monkey magic inside 3D graphics cards that have a
+         "three dimensional vector rate of over 3,000,000"). Those
+         who remember when the only way of exporting crypto out of
+         the US was by tattooing it onto your arm will recognise some
+         of these provisions: nice to see us finally catching up.
+         Especially since the US relaxed those embarrassing crypto
+         regulations last year, when it became obvious how flawed
+         they were. Takes time for that sort of common-sense to leak
+         out of any country though. Careless talk and all that.
+         http://www.cl.cam.ac.uk/users/rja14/exportbill.html
+                                           - shhh! parliament at work
+
+         Not to be left out, the EU of course has its own answer to the
+         USA's ever-popular Digital Millennium Copyright Act - THE
+         EUROPEAN UNION COPYRIGHT DIRECTIVE. The former-Free-Sklyarov
+         guys (now called "the Campaign for Digital Rights") are
+         currently gathering a fellowship of dissenters to try and toss
+         some of its more extreme sanctions back into Mount Doom, and
+         are holding their first public planning meeting in Cambridge
+         in a couple of weeks' time (Sat 2002-02-23). No confirmed
+         venue so far, but that's because you haven't RSVPd yet (to
+         miniconf@uk.eurorights.org ) so they'll know how many people
+         are coming. Full details will be in next week's issue, so if
+         you're a reverse-engineer, an activist, a librarian, an ISP,
+         or just generally concerned about the dark shroud of copy
+         protection spreading across the once-carefree internet, then
+         it should definitely be a fun day out.
+         http://www.openrevolt.org/
+           - now comes with its very own DMCA-style "Takedown Clause"
+
+         Oh, just what the world needs: another unmanageable top
+         level domain. Enter ".coop": ICANN's token nod to the Left
+         and exclusive TLD for the co-operative movement. And one of
+         the first customers for the freshly besuited registrars, the
+         comrades at POPTEL? Why 2600 Magazine, those crazed
+         hackeratchiks and preemptive owners of such classic DNS
+         mindgames as verizonsucks.com, and fuckgeneralmotors.com.
+         Amazingly, it transpires that the co-operative movement
+         isn't too keen to associate themselves with such types,
+         Battle for Seattle or no. Except; wait. Can POPTEL
+         legitimately refuse? The criteria for the new TLD, as listed
+         on the NIC's About page, seems strict - but includes
+         organisations "that are committed to the 'seven cooperative
+         principles'". Which, a quick ruffle through the charmingly
+         Swiss International Coop Alliance website shows, is about as
+         holey as the co-located cheese. According to this,
+         practically anything a bit hippyish and organised  via the
+         Net gets through: any open source project, bloody
+         kuro5hin.org, a good bit of USENET, probably us. And almost
+         definitely 2600. First one to get foo.coop wins!
+         http://www.nic.coop/about.asp#whocoop
+      - the real winners: whoever's "escrowing" the registration cash
+         http://www.ica.coop/ica/info/enprinciples.html
+                                      - so who's the treasurer, kids?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         UKP44,000 jewellery generously throws in ribbon "free of
+         charge": http://store.europe.yahoo.com/confetti-uk/w44212.html
+         ... BBC NEWS ONLINE fears nightmarish 1984-themed bouncy
+         castle: http://www.ntk.net/2002/02/08/dohbro.png ... getting
+         WIDDY wid' it: http://www.ntk.net/2002/02/08/dohcat.png ... we
+         could try looking down the back of the sofa again, I suppose:
+         http://uk.news.yahoo.com/020203/80/crhyh.html ... will I be
+         forced to repeat myself here?: http://www.poptel.org.uk/scgn/
+         ... wow - just look how fast this new NVIDIA chip "blits":
+         http://www.ntk.net/2002/02/08/dohnv.gif ... where JESUS JONES
+         "are now": http://www.sxsw.com/music/0festival/bands/ ...
+         http://www.thebrainstrust.co.uk/article.27.2172.html imitates
+         http://www.theonion.com/onion2816/vowels2816.html ... banner
+         adversity: http://www.ntk.net/2002/02/08/dohorac.png ... why
+         not impress your prestigious clients with a clearly unfinished
+         page design?: http://www.australia.org.uk/home/html/ ,
+         http://webdesign.freezone.co.uk/ ... most disturbing "doh" of
+         the year: http://www.ntk.net/2002/02/08/dohinnis.jpg vs
+         http://cgi.fark.com/cgi/fark/comments.pl?IDLink=112537 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         In a slightly more brutal commemoration of the fact that we're
+         all just mindless automatons driven by genetically 
+         predetermined instinct honed by the merciless rigours of
+         natural selection, Tue 2002-02-12 is of course DARWIN DAY,
+         internationally celebrated by "with it" biology teachers
+         dressing up and taking questions as the great man
+         (increasingly regarded to have been at least as influential in
+         his time as Richard Dawkins is today). The occasion seems
+         particularly popular in the US where, we understand, Darwin's
+         theories are now regarded with merely suspicion, not fear,
+         though you can't help wonder what kind of message they're
+         sending with events like the "Darwin look-alike contest"
+         (Ennis High School, Texas), and the University of Louisiana's
+         showing of the notoriously Lamarckian David Duchovny comedy
+         "Evolution".
+         http://www.darwinday.org/events/calendar.html
+                     - guest of honour: the dolphin from Seaquest DSV
+         http://www.potato.org.uk/include.asp?sec=76&con=76
+             - a heart, stuffed with chips? is this a health warning?
+         http://www.newstatesman.co.uk/nma2002about.htm
+        - oh god, awards season again: http://gbloggies.blogspot.com/
+         http://www.cucs.ucam.org/
+            - on Wed: that talk he did at Strange Attractor that time
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         MIRC, Britain's most popular software export (yes that is a
+         made up fact - but sounds likely, doesn't it?) hit the big
+         6.0 this week. Unfortunately, it's one of those slightly
+         dull integer version upgrades involving an invisible rewrite
+         of the Windows IRC client to remove krufty 16 bit code, some
+         epic struggles with fairly pressing bugs, and heavy code
+         mincing to include multi-server sessions. For users, perhaps
+         a disappointing end to the long wait. Still, worth getting
+         if only for its reassuring Class of '95 interface, and to
+         prevent the 1337 taking advantage of the <v5.9 exploits that
+         even the freaking BBC know about.
+http://news.bbc.co.uk/hi/english/sci/tech/newsid_1801000/1801015.stm
+                          - "People who like to talk on the internet"
+         http://www.mirc.co.uk/
+         - *** You were kicked by CrackMonkey (No mIRC users allowed)
+         http://www.trillian.cc/
+                            - but you have no "emotisounds", old man!
+         http://www.bitchx.com/
+             - "while I am a BitchX user, and look down on them both"
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         newspapers exploring new online/offline content paradigms:
+         http://www.weeklyworldnews.com/ ... the force is strong in
+         ENRON: http://www.startribune.com/stories/804/1402822.html ...
+         yeah, right - like we don't all have a drawer full of these:
+         http://rs.snoochdesigns.com/rejection.jpg ... looking forward
+         to the inevitable http://www.b3ta.com/ animation already:
+         http://www.datagenics.com/n/html/shutup.htm ... look-likey of
+         the week: it's Johnny Vaughan crossed with Stelios Easyjet!:
+         http://news.bbc.co.uk/hi/english/uk/newsid_1800000/1800098.stm
+         ... top-posting perverts make sick bid for respectability:
+http://www.ietf.org/internet-drafts/draft-bambenek-posting-guidelines-00.txt
+         ... must be a bit dull playing it on a flat surface, surely?:
+         http://www.btinternet.com/~peter.clements/sentinel/chess.htm
+         ... .asp programmers flaunt sophisticated sense of humour:
+         http://www.teamfishcake.co.uk/royle/ ... "What kind of woman
+         doesn't get wet when she sees a good-looking man [...] typing
+         software code at light-speed with 10 different windows open,
+         including the debugger?", ponders white separatists' guide to
+         dating: http://www.vanguardnewsnetwork.com/index192.htm ...
+         say it with DESPAIR: http://www.despair.com/bittersweets.html
+         - or live crustaceans: http://www.lobsteranywhere.com/ ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the aptly named Jim Hacker attempts "to have privacy
+         safeguards implemented for the new national computer database"
+         in a still-topical 1980 episode of YES, MINISTER (8.30pm, Sat,
+         BBC2)... we found ourselves rooting for the NSA geeks in
+         flashy Will Smith technoparanoia chase flick ENEMY OF THE
+         STATE (9.15pm, Sat, BBC1)... and if that guy off POP IDOL LIVE
+         FINAL (7.10pm, Sat, ITV) doesn't stammer when he sings, why
+         doesn't he just sing everything he says, like he was in a
+         musical or something?... disaster docu ACCIDENTS IN SPACE
+         (11pm, Sun, BBC2) probably isn't intended to refer to
+         insufficiently advanced Arthur C Clarke adaptation TRAPPED IN
+         SPACE (11.50pm, Sun, BBC1), nor comic-book Bruce Willis stunt-
+         casting space-opera THE FIFTH ELEMENT (10pm, Sun, C4)... the
+         uncredited Jon Lovitz is the funniest thing in Sandler/
+         Barrymore nostalgia-bash THE WEDDING SINGER (8.30pm, Mon,
+         BBC1)... the start of half-term coincides with two new digital
+         kids' channels, CBBC (formerly UK Play) and CBEEBIES (formerly
+         BBC Choice), plus - presumably unintentionally - the postponed
+         DOUBLE LIFE OF JONATHAN KING (10pm, Mon, C4)... while Graham
+         Hancock continues probing the FLOODED KINGDOMS OF THE ICE AGE
+         (9pm, Mon, C4) - can't wait for his show about the Face on
+         Mars: http://www.planetarymysteries.com/egypt/sphinxmars.html
+         ... Tue sees a two-way head-to-head trenchcoat shootout
+         between Schwarzenegger classic THE TERMINATOR (10.30pm, Tue,
+         ITV) and DiCaprio's THE BASKETBALL DIARIES (12.05am, Tue, C4),
+         followed by HG Wells short story fantasy THE MAN WHO COULD
+         WORK MIRACLES (2am, Tue, C4)... ok, we'll shut up about the
+         Tarantino cameo monologue in SLEEP WITH ME (3.20am, Wed, C4)
+         ... then it's ratings gimmick night on Wed, as HORIZON (9pm,
+         Thu, BBC2) looks at parallel universes, TROUBLE AT THE TOP
+         (9.50pm, Thu, BBC2) blames management shortcomings for the
+         downfall of "Rock Profiles" favourites Bucks Fizz, yet BUFFY
+         THE VAMPIRE SLAYER: THE MUSICAL (8pm, Thu, Sky1) turns out to
+         be better than you'd ever dared hope for...
+
+         FILM>> "he scares, because he cares" - but that's enough about
+         Johnny Depp/ Heather Graham cor-blimey Victorian Silence-Of-
+         The-Lambs Alan-Moore-adaptation Jack-the-Ripper-romp FROM HELL
+         (http://www.capalert.com/capreports/fromhell.htm : knife
+         murders, repeatedly)... because Pixar CGI-fest MONSTERS INC
+         doesn't just reflect the new "Trekkian Idealism" in kids'
+         entertainment - http://www.hollywoodjesus.com/monster_inc.htm
+         - it's also packed full of pixel-perfect details like the kid
+         not having a speaking part, a genius closing shot, and there's
+         even a couple of references to other movies every now and
+         again ( http://uk.imdb.com/Trivia?0198781: the last half of
+         Chuck Jones' 1952 classic Feed the Kitty (1952 short) cartoon
+         is included scene-for-scene when Sulley thinks that Boo has
+         been thrown in the trash compactor; this is the fourth movie
+         to feature both John Goodman and Steve Buscemi and is the
+         first of the four not to be directed and produced by Joel Coen
+         and Ethan Coen)...
+
+         CONFECTIONERY THEORY>> when we saw him in a pub this week,
+         comedian MILTON JONES was philosophical about the new REVELS
+         ad http://media.guardian.co.uk/creative/0,9706,468517,00.html
+         - loads of people wrote to The Guardian saying he'd being
+         doing the "Russian roulette" idea for years, though obviously
+         Mars have ditched the life-threatening peanut allergy aspect
+         ... sorry, LAURA JAMES, but Pfizer have "no immediate plans"
+         for a UK launch of the breath-freshening LISTERINE POCKETPAKS
+         (US$1.49) which you say you enjoyed at last year's CES, and
+         evocatively describe as "little strips of green cellophane-
+         type material", which "dissolved on the tongue into a strong,
+         minty haze": http://www.prodhelp.com/oral_care17.shtml ...
+         you'll have to make do with the unsettling oral experience of
+         NESTLE'S "MONSTERS INC" MIKE'S BURSTING EYES (32p/packet) -
+         "Eyeball Shaped Gums With A Liquid Centre" - though we thought
+         they'd benefit from a Fruit-Pastille-style sour-sugar frosting
+         ... over in savouries, BURGER KING are taking advantage of
+         McDONALD'S new-product lull with their bizarre yet pleasant
+         CHICKEN KORMA WRAP (from UKP2.49), BK JALFREZI DOUBLE (from
+         2.49), and ONION BHAJI RINGS (99p) - "made with real Indian
+         spices", apparently, which certainly assuages our doubts about
+         their being just ordinary BK products with a different sauce
+         on them. BIRDS EYE hope to save their "ailing" ENJOY! frozen
+         meals http://www.ntk.net/index.cgi?b=02001-02-09&l=270#l with
+         3 new varieties: "Sweet Chilli Chicken with Szechwan Noodles",
+         "Tandoori Chicken Biryani" and "Vegetable Biryani", while the
+         ongoing ingratiation of PepsiCo-owned WALKERS into the UK
+         snack market continues with Marmite and Cheese-and-Branston-
+         Pickle flavoured crisps, plus Bacon and Cheese-and-Bacon
+         flavoured CORN FOOTBALLS (27p/packet)... as ever, we await
+         your sightings of: SUN-PAT PEANUT BUTTER FLAVOUR MARYLAND
+         COOKIES, FOX'S COOKIE POPPETS, NESTLE LITTLE ROLOS (32p),
+         TWIXELS Twix fingers (99p box of 24), TERRY'S CHOCOLATE ORANGE
+         EGG & SPOON (UKP1.99), the CADBURY'S CREME EGG ICE-CREAM CONE
+         (only in supermarkets, UKP2.49 for pack of 4) and, perhaps
+         most intriguingly of all, WRIGLEY'S X-CITE "pearls" of gum
+         (49p) - available in "Rush" and "Delight" mint flavours, the
+         intensity of which can be controlled by how many you put in
+         your mouth at once, and thus appealing to "adventurous 16 to
+         34 year-olds looking for new experiences". Keep looking, kids.
+         Keep looking...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "Surprisingly Full of WeWe"
+                        http://shorterlink.com/?Q30HNH
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

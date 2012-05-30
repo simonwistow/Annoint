@@ -1,0 +1,328 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____14/11/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Nobody was trying to do anything malicious. We just
+         optimized too much."
+              JANPIETER SCHEERDER, SunSoft President, after Sun were
+              caught cheating in the Java compiler benchmarks
+                   ...and if it's too fast, it's not Pure Java (tm)
+
+
+                               >> HARD NEWS <<
+                                  short fuse
+
+         It's rare that hexadecimal turns out to be so viciously
+         onomatopoeic. The "F00F" bug, revealed on newsgroups last
+         Friday, is just four bytes which, executed by a Pentium,
+         freeze the chip and snap the spine of even the most heavily
+         defended Intel-based operating system (oh yes, Linux too).
+         Most of the technical press nobly chose not to reveal the
+         final two bytes, confident in the knowledge that h/\c<er
+         d00dz would never spend ten seconds at DejaNews discovering
+         that it's "C7C8". Meanwhile, INTEL's bunny-suited
+         spokespeople fed clueless hacks bizarre reassurances that
+         it was not a problem - and even if it was, it wasn't
+         Intel's. The NY Times reported that "the problem appears to
+         be a virus affecting processor performance, rather than a
+         flaw in the chip" (phew - it's only a *self-replicating*
+         defect), while one Intel rep executed the evergreen "Push
+         Problem To Source" command, claiming "that the flaw was
+         found by an Intel competitor looking for undocumented
+         instructions on the chip". Gad, how low can people sink?
+         (The F00F bug, needless to say, does not occur in any
+         competing Pentium clones.)
+         http://people.delphi.com/gjc/crashme.html
+             - PowerPC and ARM users! Get famous! Find your own bug!
+         http://www.ee.surrey.ac.uk/Personal/L.Wood/IE4res/
+         - Combine F00F and the new IE4.0 bug to crash your PC remotely
+
+         "Was that it?", APPLE's European PowerPC product manager was
+         said to mutter after Steve Jobs's world-shaking press
+         conference on Monday. And it was. The big three announcements,
+         relayed live to Apple offices around the world were: brand new
+         super 233Mhz+ PowerPC machines (great!), super new direct-
+         selling Apple Web Store (note: American orders only), and
+         incredible new customised manufacturing scheme (not available
+         outside the US). We're assuming this is Apple's ongoing
+         punishment of "the countries for the rest of us" for sending
+         them Jean-Louis Gassee.
+         http://www.apple.com      Cute accent. Are you from France?
+         http://www.macosrumors.com
+         - "misguided and inaccurate information" - Wall Street Journal
+
+         There are, sadly, some news stories that are so
+         unbelievable, or so depressing, that even we are obliged to
+         deliver them in a gratingly trivial funny-back-page-of-
+         technical-mag style. Here goes. "Item! EASYNET received
+         15,000 copies of their latest client software from the
+         pressing plant this week, all ready for the Christmas rush.
+         Imagine their seasonal delight when the packaged CDs were
+         found to contain, not a full ISP connection kit, but copies
+         of David Essex's Christmas Hits. Elsewhere, rumours
+         knocking around top nobs in the new media community suggest
+         that a sizeable chunk of MSN UK's staff are in for a *very*
+         nasty Xmas bonus. Ho, Ho, Ho!" Now, where's the Dettol?
+         http://www.headland.co.uk/war-of-the-worlds/biogs/essex.html
+                                              - Halt! Oo goes there?
+         http://www.uk.msn.com/    Bill knows who's naughty and nice
+
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         BT to re-launch ISDN - again... still no definitive
+         evidence that cell phones cause health problems, cautious
+         scientists repeat slowly... HOTWIRED's "RGB Gallery"
+         showcases art from - two HotWired designers... Shetland
+         links case settled during 3 hour wait for court Net
+         connection to work... DAILY MAIL blasts Carmaggeddon as
+         "sickest ever" video game... "New Zealand man confesses to
+         filming up thousands of skirts" - Nando Infotech...  Future
+         Publishing's new business mag, INTERNET.WORKS, fails to
+         register internetworks.com, settles for appalling iwks.com
+         instead... ICA's tortuous BroadVision Website at
+         www.mediacentre.com not Y2K compliant... LARA CROFT actress
+         still "not fired - just not doing many promo appearances"
+         in week of TR2 launch... FILM THREAT WEEKLY back again,
+         ditto the (weirdly similar) CINEZINE... MICROSOFT tells DOJ
+         they knew they were going to integrate browser in late 1993
+         - this would be around the time "Blackbird" was going to
+         replace HTML, right, Bill?... Myst-sequel RIVEN will not
+         debut with "blockbuster sales", warn BRODERBUND... animated
+         GIFs on Microsoft site created with MAC SHAREWARE...
+
+
+                              >> EVENT QUEUE <<
+                          stick that in your cronjob
+
+         Could next week's COMDEX be the dullest yet? Tough call,
+         but by concentrating on the industry's core areas of tedium
+         (networking software, Windows CE palmtops and the latest
+         mousemats) the Las Vegas exhibition looks to have beaten
+         even its own sanity-shattering records. Check out the line-
+         up: keynote speakers include NOVELL and CISCO CEOs, a beta
+         of Microsoft Exchange '98 is promised, Web TV technology
+         showcases - oh, the non-attractions are (perceptually)
+         endless. You're better off staying at home (like you could
+         afford to go anyway) and ordering the *only* decent new
+         Comdex product by mail: that'll be, of course, Rocky
+         Mountain Traders's "Monimals" - the Damien-Hirst-like
+         computer accessory that "turns monitors into sheeps, cows,
+         lions and moose." (0171 631 0707 for more details).
+         http://www.comdex.com
+           - time to trot out the "porn flick awards" stories again.
+
+
+                                >> TRACKING <<
+                    look, over there! The Goodyear Blimp!
+
+         Remember when Microsoft pointed out that if MS IE4.0 was
+         not Java Compliant, you should see what Netscape's Java
+         Machine did to the test suite? And everyone went "shut up,
+         shut up", because they knew it was true? Well, the new 4.04
+         release NETSCAPE COMMUNICATOR  fixes that problem. The bugs
+         are still there, naturally (what would a commercial browser
+         be without them?). But they have rather sweetly removed the
+         Java logo from the About... screen. View Source gives the
+         sheepish explanation...
+         ftp://ftp.netscape.com/pub/communicator/4.04/shipping/english/
+         http://www.operasoftware.com
+         - buggy, bit amateurish, but tiny - and a bit more honest
+
+         The name of PC Zone journo, warez apologist and 1995 UK
+         Doom Champion DAVID MCCANDLESS may sound a bit like David
+         McAlmont, but his self-pressed debut album sounds more like
+         David Byrne's Oasis tribute band doing novelty Radiohead
+         cover versions - in a good way, of course. True to his
+         geekazoid roots, McCandless has recorded the whole thing,
+         Jyoti-Mishra-style, on his bedroom PC for about 130 quid -
+         though, disappointingly, the catchy title track, "Smoother
+         And Faster", appears to be some sort of love song, rather
+         than a celebration of the improved performance of the Quake
+         2 graphics engine.
+         http://www.wakeywakey.com/
+         - UKP6.99. Ask for a copy of his "TrekMaster" book, too
+         http://wwww.hotwired.com/wired/5.04/warez/
+         - those MP3 demons coming home to roost now, eh Macca?
+
+         Sticking for the moment with the UK's first-person-
+         shooterati, NTK is always reassured to see net journos
+         veering wildly off their usual subjects, as ZDNet's "First
+         Lady Of Quake", CAL JONES, has managed for two weeks in a
+         row now. But when the digressions take the form of detailed
+         accounts of state-of-the-art rollercoaster tech (including
+         the Intamin Eurostar, the Togo Ultratwister, and Alton
+         Towers' upcoming Secret Weapon 4) - who's complaining?
+         Beats the (somewhat less thrilling) ups and downs of the PC
+         games biz every time.
+         http://www1.zdnet.com/cgwuk/cal/cal10.html
+         http://www1.zdnet.com/cgwuk/cal/cal11.html
+         - imagine some sort of Dune-like parallel universe, where, in a
+         strategic alliance between House Dennis and The Ziff-Davis
+         Imperium, Cal Jones was forced to marry David McCandless, to
+         produce THE ULTIMATE QUAKE-CHILD. Just a thought...
+
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         do the brownian motion... Steve Jobs for CEO - of SGI, that
+         is... www.henson.com - to work with PSYGNOSIS?...
+         APOCALYPSE CLARKSON... "Spam is good for the net - it
+         teaches newbies about regular expressions"... spot today's
+         crashes at www.mae.net/east.stats.html ... ALT tags: the
+         New Content... BANDAI founder Naoharu Yamashina dies - at a
+         record 17 days old... Fire International's ERAZER MP5...
+         memo to ICA: putting shouty poets next to SPARCstations and
+         painted-over Doom screendumps does not constitute "art"...
+         www.affection.net/~jamesc/bettyford/ ... is that a GameBoy
+         POCKET MONSTER in your trousers, or are Nintendo just
+         pleased to sell something?... new PIXAR short, Geri's Game,
+         is an old man playing chess, and *not* another sodding
+         Spice Girls spin-off... Judge Zobel "nobbled" by EDWARD
+         WOODWARD (aka The Equaliser)?... HYPER YO-YOS... live
+         PARAPPA-fans' rap contest in Tokyo... character based on
+         Cherie BLAIR in STREETFIGHER EX PLUS?... fanfic of the
+         week: www.angelfire.com/sc/screamlouder/ ...
+
+
+                               >> GEEK MEDIA <<
+                         inter-inactive entertainment
+
+         TV >> Nice Painter, Suits You, Check-out Girl - the only
+         thing they don't have is a sketch with two guys constantly
+         repeating their favourite catchphrases from the FAST SHOW
+         (9.30pm, Fri, BBC2) - though, on second thoughts, that
+         could apply to all of them... as if a triple bill of the
+         repetitive MAN FROM UNCLE (BBC2, Sat) wasn't insane enough,
+         the first starts at 7am, the last at 2.35... Christmas
+         comes early with SCROOGED (9pm, Sat, BBC1), a surprisingly
+         good Bill Murray/ Lee Majors comedy (and there's something
+         you can't say every day)... even compared to "new" You've
+         Been Framed, AS SEEN ON TV (11.20am, Sun, BBC2) is still
+         the best camcorder show of all time... weirdly, it isn't
+         just a repeat (or even a re-CGI'd "Special Edition"), but a
+         total remake of BBC perennial THE PHOENIX AND THE CARPET
+         (5pm, Sun, BBC2) - though unlikely to match the bawdy
+         frolics of period drama TOM JONES (9pm, Sun, BBC1), with
+         Brian Blessed in full "Gordon's *alive*?" form... here's
+         hoping the (more entertaining) "M" variant gets equal time
+         when THE SOUTH BANK SHOW (10.50pm, Sun, ITV) profiles Iain
+         Banks... sparks will fly as MOVERS AND SHAKERS (8pm, Mon,
+         C4) looks at Scalextric fans, while EQUINOX (9pm, Mon, C4)
+         discovers another exciting interviewee (a 96-year-old
+         survivor of the Tunguska explosion), in an edition
+         prosaically entitled "The Day The Earth Got Hit"... surely
+         Jennifer "Rachel from Friends" Aniston can maintain the
+         level of swearing one has come to expect from THE LARRY
+         SANDERS SHOW (11.40pm, Tue, BBC2)?... forget scientologist
+         L Ron Hubbard's SECRET LIVES (Wed, 9pm, C4) - how did he
+         manage to publish several huge sci-fi novels several years
+         after his "death"?... Eric Bogosian plays an out-of-control
+         shock-jock in TALK RADIO (9pm, Thu, C5), arguably Oliver
+         Stone's most watchable movie (and you don't hear that too
+         often either)...
+
+         MOVIES >> GI JANE (imdb: action / drama / navy / commando /
+         training / feminism / prejudice) is by far the most
+         viciously sadistic film of the year, maybe even enough to
+         make you forgive Demi Moore for The Scarlet Letter and
+         Striptease?... everyone seems to love Kevin Smith's
+         fanboy/lesbian romance CHASING AMY (imdb: romance /
+         jealousy / friendship / love / comics / lesbian / gay /
+         comedy / hockey / sexuality / foul-language / vulgarity /
+         lesbian-scene / drama) - though it's not as unpleasantly
+         funny as his magnum opus, Clerks... from 1992, the re-
+         released FULL CONTACT (imdb: action) is probably for the
+         more dedicated fans of Ringo Lam, Chow Yun-Fat, Hong Kong
+         chop-socky (or Quentin Tarantino)... making this week's
+         out-of-nowhere surprise recommendation the lamer-vs-Kramer
+         courtroom farce TRIAL AND ERROR (imdb: comedy) - with
+         Michael Richards (from Seinfeld), Rip Torn (from Larry
+         Sanders), and, er, the same director as the Sgt Bilko movie
+         and Nuns On The Run...
+
+         MEAL REPLACEMENT PRODUCTS >> NTK's "f00d d00d" Ben Moor
+         reports that WRIGLEY'S new menthol/eucalyptus chewing gum,
+         AIRWAVES, has a total nutritional content of "almost zero"
+         (across all categories), and bears the small-print warning
+         "Excessive consumption may produce laxative effects". All
+         in all, a big thumbs-up then, apart from the product's
+         taste - "like sucking radio"... we don't know what scared
+         us more: a) BURGEN bread with "added plant oestrogens", b)
+         KELLOGG'S appropriating your mum's rice-krispie cakes into
+         the tasty (but geometrically misguided) SQUARES - or c) the
+         apparent replacement of DAIRYLEA DIP & PIZZA CRACKERS by
+         the shockingly bland DAIRYLEA DIP & BREADSTICKS. Come on,
+         Kraft! they're competing for the same ecological snack-
+         niche!... can't seem to find the new Nestle MAVERICK bar
+         anywhere, but CADBURY persist with woeful attempts at a
+         citrus/chocolate crossover with the "limited edition" TIME
+         OUT ORANGE (you can see why - it's disgusting). In fact,
+         their plain Dairy-Milk-style ORANGE bar ("Orange Flavoured
+         Milk Chocolate") isn't too bad, but still has about as much
+         chance against Terry's original choc-orange-spin-off as
+         Nestle's HERCULES MAGIC BALL has against the GLOWING
+         GHOSTIES KINDER EGGS...
+
+                                >> COMPO <<
+                  with added P45 - see www.spesh.com/compo/
+
+         Oh, too easy again, was it? Well then, I suppose you won't
+         mind if the prize goes to Dr Nik Cain, one of the few
+         contestants who didn't pepper his entry with jeers and cat-
+         calls at our generous nature. The good Dr receives a copy
+         of THE LEVELLERS album (yes, be impressed), a NINTENDO
+         GOLDENEYE poster, and Star Trek: Starfleet Academy (which,
+         should Interplay be reading this, is NOT a competition
+         prize - Nik is officially reviewing it for NTK, and anyway
+         I've already opened the box and installed it on my machine,
+         and it's great, so what's the problem, huh?). Plus,
+         naturellement, the free invite to the .NOT Awards. Which
+         we're really are going to announce next week. Ahem. Here's
+         this weeks' URL. As ever, it's in the form
+         http://www.*.com/now.html. And the wildcard is:
+
+	 The 1st l. in the 30th, 23rd, 97th, 255th, 179th,
+         144th, 107th, 124th, 176th, 103rd, 52nd, 26th,
+         155th, and 254th l.s of t.m.
+
+         Remember, there's still time to contribute your own
+         URL/now.html combo. Yeah, you might lose your job, but when
+         the boss hauls you in, just say you know a guy who edits
+         this newsletter, and one time he put in a forthcoming diary
+         event that actually happened exactly a year previously, and
+         they didn't sack *him*, so why should you have to go? [See
+         last week's Event Queue. NTK regrets the error.]
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+            It is registered at the Post Office as "http in '93".
+    <shemp.ncsa.uiuc.edu/NCSA/SDG/Experimental/demoweb/old/marc-info.html>
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

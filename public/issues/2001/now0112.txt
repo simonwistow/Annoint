@@ -1,0 +1,307 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-01-12_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "[Stallman] came out and flamed me for admitting to using
+          XEmacs. He thought that I was my father (who is also named Dan
+          Flickinger). My dad had some legendary flame war with the guy
+          back when I was a kid. Now I have grown up with that name
+          curse in my household, I must carry on the tradition when my
+          father passes on."
+                                        - The Younger Flickinger vs RMS
+          [ http://slashdot.org/comments.pl?sid=01/01/07/0211213&cid=74 ]
+          ..."My name is Dan Flickinger, you flamed my father, prepare
+                                                                to die!"
+
+
+                               >> HARD NEWS <<
+                               oh, so it's you
+
+         The CYBER-RIGHTS-UK mailing list isn't the first place you'd
+         expect to find noted jurist LAURENCE GODFREY re-emerging
+         onto the Net - best known for enthusiastically advocating
+         his cyber-right to prosecute cases of alleged online
+         defamation [see NTKs passim]. A few of the regulars
+         mentioned this and, inevitably, one listmember, Michael
+         Sims, took it a teensy bit further. Hours after his uh,
+         accusation, Sims reposted an e-mail, apparently sent from Mr
+         Godfrey (and headed "CONFIDENTIAL"), requiring a full
+         retraction and apology for the, uh, vivid terminology.
+         Ominously, no such undertaking was received by the list. Mr
+         Godfrey may well, as he is inclined to, enter into legal
+         proceedings against Mr Sims. Indeed, it has been intimated
+         that redress may be sought against Sims' employer too. This
+         does not bode well for world peace: Michael is editor of the
+         "Your Rights Online" section - on Slashdot.
+         http://slashdot.org/yro/
+                         - Laurence Godfrey vs the Anonymous Cowards?
+         http://www.cyber-rights.org/mailing.htm
+                         - It's the grudge match of the *millennium*!
+
+         WWW.FAXYOURMP.COM continues to work well, with over 2500
+         faxes sent to your eager parliamentary reps. Of course, not
+         every politician has been happy at being put in touch with
+         their 10,000 or so bosses. A few, bless them, now prefer
+         e-mail - which was rather the point, so the volunteers will
+         set that up shortly. Two, strangely, have taken to demanding
+         *signed* faxes - JEFF ROOKER, Labour MP for Birmingham Perry
+         Barr and PIARA KHABRA, Labour MP for Ealing and Southall in
+         West London. They say it's for verification purposes. Which
+         is odd, because each constituents' name and address (as seen
+         in the electoral roll) are at the top of the fax, and we
+         understand that the Her Majesty's Complete Photographic
+         Database of British Subjects' Verified Signatures is still
+         in beta. It's almost as though these MPs are trying to
+         wriggling out of their commitments to their voters. Now that
+         just *can't* be, so, for now, FYM is ignoring these
+         requests. It sounds most unlike MPs to shirk their duties
+         like this. And anyway, they were sent by e-mail, and we
+         didn't see a PGP signature anywhere, so how could we
+         possibly be sure that they're genuine?
+         http://www.faxyourmp.com/
+- anyone want to write a java signature drawing app that'll POST a bitmap?
+
+         A correction to last week's story. Apparently BRITISH
+         TELECOM, after discovering that the ISPA "Villain" award
+         they were sponsoring might go to Jack Straw or OFTEL [NTK
+         2001-01-05], sought to remove their name from the
+         proceedings (though word has it they were only sponsoring
+         this category to avoid being nominated themselves). The
+         organisers gladly accepted their resignation - and promptly
+         added Peter Bonfield to the Villain shortlist. Good to see
+         BT managing to avoid any potential bad publicity there.
+         http://www.ispaawards.org.uk/html/vi_internet_villain.asp
+                                      - worth a quick flutter I think
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         MORRISSEY fans at last convinced by DIANA DEATH PREDICTION:
+         http://www.morrissey-solo.com/article.pl?sid=01/01/05/1931211
+         ... REDHOTANT FALCO!... Life Doesn't Quite "Get" THE SIMPSONS:
+     http://news.bbc.co.uk/hi/english/health/newsid_1105000/1105056.stm
+         ... they don't look that "minitur" from where *we're* sitting:
+         http://www.magsuk.com/uk/newdisplayproduct.asp?prodid=1125 ...
+         PC GAMER falls for ol' CLAN SPICE GIRLS sponsorship hoax [NTK
+         2000-11-24]: http://www.ntk.net/2001/01/12/gamerdoh.jpg ...
+         DOBEDO FALCO!... a rich guy falling off a horse is *always* funny:
+         http://www.ntk.net/2001/01/12/wickedgranny.gif ... future of
+         ONLINE GAMING: http://www.thechucklebrothers.co.uk/balls.htm
+         ... fashionmall.com up from $1.09 to $3.12 - boo.com better
+         buy than REDHAT... RIAA "confiscated 87 illegal CD-Rs during
+         first half of 1997" brags http://www.riaa.com/Protect-CDR.cfm
+         ... London's top-rated movie is seasonal Capra weepie "CINEMA
+         CLOSED FOR CHRISTMAS": http://www.pop2.net/pchtml/filmdb.shtml
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Whether you're hankering for the latest on (M+1)-th price
+         auction protocols and Chaum's RSA-based blind signature scheme
+         - or, for that matter, 8 hours of sunshine a day and a sea
+         temperature of 27 degrees - now's the time to register for
+         FINANCIAL CRYPTOGRAPHY '01, basking in the tropical climate
+         and offshore tax-free status of the Cayman Islands (the actual
+         conference isn't until 2001-02-19, but they advise booking
+         your suite at the Marriott Beach Resort well in advance).
+         Somewhat less glamorous is the venue for this Sunday's "sonic
+         improvisations" from SLUB.ORG, who might be a splinter group,
+         or a simple misspelling, of NTK Newtonmas no-shows SLAB.ORG.
+         Either way, they'll be noodling away with their usual
+         generative music networks from 5pm 2001-01-14, at the "Public
+         Life" cybercafe/ bar in Spitalfields Market, London E1 - yes,
+         the one that used to be a public toilet.
+         http://fc01.ai/registration.php3
+          - intriguing "Privacy Notice" for those attending incognito
+         http://slub.org/
+                                - sadly, slob.org no longer available
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Operator logos? Ringtones? Pah. What you *really* want is
+         your own WAP/SMS gateway, right? Are you sure? I mean, it's
+         not as if you can't just serve .WML pages off your Website,
+         and it's probably easier (and, currently, cheaper) to rig up
+         a Perl script to hammer www.genie.co.uk and/or an
+         e-mail-to-SMS Website if you really want an automated SMS
+         service. And before you even think about it, you should know
+         that KANNEL, the newly-1.0, open source WAP/SMS gateway *is*
+         a bit of a heavy scene. There's all the weird WML bytecode
+         translation it's doing, and if you want SMS, you'll have to
+         rig up an account with an SMS Centre (or a cheap
+         datacable/IR link with your phone). And then there's the
+         endless tweaking with the parameters, and setting up all
+         your friends' phones to point to it. Oh, sure, with a bit of
+         work you could probably get it to send out op-logos to your
+         mates or... what? People pay how much for that? Really?
+         http://www.kannel.org/kannel-1.0-press-release.shtml
+                                     - lookit me! i'm almost a telco!
+         http://news.bbc.co.uk/hi/english/sci/tech/newsid_1106000/1106700.stm
+                                         - god knows i'm paying enough
+         http://www.primatesys.com/
+                          - if you just want the logos from your Palm
+         http://www.logomanager.co.uk/
+                                      - ... or Windows. Lightweights.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         two slightly different visions of the future of DREAMCAST:
+         http://www.htloz.com/xbox_gamecube/XBOXMACHINE.html vs
+         http://binky.paragon.co.uk/3do/issue5/issue5.html ... gentle
+         Jesus tends to the poor, the sick, and users of BLITZ BASIC:
+         http://www.christiancoders.com/ ... Am I a DEGRADED CRATER -
+         or NOT? http://antwrp.gsfc.nasa.gov/apod/ap010108.html ...
+         when "I thought he was an ORC" just doesn't cut it any more:
+http://www.sptimes.com/News/010301/Hillsborough/Father_guilty_in_deat.shtml
+         8-bit NUDITY is the new rock 'n' roll: http://girls.c64.org/
+         ... http://www.industriallogic.com/games/dppc.html vs
+         http://www.pixelflo.com/008/ ... is LEG-DEPENDENT SPORT a
+         euphemism? http://www.geocities.com/greatrevor/preg.html ...
+         ADHD kids believed to be "INDIGO CHILDREN" - "next step in
+         human evolution": http://www.kryon.com/k_37.html ... Gojira
+         scrolls past Midway's RAMPAGE: http://gfpoken.bigw.org/g2k/
+         ... ex-Wiredies LOUIS, JANE, IAN STEWART invest UKP3.3m in
+         hahabonk.com, disproving stereotype that Californians have "no
+         sense of humour"...
+
+
+                                >> GEEK MEDIA <<
+              the less affected-by-uunet-snafus www.tvgohome.com
+
+         TV>> of course, the really sneaky thing would be to tell the
+         contestants that one of them is THE MOLE (8pm, Fri, C5) - when
+         really they were all on the same side!... the repeated BITS
+         ANIMATION SPECIAL (12.25am, Fri, C4) perpetuates the myth that
+         any game code was ever written for Sensible Software's "Sex,
+         Drugs And Rock'n'Roll"... and, facing the double On-Digital
+         threat of Paramount Comedy *and* E4, UK Play unleash some
+         early episodes of THE LARRY SANDERS SHOW (11pm, Mon-Fri;
+         repeated triple-bill 9pm, Sat) - cleverly counter-programmed
+         vs ITV2's regular weeknight THE LATE SHOW WITH DAVID LETTERMAN
+         (11pm, Mon-Fri), which it often peculiarly resembles... once
+         they've exhausted I LOVE THE EIGHTIES (9pm, Sat, BBC2), maybe
+         there's a series in Stuart Maconie wryly recalling anecdotes
+         about some of the great military conflicts and/or serial
+         killers of the last 2 or 3 decades... Jim Cameron recounts how
+         Kubrick inspired him to make his own tediously overlong sci-fi
+         epics in 2001: THE MAKING OF A MYTH (11.25pm, Sat, C4), before
+         having his budget cut for cybercliched Buffy knock-off DARK
+         ANGEL (9pm, Wed, Sky1)... and HEAVENLY CREATURES (9.45pm, Sun,
+         BBC2) is by far Peter "Bad Taste, Lord Of The Rings" Jackson's
+         dullest film - and not as good as the "dumb casino" scene in
+         NATIONAL LAMPOON'S VEGAS VACATION (9pm, Sun, C5)... C4 and C5
+         team up for a double dose of Jean-Claude Van Damme playing his
+         own brother in MAXIMUM RISK (10pm, Sun, C4) and DOUBLE IMPACT
+         (9pm, Mon, C5)... ITV handily sticks on BADDIEL AND SKINNER
+         UNPLANNED (10.40pm, Sun, ITV) right after the former's
+         freakish-sounding new sitcom BADDIEL'S SYNDROME (10pm, Sun,
+         Sky1), featuring Gareth "Blake's 7" Thomas... while analogue
+         electro-fest THE SHAPE OF THINGS THAT HUM (1.25am, Sun, C4) is
+         made by Jacques Peretti, the guy who does the "Clubs" page in
+         the Guardian Guide... Sandra Bullock battles a sinister
+         screen-pixellating Mac virus in THE NET (9pm, Tue, C5)... the
+         BBC documents their struggle with the Chris Evans-monster they
+         themselves created in BLOOD ON THE CARPET (9.50pm, Tue,
+         BBC2)... and C4 ingeniously undermines the launch of its E4
+         digi-channel by scheduling it against its hot new star 'n'
+         Emmy-packed acquisition THE WEST WING (10pm, Thu, C4)...
+
+         FILM>> after the postal product-placement problems of "You've
+         Got Mail", this year's Tom Hanky Christmas pooh is Fedex ad
+         CAST AWAY (http://www.capalert.com/capreports/castaway.htm :
+         open urination; very revealing clothing on Hanks [...] a few
+         times a full buttock was exposed [...] one flash scene
+         revealed his pubic hair but no gender-specific anatomy)... but
+         apart from that and special previews of VERTICAL LIMIT (imdb:
+         avalanche / helicopter / blizzard / brother-sister / himalayas
+         / k2  / mountain-climbing / mountaineer / nitroglycerine /
+         rescue / rock-climbing / sacrifice / mountaineering), there's
+         just Ray "sodding" Winstone, Ben "Gandhi" Kingsley and Ian
+         "Lovejoy" McShane - together at last! - in Britcrime SEXY
+         BEAST (http://www.bbfc.co.uk/ : frequent coarse langauge, some
+         strong sexual references and violence)... or this week's
+         hilarious CGI Exorcist knock-off, Winona Ryder's LOST SOULS
+         (http://www.capalert.com/capreports/lostsouls.htm : leaving
+         the scene of an accident; a digital clock showing "666"; a
+         statue of the crucifixion being broken, causing Jesus to hand
+         upside down with an open-eyed expression of horror) - whose
+         best bet of attracting viewers is that it's apparently being
+         shown with the trailer for "Fellowship Of The Ring"...
+
+         CONFECTIONERY THEORY>> "I've been trying to locate a TERRY'S
+         CHOCOLATE RASPBERRY (or Terry's Chocolate Orange Raspberry
+         Edition as the manufacturers describe it)," pleads reader BEN
+         LAMB. "Some American friends gave me one and it was delicious,
+         but I've been unable to find another either in the UK or the
+         States. Was it a limited edition?" Well Ben, they do seem to
+         exist: http://www.traderjoes.com/tj/fearless/or/or2021.html -
+         the best we could suggest as an interim stopgap is NESTLE'S
+         WONKA W-EGG (32p), a cubic creme egg-alike made out of the
+         same raspberry-flavoured white chocolate as former NTK taste-
+         abomination WONKA WONKLATE [NTK 2000-11-03], filled with what
+         seems to be synthetic raspberry jam... with just 3 months to
+         go until Easter, the W-Egg faces off against MARS' MILKY WAY
+         EGGS IN SPACE (32p), packed with a slightly denser Angel
+         Delight-style substance instead of normal strawberry Milky Way
+         filling - also available as MILKY WAY MIXED MINI EGGS
+         ("Vanilla, strawberry and chocolate lightly whipped mini
+         eggs", 99p for a pack of approx 16)... plus, though not yet
+         available internationally, GUT SPRINGENHEIDE's real eggshells
+         injected with choc nougat or truffle centres, from Germany:
+         http://www.preparedfoods.com/archives/2000/2000_08/0008bnp.htm
+         ... for semiotic vegans, there's plenty of non-egg-based
+         entertainment due over the next month as well: NESTLE TOFFEE
+         CRISP COCONUT (out now, 28p); SAINSBURY'S PIZZA EXPRESS PIZZAS
+         (out Jan, UKP3.25); and MCVITE'S PENGUIN FLIPPER DIPPERS (out
+         Feb 5, 49p) - "flipper-shaped biscuits and some vanilla-
+         chocolate gunk to dip them in," our source reveals, "backed by
+         a UKP3 million advertising campaign"... possibly washed down
+         with BRITVIC's "Feel The Frozen Fizz!" carbonated Slush Puppy
+         ICE BLAST, now available in larger branches of KFC... also in
+         beverages: after getting their ass kicked in the traditional
+         carbonates market by energy and still fruit drinks, COCA-COLA
+         claim to have "several innovative research projects underway
+         which involve milk"... as innovative, we hope, as the latest
+         LIMITED EDITION FRIJJ SHAKE (89p), rejoicing in the manga-style
+         moniker of SILENT POPCORN. The toffee popcorn flavour is so
+         convincing that it "psychologically replicates the feeling of
+         little flakes of kernel skin getting stuck to the back of your
+         throat," reports spotter LEE MAGUIRE. "Two thumbs up!"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "suuure we're a Christian ministry"
+                         http://www.needtoknowgod.com/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

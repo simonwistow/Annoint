@@ -1,0 +1,352 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-11-10_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Leading shares held firmer ground on Wednesday with drugs
+          providing the impetus on hopes Republican George W. Bush would
+          finally win through in the closest U.S. presidential election
+          for decades."
+		                 - http://uk.news.yahoo.com/001108/80/aoivo.html
+         ...and it wouldn't be the first time...
+
+
+                                >> HARD NEWS <<
+                               somewhat confused
+
+         As US democracy stumbles, wouldn't it be great if the two
+         opposing sides could forget their mutual antagonism, and
+         find someone else to take the blame? Well, let's see:
+         incomprehensible instructions, an installation process that
+         takes forever and then ends up hanging... the accusing
+         finger of history points to at least one obvious target.
+         Your first conspiracy clue: Florida was one of the first
+         states to toy with an online voting system this year. Not a
+         big deal - only 300 or so military guinea-pigs. Of course,
+         now they're a potentially presidential three hundred, some
+         people are reading rather more into it- especially GENE
+         GAINE, who puts this together with the factlet that Melinda
+         and Bill recently gave $5 million to the state of Florida.
+         And that the online system ran on Windows. And that Gates,
+         of course, would stand to profit from a Bush presidency. My
+         God! How could we have been so blind?
+         http://listserv.syr.edu/scripts/wa.exe?A1=ind0011&L=foi-l#35
+                                                   - Blame Microsoft!
+         http://www.plaidder.com/florida.htm
+                                                    - Blame somebody!
+         http://www.cnn.com/ELECTION/2000/results/blueblank.html
+                   - what's this? the blue screen of electoral death?
+         http://www.nielsen2004.com/
+                               - one way to stop this happening again
+
+         And it's not as if you can run away to the cinema to escape
+         from reality. Even this week's US release of "Charlie's
+         Angels" is scattered with psychic Microsoft bleed-through.
+         There's Tim Curry doing a Larry Ellison cameo (although he
+         sadly neglects to pout "I see you shiver with database
+         normali...sation" at any point), and a plot that revolves
+         around an awkward billionaire programmer whose source code -
+         the "blueprint", you will recall, of "all computer software"
+         - gets nicked by his enemies. Admittedly, instead of
+         infilitrating a trojan into the company LAN, they mug him in
+         a carpark and steal the code from his back pocket: but
+         still, spooky prescience or what? Slightly less subtle is
+         the upcoming thriller featuring Tim Robbins as another
+         Seattle billionaire programmer with monomaniacal tendencies.
+         The film is called "Antitrust". Its stealth site features an
+         interview with Jon "Maddog" Hall. Its forums are full of
+         astroturf open-source bait ("I agree with everything",
+         writes one suspiciously keen webmail account-holder). What
+         the hell *is* this? Does somebody think the slashdot effect
+         works for box office too?
+         http://www.mgm.com/antitrust/special/special.html
+                                   - all in Sorenson QuickTime. Sigh.
+
+         And just when we'd completely lost the ability to separate
+         fantasy and reality, the REGISTER chips in with a report
+         that the BSA are now claiming that they have "pirate
+         software detector vans". Laughable, the Register wisely
+         insist. But hold on: don't our files show a
+         Microsoft-sponsored Ross Anderson spec for an eerily-similar
+         anti-piracy detector van two years ago? Could this be true?
+         Did we hear someone put out Netscape 6 without telling
+         anyone? Did a major anti-RIP protestor admit to us that they
+         were once interviewed for a job with GCHQ? Are we losing our
+         minds?
+         http://www.theregister.co.uk/content/4/14562.html
+                             - BSA indulge in weird propaganda, check
+         http://www.ntk.net/?back=a98/now0213.txt&line=55#l
+                                         - MS anti-piracy vans, check
+         http://slashdot.org/article.pl?sid=00/11/10/052256&mode=nested
+  - mysterious NS 6.0 appearence, check. Now, what was the other one?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.playworks.net.au/newweb/ "best viewed at 800 x 600
+         D.P.I." - though isn't everything?... one dot.com living the
+         ATTACHMENTS dream (left column): http://www.londonforum.co.uk/
+         ... DAPHNE AND CELESTE T-shirt competition entries continue to
+         flood in: http://www.ntk.net/2000/11/10/dohdaph2.gif ... re:
+         NTK 2000-08-04's "uh-oh" theory: http://www.modo.net - FALCO!
+         http://www.foodoo.com - FALCO!... "THE MAN" beaten at last:
+         http://www.theman.com/ ... just click the goddamn button:
+         http://www.quios.com/registration/terms.tmpl ... US company
+         lumps Labour-governed UK in with other ex-communist nations:
+         http://www.3com.com/global/world/uk.html ... "Least useful
+         sites on web? Personal webpages", quips over-modest BOO CEO:
+         http://www.guardian.co.uk/newmedia/story/0,3605,393278,00.html
+         - still, they *could* have called Boo http://www.twa.at ...
+         "It is not permitted to use this service to send [...] sexual,
+         racist, discriminatory or defamatory content to anyone who
+         might consider such content to be offensive" - slightly self-
+         defeating Terms and Conditions of SMS RANDOM INSULT GENERATOR:
+         http://www.xtremetxt.com/toyz/insultgen/sms/... bad journo!
+         "No free lunch" says EVA PASCOE, in need of unmetered clue:
+    http://195.92.21.98/news/Digital/Columnists/2000-10/pascoe301000.shtml
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Yes, we were wandering round Westminster in the rain on
+         Sunday, vainly searching for the advertised "Setting Fire To
+         Giant Diana Car-Crash Paintings", and gradually reaching the
+         conclusion: "Hang on, wasn't this the same controversy-
+         confronting KLF who postponed their 23-minute Barbican gig
+         when it coincided with Diana's demise, citing 'the mood of the
+         nation' or some such nonsense?" God knows what they thought
+         they were playing at (though, in retrospect the vague
+         directions to "The Palaces of Buckingham and Westminster"
+         might have tipped us off that something was amiss). Oh yeah,
+         this week. As previously advertised, it's a McSweeney's-
+         special WORDS @ THE ICA this Sat (for those of you who don't
+         yet consider the printed word a "Victorian affectation"), plus
+         LIVING WITH THE RIP BILL (for journalists) at the ICA on Thu,
+         while Ross Anderson seems to be taking the show on tour with a
+         similarly titled seminar in Cambridge on Tue - for adepts
+         uncomfortable with the ICA's proximity to the Buckingham
+         Palace/ Admiralty Arch "Dragon Line".
+http://www.cl.cam.ac.uk/Research/Security/seminars/2000/2000-11-14.html
+         - RSVP to Ross on this one, in case he needs a "bigger room"
+         http://www.courseleader.com/about/press/mediaforum.asp
+        - yes, it is Richard "LocoScript for the Amstrad PCW" Clayton
+         http://www.ica.org.uk/performance/113806/
+        - of course, there's plenty of other reasons to avoid the ICA
+         http://www.ntk.net/2000/11/03/krash.gif
+               - "gunpowder, treason and plot" postponed, due to rain
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Always scribble, scribble, scribble, eh, Mr Freshmeat? With
+         the Cambrian Linux explosion of buggy IRC clients, punning
+         (G)N(.*)pster clones, half-finished Perl modules, and window
+         managers written in stackless Haskell for JPython, it's
+         sometimes a relief to turn back to the crystalline
+         certainties of WINDOWS. No such frenzy there: just people
+         lounging around on pouffes, idly waiting for the next
+         Explorer update. Look at what we're reduced to plugging:
+         POWERARCHIVER for Windows, a free compression/decompression
+         utility. Slim, handles most file formats (from ZIP to CAB
+         and JAR, via those warez stalwarts, RAR and ACE), freer than
+         WinZip's nagware and, yes, calm down ladies, it's skinnable.
+         Only question is: what's left to zip? Your Powerpoint slide
+         collection?
+         http://www.powerarchiver.com/
+               - if computers are tools, why is it me who feels used?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         BNP poet strikes again: http://www.fuel-protest.com/poem.html
+         - could take a few lessons in rhyming and scansion from
+         http://tv.cream.org/buchan/pika_ryhmes.html ... media baffled
+         by motives of DOME DIAMOND THIEVES - unaware of possible
+         application in building orbital laser platform to hold the
+         world to ransom. Or it's the start of the publicity campaign
+         for the TOMB RAIDER film... *someone* still developing for
+         DREAMCAST: http://kinox.org/articles/linuxdc.html ... still
+         not too late to set up "everyone-hates-that-nerve-show.com":
+         http://dailynews.yahoo.com/h/nm/20001109/en/television-nerve_1.html
+         faintly evocative of REALDOLL FAQ: http://www.distefano.com/
+         ... so, is it the MacOS "Ralph" voice - or HOWARD RHEINGOLD?:
+         http://www.salon.com/audio/nonfiction/2000/10/27/rheingold2/
+         ... "I don't normally write in to EASTENDERS fan sites, but":
+         http://www.punternet.com/reports/6210.html ... poor SHIELDING:
+         http://java.sun.com/products/midp/images/space_invaders.jpg
+         ... hard-hitting FLASH critique of workplace drug-testing:
+         http://www.somethingawful.com/taco/animations/urine.html (vs
+         http://www.bbc.co.uk/entertainment/sickboy1.html )...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> the opening of amusing Stallone/ Bullock future satire
+         DEMOLITION MAN (9pm, Fri, ITV) is apparently a shot-for-shot
+         homage to Burton's "Batman" - Stallone returns on Sunday in
+         STOP OR MY MOM WILL SHOOT (2.50pm, Sun, BBC1)... let's face
+         it, TRIGGER HAPPY TV (9.30pm, C4, Fri, rpt) wasn't that funny
+         the first time... and BBC2 tells the real story behind "The
+         Great Escape" in THE WAR BEHIND THE WIRE (9pm, Fri, BBC2) -
+         after this and the docu about Hitler's actual search for the
+         Ark Of The Covenant, they should soon get round to the real-
+         life events and personalities dramatised in the WW2 film
+         "Kelly's Heroes"... a good week for action-trash fans, with
+         Arnie as CONAN THE BARBARIAN (10.35pm, Sat, ITV)... the usual
+         Saturday night hilarity on C5, culminating in Woody Allen's
+         fey Mia Farrow-vehicle ALICE (12.40am, Sat, C5)... Ray "Darth
+         Maul" Park standing in for Rayden, in techno beat-em-up sequel
+         MORTAL KOMBAT: ANNIHILATION (9pm, Tue, C5)... and 1970s
+         Speedball-inspiring pretentious but likeable ROLLERBALL (9pm,
+         Sat, BBC2)... C4's brief, 4-hour WHO'LL SAVE AFRICA season
+         (from 8pm, Sun, C4) seems perilously close to attributing many
+         of the continent's problems to systematic first-world
+         exploitation, or something... Chris Carter reveals his
+         "sources of inspiration" - ie: alt.conspiracy? - in X FILES
+         NIGHT (9.15pm, Sun, BBC2)... thanks to last week's Jim Cameron
+         fan page http://www.wimpyjesus.com/cameron/love.htm , we now
+         know that "The Terminator" is a "better love story" than THE
+         ENGLISH PATIENT (9pm, Sun, C4)... while the star of EARTHQUAKE
+         IN NEW YORK (9pm, Sun, C5) is former host of "When Things
+         Tumble Over, Spill Or Fall Out Of Cupboards" - Greg Evigan!...
+         Rob "Marion And Geoff" Brydon and Julia "Jam" Davis team up -
+         at last! - in docusoap-spoof HUMAN REMAINS (10pm, Mon, BBC2)
+         ... Bill Murray still the only man to have managed a funny
+         remake of a French film in QUICK CHANGE (9pm, Wed, C4)...
+         Donald Sutherland - who else? - leads Heinlein's original
+         Bodysnatchers-adaptation THE PUPPET MASTERS (11.30pm, Wed,
+         ITV)... and THAT THING (9.50pm, Thu, BBC2) gives a free 10-
+         minute ad to Playstation 2 - admittedly, about as close as
+         most of us will get this year to actually owning one...
+
+         FILM>> last issue, our enthusiasm to tell the world about
+         George W Bush's secret Illuminati past meant we failed to
+         double-check the IMDB's "Opening this week" selection - in
+         fact, both "The Skulls" and "Lost Souls" aren't out for ages
+         (which, far from undermining our "-owl, -er" theory, actually
+         backs it up!)... this week, it's the turn of the end-phonemes
+         "-ck" and "-d", with "-ck" having the edge in a movie which
+         meets *all* our criteria for a cinema trip: a) it's science
+         fiction; b) it features Catherine O'Brien from "Neighbours" (
+         http://ezthemes.iboost.com/previews/radha_mitchell.jpg ) and
+         the English-accent chick from "Farscape"; c) brutal non-stop
+         special-effects violence; and d) it's quite dark, so you can't
+         always see what's happening on low-contrast pirate VHS or VCDs
+         - as hinted by the title PITCH BLA-CK (http://www.capalert.com
+         : massively vulgar and invasive ignominy; animals eating human
+         flesh and ripping bodies apart, leaving only the bones; a
+         distinct and inescapable [lack] of presence of programming to
+         form the viewer's grasp of faith and God)... or take your
+         childhood-obsessed weird former schoolfriend - unless, of
+         course, you *are* a childhood-obsessed weird former
+         schoolfriend - to naturalistic awkwardness comedy CHUCK AND
+         BU-CK (imdb: independent-film / man-child / mother-son / play-
+         within-play / actor / shot-on-video / stalker / wedding /
+         arrested-development / childhood-friend / flashback / funeral
+         / gay)... there's a more conventional take on age-regression
+         when the "dead person" Bruce Willis' latest young co-star can
+         see is: his own future self! - in grown-up feelgood fairy-tale
+         DISNEY'S THE KI-D (http://www.capalert.com : adolescent
+         arrogance against authority; talk of "seeing your mother
+         naked"; "supernatural powers" of time displacement - but
+         nothing evil or sinister [part of an extraordinary digression
+         on religious relativity])... Harold "Egon Spengler" Ramis
+         crosses the streams of supernatural comedy once again, in
+         sketchy Liz Hurley remake BEDAZZLE-D (http://www.capalert.com
+         : sucking kissing; sex bar; brief crotch nudity - female;
+         calling on God and getting Satan; woman claiming to be Satan;
+         glorification of Satan; mockery of God, holiness, Salvation;
+         never are we to tempt or challenge Satan for any reason)...
+         while Mark Wahlberg continues wallowing in the criminal demi-
+         monde, battling to save imperial measurements from metrication
+         in THE YAR-DS (http://www.cndb.com : nude appearances by
+         Joaquin Phoenix and Charlize Theron - bafflingly, playing a
+         character called "Erica Stoltz" - though no specifics on how
+         this compares with the golden age of Theron-nudity classics
+         like Two Days In The Valley and Cider House Blues)...
+
+         AD MUSIC FROM SIX PEOPLE>> yes, we were a bit harsh on Tom
+         Standage's idea [NTK 2000-10-13] of spotting tunes in TV ads
+         that sound unmistakably like - but not quite the same as -
+         more well-known songs, but that was before we remembered
+         thinking that JMC's "Unwrapping The Package Holiday" campaign
+         sounded like it really wanted to be "Smokebelch" by The Sabres
+         Of Paradise, as actually used nowadays by Vodafone... TIM
+         BANNISTER agreed that "the recent IBM advert for their
+         Thinkpad T20 would sound a lot better if they'd actually used
+         Iggy Pop's 'The Passenger', rather than something that just
+         sounds like it ought to sound similar"... while STU BRUISE
+         maintained Tom's original brand-awareness vagueness, citing
+         "the cosmetics one with the Air 'All I Need' rip-off and the
+         nappies one with the Jean-Jacques Perry soundalike"... also,
+         thanks to everyone who noted that Asda were using the
+         instrumental riff from TOUCH AND GO's "Would You (Like To Go
+         To Bed With Me)" to promote their "George" range of back-to-
+         schoolwear, though that's not quite the same thing... in other
+         pop news, WINDY MILLER belatedly inquired "Is it just me, or
+         does 'Kids' by Robbie Williams and Kylie Minogue sound a lot
+         like 'Opposites Attract' by Paula Abdul? I'm just wondering
+         whether [the video] features a cartoon cat." Well, it didn't -
+         though we'd always assumed the whole song was a deliberate
+         hybridisation of every male/female duet ever: the line "Notify
+         your next of kin/ you're never coming back" being a clear
+         allusion to "Want to tell my daddy/ I'll be missing in action"
+         from Meat Loaf and Cher's "Dead Ringer For Love"... pausing
+         only to ponder "is Radiohead's 'Kid A' album named after one
+         of the James Bulger defendants?", ADRIAN MOULDER suggested we
+         combined our interests in lyrical parodies and the Cthulhu
+         mythos with "this 30-year old magistrate from Singapore:
+         http://www.khaosworks.org/filk/ who specialises in Lovecraft-
+         themed filk based around ABBA songs", adding "the MP3s of some
+         of his serious stuff - like 'Fanboy Soul' - aren't bad
+         either"... and finally, STEPHEN HEWITT outed The Offspring's
+         "The Kids Aren't Alright" for bearing "a striking similarity"
+         to Belle And Sebastian's "String Bean Jean" - "well for the
+         first ten seconds anyway", before concluding "of course
+         Shampoo [NTK 2000-09-08] invented girl power, at one point
+         they were among the top 100 richest women in the country -
+         those crazy Japanese pop kids ensuring Carrie and Jacqui would
+         never want for bubblegum pink lipgloss again"... in the
+         absence of any new Shampoo material, however (and the new
+         Fatboy Slim album turning out to be rubbish), fans might have
+         to make do with new Atari Teenage Riot protegee, LOLITA STORM,
+         whose debut long-player, at about 1:30 per track, makes
+         perfect Napster fodder with such life-affirming anthems as
+         "Hot Lips, Wet Pants", "I Luv Speed", "You Make Me High When
+         You Go Down Low", and "Anthea Turner's Tears", featuring the
+         line: "by means fair or foul / like fucking Peter Powell"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                Registered at the Post Office as "fixed in CVS"
+                  http://x57.deja.com/getdoc.xp?AN=676235353
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

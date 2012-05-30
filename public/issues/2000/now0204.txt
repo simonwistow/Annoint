@@ -1,0 +1,299 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-02-04_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+  
+        "I asked them why, and they said that they considered it to be
+        so advanced that they had to take it in, because it was a
+        Nokia 9110. And I did have, in fact, a backup of the source
+        on it."
+     http://www.cnn.com/2000/TECH/computing/01/31/johansen.interview.idg/
+ - JON JOHANSEN, the DeCSS 1, on why the police took his mobile phone
+...yeah, wait till they see us play pirate DVDs on our *chipped phones*
+
+
+                                >> HARD NEWS <<
+                             the rules are Boole's
+
+         Cease and DeCSS! Yesterday, Judge Kaplan published his
+         official decision explaining exactly why a bunch of American
+         sites couldn't link to the DeCSS code - like everyone else
+         in the Free World. Defence attorneys from the EFF, because
+         they're constitutional kind of guys, played the First
+         Amendment card. Unfortunately, said The Man, the First
+         Amendment, can't be used to permit (from a precedent formed
+         to prevent strikers from restraining trade by expressing
+         their grievances) a "grave abuse against an important public
+         law". Of course, the problem here is that DeCSS is the
+         important public against a grave, abusive law: the Digital
+         Millennium Copyright Act. Kaplan was convinced that DeCSS's
+         purpose was to rip off DVDs (which you can do anyway,
+         without all that tedious coding nonsense). The DMCA stops
+         such reverse-engineering - unless there's a "commercially
+         significant purpose" behind the act. Like its real purpose,
+         maybe? To allow Linux users watch the films they've bought?
+         What's copyright for, say the founders? To advance public
+         welfare, through the "promot[ion] of the Progress of Science
+         and useful Arts". The useful Arts? That'll be the
+         commercially significant ones - and apparently free software
+         *still* isn't commercial enough. And the Progress of
+         Science? Well, in the Digital Millennium, if science thinks
+         it's progressing out of the moguls' grasp, it's progressing
+         straight to jail. Day of action's today.
+         http://www.2600.com/
+                     - don't restrain any trade with those flyers now
+         http://www.enel.ucalgary.ca/~mastracc/opendvd.html
+                                                    - more useful art
+         http://cryptome.org/dvd-mpaa-3-mo.htm
+            - "another step in the evolution of the law of copyright"
+         http://www.mpaa.org/
+                             - running IIS4. this is a set-up, right?
+         
+         In the British courts, we have more serious matters to
+         consider. Like those Dixons-style "Dreamcast for -9.99"
+         e-commerce snafus: should they stump up the goods, or what?
+         Perhaps it's time for a test case. Enter JONATHAN SWIFT,
+         aptly named reader of uk.tech.digital-tv, who spied the
+         satirical potential in a Tandy Webpage, offering a
+         terrestrial digibox for just 1p. Tandy have explained that
+         that the box (RRP 300UKP), isn't much use without a
+         ONdigital subscription. But they're wrong: you can still get
+         the free BBC and ITV channels. For a penny. The page is
+         still up, and Tandy's Netbanx system instantly charges your
+         credit card, making it in legal terms, a done deal. And if
+         isn't, we're sure your local Trading Standards would be very
+         interested to know why not.
+         http://www.tandy.co.uk/dev/1518130.phtml
+                                    - vision of boo.com sales to come
+         http://www.ntk.net/2000/02/04/dohtandy.gif
+                 - in case they fix it. or you need evidence in court
+         http://www.deja.com/viewthread.xp?AN=580002177
+                                          - we have witnesses, m'lud!
+
+         Who says that the Tory's aren't responsive? We're pleased to
+         announce that the SMTP spam relay at tory.org pointed up in
+         last Friday's NTK was fixed by Saturday morning. Sadly, the
+         Conservatives were a little tardier in stopping one
+         supporter from subscribing to their free ISP service this
+         week. Within minutes, he'd taken advantage of their homepage
+         Webspace offer, and was offering a special "cash for 
+         questions" e-commerce service - hosted, naturally, at
+         www.tory.org. The page was deleted swiftly, leaving the
+         volunteer no alternative but to subscribe again, this time
+         running the appeal on a new page:
+         http://www.tory.org/home/bollocks/ . Tory.org has now
+         suspended all new subscriber registrations. Presumably to
+         stop Jeffrey Archer trying the same trick.
+         http://www.ntk.net/2000/02/04/dohtory.gif
+                             - hey, they should team up with Netbanx!
+         http://www.theregister.co.uk/000202-000011.html
+                                - Register pals deliver the upper cut
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         more Y2K hubris: http://www.chaosprotocol.com/news.htm ...
+         VERIO applies for trademark on the term "whois" ... nine
+         percent of Germans admit to having kissed their computer,
+         says MICROSOFT poll ... colleague not available for comment:
+         http://uk.news.yahoo.com/000203/1/9zquj.html ... Lottery "is
+         tax on poor for benefit of the rich" uncovers THE TIMES ...
+         ex-CIA chief used home computer to study secret files, porn
+         sites ... uprising students fight for dull Aphex Twin video
+         at britsvoting.com ... ONDIGITAL's new teletext service gets
+         a flying start with Thomas Cook advertising holidays
+         departing on "Feb 30" ... a doh so doh-ish, it contains the
+         word "doh": http://www.cafe.barclaysquare.com/gadget/ ...
+         pretty much exactly the opposite of what the author
+         intended: http://www.bbc.co.uk/tickets/radionew.html ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Thanks to everyone who wrote in complaining about the plasma
+         gun "goof" in our recent Transmeta story [NTK 2000-01-21] -
+         in fact, there actually *is* a plasma gun in Q3A, to be put
+         to good use, no doubt, at this weekend's BAD LAN RISING
+         party, from 9am, Sat 2000-02-05, UKP12 per day, the
+         Highfield Hotel, Middlesborough (the location has moved
+         around in the past, presumably in accordance with a "no
+         camping" policy).
+         http://www.badlanrising.co.uk/
+            - also features a TV + N64, for anyone who needs to "relax"
+         http://www.telefragged.com/q3faq/index2.html
+             - "also makes some splash damage near the point of impact"
+
+         And spring's in the air, when a young man's fancy turns to...
+         what else but PETER SOMMER'S INFORMATION SECURITY COLLOQUIA
+         at the LSE in London, which get back into the swing of things
+         on Tue 2000-02-08 with Robert Ayres discussing the commercial
+         possibilities of the Computer Emergency Response Team, and
+         perhaps addressing why CERT advisories have been so lame
+         recently.
+         http://www.cert.org/advisories/CA-2000-02.html
+            - warns of risks in "promiscuous browsing" (ie: "browsing")
+         http://csrc.lse.ac.uk/Events/Colloquia.htm
+             - if Hugo Cornwall teamed with Knight Rider's Devon Miles,
+                       they could call themselves "Devon And Cornwall"!
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         There's a fair argument that states that if you don't already
+         know about NMAP, the remote port-scanner, OS guesser, and
+         snoopy IP packet miscellanea reporter, you probably
+         shouldn't be using it. Thankfully, the authors now
+         recognise that almost any ten year old kid understands
+         YACC grammars these days, and to that end have added a 
+         cool new "$kR1pt K1dd13z" filter to the output. |<3333wl.
+         http://www.insecure.org/nmap/
+                                                           - "worthy"
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+  life imitates Onion: http://www.cnn.com/2000/US/01/31/spider.surgery.ap 
+         ... write to the Answerman, and he'll make up some answers:
+         http://www.dailyradar.com/features/game_feature_page_311_5.html
+         ... when the makers of "Taxicab Confessions" find out just
+         how much people will pay for a lame apartment cam,
+         somebody's going to have a http://www.crushedplanet.com/ ...
+         wouldn't it be great if code reviews were like film reviews?
+         http://www.deja.com/=dnc/getdoc.xp?AN=579432658 ... doesn't
+         even count her "Falklands bonus"
+         http://web.inter.nl.net/users/Paul.Treanor/thatcher.html ...
+         just how often are these grand alignments, anyway?
+         http://www.currents.net/newstoday/00/02/03/news9.html ...
+         this week's scripture quote: "When her scheme is nearly
+         accomplished, Bibleman naturally foils her and unveils his
+         weapon to mute the mouthy and menacing Gossip Queen." -
+         http://www.bibleman.com/... life *really* imitates Onion:
+         http://www.theonion.com/onion3603/local_prostitutes.html vs
+http://news.bbc.co.uk/hi/english/world/asia-pacific/newsid_627000/627012.stm
+         
+
+                                >> GEEK MEDIA <<
+                                 get out less 
+
+         TV>> "Is it Father Dougal in tights?" inquired last week's 
+         Radio Times, perhaps unnecessarily, of lame new Ardal O'Hanlon 
+         superhero spoof MY HERO (8.30pm, Fri, BBC1) - apparently he 
+         has super powers, but - get this! - *doesn't understand normal 
+         human behaviour!* Promisingly, future episodes may indeed 
+         tackle the problems of human/superbeing sexual relationships: 
+         http://www.blueneptune.com/~svw/superman.html ... overrated 
+         black and white yawnathon THE HAUNTING (11.40pm, Sat, BBC2) 
+         (recently remade as "The Haunting" and based on the book "The 
+         Haunting Of Hill House") is showing in some sort of confused 
+         non-tie-in with current movie "The House On Haunted Hill"... 
+         while sources inside Rapido, makers of "Eurotrash" and new 
+         American filth frolic YANKY PANKY (10pm, Sat, Sky 1), reveal 
+         that employees can be disciplined for not having *enough* porn 
+         on their work PCs... in case you hadn't noticed, BBC2 is 
+         showing Will Smith hipcom THE FRESH PRINCE OF BEL AIR (6.20pm, 
+         Mon, BBC2) from the beginning again, complete with interminable 
+         title sequence... Simon Davies is banging on about privacy or 
+         something on COUNTERBLAST (7.30pm, Mon, BBC2)... Philip "The 
+         Saint" Noyce's best film, Nicole Kidman floater DEAD CALM 
+         (9pm, Mon, C5) is Alien - but on a boat!... and a brief cross-
+         channel Nicolas Cage Wig Out Season begins with white folks' 
+         Driving Miss Daisy chuckle GUARDING TESS (10pm, Mon, C4) and 
+         ends with overlong but carnage-packed Michael Bay shoot-out 
+         THE ROCK (9pm, Tue, C5)...
+
+         FILM>> yes, traditionally we should be heaping praise like 
+         "Not just the best kids' film - but one of the best films 
+         *ever*" upon Pixar's high-res CGI follow-up TOY STORY 2 
+         (http://www.capalert.com/capreports/ : theft; fighting; a 
+         video game killing; threat with physical violence; many Barbie 
+         dolls dancing in swimwear while characters ogle at them with 
+         sensuous expressions)- basically the same fricking film as 
+         "Toy Story", but with some of the scenes in a different order, 
+         plus quite a good rendering of "Newman" from Seinfeld, an 
+         unecessarily heart-rending song about being abandoned by your 
+         owner, and endless scenes of Tom Hanks shouting. You do get 
+         "Luxo Jr" as a short, though we'd rather see "Knick Knack"... 
+         otherwise there's a bunch of low-rent Brit shit - Shane 
+         "Twentyfourseven" Meadows' Midlands Grange Hill-alike A ROOM 
+         FOR ROMEO BRASS (whose poster implies it's "just pants"), plus 
+         Craig Ferguson's unhilarious hairdresser mock-docu THE BIG 
+         TEASE (MPAA: rated R for profanity, homosexual themes)... so, 
+         although we don't have high hopes for it, we'd go for trashy
+         William "The Tingler" Castle remake THE HOUSE ON HAUNTED HILL 
+         (http://www.capalert.com/capreports/ : asylum madness with 
+         knife "surgery"; firearm threats, including to the head; 
+         unseen threat throughout most of story; kissing a woman that 
+         is implied to be dead; multiple nudity; multiple excessive 
+         cleavage/breast exposure; vulgar touching; bizarre and evil-
+         looking/sounding introduction; invisible force operating 
+         computer; murder by an evil manifestation; murder with several 
+         pencils through the neck)...
+
+         RED BOOK AUDIO>> hasn't been much on the soundalike pop front 
+         for a while - copyists no doubt stunned into silence by the 
+         sheer blatantness of R KELLY'S "If I Could Turn Back Time" 
+         tribute to the Righteous Brothers' "Unchained Melody"... but, 
+         in a brand new first-ever *double* link-up rip-off, ANDREAS 
+         JOHNSON'S "Glorious" closely resembles a Swedish cover of the 
+         Manics' "Design For Life", while the Manics' own impassioned 
+         rant against object-oriented programming, "The Masses Against 
+         The Classes", is curiously reminiscent of Ultravox's "Hymn" 
+         (you know: "The power and the glory/ til my kingdom comes!" 
+         http://foxleap.fortunecity.com/hymn_ultravox.mid )... in other 
+         pop news, we can't remember what that collaboration between 
+         Limp Bizkit and Method Man is called, but we're fairly certain 
+         it features sound samples from Defender... never mind the hoo-
+         ha about William Orbit's "Pieces In A Modern Style" previously 
+         hitting the shops about 5 years ago - now that Daphne And 
+         Celeste's "Ooh Stick You" has (at last!) been released, 
+         Servalan from Blake's Seven [NTK 1999-09-10] has mysteriously 
+         disappeared from the video! Well, either that or NTK teeny-pop 
+         correspondent NICK DRAGE *hallucinated the entire thing*... 
+         speaking of which, the nation still eagerly awaits the radical 
+         cyber-rock of LYSERGIC DOWNLOAD, as plugged extensively in 
+         January's Time Out (and nowhere else) - the band who've worked 
+         out (you've guessed it) "how to communicate the effects of 
+         hallucinogenic substances... through a modem". Assuming they 
+         actually exist, they should register lysergicdownload.org (or 
+         .com) pretty sharpish; it would be "unfortunate" if their 
+         anarchic anti-music biz stance included using legal threats to 
+         evict squatters from their domain name... back with the 
+         soundalikes, first-time caller JOHN HARTNUP reveals that "When 
+         johnny-come-lately girl band Atomic Kitten generously invite 
+         you to 'Give It To Me Slowly'", it "doesn't half" remind him 
+         of the Communards' "Never Can Say Goodbye"... while, 
+         concluding our "suggestive girl bands" strand, XY-rockers 
+         HEPBURN have notably failed to provide a satisfactory lyrical 
+         interpretation of their "Deep Deep Down" track, fuelling net 
+         speculation that it "might be about oral sex"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+               Registered at the Post Office as "skewed wags"
+http://www.independent.co.uk/news/Digital/Features/2000-01/appleaqua310100.shtml
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

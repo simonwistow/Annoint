@@ -1,0 +1,224 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-11-12_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+         "Drinkaware.co.uk is run by the Portman Group, which is funded 
+          by the alcohol industry to promote sensible drinking. The 
+          site, which is currently unavailable because of technical 
+          problems but is expected to go live later on Friday, offers an 
+          alcohol unit calculator using real drink brands..."
+                          http://news.bbc.co.uk/1/hi/health/4003229.stm
+         - ironic this particular site should fall victim to "Error 500:
+                      too many cocktails at big launch the night before"
+
+
+                               >> HARD NEWS <<
+                               spelled "L-Z-Ws" 
+
+          Last year, Microsoft had 4,000 patents in total. This year,
+          they applied for another 3,000. They are now planning at
+          least twenty IP cross-licensing deals with other large
+          corporations, and have made it clear that they are seeking
+          similiar alliances with even their worst enemies. This
+          April, they quietly offered a "Royalty Free Protocol License
+          Agreement" on their site. It generously allows the license
+          of "any intellectual property rights Microsoft may have in
+          any or all of [the following] protocols". The 130 protocols
+          listed included Appletalk, most of TCP/IP - and everything
+          else, from DNS to Zmodem, from DHCP to the port 9 discard
+          service (whose sole function is to drop packets). Signing
+          this license frees developers from being sued for IP
+          infringements by Microsoft, but prevents you from working on
+          GPL software (Samba already warns its contributors not to
+          sign it). This week, Microsoft indemnified all their
+          customers from the legal fallout of any court cases
+          revolving around their IP. Which implies there is either
+          about to be such a battle: or at least Microsoft wants
+          everyone to think there'll be one. Put this week in your
+          diaries, ladies and gentlemen of the Internet: you don't
+          need Yoda to tell you that the Patent Wars have begun.
+          http://www.groklaw.net/article.php?story=20041107154122603
+                                - pat groklaw says all you need to know
+          http://www.worldwar2database.com/html/phonywar.htm
+                                           - or the phony war, at least
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          Let's just say there's a more than a few names we recognise 
+          in the speaker lineup at next month's all-free LONDON PERL 
+          WORKSHOP (Sat 2004-12-11, Imperial College Student Union, 
+          London SW7 - where we had NotCon in the summer; free but you 
+          must pre-register on the site), tackling topics on everything 
+          from "Perl Black Magic" and "Python For Perl Programmers" to 
+          "Managing And Sending Mail". Even more imminently, there's the 
+          tantalising possibility of a special geowanking night (no, 
+          it's not what it sounds) at next week's DORKBOT LONDON (7pm, 
+          Wed 2004-11-17, Limehouse Town Hall, London E14, also free) - 
+          and what better way to celebrate international Geographical 
+          Information Systems (GIS) Day?
+          http://london.pm.org/lpw/signup.html
+             - still haven't quite worked out the actual venue capacity?
+          http://www.dorkbot.org/dorkbotlondon/
+                                             - vs http://www.gisday.com/
+          http://www.cybersalon.org/
+           - Cybersalon feat. The Mighty Jungulator @ Dana Centre today
+      http://www.spacestudios.org.uk/courses/arts_digital_course.asp?id=501
+                  - Wireless week (though isn't every week?) in Hackney
+          http://www.lektrolab.com/pages/currentevents.html
+           - and more London circuit bending + chip music at end of Nov
+          http://www.greatesthobby.com/wgh/default.aspx?id=88&c=a
+               - sorry, a bit late for "Take a Model Train To Work" day
+          
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          paste-in reviews to appeal to self-loathing Bruce Willis fans: 
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=6337369871
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=6337368887
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=6337368561
+          ... worth a shot, we suppose: http://www.no2id-petition.net/ 
+          ... disappointed this hymn isn't to the tune of "Relax" 
+          (caution, MIDI): http://www.jmanjackal.net/eng/engscause.html 
+          ... http://channel9.msdn.com/ShowPost.aspx?PostID=27667 : "20 
+          years at Microsoft" - with beard that looks like he spent some 
+          of those chained to a radiator... *exactly* how we look when 
+          settling down to an relaxing evening of illegal song-swapping: 
+      http://www.harderfaster.net/?section=news&action=shownews&newsid=11685
+          ... http://news.bbc.co.uk/1/3982367.stm imitates RoboCop 2: 
+          http://www.trudang.com/critter/robocop2.html ... antiobesity 
+          wonder drug Acomplia (aka Rimonabant) = stealth anti-stoner 
+          medication, allege (unexpectedly paranoid?) cannabis 
+          campaigners: http://www.ccrmg.org/journal/04aut/icrs.html ...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          Firefox hit 1.0, which means it's no longer fashionable to
+          like it, and you have to now start grumbling about lack of
+          documentation, when oh when will they fix the Slashdot
+          rendering bug, such unprofessionalism is unbecoming from
+          such... err, unprofessionals etc etc. To fan the flames,
+          allow us to plug the to-die-for extensions you should
+          install, play around with, and then struggle to uninstall
+          later, plus their not-quite-what-you-want slimmed-down
+          equivalents. Lots of people like ADBLOCK, but we prefer
+          installing URIID and playing around with ad-blocking
+          UserContent.css settings. WEB DEVELOPER continues to rule,
+          although we can probably still live with just the "edit
+          styles" bookmarklet. PAGERANK gives you everything you wanted
+          from the GOOGLETOOLBAR. And SUPER DRAG AND GO (which opens a
+          new tab from dragged links, text, or what have you) probably
+          doesn't do everything that you want from TABBROWSER
+          EXTENSIONS. But then TBE is now so gigantic people really
+          should start referring to it as "Firefoxzilla". And do some
+          complaining, people. We're slipping behind our quotas!
+          http://adblock.mozdev.org/
+                                                       - big and chunky
+          http://www.mozilla.org/support/firefox/adblock.html
+                                               - ad blocking with style
+          http://extensionroom.mozdev.org/more-info/uriid
+                                    - not sure this even works with 1.0
+          http://morphis.eu.org/
+                                                    - super drag and go!
+          http://texturizer.net/firefox/extensions/#webdeveloper
+                                                             - tool kit
+http://www.squarefree.com/bookmarklets/webdevel.html#edit_styles
+                                                 - edit css bookmarklet
+          http://piro.sakura.ne.jp/xul/_tabextensions.html.en
+                                                     - Jabba the plugin
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> Rachel "Road Trip" Blanchard joins the cast of the 
+          magnificently non-naturalistic internal-monologue sitcom PEEP 
+          SHOW (10pm, Fri, C4)... Rob Schneider xenotransplant romp THE 
+          ANIMAL (11.10pm, Fri, C4) has its moments, but it's no "The 
+          Hot Chick" or "Deuce Bigalow"... and "Fame Academy" alumnus 
+          James Fox sings Oasis' "Don't Look Back In Anger" at THE ROYAL 
+          BRITISH LEGION FESTIVAL OF REMEMBRANCE (9.25pm, Sat, BBC1) - 
+          haven't these people suffered enough?... there must still be a 
+          gap in the market for a more "specialist" adult movie knockoff 
+          of BRIDGET JONES DIARY (9.25pm, Sat, C4) entitled, well - 
+          http://www.google.com/search?q=%22bridget+jones%27+dairy%22 
+          ... Jon Ronson comes late to the "Unusually Named US Military 
+          Personnel" contest with Major General Albert Stubblebine III 
+        http://books.guardian.co.uk/extracts/story/0,6761,1339464,00.html
+          in his ever-entertaining THE CRAZY RULERS OF THE WORLD (8pm, 
+          Sun, C4) - assuming you don't mind it being narrated by what 
+          http://www.livejournal.com/users/internetsdairy/ calls "Alan 
+          Bennett's inner child"... and we particularly enjoyed the 
+          explosive riposte to all of James Cameron's tiresome T2 "There 
+          is no fate but what we make" moralising in TERMINATOR 3: THE 
+          RISE OF THE MACHINES (9pm, Sun, C5)... SPACE ODYSSEY - VOYAGE 
+          TO THE PLANETS (9pm, Tue, BBC1) implies the BBC has actually 
+          been paying attention to Matt "Yahoo Serious" Jones' blog post 
+          http://blackbeltjones.typepad.com/work/2004/01/a_dare.html - 
+          except they've cut out the tedious "actually going to planets" 
+          element and just show the cool sci-fi footage that, since the 
+          1970s, the public have actually come to prefer... while, as 
+          we've said before, we're not sure about the musical numbers, 
+          but the "Tundra" episode remains an excellent introduction to 
+          THE MIGHTY BOOSH (7pm, Wed, BBC2) - though will it still 
+          contain the incongruous lines "icy bastard" and "You said it, 
+          bitch"? http://www.themightyboosh.inuk.com/tundra.html ... 
+          
+          FILM>> as we noted about 4 years ago, KW Jeter's "Blade Runner 
+          2: The Edge Of Human" does not appear to be the inspiration 
+          for this week's same-scenes-as-the-first-film-but-in-a-
+          slightly-different-order sequel BRIDGET JONES 2: THE EDGE OF 
+          REASON (imdb: bangkok-thailand; boyfriend-girlfriend-
+          relationship; england; germany; premarital-sex)... oddly, the 
+          http://www.bbfc.co.uk/ detected "one use of strong language 
+          and moderate violence" in the 111m 58s subtitled/ Cantonese 
+          cut of wirework-heavy sporting-cliche wuxia-nonsense SHAOLIN 
+          SOCCER, though an additional incident of "drug use" has crept 
+          into the dubbed-English 87m 25s edit that's being semi-widely 
+          released over here... then next week, it's back to Mel Gibson 
+          "Conspiracy Theory" territory again in Denzel Washington 
+          political brainwashing remake THE MANCHURIAN CANDIDATE 
+        ( http://www.capalert.com/capreports/manchuriancandidate_the.htm :
+          mother using son for personal gratification; gambling; a 
+          single use of the most foul of the foul languages; bizarre 
+          drawings of evil and murder, repeatedly)... 
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+            "as disappointed with Halo 2 as you are (NB: SPOILERS)"
+ www.google.com/groups?selm=72bc196b.0411082252.4dc5c309%40posting.google.com
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

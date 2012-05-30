@@ -1,0 +1,287 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-05-07_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "There seem to be I.R.C. channels dedicated to every sexual 
+         fetish, and I.R.C. users speculate that terrorists also use 
+         the networks to communicate in relative obscurity..."
+                         http://news.com.com/2100-1032_3-5207202.html
+            /join #and_my_particular_fetish_is_winding_up_journalists
+
+
+                               >> HARD NEWS <<
+                               the old bamboos
+
+         The WIPO broadcasting rights treaty - in which starving
+         media corporations gratefully acquire a new IP right to
+         control recordings of their broadcasts (because as everyone
+         knows, home taping is killing broadcasters) slinks toward
+         ratification. The final draft is up for discussion by
+         government representatives this week. Just in time for a bit
+         of democratic involvement: except nobody quite knows who
+         those representatives are. THE UNION FOR THE PUBLIC DOMAIN
+         is an old pressure group (with RMS, EFF dignitaries and
+         various academics at the helm) which has been dusted down to
+         discover who is in charge of the treaty in various countries
+         and what their current opinion of the doc is. After that,
+         comes the gentle pursuasion. Word on the (heavily-forwarded
+         email) street is that they're short of UK and EU volunteers.
+         If you fancy a bit of low-impact exercising of democratic
+         power, mail David Tannenbaum, the UPD's British organiser
+         and see what you can do.
+         http://www.public-domain.org/
+     - what we really need here is a picture of Stallman as Kitchener
+         http://www.pervertedlogic.com/pserv/rms.jpg
+                                - no we don't really. I SAID WE DON'T
+
+         Chances are, the EFF's Cory Doctorow may well be touching on 
+         the topics of copyright and fair use (among many other 
+         interesting issues) at this year's NotCon on Sunday 6th June, 
+         in the company of other confirmed speakers including Ian 
+         "Freenet" Clarke, Bill "bonkers anti-blog blogger" Thompson, 
+         NTK's own Danny "Lifehacks" O'Brien, the unveiling of an 
+         all-new "hacking UK democracy" application, and someone who 
+         promises to tell the time (not very accurately) using only "a 
+         Marks and Spencer prawn sandwich and a BBC Micro". And don't 
+         forget, you could be joining them on the hallowed stage of 
+         Imperial College Union (South Kensington, inbetween the Royal 
+         Albert Hall and The Science Museum) if you get your suggestion 
+         in via the submissions form before the deadline of midnight 
+         next Friday (the 14th) UK time. Incidentally, there haven't 
+         been too many "Geolocation" or "Actual impacts of blogging" 
+         proposals so far, and if no-one comes up with anything in the 
+         latter category, that's technically letting the Thompsons and 
+         Orlowskis win. 
+         http://www.notcon04.com/
+       - we'll invite him; he's probably busy not being Belle De Jour
+        
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Virgin pioneer "bring a bottle" Alcoholics Anonymous meetings: 
+         http://www.ntk.net/2004/05/07/dohaa.gif ... Apple owners hit 
+         the Special Brew: http://www.ntk.net/2004/05/07/dohlag.gif ... 
+         http://www.ntk.net/2004/05/07/dohklang.gif - nice double-
+         vision... Economist's Linux fans diss Bill's MS stockholding: 
+         http://www.ntk.net/2004/05/07/dohrubbish.gif ... Reg appears 
+         to consider 1Hz PC the benchmark of "modern computer speeds": 
+         http://www.ntk.net/2004/05/07/dohtera.gif ... would suit 
+         Ghostbusters fan: http://www.ntk.net/2004/05/07/dohslim.gif 
+         ... Google goofs o' the month - "thrustworthy computing", 
+         "muslim cotton", "warning sings", "election beam", "hype park" 
+         http://www.google.com/search?q=%22carnal+tunnel%22+arthritis 
+         ... plane emerges from one end of factory, one slice after 
+         another: http://www.ntk.net/2004/05/07/dohbus2.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Sheesh - you wait all year for a public meeting on the 
+         Government's proposed National Identity Card, and then two 
+         come along at (almost) the same time. Privacy International's 
+         MISTAKEN IDENTITY (from 1.30pm-5pm, Wed 2004-05-19, Old 
+         Theatre, LSE, London WC2A, free but RSVP) currently has the 
+         best lineup - Ross Anderson and at least 3 MPs - but the 
+         BRITISH ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE will also 
+         be wondering whether these biometric advancements are really 
+         such a good thing at their X-CHANGE event (6.30pm, Wed 2004-
+         05-26, Dana Centre, near Science Museum, London SW7) in the 
+         company of UCL Professor Steve Miller and BBC Science 
+         Correspondent Christine McGourty. Adding to the overall sense 
+         of deja-vu is reader BRIAN MADEUP, who wants to know what 
+         happened to the last "six months", "10,000 volunteer", "large-
+         scale" trial of biometric passports which we were previously 
+         told was planned to run from "January to June 2004"?
+         http://www.homeoffice.gov.uk/n_story.asp?item_id=709
+              - ironically, getting tricky to tell the difference now
+         http://www.stand.org.uk/mistakenidentity.php3
+                    - Rt Hon David Blunkett, Home Secretary (invited) 
+         http://www.the-ba.net/the-ba/Events/
+                                 - details to appear here, eventually
+         http://mond.at/swpat/
+            - this Wed: Vienna demo against software patents, mit RMS
+         http://joi.ito.com/joiwiki/LoicLondonMay04
+                 - same day: London bloggers run buffet-up in brewery
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         So you've finally got your nice, clean, bugfree install of
+         Mozilla Firefox. What better way to ruin it than with a
+         bunch of extraneous, complex and alpha-quality extensions?
+         Starting at the better-paved end of this road to ruin, the
+         "OOK" extension is nice little hack to stick bookmarks where
+         you need them - under the right-click context menu. Web
+         developers will make that funny squeaking noise web
+         developers make when they see the "Web Developer Extension
+         Toolbar", which includes Tracking favourite "edit CSS" (now
+         slipped into a sidebar), as well as various site
+         testing/brokenness discovery/conformance checking/webmonkey
+         twiddling buttons like "view response headers", "highlight
+         images missing alt tags", "clear HTTP auth/cookies" and
+         "resize to 640x400, 800x600, etc". Finally, for those of you
+         somewhat suspicious that Apple's iCal was not "All That",
+         the broadly comparable, open-sourcely grungey, and not half
+         as psychedelic Mozilla Calendar project has now been ported
+         to Firefox and Thunderbird. Cross-platformtastic!
+         http://texturizer.net/firefox/extensions/#ook
+                                                       - start simple
+         http://www.chrispederick.com/work/firefox/webdeveloper/
+                                                - get complex quickly
+         http://www.mozilla.org/projects/calendar/download.html
+                                               - now available on Mac!
+ 
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         makes more sense than a lot of the news satire sites nowadays: 
+         http://www.industrialandmarine.com/rt/rndtimes_new.html ... 
+         a UseCrime so severe, the "menu" needs an audio explanation: 
+     http://www.kenwood.co.uk/clever/kframes.htm ... "one careful owner": 
+    http://atsearch.autotrader.co.uk/www/CARS_popup.asp?id=200417140440092
+         ... b3ta.com diversifying into abstract tech illustrations?: 
+  http://www.time.com/time/magazine/article/0,9171,1101040510-632091,00.html
+         ... Klingon prospers at Google, maths seems to be slipping: 
+         http://services.google.com/tcbin/tc.py?cmd=status ... hope 
+         these aren't just the usual "sex in space" urban myths: 
+         http://www.in-sourced.com/article/articleview/1689/1/13/ vs 
+         http://stack.dnsalias.net/~dphelan/archives/000047.html , 
+         http://stack.dnsalias.net/~dphelan/archives/000049.html ... 
+         there's more to adult movie titles than just dumb parodies 
+         (NSFW): http://members.shaw.ca/stayasyouare/tohwpmt.html ...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         TV>> Peter Ackroyd - the more mainstream Iain Sinclair - 
+         provides a much-needed history of a UK city hardly ever seen 
+         on television nowadays, LONDON (9pm, Fri, BBC2)... "more 
+         disturbing when it was in Danish" is the diagnosis on Stephen 
+         King's Lars Von Trier's Garth Merenghi's KINGDOM HOSPITAL 
+         (10pm, Sun, BBC2)... but you can enjoy sub-war claustrophobia 
+         in the original German in the miniseries of DAS BOOT (7.10pm, 
+         Sun, BBC2)... "no topic is taboo", warns The Radio Times of 
+         the new series of DEAD RINGERS (9pm, Mon, BBC2) - assuming, 
+         that is, it can be tacked onto the same old impersonations of 
+         Tom Baker, Ozzy Osbourne and Russell Crowe... Peter "from 
+         Balham" Baynham is credited as writer/ director of new Baby 
+         Cow animated anthropomorhpic antics I AM NOT AN ANIMAL (10pm, 
+         Mon, BBC2)... and it's slightly tricky to keep track of who's 
+         who in Japanese "Lord Of The Flies" with automatic weapons 
+         BATTLE ROYALE (11pm, Mon, C4)... we enjoy it as much as 
+         anyone, but GONE IN 60 SECONDS (9pm, Tue, ITV) returns only 8 
+         months after its last showing on ITV... Tony Blair talking 
+         about weapons of mass destruction is a reassuring inclusion in 
+         the trails for THE WORLD'S GREATEST CONSPIRACY THEORIES (9pm, 
+         Wed, C5)... while C4's Thursday-night filth slot aims to 
+         satisfy those piqued by last week's look at voyeurism, with a 
+         profile of that guy who photographed all those nudes in 
+         Selfridges, NAKED WORLD (11.05pm, Thu, C4)... 
+         
+         FILM>> the trailer looks like Kate Beckinsale's been 
+         overdubbed with a bad Eastern European accent in an ill-judged 
+         Sega coin-op version of Konami's "Castlevania" - but it's just 
+         Stephen "The Mummy" Sommers' latest CGI nonsense VAN HELSING 
+         ( imdb: based-on-novel/ monster/ vampire-slayer/ werewolf/ 
+         vampire/ dracula/ frankenstein's-monster/ dark-hero/ crossbow) 
+         ... frankly we're more intrigued by the *psychological* demons 
+         explored in the currently uncertificated/ only showing at the 
+         ICA http://www.ica.org.uk/index.cfm?articleid=13225 arthouse 
+         cyberthriller DEMONLOVER ( http://www.cndb.com/ : We see 
+         [Chloe] Sevigny from the front, lying fully nude, for a few 
+         seconds, on a hotel bed, playing a videogame)... other than 
+         that, there's a wider release for Val-Kilmer-as-John-Holmes 
+         more-based-on-fact-than-"Boogie Nights" drama WONDERLAND 
+         ( http://www.imdb.com/title/tt0335563/goofs : Within the first 
+         few minutes of the film, a second generation Honda Prelude is 
+         seen passing in the street. In 1981 when the film takes place, 
+         the Prelude was still in the first generation [1979 - 1982]) 
+         ... than for Neve "Scream" Campbell's nothing-to-do-with-the-
+         CIA ballet-school collaboration with Robert "MASH" Altman, THE 
+         COMPANY ( http://www.screenit.com/movies/2003/the_company.html :
+         [CAUTION, POPUPS] A momentary glimpse of [Neve Campbell's] 
+         bare breast from the side; The film could inspire some kids to 
+         try to imitate the various dance moves and jumps that occur in 
+         it; Dancers of both sexes wear tight, form-fitting and skin-
+         colored outfits that show off every nook, cranny and bulge of 
+         their bodies and make them appear nude from a distance - 
+         particularly in the buttocks area)...
+         
+         AD MUSIC FOR SIX PEOPLE>> among some changes to the "new" 
+         NTK - will it finally be time to retire the reviewing of 
+         records purely on the basis of which TV ads they sound like? 
+         Also, we suspect that enthusiastically incompetent releases 
+         from GOLDIE LOOKIN' CHAIN http://www.youknowsit.co.uk/ , 
+         evinced on such lyrical flights of fancy as "Half Man Half 
+         Machine" ("I'm not like other people you might see or you 
+         might know/ I made love to a BBC Micro") and (the largely 
+         self-explanatory) "Your Mother's Got A Penis" will ultimately 
+         make all other forms of music both redundant and unnecessary 
+         ... until then, however, we still reckon that XTC's "Senses 
+         Working Overtime" ("Trying to taste the difference 'tween the 
+         lemons and limes", "And all the world is biscuit shaped/ It's 
+         just for me to feed my face") might prove to be ideal for 
+         Nestle's upcoming "Kit Kat White with Lemon and Yoghurt"; 
+         PADDY SMITH suggested that "rice-based milk substitute Rice 
+         Dream obviously needs to license Radiohead's 'Nice Dream' in 
+         order to appeal to disaffected lactose-intolerant youth"; and 
+         both DANIEL PEMBERTON and LEE MAGUIRE separately proposed 
+         Ottowan's "D.I.S.C.O", the former for Blockbuster ("Rent a V-
+         I-D-E-O") and the latter for - you've guessed it - T-E-S-C-O, 
+         though neither expanded on what the acronyms might then stand 
+         for ("T - terrible TV ads", and so forth)... which just leaves 
+         it to BILL BUMGARNER to leap to the defence of one of those 
+         "When Audiophiles Attack" sites we used to make fun of back in 
+         2002: http://www.johnvestman.com/digital_myth.htm . "The guy 
+         does make a number of valid points, including that different 
+         brands of CDRs *do* sound different when burned with the same 
+         material", Bill maintains. "This is mostly because audio CD 
+         transports suck ass - they are manufactured as cheaply as 
+         possible - and, combined with a shitty quality CDR, you will 
+         get different quality sound from different burn rates and 
+         different CDRs. To burn at a higher speed, the CD burner must 
+         adjust the output of the laser to a higher degree to allow 
+         each 'spot' to be burned more quickly. Obviously, changing 
+         both the speed of the burn and the power of the burn causes 
+         the exact qualities of the written spots to change". Whatever 
+         next, eh - how gold-plated IDE cables improve the playback of 
+         your MP3s?...
+
+     
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                "large, hairy"
+               http://www.eurogamer.net/article.php?article_id=55363        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

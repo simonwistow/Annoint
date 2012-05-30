@@ -1,0 +1,319 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____07/08/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+            [Last week, some subscribers were lucky enough
+            to receive up to four bonus copies of NTK. To those who
+            took the time to reply with comments more sarcastic than
+            we could ever dream of being, thanks. To prevent this
+            ever happening again (again), we have a brand new
+            remailer, written by unpaid genius hacker labour while
+            under the influence of prescription medication. *That*
+            should sort things out, don't you think? think? think?]
+
+         Because if we truly desire world domination, we've got to
+         get our LSD into the corporate elite's conceptual water
+         supply and alter the beast's consciousness. That means we
+         need to co-opt the media that shape decision-making at the
+         highest corporate levels of the Fortune 500. 
+                   - ERIC S RAYMOND, the Abbie Hoffman of Open Source
+                                   Eric, you're scaring the straights
+
+
+                                >> HARD NEWS <<
+                                  harder drugs 
+         
+         MICROSOFT's "Cheeky Monkey" defence strategy against the DOJ
+         anti-trust charges continues to unfurl. Top of this week's
+         "Strange... but Truish" claims was that they were
+         planning to snick an Internet browser into the OS waaaaay
+         back in April 1994. "Netscape wasn't even on anybody's
+         radar screen back then", said Microsoft's legal team to the
+         New York Times - showing that Gates had planned Net
+         integration with no intent of CRUSHING ALL COMPETITION UNDER
+         THE HEEL OF HIS JACKBOOT, as some critics had implied. Same
+         critics will not be silenced however: it's a pretty
+         short-range radar that wasn't picking up *some* noises of
+         Andreessen and Co back then. Was nobody at the Microsoft's
+         April 5th Internet retreat (when the OS integration was
+         allegedly first mooted) aware of the formation of the
+         Netscape company *the day before*? And how long did it take
+         Gates to put his masterplan into operation? The HTML core
+         for Internet Explorer was licensed from Spyglass on December
+         16th of that year - again, one day *after* Netscape 1.0
+         shipped. Had the far-seeing Gates not managed to persuade
+         his team to write *any* code before then? Microsoft might be
+         able to pursuade a judge the Internet time is fast - but
+         proving it runs backwards might be tougher assignment...
+         http://www.microsoft.com/presspass/ofnote/nyt806.htm
+                              - if you're going to rewrite history...
+         http://www.msnbc.com/news/118315.asp
+                                      - start with your own archives
+
+         As the proper media backtracks over their BACK ORIFICE tales
+         of terror ("Sir Dystic’s claims collapse around his
+         contrived infamy" - Richard Barry, ZDNET News), the true
+         tale of this year's DEFCON highlight - PH0N-E's public bust
+         by FBI agents - is beginning to emerge. From a report by the
+         man himself (allegedly - no PGP signature on this defcon
+         list post) the Feds were all too interested in Ph0n-E's
+         promise to show his HERF GUN prototype at the show.
+         Intimations during their chat included putting Phon-E on
+         "the list" ("so give me your address and I'll put you on my
+         christmas list too"), and flagging him as a dangerous crim
+         ("I'm actually nice, I'm just misunderstood because of my
+         artistic hair."). With nothing sticking, the suspect was
+         released avec HERF GUN, and off he strode... in the
+         direction of Area 51. To heckle the UFOS, we guess.
+         http://www.forbes.com/asap/6396/hack.htm
+                                      - just don't point it backwards
+         http://www.pixielated.org/nerf/
+                                       - or get it mixed up with this
+         http://www.dis.org/phon-e/
+                                         - bad animated gifs/attitude
+         http://www.zdnet.com/zdtv/cda/index/0,2073,2125697-2103874,00.html
+                       - Back Orifice bad! Good! Dangerous! Harmless!
+
+         Thanks to everyone who sent in BBC management quotes,
+         showing their exemplary approach to online services.
+         Rummaging through the slushpile, we were particularly drawn
+         to: "The Internet is no better than Ceefax. I'm not
+         convinced it's going to appeal to anyone other than the
+         anoraks." (so *close*) and "Microsoft's Blackbird offers a
+         far superior way of presenting and distributing commercial
+         on-line content." (July '95 - a year after Microsoft had
+         decided the Internet was the way to go, of course). Our
+         fave, though, has to be the BBC exec who ran into the
+         canteen on the day the DNS root servers broke down, and
+         crowed "The Internet's dead! It's dead! Hahahahaha!" right
+         into the face of one young Online lady. It's attitudes like
+         that which make the BBC such a pleasant place to work.
+         http://www.bbc.co.uk/onlinetalent/
+                             - yeah, and look how they treated Dr Who
+
+        
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                             
+         NT 5.0 beta 2 "down to last 100 major bugs"... ION STORM's
+         newsletter runs "all joey" edition - yeah, we had that
+         figured... from Japanese invention press release:
+         "Armrest Reduces Strain, Provides Relaxing Smell"... doomed
+         true product slogans of our time: "I can't believe I've just
+         eaten SPAM"... "In general, less-educated individuals tend
+         to agree most strongly with the X-FILES perspective",
+         uncovers ZOGBY'S REAL AMERICA... HARRY KNOWLES reports that
+         Ulysses 31 movie will feature Barry Gibb as star, Eric
+         Cantona as Zeus - hmmm... 11% out-of-the-box failure rate
+         for iMacs, says CRINGELY... NETSCAPE programmers prepare for
+         Y2K - http://www.ntk.net/doh/ns980800.gif ... RICHARD BARRY
+         WATCH at www.zdnet.co.uk/news : "A new Internet service
+         aimed at the over 60s is proving to be as popular with
+         pensioners as it is with school children. Full story to
+         follow." But can we wait?... GUARDIAN warns its readers
+         "if a microwave oven blows up because its chip fails at the
+         millennium" you will not be covered... techies at "New"
+         DEMON taught presentation skills - meanwhile, pop3 service
+         collapses... 49,000 people signed up for Lego MindStorms beta
+         test, 200 will be chosen...
+
+         
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+         
+         Fancy a trip to the cinema, but forgotten your glasses?
+         Well, obviously you don't need to sit in the front row for
+         RESFEST, the low-resolution digital film and video
+         festival, which presses play on its worldwide tour today in
+         London at the hated ICA [07-09/08/98]. There's CGI animation,
+         "digitally enhanced live action", and - as ever -
+         underground pop promos, plus experts who you can ask about
+         the persistent rumours of unofficial attempts to revive the
+         Fisher Price Pixelvision format. C'mon, surely it's just a
+         Tyco kiddie-cam soldered onto a high-speed Walkman...
+         http://www.resfest.com/
+                             - entrants over 320 x 240 need not apply
+         
+         Forced to double-bill with a moon waxing too gibbous for its
+         own good, the PERSEID METEOR SHOWER will be gigging the
+         skies on Wednesday and Thursday next week
+         (11/08/98-12/08/98), with their best set at 4AM on the final
+         date. Yeah, we always forget to check it out too: the real
+         date for your Meteor Lovers Diary, though, should be
+         17/11/98, when the LEONIDS get a chance to steal the
+         chondrite-light in what promises to be their most
+         spectacular show for 33 years.
+         http://www.ticetboo.demon.co.uk/perseids.htm
+                             - trained meteors? this I want to see...
+         http://www.skypub.com/meteors/perdisc.html
+                                                   - I saw one first!
+
+        
+                                >> TRACKING << 
+                            mostly significant bits 
+
+         You know, once you've mastered the small bats, fast balls,
+         and extreme rebound-angle options, only one real PONG
+         challenge remains - *who can code the smallest version?* An
+         impressive 144 bytes is the current leader over at the HUGI
+         SIZE CODING COMPO, confirming the depth-of-gameplay concerns
+         raised by some early reviewers about the analogue-joypad
+         classic. Further nostalgic dreams fade in the cold light of
+         day at the COMPUTER EXCHANGE RETRO SHOP at 143 Whitfield
+         Street, London W1 (voice: 0171 692 1213), which opened a
+         while back - but only now can we bring you this exclusive
+         unofficial site preview...
+         http://www.arrgh.co.uk/cex/
+                   - ironically, unviewable on most Spectrum browsers
+         http://www.geocities.com/SiliconValley/Bay/6062/compo.htm
+                      - just like real tennis, not a Brit in sight...
+        
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Save Mir: http://www.space-frontier.org/PROJECTS/MIR/ ...
+         first SOHO comes back, now Pioneer 10 says hello - anyone
+         heard from Sputnik?... CELERON finally gets that L2 CACHE...
+         how long before WWW.QVT.COM jewelry gets to QVC?... plants
+         soothed by aspirin... bye bye, about:jwz ... CYBERJUNKY --
+         legit? *married*? What kind of rumours are these?...
+         http://www.spacebastards.com/attack.htm for the vicious
+         games exec inside all of us... "What goes down more, Monica
+         or SLASHDOT?"... kick up WORD 97, go to Tools|Languages,
+         choose English (United States), type "I'd like to see Bill
+         Gates dead", select all, shift-F7... Smack my BitchX up...
+         NT guy at USENIX gets snappy with heckler who criticises the
+         version of ksh he's demonstrating on NT. Heckler turns out
+         to be David Korn... "WARGAMES Y2K"... saving trashed Websites
+         by asking friends to pick through their NETSCAPE cache...
+         Tomi "DOOMer", Swedish Quake champion says "I truly believe
+         that 40 or 50 years from now, when I tell my grandchildren I
+         played against Thresh and DeathRow, it will have
+         significance for them."... http://www.auschron.com/mrpants/
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+         
+         FILM>> it's been described an "all-out attack on the arts
+         and traditions of film-making" - in other words, a
+         big thumbs up from us for ARMAGEDDON (imdb: action /
+         sci-fi / thriller / romance / blockbuster /
+         space-shuttle / meteor-threatens-earth / disaster / bravery
+         / father-daughter / space-station /
+         astronauts / training / oil-platform / hero / rescue
+         / swimming / space / asteroid / nuclear-weapons /
+         greenpeace / paris / sacrifice / apocalypse). Expect a
+         fairly basic all-action CGI saving-the-world
+         ensemble epic, albeit one that Michael "The Rock /
+         Bad Boys" Bay has edited the living shit out of. Then come
+         home and play the unofficial online game! (
+         http://huey.jpl.nasa.gov/~spravdo/neat.html )... "The
+         world's most private detective" amusingly sums
+         up the reclusive empath detective hero of quirky,
+         arty noir ZERO EFFECT (imdb: thriller / comedy), with Ben
+         "Reality Bites" Stiller as Bill "ID4" Pullman's Watson-style
+         assistant... "Only the rainbow can duplicate its
+         brilliance!" was the 1938 tagline for Errol
+         Flynn's Technicolor treat, THE ADVENTURES OF
+         ROBIN HOOD (imdb: action / adventure / outlaw / prince /
+         based-on-novel / revolt / robin-hood / swordfight /
+         historical / castle / swashbuckler / classic /
+         england / famous-score / archery / knights / love /
+         medieval) - here's hoping the new print still includes,
+         while Will Scarlet is getting off his horse,
+         the background shot of a car... 
+
+         TV>> of course, "Director's Cut" took on a new meaning for
+         mad Brit Richard Stanley when he was kicked off
+         The Island Of Dr Moreau, but his version of DUST DEVIL (Fri,
+         2.20am, C4) still features an African spirit made
+         flesh, and not the manical home appliances you might have
+         exepected after seeing his 2000AD-"inspired" debut, HARDWARE
+         (Fri, 11.50pm, Sky Movies Gold)... anyone hoping for
+         MYSTERY SCIENCE THEATER 3000 (Sat, 12.00pm, Sci-Fi?) on
+         Astra will be doubly disappointmented to find that Sky have
+         handed the post-12am transponder slot to the pay-porn Adult
+         Channel, seemingly without telling viewers - unless you
+         count the ironic scheduling of Sci-Fi thriller DEAD BY
+         MIDNIGHT (Thu, 9.00pm, Sky Movies 1). Still, the sounds of
+         moaning and screaming can't be that different from anyone
+         watching, say, Planet Mirth... Go Ricki! John Waters'
+         CRY-BABY (Sat, 12.10pm, BBC2) features Ms Lake when she
+         actually looked like a freakish talkshow guest... David
+         Cronenberg emerged from his coma and forsaw a Stephen King
+         movie that works: THE DEAD ZONE (Sun, 10.00pm, C4)...
+         WATCH THIS OR THE DOG DIES - THE HISTORY OF YOUTH TV (Tue,
+         9.30pm, BBC2) hopefully offers another chance to make sense
+         of the seminally info-dense "Network 7" - not to be confused
+         with the volunteers ingesting powerful hallucinogens in drug
+         docu SACRED WEEDS (Mon, 10.55pm, C4)... we still prefer
+         Tarantino's "Sleep With Me" homoerotic subtext
+         to TOP GUN (Wed, 10pm, BBC1)... and it seems even its
+         creators are sick of the monster they've created, judging by
+         the subtitle of DARKMAN III: DIE, DARKMAN, DIE (Thu,
+         1.30pm, Sky Movies 2)...
+         
+         UPDATE YOUR HEAD>> due to recent "restructuring" here at NTK
+         towers, some facts were unavoidably omitted from recent
+         issues. In case you were wondering, they were largely...
+         from the Siggraph '98 report [NTK 24/07/98], the following
+         lowlights: SUN's "laughable" multi-pipe ENTERPRISE 3D
+         system, jerkily running Java3D, and having to sign an
+         "injury waiver" to get into the 25th celebration party at
+         the Disney World of Sports. Plus, highlights: at last, a
+         lag-free VIRTUAL AIR HOCKEY game ( http://www.mr-system.com),
+         and the ILM quiz bowl team calling themselves "Let The
+         Wookiee Win" (they lost)... CLEM CHAMBERS (from the
+         fantastically generically named On-Line PLC) was less
+         excited about the arrival of the SONY VAIO 505 [NTK
+         24/07/98], describing how the previous 707 model was "full
+         of hardware bugs. If you suspend it or simply close it down,
+         [it] goes to sleep and won't wake up unless you take the RAM
+         out and swap it. Sony tell you not to transport it with
+         battery in or else it might not re-boot without surgery! (I
+         carry a screwdriver with me instead)"... both JENNY COLGAN
+         (upcoming stand-up comedian) and MATTHEW "KUJI" BEVAN (the
+         "biggest threat to world peace since Adolf Hitler") queried
+         our lack of coverage of the elusive TIZER ICE "tastes cold
+         even when it's not!" drink, Bevan calling it "fizzy pink
+         dentist's mouthwash" that "makes yer mouth go numb", and
+         Colgan focussing on "the nasty chemical tang" of this "crown
+         drink of disgustingness". That's nothing, wait till you try
+         Dairy Crest's CRAZY SHAKES, flavoured milk which comes with
+         "a 3.6g sachet of popping candy which, when mixed and shaken
+         vigorously, creates a popping sensation in the mouth"... oh,
+         and [.tv]'s 404 NOT FOUND is shown on Tuesdays, not Thurs -
+         apologies to anyone accidentally exposed to BLUE SCREEN
+         instead, which turns out to be neither the "adult" side of
+         the Computer Channel, nor a Windows NT error miniseries...
+
+         
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                It is registered at the Post Office as "*****"
+                      (http://www.sideroad.com/openroad)
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial licence details.
+                 
+                    Tips, news and gossip to tips@spesh.com

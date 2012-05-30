@@ -1,0 +1,302 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-02-07_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "[Sendo] was rushing ahead with a substandard and unreliable 
+         product, Microsoft argued..."
+               - BBC NEWS ONLINE reports on the mobile phone OS wars
+                     http://news.bbc.co.uk/1/hi/business/2727811.stm
+            ...and Microsoft is perfectly capable of releasing those
+                                                      *all by itself*
+
+
+                                >> HARD NEWS <<
+                               demographic skews
+
+         "THE NEW STATESMAN NEW MEDIA AWARDS 2003," their official 
+         website explains, "in association with SchlumbergerSema, is 
+         focusing on how new media technology is used to make a 
+         difference in public life". For a little clarification of what 
+         they have in mind here, you might recall the name of the 
+         sponsor, SchlumbergerSema, from our "So, who is in favour of
+         ID cards?" musings last month, when they were enthusiastically
+         backing a one-day conference on the subject of "what the 
+         next steps should be towards the possible implementation of an 
+         Entitlement Card". Schlumberger also "sponsored" this week's 
+         remarkable finding that "Four out of five UK citizens are in 
+         favour of the introduction of entitlement cards, including the 
+         use of biometrics", according to a survey which they paid for.
+         SchlumbergerSema make the Icitizen(TM) smart ID card (to be 
+         issued to 11 million Belgian citizens over the next 5 years), 
+         while their sister company, Schlumberger Oilfield Services, 
+         supply "Technology services and solutions for the petroleum 
+         industry". It's not quite "The UK Vegetarian Awards, brought 
+         to you in association with McDonalds". But it's pretty close.
+         http://www.newstatesman.co.uk/nma/nma2003home.htm
+         - themes of "innovation, efficiency and accessability" [sic]
+         http://news.zdnet.co.uk/story/0,,t269-s2129590,00.html
+                       - 50% of sci-fi fans favour "iris recognition"
+www.cssa.co.uk/press/bulletins/weekly_bulletin/bully_10_12_02.asp#events
+                      - scroll down to "Entitlement Cards Conference"
+http://yro.slashdot.org/comments.pl?sid=52622&threshold=-1&cid=5214053
+           - /.ers post the usual unsubstantiated conspiracy theories
+
+          It was last November when MPs become dimly aware that spam
+          might be a problem. Dr. Brian Iddon, the Member for Bolton
+          South East told Robin Cook that "many hon. Members have been
+          receiving unsolicited and highly offensive pornography via
+          the parliamentary network. The worst comes via a method
+          called HTML". Our hopes for an emergency order banning all
+          HTML mail in the British Isles came to nothing, though, and
+          Parliament instead set upon installing a filter.
+          http://www.adaptwestminster.co.uk/html/HoCDepts/pornfilter.htm
+                                      - weapons of mass communication
+
+          Cue lesson #2 for the parliamentarians - filters don't 
+          work. When the Great Wall of Westminster came up this week,
+          voters complaining about the Sexual Offences act received a
+          mail saying their messages had been filtered away. A
+          constituent whose surname was Butt got mail to her elected
+          representative bounced because of her name. The Lib Dems'
+          paper on censorship got quietly dropped into the
+          bitbucket. For the benefit of anyone who hasn't already had
+          this issue of NTK intercepted by their own office firewall:
+          fuck didn't get through to Parliament, but f-uck did. Fu-ck
+          wouldn't, f-uck would. "Wankbadger" failed to reach MPs.
+          "Wank-badger" succeeded. By Friday, the filter was tweaked,
+          but still bouncing legitimate mail. We expect it'll take
+          Parliament until around 2005 to start the next step:
+          installing Bayesian-style personal filters on individual
+          PCs. And around 2008 before MPs realise they can use it to 
+          filter away opinions they'd rather not hear.
+          http://sethf.com/anticensorware/general/uk.php
+                                          - previously banned: Hamlet
+          http://www.faxyourmp.com/
+                             - meanwhile, leave it to someone else to
+          http://www.whitelabel.org/archives/000187.html#000187
+           - actually *encourage* thousands of voters to contact them
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         YAHOO unmasks "disturbing" Jacko, prone to "blowing millions", 
+         "shopping sprees": http://www.ntk.net/2003/02/07/dohmj.gif ... 
+         snooker-loopy cue-chalking pose could herald "maximum break" 
+         (with reality): http://www.ntk.net/2003/02/07/dohcue.gif ... 
+         and we thought you were supposed to show negative numbers in 
+         brackets?: http://www.inlandrevenue.gov.uk/taxisnottaxing/ ... 
+         TECHNOLOGY FOR LEARNING going nowhere: http://www.tfl.org.uk/ 
+         - perhaps for the best: http://www.tfl.org.uk/main.html ... 
+         "we provide all the necessary [web] resources internally", lies 
+         http://sydney.attik.com/beyond.php?currentpage=4 ... learn 
+         French, forget English: http://www.aaaparis.net/english/object.htm 
+         ... http://www.google.com/search?q=wireless+%22local+loo%22 - 
+         plus "selective breading", "strong currants", "marked with an 
+         asterix"... tricky to manoeuvre when you've got infinite mass: 
+         http://www.ntk.net/2003/02/07/doh18c.jpg ... sci-fi sites 
+         offer sympathy: http://www.ntk.net/2003/02/07/dohbaen.gif ... 
+         "the ideal place to study the physics of fire", enthuses: 
+       http://www1.msfc.nasa.gov/NEWSROOM/news/releases/2003/03-004.html
+ 
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Hang on for a rollercoaster of ruthlessly objective empiricism 
+         next week, as UK crypto-guru ROSS ANDERSON controversially 
+         argues that open and closed approaches [to security] are 
+         basically equivalent, and that the best approach depends on 
+         other (related?) factors, like "the rate at which bug fixes 
+         are produced and applied". LONIX responsibly discloses that 
+         the talk starts around 6.40pm (with tea from 6) on Tue 2003-
+         02-11, at City University, London EC1, entrance free but you 
+         must pre-register even if already a Lonix member. Sadly, the 
+         official site for DARWIN DAY (Wed 2003-02-12, various venues 
+         worldwide) specifically denies that the occasion is "a non-
+         religious or anti-religious celebration" (or even that it 
+         "worships" Charles Darwin), but anything that gets those 
+         creationists rattled is good enough for us. And heads will be 
+         bobbing up and down *and* from side to side when PATRICK 
+         HUGHES' WHOPPERSPECTIVE exhibition of false-perspective 3D 
+         paintings is unveiled at the Flowers East Gallery(82 Kingsland 
+         Road, London E2, from Fri 2003-02-14, opening hours 10am-6pm 
+         Tue-Sat, 11am-5pm Sun, admission free) - they're the "magic 
+         eye" pics that don't make you think you've gone blind. 
+         http://www.lonix.org.uk/tnet-cgi/Lonix?CODE=userMeetings
+         - "please print [these baffling directions] to take with you"
+         http://www.darwinday.org/event_info/2003_england.html
+                             - no, not the dolphin from "seaQuest DSV"
+         http://www.flowerseast.co.uk/text/exhib.htm#exfeb
+                      - handily, impossible to show in a static photo
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The MONO project is like many Ximian (and some would say,
+         GNOMish) endeavours - exercised with full disclosure in
+         public, but working at such an IRC-driven pace that it's a
+         little difficult for outsiders to penetrate exactly what's
+         going on at any moment. There's just too much going on for a
+         non-Miguel-shaped head to comprehend. What MONO is going to
+         be is broadly comprehensible: a free software C# compiler,
+         runtime and class library for the .NET framework running on
+         Linux/86 and after zat, ZE VURLD. But is it ready for casual
+         use yet? And, if it is, where do you start? As Mono hits
+         0.19 and unofficial Debian package status, it looks good
+         enough for really overly casual, sweatpants and sleeveless 
+         t-shirt C# coding (as long as you're coding from scratch
+         and not porting from Windows). The real clincher, though, is
+         there's now a GTK#-driven documentation browser. So now you
+         don't have to wander the unfriendly streets of MSDN to learn
+         the class libraries. Whether you want to look at C# in the
+         first place is another question. It's a nice language - but
+         then so was Anders Hejlsberg's last work, Delphi, and that
+         never shook off enough proprietary taint to take off
+         open-source-side. Still, it's nice to check out the 
+         competition - and scope where open languages like Perl6 are
+         stealing their ideas from nowadays.
+         http://www.go-mono.org/
+                      - debugger and Visual Basic compiler too, oh my
+         http://www.debianplanet.org/mono/
+                                                 - still experimental
+         http://monoevo.sourceforge.net/mono/annualreport.txt
+                                                   - 365 days of hack
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         humour in (Gateway) uniform: http://sct.staghosting.com/ ...
+         everyone can be famous for 15 ZDNet articles, thanks to the WARHOL
+         PRESS RELEASE: http://catless.ncl.ac.uk/Risks/22.53.html#subj7 ...
+         GEFORCE humour, ctd: www.beyond3d.com/forum/viewtopic.php?t=4063 ...
+  http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=2304946029&category=302
+         NAKED EBAY GUY, you little tease! ...public warning rollover images:
+         http://www.users.zetnet.co.uk/l.philips/WebThr/contacts.htm ... old
+         joke, still good: http://truemeaningoflife.com/wisdom.php?topid=40832
+         ... BEEF fights back its competitor in pre-teen market, ANOREXIA:
+         www.cool-2b-real.com/ ... every nation has its DAVID ICKE:
+         http://www.ufoseek.org/daemon.htm ... if you switch distros,
+         http://www.debian.org/News/1997/shuttle1 the disloyalty gremlin
+         will get you: http://news.bbc.co.uk/1/hi/technology/2709875.stm ...
+         be suspicious of all postcards from www.photoshopcruise.com ...
+    irony: http://sf.net/mailarchive/forum.php?thread_id=1593325&forum_id=4258
+         ... war dossier plagiarism shock; critics suggest "M Khan" may be 
+         "bent": http://www.guardian.co.uk/Iraq/Story/0,2763,890916,00.html  
+         (vs http://www.angelfire.com/ok/marywhitehouse/mkahn.html )... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> who'd have thought that, out of John McTiernan's two 
+         Norman Jewison remakes, THE THOMAS CROWN AFFAIR (9pm, Sat, 
+         BBC1) would be more watchable than "Rollerball"?... there's 
+         another chance to see the almost incomprehensible "Comedy Lab" 
+         toon KNIFE AND WIFE (1.35am, Sat, C4) written by this guy: 
+         http://www.bubblegun.com/features/tellyganza.html ... while 
+         tedious zombie-chase STAR TREK: FIRST CONTACT (5.15pm, Sun, 
+         BBC2) inspires a couple to construct a home resembling a Borg 
+         Cube in GRAND DESIGNS (9pm, Wed, C4)... clearly, the real 
+         treats have been saved for Sunday, in the form of DARIA THE 
+         MOVIE: IS IT FALL YET? (1.10pm, Sun, C5), Mancunian Messiah 
+         two-parter THE SECOND COMING (9pm, Sun & Mon, ITV), THE ALL-
+         NEW HARRY HILL SHOW (10.35pm, Sun, ITV) and predictably less-
+         original sequel AUSTIN POWERS: THE SPY WHO SHAGGED ME (9pm, 
+         Sun, C4)... in a simultaneous transmission with BBC2, Lucas 
+         and Walliams' radio adaptation LITTLE BRITAIN (8.10pm, Sun, 
+         BBC2 & 3) is by far the highlight of a BBC3 launch lineup 
+         otherwise consisting of the sort of low-budget trendy nonsense 
+         E4 used to show, including undifferentiated desk show JOHNNY 
+         VAUGHN TONIGHT (7.10pm, Sun, BBC2 & 3) - and, pointlessly, two 
+         editions of TOTP-style covers show RE:COVERED (7.50pm & 
+         8.35pm, Sun, BBC2 & 3)... the channels synchronise again late 
+         at night for the likes of Fast Show-spinoff SWISS TONI 
+         (12.30am, Wed, BBC1) and the impressively unamusing THIS IS 
+         DOM JOLY (1am, Wed, BBC1)... but you need digital to witness 
+         the full TVGoHome-style horror of Vinnie Jones fly-on-the-wall 
+         docu VINNIE (9pm, Mon, BBC3), Elastica's Justine Frischmann 
+         co-hosting groovy-architecture show DREAMSPACES (9.30pm, Mon, 
+         BBC3), and Leonardo DiCaprio holiday video THE BEACH (9pm, 
+         Wed, BBC3)... back on analogue, C5 holds the fort with Renny 
+         Harlin/ Saffron Burrows sub-aqua career highlight DEEP BLUE 
+         SEA (9pm, Mon, C5) - plus the ever-popular DIRTY HARRY (9pm, 
+         Wed, C5)... HOLIDAYS IN THE AXIS OF EVIL (11.20pm, Mon & Tue, 
+         BBC2) is reversioned for BBC2... EMAILS YOU WISH YOU HADN'T 
+         SENT (9.50pm, Wed, BBC2) kicks off with Claire Swire - though 
+         shouldn't it be "*They* wish *they* hadn't sent", surely?... 
+         and BATTLE STATIONS (8pm, Thu, C4) argues the Thunderbirds-
+         lookalike Lockheed Skunkworks Blackbird SR-71 was the "world's 
+         first stealth aircraft" - except that its huge exhaust plume 
+         made it one of the "largest radar targets ever detected" by 
+         the FAA: http://www.fas.org/irp/program/collect/sr-71.htm ...
+         
+         FILM>> if you enjoyed the spectacular Heath-Robinson-style 
+         deaths of unknown teenagers in "Final Destination 1", then 
+         you'll love the brutal more-of-the-same in FINAL DESTINATION 2 
+         ( http://www.capalert.com/capreports/finaldestination2.htm : 
+         portrayal that Satan controls death; long sequence of bloody 
+         traffic fatalities; a lot of kids [...] now know what their 
+         mother's chest looks like - without any clothes)... else it's 
+         romances of varying levels of quirkiness, with Sandra Bullock/ 
+         Hugh Grant lame screwball sexual-harassment effort TWO WEEKS 
+         NOTICE ( http://uk.imdb.com/title/tt0313737/board/thread/492713 : 
+         Granted, Airwolf may not have been the most popular show of 
+         the 1980s but I think it is unfair to betray the loyal fan 
+         base in the way that the team behind this film have)... or 
+         nerdy Adam Sandler and Emily Watson juggling phone-sex debts 
+         and air miles promotions in arthouse rom-com PUNCH DRUNK LOVE 
+         ( http://www.screenit.com/movies/2002/punch_drunk_love.html : 
+         [Sandler's] sisters talk among themselves that they used to 
+         call him "gay boy" all of the time)... not based around the 
+         Williams arcade game of the same name, Ray Liotta and Jason 
+         Patric remake "Training Day" in gritty cop acting-fest NARC 
+         ( http://www.screenit.com/movies/2002/narc.html : A suspect 
+         says something about, "I might let him suck on my d*ck once or 
+         twice," but that appears to be more of a derogatory comment 
+         rather than purely sexual)... plus a taste of "mild peril" for 
+         the kids in TV cartoon spinoff THE WILD THORNBERRYS MOVIE 
+    ( http://www.capalert.com/capreports/wildthornberrysmovie-the.htm :
+         flatulence; wedgie humor; teen rudeness, repeatedly; crude 
+         monkey display; in keeping the with thrust of Darwinism, all 
+         the animals are as articulate and intelligent as humans)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                         "it's never been about sex"
+                      (p109, Marie Claire, March 2003)        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

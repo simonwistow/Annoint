@@ -1,0 +1,325 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-01-08_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+                    
+         "He [David Talbot, CEO of Salon] wants to go public; to
+         partner with any number of European media companies; to
+         start a Salon UK; a Salon Germany; he wants a Salon
+         television show."
+                    - "The Salon Makeover", Wired 7.01 
+         ...he wants to watch where he leaves that Wired business plan
+
+
+                                >> HARD NEWS <<
+                                 brightly hued 
+
+         Cupertino Kool-Aid - now in five delicious flavours! STEVE
+         JOBS, CEO of the Thousand Year Interim, unveiled staggering
+         new technical innovations at MacWorld, with five new types
+         of plastic iMac cover. "We think", he declared, "the most
+         important question this year is going to be: What is your
+         favorite colo[u]r?". That bodes ill for anyone planning a
+         decent conversation with a Mac user, but then, when did
+         Apple product launchs ever help that? Collectors can now buy
+         iMacs in strawberry, original blueberry, grape, lime and
+         tangerine: all the colours of the Apple logo apart from, you
+         can't help but notice, "lemon yellow". Unconnected research
+         shows the new flashy G3s have beautiful organic lines, diddy
+         little round mice, no SCSI support, no serial port and no
+         floppy drive, but that's okay, because all the Mac
+         peripheral manufacturers will be going bust trying to
+         inventory all these new colours anyway. And what if you
+         liked beige? 
+         http://www.apple.com/powermac/benchmark.html
+                         - innovative new spelling of integer, too...
+         http://www.microsoft.com/mac/whoarewe/whoarewe5.htm 
+     - "We don't wake up in the morning dreaming of world domination"
+                                                         we live it!
+
+         Jobs also used the keynote to plug CONNECTIX's new
+         Playstation emulator - an instant solution for the Mac game
+         famine, he said. Connectix themselves were eyeing the exits.
+         Scared silly of a pre-launch injunction by Sony, the company
+         is now waiting for the cold hand of the multinational "fixers"
+         to fall. Their unofficial defence, should anyone ask before
+         shuriken-ing them to the walls and sending the pieces to
+         Tokyo, is this: Given that Sony make a loss on the PSX
+         itself and only make cash on game sales, they would be
+         fools to sue, wouldn't they? Unless, that is, somebody
+         points out that it's a *lot* easier to chip an emulator than
+         a black box. Hell, out here in insecure platform land, you
+         can't even tie down a pre-release PSX emulator beta for the
+         PC without... I think we've said too much.
+         http://www.davesclassics.com/psxemu.html
+          - Well, it was here, all 110KB of it... called bleem.zip
+         http://astalavista.box.sk/
+                   - hold on, let me... you didn't see this, okay?
+         http://dialspace.dial.pipex.com/town/estate/dh69/clear/
+   - bringing "gamers into contact with the seedier parts of the Net" 
+ 
+         And pity now, if you did not pity them before, the citizens of
+         MILTON KEYNES. Many years ago, as a bright New Town, the
+         planners decided on a municipal TV cable system, free for
+         all. Economic fashions changed, though, from Maynard Keynes
+         to Milton Friedman, and that monopoly was privatised - to
+         that native son of the free market, British Telecom. They
+         set about charging 30 quid a year - even though both
+         satellite and RF alternatives were impossible for most
+         Keynesians, due to restrictive planning regulations and poor
+         signal strength. Imagine, then, the localised rejoicing when
+         the EC demanded that BT sell its franchise. The bidding is
+         up this month the MK's new Info-Laird. Surely anyone must be
+         better than BT? Guess what, Milton Keynes? Microsoft wants
+         the franchise. Oh, and Westminster? You're next.
+         http://www.bt.com/
+                                                         - frying pan
+         http://www.microsoft.com/ 
+                                                         - rotisserie
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         NYT pronounces "Linux" like "Cynics" - we wish... LIAM drops
+         ten places in "most popular baby names" poll... INTERNETFCI
+         taking this Euro thing a bit too far at
+         http://www.thenet.co.uk/ ... MICROSOFT Tinky Winky
+         planned... +++ ATH for HAYES... GATES piemen fined 50UKP -
+         catch it again at http://www.ntk.net/gates/creamedgates.mpg
+         ... Teens Can Refuse Gang Membership Without Serious Harm,
+         study reveals ... ABC News repeat "funny foreign film
+         re-titling" list: claim Chinese correspondent checked out
+         details... MICROSOFT BACKUP 95 proves to be incompatible
+         with Microsoft Backup 98... Hacker crew announce they've
+         changed their mind about declaring war on China, Iraq...
+         ZAPATA stocks leap after press release announces intention
+         to become an "Amazon associate"... MS buys MechWarrior,
+         plans to port exo-skeletons to Windows CE...
+         http://beta.go.com/Community/Entertainment/Food_and_drink/
+         Cooking/Nutrition/Eating_disorders - so that's Bulimia as a
+         category of entertainment?... Linda Tripp welches on paying
+         for lindatripp.com ... .NET MAGAZINE plugs Ninfomania -
+         yeah? huh? We'll take you all on, we don't care...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+        Well, if you didn't make it to the CES, let SGI's "Visual
+        Computing Breakthrough" come to you, in a semi-simultaneous
+        worldwide launch next Mon 11/01/99. "Any workstation can do
+        graphics," SGI reveal, but "only one is designed to make you
+        say 'IT'S ALIVE'". Frankenstein/ NT comparisons aside, the
+        question that'll bring these events alive is apparently not
+        "When's the Linux port?" (soon, my children, soon) but "Why
+        is the Softimage performance so poor?" 
+        http://www.cesweb.org/
+                           - well, it's near the Star Trek Experience
+        http://www.sgibreakthrough.com/worldevents.html
+                          - hope they do songs like for the Octane...
+        http://www.ntk.net/ads/dream.mp3
+                 - "I have a dream - and it's called a graphics pipe"
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         "It may not physically *be* a C64, but ethically it's
+         similar" wrote one comp.sys.cbm revisionist about the
+         WEB.IT. We spent forty-five seconds with one, physically if
+         not ethically. Extensive tests show cover of box to be
+         cardboard. Inside, it really does look like a C64 from a
+         reality where the Amiga never happened. It has a C= key.
+         It's got 16MB of RAM, 16MB ROM, and 2MB of flash ROM, but no
+         hard drive. PCMCIA, pen pad and infrared, but you have to
+         plug it into the telly. The CPU is an AMD variant called an
+         ELAN (not an Enterprise Elan?), which broadly equates to a
+         100Mhz 486. We have Lotus AmiPro, 1-2-3 Netscape 3.0, Lotus
+         Organiser, IBM PC-DOS (yes!), and Windows 3.1 - oh, and that
+         C64 emulator - in ROM. IBM, Lotus, Phoenix and AMD logos all
+         over the box, but no mention of Microsoft, until you read
+         the fine print that explains that Windows has been licensed
+         by IBM courtesy of a legal loophole that Microsoft can do
+         nothing about. Such pluck! Due in this country "uh, soon",
+         at "uh, 300UKP? 400?". Doomed to fail. But what glorious
+         protracted swansongs these Commodores machines do have.
+         http://www.commodore64.com/
+                                  - anyone got the rights to the PET? 
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         relativistic nonlinear optics... BLUE JAM returns ...
+         location, location, location: ftp://opensores.thebunker.net/
+         ... Jubilee line tubes to have "black box recorder"...
+         MCDONALDS runs out of Big Macs... what UFOlogists do on
+         their days off: http://www.synicon.com.au/sw/yhead/yhead.htm
+         ... Best meme of 1999: Cypherpunk Porn
+         http://www.sfweekly.com/archives/1998/123098/nightcrawler1.html
+         ... real cypherpunk porn at: http://www.zks.net/ ... Which
+         of these images is not like the others?
+         http://machines.hyperreal.org/manufacturers/Sequential/images/
+         ... "one of the judges is the famous VF tetsujin and expert
+         Wolf player Bun Bun"... kind of want them to stay that way,
+         don't you - http://www.silentmajority.co.uk/
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> Kathy Burke! The camp bloke off The Thin Blue Line! A
+         title borrowed, a la Knowing Me Knowing You, from an Abba
+         song! The portents are, we're sorry to say, not good for
+         dire-looking sex sitcom GIMME GIMME GIMME (9pm, Fri,
+         BBC2)... oh, and maybe they should set up a helpline for
+         those disappointed by the new series of freshly on-the-dole
+         FRASIER (10pm, Fri, C4)... C5 strays into actual '70s
+         soft-porn with EMMANUELLE (11.15pm, Fri, C5) to tempt you
+         away from the story of sci-fi synthers The Human League on
+         YOUNG GUNS (GO FOR IT) (11.20pm, Fri, BBC2) - apparently
+         Phil Oakey found one of those singer girls "working as a
+         waitress in a cocktail bar"... BBC2's "Time Season" warps
+         between HG Wells classic THE TIME MACHINE (2.15pm, Sat,
+         BBC2), mental perception docu WHAT MAKES US TICK (6.50pm,
+         Sat, BBC2) and, further taunting dedicated fans, a
+         completely out-of-sequence off-schedule flashback-based
+         SEINFELD (12.05am, Sat, BBC2)... ITV a little more honest
+         than usual about its peaktime offerings in
+         transmission-blooper clip show TV NIGHTMARES (9pm, Sat,
+         ITV)... and genuine serial fans will know that the "Scorpio"
+         guy in DIRTY HARRY (10.15pm, Sat, ITV) is based on the
+         real-life "Zodiac killer"... mysteriously, last year the BBC
+         showed the movie version of STARGATE (7.25pm, Sun, BBC1)
+         exactly 15 days later and 15 minutes earlier... it's a
+         repeat, but Steve Coogan has never been funnier as when
+         rabidly declaring I'M ALAN PARTRIDGE (10.40pm, Sun, BBC1)...
+         sticking with lady-boys, unfortunate scheduling threatens to
+         confuse anyone who tunes into the transsexual taxi driver in
+         strange but funny THE LEAGUE OF GENTLEMEN (9.30pm, Mon,
+         BBC2) while looking for the transsexual prostitute in London
+         docu-soap PADDINGTON GREEN (9.30pm, Mon, BBC1)... well, we
+         didn't think the William Gibson episode of The X Files was
+         that bad, at least compared to the hacker story in NASH
+         BRIDGES (10.40pm, Mon, ITV)... and Ken Loach's KES (10pm,
+         Mon, C4) depicts the tragedy of young geeks forced into
+         amateur falconry before low-cost home computers became
+         widely available... BUFFY THE VAMPIRE SLAYER (6.45pm, Wed,
+         BBC2) perks up again with the virgin Xander vs preying
+         mantis episode... check http://www.schnews.org.uk/ for how
+         train hijacking made THE MARK THOMAS COMEDY PRODUCT (11pm,
+         Wed, C4) Britain's first light entertainment show with a
+         nuclear capability... and attention all borderline-clinical
+         musical prodigies! As SHINE proves (9.30pm, Thu, BBC1), all
+         you need is a good woman to take you in, listen to your
+         problems, then charge large crowds lots of money to come and
+         see you...
+
+         FILM>> by now you should be aware of the rich
+         disappointments within both STAR TREK: INSURRECTION (imdb:
+         youth / based-on-tv-series / futuristic / honor / patriotism
+         / sequel / spacecraft / space / star-trek) and gross
+         made-for-TV Irvine Welsher THE ACID HOUSE (imdb:
+         based-on-novel), but this week's releases bring even greater
+         controversy... thoughtful but confused anti-American actioner
+         THE SIEGE (imdb: army / bombing / cia / fbi / new-york /
+         terrorism) has already caused US reviewers to question its
+         depiction of "Marshal Law" (sic), while the second issue of
+         "Arcade" magazine boldly and consistently spells the title
+         as "The Seige"... Gus Van Sant puts the "Master" back into
+         "Norman Bates" in his not entirely pointless PSYCHO (imdb:
+         based-on-novel / controversial / cult-favorites / detective
+         / dominant-mother / rain / masturbation-scene / money /
+         mother / birds / dead / shower / house / murder / bathroom /
+         psychological / stolen-money / swamp / thief / toilet /
+         transvestitism) - a terrifying glimpse of what Hitchcock
+         could have achieved if only he'd been able to draw on acting
+         talent like Anne Heche and Vince Vaughn, had been able to
+         film it in colour (wait a minute, it was 1960, he could
+         have!), and had wanted to make it, inexplicably, much less
+         frightening... London-release mental mayhem PI (imdb:
+         paranoia / pi / self-mutilation / surreal / chaos-theory /
+         computers / cult-favorites / delusion / judaism / low-budget
+         / mathematical-equation / mathematics) is far from perfect,
+         but steals from all the right places (a camera strapped to
+         the hero's chest, Jim Flint's Habitus, Arthur C Clarke's The
+         Nine Billion Names Of God). "Maybe Pi is the name of God,"
+         ponders one imdb comment. "Try pronouncing an infinite
+         random number!"... but infinitely preferable to Jane
+         Horrocks's follow-up to impersonating the whole Eastenders
+         cast in her stupid LITTLE VOICE (imdb: based-on-play). This
+         time she sings in such unerring mimicry of Judy Garland,
+         Shirley Bassey, Marilyn Monroe etc that you're convinced
+         it's lip-syncing - wouldn't it have been cleverer to have
+         her doing songs that *they never actually sang* in their
+         distinctive style, like genius Elvis tribute act, The
+         King?...
+
+         THEY TRIED TO LAY THEIR "FOUL EGGS" IN OUR MOUTHS>> the
+         NESTLE ROLO COOKIES 'N' CARAMEL EGG is at least a step in
+         the right direction, but CADBURY continue senseless
+         experimentation in the form of their sickly oversweet ORANGE
+         EGG - like the standard Creme Egg (or Velvet - see [NTK
+         1998-01-23], but stuffed with yucky choccy-box filling...
+         continuing the Alien theme, big tip for '99 is CADBURY'S
+         YOWIE, the eco-friendly incitement to "collect a series of
+         easy-to-assemble replica creatures from within the chocolate
+         tummies of the lovable Yowie characters"... our current
+         chief source of Phenylalanine? HORLICKS MALTISSIMO low-cal
+         instant chocolate drink, available in plain, Mocha or
+         Tiramisu (can't wait for Buddy Holly TV ad: "if you knew/
+         Tiramisu"), and price-fighting those innumerable OPTIONS and
+         a CADBURY'S CARAMEL CHOCOLATE BREAK hybird we spotted
+         briefly last year... roving snack spotter LEE MAGUIRE is
+         first to report the truly dramatic sounding CRUNCHIE
+         EXPLOSION (UKP0.38): honeycomb slab replaced with
+         "granules", of which 7 per cent are Space Dust-style
+         "popping candy". Subject describes the experience as
+         "fantastic, like eating a Crunchie while it's still
+         alive"... while we await further confirmation of MATT
+         LOCKE's sighting of the (biscuit-free?) MUNCHIES BAR
+         (UKP1.20) - not to be confused with the shameless
+         counter-intuitive downsizing of MONSTER MUNCH: "From now
+         on, Monster Munch will come in New Bitesize, so there will
+         be more pieces in every bag, ensuring even more monstrous
+         fun every time!"... on the streets (of London at least):
+         redecoration of tasteful SEATTLE COFFEE HOUSEs as garish
+         STARBUCKS has begun, also slight price hike in the form of
+         discarded "small" size (though apparently they still have it
+         if you ask)... this month's taste abomination: even SMARTIES
+         (UKP0.30) aren't revealing what their new "Mystery Blue
+         Flavour" is supposed to be, because it's part of a
+         competition to win 100 PlayStations. Our current best guess:
+         blueberry bubblegum. Our backup option: just revolting... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+     " under more bloody ISO8601 peer pressure from http://www.tbtf.com/ " 
+
+                                 NEEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

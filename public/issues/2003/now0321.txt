@@ -1,0 +1,256 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-03-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                                >> HARD NEWS <<
+                               les livres rouges
+
+         We had our doubts about WROX PRESS' commercial nous, ever
+         since they hit upon their uniquely unappealing book design
+         of monochrome mugshots of tech author's faces over a lurid
+         swollen red and yellow cover. But, despite the sheer reeling
+         ugliness of their covers, Wrox did well. And entering any
+         computer corner of American or British bookshops of the past
+         few years, one would always be faced with shelf after shelf
+         of the Prisoners Of Wrox. Well, now they're dead. Not the
+         authors - no, they always looked like that. No, the parent
+         company, Peer Information, has gone bust. Curiously, while it
+         had dozens of spin-off imprints and Web ventures (Glasshaus,
+         Friends of Ed, Wrox US, Wrox France, Wrox India, and so on)
+         Peer Information turned out to be a family business run out
+         of Birmingham ("albeit", writes one mourner, "the posh
+         bit"). So, let us take a few minutes to salute this little
+         known British success story, and like so many before them,
+         hope they come out of receivership soon.
+http://www.amazon.com/exec/obidos/tg/listmania/list-browse/-/1UUY0JNJHGCZG
+                                - Look Inside My Badly Tonsured Head!
+         http://www.theregister.co.uk/content/4/29790.html
+                - that's Birmingham, England, not Birmingham, Alabama
+
+         Now, back to the war: and we're only a few kilometers so
+         into enemy territory, but we've already got the confirmed
+         surrenders of two marketing companies. Well, maybe not
+         surrender: but they're certainly co-operating. Following
+         last week's look at dodgy spam from supposedly stately
+         organisations, PHDiq (for the RSPCA) and i-level (for the BT
+         Ignite spam) are looking into why their client's mailouts 
+         got sent unsolicited to dodgy addresses via cowboy spammers.
+         Both CEOs say they only deal in opt-in lists, legit mailers,
+         and never, ever via unsecured boxes in Argentina. And they
+         want to get to the bottom of these slip-ups. Heard it
+         before? Maybe: but with the EU anti-spam legislation
+         creeping into reality, the result of this ongoing
+         investigation is going to be very telling. If these two, big
+         name, reputable companies can't separate their prestigious
+         clients from the seedy underside of dodgy offshore shell
+         companies and Web-crawled email addresses, who can? In the
+         meantime, we're still looking for any spammish messages
+         from respectable companies (and thanks to the reader who
+         sent us in a spam that appeared to be sponsored by the Met
+         Police. It checks out, but you had us worried for a moment.)
+         http://www.quicktopic.com/19/H/V5cPAqX7zhf
+                                                - post your spam here
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         The GOOGLE scanner was used to assess the security of 282+ 
+         hosts: http://www.google.com/search?q=%22nessus+report%22 - in 
+         other oversights & misspellings: blog default "my funny motto" 
+         plus a worrying top result for "first come, fist served"... 
+         GOOGLE NEWS devises alternative epithet for "Coalition of the 
+         willing": http://www.ntk.net/2003/03/21/dohgay.gif ... censor 
+         yourself, advise FOX: http://www.ntk.net/2003/03/21/dohdo.gif 
+         ... competing with AMAZON in the cut-throat e-commerce market: 
+         http://www.ikea.co.uk/product_presentation/subcat.asp?id=3094  
+         ... good availability: http://www.holswap.com/details_3209.htm 
+         ... where application shall speak peace unto operating system: 
+    http://uptime.netcraft.com/up/graph/?site=http%3A%2F%2Fwww.bbcworld.com
+         ... <TITLE> tag remembers who created whole mess back in 1919: 
+    http://multimap.com/map/browse.cgi?X=5000000&Y=3900000&coordsys=mercator
+         ... "further purchases" to fully appreciate the wide-screen 
+         experience: http://www.ntk.net/2003/03/21/dohplas.gif ... 
+         "Sort by number of players" pessimistic about shrinking market 
+         for NINTENDO: http://www.ntk.net/2003/03/21/dohtendo.gif ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Ostensibly, WORKRAVE is an applet with the simplest of jobs:
+         it tells you to take a period break from typing to save your
+         poor wrists. In real life, it's like one of those "let's
+         build an C++ application" documentation examples gone
+         completely nuts. From its humble beginnings, it's now an
+         excrutiatingly well-engineered taskbar applet that runs on
+         GNOME and KDE. Oh, and Windows. It's got a statistics
+         feature, so it can tell you how many miles you've moved your
+         mouse. Yeah, yeah, we know - but it's also got a networked
+         client-server facility. Built-in. So not only can you now
+         never escape from its persistent "take a break" fascism, but
+         you can gather facts on how many miles *all* your mice have
+         moved, from your laptop to your desktop to your VNCed Win2K
+         server. It's GPLed. The author has a cafepress shop where
+         you can buy Workrave t-shirts. There's also a leaflet you
+         can print out and hand to your non-cult friends. The name
+         appears to be a play on a $55 commercial program that does a
+         similiar job - but, Jesus, what else could that do for the
+         money? Operate a little crane to lift your hands up and down
+         on the keys?
+         http://workrave.sourceforge.net/
+       - I actually blew my tendons trying to change all the settings
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         On hearing the rumour that next week's UK BIG BROTHER AWARDS 
+         (Tue 2003-03-25, time and location currently secret) are being 
+         held on a boat to dissuade infiltrators, it's hard not to be 
+         reminded of Dr Johnson's comparison of being on board a ship 
+         and being in jail (he said he'd prefer being in jail, because 
+         ships were just "jail - with a chance of drowning"). Here's 
+         hoping there'll be no need for either at the slightly more 
+         accessible INQUIRER SECOND BIRTHDAY PARTY (from 6.30pm, Wed 
+         2003-03-26, upstairs at the Coach and Horses, 1 Gt Marlborough 
+         St, London W1F, free), followed on Thursday by another chance 
+         to catch Simon "Big Brother" Davies at another of those SPIKED 
+         ONLINE EVENTS on Trusted Computing (7pm, Thu 2003-03-27, Hill 
+         and Knowlton, 35 Red Lion Square, London WC1, from UKP10) - 
+         yes, we know that site editor Mick Hume isn't running "Living 
+         Marxism" any more, but that still seems like a lot of money to 
+         get in, eh comrades?
+         http://www.privacyinternational.org/bigbrother/
+                    - NTK has always been at war with The Register...
+         http://www.fancyapint.com/thepubs/pub207.htm
+                 - nearest thing The Inquirer has to an online invite
+         http://www.spiked-online.com/events/
+                       - plus in May: panic on the streets of Mayfair
+         http://www.multiplay.co.uk/i15/
+           - this weekend: UK's biggest LAN party (again), in Newbury 
+         http://www.silicon-beach.com/events.html
+                  - also on Thu: Palladium vs Open Source in Brighton
+         http://www.cfp2003.org/
+            - and in April: New York's Computers, Freedom and Privacy
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         this week's http://www.theonion.com/ imitates - itself from a 
+         year ago: http://www.theonion.com/onion3809/gulf_war_2.html , 
+         http://www.theonion.com/onion3810/hilarious_hamlet_essay.html ,
+       http://www.theonion.com/onion3805/holocaust_museum_cashier.html ,
+         http://www.theonion.com/onion3808/hammurderer.html - see also: 
+         http://www.internalmemos.com/memos/memodetails.php?memo_id=189
+         ... and just in time - looks like TVGoHome fans were getting 
+         pretty desperate: http://foof.myby.co.uk/tvghjoke.gif ... if 
+         piracy funds criminal activity, legal music sales aren't much 
+         better: http://www.justablip.co.uk/about/dodge.htm ... RIAA 
+         facing yet *another* illicit digital downloading technology: 
+         http://www.newscientist.com/news/news.jsp?id=ns99993488 ... 
+         blogs playing popular "Which opportunistic right-wing leader 
+         are you?" quiz: http://www.commondreams.org/views03/0316-08.htm 
+         (via http://www.metafilter.com/mefi/24436 )... all looking 
+         good over at: http://www.iamintrouble.com/ ... BBC considering 
+         "Bearded Lady" b3ta-style photoshopping-humour site... CHARLIE 
+         DANIELS challenges Saddam, Sean Penn to Georgia fiddle showdown: 
+         http://www.charliedaniels.com/soapbox/03/242.html ... 
+
+
+                                >> GEEK MEDIA <<
+         what you say? someone set us up a http://www.tvgohome.com/ ?
+
+         TV>> far from being an elaborate trail for the new series of 
+         BANZAI (10.30pm, Thu, E4), THE PEOPLE'S BOOK OF RECORDS 
+         (9.30pm, Fri, C4) is the primetime debut of Zeppotron, the 
+         folks behind other, less well-known successes, and TVGoHome: 
+         http://www.revolutionmagazine.com/news/view.cfm?r=1&id=96482 
+         ... the "Scotty" guy from "Galaxy Quest" plays TV's first 
+         obsessive-compulsive detective in US import MONK (5.45pm, Sat, 
+         BBC2) - made by "Mandeville Films", playground insult fans may 
+         be pleased to hear... and what on earth will DESIGNING THE 
+         DECADES (8pm, Sat, BBC2) find to say about the 1970s?... BBC3 
+         brackets the final episode of TAKEN (9pm, Sat, BBC2) with a 
+         special UFO night (from 8pm, Sat, BBC3), up against THE X 
+         FILES: THE MOVIE (9pm, Sat, ITV2) - itself heralding the long-
+         overdue conclusion of THE X FILES: THE TV SHOW (10.45pm, Sun, 
+         BBC2), though the ever-popular monkey people get their own 
+         spinoff in "When Gallaghers Ruled The Earth" unsubstantiated 
+         hypothesising WALKING WITH CAVEMEN (8pm, Thu, BBC1)... Dawn 
+         from "Buffy" shows an early aptitude for sleuthing as HARRIET 
+         THE SPY (1.05pm, Sun, BBC1)... the embarrassment of being 
+         associated with a delusionally unfashionable head of state is 
+         explored by both MY DAD'S THE PRIME MINISTER (6.05pm, Sun, 
+         BBC1) and THE WAR FOR OIL (7.30pm, Wed, BBC2)... Guy Ritchie 
+         sets his sights on the slightly less ambitious project of 
+         hidden-camera justice show SWAG (8.30pm, Sun, C5)... and Tim 
+         from "The Office" and the girl from the Abbey National ads 
+         reappear in Simon "Men Behaving Badly" Nye's workplace sitcom 
+         HARDWARE (10.05pm, Sun, ITV) - not based around the 1990 
+         cyberpunk film of the same name... for anyone who failed 
+         Saturday's NATIONAL RELATIONSHIP TEST (9pm, Sat, BBC1), BBC2 
+         helpfully provides a selection of 5 different WAYS TO LEAVE 
+         YOUR LOVER (11.20pm, Tue, BBC2)... alternative applications of 
+         nuclear explosions are examined in Nicole Kidman thriller THE 
+         PEACEMAKER (9pm, Wed, BBC3) and Project Orion docu TO MARS BY 
+         A-BOMB (9pm, Wed, BBC4)... and thanks to DELIVERANCE (10pm, 
+         Wed, C5), humming the start of "Duelling Banjos" remains the 
+         ideal way to indicate that a visit to the countryside isn't 
+         going particularly well... 
+         
+         FILM>> Pierce "James Bond" Brosnan faces his most far-reaching 
+         sinisterly secretive opponent so far - the Catholic Church! - 
+         in Oirish orphanage custody-battler EVELYN (imdb: 1950s/ pub/ 
+         based-on-true-story/ haircut/ dog-racing/ nun) - not based on 
+         the Pop Will Eat Itself song of the same name... otherwise 
+         there's Yet Another Beverly Hills Cop Remake NATIONAL SECURITY 
+         ( http://www.capalert.com/capreports/nationalsecurity.htm : 
+         sadomasochism with inappropriate touch; adult in underwear, 
+         repeatedly; police cover-up/corruption, repeatedly; massive 
+         tattoos, repeatedly)... or Brittany "8 Mile" Murphy, David 
+         "Sledge Hammer" Rasche, the guy from "Dude, Where's My Car?" 
+         - together at last! - in Euro-matrimonial mayhem JUST MARRIED 
+         ( http://www.screenit.com/movies/2003/just_married.html : 
+         [Brittany Murphy] shows more cleavage while bent over and in 
+         several other scenes; we see a flashback of [Ashton Kutcher] 
+         and another young boy holding toy "Star Wars" light sabers at 
+         their crotches like erect penises and thrashing them about)... 
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "depressingly non-compliant"
+                          http://www.headstar.com/ten/        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

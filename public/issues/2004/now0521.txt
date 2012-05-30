@@ -1,0 +1,255 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-05-21_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         
+        "'Cyber brides' vulnerable to abuse..."
+                                  http://news.bbc.co.uk/1/3700409.stm
+            ...while their cyber men are away for long periods trying
+             to destroy the gold planet Voga, cyber-leaders warned in
+                                               a statement, yesterday
+
+
+                               >> HARD NEWS <<
+                              Eurovision debuts
+
+         Our Java skills must be getting rusty - we missed out a
+         cycle of European Parliament procedure in last week's
+         pseudocode summary of the Software Patents process.
+         Following the Council of Ministers vote this week, the
+         patent proposals now go back to the Parliament for a
+         second reading. Any amendments to fix the mess will need an 
+         absolute majority there. That's not inconceivable - many of 
+         the original EU parliament amendments got over 50% of the
+         votes. But it'll be close. But then, it was close all along.
+         The Council of Ministers vote was only seven votes short of
+         going our way, after lobbying by RMS and others swayed the
+         juries of Poland and Spain. Even now, moves are afoot in the
+         Dutch parliament to have that country's Council of Ministers
+         pro-patent vote retrospectively changed. Lobbying is really
+         working: your MEP may be the next to switch.
+         http://mjr.towers.org.uk/proj/eurovote/
+                               - getting the LibDems would be a start
+         http://wiki.ael.be/index.php/MEP-Position-Lobbying-Guide
+                               - go on, have a word in their shellike
+         http://www.infiniteideasmachine.com/archive/000062.html
+                         - also, looks like some progress on ID cards
+
+         Following a fantastic response to last week's request of 
+         putting "NTK" in the subject line if you're mailing us, here's 
+         something slightly more ambitious we'd really like for our 
+         birthday. With all the RSS/ iCal stuff available now, can't 
+         someone, somehow, aggregate together as many tech-related UK 
+         events as is feasible in some sort of openly searchable way? 
+         Get in touch (don't forget that "NTK" in the subject line...) 
+         if you know of one, or are building one, or are convinced 
+         "it'd never work, for these patently obvious reasons" - and 
+         ultimately we'd replay the favour by regularly linking to the 
+         one that's a) friendliest about exporting its data to other 
+         websites or services, and b) - at least as importantly - is 
+         piss-easy to submit things to. 
+         http://www.lecturelist.org/
+                   - not bad, some registration though, no export API?
+         http://www.upcoming.org/metro/uk/london/london/
+                        - "No events scheduled" in London, apparently
+         http://undergroundlondon.com/art/
+                      - apart from all those art galleries, obviously
+        
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         rest assured, *abnormal* services will resume as soon as 
+         possible: http://www.ntk.net/2004/05/21/dohnorth.gif ... care 
+         to speculate what BT's "Frequently Asked Question" might be?: 
+         http://www.ntk.net/2004/05/21/dohfaq.gif ... big Hollywood 
+         names bring "unique creative vision" to this recent episode: 
+         http://www.ntk.net/2004/05/21/dohcount.gif ... bootstrap alert: 
+  http://www.croydon.gov.uk/leisure/events/tasteritashburtonlibrary?d=20040518
+         ... so *that's* how it is in that weird cult-like Mac family: 
+         http://www.ntk.net/2004/05/21/dohinc.gif ... clearly not 
+         bitter: http://www.ntk.net/2004/05/21/dohsex.gif ... Internet 
+         Magazine - FALCO!... "appropriate banner ad placing" proudly 
+         presents: http://www.ntk.net/2004/05/21/dohnovell.gif , 
+         http://www.ntk.net/2004/05/21/dohwolf.gif , credibility of New 
+         Yorker questioned by site advertising "Electron Energised 
+         Water": http://www.ntk.net/2004/05/21/dohelectro.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         The battle against (so-called!) "intellectual" "property" 
+         rages on this week, with a last-minute appearance by RICHARD 
+         STALLMAN on software patents *tonight* (6-7pm, Friday 2004-05-
+         21, Lecture Theatre 1, Cruciform Building, UCL, Gower Street, 
+         London WC1, presumably just turn up). PROF LARRY LESSIG will 
+         also be REDISCOVERING FREE CULTURE in Oxford next Fri (6pm, 
+         Fri 2004-05-28, Oxford Internet Institute, Oxford OX1, free 
+         but please pre-register by email), and preceded on Monday by 
+         BREWSTER KAHLE offering UNIVERSAL ACCESS TO ALL KNOWLEDGE 
+         (5pm, Mon 2004-05-24, other details the same) - but don't 
+         worry if you can't catch Brewster then, as the Internet 
+         Archive/ Alexa/ WAIS founder is now confirmed to speak at the 
+         resoundingly NTK-endorsed NOTCON (doors open 11am, Sunday 
+         2004-06-06, Imperial College Union, South Kensington, tickets 
+         UKP4/ UKP3 concessions for students, under 18s, OAPs, the 
+         unemployed, any bloggers not covered by one or more of the 
+         previous categories).
+         http://www.fipr.org/press/040517softpat.html
+              - only 5 mins from the PC World on Tottenham Court Road
+         http://ifso.ie/news.html
+                      - URL as promised for RMS in Dublin Monday 24th
+         http://www.oii.ox.ac.uk/collaboration/?rq=forthcoming
+           - is this the building that used to be the Computer Centre?
+         http://www.ica.org.uk/index.cfm?articleid=13265
+                        - almost as funny: Dave Green at ICA next Wed
+         http://www.notcon04.com/
+                         - *really* need to update this site sometime
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Most of us would like the night sky a lot more if it came
+         with tool tips. MicroSky is a J2MEE astrolabe that can be
+         jammed into your mobile phone or PDA, and will give you an
+         accurate portable rendering of what you'd see right now if
+         it wasn't pissing down with rain. You'll need a net
+         connection (GPRS will do nicely), because the applet
+         communicates with a heap big sky server running out of
+         Germany. Free registration for the server; endearingly empty
+         of either source code or promises to keep the server going.
+         So the sky may fall yet.
+         http://www.upto.org/microsky/
+     - scornful astronomers mail us with better apps at usual address
+         http://skyserver.sdss.org/
+                  - not that skyserver - but we bet they're connected
+ 
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         Older people from black and minority ethnic communities feel 
+         they have been "researched to death", intensive research finds: 
+         http://www.jrf.org.uk/knowledge/findings/socialcare/564.asp 
+         ... maintaining the cosmic balance after last week's vi-
+         emulating Word macros: http://rath.ca/Misc/VBacs/ ... even 
+         in a community which flies in the face of contemporary 
+         social mores, certain standards of behaviour must still
+         be maintained: http://www.modernprimitive.com.au/main2.html 
+         ... misinterpretable URLS of the month: http://www.bitart.com/ ,
+         http://www.oddsexchange.com/ , http://www.knobgallery.com , 
+         http://www.piersandmorgan.co.uk/ + perhaps not the best name: 
+  http://www.culture.gov.uk/global/press_notices/archive_2004/dcms54_2004.htm
+      ... http://www.bbc.co.uk/wonderland/ - after police operation of the
+         same name?: http://www.ntk.net/index.cgi?b=01998-09-18&l=29#l 
+         ... which distinctive piece of movie poster typography are 
+         you?: http://lists.inanutshell.us/form/1.html ...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> here's hoping the implausibly self-mythologising HOW 
+         "FRIENDS" CHANGED THE WORLD (9pm, Sat, C4) examines the theory 
+         that the whole show is basically just a dumbed-down version of 
+         "Seinfeld", monstrous parents and all... daft made-for-TV 
+         nukes-vs-earthquake two-parter 10.5 (7.15pm, Sat, C4) appears 
+         to be running as a handy spoiler for C5's "Survival Sunday", 
+         of which Michael Bay's character-actor-fest ARMAGEDDON (8pm, 
+         Sun, C5) is the arguable highlight... though fortunately you 
+         can skip the dodgy ending to see Billy Bob Thornton reappear 
+         in offbeat air-traffic control romantic rival comedy PUSHING 
+         TIN (10.35pm, Sun, BBC1)... there's more non-verbal nonsense 
+         in BODY TALK: SEX (8pm, Mon, C4)... a no-holds-barred look at 
+         domain-ownership disputes is promised in THE SEX.COM STORY 
+         (11.20pm, Mon, C5)... and Wednesday night is Space Night on 
+         C5, in the form of the - stretching the literal definition of 
+         "Escape"? - ESCAPE FROM APOLLO 13 (7.30pm, Wed, C5), THE 
+         BRITISH UFO FILE (8pm, Wed, C5), plus "Did it blow up the 
+         space shuttle?" docu MEGALIGHTNING: STRANGER THAN FICTION 
+         (9pm, Wed, C5)... 
+         
+         FILM>> it's "Gladiator" meets "The Return Of The King" - and 
+         not in a good way - in interminable Wolfgang Petersen air-sea 
+         trademark TROY ( http://www.capalert.com/capreports/troy.htm : 
+         deceit leading to hundreds of deaths; perverted gloating with 
+         victim's body; much talk of servitude to and faith in false 
+         gods; a man exposing his full nudity to a woman; man and woman 
+         in bed together, repeatedly)... so not a very wide release for 
+         the curios smuggled out in its giant blockbuster-shaped shadow, 
+         including the semi-autobiographical quirky-even-by-Almodovar-
+         standards Spanish religious abuse BAD EDUCATION (imdb: 
+         education/ school)... plus "Wayne's World" meets "This Is 
+         Spinal Tap" - albeit with most of the jokes taken out - in 
+         low-budget Canadian headbanger buddie-movie mockumentary FUBAR 
+         ( http://www.imdb.com/title/tt0302585/trivia : The word "fuck" 
+         is said 274 times)... 
+         
+         AVAILABLE IN A WIDE RANGE OF BLACK>> yes, this is a bit slack 
+         by even our extraordinary standards, but we finally got round 
+         to printing one of the very first t-shirt design entries we 
+         ever received - the "You Have *No* Idea" slogan, one of many 
+         submitted by GORILLA SALAD certainly not much more than 3 and 
+         a half years ago: http://tv.cream.org/gorilla/ntkt/ . They/it 
+         receive the standard UKP2 for each shirt sold, assuming they 
+         come up with a more acceptable method of payment than "Post 
+         the coins through Christopher Ecclestone's letterbox", or 
+         simply "Put it on a horse!". Also at http://www.ntkmart.co.uk/ 
+         this month: a very simple "Loading..." disclaimer designed by 
+         the minimalists over at PC EXTREME magazine, and possibly the 
+         last of the "Hey Hey 16K" design recently popularised by the 
+         cult b3ta animation http://www2.b3ta.com/heyhey16k/ , the 
+         success of which apparently prompted "++Ungood;" designer 
+         LLOYD WOOD to start composing his own Orwellian promo song (to 
+         the same tune): "We'd like to help you with your thoughtcrime/ 
+         We'd like to help you with your thoughtcrime/ Double-plus-
+         ungood - hey!/ What is 2+2 today?" - and so forth... still, 
+         our extremely high aesthetic standards have not deterred the 
+         rest of you from continuing to send in entries, from MATTHEW 
+         PETTY's http://www.petty.me.uk/images/paunch_tshirt.png to an 
+         entire wardrobe suggested by MAT SIMPSON - highlights of which 
+         include http://homepage.mac.com/matsimpson/.Pictures/ntk2.jpg 
+         and http://homepage.mac.com/matsimpson/.Pictures/ntk4.jpg . 
+         And text-only submissions need be no barrier to obscurity, as 
+         perhaps illustrated by JASMINE STRONG's "Emmanuel Goatse" idea 
+         (with "We have always been at war with Eastasia" on the back, 
+         "for preference"), plus BOB JORDAN's self-referential "Just 
+         one of the many things I have bought off the internet while 
+         drunk" - a slogan he came up with on after, you've guessed it, 
+         buying a shirt off our website. While drunk. Obviously...
+
+              
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "less of the 'sometimes', if you don't mind!" 
+                http://b3ta.com/features/valentine-raffle-2004/        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

@@ -1,0 +1,298 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-06-02_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "We want to prove to the world that Gnutella is more 
+         than just music piracy and child porn."
+       - GENE KAHN, on the new search engine utilising Gnutellanology
+             http://news.cnet.com/news/0-1005-200-1983259.html?tag=st
+                         ...it's also a great way to search for them!
+
+
+                                >> HARD NEWS <<
+                                 2/6/00 r00lz
+
+         A little lesson in what you can do if you try very hard (and
+         spend your evenings pouring over extremely dull policy
+         documents). As BRITISH TELECOM scrabbles to comply with
+         Oftel's uncharacteristically strident requirement that it
+         provide ISPs with cheap flat-rate access, sans strings, to
+         the local loop, give a round of applause to the CAMPAIGN FOR
+         UNMETERERED TELECOMS. In two years, CUT went from a ragtag
+         group of powerless online protestors (complete with baths of
+         custard demos outside Cable and Wireless HQ) to a
+         significant advisor to Oftel in the face of BT. Two years
+         ago, no-one - not Oftel, not AOL, and certainly not BT would
+         concede that flat-rate calls were even possible. Now, BT's
+         last gasp attempt to face off the inevitable with its costly,
+         confusing SurfTime service has been summarily bypassed:
+         replaced, at Oftel's insistence, with a system very similar
+         to what CUT recommended all those months ago. Cheers, kids!
+         http://www.unmetered.org.uk/news/news280500.htm
+                                          - metered calls: FRIA(L)CO!
+         http://www.ntk.net/index.cgi?back=archive98/now0327.txt&l=110#l
+                                               - oh how young we were
+
+         And, in another brief trip into a parallel universe where
+         common sense prevails, the Electronic Communications Act
+         (nee E-Commerce) quietly received its assent on 2000-05-25.
+         Quiet, because its original raison d'etre - as a trojan
+         horse to sneak in government controls on strong cryptography
+         - failed utterly when the Department of Trade and Industry
+         refused to fight any longer with the same long-haired Net
+         types that scared BT in the previous news story. Now, it's a
+         rather pleasant eunuch of a bill whose sole function in the
+         real world is to give a legal footing to digital signatures
+         (which they would probably have already had under existing
+         law, anyway). Of course, in that real world, all the nasty
+         stuff about access to keys has now passed to the RIP bill -
+         but it's nice to see a few battles won, right?
+         http://www.legislation.hmso.gov.uk/acts/acts2000/20000007.htm
+                                  - you feel happy already, don't you
+
+         It was about time that Microsoft fell into a fight where we
+         felt sorry for them. And so they have: the DIGITAL DIVAS
+         (hoarders of the "grey day" concept [see NTK 1998-10-01]) are
+         taking them to court for using the Digital Diva term for
+         their own site. A few questions for the court: Exactly *how*
+         long does it take to come up with the name "Digital Divas",
+         anyway? It's a big Net and a small namespace: we
+         counted at least a dozen other uses of the term, including
+         porn sites, queer theory, two conference panels, and an
+         Activision game. Microsoft didn't steal the name: the
+         stumbled on the same, kinda hackneyed, trope. Dammit, when
+         the blessed Donald Davies (who passed away this week) came
+         up with the idea for packet switching at the same time as
+         Paul Baran, did they duke it out over whose idea it *really*
+         was? Did they fight in the courts over the fricking *name*?
+         Or did they care not a jot about who got their first, on got
+         on with the fun bit: creating the next, great idea?
+http://www.usc.edu/isd/archives/queerfrontiers/queer/papers/dishman.html
+                   - "toad the fucker"? Does anyone want this phrase?
+       http://www.ntk.net/index.cgi?back=archive99/now1001.txt&l=20#l 
+          - slashdot stole these news stories from us! and vice versa!
+http://www.the-times.co.uk/news/pages/tim/2000/05/31/timobiobi02004.html
+                         - our best ideas last longer than we ever will
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         FASHIONMALL imitates DOONESBURY:
+         http://www.doonesbury.com/flashbacks/pages/2000/05/db000502.html
+         (and http://www.myvulture.com leads to..) ... remember: good
+         eggs sink: bad eggs float ... not bad stocklist as of "1899"
+         http://www.ntk.net/2000/06/02/dabs-doh.gif ... ... DREAMCAST
+         to be repositioned as "interactive device": f-f-f-fal ... no
+         no, Carmack: sack *everyone*, redo COMMANDER KEEN! ... SMITH
+         CORONA - somewhat obviously Falco! ... BBC: TV in the pubic
+         sector: http://www.ntk.net/2000/06/02/dohbbc.jpg ... IMDB vs
+         BT INTERNET: http://obsess.com/junk/imdb ... Best headline
+         of week: "VIA renames chipset in Holocaust gaffe" (C|NET) ... 
+         http://www.kashpureff.org/ekashp/ : odd, no mention of
+         "went on run from FBI" ... frequently unanswered, more like
+         http://www.netbenefit.co.uk/services_faq.html#6 ... Aussie
+         dentist has "Marathon Man"-like interest in "gadgets"
+         http://www.edgedent.com.au/tech.html ... what's that down in
+         the bottom frame? http://www.radionow.co.uk/intro.htm ...
+         TESCO's foray into "nouvelle cuisine":
+         http://www.ntk.net/2000/06/02/tesco_doh.jpg ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         And, lo, a hardy band of LINEONE users didst look upon BT's
+         attempt to sell them on a chatserver known for its lack of
+         moderation. And, by cover of darkness, they didst vow to set
+         out into the wilderness, to found a new chat environment,
+         free of such blasphemies as (their choice) "#jesus_sucks_cock".
+         Furthermore, they're having a "spectacular evening" to
+         celebrate their successful secession this Sunday,
+         2000-06-40, from 7pm at the Fornex And Firkin in Harrow,
+         North London, with live bands, slaying of a fatted calf,
+         that sort of thing. And before you ask, we're convinced that
+         this is for real, rather than (say) a spoof site put
+         together by some mean people...
+         http://www.communityuk.net/media/thecommunity.html
+                           - hey, that's what chat users look like...
+         http://www.futuresonic.com/
+             - and, for Nathans, a Manc music thing later in the week
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Now that Terminus is almost out, and Elite IV is almost
+         certainly doomed to be a perfectly horrid travesty (although
+         we're happy to bet both ends at William Hill on that
+         eventuality), we're almost reaching the end of our endless
+         pining for the One True Successor to Elite. But in the mean
+         time, please allow us to air our obsession one more time in
+         the worthiest of causes. Giles ("1080") Goddard's VOID is,
+         as far as is inhumanly possible, Elite for the PalmOS
+         platform. Palm IIIc users get school-of-CGA colours: the rest of
+         us can revel in almost BBC Micro monochrome. Our souls are
+         at rest; or they will be when we fork over the $9.95
+         registration fee. Can we pay in narcotics?
+         http://members.iinet.net.au/~acidburn/void.html
+         - altho, actually the BBC had several lines of colour,
+               thanks to an incredible VBI interrupt hack that...
+         http://home.att.ne.jp/sky/giles/
+                                                   - i'll get my coat
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         "never mistake our silence for being asleep" - or, indeed, 
+         being dead: http://www.amiga.com/corporate/053000-mcewen.shtml ...
+         running a sniffer on the Yahoo Java chat protocol ... the
+         new Lego Millennium Falcon: "at only 16 cents a piece it
+         compares very favorably with the French Knights castle as a
+         source of grey bricks" ... 404 God Not Found:
+         http://freethought.tamu.edu/extreme ... searching
+         http://www.open.gov.uk/search/search.htm for 'eyes only' ...
+         www.metallicster.uklinux.net seem to have toned it down
+         since heady days of http://www.theregister.co.uk/000511-000023.html 
+         ... leccie cars! http://www.evuk.co.uk/ ... Fatboy RMS:
+         http://artists.mp3s.com/artists/116/kul_teng_funk_overdose.html
+         ... The Search for The Real Nathan Barley - contender 1:
+         http://www.runningmanonline.com/about/people.htm ... euhuhh!
+         my-name's-Log: http://www.log.dial.pipex.com/playground/ ... 
+         to fill those junkbuster gaps: http://bak.spc.org/antibanners... 
+         and some filler for filling the next Filler:
+         http://ojr.usc.edu/content/story.cfm?request=382 ... oh, fuck *off*:
+         http://www.thestandard.com/article/display/0,1151,15398,00.html
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> "achievement has been supressed, all must wear a headband
+         that scrambles intelligent thought" reports the Radio Times,
+         hopefully describing the premise of Vonnegut-dystopia HARRISON
+         BERGERON (1.20am, Fri, BBC2) rather than the "making of"...
+         still, could be amusing if it makes the whole population as
+         retarded as those guys in DUMB AND DUMBER (6.55pm, Sat,
+         ITV)... while Robin Williams semi-imitates The Onion
+         http://www.theonion.com/onion3615/mind_transfer.html in 
+         appalling man-child reverse-pedophile over-indulgence JACK
+         (4.55pm, Sun, C5)... cool production design, but no action,
+         cripples Sean Connery "High Noon" sci-fi remake OUTLAND (9pm,
+         Sun, C5)... this week's rash of "dot.com" related shows kicks 
+         off with THE MONEY PROGRAMME (6.15pm, Sun, BBC2) praising /
+         critiquing the acquisitive Cisco... prime-time consumer show
+         HARD CASH (7.30pm, Mon, BBC1) examines online fraud plus "the
+         pitfalls of devising a website in the hope of making a
+         million"... and maybe worth fast-forwarding through 4-parter
+         INSIDE DOT COMS: TALES OF THE ELECTRONIC GOLDRUSH (11.20pm,
+         Mon-Thu, BBC2) in case anyone you know makes fools of
+         themselves... Stephen "Bill And Ted" Herek's erratically
+         plotted DON'T TELL MOM THE BABYSITTER'S DEAD (9.30pm, Mon, C4)
+         nonetheless features Christina "Married With Children"
+         Applegate, David Duchovny, and Joanna "Zhora the replicant"
+         Cassidy... THE CANDIDATE (7.30pm, Tue, BBC2) gives a postman
+         just 7 days to find a job as a web designer - like it normally
+         takes that long... Keith Chegwin strips off to host nude game
+         show NAKED JUNGLE (10.55pm, Tue, C5), preceded by mild Sly
+         Stallone/ Kurt Russell (but not Teri Hatcher) nudity thriller
+         TANGO AND CASH (9pm, Tue, C5)... and Kirk-killer Malcolm
+         McDowell seems to have continued playing the same role in his
+         current "I want to define my own universe" LineOne ads as he
+         did in STAR TREK: GENERATIONS (7pm, Wed, BBC1)...
+
+         FILM>> world's best magazine, ENTERTAINMENT WEEKLY, wears
+         the joke-crown for funniest summary of negative critical
+         reaction http://www.lermanet.com/reference/BatEarthfaq2.htm
+         to largely Scientology-free Travolta vanity project
+         BATTLEFIELD EARTH (http://www.capalert.com/ : dissension
+         against tradition causing risk to meager resources of
+         others; a lot of poor hygiene) - but, hey, it's big-screen
+         sci-fi! Hopefully the poor reviews won't prevent them from
+         making the *other* major motion picture, as promised on the
+         cover of "L Ron Hubbard's" insanely entertaining novel...
+         otherwise, Harvey Keitel *is* Alan Turing, in apparently
+         inauthentic Enigma Hollywoodisation U-571 (abridged script
+         at http://ter.air0day.com/u571.html ) - almost exactly the
+         same as "Das Boot" but, this time, the Germans are the bad
+         guys!... Roman Polanski seems to have learned little from
+         Charles Manson murdering his wife that time, and continues
+         to dabble in unremarkable devil thrillers like THE NINTH
+         GATE (http://www.capalert.com/ : claims that Satan drew
+         etchings in a book)... but nothing compared to the horror
+         that medical science has now enabled Ben Elton to reproduce,
+         as documented in vaguely autobiographical usual- suspects
+         Brit-com MAYBE BABY (imdb comment: "sweetly undemanding...
+         Maybe I'm biased as I am a major Joanna Lumley fan, but as
+         soon as she disappears from sight, something goes slightly
+         wrong")...
+
+         RED BOOK AUDIO (or "tracks you're morally justified in
+         downloading from Napster, because they're clearly nicked off
+         other tunes already. Anyway, like you care.")>> just hitting
+         the servers now - "Carmen Queasy" by MAXIM (the guy from the
+         Prodigy, not the magazine) sounds like LIMP BIZKIT's rockin'
+         cover of the "Mission: Impossible" theme but played back with
+         the wrong MIDI instruments on a broken Soundblaster card - and
+         not in a good way. Meanwhile, over on the official Prodigy
+         website they've started pirating their own tracks for mobile
+         ringtones: http://www.xl-recordings.com/news/news.htm ... and
+         never mind the obvious comparisons with Billie Piper/ her 
+         first single - BEN MOOR boldly proposes that BRITNEY's "Oops I 
+         Did It Again" is based on "Something's Gotten Hold Of My
+         Heart" by Marc Almond with Gene Pitney... in other pop news,
+         tipmaster general LLOYD WOOD advocated "listening to [but not
+         purchasing, eh kids?] 'Hooray For Boobies' by THE BLOODHOUND
+         GANG. Well, once anyway", largely on the strength of track 5
+         ('Mope'), a eulogy to iconic rapper Falco ("with accompanying
+         Amadeus samples")... RUARIDH revealed that the "Falco tribute"
+         [NTK 2000-04-28] *isn't* by Kid 606, but other V/VM artist
+         including COCK ESP plus REHBERG AND BAUER... and very much
+         alive (and much less Austrian) MJ HIBBETT AND THE VALIDATORS -
+         the "Hey Hey 16K" guys - have let us MP3 a load of tracks from
+         their new album, now at http://www.daveg.dial.pipex.com ...
+         back with soundalikes, sitcom-mad BD HALL persuasively argues
+         that "The first few bars of GOMEZ's 'Whipping Picadilly' evoke
+         the opening bars to Only Fools And Horses," and "THE YOUNGER 
+         YOUNGER 28's 'hit' 'We're Going Out' is a bastardised version
+         of the theme tune to Are You Being Served?. The YY28 bloke
+         with the big sideburns admitted it on Sky1's Long Play",
+         concluding with "MEL C's 'Going Down' has exactly the same
+         tune as the ALL SEEING EYE's 'Walk Like A Panther' - except it
+         sounds far worse"... and finally, sticking with TV themes,
+         PAUL CROWLEY contested our transliteration of the 'Roobarb And
+         Custard' theme [NTK 2000-04-28 again] (as "ner-ner-ner-ner, 
+         ner-ner-ner-ner, ner-ner-ner NER ner-ner"), preferring the
+         alternative interpretation "ner-ner-ner-ner, ner-ner-ner-ner,
+         NER ner-NER ner-NER. Or, possibly: ner-ner-ner-ner, ner-ner-
+         ner-ner, NER ner-NER ner-NER, ner-ner-ner-ner NER! NER!". NTK
+         regrets that this correspondence is now closed...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+                      "cursing... in a 'pristine' accent"
+               http://newstrolls.com/news/dev/diva/geekfest.htm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

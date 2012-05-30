@@ -1,0 +1,262 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-10-31_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "I feel quite upset by [blog comment spam], and angrier with 
+         the spammers and their lack of respect for the principles of 
+         online co-operation than I have been for years..."
+          - Bill Thompson ponders predictable side-effect of bloggers 
+          all using the same off-the-shelf content management systems
+                    http://news.bbc.co.uk/1/hi/technology/3210623.stm
+         ...aye, you knew where you were with the "gentleman spammers" 
+                of Usenet: they "only went after their own", you know
+
+
+                               >> HARD NEWS <<
+                               tu-whit tu-whoos
+
+         Ah, here's the third shoe falling: after PUBLICWHIP and
+         ICAN, comes MYSOCIETY, a little venture philanthropy .org
+         intending to scout out worthy politics-hacking projects, and
+         then actually give them some real money. To be honest there 
+         appears to be quite a glut of society software already in 
+         production right now - admittedly much of it being hacked
+         upon by folk linked with this scheme. And there seems to be 
+         a potential chicken-inside-egg problem regarding educating
+         high-powered people sufficiently to get them to fund stuff
+         that's languishing because they don't understand it. But,
+         hey, free money! Send your proposals to the estimable Tom
+         Steinberg, and he'll do the heavy-lifting of touting the
+         best proposals around potential funders. Or browse through
+         the admissions so far, and maybe see if you can't implement/
+         open source them before anyone gets their chequebook out.
+         http://www.mysociety.org/mysoc_me.php3
+           - and none of your "pave the earth" BOFH projects, neither
+         http://www.lazyweb.org/
+             - or fill with personal hobby-horses, whichever's easier
+
+         We're great believers in retrospective sympathetic magic
+         here. So thanks, then, to everyone who is about to think
+         good thoughts about LARRY WALL and DAMIAN CONWAY, chief
+         canaries of the PERL 6 process, who are both recovering
+         after some rather nasty bug reports. Damian's been down
+         with some "light pneumonia", which led to him producing all
+         the wrong kinds of Conway hacks and wheezes for a month. Mr
+         Wall, true to form, posted a message to Usenet, which, after
+         several pages of comments on continuations, exceptions,
+         scoping, and making Perl6 better for beginners, noted that
+         he's out of hospital and down one benign tumor ("with
+         complications"), but still on a drip and unable to eat.
+         "Full recovery is expected any month now", he says. Your
+         thoughts will go back in time and help them to recover at
+         exactly the fast rate we're seeing now.
+         http://perlfoundation.org/index.cgi?page=contrib
+          - and all those future payments to the Perl Foundation help
+      http://groups.google.com/groups?selm=20031016003050.GA7845%40wall.org
+                               - not the POD extraction anyone wanted
+      http://groups.google.com/groups?selm=3F9DA3BB.9080106%40conway.org
+                                          - yet another poorly hacker
+
+         A couple of quick followups on previous stories: we were 
+         reassured that we weren't the only people to cover DEREK WYATT 
+         MP's ingenious "postcode lottery" approach to beating spam, as 
+         it also made the front page of VNU's respected IT Week, where 
+         his additional brainwave of sticking "a country code suffix at 
+         the end of each domain name" was repeated without a hint of 
+         wondering whether this was either feasible or indeed remotely 
+         desirable. And if you thought they'd save that kind of 
+         editorialising for their leader column, that's where you'll 
+         find Wyatt damned by the faint praise that he seems "happy 
+         to suggest innovative strategies whenever they occur to him". 
+         On a cheerier note, Marks and Spencer's Channel Development 
+         Manager STEVE WIND-MOZLEY wrote to update us with the news 
+         that Safari, Opera and a whole host of "indie" clients are now 
+         welcome at "the UK's best loved retailer's web site" (his 
+         words, not ours), with a Mozilla-compatible code release also 
+         coming "soon". "In the meantime", he concludes, "should any of 
+         your readers be in urgent need of fresh underwear, please 
+         remind them that we have more than 320 stores that do not run 
+         'sniffing' technologies on the way in".
+         http://www.marksandspencer.com/
+            - Steve's subject line: "Mozilla users don't go commando?"
+         http://www.ntk.net/2003/10/31/dohwy1.jpg
+         http://www.ntk.net/2003/10/31/dohwy2.jpg
+                      - tastefully highlighted in light blue and grey 
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         old thrill - return of the inadvertently appropriate banner 
+         ad: http://www.ntk.net/2003/10/31/dohcheryl.gif ... Benatar 
+         unveils new look for "Love Is A Battlefield, Possums" comeback 
+         tour: http://www.ntk.net/2003/10/31/dohpat.gif ... romance not 
+         dead: http://www.ntk.net/2003/10/31/dohrom.gif ... "please do 
+         not post the password [in the previous sentence] on the Web": 
+         http://www.minitex.umn.edu/cpers/elm/kit.asp#galepassword ... 
+         hoping that's a deliberately ironic use of "Go home" in the 
+         nav: http://www.blackinbritain.co.uk/ ... double-URLtendres of 
+         the week - filthy rich pigs: http://www.champagneswines.com/ , 
+         http://www.barf1.com/ , http://www.letshitit.com/ ... mind the 
+         gap: http://www.ntk.net/2003/10/24/dohref.gif ... right lads - 
+         Diet Coke break: http://www.ntk.net/2003/10/31/dohpost.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         The Alec Bussey Scout Centre (formerly Norwich 2nd Boy Scouts 
+         Hut) is hinted to be one of Norfolk's few venues capable of 
+         containing tomorrow's NORWICH SPECTRUM AND SAM SHOW 2003 
+         (10am-4pm, Sat 2003-11-01, Rowington Road, Norwich, free from 
+         the looks of things), featuring an "official opening from 
+         Councillor Steve Land", a "SAM talk and Q & A" *plus* a 
+         "Spectrum talk and Q & A" - and probably someone from NTK 
+         selling off the last of those "Born to Run" t-shirts, among 
+         other bargains. That's assuming we don't stay too late at 
+         tonight's B3TA HALLOWEEN PARTY (from 7.30pm, Fri 2003-10-31, 
+         Babushka, behind King's Cross, London N1, also free), where 
+         you can nod and say "Yeah, you photoshopped that polar bear, 
+         did you? Nice one!" and take part in a raffle that is rumoured 
+         to have Mr NiceCupOfTeaAndASitDown's very personal supply of 
+         new HobNobs Flapjacks among the prizes.
+         http://homepage.ntlworld.com/speccyverse/orsam.htm
+                                                     - Ah-haaaaaaaaa!
+         http://www.b3ta.com/party/halloween2003.gif
+                                                     - Ah-helllllllo?
+         http://www.nicecupofteaandasitdown.com/news/
+                                   - A-munch-munch-munch-munch-(gulp)
+         http://www.internetworldnorth.co.uk/
+           - also next Wed/Thu (apparently "badly broken in Mozilla")
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Got a bunch of old laptops hanging around? Want to use them
+         for something, but have *slightly* better things to do than
+         fiddling with an openMOSIX cluster or playing "laptop
+         Jenga"? If one of those slightly better things is compiling
+         C, C++ and Objective C programs, DISTCC is the package for
+         you. Distcc is Martin Pool's system for distributing gcc
+         compilations across multiple machines. It runs in userland;
+         it just does gcc; it gives compilations broadly linear
+         improvements (double the PCs = half the time). Your nodes
+         don't need to have synchronised watches or to drop
+         everything else to run it. Kernel versions don't matter,
+         *operating systems* don't matter (distcc's the basis of
+         Panther's Xcode distributed build feature). And if you're
+         running GNOME, you get a nice stripy graphic to stare at
+         during what little time you didn't save.
+         http://distcc.samba.org/
+                           - imagine a Beowulf cluster of ... oh wait
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         corporate anthem reprise - "making love (all night)" by the 
+         light of our BenQ 1000 ANSI Lumen digital projection system: 
+         http://www.benq-eu.com/news/?year=2003&id=435 ... UseCrime in 
+         progress - "Wednesday media is... a web usability consultancy" 
+         http://www.wednesdaymedia.com/ [view source]... portable radar 
+         http://www.plextek.com/news70.htm imitates "Creatures may be 
+         beneath the floor": http://www.iseran.com/Steve/alien.html ... 
+         inside DJ Shadow's head: http://www.io.com/~dork/records/ ... 
+         this week's "one of these pics is not like the others" #32: 
+         http://images.google.com/images?q=%22the+seventh+seal%22 ... 
+         was www.wannafight.com taken?: http://www.textbanter.com/ ... 
+         http://www.freestateproject.org/ sending 20,000 libertarians 
+         to New Hampshire - why can't they send them all there?...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> b3ta.com raid their back-catalogue for the official site 
+         to novelty Jimmy Carr quiz show DISTRACTION (10.40pm, Fri, C4) 
+         http://www.channel4.com/distraction/ ... while Rutger Hauer - 
+         who else? - heralds another week of scary movies, including 
+         his own THE HITCHER (12.45am, Fri, C4), Pamela Anderson/ David 
+         "MCP" Warner VR-sex nonsense NAKED SOULS (12.15am, Fri, C5), 
+         Mark Kermode's precious THE EXORCIST (10pm, Sat, C4), and the 
+         ever-excellent FINAL DESTINATION (9pm, Sun, C4)... the latter 
+         hopefully also commemorated in HEATH ROBINSON: SUBURBAN 
+         SUBVERSIVE (10pm, Thu, BBC4) - an effective UK translation of 
+         "Rube Goldberg", for any American readers who make it this 
+         far... Channel 5 gets a full 65 minutes out of lists like 
+         http://hal9000.inetstrat.com/parodies.html - in a parody-title 
+         pron roundup entitled SHAVING RYAN'S PRIVATES (11.15pm, Mon, 
+         C5)... the undercover Money Programme considers whether a diet 
+         consisting exclusively of meat and lard might have any adverse 
+         health effects in ATKINS - A FAT PROFIT (7.30pm, Wed, BBC2)... 
+         then FIVE THINGS I HATE ABOUT YOU (8pm, Wed, BBC2) sees a man 
+         "proving" his girlfriend can't read a map... WHAT NOT TO WEAR 
+         - THE TRIBES OF MAN (8.30pm, Wed, BBC2) starts another run
+         of the makeover series predicated on the radical notion that 
+         anyone can look better if they spend 2000 quid on newer, more 
+         fashionable clothes... as yet another schadenfreude-relocation 
+         show NO GOING BACK (9pm, Wed, C4) this week features its most 
+         unprepared ex-pats yet: an Extropian couple "determined" to 
+         fulfil their dream of moving to a platform mining metallic 
+         hydrogen on Jupiter, even though the technology doesn't yet 
+         exist to get them there, the husband has yet to master the 
+         most basic nanotech control languages, and the local climate 
+         is so different to what they're used to in Surrey that they'd 
+         simultaneously freeze, suffocate, *and* be instantly crushed 
+         to death... 
+         
+         FILM>> now featuring the "nest" scene immortalised in Alan 
+         Dean Foster's movie novelisation, there's a surprisingly 
+         nationwide release for pre-DVD promo ALIEN - THE "DIRECTOR'S 
+         CUT" ( http://www.cndb.com/movie.html?title=Alien+%281979%29 :
+         Sigourney Weaver strips down to a very little white panties 
+         and see-through shirt; There is not much nudity on display in 
+         this scene - upper rear only. But the scene is extremely 
+         erotic, nonetheless)... a similar conclusion is the highlight 
+         of the all-too-glossy nasty remake THE TEXAS CHAINSAW MASSACRE 
+         ( http://www.capalert.com/capreports/texaschainsawmassacre.htm :
+         wet T-shirt ghosting of [Jessica "7th Heaven" Biel] female 
+         anatomy; three-year cohabitation; terrorizing with a chainsaw, 
+         many)... while Meg Ryan's idea of playing "against type" 
+         appears to be impersonating Nicole Kidman in the gritty, 
+         somewhat average serial killer character study IN THE CUT 
+         ( http://www.cndb.com/movie.html?title=In+The+Cut+%282003%29 : 
+         The major sex scene has Meg taking off her dress to reveal 
+         absolutely perfect beautiful breasts. I mean, they're worth 
+         the price of admission [alone])...
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                "inappropriate"
+                    http://www.ntk.net/2003/10/31/dohgest.gif
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

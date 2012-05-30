@@ -1,0 +1,285 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-09-05_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "My practice is to delete all of those who do not reply to my 
+         email, or who are so tardy to be ineffective, and similarly 
+         web pages and hyperlinks. And it really works!"
+            - Earth 98% full... delete Peter Cochrane's "ineffectives" 
+                                                          immediately
+                http://www.silicon.com/opinion/166-500001/1/5686.html
+
+
+                               >> HARD NEWS <<
+                                motley crews
+
+         She's got a little list: the McCarthy witchhunt continued in
+         Brussels this week, with Arlene M., leader of the software
+         patent campaign, sending a "factsheet" to MEPs, correcting
+         the errors of those subversive programmers who've been
+         fighting her proposal. She gets as far as the second
+         sentence before blowing the "fact" part of her mission.
+         There she describes her pursuers as "the Free Software
+         Alliance": an organisation that doesn't appear to exist.
+         Then again, when you have the EuroLinux Alliance, the
+         Foundation for a Free Information Infrastructure, the Free
+         Software Foundation, the Oxford Internet Institute, Super
+         Mecha Donald Knuth, the Soros Foundation, SUSE, Redhat and
+         the 228,137 people who've signed the anti-software patents
+         petition against you, it must be easy to mix up names. The
+         fiendishly efficient FFII have already written a detailed
+         reply to this rearguard action. It also works as a decent
+         summary of the positions of both Arlene *and* the sinister 
+         Free Software Alliance if you haven't been keeping up. If
+         you're bored this weekend - or would prefer to keep your job
+         producing patent-free software in Europe - you might want to
+         read it, then have a word with your MEP about a few of those "facts".
+         http://swpat.ffii.org/papers/eubsa-swpat0202/amccarthy030901/
+                                                     - point by point
+         http://www.europarl.org.uk/uk_meps/MembersMain.htm
+                                                - digging up your MEP
+         http://petition.eurolinux.org/
+                         - or just sign the petition, you lazy COMMIE
+
+         Just to emphasise the positive power of protest: rogue gamer 
+         STUART CAMPBELL has been back on the campaign trail, once 
+         again tackling games-biz body ELSPA, but this time over the 
+         informatively incorrect FAQ on their website. "Am I legally 
+         entitled to make a backup of my original software?" you ask;
+         they used to unequivocally answer: "No". As Stuart's superfast 
+         reflexes rapidly tracked down, section 50A of the amended 1988 
+         Copyright, Designs and Patents act in fact encourages "a 
+         lawful user of a copy of a computer program to make any back 
+         up copy of it which it is necessary for him to have for the 
+         purposes of his lawful use", a difference of opinion which 
+         Stuart felt necessary to report to the Advertising Standards 
+         Authority. They said it wasn't really their area and pointed 
+         him in the direction of Trading Standards, who said it wasn't 
+         their area either - but they had a word with ELSPA anyway, 
+         who've now modified the wording to warn against backing up the 
+         "film and sound" copyrights which they believe games inevitably 
+         contain. Of course, making backup copies of lawfully obtained 
+         audio or video material for your personal use isn't quite so 
+         explicitly permitted under UK law, but - and please correct us 
+         if you know any differently - we're not sure if it's actually 
+         specifically banned either?
+         http://www.rllmuk.com/forum/index.php?showtopic=14006
+                 - chipping Playstations also not *that* illegal, yet
+         http://www.rllmuk.com/forum/index.php?showtopic=14505
+           - result, though not clear who ELSPA should be reported to
+         http://news.bbc.co.uk/1/3192927.stm
+             - and still illegal to circumvent lame anti-copying tech
+
+         Everyone's praising the Hutton Inquiry's data dumps, but is
+         anyone actually ploughing through the online evidence? Yes
+         they are - including bits that they shouldn't be. Subscriber
+         WILLIAM ANDERSON spotted that some of the BBC's submitted
+         evidence wasn't all as [redacted] as it could be. Take
+         Gilligan's phone bill: "Not all of the data has been
+         properly blanked... visible within the first couple of
+         inches are the BT account number, the bill number (...
+         usually used by BT as proof that you are who you say you
+         are) and, critically an 0208 phone number". All gone now,
+         replaced with a time-warping note that says the phone bill
+         is "not yet available". Wonder how many people phoned
+         Gilligan up and started hassling him for a quote?
+http://www.the-hutton-inquiry.org.uk/content/evidence-lists/evidence-bbc.htm
+                                        - BBC/13/0058-0067, 0068-0096
+         http://www.ntk.net/index.cgi?b=02003-08-22&l=192#l
+                              - (sort of) in accordance with prophecy 
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         hey, once you get those 400-year old Londoners talking about 
+         the "old days": http://www.ntk.net/2003/09/05/dohgreat.gif 
+         ... SYDNEY advertises October street parade followed by "an 
+         apple": http://duxton.com/upcoming_hotel_main.asp?hotel_id=2 
+         ... WIDDECOMBE of the week (you can come up with ruder ones): 
+       http://www.365london.co.uk/locationdetail.asp?title=Ram%20Raiding
+         ... ah, the old "The Helpdesk/ The Helpless" comedy confusion: 
+         http://www2.warwick.ac.uk/services/its/aboutus/latestnews/#0 
+         ... monthly return of the ever-popular PUERILE GOOGLE GOOFS: 
+         http://www.google.com/search?q=baptits , "breech of contract", 
+         http://news.google.com/news?q=javascript+fella , "rdf tripes", 
+         and what *is* so special about "Cack Cocaine"?... THE FRIDAY 
+         THING's Paul Carr slams viral marketers' attempts "to drive 
+         traffic away from other people's websites towards their own": 
+  http://media.guardian.co.uk/mediaguardian/story/0,7558,1028727,00.html
+         - harsh words from former promoter of "buy Cheeky Girls record" 
+         campaign: http://www.ntk.net/2003/09/05/dohcheek.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         MARK THOMAS is officially opening the centre to co-ordinate 
+         protests against next week's DEFENCE SYSTEMS AND EQUIPMENT 
+         INTERNATIONAL (various times and venues around Excel 
+         Exhibition Centre, pre-registration necessary for arms fair). 
+         Meanwhile, controversy-magnets SPIKED MAGAZINE tackle the 
+         issues that really matter with a short season of net-related 
+         debates, starting with INTERNET REGULATION: IS THERE SUCH A 
+         THING AS HARMFUL CONTENT? (7pm, next Wed 2003-09-10, Hill and 
+         Knowlton, 35 Red Lion Square, London WC1R, from UKP10), in the 
+         company of ROLAND "Internet Policy Agency" PERRY and YAMAN 
+         AKDENIZ from Cyber-Rights and Cyber-Liberties UK. Then, 
+         assuming proper WiFi protocol is observed, expect the usual 
+         flurry of uninformative "I'm actually blogging this *from the 
+         event*" postings the week after when GONE TO THE BLOGS: THE 
+         BLOGGING PHENOMENON IN PERSPECTIVE (7pm, Wed 2003-09-17, IBM 
+         South Bank, 76 Upper Ground, London SE1) annotates the musings 
+         of bonkers anti-blog blogger BILL THOMPSON and the iSociety's 
+         inescapable Chris Evans-lookalike JAMES CRABTREE.
+         http://www.dsei.org/
+                           - "There will also be music from Cello Man"
+         http://www.dsei.co.uk/
+     - "Vessels are berthed immediately alongside the exhibition hall"
+         http://www.spiked-online.com/event/
+           - it's basically Lee and Herring's "Ironic Review". Ahhhhh.
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         E-mail is dead! Long live Usenet! Wait, is that right? GMANE
+         is a website that subscribes to all your favourite tech
+         mailing lists, then spits them out as despammed NNTP feeds.
+         Searchable, skimmable, threadable and disposable, it lets
+         you hang on with your fingernails to a bunch of different
+         online discussions without drowning in filters and
+         mailboxes. Thanks to gmane's constant Great Renaming, it can
+         be a little hard to find your old haunts: who, for instance,
+         knew that gmane.emacs.code-browser was really a feed of
+         ecb-list@lists.sf.net? But at least the tree format
+         encourages browsing - and if your favourite mailing list
+         isn't there, there's a simple one page form to add it.
+         Instant Web archive!
+         http://gmane.org/
+    - of course, potentially instant Web archive you don't know about
+         http://gmane.org/about.php
+                                - but at least it's run by a good guy
+http://www.google.com/groups?q=%22please+respect+x-no+archive+when%22
+                                                               - oops
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         DHTML LEMMINGS dead: http://www.xs4all.nl/~crisp/lemmings/ - 
+         predictably... but some things will never die (Flash, sorry): 
+         http://www.powerstrike.net/Tehkan/mamejump.html ... the new 
+         "Quake haikus": http://www.twhi.org/rip/wizard/bluewizard.htm 
+         ... raising possibility that DMX's lyrics "What these bitches 
+         want", "Where's my bitches?" and "bitches drippin sweat" are 
+         actually about female dogs: http://www.boomer129.com/home.html 
+         ... DULLEST TITLED BOOK ON AMAZON contender #2 "You'll design 
+         longer-lasting, more cost-effective road pavements", thanks to 
+         http://www.amazon.co.uk/exec/obidos/ASIN/0070144516/ ... 
+         Commodore said "most famous author in sci-fi history" *above* 
+         Jakki Brambles: http://amiga.emugaming.com/celebrities.html 
+         ... September 11 will inevitably "happen again", experts warn: 
+     http://www.cullenleeds.force9.co.uk/september11tm/infonationstation.htm
+         ... Babelfish Japlish: http://qwer.org/cnnjaplish.html ... Comic
+         Sans != a feature: http://www.ntk.net/2003/09/05/messengerad.gif
+         ... what situationist prank is this? http://www.paulmorley.com ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "Pitch Black" director David Twohy provides rather more 
+         pedestrian ET incursions in THE ARRIVAL (1.20am, Fri, BBC1)... 
+         romantic comedy DON'T GO BREAKING MY HEART (2.30am, Sat, C4) 
+         was memorably promoted with the poster tagline "He couldn't if 
+         he tried!"... and we still think the "Do not have anything in 
+         your life you are not willing to walk out on in 30 seconds" 
+         line from HEAT (9pm, Sun, BBC1) would make a good ad for those 
+         USB keyring memory sticks... according to the Radio Times, 
+         SOUL SEARCHING (8pm, Sun, C4) reports that "scientific opinion 
+         is swaying - maybe we do have an inner, God-given spiritual 
+         essence"... the trails list the celebrities as "Gail Porter", 
+         "Mel C" and "Miss World", which is how they'll hopefully refer 
+         to her in "Superstars" remake THE GAMES: LIVE (9pm, Sun, C4) 
+         ... and we previously pondered if Ewan McGregor's character - 
+         called "The Eye" - might like to "hold bees" in bizarro serial 
+         killer romance THE EYE OF THE BEHOLDER (10pm, Sun, BBC2)... 
+         THE CURSE OF FRIENDS REUNITED (9pm, Mon, C5) really ought to
+         include their frankly rubbish "don't give out your email 
+         address" regexp... Sandra Bullock booze battler 28 DAYS (10pm, 
+         Mon, C5) turns out not to be a prequel to "28 Days Later"... 
+         and "Desmond's" veteran Robbie Gee reappears in BBC1's all-
+         black sitcom THE CROUCHES (10.35pm, Tue, BBC1) - maybe Richard 
+         Blackwood was busy doing "Quote me happy" insurance ads... 
+         JUMP LONDON (10pm, Tue, C4) seems to refer to the activity of 
+         leaping from rooftop to rooftop as "free running" rather than 
+         the original French name of "Le Parkour"... listen out for the 
+         samples from the new UNKLE "Eye for an Eye" single in arthouse 
+         war film THE THIN RED LINE (11pm, Tue, ITV)... Stephen Fry 
+         reunites with Hugh Laurie, John Sessions in urban-legend-
+         debunking panelgame smugfest QI (10pm, Thu, BBC2)... and 
+         CANTERBURY TALES (9pm, Thu, BBC1) updates some of the Chaucer 
+         classics - just as Dire Straits did all those years ago: 
+         http://www.museumoftechno.org/correspondence/lyrics.html ... 
+         
+         FILM>> it's Dennis Pennis, Johnny Vegas and Vince "Swingers" 
+         Vaughn - together at last! - in crude crown-green bowling 
+         slapstick BLACKBALL ( http://www.bbfc.co.uk/ : Contains strong 
+         language)... though fans of unclothed middle-aged British 
+         female character actors will already be queuing up for based-
+         on-a-true-story CALENDAR GIRLS ( http://www.mpaa.org/ : Rated 
+         PG-13 for nudity, some language and drug-related material)... 
+         a slightly odd back-to-school release for "let's do the show 
+         right here" adolescent showbiz-wannabes spectacular CAMP 
+         ( http://www.capalert.com/capreports/camp2003.htm : social 
+         brutality, repeatedly; pelvic thrusts by a small child; belly 
+         sin; one might get the impression most performing artists 
+         choose to be "gay") - disappointingly, not based on either 
+         the Scottish beverage http://www.sybertooth.com/camp/ or the 
+         adenosine nucleotide "cyclic AMP" which regulates various 
+         metabolic processes at a cellular level... despite the "no 
+         special effects" claim, the preponderance of over-water shots 
+         implies a lot of boat-based imprinting during the making of 
+         WINGED MIGRATION (imdb: nature/ avalanche/ farming/ hunting/ 
+         parrot)... and one of the blokes from "Attachments" is hunted 
+         down like a dog in semi-downloadable Brit "Deliverance"-alike 
+         THIS IS NOT A LOVE SONG ( http://www.bbfc.co.uk/ : Contains 
+         strong language, drugs use and violence) - which, for once, 
+         *does* appear to be based on the Public Image Ltd song of the 
+         same name: http://www.thisisnotalovesong.com/ ... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                 "dysfunctional"
+      http://news.independent.co.uk/digital/features/story.jsp?story=439760
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

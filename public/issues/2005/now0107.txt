@@ -1,0 +1,189 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-01-07_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+         But the dependence on computers by the industry means 
+         passengers are likely to see more flight delays caused by 
+         computer errors in the future. "I'm afraid so," said airline 
+         industry analyst Michael Boyd. "As long as *computers continue 
+         to be made and operated by humans*, we're going to have the 
+         problem..." [our emphasis]
+         http://www.jsonline.com/bym/news/dec04/287755.asp
+         - The funding bill is passed. The system goes online on August 
+         4th, 1997. Human decisions are removed from all airline flight 
+            scheduling. "SkyNet" begins to learn at a geometric rate...
+
+
+                               >> HARD NEWS <<
+                             insufficient excuse
+
+         So what did you do on your Newtonmas Holidays? Made a New
+         Year's Resolution to foment revolution, possibly using your
+         cool decentralised reputation-management idea, which this
+         year you'll be writing in OCaml or maybe Ruby? Well, if that
+         doesn't pan out again, here's what some other NTK readers
+         came up with on their societally-mandated periods of enforced
+         semi-isolation: 
+
+         The shadowy figures behind SPY.ORG.UK (of which we cannot
+         speak, but who have haunted NTK since issue 1) have started
+         a blog to gather and their track Freedom of Information
+         requests, so you can have a nice RSS feed of wriggling civil
+         servant replies. And, just to make life even more snugly
+         private, you can anonymously provide your own requests,
+         which they will forward as a sort of human anonymising proxy.
+         http://www.spy.org.uk/foia/
+              - watching him (or her) writing to them, writing to you
+ http://community.foe.co.uk/tools/right_to_know/request_generator.html
+                - links to Friends Of The Earth DIY request generator
+         http://www.spy.org.uk/icb/
+            - and analysis of ID cards bill too, speaking of which...
+
+         And GAVIN BELL, smarting that the only official copies of the 
+         EU Constitution reside in some PDFs marked "Beware of the
+         Leopard", is creating a usable, permalinkable, annotable
+         version for the Web. He's looking for Moveable Type and
+         Mediawiki hackers to help him out. The perfect hobby for
+         those wanting to open up what Gavin says will be "the social
+         software for 500 million people for the next twenty years" -
+         or if you just want to *really* annoy Andrew Orlowski.
+         http://www.betageek.co.uk/
+          - your chance to put tubgirl links into a founding document
+         http://www.flickr.com/photos/doctorow/3021490/
+                - looks like Andrew may have other things on his mind
+         http://www.commonhouse.net/wiki/secretorigins
+           - speaking of wiki-fiddling: help Danny talk design in Jan
+        
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         Taiwanese heatsinks offer "high-density excretion technology", 
+         "crotched fin design" http://www.evercool.com.tw/index_eng.htm 
+         ... depending on level of responsibility, perks include "home-
+         made chilled apple, avacado and ginger soup", or "home-made 
+         mulled wine": http://historicalengineering.com/People.shtml 
+         ... Dell miss the "destroying what they're trying to save" 
+         subtext of "Team America": http://delltechforce.com/ - vs 
+         http://theserverside.net/news/thread.tss?thread_id=30491 : 
+         MSDN meets TVGoHome... for top-notch "lorem ipsum" copy needs: 
+        http://translationexpress.co.uk/translators/latin_translator.php
+         ... (semi-)new thrill - puerile Google Scholar misspellings: 
+         http://scholar.google.com/scholar?&q=%22neuron+scattering%22 , 
+         http://google.com/scholar?&q=%22silicon+geranium%22 - maybe 
+         not fully http://google.com/scholar?&q=%22pier+reviewed%22 ? 
+         ... "I took them away from all that, and now they work for - 
+         Jakob Nielsen": http://nngroup.com/events/tutorials/camp.html 
+         (bottom of page)... 
+
+          
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Flash? Open fire all weapons and dispatch war rocket "Ajax"
+         to bring back its body! Ah, we wish: but if you'd like to
+         dick around with vector graphics without delving into
+         Macromedia's proprietary little quarterback, Walter Zorn's
+         ingenious JAVASCRIPT VECTORGRAPHICS LIBRARY may be worth a
+         peek. Using coloured DIVs and some of that old Bresenham
+         algorithm magic, Zorn has done the impossible:
+         standards-based, programmatic drawing of lines, rects, and
+         ellipses anywhere on the Web's broad canvas, from IE 4
+         upwards. Performance is... forgiveable: old schoolers may
+         find themselves typing "FOR I = 0 TO 360" instead of legal
+         JavaScript at times. The library has been around for so
+         long, we're surprised it hasn't popped up more before; but
+         there's still time to score ridiculous amounts of hits for
+         your JavaScript implementation of Missile Command.
+         http://www.walterzorn.com/jsgraphics/jsgraphics_e.htm
+                           - you only have 17 hours to save the earth
+         http://www.whatwg.org/specs/web-apps/current-work/#graphics
+                                  - kills time while waiting for this
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Jessica "Spaced" Stevenson and the writer of "My Family" 
+         - together at last! - inexplicably avoid a "sex" pun for the 
+         title of doubtless-abysmal new sitcom ACCORDING TO BEX (9pm, 
+         Fri, BBC1), though perhaps it was called "The Joy Of Bex" or 
+         "The Opposite Of Bex" in development and changed at the last 
+         minute... the BBC come up with an innovative new vehicle for 
+         expensive acquisition Dom Joly - aimless, "absurdist" hidden-
+         camera pranks - in WORLD SHUT YOUR MOUTH (10.35pm, Fri, BBC1) 
+         - should be more laughs in imaginative teen-horror procedural 
+         FINAL DESTINATION (11.05pm, Fri, BBC1)... and it's not 
+         entirely clear where the estimate of "3000-8000 obscenities" 
+         originally came from (The Daily Mail?), but given that Richard 
+         "Fist Of Fun" Thomas and Stew Lee's JERRY SPRINGER - THE OPERA 
+         (10pm, Sat, BBC2) is only 2 hours long, that's an impressive 
+         rate of one every 2.4-0.9 seconds... the world seems strangely 
+         less outraged by the prospect of imminent environmental 
+         catastrophe, as highlighted by C4's WAR ON TERRA season 
+         (7.30pm, Sat, C4), also featuring "current effects of climate 
+         change" SEVEN DAYS THAT SHOOK THE WEATHERMEN (8pm, Sun, C4) 
+         and anti-car exploration WHAT WOULD JESUS DRIVE? (8pm, Mon, 
+         C4)... political reality-show VOTE FOR ME (11pm, Mon-Fri, ITV) 
+         falls into the usual trap of assuming that the public will 
+         deign to exhibit even the slightest interest in the "winners" 
+         of these programmes ever again... while a new series of HORIZON 
+         (9pm, Thu, BBC2) preserves its up-to-the-minute reputation 
+         with an overdue look at the phenomenon of "global dimming": 
+      http://www.guardian.co.uk/life/feature/story/0,13026,1108853,00.html ...
+         
+         FILM>> sadly the controversy over unflinching portrayals of 
+         "alternative lifestyles" and military imperialism threatens to 
+         overshadow the epic technical achievement - but that's enough 
+         about next week's magnificently jaw-dropping pseudo-satire 
+         TEAM AMERICA: WORLD POLICE ( http://mpaa.org/ : Rated R for 
+         graphic crude and sexual humor, violent images and strong 
+         language - all involving puppets)... apparently cinemagoers 
+         were less surprised to learn that the protagonist was bisexual 
+         than to learn he had a broad Irish accent in Oliver Stone's 
+         characteristically sweeping-yet-underdeveloped ALEXANDER 
+         ( http://www.cndb.com/movie.html?title=Alexander+%282004%29 : 
+         Rosario ["Josie And The Pussycats"] Dawson's nude scene comes 
+         at 1 hour and 30 minutes into the film; We see [Colin 
+         Farrell's] bare ass about 15 minutes after the wedding scene) 
+         ... while Michael "Batman" Keaton can "hear dead people" in 
+         radio and TV static - presumably inquiring how they're going 
+         to continue contacting the living when the "analogue switch-
+         off" eventually comes around - in not-based-on-the-excellent-
+         Dom-DeLillo-novel psychological horror nonsense WHITE NOISE 
+         ( http://mpaa.org/ : Rated PG-13 for violence, disturbing 
+         images and language)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                    "annoyingly, rtk.net was already taken"
+                   http://news.bbc.co.uk/1/hi/uk/4142755.stm
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

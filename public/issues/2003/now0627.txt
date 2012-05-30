@@ -1,0 +1,183 @@
+  __  __ _2003-06-27   _________  __
+ |  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! mail an empty message to
+ | |\/| | | '_ \| |  \| | | | | ' /     o ntknow-subscribe@lists.ntk.net
+ | |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+ |_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+     [ We are on our Summer holidays, but find it impossible to shut up ]
+
+
+                              >> PREVIOUS NEWS <<
+                             exhaustively exhumed
+
+         In a bitter-sweet double reversal of fortune, it sounds like
+         the attempt to sneak software patents by the Europarliament
+         next week has been averted, while the delayed EUCD is
+         spinning backwards in time to the present. There still maybe
+         a slim chance of stopping the SOFTWARE PATENTS LEGISLATION
+         from arriving at Brussels in such bad shape: Ian Clarke (off
+         of Freenet) has put up a non-anonymous, non-distributed CGI
+         script that lets businesses write up exactly how devastating
+         the new patents will be to them, and passes them onto the
+         relevant authorities. It's not quite FaxYourMEP, but it'll
+         help. Meanwhile, anonymous sources say that the UK
+         implementation of the EUCD is pretty much marked up. Any
+         changes there are don't have much to do with consumer
+         rights: we'll be seeing what damage *that'll* be wreaking on
+         the tech community after this short break.
+       http://swpat.ffii.org/news/03/plen0626/index.en.html
+                                    - full details on the shenanigans
+      http://freenetproject.org/eusp/index.php
+- should have patented contactyourrepresentative when we had the chance
+       http://www.carolinelucasmep.org.uk/news/Nanotechnology_220403.htm
+             - some MEPS could do with a bit of help with tech issues
+
+         Talking of non-anonymous, PHIL MARLEY wrote in last week to
+         point out that the mystery NTK reader who wrote to their MP
+         and got questions asked in the House about STAND wasn't a
+         mystery, and had in fact mailed us a month ago to tell us
+         what he'd done. Cheers, Phil! Your name has now been given
+         its rightful place on the Internet. There may be a prize.
+         http://www.spy.org.uk/cgi-bin/civilcontingencies.pl
+       - also, it looks like the police won't be running the Internet
+
+         And while we're digging through the news feedback slushpile,
+         we're still getting folk asking if we're going to fork the
+         Jargon File, or set up the Jargon Wiki, or join them in some
+         anti-ESR outback militia who are - as we speak - tooling up
+         with daisies and big hugs outside his house. Well, as so
+         many noted on slashdot, euro-weenie anti-capitalist
+         crypto-communist running dogs like us are the last people
+         you'd want to take over. But maybe, we'd suggest, at least
+         for new entries, a couple of citations each would provide
+         more context. After all, it's what ESR requests from outside
+         contributors. And it'd be a good filter on what might
+         otherwise look like his own coinages.
+         http://catb.org/~esr/jargon/html/submitting-new-entries.html
+ - or you could just rename it "Dude, you've just described hacking!"
+         http://tinyurl.com/ff6r
+                         - as he's saying about everything these days
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         interminable GLASTONBURY sessions now provided with 26 hours to
+         overrun: http://www.glastonburyfestivals.co.uk/+soundandvision/+tv/
+         ... at the end of a string of beers, there is:
+         http://www.ntk.net/2003/06/27/nullbeer.png ... poorly chosen
+         domains are the new google typos: http://www.twatravel.com/ ...
+         ORDER OF PHOENIX now available on Web, reels MSNBC, notes that
+         1.8MB file is "about the size of a few digital music files":
+         http://www.msnbc.com/news/930285.asp?cp1=1 ... "discreet maths"
+         advised at Ncipher: http://www.ncipher.com/careers/jobs.html ...
+         STEVE JOBS announces G5 "twice as quiet" as G4. What, only
+         -3db? ... REGISTER flashes back to the Apple IIGS:
+         http://www.ntk.net/2003/06/27/doh16bit.jpg ... come now, they
+         don't look *so* bad: http://www.ntk.net/2003/06/27/dohgoogle.png
+         ... and google typos are to be merging with BBC mistakes:
+         http://www.google.com/search?q=site%3Anews.bbc.co.uk+%22name+here%22
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Kevin Burton's RSS aggregator NEWSMONSTER stomps towards 1.0
+         and a place as one of the first respectable Java 'n' Mozilla
+         cross-plaform apps. It sits in that barely-used Moz sidebar
+         and grinds through RSS feeds, spitting them out as local
+         HTML on an hourly basis. There are some kinks to being an
+         in-browser aggro: you sometimes wish you could pop that
+         sidebar somewhere more convenient. The semantics of a "read"
+         blog entry are a bit strained (entries don't dim like a
+         newsreader; their link changes colour like a browser). But
+         there are synergies, too: being able to subscribe to a feed
+         just by right-clicking on the page is great. Integration
+         means you can bang through your n^2 subscriptions that much
+         more quickly. And given Newsmonster is already sitting in
+         the kitchen sink, there's no harm in slapping in features
+         like Technorati and Feedster searches. The Pro version
+         ($29.95) currently gets you more the promise of ambitious
+         future featres than actual implementations right now -
+         mainly because Burton's not turned on his much-awaited
+         reputation system. But if you think of your payment as more
+         of a Streetperformer Protocol tip-on-future-development, it
+         seems a fair price.
+         http://www.newsmonster.org/
+                    - the source version is also the Pro version, btw
+         http://newsmonster.org/reputation.html
+                               - "micropayments: still in the future"
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         "Brandon Trinity hopes his songs bring a little joy to
+         everyone who listens": http://www.listentothefuture.com/ ...
+         top trumps for bad people: http://snurfer.org/cgi-bin/cctrumps.pl ...
+         two slightly distorted versions of the CD audio standard:
+         http://www.rcarter.34sp.com/oldfield/tubularbells2003.html ...
+         but who wins in a fight? http://www.illusionary.com/GNOMEvKDE.html ...
+         what is supposed to happen in the office when you go home:
+         www.divstivs.plus.com/iconwar/ ... camwhoring if you only have a pen: 
+  http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=2936199926&category=324i
+         ...  what *actually* happens in the office when you go home:
+         http://members.chello.nl/~s.ferris/images/Dsc00065.jpg ... let
+         the bitter internecine geek clan wars begin!: http://londongeek.org/
+
+
+                                >> GEEK MEDIA <<
+                               get out much less
+
+         FILM>> Eliza "Faith from Buffy" Dushku and friends run into
+         West Virginia's most meticulous Texas Chainsaw/ Deliverance
+         re-enactment society, in brutal woodland chase horror WRONG
+         TURN ( http://www.screenit.com/movies/2003/wrong_turn.html :
+         people jump from a tall tower into a nearby tree; people shoot
+         arrows at others, including some in a tree)... Jim Carrey bids
+         to be hailed the god of overacting comedy in BRUCE ALMIGHTY
+         ( http://www.capalert.com/capreports/brucealmighty.htm : this
+         movie has problems but cheapening of God and believers is NOT
+         one of them; [no] mention of God's Son nor any mention of our
+         need for redemption through the precious blood of Jesus)...
+         otherwise Laurence "Morpheus" Fishburne enters a Matrix
+         resembling an African-American version of "2 Fast 2 Furious" -
+         but on motorbikes - in BIKER BOYZ ( http://www.bbfc.co.uk/ :
+         contains single use of strong language and moderate violence)
+         ... and the full address of the killer website actually turns
+         out to be the - slashdot-inspired? - "www.feardotcom.com" in
+         long-delayed Natascha McElhone "The Ring" ripoff cyberbollocks
+        FEARDOTCOM ( http://www.screenit.com/movies/2002/feardotcom.html :
+         it's possible the film could inspire some kids to look for
+         websites that purportedly show live deaths or torture, etc;
+         another dead body shows bare breasts)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                     "of interest to at least four people"
+             http://www.livejournal.com/interests.bml?int=ntk.net
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

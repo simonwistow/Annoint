@@ -1,0 +1,286 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-03-24_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Portugal wants to create a common lexicon made up of a
+         set of keywords in different European languages. It seems
+         to be very concerned with the tech-slang of hackers, 
+         'such as for instance the use of the letter z in the end of
+         words by the hacker community (passwordz, gamez, crackz,
+         softwarez).' The ignorance of such mechanisms makes it, 
+         according to the document, 'an extremely hard task to 
+         achieve good results in the research'"
+  - the EU struggles with the use of encryption amongst cyber-terrorists
+        http://www.heise.de/tp/english/special/enfo/6672/1.html  
+    ...you know, wildcard technology is going to blow this scene wide open
+
+
+                                >> HARD NEWS <<
+                               if they only knew                 
+         
+         Like a supply teacher late for his first class, Charles
+         Clarke, Home Office minister in charge of Not Being Scared
+         by The Crypto Freaks, looked most put out by the giggling
+         during his speech at Wednesday's SCRAMBLING FOR SAFETY.
+         Whenever he tried to praise the work done by the experts in
+         the audience, the experts laughed - and not in a nice,
+         self-deprecatory way. And when he patiently answered the
+         question "how do you prove that you've forgotten your
+         password to your key, when failure to do so makes you a
+         criminal?" not once, but five times, everyone smiled like
+         goons. And excuse me, but *WHO* was snickering at the back
+         when I mentioned drug barons and terrorists? Sadly for
+         Clarke, most of the attendees had spent the half-hour time
+         while they waited for his appearance scurrilously sketching
+         out predictions of his key points. Chief among them: Talk
+         highly of the audience; dissemble furiously when asked about
+         the "forgot password? got jail" provisions, and whenever the
+         need for the bill was questioned, segue to the "Four
+         Horsemen of the Infocalypse" defence: to protect us all from
+         terrorists, paedophiles, drug dealers, and money launderers.
+         As it was, Clarke was lucky no-one shouted out "bingo!".
+         What makes it all the stranger is that much of the audience
+         weren't bear-like cypherpunks at all, but professionals
+         entrusted with tough security jobs in multi-billion pound
+         companies. Even more peculiar: when the opposition spokesmen
+         gave their viewpoints after Clarke vanished back to the HO,
+         everyone went quiet, looked increasingly surprised - and
+         even applauded at the end. Both Mr. Heald (Con) and Mr.
+         Allan (Lib) appear, in the space of two weeks or so, to have
+         got it. So there's a glimmer of hope that RIP might get
+         fixed after all.
+         http://www.stand.org.uk/
+                - blah blah blah read about RIP blah blah fax your MP
+         http://www.cyber-rights.org/documents/hc-rip2.htm
+                                       - because somebody's listening 
+          
+         This week, the Observer exclusively revealed the dark side
+         of "the underbelly of the Net" - USENET. Something, they
+         railed, should be done about it. It's good to see that
+         they've managed to maintain their level of indignation about
+         this whole "illegal material on the Net" shocker since their
+         last exclusive on the problem, back in August 1996.
+         Something was done then: among them the closing down of a
+         Finnish anonymous remailer - heavily used by the Samaritans
+         and support groups to protect their clients' anonymity. The
+         Observer's assertion that anon.penet.fi remailer was a den
+         of paedophiles depended on quotes from an "FBI investigator"
+         - who later turned out to be nothing to do with the FBI, but
+         a sergeant at a Californian sheriff's office. He strenuously
+         denied the viewpoints that the Observer ascribed to him.
+         This time, they claim that "Internet sources" - anonymous,
+         this time - revealed "over forty" newsgroups containing
+         illegal posts (but have yet to tell any of the authorities
+         what these groups are), and imply a sinister conspiracy to
+         keep them quiet between Demon and the industry's watchdog,
+         the Internet Watch Foundation - while forgetting to explain
+         exactly what advantage Demon and the IWF would have for
+         allowing illegal material to be propagated in the first
+         place. Actually, it's odd that the newspaper doesn't make an
+         explicit link between the two stories, given that they're
+         make exactly the same discoveries. Maybe that's down to the
+         fact that last time, they fingered Clive Feather, the Demon
+         newsmaster, as Britain's "pornographer in chief". Whereas
+         now, Clive's a board member of the IWF, and one of the few
+         people who could actually claim to be really doing something
+         about it. Rather than just sitting around, recycling the
+         same stories.
+ http://www.newsunlimited.co.uk/observer/uk_news/story/0,3879,148489,00.html
+                                         - not that we'd ever do that
+         http://hotwired.lycos.com/netizen/96/36/index4a.html 
+           - hey, maybe Declan can re-animate his Observer expose too
+        
+         D-Day for ADSL, as BT finally turns on broadband in the 400
+         selected exchanges ready for end of March, and the Great
+         Leap Forward. But BT's getting increasingly paranoid about
+         making any move that will knock their short term profits.
+         Even the "poor results" in last year's 3rd quarter has them
+         streamlining like crazy to please the City. That means
+         lowering the headcount: they're planning on losing 3,000
+         middle managers, and the company's has offered a full year's
+         salary to all management over the age of 59 if they retire
+         now. So what are the chances of those 1200 other exchanges
+         getting ADSL soon, given the technical difficulty of
+         offering it in remote areas and the nasty possibility that
+         widespread use will temporarily wipe out BT's lucrative
+         leased-line service? We wait with bated breath the release
+         of the full timetable...
+         http://www.bt.com/broadband/
+                         - although we advise not holding said breath 
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         god help us when they discover *pre-emptive multi-tasking*:
+         http://www.diskbooks.org/part1.html#hs1b10 ... MITNICK FLICK
+         smuggled out - in France!: http://www.cybertraque.com/ ...
+         Domain name not registered: killdando.co.uk ... MS "high on
+         management": http://www.ntk.net/2000/03/24/hashfile.gif ...
+         http://www.symantec.com/press/2000/n000321c.html - new
+         features in this upgrade... special "Mission Impossible" dept:
+         http://www.cia.gov/cia/employment/jobpostings/theatrical.htm
+         whois happygeek.com... 3 more IRIDIUM users than you thought:
+         http://dailynews.yahoo.com/h/nm/20000320/tc/iridium_norway_1.html
+         best "best viewed with" http://www.canda.com/ ... all very
+         amusing: http://www.fenn-den.co.uk - until someone clicks on
+         the "about us" link... post-show online chat for last night's
+         "video games violence" DISPATCHES makes at least one convert:
+         http://www.ntk.net/2000/03/24/c4chat.gif ... guy seems to know 
+         a *bit* too much about JILL DANDO: http://www.jilldandofund.com/ ...  
+        
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         And what nicer gift could there be for our UK "Mother's Day"
+         than your continued absence - because you (or your mother)
+         are in Boston for the second international GEEK PRIDE
+         convention (actually starts Fri 2000-03-31, hence the
+         advance warning). Music, technology and talking are all on
+         the agenda, with the usual gang of idiots (well, two core
+         NTK personnel, for a start - plus Keith "Tasty Bits" Dawson,
+         Rob "Slashdot" Malda, and Eric "Duck!" Raymond) - and for
+         any of you perhaps dissuaded by the early pre-publicity, it
+         now sounds like Jon Katz may not be attending after all.
+         http://www.geekpride.org/ 
+         - hey, Mother's Day and April Fool's don't coincide this often
+      http://www.brunel.ac.uk/research/virtsoc/text/events/GetReal.htm
+         - early registration for VR seminar too. "Get Real", indeed...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         You'd think the guys behind OPERA, the low-fat browser with
+         the funny low-slung URL box, would know enough not to fall
+         for the Law of Software Envelopment, wouldn't you? But
+         noooo. The new beta of 4.0 manages to squeeze HTML 4.0, HTTP
+         1.1, CSS1 & CSS2 and XML parsing onto the traditional 1.44MB
+         single floppy, then blows it all with an improved 300K POP
+         mail client which takes it over the limit. Oh, how could they?
+         http://www.opera.no/
+          - 25 days to really definitely seriously consider buying it
+         http://www.jwz.org/hacks/ 
+          - then grudgingly switch to watch Mozilla crash for free
+
+         
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         sending threatening emails to previous recipients via the
+         "back" button on DOME web terminals... countering usual press
+         comments that the X-Box is MS's "first venture into hardware"
+         by calling it the MSX-Box... http://fyl.xymox.net/sworigmi.htm
+         vs http://www.geekhaus.co.uk/toybox/trek.htm ... not that I'm 
+         *really* bitter http://www.ozemail.com.au/~ksolway/misogyny.html 
+         ... Windows DeCSS installs registry key under a key called MPAA
+         (HKLM\SOFTWARE\MPAA\DeCSS)... "right to life" imitates ONION
+         http://dailynews.yahoo.com/h/nm/20000320/zo/suicide_2.html ...
+         http://www.rconline.net/archiv-05/mig29/mig29.shtml - the MIG
+         they'd let Larry Ellison bring into the US... JAVA - with legs
+         - http://www.soda.co.uk/soda/constructor/ ... life imitates 
+         MCSWEENEYS: http://www.mcsweeneys.net/2000/03/23changes.html ...
+         ... sometimes nothing beats jamming a pair of scissors into
+         your crotch: http://www.armchair.mb.ca/~scissors/ ... one
+         Flash dude: http://download.theforce.net/stardudes.html ...
+
+         
+                                >> GEEK MEDIA <<
+                         the less rude http://www.tvgohome.com/ 
+
+         TV>> the increasingly odd-sounding OPEN MINDS slot (9am, Sat, 
+         BBC2) features Richard Dawkins, Tony "Mind Maps" Buzan, plus 
+         items on "cybersouls" and carbon dioxide... which may soothe 
+         you back to sleep if you've woken too early for Sky's later 
+         weekend showing of the persistently excellent fmv cgi STARSHIP 
+         TROOPERS: THE ANIMATED SERIES (10.30am, Sat, Sky1; 7.30am, 
+         Mon-Fri)... Keith Chegwin aptly introduces the TOP TEN REALLY 
+         ANNOYING RECORDS (8.55pm, Sat, C4)... followed by - ideally - 
+         a revival of Game For A Laugh's old "watching us, watching 
+         you" slogan in THE BIG BROTHER STORY (10.30pm, Sat, C4), re: 
+         the surprise Dutch webcam popularity-contest hit... in a weird 
+         "little book of" stab at modern-day relevance, a new series on 
+         Western PHILOSOPHY subtitles itself as A GUIDE TO HAPPINESS 
+         (7pm, Sun, C4) - can't wait for the one on Nietzsche... plus 
+         you can skip the rubbish ending of SPEED (9pm, Sun, C5) and 
+         still catch that cool twist at the end of THE USUAL SUSPECTS 
+         (10pm, Sun, C4)... Inspector Morse takes on his toughest 
+         villain yet - Adolf Hitler! - dressed as MONSIGNOR RENARD 
+         (9pm, Mon, ITV)... and Channel4 sets up a new kangaroo court 
+         to investigate both "criminal acts" in HATE CRIME (11.40pm, 
+         Mon, C4) and policemen who run over its own presenters in 
+         DISPATCHES (9pm, Thu, C4)... I POSED FOR PLAYBOY (11.10pm, 
+         Mon, C5) blurts out Lynda "Wonder Woman" Carter - here aged 
+         40... we still have a soft spot for Jim Carrey lawyer caper 
+         LIAR LIAR (8.40pm, Wed, ITV) - not just because it provided 
+         the start quote for NTK 1997-05-09... while Yorkshire-centric 
+         news spoof FOCUS NORTH (12.30am, Thu, C4) concludes with an 
+         all-new episode from the future, where our so-called "swear 
+         words" have lost much of their power to offend...
+
+         FILM>> perhaps even more controversial than the (censored?) 
+         performance of South Park's "Blame Canada" at the Oscars 
+         (apparently they *did* ask "that bitch" Anne Murray to sing 
+         it, but she declined), we can't find any reference on 
+         viewaskew.com to Kevin Smith slagging off Paul "Boogie Nights" 
+         Thomas Anderson's ultra-long Aimee Mann video MAGNOLIA 
+         (http://www.capalert.com/capreports/ : graphic fall injury; 
+         exceptionally hateful screaming; "I am firing pearls at you" 
+         when spouting boasts of sexual conquest; admission of adultery 
+         with oral sex and other sexual improprieties; insane 
+         mannerisms in aggression) - plus, after this, 2 Days In The 
+         Valley, Short Cuts, (and Boogie Nights as well) just what *is* 
+         it about LA's San Fernando valley and its residents' multiply 
+         intertwining lives?... apparently it's supposed to be a chick-
+         flick "One Flew Over The Cuckoo's Nest", but the prospect of 
+         Angelina Jolie and Winona Ryder running round a mental home in 
+         their pyjamas surely risks attracting quite a different 
+         demographic for James "Copland" Mangold's GIRL INTERRUPTED 
+         (http://www.capalert.com/capreports/ : sensual positioning; 
+         brief lower female nudity, front and back; teen girl 
+         unbuckling pants of teen boy to perform oral sex; incredibly 
+         arrogant aloofness about suicide; graphic suicide)... and 
+         Norman "Rollerball" Jewison returns for another look at 
+         sporting violence in overblown miscarriage-of-justice punch-up 
+         - based on both "The Inspirational True Story Of A Champion" 
+         *and* the Bob Dylan song of the same name - THE HURRICANE 
+         (http://www.capalert.com/capreports/ : exaggerated boxing 
+         violence; improper intimidation by police; multiple rear male 
+         nudity; a slime slug attempting to molest a child; three 
+         murders by gunfire with bloody detail) - again coming in for 
+         some criticism over "dramatic reinterpretation" of the facts, 
+         since fallen-from-grace '70s snooker star Alex "The Hurricane" 
+         Higgins was, in reality, neither American, nor black...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+            Registered at the Post Office as "Now that crazy's Knowledge!"
+           http://penn.netroedge.com/~mrt/cgi-bin/t.cgi?field=www.ntk.net 
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

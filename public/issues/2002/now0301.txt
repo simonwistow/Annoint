@@ -1,0 +1,322 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-03-01_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "The 54-year-old owner of an Apple PowerBook - festooned with
+         Grateful Dead bumper stickers - sat down to chai tea in his
+         rent-controlled apartment overlooking San Francisco. *Donning
+         black leather pants*, cowboy boots, a turquoise necklace and a
+         cell phone earplug, the self-declared 'techno hippie' talked
+         to CNET News.com about dot-communism, cattle ranching and the
+         hallucinations of the masses." [our emphasis]
+                              http://news.com.com/2008-1082-843349.html
+         - Oi, Barlow! Get your trousers on - the straights are here...
+
+
+                                >> HARD NEWS <<
+                                with interludes
+
+         Forget Bob Dylan, Tony Bennett, Billy Joel - the most moving
+         performance at this week's GRAMMY AWARDS came from old-time
+         crooner Michael Greene, President of the National Academy of
+         Recording Arts & Sciences, who waxed lyrical on the subject of
+         the "comfort, solace and sweet celebration" that "the power of
+         music" brings to the world. But then the lighting changed, the
+         backing switched to monks chanting over a gothic trip-hop beat
+         and, striding through the dry ice swirling across the stage,
+         Greene went on to rap about how he'd personally witnessed the
+         hood's darker side, where MP3 fans stole bands' livelihoods
+         "one digital file at a time" - it's "out of control and oh so
+         criminal", he wailed. The number ended with a cautionary tale
+         of three kids he knew who fell in with a bad crowd, downloaded
+         thousands of songs in a Morpheus binge, and are now presumably
+         in the custody of the relevant authorities. Tragically, we
+         don't have an audio recording of this potential floor-filler,
+         but if anyone out there does, wouldn't it make a great remix
+         anthem for our "World Wide Web/ of theft and indifference"?
+         Also, from the way things are going, it sounds like he might
+         just appreciate the royalties.
+         http://grammy.aol.com/features/speech.html
+         - been spending most my life/ livin' in a Napster's paradise
+         http://www.base58.com/booms/
+               - in accordance with last week's "Geek Media" prophecy
+
+         We always thought the biggest danger to placing WiFi
+         antennae on the roof was the pancake-shaped radiation
+         pattern of those darned omnis. Well, let this be a lesson in
+         perspective (and sadly, parallax). ROB FLICKENGER, 802.11
+         advocate and handy author of O'Reilly's "Building Wireless
+         Community Networks" nearly did a Rod Hull last week, falling
+         from two floors up while setting up a point-to-point net
+         link. He's out of the hospital now, but spent some time in
+         intensive surgery to fix some serious internal injuries. As
+         we all know, there's no Nutshell guide for that. "No amount
+         of bandwidth is worth your physical harm", say the O'Reilly
+         kids. We're not backtracking that far: but please do send
+         someone else up instead of you. You know what you're like.
+         http://www.oreillynet.com/cs/weblog/view/wlg/1124
+       - wouldn't happen to that Cringely chap. He thinks he can fly.
+
+         It's the retro game artifact you emulate on your printer!
+         After a hiatus of seven years, popular Commodore childish
+         thing ZZAP64 is back! A dot-for-dot prepress continuation of
+         the iconic eighties games mag, it would be churlish to
+         report that the hi-res file is over thirty megs (482,031
+         times more than the unexpanded 64 could handle) in
+         6502-unreadable PDF format. The point is perfect
+         verisimilitude. So, making their reappearance, good or bad:
+         Ken D. Fish and his "helper" - old Zzap editor Gordon
+         Houghton, POKE pages, caricatures of gurning thumb-raising
+         journalists, kneejerk dissing of Amiga and Spectrum users
+         who don't know the war is over, letters that conclude
+         that "Despite all the anti-aliased 3D flashiness of today,
+         there still isn't anything to touch Paradroid", and a very
+         senile White Wizard. New aspects to the magazine include
+         soft-erotica adverts for Emily "Bits" Booth's "memorabilia"
+         Website (presumably filling in for the absence of Miss
+         Whiplash), and over a dozen C64 fanatics who have
+         desperately fantasised about being on the Zzap contributor's
+         list for over a decade. In some ways, it's a bit like
+         watching Paul Darrow reprise Avon with no budget and a
+         ship-full of aging, grinning, Blake's 7 fans.
+         http://www.zzap64.co.uk/
+                                                - so that's okay then
+         http://www.thetoque.net/020226/pics/trs80mag.jpg
+                                                   - life imitates...
+         http://www.blakes7.com/
+                               - which of course is what Timelash was
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.webjemdesign.com/links.htm links to Emma Noble,
+         whois webjemdesign.com implies - is it *the* JAMES MAJOR?...
+         http://www.ctw.co.uk/ not updated for a month now - uh-oh...
+         all the professionalism you'd expect from the "Seach" field:
+         http://www.alljobs.co.uk/list_jobs.php3 ... "Like this BBC
+         Emergency Information Service page? Send it to a friend!":
+         http://www.bbc.co.uk/159/ ... best known for slaughtering the
+         opposition: http://www.ntk.net/2002/03/01/dohmilo.png ... ass
+         probed: http://www.ntk.net/2002/03/01/dohass.png ... hairy-
+         bellied YAHOO traveller goes on epic trek to find own navel:
+       http://eur.a1.yimg.com/eur.yimg.com/a/uk/travel/northtravel43.gif
+         ... classic spellcheck humour - but with a modern telco twist:
+         http://www.ntk.net/2002/03/01/dohho.png ... sod the ratings,
+         what do you make of all the Invalid Tags lower down the page?
+       http://www.half-empty.org/ideas/bd/0f/27/e1/d8/default_index.html
+         ... YAHOO NEWS ignores statute of limitations on dinosaur
+         crimes: http://www.ntk.net/2002/03/01/dohrex.png ... look,
+         could you just http://www.shutthefuckup.com/ about cheese?...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         LONDON 2600 appear to be tipping The Countryside Alliance to
+         win the hotly contested "Most Invasive Company" category at
+         Monday's BIG BROTHER UK AWARDS (from 6pm, 2002-03-04, the
+         LSE's Hong Kong Theatre, London WC2). This seems largely on
+         the strength of the pro-hunting lobby's enthusiasm for storing
+         the "Habits", "Sexual life" and "Criminal intelligence" of
+         current, past and potential offenders, competitors, students,
+         minors and anyone else they don't like the look of, right down
+         there at the end of their lengthy entry in the Data Protection
+         Register. Now, according to this online search facility, event
+         organisers Privacy International don't appear to have a DPR
+         entry themselves, so does that mean anyone can just turn up
+         and claim to already be on their list?
+         http://www.privacyinternational.org/bigbrother/uk2002/
+               - your Government Organisation is "Most Heinous", dude
+http://www.dpr.gov.uk/cgi-bin/dpr98-search.pl?Fieldname=countryside+alliance
+                       - go on, search for "Privacy International"...
+         http://www.london2600.org.uk/
+             - of course, some of us are more "potential" than others
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         And what will happen when the revolution comes, and all
+         those Windows users are put against the wall? More than was
+         bargained for, suggests DEAD MAN'S SWITCH. Distributed by
+         Ars "too platform-independent to last the dawn" Technica,
+         and written by Ars forum member Aryeh Holzer (no relation to
+         Jenny), this Windows service is the anti-cronjob. Once
+         configured, it'll sit in the background, and unless you
+         reset its clock every week (or month, or day, by your
+         command), it'll assume you've been offed and proceed to
+         encrypt incriminating files, send e-mail to friends,
+         relatives and enemies, and - of course - enter "Posthumous
+         Coward" postings to your favourite Web forums. This does
+         rather depend on your uptime being shorter than that of your
+         Windows server. But we can see to that.
+         http://daisyman.arsware.org/dms/
+                                          - by the author of CoolMon!
+         http://www.arsware.org/
+                     - how knowing is this whole "ars" thing, anyway?
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         I fancy your mum: http://www.figleaves.com/mothers_presents/
+         ... pay Rob Malda, or elope with http://alterslash.org/ ?...
+         make GAUSS RIFLEs for kids and soon only kids will have Gauss
+         Rifles: http://scitoys.com/scitoys/scitoys/magnets/gauss.html
+         ... can we have a "who the hell are either of them?" option:
+         http://www.aolwatch.org/annetteq.htm ... new IMAC = ultimate
+         joss-stick holder?... THE PAROLE OFFICER gets reception it
+         deserves: http://www.doyourecall.co.uk/ ... Grand Prix World
+         Championship company http://www.grandprix.com/ns/ns05715.html
+         maybe should have checked http://www.gpwc.com first... MS
+         Oxymoron: http://thinks.com/words/oxymorons.htm ... hang on,
+         what if all the job ads people have been posting are trolls?:
+  http://brightonnewmedia.org/pipermail/bnmlist/2002-February/002415.html ,
+  http://brightonnewmedia.org/pipermail/bnmlist/2002-February/002399.html
+         ... http://www.mobilespam.com/ ... the modern KEVIN WARWICK
+         family: http://www.miami.com/mld/miami/news/2654727.htm ...
+         ... no idea what PANASONIC are selling here, but we want one:
+      http://newtown.hi-ho.ne.jp/raibo/raidersei/image/agency/cm/mail.swf
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> according to billings, former-Wired-UK-reviewer-turned-
+         novelist Hari Kunzru is standing in for either Tom Paulin or
+         Tony Parsons (or both) on tonight's NEWSNIGHT REVIEW (11pm,
+         Fri, BBC2) - prompting Ray Bradbury to propose the destruction
+         of all literature in FAHRENHEIT 451 (1.05am, Fri, BBC2)...
+         Graham "Father Ted" Linehan's been written out of the new
+         series of BLACK BOOKS (9.30pm, Fri, C4)... and the only "Tim
+         Hyam" we could spot on Google writes for Global Investor
+         Magazine, probably a different one to the "webcam protester"
+         profiled on WATCH ME (2am, Fri, C4)... following another
+         showing of semi-"Star Wars" inspiration 633 SQUADRON (5.25pm,
+         Sat, BBC2), BBC2 celebrates the departure of all its ratings-
+         unfriendly serious documentaries to somewhere where even fewer
+         people will watch them, in a simultaneous transmission of the
+         launch of BBC4 (from 7pm, Sat, BBC2)... though you'll need
+         digital to catch dotcom disaster docu STARTUP.COM later in the
+         week (10.15pm, Mon, BBC4 KNOWLEDGE or whatever it's called)...
+         and ITV marks the occasion by scheduling one of its dumbest
+         line-ups of all time, kicking off with MR BEAN: THE ANIMATED
+         SERIES (5.50pm, Sat, ITV)... Sally "Fist Of Fun" Phillips is
+         reunited with Emma "Nostradamus" Kennedy in magazine-based
+         workplace comedy-drama RESCUE ME (9pm, Sun, BBC1) - still,
+         maybe it's a magazine about conspiracy theories and video
+         games... BBC2 uses critically-acclaimed realtime-gimmick US
+         action ratings-flop 24 (10pm, Sun, BBC2) as a lead-in for the
+         Christ-is-this-still-going? season 8 of THE X-FILES (10.45pm,
+         Sun, BBC2)... while Gene Roddenberry's posthumous ANDROMEDA
+         (4.45pm, Sun, C4) makes "Stargate SG-1" look sophisticated...
+         ITV2 takes on Paramount's early-evening "Seinfelds" with
+         repeats of the previous night's peerless LATE SHOW WITH DAVID
+         LETTERMAN (7pm, weekdaily from Tue, ITV2), as shown on CBS two
+         days earlier... hopefully someone will point out that she's
+         not the only person who can post "poems" to her site at some
+         point during WHEN LOUIS MET ANNE WIDDECOMBE (9pm, Tue, BBC2)
+   www.political.co.uk/annwiddecombe/gal.asp?ref=gal006.jpg&caption=SQUEEE!
+         ... and, to commemorate the long-postponed return of the ever-
+         appalling ATTACHMENTS (10pm, Wed, BBC2), here's one of Justin
+         "Mike" Pierre's earlier, more rigorously researched roles:
+         http://lavender.fortunecity.com/jerningham/437/ivar.html ...
+
+         FILM>>> Richard Gere and Laura "Congo" Linney don't trap the
+         monster by getting him to bash his head over and over again
+         against an enormous lightbulb, in daft "based on true events"
+         sixties-set extended-X-Files episode THE MOTHMAN PROPHECIES
+         ( http://www.capalert.com/capreports/mothmanprophecies.htm :
+         graphic eye injuries; disaster mayhem; female nudity behind a
+         steamy shower door; unholy presences; inexplicable stoppage of
+         all electrical devices; appearance of dead wife [Debra "Will &
+         Grace" Messing])... Kevin Spacey is so dour he expects Judi
+         Dench and Julianne "The Lost World" Moore to cheer him up by
+         telling "Newfie" jokes http://www.nfldproducts.com/jokes/ , in
+         weatherbeaten smalltown newspaper weepie THE SHIPPING NEWS
+         ( http://www.screenit.com/movies/2001/the_shipping_news.html :
+         [Cate Blanchett] shows some cleavage in several scenes; we see
+         most of her butt in her thong bottom, covered by transparent
+         fishnet stockings)... and Larry "Kids" Clark continues his
+         potentially unhealthy interest in teenage hi-jinks in real-
+         life "Wild Things" low-budget murder exploitation romp BULLY
+         ( http://www.cndb.com/movie.html?title=Bully+%282001%29 :
+         while most of the explicit nudity in this movie is female, the
+         camera spends a lot of time panning on the boyishly smooth
+         skin of the male stars; as [Nick "Disturbing Behavior" Stahl]
+         is being given a blowjob by Bijou ["Almost Famous"] Philips,
+         his butt is seen for an extended period)...
+
+         THE "VICTORIAN AFFECTATION">> in accordance with NTK prophecy
+         [2001-06-08], we can confirm that Greg Egan's SCHILD'S LADDER
+       http://www.amazon.co.uk/exec/obidos/ASIN/0575071230/needtoknow0e
+         marks an almost entirely satisfactory return to the superhard
+         humanist s/f of his previous masterwork "Permutation City",
+         but with bits of "The Fermata" and "Fantastic Voyage" mixed in
+         there as well. But try to avoid as many plot spoilers as you
+         can (like on the back cover); "This will be Greg Egan's
+         breakout book" the publishers fondly imagine, under the
+         impression that there's nothing a mainstream audience enjoys
+         more than two or three pages of made-up theoretical physics
+         before getting into the plot... "Permutation City" continues
+         to hang on in our bestsellers chart http://www.ntk.net/books/
+         which also features strong showings from Don DeLillo's "Who
+         will die first?" classic WHITE NOISE, Charlie Brooker's filth-
+         packed TV GO HOME, and the recently re-released "drug-crazed
+         Tolkien-parody" [NTK 2001-12-14] BORED OF THE RINGS, prompting
+         reader MARTIN BACON to point out that "[it] is not a parody.
+         It is a burlesque, and a pretty crude one. The whole point of
+         a parody is that you get well into it before realising the
+         original is being sent up, not have it rammed down your throat
+         on page 1 para 1. The authors admit this in the introduction,
+         when they say they could have written a parody but didn't"...
+         our favourite among the (ever-varied) multimedia purchases
+         threatens to be ME FIRST & THE GIMME GIMMES' "Are A Drag" CD
+       http://www.amazon.co.uk/exec/obidos/ASIN/B00000IPAQ/needtoknow0e
+         - on the strength of its Gnutella search suggestions alone -
+         as the band threaten to rival THE MR T EXPERIENCE with this
+         album of ska-punk covers of popular showtunes. Alan Moore is
+         well-represented by new graphic novel compilation TOP TEN and
+         his timeless THE COMPLETE D.R. AND QUINCH, though reader BEN
+         MOOR has now backed down from his blanket recommendation of
+         DARK KNIGHT 2, admitting that it's "bonkers" and pinning his
+         hopes on the eventual conclusion of Warren Ellis' MINISTRY OF
+         SPACE instead. And finally, proving that amusing Amazon reader
+         reviews aren't dead, they've just moved into other genres, DAN
+         CALLADINE was tickled by the entries for that noted "triumph
+         of post-instrumentalist cinema" BEN DOVER - ENGLISH PORNO
+         GROUPIES http://www.amazon.co.uk/exec/obidos/ASIN/B00004SPG3/
+         - praised for its "existential anguish" and "a twist not seen
+         since the Usual Suspects", and not imitating The Onion at all:
+         http://www.theonion.com/onion3544/ironic_porn_purchase.html ...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                    "now come the metafilter death threats"
+                http://www.sfbg.com/36/22/x_techsploitation.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

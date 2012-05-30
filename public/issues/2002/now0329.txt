@@ -1,0 +1,265 @@
+ __  __ _2002-03-29   _ _____ _  __
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! mail an empty message to
+| |\/| | | '_ \| |  \| | | | | ' /     o ntknow-subscribe@lists.ntk.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+         "Developing sites that adhere to standards, as opposed to
+         Internet Explorer, would be a boon for smaller browser
+         makers, but it could create enormous complications for Web
+         developers."
+                                 http://www.msnbc.com/news/729918.asp
+       - standards: making life so *much* harder for Web designers, and
+                          a living doddle for that local browser maker
+
+
+                                >> HARD NEWS <<
+                       i was sure that cave was cloosed
+
+         Good Friday: the only festival to satisfy MiniNTK's
+         elaborate requirements: a national holiday, a pagan
+         celebration, a pseudo-random placement, and a mystic five in
+         the fifth column of crontab(5). So while we drum ourselves
+         into a frenzy and gorge on the giant Wicker Creme Egg we
+         made (from the yummy wood of the Edward Woodward, no less),
+         we'll leave you, as tradition demands, with just the broken
+         crumbs of a newsletter, and one topical death/rebirth
+         analogy. In reverse order: the rebirth. Just who is seeking
+         to be reborn with her name changed to "Fuck" in order to
+         challenge the ownership of fuck.me.uk and therefore the
+         namespace pollution of the whole (fucking) .me.uk
+         hierarchy? Well, it's "Ms Fuck", obviously - but hats off to
+         that lady on the Nominet mailing lists if she follows through
+         with the plan. Somebody's got to protest against these
+         already-doomed PLDs!
+         http://www.abuse-of.me.uk/
+                                   - nothing there yet, but we'll see
+
+         And death? Well, it's probably wishful thinking, but you
+         know, there *are* times when we regret asking for those
+         unusually literal BBC illustrations. Still, rather than die
+         off, the torrent of submissions reached a new high when the
+         story "Net filters fail the children" was accompanied by
+         photos of a close-up cheese grater and a chicken. But just
+         to prove we're not on some sort of vendetta, we'd also like
+         to highlight a few other equally pioneering publications for
+         your puzzled appreciation. DAVID BURROWS nominated the harrowing
+         "What the?" surrealism of "How about now?" in The Economist:
+         http://economist.com/surveys/displaystory.cfm?story_id=949071 ,
+         numerous readers pointed to Salon's mock-amateur collages,
+         such as "Airline steward visits minature egg yolk refinery":
+       http://www.salon.com/tech/feature/2001/10/29/central_asian_oil/ ,
+         but this month's winner, nominated by SEB BACON, has to be
+         Hans Reiser's introduction to ReiserFS v.4, which looks pretty
+         much like any overview of a Linux high performance journaling
+         filesystem - if it had been designed by "The Lawnmower Man":
+         http://www.namesys.com/v4/v4.html .
+       http://news.bbc.co.uk/hi/english/sci/tech/newsid_1894000/1894561.stm
+         - so they didn't have any real breasts on file?
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Ah, we remember the fanzine HOAX, packed with stories like
+         pranksters printing up official-looking leaflets that appeared
+         to come from the local supermarket, saying "Fill Up A Trolley
+         And Get All Your Groceries Free!", and then posting them
+         through thousands of people's doors. There's another chance to
+         relive the heyday of public gullibility at STRANGE ATTRACTOR:
+         HOAX (7.30pm, Tue 2002-04-02, The Horse Hospital, London WC1,
+         UKP6), who'll be showing famed 1970s mockumentary "Alternative
+         3" - a conspiracy to transport the rich and powerful to secret
+         slave-built colonies on the moon. Of course, with its clumsy
+         jargon of "hot jobs" and "batch consignments", the film was
+         swiftly discredited: the population being systematically
+         exploited by a tiny elite of industrialists and politicians,
+         troublemakers being mysteriously "disappeared", a world on the
+         brink of environmental collapse - what kind of crank is going
+         to believe that?
+         http://www.strangeattractor.co.uk/talks.html
+                 - vs http://www.debunker.com/texts/alternative3.html
+         http://www.cric.ac.uk/cric/gamerz/
+                 - for real, apparently (ditto latest issue of Edge?)
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Like Charlie Brown and Lucy, we meet up with MOZILLA every
+         year around now, and attempt to test its character by
+         kicking its balls. Last year, we admitted that while time
+         had not mellowed it, it *had* made it appreciably less
+         sucky. This year - well, the tree (and the barn door) is
+         bolted shut for 1.0, and soon the great unwashed will see
+         what four years in the open source wilderness can do to a
+         codebase. If you haven't downloaded Mozilla in a while, do
+         so now before Netscape 6.X ruins the cool-facto. If you
+         don't care about Mozilla, download Galeon (for GTK et Unix)
+         or K-Meleon (for Windows), which now match other browsers
+         for features and speed, we think. Our only fear now is that
+         as soon as v1.0 gets out, AOL will thoughtlessly decimate
+         the Netscape-funded Moz staff, in the mistaken belief that
+         they'll go on to implement the cool 1.1 stuff - PGP, dynamic
+         fonts, calendar, and main branch support for the Pornzilla
+         "enhancements" - on welfare. Only if you give them a better
+         launch party this time, you Virginian dweebs!
+         http://galeon.sourceforge.net/
+                                                 - still looking good
+         http://kmeleon.sourceforge.net/
+                                        - even if we still like dillo
+         http://mywebpage.netscape.com/aufbau01/features.html
+- pornzilla: lot of promises, but looks much older than it made out
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "Lord Of The Rings" forms another easy target for the
+         dressing-up box "parodies" of FRENCH AND SAUNDERS EASTER
+         SPECIAL (9.30pm, Fri, BBC1)... a great weekend for fans of
+         mediocre movies kicks off when swearing Woody Allen fest
+         MIGHTY APHRODITE (12.10am, Fri, BBC2) is inexplicably
+         scheduled after Demi Moore dud THE SCARLET LETTER (10pm, Fri,
+         BBC2)... then Sat sees a 3-way non-collision between made-for-
+         TV Tony Parsons adaptation MAN AND BOY (9pm, Sat, BBC1),
+         Robbie-Williams-approved pseudo-self-loathing biopic NOBODY
+         SOMEDAY (9pm, Sat, C4), and BBC2 still flogging its latest
+         critically acclaimed ratings disappointment with three back-
+         to-back episodes of 24 (9pm, Sat, BBC2)... things improve
+         slightly on Sun - and we don't mean the Shatner-directed STAR
+         TREK V: THE FINAL FRONTIER (4.05pm, Sun, BBC2) - with DARIA
+         THE MOVIE: IS IT FALL YET? (12.45pm, Sun, C5), Patrick Stewart
+         Holodeck malfunction MOBY DICK (4.50pm, Sun, C5), and a
+         documentary face-off between the self-explanatory BLAST OFF:
+         DANGER IN SPACE (8pm, Sun, C5) and THE CENTURY OF THE SELF's
+         psycho-historical look at Wilhelm Reich, a major influence on
+         the work of Kate Bush and Hawkwind (8pm, Sun, BBC2)... Richard
+         Blackwood makes another bid for the "Worst Presenter Of All
+         Time" crown in BUFFY MEETS BLACKWOOD (9pm, Sun, Sky1),
+         followed by an "uncut" season 6 opener of BUFFY THE VAMPIRE
+         SLAYER (10pm, Sun, Sky1) - though it's hardly the unshown
+         pilot with the different Willow, is it?... the self-
+         referential teen-horror genre's a bit tired now, but the
+         Carpenter original's still a bit of a SCREAM (10pm, Sun,
+         C4)... and THE BIG BREAKFAST is replaced by early morning
+         showings of POPWORLD (7.15am, Mon-Fri, C4), FUTURAMA (8.30am,
+         Mon-Fri, C4) and ANGELA ANACONDA (7.05am, Mon-Fri, C4) - if
+         that doesn't bring in the viewers, what will?... the Zeta-
+         Jones nudity is merely implied in preposterous caper-romance
+         ENTRAPMENT (8.30pm, Mon, BBC1)... sadly, Peter "Darth Maul"
+         Serafinowicz doesn't play the alien who has sex with Dawn
+         French in appalling "Mork And Mindy" knockoff TED AND ALICE
+         (9pm, Thu, BBC1)... and there's another chance to see a couple
+         of films postponed in the wake of that terrible motorcycling
+         monkeys accident of a few weeks ago: CONGO (10.35pm, Thu,
+         BBC1) and the original ROLLERBALL (11.35pm, Wed, BBC1) - which
+         we still think the continuity announcer should introduce with
+         the catchphrase "They think it's all over - it is now!"...
+
+         FILM>> you know, there's something about Easter that just says
+         "vampire", isn't there, with Wesley Snipes, Luke "Bros" Goss,
+         Danny "Red Dwarf" John-Jules and Guillermo del "Mimic" Toro -
+         together at last! - in ultraviolent martial-arts sequel BLADE
+         II ( http://www.screenit.com/movies/2002/blade_2.html : TENSE
+         FAMILY SCENES: Nyssa becomes disappointed in her father, the
+         vampire overlord, particularly when he indicates he's not
+         above sacrificing her for the long term good of all vampires)
+         ... unless she's being unusually metaphorical, Britney Spears
+         does not appear to have remade either the 1986 Steve Vai
+         Devil-Went-Down-To-Georgia road movie or the Birmingham-set
+         ITV soap opera of the same name in feelgood girl-teen frolic
+         CROSSROADS ( http://uk.imdb.com/Goofs?0275022 : When [Spears]
+         exits the shower with a towel wrapped around her, her bra
+         strap is showing above the towel)... and Spielberg may have
+         digitally erased the guns, but he's left in all the friendly-
+         grey propaganda for the rerelease of ET THE EXTRA TERRESTRIAL
+         ( http://www.capalert.com/capreports/et-20thanniv.htm : five
+         uses of middle school locker room language; adolescents
+         yelling at their mother, ignoring her, lying to her, sneaking
+         out, etc. and another trying to touch her posterior; E.T.
+         shares a variety of new things with the kids, including his
+         power to levitate. I am not going to get into a debate about
+         the evilness of levitation)...
+
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED
+         AS GOOFS">> thanks to everyone who mailed in translations of
+         that goofy socialist realist Panasonic ad [NTK 2002-03-01]:
+    http://newtown.hi-ho.ne.jp/raibo/raidersei/image/agency/cm/mail.swf .
+         "It's for an ISP", confirmed DOMINIC AL-BADRI, editor of
+         Kansai Time Out, while ELLIOTT NOEL provided a blow-by-blow
+         account in authentic fractured English: "Hi Ho, Hi Ho [you've]
+         recieved mail! Hmph - that great/famous... [as the purple bear
+         walks by] Suddenly [be] connected... Situation support... The
+         old woman next door has even made a debut... made a debut!"
+         What's more, "Go up a level", advised PADDY ROBINSON-GRIFFIN
+         http://newtown.hi-ho.ne.jp/raibo/raidersei/image/agency/cm/ -
+         where there's a entire directory of the cheeky little
+         bastards... almost as alarmingly, our next most popular
+         correspondence was the firefight over CAM WINSTANLEY's
+         confident assertion that Ali G's poster weapons were
+         "definitely not the Heckler and Koch MP5" [NTK 2002-03-22], as
+         L MAGUIRE, ARTHUR WYATT and JOHN PATE all weighed in with the
+         conflicting opinion that they almost certainly *are* H&K MP5K
+         PDWs: http://www.remtek.com/arms/hk/mil/pdw/pdw.htm . In his
+         defence, Winstanley claims that the jpg we sent him wasn't
+         very clear, and that "the modular nature of 9mm sub machine
+         guns means that it could easily be a modified version". He now
+         admits the error - he "could have sworn that they weren't MP5s
+         since the distance from the mag to the end of the barrel is
+         way too small, but the icons on the fire selector switch tell
+         a very different tale"... once again, it was our international
+         readers who leapt to the defence of Norick Abe's charity
+         auction: http://www.ntk.net/2002/03/08/dohmoto.gif - PAUL DEUS
+         from Belgium revealing that "It is very common in the long-
+         suffering countries that can be cut off from the UK by fog in
+         the English Channel to use commas and decimal stops the 'wrong
+         way round': 4.794 = 4 thousand and 794 Euros, 4,79 = 4 Euros
+         79 cents. Mind you, since the Euro is so weak against
+         sterling, neither of the above is worth thruppence-ha'penny in
+         real money anyway". MARTIN WARD spoiled another of our
+         favourite jokes by noting that "Msn.co.uk thinks that the
+         first sentence ends at the first full stop (or decimal point).
+         So any story about ?x.xx million will have 'missing millions'"
+         - http://www.ntk.net/2002/02/15/dohpound.png , for instance.
+         And SIMON BLAKE asked us to stop using PNGs and go back to
+         GIFs, so we have - patents be damned... and finally, JOF
+         spotted that Microsoft have recently renamed their "Critical
+         Update Notification Tool" [NTK 2002-02-22] to the somewhat
+         more acronym-friendly "Critical Update Notification Utility":
+    http://support.microsoft.com/directory/article.asp?ID=KB;EN-US;Q224420
+         - while, in keeping with this week's international theme,
+         "I'm in Iran and blogging as I go - woohooo", chortled BEN
+         HAMMERSLEY via our "email a meme" submissions form, also
+         noting that "it also seems you're not censored by the Iranian
+         web filters. Must try harder!" Oh we will, Ben. Oh, we will...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "'could impose a fee', yet stubbornly refuse to"
+                   http://writetheweb.com/read.php?item=125
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

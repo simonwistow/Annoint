@@ -1,0 +1,314 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-03-26_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "I have the equivalent of a PalmPilot installed neurally."
+                           - ERIC S RAYMOND, New York Times, 1999-03-25
+               ...although I wouldn't like to say where it was inserted
+                                    
+       *** STOP-PRESS TRIBUTE ISSUE: GOOD LUCK IN YOUR NEW JOB, jwz! ***
+                                            
+                                    
+                             >> HARD NEWS <<
+                             collecting dues
+                                    
+         It was only a matter of time before requests to "whois
+         internic.net" met with the reply: "We're NETWORK SOLUTIONS.
+         Who the hell are you?". This week, NSI did the next best
+         thing. Visitors to the previously neutral (and useful)
+         Internic site were redirected to networksolutions.com, NSI's
+         commercial site - not at all the sort of thing that Eugene
+         Kashpureff faced 5 years' jail for [NTK 1997-11-07].
+         Remarkably, the usual locations for ftp'ing registration
+         forms, accessing the whois server, and generally doing
+         anything useful without paying for the nose for it, vanished.
+         Reactions from the sysadmins on NANOG list were predictably
+         withering: given that the Internic was a US government
+         trademark, suggested one, couldn't they sue NetSol for domain
+         squatting? And if this is what they do when they're being
+         public-spirited, imagine what they're going to be like when
+         their monopoly ends, and they're going to have to start
+         *competing*.
+         http://webdeveloper.com/noname/noname_032599.html
+           - careful what you say - whois knows where your office is...
+         http://www.cctec.com/maillists/nanog/current/maillist.html
+                                    - NANOG mumbles as loud as they can
+         
+         We could probably grab some much needed kudos from *not* being
+         invited to Monday's closed-doors meeting between civil rights
+         campaigners and ISP orgs - given the LINX's rather pointed
+         comments in the invite about unhelpful muck-raking
+         journalists. Sadly, we *were* invited, but overslept. The
+         deliberations were covered by "Chatham House Rules"
+         (translation: we'd have to append "but I couldn't possibly
+         comment" to every quote people sent us), but we *can* report
+         that it seemed a darn sight friendlier than the next day's
+         SCRAMBLING FOR SAFETY. There, the annual DTI Spokesman Gets
+         Chewed Up And Spat Out competition smashed even previous
+         year's records, and various mauled civil servants broke with
+         tradition to say that it *wasn't* their fault that the crypto
+         proposals were late/wrong/deluded or mad. No, it was everyone
+         else's fault for whinging too much. And they're not late/
+         wrong/deluded/mad, they're just "under consultation", and thus
+         eminently fixable. Until next week, that is, when the April
+         1st deadline passes, and the government representatives begin
+         an entirely new phase of going "Wah Wah Wah! Not listening!"
+    http://news.bbc.co.uk/low/english/sci/tech/newsid_302000/302233.stm
+                              - thank god TV's Chris has an alarm clock
+         
+         Usually we'd be tempted to side with plucky Essex online girl
+         band AOL GIRLS - currently pursued by America Online for
+         inadvertently appropriating their subscribers' popular search
+         term (and clarion mating call?). After all, both The Guardian
+         and BBC Online were convinced that the Girls' $9.95 monthly
+         membership ("discreetly appears" on your credit-card statement
+         as "DMR") offers merely "Exclusive Pics" and "Saucy Secrets",
+         rather than, say, some dodgy porn scam. However: a quick visit
+         to "Dr whois" shows aol-girls.com is owned by obvious domain
+         speculators photoagency.com - also behind adolfhitler.com,
+         18andnew.com, nazigirl.com - while AltaVista reveals the
+         Stalin-esque "disappearance" of three previous members,
+         apparently after "animal sex", "big tits", and "nasa starcraft
+         movies" appeared in their <meta> tags.
+         http://www.aol-girls.com/girlcarly/carly.html
+                - that guy who wrote moaning about our "adult links"...
+         http://www.aol-girls.com/sarah/sarah.html
+                               - ...please don't "View Source" on these
+http://www.guardianunlimited.co.uk/Archive/Article/0,4273,3839669,00.html
+                 - Did they test the $9.95 subscription? Did they hell.
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_301000/301543.stm
+             - E17's Tony Mortimer was "head of music" at their school?
+                                    
+                                    
+                             >> ANTI-NEWS <<
+                           special IE5 edition
+                                    
+         "Internet To Change The Face Of The PC World", reports
+         LYCOS... UK ONLINE goes free... IE5 "smart search" goes to
+         http://auto.search.msn.com/default.asp - NT4 Option Pack
+         default page... "One in Five US Households Is Convergent",
+         finds SHOWTIMEONLINE - that's "convergent" defined as
+         "simultaneously accessing the Internet and viewing
+         television"... DEMON compo discriminates against non-IE5
+         users: http://www.demon.net/win/ie5/ (well, only ones who
+         don't use "View Source")... THE EDITOR's favourite titlebar
+         typo: http://www.libertynet.org/artguide/new.html ... no, we
+         meant the resignation of Virgin Net MD DAVID CLARKE - not the
+         car crash guy... John Sculley uses PALMPILOT... (temporary)
+         MEDIA JUSTICE!: http://www.ntk.net/doh/pin990326.jpg ...
+         BECKS "pull out half way through" sponsorship of QUEER
+         AS FOLK... IE5 mail filters NINFOMANIA as "junk", NTK as
+         valid - oh well... Brit ROYAL FAMILY still use Apache/1.2b7
+   http://www.netcraft.com/cgi-bin/Survey/whats?host=www.royal.gov.uk
+                                    
+                                    
+                            >> EVENT QUEUE <<
+                      goto's considered non-harmful
+                                    
+         "3 solid days of LAN Quake gaming" is the Wireplay-sponsored
+         promise of bring-your-own-PC party INSOMNIA '99 (from 9am Fri
+         today, in an "old Army theatre" outside Bicester Army Base,
+         UKP40): not just Quake 2 but also Starcraft, Quake World, and
+         Total Annihilation - a bit like a Scandinavian demo party but
+         without all that late-night video projection and last-
+         minute coding nonsense. Speaking of which, Norway's THE
+         GATHERING (from Wed 1999-03-31, The Viking Ship, Hamar, NOK
+         425) is of course the real thing: 5 full days of Quake, Quake
+         2, Half Life and Starcraft leavened with the very cutting
+         edge of Amiga / Commodore 64 / BeBox apologists. Insomnia has
+         a bar, alcohol is forbidden at The Gathering ("We don't have
+         any minimum age requirements, but we expect attendees to be
+         able to feed themselves"); both ban "water boiling equipment"
+         so nor will you be able to survive on melted snow. Hell, go
+         to both and make an 10-day session of it.
+         http://www.multiplay.co.uk/insomnia/
+           - programme: "Bar opens", "Bar closes", "Bar opens" (repeat)
+         http://www.gathering.org/
+          - Last year we tipped Amiga winners Nerve Axis UK. As a joke.
+                                                  
+                                    
+                             >> TRACKING <<
+                     look what the mouse dragged in
+                                    
+         "Yes, it's buggy and slow and awkward but IT'S JUST SO
+         COOL", gushes our favourite browserwatcher about the new
+         "dogfood-ready" Mozilla release, SeaMonkey. The work-in-
+         progress browser from Netscape is *just* about usable, and
+         beta-victims everywhere now have a smashing new opportunity
+         to crash their machines in the pursuit of open source quality
+         control. Is it worth it? Well, our correspondent writes: "It
+         took me five minutes to work out how to add a button with my
+         face on it to the main toolbar. I guess you can do a lot of
+         this customisation stuff with IE5 .hta's as well. BUT THEY'RE
+         NOT AS COOL." Further fun lies in writing informative yet
+         bitingly sarcastic bug reports to Bugzilla, especially when
+         you get e-mails back with Netscape's engineers equally bitchy
+         comments appended. Now *you* could "be" jwz!
+       http://www.mozilla.org/quality/bug-writing-guidelines.html [sic]
+                        - hope Microsoft don't subpoena these mails too
+         http://www.eeggs.com/pc/apps/egg_412.html
+                       - hmm. plenty bitching fun over the IE5 codebase
+         http://cinepad.com/mslex.htm
+         - "eating your own dogfood": lovely imagination, those MS boys
+
+                                    
+                             >> MEMEPOOL <<
+                           hasta la altavista
+                                    
+         http://www.rodhull.com/ ... ARMY (ever topical) to launch
+         "range of branded clothes"... GREG EGAN'S Teranesia... PLANCK
+         FROTH... PIRACY hurts fans as well as studios - just another
+         good reason for it: http://saginaw.simplenet.com/rrmvpira.htm
+         ... PALMPILOT beam spamming... LINEONE moving from Wapping to
+         Covent Garden - literally *and* metaphorically?... WHEN
+         BASTARDS ATTACK, pt2: http://www.spacebastards.com/vote ...
+         WINSTAR snag 38GHz, plan wireless broadband rollout in London
+         this year... can ANYONE work http://www.smallfish.co.uk ?...
+         fake "Vonnegut" SUNSCREEN speech now a major US dance hit...
+         Clash tribute album BURNING LONDON... new, beard-free PR:
+         http://pringle.oaktree.co.uk/~jbaker/pics/0wn.jpg ... call
+         the COPS: http://warhammer.mcc.virginia.edu/cars/radio.html
+         ... well, have *you* seen any official merch with THE PHANTOM
+         MENACE printed on it? Ahhhh... WATCHMEN coming true at last:
+ http://www.msss.com/mars/global_surveyor/camera/images/3_11_99_happy/
+                                    
+                                    
+                            >> GEEK MEDIA <<
+                              get out less
+                                    
+         TV>> noted non-geek Janet Street-Porter pursues a totally un-
+         obsessive 350 mile walk in a (largely) straight line,
+         helpfully titled AS THE CROW FLIES (8pm, Fri, BBC2)... Steven
+         "Press Gang" Moffat wrote this MURDER MOST HORRID (9pm, Fri,
+         BBC2), which may make Dawn French's constant mugging more
+         tolerable... and following When Eagles Dare three weeks ago,
+         Friday is Eastwood WW2 night again with zany tank heist caper
+         KELLY'S HEROES (10.30pm, Fri, BBC1)... oh, cruel fate that
+         saw Kubrick die merely *weeks* before a major BBC2
+         retrospective of his work: in particular, DR STRANGELOVE
+         (10.35pm, Sat, BBC2) hasn't been on terrestrial since the far-
+         off days of last November... anyone who didn't get the
+         "SkyNet" gags in NTK 1999-03-05 is advised to pay attention
+         this time to THE TERMINATOR (9.05pm, Sat, ITV)... DEADLY
+         INVASION: THE KILLER BEE NIGHTMARE (9pm, Sat, C5) isn't a
+         sensational "When Insects Attack" docu but just the start of
+         many dreadful looking monster movies - culminating in non-
+         Alan-Moore Heather Locklear GMO parable THE RETURN OF SWAMP
+         THING (9.55pm, Sun, C5)... and no wonder Arlington Road's
+         Jeff Bridges is paranoid after Tommy Lee Jones's Mousetrap-
+         inspired IRA bombs leave him feeling BLOWN AWAY (12midnight,
+         Sat, ITV)... Sandra Bullock's THE NET (10pm, Sun, C4) creates
+         a more convincing sense of social isolation than it does of
+         lethal hacker-viruses - largely by not casting any other
+         characters... post-Reboot CGI romp SHADOW RAIDERS (nee "War
+         Planets") shows twice every day this week (10am; 4.30pm, Mon-
+         Fri, SkyOne)... and god, not the rubbish Abel Ferrara version
+         of BODY SNATCHERS *again* (10pm, Mon, C4)... psychic animals
+         rescue humans, redecorate each other's homes in predictable
+         cross-genre combination SUPERNATURAL (8.30pm, Tue, BBC1)...
+         remember the '70s? weren't they *hilarious?* inquires hideous
+         New Romantic comedy HUNTING VENUS (9pm, Wed, ITV) - unlikely
+         to touch those excellent TOP TENS (9.30pm, Sat, C4)... while
+         mock-French restaurant chain Pierre Victoire's appearance on
+         TROUBLE AT THE TOP (9.30pm, Wed, BBC2) confirms suspicions of
+         diners who thought their "3 course meal for 5.95" offer was
+         slightly too good to be true...
+         
+         FILM>> of course, cuddly monster movie MIGHTY JOE (MPAA:
+         Rated PG for some menacing action violence and mild language)
+         really does need a surname to avoid confusion with MEET JOE
+         [BLACK] - see NTK 1999-03-19 (the largely appalling CineZine
+         argues Joe shouldn't be forced to use the "slave name" of his
+         human "wife", Charlize "2 Days In The Valley" Theron)...
+         whatever the X stands for in vicious message-heavy Romper-
+         Stomper-inspired skinhead saga AMERICAN HISTORY X (imdb:
+         based-on-novel / neo-nazism / racism / white-supremacists),
+         it doesn't seem to be the removed credit of director Tony
+         Kaye (and no, you don't need to have seen American History I-
+         IX to understand it)... those who prefer their violence a
+         little more morally motivated should cheer Mel Gibson's semi-
+         comic table-turning Point Blank-remake PAYBACK (imdb: robbery
+         / money / narrative / revenge / doublecross / based-on-novel
+         / prostitution / black-comedy / twist-in-the-end / pickpocket
+         / blood / s&m / drugs / crooked / organized-crime /
+         kidnapping / torture) - re-teams Mel with Conspiracy Theory/
+         LA Confidential writer Brian Helgeland (who Mel then fired),
+         plus Deborah Kara Unger from "The Game"... NTK's pre-school
+         readers will know that nappy-filling golden shower THE
+         RUGRATS MOVIE (imdb: based-on-tv-series / kids-and-family /
+         sequel) picks up from the end of season 7 cliffhanger to
+         extend many of the major plot arcs previously raised in the
+         Rugrats "mythos" - but is it showing with the "CatDog" short
+         as seen on US screens?... and no Oscars but plenty of
+         exposure for more gay, less camp version of "Ed Wood" GODS
+         AND MONSTERS (imdb: not to be confused with "The Crow 3:
+         World of Gods and Monsters") - a more sensitive look at
+         horror films and unrequited love than the same director's
+         "Candyman II: Farewell to the Flesh"...
+         
+         MUSICAL THEATRE [WITH YOUR HOST, THE "BUTCHER OF BROADBAND",
+         CHARLIE BROOKER] - Review of Virus The Musical, as requested
+         in NTK 1999-03-05: SAM FOX was "indisposed" and replaced by
+         her understudy. JACK WILD - Artful Dodger in the 1968 movie
+         of "Oliver!" - plays a mouse. He has to wear a costume with
+         two buttons on his chest. His arse is the rollerball. He does
+         a little jig and sings a song called "Double Click". There's
+         another song called "You're Going To Get Your Interface
+         Kicked In" and a touching sequence in which a 3.5" floppy
+         sings of her unrequited love for a hard drive... in one early
+         scene, a character explains the advantages of file
+         compression; adult dancers in silver catsuits ("files") climb
+         into a mysterious box-like machine, and reappear through a
+         hole in the base - as children. "FILE MANAGER" and his
+         cronies go on to sing about the joys of conserving hard disk
+         space. By this point I was slack-jawed with astonishment,
+         like someone watching the opening sequence of Saving Private
+         Ryan for the first time... the programme includes a glossary
+         of computer terms "for the unsure, the uninitiated, and
+         parents", and peppered with typos ("countrys", "Chernobyll",
+         "beetamax", "miniturized"). I sat in on a matinee and was
+         surrounded by schoolchildren who seemed to be enjoying
+         themselves. Still, they were probably all on crack or
+         something... to cap off the weirdness, it's all being backed
+         by LEE TAYLOR-RYAN, the guy who won 6.5m on the lottery, then
+         had to serve time for dealing in stolen cars. He was
+         apparently so impressed by the cast's "will to succeed" that
+         he agreed to save the show from financial apocalypse. There
+         is currently no news of their planned "national tour"...
+         [ Hear Charlie's audio report about 7 minutes in - plus our
+         other shared obsession, those sexy, sassy AOL Girls - at
+         http://www.bbc.co.uk/radio1/onair_extra/media/digital.ram ]
+         
+         [ This review appears in place of our scheduled Richard
+         Stallman report by NTK's full-time Katz-hater, which was so
+         darned heartfelt we couldn't bring ourselves to cut it:
+         http://www.dejanews.com/[ST_rn=qs]/getdoc.xp?AN=459219329 ]
+                                    
+                                    
+                            >> SMALL PRINT <<
+                                    
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "like Wired in its early days"
+                    (overheard in Guardian New Media Lab)
+
+
+                                NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                           but retain SMALL PRINT.
+
+           Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+

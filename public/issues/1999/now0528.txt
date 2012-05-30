@@ -1,0 +1,329 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-05-28_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "Slurping a bowl of tortilla soup in a Dallas restaurant,
+         Romero is fed up with the criticism. Daikatana will give
+         fans an 'awesome' ride through 4,485 years of human history,
+         he says."
+     http://www.nytimes.com/library/magazine/home/19990523mag-keegan.html
+                                        ...what, until it's released?
+ 
+
+
+                                >> HARD NEWS <<
+                                obtaining clues
+
+         So, *are* BT going to introduce free weekend calls for Net
+         users? And would they be so cheeky as to announce it on the
+         weekend of the Trans-European Net Strike, 1999-06-06? Well,
+         something weird's going down, that's for sure. The telco who
+         says it's good to talk (because actually doing anything for
+         once might derail up the gravy train) is behaving verrrry
+         strangely. From hemming-and-hahhing just months ago about
+         ADSL, they've gone to shipping out truckloads of the tech.
+         And from the standard bleating that "Oftel wouldn't like
+         it", they're planting rumours of limited free local calls to
+         everyone but the supposedly all-powerful regulators. "We did
+         an internal report", we hear BT people say, "and realised
+         we must devour our own business before someone else
+         does": words previously uttered only by readers of Fast
+         Company and unhygienic paranoid schizophrenics. So, what's
+         better? A sedentary BT that we can all complain about? Or
+         the unedifying site of watching a tripping Buzby eat itself
+         whole rather than have anyone else in on the action?
+         http://www.theregister.co.uk/990528-000011.html
+                                                          - feel sick
+         http://www.unmetered.org.uk/
+            - what we want? Oh, ta! When did we want it? Now? Cheers.
+
+         Also partaking in the clue lucky dip, that CABINET OFFICE
+         unit set up to provide solutions to the government's crypto
+         mess [NTK 1999-03-05] doled out its recommendations on
+         Wednesday. Sense prevailed - to a point. Key escrow nutty,
+         stop now: check. Key warrants to be signed by Home Secretary or
+         other big time politician, rather than just your friendly
+         local copper: check. "The onus is on the recipient of a
+         disclosure notice to prove to the authorities that the
+         requested keys or plaintext are not in his possession" -
+         uh, hello? They're going to try and draft a law where you
+         have to prove you *don't* have something? "I have forgotten
+         my passphrase". Prove it. "There are no files concealed in
+         my pornographic photograph collection". Prove it. "I am not
+         guilty". Prove it. Prove you're not guilty.
+         http://www.cabinet-office.gov.uk/Innovation/1999/encryption/
+           - exciting, colour PDF file with intro from Prime Minister
+         http://www.ntk.net/tony/
+         - from which we extract more fresh sigs. Prove it ain't his!
+
+         "Throwing another book on the barbie", is how the
+         Australian's are describing their government's ingenious new
+         Net censorship law, which perceives the Internet as
+         pornography, and roots around futilely trying to stop it.
+         We'll just stick to the usual fun, pointing out that among
+         the sites that Australia will miss out on will be BUGTRAQ
+         ("detailed instruction in: matters of crime"), Anonymiser
+         (because you'll be able to reach the whole Web from there),
+         any shell account on any non-Australian machine (ditto),
+         Google (cached pages), and Altavista's Babelfish (can access
+         banned pages - and they'll sound even ruder in French).
+         http://www.aph.gov.au/hansard/senate/commttee/s-it.htm
+                   - what do we have to do to get banned around here?
+
+         We didn't put a link to Duncan Campbell's Echelon report in
+         last week's issue. Either that, or it was taken out en-route:
+  http://www.iptvreports.mcmail.com/interception_capabilities_2000.htm
+           - Cue that ANSI Twilight Zone theme we mentioned last week
+         http://www.textfiles.com/art/twilight.vt               - Ta.
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         FREESERVE mailserver down (fortunately, everyone too ashamed
+         to use their freeserve mail account anyway)... AOL user
+         tries to sell 8 year-old daughter online: doesn't have sense
+         to try Ebay http://www.denverpost.com/news/news0525l.htm ...
+         MS OUTLOOK can't even remember when US Memorial Day is...
+         AMAZON return anti-Scientology book "A Piece of Blue Sky" to
+         catalog: sales put it in Amazon's top 200... USENET2 dying
+         ... people get angry with their computers, blame BILL GATES,
+         GOD, uncovers survey... official FREEDOM OF INFORMATION ACT
+         proposals are corrupt and unreadable (and that's just the
+         PDF file!)... google touted as "the next best thing to the
+         CIA" - best not to use it to find embassies then ... BARBRA
+         STREISAND addicted to day trading: stocks collapse ... "why
+         will criminals use government-supported crypto?", asks a US
+         congressman; WILLIAM REINSCH, govt. crypto spokesman: "Never
+         underestimate the stupidity of some of the people we have to
+         deal with"... wrong kind of tunnelling on the line:
+         http://www.ntk.net/doh/19990525railtrack.gif ... this week's
+         winner on the http://www.cynicalbastards.com/wankometer/ :
+         http://www.imc.com with an astounding 9.79... uniquely
+         timely: http://www.ntk.net/doh/19990525xstream.gif ... BBC's
+         WATCHDOG complains about games needing patches: often
+         runs its own - from the Press Complaints Commission...
+         
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         If you've been putting off revisiting the regular 2600
+         monthly meetings until you've found the perfect rollerblades
+         and mirrorshade combo, it may be time to cut to the chase.
+         Next Friday (1999-06-04) is international FREE KEVIN day,
+         and Mitnick symps from Moscow to Spokane will be rallying,
+         somewhat futilely, outside court houses and embassies to
+         protest. New York gets "Free Kevin" skywriters: no such
+         luxuries for the London and Manchester 2600 meets, who'll
+         have to swim over and wrestle him out of prison with their
+         bare hands.
+         http://www.KevinMitnick.com/news-040499.html
+                                          - yep, he's still in prison
+         http://www.2600.com/demo/index.html
+                                    - yep, there are still 2600 meets
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         Talking of which, here's a mail from John Drake, aka 
+         smiling Mark Bennett, erstwhile editor of 1993's leading
+         cyberpunkzine, Black Ice (issues still available). Mark's
+         branched out into other media since those heady days: mainly
+         the new 2600 T-Shirt, for which he needs scans of old
+         newspaper hacking headlines to spruce up the rear. If you or
+         your solicitor have kept "Freshly born child could have
+         brought ASDA to its knees"-stylee headlines, get in touch.
+         Mr T is on blackice@pavilion.co.uk. Scanning protocols follow.
+         http://www.deja.com/=dnc/getdoc.xp?AN=480963509
+                 - and no forgeries! Oho. Put the idea into your head
+
+         Many of you e-mail us - oh, thrice a day tops - to suggest
+         that we repackage NTK so that you can read it on your
+         Pilots. A few of you may have received our standard reply
+         that we cannot do that because we're going bowling now.
+         Well, we also serve Open Source, we who bowl and wait,
+         because it's exactly that kind of offhandishness that
+         encouraged Justin Mason to write his excellent SNARFNEWS
+         program. Snarfnews grabs NTK, parses it into a Palm DOC
+         file, and squirts it into your Palm, all in one tidy Perl
+         script. Win and Unix supported - as are a bunch of other
+         sites that we never look at or nick links from, including
+         http://tbtf.com/ , http://www.robotwisdom.com/ ,
+         http://lwn.net/, and any RDF-supporting site..
+         http://www.clubi.ie/jmason/software/snarfnews/
+                    - must be annoying to see these URLs on your Palm
+         http://www.users.dircon.co.uk/~crypto/snarf.html
+            - of course, now Muffett's going to want the name changed
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         oh, it's easy to knock: http://www.gluetrain.com ... WILLIAM
+         SHATNER has been attending Trek conventions in disguise - as
+         who? His parallel universe twin?... VideoCD STAR WAREZ ...
+         gettingit.com - dooomed! doooooomed!... unpleasant GIFs
+         at http://www.dirtdirt.com/dreems.htm ... "It seems the only
+         aspect of Microsoft NT which scales well is the price"...
+         http://www.oakland.edu/~zztasesk/jarjar.html ... TERENCE
+         MCKENNA sick (and not just on those shrooms): he asks fans
+         to think of him, 2200GMT 1999-28-05... guys, it's 25 years
+         ago: http://av.com/cgi-bin/query?pg=q&q=swallow+airspeed:W
+         ... STAR WARS personality tests - there were personalities
+         in that film?... WALTER MILLER never left the building:
+         http://www.geocities.com/Heartland/Prairie/9179/walter.htm
+         ... and you thought turning the monitor off was going to
+         work http://www.forbes.com/forbes/99/0531/6311070a.htm ...
+         "Disturbed by the fact that I'm gonna bone you in EPISODE
+         TWO?" http://www.deja.com/=dnc/getdoc.xp?AN=481263843 ...
+         better than that ASCII WARS rubbish:
+         http://world.std.com/~buzzard/meatwars/ ... suddenly, not so
+         hungry: http://members.xoom.com/gnulix_guy/geek-gourmet/ ...
+         what he would have wanted:
+         http://www.wireplay.co.uk/html/stories/250599zulu.htm ...
+
+
+                               >> GEEK MEDIA <<
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> the last ever ADAM AND JOE SHOW (11.05pm, Fri, C4) in
+         this tired old format has to be, sadly, a good thing...
+         BUFFY THE VAMPIRE SLAYER (8pm, Fri, Sky One) reappears on
+         Sky soon after leaving BBC2, due to complex cross-licensing
+         deals... the evidently still-alive Jimmy Saville joins other
+         sinisterly well-preserved freaks on HAVE I GOT NEWS FOR YOU
+         (9pm, Fri, BBC2)... and the cinema-to-terrestrial holdback
+         of just 13 months doesn't bode well for transsexual romace
+         DIFFERENT FOR GIRLS (9.35pm, Fri, BBC1) - still, it's got
+         Charlotte Coleman in it... with MAD MAX 2 (10.50pm, Sat,
+         ITV), PSYCHO (10.40pm, Sat, BBC2) *and* PSYCHOS (11.10pm,
+         Sat, C4) all scheduled against each other, does this make
+         EUROVISION (8pm, Sat, BBC1) the only sane choice?... well,
+         no - there's always above- average fake-news meteor drama
+         WITHOUT WARNING (10.45pm, Sat, C4)... only 7 months since
+         last showing on 1998-10-30; C4 clearly can't get enough of
+         MEN AND THEIR SHEDS (3.45pm, Sun, C4)... more Hitch peeping
+         out his REAR WINDOW (10pm, Sun, BBC2)... ITV's thinly
+         disguised Notting Hill promo FALLING FOR A STAR (10pm, Sun,
+         ITV) oddly coincides with another outing for
+         ultra-conformist toff-com FOUR WEDDINGS AND A FUNERAL (9pm,
+         Sun, C4) - still, it's got Charlotte Coleman in it... and
+         FOR THE LOVE OF (2.05am, Sun, C4) repeats the one on Diana
+         Conspiracy Theories... Bank Holiday highlights are largely
+         restricted to THE GREAT ESCAPE (1.40pm, Mon, ITV) plus C4's
+         celebration of '70s homoerotic cop partners, STARSKY AND
+         HUTCH NIGHT (from 9pm, Mon, C4)... this past week has
+         already seen some rather more surprising "insights and
+         contributions from friends and ex-boyfriends" than expected
+         by SOPHIE: THE NEW PEOPLE'S PRINCESS (8pm, Tue, C5)... and
+         readers of "I Am Spock" will recall that NEVER FORGET
+         (1.10am, Tue, BBC1) is Leonard Nimoy's very own Schindler's
+         List... of course, the movie WIRED (1.25am, Wed, ITV) hasn't
+         got anything to do with the San Francisco tech mag; it's the
+         story of John Belushi's death through excess - though, then
+         again... that really is Charlie "Superkaylo" Brooker
+         presenting new On-digital tech show THE KIT (10.30pm,
+         Wed-Fri, BBC Knowledge)... Jonathan Ross presides over
+         idiotically titled panel game IT'S ONLY TV BUT I LIKE IT
+         (10.05pm, Thu, BBC1)... and despite being made by the same
+         folks as Vidz, it seems unlikely that the 3 "glamorous babe"
+         presenters of 4Later's video game round-up BITZ (12.15am,
+         Thu, C4) will be making the same liberal use of the phrase
+         "wanking with envy". Still, here's hoping, eh?...
+
+         FILM>> yes, everyone else reviewed it last week, but only
+         now can the rest of the country revel in toothless
+         paparazzi quipfest NOTTING HILL (MPAA: Rated PG-13 for
+         sexual content and brief strong language). It'd be edgier
+         if Julia Roberts was *actually playing herself* (you know,
+         like Jennifer Grey in "Like, You Know"), but instead it
+         features - get this - an unhygenic Welsh flatmate (tee
+         hee!), plus Hugh Grant as a posh bloke - who sometimes says
+         things that sound a bit rude!... otherwise, a notable lack
+         of complimentary poster quotes for lame half-term juve-trash
+         like MY FAVOURITE MARTIAN (imdb: based-on-tv-series /
+         kids-and-family / sequel)... uninspired animated musical THE
+         KING AND I (imdb: not to be confused with the upcoming Jodie
+         Foster remake of the same film)... and indeed by-the-book
+         Bob Hoskins quest-for-the-real- Captain-Birdseye odyssey
+         CAPTAIN JACK (imdb: also known as "An Inch Over the
+         Horizon")...
+
+         RED BOOK AUDIO>> yeah, we know it's usually "Magazines"
+         around this point in the month, but frankly we've been
+         banging on about OFFICIAL PLAYSTATION MAGAZINE for months
+         now and it still doesn't seem to have had any effect... so,
+         pausing briefly to commend EDGE on its *two* specially
+         commissioned Wipeout 3 covers, designed exclusively by the
+         "Designers Rupublic" (p3, sic), plus FRONTIERS for surely
+         the worst "Science Of Star Wars" feature ever - "The Force"
+         is a form of psychokinesis, apparently - time again for more
+         real-life cases of pop eating itself... having convinced
+         ourselves that BRYAN ADAMS' "Cloud 9" is mighty close to Air
+         Supply's "Lost In Love", we're still a bit stuck on who
+         *else* girl cockney- rockers HEPBURN sound like on their
+         single "I Quit" - the obvious comparison being of course
+         "Bitch" by Meredith Brooks. Hey, maybe it's Dubstar... DOM
+         "THE DOMINATOR" MCCLANE meanwhile fingers JEWEL's
+         forthcoming "Down So Long" as a soundalike of Shawn Colvin's
+         "Sunny Came Home" (re-released in May 1998), inquiring if
+         perhaps other NTK readers might be interested in his DVD
+         reviews at http://www.sonicstate.com/ . Well, are you?... 
+         but similarity-spot of the month goes to MARTIN FROST, who
+         thinks "When We Are Together" off the new TEXAS album is a
+         ripoff of "Science Fiction Double Feature" from The Rocky
+         Horror Picture Show, and that "Female Of The Species" by
+         SPACE takes almost all the backing from the Procol Harum
+         B-side "In The Wee Small Hours Of Sixpence". We must admit
+         we've never heard either, but why would he make it up?...
+         following NTK speculation [1999-04-23] over the copyright 
+         in GERI SPICE's lower case "g", reader ED AVIS contends 
+         that "actually, Geri's logo is copied from OpenBSD", 
+         citing both http://www.dotmusic.co.uk/geri/bg.gif and
+         http://www.openbsd.org/images/openbsdpower.gif as proof... 
+         a bit late on this, but we're pretty sure that DESERT EAGLE
+         DISCS are still the only upcoming hip-hop act to combine 
+         the name of a popular Radio 4 show with that of an Israeli
+         firearm http://www.island.liu.se/~i97joajo/deserte.html ...
+         Now That's What I Call Music To Make Me Shoot My Classmates:
+         new from famed non-German Glaswegians ATARI TEENAGE RIOT,
+         noise nostalgia chaos "60 Second Wipeout" (RRP 16.99,
+         Borders 13.99) sounds almost exactly like long-lost demo
+         tapes of Mark E Smith yelling over experimental drum and
+         bass beats from 1992 with someone tuning in and out of John
+         Peel's punk guitar round-up in the backgroud. Still, over 
+         13 tracks (plus live "Bonus CD"), it does eventually outstay
+         its welcome...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+                "a bit techy... the best way to stay up to date
+                         on new biscuits and cereals"
+                        [.NET MAGAZINE, June 1999, p52]
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

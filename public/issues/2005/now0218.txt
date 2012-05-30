@@ -1,0 +1,183 @@
+   __  __ _2005-02-18   _________  __
+  |  \/  (_)_ __ (_) \ | |_   _| |/ /    o Subscribe via the beauty of
+  | |\/| | | '_ \| |  \| | | | | ' /     o   http://lists.ntk.net/
+  | |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+  |_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                               reluctant adieus
+
+           The lack of drugs and casual sex is surely beginning to
+           take its toll on the indy coders of CODECON. The only
+           open source conference that takes place "in a
+           nightclub"(TM) does indeed still looks like the inside of a
+           JWZ fanboy's head. But its sensibility is slowly changing.
+           The core contributors are getting older: some of them -
+           including the co-founder, Bram "BitTorrent" Cohen, have scored
+           decent incomes; toddlers run at the feet of the attendants.
+           Still, age has not withered most, nor made the code less
+           gnarly. Perennial NTK favourite DAN KAMINSKY is now
+           streaming *video* over thousands of DNS servers; WHEAT is a
+           sort of Zope-you-write-with-a-Wiki; Leonard Richardson's
+           ULTRA GLEEPER is a link recommendation engine with an "Indy
+           Pete" algorithm to eliminate *too* popular sites. All are
+           alt enough: so why so much grown-up worry at the after-con
+           parties? "This will be the last year we can explore without
+           worry", says one maudlin attendant. "The Grokster case will
+           come, the Supreme Court will abandon Betamax; innovation
+           will die." Is that why so many of the codeconners now 
+           commute between America and Canada? Is that why one
+           attendee vacationed with his 9-months pregnant wife to
+           Brazil, so that his child would inherit another country's
+           citizenship? Organiser Len Sassaman was shouted down when
+           he suggested moving the conference over the border; but if
+           the copyfights and patent wars break out in earnest, where
+           else is there to go?
+           http://www.codecon.org/2005/
+                                               - actually, everyone said
+           http://www.omgaudio.com/incoherence/
+                                 - was the most fascinating of the talks
+
+           But don't forget - many of the web's more "out of the box" 
+           solutions come not from lone mavericks, but from the lateral-
+           thinking employees of some of our most familiar high-street 
+           brands. Sharp-eyed shoppers at WWW.MARKSANDSPENCER.COM have 
+           recently noticed that every single "Enlarge picture" popup 
+           proudly announces "Microsoft Internet Explorer by Marks & 
+           Spencer" in the title bar, even - and this is the clever bit - 
+           *if you're not actually using IE*, because said phrase has 
+           actually been hard-coded into the title tag by someone 
+           presumbaly under the impression that that's how all popup 
+           windows should "normally" behave. Following the site's browser 
+           compatibility issues examined by NTK just over a year ago, if 
+           this doesn't submliminally persusade M&S visitors to exchange 
+           their home-knitted Firefox and Opera browsers for Microsoft's 
+           sensible 100% polyester alternative, what will?
+           http://www.xcom2002.com/doh/images/0502181602dohmarks.gif
+           - NB: put browser detection code *above* mention in title tag
+           http://www.ntk.net/index.cgi?b=02003-10-17&l=78#l
+               - would-be haberdashers to NTK readers since October 2003
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+           Calamity - avoided! As briefly mentioned last issue, next 
+           week's UKUUG LISA/WINTER CONFERENCE ON SECURITY AND NETWORKS 
+           (Thu & Fri 2005-02-24/25, Paragon Hotel, Birmingham B12 0PJ, 
+           as little as UKP20/ session student rate, preceded by the 
+           first International Exim Conference, with sessions on perl 6, 
+           ntpd, bgpd, LDAP and SPADE) should finish just in time for 
+           dedicated scenesters to hop on the Eurostar and get down to 
+           Free And Open Source Developers' European Meeting FOSDEM in 
+           Brussels (Sat and Sun 2005-02-26/27, Universite Libre de 
+           Bruxelles, B-1050, apparently free), and featuring Alan Cox, 
+           Richard Stallman, and Wikipedia's "The Outlaw" Jimmy Wales. 
+           http://www.ukuug.org/events/winter2005/booking.shtml
+           - doh, booking closed on Wed, mail for late booking enquiries
+           http://www.fosdem.org/
+           - are you going to produce an online encyclopedia of reliable, 
+            authenticated information, or are you just "whistling Dixie"?
+           
+           You know, our "Blink"-style instinctual snap judgement is that 
+           MALCOLM GLADWELL IN CONVERSATION (7pm, next Tue 2005-02-22, 
+           the ICA, London SW1Y 5AH, UKP8) will probably sell out as 
+           quickly as his "stating the obvious" popular-pseudoscience 
+           books appear to. But even more exotic hairstyles should be on 
+           show the following Tuesday at the launch of REMIX READING (Tue 
+           2005-03-01, South Street Arts Centre, Reading RG1 4QU, UKP2 on 
+           the door), a celebration of Creative Commons-licensed music, 
+           art and poetry in the company of "veteran contemporary 
+           guitarist" Roland Chadwick, ambient electronica artists Yimino 
+           and the magnificently-named "David Meme". And for anyone 
+           wondering whether Reading has the artistic community to keep 
+           this ticking over - to paraphrase "The Office", Reading's a 
+           big place. And when they're finished with Reading, there's 
+           Slough, Aldershot, Bracknell, Didcot, Yateley...
+           http://www.ica.org.uk/index.cfm?articleid=13907
+           - vs http://www.worldatwork.org/boston2004/photos/photo6.html
+           http://www.remixreading.org/
+            - "Future Sound Of Didcot" best name for a club night *ever*
+  www.lse.ac.uk/collections/alumniRelations/events/20050118t1723z001.htm
+          - and Mon 28th: UKP8 to see the amazing blogging Bunder at LSE
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+           "better than 6ft-long pic of the Enterprise on fanfold paper": 
+           http://www.romanm.ch/index.php?var1=text/ascii-movies-text ... 
+           back up again - and for your bonus round: guess which well-
+           known e-commerce site are all the music clips coming from? 
+           http://www.scenta.co.uk/whatthatsong/ ... Widdy of the week: 
+           http://payontime.co.uk/whypay/certificate.html?name=Enron ... 
+           "Worst population animation in British history?" (top link): 
+           http://www.bbc.co.uk/history/games/population/population.html  
+           ..."Yours faithfully, PWC" (please excuse wobbly handwriting): 
+www.bluesq.com/static_bsq/audit/Review_LuckySquaresBallSelection07_03.html
+           ... you keep sending in puerile Google goofs, so we'll keep 
+           running: http://www.google.com/search?q=%22drug+addition%22 , 
+           http://www.google.com/search?q=penisoner , semi-neologistic 
+           usage of http://www.google.com/search?q=%22rest+bite%22 , and 
+           using http://www.google.com/search?q=%22semi-skilled+milk%22 
+           leads to http://www.google.com/search?q=%22butter+overflow%22 
+           ... plus some surprising (and not-so-surprising) results for: 
+           http://maps.google.com/maps?q=satan,%20cupertino,%20california
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+           There's a rich vein of irony to be ploughed in the current
+           stand-offishness of collaborative editors: apps like the
+           Mac's SubEthaEdit that let multiple users edit the same
+           document simultaneously. Collaboration in SubEthaEdit's case
+           seems somewhat limited: its protocol is closed, and creators
+           the Coding Monkeys aren't that open to porting the app.
+           MOONEDIT is a two-year old equivalent for Linux, FreeBSD and
+           Windows. In the ongoing spirit of collaboration, though,
+           it's closed source too - and there's no Mac version. Perhaps
+           the only hope for true co-operation in this area lies in the
+           fledgling DocSynch project, an IRC-based open protocol which
+           has the barest beginnings of a cross-platform jEdit
+           implementation. Oh God, but that's *Java*. How bad can this get?
+           http://me.sphere.pl/indexen.htm
+                         - Moonedit: a compressed, static binary no less
+           http://www.codingmonkeys.de/subethaedit/faq.html
+                                     - protocol "based on open standards"
+           http://chalks.berlios.de/dokuwiki/doku.php
+    - and there's the networked version of old tracking python fave, Leo
+           http://docsynch.sourceforge.net/
+                                           - can't we all just get along?
+
+
+                              >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "not as good as Amateur Parapsychologist Monthly"
+      http://mildlydiverting.blogspot.com/2005/01/supper-with-stars.html
+
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

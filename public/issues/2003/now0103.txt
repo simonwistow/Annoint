@@ -1,0 +1,290 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-01-03_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                                >> SLOW NEWS <<
+                                   more FAQs
+
+         Q. You know, I'm a busy man and I'm nearly forty years old and 
+         I've got kids and everything but, pretty much every week I 
+         read your newsletter from end to end (it's a Sunday evening 
+         kind of thing), including (and this is the funny thing) the 
+         frankly weird review of new confectionery (and crisps). What's 
+         wrong with me? Can you help?
+                                                     - Steve Bowbrick 
+
+         How does NTK pay the bills? I couldn't live without it... 
+         well, actually I could (that was, he said to clarify the 
+         bleeding obvious, a figure of speech) but a small, angry ray 
+         of sunlight would be missing.
+                                                         - Mark Gibbs
+         
+         I hardly ever read it but whoa - when I do I have fun and I 
+         laugh and hop with delight. So what do you get out of it? 
+         Adulation? Creative satiety? Emails asking similar questions?
+                                                        - Ross McLean
+         
+         A. All of the above, Ross - all of the above. NTK, you'll be 
+         reassured to hear, doesn't cost much to run (largely thanks to 
+         the generosity of http://www.unfortu.net/ ), and makes some 
+         money via t-shirt sales at http://www.ntkmart.com/ and other 
+         "merchandising spin-offs". But, to be honest, the main reason 
+         we keep going is that we get such interesting mail - plus the 
+         opportunity to reach such desirable opinion-formers as Steve 
+         "Webmedia/Another.com" Bowbrick, with news like this year's 
+         (somewhat belated) NTK CHRISTMAS/NEW YEAR APPEAL:
+         
+         
+         [THROUGH MOUTHFUL OF PRINGLES] Hi - Danny here. Now, many of 
+         you will have heard of LEE FELSENSTEIN, the Berkeley free 
+         speech activist who helped found the Homebrew Computer Club in 
+         Silicon Valley (where the Apple was first demo-ed), created 
+         the first cheapo modem, hacked up the Osborne 1, and co-
+         founded the still-heavily-cloaked Hackers Conference (the 
+         place where information first wanted to be free). And what is 
+         the original social engineer up to now? Well, at the request 
+         of a local charity, he's invented a five-PC, bicycle-powered, 
+         ultra-cheap Linux network that will let remote villages in 
+         Laos (between Thailand and Vietnam) connect with the local 
+         market town via WiFi, and thence onto the Net. But they're 
+         having problems convincing their sponsors that they'll be able 
+         to get it working before the monsoon. So they're going to 
+         scratch the money together and do it anyway.
+         
+         So far, I've managed to fail to convey the coolness of this 
+         idea via several forums, including Slashdot, BoingBoing, 
+         Metafilter and RobotWisdom. Now it's your turn. Read the bumf 
+         below, and then consider donating UKP10 of that money your 
+         gran sent you to: 
+         
+         http://www.jhai.org/donations.htm 
+         
+         - and mark it "Remote IT". C'mon - pedal-powered retro Linux 
+         WiFi: imagine how much practical economics the villagers could 
+         learn from a few games of emulated Elite. 
+         http://www.anu.edu.au/people/Roger.Clarke/II/IWtbF.html
+                               - origins of the Information/free meme
+http://www.oblomovka.com/writing/irish/2002-09-27%3ALee_Felsenstein.php3
+                - you've been stalking him for a while now then, Dan?
+         http://www.oblomovka.com/entries/2003/01/01#1041472680 
+               - NTK's scheduled bitterness and illwill to all men...
+         http://www.oblomovka.com/mirrors/lee/
+                                           - ...will return next week
+         
+         
+         Q. Have you thought of trying to provide a glossary for those 
+         who don't know all your in-terms (like me)? Even when you 
+         occasionally explain them, they're soon forgotten and the 
+         explanations are hard to re-find: e.g. "Falco", "Meme". I'm 
+         left with a dodgy feeling where I think I understand what they 
+         mean but don't know the reason/origin.
+                                                      - Paul Streeter
+         
+         A. Ah, but what if that's the effect we're trying to create? 
+         Seriously, "meme" now appears to be regarded as a real word: 
+         
+         http://dictionary.reference.com/search?q=meme
+         
+         although the origins of "Falco" are becoming increasingly 
+         obscure. Just for you though, Paul, here's a step-by-step 
+         explanation of what some of our regular features are supposed 
+         to be about, conveniently coinciding with this week's seasonal 
+         lack of material.
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         [Originally this was supposed to be news sources which report 
+         the blindingly obvious - hence the tagline - but has since 
+         expanded to take in the likes of DOHs, topical goofs and 
+         misprints (ideally of a humorous nature), and those ever-
+         popular GOOGLE MISSPELLINGS:]
+         
+         eg, NEW ZEALAND doesn't cancel next Christmas, but at least 
+         postpones it: http://www.tnzi.co.nz/us/numbering.asp#public 
+         ... RADIO 4 broadcasts a minute of "traditional" dead air: 
+         http://media.guardian.co.uk/radio/story/0,12636,867490,00.html 
+         - listen in at: http://www.ntk.net/2003/01/03/dohchimes.mp3 
+         ... or, how *not* to change table headers to table cells: 
+         http://www.google.com/search?q=witd+tde ... SINATRA to "live 
+         in infamy as one of the greatest crooners of our time":
+http://www.skymall.com/cgi-bin/WebObjects/Store.woa/wa/search?kw=sinatra
+         ... and goodbye from them - SWEDEN's future not so "Orange" 
+         after all: http://www.ntk.net/2003/01/03/dohswe.gif ... the 
+         HUMAN LEAGUE song?: http://www.ntk.net/2003/01/03/dohdarts.gif ...
+ 
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         [Superficially resembles the AntiNews section, consisting as 
+         it does primarily of links preceded by cryptically hard-to-
+         read "humorous comments". But while AntiNews is mainly things 
+         which are unintentionally amusing - misprints and so forth - 
+         MemePool is supposed to be matters of greater importance or, 
+         failing that, intentional attempts at comedy. Note that this 
+         does not typically extend to funny animal Photoshoppery or 
+         "topical" Flash rewrites of Breakout or Space Invaders, which 
+         http://www.b3ta.com/ are more than welcome to.]
+         
+         eg, "Weihnachten" (Christmas)/ "Wermacht" (army) confusion?: 
+     www.canada.com/search/story.aspx?id=e0d62c89-b64e-4607-84e3-3396107535d5
+     ... http://img-greenbooks.theonering.net/tookish/images/090102_dude.jpg
+      vs http://boards.straightdope.com/sdmb/showthread.php?threadid=138905
+         ... spoof page: http://mirrors.meepzorp.com/imdb.com/gnfos/ - 
+         for an actual imdb entry?: http://us.imdb.com/Title?0274518 
+         ... "do not engage in sexual activity with your partner for 4-
+         5 days prior to use": http://www.sexdetect.com/faq.php - or 
+         ever again, if you're not careful... 2003 is "third year of a 
+         sequence", divines: http://www.biblenews1.com/ ... worth a go: 
+         http://www.rootingoutevil.org/index.php3/MissionUSA ... 
+
+
+         Q. Any self-respecting FAQ goes self-referential in the first 
+         item. So, my FAQ: where can I find the entire NTK FAQ in a 
+         standalone doc (rather than spread across a couple of old 
+         editions)?
+                                                     - Andrew Simmons 
+         
+         A. OK Andrew, we're working on it. We just need to update 
+         some of the more "exotic" claims we've made in the past:
+         
+         http://www.ntk.net/index.cgi?b=01997-08-29&l=263#l
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         TV>> great news for "robots in disguise" fans, with the UK 
+         debut of TRANSFORMERS: ARMADA (8am, Sat, Sky One) and the 
+         addition of BEAST WARS (10.30am, Sat, C5) to C5's two-hour 
+         lineup of Saturday morning CGI... there's a chance to digitise 
+         more Arnie prank call samples from KINDERGARTEN COP (5.35pm, 
+         Sat, ITV): http://www.btinternet.com/~pir8/arnie/ ... and we 
+         still think the next sequel to Ashley Judd sub-"Silence Of The 
+         Lambs" thriller KISS THE GIRLS (9.25pm, Sat, BBC1) should be 
+         called "Kiss The Girls III: Wee Wee Wee All The Way Home"... 
+         the schedules seem to be busily propagandising the benefits of 
+         Western/Allied/NATO intervention in Nazi drama-doc CONSPIRACY 
+         (9.10pm, Sat, BBC2), weapons-of-mass-destruction missions 
+         OPERATION CROSSBOW (7.10pm, Sun, BBC2) and IRON EAGLE II (8pm, 
+         Mon, C5), ethnic cleansing docu THE FALL OF MILOSEVIC (9pm, 
+         Sun, BBC2), plus of course EMPIRE (9pm, Thu, C4), covering the 
+         - apparently numerous - positive aspects of British 
+         Imperialism... a more humanitarian position is espoused in 
+         Gerry Anderson profile MR THUNDERBIRD (4.55pm, Sun, C5) and 
+         subsequent feature-length spinoff THUNDERBIRDS ARE GO! 
+         (6.10pm, Sun, C5) - if only International Rescue had been 
+         around to intervene in Bonnie "Die Hard" Bedelia eco-disaster 
+         THE FIRE NEXT TIME (2.30pm, Sun, C5), or indeed dire Richard 
+         Blackwood vehicle ED STONE IS DEAD (11am, Sun, BBC2)... while 
+         it's "a virus" that's making Americans obese, theorises FAT 
+         PLAGUE (9pm, Mon, C4), as opposed to the "All You Can Eat" 
+         buffet at Pizza Hut... FRASIER returns in the unprestigious 
+         10pm, Mon, C4 slot... 1997's Southall crash is the subject of 
+         pseudo-educational "When Trains And Other Vehicles Crash Into 
+         Each Other" reconstructer COLLISION COURSE (9pm, Tue, BBC2) 
+         ... someone purporting to be an investigative reporter 
+         examines identity theft in KENYON CONFRONTS (7.30pm, Wed, 
+         BBC1)... and videogaming returns to kids' TV - where it 
+         belongs? - in the form of Borg-Cube-set multiplayer battler 
+         LAN-JAM (4.20pm, Fri, ITV): http://www.lanjam.tv/ ...
+         
+         FILM>> Janeway "phones in" her cameo, but - on the plus side - 
+         Wesley Crusher doesn't have any lines, in nature-vs-nurture 
+         tea-flavour would-be "Wrath Of Khan" remake STAR TREK: NEMESIS 
+         ( http://www.capalert.com/capreports/startrek-nemesis.htm : 
+         reference to transgender practitioners; approval of nudity for 
+         display; order to officers to comply with nudity display 
+         "requirements"; control by telepathy; "clone-ology")... 
+         otherwise there's the Portugese-language version of "Lock, 
+         Stock And Two Smoking Barrels", Rio-de-Janiero gangster 
+         coming-of-ager CITY OF GOD (imdb: child/ crime/ death/ gun/ 
+         murder/ police/ poverty/ traffic/ violence)... or Ralph 
+         "Strange Days" Fiennes and Miranda "Blackadder" Richardson in 
+         David Cronenberg's disappointingly body-horror-free character 
+         study SPIDER ( http://www.bbfc.co.uk/ : Contains infrequent 
+         strong language and disturbing behaviour)... 
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> Q. I spotted a mistake in last week's issue. 
+         Should I tell you about it?
+         
+         A. Yes, please do. If we make a mistake, we tend to get a lot 
+         of mail about it, usually in the form of amusingly sarcastic 
+         comments - and, if we're lucky, screenshots of our own website 
+         captioned "How about this for your doh section, guys? Hahaha!"
+         
+         Much as we look forward to these moment of public humiliation, 
+         we may not always have time to reply to all contributors. And 
+         if we do, we are sometimes regrettably short. On that note, 
+         well done to readers FRANK ARNAUD, JAMES METHLEY, ANDREW 
+         MORLEY, DOUGLAS YATES, SIMON "AM I THE THOUSANDTH PERSON TO 
+         POINT THIS OUT?" PARSONS, ROGER SAN MATERO, and IAN TRUSKETT 
+         who contested last week's answer that the YYYY-MM-DD format had 
+         "no precedent in established practice anywhere in the world" - 
+         when apparently it's very much in vogue in those notoriously 
+         depopulated nations of China and Japan. How about that for our 
+         doh section, eh? Hahaha!... a similar crowd commented on the 
+         issue of 2002-11-22 apparently providing "Tomorrow's news, 
+         today!", due to being datestamped from 24 hours in the future. 
+         But crypto-activist RICHARD CLAYTON was the first to astutely 
+         diagnose this as a side-effect of that issue's command to "set 
+         your clock to 23:59" in order to see all the numbers flip 
+         over: http://www.ntk.net/index.cgi?b=02002-11-22&l=174#l ... 
+         OWEN BLACKER incorrectly regarded us as goofs when he wrote to 
+         rectify NTK 2002-12-13's attribution of the Requiem For A 
+         Dream/ Two Towers trailer theme to one "Clint Poppie" - "I 
+         think you'll find that's Clint Mansell (and played by the 
+         Kronos Quartet)", he preened, continuing to maintain that the 
+         track is "credited to Clint Mansell" even after we pointed out 
+         that "Mansell" (and not "Vestan Pance") is actually Clint 
+         Poppie's real name! And finally, JOHN HOLLINGUM provided a 
+         timely reminder of why this is called the "Boners" section by 
+         bashing NTK's 2002-10-04 correction of the quote from a 
+         search-engine optimiser, which we reported as: "Google's 
+         penalty literally took food out of my families mouth". As John 
+         noted, the original comment identified that it was Google's 
+         "penality" (sic) which "literally took food out of [his] 
+         families mouth" - a mental image which, although it isn't 
+         technically a synonym for "penis", certainly gave him 
+         something to "snigger about". NTK regrets the non-error and 
+         any absence of double-entendre it may have caused...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                "more substantial"
+         http://www.guardian.co.uk/online/story/0,3605,867294,00.html      
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

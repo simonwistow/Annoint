@@ -1,0 +1,332 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____27/03/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+          "As you can see, the Internet can be stunningly stunningly
+                                                           immoral."
+         - Cable TV President LEO HINDERY, demoing the JENNICAM to fifty
+                                                    Catholic Bishops
+                            hey, Cardinal Pironio missed it! Reload!
+
+
+                               >> HARD NEWS <<
+                               paying your dues
+
+         Free the JAVA ONE! Sun's shin-dig for the Java faithful
+         kicked off on Tuesday with a ritualistic humiliation of a
+         Bill Gates lookey-likey, and the handing out of peer-
+         bonding JavaRings for everyone to wield, Green Lantern-
+         like, at him. Just "One", though, seems to be a
+         conservative figure when you consider of the multiplicity
+         of Javae around. As Microsoft rolled out its own 100%
+         Sullied Java (shorn by court injunction of its snazzy
+         Java(TM) logo), Hewlett-Packard announced that it, too, was
+         working on a non-Sun Java Virtual Machine. HP said Sun's
+         license was "too expensive". Sun countered by saying they'd
+         offered to give HP the code for nothing. HP failed to
+         deliver the obvious punchline by time of going to press.
+         Continuing the ingenious backwards-spin-doctoring at One,
+         Scott McNealy promised delegates that Sun will "continue to
+         spend like crazy on Java". Remember when they thought they
+         were going to *make* money with it?
+         http://java.sun.com/javaone/javaone98/press/pressphotos.html
+         - man dressed to look like silly geek (here with Bill Gates)
+         http://www.oryxsoft.com/projects/gvm/
+                             - and there's Kaffe, and Japhar and ...
+         http://www.ntk.net/gates/creamedgates.mpg
+                                            - always worth repeating
+
+         When humourless games glossy EDGE dissed NTK's fave
+         computer cartoonist, CHARLIE BROOKER, did they really know
+         what they were letting themselves in for? "Breathtaking
+         hypocrisy" is how one Edge reader describes it on their
+         current letters page (p6), pointing out that they
+         criticised Brooker's "Cruelty Zoo" spoof in the same issue
+         that featured a semi-naked mutilated girl on the front.
+         Edge of course comes from Future Publishing, who continue
+         their mission to present games as a serious artform in this
+         month's Playstation Power, which contains the phrase
+         "Sony'll have our bollocks for this" (p5), a contest to
+         "get ripped-to-the-tits on booze"(p48), and the remarkable
+         newsagent-reassuring coverline: "Resident Evil 2: You'll
+         Shat The Bed!"
+         http://www.superkaylo.com/
+                              - "Not suitable for minors. Or cunts."
+
+         So, whose side were you on in the Domain Name Wars? The
+         time for comments on the US Government proposals, which
+         attempt to foster a compromise between those battling for
+         control of the top level domains, ended Tuesday. Time for
+         the real punch-ups to begin. Latest casualties: the
+         ELECTRONIC FREEDOM FRONTIER, who this week came down firmly
+         on the side of CORE (that's the Old Guys Who Created The
+         Net, Who Plan To Hand All That .Net .Com Nonsense To The A
+         Neutral Swiss Body). Unremarkable, since EFF co-founder
+         John Gilmore is an Honorary Old Guy and CORE buddy - but
+         still an excuse for outrage from Gordon Cook, author of the
+         Cook Report (not *that* Cook Report), and champion of the
+         "Senile Old Men Who've Lost Touch With Reality, Who Plot to
+         Give Away America's Internet To Foreign Powers" hypothesis
+         [see NTK 10/10/97]. Cook described the EFF position as
+         "outrageous puerile RANT", which, judging by the level of
+         debate so far, should be seen as a compliment. Our
+         position? If these guys want Net names to stay American,
+         why don't they all push off back to the .us domain where
+         they belong, and leave .com to us "international" folk?
+         Kidding!
+         http://www.findmail.com/listsaver/noframes/rre/764.html
+         - "For the ... benefit of the public, the Internet users, and
+                  the entire human race" (delete where not applicable)
+         http://www.findmail.com/listsaver/noframes/rre/765.html
+          - "a single fallable individual" Sounds like a threat, Jon
+         http://www.worldnic.com/
+                                 - NSI presents *World*nic? uh-oh...
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         JAVA LOBBY compares fight with Microsoft to war with
+         Germany, quotes Churchill... parents of ANDREW GOLDEN,
+         Arkansas shootist, were postmasters, says NYT (retribution
+         for all those bounced mail messages?)... EU project to
+         provide individual Net dial-ups spends 2 billion pounds,
+         charges more than ISPs ... PERSONAL COMPUTER WORLD CD
+         offers "preview screens of forthcoming Quake II"... editor,
+         chief writer of COMPUTERACTIVE resign - get your Falco
+         nominations in now... "Children put on weight according to
+         how much television they watch," new research reveals...
+         KNESSET Website hacked... percentage of Americans who
+         believe their moral standards are higher than BILL CLINTON?
+         A telling 69% ... WARGAMES game and site rubbish... MUTE's
+         www.metamute.com site still reads "opening 6pm 12 March
+         1998" ... US astronaut takes PALMPILOT to Mir - forgets
+         sync cable... Creepy NICK ROSEN, weeks into his new job,
+         starts circulating CV: says he's "unhappy"...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         How do you persuade Cable and Wireless, a multinational
+         with a 7UKP billion turnover, and 1.5UKP billion profit, to
+         dump local call charges for the benefit of a few thousand
+         Net users? How about sitting outside their HQ, blowing
+         whistles and sitting in baths of custard? Don't knock it:
+         it toppled the Apartheid state in South Africa. Kind of.
+         Anyway, that's what the CAMPAIGN FOR UNMETERED
+         TELECOMMUNICATIONS are planning (custard, not majority
+         rule) this Tuesday 31/3/98, 1100GMT to 1400GMT at Red Lion
+         Square, London WC1. There's an open meeting to discuss
+         tactics this Sunday, if you feel in the mood to fight for
+         your right to parity. Armchair activists that we are, we're
+         especially intrigued by the protestors' adoption of C&W's
+         corporate yellow colour scheme, planned spirited sing-a-
+         longs of its advertising soundtrack, and at the height of
+         the protest, a demo (in its proper sense) of the C&W set-
+         top box. Let's hope bystanders won't mistake it all for
+         impromptu show of employee loyalty.
+         http://www.unmetered.org.uk/watch/details.htm
+                                     - "bedraggled pantomime horses"
+         http://www.cwplc.com/
+                    - particularly slow site: call-charge conspiracy
+
+         Theatre. Think of it as a medieval version of going to the
+         cinema, and you'll be fine. Well, actually, with this crowd -
+         maybe not. You guessed right about Patrick Marber's "net play",
+         CLOSER (Lyric Theatre, London) - there's just one (1) "online
+         chat", and it's as appallingly unconvincing as the rest of it.
+         The lead in glam-rock Spocky Horror SAUCY JACK AND THE SPACE
+         VIXENS (Queen's Theatre, London) *is* named after Spinal Tap's
+         notional "Jack The Ripper" musical, but - brimming with dumb-
+         ass double-entendres from a largely s/f-ignorant writer - that
+         could be the funniest thing about it. So, with heavy heart, we
+         must grudgingly recommend the live touring version of Terry
+         Pratchett's GUARDS! GUARDS! (various, see URL), if only because
+         - in a canny chunk of cross-marketing casting - it stars Paul
+         "Avon" Darrow from off of Blake's 7.
+         http://www.closer.co.uk
+         - No Website, Pat? Perhaps you're not so clever after all...
+         http://www.spacevixens.co.uk
+                                  - taking Spinal Tap's name in vain
+         http://www.uktw.co.uk/info/guards.htm
+                     - NTK Pratchett quota: one (1) mention per year
+
+
+                                >> TRACKING <<
+                                getting warmer
+
+         Want to DJ, but don't have a pony tail, SL1200 decks, or
+         *any records*? Fortunately, VTT VIRTUAL TURNTABLES is a
+         real-time Windows MP3 mixing studio, which can cue, mix and
+         play two MP3 compressed songs simultaneously, pitch shift
+         them while they're playing (though unfortunately only by
+         +/- 15%), and of course crash every five minutes like all
+         good shareware. A great addition to everyone's favourite
+         copyright-violating hobby, though, as yet, there's no
+         automatic bpm calculator (like it's hard to spot kick drums
+         nowadays) or realtime scratching. Still, the processing
+         artefacts on the "Back spin" effect alone qualify it as the
+         ultimate shutdown sound for the next millennium.
+         http://www.ugrad.cs.jhu.edu/~gonzo/carrot/
+                              - anyone doing this for karaoke MIDIs?
+
+         The Spring user-interface designs are in, and word from the
+         boutiques is that 80x24 text-only mode is back with a
+         *vengeance! Vi editor clone VIM burst onto March desktops
+         with a dazzling show of pastel syntax highlights for its
+         5.0 look. Strident and customisable, Vim raises eyebrows
+         with its interpretation of the classic Vi single-key macro
+         collection. Echoing the themes of no mice and tiny windows,
+         conservative lines and little ornament, the LYNX text-only
+         browser celebrates its 2.8th this season with a unique re-
+         interpretation of console couture. A gentler, more
+         understanding HTML parser sets the tone, as does a playful
+         port to Windows. Retro all the way, with Vim -- and Lynx!
+         http://www.crl.com/~subir/lynx.html
+                               - [INLINE] [INLINE] [INLINE] [INLINE]
+         http://www.vim.org/
+         - actually, we'll stick with Vi^]Bx:w^[Add:q!:bye!^C BLEEEP
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Big of them: www.microsoft.com/education/curric/macwin/ ...
+         0345 880088 for details of "the world's first legal tender
+         STAR TREK coin"... 3D GUI for NT? ... "irreverent UK
+         opinion" at www.wot.co.uk/public/ezines/wotndx.html ...
+         Friel cam! FRIEL CAM! www.netshopuk.co.uk/annafriel/ ...
+         webserver.luna ... burning a hole in your pocket:
+         www.libretto.crop.com.hk/150mhz-11.html ... bye-bye, DOS
+         ... www.leisuretown.com ... www.fuck.co.uk/fuckmail.html
+         versus www.fucker.com/super/secret/url/ ... www.haktek.com
+         ... SAINSBURY'S Pre-Peeled Oranges... IRIDIUM gets its own
+         country code (+8816) ... pgl of ein.cz writes that
+         http://dk/ is the shortest URL, and - "because I can" -
+         http://www.do.you.really.think.that.this.is.the.longest.url
+         .that.you.can.find.huh.no.I.do.not.think.so.ein.cz
+         This correspondence is now closed. We hope...
+
+
+                               >> GEEK MEDIA <<
+                           electronic fun transfer
+
+         TV >> symbolically crawling out of the dregs of Water Week,
+         EVOLUTION WEEKEND (from 8pm Fri, all weekend, BBC2) seems
+         unlikely to emphasise the fact that many accepted their
+         primate ancestry well *before* Darwin's Origin Of
+         Species... as if the previous version wasn't offensive
+         enough, THE NATIONAL LOTTERY BIG TICKET has Gladiator-style
+         games, Anthea Turner and Last Chance Lottery's Patrick
+         Kielty (who, presumably, won't be singing his swinging
+         cover of Radiohead's "Creep")... ITV counters, tellingly,
+         with slapstick Carrey-fest DUMB AND DUMBER (6pm, ITV,
+         Sat)... and, for once, it looks like they managed to keep
+         Robin Williams away from the L-DOPA in cute Oliver Sacks
+         neurology fable AWAKENINGS (9pm, Sat, C4)... cult cardboard
+         cartoon SOUTH PARK (10pm, Sat, Sky1) lands over here with
+         the tone-setting episode Cartman Gets An Anal Probe... and,
+         also on satellite, we believe that Das Bus is the Homer-as-
+         ISP/ anti-Bill-Gates episode of THE SIMPSONS (6.30pm, Sun,
+         Sky1)... fluorescent nutcase Adam Hart-Davis constructs a
+         voice synthesiser from "an air pump and some ribbons" in a
+         unique tribute to his LOCAL HEROES (8pm, Mon, BBC2)...
+         WITNESS (9pm, Mon, BC4) surely won't live up to its bizarre
+         premise of getting a top diplomat to mediate between
+         warring street gangs... ditto the promisingly titled 5-
+         minute MAFIA COOKBOOK (7.55pm, Mon-Thu, C4)... find out why
+         YURI GAGARIN (9pm, Tue, BBC2), the first man in space,
+         probably wishes he'd stayed there... and expect the same
+         compulsive self-loathing during the MODERN TIMES (9pm, Wed,
+         BBC2) version of "Friends" that you'd normally feel
+         watching the real (sitcom) thing... could even a daily
+         early-evening half-hour of Mel and Sue's LATE LUNCH (6pm,
+         Tue-Thu; repeated 1pm next day) compensate for the series
+         end of both SEINFELD and THE LARRY SANDERS SHOW (from
+         11.15pm, Tue, BBC2)?... and is Jean Claude Van Damme
+         *obsessed* with playing two characters in his films, eg the
+         moderately uninspired TIMECOP (10pm, Wed, BBC1)?... still,
+         slightly more plausible than the casting of Stephen
+         "Ballykissangel" Tomkinson as a (surprisingly science-
+         aware) all-action English teacher in daft three-part
+         bioweapon romp OKTOBER (9pm, Thu, ITV)... plus, if even we
+         can't understand these new episodes of REBOOT (4.45pm, Thu,
+         ITV), we want to know: *who the hell can?*
+
+         FILM >> the rehabilitation of Bob Hoskins is promised in
+         limited-release Brit black-and-white "let's give the kids
+         some self respect by teaching them to fight!" tear-jerker
+         TWENTYFOURSEVEN (imdb: drama / comedy / boxing). But where
+         we come from, 24-7 really means "24 productive minutes per
+         hour, for up to 7 hours a day (not weekends)"... some
+         surprising similarities between SPHERE (imdb: adventure /
+         sci-fi / based-on-novel / ocean / space / time-travel /
+         ufo) and Barry Levinson's other recent movie, Wag The Dog:
+         Dustin Hoffman, musicians in cameo roles (here, Queen
+         Latifah and Huey Lewis), and a strong concept ruined by
+         aimless blundering. Fortunately, Wag The Dog was not -
+         spoiler warning - largely based on Tarkovsky's Solaris...
+         all our teenage girl readers are sure to love ANASTASIA
+         (imdb: animation / musical / anastasia / based-on-play), a
+         Disney-bashing revisionist retell of the post-revolution
+         Russian royal family. We still reckon they should have used
+         Boney M's "Ra Ra Rasputin" as a theme song, though...
+
+         "REAL" REAL AUDIO >> the rap track that samples the Knight
+         Rider theme is the new BUSTA RHYMES single, TURN IT UP
+         [06/04/98] - no "woo-woo" scanning or real Kitt voices, and
+         thus a better idea than an actual record, but isn't that so
+         often the way?... similar warning sentiments apply to the
+         new LIONROCK album, CITY DELIRIOUS [out now] - like,
+         where's the acid techno singles (like Tripwire?) Still,
+         some nostalgically familiar rapping from MC Buzz B for
+         anyone who recalls his version of Bruce Hornsby's The Way
+         It Is (anyone? anyone?)... intriguingly, the VITRO
+         longplayer, DISTORT [out now], is a much better record than
+         idea, given that the idea seems to be pseudo-industrial
+         covers of old Beloved songs (*and* they don't even have the
+         Enviromental Sciences remix of Set It Down, which is the
+         best one)... after intriguing revelations that one lyric on
+         the new MADONNA album, RAY OF LIGHT [out now], is
+         "borrowed" from an old US Gap ad, comes news that her track
+         Candy Perfume Girl uses exactly 196 of the 200 words in the
+         popular fridge puzzle Magnetic Poetry... but what's really
+         spooling 150Kb/s of red book audio off NTK's drives this
+         week is VALENTINA [27/04/98], KOMPUTER's retro-electro
+         tribute to - you've guessed it - Ms V Tereshkova, the first
+         female cosmonaut. You might think they stuck the "K" on the
+         front of "Komputer" in order to sound more like
+         "Kraftwerk", then you hear the track and realise they sound
+         far more like Kraftwerk than (now) even Kraftwerk do...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "written over gin and tonics".
+                   ( http://www.msnbc.com/news/151800.asp )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

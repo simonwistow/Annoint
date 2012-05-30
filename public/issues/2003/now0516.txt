@@ -1,0 +1,295 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-05-16_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Every talk, keynote, informal session, water-cooler 
+         conversation, party and failed sexual encounter was 
+         extensively covered, in real time, by bloggers who would 
+         rather write 'I am sitting here' than sit there..."
+                    - Bill Thompson bemoans ETCON coverage complexity
+               http://www.spiked-online.com/articles/00000006DDA4.htm
+             ...or endlessly dissected later on by people who weren't
+
+
+                               >> HARD NEWS <<
+                               crying to Hughes
+
+        "Well, I think I've found your problem", replied fistfuls of
+         concerned readers after getting bounced last week from the
+         published email of Beverley Hughes, Minister of Counting ID
+         Consultation Entries. Fortunately, during the consultation,
+         STAND didn't relay the thousands of comments we received
+         directly to her. No, we sent them to the swanky "we're so
+         wired" official consultation email address. Word has it
+         that they did get them okay, but that the entire
+         STAND-relayed wodge is now assumed to be one ginormous
+         Internet "petition", rather than a bunch of individual
+         statements. We'd still like that confirmed in writing,
+         though. Or an email would do. Apparently, the best way to
+         pry an explanation from a Minister is to get an MP to ask
+         questions in the house. Given that Ms Hughes isn't easily
+         contactable, maybe you'd like to contact yours? Duplicate
+         questions won't be a problem: if they squint, we're sure the
+         government can can just collapse them into one giant MP.
+         With just one big voter standing behind them, glowering.
+         http://makeashorterlink.com/?M46652084
+                                                   - here we go again
+         http://www.faxyourmp.com/
+                                        - feel free to send us a copy
+
+         You call things names, you end up being called names: that's
+         just the way these things go. First there was the hyper-active 
+         farce of Firebird (the Mozilla browser) versus Firebird (the 
+         database). For those of you not bothering to keep up, Firebird 
+         the database was a fork of software that was called Interbase 
+         which was owned by Borland a company which used to be called 
+         Inprise and before that used to be called Borland, deep 
+         breath. You'd think the Firebird developers would by now be 
+         accustomed to the transitory nature of names, but nooo. They 
+         were *shocked* when Mozilla started using the term Firebird, 
+         and insisted they were the *only* Firebird on the block, even 
+         though a) there were dozens of software Firebirds before them 
+         (including BT's short-lived games division) and b) the only 
+         thing anyone can remember about Firebird the DB was that it 
+         had massive security hole wired into it by Borland^WInprise^W 
+         Borland that took them six months to find. Dire threats were 
+         hurled, until Mozilla pointed out that the Firebird name was 
+         just the semi-internal *project* name, and since no-one calls 
+         the current browser "Seamonkey" (*its* project name), they 
+         should calm the motherfirebird down.
+         http://firebird.sourceforge.net/
+           - nobody cares about you or your weirdo legacy software...
+         http://www.mozilla.org/
+                                                             - err...
+
+         Readers with long memories may recall Carl Sagan getting
+         into a similar tizzy about an internal Apple project that
+         shared his name - until he threatened to sue. Apple's coders
+         renamed the project's title to "Butthead Astronomer", which
+         strangely failed to mollify him. Perhaps that explains some
+         of the background of the next naming war: Apple asking the
+         FreeBSD hackers to change the #definition of one of their
+         error codes. Apparently, EDOOFUS has "raised eyebrows" at
+         the corporation, and they've refused to accept the merge
+         into Darwin ("a little more in-your-face than ...
+         'die_you_gravy_sucking_pigdog()'", apparently). Among the
+         suggested replacements in the subsequent bikeshed discussion
+         was EBUTTHEAD, and a note that in an old Apple II
+         incarnation, STUPID stood for "Student Programmer ID". They
+         settled on EDONTPANIC. At least, until the Estate of Douglas
+         Adams puts up a fight.
+ http://docs.freebsd.org/cgi/getmsg.cgi?fetch=86207+0+current/freebsd-hackers
+                   - CORPORATE CENSORSHIP! Put EDOOFUS on bittorrent!
+         http://docs.freebsd.org/mail/current/freebsd-hackers.html
+                                            - and other Apple titbits
+
+
+                                >> ANTI-NEWS <<
+                              berating the obvious 
+
+         certainly gives impression it's still at quite an early stage: 
+         http://www.mod.uk/dpa/projects/digitization_stage_1.htm ... 
+         typical - they've limited the $3m money-back offer to "1 per 
+         customer": http://www.ntk.net/2003/05/16/dohfry.jpg ... JACK 
+         SCHOFIELD corrects himself, 80 gig drive should cost up to 
+         80,000 pounds: http://www.ntk.net/2003/05/16/dohjack.gif ... 
+         guess it might help IBM superserver process its 11,000 daily 
+         transactions: http://www.ntk.net/2003/05/16/dohibm.gif ... man 
+         imitates Mark Leyner's "Et Tu, Babe", seeks "very special lady 
+         who's potbellied, flat chested, left handed, and a smoker": 
+         http://www.wifeodyssey.com/type.html - what do you want to bet 
+         that this guy gets a couple of hundred responses?... this 
+         week's unfortunate company acronym: http://www.cum.co.za/ ... 
+         and if you don't want to know this week's GOOGLE GOOFS, please 
+         look away now - http://www.google.com/search?q=competant , 
+         "chocolate moose", "tate modem", "causal clothes"... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Of course, with an event like "digital moving image festival" 
+         ONEDOTZERO (from today Fri 2003-05-16 to Sun 2003-05-25, the 
+         ICA, London, from UKP5.50/session), we're lucky that there's 
+         even a non-Flash version of the site at all. But it would have 
+         killed them to put dates and times on the actual listings and 
+         to have used a more readable font size? Anyway, as well as 
+         the event's now-traditional Japanimation and FMV sequences 
+         (include Dead Or Alive: Xtreme Beach Volleyball), you may be 
+         able to find sessions on the work of NTK faves Tim "The Pod" 
+         Hope and Michel Gondry, who we'd describe as the inventor of 
+         "bullet time" if that wasn't to completely understate the 
+         extraordinary synthesis of analogue and digital effects in all 
+         his other work. Further computer-generated utopian fantasies 
+         will also be on show at the ASSOCIATION FOR FREE SOFTWARE 
+         ANNUAL CONFERENCE (from 10am, tomorrow Sat 2003-05-17, Aston 
+         University, Birmingham, free to members or UKP10 to join on 
+         the day), with talks from controversial free-software ISP CEO 
+         JASON CLIFFORD, Campaign for Digital Rights stalwart MARTIN 
+         KEEGAN, and two sessions on open source audio applications 
+         chaired by AFFS treasurer MJ "VOODOO" RAY. 
+         http://www.affs.org.uk/affsac.html
+                  - like anyone ever paid for their copy of "Acid Pro"
+         http://www.onedotzero.org/new/onedotzero7/
+              - nothing says "cutting-edge" like horizontal scrolling
+     http://www.museumoftechno.org/collections/franklin/extract_01.html
+         - "likened [it] to being submerged in a child's kaleidoscope"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Can you still be anonymous online? Why yes you can, Mr JAMES
+         BOND, of 999 Letsby Avenue, Afghanistan 90210. Like all
+         crypto-wankery, doing so mostly involves ploughing through
+         18 or so HOWTOs written in one overexcited night by a tripping 
+         and cypherpunk in 1995, then extrapolating from there. But 
+         it's getting easier. That stalwart of anonymous remailing,
+         MIXMASTER, has been stealthily getting more user-friendly
+         over the last couple of years. Nowadays there's a
+         text-menuing system for sending out anonymous mails (and
+         Usenet postings) that's almost intuitive. There are emacs
+         and mutt interfaces. And provisionally you can also create
+         nyms that can receive and send anonymous mail too (although
+         that seems to segfault in the Debian version and we're far 
+         too anonymous to find out why).  Of course, to continue the
+         crypto-wankery theme, alt.privacy.anon-server is now a
+         market-mandated mess of mutual recrimination, spams and
+         hoaxery, but it all seems to work, mostly. So you can stop
+         sending us mutually-incriminating mail from work accounts
+         now can't you... Mr Bond?
+ http://groups.google.com/groups?group=alt.privacy.anon-server
+             - So we meet again, Frog; I might have known it was you.
+ http://mixmaster.sourceforge.net/
+                - God knows what state Private Idaho is in these days
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+     http://lists.insecure.org/lists/nmap-hackers/2003/Apr-Jun/0010.html ,
+         http://www.insecure.org/ - perfect excuse if you're caught for 
+         http://film.guardian.co.uk/cannes/story/0,13266,957079,00.html 
+         ... what you missed at this Wednesday's SCRAMBLING FOR SAFETY: 
+         http://plum.flirble.org/~owen/SfS6.txt ... Dave Gorman takes 
+         on board criticism that "any idiot with a search engine could 
+         do that": http://www.davegorman.com/dggwa.html ... not quite 
+         the critical deconstruction of post-modern sexuality you might 
+         have hoped for: http://www.noapologiespress.com/pbs/ ... a 
+         trap?: http://www.af.mil/stories/123004851.shtml ... religious 
+         action figure n+1 - Catholic School Girls, in "crisp new 
+         school uniform": http://blessings-catalog.com/schoolgirl3.html ... 
+     http://www.newsmaxstore.com/nms/showdetl.cfm?&DID=6&Product_ID=1294
+         vs http://www.chickenhawkcards.com/ ... looks like a spoof of 
+         http://www.commercialbreaksandbeats.co.uk/ , but a bit more 
+         interesting: http://www.busstation.net/screen/screenad.htm ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> CAMBRIDGE SPIES (9pm, Fri, BBC2) harks back to a time 
+         when Cambridge graduates would be recruited by the KGB rather 
+         than Demon Internet... ALI G IN DA USAIII (10.40pm, Fri, C4) 
+         appears to be screening the Naomi Wolf interview deemed "too 
+         hot for HBO" http://www.ananova.com/news/story/sm_758839.html 
+         ... and Channel4 joins the human reproductive cloning race in 
+         THE FIRST HUMAN CLONE: CONCEPTION (8.05pm, Sat, C4)... "Harry 
+         Potter and The Lord Of The Rings" sweeps the board in THE BIG 
+         READ TOP 100 (9.05pm, Sat, BBC2), up against the isolated 
+         island entertainments of ESCAPE FROM NEW YORK (9.05pm, Sat, 
+         C4) and KEVIN AND PERRY GO LARGE (9.05pm, Sat, BBC1)... Drew 
+         Barrymore goes back to school in NEVER BEEN KISSED (10.05pm, 
+         Sat, ITV)... and ALIENS (10pm, Sun, C4) now resembles "Halo: 
+         The Movie", and is followed by Mark Kermode's ALIEN EVOLUTION 
+         (12.50am, Sun, C4) then, later in the week, ALIEN 3 (10.40pm, 
+         Thu, C4)... on the subject of suspiciously well-documented 
+         Marines rescue missions, Private Jessica Lynch is the topic of 
+         WAR SPIN (7.15pm, Sun, BBC2)... Nick "Spaced" Frost looks at 
+         MOVIE MISTAKES UNCOVERED UNCUT (8.30pm, Sun, C5)... Woody 
+         Allen finally admits he's actually playing "Himself" in 1930s 
+         jazz odyssey SWEET AND LOWDOWN (11.25pm, Sun, BBC2)... and 
+         didn't Alexandra Aitken shower with a rugby team in the last 
+         series of 99 THINGS TO DO BEFORE YOU DIE (11.05pm, Mon, C5)? 
+         (And if not, why not?)... CRASH OF AN INTERNET PORN KING: 
+         OPERATION LANDSLIDE (9pm, Tue, BBC2) seems unlikely to explore 
+         the conspiracy theory that "Operation Ore" was named after the 
+         FBI's "Carnivore" program... expect plenty of ads for cleaning 
+         products in borderline-obsessive-compulsive makeover HOW CLEAN 
+         IS YOUR HOUSE? (8.30pm, Wed, C4)... Wednesday is Matrix night, 
+         with a direct-from-the-premiere LIVE WITH CHRISTIAN O'CONNELLL 
+         (7.30pm, Wed, C5); the original THE MATRIX (9pm, Wed, C5) - 
+         last shown last October; plot-free CGI showcase ANIMATRIX: 
+         FINAL FLIGHT OF THE OSIRIS (11.35pm, Wed, C5); THE MAKING OF 
+         THE MATRIX RELOADED (11.50pm, Wed, C5); plus the moderately 
+         influential Keanu clunker JOHNNY MNEMONIC (11.15pm, Wed, BBC1) 
+         ... while Thursday's theme appears to be "Fame, and its 
+         aftermath", with a triple bill of THE CURSE OF BIG BROTHER 
+         (9pm, Thu, C5), CELEBRITY DETOX CAMP (10pm, Thu, C5) as well 
+         as X-RATED AMBITION: THE TRACI LORDS STORY (11pm, Thu, C5) - 
+         the tragic tale of an adult movie star ultimately forced to 
+         appear in a Manic Street Preachers video... 
+         
+         FILM>> "Wonderful... Jane Austen in bondage gear" was the 
+         verdict of NTK reader MIKE TAYLOR on controversial limited-
+         release psychosexual James Spader S&M office romance SECRETARY 
+         ( http://www.cndb.com/movie.html?title=Secretary : lots of 
+         spanking and [Maggie "Donnie Darko" Gyllenhaal's] bare butt 
+         and thigh during the mid point of the movie) - so please write 
+         in with your one-sentence reviews if you go and see any of the 
+         previews of THE MATRIX RELOADED this Wednesday or Thursday... 
+         straight in at number 22 in the IMDB's Worst 100 Movies Of All 
+         Time is puerile Bruckheimer urban-legend-remake KANGAROO JACK 
+         ( http://www.screenit.com/movies/2003/kangaroo_jack.html : 
+         the camera briefly focuses on [Estella "Planet of the Apes" 
+         Warren's] shapely body in wet, clingy clothes)... Denzel 
+         Washington sticks somewhat closer to reality for "inspired by 
+         a true story" grown-up-victim-of-child-abuse fable ANTWONE 
+         FISHER ( http://www.capalert.com/capreports/antwonefisher.htm :
+         accusation of homosexual practices; offscreen intercourse; 
+         mockery of faith-related excitement)... Tim Roth *is* Oliver 
+         Cromwell in period thrill TO KILL A KING ( www.bbfc.co.uk : 
+         contains infrequent moderate violence)... and rounding off the 
+         rogue's gallery of this week's releases, the "Ops" in question 
+         turn out not to be heart-lung transplants or female-to-male 
+         transsexuals during anti-Serbian snowboard nonsense EXTREME 
+         OPS ( http://www.cndb.com/movie.html?title=Extreme+Ops : the 
+         girls dare [Joe "Servants" Absolom] to roll around in the snow 
+         and climb up a rope fully naked)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                "the real Dave Green would use Gifs for this"
+                       http://antics.org.uk/tea/tead.htm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

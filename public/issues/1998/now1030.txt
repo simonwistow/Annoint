@@ -1,0 +1,288 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____30/10/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+                   
+         "Internet Time is absolute time for everybody. Now is now
+         and the same time for all people and places. Later is the
+         same subsequent period for everybody. The numbers are the
+         same for all."
+         - NICHOLAS NEGROPONTE at http://www.swatch.com/internettime
+...also, emotions are energies vibrating faster than the speed of light
+
+                                
+                                >> HARD NEWS <<
+                                 fruity chews
+
+         The Net's very own degentrified no-go zone, USENET, fell
+         further into screeching chaos this week. The newsgroup's new
+         street drug of choice, HipCrime, is spreading fast - a
+         simple script which replaces legitimate newsgroup posts with
+         unreadable nonsense (and yes, the two are separable to an
+         expert eye). No-one knows who's behind Hipcrime - some
+         suspect it's a concerted effort by a small group, others
+         asuume it's a generalised act of self-destruction by the
+         usual script kiddies. Or maybe it's just like the Sixties,
+         and the CIA are flooding the market with uncut HipCrime to
+         prevent the Randian revolution from spilling out of
+         alt.objectivism.
+         http://extra.newsguy.com/~rchason/
+         - like anyone goes there now 'cept to score warez and whores
+         http://www.ganesha.org/ptb/hipcrime.html
+                                              - more street craziness
+         
+         Germany's Chaos Computer Club lost one of its leading lights
+         (in a suitably decentralised, Erisian way) with the death of
+         hardware hacker TRON. One NTK correspondent recalled "he
+         possessed superior nads", but Tron may be better remembered
+         elsewhere for his work in exposing security holes in
+         smartcards and the GSM telephone network, as well as the
+         first probing of the new German digital TV set-top boxes.
+         Tron's body was found in a Berlin park. The police are
+         treating the incident as suicide: CCC demur. 
+         http://www.ccc.de/CRD/CRD241098.en.html
+
+         Happier news on our oh-so-right-on cyber-rights campaign.
+         Word on the Downing Street is that the DTI finally unveiled
+         the technical proposals to a few real experts. They pointed
+         out that, as it stands, the law would preclude all but three
+         commercial encryption systems from being used, and even they
+         would require major design changes. The DTI (whose functions
+         include encouraging competition, and controlling restraint
+         of trade) had not considered this, and have now retired to
+         patch the proposals. Which is fortunate, as we discovered
+         that our "voter empowerment" ruse planned for this week may
+         have contravened the Prevention of Terrorism Act. And people
+         say we don't check this stuff out.
+         http://www.cyber-rights.org/press/
+                                           - meet like-minded friends
+         
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         Interface's Dr KEYBOARD recommends people ignore ISP advice,
+         install Microsoft Internet Explorer... Time Out's SPYDER
+         apologises for misnaming "Macromedia Shockrave" - it should,
+         he explains, be "Shockrave's Shockwave"... NT 5.0 renamed
+         2000 (blame rounding errors in the math library)...
+         JIM BARKSDALE saw himself as "Stalin", reveal e-mails...
+         Interface's Dr KEYBOARD says alternatives to NT "for experts
+         or enthusiastic amateurs with too much time on their
+         hands"... new Freeserve-fearing A4-size AOL mailout uses the
+         word "Free" 27 times (not counting uses in body copy)...
+         Interface's Dr Keyboard recommend you use Microsoft Hotmail
+         with Microsoft Internet Mail or Microsoft Outlook Express...
+         VM Labs rename "Project X" NUON, don't realise www.nuon.com
+         already belongs to Dutch folk history museum.. AUDIOSTREET
+         overestimate Prince revival: http://www.ntk.net/doh/audio981023.gif
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         "The gradual co-opting of Halloween to celebrate science
+         fiction mythology rather than supernatural tradition is
+         symptomatic of a society that now projects its concerns
+         towards technology rather than the metaphysical unknown.
+         Discuss." Whatever, any excuse will do for uber-webcast
+         SCIFI CON 3.0, the SciFi Channel's weekend-long online
+         jamming-on-the-net sort of thing, with Real Audio author
+         readings (KW Jeter's new Noir - from 4am GMT, 31/10/98,
+         Bruce Sterling's Distraction - from 5pm GMT, 31/10/98), and
+         endless scrutinising of the original Halloween/ sci-fi
+         crossover, Orson Welles' "panic-inducing" War Of The Worlds
+         radio show. Though we bet Jim Cameron doesn't touch on the
+         theory that the whole "mass panic" myth was *made up* by the
+         authorities to "prove" there'd be chaos if first contact was
+         made, thus justifying cover-ups of all subsequent alien
+         activity. 
+         http://www.scifi.com/scifi.con/
+                                             - note to SFX readers... 
+         http://www.venus.co.uk/wotw/
+                   - ..."Orson Scott Card" is not a publisher of CCGs 
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         For those of you who tire of watching John Glenn's launch
+         take just over five hours to "real time stream", allow us to
+         present X-FILE. This utility can dump RealMedia files to
+         disk even from servers using the "pnm:" protocol. So when
+         you try to do a "Save link as..." on a RealMedia file, and
+         all it gives you is a stumpy little ".ram" file, you'll
+         still be able to grab the genuine article for later,
+         full-speed playback. Unpleasantly, it's a Windows shareware
+         utility with all the hallmarks of that ancient form
+         (time-limited demo, "unusual" user interface, weirdo
+         installation), but it does the job. And, hey, if he *does*
+         die, you're going to want a permanent memento, aren't you?
+         http://2bsystem-usa.www-hosting.net/X-FileGet/
+                              - oh, yeah, as if you hadn't thought it
+          http://www.pcisys.net/~mrunner/psxamp/
+                                        - next: RIAA ban Playstation
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Star Wars trailer spoiler (feel the evil rising in you):
+         http://www.darkhorizons.com/news4/swtrail.htm ... too geeky
+         for your wrist: http://www.orang-otang.com/ ... local
+         weirdness: http://bltc.com/domains.htm ... John Romero and
+         Bill Gates share birthday (28/10)... Is Your Kid A Hacker?,
+         asks Kevin Poulsen and http://www.zdnet.com/familypc/ ...
+         using thetrip.com to track corporate jets; deals... how
+         about a HOWITZER? http://www.briwebsite.com/ ... NETLINK
+         rehiring previously fired employees?... Self-Important
+         Newspaper Explains Onion To Dumb Americans Who Don't Get It
+ http://www.washingtonpost.com/wp-srv/WPlate/1998-10/25/063l-102598-idx.html 
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> the co-opting of Halloween continues - but no
+         complaints from us - with LWT late-night abducted by ALIEN
+         INVADERS (from midnight, Fri, ITV). Phenomena include sci-fi
+         quiz UNIVERSE CHALLENGE (12.50am, hopefully Craig
+         Charles-free), the forgiveably titled STARSHIP BLOOPERS
+         (12.15am), and surely a repeat of that wildly inconclusive
+         UFO docu, AREA 51 (1.20am)... cackling, witch-faced Davina
+         McCall "trick or treats" around Brighton and Manchester via
+         the mild pimping/ matchmaking overtones of STREETMATE
+         (9.30pm, C4, Fri)... still, the big guns are out at the
+         weekend, with twitchy Nick Broomfield's character
+         assassination of KURT AND COURTNEY (9.30pm, Sat, BB2)... C4
+         hope to prove there's more on their film channel than just
+         Trainspotting, Shallow Grave, The Madness Of King George and
+         ultraconformist feelgooder FOUR WEDDINGS AND A FUNERAL (9pm,
+         Sat, C4)... but any sane TV will be chasing THE FUGITIVE
+         (10.25pm, Sat, ITV) - "I didn't kill my wife!" "I *don't
+         care*!" - then that rare original-equal remake, John
+         Carpenter's best film, THE THING (12.55pm, Sat, ITV)... oh
+         and we can't not mention Australian geek-hobby homage MEN
+         AND THEIR SHEDS (7pm, Sat, C4)... Mark Kermode indeed looks
+         like he's been watching 25 YEARS OF THE EXORCIST (12.40pm,
+         Sun, BBC2)... but he's missing ADAM AND JOE'S FILM FOUR
+         SPECIAL (about 9.20pm, Sun, C4), followed by an explanation,
+         then the film, of hilarious new-heist puzzler THE USUAL
+         SUSPECTS (from 9.30pm, Sun, C4) - and a bunch of Ewan
+         McGregor vehicles... Paramount prove "Master Of Their
+         Domain" with the famed abstinence classic episode of
+         SEINFELD (9.30pm, Mon)... who would you least to want to see
+         on TV? Armando Iannucci presenting a "Zippergate"
+         retrospective from an oddly familiar 2028 in CLINTON: HIS
+         STRUGGLE WITH DIRT (10pm, Mon, BBC2)? Or Mac lamer Douglas
+         Rushkoff rambling on drugs in "experimental" narco-doc FATAL
+         EMBRACE (11pm, Mon, C4)?... your weird friend who's into
+         Coen Brothers films will bitterly fail to comprehend your
+         disappointment at gangster drama MILLER'S CROSSING (12.05am,
+         Tue, C4) (attention all "weird friends": we're joking, so
+         don't write in, OK?)... an extended EPK promises a look
+         INSIDE THE X FILES (11.35pm, Wed, BBC1)... leading into
+         little-known Kurt Vonnegut thought-control satire HARRISON
+         BERGERON (12.20am, Wed, BBC1)... HORIZON (9.25pm, Thu, BBC2)
+         sounds deadly serious about drug-free laughter therapy for
+         ADHD kids... but the hilariously Reaganite patriotic
+         synth-pop over the end titles will always be the best bit of
+         RAMBO: FIRST BLOOD PART II (9.35pm, Thu, C5)...
+
+         FILM>> they rave about the head-spinning f/x but it's the
+         psychological horror that really shakes the bed in
+         unbettered classic THE EXORCIST (imdb: priest / religion /
+         vomit / based-on-novel / blockbuster / demon / devil /
+         exorcism / occult / ouija / possession). That, and the scary
+         X-ray machine, and the fact that nothing much happens in the
+         first 45 minutes... an even worse first-date-movie is
+         extreme Austrian Natural Born Killers-style shocker FUNNY
+         GAMES (imdb: controversial / hostage / murder /
+         psychological / torture / violence) - we certainly find
+         violence more titillating when it's presented as a critique
+         of the media portrayal of it... and not many laughs either
+         in so-bad-it's-awful Brit Vampire trash RAZOR BLADE SMILE
+         (imdb: filmed in Kent and Buckinghamshire)... "It's The Full
+         Monty meets Spinal Tap!" says the PR for Clement/ La Frenais
+         rock reunion scam STILL CRAZY (imdb: comedy / romance). Er,
+         no, it's not... famous heterosexual Emma Thompson
+         intriguingly cast as Hillary in tiresomely accurate
+         behind-the-times Clinton spoof PRIMARY COLOURS (imdb: "Set
+         in 1992, features Lucent phones. Lucent wasn't spun off from
+         AT&T until 1993")... and you'd have to be sick indeed to
+         become sexually obsessed with Rachel "Chain Reaction" Weisz,
+         as shown in harrowing Northern drama I WANT YOU (imdb:
+         sexual-awakening / suicide / tape-recorder / color-filter /
+         hairdresser / murder / mute / probation / psychological /
+         puberty) - which *does* seem to be based around the Elvis
+         Costello song of the same name (though not the ones by The
+         Beatles, Cheap Trick, Savage Garden, Bob Dylan, Melissa
+         Etheridge or Cabaret Voltaire)...
+
+         BONERS>> Thanks to everyone who wrote in complaining that it
+         *isn't* Dana Carvey in the movie version of Blue Thunder
+         [see NTK 02/10/98]; his role is played by Daniel Stern
+         (Billy Crystal's pal in City Slickers, also the "inner voice
+         of Kevin Arnold in the Wonder Years")... also, ALISTAIR
+         BURNS clarified that U2's Sweetest Thing [NTK 16/10/98]
+         first appeared on the B-side of When The Streets Have No
+         Name, which, in August 1987, was released a month before
+         T'Pau's Bridge Of Sighs album (featuring China In Your
+         Hand). But, still no clearer on just *who copied who*...
+         reassuringly, no-one queried our claim that "China In Your
+         Hand" is in fact a tribute to Mary Shelley's Frankenstein,
+         so that must now be considered irrefutable fact... two
+         people asked for the URL of the "Dominator" page of current
+         UK music releases (one of which turned out to be the guy who
+         runs it), so for all of you whose search engine of choice
+         doesn't let you use highly distinctive terms like
+         "Dominator", it's: http://www.sonicstate.com/dom/reviews.htm
+         ... oh and NEIL MILLAR correctly pointed out that it's "Ace
+         Of Base", not "Ace Of Bass" [NTK 16/10/98, again] - those
+         wacky Swedes preferring to name themselves after a street
+         term for cocaine instead of the perhaps more obvious
+         low-frequency audio... WAYNE WILLIAMS proposed that "LM"
+         [NTK 23/10/98] didn't stand for "Leisure Monthly" but
+         "Lively Magazine", or possibly "Lloyd Mangram" after the
+         ego-tripping editor of Crash who (briefly) ran it. Frankly
+         who cares - does anyone remember weekly multimedia newspaper
+         BANG? Or what about SPEED AND POWER?... also last week we
+         recommended MacOS 8.5: you might like to read
+         http://www.macintouch.com/m85_diskdamage.html before taking
+         our advice again... boner to the power boner! We omitted to
+         mention in the last BONER that Michael Wolff doesn't write
+         for the NY Times magazine, but New York magazine.
+         Apparently, there's some subtle difference...
+         
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "we blagged our way into the
+    BAFTA Awards ceremony, and all we got was this lousy special citation"
+   http://news.bbc.co.uk/hi/english/entertainment/newsid_204000/204258.stm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+

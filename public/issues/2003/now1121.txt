@@ -1,0 +1,297 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-11-21_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "What has caused the terrorist attack today in Turkey is not 
+         the President of the United States, is not the alliance 
+         between America and Britain. What is responsible for that 
+         terrorist attack is terrorism..."
+       - Tony Blair puts his finger on what's really going on the world
+      http://politics.guardian.co.uk/iraq/story/0,12956,1089630,00.html
+         ...furthermore, it is precisely because we fear that which we 
+                                       fear - that we are afraid of it
+
+
+                               >> HARD NEWS <<
+                              summarily removed 
+
+         Remember the good old days, when you and your transhumanist
+         mates could amicably disagree on such pressing topics as the
+         name of your crypto-currency, the ocean your data haven
+         nano-atoll would float on, and whether or not you'd let your
+         other post-singularity instantiations join a hive-mind?
+         These days, that precious techno-consensus has shattered.
+         Brother against brother, Stross against Raymond; people
+         don't even agree which Political Compass quiz to take any
+         more. We're still trying to map out this new reality (so
+         much more tedious than the new realities we thought we'd
+         have by now). But an announcement this week seemed to peg
+         out the scale a little for us: the techno-libertarian Cato
+         Institute arguing with techno-socialist Bill Thompson over
+         whether Google should be a public utility. As diverse a
+         viewpoint as you could muster, and just as realistic a
+         discussion as those "what colour will you dye your solar
+         system" chats we had all those years ago. Meanwhile, in an
+         attempt to be non-partisan, we've accepted a 1UKP bribe from 
+         an anonymous NTK subscriber to "lay off Bill" for a bit - 
+         see: interventionism *and* the free market, together at last!
+         http://www.cato.org/tech/tk/031114-tk.html
+                                     - there, the best of both worlds
+         http://politics.beasts.org/
+                               - Which Cartesian Co-Ordinate Are You?
+
+         First off, apologies to subscribers whose NTK was spam-trapped 
+         a couple of weeks ago for inadvertently including a open proxy 
+         IP address buried in the Received: header. We've realised how 
+         to stop that: we don't have such an easy solution for anyone 
+         who works at Channel4, whose corporate gateway blocked last 
+         week's issue for being "of a pornographic nature", possibly 
+         due to the inclusion of some of the channel's own TV listings. 
+         If SAM KINGTON can read this at all, it's probably via our RSS 
+         feed, after his SpamSieve installation achieved an superhuman 
+         level of Bayesian sentience and rejected NTK 2003-08-08 for 
+         its gratuitous use of such giveaways as "organised", "mitnick", 
+         "mercy", "preceded", "erotic", "non-" and (apparently) "3210". 
+         But even he should consider himself lucky that he doesn't work 
+         at HITACHI DATA SYSTEMS, who hinted at their strict definition 
+         of work-related mail by remarking "Your message failed to pass 
+         Hitachi Data Systems content filtering system", in response to 
+         our "Welcome to the NTKnow mailing list" Mailman confirmation 
+         greeting.
+         http://www.hexkey.co.uk/lee/log/2003/11/08/#1068321120
+                          - our spam correspondent has the full story
+         http://www.ntk.net/rss.php
+                               - aka the poor man's rich site summary
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         bloody outer-space property developers have sold off all the 
+         moon: http://www.ntk.net/2003/11/21/dohmoon.gif ... or visit 
+         our Mars branch: http://www.ntk.net/2003/11/21/doh40m.gif ... 
+         quite a commute, so need typists that can travel at 9 times 
+         speed of sound: http://www.ntk.net/2003/11/21/dohtype.gif ... 
+         powered by a 300 megawatt wristwatch (gets through lots of 
+         batteries though): http://www.ntk.net/2003/11/21/dohmega.gif 
+         ... http://www.kelkoo.co.uk/b/a/ss_Honda_lawnmowers.html ... 
+         double-URLtendres of the fortnight: http://www.mp3shits.com/ , 
+         http://www.mattressex.co.uk/ , http://www.atitproductions.com/ ,
+         www.nutrend.co.uk , http://www.cts-group.co.uk/coprofile.htm , 
+         http://www.blackfriarswinebar.co.uk ... when testdata attacks: 
+         http://dogbert.abebooks.com/servlet/BookDetailsPL?bi=14107508 ,
+         http://dogbert.abebooks.com/servlet/BookDetailsPL?bi=101203338
+         ...Comdex 2003 at the Las Vegas Convention Center welcomes BRIAN: 
+         http://www.ntk.net/2003/11/21/dohbrian.gif ... infinite monkeys 
+         making real progress: http://www.ntk.net/2003/11/21/dohape.gif
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         (Just to settle this whole "goto's" apostrophe business once 
+         and for all, reader TOM DOLAN helpfully chips in to suggest 
+         "Couldn't you just pretend it's a contraction of 'goto is'?" 
+         To be honest, Tom, we're currently looking to whether the 
+         plural of "goto" should in fact be "goes to", just as it 
+         should technically be "passers-by", "Whoppers Junior" and 
+         "Burgers King".) Anyway, we're sure someone will be able to 
+         explain the correct pluralisation to you at next Tuesday's 
+         open-to-the-public "introduction to Linux and free software" 
+         MENSA LECTURE (7pm, Tue 2003-11-25, Dover Castle pub, London 
+         W1G, UKP4.50 inc "1 drink from bar"). It's delivered by NTK 
+         reader, Linux Magazine contributor (and Lead Programmer on 
+         Gamecube "Die Hard Vendetta"?) STEVEN GOODWIN, with the 
+         intriguing title "Why My Friends And I Re-Invented The Wheel. 
+         Again" (and not, as we'd hoped, "You Don't Have To Self-
+         Identify As Having A Genius-Level IQ To Successfully Install 
+         Linux Nowadays - But It Helps"). 
+         http://www.bluedust.com/mensa/
+                   - what's the plural of Mensas? Mentalists? Mensae? 
+         http://www.doolin.com/events.html
+                            - doh: same day as Ronan's Irish RSS talk
+         http://www.buynothingday.co.uk/
+         - next Saturday: Adbusters-instigated anti-consumer activism
+         http://groups.yahoo.com/group/ukbloggers-social/message/723
+            - doh: same day as Funjunkie's Christmas London blog bash
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         There are many TLA to TLA convertor utilities, but none so
+         perversely useful as VNC2SWF. This blob of super-glue for
+         Linux intercepts the remote display protocol VNC and
+         converts it into a Macromedia Flash animation - an instant
+         Webbable replay of every repaint, every mouse twitch on a 
+         screen. It's the obligatory Sourceforge screenshot of the
+         future! VNC2SWF isn't perfect - some screen recordings 
+         confused both the legit Flash plugin and the GPL'd clone. 
+         And while VNC2SWF is cool, wouldn't a full VNC client 
+         serving out of a Flash file be even cooler?
+         http://www.unixuser.org/~euske/vnc2swf/
+                            - Flash. cool. what has *happened* to us?
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         sick of Firebox? http://www.seethru.co.uk/shop/cocoon/ , 
+         www.gizmo-guru.com , www.buymethatnow.com/category87_1.htm ... 
+         http://www.groovymother.com/archives/2003/11/12/specchums.html 
+         - eeurgh Miss, Begbie swapped POKES!... Pong at up to 8Mbps: 
+         http://www.binatonebroadband.com/ ... Anton Maiden RIP: 
+         http://www.waxy.org/archive/2003/11/09/anton_ma.shtml - his 
+         idiosyncratic Iron Maiden-covering spirit kind of lives on: 
+http://www.piccadillyrecords.com/ver2/search1.php?new=1&search=iron+maiden
+         ... this week's all-too unfortunately inappropriate Google 
+         text ad: http://www.ntk.net/2003/11/21/dohcrate.gif ... spam 
+         taking that SpamAssassin "QUOTED_EMAIL_TEXT" test literally 
+         [NSFW]: http://www.ntk.net/2003/11/21/dohquotes.txt ... truth 
+         in hoardings: http://www.ntk.net/2003/11/21/dohrevolutio.jpg 
+         ... how *all* the "top--sites.com" are describing themselves: 
+         http://top--sites.com/update.htm?d=top--sites.com&e=w ... we 
+         say - download it quick before they start rolling out IPv6: 
+        http://blort.org/~kgasso/images/how-to-catch-script-kiddies.gif
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> 24 hours of DR WHO (7am-7pm, Sat & Sun, UK Gold) 
+         commemorates the show's 40th anniversary, along with perhaps 
+         the ultimate tribute - yet another spoof by the multitalented 
+         "Dead Ringers" team as part of CHILDREN IN NEED (around 8pm, 
+         Fri, BBC1) http://www.martian.fm/a_to_z.htm ... Jon Ronson 
+         rediscovers Disney song Oscar-winner Randy Newman in THE ART 
+         SHOW (7.30pm, Fri, C4)... while the popularity of SOUTH PARK 
+         (12.25am, Fri, C4) just *proves* that the right is fighting 
+         back against a media dominated by pesky big-business liberals: 
+         http://www.city-journal.org/html/13_4_were_not_losing.html 
+         ... Victor Lewis-Smith's Radiophonic Workshop hagiography 
+         ALCHEMISTS OF SOUND (7pm, Sat, BBC4) gets a digital repeat, in 
+         accordance with NTK prophecy... don't expect too savage a 
+         critique of star-friendly mysticism in JERRY HALL'S GURUS 
+         (8pm, Sun, BBC3)... as Piers "Who he?" Morgan ponders the 
+         hollow, empty world of modern celebrity in THE IMPORTANCE OF 
+         BEING FAMOUS (9pm, Tue, C4) - not to be confused with the more 
+         literal parasites profiled in BODYSNATCHERS (9pm, Wed, BBC1) 
+         ... more conventionally disturbing entertainment is available 
+         in the form of Jan Svankmajer's overlong Czech-subtitled semi-
+         animation LITTLE OTIK (12.40am, Mon, C4), online suicides 
+         documentary CHATTING TO DEATH (10.40pm, Tue, C4), plus ex-
+         dancer Lisa Bufano talking "about using the internet and other 
+         media as forums for expressing herself sexually as an amputee" 
+         in DESIRABILITY (11pm, Tue, BBC3) - though you don't get very 
+         much if you Google for her name... oh, and in case you missed 
+         any news coverage of the event, HORIZON (9pm, Thu, BBC2) muses 
+         whether the recent breakup of the Columbia space shuttle may 
+         have been caused by "damage to the wing" or something...
+         
+         FILM>> "When the planes hit the Twin Towers", says Hugh Grant 
+         in the opening narration, "as far as I know, none of the phone 
+         calls from the people on board were messages of hate or 
+         revenge - they were all messages of love" - but only 'cos it 
+         was way too early to text your friends to tell them to avoid 
+         Richard Curtis' latest zany posh Brits nonsense LOVE ACTUALLY 
+         ( http://www.screenit.com/movies/2003/love_actually.html : The 
+         filmmaker wants [Joanna Page] to remove her top so that they 
+         can see her nipples. She then complies)... everyone else seems 
+         to be trying to avoid releasing anything at all the same week, 
+         with the possible exception of Eurotrashy "xXx"-alike STEAL 
+       ( http://www.cndb.com/movie.html?title=Riders+%28aka+Steal%29 :
+         Natasha [Henstridge] supposedly engages in a scene with male 
+         lead [Stephen] Dorff in a hot steam room around the 29 minute 
+         mark, but it's so obviously a body double)... while James 
+         Cameron may have wanted to make "Aileens", and Jean-Pierre 
+         Jeunet "Aileen: Resurrection", but Nick Broomfield stood firm 
+         and made his own limited-release sequel to "Aileen Wuornos: 
+         The Selling of a Serial Killer", AILEEN: LIFE AND DEATH OF A 
+         SERIAL KILLER ( http://www.imdb.com/title/tt0364930/ : If you 
+         like this title, we also recommend... Lily Tomlin)... 
+         
+         AVAILABLE IN A WIDE RANGE OF BLACK>> yes, we did a T-shirt 
+         round-up just the other month, but the post strike's over now 
+         and we've got the Nochex payment system fully up and running, 
+         so all you need is a valid UK debit card (Switch, Solo, Visa 
+         Debit, Electron or Maestro) at http://www.ntkmart.com/ - and 
+         you don't have to sign up for any fancy PayPal account or 
+         anything! This month: you can declare that *your* chest is 
+         "Not A Place Of Honor", that "No Highly Esteemed Deed, Rock 
+         Concert, and/or Software Release" is commemorated there - and 
+         that, furthermore, it is a "A Message And Part Of A System Of 
+         Messages/ We Considered Ourselves To Be A Powerful Culture" 
+         etc etc - with our adaptation of the popular "Expert Judgement 
+         on Markers to Deter Inadvertent Human Intrusion into the Waste 
+         Isolation Pilot Plant": http://downlode.org/etext/wipp/ ... or
+         indicate your disdain for the current "heavy metal" revival 
+         (like it ever went away!) with the "AD/HD" logo (surrounded by 
+         "Attention Deficit Hyperactivity Disorder/ World Tour 200... 
+         - What Year Is It Again?"), or all those Hollings-Bill-style 
+         proposals thanks to DUNCAN MARTIN's Ben Franklin tribute "They 
+         That Can Give Up General Purpose Computers For The Sake Of A 
+         Little Eye Candy Deserve Neither Computers Nor Eye Candy": 
+         http://www.ntkmart.co.uk/ntkmart.cgi#Frank - which he sent in 
+         about this time last year, but still gets a couple of quid 
+         royalty from each one sold nevertheless... in more recent 
+         entries: SAM PIKESLEY stood out from the pack with his "l33t" 
+         pun http://www.pikesley.org/1337brigadetshirtdesign.html ; 
+         WAYNE WILLIAMS sought to capitalise on the relative success of 
+         his previous "l3m4r5" shirt with a selection of quirky follow-
+         ups http://www.ntkmart.co.uk/images/wwilliams.jpg ; and ANDREW 
+         WIFFEN sent in no less than 29 suggestions - sadly we can only 
+         print the best: http://www.ntkmart.co.uk/images/awiffen.gif 
+         ... it's been quieter in "Buy One, Subvert The Mass Media, Get 
+         One Free" recently, though we've had reports of VIOLET BERLIN 
+         wearing one while interviewing Matt "Little Britain" Lucas in 
+         GAMEPAD 4 on Bravo http://www.whizzbang.tv/news.html , while 
+         PAUL EDWARDS provided this year's traditional sighting of both 
+         an "Adminspotting" and a "404" at this year's "Erotica UK" (as 
+         per http://www.ntk.net/index.cgi?b=02002-03-08&l=258#l )... 
+         which just leaves the winners announcement for the World's 
+         Best and Worst Email Impersonations of Iain "Thumb Bandits" 
+         Lee (see http://www.ntk.net/index.cgi?b=02003-08-29&l=291#l ) 
+         - the former going to whoever mailed from a "scoshi" email 
+         login explaining that "it's Japanese for 'The Eleven O'Clock 
+         Show'" (it isn't, it's more like "small" or "little one" - but 
+         we're not sure whether the real Iain Lee would know that 
+         either), and the latter being the self-confessed "femalee" 
+         lookalike GILLIAN KIRBY. We just need their addresses now to 
+         send out their prizes, so if they could mail us again with the 
+         subject line "I'm A Pretend Iain Lee Prize-Winner (Or Somebody 
+         Pretending To Be One)"...
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "deeply ungenerous"
+              http://www.crookedtimber.org/archives/000807.html              
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

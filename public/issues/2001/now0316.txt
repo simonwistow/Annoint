@@ -1,0 +1,353 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-03-16_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "One relatively mild step, Friedman explains, is to force you 
+         to reboot your computer. Since the fastest reboot is about 
+         six minutes, he says, this defense alone creates a serious 
+         obstacle for most automated, so-called brute-force hacking tools..."
+         - INSIDE.COM unveils terrifying new military anti-piracy tech
+                   ( http://www.inside.com/jcs/Story?article_id=25476 )
+     ...*six minutes* to reboot your machine? How many DLLs does it install?
+         
+
+                                >> HARD NEWS <<
+                             who's watching youse
+
+         Some more facts of British Net life just got "clarified" by
+         the courts. Witness TOTALISE vs Motley Fool and Interactive
+         Investor a case decided this Feb, but only out in the law 
+         reports last week. It was here that a court decided that the
+         full details of an anonymous poster (who was slagging off
+         the ISP) should be handed over to the court for a civil
+         libel case. A few matters of interest to the average
+         ISP-slagging NTK reader (especially the anonymous ones: you
+         know who you are). First: the court decided that Motley and
+         II could not protect their sources as newspapers can,
+         because they imposed no editorial control over their forums.
+         So British law now says UK Websites can be sued for libel
+         (because they are publishers) and be compelled to hand over
+         personal details (because they aren't). Nice. Also, this
+         decision should apply to ISPs as well as Websites. So in
+         winning this battle, Totalise will have opened itself and
+         other ISPs to endless fishing by libel litigants attempting
+         to track down whistle-blowers by looking up their dial-up 
+         details. Well done. And finally, as UKCRYPTO regular Donald
+         Ramsbottom noted, if the courts have this much power to
+         compel disclosure: why did they ever need RIP in the first
+         place?
+         http://www.thetimes.co.uk/article/0,,12-99112,00.html
+- whenever anyone asks us why we never pursued that Falco deadpool thing
+         http://www.kaplanindex.com/fsearch/commerce/purchase_form.php
+                          - blame the local hostile legal environment
+
+         After watching Thursday's TONIGHT show on ITV, it's hard not 
+         to sympathise with Carol Vorderman's single-handed crusade 
+         against poorly labelled chatrooms, a shadowy world where 
+         children using yahoo.com, apparently "the second most popular 
+         web provider in Britain", are just "three clicks of the 
+         computer mouse away" from predatory paedophiles. In fact, it's 
+         no longer just Carol on the case, angrily waving her notes and 
+         yelling "It's not good enough!" as Roland Perry tried to 
+         explain that pesky American obsession with "free speech", and 
+         indignantly concluding "So, it's *your* responsibility as a 
+         parent to be educated about the net and then constantly check 
+         every site your child will visit [...] - not [the Internet 
+         industry's] responsibility to censor, but yours." Of course, 
+         you never know who you're talking to in online chats - it 
+         might even be "brilliant technology journalist" Richard Barry, 
+         who's been helping Carol out the past few weeks by posing as a 
+         naive 12-year-old girl. Barry may be best known to NTK readers 
+         as the guy who, writing a games round-up for The Guardian in 
+         1998, reported without question a week-old April Fool about a 
+         Star Wars/ Star Trek crossover - exactly the sort of thing 
+         which might indeed be believed by a naive 12-year-old girl.
+         http://www.zdnet.co.uk/news/2001/10/ns-21591.html 
+         - now only two clicks away! What are ZDNet trying to tell us?
+         http://www.ntk.net/index.cgi?back=archive98/now0410.txt&line=92#l
+          - yeah, we're just jealous of Barry's male-model good looks
+
+         Meanwhile, the cognitive distance between the free Net and
+         the "free press" stretches further. Following a bit of 
+         entrapment by the Harrow Trading Standards crew in June, 
+         WHSmith recently got fined six grand for selling a copy of 
+         PC Zone with a "grossly violent" KINGPIN demo on it.
+         WHSmith has now, in a characteristically brave stance,
+         demanded that all magazine CD covermounts be ELSPA-rated. No
+         exceptions. Given that ELSPA ratings were originally
+         invented to *prevent* software having to pass obligatory
+         BBFC ratings, this looks like feeping creaturism to us - but
+         whatever we think, they should have some highly weird
+         side-effects. Apart from the terrifying onus now on
+         publishers to actually discover what's on their free CDs
+         (see NTKs passim on the STUART CAMPBELL vs EMAP affair), we
+         look set for some amusing badging of serious tech journals.
+         Mags like PCW and MacUser, for instance, will now be obliged
+         to appear with a "Suitable for Ages 3+" ELSPA label. Always
+         assuming an Office XP demo won't include depictions of
+         "humiliation", "offensive gestures" and "death or injury to
+         human-like or animal-like characters".
+         http://www.tradingstandards.gov.uk/brent&harrow/news5.htm#whsmith
+                                 - no, no, they dropped the Paperclip
+         http://www.videostandards.org.uk/games.htm
+ - remember: "VIEWING SUITABILITY, NOT ITS PLAYABILITY OR DIFFICULTY"
+         http://members.boardhost.com/ukresistance/msg/19457.html
+        - looks like "Bloody Roar 3" may have dodged the censors, tho
+
+         
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         no indication of how frequently they ANSWER them, though: 
+         http://www.aten-usa.com/support/faq/uc232.htm ... BAFTA-award-
+         winning wireless site generously open-sources authentication 
+         scripts: http://supedo.co.uk/sketchaphone/cftags/ ... IC24? 
+         "IC Dead People", more like... http://010101.sfmoma.org/ 
+         SHOCKWAVE requires "Windows(tm), Pentium 500MHz or higher, 
+         128Mb RAM" - at least they still support Win3.1 on a P500... 
+         why FOOT AND MOUTH only affects those Satanic, cloven-hooved 
+         animals: http://www.thescotsman.co.uk/index.cfm?id=53657 ... 
+         DISCLAIMER so powerful it threatens to disclaim own existence: 
+         http://www.ntk.net/2001/03/16/dohcorrect.gif ... jump! JUMP! 
+         http://www.ntk.net/2001/03/16/dohgrav.png ... NOOOO! Oh, wait: 
+       http://dailynews.yahoo.com/h/ap/20010306/ts/un_ambassador_1.html 
+         ... "All Your Base Are Belong To" - the CHEADLE LABOUR PARTY:
+ www.cheadlelabour.org.uk/cgi-bin/newspro/viewnews.cgi?newsid984421617,17653,
+         ... "I'm not just an eid number, I'm a customer of MCAFEE UK": 
+         http://mcafee.econtactor.co.uk/e50/index.cfm?eid=25740 ... 
+         WIRED e-mail addresses now "wiredmag.com" - ahaha... mildly 
+         preferable to his BOOKS: http://www.jeffreyarcher.co.uk/ , 
+         http://www.jeffreyarcher.org.uk/ ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         We're not sure whether there's any central organisation behind 
+         the moderately well-publicised SCIENCE WEEK 2001 (various 
+         venues, from today, 2001-03-16) or whether it's just relying 
+         on a fashionable "distributed networking approach" and 
+         spontaneous outbreaks of objective empirical research breaking 
+         out across the country. Or perhaps it's been absorbed into the 
+         clearly more ambitious SCIENCE YEAR 2001, exhibiting a long-
+         term perspective absent from previous versions of the Science 
+         Week site - http://www.nationalscienceweek.org.uk/ - which, 
+         the Google cache reveals, appears to have been built using a 
+         30-day trial version of Claris Home Page. 
+         http://www.bbsrc.ac.uk/society/exhibitions/sciweek/
+         - vs http://www.google.com/search?q=uk+%22science+week%22+2001
+         http://www.scienceyear.co.uk/forms/pack.html
+              - learn how to crash Netscape with a giant Flash intro!
+         
+         In order "to introduce a younger generation to the high 
+         quality artwork and ethos of the original Eagle" - just think, 
+         there are kids today who've never even heard of "Doomlord"! - 
+         the roving EAGLE EXHIBITION: DAN DARE GOT THERE FIRST comes to 
+         Croydon Clocktower every day from now until June (free). Or, 
+         for those of you yearning for some rather less utopian visions 
+         of the future, consider this advance warning of: Sheffield's 
+         digi-arts LOVEBYTES FESTIVAL (from Thu 2001-03-22, Sheffield); 
+         the annual UKUUG LINUX DEVELOPERS' CONFERENCE (from 2001-06-
+         29, UMIST in Manchester); and HIP'97 / CCC '99 follow-up 
+         HACKERS AT LARGE - aka HAL 2001 (from 2001-08-10, University 
+         of Twente, the Netherlands). Those long summer evenings are 
+         going to just fly by...
+         http://members.aol.com/nicholashl/exhib.htm
+                               - ah, an AOL members page. Tres retro!
+         http://www.lovebytes.org.uk/2001/
+                      - "Star Wars Fan Films" might be OK, we suppose
+         http://www.ukuug.org/events/linux2001/CFP.shtml
+          - maybe running the kernel in "The Baby's" 2048 bits of RAM 
+         http://www.hal2001.org/
+                 - may affect scheduling of NTK's vapourware "GeekCon"
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Three arenas you don't expect free software to shine at: 1)
+         Java client-server 2) Nice GUI 'n' shit 3) Dangerously
+         complex multi-user interactions, and 4) MP3 ripping and
+         burning. Okay, so we lied about 4) - nonetheless the
+         generically-named WEBCDWRITER/WEBCDCREATOR is definitely a
+         rare treat, even in that domain. The WebCDwriter bit runs as
+         a daemon on a Linux box with a CD writer attached, and
+         allows remote users (using their Java-y browsers) to copy
+         files, stack up MP3s and wavs, and transfer whole ISOs from
+         their own machines to the central CD-burning factory. The
+         java client is particularly impressive (demo available on
+         the site). While you'll still need someone to pull the CD's
+         out of the server box when they're cooked, it seems a great
+         way to run a "voluntary backup" system for offices.
+         http://www.uni-bielefeld.de/~jhaeger/webCDwriter/
+   - is it us, or is everybody involved in Linux CD-RW called "Jorg"?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         WENDY GROSSMAN reported "playing banjo" on Paramount Comedy 
+         Channel - stay tuned for JACK SCHOFIELD on "Stars in Their 
+         Eyes"... RIP protester imitates SUBGENIUS leaflet design: 
+       http://www.darwinwars.com/lunatic/scans/rip_nutter_pamphlet.jpg
+         ... life tries to avoid imitating popular DAVID BOWIE song: 
+         http://www.123petitions.com/sign.cgi?id=porca_dio@hotmail.com$2 
+         ... "let's just stick in the PRIME DIRECTIVE as well while 
+         we're at it": http://www.u-aizu.ac.jp/~vilb/gnup.html ... 
+         cuh, STUDENTS: http://www.thepolosofdeath.com/ ... "probably 
+         more of us have the neurological talent for MUSIC to begin 
+         with" - http://tuxedo.org/~esr/writings/sextips/sexy.html vs 
+         http://www.ampcast.com/search/band.php?id=7785 (because we've 
+         linked to STALLMAN's "singing" once too many times already)... 
+         http://bettybowers.com/ vs http://www.anti-gay.com/closure.htm 
+         ... GRANADA pays Nick Rosen UKP100,000 for itv.com - take him 
+         to WIPO, you loons!... MPAA now forced to ban certain PRIMES: 
+         http://www.utm.edu/research/primes//curios/48565...29443.html 
+         ... need bootlegs of OKI corporate song... first DREAMCAST, now: 
+         http://www2.cex.co.uk/gaming/cex_feature.asp?ct=1&id=4187 ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "There's a look at the frightening reality of child 
+         prostitution, before Alan Partridge broadcasts live from 
+         Manchester" quips the Radio Times of tonight's COMIC RELIEF 
+         (from 7pm, Fri, BBC1) - looks like that Ali G transcript was 
+         "for real" after all: http://www.ntk.net/2001/02/09/ali.html 
+         ... up against the powerful lure of Ant, Dec and numerous 
+         dead/ believed dead formats - "The Fast Show", "My Hero", "One 
+         Foot In The Grave" and, at 12.15am, the unquiet spirit of 
+         "dotcomedy" in OUTRAGEOUS M-PEGS AND J-PEGS - Channel 4 fields 
+         Hugh Grant's anaesthetisingly dull "Coma" knock-off EXTREME 
+         MEASURES (9pm, Fri, C4)... C5 edges further into self-parody 
+         with Rutger Hauer last-shown-Jan-2000 sci-fi CROSSWORLDS (9pm, 
+         Fri, C5)... though there are some laughs in John Hurt's gay 
+         90210 cross-cultural chuckle LOVE AND DEATH ON LONG ISLAND 
+         (11.35pm, Fri, BBC2)... teaming up to take down the ratings 
+         juggernaut that is I LOVE THE EIGHTIES (9.05pm, Sat, BBC2) - 
+         this week covering, though not showing, "Bill And Ted's 
+         Excellent Adventure" - comes: Luc Besson's good-looking space 
+         junk THE FIFTH ELEMENT (10pm, Sat, ITV); the original GREMLINS 
+         (9pm, Sat, C5) - itself part of C5's "Eighties Weekend"; a 
+         repeat of Iain Lee's retro-gaming docu THUMB CANDY (8pm & 1am, 
+         Sat, E4); plus the uncut (?) THE EXORCIST (10.30pm, Sat, C4) - 
+         still one of the most upsetting horror films of all time... 
+         followed by Matthew De "The Idler" Abaitua's promising Brit 
+         sci-fi series SF:UK (12.50am, Sat, C4) - music (of course) by 
+         Daniel Pemberton... inexplicably, they then skip the hilarious 
+         "Exorcist II" in favour of plotless trick-shot pharmacoepia 
+         HUMAN TRAFFIC (10pm, Sun, C4) to go straight to THE EXORCIST 
+         III (10pm, Mon, C4)... and, finally, science week is duly 
+         commemorated with: one-off DOTCOM DIARIES (4.05am, Sun, C4); 
+         American "Robot Wars" reverse-import BATTLEBOTS (7.10pm, Mon, 
+         BBC2); typically even-handed new series SCIENCE AND THE 
+         SWASTIKA (9pm, Mon, C4); plus the even more disturbing PETSWAP 
+         (4.10pm, Wed & Fri, ITV) in which "animal-loving children 
+         change places with their pets" - which surely constitutes more 
+         of an unfair challenge for the pets... 
+         
+         FILM>> it's pointless pseudo-historical reconstruction week at 
+         the movies, with the always-lethal Rachel Weisz picking off 
+         otherwise entertaining Ed Harris sniper duel ENEMY AT THE 
+         GATES (http://www.screenit.com : we briefly see [Weisz's] bare 
+         butt; [Jude Law] smokes a few times, uses a bit of profanity 
+         and has sex with [Weisz] all while having to deal with 
+         [Harris's] efforts to find and kill him). "Saving Private 
+         Shakespeare In Love", more like... Kevin Costner continues his 
+         Kennedy-contemporary-playing craze with preposterous schools-
+         programme-style quote-a-minute THIRTEEN DAYS (imdb: helicopter 
+         / mushroom-cloud / statue-of-liberty / cuban-missile-crisis / 
+         1960s / cold-war / diplomacy / intelligence-service / missile 
+         / nuclear-weapons / white-house / nuclear-threat) - also 
+         perpetuates the "WarGames" myth that "Defcon 1" means all-out 
+         war when, in reality, "Defcon 5" does... or, for those of us 
+         who have - or haven't - yet memorised the 16 lines of Arnie's 
+         dialogue, 6502 assembler and all, there's the DVD-promoting 
+         limited release of THE TERMINATOR (http://www.cndb.com : 
+         [despite] having a nasty mullet haircut, Linda Hamilton has 
+         a most excellent rack [...] you can see her mug and jugs; 
+         normally, I only review female nudity but [...] you can 
+         definitely see [Schwarzenegger's] massive penis and balls 
+         flopping around)... 
+         
+         MUSIC TO WATCH LOGS BY>> is it just us, or does anyone else 
+         keep mishearing WESTLIFE's current number one as "Uptime 
+         Girl... she's been living in her uptime world"? Oh alright 
+         then - top of our MP3 hotlist this month is of course the new 
+         DAFT PUNK longplayer "Discovery", which truly does sound like 
+         ELO's long-awaited Squarepusher tribute album - but in a good 
+         way. And, if your filenames have all been scrambled by the 
+         likes of http://www.geocities.com/catnaproxy/ , you could 
+         always download the theme song of NY tech artists DORKBOTNYC 
+         http://www.music.columbia.edu/cmc/dorkbotnyc/ , and play it 10 
+         or 12 times in a row instead... it's been a busy time for pop 
+         soundalikes, with U2's Bono - not previously known as an NTK 
+         subscriber - acknowledging last year's CRAIG DAVID allegations 
+         http://www.ntk.net/index.cgi?back=2000/now1222.txt&line=278#l 
+         by singing "I'm Walking Away" over the backing for "One" at 
+         the Brit awards - though we maintain that, more impressively, 
+         you can also do this with the lyrics to "The Bad Touch" by THE 
+         BLOODHOUND GANG... reader MARTIN FROST "was struck by the 
+         resemblance" between LEANN RIMES' "Can't Fight The Moonlight" 
+         (from the Coyote Ugly soundtrack) and AQUA'S "Barbie Girl", 
+         and contends that the theme tune to TV's "One Foot in the 
+         Grave" is "almost identical" to "Did You Ever Have To Make Up 
+         Your Mind?" by the LOVIN' SPOONFUL - the only difference being 
+         "the bit where Eric Idle sings the words 'one foot in the 
+         grave'"... while repeat offender ADRIAN MOULDER "genuinely 
+         believed" that the new song from AT THE DRIVE-IN constituted 
+         the return of '90s shouters CARTER USM, and that he'd heard 
+         JONATHAN WILKES' "Just Another Day" - lyrics include "You're 
+         not alone we're all together / Night and day, sunshine and 
+         rain" - as the backing music for a Mars Bar ad "about 20 years 
+         ago"... which just leaves the homebrew big-beats of the 
+         groovily named SHELDON SOUTHWORTH, who did the "Eminem vs Bob 
+         The Builder" and "Weakest Link" tracks, but tragically fell 
+         foul of our near-total "All Your Bases" blackout when he tried 
+         to draw our attention to his "trance mix" of this once 
+         fashionable meme. Fortunately he's now redesigned his site in 
+         such a way that you can actually find his previous TV theme 
+         remixes http://www.diffusionuk.freeserve.co.uk/tvthemes.htm , 
+         including his Fatboy Slim-esque "147 Lockdown" rework of the 
+         BBC2 Snooker tune, and a drum and bass "Dad's Army". Please 
+         note that NTK remains wildly uninterested in any other "All 
+         Your Base" material at this time - please forward this 
+         correspondence to http://www.amiallyourbaseornot.com/ , where 
+         you might find someone who cares...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+   "they stole our slogan, now we're ... well, we're a bit stuck, aren't we?"
+                    http://roguemoon.manilasites.com/soap      
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+      NTK is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+        ("31337" T-shirts now back in stock, "Machiavellian" next week!)
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

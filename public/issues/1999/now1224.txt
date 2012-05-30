@@ -1,0 +1,286 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-12-24_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "Tribe Flood Network and Trinoo launch their attacks from a
+        host of innocent computers that already have been broken
+        into. Then, on a signal from a master computer, the computers
+        simultaneously bombard the victim machine with packets of
+        information so fast that it becomes unresponsive. At that
+        point, the target computer won't respond to commands and
+        can't be taken off the network."
+        http://news.cnet.com/news/0-1003-200-1501144.html
+                                 ... what, not even by unplugging it?
+
+
+                                >> HARD NEWS <<
+                            "Humbug!", said Scrooge
+
+         It's on nights like this that one naturally turns for
+         inspiration to the eternal Christmas story: you know - the
+         one where rampant commercialism devours everything in its
+         path in the pursuit of a quick buck? LEONARDO FINANCE, a
+         French subsidiary of the Transasia Corporation, this week
+         launched a lawsuit against the internationally respected
+         Association Leonardo, publishers of the multimediatronic
+         Leonardo Journal. Transasia claim one million dollars in
+         damages on the basis that a search engine search on the word
+         "Leonardo" brings up not only their Web site but those of
+         the magazine. And so, in this season of goodwill, a
+         squad of eight French policeman broke into Leonardo's legal
+         address in France - the home of the 80-year old widow of the
+         organisations' founder, Frank Malina - and confiscated all
+         paperwork with the word "Leonardo" on it. This all
+         makes perfect sense. "Leonardo" is a mind-bogglingly unique
+         and sufficient descriptor for Transasia's work. And it's not
+         as if "Leonardo" practically connotes the whole tradition of
+         inventiveness and "prior art". And it's definitely worth
+         their while fighting for the word, because once they get
+         hold of that whole Leonardo namespace - no matter *who* used
+         it before - who else might they go after? How about
+         helicopter manufacturers?
+         http://mitpress.mit.edu/e-journals/Leonardo/#raid 
+         - "He who controls the language, controls the future" 
+         http://www.leonardofinance.fr/anglais/ 
+         - who'd have thought they'd do it one word at a time?
+
+         And if you think the Namespace Wars will be over before
+         Christmas, note that our trusted betters at ICANN are
+         planning to move arbitration of domain names to the National
+         Arbitration Forum. Will this help in matters such as the
+         ongoing battle between etoys.com and etoy.com, where the
+         younger, richer, and more commercial company can sue the
+         award-winning European artists off the face of the Net?
+         Listen to this quote from the NAF Webpages spotted by Lewis
+         Shadoff (c/o the excellent Tasty Bits from the Technological
+         Frontier discussion list): "Forum arbitrators are not
+         permitted to ignore the law and make decisions based on
+         'equity'." Equity, for those of you who haven't yet the
+         sense to become lawyers, is the principle that justice
+         involves fairness as well as the fixed rules of law. No room
+         for fairness, or for non-profits too poor to fight back, or
+         for the exercise of art: just for the iron rules of law and
+         business. Well, we must have our rules. But who's that out
+         on the streets of London, wailing up at our window on this
+         freezing Christmas Eve?
+
+           "Business!" cried the Ghost, wringing its hands again.
+           "Mankind was my business. The common welfare was my
+           business; charity, mercy, forbearance, and benevolence,
+           were, all, my business. The dealings of my trade were but
+           a drop of water in the comprehensive ocean of my
+           business!" 
+
+http://www.literature.org/authors/dickens-charles/christmas-carol/
+                      - the owners of www.dickens.com will be furious
+http://www.tbtf.com/
+                           - and a Merry Newtonmas to all our sources
+        
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         MODIFY mails from NSI are now dated Dec 31, 1969 - uh *oh* ...
+         BRITISH WEB DESIGN & MARKETING ASSOCIATION ("committed to
+         raising standards") now spamming for members ... you're
+         leaving this a bit late, guys: http://www.millennium.com/
+         and http://www.millenniumdome.com/ ... how many OSes does
+         it take to "power" a Website? http://www.daemonnews.org/ ...
+         ON DIGITAL in sponsorship deal with Windows error dialogs:
+         http://www.ntk.net/doh/19991224ondig.jpg ... first Net
+         libel case to use the "don't blame us, we're autistic" defence:
+         http://www.ireland.com/scripts/technology/newsshowall.cfm?id=240 ...
+         still running on NT, but trying to open source as much
+         as possible, it's http://www.linuxanswers.co.uk/Includes/
+         ... NETGUIDE equivalent of "Jackie Harvey's Outside Scoop"
+         http://www.netguide.com/Snapshot/Archive?guide=computing&id=1536
+         suggests we will "see more PCs which will be coming with
+         dual drives: one for the CD-ROM and one for a DVD." ...
+         searching http://www.eventselector.co.uk/ for aptly-named
+         "Comedy" title "Hiss And Boo Show" ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Jonathan Ungoed-Thomas? Mi2g's bizarre virus warnings? The
+         terror of "downloadable internet narcotics"? Yes, the
+         competition is fierce for the FIRST INTERNET FREEDOM
+         JOURNALISM AWARDS, intended to "name and shame" 1999's worst
+         coverage of online issues. And to make the face-off even
+         more exciting, you have to nominate your favourite
+         scare-mongering fictions before January 1st 2000! (We'll try
+         to provide a retrospective as part of next Friday's "Y2K In
+         The Office Fun Pack", but thought you'd appreciate the extra
+         notice just in case. Some crimes cannot - and must not - go
+         unpunished.) http://www.netfreedom.org/
+       - there's a "high quality journalism" prize too. Yeah, right.
+         http://www.ntk.net/notw/
+        - what, no category for "most shameless rent-a-quote pundit"?
+
+
+                                >> TRACKING <<
+                sufficiently advanced technology: the Gathering
+
+         Oooh, a database library! How seasonal! METAKIT is a curious
+         mix of flatfile, relational and OODBMS features with a small
+         footprint and a big following. For those who don't need a
+         heavy-duty SQL solution, it's tight and fast for <100,000
+         items, with a snazzy ability to dynamically change data
+         structures on the fly. Interfaces are available for Tcl and
+         Python, with Perl promised soon. METAKIT has been kicking
+         around now for three years or so with good reports, but
+         looks to capture even more hearts now that it's - tara! -
+         open sourced. Happy Christmas!
+         http://www.equi4.com/metakit/intro.html
+                       - well, that's Christmas morning taken care of
+http://www.sunworld.com/sunworldonline/swol-05-1999/swol-05-regex-2.html
+                                - addicts drool for the press
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         seasonal pyrotechnics: http://www.sunplan.com/pp/ ... TOPICA
+         buying up more mailing lists ... EWOK apocalypse:
+         http://www.geekhaus.co.uk/toybox/ewok.htm ... break into Ion
+         Storm's HQ and steal the Daikatana master discs:
+         http://www.arrgh.co.uk/ionstorm ... oh, that canny BOFH: THE
+         REGISTER pays for the new columns, but who ends up with the
+         archive? http://bofh.ntk.net/ is your new, ad-free local
+         mirror ... hooray! a pre-millennium socket layer for the
+         Z88! http://www.jb.man.ac.uk/~djm/z88dk/zsock/ ... a
+         Spectrum ZX81 - now they *are* rare:
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=224436737
+         ... somebody really *doesn't* want cheap Net access in
+         Manchester: http://www.redbricks.org.uk/comms/crisis/matthewa001.htm 
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+
+         TV>> Andi Peters is compelled to give Disney a free one-hour
+         prime-time advert entitled ANDI MEETS TOY STORY 2 (5.25pm,
+         Fri, C4)... the ropey movie season continues with Adam
+         Sandler/ Brendan Fraser air-guitar collaboration AIRHEADS
+         (9pm, Fri, C5), those "Vids" guys dressing up in lizard
+         suits for a season of original GODZILLAs (1am, Fri night, C4), 
+         and mildly watchable Robin Williams CGI showreel JUMANJI (4pm,
+         Christmas Day, BBC1)... and, yes, they did take a few
+         "liberties" with the post-apocalyptic Kevin Costner remake
+         of IL POSTINO (8.30pm, Christmas Day, BBC2)... don't expect
+         the famous fish finger ad to feature in BBC2's 6-hour Orson
+         Welles tribute, including some old black and white yawnathon
+         called CITIZEN KANE (11.45pm, Christmas Day, BBC2) -
+         believed to be the best film ever made, after Star Wars and
+         Blade Runner, natch... and C5 weighs in, perhaps
+         predictably, with a schedule consisting entirely of Abba and
+         porn... this year's junior geekfest ROYAL INSTITUTION
+         CHRISTMAS LECTURES (11ish am, Sun-Thu, BBC2) seem to be
+         nicked from the pop science paperback "The Arrow Of Time"...
+         the MISSION: IMPOSSIBLE (9pm, Sun, BBC1) movie is more
+         incomprehensibly convoluted than even the TV show, and - at
+         last - reveals long-term "sleeper" Jim Phelps as a traitor...
+         after Airheads, the Michael Lehmann disappointments continue
+         with THE TRUTH ABOUT CATS AND DOGS (10pm, Mon, BBC2)... and
+         smug talentless scum FRENCH AND SAUNDERS (9.50pm, Tue, BBC1)
+         dress up as - oh my sides - "The Phantom Menace"... despite
+         strong competition, Kathryn Bigelow's optimistically
+         millennial STRANGE DAYS (11.15pm, Wed, BBC2) is the *worst
+         cyber-VR thriller of all time*... while perfectly capturing
+         the closed-off claustrophobia, steadily building pressure,
+         and Nazi-like discipline of spending time with your family,
+         BBC2 wisely schedules regular showings of U-boat fave DAS
+         BOOT (6ish, Sun-Fri, BBC2)...
+
+         FILM>> "We've got a blind date with Destiny - and it looks
+         like she's ordered the lobster" chortles wittily scripted
+         Ben Stiller/ Janeane Garofalo undermarketed flop comic book
+         adaptation MYSTERY MEN (imdb: parody / superhero /
+         training), whose top-notch supporting cast - Greg Kinnear,
+         Hank Azaria - even makes up for Eddie Izzard and a farting
+         Pee-Wee Herman... the increasingly overrated Kevin Smith
+         applies his usual laid-back incompetence to predictably
+         inoffensive modern-day Life Of Brian-style Catholic
+         self-exorcism DOGMA (http://www.capalert.com/capreports/ :
+         licentious disregard for righteous behavior based on
+         Biblical admonitions) - in what may come to be viewed as his
+         very own "A Life Less Ordinary"... connoisseurs regret to
+         report a failure in meeting previous quality benchmarks in
+         largely Kermit-free sci-fi spoof MUPPETS FROM SPACE
+         (http://www.capalert.com/capreports/ : nonlegal custody at
+         gunpoint; false imprisonment; a child character sitting atop
+         a roof; physical violence to gain advantage; Miss Piggy
+         gamming - sitting cross-legged intentionally in a very short
+         skirt showing as much upper leg as possible)... while Martin
+         "Bad Boys" Lawrence takes a short break from his
+         intermittently self-destructive behaviour to head up
+         competent mistaken-identity Beverly Hills Cop remake BLUE
+         STREAK (MPAA: rated PG-13 for action violence, continuous
+         language and some crude humor)...
+
+         BUMPER CHRISTMAS TURKEY BONER BONANZA!>> and festive
+         greetings to all of ye who cheered last week's "factoring
+         primes" faux pas though it was, of course, an allusion to
+         Bill Gates' famed goof in his book The Road Ahead rather
+         than genuine incompetence on our part. Ahem... extending
+         seasonal goodwill slightly further than is usually
+         recommended, "Where, oh were is David Brake's weblog?" many
+         of you inquired, while not detailing your precise
+         motivation. Well, http://blog.org/ is the URL for both
+         moderately interesting links *and* Brake's own unique brand
+         of earnest, choir-singing commentary... and ADRIAN MOULDER
+         once again fell into the trap of assuming our omniscience,
+         querying the "flagrant omission" from last week's books &
+         zines round-up of both Norman Spinrad's re-released
+         trial-by-TV '60s sci-fi classic BUG JACK BARRON and the
+         latest issue of HULK comic which features a reader's letter
+         from Al "The Pub Landlord" Murray... LLOYD WOOD felt the
+         need to come clean over NTK 1999-12- 10's claim that
+         "Carrie" at http://www.bluenudes.com/ is wearing "Klingon
+         headgear". After re-viewing "Amok Time", Lloyd reports it
+         more closely "resembles the thing T'Pau was wearing", and is
+         "therefore obviously Vulcan"... but beating even that for
+         corrective urgency comes THOMAS KRUEMMER, who (rightly)
+         questions Dave Winer's claim [NTK 1999-12-17] that the SS
+         were the "secret police in Nazi Germany". It would have been
+         hard to keep them that secret, Thomas argues, as they were
+         "a second army, but unlike the regular 'Wehrmacht', the SS
+         troopers were loyal to the NSDAP party. Later the SS
+         received weapons and also heavy equipment, in order to
+         outweigh any potential threat to the government from
+         officers of the regular army, plus the added benefit of
+         being able to commit acts of war which the Wehrmacht might
+         have refused to carry out" - hence, presumably, Winer's
+         confusion. "I hope Dave is more qualified writing about
+         other matters of general interest," Thomas concludes. And a
+         Merry Christmas to you, one and all!
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+           Registered at the Post Office as "holiday, baby, holiday"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

@@ -1,0 +1,302 @@
+ _   _ _____ _  __ Issue ALPHA 21/3/97o ------------------- NTK-now o
+| \ | |_   _| |/ /_ __   _____      __o ------- a week of new media o
+|  \| | | | | ' /| '_ \ / _ \ \ /\ / /o sorted, spooled and spliced o
+| |\  | | | | . \| | | | (_) \ V  V / o ----- tips, stories, flames o
+|_| \_| |_| |_|\_\_| |_|\___/ \_/\_/  o ----------to: ntk@spesh.com o
+
+                            >> WHAT TH-? <<<<
+
+         It's okay! Calm, calm. It's me, Dan O'Brien, and I'm
+         conducting a small experiment on behalf of humanity.
+         About a fortnight ago, we were kicking around a few
+         ideas at Need To Know HQ, and decided that what we'd
+         love is a WEEKLY E-MAIL NEWSHEET that included a
+         summary of the more interesting of the weeks' tech
+         media, pointed up nodules of info that perhaps we
+         would have missed, kept us up to date with the
+         general UK net scene, and included a few cranky
+         selections of what we liked to call entertainment.
+
+         This is not that newsheet. However, it is an alpha
+         version of that newsheet. It's got all the bits that
+         I hope NTK-now could carry: certainly enough to give
+         you, dear reader, the idea. Now, all it needs is
+         your passive support. Would you want to receive this
+         newsletter? Do you think we should carry on? Would
+         you be interested in contributing titbits, even?
+
+         If your response to any of the above was 'Well, I
+         dunno', please read on. There's more idle chat at
+         the end of the 'sheet'.
+
+         Later!
+
+                            >> HARD NEWS <<<<
+                     All the news you need to know
+
+         APPLE'S WOES continued as it announced that 4,100
+         employees are to lose their jobs. This represents a
+         third of Apple's workforce and is only the latest in
+         a series of lay-offs by the company. Apple Chairman
+         GIL AMELIO also announced the cancellation of Mac
+         projects including OpenDoc, Open Transport, the
+         Cyberdog Web browser, and the MacOS development
+         tools. Amelio said "We're getting back to basics."
+         Heard *that* before.
+
+         ISPs and others running USENET NEWS SERVERS on their
+         machines were the victim of an ongoing HACKING
+         ATTEMPT, as rogue newsgroup control postings were
+         used to steal password files and other confidential
+         info. The control posts exploited a known security
+         hole in an old version of INN, the freely available
+         news server package. As the postings spread, they
+         attack more and more machines. CERT (the Computer
+         Emergency Response Team) report that over a hundred
+         machines have fallen victim so far.
+         ftp://info.cert.org/pub/cert_summaries/CS-97.02
+
+         Visitors to BT.NET and SUCK.COM got 'site not found'
+         this week, as NETWORK SOLUTIONS' crackdown on DOMAIN
+         REGISTRATION DEBTS got nasty. Network Solutions, who
+         run the Internet's central registry for .com, .edu,
+         .gov, .net and .org addresses, put 29,000 domains
+         names on hold, after final demand notices failed to
+         get a reaction. The sites effectively disappeared
+         from the Net. BRITISH TELECOM recorded pre-tax
+         profits of UKP3,000 million in 1996. Reserving a
+         domain name costs $100.
+
+         There's a new INTEL chip in town. The PENTIUM II,
+         due for release early in May, is essentially the
+         top-o'the-range Pentium Pro with the new MMX
+         multimedia extensions jammed in. Chips sampled so
+         far clock in at 266 Mhz, but will probably be
+         expensive for a while: PC designers will need to
+         revamp their motherboards to cope with its new
+         shape. AMD, Intel's rival, is due to release a
+         similarly specced chip called the K6 at the same
+         time: early speed comparisons are said to put the
+         chips neck and neck.
+
+                          >> IN THE PAPERS <<<<
+                   What "fair use" was invented for
+
+         INTER@CTIVE WEEK revealed that European software
+         developers are to license PHIL ZIMMERMAN'S PGP
+         trademark in order to create separately-developed,
+         international versions of the company's products.
+         This effectively bypasses any export restrictions
+         that would have been placed on the ultra-secure
+         encryption software.
+         http://www.zdnet.com/intweek/daily/970313x.html
+
+         RICHARD BELFIELD in the NEW STATESMAN (15/3/97)
+         investigated the Research Study Group, who study
+         Britain's cold-war defences. RSG is part of
+         SUBTERRANEA BRITANNICA, the (literally) underground
+         history movement.
+         http://www.stonix.demon.co.uk/rsg
+
+         The NEW SCIENTIST (15/3/97) described the tech
+         background to the NEW 56KBPS MODEMS, as well as
+         looking forward to the future 6Mbps xDSL systems and
+         400Kbps satellite downlinks, in an article by HANK
+         HOGAN.
+
+         THE FINANCIAL TIMES (18/3/97) reported that BT
+         Research labs have been testing QUANTUM CRYPTOGRAPHY
+         on optical links as long as 30km. Researchers at
+         John Hopkins University are researching QC systems
+         that use polarised photons in open air and in broad
+         daylight.
+
+         Roger Walker of the DEFENCE RESEARCH AGENCY is
+         concerned about the clutter produced by LOW-ORBIT
+         SATELLITE NETWORKS (like Bill Gates' Teledesic),
+         according to THE TIMES (16/3/97). The effect of
+         launching the hundreds of satellite required could
+         lead to a 30% increase in space debris, he says.
+         http://www.teledesic.com/visualizations/earth.html
+
+         KEVIN WARWICK, professor of cybernetics at Reading
+         University, reassured DAILY EXPRESS readers in his
+         op-ed "WILL THE MICROCHIP PROVE THE ULTIMATE MENACE
+         TO MAN?" (17/3/97) "In 2001 ... Hal turns against
+         its human masters and tries to kill them," Kevin
+         writes. "I fear that such a nightmare future is
+         terrifyingly close." Frightened Express readers can
+         send their PCs to our mailing address.
+
+         NEAL ASCHERSON in the INDEPENDENT ON SUNDAY
+         (16/3/97) compared the Albanian "mob rule" with a
+         flock of geese's hive-mind: "Like the wild geese,
+         the Albanian crowds are whirling about before they
+         find a common aim and head towards it."
+
+         In PETER COCHRANE's column in the DAILY TELEGRAPH
+
+         (20/3/97), he explained why newbies crash his
+         machine more than he does. Investigating, he
+         realised that while he thought his machine was
+         uncrashable, his own behaviour subtly avoided the
+         dangerspots. He had been "quietly tutored not to
+         touch the mouse when my browser was doing its stuff.
+         I had been subject to a subliminal process of
+         conditioning by my machines." Watch the Netscape 'N'
+         ... you are feeling sleepy...
+         http://www.telegraph.co.uk
+
+                             >> CULTURE <<<<
+
+         Issue 15 of the cyber fanzine BOING-BOING is out.
+         Topics covered: Bruce Sterling on his Dead Media
+         Project, a lady's visit to a nudist colony and Web
+         cam voyeurism. Send six dollars to bOING bOING,
+         11288 Ventura Blvd #818, Studio City CA 91604 USA
+         http://www.well.com/user/mark/
+
+         That marvellous weekly anti-CJA rag, SCHNEWS, has a
+         new Web site. SchNEWS is based in Brighton and
+         covers all forms of direct action, from animal
+         rights to right-to-party, in its own cheery manner.
+         The Web site includes a diary, a news update page,
+         and a *very* good contacts list. Wake up!
+         http://www.cbuzz.co.uk/SchNEWS/
+
+         Details are up on Hacking In Progress, the open-air
+         hacking conference to be held in Amsterdam in
+         August. (In fact, the details have been around for a
+         while, but they seem to be re-publicising the site).
+         Tents, techies, raves and that dutch can-do
+         attitude:
+         http://www.hip97.nl/
+
+
+                            >> TRACKING <<<<
+                  Stuff our bots told us to tell you
+
+         Among YAHOO!'s new British sites is THE UK STREETMAP
+         PAGE, which produces complete map images for any
+         street or postcode in the Greater London area.
+         Images are taken from the Bartholomew road maps; the
+         service is provided by BTex Ltd.
+         http://www.streetmap.co.uk/
+
+         Most popular download at SHAREWARE.COM (beating
+         WinZip and Quake even) is WebStereo, a standalone
+         utility pre-loaded with the RealAudio addresses of
+         over thirty Internet Radio stations. Registered
+         WebStereo sells for $19.95.
+         http://www.igsnet.com/webstereo.html
+
+                            >> MEMEWATCH <<<<
+                           Tired *and* Wired
+
+         "PUNCH 'EM UP" SHOCKWAVE APPS as SOCIAL COMMENTARY
+         ...  General election sites EQUAL UK Webvertising's
+         LAST CHANCE SALOON .. The new Microsoft development
+         package, Visual Studio, is Bill Gates' HEROIN FOR
+         CODERS... GLADIATORS VS ROBOT WARS: who wins in a
+         fight? ... ULTRALAB's "DAMAGED GENERATION" : PC
+         users whose intuition has been CRIPPLED by using old
+         user interfaces ... WINDOWS 3.11 retail prices now
+         greater than WIN 95 due to "scarcity value" ...
+         ACRONYMS that "don't stand for anything" (SUN, MIPS,
+         Windows CE) ... AND IT'S NET MAG RELAUNCH TIME!
+
+                            >> ANTI-NEWS <<<<
+           Items that would be news if they hadn't happened
+
+         THE SUN reports IBM boffins have invented 'a
+         computer you can wear in your shoe' (18/3/97) ...
+         security flaws found in Netscape + Shockwave,
+         Explorer, FrontPage, The WELL, car stereos, front
+         doors ... EMAP says UK NET AD REVENUES booming,
+         expect rises of 6 million UKP a year - EMAP also own
+         Internet Sales, a sales house for Web ads ... NOP
+         reports that 10% of UK population have used the Net
+         in the last year - and 3% of users swear they'll
+         never use it again...
+
+                            >> NEXT WEEK <<<<
+                Still working on the format for this...
+
+         SAT 22ND
+         11.15GMT (RA) NEIL INNES off of the Rutles gets
+                  uncomfortably close to meta-parody at the
+                  Beatlefest Web event.
+         http://www.grit.com/beatlefest.html
+         14.00GMT (Live Webcam) ASPIRE II LIVE ROCKET launch
+                  from NEC Birmingham. Britain's homemade
+                  rocket enthusiasts sit you on the top of
+                  their latest.
+         http://www.aspirespace.co.uk/aspire.htm
+
+         SUN 23RD
+         20.00GMT (CH4 TV) TO THE ENDS OF THE EARTH: THE
+                  SECRET UNDERWORLD. Underwater, underground
+                  exploration. Ecosystems based on sulphur!
+         10.30GMT (BBC1 TV) OMNIBUS. On George Lucas, Dark
+                  Lord of the Sith.
+
+         MON 24TH
+         19.30GMT (BBC2 TV) THE SCI FILES. This week:
+                  Computer Hackers. Vanessa Collingridge fans
+                  the flames.
+         21.00GMT (CH4 TV) CUTTING EDGE. It's the one where a
+                  group of Tory friends sit around, have a
+                  dinner party, and say highly controversial
+                  things that get them into newspapers.
+         02.00GMT (BBC2 TV) THE OSCARS. Trainspotting is up
+                  for an award. They have to show clips. Pray
+                  for the toilet sequence.
+
+
+         TUES 25TH
+         17.30GMT (Webchat/RA) Post-Oscar discussion with the
+                  US TV Guide's film editor.
+         http://www.tvguide.com/chat/index.htm
+         00.15GMT (BBC1 TV) ANNIE HALL. Kookiness and
+                  kvetching collide.
+
+                  INTERNET EXPO, WEB WORLD AND E-MAIL WORLD
+                  Earls Court Exhibition Centre.
+         http://www.dciexpo.com/INTERNET/
+
+                           <<<<AND SO ON>>
+
+         >>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+         Okay, I'm back. How was that? Frankly, I think that
+         'Next week' section needs another look; It's too
+         long, badly formatted, and what is this anyway The
+         TV Times? And "culture"? Mmm. Great name, guys -
+
+         The news stuff I'm happy with - is it useful? too
+         dull? Overall, it's more geeky than I imagined, but
+         I think that's due to me knocking this one out on
+         pretty much on my own (my cultural attache pal Dave
+         is currently dead with a disease). With other
+         people's suggestions, it should blend out a bit. It
+         certainly seems doable on a weekly basis.
+
+         Talking of missed deadlines, the original plan was
+         to release this on Friday morning. I may rejuggle
+         this to Friday 3PM allow us to review *next* week's
+         weekly mags (which generally arrive on Friday).
+
+         Well. I'm pleased I've managed to get this prop out
+         before my period of enforced net.isolation while I
+         do  Oblomov. I'm going to take a long break, and
+         then come back to this. God will bless you
+         thricefold if you send us a quick mail telling me
+         what you think, and whether you'd be interested in
+         forwarding the odd scrap to NTK-now from time to
+         time. We'll do nothing with it until May, at which
+         point we hope to burst fully armoured from our own
+         heads. Or something.
+         Thanks for reading, and do let me know.
+         We need to know.
+         D. (and D)
+         21/3/97

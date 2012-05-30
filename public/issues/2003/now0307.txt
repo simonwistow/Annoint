@@ -1,0 +1,288 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-03-07_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Google's a very nice system, but compared to my vision, it's 
+         pathetic..."
+          - JIM ALLCHIN, VP in charge of MS Windows, has one of those 
+         "if you could index the URLs I've seen with my eyes" moments
+                         http://news.google.com/news?q=allchin+google
+
+
+                                >> HARD NEWS <<
+                            from the house of clues
+
+         Time was when the music industry could just put any old
+         rubbish in a press release and have the media and MPs parrot
+         it verbatim the next day. That time, of course, was last
+         week. This week, however, things are looking just a little 
+         better. MPs debating the Communications Bill on Tuesday got 
+         sidetracked into an almost honest discussion of "internet 
+         piracy". With all the sleek coolness of dancefloor dads,
+         they found themselves admitting to unauthorised home-taping
+         in their crazy, reprobate past. And if you can plough
+         through the high-larious puns on constituency names and
+         reams of rote concern over our creative industries and the
+         moral decline of youth, there's actually a faint whiff of
+         clue hanging over the proceedings. They can't remember his
+         name, but Jon Johansen is cited as the devisor of a Linux
+         DVD reader. Micropayments are touted, "apocalyptic visions"
+         are dismissed, the EUCD sceptically eyed. Now all we have to
+         do is set them up an internal phpforum where they can
+         fair-use photoshop each other's publicity photos, and then 
+         they'll really start to understand.
+         http://tinyurl.com/71fm
+                  - listening to Showaddywaddy on their "iPod devices"
+http://ukcdr.org/files/press-releases/20030307_debunking_the_piracy_myth.txt
+                                 - still fighting the good info-fight
+
+         POPBITCH are asking for money again - blimey, that UKP2500 
+         they raised from their last server appeal (April 2001) didn't 
+         last very long, did it? To be honest, we prefer this approach 
+         to the alternative of trying to get readers to subscribe to 
+         something with no guarantee of how long it'll keep going 
+         (apparently the current business model for Salon), but most 
+         people who go for a "tip jar" revenue stream at least try to 
+         give some indication of where your money is going. You know: 
+         bandwidth, unexpected credit card bills, breast enlargements, 
+         that sort of thing. Popbitch has classified and banner ads, 
+         high-class web hosting at a nuclear bunker, an "office" in 
+         London's fashionable Farringdon, and a founder who is now 
+         editor of EMAP's "The Face" magazine, just down the road in  
+         EC1. But all they tell you for their new appeal is the vague  
+         muttering that the site "needs money to continue". You know, 
+         if they'd just say they needed a fancy showbiz lawyer to keep 
+         them out of jail for another year, our cheque would already 
+         be in the post.
+         http://www.popbitch.com/appeal/
+             - vs http://slashdot.org/article.pl?sid=03/02/23/1830217
+         http://www.ntk.net/index.cgi?b=02001-04-20&l=231#l
+          - and we never got to the bottom of this free hosting thing
+         http://www.thefridaything.co.uk/comparison.shtml
+                           - just wondering how b3ta would measure up 
+
+         It's nice to see the BBC's new media wing make at least a
+         partial show of publishing their license-funded research for
+         the rest of the industry (who pay their license fees too -
+         well, most of them). Like, for instance, their recent
+         Accessibility study which took some hard-hitting looks at
+         the BBC's own reach to those with disabilities or just
+         really dumb terminals. It's actually quite a decent
+         Nielsenesque overview of why every site should be accessible
+         in a usefully pointy-headed prose. Stuff you've been trying
+         to tell your boss for ages - like the evils of wanton
+         javascript, Flash, colour schemes, and PDF files.
+         Admittedly, the research is only meant for "suppliers" to
+         the sprawling media duchy, not riff-raff looking to scam
+         tips for their own shamefully commercial ventures - but hey,
+         no-one's stopping you, right? Well, apart from the BBC
+         themselves. The BBC put it all in PDF format. Gee, good 
+         thing they're not expecting any disabled suppliers to help 
+         out, isn't it?
+         http://www.bbc.co.uk/commissioning/bbci/
+ - you could pitch a show called "I'm a lynx user, get me out of here" 
+   www.bbc.co.uk/commissioning/bbci/pdf/BBCi_Accessibility_Study_7-10-02.pdf
+                                - those URLs could do with a trim too
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         NIKE UK's "Sweatshop" outlet located somewhere between Ipswich 
+         and Birmingham: http://www.ntk.net/2003/03/07/dohnike.gif ... 
+         419 not found: http://www.nigeriapolice.org/rights.html ... 
+         for one week only, the return of PUERILE GOOGLE MISSPELLINGS: 
+         http://www.google.com/search?q=%22earrings+per+share%22 , 
+         "Rouge Trader", "Rouge Trooper", "Widows XP" plus - for you 
+         classical scholars - "Res Pubica". Also, ill-timed snapshot 
+         ahoy: http://www.google.com/search?q=dooyoo+pure ... make
+         Georgia senators ANGRY about musical! Georgia senators SMASH!: 
+       http://www.ledger-enquirer.com/mld/enquirer/news/opinion/5281218.htm
+         ... standards of both literacy *and propriety* appear to be
+         under threat: http://uk.news.yahoo.com/030303/80/dujmc.html 
+         ... pick "Chelsea" as "Your Loved Team" to get SMS libel by
+         phone: http://lifeanddeath.sportsmessage.co.uk/examples.shtml 
+         ... learn all about how Tim Berners-Lee created the internet: 
+       http://open-site.org/Computers/Internet/Programming/Languages/HTML/ 
+         - then search for "." to get every article on the server... 
+         give 'em an inch, and those pesky terrorists'll take 1000mm: 
+         http://www.ready.gov/faq.html ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Due to immense public demand - and in accordance with NTK 
+         prophecy - another date has been added to the nation-wide IG 
+         NOBEL PRIZE TOUR (8pm next Fri 2003-03-14, Martin Wood Lecture 
+         Theatre, Oxford, UKP1 for non-members of Science Soc), handily 
+         coinciding with the election of a new University Chancellor 
+         there (the Vice-Chancellor has ruled that "gowns need not be 
+         worn" to either occasion, you'll be reassured to hear). Oxford 
+         professor of fundamentalist-taunting RICHARD DAWKINS, oddly, 
+         doesn't appear to be part of "National Science Week" [see last 
+         NTK] when he delivers the first Douglas Adams Memorial Lecture 
+         QUEERER THAN WE CAN SUPPOSE: THE STRANGENESS OF SCIENCE 
+         (7:30pm, Tue 2003-03-11, the Royal Institution, London W1, 
+         UKP15), with a raffle and auction in aid of endangered animal 
+         charities Save The Rhino and The Dian Fossey Gorilla Fund. 
+         And, as if to support at least the second part of Dawkins' 
+         thesis, KEVIN WARWICK's tireless "I, Cyborg" roadshow forms 
+         the post-AGM entertainment for the IEEE UKRI Section the 
+         following day (6.45pm, Wed 2003-03-12, Royal Commonwealth 
+         Society, London WC1, free) before, we understand, heading off 
+         to give potentially unsuitable ideas to the research staff of 
+         IBM Hursley (Thu March 2003-03-13).
+         http://www.savetherhino.org./index.php?id=187
+           - RD: "Apple Computer has lost its most eloquent apologist"
+         http://www.ieee.org.uk/event.html#AGM
+         - IBM event not open to public, and/or "bags of mostly water"
+         http://users.ox.ac.uk/~science/details/ht03.html#Abrahams
+                       - vs http://www.admin.ox.ac.uk/po/030124.shtml
+         http://www.retrovision.org.uk/
+              - this weekend: another retro-Yakfest, in an Oxford pub
+         http://www.law.ed.ac.uk/ahrb/events/
+                  - followed by an Edinburgh Uni lecture on copyright 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Rael Dornfest's blogging utility BLOSXOM is Perl code
+         written as when the world was young, and Perl code had
+         something to prove: two hundred lines of yogically back-bent
+         hack designed to do one thing, and do it well. You have a
+         directory. The text files in the directory are your blog
+         entries, sorted by timestamp. Pop a few HTML templates in
+         there, and Blosxom CGIs it all into a viewable page complete
+         with permalinks and other blog miscellany. Now with the
+         imminent arrival of BLOSXOM 2.0, the script has developed
+         "look at me! I can put my whole fist in my mouth!"
+         extensibility. The new Blosxom plugins API is just a wodge
+         of Perl packages that support a handful of obvious callbacks
+         and tootle with variables. But it works - well enough to
+         have spawned over fifty extensions to the basic app, from
+         automatic smartquotes to trackbacks to debian package tags.
+         The main script is still just your bog-standard CGI script
+         (though it can now generate static as well as dynamic blog
+         pages), and you're still just sticking text files in
+         directories (although sub-directories now work like
+         fancy-schmancy Moveable Type-like categories). It's blogging
+         if blogging was a shell command - right down to its
+         unpronounceable name.
+         http://www.raelity.org/apps/blosxom/
+                                               - it's some OS X thing
+         http://www.raelity.org/apps/blosxom/plugins
+                        - unfortunately the current search needs java
+         http://www.oreilly.com/catalog/googlehks/
+                                    - from the hacker who brought you
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         ROYSTON VASEY currently #1191 at bringing local ADSL to local 
+         people: http://www.broadbandleague.org/complete11.html ... and 
+         you thought BT had a negative attitude towards broadband: 
+         http://www.centcom.mil/galleries/leaflets/images/izd-0010a.jpg
+       ( via http://www.centcom.mil/galleries/leaflets/showleaflets.asp ) 
+         ... any idea why sci.military.moderated is so quiet nowadays? 
+         ... GOOGLE NEWS' wide range of global sources now include CBBC 
+         NEWSROUND: http://news.google.com/news?q=bush+nasty ... at 
+         last - a webpage showing you what "the Internet" looks like: 
+         http://www.durhamcountylibrary.org/training/Whatdoes.html ... 
+         http://www.perryhoberman.com/accept/html/infringement.html - 
+         though you can still use "Have a break" legally (for now): 
+         http://www.legalday.co.uk/lexnex/keeble03/keeble020103.htm ...
+http://www.watch.impress.co.jp/akiba/hotline/20030222/etc_habrashi.html
+         after http://www.dct-net.co.jp/special/img/usbhot.gif ... 
+         "Women 'wired for worry'" http://news.bbc.co.uk/1/2814893.stm 
+         while, just a couple of years ago, they could "cope better 
+         with stress": http://news.bbc.co.uk/1/hi/1657579.stm - both 
+         studies summarily rubbished by Professor Stephen Bloom... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> C5 follows up Carl Sagan's "Dragons of Eden" hypothesis 
+         that human-primate crossbreeds might be possible in THE HUMAN 
+         CHIMP (9pm, Fri, C5)... SUBMARINE DISASTER (10pm, Fri, C5) 
+         covers underwater nuclear calamities from the USS Thresher to 
+         the Russian Navy's Kursk... and "Swordfish" writer Skip Woods 
+         directs his own hilariously amoral domestic drug-dealer script 
+         THURSDAY (2.05am, Fri, C4)... "The West Wing" is shunted off 
+         to the prestigious Monday 11pm slot, to be replaced by sure-
+         fire Saturday night ratings winner DNA: THE STORY OF LIFE 
+         (7pm, Sat, C5)... we say: put http://www.garylestrange.co.uk/ 
+         on the bus for '80s popstar reality show REBORN IN THE USA 
+         (9.35pm, Sat, ITV)... and toxic industrial pollution week sees 
+         CORRESPONDENT: POISONED CITY (6.15pm, Sun, BBC2) precede 
+         worthy but sentimental one-woman's-struggle weepie ERIN 
+         BROKOVICH (9pm, Mon, C5)... Inquirer writer and folk singer 
+         Wendy M Grossman once advised that NTK "has" to see Spike 
+         Jonze/ Charlie Kaufman's typically self-indulgent indie curio 
+         BEING JOHN MALKOVICH (10pm, Sun, C4)... Catherine Keener and 
+         Aaron Eckhart both re-appear in Neil LaBute's typically brutal 
+         "In the Company of Men" follow-up YOUR FRIENDS AND NEIGHBOURS 
+         (12.05am, Mon, C4)... and lifestyle makeover shows get down to 
+         the real basics in the self-explanatorily titled HOW TO ROB A 
+         BANK (9pm, Mon, C4)... Rob "That's you, that is" Newman is the 
+         subject of novelist profile SCRIBBLING (11.20pm, Mon, BBC2)... 
+         and never mind disappointing insect teen romance sequels like 
+         THE FLY II (10.10pm, Thu, C5), there's a rare chance to see 
+         the original TV pilot movie for David McCallum's THE INVISIBLE 
+         MAN (2.20pm, Thu, C5)...
+         
+         FILM>> it's undeniably intriguing to see a "forbidden" romance 
+         being made in such a deliberately old-fashioned format, but 
+         that's enough about J-Lo/ Ralph-Fi comedy MAID IN MANHATTAN 
+         ( http://www.capalert.com/capreports/maidinmanhattan.htm : 
+         neither in the true "Cinderella" were the homosexual 
+         euphemisms, the adultery, the exhibitionism, nor the excessive 
+         breast exposure) - the usual mild anachronisms fail to detract 
+         from 1950s-style unironic "Pleasantville" experiment FAR FROM 
+         HEAVEN ( http://www.imdb.com/Goofs?0297884 : the Tupperware 
+         container [Julianne "Hannibal" Moore brings to [Dennis 
+         "Innerspace" Quaid's] office is a post '62 color and style)... 
+         otherwise it looks like a limited release for '90s-nostalgia 
+         Britpop hagiography LIVE FOREVER ( http://www.bbfc.co.uk/ : 
+         contains strong language and drug references)... or a rather 
+         more uncompromising look at the emptiness of celebrity, nudity 
+         -packed "Hogan's Heroes" behind-the-scenes expose AUTO FOCUS 
+         ( http://www.screenit.com/movies/2002/auto_focus.html : it's 
+         possible the film could entice some kids to videotape sexual 
+         encounters and/or become more interested in pornography)... 
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "martyrs to the cause"
+                 http://www.cathnews.com/news/302/116.php        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

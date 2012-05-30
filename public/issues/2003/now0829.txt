@@ -1,0 +1,332 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-08-29_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "The DVD Copy Control Association appealed this decision, 
+         arguing that the ruling gave criminals the go-ahead to use 
+         technology to copyright movies on a large scale..." 
+         - BBC really getting into that "Creative Commons" attitude
+                         http://www.ntk.net/2003/08/29/dohdecss.gif
+
+
+                               >> HARD NEWS <<
+                                  IP abused
+
+         As we all know, those crazy deluded protesters never change
+         anything. Which is was good news for the four hundred very
+         sane demonstrators that went to Brussels this week to
+         complain about the imminent adoption of software patents.
+         While the banners - and, yes, mimes - clustered outside, the
+         more besuited free software advocates nipped in to alert 
+         MEPs to the freedom-crippling nature of the evil they were
+         about to unleash. Whatever they said, it was enough to get
+         the Europarliament to withdraw Arlene McCarthy's pro-patent
+         report and postpone discussion of the topic until the JURI
+         committe has reconsidered their approach. As Irish
+         campaigner Ciaran O'Riordan notes, the original report only
+         nipped through the committee with a 64% vote, so there's a
+         chance that some MEPs can be turned around to get the idea
+         of software patents thrown out of Europe for good.
+         http://belgium.indymedia.org/news/2003/08/72093.php
+                                                               - boo!
+         http://lwn.net/Articles/46839/
+                                                     - Ciaran's notes
+         http://www.europarl.eu.int/committees/juri_home.htm
+                                                      - pick your rep
+
+         What is about the Irish and their bolshy upstart
+         actually-doing-something-about-the-problem ways? A bit
+         confused about why they were supposed to be handing blood
+         money to SCO for the One True Linux License, the IRISH LINUX
+         USER'S GROUP have not idly sat back. They've been pestering
+         SCO Ireland for an accurate description of what they're
+         forking out for. And if SCO can't come up with one? Why,
+         they're going to take them to the Irish equivalent of the
+         Trading Standards people. Of course, not all of Ireland
+         feels the same way: as subscriber JONATHAN BAKER-BATES
+         notes, Dublin band The Thrills have apparently taken SCO's
+         side with their "Santa Cruz" hit. The song commiserates with
+         Santa Cruz against the "august [free software] cowboys",
+         who, they say "stole your style [of C commenting and
+         indentation]". Whether SCO's "train [of legal papers]" will
+         indeed "roll in on time" might well be up to other Linux
+         users kicking up a similiar fuss.
+http://ie.suberic.net/~kevin/cgi-bin/blog/random/sco.linux.license.2.comments
+                     - hullo, Steve, it's us - your future customers!
+         http://www.poplyrics.net/waiguo/rock/thrills/001.htm
+                                    - tell me where it all went wrong
+         http://www.catb.org/~esr/writings/smoking-fizzle.html
+                                        - ... in great detail, please
+
+         Thanks for all your suggestions to alleviate the commuter 
+         misery that is NATIONAL RAIL ENQUIRIES' online timetable. 
+         PETER MARTIN was one of several to praise the Teutonic 
+         efficiency of the national German rail site (available in 
+         entirely accent-free English, too), but only ANDREW DANCY 
+         noted that "the old [Railtrack] site lives on in the form of 
+         the Wandsworth Council travel planner", believed to use "the 
+         same data as the old Railtrack timetable site", which 
+         presumably originates from the German state railway, Deutsche 
+         Bahn again. Lone accessibility re-arranger MATTHEW SOMERVILLE 
+         has prepared his own "*very* rough first draft" rework of the 
+         National Rail site and, while nonetheless intrigued by the 
+         German and Wandsworthian versions, claimed that "they all give 
+         different answers", before being distracted by the fact that 
+         nothing was being done about the BT directory enquiries site. 
+         And still the crimes against usability trickle in, this week's 
+         most ironic being CAM MESIAS' spotting of ACCENTURE CAREERS' 
+         "Global Meritocracy Statement", explaining how they do not 
+         discriminate on the basis of "non-disqualifying physical or 
+         mental disability" - in a JavaScript pop-up window.
+         http://bahn.hafas.de/english.html
+                        - Reisen zum Oktoberfest in Munchen gewinnen! 
+         http://www.wandsworth.gov.uk/railplan/bin/query.exe/en
+           - vs http://www.wandsworth.gov.uk/railplan/bin/query.exe/de
+         http://www.dracos.co.uk/railway/timetable/
+                             - still needs "a lot" of work, he admits
+         http://careers3.accenture.com/xd/uktsWeb/exp.asp
+                - source code *does* discriminate for Macintosh users
+         http://www.xcom2002.com/ntktext.cgi
+         - CAMERON MACPHAIL: "the huge paragraphs are freaking me out"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "I notice Sir has a preference for the more 'mature' formats": 
+         http://www.ntk.net/2003/08/29/dohmd.gif ... RAMBLERS revealed 
+         to be "single most important form of communication, education" 
+         etc: http://www.ntk.net/2003/08/29/dohram.gif ... "Teachers" 
+         viewers: http://www.ntk.net/2003/08/29/dohteach.gif - see me!
+         ... a cry for help: http://www.designaid.co.uk/ ... (bottom of 
+         page) "Re-wrote copy within the site to expalin the OSF's core 
+         competanices": http://www.element12.net/html/casestudy_osf.htm 
+         ... GUARDIAN doesn't give away *all* answers in [Alt] tags: 
+        http://film.guardian.co.uk/quiz/questions/0,5952,1030334,00.html
+         ... no wonder the internals of B&Q stores are so well fitted: 
+         http://www.diy.com/bq/category/category.jhtml?CATID=168708 ... 
+         puerile double-URLtendres: http://www.NewSexTracts.com/ , 
+         http://www.muffinthemail.co.uk/ , and the top 3 PDF links at: 
+         http://www-1.ibm.com/servers/corner/presentations.html ... 
+         B3TA.com finally fesses up to its secret EMAP-funded origins:
+www.bbc.co.uk/blackcountry/features/2003/08/rob_manuel/rob_manuel.shtml
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Even if you missed yesterday's BRIGHTON BLOGGERS MEETUP, it's 
+         surely worth clearing space in your diary for another seafront 
+         sojourn courtesy of C64 revivalists BACK IN TIME LIVE 4 (from 
+         11am-11pm, Sat 2003-09-13, The Brighton Centre, BN1, UKP5 for 
+         exhibition until 6pm, UKP10 extra for concert in the evening). 
+         It's a rare opportunity to browse MARTIN GALWAY's "original 
+         computer and source disks", hear Danish Commodore games-music 
+         covers band PRESS PLAY ON TAPE, and witness ROB HUBBARD in an 
+         "unplugged" performance of some of his classic game themes on 
+         what is now regarded as one of the primitive predecessors of 
+         the SID chip, the piano. In short, it should be something of 
+         an eye-opener even if you're not as much of a Commodore 
+         devotee as reader MAT FLETCHER, who objected to our recent 
+         mention of the Vic-20 "heyday of the 20-column text adventure" 
+         with the succinct correction: "22 dear boy, not 20! That would 
+         have been unbearable!"
+         http://c64audio.valuehost.co.uk/live/bitl4/
+          - shame they couldn't get a few more animated GIFs in there
+         http://www.ironstonepartners.com/news.html
+             - seems to have kept going longer than the Amiga, anyway
+         http://homepage.ntlworld.com/speccyverse/orsam.htm
+               - equally enthusiastic Speccy show in Norwich this Nov
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Since sticking Flemming Frandsen's UserContent.css file into
+         .phoenix/[foo]/[blah]/chrome/ we've really not had much problem
+         with ads on the Net. But if you're stuck with IE or want to
+         fine-tune your control over cookies and pop-ups, it'd be remiss
+         of us not to (finally) mention PRIVOXY - the filtering Web proxy
+         for MacOSX, Unixes, and Windows. It's all very simple: you
+         install the program with a couple of clicks, type in the magic
+         127.0.0.1 numbers into your browser's proxy settings, and Privoxy
+         will strip out anything that looks dodgy, from banner ads to
+         nasty javascript. Privoxy has a wide range of built-in actions,
+         from replacing ads with a customised graphics to sending rude
+         messages in the headers of your Webpage requests. Apart from a
+         barely noticeable delay at the start of every Webpage (which we
+         now regret even mentioning to you), Privoxy is as good as
+         invisible - and so are the ads. Install it, and undermine the
+         precarious economy of new media today!
+         http://www.privoxy.org/
+                    - ... set it up for your whole network to use too
+         http://dion.swamp.dk/stuff.html
+                                    - search down for userContent.css
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         best laughter = medicine: http://www.qfever.com/ ... THE TIMES 
+         calls on DJ, car buff, civil rights watchdog TONY BLACKBURN: 
+         http://www.timesonline.co.uk/article/0,,2087-790512,00.html 
+         ... at last - a Lileks' Gallery Of Regrettable Food that 
+         hasn't been compiled by an alarmingly right-wing warblogger: 
+         http://www.flaneur.org.uk/html/food.html ... new Madonna TV ad 
+         misses opportunity to use lyrics: "Get into the Gap/ you've 
+         got to sap/ your will to live"... spot the actual anti-piracy 
+         ad: http://static.hugi.is/video/fyndin/dctf-1.wmv vs 
+         http://overstated.net/media/RIAA_PSA.mpg (9 meg, sorry)... new 
+         thrill - the quest to find the DULLEST TITLED BOOK ON AMAZON: 
+         http://www.amazon.co.uk/exec/obidos/ASIN/0471403911/ ... 
+         "[this] is the REAL best picture ever", demurs MAT BETTINSON: 
+         http://www.ntk.net/2003/08/29/best_picture_ever_2.jpg ... IMDB 
+         US "Showtimes" feature supports latitude/ longitude - in URL: 
+         http://www.imdb.com/showtimes/location/33.94,-118.4/10m ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> a week of military hypotheticals kicks off with WWII 
+         tanks Tiger vs Sherman in GREATEST MILITARY CLASHES (8pm, Fri, 
+         C5)... TIME COMMANDERS (8pm, Thu, BBC2) re-enacts Hannibal vs 
+         Scipio 218 BC using Creative Assembly's "Rome: Total War" 
+         engine http://www.totalwar.com/ - shame they didn't license 
+         "C&C: Red Alert", then they could loadout with Mirage tanks, 
+         Tesla coils and Chrono Legionnaires... and Francesca "Lady 
+         Jessica" Annis provides the Bene Gesserit commentary in 
+         weapons-grade talk-heavy Bohr vs Heisenberg nuke play 
+         COPENHAGEN (10.40pm, Sat, BBC2)... Robert "Begbie" Carlyle 
+         proves predictably unsuitable parent material in Oirish 
+         poverty porn ANGELA'S ASHES (9pm, Sat, C4) ... Geena Davis is 
+         understandably annoyed when Jeff Goldblum starts taking their 
+         relationship for granted, "lets himself go" a little, in THE 
+         FLY (11.40pm, Sat, C4)... and SOME OF MY BEST FRIENDS ARE 
+         JEWISH (7.30pm, Sun, C4) was a quote rarely attributed to Nazi 
+         apologist DIANA MOSELEY: ADOLF, OSWALD AND ME (8pm, Sun, C4) 
+         ... arch-enemies are pitted against each other once again in 
+         GLADIATOR: BENN V EUBANK (9pm, Sun, C5) - though clearly at 
+         least one of them survives to appear in "The Osbournes" knock-
+         off AT HOME WITH THE EUBANKS (8pm, Tue, C5)... there's a 
+         double-bill of Bacon-bashing in SNORTING COKE WITH THE BBC 
+         (9pm, Sun, C4) and THE CURSE OF BLUE PETER (9pm, Mon, C5)... 
+         yet it's hard to care about SCREAM 3 (10pm, Sun, C4) since 
+         it's up against the untold "Omni" story in THE RISE AND FALL 
+         OF PENTHOUSE (10.35pm, Sun, C5)... even "Red Planet" is better 
+         than demented Connie "Gladiator" Nielsen "2001" wannabe 
+         MISSION TO MARS (11.30pm, Tue, ITV)... Katie "Dawson's Creek" 
+         Holmes and writer Kevin "Scream" Williamson fail to make the 
+         grade in TEACHING MRS TINGLE (11.15pm, Wed, BBC1)... but star-
+         studded OAP astronaut comedy-drama SPACE COWBOYS (8.30pm, Thu, 
+         BBC1) is worth a look if you don't want to sit through FACE/ 
+         OFF (9pm, Thu, C5) again...
+         
+         TV>> more low-budget high-concept mind-bending from Vincenzo 
+         "Cube" Natali, as Lucy "Charlie's Angels" Liu and Jeremy "The 
+         Net" Northam satirise the unforgiving geometry of corporate 
+         conferences in limited-release short story scifi CYPHER (imdb: 
+         amnesia/ false-identity/ brainwashing/ conspiracy/ memory-
+         loss/ flashback/ love/ psychological-thriller/ trust)... as 
+         Film Threat astutely pointed out, being variously marketed as 
+         "a hard-nosed detective story", "a laugh-a-minute buddy cop 
+         film", and "a character drama of two opposites learning to 
+         work together" http://www.filmthreat.com/Reviews.asp?Id=4627 
+         isn't an good sign for grouchy Harrison Ford misfire HOLLYWOOD 
+      HOMICIDE ( http://www.capalert.com/capreports/hollywoodhomicide.htm :
+         misleading reference to spirituality; stereotyping of 
+         tolerance for homosexual practices; man and woman making out 
+         while nude, ostensibly for intercourse)... rather more basic 
+         thrills are on offer in rural "Worzel Gummidge: The Revenge" 
+         eat-'em-up JEEPERS CREEPERS 2 (imdb: scarecrow/ shot-in-the-eye/ 
+         sequel)... or limited-release French animated "Aeon Flux" 
+         lookalike BELLEVILLE RENDEZ-VOUS ( http://www.bbfc.co.uk/ : 
+         contains mild slapstick and nudity and moderate violence)... 
+         
+         AVAILABLE IN A WIDE RANGE OF BLACK>> and if you're as enraged 
+         about the "retro gaming phenomenon" as embittered webzine UK 
+         Resistance http://www.ukresistance.co.uk/issue10.html , then 
+         you can now express your dismay with our latest co-production 
+         t-shirt: 10 PRINT "RETRO GAMES ARE SHIT" 20 GOTO 10, currently 
+         on sale at http://www.ntkmart.com/ for just 10.00 pounds Earth 
+         money. Also new this month: a sort of handwritten IF I HAD A 
+         LIFE I WOULDN'T BE HERE (a bit like the scene where "help me" 
+         appears on the kid's skin in "The Exorcist"), and the first 
+         official merchandising from acclaimed dance music education 
+         establishment THE MUSEUM OF TECHNO - UKP2.00 from each sale 
+         going to help fund their new project "to restore a recently 
+         uncovered Jin dynasty Roland 303 Bassline to full working 
+         order": http://www.museumoftechno.org/news/20030716.html . Oh, 
+         and Andy Brice's THAT'S WEIRD - IT WORKS ON MY MACHINE has 
+         sold out again, though fans of his work may also enjoy his 
+         Demotivators-But-Without-The-Sarcastic-Tagline-style digital 
+         photo prints available from http://www.andybrice.com/ ... a 
+         reassuringly deranged selection of reader designs, as ever, 
+         with DAN DUKESON's "uck SC" being perhaps the most topical 
+         http://www.ntkmart.co.uk/images/uckSC.png , and TOM DE 
+         MULDER's selection at http://www.furrfu.org/t-shirtideas/ the 
+         most prolific, though our "Do I look like a people person?" 
+         favourite is quite a popular t-shirt slogan already, we fear. 
+         AMANDA STONE kept the text-only entries self-referential with 
+         "ceci|n'est|pas|une|pipe", DANNY JONES mused "How many 
+         Slashdotters could Slashdot Slashdot if Slashdot could be 
+         Slashdotted?", and only ANDREW SMITH and MARTIN RODGERS let 
+         the side down with their not-particularly-subversive screen 
+         grab http://www.ntkmart.co.uk/images/assteroids.gif and 
+         "Colour coordinated chroma-coding is *so* gay" (in "black text 
+         on a white shirt"), respectively. LLOYD WOOD accurately 
+         anticipated we'd like some slogans having a go at bloggers, 
+         suggesting "Blogging - good! Journalism - bad! Bandwagons - 
+         excellent!" and "WE ARE THE BLOGS. JOURNALISM IS FUTILE. YOU 
+         WILL BE ANNOTATED", but we're still interested in variations 
+         on this theme (or indeed our own "Does my ass look fact-
+         checked in this?")... "Buy One, Subvert The Mass Media, Get 
+         One Free" entries were particularly disappointing this month, 
+         with DAVE PHELAN pathetically listing 3 missed opportunities 
+         to have flaunted one during the blanket coverage of Brighton's 
+         PiertoPier wifi network http://news.bbc.co.uk/1/3068915.stm , 
+         so the winner has to be to TV's IAIN LEE for wearing an 
+         "Elite" shirt during "Big Brother's Little Brother" in July on 
+         Channel 4 http://www.ntkmart.co.uk/images/ . Iain receives a 
+         free t-shirt of his choice if he (or someone pretending to be 
+         him) would like to get in touch to claim it - please email 
+         tips@spesh.com with the subject line "I am Iain Lee (or someone
+         pretending to be him)"... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "relax girls, he's married"
+                 http://www.gnomedesktop.org/article.php?sid=1301
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+
+

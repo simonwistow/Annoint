@@ -1,0 +1,376 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____01/08/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@flirble.org
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o   www.spesh.com/cgi-bin/now
+
+     * APPLE FAILS TO FAIL * CLAN NEGROPONTE "HELPS" AFRICA * MAC IE4.0 *
+   SCI-FI ARCHAEOLOGY * TOMORROW'S WORLD, MEN IN BLACK, AND THE WIRELESS *
+
+
+           "Matsushita is to demonstrate 3D human characters at next
+            week's SigGraph '97 that can move naturally and dance to
+                                                             music."
+                                          - Matsushita press release
+                   an improvement on the rest of the attendees, then
+
+
+                               >> HARD NEWS <<
+                                soft wariness
+
+         APPLE COMPUTER increased its share of the lucrative
+         "foundationless gossip" industry this week, with excellent
+         results. The first we heard was from our Hot Apple Source,
+         who sent the cryptic "We hear our female execs are in for a
+         few Lexuses". Next, weirdness spilled forth from Amiga-
+         eater GATEWAY 2000: was their resigning CEO Apple-bound?
+         The Tuesday SF Chronicle said Steve Jobs as chairman was a
+         done deal, and then the excellent MacOS Rumours site maxed
+         out after hinting a Sun-Oracle buyout. Apple stocks bounced
+         up all week - and Apple still hadn't had to do a thing. We
+         can only note that PC Pro's news page headlined with
+         "Apple's job of jobs could be the job for Jobs", implying a
+         joke that got out of hand. Slightly more usefully, someone
+         leaked Jobs' e-mail to his Pixar employees denying
+         everything. You know, it's a sad world when the only guy
+         whose word you believe is Steve Jobs.
+         http://www.macresource.pair.com/mrp/contributions/pixar.shtml
+                                            - trusssst in meeeee ...
+         http://www.apple-history.pair.com/H3.html
+                   - mind you, I wouldn't book any trips to China...
+         http://www.macosrumors.com         misspelt for some reason
+
+         "Computers need more Africa in them" said Brian Eno,
+         misquoting Lenny Henry's Theophilus P Wildebeest. Others
+         plan the exact reverse. MICROSOFT this week announced their
+         intent to invest millions in (as they pointedly describe
+         it) "building an African market for its products". And
+         where Microsoft stomps, can NEGROPONTE be far behind? Old
+         Nick's son, Dmitri, has just wrapped up the first 2B1
+         conference, where children from developing countries were
+         invited to learn about the Digital Revolution(tm) at MIT.
+         "We're trying to bypass the politicians," Dmitri, 27, says.
+         Sadly, the history of young people being taught a novel
+         ideology by confused Western academics and then returning
+         to their communities to create their own unique
+         interpretation is *not* too good these days. Meanwhile, the
+         eminently practical clockwork inventor, Trevor Bayliss,
+         premiered a clockwork Newton for Commonwealth officials. It
+         can, reports say, run for over 16 minutes without crashing.
+         http://freeplay.pair.com/
+                                 - twice as long as an OS7.5 PowerPC
+         http://www.2b1.org/       more well-meaning wind-up artists
+         http://www.eu.microsoft.com
+         - Microsoft's new site for that developing European market
+
+         Peter Dawe, millionaire ex-head of PIPEX, this week handed
+         over control of the Internet Watch Foundation, *the*
+         phoneline for grassing up pornographers, con-men and other
+         net.ne'er-do-wells. Under the benevolent gaze of new
+         Internet Minister Barbara Roche, power passed into the
+         eminently trustworthy, cough cough, hands of Demon,
+         LineOne, UUNet and BT, who are now sponsoring it, and the
+         LINX and the Internet Service Providers Association (ISPA),
+         who will be assisting in a general revamp. The group has
+         ambitious plans, including hosting the first international
+         working group on rating and filtering software. It's not
+         clear whether all this will still take place around Dawe's
+         kitchen table - like in the good old days.
+         http://www.iwf.org.uk/press.html
+         -or "the IWF's office in rural Cambridgeshire" as this calls it
+         http://www.ispa.org.uk/       hey, ISPA! Professional site!
+         http://www.bbc.co.uk/politics97/mps/746.shtml
+                                      - here starteth the RocheWatch
+
+         The newspaper tech pages were abuzz (well, as abuzz as the
+         tech pages get) with a doom-laden study that declared that
+         the Net was suffering from a bandwidth "crisis of the
+         Commons". The Xerox Parc research team based their findings
+         on timing packets between Stanford and the UK's Cranfield
+         Uni (lot of traffic there). They noted from the delays that
+         when users are encouraged by fast response times, they
+         increase their net activities. When the response time then
+         slows to a crawl, users back off. The researchers' were
+         horrified by this "feast-and-famine" scenario, and
+         suggested charging everyone for bandwidth used to stamp it
+         out. Fine. Now given that's never going to happen, how
+         about a better set of Internet weather indicators, so this
+         "crisis" (or "equilibrium-seeking system" as we'd more
+         positively describe it) can be fine-tuned? Oh shut up, us.
+         http://www.parc.xerox.com          no mention of the report
+         http://www.cranfield.ac.uk       which saves some bandwidth
+                     - whatever next, more roads cause more traffic?
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Windows 98 takes on the set-top box with video, radio and
+         TV capabilities" - reports MSN... UK Net users not nerds
+         says survey by Yahoo! Europe... rich source of anti-news IT
+         Informer shuts down (in itself anti-news)... UK Net users
+         rich, earn 44,000UKP says survey by Yahoo! Europe...
+         Ukrainian believers flock to cross in tree stump - AP
+         report... Microsoft to lose "hundreds of millions" on media
+         ventures... www.yahoo.fr most popular French site says
+         survey by Yahoo! Europe... Updike writes collaborative Net
+         story (imitating successful Troma filmscript compo at
+         www.troma.com/contest.html ) ... new "Bitch" song reveals
+         women to have complex, multi-faceted
+         personalities... Yahoo! Europe plan to increase ad rates...
+         budget (UKP 2.99) CD-ROM range to feature games
+         compilations, Doom add-ons, erotica...
+
+
+                                >> CULTURE <<
+                          celebrate your inner geek
+
+         Stargate has a lot to answer for - Bournemouth University's
+         appealingly titled Theoretical Archaeology Group ("Go and
+         dig something up!" "I'll think about it") are calling for
+         papers for December's even cooler-sounding conference: WHEN
+         WORLDS COLLIDE: ARCHAEOLOGY AND SCIENCE FICTION. "More
+         people have seen Raiders Of The Lost Ark than Time Team,"
+         ponders dashing academic Miles Russell, adding: "Can we
+         learn anything from the popular perception of archaeology
+         in the public consciousness? Are those involved in
+         archaeology secretly pleased by the heroic pose of Indiana
+         Jones, Jean-Luc Picard or Lara Croft?" Shamefully, we only
+         found out about this via the chat-forum for the launch of
+         new mag CULT TV, an event marred by troublemakers
+         discussing the allegedly made-up kids' show, CANOE SQUAD.
+         http://csweb.bournemouth.ac.uk/consci/tag97/
+                           - quite a way down the page. get digging.
+         http://www.futurenet.com/forum/_culttvforum/00000027.htm
+                        - does no-one else remember "Android Barge"?
+
+         It's a worldwide multinational conspiracy to silence
+         veteran net.pranksters! Or maybe it's the inevitable price
+         of "asking for it" in too strident a voice. Synchronicity
+         or conspiracy, both RU SIRIUS and HEATH BUNTING are in
+         trouble with the Big Guys this week. Heath's
+         Irational.org's messings with the loyalty card schemes of
+         major shopping chains has led to legal threats from
+         SAINSBURY'S plc - the company has demanded that he hand
+         over "stolen" personal data gathered from individuals
+         visiting the fake Sainsbury's Web site. Meanwhile,
+         corporate lawyers have noticed that RU SIRIUS's
+         www.revolting.com, while festooned with banner ads
+         advertising MICROSOFT, IBM and US ROBOTICS, has never
+         actually been paid for any of them. Or indeed, requested
+         permission to reproduce them. Both RU and HB are shockingly
+         unrepentant, and have chosen to stare The Man out.
+         http://www.revolting.com       two MacTrials to go, please.
+         http://www.irational.org/tm/clubcard
+         -hey, free credit card blanks! Thanks, supermarkets everywhere!
+
+         A quick reminder that next weekend is the hacker conference
+         double-bill of XS4ALL's HIP '97 (Amsterdam) and Emmanuel
+         Goldstein's HOPE (New York). NTK hopes to be feeding out a
+         live report from the 'Dam, but we're sure that they'll be
+         enough "Hackers To Destroy World As We Know It" articles
+         for you to glean what went on without us. If you're there,
+         we're the ones looking like we've never put up a tent in
+         our lives. Again.
+         http://www.hip97.nl   - transatlantic link-ups promised too
+         http://www.2600.com  - hope we live long enough to see them
+
+         Meanwhile, that same weekend, on the Lizard Peninsular in
+         Cornwall, PAUL MARTIN is running a Symbiotic Infotainment
+         show. This (of course!) involves "an interesting mix of
+         multimedia activities" connected with visual feedback,
+         credit unions, entertainment, and the inevitable
+         alternative-currency LETS schemes. He's looking for someone
+         to help him take the video they're taking of the event, and
+         feed it onto some one of those Web server things.
+         Interested? Cornish? Give Paul a call via us, at
+         paulmartin@spesh.com.
+
+
+                                >> TRACKING <<
+                   Web site come by this way two moons past
+
+         MICROSOFT snuck out the V1.2 "upgrade" for its notorious
+         DIAL-UP NETWORKING support this week. Preeeetty featureful:
+         client support for point-to-point tunneling protocol is
+         introduced, letting Win 95 users connect to NT servers over
+         the Net instead of direct-dialling in. Plus there's support
+         for internal ISDN adapters and extra scripting commands.
+         All this, and a less buggy TCP/IP stack too! Wonder why
+         they're keeping it so quiet?
+         http://www.eu.microsoft.com/ntserver/info/pptpdownload.htm
+         - oh yeah. It was supposed to work the first time
+
+         You'll either spooge or you won't, so we'll say it as it
+         is: A complete royalty-free VT100 TELNET client written in
+         Java, with source. Yes?
+         http://www.nacse.org/web/webterm/               off you go.
+
+         We've always held a soft spot for STEVEN K ROBERTS, creator
+         of the million dollar Microbike, proprietor of Nomadic
+         Research Laboraties and the original footloose technomad.
+         Now he's fallen head over heels with a British geek girl,
+         we're all the happier. Steve and Liz's new project, a cut-
+         down Microship flotilla, has been completely revamped, and
+         they've got a new resource site too. Ahhh.
+         http://www.microship.com/latest.txt              ahhhHHhhhh
+         http://www.microship.com/technomads tn'ing around the world
+
+         Just what you wanted, Mac folk- MICROSOFT INTERNET EXPLORER
+         4.0 (preview 1) for the Macintosh! Read about it. Download
+         it. It looks so beautiful doesn't it? So tasty. So sweet.
+         What a kind man that Mr Gates is, to give you it for free.
+         http://www.eu.microsoft.com/ie/mac/home_top.asp
+         http://tcp.ca/gsb/Mac/
+                               - spit or swallow? A 3rd party writes
+
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         "Arial is the cruellest font"... 6-channel surround sound
+         on audio DVDs? Oh, *sure* that'll make us throw away our
+         CDs... www.gmsv.com's Minister of Information... PC games
+         "out-speccing" consumers, fears INTERPLAY - and they've got
+         some *pretty speccy* customers... SLURPEE BRAINFREEZE...
+         Phone up, ask "how much to make my site incompatible with
+         your competitors' browser?"... the terrifying REBECALIST
+         stalkers... Thresh - a new kind of human?... 120 UKP - for
+         a DEMON leather jacket?!... Concealed in all TTF fonts -
+         "Copyright Microsoft from now to eternity"... Bulgaria:
+         home of CD piracy... Top three bestsellers at
+         WWW.BOOKSHOP.CO.UK: Inside Com (P Rogerson), Teach Yourself
+         Microsoft Internet Studio In 21 Days (M Van Hoozer) and, at
+         number 3, THE BIBLE (various artists)... note to
+         shadow.dra.hmh.gb - hey, try www.anonymizer.com, Mr Spy!
+
+
+                               >> MO' MEDIA <<
+          why don't your turn in and do something less interesting?
+
+         TV >> ROOM 101 (10pm, Fri, BBC2) returns to draw a bead on
+         comedy's most obvious objects of mirth, though that doesn't
+         include tonight's guest, Jeremy Clarkson... "Beavis And
+         Butthead meets The Simpsons" is how one traditionally
+         cheers cartoon trash-com KING OF THE HILL (10.30pm, Fri,
+         C4)... THE GAME OF WAR (8pm, Sun, C4) sounds like a TV
+         tourney of Command And Conquer, but BBC2 has the real thing
+         in Moviedrome's urban unrest double-bill THE WARRIORS and
+         LA HAINE (from 10.15pm, Sun, BBC2)... no-one seems much
+         shocked by the new drugs/youth/road-protesters strand
+         they're calling RENEGADE TV (from 11pm, Mon) on, you've
+         guessed it, Channel 4... the Tomorrow's World team use
+         archive nostalgia to deny that appearing on their show
+         "curses" inventions in TW TIME MACHINE (7.30pm, Wed,
+         BBC1)... INSIDE STORY (10pm, Wed, BBC2) tries to get inside
+         the "containers" of the Heaven's Gate suicide HTML cult,
+         tastefully followed by two X FILES, the second of which is
+         the cool one with the circus freaks... Tarantino geek-
+         cameos near the end of fun but patchy 20-something drama
+         SLEEP WITH ME (10.35pm, Thu, C4), but REBOOT (4.40pm, Thu,
+         ITV) interrupts with an "Is Enzo dead?" cliffhanger, though
+         you can eliminate any undue stress by consulting
+         www.meridian.tv.co.uk/preview/reboot3.html ...
+
+         MOVIES >> We're as disappointed as you are - MEN IN BLACK
+         (Will Smith, Tommy Lee Jones) has the cast, the jokes, and
+         the effects of an ID4-style blockbuster, but just hasn't
+         got the *soul*, and consequently feels short, empty,
+         insubstantial, like a cheaper Ghostbusters 2... it's
+         unclear if its title is supposed to be funny but B*A*P*S
+         (Halle Berry, Martin Landau - it stands for "Black American
+         Princesses") may be the worst film released so far this
+         year... which leaves us with surprise recommendation
+         ADDICTED TO LOVE (Matthew Broderick, Meg Ryan), an often
+         dumb but at least bizarrely obsessive romantic comedy
+         directed by Griffin Dunne (from "American Werewolf In
+         London", and this week's surprise Saturday FRASIER repeat -
+         7pm, C4)...
+
+         RADIO >> Radio 4 new guard announce a "science zone" after
+         audience (average age 53) are revealed "to have great
+         interest in computers"... No Lydon, lots of Eno condemns
+         Ian Dury's sixties-focused artschool rock history ART GOES
+         POP, POP GOES ART (11pm, Sun, R2) and it's Warhol not Woody
+         with archetypal R4 doc A CULTURAL HISTORY OF THE BANANA
+         (9PM, Mon, R4)... A mini-series of electronic music
+         "pioneers" features bonkers ( and great) Fifties avant-
+         garder Pierre Henry in ICONOCLASSICS (10.45pm, Mon, R3)...
+         Usual suspect Steve Jones insists Flann O'Brien's ludicrous
+         "The Third Policeman" was inspired by physics of the time
+         in SCI-FI: FICTION SCIENCE NOT SCIENCE FICTION (2pm, Tue,
+         R4)... Ignored lo-fi veterans Yo La Tengo plug fab LP "I
+         Can Hear Heart Beating as One" in session on JOHN PEEL
+         (8.40pm, Tue, R1)... and if only Alan Turing's affairs
+         could have been as lasting as the BBC's enduring romance
+         with him, as the wartime valve god's role in Bletchley
+         Park's codebreaking is picked over once more in GOING BACK
+         (7.20pm, Thu, R4)... - wireless@spesh.com
+
+
+
+                                 >> ERRATA <<
+                      and other apologies for apologies
+
+         Yes, we confess, it was us who "took down" the world's best
+         TELETUBBIES site (aka Riddle Of The Teletubbies, formerly
+         at www.mitt.demon.co.uk) by foolhardily plugging it in The
+         Guardian last weekend. Apparently Demon will suspend any
+         homepage shifting more than "100 megabytes transferred to
+         non-Demon hosts for any three days in a month". So now you
+         know, you warez, porn, or kids' TV barons. As penance, NTK
+         is currently working with host Moose to transfer the
+         offender to a better, fatter-piped home. We're fairly sure
+         we didn't cause the firing of Tinky Winky (aka the
+         Nietzschean Cluub Zarathustra's Dave Thompson). In
+         addition, a letter in this month's issue of The Face
+         reveals that Tinky Winky (the Teletubbie, not the actor) is
+         probably gay - rather than transvestite, as we may have
+         previously claimed. NTK regrets all these errors.
+         http://moose.spesh.com/
+                           - NTK giveth, but it can also taketh away
+         http://news.uk.msn.com/news/3377.asp
+                        - shocking tell-all fully illustrated expose
+
+         Another kick in the face for our predictive powers: the
+         LINX, heart of the UK Net, performed flawlessly during its
+         transplantation last weekend. Apologies to the LINX staff
+         for implying any different. (The appearance of this
+         correction has nothing to do with the anonymous "Very
+         funny. Say sayonara to your connectivity" mail we received
+         on Saturday.)
+         http://www.linx.net                 - great guys. Big axes.
+
+         Finally, the URL for the disturbingly misogynistic "How to
+         Kill the Spice Girls" site has been printed incorrectly in
+         this weeks' Time Out. Nothing to do with us, but we thought
+         we'd correct it anyway. You see, it isn't all take, take,
+         take.
+         http://www.geocities.com/~-needle/spice.htm
+         http://www.timeout.co.uk      - now, about that "Spyder"...
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+        It is registered at the Post Office as "viewdata compatible".
+                     ( http://www.heaven.affection.net )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 

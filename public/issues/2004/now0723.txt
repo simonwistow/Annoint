@@ -1,0 +1,257 @@
+ 
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-07-23_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+          Ian Harris, deputy editor of MacFormat, a British Mac 
+          magazine, said he regularly runs Spymac-inspired features, 
+          and finds the site indispensable for getting story ideas and 
+          taking the pulse of the Mac community. "Thank God for Spymac," 
+          he said. "I don't know what I'd do without it..."
+                    http://www.wired.com/news/mac/0,2125,64217,00.html
+                                                ..."journalism", maybe?
+
+
+                               >> HARD NEWS <<
+                                cinema queues
+
+          All is proceeding as planned: the legal beating recently 
+          handed out to MATTHEW SOMERVILLE has merely made a "martyr" 
+          out of the mild-mannered usability vigilante, with gangs of 
+          young men (all, in some bizarre tribal allegiance, calling 
+          themselves "Iain") now roaming cinema listings sites with 
+          armfuls of precious Odeon schedules "liberated" by ad-hoc Perl 
+          scripts of their own. (Though, speaking personally, we've 
+          never had too many problems with www.scoot.co.uk/cinemafinder 
+          - as long as you sidestep its most heinous interface problem 
+          by entering high-digit postcodes like "N6" rather than the 
+          "N1" it diligently interprets as "You are searching for BEFORE 
+          SUNSET in N1. Please select one of the following: N1, London. 
+          N10, London. N11, London. N12, London...", and so on.) On a 
+          related note, the POST OFFICE seem strangely reluctant to give 
+          their visitors access to mutually beneficial information such 
+          as *the postcode of the person you're writing to*, with the 
+          closure of the no-registration-required postcode database 
+          "back door" revealed in NTK 2004-04-16. Please let us know if 
+          you've spotted where it's disappeared to this time - or must 
+          the public take the law into their own hands once again?
+          http://www.theregister.co.uk/2004/07/20/letters_2007/
+              - just some concerned Iains doing their bit (scroll down)
+          http://www.isolani.co.uk/blog/access/OdeonTheMissedOpportunity 
+          - "31%" of Odeon traffic, claims outraged blog mathematician
+          http://www.ntk.net/2004/04/16/
+                  - almost like they want you to give up and use email
+          http://www.bleb.org/tv/all.html?c=bbc1+bbc2+itv1+ch4+five
+          - not perfect TV info, but miles better than everything else
+          http://natrail.sourceforge.net/
+            - come hackers, free the schedules/ then you'll be free...
+        
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+          [ OK, http://www.dohthehumanity.com/ isn't quite there yet - 
+          maybe a rating system instead of comments? - but is an easier 
+          way to scroll through the Dohs instead of having to link to 
+          each one individually. Still, can't believe we missed this one 
+          (final para): http://whatnottodo.org/junk/yahoo.news.html ]... 
+          MP3 players "set to become the must-have gadget for music 
+          fans", muses: http://news.bbc.co.uk/1/3916811.stm - "must-have 
+          gadget" for music haters = a soundproof room?... apparently 
+          filling the brief "list some films you can think of that have 
+          robots in": http://news.bbc.co.uk/1/hi/3906257.stm ... much-
+          safer-for-work-than-you-actually-expected double URL-tendres: 
+          http://www.adamsexhibitions.co.uk/ , http://vintageswank.com/ 
+          and - paradoxically - http://www.nsfw.org/ ... Widdy of week: 
+    http://www.majesticmortgages.co.uk/keyword.asp?Keyword=a%20total%20ripoff
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          The UK's first "E-FESTIVAL" ("putting the fun back into 
+          computer events!") - deferred until 2005. CLASSIC GAMING EXPO 
+          UK (featuring Matthew "Manic Miner" Smith, a C5, MAME 
+          cabinets, a raffle) - happening this weekend (10am-6pm, Sat 
+          and Sun 2004-07-24/25, Fairfield Halls, Croydon, UKP7.50, 5.00 
+          concessions). But of course the real action will be "going 
+          down" at the annual UKUUG conference LINUX 2004 (from next 
+          Thu to Sun 2004-08-05/08, tutorial and conference fees from 
+          UKP70.00, 15.00 concessions) - at time of writing, it's not 
+          clear from the site where in Leeds it's going to take place, 
+          though let's not rule out the possibility that the entire town 
+          centre may be given over to celebrating open source operating 
+          systems, Athens Olympics-style, culminating with the glorious 
+          "Parade of the Sysadmins" through the gaily decorated city.
+          http://www.ukuug.org/events/linux2004/
+          - or perhaps just Clarence Dock Hall of Residence, Leeds Uni
+          http://www.cgexpo-uk.com/
+           - + rare showing of "WarGames" (taped off ITV last weekend?)
+          http://www.e-fest.co.uk/
+          - at Stoneleigh Park, home of the Royal Agricultural Society
+          http://www.dampassassins.net/
+                      - tomorrow: MMS, waterpistols, Hoxton, Nathanity!
+          http://www.privacyinternational.org/bigbrother/uk2004
+                - and next Wednesday: 6th Annual UK Big Brother Awards
+          
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          PERLPAD brings a Perl sensibility to the Mac - especially
+          the bits of the Mac you'd think were too bleachy clean to
+          sully. Invading the Mac's vestigial NeXT Services menu, it
+          lets you take text in any Cocoa app window, and run it as a
+          Perl program with a Command-and-a-shift-and-a-big-letter-E.
+          Or you can select text, hit Command-Shift-R and feed it as
+          STDIN to your own foul Perl one-liners. To add to the
+          ambience, PerlPad's interface is inpenetrable, and it's
+          almost impossible to install. Taking the "more than one way
+          to do it" thing a *little* too far, PerlPad requires you to
+          download a .dmg, install CocoaBones using Mac's metapackage
+          weirdness, *and* make Devel::SymDump using CPAN. We
+          estimate that's every way to install something on the Mac
+          without using fink and/or downloading it from Ceefax. And
+          the Services menu is greyed out in Mozilla, Vim and Emacs 
+          on Aqua, so what's the bloody point? The point, as ever with
+          Perl, is that it's there when you reallly badly need it. And
+          you will. Oh yes.
+          http://freshmeat.net/projects/perl-pad/
+            - he suffered for his artistic licence, now it's your turn
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+          the scandal Stuart Campbell came to know - as "Driv3rgate": 
+        http://worldofstuart.excellentcontent.com/drivergate/drivergate.htm 
+          ... Worst Photoshopped Cover Ever? (dig that Kevin Smith page 
+          curl!): http://www.dvdtimes.co.uk/content.php?contentid=11719 
+          ... reverse casemodding - dismantling all your household 
+          appliances, and putting them in the cases of desktop PCs... 
+          search results "slam" BBC News for excessive tabloid-ese: 
+          http://newssearch.bbc.co.uk/cgi-bin/search/results.pl?q=slam 
+          ... http://www.10eastern.com/foundphotos.html stumbles onto: 
+      http://www.10eastern.com/images/FoundPhotos/images/6-30/im000086.jpg
+          - Rupert Goodwins! ... taunt a curmudgeonly numismatist: 
+          http://www.24carat.co.uk/questionstheyaskus.html ... quite the 
+          most unexpected "one of these not safe for work" for a while:  
+          http://images.google.com/images?q=%22what+is+rss%22&safe=off ...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> look forward to a fair chunk of Jonas Akerlund's oeuvre 
+          - plus, the trailers imply, N*E*R*D's enthusiastically 
+          gratuitous "Lapdance" - in an extended version of what they 
+          show late-night on MTV practically every day, X-RATED: THE 
+          VIDEOS THEY TRIED TO BAN (10pm, Sat, C4)... word is that the 
+          new "Thunderbirds" movie is, impressively, even lamer than the 
+          original THUNDERBIRDS ARE GO! (1.45pm, Sun, C5)... and these 
+          aren't really five different remixes of the theme from THE 
+          INVADERS http://www.the-invaders.com/invaders_audiomix.htm 
+          (4.20am, Sat, C5) - but we're sure one of these sites posits 
+          the theory that architect David Vincent is actually one of 
+          "them" himself, secretly put on Earth to test the population's 
+          (in)credulity... here's hoping it's the special "Director's 
+          Cut" of ALIENS (10pm, Mon, C5), if only because that "restored 
+          sequence" with Newt and her parents in the cab of the truck is 
+          bloody awful... whenever we hear Grub Smith voiceovering 
+          something like urban legend trawl 101 EMBARRASSING SEXUAL 
+          ACCIDENTS (10.50pm, Mon, C4), we assume it's actually someone 
+          pastiching ["Lock, Stock and Two Smoking Barrels" narrator] 
+          Alan Ford... and middle- and working-class families remain 
+          literally astonished at their differing lifestyles when WIFE 
+          SWAP (9pm, Tue, C4) introduces a "fitness fanatic" to an 
+          "internet addict", and I'M ALRIGHT JACK (sic - 9pm, Thu, 
+          BBC2) makes a City "high-flyer" work in a hostel for the 
+          homeless... Stew Lee gets 15 minutes out of his "Owl And The 
+          Pussycat" material in INNER VOICES (11.15pm, Wed, Radio4)... 
+          the inspiration behind Tony Blair's recent outburst is 
+          revealed in BBC4 repeat I HATE THE '60S (11.20pm, Tue, BBC2) 
+          ... and C4 follows three couples considering another popular 
+          midlife-crisis makeover in handy how-to guide SLEEPING WITH 
+          THE AU PAIR (9pm, Wed, C4)... 
+          
+          AD MUSIC FOR SIX PEOPLE>> inevitably, we've been forced to 
+          bring this rarely-popular feature back from "Blade Runner"-
+          style retirement by no less than 3 of you writing in to note 
+          that, as ANDY LAWN put it, "The Danone Shape yoghurt advert 
+          uses a tune that's an imitation of The Orb's 'Little Fluffy 
+          Clouds' - and not the sincerely flattering kind of imitation 
+          either", a crime compounded by not using INTERNETSDAIRY's 
+          suggested tagline "You might still see that in the dessert": 
+          http://www.livejournal.com/users/internetsdairy/106921.html . 
+          DAN PEARCE ventured to get "a tad more obscure" by claiming 
+          that "the music for the Magnum ad with people painting bulls 
+          or somesuch is trying very hard to be Alphawezen's 'Into the 
+          Stars'. At least that's the tune I think it's going for - it's 
+          2 tracks before the 10CC/ Destiny's Child mix on that 2 Many 
+          DJs album. Worth waiting for, I'm sure", while we'd just like 
+          to mention in passing that next week's release of KING ARTHUR 
+          is now the third film to feature Clint Poppie's "Requiem For A 
+          Dream" theme in its trailers, the others being "Lord Of The 
+          Rings 2: The Two Ronnies", and, er, the original "Requiem For 
+          A Dream"? http://www.ntk.net/index.cgi?b=02003-01-03&l=239#l 
+          ... in the broader world of soundalikes, CARL MORRIS neglected 
+          to tell us the name of "the new single by Modest Mouse" which 
+          he alleges "sounds very reminiscent of 'Star' by James. You 
+          can sing 'Star' on top of it, or even hum it if you don't know 
+          the words" - though it should be fairly easy to spot from that 
+          description. And if you can't be bothered to download the new 
+          "Always Outnumbered, Never Outgunned" Prodigy album from the 
+          P2P nets where it so tenaciously resides, then you could 
+          always listen to "The Fat Of The Land" again but with the 
+          tracks in a different order - apart from (the next single?) 
+          "Girls", which is just as good as when it was previously 
+          released as "We Have Explosive" by The Future Sound Of London 
+          ... so, just to wrap up this week's 1990s UK acid house 
+          retrospective, NICK BARTON devised the ideal product placement 
+          for arguably the highlight of Orbital's output, explaining: 
+          "Picture the scene: A young woman leaves her house to play 
+          outside on a sunny day, without a thought for sunscreen or 
+          anything else. Then, the scene switches: years later, the same 
+          woman, now middle-aged, has deep wrinkles, liver spots and 
+          skin like Tom Jones's jockstrap. Over the top of this we hear 
+          the familiar words of: 'Well son, the funny thing about regret 
+          is that it's better to regret something you have done than to 
+          regret something that you haven't done. And by the way, if you 
+          see your mom this weekend, will you be sure and tell her: 
+          SOLTAN!! SOLTAN!! SOLTAN!!'"...
+
+              
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+             "Se violi questo limite metti il tuo paese a rischio"
+ http://www.google.com/groups?selm=hFIBc.360741%24hc5.15686769%40news3.tin.it
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

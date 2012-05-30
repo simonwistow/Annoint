@@ -1,0 +1,337 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-01-22_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+
+      "If somebody took a gun and pointed at me and said write proprietary
+      software or I'll shoot, I think under those circumstances, I'd
+      be justified in writing some proprietary software, although I
+      think that it would be very buggy and would never get to work
+      reliably."
+                                                - RICHARD M. STALLMAN
+                  http://www.nwfusion.com/news/1999/0111stallman.html
+                    - /* pppllease exxcuse inconsistent indenttattion */
+
+
+                                >> HARD NEWS <<
+                               dictats and coups
+
+         FREESERVE's attempts to pass itself off as the non-techie,
+         family ISP took a dent last week. E-mailing subscribers to
+         tell them about its new anti-spamming policy, they announced
+         that users would have to turn their CLID on to access the
+         full service. "I don't even know where my CLID is!", wrote
+         one correspondent, underestimating how low we'd sink for a
+         joke. To prevent fly-by-night spammers, the ISP now prevents
+         outgoing mail from any phone which withholds its number.
+         Paranoid freeloaders with particularly sensitive CLIDs
+         instantly kicked up their conspiracy template wizards and
+         "revealed" how Freeserve was going to sell the phone numbers
+         to marketeers (without, perhaps, picking up on ENERGIS being
+         a Telco: who could get the telephone numbers at the switch
+         anyway. And why would they draw attention to it, anyway?).
+         Few, however, noted on one of the nastier clash-of-interests
+         in the mess. Non-BT users moaned that their cable phone
+         provider didn't have Caller-ID, making Freeserve useless to
+         them. We note that it's those same cable phone providers who
+         are peeved that Freeserve has skimmed off interconnect money
+         from their meager local call profits, and would love to keep
+         their customers offline. No caller-ID, no Freeserve -
+         and more room for their own freebie ISP services. Now,
+         *that's* denial of service... 
+         http://www.freeserve.net/ - dunno about free
+    http://www.btwebworld.com/shopathome/campaign/concrete/index.html
+               - freeload got c. 200UKP from my last phone bill
+
+         The .com artists, NETWORK SOLUTIONS, got hit with more nasty
+         hacks by domain name speculators. People are now reserving
+         .com addresses, sitting out the thirty days before you have
+         to pay up, and then - just before NSI's automated system
+         releases the domain again - bludgeoning the Internic servers
+         with thousands of new reservation requests. That lets the
+         speculators hold domain names indefinitely without paying a
+         penny. It also crashes NSI's servers, as the more worthy (or
+         less sneaky) domain masters have discovered. Network
+         Solution's answer has been intriguing: instead of devising a
+         more sophisticated reservation system (genuine name &
+         address authentication? PGP registration? actually holding
+         people to the requirement that they have valid DNS
+         servers?), they've simply deleted the "Status" and "Last
+         changed" fields from the whois database without telling
+         anyone. You'll note that this a) potentially busts other
+         programs, b) doesn't solve the problem, since the domain
+         name speculators already *know* when they reserved the
+         domain. Network Solutions - placing the emphasis on neither.
+         http://www.netsol.com/
+                    - we're just asking to be put on hold, aren't we?
+
+         And now to the heart of information economy. France. As more
+         cheerful publications are celebrating that country's
+         decision to liberalise their crypto laws, we've been hanging
+         out at the Paris UNESCO conference on the Net and
+         pedophilia. Fun, fun, fun. There, INTERPOL's Agnes
+         Fournier-Saint Maur revealed that the problem demanded
+         immediate action, as "studies in the United States in 1995
+         documented one million online pornographic images involving
+         children." One million images? 1995? Porn scare? We're not
+         100% sure, but it *looks* like Ms Maur is citing as evidence
+         that famously reputable Net porn expose, the infamous RIMM
+         REPORT. Old timers will remember that this was the
+         Carnegie-Mellon survey that TIME magazine ran as its cover
+         story, only to discover that the principal conclusions
+         (among others, that 83.5% of all Internet imagery was
+         pornographic) were the entirely spurious inventions of a
+         publicity-seeking undergraduate. But even the Rimm report
+         claimed only to have found a million *descriptions* of
+         *adult* images - not a million *child porn* images. It's
+         good to know that officers in charge of catching child
+         pornographers are incapable of spotting misleading evidence
+         when it's a four years old mishearing of one of the most
+         widely documented cases of Internet fraud ever committed.
+         Truly, these Interpol folk are the *elite*.
+         http://www.bergen.com/morenews/unesco199901197.htm
+               - Inspector Clouseau will be heading the investigation
+         http://www.eff.org/~declan/rimm/index.html
+                          - we don't think she's online much, do you?
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         BARCLAYS online banking - as easy as unplugging your
+         computer from the phone:
+         http://www.ntk.net/doh/barclays990122.gif ... "We're in
+         desperate need of new writers," chortles .NET MAGAZINE
+         (p.87)... WIREPLAY aims to find best strategy gamer in
+         England, Scotland, Wales - using SETTLERS III...
+         http://www.sonymusiceurope.com/ tech news last updated Sep
+         1998... FRAUD SITES may use "security encryptions (sic).
+         Once you try to find out where the Internet site is located
+         the whole thing destroys itself", reveals "Dan Morrison,
+         fraud expert" in THE OBSERVER... EDGE persistently refers to
+         Interactive Digital Software Association as ISDA, despite
+         screenshot showing "IDSA" (which, in turn, is captioned
+         "ISDA")... COREL sell off Netwinder... Dreamcast heatsink
+         pipes contain "purified water", posits NEXT GENERATION
+         MAGAZINE (US Edge), unaware that water needs to circulate in
+         order to cool things, may explode if turns to steam... ...at
+         OPEN SOURCE CONFERENCE, old Unix hands couldn't pronounce
+         Linux properly, new Linux weenies couldn't say "troff"
+         right, and the suits couldn't spell either... and this
+         week's KATZISM, courtesy of slashdot: "The Internet is the
+         first organic technological revolution, the first one that
+         and self-replicates." How very true... INTEL to put random
+         number generator in new chips, relaunches thousands of
+         floating point jokes... BLOOMBERG e-mail bounces any message
+         with "fucker" in it as a virus (including this one)..
+         INTERAD? FALCOOOOOOOOOO!... 
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         We're kind of hoping that the "INSTITUTION OF ELECTRICAL
+         ENGINEERS, YOUNGER MEMBERS" is a zany youth spin-off
+         movement in the spirit of Young Einstein or Young Sherlock
+         Holmes. We can just see them screaming "IEE!" in their
+         unbroken squeaky voices, as they punch some Faraday-hating
+         luddite to the ground. More somberly, they also hold regular
+         events most Mondays at the IEE building, Savoy Place,
+         London: this week's lecture - Human-Computer Interaction:
+         Brain Interfaces To Pen Computer - is open to the public
+         (apparently) and hosted by Dr Richard Reilly (age 12).
+         Alternatively, there's Feb's "Short Papers Evening", with a
+         UKP100 prize for the best 10 minute presentation on a
+         project or technical subject of your choice - ideal if you
+         happen to know a photogenic Irish schoolgirl cryptography
+         genius (or perhaps you are one!). You do have to email them
+         about this event in advance, though. Use the subject line "I
+         know a photogenic Irish schoolgirl cryptography genius (or
+         perhaps I am one!)".
+         http://centres.iee.org/Younger/London/events.htm
+              - "Starting and Running a Software Company" - Postponed
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Linux 2.2.0 is out, and the only people who know what *that*
+         means are working on Linux 2.4 and mustn't be disturbed.
+         ALAN COX did his best to explain the benefits to last week's
+         Open Source conference, but recalling the list of changes -
+         even for him - had the quality of a high-IQ Generation Game
+         conveyor belt quiz. "Errm... more filesystems, improved
+         symmetric multi-processors support, [AUDIENCE MEMBER: EURO!
+         EURO!] yes, yes, euro character set... ermm... ARM
+         processor, cuddly penguin..." And in laymen's terms? Well,
+         exhaustive tests have shown - it's faster. That's right, a
+         OS upgrade that encourages people to buy older machines. No
+         wonder it's hard to explain.
+         http://www.uk.kernel.org/
+                  - laymen who can re-edit their lilo settings, natch
+
+
+                               >> MEMEPOOL << 
+                              hasta la altavista
+
+         SUCK tires of knocking Canada, turns to UK
+         http://www.suck.com/daily/99/01/22/ ... meanwhile, Americans
+         pass law banning "gullibility" from dictionary:
+         http://www.dumblaws.com/england.htm ... all new CAMBRIDGE
+         COFFEE-POT: http://www.orl.co.uk/cgi-bin/coffee ...
+         bookmarklets... Brian Eno meets MAGIC: THE GATHERING at
+         http://hcs.harvard.edu/~slking/cards/ ... HOLY ROMAN EMPIRE
+         feeling guilty about this whole Y2K thing:
+         http://nt.excite.com/news/r/990121/11/tech-millennium ...
+         ROMERO caught sneaking out the easy way:
+         http://www.themushroom.com/mush0115/romerodeadagain.html ...
+         socially-contracted IP diseases... overts... SUN asks its
+         programmers to explain why their code *shouldn't* be open
+         sourced... Interesting choice of top listing when you search
+         for "blue screen of death" on YAHOO... no-one's bought
+         receivers to listen to DAB broadcasts; expect to see
+         spectrum rented for commercial apps... DETROIT's finest gather at:
+   http://www.geocities.com/ResearchTriangle/Facility/8267/marci/marci.html
+                               
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> as if the trailer for BBC2's Friday Comedy Zone (Gimme
+         Gimme Gimme, The Young Ones) wasn't horrific enough, BBC1
+         has "built its schedule on a graveyard", with Spielberg's
+         last great movie, POLTERGEIST (10.25pm, Fri, BBC1) - sure,
+         Tobe Hooper's credited as director, but Steven's spirit is
+         strong in this one. And the little girl who talks to the TV
+         people? She died in 1998, after making Poltergeist III...
+         Simon Mayo and Paul "Sunday Show" Tonkinson keep the tension
+         simmering until Cthulu gorefest THE UNNAMABLE RETURNS
+         (1.10am, Fri, BBC1) - wouldn't "HP Lovecraft" be a great
+         name for a goth sex shop?... while 4Later's EXPLOITICA (from
+         1.15am, Fri, C4) pores over now-tame burlesque strippers
+         like inexplicably popular pin-up Betty Page... Saturday is
+         morally complex Western day starting just after HIGH NOON
+         (12.35pm, Sat, BBC2) then moseying on over to dreamy-looking
+         Eastwood-inspiring SHANE (2pm, Sat, BBC2)... Carol
+         Vorderman's tarty alter-ego Davina McCall takes the public
+         on death-defying stunts in DON'T TRY THIS AT HOME (6.10pm,
+         Sat, ITV) - too much emphasis on the "defying", we reckon...
+         while C4 rakes over the coals of previous conflicts with
+         Cold War espionage gadgetry in THE SPYING GAME (7.25pm, Sat,
+         C4), a repeat of slow but interesting Enigma crypto docu
+         STATION X (7.55pm, Sat, C4), one of those '60s WW2 airwar
+         epics BATTLE OF BRITAIN (8.55pm, Sat, C4), and post-war jet
+         bomber porn CLASSIC AIRCRAFT (8.30pm, Tue, C4)... watch for
+         the Wes Craven/ Evil Dead in-jokes in low-tech cybergirl
+         RoboCop rip-off THE DEMOLITIONIST (10.50pm, Sat, C5)...
+         tragically, all-action costume romp THE SCARLET PIMPERNEL
+         (8pm, Sun, BBC1) seems specifically designed to pander to
+         Richard E Grant's bizarre notions of grandeur... and it's
+         clueless metamorphic soon-to-be-superseded night on C5, with
+         Michael Jackson's MOONWALKER (5.50pm, Sun, C5) followed by
+         original movie version of BUFFY THE VAMPIRE SLAYER (9pm,
+         Sun, C5)... STAR TREK: DS9 (8pm, Mon, Sky1) flaunts its
+         scientific ignorance by *shrinking* the cast to a point
+         where their metabolisms couldn't possibly function (btw,
+         Disney Paris really are opening a "Honey I Shrunk The
+         Audience" show)... HORIZON (9.30pm, Thu, BBC2) shows its
+         relevance to everyday life with something to do with
+         universe expansion... and last week's was a bit tame, but
+         VIDZ (1.40am, Thu, C4) could be 1999's most promising
+         programme, largely for its pioneering use of the phrase
+         "wanking with envy"...
+
+         FILM>> "Pretty fly for a Warren Beatty movie" is the
+         remarkable verdict on wildly confused passionate
+         anti-politics rant BULWORTH (imdb: hitwoman / insurance /
+         interracial-love / liberals / los-angeles / love /
+         may-december-romance / political-campaign /
+         political-corruption / political-satire /
+         politically-incorrect / political / politicians / rap /
+         satire / senator / socialism / south-central / suicide /
+         vulgarity / afro-american / assassination-attempt /
+         assassination / black / california / controversial /
+         drug-dealer / election / gangs / hip-hop / hitman) - but
+         then again, remember how critics rave over any lame
+         Hollywood output that's got even a hint of subversive satire
+         (Wag The Dog, The Truman Show)... sticking with the
+         Presidential theme, the ghost of a former First Lady
+         comiserating with the current one over their errant menfolk
+         isn't the plot of moving cello-playing mad genius unofficial
+         Shine-sequel HILARY AND JACKIE (imdb: biographical) - shows
+         the sexy side of those uptight classical musicians, and
+         anything that winds up Julian Lloyd-Webber can't be all
+         bad... as anyone who saw his "What's New Pussycat?"
+         performance over Christmas will attest, "not enough Mike
+         Myers" is the lethal failing of Boogie Nights-wannabe Neve
+         Campbell disco expose 54 (imdb: clap / drug-abuse / erotica
+         / gay / tax-evasion / drugs / hollywood / nightclub / sex /
+         studio-54 / studio / 1970s / 1980s / bartending / disco /
+         the-clap)... and despite Dianne "Scissorhands" Wiest,
+         Stockard "Rizzo" Channing, Sandra Bullock, Nicole Kidman and
+         that bloke who looks like Sledge Hammer, wicca-friendly
+         chick flick PRACTICAL MAGIC (imdb: drama / romance) is the
+         latest in a long-cursed line - Eastwick, Hocus Pocus, The
+         Craft - of not particularly wicked witch movies...
+
+         CHEAP PRINT>> we're pleased to report that after the searing
+         disappointment of his "Net Force", Tom Clancy's eminently
+         put-downable RUTHLESS.COM (pay no more than Tesco's UKP3.99)
+         may be *the worst tech-thriller of all time*. Not only is it
+         turgidly written, appallingly paced, and peopled with
+         characters who wonder in and out of chapters seemingly at
+         will - the hero is a software CEO who opposes crypto export
+         relaxation and supports key escrow, and doesn't change his
+         mind when the bad guys break into a key escrow bank to steal
+         the codes that open the doors to the Presidential submarine.
+         A shameful addition to the already patchy roster of
+         video-game spin-off books (Rise Of The Robots, the Doom
+         novelisations) - no wonder amazon.co.uk isn't mirroring the
+         reader comments at amazon.com... a much easier read flops
+         out of Alex "The Beach" Garland's THE TESSERACT (retail
+         UKP9.99, still on 30 per cent reduction at Borders); he says
+         it's a 3D representation of a hypercube, we say it's 3 well
+         observed interlinking short stories, each viewed from 2
+         different perspectives - like the early, good Iain Banks...
+         we don't know much about Ray Kurzweil's blue-sky AI future
+         history THE AGE OF SPIRITUAL MACHINES (Amazon import:
+         UKP13.88) but the excerpt in last Saturday's Guardian wasn't
+         encouraging: "1999: A $1000 desk-top personal computer can
+         perform about 450 calculations per second." Although, as
+         contrib Gareth Bellamy points out, "Perhaps this explains
+         why the hyped 'New' Guardian websites were uncontactable for
+         most of the week"... and, finally, thanks to everyone who
+         wrote in with their descriptions of Jim Flint's sinister
+         synchronistic Pi movie tie-in HABITUS (UKP10.99), but the
+         prize - our remaining unconsumed CRUNCHIE EXPLOSION bar -
+         goes to Adrian Moulder, for "The best episode of Grange Hill
+         that Umberto Eco never wrote". NTK regrets that this
+         correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "brown-toothed shills" 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

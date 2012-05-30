@@ -1,0 +1,292 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-02-11_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+ 
+         "This much is known: Mallett made clear in statements Monday
+         that Yahoo's routers were overwhelmed during the attack.
+         Routers act like mechanical air traffic controllers for
+         traffic coming in and out of computer networks." 
+         - Yahoo COO and man-in-the-middle JEFF MALLETT calms MSNBC 
+       ..the FBI seeking steampunk hackers with difference engine skills
+                                           
+
+                                >> HARD NEWS <<
+                               loods of trinoos 
+
+         As of going to server, there's still no news on who is
+         behind the concerted DoS attacks that so crippled America's
+         ability to buy Pokemon trading cards earlier this week.
+         Allow us to add our 200 words of fact-free speculation. As
+         The Edge likes to say: cui bono? Let's look at the clues.
+         The sites chosen are, so far, exclusively American, with a
+         reputation for being rather well run (well, apart from
+         E-Bay). All the first hits took place right in the center of
+         the individual site's peak periods; probably a coincidence,
+         but if deliberate, that requires a high degree of
+         proprietary knowledge. Then there's the end results. We've
+         seen the FBI going open source and releasing code to help
+         prevent and detect the attack, we've seen network providers
+         like GlobalCenter realising they're going to have to be more
+         responsive, and smaller sysadmins admit they're going have
+         to tighten security at the edge of the network, and install
+         more clueful filtering. Everything veteran administrators
+         have been suggesting for years. None of which benefits the
+         presumed miscreants, script kiddies, who would anyway have
+         blurted by now and been transported to world fame and a
+         prison sentence. Our confident conclusion, then: it was an
+         inside job _by the sysadmins at the big sites themselves_
+         Oh, sure, they all have the perfect alibi: that they were at
+         NANOG listening to a talk on DoS attacks when the first wave
+         broke. But what do you think they were talking *about*, you
+         *sheep*? As we like to say at every opportunity, Mr President:
+         http://dailynews.yahoo.com/h/nm/20000211/bs/hackers_clinton_1.html
+                                      - they're in the room with you!
+         http://www.washington.edu/People/dad/
+                               - motive, ability, calls himself "Dad"
+         http://www.realnames.com/
+                    - *and* real names hacked? round up the DNS guys!
+
+         Of course, it could be Jack Straw, trying to curry a bit
+         more support for his *spectacularly* rights-trampling
+         REGULATION OF INVESTIGATORY POWERS. We're still tramping
+         through the marshes of this bill - which on first glance
+         introduces all the worst bits of the DTI's E-Commerce bill,
+         plus some extra special mass surveillance clauses, and a
+         smattering of no parliamentary oversight whatsoever. We
+         particularly like the fact that you're now obliged to hand
+         over the key, if the prosecution proves that you "have, or
+         have had" it. So if you did have it, but it's gone now, you
+         go to jail. And if you forget your passphrase? Well, you
+         forget your chance of a fair trial, too. More soon.  Unfortunately.
+http://www.publications.parliament.uk/pa/cm199900/cmbills/064/2000064.htm
+                                      - e-mail us your favourite bits
+         http://www.fipr.org/rip/
+                                    - or just ask Casper and the boys
+
+         It's the "Turkish Guy" the broadsheets won't touch! In October
+         1999, people started sending us the AMAZON.CO.UK page for "A
+         Hand in the Bush", Deborah Addington's amusingly titled guide
+         to "vaginal fisting". We didn't feature it at the time, but
+         people kept sending the URL to their friends until, in an act
+         of inadvertent memetic sabotage, the page became one of the
+         site's most popular search results for *any* sufficiently
+         vague query featuring the word "in" (discovered this Monday by
+         a cam.misc poster searching for "pointers in c", forwarded to
+         us endlessly, and now, from the look of things, fixed). As
+         well as highlighting Amazon's limited range of stopwords
+         (hint: don't "search by artist" for albums by "The The"), it
+         also reveals how their "Hot 100 Bestsellers" list is compiled,
+         with the "Temporarily out of stock" sex manual currently
+         nestling at number 4, above Whitbread winner "Beowulf" and
+         "The Beach", and just below "Harry Potter Book 4 (Not Yet
+         Published)".
+         http://www.ntk.net/2000/02/11/dohamazon.jpg
+         - you know, we thought you'd moan more about the Java book
+http://www.amazon.co.uk/exec/obidos/cache/lists/best/amazon-bestsellers.html
+    - it probably won't stop you sending us it, but anything's worth a try
+         http://www.fpo.at/englisch/welcome.htm
+- ...oh, and while we're at it: fake site, people! use "whois" next time!
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         DANDO killer may have used www.192.com: well, that cuts it
+         down ... If this is what an award does to your network:
+         finger @info.netcom.net.uk ... "There's a myth that if we
+         legalise a substance it would somehow take the illegality
+         out of it." - we'll have whatever the Drugs Czar is doing at
+http://newsvote.bbc.co.uk/hi/english/uk_politics/newsid_363000/363872.stm
+         ... Monday's book extract in TIMES "Smoothing out the bugs
+         in the machine." pastes in HTML from webpage, including <'s
+         and hyperlink to image file ... "Internet time" getting ever
+         faster http://www.freeserve.net/cserve/about.htm - and
+         Martha Lane "22nd Century" Fox's site stretches the lastminute 
+         credo: http://www.ntk.net/2000/02/11/dohlastmin.gif ... not
+         the new Jakob Nielsen: http://www.ntk.net/2000/02/11/dohreal.jpg ...
+         
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         And if you can't face those traditional Valentine's Day 
+         activities (sitting alone at home, weeping, masturbating, 
+         introducing assault weapons into the workplace, etc), why not 
+         vent your perfectly healthy frustrations in some sort of 
+         online frag-fest? That seemed to be the rationale behind The 
+         Playing Fields' ST VALENTINE'S DAY MASSACRE - from 9pm, 2000-
+         02-14 - the heavily pre-advertised finals of their Quake 3 and 
+         Unreal Tournament leagues (though now they don't seem to be 
+         listed on their website). Of course, first-person shooters and 
+         romance aren't completely incompatible, as proved by the 
+         "world's first" QUAKE WEDDING (7pm same day South African 
+         time, Quake2 Battleground Server TBA) - the newlyweds could 
+         even honeymoon at Cannes' constantly-reinventing-itself MILIA 
+         show for a taste of that famously sensual "broadband et 
+         multimedia Francaise"... 
+         http://www.playingfields.co.uk/
+         - oh come on, like they'd have anything better to do
+         http://gamezone.mweb.co.za/quakewedding/
+         - winner goes on to fight "bride of Carmack" boss monster
+         http://www.milia.com
+         - "Pantene iTV personalised hair consultation"? Ooh la la!
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         It's not often we give space to programs that you have to
+         *acht*-*pttht* pay for, but we've had a couple of requests
+         to mention THE SIMS, which they say is "ace". We have
+         nothing to add, except to say that it is like Little
+         Computer People, but available on platforms other than the
+         Commodore 64. There. Now, anyone know any Sims torture sites
+         (similar to the Norn abuse sites that popped up a while
+         back)? Also, we're looking for more celebrity skins along
+         the lines of the Princess Diana and Ivanka Trump models
+         designed by Donna Erikson. None of your business why.
+         http://www.thesims.com/
+         - as if these games weren't behaviour-modifying enough
+         http://thesimscenter.simstuff.com/skins/donna.html
+         - work-shy icons sponging off your hard won clock-cycles
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+         
+         searching av.com for +"Microsoft VBScript runtime error"
+         +".inc, " then checking out the .inc ... "Daytime tv doesn't
+         give us the unrush it used to." http://www.myrtle.co.uk/stupid.html 
+         ... life imitates onion, part of an ongoing series:
+         http://news.bbc.co.uk/hi/english/health/newsid_625000/625846.stm
+         vs http://www.theonion.com/onion3511/college_drinking.html
+         ... SQL exploits ... http://www.ask.com/docs/peek/ruq.asp?reloads=1
+         vs asking http://support.microsoft.com/support/help/aboutmaxwell.asp
+         whether *he's* gay ... MAVIS BEACON teaches typing, kicking butt
+         http://headline.gamespot.com/news/00_02/01_vg_streettype/ ...
+         http://ntk.really.fuckingsucks.net ...this week's Not That I'm Bitter
+         http://www.angelfire.com/ca/stonedcold/ex.html ... next week's 
+         Not That I'm Bitter; http://www.b0rk.co.uk/columns.php3?author=paul2 
+         (search for "****") ... PICARD goes back in time to found America 
+         http://abcnews.go.com/sections/science/DailyNews/kennewick000202.html
+
+
+                                >> GEEK MEDIA <<
+                    the less rude http://www.tvgohome.com/ 
+
+         TV>> REACH FOR THE MOON (9pm, Fri, ITV) is some modern-day
+         romantic weepie (with Lynda "Oxo mum" Bellingham), but you can
+         watch it 'cos the guy is an amateur rocket fan... there was a
+         time when *all* Arnie movies were like the quip-laden COMMANDO
+         (10.25pm, Fri, BBC1)... and catch the from-the-start repeats
+         of BLAKE'S 7 quickly (4.05pm, Sat, BBC2), before they're
+         replaced by snooker or Space: 1999... Ant and Dec's full
+         series of relationship-straining gameshow FRIENDS LIKE THESE
+         (6.15pm, Sat, BBC1) unlikely to reach the audience-abusing
+         heights of either "Wonky Donkey" (part of SM:TV, 9.25am, Sat,
+         ITV) or their previous BBC kids' show where they cut off all
+         that girl's hair... C4's science coverage presents SIX
+         EXPERIMENTS THAT CHANGED THE WORLD (7pm, Sun, C4) - presumably
+         the first being giving Ken Campbell another presenting job...
+         while Red Dwarf credentials and funny talking (something about
+         "schizoid embolisms") don't bode too well for fish-out-of-
+         water aliens sitcom THE STRANGERERS (9pm, Tue, Sky1)... in
+         other sci-tech highlights, Cronenberg apparently planned to
+         follow up chilly head-popper SCANNERS (11.30pm, Tue, C4) with
+         films based around other popular PC peripherals... TRUST ME,
+         I'M A DOCTOR (7.30pm, Wed, BBC2) *says* it's giving you an in-
+         depth analysis of placebos... while HORIZON (9.30pm, Thu,
+         BBC2) gives its sober scientific analysis of those weirdos who
+         get turned on by amputees - just like KW Jeter's Dr Adder!
+         http://www.cpreview.com/reviews/Jeter_DrAdder.html ...
+
+         FILM>> clearly desperate for work after his dreadful child-
+         star efforts, Leo DiCaprio gets to present an extended
+         Thailand segment from BBC1's "Holiday" show in part video-game
+         populist teenage travel tosh THE BEACH (imdb comment: "Racist
+         dope story without any sense")... while this week's other big
+         release - a la-di-da religious romance based on a book by some 
+         dead guy - may require revision of previous NTK heuristic
+         ("down to earth Neil Jordan: good, supernatural Neil Jordan 
+         bad") in THE END OF THE AFFAIR (http://www.cndb.com: Ralph
+         Fiennes - "a side view of his naked body followed by a full
+         length shot of his rear"; Julianne Moore - "we see her breasts 
+         several times, even when they repeatedly switch positions 
+         Another scene in which they're having sex shows just the side
+         of her butt. Later, while she's getting dressed, we briefly
+         see one of her breasts")... which leaves just one pressing
+         question: just *how bad* is straight-to-VCD William Gibson
+         adaptation NEW ROSE HOTEL (MPAA: "some sex-related dialogue")?
+         Well, pretty darned bad: Abel "Bad Lieutenant" Ferrara looks 
+         like he made it with surveillance footage and out-takes from
+         "The Blackout"; Christopher Walken's predictable by even his 
+         rent-a-psycho standards - and you know that thing where they
+         have a "twist" at the end of the film to make you watch it
+         (and "reassess" it) a second time? New Rose Hotel, generously,
+         replays about *20 minutes* of key scenes at the end, to its
+         credit, both acknowledging - and ensuring - that you'll never 
+         want to sit through the whole experience again...
+
+         "LOVE MUFFIN" ROUND-UP>> the usual delightfully edible
+         Valentine's specialities: most unpleasant concept goes to
+         Seven Seas' PURE OYSTER CONCENTRATE vitamin supplement (each
+         tablet contains the "extract" of "five oysters"); most
+         unfortunate, League Of Gentlemen-style name goes to The New
+         Covent Garden Soup Company's LOVE SOUP, brimming with "natural 
+         aphrodisiacs"... yeah, we give CADBURY'S a hard time, but only
+         'cos their new products are always so revolting: following the
+         non-runaway success of their CRAZE peanut bar [see NTK 1999-
+         06-25], they've struck again with P'NUT CRISP - a layered
+         wafer bar with a suggestion of peanut, available "for a
+         limited period only" (!), and presumably pronounced like the
+         Klingon "K'Pla!"... plus, their "new" MAD ABOUT CHOCOLATE
+         mini-egg is just their fricking "Velvet" egg, but in a
+         different wrapper! [NTK 1998-01-23]... CADBURY'S MUFFIN BAR 
+         (currently appearing in Tescos, from makers of "Mr Kipling
+         Muffin Bars", about 57p!) feature nice packaging, moist - no, 
+         *damp* pastry, acrid chunks of "real" Cadbury's chocolate, and
+         flavours including "Outrageous Orange" and "Cranked-up
+         Caramel" - the latter, you may be disappointed to learn, *not*
+         featuring the great taste of crystal methamphetamine... but
+         this month's "taste abomination", appearing near the Sunny-D
+         in our local Sainsburys, has to be Sundora's "New, Low Fat 
+         FRUTTI MAX soft apple pieces (29p for 25g pack), presumably
+         being positioned as a healthily natural snack alternative to
+         crisps (or sweets?), in such enthusiastically unnatural
+         flavours as Toffee, Fruits Of The Forest, Fizzy Orange (our
+         favourite), Fizzy Lemon And Lime, and Strawberry (did they not
+         conside a "ready salted" plain-apple option?). Closer
+         examination reveals that, with a staggering 70 per cent sugar
+         content (depending on flavour), one of the few things they
+         actually are a healthy alternative to is: pure sugar...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+            "having a burning passion to encourage teenage girls 
+                       to take control of their lives."
+http://www.jobsunlimited.co.uk/Browse/Fulltextjob/0,1755,888833633,00.html 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

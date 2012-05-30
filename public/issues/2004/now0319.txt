@@ -1,0 +1,311 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-03-19_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "AOL reported that the number of AOL subscribers in the US 
+         fell by 2.2m in 2003, from 26.5m at the end of 2002 to 24.3m 
+         at the end of 2003. AOL blames the decline on an exodus of 
+         punters from its service..."
+                  - http://www.theregister.co.uk/content/22/36278.html
+                  ...yup, that might have a thing or two to do with it
+
+
+                               >> HARD NEWS <<
+                            no "why do you...'s"?
+ 
+          The BBC, The Register, New Scientist and all fell over
+          themselves this week to promote "NannieBots", a set of
+          "self-replicating" bots to fight chatroom "grooming". These
+          bots, relays their master Jim Wightman, guard kids'
+          chatrooms from predators, and "behave like humans, sound
+          like humans... but with one massive difference - they never
+          sleep". The idea of handing over your kids' safety to Eliza
+          the Psychiatrist may not be that reassuring. But don't worry
+          - these bots use "neural networks" to become "the most
+          advanced artificial intelligence in the world"! Looking
+          through the transcript of a NannieBot/Human interaction in
+          New Scientist, maybe he's right. Certainly this "IT
+          consultant from Wolverhampton in the West Midlands" has
+          either managed the greatest step forward in Artificial
+          Intelligence since Marvin Minsky scraped a pass in the
+          Turing Test - or this was a very carefully rigged demo. In
+          the transcript given, NannieBot seems to be able to make
+          logical deductions, parse colloquial English, correctly
+          choose the correct moment to scan a database of UK national
+          holidays, comment on the relative qualities of the Robocop
+          series, and divine the nature of pancakes and pancake day.
+          We look forward to the NannieBot sweeping the board at this
+          year's Loebner Prize. Either that, or journalists to stop
+          suspending their disbelief whenever someone starts waving 
+          a paedophile on a string.
+         http://www.newscientist.com/news/news.jsp?id=ns99994783#bot
+                   - extraordinary claims: meet extraordinary evidence
+          http://www.theregister.co.uk/content/4/36381.html
+                       - "plausible... would welcome financial support"
+
+          Make $$$ with $ocial $oftware! Money-for-public-good-hackers
+          fundraiser MySociety have at last addressed their "not actually
+          having any money" hindrance by scoring a cool UKP250,000 from
+          the Office of the Deputy Prime Minister's "e-Innovations" 
+          initiative this week. That means that the five projects you
+          may have argued for look like they could be funded to
+          completion. The money *is* trickling down through the filter
+          of a West Sussex County Council partnership, which may make
+          things more complex (for instance, as well as the MySociety
+          projects, the money will go on "a centre of excellence for
+          the continued development and maintenance of community
+          engagement online solutions" - although that could just be
+          govtalk for a wiki). Whatever - it's got to be better than
+          the half-a-teabreak EDS would have spent the government cash
+          on. Also interesting are the other initiatives that got
+          spondoolicks: a wifi network for CCTV's in Westminster (500K
+          UKP), Rossendale, Lancs' stab at moving to open source
+          software (500K UKP), and a Newham project to create an open
+          source implementation of TV over IP (460K UKP). Looking
+          forward to seeing the meta-hacks for those babies.
+          http://www.localegov.gov.uk/page.cfm?pageID=856&Language=eng
+                 - and this, gentlemen, is what gets you the big bucks
+          http://www.mysociety.org/cgi-bin/moin.cgi/FundingQuestions
+               - e-Innovations not just for Ians, Lee and Herring fans
+          http://www.localegov.gov.uk/page.cfm?pageID=668&language=eng
+         - there's money in them thar SMS in the community initiatives
+
+         We never quite got round to creating an "Appointments" section 
+         in NTK (yes, "Disappointments" might be more our style), but 
+         here's another way you might get a whiff of all that public 
+         cash kicking around - West Sussex's FUTURE SOMETHING PROJECT 
+         is looking for 4 new media-ish freelancers to lead small teams 
+         of "at risk" young people in the design of, well, presumably 
+         something "futuristic" over the next 10 months. Your 
+         availability would need to be 2 days/week for a total of 80-90 
+         days, at a daily rate of UKP200 - but you'd need to email 
+         andy@artswork.demon.co.uk with a "1-2 page proposal of 
+         interest and a current CV/ examples of work" pretty fast, as 
+         the deadline for applications is midnight next Tue March 23rd. 
+         There's a bit more info on the site - but not too much on just 
+         what sort of "Future Something" they've got in mind, so feel 
+         free to borrow our off-the-cuff ideas of: that one-hit wonder 
+         band who did "Breakfast at Tiffany's" (Deep Blue Something), a 
+         Bananarama-based speech synth (Really Saying Something), or 
+         that DR and Quinch episode with the illegible movie script 
+         (Something Something Oranges Something).
+         http://www.artswork.org.uk/something.html
+          - robot obstacle detection: "Something In The Way, She Moves"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         way the world's headed, you're going to need much more alcohol 
+         than that: http://www.ntk.net/2004/03/19/dohbinge.gif ... 
+         fyi, Protein - sugar also happens to be *literal* equivalent 
+         of them, too: http://www.ntk.net/2004/03/19/dohcarbs.gif ... 
+         but c'mon - isn't that the *cutest* "unexpected token" you 
+         ever did see?: http://www.ntk.net/2004/03/19/dohcolon.gif ... 
+         inappropriate banner ads on spoof stories don't really count: 
+         http://www.liquidgeneration.com/rumormill/ipod_killing.html - 
+         Times City Diary http://www.ntk.net/2004/03/19/dohipo.gif , 
+         please note... abstract illustration department having some 
+         difficulties distinguishing between "worm" and "snake": 
+         http://www.technewsworld.com/perl/story/33142.html ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         For some reason, all the web comics we ever hear about are 
+         from the US (Patrick "Spiders/ The Guy I Almost Was" Farley, 
+         Tom Tomorrow etc) - but there's a chance to rectify that bias 
+         at tomorrow's UK WEB AND MINI-COMIX THING (9am-6pm, Sat 2004-
+         03-20, Queen Mary College, Stepney, London E1, UKP4, "not 
+         suggested for children under the age of 13"). Sticking in East 
+         London - but fast-forwarding to *next* weekend - cyber-
+         activism, alternative media, autonomous spaces and "new forms 
+         of organisation" shall be the whole of the law at the 
+         recursively named WTF: WTF'S THE FUTURE? "open space" event 
+         (from 11am, Sat 2004-03-27, 491 Gallery, Leytonstone, London 
+         E11, presumably free), in a schedule described as "There'll be 
+         an open session, followed by a closed session, followed by 
+         open, and then closed, before a small tea break" - proving 
+         that, even in a community which defies all social conventions, 
+         certain behavioural standards must still be maintained.
+         http://www.ukwebcomixthing.co.uk/
+                          - vs http://www.saturn5.com/~esheep/spiders/
+         http://wtfcon.org/
+          - wifi + "foafy-crypto-socio-semantic-typographic-style folk" 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          Following Mr Yozmaster Macromedia Flash's review of DJ
+          mixing for MP3s, JOHN KELLY writes: "For us Linux users, I
+          can recommend TERMINATORX to do something vaguely similar.
+          I've been mixing all sorts of weird and wonderful noises
+          (the violins from 'Plan 9 From Outer Space' with the
+          soundtrack from the C64's 'Commando' producing one of the
+          better results). It's got pretty much everything the
+          Hercules DJ Console does, with a slightly better interface,
+          and the ability to use LADSPA ( http://www.ladspa.org/ )
+          plugins, opening a world of possibilities. Well, not a
+          world. Maybe a small city."
+          http://www.terminatorx.cx/
+                            - Okay, a rural village. Still good though.
+          http://www.terminatorx.cx/turntable.html
+    - turntable as mouse device. "I grin every time I think about this"
+          http://hydrogen.sourceforge.net/
+          - "one of the best drum sequencers I've used on any platform"
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         (moderately) new thrill - harsh server opinions on our much-
+         loved celebrities: http://www.ntk.net/2004/03/19/dohvaughn.gif 
+      http://www.ntk.net/2004/03/19/dohmmc.gif , http://qwer.org/barry.html
+         + solo HTML career not going well: http://www.emmabunton.com/ 
+         ... not just model trains plunging into tunnels (scroll down): 
+         http://www.gaugemaster.co.uk/noch.html ... "funny" headline:
+http://www.financeasia.com/articles/06DD9861-F82C-4BFA-96CC2D57EB769A9E.cfm
+         (sigh)... "any firewall created in America" has FBI back door, 
+         advise - manufacturers of "only UK built firewall system": 
+    http://www.digitalcreativesolutions.co.uk/news.html#artemis3partnership
+         ... http://www.citizencorpse.com/ points to... one of these 
+         URLs not afraid to go against public opinion like the others: 
+         http://images.google.com/images?q=left+arrow&imgsz=icon ...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> now regarded to have had a similar impact on classical 
+         music as Lionel Vinyl's had on the modern MP3 mashup scene, 
+         BBC's 2 and 4 pay tribute to THE GENIUS OF MOZART (from 9pm, 
+         Fri)... "The Dice Man"-inspired DICE LIFE (6.15pm, Sat, C4) 
+         isn't quite the randomly generated dance musical you were 
+         hoping for... while BATTLE STATIONS (7.15pm, Sat, C4) will 
+         hopefully attribute the F-15's "unbeaten" record to it not 
+         having been up against many Su-35s... Heather Locklear - heck, 
+         even William Shatner - look so young in TJ HOOKER (2.45pm, 
+         Sun, C5), part of Five's retro day that, in the form of the 
+         surprisingly competent CHARLIE'S ANGELS (8pm, Sun, C5), reminds 
+         you just how long it's been since The Prodigy released "The 
+         Fat Of The Land"... and, as we always say, nice touch getting 
+         Chef from "South Park" to sing the theme to '70s remake SHAFT 
+         (10pm, Sun, C4)... those "Dawson's Creek" kids just can't help 
+         running into trouble in the likes of URBAN LEGEND (11pm, Mon, 
+         C4) and DISTURBING BEHAVIOUR (11.35pm, Tue, BBC1)... cameras 
+         were intriguingly on hand for the Operation Ore arrest of Pete 
+         Townshend, reveals POLICE PROTECTING CHILDREN (9pm, Tue, BBC2) 
+         ... it's Cadbury vs Nestle in the last in this series of FAT 
+         PROFITS (7.30pm, Wed, BBC2)... and reader JOHN "Circlemakers" 
+         LUNDBERG *says* his film THE MYTHOLOGIST (10.40pm, Thu, BBC4) 
+         is about Nottingham shop assistant turned paranormal 
+         investigator "Henry X" - http://www.mythologist.co.uk/ - but 
+         frankly we just don't know what to believe any more... 
+         
+         FILM>> it's no "Zoolander" - or P2P classic "Heat Vision and 
+         Jack" http://www.littlebanana.com/heatscript.htm - but the 
+         slightly hit-and-miss Wilson/ Stiller schtick still gets you 
+         through semi-reverential 1970s homage STARSKY AND HUTCH 
+         ( http://www.capalert.com/capreports/starskyandhutch.htm : 
+         [Brande Roderick] strips to nudity in front of Stiller and 
+         Wilson who ogle at her obviously; [Amy Smart] and [Carmen 
+         Elektra]... engage in lesbian kissing; lunacy with a firearm) 
+         ... according to this lucid piece of imdb.com trivia, "It is 
+         impossible to actually steal a copy of the SATs because there 
+         are several versions. Everyone who takes it has different 
+         questions or the questions are in a different order" - much to 
+         the surprise of tame high-school exam caper THE PERFECT SCORE 
+         ( http://www.screenit.com/movies/2004/the_perfect_score.html : 
+         [Erika "Traffic" Christensen] shows a little bit of cleavage; 
+         [Scarlett Johansson] wears a midriff-revealing top)... or 
+         there's Costner's unreconstructed pre-apocalyptic Western OPEN 
+         RANGE ( http://www.capalert.com/capreports/openrange.htm : 
+         adult in underwear; even the panes of glass in windows were 
+         presented as would glass of the era with waves of varying 
+         density due to the gelatinous nature of window glass of the 
+         time)... plus what appear to be limited releases for Takeshi 
+         Kitano's uninspired samurai-er ZATOICHI (imdb: jidai-geki/ 
+         killing/ tap-dance/ based-on-novel)... or Johnny Knoxville 
+         muso romp GRAND THEFT PARSONS ( http://www.bbfc.co.uk/ : 
+         Contains drugs references and one use of strong language)... 
+         
+         AVAILABLE IN A WIDE RANGE OF BLACK>> and the vanguard of this 
+         year's spring NTK t-shirt collection is of course the semi-
+         arcane "Jumper Setting" suggestion of MR NONEMORENEGATIVE 
+         (the other shunt positions are marked "Vest" and "Cardi"), 
+         currently on sale at http://www.ntkmart.co.uk/ , along with 
+         our first ever music-merchandising tie-in, the complete lyrics 
+         to MJ HIBBETT's low-tech toe-tapper "Hey Hey 16K" ("We bought 
+         it to help with your homework/ And the household accounts/ If 
+         your dad ever works it all out", and so forth). Plus there are 
+         half-price bargains to be had on the last ever stocks (hot 
+         from that exhibition in Sheffield) of the old designs that say 
+         "If I Had A Life I Wouldn't Be Here", the complicated "The 
+         Internet is like" Google search one, plus "NTK - They Stole 
+         Our Revolution, Now We're Stealing It Back"... MJ Hibbett and 
+         NoneMoreNegative both get 2 quid for each of their shirts 
+         sold, and you could be joining them if you mail in any design 
+         suggestions of the general level of obscurity of, say, SIMON 
+         WISTOW's slogans "Dorothy Parker would use a Mac", "High 
+         Functioning Autist", or his somewhat more graphic "attempt to 
+         fan the flames of a nascent anti-social software movement": 
+         http://www.thegestalt.org/simon/images/antisocial.gif (does 
+         anyone have one of those complicated social network graphs 
+         that might illustrate this a bit more effectively?). You can 
+         see where JAMES BOYDEN is going with his button-based concepts 
+   http://www-personal.usyd.edu.au/~jboy1609/Images/Buttons/css_moral.gif ,
+   http://www-personal.usyd.edu.au/~jboy1609/Images/Buttons/i_use_linux.gif 
+         - but most other recent submissions have been rather more 
+         conceptual, including JONAS BN's "If the world was run by DBAs 
+         would we all be related?", LEE MAGUIRE's "An Atari logo with 
+         middle 'spike' removed, or altered with lettering in Atari 
+         font [to say] MANTITI", plus EDMUND GRIMLEY EVANS' "Do you do 
+         a T-shirt that has the ['unscannable'] EURion Constellation"? 
+         http://wildspark.com/eurionize/ ... RICHARD GREGORY reported 
+         that he saw "a rather clever chap making his own films using 
+         virtual actors in FPS games" (aka StrangeCompany.org's Hugh 
+         Hancock) trying to play our "Buy One, Subvert The Mass Media, 
+         Get One Free" contest on Bravo's GamePad 4, but the only other 
+         action there has been NTK's own "Dave Green" sneaking an 
+         AD/HD shirt onto page 56 of last month's issue of "The Face" 
+         (cover line: "The World's Most Beautiful Woman Meets Fashion's 
+         Greatest Maverick"), an incident which appears to have 
+         constituted "the final straw" for that particular magazine: 
+         http://www.drownedinsound.com/articles/9234.html ...
+                                                               
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "ironic rebuttal of the 'time-wasting' claim"
+      http://forums.unfiction.com/forums/viewtopic.php?t=3790&start=105
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

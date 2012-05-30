@@ -1,0 +1,359 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-11-24_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "It was April 1998, you had only heard of the internet if you 
+          had a ponytail..." 
+     - DOTCOM TELEGRAPH, whose predecessor, CONNECTED, started in 1996
+          ( http://www.telegraph.co.uk/et?et/00/11/23/ecfnick23.html )
+             ...actually, didn't the ponytails turn up in Sept '99?
+
+
+                                >> HARD NEWS <<
+                                 kah ay-ay boos
+         
+         "Hacking Furby" is such a powerful Net meme that when PETER 
+         VAN DER "alt.folklore.urban" LINDEN got involved, we assumed 
+         that he was just out to expose the whole idea as virulent 
+         fiction. But here's the sting in the tale: PVDL was out to 
+         turn myth into glorious *reality*. Eleven months after posting 
+         a $250 reward to the first person to really hack the toys, van 
+         der Linden has announced a winner. To some extent, Jeffrey 
+         Gibbon's entry is a hack of the idea of "Hacking Furby", being 
+         a wholesale bypassing of the unreadable Furby chipset with a 
+         custom board. The firmware is currently somewhat incomplete 
+         (despite promises of a full real-time multitasking FurbOS). It 
+         does let you encode and play your own sweary samples though. 
+         And what else did you want?
+         http://www.afu.com/furby/winner.html
+         - "believed true"
+         http://www.wirednews.com/wired/archive/6.09/furby.html?pg=10
+         - and just in case Tiger doesn't sue, here's more prior art
+         http://www.geocities.com/EnchantedForest/Mountain/6692/patriotic.html
+         - ladies and gentlemen: the perfect unquestioning cyberwarrior
+         http://www.robonagi.com/
+         - vs Furby-terminators from the future...
+         
+         Well, can't argue with all this Lane Fox-hunting in the proper 
+         media, which we're sure is due to in-depth re-examinations of 
+         those earlier "Britain salutes its dotcomillionaire genii" 
+         gush pieces, and nothing to do with it being a slow news week. 
+         Oh no. Still, it *is* odd that for all these column inches, 
+         nobody seems to be answering the really tough questions, as 
+         put to us by regular NTK falcologist, Alex Balfour. In a 
+         quizzical update to his original IPO examination of 
+         Lastminute's chancer chances [NTK 2000-03-17], Alex asks: 
+         "Hemscott now lists LM's current shareholders as Cheetah Intl 
+         Invs Ltd 15.14% (VC fund), Global Retail Partners LP 8.28% (VC 
+         fund), Innovacomm 4.47% (VC), BAA PLC 3.60%, Intel 3.29%, 
+         Venture Partners Multimedia 3.00% (VC), L P M R Laffy 15.14%, 
+         B Hoberman 9.24%, Linda Fayne Levinson 8.28%,Martha L Fox 
+         5.99%, P J Alzon 1.19%, T A Teichman 1.03%, Other Dirs 0.02%. 
+         This is utterly different from their shareholder structure in 
+         April 2000 (as reported by HuginOnline) - mainly, because 
+         their venture capital fund ownership looks to have increased, 
+         and their institutional shareholders (Sony, Deutsche Telekom, 
+         Orange, Mitsubishi, Sheraton) have all but disappeared. Isn't 
+         it supposed to be the other way around? Wouldn't all those VCs 
+         be desperate to flog the shop off by now? And who are those 
+         new individual investors, with bigger cuts than the founders? 
+         Can you point me to one of Last Minute-bashing analysis that 
+         covers this in a bit more detail?" Love to, Alex: we're a bit 
+         clueless when it comes to this stuff, but, hey, that's what 
+         these financial journos are paid to write about, after all. 
+         Anyone? Bueller? Anyone? 
+         http://www.huginonline.co.uk/LMCL/SERV/shareholders.html
+         - compare
+         http://www.hemscott.com/equities/company/share/shr03884.htm
+         - contrast
+         
+         Eagle-eyed Hansard watchers may already have spotted the 
+         government's attempts to excise the RIPA Tribunal, the only 
+         appeal mechanism possible for recipients of RIP Orders, from 
+         disclosure under the Freedom of Information Act. Well, one 
+         secret's out: it actually formed in October. The technical-
+         oversight-committee-in-exile of the Ukcrypto mailing list 
+         swiftly scanned the released list of members, and spotted the 
+         only one to publically comment on previous proposals, one Mr 
+         William Carmichael. Like many concerned citizens, William 
+         wrote in to comment the Interception of Communications Act 
+         consultation. He felt, in summary, that we were squishy-soft 
+         on monitoring UK citizens in crimes against the economic 
+         wellbeing of the country. And that surveillance tapes should 
+         be admissable as evidence - but that the defence lawyers 
+         shouldn't be allowed to question their veracity. Sigh. He was 
+         on the old IOCA tribunal too. Our vast investigate reporting 
+         resources (Google) are otherwise silent on his background, 
+         except that if he *was* the William Carmichael that Thomas 
+         Jefferson wrote to in 1788, saying "It [is] more dangerous 
+         that even a guilty person should be punished without the forms 
+         of law, than that he should escape", we hope he was listening.
+http://www.cs.ucl.ac.uk/staff/I.Brown/archives/ukcrypto/nov2000/msg00144.html
+         - ...oh, and he uses a typewriter
+         http://www.fipr.org/rip/
+         - we see Charles Clarke is busy changing the history books too 
+         
+         
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         TELEGRAPH believes banking records kept in "motherboards": 
+         http://www.telegraph.co.uk/et?pg=/et/00/11/22/nbank22.html ... 
+         CLAN SPICE GIRLS not the only ones whose judgement clouded by 
+         alcohol: http://www.pczone.co.uk/willson100/news/34339.html ; 
+         http://www.wine-alley.com/wines/desmail.asp?id=242797&l=uk - 
+         "so if I just change that id number"... TIMES INTERFACE: 
+         http://www.thetimes.co.uk/article/0,,38101,00.html don't read 
+         REGISTER: http://www.theregister.co.uk/content/6/14815.html 
+         ... http://www.wired.com/news/photo/0,1860,40170,00.html vs 
+         http://www.fatbabies.com/musing_sonyresponse.jpg ... entirely 
+         baseless USENET rumour receives extensive media coverage: 
+         http://www.theage.com.au/news/20001116/A52971-2000Nov15.html 
+         ... YAHOO blows the whistle on hushed-up UK hyperinflation: 
+         http://uk.news.yahoo.com/001121/80/apnyk.html ... "Save us, 
+         laptop-buyer" http://www.ntk.net/2000/11/24/dohibm.gif "You're 
+         our only hope!"... universe was GIANT CELLULAR AUTOMATON all 
+         along: http://www.forbes.com/asap/2000/1127/162_print.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         AL Digital's server-bunker. Titles like "Earth Shelter 
+         Technology" and "Underground Homes" appearing on the NTK 
+         bestseller list. And, er, "Half-Life". There can be no clearer 
+         evidence that many humans are subconsciously hoping to fulfil 
+         the popular sci-fi prophecy that, by the 21st century, we 
+         should all be living underground. And what better chance to 
+         sample the delights of subterranean existence than NERVE/ 
+         DARKSIDE UK's G2000 LAN PARTY, being held at the Kelvedon 
+         Hatch Nuclear Bunker, near Brentwood in Essex, Dec 2000-12-
+         16/18. "First person shooters" will, predictably, be the order 
+         of the day, though "other activities" are planned; tickets are 
+         UKP10/day or UKP28 for all three, and include admission, crash 
+         space, electricity, some meals, an opportunity to drink your 
+         own re-processed urine and, presumably, an increased chance of 
+         survival if some rogue nation exploits the current window of 
+         opportunity and launches an ICBM attack on the leaderless US.
+         http://www.nerve.org.uk/g2000/
+         - and emerge, blinking, as rulers of a new world
+         http://www.thebunker.net/pressrel_180998.htm
+         - famous non-surface-dwellers: Morlocks, NORAD, Hitler...
+         
+         Or, for those of us still nostalgic for the good old days of 
+         tabletop wargaming and saving throws of the d20, this weekend 
+         sees the debut of DRAGONMEET 2000, "inspired by the Dragonmeet 
+         conventions organised by Games Workshop in the 1980s" (10am, 
+         Sat 2000-11-25, Conway Hall, London, UKP5 on the door). Guest 
+         of honour is John Kovalic, the man behind "Dork Tower" and 
+         "Pokethulhu" (of course), and it's been orchestrated by James 
+         "CrazyNet" Wallis, who has volunteered to "help out" if we 
+         ever get round to doing an NTK convention (as threatened in 
+         last week's issue), so it might be worth dropping by if you're 
+         "in the area" (geographically and/or mentally), just to see 
+         what he might have in mind.
+         http://www.dragonmeet.com/
+         - more navigable than Nov's New Media Underground Festival...
+         http://www.nmuf.org/
+         - ...which isn't exactly an encouraging sign
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Ah, that old Tracking faithful, Beat The Firewall. Our roving 
+         ftp correspondent, Yoz, writes: "If you had ten pence for 
+         every time you'd been stuck behind a firewall at a new job and 
+         talked with your sysadmin chum about how cool it'd be if you 
+         could tunnel your essential protocols (e.g. ICQ, Napster) 
+         through something like HTTP, then... you still wouldn't have 
+         enough to afford the server rental outside the firewall. 
+         Fortunately, HTTP-TUNNEL does *both* - not only have they 
+         written a client, but they're hosting servers for you to proxy 
+         through. And it seems to work. Okay, so it's Windows-only, but 
+         how hard is it for you *nixers to 0wn the firewall anyway?" 
+         http://http-tunnel.com/newpage/icqp.htm 
+       - .zip with InstallShield installer & MFC DLLs: 1.3MB. without: 45K 
+         http://www.nocrew.org/software/httptunnel.html 
+- not to be confused with GNU httptunnel, although we can't see them suing 
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         for those "evil parallel-universe self" days in the office: 
+         http://www.io.com/~sjohn/goatee.htm ... you'll go BLIND: 
+         http://lists.w3.org/Archives/Public/w3c-wai-ig/2000OctDec/0349.html 
+         vs http://www.theweekly.co.uk/007/radio_weekly.html ... life 
+         imitates COCOON: http://uk.news.yahoo.com/001122/80/aprk9.html 
+         ... http://www.ifilm.com/db/static_text/0,1699,9163,00.html - 
+         not too early to hoax EPISODE 2... not quite what we meant: 
+         http://tv.cream.org/buchan ... "Hmm, 12 letters, starts with 
+         '__'": http://user-mode-linux.sourceforge.net/cgi-bin/hangman 
+         ... fuckin' MAINFRAMES: http://unixsex.com/admins/vintage/ ... 
+         NICHOLSON BAKER, without the masturbating - though then again: 
+         http://www.ashleypomeroy.com/gontar.html ... horizontal ruler 
+         metrics on think-big STAROFFICE word processor can be set to 
+         feet, kilometers and miles... the return of GOPHER (and so 
+         quickly!): http://www.scn.org/~bkarger/gopher-manifesto ... 
+         http://www.billboardliberation.com/actions/new_economy.html vs 
+         http://www.shite.freeserve.co.uk/notmail/ ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> BBC1's late-nighter A TOWN CALLED HELL (1am, Fri) is, of 
+         course, the title-censored version of the film "A Town Called 
+         Bastard"... C5 concludes a week of almost non-stop cyber-
+         bollocks with VIRTUAL GIRL (11.45pm, Fri) - then catches you 
+         out by fielding surprisingly good stuff like period serial 
+         kill 10 RILLINGTON PLACE (11.40pm, Sat), porn-chic John Holmes 
+         semi-biopic BOOGIE NIGHTS (10pm, Mon) and, er, Ice T and 
+         Coolio fighting to destroy a planet-killing asteroid in 
+         JUDGEMENT DAY (9pm, Tue)... while pre-Pentium image processing 
+         hardware allows Kevin Costner to slip away in NO WAY OUT 
+         (10.55pm, Sat, ITV)... relativistic kiddie flick FLIGHT OF THE 
+         NAVIGATOR (2.15pm, Sun, BBC1) comes round for its second pass 
+         since Jan 1999... dialogue from '70s gang fight THE WARRIORS 
+         (10pm, Sun, BBC2) has now been sampled so extensively, the 
+         film sounds like an ambient Pop Will Eat Itself album... and 
+         C4 appear to be promoting patchy spy slapstick AUSTIN POWERS: 
+         INTERNATIONAL MAN OF MYSTERY (9pm, Sun) by pointing out goofs 
+         in the script, seemingly unaware that nor is it possible to 
+         cryogenically freeze humans then bring them back to life... 
+         fuelling "Bonfire Of The Vanities"-style speculation on who 
+         his character "might really be based on", Ben Moor plays a 
+         trivia-obsessed webmaster called "Brian O'Green" in erratic 
+         Pub Landlord Cheers-tribute TIME GENTLEMEN PLEASE (10.30pm, 
+         Mon; 11pm, Sun, Sky1)... and, inexplicably, Weds is shaping up 
+         as the big ratings battleground, with BBC1 fielding "Despite 
+         Warnings, Stubborn Mayor Refuses To Cancel Festivities" 
+         classic JAWS (10.35pm) against working class prostitution 
+         metaphor THE FULL MONTY (9.30pm, ITV) - vs a no-doubt Ford 
+         Puma ad-packed showing of Steve McQueen's BULLITT (9pm, C5)...
+
+         FILM>> after not being released last time we said it was [see 
+         NTK 2000-11-03] Joushua Jackson's secret society scarer THE 
+         SKULLS (imdb: branding / secret-society / college / cover-up / 
+         fake-suicide / falsely-committed / father-son-relationship / 
+         neck-breaking-scene / conspiracy / psychiatric-hospital / 
+         reporter / rowing / surveillance-camera / chase / duel / 
+         class-differences) finally appears the very same week as two 
+         other almost-rhyming film titles: wrestling fan spoof READY TO 
+         RUMBLE (http://www.capalert.com : tattoos; rapid series of 
+         crotch hits/kicks clearly for the "shock value"; long series 
+         of belittling nuns) - based on neither the PS2 launch title 
+         nor the Ant and Dec song of the same name... plus, of course, 
+         the out-of-nowhere contender for "Best Worst Film Of The 
+         Year": Tom Green, Bill Murray, Tim Curry - and some chicks as 
+         well! - together at last in near-pornographic wirework action-
+         fest CHARLIE'S ANGELS (http://www.cndb.com : [Cameron Diaz] 
+         shakes her booty in very cute panties at the camera for an 
+         extended period of time [...] We see Drew [Barrymore] covered 
+         in sheets twice in the movie, exposing some nice hip [...] To 
+         seduce a limo driver, [Drew] unzips her jump suit down to her 
+         wait, exposing side views of her breasts that leave nothing to 
+         the imagination. I liked the movie, and I liked Drew's 
+         breasts). To which NTK reader Greg Mendizabal adds: "They lift 
+         the bad guy's Palm (pilot) and when they zoomed in on the 
+         screen, despite it being similar to the Palm, the corner logo 
+         said 'Powered By Windows' like a CE device"... targetting a 
+         less overtly heterosexual audience, there's long-unawited 
+         Schumacher/ De Niro campfest FLAWLESS (http://www.capalert.com 
+         : a completely homosexual movie; vast number of homosexual 
+         presences of all kinds; sexual cake)... don't hold out for a 
+         wide release for Spike Lee's more laughs than usual African-
+         American stand-up tour movie THE ORIGINAL KINGS OF COMEDY 
+         (http://www.screenit.com/ : The film might obviously inspire 
+         kids to try to elicit laughs from jokes and profanity, as well 
+         as the exaggerated gestures and dancing the comedians use in 
+         their acts)... or Australian true-story ultrablack crime 
+         comedy CHOPPER (Poster Quote: "Puts Guy Ritchie To Shame" - 
+         well, something ought to) - not based on the 2000AD Judge 
+         Dredd mini-series of the same name...
+
+         DRILY IRONIC T-SHIRT ROUND #0>> so, we're just about to issue 
+         an APB on COMIC RELIEF's "fair trade" DUBBLE bar, plus a range 
+         of freakish new NESTLE limited editions - KIT KAT MINT (27p), 
+         AERO CHUNK MINT (29p), ORANGE TOFFEE CRISP (28p), BANOFFEE 
+         MUNCHIES (43p) and, after the mild disappointment of Rolo 
+         Giant, ROLO COCONUT (29p) - when, entirely unbidden by us, 
+         reader IAN WESTBROOK mails to ask "Where's the merchandising 
+         then? Huh? Huh?", helpfully adding: "Christmas is coming. What 
+         are geek partners supposed to buy for them?" You know Ian, we 
+         really hadn't planned on getting our e-commerce site up and 
+         running in time for your superstitious Pago-Christian 
+         festival, but just for you... http://www.cybercandy.co.uk/ntk/ 
+         is now your one-stop shop for addressing those most primal of 
+         human needs: food, shelter and reasonably priced luxury gift 
+         items. In fact, this is a currently a low-profile launch beta 
+         of what will become a much bigger selection over the coming 
+         weeks, but we thought we'd get this T-shirt out of the way 
+         first as the design(s) came from readers who'd unwittingly 
+         entered our "Design NTK Merchandise For Us" competition before 
+         it had started... and the Round 0 winners are: JON PETERSON, 
+         who sent us the slogan "In-Jokes For Outcasts" in July 1999, 
+         and now receives 50p for each shirt sold with it on (don't 
+         give up the day job just yet, Jon); plus 3D realtime animation 
+         (ie, Quake movie) nutcases STRANGE COMPANY, who encouraged us 
+         to adapt their "Memes don't exist - tell your friends" classic 
+         into the more Nathan-hostile "Viral marketing doesn't work - 
+         tell everyone you know". The judges were particularly 
+         impressed by the self-referentiality of the humour here, and 
+         the fact that we were able to come up with some sort of visual 
+         accompaniment to the slogan - what else but the international 
+         biohazard symbol made out of ASCII art using the words 
+         "Caution: Contagious Memes" repeated over and over again. 
+         Strange Company win UKP1.50 per shirt sold and the right to 
+         sell their "Memes Don't Exist" design on the site as well... 
+         and this, as they say, is just the beginning. Next week we'll 
+         start unveiling entries received via more conventional means 
+         (will we bow to public demand and do the "I Got UKP80m" one 
+         from http://www.growf.org/shirts/ ? Hey, are all B2Cs, by 
+         their very nature, doomed, doomed, DOOMED?). Long-time 
+         confectio-section regulars http://www.cybercandy.co.uk are 
+         handling the e-commerce for us, and astutely point out that, 
+         if you order sweets from them at the same time, you save on 
+         postage bigtime. They'll normally send orders out within 2 
+         working days if they have them in stock, and they now have a 
+         bunch of the Viral Marketing ones all ready to go - though, of 
+         course, we have no idea how many of you might actually want to 
+         buy them (did we say they're only UKP10 each?) so order early, 
+         to avoid disappointment. (Or, perhaps, to ensure it...)
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                       "rumours... greatly exaggerated"
+                http://www.smh.com.au/icon/0011/18/driftnet.html
+        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK is supported by UNFORTU.NET, and by you: http://www.cybercandy.co.uk/ntk/
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

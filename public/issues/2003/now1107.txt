@@ -1,0 +1,307 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-11-07_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Gawker decreed, by example, that blogs should be not only 
+         loquacious but erratic, funny, bitchy, passionate, and 
+         obsessive to the point of being a little demented. Blogs, in 
+         other words, were no longer to be the exclusive province of 
+         strident, annoying people..."
+   http://www.newyorkmetro.com/nymetro/news/media/columns/download/n_9457/
+                                                    - but it helps...
+
+
+                               >> HARD NEWS <<
+                               dooby dooby doos
+
+         Wasn't it Brian Wilson who said "Heheheheheheee WIPO
+         oooout!"? Him or one of the Fat Boys. Anyway: not much surf
+         but a lot of turf-wars on the shores of Lake Geneva this
+         week, with yet another shortcut being taken by the Evil
+         Intellectual Property Developers at the World IP
+         Organisation's copyright committee. Here's the scene: the
+         IPers want to create a bundle of new IP rights: not for
+         creative artists, but for those who package and broadcast
+         their works on air or online. The idea is that a broadcaster
+         can record a public domain or Creative Commons licensed
+         work, claim "FIXATION RIGHTS" to it, and retain control of
+         that expression for the next twenty years. Did I say twenty?
+         I'm sorry - that's what they used to want. Now it's *fifty*
+         years, to match Sonny Bono inflation in copyright
+         extensions. WIPO thought this was a done deal (after all,
+         who could complain about more rights?) - until a few of the
+         developing countries and those pesky open source advocates
+         started taking note. Developing countries: not so keen on
+         yet another round of having their native cultures air-lifted
+         out of their control. OSS folk: not thrilled about a WIP
+         definition of "broadcasting" that could include docs, files,
+         or executables. Could you take a GPL'd program, "broadcast"
+         it on the Net, and then claim exclusive copyright control on
+         that expression? No-one at WIPO knew. The end result: not
+         for the first or last time, the developing world teamed up
+         with the free software folk to backburn the proposal. Well,
+         all except Kenya, who went on about how they'd passed a law
+         banning people from taking photos of TV broadcasts to prove
+         what a good IP world citizen they were. Better to back the
+         Bitching Boys than the Fat Cats on this particular track,
+         we think...
+         http://www.cptech.org/ip/wipo/wipo-casting.html
+                                            - another Jamie Love song
+         http://www.cptech.org/ip/wipo/casting-note-29Oct03.html
+                              - wish they all could be non-infringing
+
+         NTK subscriber JASON KITCAT has been hacking away on
+         electronic voting systems long before they became
+         unfashionable. And by "hack" here, we mean, mostly, the
+         exact opposite: carefully investigating a secure, reliable,
+         open source system that might actually work, rather than the 
+         hodge-podge of bad security and whizz-nag touchscreens that 
+         dominate the commercial offerings. These days, as the rush
+         to introduce voting machines overtakes the slow pace of
+         getting them right, Jason's joined with cyberrights groups
+         across Europe to try and at least slow down the acceptance
+         of these sub-standard Diebold-style cheat-o-matics. Right
+         now, the EU's position has been (to use the rhetorical form
+         pioneered by Kitcat's choccie namesake) "you can't verify
+         your vote, you can't authenticate your privacy, you look
+         awful - you'll go a long way". Kitcat's resolution to 
+         encourage voter-verifiable audit trails in European voting 
+         machines might help stop that. You can sign it at the URL 
+         below, and follow in the illustrious footsteps of MPs, 
+         ukcrypto wonks and some bearded Free Software guy whose name
+         escapes us.
+         http://www.free-project.org/resolution/
+                            - ah but how can we *prove* he signed it?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         COLDPLAY triumph over Travis in MTV's hotly-contested "Best 
+         Coldplay" award: http://www.ntk.net/2003/11/07/dohcold.gif ... 
+         despite well-publicised problems with bulimia, cruel nicknames 
+         persist: www.ntk.net/2003/11/07/dohwhales.gif ... warmed by 
+         2.4GHz microwaves: http://www.ntk.net/2003/11/07/dohhot.gif - 
+         also a popular Google goof; in this month's puerile round-up: 
+         http://www.google.com/search?q=%22reaming+experience%22 , 
+         "ford fista", "life begins at contraception", "sliming club", 
+         "plutonic friendship", "mailing lusts", "highly sort after", 
+         plus the frankly marvellous "ming-boggling"... this week's 
+         "missing millions": http://www.ntk.net/2003/11/07/dohcon.gif 
+         ... TfL suffering from "wrong kind of Javascript" on the site: 
+         http://www.ntk.net/2003/11/07/dohtfl.gif ... and Boots seem to 
+         have withdrawn this pic, though surely someone must have the 
+         calendar featuring Jamie Oliver's unfeasibly large "baguette": 
+         http://www.ntk.net/2003/11/07/doholiv.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         BEN "Apache-SSL" LAURIE writes to ask if we could give "a plug 
+         or three" to APACHECON (Sun to Wed 2003-11-16/19, Alexis Park 
+         Resort, Las Vegas, from US$299). Consider it done, Ben, and we 
+         didn't even fall back on our old "heap big webserver pow-wow" 
+         gag that has marred our coverage of this event in the past. In 
+         other linguistic mixups, reader RONAN WAIDE bounced back from 
+         our misquoting of his Japanese t-shirt "translation" (he was 
+         merely passing on Babelfish's "shiru hitsuyousei" suggestion, 
+         while the shirt actually says "shirubeki koto" - almost as 
+         good as "shiru hitsuyou", according to BENJAMIN PETERSON), and 
+         will be delivering a free public presentation at the end of 
+         this month on RSS - REALLY SIMPLE SYNDICATION (Tue 2003-11-25, 
+         Residents Lounge, Earl of Kildare Hotel, Dublin 2), and 
+         hopefully taking the opportunity to clarify whether "RSS" 
+         really should be pronounced "Arse", Irish Father Ted-stylee.
+         http://www.apachecon.com/
+                                   - same venue as DefCon, ironically
+         http://www.doolin.com/events.html
+               - as a Google search for "RSS bandit" appears to imply
+         http://www.ntkmart.co.uk/ntkmart.cgi#Japanese
+         - and now you can pay via NoChex with a normal UK debit card
+         http://www.resfest.com/london.html
+                          - Resfest arrives in London from Thu Nov 13
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         They're not the most earth-shatteringly coded web services
+         on earth, but Marc Fest's QUICKBROWSE and ONLINEHOMEBASE
+         have a wiki-ish simplicity that makes them easy to set up,
+         hand out to friends, and use as inspiration for your own
+         projects. Also, they're easy to explain. Quickbrowse takes 
+         a list of URLs and jams them together onto one page (more
+         convienient than you'd think, especially if the
+         quick-loading aggregrate is emailed to your HTML browser).
+         Onlinehomebase is just a giant permanent store of textareas:
+         a Web-based notebook into which you can also drop time-based
+         messages that trigger mail reminders. Bookmarklets and crypto, 
+         file uploading and email gateway; it's worthing messing around 
+         with just to see how a simple idea can be elaborated to make
+         a service that might just be worth paying for.
+         http://www.quickbrowse.com/
+- press write-ups are fun: remember when you could get VC for a Perl script?
+         http://www.onlinehomebase.com/
+                                 - like Lotus Agenda but in a browser
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         at last - a high tech way of sticking playing cards in bicycle 
+         wheels: http://trade.turbospoke.com/product_main.asp ... what 
+         cyberspace really looks like: http://www.wmtransfer.com/ ... 
+         knowing ESR's pro-firearm position, surprised he didn't go for 
+         the Gosper Gun: http://www.catb.org/~esr/hacker-emblem/ vs 
+         http://www.ericweisstein.com/encyclopedias/life/GosperGun.html 
+         (Google reckons he's more of "a barometer of inflammation": 
+         http://www.google.com/search?q=define+esr )... where are they 
+         now: http://www.jackmtempleton.supanet.com/Presenters_crew.htm 
+         ... still getting plenty of use out of re-editing that same 
+         old Javascript: http://www.martian.fm/dump/ghostfleet.htm ... 
+         http://www.setforeurope.org/ animation features every young 
+         scientist's dream project - Darth Vader's TIE fighter... 
+         increasing our interest rate: http://www.rdwarf.com/~kioh/ ... 
+         Visits "by appointment only" - they didn't get to that size on 
+         just carrots, you know: http://www.britishgiantrabbits.com/ ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> a full week after its ceremonial cinema re-release, SHOCK 
+         AND AWE: THE RETURN OF ALIEN, WITH DANNY BOYLE (12.40am, Fri, 
+         C5) shows probably as many old clips as those A VS P promos: 
+         http://www.apple.com/trailers/fox/avp/ ... THE BIG READ: THE 
+         HITCH-HIKER'S GUIDE TO THE GALAXY (9.30pm, Sat, BBC2) attempts 
+         to overcome the fact that it's a novelisation of a radio 
+         series and, in common with much of Adams' work, doesn't have 
+         any particular ending... while Hugh Grant Day climaxes with 
+         BRITS GO TO HOLLYWOOD (9pm, Sat, C4), this year's showing of 
+         FOUR WEDDINGS AND A FUNERAL (10pm, Sat, C4) plus Woody Allen 
+         caper comedy SMALL TIME CROOKS (12.10am, Sat, C4) - now 
+         showing in C4's prestigious post-midnight premiere slot, along 
+         with suburban child-molest-fest HAPPINESS (12.20am, Mon, C4), 
+         crack dealing miniseries THE CORNER (1.10am, Tue, C4), and 
+         Charlize Theron's alien impregnation THE ASTRONAUT'S WIFE 
+         (11.15pm, Wed, C4)... grand unified pop-physics stab THE 
+         THEORY OF EVERYTHING (8pm, Sun, C4) is presented by a bloke 
+         impersonating Commander Data ... MOVIE MISTAKES (8.30pm, Sun, 
+         C5) discovers there's nothing less funny than actually seeing 
+         movie goofs in action... then PANORAMA SPECIAL (9pm, Sun, 
+         BBC1) celebrates 50 years of the current affairs slot with the 
+         time the US military tried to kill John Simpson... the wacky 
+         world of prostitution is gently ridiculed by LOUIS [THEROUX] 
+         AND THE BROTHEL (9pm, Sun, BBC2), though weirdly you never see 
+         him applying his ingenue-style interview technique to subjects 
+         like WITNESS: INSIDE THE MIND OF THE SUICIDE BOMBER (9pm, Mon, 
+         C4)... there's a topical showing for politically puzzling 
+         Marines-shooting-unarmed-Yemenis courtroom yell-off RULES OF 
+         ENGAGEMENT (9pm, Tue, ITV) ... and Helen Mirren takes on her 
+         slipperiest opponent yet - Slobodan Milosevic - in the last 
+         ever PRIME SUSPECT (9pm, Sun, ITV)... HOW CLEAN IS YOUR HOUSE 
+         (8.30pm, Wed, C4) is basically "Grime Scene Investigation": 
+         http://www.hexkey.co.uk/lee/log/2003/06/19/#1056055860 ... 
+         "Big Brother nerd" Jon Tickle will hopefully examine why the 
+         public always vote for reality-show contestants who clearly 
+         have no future in entertainment television on his new show 
+         BRAINIAC: SCIENCE ABUSE (8pm, Thu, Sky1)... but nothing in 
+         Paul Verhoeven's appalling invisibility yawn HOLLOW MAN 
+         (10.10pm, Thu, C5) is as scary as the "broken milk carton" in 
+         pre-Airplane nuke spoof THE BIG BUS (12.25am, Thu, BBC1)...
+         
+         FILM>> obviously it would be controversial to claim it's our 
+         favourite of the trilogy (largely 'cos the first is so wildly 
+         overrated), but once Neo goes all "Dune Messiah", there's a 
+         decent "future war" movie at the end of MATRIX REVOLUTIONS 
+         ( http://www.capalert.com/capreports/matrixrevolutions.htm : 
+         mockery of God, Jesus, Satan and the antiChrist; men showing 
+         intimate affection to each other; extensive revelry)... else 
+         there's the prospect of tiny-headed Christina Ricci, John 
+         "mobile ads" Simm, plus Kyle "Dune Guy" MacLachlan - together 
+         at last! - in dominatrix/ con-woman dom-con rom-com MIRANDA 
+         ( http://www.cndb.com/movie.html?title=Miranda+%282002%29 : No 
+         nudity - lots of heavy breathing, short skirts and humping 
+         tho... pity [Ricci] didn't show those magnificent breasts)... 
+         or the error-riddled depressingly-uplifting depression-era 
+         loosely-based-on-true-story horse-racing travesty SEABISCUIT 
+         ( http://www.imdb.com/title/tt0329575/goofs : War Admiral is 
+         repeatedly referred to as being 18 hands vs. Seabiscuit's 15
+         hands. The horses were actually the same height, with some
+         sources listing Seabiscuit as the heavier of the two)... 
+
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> and a special no-prize to everyone who wrote to 
+         let us know that the "fresh dolphin" which IBM customers just 
+         love to consume http://www.ntk.net/2003/09/12/dohdolph.gif "is 
+         actually talking about the Dolphinfish or Mai Mai", rather 
+         than the popular seagoing mammal, noted first poster ANDREW 
+         MOBBS. THE REVEREND JOE MCNALLY kind of spoiled an earlier 
+         joke http://www.ntk.net/index.cgi?b=02003-09-12&l=154#l by 
+         explaining that "Splittist is the Chinese govt's peculiar word 
+         for anyone who favours booting the Chinese out of Tibet" (he 
+         ran into it "with numbing regularity" in the Chinese Embassy's 
+         press releases in the early 1990s, whose other remarkable 
+         quality was that "they appeared to be printed on that coarse 
+         green paper more normally used in the manufacture of the hand 
+         towels you get in pub toilets"), while DOM ROBINSON confirmed 
+         that C4 did swap the order of the last 2 episodes of "Peep 
+         Show" (one of the "comedy highlights" of his year), at least 
+         compared to their transmission on E4, presumably because the 
+         penultimate one made a stronger close to the series without 
+         (badly) compromising the character arc... IAIN CUNNINGHAM was 
+         the only one to "incorrectly regard us as goofs" over last 
+         month's doh description "Italy invests in enough power to run 
+         60W lightbulb" http://www.ntk.net/2003/10/03/dohmilli.gif , 
+         arguing "12,000mW is 12W and therefore not enough to run a 60W 
+         bulb (unless of course you just want to use it to gently warm 
+         your hands on - but doing that will vitrify the envelope and 
+         so shorten the bulb life)" - the correct calculation from the 
+         image is left as an exercise for the reader - but ASH provoked 
+         our greatest wrath for daring to suggest we were using a 
+         "greengrocer's apostrophe" in our weekly heading "goto's 
+         considered non-harmful". As Ash soon found out, apostrophes 
+         are in fact used like this to form "an alternative spelling, 
+         for clarity, of the plurals of a very few short words": 
+         http://www.askoxford.com/asktheexperts/faq/aboutspelling/pizza 
+         - when we replied "OK, if you're so clever, you tell us: 
+         should it be 'gotos' or 'gotoes'?", Ash responded "Oooh that's 
+         the old potatoes/potatos question", which wasn't quite the 
+         level of plural-forming expertise we'd previously hoped for...
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                           "an obs[c]urantist taste"
+              http://www.discourse.net/archives/2003_10_14.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

@@ -1,0 +1,299 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-04-25_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "A quarter of those questioned said they played for more  
+         than 41 hours a week. But Dr Davies does not think this is 
+         unhealthy. He said: 'Most people I know spend about 3-4 hours 
+         a night watching TV'..."
+          - "Fantasy games 'not for geeks'", reveals... fantasy gamer
+         http://news.bbc.co.uk/1/hi/england/nottinghamshire/2939175.stm
+              ...though if they were spending (41/7 =) nearly 6 hours 
+                     watching *the same programme* every night, maybe 
+                                   there'd be more cause for concern?
+
+
+                               >> HARD NEWS <<
+                          prof shirky - or doc mabuse?
+
+         As they forked over the money in a forebodingly gloomy
+         Silicon Valley, you could tell the EMERGING TECH attendees
+         were a bit nervy. Sure, the first one had sounded great. But
+         this year? The talks didn't look earth-shattering (Howard
+         Rheingold *and* smart name tags? Be still my heart!). The
+         Valley itself looked a little less salubrious, a little more
+         "Famous Home Of Google, Inc (Population 25)". And the rumour
+         going around was that this had become "just a blogging
+         conference" - as though bloggers were somehow to tech
+         culture what furries are to science fiction. From a dazed
+         Esther Dyson, to the feral teenhackers scavenging on the
+         sidelines, you could smell the fear: that they were about to
+         turn up a year late and several hundred dollars short.
+         http://conferences.oreillynet.com/pub/w/22/etech03_grid.html
+              - ah, trackback: the referer logs you enter in manually
+
+         But if Emerging Tech was supposed to become some
+         self-referential circle-jerk of blathering pundits, not
+         everyone got the memo. Like hardware-core hackers Bunny
+         Huang and Eric Blossom, who respectively tutored FPGA
+         programming and Game-Cube sniffing, and previewed the $300
+         USB 2.0 GNU Radio setup. Or Brit Stuart Cheshire, splurting
+         out the details of Apple's IETFish standard "appletalk
+         without the backchat" zeroconf implementation and grinning
+         like the eponymous cat when he got a networked printer to
+         work straight out of the box. Or Tim O'Reilly himself,
+         whipping up a GeekCorps/Jhai PC/Redundant Tech hacktivists
+         summit to sort out ways to smuggle appropriate IT into the
+         developing world. Even the core of pontentially deep waffle
+         talks - the Semantic Web kids, the Social Software
+         chin-scratchers, hell, even those nattily dressed bloggers
+         in their multi-tabbed Safaris - pulled back from the brink
+         with presentations that were more Mathematica than
+         Powerpoint, delivering cartloads of stats and research to
+         back up their arguments. Somewhere along the line, they'd
+         stumbled on some facts.
+         http://web.mit.edu/bunnie/www/
+                   - first against the wall when Valenti is president
+         http://www.dns-sd.org/
+             - appletalk without all that "i'm a macintosh!" nonsense
+         http://www.plasticbag.org/archives/2003/04/
+                             - including an up my street inter mortem
+         http://space.frot.org/
+                                             - london psychogeography
+         http://www.oreillynet.com/pub/wlg/3085
+                                               - geek activism summit
+
+         And there were low points. But the audience, already
+         hypersensitised by brooding, Google-cold-turkeying Reg
+         journalist Andrew Orlowski (whom NTK wishes nothing but good
+         fortune), chose to turn on those who waffled and handwaved,
+         as though they were burning entrance fee dollars in front of
+         their faces. Attendees ran out screaming from the "Social
+         Software Alliance"'s attempt to bore people into
+         professional union. The sizeable British invasion sat around
+         cackling "bollocks" if anyone even for a second tried to
+         pull that Americanocentric ... well, bollocks. Marc Canter,
+         founder of Macromedia, shouted at everyone, just to make
+         sure they were paying attention. And the emerging
+         technologies shuddered and thrashed, but still continued to
+         emerge. It's a slightly older new frontier, but they're not
+         blogging a dead horse yet.
+         http://www.theregister.co.uk/content/4/30367.html
+- you know, a simple "I'm washing my hair tonight" would have done, Andrew
+         http://www.socialtext.net/ssa/
+                                                   - doooooooooooomed
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         everything OK there? http://www.ntk.net/2003/04/25/dohham.gif 
+         ... Freudian slip over what Digital Rights Management tech is 
+         really for: http://www.ntk.net/2003/04/25/dohpriv.gif ... 
+         slight GOOGLE GOOFS backlog: newtwork, foolball, "eerie clam", 
+         http://www.google.com/search?&q=%22martian+luther+king%22 ... 
+         retro-trends - cybersquatting: http://www.sclub8.com/ , plus:
+www.bfi.org.uk/showing/nft/calendar/details.php?title=Anne%20Widdecombe%20Ahoy
+         ... regional press mock hoax victims, redefine "133t haxOrs":
+http://www.expressandstar.com/cgi-bin/artman/exec/view.cgi?archive=9&num=29534
+         ... never any question of CRAIG DAVID (or "his lady") "cheatin' 
+         around": http://www.ntk.net/2003/04/25/dohcheat.gif ... 
+         ORLOWSKI combines Blondie drummer Clem Burke with guitarist 
+         Chris Stein: http://www.ntk.net/2003/04/25/dohorlo1.gif ; 
+         devises more "Pants" version of "The Black/ White Panthers": 
+         http://www.ntk.net/2003/04/25/dohorlo2.gif - you know, hating 
+         GOOGLE must really cut into his fact- and spell-checking... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         When writing a profile of WILLIAM GIBSON, be sure to mention 
+         that, when he originally wrote "Neuromancer", not only did he 
+         not know what a "modem" was, but he had never even seen a 
+         computer, and had been raised in the forest by ponies. Anyway, 
+         there's still time to catch the second half of his UK tour 
+         (tonight in Birmingham UKP3, tomorrow Sat 2003-04-26 at 
+         London's Forbidden Planet, presumably free), reading from and 
+         signing his acclaimed present-day return-to-form PATTERN 
+         RECOGNITION (Penguin hardback, UKP16.99). The new book is 
+         described as "a real sensual pleasure" by one of our favourite 
+         cultural commentators - The Register's international man of 
+         letters, Andrew Orlowski - although Gibson himself "doesn't 
+         come across as a natural writer" and is "lucky to have chosen 
+         technology as his underlying subject matter", according to 
+         those intrepid cartographers of the human condition over at 
+         EDGE magazine. 
+       http://www.williamgibsonbooks.com/archive/2003_04_18_archive.asp
+- soon to disown the cult of blog, says "Recognition Patterns" Orlowski
+         http://www.theregister.co.uk/content/6/30334.html
+         - "I'm reading slower"; Gibson certainly not speaking faster
+         https://www.fastweb.co.uk/spy.org/cgi-bin/williamgibson.pl
+                 - Forbidden Planet likely to be "busy", hackers warn
+         http://www.infosec.co.uk/
+               - in London on Tue: volunteer your password, win a pen 
+         http://www.riseup.net/ourmayday/mayday/index03.html
+                 - MayDay mayhem on Thu: pop-ups, frames, flash intro
+         http://www.zprod.org/freshFrame.html
+         - Thursday after: Paul Granjon presents Nottingham robot lab
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         MICROSOFT getting into the influential bookwarez business: 
+         http://research.microsoft.com/~daniel/unix-haters.html ... 
+         ANNE FRANK fan fiction (reassuringly, all rated "PG-13" or 
+         below): http://www.fanfiction.net/list.php?categoryid=1218 - 
+         vs http://www.hermit.org/Blakes7/Gallery/Special.html ... 
+         first MAHIR, then Al-Jazeera?: http://www.ikissyou.org/ ... 
+         quest for the world's worst open-source-themed songwriting: 
+         http://www.openbsd.org/lyrics.html - as ever, Stallman's "Join 
+         us now and share the software" is a tough one to beat... 
+         reinvigorating well-worn theme: http://www.gaybetamax.co.uk/ 
+         (via http://www.proteinos.com/ , needs Quicktime, sorry)... 
+         following previous NTK discussions of "the [golden] ratio": 
+         http://www.ladle.demon.co.uk/misc/mirage/ + other maths news: 
+       http://www.maths.tcd.ie/~icecube/cgi-bin/index.php?page=woodchuck 
+         ... select text - spamdexing, or something more supernatural?: 
+         http://www.bbc.co.uk/wiltshire/villages/imber.shtml ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> scathing social commentary FRIENDS (9pm, Fri, C4) at last 
+         highlights the dangers of poor identity authentication and 
+         photomanipulation on Friends Reunited-style sites... WILL AND 
+         GRACE (9.30pm, Fri, C4) returns with a whole new series of 
+         stereotypical gay/straight jokes... and there's another chance 
+         to see the UK's games industry's latest risible attempt at 
+         taking itself seriously in B-list celebrity award show GAME 
+         STARS (12.35am, Fri, ITV) - "And the winner is: Solid Snake!" 
+         [unidentified man steps up from crowd]... SPEND SPEND SPEND 
+         (7.05pm, Sat, BBC2) takes an intermittently anti-consumerist 
+         look at whether money really can make you happy... DYING FOR 
+         DRUGS (8.30pm, Sun, C4) shows how to profit from suffering, if 
+         you're a huge pharmaceutical company... and is surrealism the 
+         answer, wonders "future of comedy" pilot one-off THE BOOSH 
+         (9.30pm, Sun, BBC3)... Monday sees a handy medical triple-
+         bypass of SARS: KILLER BUG (9pm, Mon, C4), Wolfgang Petersen 
+         aerial actioner OUTBREAK (9pm, Mon, C5), plus weird Nic Cage/ 
+         Scorsese paramedic paranoia trip BRINGING OUT THE DEAD (11pm, 
+         Mon, ITV)... Armando "Saturday Night Armistice" Iannucci takes 
+         a shot at the 11'O Clock Show slot with daily topical roundup 
+         GASH (11pm, Mon-Thu, C4)... though it looks like they've had 
+         problems coming up with just 30 mins of political satire every 
+         week for THE STATE WE'RE IN (11.30pm, Tue, BBC3)... a techno-
+         loving Benedictine appears to be the hero of posh school 
+         documentary MY TEACHER'S A MONK (10.30pm, Tue, ITV) - would 
+         also make a good title for a sitcom... the myth of the lone 
+         inventor is once again trotted out by lame Tomorrow's World 
+         replacement INNOVATION NATION (8pm, Wed, BBC1)... while the 
+         brief nude scenes are unlikely to get you through either 
+         tormented painter biopic SURVIVING PICASSO (11.30pm, Wed, ITV) 
+         - or the perhaps unfortunately named future prison sci-fi 
+         FORTRESS 2: RE-ENTRY (10pm, Thu, C5)... 
+         
+         FILM>> it's "Alien" meets "Stand By Me" in yet another 
+         tortuous Stephen King male-bonding misadventure DREAMCATCHER 
+         ( http://www.capalert.com/capreports/dreamcatcher.htm : attack 
+         by alien to a man's crotch; no, it couldn't be like all the 
+         other alien infestations ripping out of the stomach wall or 
+         out the throat. It had to be the anus)... Spike Lee shows a 
+         post "7-11" New York in imminent-jailtime last-hurrah THE 25TH 
+         HOUR ( http://www.cndb.com/movie.html?title=THE+25th+HOUR : 
+         there is indeed a bath tub scene with [Ed] Norton but [Rosario 
+         "Josie And The Pussycats" Dawson] remains mostly covered by 
+         bubbles; Anna [Paquin], like Rosario, is also not naked in the 
+         final cut of the film)... the New York Times poster quote that 
+         the cast "brings *some* of the vacant hep-cat suavity [...] of 
+         Ocean's Eleven" [our emphasis] can't be a good sign for goofy 
+         botched-heist Clooney vanity project WELCOME TO COLLINWOOD 
+       ( http://www.screenit.com/movies/2002/welcome_to_collinwood.html :
+         the camera focuses on [Jennifer "Spin City" Esposito's] 
+         clothed butt as she bends over; it's possible some kids could 
+         be enticed to try to pull off a crime)... and mother Charlize 
+         Theron takes on brutal child-kidnapper Kevin Bacon in TRAPPED 
+         ( http://www.cndb.com/movie.html?title=Trapped+%282002%29 : 
+         while Courtney [Love] is still on the ground there are five 
+         frames of her right tit. She then stands up and the towel 
+         blocks the rest of the view as she completely ditches the bra. 
+         For the Courtney Love collector only)... 
+         
+         RED BOOK AUDIO>> the advert soundalikes seem to be tailing off 
+         for the summer, with only SIMON CARLESS complaining that the 
+         US KitKat ad "featuring wacky newscasters goofing off in a 
+         commercial intermission to the tune/slogan 'Give Me A Break'" 
+         had "such an Andrew WK-ripped-off soundtrack, it hurt". Simon 
+         was unable to identify *which* of Andrew WK's tracks might 
+         have inspired the ad, since he "only has the one". Among 
+         broader pop similarities, very few seem to have commented on 
+         the (intentional?) resemblance between Athlete's "El Salvador" 
+         and Avril Lavigne's "Complicated"; or a karaoke track for the 
+         Commodores' "Three Times A Lady" and Christine Aguilera's 
+         "I Am Beautiful (In Every Single Way)" - though not in a way 
+         "which is obviously apparent to the naked eye", notes I HATE 
+         MUSIC http://www.freakytrigger.co.uk/2003_02_01_hated.html ... 
+         ADRIAN MOULDER took the comparisons to the next level by 
+         observing that right-wing historian and TV presenter Andrew 
+         Roberts http://www.andrew-roberts.net/cv.htm is "pulling the 
+         same face" as NTK's favourite Neo-Regency Face Warrior Gary Le 
+         Strange http://www.garylestrange.co.uk/ . He then appears to 
+         have confused us with the likes of http://www.b3ta.com/ by 
+         suggesting that "someone (but not me) should do an animated 
+         duet of Sweep (from The Sooty Show) singing the squeaky bits 
+         of the new Madonna single", claiming to have "located some 
+         frames already": http://makeashorterlink.com/?N15812D24 , 
+         http://members.lycos.co.uk/SootyandSweep/ ... and in the ever-
+         fertile field of videogame crossovers, TIM CANT enthused that 
+         "Tekgul" by Mono Trona is "some Japanese bint wailing over the 
+         C64 Parallax music - WORD UP!!!!", shamefacedly followed 3 
+         days later by the confession "I meant Sanxion. HOW COULD I BE 
+         SUCH A FOOL?!" In which case, it remained only fitting for 
+         retro-gentleman ASHLEY POMEROY to ponder whether last year's 
+         Amazon book title "Cryptography: a Very Short Introduction 
+         (Very Short Introductions) (Very Short Introductions)" - 
+         http://www.ntk.net/2003/04/25/dohverysho.gif - might have been 
+         "a reference" to David "Whistlin' Rick" Wilson's covertape 
+         track "Hold My Hand Very Tightly (Very Tightly)" - a classic 
+         whose lyrics are thankfully preserved for future generations: 
+         http://www.everything2.com/index.pl?node_id=1190388 ... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                              "not safe for work?"
+                           http://www.boobies.nl/NTK      
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

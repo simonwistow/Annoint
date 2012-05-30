@@ -1,0 +1,260 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-12-12_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "In terms of marketing, however, US web users are seen as the 
+         perfect demographic, in that they tend to be non TV-watchers 
+         with an income over $60,000, [and] 'pre-marital interests'..."
+     http://film.guardian.co.uk/features/featurepages/0,4120,1104848,00.html
+                                       ...and likely to stay that way
+
+
+                               >> HARD NEWS <<
+                                    IMHOs
+
+         Everyone's got an opinion, haven't they? In a week when even
+         the taciturn Torvalds started opining on how copyright law 
+         worked, the president of the notoriously fair and open-minded 
+         ICANN had *his* views summarily squelched, after a literal 
+         kickban from this week's WORLD SUMMIT ON THE INFORMATION 
+         SOCIETY. As guards hussled PAUL TWOMEY away from the DNS 
+         pre-meeting at the UN summit, he whined his complaints like... 
+         like... like an obscure domain registrar bitching on an ignored
+         "public" ICANN mailing list, say. Will ICANN humbly learn
+         its lesson? Hopefully not - given that the WSIS bouncers
+         waved ROBERT MUGABE through to give his views on the Net
+         (summary: Sluggy sucks, Penny Arcade much cooler). Is this
+         some kind of hint that ICANN needs to start cracking down on
+         its opposition? Or should it be more like the President of
+         Iran, who found his WSIS Q&A getting bogged down in
+         questions relayed from his nation of bloggers. "Do you
+         blog?", they demanded, before going on to ask him whether he
+         preferred Moveable Type or Livejournal, and Which Character
+         From "24" Was He, exactly?
+         http://kerneltrap.org/node/view/1735
+                                                   - I Am Not A Linus
+         http://www.itworld.com/Man/2685/031208torvalds/
+                                 - ... but I play one when subpoenaed
+         http://www.iht.com/articles/120570.html
+                                               - squeal little piggie
+         http://news.bbc.co.uk/1/hi/world/africa/3303129.stm
+            - Mr Mugabe has "giant Orwellian viewscreen" in his rider
+http://www.dailysummit.net/english/archives/2003/12/11/iran_roundup_.asp
+                                       - I'm sorry, am I hot or what?
+
+         Meanwhile, in less well-lit, well-heeled meeting rooms,
+         darker deals were cut. A double-cross in the EU's JURI
+         committee briefly led to all copyright infringements being
+         rated as criminal offences, from carol singers to - well,
+         you, almost certainly. We're told that subsequently "the
+         oral amendment was withdrawn", which is apparently more
+         pleasant than it sounds. The Home Committee stumbled through
+         their examination of that whole ID Cards business without
+         much oversight. And most dread of all, Ubisoft sneaked a
+         check into the latest "Rainbow 6" patch, which makes it
+         snoop through your hard drive looking for virtual CD utils,
+         and refuse to play until you uninstall them. Which is fair
+         enough, given how people root through prospective dates'
+         bookshelves for Tom Clancy's original novel, then refuse to
+         play if they stumble across *that*.
+         http://www.fipr.org/copyright/draft-ipr-enforce.html
+                - does *anybody* ever know what's going on in the EU?
+         http://www.spy.org.uk/spyblog/archives/000137.html
+         -             select ... committeee ... id cards ... zzzzzzz
+www.evilavatar.com/modules.php?op=modload&name=News&file=article&sid=2214
+          - interesting aside on how lame it is to say "irrespective"
+
+         Let's face it, if you *had* to be trapped on a website with 
+         someone going on about kids' television programmes that nobody 
+         remembers any more, you could do (slightly) worse than one of 
+         the dedicated Dr Who apologists over at TV.CREAM.ORG, who have 
+         been providing unpaid (and uncredited) research for the Daily 
+         Mail (and other net users) for something like six years now. 
+         Of course, their efforts have not gone completely unrecognised 
+         - site contributor (and Sam from "Pop Idol" lookalike) STEVE 
+         BERRY fondly recalls their excitement over receiving Web 
+         User's (November 2001 edition) prestigious "Home-made Web Site 
+         Of The Month" award - but now the big time is beckoning at 
+         last. Get your vote in now to help TV Cream triumph over other 
+         rubbish contenders - that "Commercial Breaks and Beats" ad 
+         music database, Danny Wallace's pointless "Join Me" cult - and 
+         teach Yahoo! a thing or two about *real* nostalgia, by making 
+         the 1998-era site the proud recipient of Yahoo's "People's 
+         Choice 2003 Find Of The Year".
+         http://uk.dir.yahoo.com/Find_of_the_Year_2003/Entertainment/
+           - narrowly missed Esquire's "Sharpest Man" shortlist again
+         http://www.ntk.net/index.cgi?b=02002-11-01&l=46#l
+          - and where's that Xmas toy round-up you promised, eh lads?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Christmas party season playing havoc with BBC news spelling: 
+         http://www.ntk.net/2003/12/12/dohwok.gif ... ie, busy making 
+         trouble: http://www.ntk.net/2003/12/12/dohbusy.gif ... and 
+         many, many more: http://www.ntk.net/2003/12/12/dohseeme.gif 
+         ... ironically - huge image-map: http://www.esws2004.org/ ... 
+         more Amazon mayhem: http://www.ntk.net/2003/12/12/dohbiz.gif , 
+         http://www.ntk.net/2003/12/12/dohdeliv.gif - and, in his new
+         bestseller, Stephen King plans to really mess with your head: 
+         http://www.ntk.net/2003/12/12/dohneuro.gif ... bloody Mac 
+         users now claim to have "world's most powerful" monitor stand: 
+         http://www.ntk.net/2003/12/12/dohstand.gif ... also known as - 
+         security-in-the-toilet: http://kitchens-on-the-web.co.uk/admin/ 
+         ... Guardian explains why the US bombs so many civilians: 
+         http://www.ntk.net/2003/12/12/dohgalileo.gif ... and why the 
+         moon is only 36,000km away (ie, approx 2-3 x the distance from 
+         London to Syndey): http://www.ntk.net/2003/12/12/dohcass.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Ah, Christmas: a time to put aside traditional disputes and 
+         rivalries - and for us to look beyond our usual London-centric 
+         focus to report on MANCHESTER WIRELESS'S BRING AND BUY SALE 
+         AND CHRISTMAS CURRY. In the local vernacular, they'll be 
+         "having it" (the bring and buy sale) from 2pm-5pm tomorrow Sat 
+         2003-12-13 at Bridge-5-Mill, Manchester M4, and it looks like 
+         it's free for anyone to get in (and/or bring/buy vaguely 
+         relevant technical items). And, in a bridge-building occasion 
+         as potentially historic as that football match between British 
+         and German troops during the First World War, LONDON JAVA 
+         MEETUP are inviting other techies "from LONDON PERL MONGERS 
+         etc" to their Xmas (piss|punch) up across the no-man's land of 
+         the Electricity Showrooms, Hoxton Sq, London from 6pm, Monday 
+         2003-12-15, in order to discover common insights, share jokes 
+         about Python users, and - who knows - maybe add some of their 
+         technological and biological distinctiveness to their own?
+         http://www.manchesterwireless.net/
+          - venue: deserted warehouse converted to fashionable lofts?
+         http://javanicus.com/londonjava/items/60-index.html
+                    - hey, are those UK Slashdot Meetups still going?
+         http://www.dorkbot.org/dorkbotlondon/
+            - few places left for London Dorkbot's farewell to 386DX?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Tracking's arch-enemy Sweetcode.org has returned, damn them.
+         To celebrate, we're stealing one of their many good pointers
+         - to FILELIGHT, an "interactive visualisation of disk space
+         consumption". It's a beautiful KDE app that intuitively
+         highlights large files and directories over small ones, in a
+         way that lets you quickly spot what's eating away your disk
+         space. A forgotten mail logfile from the SOBIG epidemic, an
+         old and rusty CVS checkout, and a file that should have been
+         bzipped years ago equalled one gig for us. It's not the
+         first visual space scanner, but it's one of the prettiest,
+         and worth a look if you're writing something similiar for
+         your own platform.
+         http://www.methylblue.com/filelight/
+     - or just mechanically download everything on Sweetcode, like us
+         http://www.sweetcode.org/
+                                       - pay no attention to the site
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         a living "Burgess Shale" of mostly extinct Cambrian gameforms: 
+         http://web.utanet.at/nkehrer/jae.html ... bid 4 sh3llz!: 
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=2772390911 
+         vs l33t marketing: http://www.nvidia.com/object/IO_9912.html 
+         ... UseCrime in progress - complete with "hint" on navigation: 
+         http://www.glass-page.com/flash/main.htm (Flash, sorry)... 
+         worth printing out and handing to tourists when they arrive: 
+      http://www-gap.dcs.st-and.ac.uk/~history/BirthplaceMaps/Maps/UK3.gif
+         ... hideously photoshopped cover art of the week, number 2: 
+         http://images.amazon.com/images/P/B00008YGS0.01.LZZZZZZZ.jpg
+         ... press release misses out sentence "Jenson Button 
+         advertises BBC digital with all the natural verve of a downed 
+         Tornado pilot being forced to denounce coalition forces at 
+         gunpoint": http://qwer.org/TerribleButtonPressRelease.html ... 
+      http://www.crichton-official.com/speeches/speeches_quote05.html -
+         "science safe", says author of Prey, Westworld, Jurassic Park...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Clive Anderson introduces the last minor reshuffle among 
+         the 21 finalists in THE BIG READ FINAL (9pm, Sat, BBC2)... 
+         gardens inspired by the "Big Read Top 100" - including "Lord 
+         Of The Flies" and "Lord Of The Rings", though sadly not Frank 
+         Herbert's "Dune" - battle to be acknowledged as the work of 
+         GARDENER OF THE YEAR (9pm, Fri, BBC2)... and who cares about 
+         lame Ben Affleck "Reindeer Games" rename DECEPTION (10pm, Sat, 
+         C4) or indeed low-budget female-teenwolf horror GINGER SNAPS 
+         (11.40pm, Sat, BBC2), when BBC1 is showing the epochal all-
+         star Tom Green grossout-fest ROAD TRIP (10.30pm, Sat, BBC1)? 
+         ... TROUBLE AT CHRISTMAS (7pm, Sun, BBC1) seems unlikely to 
+         plumb the depths of http://www.mymiserablechristmas.com/ ... 
+         Zoe "Where is she now?" Ball hosts a "revised repeat" of the 
+         elegantly titled 100 GREATEST TV MOMENTS FROM HELL (9pm, Sun, 
+         C4)... as the "Guns and Gangs" season concludes with a look at 
+         the ammunition format immortalised on gangsta classics such as 
+         Vanilla Ice's "Ice Ice Baby" and Arnee and the Terminators' 
+         "I'll Be Back", aka 9MM (10.30pm, Sun, BBC2)... HEAR THE 
+         SILENCE (9pm, Mon, C5) dramatises the MMR/ autism debate, 
+         though feral Ukrainian docu BODYSHOCK: WILD CHILD (9pm, Mon, 
+         C4) reveals kids aren't all that sociable if they're raised by 
+         wild dogs either... "Tuesday 16 December 1660: I learn I am to 
+         be played by the troubadour Steve Coogan in what is called a 
+         'period romp' - A-haaaaa!", notes THE PRIVATE LIFE OF SAMUEL 
+         PEPYS (9pm, Tue, BBC2) - vs http://www.pepysdiary.com/ ... and 
+         BUFFY THE VAMPIRE SLAYER (6.45pm, Thu, BBC2) finally outlives 
+         her welcome - but don't worry, because all the dead characters 
+         will ultimately be revived by Frank Tipler using tech unveiled 
+         in the "Time Trip" taken by HORIZON (9pm, Thu, BBC2)... 
+         
+         FILM>> the title sounds like a slang term for needing the 
+         toilet, but it's actually a "999"-style dramatised mountain 
+         recreation of TOUCHING THE VOID ( http://www.bbfc.co.uk/ : 
+         Contains very strong language)... also on limited release is 
+         bonkers over-the-top horror B-movie DEAD END ( imdb: black-
+         comedy/ body-bag/ body-count/ cabin/ gay-slur/ man-in-black/ 
+         whiskey)... and we'd rather see the story of the "Fightin' 
+         Whities" http://www.fightingwhites.org/ than Beyonce Knowles 
+         and Cuba Gooding Jr gospel-fest THE FIGHTING TEMPTATIONS 
+         ( http://www.capalert.com/capreports/fightingtemptations.htm :
+         dressing to maximize the female form; equating no sin with no 
+         fun; underhanded connivings to impede change)... 
+                           
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+      "phew, made it into *this* month's 'will not be televised' parody"
+         http://jackfear.blogspot.com/2003_12_01_jackfear_archive.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

@@ -1,0 +1,317 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-08-13_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "GM really gets it. And it's fun to be here. An automobile
+         is just a Java browser with tires." 
+                                                      - SCOTT MCNEALY
+     ...and when it goes this slowly, who cares how often it crashes?
+
+
+                                >> HARD NEWS <<
+                                  loony views 
+
+         Signs and portents, portents and signs. It wasn't the end of
+         the world, but for those who take their miracles seriously,
+         the start of LinuxWorld was damn close enough. Robert Young,
+         CEO of RED HAT, became the first open software advocate to
+         hit 750 million dollars net worth. Accordingly, the skies
+         went dark over Europe. No Mir crashed on Paris, but the
+         Anti-Christ, (either Andy Grove or Jesse Berst depending on
+         how you read your Revelation), did lay down and supped with
+         the penguin. In the Cthulhu country of Massachusetts,
+         Andover.net ate Freshmeat (aliiiiive!), and while the
+         Perseids streamed overhead to signal just how against nature
+         we're taking this, the Linux Fund launched the first Tux
+         Credit Card. Cue thunder on soundtrack. Elsewhere, in the
+         East, the Chinese Academy of Sciences and Peking University
+         began distributing copies of Red Flag Linux. So that'll be
+         the "King of The Mongols" quatrain covered then. These
+         things were NOT MEANT TO BE.
+         http://linuxfund.org/creditcard/
+                                       - the mark of the cuddly beast
+       http://support.microsoft.com/support/kb/articles/q238/3/28.asp
+                -  the end of the world - brought to you by MICROSOFT
+         http://www.zdnet.com/anchordesk/story/story_3723.html
+        - Let me show YOU which SEVEN SEALS mark the TRUE TRIBULATION
+         http://www.lwn.net/1999/0812/a/redflag.html
+         - one simple prophecy: day trading. Chinese day trading.
+
+         Still, we've still got a few more months before the final
+         unchaining of the Beast. After four and a half  years,
+         Kevin Mitnick has received his sentence. The scourge of
+         Christendom received 46 months, and has to pay less than
+         five grand back to the poor corporations who claimed that
+         he'd caused them millions in (unsubstantiated) damages. With
+         good behaviour, Kevin should be out in time for the fall of
+         Babylon at the end of the millennium. Not that he'll be able
+         to have much of a life after that: the judge's release
+         conditions included (from Wired News) a three year ban on
+         "access to computer hardware and software as well as any form
+         of wireless communication... he will also not be permitted
+         to be employed with a company that has computers or computer
+         access on its premises. He is further prohibited from
+         possessing any kind of passwords, cellular phone codes, or
+         data encryption devices. And the conditions of his release
+         ban access to any new or future technology that may act as a
+         computer or provide access to one." Which means by our
+         estimation that about the only job he *could* get is as a high
+         court judge.
+http://www.wired.com/news/print_version/politics/story/21197.html?wnpg=all
+- things that have changed since Kevin was imprisoned: wired.com readable 
+         http://www.kevinmitnick.com/home.html
+         - ... crackers learn how to craft press releases
+
+         We don't usually get a peep from BT's MARTLESHAM LABS (it's
+         hard to type when you have one of those Cochrane
+         portable offices hanging manacle-like off your wrist), so
+         we'll run this as "spookily unsubstantiated". An anonymous
+         tipster writes: "300 R&D engineers currently living in the
+         technological Dark Ages at BT Labs are to be dragged kicking
+         and screaming into the exciting 'new' world of...
+         er...TCP/IP." A big chunk of budget and R&D (which whenever
+         we try to find out what they're doing, seems to be MIT Media
+         Lab research with a BT logo stuck on the top) is currently
+         on hold as Britain's greatest minds are dragged kicking and
+         screaming into 1994. Which might, our correspondent says,
+         explain why ADSL is taking so long to deliver. Far be it
+         from us to be so charitable... Oh, and they've renamed it
+         Adastral Park. Well, it worked for Windscale, didn't it?
+         http://www.labs.bt.com/
+                           - remember folks, not from the work e-mail
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+         
+         second chance to see: http://www.eclipse99.co.uk/... KANSAS
+         school board drops evolution - cites "all that Kevin Kelly
+         bullshit" as clincher... PACE modems - Falco!... could do
+         better: http://www.openclassroom.org/services/ (and what did
+         they do to Tux's arm?)... FIREFLY Website shut down by
+         MICROSOFT: salt ploughed into soil, wives and sons sold into
+         slavery... the (electromagnetic) force is strong in these
+         ones! http://centres.iee.org.uk/Younger/YMC/challenge.htm
+         ... http://www.netscapeonline.co.uk/ runs AOLServer, exim...
+         textual doh: finger status@gate.demon.co.uk (page down to
+         15:25 Aug 12)... IRIDIUM defaults on loans - bankers: watch
+         out for those reverse-charge calls... Met Office uses
+         supercomputer capable of "80,000 calculations a second",
+         reports TELEGRAPH... AOL running "No wonder we're number
+         one" TV ads again - "number one" what, exactly?... even
+         "whiny crybabies" use proper capitals for AGENCY.COM:
+         http://209.10.98.26/forumspost/message_board.cfm?cfapp=5&forum_id=6043
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         A "computer/communications-related" sandcastle contest and
+         the "Hacker Jeopardy" quiz (finding their own uses for
+         Coronation Street trivia) are the main sideshows tempting us
+         to Blackpool this Saturday for the SECONDARY DNS CON (from
+         Fri evening 1999-08-13/15, Norbrek Castle Hotel) - though
+         their News page reveals that the prizes might just be dusty
+         old DOS books that other delegates are trying to get rid of.
+         Handily, there's a "genuine" computer security conference on
+         at around the same time, with a sliding entrance tariff -
+         newbie, hacker, elite etc - incorporating donations to some
+         sort of charity. *Which* charity, they don't say, but c'mon
+         - if you can't trust this country's brilliant, misguided
+         youth, who can you trust?
+         http://www.dnscon.org/
+                           - so, next year will it be *Tertiary* DNS Con?
+
+         And having missed last week's Edinburgh Fringe round-up by
+         failing to put risible trigger-words "multimedia", "cyber"
+         or "virtual" in their programme description, Quake movie
+         pioneers STRANGE COMPANY got in touch to plug their
+         "Machinima Showcase" of 3D realtime animations (oh, alright
+         - Quake movies) on every day at 4.30-5.30pm, the Outhouse
+         Cafe Bar, Broughton St Lane, Edinburgh until 1999-09-03,
+         admission free. From the folks who brought you Eschaton:
+         Darkening Twilight and Eschaton: Nightfall comes a demo, a
+         talk, and the world preview of the "Special Edition" of
+         Eschaton: Nightfall, featuring "proper emotions and
+         lip-synching" and a female character who looks "less like a
+         man in drag". T-shirts will also be on sale bearing Strange
+         Company's viral new slogan: "Memes don't exist. Tell your
+         friends."
+         http://www.strangecompany.org/
+             - hey, it's no "Homosexual Film Reviewers" [NTK 1999-07-31]
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         We're sure there's a very good reason why the Independent
+         and Guardian make it so chokingly hard to search through
+         their back-issues online. It's definitely not that if
+         *everyone* could trawl the clippings library, everyone would
+         realise quite how lame those Pass Notes columns were, or you
+         could tabulate the massive inconsistencies of all their
+         columnists . No, no, no: Must be some very complex licensing
+         issue. Which makes it all the odder when the FT opens up
+         their archive - which includes full-text lists of the above
+         papers, plus 3,000 global news sources like Newsbytes, The
+         Economist, Der Spiegel, and the American Paints and Coatings
+         Journal, entirely for free. It's just for the next ten days,
+         and the missing chunks, poor formatting, and typos are a bit
+         distracting (people *pay* for this?) but if you're really
+         handy with your Perl, that should let you pull down the
+         whole of the last three years' news in one gulp. You're
+         supposed to register and give the FT your postcode. Say
+         thank you to Mr Login-Cypherpunk Password-Cypherpunk,
+         everyone.
+         http://www.ft.com/
+                         - more Guardian text than the Guardian's own
+         http://www.independent.co.uk/
+                                - it thinks it's unarchived - do you?
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         FREEEEEEEDOM! http://www.guestdirect.co.uk/sco/ ... One2One:
+         We Have Ways Of Making Your Talktime ... don't stare at
+         http://sohowww.nascom.nasa.gov/data/realtime-update.html ...
+         playing SOUTH PARK at 0.7 speed to hear Matt & Trey's real
+         voices ... ironic "must-see" recommendations
+         http://www.blindsidereviews.com/ ... Check out the titles on
+http://3626035430/cgi/get?ff_join:!NEW_COOKY*itn/ord=NEWREC,itn/air/unitedair
+         http://mappa.mundi.net/ ... BIG-TRAK gets go-faster stripes
+         http://www.turboz.com/ ... http://www.slashdot.org/favicon.ico -
+         exactly ... "quality alternative to Mountain Dew... superior
+         in taste to Dr Pepper" - shock of the NEW JOLTS
+         http://www.joltcola.com/newflav.html ... Chris Morris+Peter
+         Cook= http://www.geocities.com/SunsetStrip/Street/4229/ ... 
+
+
+                               >> GEEK MEDIA << 
+                    GM that forms part of your weekly diet 
+          
+         TV>> post-Austin Powers, that "Nude Practice" gag is wearing
+         a bit thin in THE ARMSTRONG AND MILLER SHOW (10.30pm, Fri,
+         C4) - Stryka, however, rock... 4Later reshow pop video
+         director profiles MIRRORBALL (1.10am, Fri, C4) - this week,
+         featuring Spike "Sabotage" Jonze... plus an attempt "to
+         unravel mysteries of the human condition" in BLESSING AND
+         CURSE (3.15am, Fri, C4) - via the expert aid of Damon Albarn
+         (a blessing if it stops him singing), and accursed
+         "comedienne" Jenny Eclair... remember, you must "think in
+         Russian" to enjoy Eastwood's lengthy preamble to laserdisc
+         arcade classic FIREFOX (2.45pm, Sat, most ITV)... two "geek"
+         brothers are the enemy of soon-to-be-axed techno tosh BUGS
+         (6.05pm, Sat, BBC1)... not to be confused with a mother's
+         struggle to educate her two autistic sons in VIDEO DIARIES
+         (11.55pm, Sun, BBC2)... David Duchovny shows more than just
+         his admiration in the last ever LARRY SANDERS (10.55pm, Sun,
+         BBC2)... followed by the underrated second part of Kevin
+         Smith's "New Jersey" trilogy, MALLRATS (11.55pm, Sun,
+         BBC2)... and while it's good to have POP-UP VIDEO back
+         (10.30am, Mon, C4), half the captions are now obscured by
+         "The Bigger Breakfast" logo... former BT ad girl "No Dad I
+         want to talk to you!" is buried alive in
+         clearly-commissioned-last-summer road-protester drama
+         UNDERGROUND (10.40pm, Mon, C4)... the Soundgarden title
+         sequence is the most exciting bit of well-meaning slacker
+         media satire SFW (11.45pm, Mon, C4)... and does Paula Yates
+         think her "auto-erotic asphyxiation, not suicide" theory
+         will somehow enhance her ex's reputation in IN EXCESS: DEATH
+         OF MICHAEL HUTCHENCE (10pm, Tue, C4)?... in Japan, leisurely
+         Robert Redford pseudo-clipper chip hacker romp SNEAKERS
+         (10.20pm, Wed, BBC1) is known as "Cybernet", while their
+         late-night low-budget video games round-up is called
+         "Sneakers"... and what are the chances that they can't
+         afford any lengthy "Indiana Jones And The Raiders Of The
+         Lost Ark" (sic) clips for the "real" backstory in SECRET
+         HISTORY SPECIAL: HITLER'S SEARCH FOR THE HOLY GRAIL (8.30pm,
+         Thu, C4)?...
+
+         FILM>> oddly, intentionally unpleasant juvenile steampunk
+         Bond spoof WILD WILD WEST (http://www.capalert.com/ : a
+         realistic self stab with a knife to deflate a prosthetic
+         device; talk of slaughtering women and children for target
+         practice; normally fatal fall; implied nudity; fight while
+         nude; sequence of homosexual suggestion; discussion of how
+         false breasts can be made to feel more realistic) isn't
+         *too* bad - at least by the paltry standards of Warner
+         blockbuster TV remakes (The Avengers, Batman And Robin) and
+         Barry Sonnenfeld (Men In Black, The Addams Family, Get
+         Shorty). Plus, it gets a comprehensive entry at the
+         "Celebrity Nudity Database" http://cndb.com/ , while
+         Entertainment Weekly makes the pertinent point about the
+         poster: who the hell is going to go see it because they
+         *think it's a Kevin Kline movie?*... otherwise it's a choice
+         between Larry "Kids" Clark's competent James Woods/ Melanie
+         Griffith drug-odyssey ANOTHER DAY IN PARADISE
+         (http://www.bbfc.co.uk/ : uncut, passed '18' for coarse
+         language, sex, drug use and gory violence) - not, it
+         appears, based around the Phil Collins song of the same
+         name... or Sean Connery/ Gillian Anderson / Angelina
+         "Hackers" Jolie in luvvie-duvvie yuppie ensemble drama
+         PLAYING BY HEART (imdb: previously called "Dancing About
+         Architecture" till they got warned off by recent Irish
+         non-starter "Dancing At Lufthansa"). And anyway, the quote
+         is "writing about music" is like "dancing about
+         architecture", not "talking about love". Isn't it?...
+
+         BUMPER "BONERS" SUMMER SPECIAL>> well done to all of you who
+         pointed out minor errors in our traditionally lackadaisical
+         silly season issues, with the share-the-schadenfreude award
+         going to JIM HUGUELET, the only person to spot that NTK
+         1999-07-30's mention of "Imprise" should - of course - been
+         "Inprise". "Long live Delphi!" Jim concludes - and we're
+         sure he means the programming language, not the short-lived
+         pseudo-ISP... erstwhile "Internet Weatherman" JAMES COATES
+         clarified our "Orange Wildfire Easter Eggs" coverage [also
+         NTK 1999-07-30] by emphasising that you need to say "Do me a
+         favour" before "I'm depressed". The fact that responses
+         include "When that happens to me I just break out my William
+         Shatner album" has been drawn to the attention of the LA
+         County Coroner's office... PHILIP CORNER was justly
+         aggrieved over our butchery of his World Of Amiga report
+         [NTK 1999-07-30 - look, it was a busy week, OK?], fearing
+         some readers would think the "new" Amiga was still 18 months
+         away. Hey, 5 months, 18 months - what's a year or so when
+         you've already waited nearly a decade?... and, finally, no
+         less than two readers leapt to the defence of QNX, following
+         our reporting of a claim in - you guessed it - NTK
+         1999-07-30 that it "has less of an industry profile today
+         than the Atari ST". MALCOLM PACK asserts it to be
+         indispensable for "real-time data capture and manipulation
+         in the power generation industry", while swelling, perky
+         tipster king LLOYD WOOD chipped in with: "All but one of our
+         orbiting satellites run QNX. UoSAT-2 runs Forth." NTK
+         regrets that this correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+                    "no joke here - we just liked the URL"
+                            http://www.doh.gov.uk/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

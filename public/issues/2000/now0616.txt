@@ -1,0 +1,305 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-06-16_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "When you people do business with artists, you have to take
+         a different view of things. We want to be treated with the
+         respect that now goes to Web designers."
+                          - COURTNEY LOVE, member of the "slave-class" 
+                   http://www.salon.com/tech/feature/2000/06/14/love/
+              ...swap you the free Adobe mousemat for drugs, groupies
+
+
+                                >> HARD NEWS <<
+                                universal abuse
+
+         Oh, so *now* everyone's saying RIP's bad? As the bill enters
+         the Lords, the Guardian ("disgraceful"), the Observer ("your
+         privacy ends here"), the Financial Times ("objectionable"),
+         the Independent ("crass"), the Evening Standard ("a
+         nightmare out of George Orwell") and even Computer Weekly
+         ("torpedo the bill") finally spotted the deliberate mistakes.
+         Jack Straw took up the shaky defence: the idea of "black
+         boxes" sending data to the new interception centre from ISPs
+         was ridiculous, he wrote to the Times. Hmm. Given that the
+         Home Office's own commissioned report described the nature
+         of these boxes in some detail, what replacement does he have
+         in mind? Encrypted pigeon post? On a second front in the
+         Financial Times, his letter pooh-poohed the British Chamber
+         of Commerce's estimate of up to 46 billion UKP lost by
+         e-commerce skiddadling abroad post-RIP. Nonsense, he said:
+         e-commerce only amounts to 0.6% of GDP: less than five
+         billion. But the Chamber was talking about over five years,
+         Minister; and they were using *your* estimates of a global
+         e-commerce marketplace of 800UKP billion by 2005, with a 5%
+         hold in the UK (2.5% with RIP in place). Incidentally, your
+         estimate's off a bit: IDC research guessed last week that
+         the worldwide market would bring in $1700 billion (1100UKP
+         billion) in *three* years time. Although frankly, we stopped
+         counting after the first billion pounds worth of tax
+         revenue. How many black boxes you could buy with that?
+         http://www.homeoffice.gov.uk/oicd/techcost.pdf
+                                        - about as many as you'd need
+         http://www.fipr.org/rip/
+                                          - getting a bit hot in here
+
+         God knows, we now have a in-depth knowledge of mail gateway
+         filtering - for those of you not reading this, for example,
+         the www.isfuckingbrilliant.com link in memepool meant this
+         wasn't delivered to your work address. Sorry. But some
+         bounces are stranger than others. Take the Redhat developer
+         who was asked to mark all his mail UNCLASSIFIED before it
+         was accepted by an Australian defence site. Or this sinister
+         message, received by someone trying to mail a
+         friend at London Electricity: "London Electricity has...
+         temporarily stopped this e-mail. If the attachment is found
+         not to comply with company policy, the message may be
+         deleted and, in certain circumstances, action will be taken
+         against the LE staff member who has sent the message or was
+         the intended recipient." Sacking people because they get
+         sent attachments? Is this some kind of remote-controlled
+         Falco? 
+         http://www.londonelec.co.uk/
+                    - devoting rather too much energy to us, we think
+         http://www.ananova.com/news/story/sm_6686.html
+                    - but do be careful where you're bouncing them to
+
+         It says something about a man that he can still throw a hell
+         of a party, even while dead. The string of Paul Farrington
+         [NTK 2000-05-05] wakes reaches a peak this Saturday 2230, when
+         friends of Paul meet at Unit Q, Liquid Studio, Wallace Road,
+         Hackney Wick (dir. opp. Hackney Wick BR statin). Dresscode:
+         stupid, rubber, or s&m, it says here, although we're betting
+         a mexican look would fit right in. And for all intents and
+         purposes, you too are now a friend of Paul - "who would have
+         promptly abandoned any party which contained only people he
+         already knew". Our suggestion: invite along that very cool
+         person you've fancied for ages. Or that quiet smart kid
+         you've wanted to spend more time with. Be nice. Be nicer.
+         Send GIFs.
+         http://www1.cex.co.uk/about/default.asp?page=ftn
+                     - don't bring a hard drive you want checking out
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.davidicke.com/ says NETWORK SOLUTIONS part of
+         international Illuminati conspiracy - well, duh... Falco
+         takes THE-BULLET.COM (always thought that Friday newsletter
+         idea was doomed) ... will the public never tire of public
+         MACOS crashes? http://www.ntk.net/2000/06/16/dohohare.jpg ...
+         instant FALCOed by everyone: http://www.recordtv.com/ ... 
+         "diversity of wildlife around Chernobyl stuns biologists",
+         says unduly upbeat report... spot the bored headline writers 
+         http://www.ntk.net/2000/06/16/dohetry.jpg ... a more epic form: 
+         http://www.ntk.net/2000/06/16/dohlycos.gif ... i've seen things 
+         you people wouldn't believe: wheely-bins on fire off 
+         the A34: http://www.thisiswalsall.co.uk/ ... polite hint 
+         to http://www.the-times.co.uk/fantasy/ coders: using
+         consecutive pins from 123400 upwards really isn't that secure ...
+         http://www.ntk.net/2000/06/16/dannybaker.gif : figures ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         No, this isn't "Yet Another" plug for YET ANOTHER PERL
+         CONFERENCE 19100; last week's issue incorrectly implied that
+         YAPC was this week, when in fact it's next week - we can
+         never remember which of those pesky localtime() indices
+         start with 1 or 0.  Anyway, going by the number of tips
+         we've received about it, it's not going to be a patch on the
+         VXSLAB BIRTHDAY PARTY (from 8pm, Sat 2000-06-17, a "strange
+         North London location"), featuring free booze, fireworks,
+         geek DJs, "Pure Perl code generating 'dance music' and
+         ambience - some of this perl will be written live", plus, of
+         course, "live electronica from the legendary Ashley Pomeroy,
+         live via 10mb ethernet from a small box in the corner of the
+         room". Can these guys show you a good time, or what?
+         http://www.lurk.org/birthday/
+                - "Look, over there - someone's having a 'good time'..."
+         http://www.noaltgirls.org/tech_nicks/
+          - meanwhile, NTK fave 386DX plays "Living Mute", Fri 23-Sun 25
+         http://www.dcs.warwick.ac.uk/bshm/meetings.html#crypt
+             - next week: trips to see noted historical comedy, U-571
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         We can't quite see the Omigo/AOL Instant Messaging fracas as
+         being the next "battle for the desktop", frankly. Man,
+         it's only *chat*. But if your Linux desktop is currently
+         being occupied by the amassed forces of weirdo incompatible IM
+         clients, maybe you should try EVERYBUDDY, the slutty chat client
+         that does it with everyone. AIM, Yahoo, MSN and ICQ support
+         is included; multiple accounts can be attached to single
+         individuals, and the interface doesn't look like it was
+         created with a Glade-enabled crayon. It's not quite the
+         high-falutin' super-engineered project of the Jabber guys -
+         but man, it's only *chat*.
+         http://www.everybuddy.com/
+      - altho every other Freshmeat package is a IM client these days
+         http://www.jabber.org/
+                                          - dem call me Mr_Loverman310
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Foo Quest as the next "Zen and the Art of Foo" ... in that 
+         Slashdot ad for Open Source Magazine, has someone poked
+         out Tux's eyes, or what? ... whatever happened to Miss Boo?
+         http://www.skintwo.co.uk/fetishdoll/fetishdoll.htm ...
+         graphic teletext http://www.bsc.org.uk/bullitin/cnttxt.htm
+         ... watch Nathan go potty with time-lapse POWERPOINT:
+         http://www.research.microsoft.com/acm97/nm/tsld032.htm ... Barley o'
+         the week: http://www.chinwag.com/uk-netmarketing/msg01281.shtml ...
+         WAPped to death - http://www.freeprotocols.org/wapTrap/one/main.html 
+         brutally honest FAQs: http://www.connex.co.uk/connex/faq.nsf/wFAQ vs
+         http://www.isfuckingbrilliant.com/faq/ ... life imitates South Park:
+         http://www.ananova.com/news/story/crime_us-animal-cruelty_39859.html
+         just don't blame us when he's in a smartgroups ad:
+         http://www.geocities.com/walters_mission/ ...
+
+
+                                >> GEEK MEDIA <<
+                    the less rude http://www.tvgohome.com/
+
+         TV>> after apparently being completely taken in by fake
+         "extreme wrestling" (as previously exposed by Louis Theroux),
+         RUBY WAX'S AMERICAN PIE (10pm, Sun, BBC2) continues its
+         (unintentional?) theme of falling for well-known media hoaxes,
+         with a visit to Ron Harris, who sells supermodel eggs online:
+         www.ntk.net/index.cgi?back=archive99/now1029.txt&line=52#l ...
+         in place of virtual reality, the Wachowski brothers settle on
+         lipstick lesbianism as the gimmick for their pre-Matrix debut
+         BOUND (10pm, Sun, C4)... and Mark Cousins presents a double-
+         bill of dated-looking Nic Roeg eroticism, starting with
+         obligatory Jenny Agutter nudity yawn WALKABOUT (from 10pm,
+         Sun, BBC2)... unamusing "insights" into the nature of comedy
+         punctuate an unamusing live set of STAND UP WITH ALAN DAVIES
+         (10.40pm, Mon, BBC1)... another great excuse not to hoover, as
+         EAT DIRT (9pm, Tue, C4) proposes that dirt and germs are
+         essential for a healthy immune system - just like hackers
+         highlight vital security flaws, eh kids?... while WHO WOULD
+         WANT TO MARRY A MILLIONAIRE? (9pm, Wed, C4) combines all the
+         benefits of showing the notorious US publicity backfire, plus
+         all the critical distance of a serious documentary... RIVER
+         DEEP, MOUNTAIN HIGH (8pm, Thu, BBC1) transplants the usual
+         poorly play-tested survival contests to the Lake District -
+         hopefully featuring the Ike & Tina Turner wife-beating anthem
+         of the same name... it's Terminator rip-off week on C5 - again
+         - with Mario Van Peebles playing rogue cyborg soldier SOLO
+         (9pm, Thu, C5)... and the BBC celebrates 10 years of THE
+         SIMPSONS (6pm, Fri, BBC2) - albeit on a totally different
+         channel, notes the show's least enthusiatic fanatic, over at
+         http://www.buzzcola.co.uk/simpsons/bbc/#night ...
+
+         FILM>> it's extensively re-cut (with sex scenes featuring
+         completely different actors), and wildly derivative of
+         everything from "Event Horizon" to "The Fly" - but hey, it's
+         *big-screen sci-fi*, as James "Stargate" Spader and Angela
+         "Strange Days" Bassett justify some suitably explosive digital
+         F/X in SUPERNOVA (http://www.screenit.com/: Lou Diamond
+         Phillips plays a medical technician who has sex with Danika,
+         becomes obsessed with the alien artifact, and briefly uses
+         profanity)... "Back To The Future meets The Sixth Sense" - ie
+         "The Sixth Sense, but with some sort of plot" - claims the
+         poster for intricate cross-causality save-your-parents fantasy
+         FREQUENCY (imdb: time-travel / firefighting / ham-radio /
+         serial-killer / world-series / nurse / alternate-timeline /
+         police / aurora-borealis / skeleton / baseball) - a
+         superstring-enabled adaptation of the Mike And The [Quantum]
+         Mechanics song "In The Living Years"... Sam "Evil Dead" Raimi
+         remakes "Jerry Maguire" in erratically-articled FOR THE LOVE
+         OF GAME (http://www.capalert.com/ : immoral cohabitation
+         between an unmarried heterosexual couple who engage in all
+         manner of behavior), with Kelly Preston in exactly the same
+         role, and Kevin Costner as a bloke attempting a "perfect game"
+         of baseball, which seems to be similar to the time that guy
+         clocked Pacman or something... leaving this week's only major
+         dud: Sandra Bullock rehabilitating everything *except her
+         career* in ill-judged alcoholism comedy 28 DAYS (imdb: alcohol-
+         abuse / drug-rehabilitation / rehabilitation / sister /
+         wedding / alcohol-problem / alcohol / motor-car-crash / drug-
+         abuse / drug-overdose)...
+
+         FEEBDACK>> (In something resembling chronological order, for
+         once.) Following the remarkable "Why does the Onion keep
+         stealing all our jokes?" allegations from Smeg magazine [NTK
+         2000-05-26], keen-eyed STEVEN SNEDKER realised that psychic
+         clairvoyance offers yet another explanation: Smeg claim they
+         "wrote the original version 3 years ago", yet the line "hot
+         sweaty rest-room meeting with pop star George Michael" is
+         oddly prophetic of Michael's actual arrest in April 1998:
+http://mrshowbiz.go.com/archive/news/Todays_Stories/980409/michael40998.html
+         - just over two years ago... our "musical soundalike" section
+         [NTK 2000-06-02] looks set to return to its regular monthly
+         slot (unless we receive more complaints - and soon!), with
+         ALAN "HAMILTON" CONNOR wishing he'd mentioned his own
+         "crackpot theory" that "Britney's ['Oops I Did It Again']
+         derives its chorus melody from Woman In Love as performed by
+         Barbara Streisand", and ADRIAN MOULDER contending that the
+         Buffalo Girls' "Really Saying Something" was clearly "based on
+         NTK favourites DAPHNE AND CELESTE's entire [one-hit] career",
+         further noting that D&C's latest release, "U.G.L.Y", "does not
+         appear to be a cover of the Pop Will Eat Itself track of the
+         same name"... bang up-to-date now, thanks to everyone who
+         spotted that a) LineOne is no longer part-owned by News
+         International [NTK 2000-06-09] ("the Great Satan used to have
+         a one-third stake in us", writes one relieved employee), but
+         by United News And Media (ie The Daily Express), and b) that
+         the "Transdiffusion" CD [also 2000-06-09] doesn't seem to be
+         free either, despite both our claims to the contrary... and
+         finally, sightings flooded in for last week's "Confectionery
+         Theory" listings of: COLA SMARTIES (opinions range from "More
+         boring than ordinary Smarties" to "Shouldn't work, but they
+         do"); the previously unsuspected JELLY AND ICE CREAM FRUIT
+         PASTILLES ("A bit of a revelation, though making every second
+         one the slightly sickly vanilla is a bit much"); "Frozen
+         Carbonated Drink" ICE BLAST (not sampled, but now emblazoning
+         the side of the "Playstation" ride on Blackpool Pleasure
+         Beach); and, finally, NESTLE ROWNTREE BURSTING BUGS, which
+         "have been available almost a week from Miles newsagents on
+         Cheetham Hill Road in Manchester (they always have the latest
+         special editions and newest products!)". "The fun," our
+         correspondent writes, "is bursting them - they go like boils
+         given the right sort of squeeze between the fingers, the sweet
+         red ichor being a bit too thick to truly squirt", eliciting
+         the comment "like something just had an orgasm in my mouth"
+         from one colleague. NTK regrets that this correspondence is
+         now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+           one Friday or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+                            "distinctly scabarous"
+                              (Q Magazine, p152)
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

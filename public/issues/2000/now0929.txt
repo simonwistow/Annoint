@@ -1,0 +1,356 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-09-29_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "I was very sorry to hear of the passing of Bryan Smith," King
+          said in a statement. "The death of a 43-year-old man can only
+          be termed untimely."
+                - STEPHEN KING mourns the guy who hit him with that van
+                          http://uk.news.yahoo.com/000926/80/akn1v.html
+         ...the subsequent deaths of all the other townsfolk who failed
+                  to come to my aid - now *that* would be mysterious...
+
+
+                                    >> HARD NEWS <<
+                                    eating our shoes
+
+         Peering points like LINX are one of those weird overhangs of the
+         pre-commercial Net, their quaint share-and-share-alike routing
+         deals all cuddily mutual, and frozen in a time before anyone
+         realised what a lucrative piece of prize co-loc estate they'd turn
+         out to be. It couldn't last. At RIPE 37, an eager new company,
+         iPoint (made up of such old suspec^H^H^H^H^H^H hands as Randy
+         "Verio" Bush, Alex "Cap'n" Bligh, etc) painted in glorious
+         PowerPoint a more modern view. Europe, they say, needs a proper
+         holding company, owning a network of principal exchanges,
+         otherwise those poor little collective farms will run out of cash,
+         bandwidth dust-bowls everywhere, end of the Internet inevitable,
+         GIF at eleven, etc. No prizes for guessing which company iPoint
+         thinks should be Mr Big. There's some good arguments pro (and boy,
+         if you're a ISP kid, will you hear them in the next few weeks),
+         but handing all the European exchanges over to one not-so-.org org
+         would make it a reeaal pretty target for the big telco carrier
+         multinationals. iPoint say that they'll plant the routers and
+         cages with a contractual minefield that'll stop such a takeover.
+         But when the legal eagles of the multi-nationals come dive-
+         bombing, are you sure you want to put all the tasty eggs in one
+         handy basket?
+     http://www.ripe.net/ripe/mail-archives/eix-wg/current/msg00009.html
+                                       - yeah, look what happened to Russia
+         http://www.nic.uk/nominet/arts.html
+                - although, to be fair, it hasn't happened to Nominet. Yet?
+
+         The Labour Party Conference hall *is* hot this year, but we think
+         something else's bringing the previously gung-ho Regulation of
+         Investigatory Power-mongers out in a sweat. Jack Straw ducks out
+         of an online chat at the last minute; the Lib-Dems call for a RIP
+         repeal next government; Patricia Hewitt suddenly starts putting
+         the "RIP saves us from pedophiles" mantra into heavy rotation.
+         Has the government finally clocked what a hasty civil rights
+         nightmare they've wrought? Work on enforcing the law has now hit a
+         speed-bump, with the new schedule for releasing its accompanying
+         Codes of Practice. RIP doesn't truly come into play until these
+         extra-parliamentary rules are published: and the schedule is much
+         longer than the governor's implied: the interception regulation
+         draft appeared this week, rules for grabbing traffic data (ie URL
+         snooping) is delayed until April 2001, and the private key seizure
+         bit won't happen for another year. A chunk of each of these is
+         taken up in a "consultative period". Judging from how carefully
+         the listening government paid heed to the last - three? four? -
+         consultations, we're viewing this as a "find out what they're
+         going to moan about next, and try and cut them off at the pass",
+         but you never know. Send your suggestions on the interception regs
+         by the 17th November: but remember, they only accept Word files.
+         Well, security, openness and privacy in government are important,
+         aren't they?
+         http://deniability.org/uk-crypto/sep-oct/0383.shtml
+                              - that should stop those Unix security freaks
+         http://www.fipr.org/rip/#Resources
+                                                     - and their pesky mutt
+         http://www.vnunet.com/News/1111590
+       - "my first reaction was this is ridiculous" - Hewitt on free speech
+
+         As is so often the case, another NTK side-project that began
+         as a bit of harmless fun has swiftly descended into bitter ad
+         hominem attacks, leaving us on the sidelines and wondering if
+         perhaps this wasn't what we'd subconsciously hoped for all
+         along. Thanks to everyone who posted their goof-spotting
+         comments for BBC2's ATTACHMENTS on Tue - many simultaneous
+         with transmission, for that full "Mystery Science Theater
+         3000" effect. Contenders for the first week's eagle-eyed "I
+         Spy" award include OGDEN's "net startup [doing] file transfer
+         by throwing floppy disks across the office", SKOOB's "Laserjet
+         5 printing... with the colour text coming out on top! Text is
+         face down, and it should be b+w anyway", and THE ARTFUL
+         BADGER's "NO O'REILLY BOOKS!?! Deleting from root on Unix w/o
+         rm -i aliased to rm? Also who the hell would give a designer
+         root access?". The first episode gets a repeat at 12.30am on
+         Sat, so there's still time for you to take part - unless of
+         course you agree with the inspirationally paranoid suggestion
+         of WOODEN SPOON, who proposed that the near-constant stream of
+         criticism was merely an ingenious "affiliate marketing scheme
+         for you and your mates at TVgohome and their mates at BBC2".
+         http://www.everyonehatesattachments.com/
+                         - well, let's hope *they* see it that way, anyway
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         pallid "Unnovations" imitator INNOVATIONS put MACOS 8 on your
+         TV for 100 quid: http://www.ntk.net/2000/09/22/dohinnov.jpg
+         ... http://www.ntk.net/2000/09/29/dohlotto.gif - BACK *OFF*,
+         BRUSSELS!... when oh when oh when will the public tire of
+         inappropriate "How To Negotiate The Best Car Deal" sidebars?
+         http://dailynews.yahoo.com/h/2000/20000926/lo/212606_6.html
+         ... well, you wouldn't want Windows-incompatible PENS, would
+         you? http://www.amazon.co.uk/exec/obidos/ASIN/B00004XS51/ ...
+         "We cannot send bills in plain text as it is an unsecure
+         format in which any person can get hold of your bill," reveal
+         FREESERVE support, pioneers of encrypted HTML mail. "Outlook
+         Express will automatically decipher an E-Mail into a format
+         you can understand"... link to "Modernising Government White
+         Paper" http://www.e-envoy.gov.uk/egov_index.htm - gives 404...
+         you can't catch it via "Welcome to Adobe GoLive" <title> tags:
+      http://www.stanford.edu/group/virus/herpes/2000/herpes2000v1.html
+         ... http://www.McAfee.com/ *requires* scripting to be switched
+         on, possibly for some of that sneaky "viral marketing"...
+         http://www.sugababes.co.uk/cgi-bin/logs/analog - and they call
+         it "popular" music?...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         From the UK UNIX USER GROUP, the folks who brought you talks
+         by Richard Stallman and Eric Raymond, comes a slightly more
+         corporate-friendly appearance by JAMES GOSLING, Vice President
+         of Sun Microsystems - and "designer" of Emacs - who'll be
+         explaining the circumstances that "led to Java and what
+         today's development community needs next" at 5pm, Wed 2000-10-
+         04, UCL, Gower Street, London WC1. Entry is free, advance
+         booking is not required, and Gosling's party-piece is throwing
+         custard pies at Bill Gates lookalikes, so it might be worth
+         digging out that old billg Halloween costume just to check if
+         it's an automatic reflex...
+         http://www.ukuug.org/events/gosling.shtml
+                                                     - M-x eject-eyeballs !
+
+         "Enjoyed your digs at aspects of [South Kensington arts 'n'
+         science fest] Creating Sparks," congratulated reader Jonathan
+         Hewett, the inevitable preamble to telling us that one of the
+         final shows is actually "thought-provoking", "entertaining"
+         and "a bit different", because he once saw it in "a pub".
+         Recalling those Science Museum reconstructions where actors
+         impersonate historic scientific figures like Galileo, Michael
+         Faraday, or characters from Star Trek, PARACELSUS THE GREAT is
+         a one-man show on the work of the eponymous 16th century
+         alchemist and physician, featuring puppets, multimedia
+         projections, and live on-stage chemistry experiments (they
+         don't mention whether protective eyewear will be provided).
+         It's 3pm, Sat & Sun, UKP5 at the V&A Museum and, at the very
+         least, offers some kind of alternative to the week's
+         apparently endless season of undifferentiated medical-student
+         dramas about ethical dilemmas and "playing God".
+         http://www.britassoc.org.uk/creatingsparks/cs2.htm
+          - click on "Performances". Then, on 2000-10-01, of course it's...
+         http://www.greyday.org
+                 - vs http://www.grayday.org , http://www.ntk.net/grey.html
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The only complex bit of Bruce Schneier's Street Performer
+         Protocol, that crypto God's ingenious solution for remuneration in
+         a copyright-free world, was always going to be getting it *onto*
+         the streets. It's a nice idea, but will it work? Openculture.org
+         is the first non-case-specific implementation we've seen. An
+         artist puts a proposal on the site for a creative work; if you pay
+         up, it publishes; if you don't, they don't bother, and the puppy
+         gets it. Openculture have sorted out some of the minutiae: they're
+         forming as a charity so the donations will be tax-deductible; and
+         they've set up an infrastructure to manage the payments. It
+         doesn't quite ring of killer appness yet - apart from anything
+         else, the 10% fee OpenCulture lops off sounds like a reason for
+         someone to do a cheaper clone. And when fans want to spend their
+         adoration on T-Shirts and merchandise, and artists still crave to
+         be as rich as Britney, getting them to trade up to a more equal
+         relationship will be tricky. But who knows? Maybe artists and fans
+         are smart enough to evade the economic Prisoner's Dilemma they're
+         all heading for. Heck, it worked for Stephen King.
+         http://www.stephenking.com/sk1_082500.html
+      - of course, if you don't pay Stephen, it's not the puppy who gets it
+         http://www.openculture.org/
+                    - let's force Iain M. Banks to do a Technical Reference
+         http://www.firstmonday.dk/issues/issue4_6/kelsey
+  - if only they'd called it the Major Rockstar Who Gets Laid Alot protocol
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         view source of http://www.algore2000.com/ for secret message
+         from inventor-of-the-Internet himself... hey hey, even less
+         than 16K: http://www.retrogames.com/misc/Vcsclip.mov ... real
+         SCI-FI BUFFS: http://www.mbay.net/~cgd/naturism/nudesf.htm -
+         oddly omits cover from "Slave Girls of Gor"... sometimes
+         credited as: "DER FUHRER", not usually noted for his "TV guest
+         appearances" or work as "Actor, Writer, Miscellaneous crew":
+         http://us.imdb.com/Name?Hitler,+Adolf ... When TVGOHOME Fans
+         Go Bad #3: http://nakedchef.freeservers.com/ (strong language,
+         fake cockney accents)... "Please don't emphasise your bell-
+         end" advise http://www.nobscan.com/ ... WEBSITE DEFACER: gigs
+         of warez, seeks "total hard body" with GSOH, Unix experience:
+http://www.attrition.org/mirror/attrition/2000/09/25/www.dominatrixdiva.com/
+         ... presumably using the "All Things Bright And Beautiful"
+         tune - "Have you got an eagle-eye, or the vision of a mole?":
+     http://search.bbc.co.uk/search/search.shtml?DB=all&P=Songs+Of+Praise
+         EVANGELISTS hit on TV fandom: http://www.barneyfife.com/ ...
+         at last, a scientifically rigorous FLUID MECHANICS drinking
+         game: http://www.ast.cam.ac.uk/~pak/misc/hunter.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> in accordance with NTK prophecy, this week's excellent
+         Spike-crossover episode of ANGEL (6pm, Fri, C4) follows on
+         from the Buffy episode "The Harsh Light of Day", which BBC2
+         should be showing in about 2 weeks' time... interchangeable C4
+         Friday evening Brit-com BLACK BOOKS (9.30pm, Fri, C4) appears
+         to be identical to Dylan Moran's HOW DO YOU WANT ME? (11.20pm,
+         Tue-Fri, BBC2), except with Bill Bailey instead of Marmalade
+         Atkins, and set in a bookshop instead of a farm... while Sat
+         becomes a cross-channel shoot-your-celebrities evening, with
+         unexpected fans Paul Weller and Noel Gallagher paying tribute
+         to JOHN LENNON NIGHT (from 9pm, Sat, C4), plus star-studded
+         suspicion-allaying Dando memorial A SONG FOR JILL (8.55pm,
+         Sat, BBC1)... thank goodness for Arnie actioner PREDATOR
+         (10.45pm, Sat, ITV), antichrist sequel DAMIEN - OMEN II
+         (12.40am, Sat, ITV), and John Carpenter's low-budget "Hitch
+         Hiker's Guide To The Galaxy" inspiration DARK STAR (3.50am,
+         Sat, C4)... Joe Dante successfully spoofs "Fantastic Voyage"
+         in tolerable Meg Ryan flick INNERSPACE (2.20pm, Sun, BBC1)...
+         the usual caricatures appear to be spoofing traditional
+         "Blackadder" script cliches in lame Millennium Dome-escapee
+         BLACKADDER BACK AND FORTH (9pm, Sun, Sky1)... and the parodies
+         continue with HOT SHOTS! PART DEUX (9pm, Mon, C5), DARKMAN II:
+         THE RETURN OF DURANT (11.20pm, Mon, BBC1) and Scott "Con Air"
+         Rosenberg's self-explanatory rom-con BEAUTIFUL GIRLS (10pm,
+         Mon, C4)... in a sitcom swap with Daisy Donovan - currently
+         appearing in dire dentistry laughtracker MY FAMILY (8.30pm,
+         Tue, BBC1) - Sarah "Coupling, Smack The Pony" Alexander is now
+         co-hosting THE 11 O'CLOCK SHOW (11pm, Tue-Fri, C4)... and the
+         geek/ pseudo-geek action continues with ATTACHMENTS (9pm, Tue;
+         12.30am, Sat, BBC2); a look at troubled dot-com millionaires
+         in MODERN TIMES (9pm, Thu, BBC2); and Simon "The Code Book"
+         Singh's no-doubt thrilling encrypto-history THE SCIENCE OF
+         SECRECY (9.30pm, Thu, C4)...
+
+         FILM>> after this and "The Saint", Elizabeth Shue must *never
+         be allowed to make an action film again*, as vacuous dialogue
+         and empty special effects implode in Paul Verhoeven's biggest
+         ever disappointment THE HOLLOW MAN (http://www.cndb.com :
+         "Kevin [Bacon] has many nude scenes in this movie, though most
+         of them involve special effects. The first scene has a good,
+         but brief, penis shot"; "You see [Kim Dickens'] breast moving
+         as if it's being caressed but there is no hand there. Brief
+         scene but nice breast"; "We see [Rhona "Tomb Raider" Mitra]
+         wearing a flimsy robe that comes off to expose her breasts.
+         She's probably a model, she has no actual dialogue in her
+         entire role here"; "invisible Bacon watches from the window
+         revealing Elisabeth [Shue]'s cute ass in thong underwear. Not
+         much, but better than nothing")... but, assuming you can avoid
+         the lure of big-screen sci-fi, there's Famke "Dr Jean Grey"
+         Janssen / Jon "Swingers" Favreau's "Sex In The City"-style
+         remake of that bit in "Clerks" where Dante is over-impressed
+         by his girlfriend's previous sexual experience, LOVE AND SEX
+         (http://www.bbfc.co.uk: Passed '15' for strong language, sex
+         and sex references)... or, in the arthouse indies, sickeningly
+         heart-warming "Flashdance" meets "The Full Monty" kids' "be
+         yourself" feelgooder BILLY ELLIOT (http://www.bbfc.co.uk:
+         Passed '15' for strong language)... or the similarly themed,
+         but perhaps visually darker, JULIEN DONKEY-BOY (imdb: mental-
+         illness; independent-film; dogme-95; schizophrenia) - Ewen
+         "Trainspotting" Bremner, Chloe "Last Days Of Disco" Sevigny,
+         and Harmony "Kids" Korine - together at last!...
+
+         OH, THE NATHANITY! - SET YOUR EUDORA "MOODWATCH" FILTERS TO
+         "MAXIMUM CHILIES", IT'S OUR LONG-AWAITED "CUNT" ROUND-UP!>> a
+         hectic month for the dedicated Barley-spotter, as mainstream
+         media outlets, like the "Fashion And Style" bit of THE TIMES
+  http://www.the-times.co.uk/news/pages/tim/2000/08/07/timfeafea02008.html
+         joined the Nathan-bashing bandwagon - accompanied by features
+         discussing a trinket "designed to strengthen the body's
+         natural energy and rhythms" and the "shahtoosh, a gossamer-
+         light shawl" made from antelope fur... NINFOMANIA (or whatever
+         they're calling themselves nowadays) hit unexpected heights of
+         self-parody when they searchingly asked "Why is an obsession
+         with '70s kids TV symptomatic of the New Media condition?"
+         http://www.protein.co.uk/article.asp?id=1771&ch=monitor ...
+         and the "Tristan" who originally caused all the trouble by
+         abusing the "Jamie" who put "I am the real Nathan Barley" on
+         his webpage [NTK 2000-08-04] was good enough to contact us
+         directly with the succinct comeback "And you lot can fuck off
+         as well!"... SIMON CLARE reported that, whilst attempting to
+         sign in to http://www.reachoxbridge.co.uk/ as cunt@cam.ac.uk,
+         "the site 405'ed. Obviously POST is feebly underpowered for
+         the might of the Oxbridge [elite]"... but the readers who
+         explored most fully the self-referential implications of our
+         "I've stumbled across the webpage of a Nathan Barley-style
+         'Cunt' (or, perhaps, I am one!)" appeal were IANs HOLMES and
+         MILLER - one of whom, in a moment of tortured insight,
+         realised "NONE of my friends are *anything like* Nathan
+         Barley... if anything, it is me that comes closest",
+         concluding between them that "the point is, Nathan Barley *IS*
+         the entire crew of NTK... And [they] think [they're] being
+         'self-deprecating' or something. [They're] not. And [they]
+         shouldn't use the word 'cunt' unless [they're] prepared to
+         back it up with [their] fists, the posh London [cunts]"...
+         hohoho, of course we're not - though what we've hopefully all
+         learned from this is "Battle not with Nathans, lest you become
+         a Nathan", a lesson perhaps emphasised by EDWARD WELBOURNE,
+         who thoughtfully cc'd us his advice to Mat Hunt, author of
+         http://members.tripod.co.uk/mathunt/dissertation.html . Ed
+         pointed out that the thesis had mis-spelled "music magazine
+         Uncut" as "Uncunt" in the "Repetition and Over-Use" section,
+         and went on to note that "the characters you have used for
+         left and right quote aren't recognised by HTML standards,
+         which speak of ASCII and 'character entities' for representing
+         anything else, possibly grudgingly allowing the ISO 8859
+         Latin-1 character set." "You need to use the character
+         entities &lsquot; and &rsquot;" Ed explains, in excruciating
+         detail - NTK regrets that this correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            "misfits and weirdoes"
+            http://www.arcataeye.com/police/000919police01.shtml
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

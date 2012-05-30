@@ -1,0 +1,295 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-06-13_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "The commercial value of nanotech stems from the simple fact 
+         that the laws of physics don't apply at the molecular 
+         level..."
+               - Green party MEP Caroline Lucas says "no, no" to nano
+        http://www.guardian.co.uk/comment/story/0,3604,975427,00.html 
+       ...the laws of the European Parliament, on the other hand, are 
+                                      substantially more far-reaching 
+
+
+                               >> HARD NEWS <<
+                               harmonised EUs?
+
+         Noted Roxy Music fan [NTK 2002-10-25] and MEP in charge of
+         software patents ARLENE MCCARTHY has finally revealed on
+         what side she stands on the issue: fiercely pro-vague. After
+         Richard Stallman and Nick Hill wrote a piece in the Guardian 
+         worrying that the proposed EU directive was ambiguous enough
+         to let in US-style software patents, Arlene went on the
+         attack. It's far better to harmonise laws across the EU, she
+         wrote, than to continue with the current mess. (A mess
+         within which software patents are not expressly permitted.)
+         Thankfully, though, RMS has nothing to worry about: "This
+         directive will not have any adverse effects on open source
+         software development", she says, pointing to the success of
+         free software in the USA as proof. (Oddly, she doesn't
+         mention the years of confusion and wasted effort that the
+         LZW GIF patent caused - timely if only because it finally
+         expires next week.) Then she put a bit of damper on it all
+         by declaiming that free software is not free at all, and
+         "actually a different form of monopoly", an argument that 
+         more traditional monopolies have always had a fondness for.
+         Looking on the bright side, Phil Hunt and the CD-Rers on the
+         old free-sklyarov-uk list have written asking her to back up
+         her assurances by providing an explicit exemption for the
+         Evil Monopolistic Open Source Software in the law. Well,
+         it's worth a try, isn't it?
+         http://www.cabalamat.org/weblog/art_29.html
+                        - if only sarcasm could overturn bureacracies
+         http://petition.eurolinux.org/pr/pr17.html
+           - software patents literally slipping in on a technicality
+
+         Talking of trying, you'll be glad to know that the British 
+         Code of Advertising, Sales Promotion and Direct Marketing 
+         now officially disapproves of unsolicited commercial email. 
+         So, every time a UK company (with whom you don't already
+         have some sort of relationship) mails you without asking,
+         you can mail the ASA and ask them what they're going to do
+         about it. There's some godawful online form without a proper
+         URL to fill in, and if Barry Dorran's experience with a WH
+         Smith spam (below) is anything to go by, you can expect a
+         long wait. But do it anyway, and let us know what happens.
+         It'll be worth documenting exactly how seriously
+         self-regulation is taken by spamming UK businesses.
+         Especially as the government appears to be backsliding a bit
+         about how it implements the EU's own rather more stringent
+         anti-spam legislation. Apparently, a consultation with the
+         marketing folk has already persuaded them that a simple,
+         obligatory "ADV" in the headers could "restrict legitimate
+         commercial/ entrepreneurial creativity and scope". Sigh.
+         http://www.asa.org.uk/newcomplainbnm/
+                                                 - all new complaints
+         http://oberon.idunno.org/whspam/
+                                               - Barry sits and waits
+         http://tinyurl.com/e8cd
+                                                      - DTI wimps out
+
+         We've been assured that the brief and temporary unavailability 
+         of THE REGISTER's "Vulture Capitalist" ISP last month was due 
+         to a "problem with the DNS" - rather than, say, the company 
+         dispatching their black ops team of Lester Haines And Kieren 
+         McCarthy to the farthest reaches of the North Atlantic to 
+         found a offshore data haven there. Nonetheless, the duo - also 
+         responsible for relentless UK satire site THE ROCKALL TIMES - 
+         appear determined to visit the remote rocky outcrop of the 
+         same name on around July 19th of this year, in a bid to raise 
+         money for the charity Mental Health Media. The trip, which 
+         involves about two days of sailing out to Rockall, then a 
+         daring attempt on its guano-spattered summit, is costing about 
+         UKP5,000 in all, and there's still time for you to contribute 
+         in the form of corporate sponsorship, buying one of their 
+         collector's edition t-shirts, or just PayPal-ing them some 
+         loose cyberchange. Let's face it, 5 grand to send two of the 
+         UK's top web satirists to a windswept lump of granite in the 
+         Atlantic ocean has never been cheaper - and, as the old joke 
+         puts it: how much to send them all there?
+         http://www.therockalltimes.co.uk/rockall-ho/
+                  - all documented in appropriately terrifying detail
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "somehow it just seemed like the right time to mention this": 
+         http://www.ntk.net/2003/06/13/dohv.gif ... huh, no option to 
+         "visit our text-only version"?: http://www.usability.co.uk ... 
+         "If this had happened 10 years ago, when the internet didn't 
+         exist, [former New York Times editor] Raines would still be 
+         running the place", asserts rigorously factchecking blogger: 
+         http://www.timesonline.co.uk/newspaper/0,,176-706335,00.html 
+         ... new thrill! innocently named sites with unfortunate URLS: 
+         http://www.powergenitalia.com/ , http://www.gotahoe.com/ ... 
+         plus (variation on old) thrill - puerile Google spellcheck 
+         fixes: http://www.google.com/search?q=%22Osaka+Bin+Laden%22 , 
+         http://www.google.com/search?q=%22Saddam+Hussies%22 , and 
+         http://www.google.com/search?&q=%22Forsythe+Saga%22 - slightly 
+         different "Generation Game"... shaving minutes off time wasted 
+         in bathroom: http://www.ntk.net/2003/06/13/dohshave.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         A couple of people have written in saying: well, if NTK's not 
+         going to do an "Extreme Computing"-style event this summer 
+         [see NTK 2003-05-09], then maybe they'll just have to organise 
+         one of their own, a trend of which we entirely approve. In the 
+         meantime, the speakers from last year's conference must plough 
+         their lonely solo furrows, with '80s throwback GARY LE STRANGE 
+         unpacking his full-length one-man-show POLAROID SUITCASE (from 
+         next Fri 2003-06-20, Canal Cafe Theatre, London W2, and thence 
+         to the festivals of Edinburgh and York). On the subject of 
+         "leftfield electronica", NTK's Dave Green is supposed to be 
+         joining the Paying the Piper panel at CYBERSONICA (from next 
+         Thu, 2003-06-19, various prices/ London venues), a festival 
+         which also features Howie B, Kid 606, regular fixture DJ 
+         Spooky, and onomatopoeic techno writer David Toop. Then cyber-
+         activist author and polymath CORY DOCTOROW (of The San 
+         Francisco Boing Boing) arrives the week after next, discussing 
+         OPEN SPECTRUM: SETTING THE AIRWAVES FREE? (12:30pm, Tue 2003-
+         06-24, iSociety, London SW1, free but RSVP), and enlivening 
+         the lineup of Alan Cox, Tim O'Reilly and Jon 'maddog' Hall at 
+         THE LINUX USER AND DEVELOPER EXPO 2003 (from Tue 2003-06-24 to 
+         06-26, Birmingham NEC, conference UKP80+VAT but exhibition 
+         free), an event which has now redesigned the menu options on 
+         its website so as not to offend NTK readers' sensibilities. 
+         http://www.linuxuserexpo.com/
+              - vs http://www.ntk.net/index.cgi?b=02003-04-11&l=128#l
+      http://www.workfoundation.com/research/isociety/open_spectrum.jsp
+              - also addressing Oxford Uni SciFi/ Computing societies?
+         http://www.cybersonica.org/festival_programme/
+              - see also http://www.strangeattractor.co.uk/talks.html
+         http://www.garylestrange.co.uk/
+              - and not, as some people have assumed, Danny in a suit
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         It's not often that we let the likes of JavaScript show
+         its mucky face around this gaff, but JESSE RUDERMAN's
+         bookmarklets collection is worth a closer look - especially
+         if you're currently hacking on your imminent CSS redesign.
+         It's your usual pile of slightly-too-many-things to drag to
+         your toolbar, but hidden among the mundane apps are some
+         truly amazing utilities. As described by Simon Willison,
+         Jesse's Gecko-only "edit styles" bookmarklet is astounding:
+         it pops up a little window that shows the CSS style sheet of
+         the current page - then lets you dynamically edit it, with
+         changes being reflected in the page in realtime. Some other
+         corkers: a complete javascript shell (with history);
+         converting textareas in forms into wysiwyg HTML editors;
+         quick validation; highlighting regexps and more. There are
+         even bookmarklets for remotely-loading bookmarklets on
+         someone else's computer that doesn't have your bookmarklets
+         installed. It's like the obfuscated 1K competition of code
+         that actually does something.
+         http://www.squarefree.com/bookmarklets/
+                                                  - the complete list
+       http://simon.incutio.com/archive/2003/06/03/bookmarkletsAndCSS
+                                        - simon's gentler explanation
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         worth persevering: http://scenario.com/ericrice/cyber.txt ... 
+         being "a good cybercitizen" surely requires avoiding Comic 
+         Sans?: http://www.cybercrime.gov/rules/cybercitizen.htm ... 
+         Oxford University takes "ubiquitous internet" slightly too 
+         far: http://www.shahidhussain.com/gallery/Oxford/IMG_0515 ... 
+         "Greg Brady" doll regenerated as "Tom Baker" action figure: 
+         http://www.leviathanstudios.com/figures/who/ ... "pre-WW2"-
+         style scifi features Angelina Jolie and Maggie Philbin - 
+         together at last!: http://www.imdb.com/Title?0346156 ... 
+         character above the "Search" option appears to have Yoda's 
+         head: http://www.inlandrevenue.gov.uk/pensionschemes/ ... 
+         scary thing is, National Lampoon were writing this back in 
+         1984: http://www.nationallampoon.com/flashbacks/wg/hj00.html , 
+         http://www.nationallampoon.com/flashbacks/wg/wg02.html ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> it's camp cameo week all week, with Cher in WILL AND 
+         GRACE (9.30pm, Fri, C4), Julia Roberts in LAW AND ORDER (10pm, 
+         Sat, C5), and Christopher Biggins - as himself! - in BAD GIRLS 
+         (9pm, Thu, ITV)... SPEAR OF CHRIST (9pm, Fri, BBC2) digs out 
+         the religious artefact which seems to have inspired the Nazis, 
+         "Raiders Of The Lost Ark", and Kirk Brandon's 1980s band 
+         "Spear of Destiny"... and STAR WARS EPISODE V: THE EMPIRE 
+         STRIKES BACK (6.45pm, Sat, ITV) certainly would be "the best 
+         one", if it wasn't for bloody Yoda... Chris "Not The Nine 
+         O'Clock News" Langham *is* GEORGE ORWELL - A LIFE IN PICTURES 
+         (9.05pm, Sat, BBC2)... THE REAL ROOM 101 (10.35pm, Sat, BBC4) 
+         turns out to be where the BBC tortured dissident writers... 
+         and TOTAL RECALL (10.25pm, Sat, BBC1) is basically a more 
+         entertaining pre-CGI version of "The Matrix", right down to a 
+         - frankly more dramatic - "take the red pill"... FIGHTING THE 
+         WAR (9pm, Sun, BBC2) is not a "military docusoap", the BBC 
+         protests, too much... gimmicky realtime assassination drama 
+         NICK OF TIME (10.55pm, Sun, BBC1) remains the inspiration for 
+         "24"... and London 2600 http://www.london2600.org.uk/ have 
+         traced the IP quad hilariously hacked in SPOOKS (9pm, Mon, 
+         BBC1) as belonging to the US Navy, rather than MI5... WHAT 
+         THE WORLD THINKS OF AMERICA (9pm, Tue, BBC2) may be partly 
+         explained by pre-Election-2000 fly-on-the-wall JOURNEYS WITH 
+         GEORGE (11.20pm, Wed, BBC2), or indeed all those weird links 
+         to Iran-Contra, Savings and Loans, BBCI, and the Bin Ladens 
+         explored in THE BUSH FAMILY FORTUNES (9pm, Thu, BBC3)... ARE 
+         YOUR KIDS ON DRUGS? (8pm, Wed, C5), inquires Kirsty Young... 
+         if so, consider sending them to a novel environment which does 
+         not evoke conditioned withdrawal symptoms, recommends KILL OR 
+         CURE (9pm, Thu, BBC2)... hope Paxman points out the Star Wars 
+         parallels http://homepage.ntlworld.com/terry.dooher/potter.jpg 
+         when he interviews smug self-congratulatory single parent JK 
+         ROWLING (7.30pm, Thu, BBC2)... the mighty brain of Carol 
+         Vorderman counters with ARE YOU TELEPATHIC? (8.30pm, Thu, 
+         C5)... and the dark sorcery continues in BLAIR WITCH 2: BOOK 
+         OF SHADOWS (10pm, Thu, C5)... 
+         
+         FILM>> John Cusack, Rebecca De Mornay and Clea DuVall head a 
+         star-studded B-list murder mystery with a post-modern twist in 
+         IDENTITY ( http://www.screenit.com/movies/2003/identity.html : 
+         we see a flashback of [Amanda Peet] wearing a bra [that shows 
+         cleavage] and panties)... Peet Week continues as Kieran Culkin 
+         is left emotionally "Home Alone" by her, Claire Danes and 
+         Susan Sarandon in aimless spoilt-rich-kid's odyssey IGBY GOES 
+         DOWN ( http://www.cndb.com/movie.html?title=Igby+Goes+Down : 
+         when she's getting ready for a "date" with Jeff Goldblum 
+         [Peet] stands topless in front of a mirror)... otherwise 
+         there's a choice of 12A-rated gross-out smut comedies, in the 
+         form of Jason "Chasing Amy" Lee fiancee-fooling farce A GUY 
+         THING ( http://www.capalert.com/capreports/guything_a.htm : 
+         focusing viewer on male privates by repeated scratching of 
+         them; use of illegal drugs in catered foods; [Jason Lee and 
+         Julia Stiles] end up in bed together - nude)... or original-
+         cast-free cash-in DUMB AND DUMBERER: WHEN HARRY MET LLOYD
+( www.screenit.com/movies/2003/dumb_and_dumberer_when_harry_met_lloyd.html :
+         woman on woman kiss; a few instances of male/female making 
+         out; women are seen in revealing and/or tight/small attire; a 
+         young man is seen completely nude save for an object in the 
+         foreground of the shot that blocks a view of his crotch)... 
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "generally leftist... nuts"
+            http://slashdot.org/comments.pl?sid=66881&cid=6144202
+            http://slashdot.org/comments.pl?sid=66881&cid=6144304
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

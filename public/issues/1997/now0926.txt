@@ -1,0 +1,315 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____26/09/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o   www.spesh.com/cgi-bin/now
+
+
+            "The immediate threat from the Millennium Bomb is bigger
+           than BSE, global warming and AIDs combined. Irresponsible
+                                        reporting is very unhelpful"
+                   - ROB GUENIER, executive director, Taskforce 2000
+                wild overexaggeration isn't exactly clearing the air
+
+
+                               >> HARD NEWS <<
+                                  soft shoes
+
+         It's been a bi-polar month for crypto fans, with this week
+         heavy on the manic curve. Remember the SAFE bill, the US
+         legislative proposal intended to allow strong crypto to be
+         exported from the US to former evil foreign potentates,
+         like Britain and Germany? Well, some Congress wiseguys have
+         been crippling the bill by inserting clauses that would not
+         only stop export, but oblige crypto companies to put in a
+         back-door for the US security services. Not everyone
+         agreed, though, and now there are four versions of the same
+         bill kicking around Congress. Incredibly, the US have even
+         more government committees than we do, so the chances of
+         this being sorted out in the next year are zilch. Indeed,
+         the only clear statement about the issue to come out of
+         Washington so far was from a bunch of local hackers, who
+         this week demonstrated the dangers of forbidding strong
+         crypto by cracking the Whitehouse staff's pagers. Well, at
+         least they had a chance of finding out what's the hell's
+         going on...
+         http://www.inch.com/~esoteric/pam_suggestion/formal.html
+         - check out the Air Force 1 lost luggage.  Not like that in
+                                                   the movie, is it?
+         http://www.cdt.org/crypto/
+                                   - the hell is going on, explained
+
+         No chance of discovering such clarity here. Amongst the weird
+         governmental spooking going on this week was an apparent volte
+         face by the DTI, who are currently sorting out the UK's own
+         approach to strong crypto. DTI officials have, over the last
+         few months, carefully listened to various groups moan about
+         their original plan, which was to hand over everyone's secret
+         keys to banks and telecommunication companies. Since then, of
+         course, a new government has been elected - on a manifesto that
+         stated its intent not to legislate on this issue. So it was
+         weird to hear DTI officials at last week's Cambridge conference
+         on white collar crime start implying that the legislation will
+         go ahead anyway. Why the (no) change? Surely not because of the
+         security services continuing eagerness to get hold of those
+         lovely, lovely keys?
+         http://www.cl.cam.ac.uk/users/fapp2/15thISEC/programme.html
+           - just what colour collar do civil servants wear, anyway?
+         http://www.dti.gov.uk/pubs         those proposals. *Again*
+         http://www.leeds.ac.uk/law/pgs/yaman/ukpriva.htm
+         - more po-faced data - do we have to be funny about everything?
+
+         One thing - kind of - is for sure: spook or not, somebody
+         tried to squelch the Campaign For Internet Freedom's site
+         this week. EASYNET, who hosted - then killed - the site,
+         initially implied to Internet Freedom's Chris Ellison that
+         the Anti-Terrorist Squad had demanded that it die - perhaps
+         for the site's inclusion of the Basque separatist journal
+         Euskal Herria in its anti-censorship section. Easynet later
+         modified the story somewhat, claiming that they were just
+         "cleaning up their servers" (someone has *very* bad
+         handwriting). Then they said that IF could stay up for
+         another 2.5 months, until it found another site. Then they
+         stopped talking, and started coughing and pointing at a
+         concealed microphone in the corner of the room. Then all
+         these black helicopters flew over.
+         http://www.netfreedom.org  like they could make it go away?
+         http://www.easynet.co.uk
+         - maybe Easynet didn't want any negative publicity because...
+
+         Investors in said ISP got to taste the Silicon Valley high
+         life this Tuesday, when stocks in EASYNET GROUP leaped from
+         13p to 84.25p. The reason? Easynet received an
+         International Simple Resale license from the DTI - the same
+         license that allows baby telcos to offer low-cost calls on
+         international numbers. So is Easynet going to diversify
+         into a chain of those dodgy "call India for cheap" shops?
+         Err, maybe. Or maybe what's getting the traders excited is
+         that Easynet can now set up its own domestic phone switch -
+         and gets a cash credit on every call made via another telco
+         to its exchange (say, all those dial-up Net customers). And
+         the longer people spend calling Easynet POPs, the more
+         money they make. Net access for #0 a month, anyone?
+         http://www.easynetgroup.net/
+         - too busy celebrating to put out a press release, huh, guys?
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Banner Ads Are Annoying", reveals DOUGLAS RUSHKOFF...
+         CONNECT to cease publishing... "Infants Have Keen Memory
+         For Learning Words", psychologists uncover... PLAYSTATION
+         PLUS "relaunching".. Julia Roberts to appear in FOUR
+         WEDDINGS sequel... Economists "still can't measure any
+         productivity gain" from billions spent on IT... mobile
+         phones cause "lapses in concentration"... Mute relaunches
+         in handy new 2000AD-style format... CD-ROM TODAY merging
+         with PC GUIDE... British Interactive Broadcasting boss
+         plans to "overtake Internet use within 18 months"... Larry
+         Ellison demo backfires when NC application freezes, entire
+         network crashes... "Intel suspected of unfair practice", PC
+         PRO guesses wildly...  SHIFT CONTROL to end publication...
+         NZ hero teenager didn't "solve" Y2K bug after all...
+
+
+                              >> EVENT QUEUE <<
+                          celebrate your inner geek
+
+         We're *so* worthy this week. If you're hanging out in
+         Brighton this week, you could pop in and say hello to
+         Communities Online, who are hosting a fringe Labour Party
+         Conference event on their campaign to secure funding for a
+         subsidised network infrastructure for community projects.
+         As well as a general discussion, there will also be reports
+         from Trimdon Digital Village, the community networking
+         project in Tony Blair's constituency. The event is at 1pm
+         on Sunday 28/09/97 at Stakis Brighton Hotel.
+         http://www.communities.org.uk/events/welcome.html#anchor1216673
+                               - come on people - it's for the kids!
+
+         Andrew Ross (American Studies, NYU) is sticking it to the
+         Californian libertarian hegemony next week at - guess where
+         - the ICA. He'll be speaking on "Jobs in Cyberspace", and
+         trotting out all the old, well-worn, yet actually rather
+         accurate critiques of Web-coding sweatshop labour. It's on
+         at 11am on Saturday 26/9/97, so he's sure to get *loads* of
+         people who've been up until 3am Friday fixing broken code
+         on the client's bloody idiot-childfool site.
+         http://www.factory.org/nettime/archive/0810.html
+                  - never trust a pundit who can't format plaintext.
+
+
+                                >> TRACKING <<
+                   Web site come by this way two moons past
+
+         Okay, worthiness over. Here's a utility that pulls
+         passwords from a Windows 95 machine. REVELATION is 15KB
+         long, pulls the passwords from the cache, and exposes this
+         whole "storing passwords in memory as plaintext" nightmare
+         we've been on about before. Many security analysts have
+         been using it as a way of showing Windoze users the
+         benefits of NT's secure systems. Right. Excuse me while we
+         choke on our cola.
+         http://www.snadboy.com/  can we have our fix now, Mr Gates?
+
+         The REALAUDIO 5 BETA hits the already punch-drunk Net
+         listeners next week, promising "even nearer CD quality over
+         28.8". Well, we'll believe *that* when we hear it. Oh, and
+         something calling itself "THE INTERNET EXPLORER - VERSION
+         4.0" is being released by Microsoft in a characteristically
+         tasteful and low-key manner. Apparently it's a utility for
+         PC users who feel their machines run too fast. Look out
+         mentions of it on TV, radio, food, drink, and
+         subcutaneously tattooed onto the inside of your eyelids as
+         you sleep.
+         http://www.real.com             battling those bad MP3 boys
+         http://www.microsoft.com can *anyone* get on this site anymore?
+
+         DR HERMANS' new Web site offers the online purchase of
+         bongs, pipes, seeds, and "smoking paraphernalia" in the UK.
+         Hmm. This isn't some sort of drug thing that we're missing
+         out on, is it?
+         http://www.hermans.co.uk       bet he's not a real doctor
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         XXX Prize offers $1 million to first sub-orbital sex act...
+         Are there really 100,000 copies of Peter Gabriel's Eve
+         lying in a warehouse?... keep cool, Cyberjunky et al...
+         Jenni off of Jennicam to launch weekly streaming video
+         show... MicroAnvika's hold music... Bill Jillians is
+         back... Demon's IP number sneaked into "Hackers"...
+         www.osk.threewebnet.or.jp/~vacuum05/goods.html ...  Steve
+         Bennett, Kevin Warwick - MEDIA WHORES... the Army used the
+         Welsh to carry codes in the War... the Campaign Against "
+         double-you-double-you-double-you-dot"...
+         www.spesh.com/thoughts.txt ... the handbag contained
+         cocaine... "Teach yourself COBOL in 21 days" hits tech
+         bestseller list: Y2K hero teens suspected... Mir to use
+         docking program from Elite... Congrats, Dave Garaffa... so
+         what does Compaq need a $4 billion credit line for?...
+         "Like a cheapo knock-off Maglite with dead batteries in"...
+         Telehouse is on the Greenwich Meridian (and a nexus of
+         celtic laylines)
+
+
+                               >> GEEK MEDIA <<
+                                watch more tv
+
+         TV >> If only Nick Hancock was a guest in this new series
+         of SHOOTING STARS (9.30pm, Fri, BBC2) then you could watch
+         wacky, off-beat, increasingly similar "Bloke Quiz" shows 3
+         or 4 times a week... still, maybe you don't even need to
+         switch the TV on, according to the claims of "remote
+         viewing" researchers in STRANGE BUT TRUE? (8.30pm, Fri,
+         ITV)... hardly seems like 6 months since the last Spice
+         Girls single, but that's more than enough reason to run
+         thinly disguised promo film SPICE UP YOUR LIFE (5.45pm,
+         Sat, ITV)... the title character in sassy new animation
+         DARIA (2.30pm, Sat, C5) is *nothing like* Janeane Garofalo,
+         so why does everyone reckon that she is?... in his
+         otherwise excellent novel Distress, sci-fi author Greg Egan
+         dismisses Yahoo Serious's YOUNG EINSTEIN (12.45am, Sat, LWT
+         + some regions) as the work of "professional Australians" -
+         but he doesn't speak for everyone... STEPHEN HAWKING'S
+         UNIVERSE (7.20pm, Sun, BBC2) asks if the dark side really
+         *is* more powerful, while the subsequent OUTER LIMITS
+         series seems to have been replaced by the even more
+         Twilight-Zone-ish ALAN CLARK'S HISTORY OF THE TORY PARTY...
+         making Tomorrow's World look interesting, EQUINOX (9pm,
+         Mon, C4) examines - wait for it - icebergs, and DECISIVE
+         WEAPONS (8pm, Mon, BBC2) sounds like it's struggling with
+         "the story of anti-submarine warfare and short-wave
+         radar"... on the track Burn Hollywood Burn (from Fear Of A
+         Black Planet), Public Enemy succinctly describe DRIVING
+         MISS DAISY (9pm, Wed, C4) as "shit"... oh, and Aussie drama
+         WALKABOUT (9pm, Thu, C4) features a performance from a
+         young Jenny Agutter; does she get her kit off? what do
+         *you* think?
+
+         MOVIES >> CONTACT (imdb: "sci-fi / drama / faith / atheist
+         / scientists / astronomy / father-daughter / alien-contact
+         / prime-numbers ") is appallingly acted, has some daft
+         sentimental moments plus an ending that's almost not 2001-
+         ish enough, yet - thanks mainly to a different twist to the
+         book (www.spesh.com/contact.html) - is arguably *the best
+         geek film of the year*... alternatively, don't let that
+         Hamish Macbeth guy, Damon Albarn or yet another failed-
+         heist plot put you off FACE (imdb: drama / gangs) - still,
+         probably more laughs than the usual Canadian gloom from
+         Atom "Exotica" Egoyan in THE SWEET HEREAFTER (imdb: drama /
+         road accident / lawyers / dead kids - alright, I'm making
+         it up now...)
+
+         BOOKS >> Now that Amazon's revamped and all those dull
+         Updike clones have checked out, it's time for *you* to
+         check out the latest batch of US-only book releases.
+         Straight in at the heart of the NTK demographic is Richard
+         Handley's THE METAPHYSICS OF STAR TREK (ISBN: 0465091245) -
+         a sub-Hofstadter muse on identity, time-paradoxes and that
+         old is-Data-isn't-Data-human dichotomy. Logic-choppers will
+         love to debate whether this is, in fact, the same book as
+         THE MEANING OF STAR TREK (ISBN: 0385484372)... IRC's
+         Eggdrop, CancelMOOSE and - most bizarrely - Hunt the Wumpus
+         are part of the rich tapestry of Andrew LEONARD'S BOTS: THE
+         ORIGIN OF A NEW SPECIES (ISBN: 1888869054), but somehow he
+         pulls it off in a storming read... For the committed
+         americanophobe, we recommend Jim Goad's scouring defence of
+         Poor White Trash in THE REDNECK MANIFESTO (ISBN:
+         0684831139) - not quite up to his Answer Me! Days, but
+         worth checking out on Amazon for the table of contents
+         alone. And it'll pass the time while you await with
+         something close to stark terror pomo-funster Mark Leyner's
+         new opus, THE TETHERBALLS OF BOUGAINVILLE (ISBN:
+         0517701014), billed by the author as his "first 100 percent
+         BONA FIDE NOVEL--story, characters, everything!". Wh-wh-
+         what, *everything*?
+
+
+                               >> CORRIGENDA <<
+         Look, we did say we were slacking off during the MiniNTK
+         interregnum, didn't we? Thanks to Joseph Gallivan for
+         pointing out that our "US campsites to pay $1 per camper
+         for campsong rights" story was, and we quote, "bollocks".
+         The correct figure was $1, for all rights, for everyone;
+         somewhat different. NTK regrets the error. Also, we picked
+         up an mistake in the US Delphi/Mindspring deal snipe -
+         Mindspring didn't get all the Delphi customer base: just
+         the dial-up guys. All 1,100 of them. NTK regrets this error
+         a bit less, because that's *such* a pathetic figure (thanks
+         to Robert Seidman for both story and correction). Also, in
+         last week's issue, in the sentence promising an exciting
+         competition next week, "next week" should be amended to
+         read "the week after next", the word "exciting" should be
+         replaced with "long overdue", and the word "promise" should
+         be altered to "hope in vain".
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "on a mission from God".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Non-biz copying ok, but retain SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+
+

@@ -1,0 +1,284 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-10-22_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        
+         "We're not looking ahead as to how we might possibly
+         increase human brainpower. So really that's the direction
+         I've been going -- with a view to maybe save the world."
+- PROF KEVIN WARWICK, http://www.salon.com/tech/feature/1999/10/20/cyborg/
+        ...or just get my name in the papers. Whichever seems easier.
+
+                                >> HARD NEWS <<
+                              some win, some lose
+        
+         Even by this industry's high standards, the crowds were ugly
+         this week. At BIG BROTHER awards, cyber-rights proles
+         screamed abuse at videoscreens filled with the images of
+         Jack Straw, and the Borders Police force (cited for their
+         over-enthusiastic use of DNA testing on all suspects). The
+         BAFTA's flailed helplessly in the quicksands of New Media
+         naivety with yet another bloody bird-watching site scamming
+         an award by default, while Lara Croft creators TOBY GARD and
+         PAUL DOUGLAS swung in to snatch the Tim Berners Lee award -
+         despite the best attempts of EIDOS lawyers to shoot them
+         down. Best overheard quote: one elderly BAFTA stalwart
+         asking "Who *are* Berners Lee? What do they make?". Even NTK
+         lived down to its own reputation, as our own anti-BAFTA
+         Ge3kn1ght collapsed under its own weight into a grim
+         trashpit of exploding laser power-supplies, indoor
+         incendiaries, grenade launcher show and tells, uncontrolled
+         moshing to Alexei Shulgin's voice-synthesis-and-MIDI rock
+         and roll, and the inspiring sight of Richard M. Stallman
+         signing the collar-bones of scantily-clad geek girls. *Not* pretty. 
+         http://www.bigbrotherawards.org/winners_uk_1999.html 
+         - watching us, watching you, watching Big Brother, watching...
+         http://www.bafta.co.uk/ 
+              - one day. one day we'll win, and then they'll be sorry 
+
+         Anyone pitched into a deep coma of anticipation by
+         STRAYDUCK's teaser campaign can now awake: as predicted
+         (kinda), the 0800 ISP is turning out to be another - well,
+         dead duck. Rumours have it that Stray Duck will be largely
+         local-calls based, with the freephone service only available
+         if you've already paid an arm and a leg for calls earlier in
+         the month. An AOL-style cheaper rate phoneline will be
+         available for heavy duty users: but the latest thinking is
+         that you'll have to use an X-Streamish ad-crippled browser
+         to access the service. Jesus: the free ISP market is
+         beginning to make BT's billing scheme a model of simplicity.
+         http://www.strayduck.com/
+         - and what *is* it with this bird-watching obsession?
+
+         Of course, Stray Duck only goes to demonstrate what might be
+         termed the "Let It Be Thus" effect - the sillier the name
+         chosen by the marketeers, the cruddier the service. Witness
+         the newly rolled-out (tee hee) MARBLES credit card (from the
+         idiots who brought you that other intuitively-branded
+         plastic, Goldfish). "Amazing 128-bit security!" boasts their
+         site, reassuringly. Or it would be, if they'd used a
+         certificate that actually enabled 128-bit security on the
+         browsers that implemented it. Or hadn't dumped a bunch of
+         bad links and half-finished pages onto the https: server
+         without noticing. Still, not quite as bad as the equally
+         dumbly named EGG whose customer support sent one
+         friend-of-a-subscriber their credit card number - in the
+         subject line of the e-mail. Looking forward to the security
+         phuck-ups at SMILE... 
+         http://www.marbles.com/
+         - it's just because they can get these domain names cheap,
+         http://www.egg.co.uk/
+                                                             - right?
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         POWERGEN decide to become ISP - neglect to tell own IT
+         department... DIXONS open high-profile stores at midnight to
+         sell Dreamcasts - shift three machines: after last week,
+         target sales now only 5,999,996,997 away... guess who's been
+         emailing the BOFH columnist for a telephone contact number
+         (despite New Zealand's 12-hour time difference)? Step
+         forward, RICHARD BARRY... ICA *haven't* spotted warez server
+         [see last week's NTK] - they just keep turning off the
+         machine at night: ftp://ftp:joshua@pc8.newmediacentre.com
+         ... TIMES INTERFACE reveals that UK royal and open.gov sites
+         run on "five Dell 2300 Dual Pentium II 450 machines, each
+         with 512k of RAM" - guess Gates was right about that 640KB
+         limit... meanwhile, NETWORK SOLUTIONS deny existence of
+         entire country: http://www.ntk.net/doh/991022netsol.jpg ...
+         ICA looking for temporary sysadmin... less tempting than
+         ARGOS deal: http://www.ntk.net/doh/991022combat.jpg ... "SMU
+         Geophysicists Discover Large Blob Deep In The Earth", says
+         Science Daily: plan to dump it in the Arctic after cornering
+         it in cinema... "Mars 2001 Landing Sites Reduced To Two",
+         says http://www.spacer.com/spacecast/news/mars2001-99b.html
+         - ie: 1. miss Mars, or, 2. smack right into it...
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Most of our heroes don't appear on no stamps, but if they
+         did, we bet LOCAL HEROES' Adam Hart-Davis would be the one
+         printing them by hand using a patented stamp press made that
+         day from bits of old stick. Or something. Adam, who isn't
+         generally very local to London, will be stepping out to
+         stage three performances at the Royal Institution on
+         Thursday, 1999-10-28, with shows aimed at proto-geeks under
+         seven in the morning, and groups of engineering groupies and
+         the general public in the afternoon and evening. Tickets
+         cost between 9 and 12UKP, although it'd probably be a good
+         idea to call before hand to check availability.
+         http://www.screenhouse.co.uk/screenhouse/ri.htm
+                       - couldn't he have built them a secure server?
+         http://www.ri.ac.uk/contact.html
+                                     - an RI isn't just for Christmas 
+         http://www.newmediacentre.com/live/soon.html
+                                             - or get thee to a Munnery!
+
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         It doesn't schedule, it doesn't Web browse, it doesn't
+         filter, and it doesn't get much bigger than a 1.5MB tar
+         download. It's our mail-reading client of choice, and now
+         it's at version 1.0. MUTT, the infinitely configurable
+         mailer with the motto "Yes it can. Read The Fucking
+         Manual, again, backwards this time" is ready for your
+         pleasure.
+         http://www.mutt.org/download.html
+                                                    - grabba the Mutt
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         WIMPY to launch KFC-alike with equally counterproductive
+         name: DR BEAKS... ECHELON keeps watch for "BUBBA THE LOVE
+         SPONGE"? http://www.attrition.org/attrition/keywords.html
+         ... everybody rip off GAP - http://www.gamesculture.co.uk/
+         ... "brain in a vat" thought experiments - for real!
+         http://www.edgeco.com/cgi-bin/catalog/BRN-400?aJNoXNhR;;20
+         ... faking mythical SPECTRUM programs by "aging" C12
+         cassettes... don't think we're in Kansas anymore :
+         http://us.imdb.com/CommentsAuthor?Don+T.+Dorkerson ...
+         PETER MANDELSON moonlighting as on-screen assistant:
+         http://www.wizzardsoftware.com/Affiliate1/main.asp ...
+         http://www.thistothat.com/gom/current.shtml - for the
+         solvent abuser in your playground... http://www.segaweb.com
+         vs http://www.adamweb.co.uk ... getting in touch with your
+         "inner script kiddies"... http://www.statusquo.co.uk/ vs
+         http://www.smashstatusquo.com/ ... INTEL composer outed:
+         http://www.latimes.com/print/business/19991020/t000094886.html
+         ... http://www.freeserve.net/highspeedtrial/ADSL.htm - 60UKP
+         a month as "free" as ADSL gets...
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+
+         TV>> high-tech shoot-outs enliven preposterous airborne
+         Arnie thriller ERASER (8.55pm, Sat, ITV), in which a railgun
+         with a muzzle velocity "approaching the speed of light"
+         fails to observe the conservation of momentum, as the recoil
+         would propel the shooter several miles into the air... Meat
+         Loaf's Bat Out Of Hell takes its rightful place as the
+         foremost of the CLASSIC ALBUMS of all time (11pm, Sat ITV),
+         with contributions from not exactly unsung rock god Jim
+         Steinman... and Halloween comes supernaturally early to C4,
+         in an intriguingly unpublicised witch-based theme night,
+         including Mark "Sontaran" Kermode's docu THE BLAIR WITCH
+         PHENOMENON (9.30pm, Sat, ITV) - not to be confused with
+         authentic mythos-extending making-of THE CURSE OF THE BLAIR
+         WITCH (9pm, Fri, Sky One), and nothing to do with Disney
+         telekinetic teen sequel RETURN FROM WITCH MOUNTAIN (2.25pm,
+         Sun, BBC1)... Mel Brooks, Leslie Nielsen team up at last in
+         truly dire vampire spoof DRACULA: DEAD AND LOVING IT (10pm,
+         Sun, C4)... "amusing consumer queries" were among the fresh
+         attractions promised by Daisy Donovan for the clearly
+         not-at-all-desperate 11 O'CLOCK SHOW (11pm, Tue-Thu, C4)
+         when we bumped into her outside Waitrose last week... "Have
+         you tried looking down the back of the sofa?" ought to be
+         the first advice offered by well-meaning reuniting-public-
+         with-lost items/ relatives etc show THE SEARCH (8pm, Wed,
+         BBC1)... and BUFFY THE VAMPIRE SLAYER (6.45pm, Thu, BBC2)
+         picks up the remains of season 2, with an "extended" (ie
+         more violent) repeat scheduled for Sunday evenings...
+
+         FILM>>> the "con is on", indeed: a pop at Scientology and
+         occasionally strong casting (Maryann from Cybill, the geek
+         from Scream) almost - but not quite - salvage Steve Martin's
+         laboured, toothless high-concept La-la-land satire BOWFINGER
+         (imdb: accountant / actor / film-producer / hollywood /
+         secret-filming) - never mind whether Heather Graham is
+         supposed to "be" Martin's former girlfriend, Anne Heche; are
+         Martin and Eddie Murphy (as a has-been producer-director and
+         washed-up action star), in a twist of far greater poignancy,
+         supposed to be *playing themselves*?... "Tarzan's - alive?!"
+         unlikely to be among Brian Blessed's lines in fake-3D Phil
+         Collins-scored "deep canvas" Disney barrel-scraper TARZAN
+         (http://www.capalert.com/capreports/ : parental arguing;
+         implications and references to Darwinian evolution;
+         skimpy dress throughout, ie "exposure of the curvature of
+         Tarzan's glutemous maximi and other pelvic and crotch
+         areas")... otherwise, a couple of teen trash romps: Sarah
+         Michelle Gellar cops off with former Young Indiana Jones
+         Sean Patrick Flanery in resistable extended "Cookeen" advert
+         SIMPLY IRRESISTIBLE (http://www.capalert.com/capreports/ :
+         sexual innuendo, references (some vulgar), and suggestion;
+         adult underwear; throwing plates endangering guests; sexual
+         wish; suggestive eye movements; implied sexual intercourse;
+         knife thrown, nearly missing a man)... while Ed "T2" Furlong
+         struggles to make you care about his sub-Wayne's World
+         attempts to attend a '70s KISS concert in the barf-packed
+         DETROIT ROCK CITY (imdb: concert / product-placement /
+         rock'n'roll / teen)... so our tip, if you're not in the
+         catchment area for previews of hyped hand-held horror "The
+         Blair Witch Project" (of which more next week): hyper-
+         kinetic MTV-style trick-shot video game RUN LOLA RUN (imdb:
+         part-animated / adultery / alternate-reality / bank / casino
+         / money / robbery / running) - not based around the Kinks
+         song of nearly the same name...
+
+         SHINY ENTERTAINMENT [A "ZINES, COMIC-BOOKS AND BOOK-ZINES
+         SPECIAL" WITH GUEST FANBOY, BEN MOOR]>> Currently the X-MEN
+         suck (coming soon: X-BABIES REBORN - it's that bad), but the
+         X-MEN movie will be fantastic. OK, they've got rid of the
+         guy who was Wolverine, and Darth Maul is playing the Toad
+         (the what? Yeah, the Toad!), but Bryan Singer will direct so
+         Keyser Sose may turn up as guest villain. If you want to be
+         reminded why you ever liked them (and you will, because the
+         movie will be brilliant and everyone else will say they
+         always liked them and you will squrim) check out Joe Casey
+         and Steve Rude's CHILDREN OF THE ATOM... Chris Claremont is
+         definitely back on the X-Men comics next year, but what of
+         the guy who kind of replaced him? Scott Lobdell is writing
+         BALL AND CHAIN (funny couple at the end of their marriage
+         gain superpowers that they can only use when they're
+         together) and HELLHOLE (demons and cops; not as good as US
+         TV's GvsE, but then, what is?). Obviously got an eye and a
+         half on his screenwriting career, but darn it, they're good
+         comics too... Other good things: FINALS (American college
+         run on Strength Through Study); Paul Pope's HEAVY LIQUID
+         (trippy sci-fi, like eye valium); THE AUTHORITY (big
+         superheroes fighting)... if you can find it, you must buy
+         perfect-bound TIMOTHY MCSWEENEY'S WINDFALL REPUBLIC (US$10,
+         8UKP at Borders, http://www.mcsweeneys.net for subscriptions)
+         - the most fun you can have with a Hotmail account. Also
+         look out for a piece by ex-Might genius and McSweeneys
+         maestro Dave Eggers in the current NEW YORKER. You should
+         buy this issue anyway as it has a giant robot on the
+         cover... closest UK equivalent may just be the now equally
+         book-sized THE IDLER. Mixing drugs, gardening and politics,
+         despite its highly active cover price  (UKP10), the case for
+         idleness is won again. And now - you can rest...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "yet another namespace pile-up"
+                         ( http://www.eduprise.com/ )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

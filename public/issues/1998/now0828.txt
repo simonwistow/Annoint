@@ -1,0 +1,331 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____28/08/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        
+       "How can you come around ere, finking you're all flash and mighty
+        and wasting my time. Now go and sort yerself out with the newest
+         version of flash and shockwave or go and fuck off to another
+          site, because I warn you, I will do, you some major fuckin'
+                                damage if you come round here again."   
+                         - http://www.lockstock2barrels.com/flash.htm
+  ...not quite the "Download Now!" button Macromedia were looking for
+
+
+                                >> HARD NEWS <<
+                               but who's whose?
+
+         So, we *keep* getting this NETNAMES, MICROSOFT rumour, to
+         the point where we're beginning to smell a rat. Who could
+         possibly stand to gain from persuading us to print it? And
+         then the BBC start pulling out from the battle to win
+         bbc.com from Boston Business Computing. But might there be
+         another way they could "own" that domain? And would the
+         licence payers mind? And what about this scribbled note
+         here, that says that Cliff Stanford was seen sniffing around
+         LINX2, wanting to own a chunk of the UK Internet after all?
+         You can't even trust 'whois' anymore: we could have *sworn*
+         their were a bunch of porn sites with addresses not
+         unadjacent to the Progressive Networks offices, but now
+         they've all disappeared too. Won't anyone stay still for one
+         goddamn week?
+         http://www.bbc.co.uk/evans/
+         - at least this is still here: the only fan site the beeb
+                                                          won't close
+
+         BT has been showing off its net savvy once again, with an
+         EASYREACH PAGER press ad showing a page of "amusing" cartoon
+         net user stereotypes, each with a vaguely realistic email
+         address. Perhaps too realistic, adds privacy activist MARK
+         DZ, whose own whois antics reveal that, of the 18 domains,
+         12 actually exist, belonging to hopefully understanding
+         organisations like Agency.Com, Arabia On Line, and Computing
+         Engineers Incorporated (who must be overjoyed to be depicted
+         as psycho@wwa.com). Still, perhaps mindful of the US Virgin
+         Cola ad that produced 1500 replies to a "made-up" address, 3
+         of the other domains are unregistered, 3 more are
+         incorrectly formed, and 3 of the real ones give "No MX
+         record (no email possible)". What's the message here - BT
+         email only has 50 per cent reliability?
+         http://www.spy.org.uk/
+                            - Dziecielewski.com still available, Mark
+
+         If one thing stays constant, though, it's people. When we
+         finally tracked down the identity of the World's Worst
+         Internet Columnist, "SPYDER" of Time Out London, it came as
+         no surprise to discover his past life as an
+         ex-keyboardist for Hawkwind and creator of "Shot Down In The
+         Night". More disturbing was the revelation that
+         RICHARD BARRY, the World's Equal Worst Internet Journalist,
+         once held an all-night vigil for Brandon Lee. But 
+         pipe-smoking, avuncular JACK SCHOFIELD of the Guardian, lead
+         writer on a French skateboarding zine? Now you're scaring us.
+         http://www.eclipse.co.uk/discus/1836.htm
+                                  - *incredible* Photoshop skills too
+         http://www.timeout.co.uk:81/TO/London/Events/Techno.html
+         - "Astrology.net is its name - and heavenly bodies are its game" 
+         http://www.herts.ac.uk/Libtech/Libtech96/OPEN.html 
+         - Jack's on holiday right now, grinding. And ollying. And filing.
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+         
+         TONY BLAIR announces anti-terrorist measures from Downing
+         Street - behind him is copy of Spycatcher. Will he turn
+         himself in?... JOHN ROMERO *not* dead, despite rumours and
+         appearance... BROWSERWATCH headline: "Netscape v4.06 Is
+         Still Available!"... STUDENTS rate Web more "in" than
+         drinking beer, survey reveals... copyright owners now
+         threatening NEGATIVLAND's CD pressing plants - so why don't
+         they give 'em away as MP3s?... NYU study reveals affluent
+         have better access to Net... The MICROSOFT BOYCOTT CAMPAIGN
+         (http://msbc.simplenet.com/msbc/) send their newsletter from
+         a Windows machine... MICROSOFt "lose" key bit of source code
+         in DRDOS dispute...  "Surprise plans to launch third beta"
+         of NT, uncovers COMPUTER WEEKLY - just 8 months after
+         Microsoft announced the decision... new-look PCW includes an
+         exploration of Linux: article begins "Danish programmer
+         Linus Torvalds..." 
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         MARTIN MILLAR's novels are packed full of lovable but schizy
+         dolites dragging themselves upright in a half-fantasy,
+         half-realite, Brixton. That said, he sounds a bit pissed off
+         with living like that himself, and as fans will know from
+         his Website, he's had a horrible time trying to flog his
+         latest book, LOVE AND PEACE WITH MELODY PARADISE. Now it's
+         been picked up by a publisher, and he's embarking on a book
+         tour with characteristic grumpy cheer. The book is all about
+         free festivals, and hippies, and travellers, and, after
+         bundles of rejection notes, Millar would be the first to
+         concede that it might not be any good. But you could pop by
+         one of the readings and see whether he's right. Maybe make
+         him a cup of tea either way. The tour starts in London on the 7pm
+         2/9/98 at Blackwells, Charing Cross Road, and ends on the
+         29/9/98 at Waterstones, Sauchiehall St, Glasgow, with all
+         points between.
+         http://dspace.dial.pipex.com/town/street/kbh38/
+            - not to be confused with Richard Miller from Time Crisis
+
+         It's the time of year for the ICA's acclaimed Radio 1-style
+         touring Roadshow: "Hello Skegness! Is everybody ready to
+         identify, explore and critique the notions and metaphors of
+         cyclic completion?". Well, it may as well be given the
+         impenetrable descriptions provided by ISEA '98, the
+         INTERNATIONAL SYMPOSIUM FOR ELECTRONIC ARTS, 02-07/09/98.
+         There's the "Revolution" Symposium in Liverpool (page reads
+         like a Markoff generator fed phrases like "utopian-dystopian
+         discourses of cybercultural futurology") and, in Manchester,
+         the promising-sounding "Terror" Symposium. Whether you
+         attend is a matter for your own conscience; the real debate,
+         we feel, is how to pronounce "ISEA" without it sounding like
+         "IKEA". Best suggestion so far: "I see", followed by a
+         20-second goatee-stroking pause. Then: "I see" again.
+         http://www.isea98.org/
+                       - not to be confused with http://www.isea.org/
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+	
+         Featuring on Future Publishing coverdisc is surely the
+         *apex* of the Summer-Linux-hypeathon. This month's PC PLUS
+         features teutonic distrib S.u.S.e as well as plenty of
+         gushing comments in the mag. Actually, it's not the first
+         time "+" has featured Linux - it was on the Oct 1994 CD,
+         then fastidiously ignored in the intervening years. For the
+         already converted, there's some bonus warez on the CD -
+         including an incredibly buggy Netscape beta that wouldn't
+         normally be worth the download.
+         http://www.polo.demon.co.uk/emporium.html
+                            - cheap CDs without the accompanying tree
+         http://www.futurenet.com/pcplus/article.asp?ID=3531
+                                    - four years of catching up to do
+
+         The street finds its own use for things, particularly when
+         the things in question were a bit useless to start with.
+         While the appeal of Bandai's FISH FINDER FOR GAMEBOY
+         seems a bit limited at first, we can't wait to see what the
+         growing legion of GB hackers will make of this
+         ultra-cheap ultra-chirp sonar. Within just a few weeks of the
+         Gameboy Camera and Printer release, the coders had already
+         reverse engineered the printer protocol (allowing both screen
+         dumping to the printer, and backup of the camera images to
+         PC). And given that they've pretty much firmed up the C
+         development kit, as well as the GB BASIC interpreter, and the
+         ingenious "morse code" text editor, it shouldn't take them
+         that long to whip up... oh, a self-steering car? Guidance
+         system for the blind? Super Mario Doom?
+         http://home.hiwaay.net/~jfrohwei/gameboy/
+                     - another device for "seeing" through "clothes"?
+         http://www.nikkei.co.jp/enews/TNW/np/tnwnp0087.html
+                       - you shall have a fishy via this little dishy
+         http://www.bga.com/~fap7/newtonwidget
+                  - meanwhile, the Newton gets new life as a beatbox.
+
+        
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         http://www.spork.com ... painful browser integration implied
+         by http://www.netcomuk.co.uk/~wwl/internal.html ... more
+         skeleton passwords for the AWARD BIOS - "q_l27&z" ...
+         http://YourMom.com/ ... the revenge of CP/M -
+         http://www.herring.com/insider/1998/0825/microsoft.html ...
+         IMAC inspired by http://www.myna.com/~zippy/adm_mac.jpg ? or
+         http://www.dce.utah.edu/network/lks/seperated/slimac.htm ?
+         or was it http://smokedifferent.buds.com ? (oh, and you
+         *can* plug monitors into it - if you can find the socket)...
+         BEASTIES BOYS release MP3s... the brighter side of launch
+         disasters : http://www.flatoday.com/space/gshop/ ... tying
+         in with new Lord Of The Rings movies, SIERRA to release
+         multiplayer Middle Earth, 10000+ players - but will there be
+         enough rings to go around?... eturn of QUAKE TALK SHOWS:
+         http://www.planetquake.com/latenite/ SOUND BITES tooth-music
+         lollies distributed in Japan under name "SILENT SHOUT"...
+         maybe they've installed a backdoor for Bill Gates:
+     http://www.microsoft.com/industry/justice/pressroom/releases/epic.stm
+         
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> wonder if they considered putting the soothing
+         psychoanalysis of double FRASIER (10pm, Fri, C4) *after* the
+         double horror nonsense of THE HOWLING/ STRAIT JACKET (from
+         11.35pm, Fri, C4)?... things get "groovier" on Sat, with
+         rare successful TV spin-off THE BRADY BUNCH MOVIE (9pm, Sat,
+         BBC1), another themed SOUL NIGHT (from 8.10pm, Sat, BBC2),
+         the repeated endless wailing of THEREMIN: AN ELECTRONIC
+         ODYSSEY (1.10am, Sat,C4), plus a couple of shows proclaiming
+         HEY, HEY WE'RE THE MONKEES (9pm & 11.05pm, Sat, C4)...
+         surely another one-off game show, FAMILIES AT WAR (8.15pm,
+         Sat, BBC1), can't resuscitate Reeves & Mortimer *again*?...
+         a different season pops up on 4, with CARRY ON CRUSING
+         (10.30pm, Sun, C4) cruelly juxtaposed next to Gus Van Sant's
+         gay art yawn MY OWN PRIVATE IDAHO (12.10am, Sun, C4) - most
+         promising is warts-and-all expose CARRY ON DARKLY (9pm, Mon,
+         C4)... it's the original proto-Tomorrow People kids who
+         ESCAPE TO WITCH MOUNTAIN (2.10pm,Mon, BBC1), pursued by
+         arguably the best Trek film ever, ST VI: THE UNDISCOVERED
+         COUNTRY (3.45pm, Mon, BBC1)... marvel at the timing of Diana
+         dying on a Bank Holiday, with tributes depicting "The Diana
+         Years", "The Unseen Diana", "The Art Of Diana", "The
+         Extraordinary And Irreplaceable Diana" and, of course,
+         "Diana: One Year On" (still dead, apparently)... we say:
+         stick with double bill BEAST WARS (8.20am, Mon, ITV)...
+         cable-owning completists can enjoy the frankly ropey
+         from-the-very-start repeats of SEINFELD (9.30pm, Tue,
+         Paramount)... ironically, no-one foresaw that cod-prophetic
+         IN YOUR DREAMS (8pm, Tue, C4) would get postponed after the
+         Omagh bombing... he missed being in T2, but Michael Biehn
+         climbs another consonant in K2 (10pm, Wed, BBC1)...
+         Vorderman takes her revenge for being kicked off Tomorrow's
+         World with WHAT WILL THEY THINK OF NEXT? (7.30pm, Thu,
+         ITV)... and shame there isn't more of Rodney "subsumption
+         architecture" Brooks or the mole-rat guy, but that's what
+         you get when your geek obsession documentary is FAST, CHEAP
+         AND OUT OF CONTROL (11.15pm, Thu, C4)...  
+         
+         FILM>> someone should have reined in Robert Redford's animal
+         weepie THE HORSE WHISPERER (imdb: romance / adventure /
+         drama / horses / based-on-novel / tragedy / tearjerker), at
+         least according to the website that's a crucial part of the
+         plot: http://www.equisearch.com/horsewhisperer/story16.html
+         ... Brit Tarantrainospotting romp LOCK, STOCK AND TWO
+         SMOKING BARRELS (imdb:comedy / thriller) doesn't just
+         deliver footie hard-man Vinnie Jones, but also two villains
+         still sought for international taste-crimes: chirpy Julia
+         Sawalha boyfriend Dexter Fletcher, and Sting... we kid you
+         not, but almost every US review of David "House Of Games"
+         Mamet/ Steve Martin con-trick feast THE SPANISH PRISONER
+         (imdb: thriller / film-noir / twist-in-the-end / drama)
+         painstakingly points out that there are, in fact, no
+         "prisoners" in it, nor is it set in Spain... Kelsey
+         "Frasier" Grammer and Amanda Donohoe re-team in likeable
+         family-friendly Cyrano De Bergerac-er THE REAL HOWARD SPITZ
+         (MPAA rated: PG "for language and mild thematic
+         elements")... and finishing last, appropriately enough, is
+         MR NICE GUY (imdb: action / bloopers-during-credits /
+         comedy), aka Jackie Chan cooking up his usual
+         stomach-flipping stunts as an example to dull TV chefs
+         everywhere... 
+
+         TALES FROM THAT CITY>> Fog descends on San Francisco,
+         closing in on the Multimedia Gulch: thwarted attendees of
+         the cancelled ROBOT WARS conference wander the streets with
+         their spurned, murderous machines. Members of Survival
+         Research Laboratories seek sharper kicks at the
+         http://www.whorechurch.org/ where, in an insane inversion,
+         the city's strippers, dressed to the nines, perform to
+         audiences composed of naked men. HotWired drifts rudderless
+         with rumours that Mr Newhouse will pounce again:
+         http://www.reel.com/, ignorant of the portents, repeats its
+         TV ads for "Titanic", hour after baleful hour.  Down in the
+         Valley, the OPEN SOURCE gurus meet.  RICHARD STALLMAN plays
+         stern paterfamilias, opining that it's better to quit
+         programming forever than take a penny off a proprietary
+         company ("become a waiter instead", he suggests)).  Chewing
+         thoughtfully on his own hair, he delivers a broadside on the
+         diabolism of those who profit by selling unfree manuals for
+         free software. TIM O'REILLY, chairman, sponsor, and founder
+         of O'Reilly Books, looks on charitably, a Medici inviting
+         Savaranola for tea.  JAMIE ZAWINSKI talks of his forthcoming
+         sabbatical from Netscape (about time, too, judging from
+         http://www.jwz.org/). ERIC S. RAYMOND mentions that he's
+         seen a tooled-up LINUS TORVALDS shooting at an undisclosed
+         location. "Part of a long-term plan", he smiles, planning
+         the Free Software Militia. And the sun chases the mists away
+         later every day; and no-one knows whether Burning Man
+         (http://www.burningman.com/) will work its unsympathetic
+         magic on the share option crops this year; and the city's
+         saviours, the geeks, play games of  Quake II, as if
+         rehearsing for the end of their world. 
+
+
+                              >> UNCLASSIFIED <<
+
+   NTK seeks work-experience-style INTERN/ RESEARCHER to assist our 
+   ever-desperate attempts to sell out to obscurely scheduled TV
+   shows. The ideal candidate will be an embittered net.cynic with a
+   surprisingly cogent awareness of real-world happenings, and a
+   lively penchant for locating pertinent websites and then taking
+   the piss out of them. Alternatively, you might just be interested
+   in working in telly. You will be London-based, able to work for a
+   small (but non-zero) pittance, and shockingly contemptuous of what
+   currently passes for net journalism. To demonstrate their
+   suitability, applicants are invited to hack the homepage of a
+   major UK web design agency, or - what the heck - just email us at
+   jobs@spesh.com. Do NOT attempt to contact our last intern. 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "gifted social isolates""
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial licence details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

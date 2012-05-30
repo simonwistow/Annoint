@@ -1,0 +1,276 @@
+
+ _   _ _____ _  __               27/06/97       NEED TO KNOW NOW
+| \ | |_   _| |/ /   _ __   _____      __ o Gulping up big flagons of
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o pure data, then elegantly
+| |\  | | | | . \   | | | | (_) \ V  V /  o hawking a pearl of UK
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o sloosh right into your mail
+
+
+         "People will always raise this Prince of Darkness thing."
+         - Hermann Hauser on Microsoft's move to Cambridge, NEWSWEEK
+                          it's not the *raising* we're worried about
+
+
+                               >> HARD NEWS <<
+                                 soft targets
+
+         White boy riots swept the US following the SUPREME COURT's
+         repeal of the Communications Decency Act. For the rest of
+         the world, the (surely impractical) threat that non-US
+         residents would be fined up to $100,000 for smut-peddling
+         to Yanks has finally been lifted. Phew. Elsewhere, China
+         threw up more controls on IP access, Indonesia stated its
+         intention to censor Net access, Notts County Council
+         continued to pursue the JET report and life goes on,
+         constitutional or not.
+         http://www.eff.org
+            - God forbid that the American voice should not be heard
+
+         MICROSOFT announced J/Direct, a method that lets Java
+         programs use native Windows 95 code. Lazy programmers can
+         now write Java that looks cool, runs fast, but only
+         executes on PCs running Windows. In other words, Microsoft
+         wins. Sadly, many will be tempted - even hardened Java
+         hacks are having problems coping with Java's current
+         treacly speed and lousy interface. But help *is* on its way
+         with a new, optimised Java interpreter that runs up to
+         forty times faster than current efforts. Will it arrive in
+         time to save Java? Probably not - it's Microsoft's new Java
+         interpreter - with built-in J/Direct! Doh! That Bill Gates!
+         http://www.microsoft.com
+               - Who hath raised the Dark One twice unto this place?
+
+         British Digital Broadcasting obeyed the regulators and
+         dumped BSkyB from its ranks; their vital digital
+         terrestrial broadcasting license was granted as a result.
+         BDB now consists of mainly Carlton and Granada, although
+         BSkyB and the BBC will provide much of the content. It's
+         been a bad month for Murdoch: his head honcho at BSkyB, Sam
+         Chisholm quit (reputedly over clashes with Rupertkinder
+         Elisabeth Murdoch) and various headaches in the US sent his
+         international rep plummeting. Revenge might still be sweet:
+         his satellites start broadcasting a range of digital
+         services next year, wayyy before BDB. And he's still pals
+         with Mr. Blair...
+         http://www.sky.co.uk
+                        - Great. Now we've invoked all three of them
+
+         Sad and glad tidings for lovers of ancient geek heroes.
+         JACQUES COUSTEAU, master of sea and scuba, inspiration to
+         John Denver, Jean-Luc Picard and science weenies worldwide,
+         passed away this week aged 87. Slim recompense can be
+         gained from the news that elder technoluster PETER SNOW is
+         leaving Newsnight to join Tomorrow's World. He will be
+         assisted by PHILLIPA FORRESTER, the Internet's darling. We
+         think Jacques would have been approved.
+         http://acin.edi.fr/cousteau/csteqius.htm
+                                   - the things that you've shown us,
+         http://www.bbc.co.uk/tw/newpres.html
+                                             - the stories you tell.
+
+         NETSCAPE and ... who are those other guys? both won the
+         right to export 128-bit 'strong' encryption from the US
+         this week. Usage, however, is strictly curtailed: the
+         facility won't be available for e-mail, and strong
+         encryption will only be possible when working from licensed
+         servers. Meanwhile, no-one seems to have noticed that
+         British company UK WEB have been selling patches to give
+         128-bit security since last year. Now how did that happen?
+         http://stronghold.ukweb.com            Supreme court *that*
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         65% of polled "experience rude language" in chat rooms,
+         survey finds... "Virtual Private Line enhances customers
+         service for Honey Baked Chicken" - Compuserve press
+         release... Digital shelve Altavista IPO ... 72% of users
+         have visited porn site, survey finds... Good news for
+         twins: Vatican reveals clones will *not* have same soul as
+         original... 50% of executives overwhelmed by e-mail, survey
+         finds... Mir in dangerous accident; Queen in live net
+         broadcast... McDonalds won...  BT schools plan "favours BT"
+         - politicians surprised, appalled... 33% of Internet users
+         quit after 6 months, survey finds...  Four words: "Star
+         Wars Monopoly Game"
+
+
+                                >> CULTURE <<
+                            the philistine mindset
+
+         Which kind are you? Alan Hood, research scientist at
+         Britain's Defense Evaluation and Research Agency says that
+         the hacking community is fracturing into separate social
+         groups. Among the breeds documented by DERA are 'elites',
+         'darksiders', 'information brokers' and 'meta-hackers'.
+         "Meta-hackers are one of the most sinister things I have
+         run into," Hood says, "They scare the hell out of me." So
+         this isn't Emacs these people are hacking? No - "Meta-
+         hackers monitor other hackers without being noticed, and
+         then exploit the vulnerabilities identified by the hackers
+         they are monitoring." Oooh. Like DERA, maybe?
+         http://www.dra.hmg.gb/    Always scary to find a .gb domain
+
+         Talking of hackers, do *not* forget that Saturday 5/7/97
+         marks ACCESS ALL AREAS III and the official beginning of
+         the '97 hacking con season. Among the AAA^3 speakers will
+         be the dryly entertaining Ross Anderson (cryptomaster
+         extraordinaire), unstoppable sex-panther Cherie Matrix and
+         that evil journalist Michael McCormack. Inevitably, media
+         whores the NTK editors will also make an appearance: we're
+         speaking on "Tearing the Shrinkwrap: Your Absolute Moral
+         Right To Rip Stuff Off". Come along! It'll be fun!
+         http://www.access.org.uk  hey! Who let the meta-hackers in?
+
+         The iBS INTERNET BOOKSHOP has confirmed many prejudices
+         with its current top 20 bestseller list for the period May
+         to June 1997. Straight in at number 1 is Neverwhere by Neil
+         Gaiman (people figuring that it might work better as a book
+         than as a TV show?), with Iain Banks (Excession), JM
+         Straczynski (Babylon 5), Scott Adams (The Dilbert
+         Principle), and - you've guessed it - Terry Pratchett (3
+         separate entries) filling out the top 10. Bab 5 reappears
+         at number 17 in comprehensive A-Z form, there's a couple of
+         Pride And Prejudice spin-offs for those more sensitive
+         souls, and the only non-fiction titles are Creating Killer
+         Websites by David Siegel and Larry Wall's Programming Perl.
+         http://www.bookshop.co.uk
+                               - I don't get it. Where's the TekWar?
+
+
+                                >> TRACKING <<
+                    we do not want what we've already got
+
+         You haven't been there in years, and you delete those
+         HotFlashes as soon as they arrive, so you might not know
+         that HOTWIRED is to get a redesign on July 1st. It
+         certainly needs one: top story last week from the flagship
+         of the digital revolution was "How to use e-mail with your
+         browser". Hardly "Aux armes, citoyens" is it?
+         http://www.hotwired.com              whinge, whinge, whinge
+
+         Fancy helping out with a good cause? How about a good,
+         massively parallel cause that involves home computers, the
+         Internet, and the search for extra-terrestrial
+         intelligence? Where do you sign? At...
+         http://www.bigscience.com                        hallelujah
+
+         Looks like the game you dreamt of while reading Microserf's
+         will soon become a reality. ADVENTURE ON LEGO ISLAND is
+         slated for release this Autumn: aimed at kids, it's also
+         said to have "adult appeal". I'll say. Build your own lego
+         world, and fight an enemy - made of lego! Published by
+         Mindscape, multiple platforms, RRP UKP22.95, coded, we
+         think, by Above The Garage Productions.
+         http://www.atgp.com/
+             And is this Clarke-Willson guy Michael or Bug Barbecue?
+
+
+                                >> MEMEPOOL <<
+                            ideas turbulence yard
+
+         IBM VoiceType in the sales top ten for three weeks - good
+         word of mouth or appalling games sales? ... X-Files film to
+         star killer bees... "Someone just walked over my
+         homepage"... Squid caching... new look for summer - highly
+         visible nipples (and that's just the *boys*) ... <GEEK>
+         NYTT TEGNESERIEBLAD! JEPP, JEPP! ... Plot Coupons...
+         Murdoch takes over Sky, Turner takes over Time Warner...
+         Fifth Element and the Euro-SciFi renaissance... Kevin Bacon
+         to lead in "Life of Erdos"... icq - covert israeli password
+         snaffler?... www.ditherati.com ... black boxes for cars...
+         next food scare: chlorinated chicken... Calling Bill Gates...
+
+
+                               >> MO' MEDIA <<
+                         full motion video by e-mail
+
+         TV >> And who are those cheeky geeky guys popping up on
+         CYBER CAFE (2.45am, Fri pm/Sat am, LWT; regions may vary) -
+         could it be the editors of NTK now?... and are we the only
+         people who thought RAIN MAN (10pm, Sat, BBC1) was about the
+         hassles of having to look after an annoying yuppie younger
+         brother?... The "Into The Unknown" season concludes by
+         delving into the human psyche, with behind-the-scenes docu
+         MILLENNIUM: FACT OR FICTION (11.05pm, Sat, ITV), 'Nam
+         psycho-thriller JACOB'S LADDER (11.55pm, Sat, ITV), and
+         Chris Carter going way darker than the X Files in the 'real
+         thing', MILLENNIUM (10pm, Sun, ITV)... sticking with sf,
+         this current series of THE OUTER LIMITS (9.35pm, Sat, BBC2)
+         is pretty dumb - but better than you'd think, at least
+         compared to incoherent sixties nonsense like BARBARELLA
+         (11.35pm, Mon, BBC1)... sending celebrity lookalikes -
+         including Fergie, Madonna, and Nelson Mandela - into
+         singles bars is the intriguing premise of all-week
+         10-min slot SINGLES (7.50pm, Mon-Fri, C4)... that one with
+         the cows and the veggie cult heralds (at last) a decently
+         understated episode of THE X FILES (10.20pm, Tue, BBC1),
+         followed by  the suspiciously similarly themed movie
+         DEEP RED, starring Michael "Terminator" Biehn... and,
+         finally, when they call THIS LIFE (9pm, Thu, BBC2) a
+         "twenty-something" drama, are they referring to the age of
+         the cast or how many sodding episodes it seems to
+         have been dragging on for?
+
+         MOVIES >> No-one's dared put out anything decent in the
+         same week as Joel Schumacher's BATMAN AND ROBIN (Clooney,
+         Arnie, Thurman, blah blah blah) - and that, tragically,
+         seems to include BATMAN AND ROBIN. If you haven't yet
+         enjoyed the test-screening responses for this $200-million-
+         plus stinker, they include such gems as "deplorable", "the
+         dialogue was *all* one-liners!", "I would not wish it upon
+         my enemies", and, most succinctly, "DEATH TO SCHUMACHER!".
+         The full review (from the same reassuringly deranged
+         source) reports that punters are now *booing* the
+         director's name as soon as it appears on-screen...
+         http://www.aint-it-cool-news.com/cool61.html        prelude
+         http://www.aint-it-cool-news.com/reviews.html       to doom
+
+         BIO >> Remember reports that LEPTIN is secreted by mice
+         when they've had enough to eat? And how everyone scurried
+         off to prove that fat people suffer from low levels of
+         Leptin? Well, no: turned out we all have the same levels of
+         Leptin after all - people are just greedy bastards. Now,
+         just as the Leptin funds were vanishing, UK scientists have
+         found two obese children with Leptin gene defects. It's so
+         nice we now have a human model of a mouse disease... For
+         those of us with plenty of sit-down-and-stay: the AMERICAN
+         COLLEGE OF SPORTS MEDICINE says that vigorous exercise does
+         nothing to improve your health. Moderate occasional
+         exercise, however, is of value. This may involve walking,
+         playing with children (your own, presumably), breathing and
+         moving your bowels. Just do it... A hominid specimen has
+         been found in Spain which may be the ancestor of HOMOS
+         NEANDERTHAL and SAPIENS. Scientists say it has features of
+         both Neanderthal man and Homo Sapiens. Well, so do many
+         people I know... CHARLES MURRAY, co-author of the Bell
+         Curve, claims in a new study on siblings that IQ correlates
+         with higher income, more education, fewer offspring and
+         less illegitimacy. Well, I have plenty of degrees and no
+         children - so why aren't I earning more? Maybe it's Leptin-
+         induced illegitimacy...                 - doctor@spesh.com
+
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "consumerist trash".
+               Archives now at http://www.spesh.com/cgi-bin/now
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                           http://www.spesh.com/ntk
+
+      Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body.
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and FLIRBLE.ORG.
+              They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com

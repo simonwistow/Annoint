@@ -1,0 +1,332 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-06-08_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "I would be surprised if Virgin is not the biggest provider of
+         Net services in Britain within a couple of years. We've got
+         the brand name to do it, the will to do it, the resources to
+         do it and we're determined to do it..."
+            - self-confessed net novice, RICHARD BRANSON, 2 years ago
+ news.bbc.co.uk/hi/english/business/the_company_file/newsid_280000/280576.stm
+                ...also, having our own ISP sounds *incredibly* cool!
+       http://www.mediaguardian.co.uk/newmedia/story/0,7496,502500,00.html
+
+
+                                >> HARD NEWS <<
+                               friends of yoors?
+
+         Just what is the connection between the Guardian/Observer
+         and dotcom no-hoper MOONFRUIT? The relationship dates back
+         to 2000-01-20, when the Guardian ran a gushy day-in-the-life
+         piece on the company. Entirely coincidentally, the piece was
+         written by a Moonfruit employee, Justin "others have
+         questioned my independence" Hunt. Justin's cut-and-paste
+         from Moonfruit's pitch revealed that they would be "using
+         the latest Flash-based technology": sufficient in itself to
+         invoke the Tuneless Clank of Death in readers' ears. In
+         April, a happy-clappy lifestyle piece in the same paper
+         quoted heavily from the fruit's employees: "If commitment
+         alone were enough Moonfruit - which has just secured its
+         first revenue deal - would be massive". Sadly, though, being
+         committed only helps in breaking into the psychiatric
+         market, and by April 2001, the Guardian was writing more
+         muted pieces, speaking only of the "arguable success" of
+         Moonfruit.com, and mentioning that its "hyped" CEO Wendy Tan
+         was trying to sell the thing off. If Wendy Tan was hyped, it
+         was surely due to the Guardian and Observer: according to
+         the FT's Global Archive, over half of the articles
+         mentioning were from these two papers. This week, though,
+         was the final straw: a piece which, once again, interviewed
+         practically the entire Moonfruit founding team, this time
+         asking them about their nice new jobs, given that MF has now
+         sacked all but seven of its employees. But even *now*, the
+         Observer is still including heavy-handed plugs for the
+         company: "we were offering something they didn't know they
+         wanted... whoever buys Moonfruit will be able to tap into
+         that". Which leaves the question: who at the Grauniad
+         management bought so heavily into this one-trick pony that
+         they're *still* trying to flog it?
+         http://www.guardian.co.uk/Archive/Article/0,4273,3952468,00.html
+                                                       - "optimistic"
+         http://www.guardian.co.uk/Archive/Article/0,4273,4013322,00.html
+                                                         - "holistic"
+         http://www.guardian.co.uk/Archive/Article/0,4273,4197128,00.html
+         - In the words of Austin Powers: WHY WON'T YOU DIE?
+
+         And so farewell, ORBS, the New Zealand anti-spam blackhole
+         list, whose utter paranoia proved both a selling point and a
+         (literal) liability. It's still not entirely clear why
+         maintainer Alan Brown decided to kill it - although the
+         civil suit against him in NZ by companies included on the
+         list, and his decision this month to sell his ISP and quit
+         the whole Net biz altogether might have *something* to do
+         with it. Of course, ORBS has died before, to be reborn -
+         Alan B. only picked up managing the service when previous
+         operator, Alan Hodgson at Dorkslayers, threw in the towel.
+         Now it looks like the former Alan has been playing around
+         with restarting the service (although only for non-USA
+         servers). And what's this? Mirrors of the complete ORBS
+         blacklist, ready for someone else to take up the baton?
+         http://www.dorkslayers.com/
+               - anti-spam people: cranky to the point of incoherence
+         http://data1.orbs.org/
+                          - ...like we can complain. Full dumps here.
+
+         Follow-up to last week's KEITH HENSON news: there's to be a
+         protest outside the Canadian High Commission in Grosvenor
+         Square tomorrow (or the day before yesterday, if you're
+         reading this on Monday) at 1300BST. A prior meet will
+         commence, in true British demo fashion, at the Marlborough
+         Head pub, 24 North Audley Street, London, at noon. Of
+         course, many anti-scientologists can be as, uh, enthusiastic
+         as the most proselytising hubbardista, but we're sure
+         there'll be plenty of room for everyone. If it gets too
+         weird, or they start teargassing everyone, say you're
+         nothing to do with the "manimals" and act like you're
+         shopping.
+http://groups.google.com/groups?num=1&ic=1&selm=m1vgm94ytr.fsf%40krusty.ath.cx
+- this relies on you reading mail on late Fri/early Sat. Ah, you do.
+         http://freehenson.da.ru/
+                                                       - story so far
+
+         *** STOP PRESS ***
+         Keith Henson released: s/demo/thank-you celebration/, we guess:
+         http://www.operatingthetan.com/freedom-release.txt
+         *** STOP PRESS ***
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         net recession explained at last: "industry's driving force"
+         http://www.idfl.co.uk/ has ceased trading; job demand greater
+         than supply: http://www.ntk.net/2001/06/08/dohjobs.gif ... in
+         accordance with MOORE'S LAW, 1982's BBC Micro was "twice as
+         good" as 1977's Apple II, recalls HERMANN "BILL GATES" HAUSER:
+         http://www.independent.co.uk/story.jsp?story=76427 ... after
+         http://www.ntk.net/index.cgi?back=2000/now1013.txt&line=50#l
+         vendetta - http://www.swapitshop.co.uk/ FALCO!... putting the
+         "dead" back into dead tree publishing, SKY bows out with yet
+         another "Sex issue"; BUSINESS AND TECHNOLOGY MAGAZINE goes
+         under after being dragged round Cromwell Media, Reed and
+         Dennis like a ginger stepchild... "Teenage Dirtbag"-style,
+         JANE WAKEFIELD admits proliferating Iron Maiden, BO cliches:
+       http://www.zdnet.com/zdnn/stories/comment/0,5859,2769008,00.html
+         ... LINUX INSIDER's news aggregator not as "infallible" as its
+         subject: http://www.ntk.net/2001/06/08/dohpope.gif ... "net
+         proficiency" thinktank advocates "hypocratic oath" [sic] for
+         politicians: http://www.idea.gov.uk/news/press/270401.htm ...
+         must be a slightly racier version of MINESWEEPER than what
+         we're used to: http://www.minesweeper.8k.com/ ... only one
+         thing as bad as child porn, experts decree - HACKING TOOLS:
+         http://www.securityfocus.com/templates/article.html?id=213 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Somewhere between "scrotnig" and "zarjaz" is our verdict on
+         ART DROIDS 2000AD, a small but perfectly formed display of
+         original artwork from the anachronistically named Brit sci-fi
+         comic of the same name (level 2, Henry Cole Wing, Victoria and
+         Albert Museum, London SW7, UKP5 to get into museum, free after
+         4.30pm). Curator Rufus Dayglo is obviously a fan of scratchy
+         old Mike McMahon (or friends with him or something), but the
+         distinctive penmanship of Carlos "Strontium Dog" Ezquerra and
+         Dave "Rogue Trooper" Gibbons also gets a look in, and there's
+         an early full-colour Dredd story in which the "space vampire"
+         is clearly painted on using Tippex. Almost unforgiveably,
+         there's no Kevin O'Neill, though it is just next door to the
+         Frank Lloyd Wright exhibit, where you can recite your
+         favourite lines from "Blade Runner" against an authentic
+         interior design setting.
+         http://66.34.80.28/index.php3?page=news&story=VA
+           - mag now features "full Werewolf/Vampire sex", apparently
+         http://www.coolbeansworld.com/preview/marshal/index.php
+      - more fun than Joss Whedon's future-Buffy "Fray" comic, anyway
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         If "Oooo-ICK! Ooo-ITCRITICKITRITRICKICRIT (etc)" are sounds
+         that, nearly 20 years later, still set your heart a-racing,
+         then prepare to take a stripey-blue-and-yellow trip back in
+         time with Windows' premier Spectrum Tape Loading Simulation
+         Screensaver, SCREEN$. Directly addressing the common emulator
+         failing that a) they don't usually do the exciting line-by-
+         line rasterisation of the loading screen, topped off with the
+         clumsy "reveal" of the attributes file; and b) the games then
+         turn out to be rubbish, SCREEN$ focuses exclusively on the
+         loading screen element, painstakingly constructing one of 200
+         popular ZX title images, accompanied by authentic real-time
+         sound effects, then giving up and loading another one. What's
+         more, it even crashes with convincingly depressing regularity,
+         presumably part of a "forgetting to blu-tak your Kempston
+         joystick interface edge connector" emulation feature.
+         http://homepage.ntlworld.com/paul.dunn4/screen$.htm
+             - "People reported being able to 'hear' the sound of the
+                  Spectrum loading in their heads whilst watching the
+              first, silent version." SO WHAT'S SO FREAKY ABOUT THAT?
+
+
+                                >> MEMEPOOL <<
+                               oogle the google
+
+         OK, so who comes bottom when you search Google for "SEARCH
+         ENGINE SUBMISSION SERVICES"?... One Onion Ring To Rule Them
+         All: http://www.icv2.com/articles/home/429.html ... fuckin'
+         STUDENTS: http://romance.al.cl.cam.ac.uk/ ... killer WAP ap:
+         http://www.cocklefighting.co.uk/ ... UK government to process
+         last 6 years of net traffic with SETI-style distributed
+         screensaver... http://www.dj-i-robot.com/ ... maybe not the
+         underpant-friction awareness campaign you were hoping for:
+         http://dailynews.yahoo.com/h/nm/20010530/od/greenpeace_dc.html
+         ... EA CORPORATE ANTHEM is epic, overproduced rework of what
+         they did last year: http://www.geocities.com/ea_anthem/ ... at
+         last - a BANNER AD that's inappropriate wherever it's used:
+    http://media.interadnet.com/earthquake_images/00047033-991240086237.gif
+         ... ANN WIDDECOMBE CAPTION COMPETITION - we have a winner!:
+         http://www.neilhunt.org.uk/ ... this week's crank EBAY AUCTION:
+       http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1434765906
+         ... filling in online registration forms using email addresses
+         "borrowed" from (say) http://www.e-envoy.gov.uk/whoswho.htm ,
+         http://www.dma.org.uk ... best argument against e-democracy
+         so far: http://www.sclub7net.co.uk/best.htm ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> underrated cult-classic movie night tonight, with Billy
+         Zane as Time Crisis' Richard Miller in Silent Scope: The Movie
+         adaptation SNIPER (11.05pm, Fri, BBC1), plus African-American
+         "Twilight Zone"-style anthology COSMIC SLOP (12.25am, Fri, C5)
+         ... WW2 rages on with the dog-no-longer-called-"Nigger" edit
+         of warcrime celebration THE DAM BUSTERS (2.35pm, Sat, BBC1),
+         plus a refreshingly non-PC account of Japanese atrocities in
+         HELL IN THE PACIFIC (9pm, Thu, C4)... and BBC1's embarrassing
+         attempt to cash in on young people's text-messaging craze THE
+         JOY OF TEXT NIGHT (from 7.25pm, Sat, BBC1) handily includes
+         Sylvester Stallone as the mercilessly futuristic - yet
+         cryptically monosyllabic JUDGE DREDD (10pm, Sat, BBC1)...
+         William "Manhunter" Petersen props up flashy CBS-saving Vegas-
+         set import CSI: CRIME SCENE INVESTIGATION (9pm, Sat, C5)...
+         allegedly supplying the inspiration for the terrible "Strange
+         Days" http://binky.paragon.co.uk/it/issue17/sd/sd.html is the
+         most shocking thing about 1960's supposedly meta-voyeuristic
+         PEEPING TOM (3.40am, Sat, C4)... STEVE LEONARD'S ULTIMATE
+         KILLERS (8.30pm, Sun, BBC1) travels the world in search of its
+         most lethal animals and pits them against each other, to see
+         which would win in a fight... while Bill Oddie and Adam "Local
+         Heroes" Hart-Davis excavate LIVE FROM DINOSAUR ISLAND (7pm,
+         Sun; 8pm, Mon & Wed, BBC2) - not to be confused with Martin
+         Bashir's outrage over xenotransplant technologies that don't
+         even exist yet, in ORGAN FARM (11pm, Sun; 11.30pm, Wed, ITV)
+         ... Donal "Undercover" MacIntyre infiltrates the execution of
+         Timothy McVeigh aka THE OKLAHOMA BOMBER (9pm, Mon, BBC1),
+         previously postponed due to football... self-consciously
+         offbeat Coen comedy THE BIG LEBOWSKI (11.05pm, Mon, C4) gets
+         its terrestrial premier... teens talk dirty masquerading as
+         social commentary in C4's TEENAGE KICKS strand (10.30pm, Tue-
+         Thu, C4)... and using "genius sperm" can produce autistic
+         offspring, reveals HOW TO MAKE A GENIUS (7.30pm, Wed, BBC1),
+         as if the two were mutually exclusive...
+
+         FILM>> "Shakespeare In Love" meets "Bring It On" in Kirsten
+         Dunst's intertextual amateur dramatics highschooler GET OVER
+         IT (http://www.capalert.com/capreports/getoverit.htm : vulgar
+         dance moves with sensuous dress; encouragement of masturbation
+         and sexual freedom by parents; gaping face kissing; vulgar
+         mimicking of male intercourse with another male's ear; teen
+         pair in her bedroom sitting on her bed giggling with no
+         supervision; "Thank Buddha"; flatulence in an audience)...
+         Warren Beatty's reincarnation comedy "Heaven Can Wait" comes
+         back again - as a black guy! - with Chris "Lethal Weapon 4"
+         Rock, Eugene "Best In Show" Levy and the directors of
+         "American Pie" notably failing to enlighten DOWN TO EARTH
+         (http://www.family.org/pplace/pi/films/A0014824.html : huge
+         theological liberties; reincarnation is central to the story
+         line; Jennifer "American Pie" Coolidge's immodest wardrobe is
+         disgusting)... while Mathieu "La Haine" Kassovitz directs Jean
+         "Leon" Reno as a mismatched cop partner in hotly unawaited
+         clueless French "Se7en" remake THE CRIMSON RIVERS (MPAA: Rated
+         R for violence/grisly images and language)...
+
+         THE VICTORIAN AFFECTATION>> and well done to THE KIDS FROM
+         FAME, who've fended off strong competition from both THE
+         ADVENTURES OF ROBINSON CRUSOE and THE A-TEAM, to maintain
+         their inexplicable pre-eminence at the top of our audio-visual
+         UK bestsellers, now updated at http://www.ntk.net/books/ . The
+         US chart has meanwhile been dominated by an individual (or
+         individuals) intent on purchasing the entire back catalogue of
+         both THE KINKS and ORSON WELLES - right up to his largely
+         unheralded vocal performance in TRANSFORMERS: THE MOVIE.
+         Bookwise, a recent surge by Thomas Pynchon and various guides
+         to Dinky toys have failed to unseat the ever-popular NEAL
+         STEPHENSON, though reader LLOYD WOOD was quick to point out
+         that "sample chapters" of his recently re-released THE BIG U
+         (well, the whole thing in fact) are still unofficially
+         available online: http://www.csr.uvic.ca/~evemden/books/ ...
+         in other news, watch for the literary debuts of geek heroes
+         LINUS TORVALDS ("Just For Fun: The Story of an Accidental
+         Revolutionary") and STEWART LEE (from out of "Lee And
+         Herring"), whose "The Perfect Fool" appears to be a semi-
+         autobiographical account of his personal quest for truth in
+         Las Vegas, Arizona and Balham. Hardest man in SF GREG EGAN has
+         updated his site http://www.netspace.net.au/~gregegan/ with
+         full text of his Alan Turing vs CS Lewis short story, plus
+         info on his next book, SCHILD'S LADDER, a promising-looking
+         return to his previous "When Physics Attacks" form. Less
+         prestigiously, DOUG RUSHKOFF is back with an "Open Source"
+         novel, helpfully entitled BULL - and, even more worryingly,
+         http://www.rushkoff.com/tour.html he's *right here in the
+         country with us!*... thanks to everyone who wrote pointing
+         out that the HOW TO GOOD-BYE DEPRESSION: IF YOU CONSTRICT ANUS
+         100 TIMES EVERYDAY guy is at last available in textbook form:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0595094724/ [NTK
+         2000-10-27]... to A CHEFFIE, who theorised NTK 2001-04-27's
+         link to "Ladies' Fashion/ Heavy Duty Equipments" merchant site
+         http://www.symmic.com/ might be "an American Psycho startup
+         kit"... and to HENRY RADDICK and "ANDREW LLOYD-WEBBER", who
+         both objected to being described as "fake book reviewers",
+         Raddick by highlighting his considerable critical oeuvre:
+http://www.amazon.com/exec/obidos/tg/cm/member-reviews/-/AA9IP6AYACFK5/
+         - while "Every word is hammered on the anvil of truth",
+         asserts Lloyd-Webber. "Ditto my good friend LLOYD GROSSMAN":
+http://www.amazon.com/exec/obidos/tg/cm/member-reviews/-/A26B16032PETMN/ ...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "the post-modern end of lefty British activism"
+           http://www.inet-one.com/cypherpunks/current/msg00269.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

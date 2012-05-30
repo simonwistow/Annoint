@@ -1,0 +1,306 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-01-05_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "A few years ago, we realised that we weren't far away from
+         having a global telephone network with as many connections
+         as the human brain. We've passed that now. BT tried to
+         explore whether there was any danger of consciousness
+         occurring, but had to give up, because we don't know what
+         makes a thing conscious."
+         http://www.observer.co.uk/life/story/0,6903,416413,00.html
+                            - IAN PEARSON, BT's head futurololologist
+..."A BT Engineer called to verify the existence of a self-aware
+    artificial intelligence in the phone network, but you were out."
+
+
+                                >> HARD NEWS <<
+                        Arthur, are these worlds yours?
+
+         We all love Christmas and New Year - because everyone takes
+         a week off work to spend time with their friends and
+         families, and all the hacked and broken websites get to
+         stay up just that little bit longer. GRANADA-TV.CO.UK's
+         Apache server was radically misconfigured for at least 4
+         days (until yesterday), generously serving password files to
+         casual Crack users hoping to obtain logins for "This
+         Morning" and "Emmerdale" ("woolsack" and "tmo", you slack
+         Granada sysadmins, you). REGISTER readers were assured that
+         the defacing of BA's GO-FLY.COM did not put customer data at
+         risk; shadowy security vigilantes THE DATA NETWORK SECURITY
+         COUNCIL begged to differ, pointing out that go-fly's
+         webserver still appeared to be exploitable via script kiddy
+         favourite Remote Data Services - "with full read/write
+         privileges". And finally, another seasonal shopper claimed
+         that placing an order at SERVICESALES.SEL.SONY.COM "lists
+         the encryption key and output file name (placed under
+         /usr/local/etc/httpd/htdocs.service/service/temp/temp[order#].
+         txt.asc)" - though, to throw those wily haxxors off the
+         scent, "that line is generated using a white font so it
+         can't be seen. It shows up if you highlight it, though."
+         Start as you mean to go on, folks. Start as you mean to go on.
+         http://book.fly-go.com/msadc/samples/adctest.asp
+                - requires MSIE 4+ web browser, Asynch Connections off
+         http://www.theregister.co.uk/content/6/15756.html
+         - vs http://www.iamcal.com/ami/ : "Am I The Register Or Not?"
+
+         Still, even after a rest, we're left with nothing much this
+         week but predictable profit warnings, Mac panic price-cuts
+         and almost-in-accordance-with-prophecy kernel releases. And
+         so we return to the perennial mysteries, such as: what is it
+         *really* like at Menwith Hill? Thanks to the ongoing
+         research at now wildly off-topic Mark-Thomas mailing list
+         for sending us http://dingo.getbent.net/~petdragon/ - a
+         Wiccan-oriented guide to relocating there for the American
+         military. Common prejudice regarding pagans (to wit: lovely
+         gentle folk who you still never ever want to see skyclad,
+         ta) are somewhat undone here by the whole "running the
+         bizarre protestor lady over" thought-experiment in this
+         guide. That lady is, of course, Lindis Percy, winner of the
+         1998 "Winston" Big Brother Award for her monitoring of the
+         monitoring station, and one of the few people to commit a
+         successful private prosecution against a military police
+         officer. And we're still not sure where the "do no harm" bit
+         lies here: but, hell, if you had the chance to conduct a
+         rite in those golfballs, wouldn't you transfer?
+         http://www.gn.apc.org/cndyorks/caab/newsletters/caab7inf.htm#mhpros
+                    - that "wise woman" mythos not ringing any bells?
+http://www.sunspot.net/content/cover/story?storyid=+1150520223288
+                         - just don't ask about the chocolate pudding
+         http://www.officialsecretsact.org/
+                                - what JA ([NTK 2000-03-10]) did next
+
+         And some heroes and villains remain, whatever the
+         millennium. Although this year's ISPA awards' have a
+         particularly tough choice, as their "Internet Villain"
+         category is sponsored by BRITISH TELECOM. Guess it's no
+         surprise, then, that the first nomination goes to... David
+         Edmonds, DG of Oftel. Ah, yes. That universally reviled figure.
+         http://www.ispaawards.org.uk/html/vi_internet_villain.asp
+               - Jack Straw's your safest bet in these situations, BT
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         COMPUSERVE users "not as tech savvy" as AOLers, shudders:
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2670460,00.html
+         ... SOPHOS unveil 2001's major virus threats a month early:
+         http://www.sophos.com/virusinfo/analyses/w32hybrisc.html ...
+         "Browse the best NEW YEAR'S EVE PARTIES events by month",
+         suggests http://www.whatsonwhen.com/themes/newyearparties.jml
+         ... could this be the MOST BROKEN WEB PAGE of all time?:
+         http://www.ratedepot.com/Lenders/LVendors/LVMain.shtml ...
+         TIME OUT asks "Britain's Net Gurus" about "The Year Ahead"
+         (p21): "High Streets will start to look archaic, expensive and
+         boring", says UK MD of LETSBUYIT.COM (who should know); they
+         then speak to fictional ATTACHMENTS character "Mike Fisher",
+         and spell his URL wrong... "Where is MOBY today?" enquires
+         http://www.moby-online.com/ - when he should be at home fixing
+         his .asp's?... "lesser-used languages" at European Bureau for
+         promoting same http://www.eblul.org/javapb-gb.htm include
+         Cornish, Aragonese, GERMAN... your LICENSE FEES at work #n+1:
+         http://www.bbc.co.uk/radio1/images/artists/ - providing free
+         gold-CD inlay thumbnails... nice warm FALCO! for OVEN UK
+         ... ARTHUR ANDERSEN CONSULTING change name to toothpaste...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Even THE REGISTER, who are paid to do this sort of thing, have
+         had problems cataloguing the massive publicity onslaught
+         mounted by KEVIN WARWICK over the holidays. Capitalising on
+         the apparent kudos of his Royal Institution lectures, Kev went
+         on to appear in yesterday's Sun, explaining how his "robot
+         that runs away when anybody in the laboratory tries to switch
+         it off" is merely the vanguard of "more powerful machines"
+         which we "will have no option but to obey". His mission to
+         warn and inform continues next Wednesday 2001-01-10 at IT-in-
+         education trade show BETT 2001, with his touring crowd-pleaser
+         "Will it be Super Intelligent Machines or Cyborgs?". Spotter
+         OPERATIVE IAN seemed oddly reassured that "under 18's will not
+         be admitted" to the show, and that cybersex pioneer Kevin will
+         not be involved in teaching "the facts of life".
+     http://www.bettshow.com/bett/seminars.asp?SectionName=bett_Seminar
+                      - vs http://www.lifeskills4kids.com/assembly.html
+         http://www.thesun.co.uk/life/archive/13278561
+        - the URL that http://www.theregister.co.uk/content/28/15806.html
+                                            might have been looking for
+         http://www.singinst.org/
+         - named after Omega's power source in the "The Three Doctors"?
+http://www.google.com/search?q=cache:www.ananova.com/area404/diarywk1.html
+                        - day 6: "I think I'm in love. WITH A MACHINE!"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Seems like only yesterday that we clustered around the
+         office SGI, revelling in CHRIS PIRAZZI's amazing 1995 live
+         video->ascii art convertor. Well, now you too can pray that
+         such fripperies don't lead your company to inevitable
+         stagnation and collapse, when you too compile your own copy
+         of HASCIICAM for Video4Linux. Features include dumping in
+         VT100 friendly spools (for live telecasts via telnet) or
+         automatic HTML generation for counterintuitively large
+         Webcam uploads. Now it's just a matter of selling banner-ad
+         space on your "Am I Naked In This Text Dump Or Not" Website,
+         and you'll have it all.
+         http://ascii.dyne.org/
+                          - needs aa-lib, as all the best programs do
+         http://reality.sgi.com/cpirazzi/ttyvideo.html
+                            - "the future was here yesterday", indeed
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         The worse you dress, the more important they'll think you are:
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2670475,00.html
+         ... what's more likely - STALLONE as DR WHO, or KEVIN ELDON
+         as "gay cyberman"? http://www.gallifreyone.com/news.htm ...
+         idea for Palm app: http://www.angio.net/personal/climb/speed ...
+         BILLIE does her bit for http://62.189.42.122/common/comp.htm by
+         sleeping with orange-haired twat... s/Weird Al/LARRY WALL/g:
+         http://history.perl.org/misc/al_wall/ ... INFINITE amusement:
+         http://LHP2.com/leeches/ ... http://www.micromusic.net/ vs
+         http://www.hybrisnemesis.com/ppot/ ...life imitates SIMPSONS:
+http://www.guardian.co.uk/breakingnews/International/0,3561,647346,00.html
+         ... http://www.hymen.co.uk/ vs http://www.technicalvirgin.com
+         ... "No-one knows who installed the [monolith]" - NATCH:
+ http://dailynews.yahoo.com/h/p/ap/20010102/us/monolith_mystery.html ...
+         http://members.spree.com/education/stophairloss/index.html
+         - ALIEN ABDUCTEES go bald, too... mmm, tastes like CHERRY:
+         http://dailynews.yahoo.com/h/nm/20010104/od/blood_dc_1.html ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> one good thing about the New Year: some decent TV for a
+         change, with debut runs of FRASIER (10pm, Fri, C4) - plus, on
+         digital/cable, BUFFY THE VAMPIRE SLAYER (8pm, Fri, Sky1),
+         ANGEL (9pm, Fri, Sky1) and, later in the week, a double-bill
+         of high-finance glamour-porn in Yasmine "Baywatch" Bleeth's
+         TITANS (9pm, Sun, Sky1) plus THE $TREET (9pm, Tue, Sky1),
+         featuring Jennifer "Labyrinth, Dark City" Connelly... C4
+         continues its not-at-all stereotypical "Secret Life Of Japan"
+         with AH-SO GRAHAM NORTON (10.30pm, Fri, C4), plus what's bee
+         billed as the 1954 "Gojira" but actually appears to be the
+         1956 US remake GODZILLA, KING OF THE MONSTERS (1.40am, Fri,
+         C4)... just after the maddest "mad bomber" movie ever, the
+         "Mousetrap"-based BLOWN AWAY (11.30pm, Fri, ITV)... filling up
+         4 hours of Saturday prime-time comes THE 100 GREATEST NUMBER
+         ONE SINGLES (8pm, Sat, C4) - some people are never satisfied:
+     http://mudhole.spodnet.uk.com/~frogger/corpses/update2/hell.htm
+         ... Michael "Heat" Mann continues his "dangerous obsession"
+         movies in period shoot-'em-up THE LAST OF THE MOHICANS (9pm,
+         Sat, BBC2)... and Bridget Fonda remakes Luc Besson's "Nikita"
+         as THE ASSASSIN (11.10pm, Sat, ITV) - not to be confused with
+         the subsequent TV spin-off show and "homopervert's fantasy":
+     http://libercratic.government.directnic.com/Journal/culture/TV.htm
+         - god knows what they'd make of Jennifer Lopez battling that
+         giant computer-generated ANACONDA (9pm, Sun, C4)... militia
+         apologist Joel Schumacher shows reassuring restraint in
+         FALLING DOWN (10.15pm, Sun, BBC1)... the eponymous prankster
+         attempts to wring laughs from the Data Protection Act in THE
+         MARK THOMAS PRODUCT (11.10pm, Mon & Wed, C4)... self-help is
+         on the agenda with the BBC's mental "On The Edge" season (from
+         10.35pm, Tue, BBC1), coincidentally coinciding with BBC2's
+         assertiveness-training CONFIDENCE LAB (9.50pm, Wed), and C4's
+         entirely non-prurient PERFECT BREASTS (10pm, Tue)... while Thu
+         sees the return of Richard http://www.disinfo.com/ Metzger's
+         DISINFO NATION (12.45am, Thu, C4); the legally postponed
+         garbology nerd doc SCANDAL IN THE BINS (10pm, Thu, C4); and,
+         almost inevitably, HORIZON promising "new evidence" of "Life
+         on Mars" (9pm, Thu, BBC2)...
+
+         FILM>> it seems only Ang "Sense and Sensibility, Ride With The
+         Devil" Lee could achieve the near-miraculous feat of making a
+         kung-fu movie that chicks can enjoy as well, in the form of
+         extensive wirework Chinese Charlie's Angels-alike CROUCHING
+         TIGER, HIDDEN DRAGON (http://www.cndb.com/ : [Ziyi Zhang] asks
+         Li if it's her or the Green Destiny sword that he wants and
+         then pulls open her top and we briefly see her nipples through
+         her wet shirt)... otherwise it's the oddly untantalising
+         prospect of another tedious Bruce Willis/ M Night Shyamalan
+         ding-dong - this time something to do with superheroes - in
+         UNBREAKABLE (http://www.hollywoodjesus.com/unbreakable.htm :
+         Every day hundreds of millions of people worldwide read and
+         understand the visual-story medium which is known as "comics")
+         ... Kim Basinger, Christina Ricci fritter away their hard-won
+         credibility in autistic second-coming CGI-fest BLESS THE CHILD
+         (http://www.capalert.com/capreports/blessthechild.htm : murder
+         by knitting needles to the eyes; mockery of the reality of
+         Satan using kids to attack Jesus; animal brutality; child
+         banging head against wall)... or Patrick "Lawnmower Man 2"
+         Bergin, Tia "Wayne's World" Carrere, Rik "Young Ones" Mayall -
+         together at last! - in time-travel tosh MERLIN: THE RETURN
+( www.bbc.co.uk/films/2000/12/18/merlin_the_return_2000_review.shtml :
+         "It's almost as if director Paul Matthews had accepted a bet
+         to make the worst possible film. Well, he's succeeded")...
+
+         BUMPER BONER BONANZA>> OK, so we never got round to doing an
+         end-of-year quiz this time, but we thought we'd make up for it
+         by littering our past year's output with minor (and not so
+         minor) technical inaccuracies that you could write in about -
+         to win nothing but the approval of your peers and, of course,
+         NTK's everlasting gratitude... when we described the movie
+         "Aces High" as a "WW2-er" [NTK 2000-11-17], DISCO DAVE hit
+         back with "Strange old bi-planes they had in WW2, eh?"... when
+         we hypothesised that Dudley Moore's last ever TV appearance
+         [NTK 2000-12-01] might be an "unusually cruel Peter Cook
+         prank", MICHAEL WALSH felt duty-bound to point out that it
+         would be "unusually weird, too, as Peter Cook himself has been
+         dead for some time"... *and* we almost entirely misunderstood
+         the mechanics of LASTMINUTE's share dilution [NTK 2000-11-24],
+         the real details of which are too staggeringly dull for even
+         us to go into here... DAVID MADISON semi-defended The Onion's
+       http://www.theonion.com/onion3644/black_guy_photoshopped_in.html
+         story, which we alleged might have been "imitated" from Wired
+         http://www.wired.com/news/culture/0,1284,39233,00.html [NTK
+         2000-12-15], when in fact "the same thing actually happened a
+         few weeks before at the University of Wisconsin at Madison":
+         http://www.ccchronicle.com/back/2000-10-02/campus5.html -
+         where The Onion started off in the first place... ADRIAN
+         MOULDER berated us severely for overlooking the "Replicant-
+         like plight" of limited-edition RoboNagis [NTK 2000-11-24]:
+         http://www.robonagi.com/Robonagi/html/collectibillity.htm , 5
+         of which were "scheduled to be 'retired'" by the end of last
+         year... and finally, DOUGLAS HOLLANDS gave the most plausible
+         explanation for Stephen Hawking's mysterious injuries [NTK
+         2000-11-17], citing http://www.mchawking.com to posit "Perhaps
+         his injuries were sustained at the recent Source Hip-Hop Music
+         Awards?" http://www.livedaily.com/news/1698.html . NTK regrets
+         that this correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                           "mentioned in job specs"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

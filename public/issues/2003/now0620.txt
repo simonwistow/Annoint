@@ -1,0 +1,318 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-06-20_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Lady Susan Greenfield suggested that advances in technology
+         would one day enable anyone, of whatever age or sexual
+         orientation, to become a parent in a bland society of like-
+         minded individuals who would get on better with a computer
+         than another person [...] Described as Britain's most
+         glamorous and flamboyant scientist..."
+         http://www.smh.com.au/articles/2003/06/07/1054700446731.html
+                       ...well, that's what it says in her .plan file
+
+
+                               >> HARD NEWS <<
+                             with Beverley Hughes
+
+         Thanks to (what we assume must have been) the anonymous NTK
+         reader who wrote to their MP Anne McIntosh to ask how many
+         STAND contributions were received by the Home Office's ID
+         card consultation. Ta too to whoever tipped off the Earl of
+         Northesk to ask in the House of Lords what they were going
+         to do about it. Both got their Ministerial replies this
+         week. It's mixed news. Turns out that the Home Office did
+         count all those emails after all, and lo and behold 4856 of
+         them were against. Which means, as the BBC said in their
+         news headline, that an overwhelming majority of the
+         consultation responses were against ID cards, not for, as
+         the ministers had been saying previously.
+         http://news.bbc.co.uk/1/hi/technology/3004376.stm
+                                  - another Home Office U-turn, maybe
+         http://tinyurl.com/et48
+                                        - Ms Hughes gives the figures
+         http://tinyurl.com/et32
+                           - or is it 4000? Make up your minds, kids!
+
+         Meanwhile, upstairs, the Earl of Helpdesk was told that the
+         contributions would be treated a bit like "a teletext
+         survey". Which isn't quite as bad as it sounds. One of the
+         biggest reasons STAND got involved was that Home Office
+         ministers were lauding their initial two thousand responses
+         as though it was a referendum on how cool ID cards were -
+         when in fact, numerically, that claim had as much validity
+         as a slashdot poll (or hell, a teletext poll, if it had
+         Cowboy Neal as an option). Consultations are good for
+         gathering a range of views. But they're not supposed to be
+         a show of hands. Any politician who claims that the
+         consultation provided a majority of support is going to get
+         their heads bitten off by our all-wise media and opposition
+         from now on. We hope.
+         http://tinyurl.com/et4b
+- House Of Lords reply. It's like a DOS attack on parliament, this. Again.
+         http://www.gmnation.org.uk/dz_08/form01.asp
+                   - now *here's* a real multiple-choice consultation
+
+         Finally, it looks like they're postponing the whole thing
+         until after Summer recess, which is a relief. Also postponed
+         - again - is the UK's implementation of the Euro-DMCA, the
+         EUCD. They don't even say when they plan to have that done
+         by. Maybe they're hoping it'll just go away. Expect a
+         speedier press release from Parliament's ALL-PARTY SPAM
+         SUMMIT on July 1st, although I'm sure we'll wait and wait
+         and see for results. It's invite only: we really hope
+         they've included the Nigerian Ambassador. Also coming up,
+         sometime, from those crazy politicos: an explanation as to
+         exactly how the police plan to run the Internet, as they
+         will be empowered to do in times of emergency by the new
+         Civil Contingencies Bill. We have these vague visions of
+         traffic police standing on routers, waving the packets
+         through...
+         http://www.apig.org.uk/spam_summit.htm
+                         - "a new global-level organisation"... uh oh
+         http://www.patent.gov.uk/copy/notices/implementation.htm
+                                                         - dog ate it
+         http://www.timesonline.co.uk/newspaper/0,,176-714188,00.html
+          - and where do you think you're going with that, son? Mars?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         BBC cover up "fencepost error" by inventing metric minutes 100
+         seconds long: http://www.ntk.net/2003/06/20/doh100.gif ...
+         revive their (Dave McKean inspired?) "abstract illustration"
+         division: http://news.bbc.co.uk/1/2975828.stm ... drew this
+         "tattoo" in biro?: http://www.ntk.net/2003/06/20/dohfist.gif
+         ... almost two-thirds of young mothers "fed up with dog mess
+         on pavements": http://news.bbc.co.uk/1/hi/2980028.stm - 33%
+         think it's "quite nice" or just "OK"... http://www.iobox.com/
+         - FALCOOOO!... but phew - VICTORIA REAL saved for the nation:
+     http://media.guardian.co.uk/mediaguardian/story/0,7558,978066,00.html
+         ... http://www.webfusion.co.uk/ endorsed by tech expert
+         Philippa Forrester, vs "with gloves like these the manipulator
+         can molest any part of the child's body placed against the
+         screen": http://media.guardian.co.uk/Print/0,3858,4229582,00.html ...
+         new thrill (ctd) - even if powergenitalia was a spoof, can't
+         argue with: http://ringtoneshits.com , http://www.ipedo.com ,
+         http://whorepresents.com , http://www.classicalbums.co.uk ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         You might be a fan of CORY DOCTOROW, his books, the EFF - or
+         all three. You might be near Birmingham next Thursday. You
+         might even be at THE LINUX USER AND DEVELOPER EXPO 2003 (from
+         Tue 2003-06-24 to 06-26, Birmingham NEC, entrance free). But
+         you might not want - or be able - to pay the 60 or so quid it
+         costs to hear him speak at the fancy-schmancy "conference"
+         part of the show, in which case you'll be pleased to hear that
+         he'll be hanging out at the CAMPAIGN FOR DIGITAL RIGHTS stand
+         from 11am on Thu 2003-06-26, chatting, answering questions and
+         maybe even signing anything you've brought along. At around
+         noon, you are then invited to adjourn to one of the NEC's
+         well-stocked cafeterias, for an informal NTK "birds of a
+         feather" lunchtime session on intellectual property, the
+         creative commons, software patents, and the contents of any
+         snack vending machines in the immediate vicinity.
+http://www.linuxuser.co.uk/expo/?module=ContentExpress&func=display&ceid=13
+   - down in the .ORG Village at midday: http://www.linuxexpo.org.uk/
+      http://www.workfoundation.com/research/isociety/open_spectrum.jsp
+                      - Cory also frees the airwaves in London on Tue
+
+         Of course, the dedicated Doctorow-stalker will also attempt
+         to catch his talk to the OXFORD UNIVERSITY SPECULATIVE FICTION
+         GROUP (8pm, Graves Room, St John's College, Oxford, Wed 2003-
+         06-25, possibly aimed at University members and their bona-
+         fide guests only). If, however, you're hoping to *avoid* Cory
+         on your Linux-related travels, there is no evidence to suggest
+         he'll be attending "Happiness In a Virtual World", a LINUX
+         USERS MEET UP NORTH! gathering scheduled for 7.30pm this Sat
+         2003-06-21 at Micklegate Bar, York Brewery, free but RSVP.
+         Soon: world domination. But first: a piss-up in a brewery.
+         http://www.bytemark-hosting.co.uk/events/york20030621/
+     - OK, there's a talk on User-mode Linux and Virtual Machines too
+         http://www.craphound.com/bio.html
+         - you know, the BoingBoing guy who always posts about Disney
+         http://www.swarming.org.uk/recl/reclwer.htm
+           - and don't forget to reclaim the Thames beach on Saturday
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         No tracking this week: just a hole for rent. With the launch
+         of the Treo and that Palm-on-a-watch thing, and with
+         smartphones slinking in all over the place, we have to ask:
+         where are the open source handheld scripting development
+         environments? Yeah, we know you can download the SDK at
+         home, but where's the challenge in that. You want to sit and
+         hack on your *watch*. Kids in playgrounds should be writing
+         shitty games with swearwords in them in BASIC until the
+         screen makes them go blind and the keyboards turn their
+         fingertips to callouses. We're not despairing: we're sure
+         there's J2EE-friendly onscreen Jython interpreter out there,
+         or a way of coding OML on Symbian phones, or a RISC Basic
+         port to PalmOS 5. But we don't have all these platforms, so
+         we can't test them - or, indeed, be bothered to look. Tell
+         us, and we'll gullibly list the supposed "best" at some
+         point. Or write one, and start a new Cambrian explosion of
+         teen hacking, the like we've not seen since Mr Sinclair was
+         alive.
+         http://www.surrealservices.co.uk/
+                                             - oh, he's not dead yet?
+         http://www.lispme.de/lispme/
+       - best free alternative on Palm. and the kids go wild for lisp!
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         maybe why it slows down when there's lots of stuff on screen?:
+         http://java.about.com/cs/technologies/a/matrix_reloaded_4.htm
+         ... and what better way to honour her Klingon grandparents?:
+        http://www.babyzone.com/babynames/nameinventor.asp?gender=female
+         ... http://physicsweb.org/article/news/7/6/13 - vs unexplained
+         resurgence of 1997's NANOGUITAR meme... '80s coder makes good
+         - "As a teenager, David Webb wrote books about programming the
+         Z-80 Sinclair Spectrum" (yeah, and Melbourne House's STARION):
+        http://quote.bloomberg.com/apps/news?pid=nifea&&sid=aW4nO4EzhNgc
+         ... this week's bandwidth-limited Tripod site - take that,
+         Emotion Eric: http://kemical.tripod.com/ERLCM/manual.html ...
+         every bit of education funding helps - Aston Uni goes PayPal:
+         http://www.ee.aston.ac.uk/teaching/tutorials/paths ; Jesus
+         College, Cambridge prefers the more refined Amazon referrals:
+         http://www.jesus.cam.ac.uk/internal.html ... and those who
+         can't criticise, take incomprehensible potshots at those who
+         do: http://www.rcubednews.com/ (mostly PDFs, sorry)...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> women's mag journalist Famke "Dr Jean Grey" Janssen draws
+         on - get this! - her personal life for inspiration in LOVE AND
+         SEX (2am, Fri, C4), then pops up again next Friday night in
+         DEEP RISING (11.10pm, Fri, BBC1)... the first two instalments
+         FX: MURDER BY ILLUSION (10.05pm, Fri, C5) and FX2: THE DEADLY
+         ART OF ILLUSION (10pm, Wed, C5) only add to anticipation of
+         the concluding part of the trilogy, "FX3: Die Bryan Brown
+         Die!"... and place your bets now on how long self-consciously
+         zany medi-comedy SCRUBS will survive at 9.30pm on a Friday
+         on C4... the movie "Meet The Parents" becomes humiliation
+         reality-show MEET MY FOLKS (6.15pm, Sat, BBC1)... Jim Carrey's
+         "Somebody To Love" cover remains the Ben Stiller-tormenting
+         highlight of THE CABLE GUY (9.45pm, Sat, C4)... and make what
+         you will of the high-profile timeslot for the UK terrestrial
+         premiere of Robin Williams WW2 comedy JAKOB THE LIAR (2.40am,
+         Sat, C4)... Kate Jackson week commences with ADRIFT (11.05pm,
+         Sat, C5) and continues with weekdaily showings of CHARLIE'S
+         ANGELS (2.35pm, Mon-Fri, C5)... it's Kevin Spacey, Linda
+         Fiorentino, Helen Baxendale, and improbable Oirish accents -
+         together at last! - in ORDINARY DECENT CRIMINAL (10.45pm, Sun,
+         BBC2)... SUPERFLY (11.20pm, Tue, BBC2) ponders whether
+         there'll ever be a Drosophila Melanogaster mutant tough enough
+         to fight off a GIANT HORNET ATTACK (7.15pm, Thu, C5)... Chuck
+         D and Ice T rap with Alan Y-to-the-B in IMAGINE's 50-min
+         history of hip-hop (10.35pm, Wed, BBC1)... and BERNARD'S
+         BOMBAY DREAM (9pm, Thu, C4) sends stand-up comedian Bernard
+         Manning to India - raising the question: why can't we send
+         them all there?...
+
+         FILM>> never mind getting rid of Vin Diesel, they've even
+         ditched Jordana Brewster for deranged roadracing sequel 2 FAST
+         2 FURIOUS ( http://www.bbfc.co.uk/ : distributor chose to
+         reduce the violence of the heroes in one scene by removing 3
+         kicks, a stamp and a spit, all delivered to a prone man, in
+         order to achieve a 12A) - Roger Ebert as entertaining as ever:
+         http://www.suntimes.com/ebert/ebert_reviews/2003/06/060603.html
+         ... John Travolta and Connie "Gladiator" Nielsen play bad cop/
+         worse cop in nutty modern military police procedural BASIC
+         ( http://www.capalert.com/capreports/basic.htm : homosexual
+         presence; "bad daddy" blame; upper female nudity)... plus
+         there's a limited arthouse release for both John Cusack Hitler
+         psychohistory MAX ( http://www.bbfc.co.uk/ : contains strong
+         language and violence)... along with this week's precocious
+         supposedly sassy adolescent getting involved with older women,
+         though this time played by guy who was "Biro" in X-Men 2 and
+         with Susan Sarandon's role played by Sigourney Weaver, TADPOLE
+         ( http://www.capalert.com/capreports/tadpole.htm : teen out
+         all night without parental knowledge; stepmother kissing
+         stepson; Oscar is in love with his mother!)...
+
+         AVAILABLE IN A WIDE RANGE OF BLACK>> "That's weird - it works
+         on my machine" is our catchphrase for the summer, suggested by
+         reader ANDY BRICE a while ago, and now adorning the chest of
+         our newest NTK t-shirt in gorgeous monospaced courier as part
+         of a "catch ( exception& )" C++ clause. Andy receives 2 pounds
+         Earth Money for each one sold via http://www.ntkmart.com/ -
+         yes, not quite as much as the UKP3.00 per item due to "the PC
+         Extreme team" for our other new addition of "O|\|lY L4m3r5
+         5p34|< L33t" (oh, you work it out), but that's because they
+         are able to promote the latter via their own website and/or
+         magazine. Get in touch if you're interested in doing something
+         similar for your own cult webpage, club, society or Half-Life
+         clan... of course, traditional reader entries are always
+         welcome, with ASCII still proving popular with both MATTHEW
+         KIRKWOOD http://www.geekstyle.co.uk/images/kirkwood1.gif and
+         the ever-persistent LUKE PILLANS' tribute to Rene Magritte:
+        http://www.btinternet.com/~l.pillans/ceci_nest_pas_une_cig.gif .
+         LAURENCE TUCKER devised our most complicated graphics gag
+         yet in the second of http://www.industry.f9.co.uk/shirts/ ,
+         NICK BALL stuck to some of the tragic basics of sysadmin life
+         in http://members.optusnet.com.au/nicalu/boozetech.jpg , and
+         STEVE C provided his own visualisation of the actual internet
+         to confirm http://www.fractalus.com/steve/tmp/inter.jpg ...
+         text slogans ranged from LLOYD WOOD's vaguely Buffy-esque
+         tribute "[Front print] Yay, me! [Back print] Go, me!", to
+         JAYNE HAYWARD's "LOADING - Please wait" (or "DEFRAGGED"), and
+         GARETH ROBINSON's reassuringly pop-retro "echo beach\n beach"
+         plus "echo and the bunnymen\n and the bunnymen". Well done to
+         all of you - we'll decide on the winners (if any) based on
+         focus group testing, reader feedback, and which ones look best
+         rendered in cheapo TrueType fonts... in the meantime, we have
+         five copies of the astonishingly filth-packed UNNOVATIONS book
+         http://www.unnovations.com/ (and the same number of t-shirts)
+         to give away to the best suggestions for either a Japlish-
+         style slogan for NTK http://www.tanuki.org.uk/japlish.html -
+         or a florid J Peterman-style ad blurb for one of the products
+         in our range http://www.jpeterman.com/discoveries.htm . Or, if
+         you're prepared to risk it, a combination of the two...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "occasionally [...] a decent read"
+                http://www.popbitch.com/newboard/21/86/68/4/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

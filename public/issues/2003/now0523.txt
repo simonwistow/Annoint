@@ -1,0 +1,331 @@
+              [SPECIAL SPAM-FILTER HEURISTIC TEST EDITION]
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-05-23_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Burrell has also dismissed claims that Diana was pregnant 
+         when she died or that she had taken cocaine. 'Her body was an 
+         absolute temple, she would not put anything into her
+         body that was foreign' he said..."
+                     - http://uk.news.yahoo.com/030522/140/e0lsb.html
+           ...so that covers the "pregnancy" rumours - what about the 
+                                                     "taking cocaine"?
+
+
+                               >> HARD NEWS <<
+                                an Elven ruse
+
+         Best new coinage comes from the dependably pipe-smoking
+         analysts of ukcrypto, who this week have been discussing
+         what they call the "little elves" problem. This is a
+         surveillance issue, noted by John Grisham, that no matter
+         how much data you collect on the people, eventually you need
+         a load of "little elves in booths" to plough through it all.
+         Currently negotiating with ISPs about how government elves
+         will get hold of the magic pixie traffic data dust is BOB
+         LACK, the Home Office's consultant on the Data Retention
+         Consultation paper (responses due by June 3rd, please show
+         working). He's certainly had some experience with the tiny
+         creatures of imagination. As PRIVACY INTERNATIONAL
+         summarised this week, his campaign to get magic pixie facial
+         recognition into the Newham CCTV network has, at current
+         media estimates, led to... well, probably no arrests at
+         all. Or at least, none that they're reporting.
+http://www.chiark.greenend.org.uk/pipermail/ukcrypto/2003-May/025858.html
+                                               - "cabbages and kings"
+http://www.privacyinternational.org/countries/uk/surveillance/lack-faq.html
+                                                        - Lack attack
+
+         Still, technology marches on. If you ask us, the real future
+         is in *massively parallel peer-to-peer* elves. Take FLEET
+         ONLINE. This Dutch business-oriented service was introduced
+         a month ago to the UK. It's a pay-as-you-go site that lets
+         companies instantly locate their employees' mobile phones,
+         to a granularity of the nearest cell (ie 50m in urban
+         areas). Positioning costs 25p a shot. Here's the real
+         gimmick, though: you can sign up yourself, and then add any
+         mobile phone you'd like to be geolocated. Oh sure, your
+         victim will get an initial "Do you want to be tracked?"
+         opt-in message, and then another in two weeks. But think of
+         all the phones you can get physical access to long enough to
+         say yes to that original text. Friends! Spouses! Potential
+         stalking fodder! And what you could do in two weeks.
+         Supposing you're a burgling elf: you could nick that phone,
+         sign it up, give it back, find out where they live via the
+         geolocator. And then *find out when they're out*! It's a
+         RISKS Digest all of its own!
+         http://www.fleetonline.net/
+              - that'll give the geourl people something to play with
+
+         We don't normally get involved in local politics, but were 
+         nonetheless intrigued to see factions associated with computer 
+         security club LONDON 2600 so strenuously protesting the 
+         capital's 2012 Olympics bid. And sure, they make some 
+         interesting points about the lack of public consultation, the 
+         potential disruption to everyday life, and the fact that, 
+         let's face it, all sport is rubbish. However, there's another 
+         objection, closer to the heart of any metropolitan haxx0r, 
+         which they've inexplicably failed to mention so far: that the 
+         planned location of the Olympic stadium - around the disused 
+         Hackney Wick dog track - is currently one of the UK's finest 
+         Mad-Max-style "bartertown" weekly marketplaces for (among more 
+         traditional fare) pirate DVDs, distressed PC hardware and 
+         Eastern European pr0n.
+     http://www.mayor-of-london.co.uk/cgi-bin/no-london-olympics-2012.pl
+         - not too keen on that *disastrous* Congestion Charge either
+         http://www.streetmap.co.uk/newmap.srf?x=537272&y=184904
+                                     - every Sunday morning, from 6am
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Mobile number portability could be available in Ireland from 
+         mid 20002:" http://www.onbusiness.ie/2001/0515/odtr.html - 
+         can't be too soon for always-ahead-of-his-time Michael Nyman: 
+       http://www.bfi.org.uk/videocat/index.php/page/item_view/code/317
+         ... end-of-the-first-century Roman forums very like those of 
+         today: http://www.roman-empire.net/wwwboard/wwwboard5.html ... 
+         for all those classical scholars who sent us www.lipsum.com/ : 
+       http://www.post-gazette.com/images2/20030513schooldistrictsmap.gif
+         ... odd BBC stats: http://www.ntk.net/2003/05/23/dohtext.gif - 
+         maybe they should stick with vague comparisons to "the speed 
+         of e-mail": http://www.ntk.net/2003/05/23/dohbowl.gif ... 
+         http://www.mfigroup.co.uk/ "place great importance on the need 
+         to communicate effectivley"... David Icke, fnords and careless 
+         search-and-replace - together at last! (search for "yellow"):
+     http://www.davidicke.net/symbolism/secretsocieties/july2002/symbols.html
+         ... CMS made *too* fricking easy: http://www.phpgs.com/news.php
+         ... another "security through 'please go away' messages" page: 
+         http://www.amberleymarine.co.uk/graphics.htm ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Next Fri (2003-05-30) is the closing date for the NETMEDIA 
+         EUROPEAN ONLINE JOURNALISM AWARDS (this year relocated to 
+         Barcelona) and THE NEW STATESMAN NEW MEDIA AWARDS 2003 (still 
+         sponsored by ID card advocates SchlumbergerSema). But if 
+         you're looking for strange bedfellows (in every sense of the 
+         phrase), you need go no further than next weekend's DOWNLOAD 
+         FESTIVAL (Sat & Sun, 2003-05-30/06-01, Donington Park, from 
+         UKP39.50 per day). It's a rebel-rousing monsters-of-rock 
+         spectacular headlined by IRON MAIDEN and brought to you by 
+         CLEAR CHANNEL, a company familiar to dedicated media-watchers 
+         for owning an alarming number of US radio stations and also 
+         sponsoring many of their pro-war rallies. On the plus side, 
+         however, their commitment to free speech does include backing 
+         this year's UK dates for inadvertent Bush-antagonists THE 
+         DIXIE CHICKS, whom the Clear Channel Live site painstakingly 
+         describes as "brash", "irreverent", and "among the foremost 
+         and most provocative ambassadors country music has today". 
+         http://www.downloadfestival.co.uk/
+                               - vs http://www.clearchannelsucks.org/
+         http://www.alternet.org/mediaculture/2003/04/000645.html
+       - vs http://www.cclive.co.uk/events/details.asp?wid=8&rid=2278
+         http://www.newstatesman.co.uk/nma/nma2003home.htm
+               - vs http://www.ntk.net/index.cgi?b=02003-02-07&l=19#l
+         http://www.net-media.co.uk/awards/
+         - no prize for "Best Google-powered Armchair Investigation"?
+
+         THE FREENETWORKS CONFERENCE in Las Vegas on June 7th-8th
+         plans to be a giant association point of the wifi clans,
+         with Consume, BAWUG, NoCat, Seattle Wireless and others
+         comparing notes, etherpegging one another screenshots of one
+         another etherpegging one another, microwaving each others'
+         hardware and trying not to *all* wear their "Criminal
+         Anarchist Parasite" T-shirts at the same time. $250 gets you
+         entry if you can afford to wing it to Vegas. Mail us at
+         vegasbabyvegas@spesh.com if you are planning to do so, and
+         we'll see if we can't whistle up an NTK BOF For Poor Lonely
+         And Suddenly Fantastically Drunk Brits of some kind.
+         http://con.freenetworks.org/
+- Death to the telcos! But first, a bit more work on this PHP node map
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Hard to believe that BITTORRENT, the share-as-you-go
+         adhoc-kamai de jour is over a year old. In the months of
+         semi-obscurity, its author Bram Cohen spent much of his time
+         twiddling the algorithm to scale better, and stripping out
+         much of the interface to make it easier to use. So,
+         naturally, the third-party BT clients that have sprung up in
+         his wake concern themselves with adding tons more interface,
+         much of which is concerned with tweaking the algorithm to
+         get worse performance. Still, an easier way of creating a
+         .torrent file, or setting up a tracker, was probably needed.
+         kRypt appears to have two of the bases covered: his
+         MAKETORRENT program lets you craft a torrent file that
+         points to all the most popular trackers, and BURST!, his new
+         client, lets obsessive downloaders juggle endless stats and
+         manage multiple torrent downloads. Both are very Windowsy,
+         leaving others toying with the far more Unixy SNARK, which
+         wraps up a torrent creator with a built-in tracker to give
+         you one-line distribution. But only for those non-infringing
+         files, kids!
+         http://www.dessent.net/btfaq/
+                                           - BitTorrent in a NutShell
+         http://krypt.dyndns.org:81/torrent/
+                                 - Burst! More experimental even than
+         http://ei.kefro.st/projects/btclient/
+                                            - the experimental client
+         http://www.klomp.org/snark/
+                  - the co-option of the co-evolution of co-operation
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         concrete barrier should deter "the casual bomber", reassures 
+         BBC: http://news.bbc.co.uk/1/2931044.stm ... experts divided: 
+     http://links.daqron.com/atkinsgood vs http://links.daqron.com/atkinsbad 
+         ... ultimate indignity - headless zombie rabbit gets parking 
+         ticket only a day later: http://news.bbc.co.uk/1/3047267.stm ,
+         http://news.bbc.co.uk/2/3051447.stm ... still think someone 
+         should remake "The Fast And The Furious" for the overclocking 
+         scene: http://www.sxoc.com/vbb/showthread.php?threadid=16216 
+         ... the new Japlish: http://www.curtisfong.org/fobonics/ ... 
+         maybe they ought to mention it's also "derogatory slang for 
+         a black person"?: http://www.ultimatesambo.com/what.htm ... 
+     http://www.guardian.co.uk/international/story/0,3604,952541,00.html 
+         vs http://www.google.com/search?q=%22tall+iraqi+citizens%22
+         ... http://www.casdon.co.uk/product_pgs/prod_521.html vs 
+  http://s1.amazon.com/exec/varzea/ts/exchange-glance/Y04Y4809448Y8910618/
+         ... http://ratesandavailability.com/10229343.htm room features 
+         "complimentary goldfish" - to appeal to lucrative visiting 
+         Danish artist market: http://news.bbc.co.uk/1/3040891.stm ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the perils of a phone-free existence are exhaustively 
+         highlighted in CAN YOU LIVE WITHOUT YOUR MOBILE? (8pm, Fri, 
+         C4) - for a start, you wouldn't be able to help fund new 
+         social surveillance experiments like yet another bloody series 
+         of BIG BROTHER (8.30pm, Fri, C4)... remember to shout "Look, a 
+         can of Guinness!" as they're examining the IRA camp satellite 
+         photos in PATRIOT GAMES (9pm, Sat, C4)... C5 explores ways of 
+         augmenting humanity in the original SIX MILLION DOLLAR MAN 
+         (2.45pm, Sun, C5) and the execrable BABY GENIUSES (6.15pm, 
+         Sun, C5)... as C4 takes a more morbid approach with Achille 
+         Lauro opera THE DEATH OF KLINGHOFFER (6.55pm, Sun, C4), the 
+         special edition of U-boat epic DAS BOOT (1.45am, Sun, C4), 
+         plus a new series of SIX FEET UNDER (10pm, Sun, C4)... modern 
+         life in all its horrors is unflinchingly portrayed in career 
+         makeover show APPLY IMMEDIATELY (9pm, Wed, BBC2), marriage 
+         fly-on-the-wall MR AND MRS (9.50pm, Wed, BBC2), freakish 
+         homegrown chat format THE MICHAEL ESSANY SHOW (11.45pm, Wed, 
+         C4), and erratic but often hilariously uncomfortable "George 
+         from Seinfeld" sitcom CURB YOUR ENTHUSIASM (12midnight, Tue-
+         Thu, BBC2)... while "Despite Warnings, Stubborn Mayor *Once 
+         Again* Refuses To Cancel Festivities" in Tom Sizemore monster 
+         nonsense THE RELIC (10.35pm, Thu, BBC1)... 
+         
+         FILM>> of course, it's never going to have the impact of its 
+         genre-shattering predecessor - this inevitable followup has 
+         too many characters, improbable philosophical discussions, 
+         over-trailed special f/x and fart gags, so we say wait for the 
+         video release of Rob Schneider/ Anna Faris body-swap THE HOT 
+         CHICK ( http://www.capalert.com/capreports/hotchick-the.htm : 
+         homosexually-charged comedy about forced personality exchange; 
+         demonstration of urination; young boy pretending to be a girl; 
+         goth/witch, repeatedly)... to be honest, we were never that 
+         keen on the first "Matrix" movie, so it comes as a relief that 
+         they've ditched that tiresome geek-messiah-makeover plot in 
+         favour of something more like a big-budget episode of "Tron: 
+         the TV series" for wirework-kung-fu yawn THE MATRIX RELOADED 
+   ( http://www.cndb.com/movie.html?title=Matrix+Reloaded+%282003%29%2C+The :
+         at the end of the scene, as he lies naked with Trinity, Neo's 
+         ass is seen)... or it's Julia Roberts, David "X Files" 
+         Duchovny, David "Frasier" Hyde Pierce, and introducing David 
+         "Fight Club" Fincher - as himself! - in Steven Soderbergh's 
+         perhaps overly-experimental film-within-a-film FULL FRONTAL 
+       ( http://www.cndb.com/movie.html?title=Full+Frontal+%282002%29 :
+         there may be something [of Duchovny's] to see here, but true 
+         examination won't be possible until this one's on DVD)...
+
+         THE "VICTORIAN AFFECTATION">> which means it's time for our 
+         semi-annual round-up of what you, NTK's talented readers, have 
+         been busy writing. Iain Aitch provides a comprehensive account 
+         of "what he did in his holidays" - making crop circles, re-
+         enacting WW2 etc - in extreme-daytripping odyssey A FETE WORSE 
+         THAN DEATH (Headline, UKP 14.99, http://www.iainaitch.com/ ) 
+        http://www.amazon.co.uk/exec/obidos/ASIN/0755311906/needtoknow0e
+         (like you're all going to dash out and buy the hardback) - not 
+         quite as funny as Jon Ronson (what is?), but covering slightly 
+         more entertaining material than Ronson tends to nowadays. For 
+         instance: a dog show where the announcer refers to the pets' 
+         owners as their "mummies"... there's (slightly) more bloodshed 
+         in James "Dragonmeet" Wallis' harrowing (and apparently semi-
+         autobiographical) Warhammer novelisation MARK OF DAMNATION 
+        http://www.amazon.co.uk/exec/obidos/ASIN/1841542792/needtoknow0e
+         (Games Workshop, UKP5.99) - with a nice line in anachronistic 
+         humour amongst all the "By Sigmar!" exclamations... we haven't 
+         got hold of Ben Hammersley's CONTENT SYNDICATION WITH RSS yet 
+        http://www.amazon.co.uk/exec/obidos/ASIN/0596003838/needtoknow0e
+         (O'Reilly, UKP20.95), following the sad news that they've 
+         canned his followup BLOGGING HACKS http://www.bookofblog.com/ 
+         - though we did enjoy the same publisher's new edition (but 
+         not-for-neophytes) PHP POCKET REFERENCE (O'Reilly, UKP9.95), a 
+         compact and comprehensive function lookup list should you, for 
+         whatever reason, ever find yourself programming without access 
+         to http://www.php.net/ ... in other dead tree news, EFF 
+         activist, star of last year's "Extreme Computing" event, and 
+         irrepressibly zeitgeisty "Down And Out In The Magic Kingdom" 
+         author CORY DOCTOROW http://www.craphound.com/down/ will be 
+         out and about in the *United* Kingdom in June, and potentially 
+         interested in any "speaking engagements" you may have to offer 
+         - mail us at NTK and we'll pass them on... and reader LLOYD 
+         WOOD became "Tom Paulin" to our "Late Review", by identifying 
+         William Gibson's PATTERN RECOGNITION (Penguin, UKP16.99) 
+        http://www.amazon.co.uk/exec/obidos/ASIN/0670875597/needtoknow0e
+         as "essentially the same damn book yet again; more Gibson 
+         refined redux", though did subsequently muse whether "Star 
+         Wars Kid" is the "garage Kubrick" the book describes. Lloyd 
+         also proclaimed himself bemused by "all the fuss" over "the 
+         production values and effort" that went into Stephen Wolfram's 
+         A NEW KIND OF SCIENCE (Wolfram Media, $44.95), pointing out 
+         that "the Argos catalogue is almost 1200 pages, in full 
+         colour, FREE, and details stuff that actually EXISTS. Bet it 
+         racked up more mouse miles in Photoshop too"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "last man standing?"
+                   http://www.brunching.com/debriefing.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

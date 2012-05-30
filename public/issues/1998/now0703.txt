@@ -1,0 +1,297 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____03/07/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+     "People don't pay for the software [in China]. Someday they will,
+     though. And as long as they're going to steal it, we want them to
+     steal ours.  They'll get sort of addicted, and then we'll figure
+                     out how to collect sometime in the next decade."
+                - BILL GATES, explaining Microsoft's Chinese strategy
+                                            well, it worked for opium
+
+                                >> HARD NEWS <<
+                                 multiple sues 
+         
+         "See you in court" became less of a threat this week, as it
+         transpired that's where everybody else was. INTEL popped in
+         for a brief chat with administrative law judge James Timony,
+         pleading that the Federal Trade's Commission anti-trust suit
+         needed "clarification" (translation: "who, us?"). Judge
+         Timony, in a two-line statement, told them to shut up and
+         prepare to reap justice. In other chambers, MICROSOFT
+         settled with weeny Chicago ISP SyNet, who had the temerity
+         to point out they owned the trademark "Internet Explorer".
+         Microsoft, who had claimed that the term was too generic to
+         own, in the end paid SyNet $5 million for the right not to
+         own it for themselves. And as that was wrapping up, IBM
+         found itself battling over ownership of the letter 'e'. A
+         French company, E Technologies, says that it has trademarked
+         the popular vowel (ingeniously done up to look like an @
+         symbol) in both Franc and Blgium, with licenses held by
+         Sesame Street and a chain of drug dealerships in those
+         countries.
+         http://www.mtv.com/news/gallery/b/brooksg980326.html 
+                                                - 'F' still available
+         http://www.base.com/gordoni/thoughts/wired.html 
+                                    - rest of ASCII going fast though
+
+         Britain and Ireland: two nations separated by a terrible,
+         unbridgeable gulf - the considerable difference in IQ of their
+         governments. This week, Ireland put forward proposals for
+         the simplest, most sensible cryptography policy to be seen
+         yet - support for digital signatures, strong crypto for all
+         citizens, but with a legal obligation to hand over your keys
+         when requested. By contrast, the British government somehow
+         managed to saddle their tech businesses with even more dumb,
+         unusable legislation. In their response to the Arms-to-Iraq
+         Scott report, the Labour government promised strong
+         legislation to prevent the proliferation of arms abroad.
+         Slipped into the white paper was the declared intent to
+         extend export controls to include data spread via the Net.
+         Sound familiar? Yup: it's the road to declaring certain
+         forms of computer code (nuke plans certainly, crypto almost
+         explicitly by extension) an unexportable munition in its own
+         right, just as in the US.  Great idea: unenforceable in
+         practice, and criminalising almost every high-tech reseach
+         or business organisation that depends on international
+         co-operation. Well, never mind - at least there's somewhere
+         close to move to.
+         http://www.wired.com/news/news/culture/story/13334.html
+                        - even if you have to live next to Negroponte
+         http://www.irlgov.ie/tec/html/signat.htm
+                                                  - a modest proposal
+         http://www.dti.gov.uk/export.control/stratex/
+                                          - uh-uh! my name's the dti!
+
+         Still, it could be worse. You could be in Italy*, where a
+         non-profit mailserver was "preventatively" seized by police
+         on Saturday after its archiving software put an allegedly
+         libellous mailing list posting onto the Web. Presumably, the
+         Italian magistrates will now try and convict the PC for
+         perpetrating such a despicable act. In the meanwhile,
+         hundreds of users of Isolenella Rete ("Islands in the Net")
+         are without mail or Web space, even though very few of them
+         were involved in the act, and no-one has yet to be charged.
+         Anyone want to adopt a few Net refugees?
+         *-apologies to subscribers Antonio, Duncan, Dario, Curzola,
+         Luke, Michelotto and Stop, who are. It's nice apart from
+         that, though, isn't it?
+         http://www.strano.net/news/inr.html#english 
+                               - "Postal Police" : a worrying concept 
+         http://www.ecn.org/
+                     - the irony is, it's probably some awful neo-nazi 
+                         site, but we've got no way of finding out... 
+
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         TOWER now filing 2600-clones in children's magazine
+         section... VIRGIN courts controversy with beat-'em-up THRILL
+         KILL, in which female dominatrix character "simulates an
+         orgasm" while despatching opponents... post-NEWHOUSE Wired:
+         Prada suits in the Colophon, Gore Vidal, *Jackie Charlton*
+         in Fetish, while subscriber BRUCE STERLING's study of the
+         "Triple Xtra Large" strangely omits himself... electricity
+         generators "have too much power", BBC NEWS uncovers... DAVID
+         BOWIE to offer portal service... CRIME KILLER tries to court
+         *more* controversy with "Rough Justice: Tough Shit"
+         posters... COMPUSERVE goes for 17.95UKP 'flat' fee -
+         Falco!... EFF fundraising gig unveils life-sized statue of
+         JERRY GARCIA ... barely-improved TIMES INTERFACE runs
+         possibly *the worst feature of all time*, a breathy
+         first-person account of a games launch at the US Embassy
+         (p7), featuring the paragraph: "The receptionist told me to
+         take a seat nearby and to wait, adding that someone would be
+         along shortly"... C|Net runs banner that boasts "We've got
+         HTML covered from &65; to &90;!" - which is invalid HTML
+         (see http://www.illuminated.co.uk/cnet/ for details)...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         One of the few end-of-the-world gigs that you can
+         pre-register for : the SUBGENIUS RELIGION times out
+         spectacularly when X-Day finally arrives on Sunday 05/07/98.
+         Devotees will gather at "Ground Zero", Brushwood, Sherman,
+         NY, ready to beam aboard the escape vessels of the Sex
+         Goddesses, a bit like Heaven's Gate, but this time for
+         real.  Apparently many will be leaving behind "Last
+         Starfighter"-style android clones - leaving the "pinks" to,
+         wrongly, assume that the whole thing didn't happen.
+         http://www.subgenius.com/bigfist/fun/devivals/X-Day98/X-Day98.html
+                          - so who's going to maintain Slackware now?
+
+         The commendable INDEX ON CENSORSHIP and Chris Ellison's INTERNET
+         FREEDOM group are having a discussion on "Hate Speech" at
+         London's Webshack on Thursday 09/07/98 from 1400BST onwards.
+         Given the closeness of the two organisation's opinions, we
+         can't imagine there'll be much in the way of live
+         demonstrations. Thank God, then, that the chat is being
+         relayed via a Undernet IRC channel called '#hatespeech' - a
+         name ripe for misunderstanding amongst IRC's genuine
+         hatespeech fans.
+         http://www.oneworld.org/index_oc/index.html
+                               - wonder what their /kick policy will be
+         http://www.webshack-cafe.com/
+                                  - less free speech! more free beer!
+         
+
+                                >> TRACKING << 
+                                net tucker man
+
+         A couple of updates from our resident road warrior, Moose,
+         who seems to be attempting to create his own tellytubbyesque
+         internal TV system. Part I: the not-just-for-kids B&W TYCO
+         Videocam is now down to 20UKP at branches of Debenhams and
+         Toys &funny_r; Us. It's a 320x287 greyscale PAL camera, which 
+         when crunched underfoot reveals a matchbox-size CCD package.
+         Perfect, as Moose says, for "attaching to a radio-controlled
+         car or secreting in milady's boudoir". Or plugging into your
+         handheld Linux workstation. What's that? Not got a Libretto
+         yet? Well, it might be an idea to wait - news from Japan is
+         that a sequel to the almost-affordable Toshiba Libretto 70
+         has been announced. The 1000SS (for that is its name) is
+         *even* thinner, *even* faster. And, let's hope, *even*
+         *more* *expensive*.
+         http://www.reality.demon.co.uk/tyco.htm 
+         - but think of all the money you've saved on video equipment
+         http://www.cerfnet.com/~adorable/libretto.html
+                  - yes yes, we know you'd need a PCMCIA framegrabber
+         http://www.mitt.demon.co.uk/
+                                     - 24 hour spinning geek cam NOW! 
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Hunting for passwords by sticking '::$DATA' on .asp URLs...
+         ANTZ vs A BUG'S LIFE... ALAN MOORE (more MOORE!) returns
+         with LEAGUE OF EXTRAORDINARY GENTLEMEN... where has STUART
+         DINSEY taken all the CTW staff?... rumschpringes...
+         videoing GAME BOY CAMERA anims by playing them back through
+         your Super Game Boy... who ate all the pies?
+         http://www.pierecipe.com/ ... Girl Power cabal uses
+         hypnotism to destroy traditional male sport... Quakers!
+         http://www.sujoy.com/ now readable again!... rebels with
+         rather too many causes - http://www.protest.net/ ... more
+         armchairish insurrection at http://www.spanner.org/mclibel/vdo/
+         ... WWF on PCP - http://www.wwf.com/news/137.html ... DAVID
+         BRAKE *is* John Shuttleworth ... DISHWASHER PETE speaks -
+         http://www.obscurestore.com/ ...  
+
+
+                               >> GEEK MEDIA << 
+                           life from a safe distance 
+
+         TV>> just when you thought it was safe to etc etc - not
+         since Discovery's hilarious ratings-grabbing "Shark Week"
+         has there been schedules like JAWS 2 (8pm, Sat, BBC1 if no
+         football), JAWS 3 (8.05pm, Sat, Sky Movies Gold), and JAWS
+         (9.40pm, Wed, UK Gold)... C4 Fridays shaping up promisingly
+         for new Friends/ Frasier/ South Park next week, except for,
+         uh-oh, SO GRAHAM NORTON (10.30pm, Fri, C4). "So fucking
+         what?" you may well ask... rest easy, Gene Roddenberry's
+         wacko future fable GENESIS II (12.40am, Sat, BBC1 if no
+         football) isn't a US dramatisation of Sega's Megadrive II...
+         a great TMWRNJ joke is born, with Anthony Hopkins
+         fantasising over Emma Thompson in THE REMAINS OF THE DAY
+         (7.45pm, Sat, ITV if no football), then Debra Winger in
+         SHADOWLANDS (8pm, Wed, C5)... "gratuitous widescreen
+         presentation!" is the fun thing to yell at the
+         always-watchable repeat of WAYNE'S WORLD (9pm, Sun, BBC2)...
+         THE SOUTH BANK SHOW (10.50pm, Sun, ITV) pays long-due homage
+         to the best presenter The Big Breakfast never had (and
+         Extropian soundalike): Will Self... no excuse for either new
+         fly-on-the-wall-of-a-shopping-mall docu LAKESIDERS (8.30pm,
+         Mon, BBC1) or the "thrice weekly" dinner-party chat with
+         RUBY WAX (11.15pm, Mon, BBC2)... more Lee & Herring humour:
+         no, you don't have to have seen "the other seven" to enjoy
+         Andy Garcia/ Uma Thuman thriller JENNIFER EIGHT (10.30pm,
+         Wed, BBC1 if football)... so, also avoid Rutger Hauer in
+         Dead Calm rip-off TV movie VOYAGE (10.30pm, Tue, BBC1 if
+         football), for starkly French narco-cop drama L.627
+         (11.05pm, Tue, C4) - and no, you don't have to have seen
+         "the other 626"... life imitates art, with a double bill of
+         behind-bars action for real-life con Christian Slater (from
+         9.30pm, Thu, BBC1)... while RUNAWAY (9pm, Thu, C5) has cop
+         Tom Selleck hunting funny little "malfunctioning robots", in
+         something of a major plot departure for Michael Crichton,
+         also writer of Westworld...
+         
+         FILM>> Ivan Reitman still hasn't made a decent film since
+         Ghostbusters, with the two lead performances the only reason
+         not to give nil points to SIX DAYS, SEVEN NIGHTS (imdb:
+         adventure / romance / comedy / pilot / wrecked) - some sort
+         of hoo-haa about Anne Heche being gay in real life, when it
+         is well known that other Hollywood stars are *all entirely
+         heterosexual*... America's oldest teens re-unite in
+         profanity-packing meta-retro frolic GREASE (imdb: comedy /
+         musical / romance / blockbuster / based-on-play / teen /
+         1950s / high-school), commemorating the fact that the gap
+         between now and the original release date is the same as
+         between 1978 and the era that the film actually depicts...
+         at last - the surprisingly humorous high-culture gay
+         stalking TV satire the world's been waiting for, with John
+         Hurt and - of course - Beverly Hills 90210's Jason
+         Priestley, tussling with LOVE AND DEATH ON LONG ISLAND
+         (imdb: comedy / based-on-novel / psychological)... and a
+         limited release - if at all - for whiny Nick Broomfield's
+         latest gets-good-at-the-end odyssey KURT AND COURTNEY
+         (various sources: at first, looks like it couldn't have been
+         suicide; but Nick concludes Courtney didn't "off" him. Well,
+         obviously - she's been much too busy with her movie career.
+         *And* appearing in "Friends" every week!)...
+
+         FEEDING>> we can't find the WALLS WINNER TACO ice-cream
+         experience (80p) anywhere in London, but are assured it's
+         like a normal choc-ice that's (according to a promo leaflet)
+         "unique in it's [sic] ability to refresh and recharge... it
+         truly is a powerful new snack!". And without a hint of
+         Tex-Mex chilli flavouring either... oh and CALIPO SHOTS
+         aren't even out yet (due 20/07/98)... over with crisps,
+         CHEETOS are *back* (and now cheapo 15p)...  in another vague
+         Lee & Herring tie-in, the milk-optional "cereal formerly
+         known as CINAMMON TOAST CRUNCH" has now become, horror of
+         horrors, "CINNAMON GRAHAMS"... it was minor supermarket
+         BUDGENS who bought all the UK's 7-11s, turned them into
+         "b2"s, may now rebrand some as "Budgens" again - interesting
+         facts from top business weekly THE GROCER, online (behind
+         mad registration system) at http://www.foodanddrink.co.uk
+         ... ultra-obsessive "inconspicous consumption" food zine
+         BEER FRAME (US$2.50) now imported into UK by famed Kinder
+         Egg collector: http://www.mpawson.demon.co.uk/ ... and the
+         reason you've always needed to say "eh-oh" at the checkout
+         in Marks And Spencers: UKP1.29 for a 500g carton of 100%
+         TV-official TUBBY CUSTARD...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+   It is registered at the Post Office as "Happy 900 Million Seconds, Unix!"
+                 perl -e 'print scalar gmtime( 900_000_000 );' 
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

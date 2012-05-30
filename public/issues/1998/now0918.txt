@@ -1,0 +1,325 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____18/09/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        
+         Dear .Net,
+         Although you say in Issue 45 that downloading warez is
+         equivalent to going into a shop and stealing something, the
+         two situations are hardly comparable [...] 
+                                                - Paul
+
+         Dear Paul,
+         Your naivity [sic] is touching yet misplaced. Why do you
+         think the anti-piracy organisation Federation
+         Against Software Theft is so called? And while we're at it,
+         what about the Federation Against Copyright Theft?
+                                          - .NET letters page, Oct 98
+         ...so if we form SLOW, the Society for the Liberation Of Warez,
+                                               would that make it OK?
+
+
+                                >> HARD NEWS <<
+                               free to peruse?
+
+         The GUARDIAN this week devised an fiendishly distributed system
+         of encryption for its article on police seizure of ISP-held
+         data. Duncan Campbell's "Police tighten the Net" piece began
+         with the revelation that a major ISP had been raided, and
+         one of its employees arrested as part of the global
+         "Operation Wonderland" child porn crackdown.  The ISP was
+         not named in the main article: instead, the newspaper
+         steganographically concealed its identity by hiding it in
+         the same edition's "Corrections" section. The Guardian there
+         apologised in advance for implying that any Demon employees
+         were apprehend--- whoops! Meanwhile, safe from the lawyers,
+         the Web edition of the paper identified Demon in the first
+         (unedited) paragraph of the article - and continued to
+         maintain an arrest had taken place.
+         http://online.guardian.co.uk/theweb/905960359-privacy.html
+         
+         All of these tactics fortunately failed to conceal
+         Campbell's main thesis - that ISPs are being pressured to
+         open up their servers to general police inspection. The
+         timing for ISPs couldn't be worse - at the same time as the
+         police force are encouraging them to sign an informal
+         "memorandum of understanding" to allow this, the government
+         is preparing its draft E-COMMERCE BILL, expected in October
+         and probably to include a new criminal offence, inserted by
+         the Home Office: it will become a crime to refuse to provide
+         plaintext versions of encrypted data to the authorities in
+         the course of a prosecution. Worse still, over in the US,
+         tech companies appear to be reaching a privacy consensus
+         with the government there: in return for a relaxation on
+         strong crypto controls, hardware manufacturers like Cisco
+         will introduce new strong crypto-enhanced routers that will,
+         nonetheless, have a plaintext backdoor for law enforcement.
+         With that hardware installed at ISPs' offices, the memo of
+         understanding signed, and the UK legislation in place,
+         British ISPs will become what they have been desperately
+         trying to avoid all this time: an easy touch when it comes
+         to stomping over the rights of their own customers.
+         http://www.wired.com/news/news/technology/story/13658.html 
+                  - in which the privacy lobby propose the compromise
+         http://www.techweb.com/wire/story/TWB19980916S0012 
+                - and the US government start being nice for a change
+         
+         Oh, yadda, yadda, yadda. Enough with the dull and gloomy
+         crypto talk: what fun stuff is happening in that crazy zany
+         UK IT industry? Well, the good news for ACORN fans is that
+         next month's Acorn World show has been postponed, giving
+         RISC PC owners a chance to build up even more excitement
+         over the platform's future. The bad news is that... it
+         doesn't have one. Acorn are abandoning all future RISC PC
+         developments, sacking 2/3rds of their non-engineering staff,
+         and moving everybody else to their set-top box and Apple
+         co-development departments. Amiga owners should zoom over
+         to comp.sys.acorn.advocacy and crow while you can. In the
+         meantime, the remaining Acornites are talking of turning the
+         original Acorn World date into a drunken wake. We'll drink
+         to that.  
+         http://wwwis.cs.utwente.nl:8080/~faase/Ha/Atom/ 
+                              - from little Atoms, mighty Acorns fail 
+         http://www.hotgames.com/games/v2000/review.htm 
+                                   - still, there's always Virus 2000
+         
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                
+         SLASHDOT feature on the problems of too many Slashdot
+         comments receives over 350 comments... more current
+         Microsoft employees at BURNING MAN than current Wired
+         employees... new Irish TV show TECHTV Web forum crashes
+         after presenter is referenced as "that fucking gobshite" -
+         see http://www.hackwatch.com/~kooltek for details... by
+         contrast, the guestbook at http://www.alfayed.com/ is
+         impressively one-sided... NYTIMES hackers gain respect
+         via "greets" to GK Chesterton, lowercase lettering...
+         "TV must do more than repackage for the Web" expensive
+         FORRESTER REPORT uncovers... AINTITCOOLNEWS writes that
+         Paramount execs watching STAR TREK: INSURRECTION screening
+         were "literally blown away" - well, that's one way to get it
+         past the suits... Jakob Nielsen criticises the STARR REPORT
+         for poor Web usability - wait 'til they release the
+         Quicktime movies... proposed domain naming organisation,
+         ICANN, registers icann.org, icann.com and icann.net (Why all
+         three? Because they *can*)... new MANICS album may contain
+         "worst lyrics ever" (theirs or anyone else's)...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         An NTK no-prize goes to the first person to make a
+         "downsizing" gag at tonight's IT SLEEPOUT, in aid of the
+         NCH's "House Our Youth" campaign (18/09/98, Finsbury Square,
+         London EC2), billed to feature UK directors from 3Com and
+         Bull. Unfortunately, if it rains, they won't be able to pop
+         into the DIGITAL UNDERGROUND show in the nearby disused
+         Aldwych tube station, because they are supposed to be
+         outside, suffering the cold - not inside, suffering "sound
+         and visual installation, robots, digital conversation, and
+         unusual interfaces". And anyway, it shuts at 6 o'clock (12-6
+         pm, 18-22/09/98, The Strand, London WC2). More advanced
+         urban spelunkers shouldn't pass up the recon opportunities
+         offered by LONDON OPEN HOUSE '98, including such tempting
+         trophies as the ITN building, Lloyds of London, and a
+         Victorian "Grade I listed waste-water pumping station" in
+         Bexley.
+         http://www.HOY2000.org.uk/contents.html
+                - also has advice for homeless people with net access
+         http://www.artserver.org/digitalunderground
+                         - about as "underground" as these lamers get
+         http://www.londonopenhouse.demon.co.uk/Listings%20One.html
+                           - hey, it's no http://www.infiltration.org
+
+         And another of those unfortunate date-clashes again next
+         Thu, with THE LONDON INTERNATIONAL INVENTIONS FAIR
+         (24-27/09/09, Barbican Exhibition Centre, London EC2Y) going
+         right up against horrid consumer electronics show LIVE '98
+         (24-27/09/98, Earls Court, London SW5), where virtual
+         reality (oh god) sits alongside the very latest developments
+         in car CD players. Yeah, we sound bitter, we know, but we
+         never got over the "Live" show we went to a few years back
+         where Microsoft demonstrators were painting the Win 95 logo
+         onto children's faces.
+         http://www.sphinx-exhibitions.co.uk/sphinx/invent98/
+             - "hundreds of creative and charismatic characters, your 
+                                                   fellow inventors."
+         http://www.live98.com/
+                     - anyone go to "Toys For The Boys"? Thought not.
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+	
+         If we were ever tempted to draw comparisons between MOZILLA
+         and those other dinosaur mascots, the Jurassic Park raptors 
+         (genetically engineered from doomed species, unable to
+         reproduce, tendency to chomp heads off hackers releasing it
+         into the wild, etc), we're stopping right here. After a long
+         period of incubation, the Mozilla Open Source egg is
+         beginning to hatch. Signs that life has found a way include a HTTP
+         compression scheme that promises to speed up modem
+         downloading 30%, the beginnings of a port to the Linux GNOME
+         desktop, OS/2 and Rhapsody versions and - tee hee - even hooks
+         into the Microsoft Active Desktop system. Psychologically,
+         hacking Mozilla should become more fun too, now that Chris
+         Nelson has introduced a "Worker's Heroes"-style hall of fame
+         in his regular Mozilla Status page. Not that you'd ever
+         think of coding just for a moment of tawdry glory...
+         http://www.mozilla.org/status/
+         - All Hail The Eternal Principles of Zawinskite Slashdotism!
+         http://www.sky.co.uk/history/classroom/alevel/stalin3.htm
+                                     - today's new word: Stakhanovitve
+
+        
+                                >> MEMEPOOL << 
+                              hasta la altavista
+         
+         New Urban Legend: URANIUM processing inspectors sprinkled it
+         on their tongue to see if it "tasted right"... those cheap
+         Asian rip-offs of the IMAC are already on their way:
+         http://www.din.or.jp/%7Etoy/tb/tb20e.html ... REYNOLD B.
+         JOHNSON, inventor of disk drive, spins off this mortal
+         platter at 92... www.bluesnews.com goes for real life BFGs
+         http://www.ittc.ukans.edu/~botanika/warning_label.htm#bfpg
+         http://www.unabombertrial.com/documents/psych_report1.html -
+         how would *you* score?... hey ECO-WARRIORS, how about
+         "liberating" oil from supertankers?... DIY geek posters:
+         http://space.jpl.nasa.gov/ ... Shatner? October? SPAIN?
+         http://www.freeent.com ... our only VIAGRA joke ever (c/o
+         the BBC news ticker) http://subatomic.com/images/viagra.gif
+         ... imagine what hidden messages people will find on track
+         10 of http://www.cddb.com/xm/cd/misc/d10ec20f.html ... 
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> like we should be grateful for the BBC's sci-fi "triple
+         bill": despite SubGenius allusions (Zeists - or Xists?),
+         HIGHLANDER II: THE QUICKENING (10.20pm, Fri, BBC1), is
+         incoherent nonsense - even by Highlander standards, FIRE IN
+         THE SKY (11.45pm, Fri, BBC1) is just a plain dull redneck
+         Rockford X-File, and draw your own conclusions about 1954's
+         THE SHE CREATURE (1.30am, Fri, BBC1)... sources suggest that
+         "accessible" net history GLORY OF THE GEEKS (8pm, Sat, C4)
+         is only the first of two new tech series hosted by god-like
+         Robert X Cringely... while another X-rated aliens blah blah
+         conspiracy blah blah all a hoax (or *is it?*) yawnathon
+         prolongs a new series of THE X FILES (9.25pm, Sat, BBC2)...
+         yes, more nutty small-town Americans in MAXIMUM BOB (10pm,
+         Sun, BBC2) - ignoring the inevitable Elmore Leonard link and
+         direction from useless Barry "Men In Black" Sonnenfeld, it's
+         actually supposed to be quite good... still, our money's
+         with trapping-rappers containment drama TRESPASS (10.45pm,
+         Sun, BBC2)... "hedge disputes" are the latest flashpoint for
+         NEIGHBOURS AT WAR (9.30pm, Mon, BBC1)... real-life Tomb
+         Raider goes on spurious QUEST FOR THE LOST CIVILISATION
+         (9pm, Mon, C4) - his name: Graham Hancock... and not content
+         with the exciting theory that a meteor killed the dinosaurs,
+         EQUINOX (9pm, Tue, C4) spends a thrilling hour on the
+         alternative hypothesis that it was just ordinary volcanic
+         activity... old established media clearly too scared to
+         mention NTK in publicity for wacko panel game KING STUPID
+         (6.25pm, Tue, Radio 4)... lame sequel THE STEPFORD HUSBANDS
+         (9.35pm, Thu, BBC1) precedes unexpected new episode of THE
+         OUTER LIMITS (9.45pm, Thu, BBC2)... and "Renegade TV" worth
+         rebelliously taping includes HOAX (12.40am, Thu, C4)
+         interviewing people who con fly-on-the-wall shows. At least,
+         that's what they *claim* they do...
+
+         FILM>> spectacular action-by-numbers, but the passing of Mel
+         Gibson's suicidal tendencies blunts the impact of LETHAL
+         WEAPON 4 (imdb "plot keywords": blockbuster /
+         illegal-immigrants / slave-labor / frog / handy / murder /
+         dentist / martial-arts / shark / racism / police-brutality /
+         counterfeiters / marriage / triad / chase / los-angeles /
+         police / pregnancy / baby). And hey, whatever weapons
+         they're using, they're clearly not *that* lethal... in a bit
+         of deja-viewing for anyone who's seen his Alan Turing story,
+         Derek Jacobi plays a gay genius who falls for a burglar in
+         LOVE IS THE DEVIL (imdb: biographical / drama) (and Kurt
+         Cobain is Jesus, presumably?). But this time it's the
+         arty-looking life of dead painter Francis Bacon (the one
+         whose stuff looks a bit like Bill Sienkiewicz)... David
+         "Friends" Schwimmer plays slightly against type, sleazily
+         battling Jason "Chasing Amy" Lee over Mili "Sha'uri from
+         Stargate" Avital in expletive-packed rom-com KISSING A FOOL
+         (imdb: comedy / independent)... a limited London release for
+         grunge cameo-heavy not-about-video-games-at-all trashfest
+         THE DOOM GENERATION (imdb: devil / black-comedy / bisexual /
+         teen / mistaken-identity / nazi / satire / road /
+         cult-favorites / castration / vulgarity / violence /
+         nihilism / rape / _drama_ / sex / gay / masturbation-scene /
+         murder)... so surprise recommendation of this week: John
+         "Lone Star" Sayles' worthy but harrowing Central American
+         self-explanatory Heart Of Darkness holiday MEN WITH GUNS
+         (MPAA rated: R "for language and some violent images")...
+
+         MAGS>> the first "proper" issue of FRONTIERS (out now) is,
+         indeed, all that we feared, with glaring typos in each of
+         the first three picture-spread features ("pray" for "prey",
+         "wrecked" for "wreaked", "peak" for "peek"); reporting of
+         the famous Blitzkrieg hoax as fact (p76); some confusion
+         over the use of "sheep sperm" to create the Dolly clone
+         (p30) (hint: she's called "Dolly" [Parton] because they were
+         udder cells); and bizarre references to Damon Knight's
+         sci-fi story "March Of The Morons" (p73), when they actually
+         mean "The Marching Morons" by Cyril M Kornbluth. We didn't
+         get any further - the rest was so pre-teen dull that we
+         ended up yearning for Focus, which is *never* a good sign...
+         conflicting noises about whether Future's new semi-adult
+         games lifestyler (due 17/11/98) is still going to be called
+         "Arcadia" (as believed in NTK 21/08/98), or the rather more
+         pedestrian ARCADE. Still, let's hope it lasts as long as
+         their previous multi-format effort, "Ultimate Future
+         Games"... also from Future, watch for their attempt at a
+         games news site - http://www.futuregamer.com/ - plus a new
+         version of OFFICIAL PLAYSTATION MAGAZINE, aimed at "younger
+         readers" (What, *toddlers*?)... EMAP Images' SEGA SATURN
+         MAGAZINE is believed to have run its last House Of The Dead
+         walkthrough, leaving the division (our source opines) "with
+         only three magazines to their name. Two of which aren't very
+         good"... despite his feature byline in the Sept issue of
+         wacky women's monthly FRANK, Hari Kunzru now denies all
+         responsibility for the closing comment: "Ms Pac-Man has
+         recently been relaunched as a Web game"... and finally,
+         something good for a change, tipped by excellent
+         Disinfotainment importer and kinder egg fan Mark Pawson -
+         http://www.mpawson.demon.co.uk/ . Praise THE IMP issue 2, a
+         68-page "extended essay" on Jack Chick religious comics,
+         featuring title checklist, cross-ref'd dictionary, and
+         Daniel Clowes cover for just UKP3.25. Ultimate damnation or
+         your money back!...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+           It is registered at the Post Office as "well-connected":
+                   http://users.ox.ac.uk/~trin0364/dirk.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

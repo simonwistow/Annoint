@@ -1,0 +1,352 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____07/11/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The conventional stereotypes are often that young people
+         who take drugs are sad losers, excessive short-termists
+         with no conception of their career. Those stereotypes apply
+         to a very, very small number of people."
+                            - "Perri 6", director of thinktank Demos
+                               ...all of whom work in Web publishing
+
+
+                               >> HARD NEWS <<
+                            where all of them lose
+
+         Ingeniously snatching defeat from the very jaws of victory,
+         Leicester-based ENTERTAINMENT ONLINE (aka E-On) killed a
+         $25m deal to buy up The Sega Channel, and instead ceased
+         trading altogether. Foreseeable revenues from its pay-'n'-
+         play service were "unlikely to justify the substantial
+         investment required to take the business through to
+         profitability," conceded founder MARK BERNSTEIN - in other
+         words, no-one would pay 6 quid a month for a range of
+         downloadable games perhaps best described by analysts as
+         "appalling". Bernstein should know a lot about hype vs
+         sound business plans by now, having also worked at deceased
+         Brit VR-flop, VIRTUALITY. His next project is not known,
+         but may involve the words "coals", "selling", "Newcastle" -
+         and "to".
+         http://www.midnight.co.uk/entline/new.htm
+          - Flying Fingers? Brutal Paws of Fury? 3D Garden Designer?
+                                       You id guys getting all this?
+
+         You're NICed, my sahn! EUGENE KASHPUREFF, founder of
+         AlterNIC and brave freedom-fighter against the NETWORK
+         SOLUTIONS conspiracy (along with a bunch of other kooks)
+         was picked up by the Canadian Mounties and thrown in prison
+         on Monday, to await possible extradition to the US. Back in
+         July, Kashpureff exploited a flaw in the BIND DNS software
+         to hijack visitors to Network Solution's www.internic.net
+         and re-direct them to his own site - a protest against
+         NSI's monopoly on domain name registration. At the time,
+         Kashpureff predicted becoming "a bigger martyr than Phil
+         Zimmermann". Hardly up there with the Beatles >= Christ
+         mapping, and we don't recall Zimmermann doing a runner
+         across the border when the Feds closed in - but it looks
+         like he's got his wish. The FBI now plan to nab him on
+         federal wire and computer fraud charges - oh, and unlawful
+         possession of a suspicious Russian-sounding name.
+         http://www.codetalker.com/advisories/sni/sni-12.html
+         - hey, kids! You too can be a martyr (requires BIND 4.9.5)
+         http://www.httpd.com/cam/                  kind of poignant
+
+         Instant "carma's" gonna get you: CARMAGEDDON's appeal
+         against the BRITISH BOARD OF FILM CLASSIFICATION has been
+         upheld, suggesting that the game could have been released
+         in its original form - the BBFC previously insisted that
+         the human targets be replaced with "zombies" and that all
+         references to "fun" were removed from the manual (see NTK
+         20/06/97). The decision should speed the delivery of
+         POSTAL, another borderline-certifiable title still awaiting
+         a BBFC verdict. Having removed some of the game's racier
+         elements for UK release (including attacks on a playground,
+         a marching band, and the player being able to "shoot their
+         own head off"), Postal's publishers, TAKE 2, deny courting
+         controversy for its own sake. Their other games include
+         Victorian thriller RIPPER and an upcoming detective mystery
+         based on real-world unsolved serial murders.
+         http://www.sci.co.uk/carmageddon/news.html
+         - and you hadn't downloaded the "blood patch" weeks ago
+         http://www.gopostal.com/
+         - it's Syndicate meets Robotron. At dawn. With Uzis.
+
+         An (intentionally?) ironic selection of Mac-owning celebs
+         at this week's APPLE EXPO, considering the current health
+         of the company. As well as ruthless survival-of-the-fittest
+         fanatic RICHARD DAWKINS, they had DOUGLAS ADAMS (hasn't
+         written anything decent in years), BT guru PETER COCHRANE
+         (known advocate of impractical blue-sky technologies),
+         DAMIEN HIRST (enthusiastic exhibitor of recent carcasses),
+         and SIR DAVID PUTTNAM (whose last big endorsement - "The
+         British are coming" - noticeably failed to materialise).
+         Pulp frontman JARVIS COCKER, whose current single is called
+         "Help The Aged", was invited but chose not to appear. Maybe
+         Apple PR have going a little stir-crazy, after the blanket
+         ban on discussing Mr Jobs' "Mother of All Press
+         Conferences" due this Monday. What could it be? An Oracle
+         buy-in? New studly PowerPC Macs? Direct Mac sales over the
+         Web? The introduction of Dr Kevorkian as company spokesman?
+         http://www.apple-expo.com/apple/pressexpo/30oct.shtml
+         - maybe JC was off recording "I Want To Live Like The Teletubbies"
+
+
+                               >> ANTI-NEWS <<
+                             imagine our surprise
+
+         MSN installs Unix, dumps NT servers - because "they didn't
+         work"... SGI selling ex-employees' machines off cheap...
+         AOL mailserver crashes... N64 price drop coincides with
+         sales boom - for PlayStation... In benchmarks, SUN Java
+         fifty times faster than Microsoft, says Sun... That's
+         because you cheated the benchmarks, say benchmark
+         writers... SPANISH CONGRESS Website hacked... MSN
+         registration server crashes... MACROMEDIA CFO resigns...
+         "DAVID BYRNE eyes tour in Cuba, considers art project",
+         reports music press... MS Internet Explorer for Sun uses 1
+         MB *per* Web page... pro-censorship site www.gocin.com/ramp
+         uses CyberSitter, automatically removes "sexual" terms from
+         its shocking report... papers run "Doom-players have extra
+         antibodies in their spit" story A YEAR after first
+         released... VIRGIN NET mailserver crashes... UNITED ARTISTS
+         plan to "reinvigorate Pink Panther franchise"... hatch on
+         MIR doesn't shut properly - windscreen wipers also duff...
+
+
+                              >> EVENT QUEUE <<
+                           what PIMs were made for
+
+         Sigh. You don't want to know what happened here in the e-mail
+         version. Think of it as a test to see whether you were paying 
+         attention. That's certainly how we're seeing it. - D.
+
+         Need something a little bit "more" than the K FOUNDATION's
+         giant brick pyramid? Can't make it to Derby's Pinkhouse
+         Festival (19/11/97) for 6 hours of KLF films? Then
+         commandeer the nearest Xist saucer for the SUBGENIUS GNU
+         YEAR's event, the weekend after New Year 1998, in Austin,
+         Texas (where else?). Attractions include "healings,
+         sickenings" and "temporary marriages", all adding up to 2-3
+         days packed with Slack. We have no joke here, we just like
+         quoting: "Now, some people have questioned why this email
+         list has been offline for about a month... it was because
+         THIS ANNOUNCEMENT was so IMPORTANT that we took over a
+         month crafting each and every word within it, for the
+         penultimate psychosexual mind-control effect."
+         http://www.k2planthire.ltd.uk
+         - "abominably Pagemilled - ironically, I hope", says our source
+         http://195.224.25.12/users/m-a-d/gimpo/newfilm.html
+         - sure, but where's the new Zodiac Mindwarp album?
+         http://www.subgenius.com/
+         - try under "EVENTS, NUDITY". it won't help, but try anyway.
+
+
+                                >> TRACKING <<
+                          oho! What have we *here*?
+
+         It was red faces of a kind not usually associated with Lara
+         Croft when both PC Zone and PC Gamer's "exclusive preview"
+         of TOMB RAIDER 2 timed out a week before they appeared on
+         newsagent's shelves. A veiled comment on the sell-by date
+         of the overhyped, over-endowed Croft? Judge for yourself
+         with the bit-less-exclusive 3.4MB demo on the Gamer site.
+         http://www.pcgamer.com/games/00000364.html
+                                    - I WANT TO SEE HER FACE, DAMMIT
+
+         The only HTML utility Mac designers should ever admit to
+         using, BBEDIT, just got updated. Twice, in fact - once on
+         Tuesday, and then again on Thursday, after someone pointed
+         out a show-stopping grep bug. New features include an
+         improved Table Builder, and tools for frames, scripts,
+         style sheets and applets. Oh, and it's only for registered
+         users. What's that? You'll register tomorrow?
+         http://www.barebones.com
+             - don't look so smug, PC boy. Like you paid for WinZip.
+
+         Yes, the barcode-reading LEGO truck (currently advertised
+         on kids' TV) does look cool - but that's only because you
+         haven't seen the interlocking plastic treats in the US
+         catalogue for next year. Forget the desert Adventurers, the
+         off-road Extreme Team, even the Insectoids spacecraft (a
+         STARSHIP TROOPERS tie-in?) - self-powered semi-Technic
+         constructions are the way ahead, with the elastic-driven
+         Bungee Chopper (page 27), Radio Control Cars (p26), and,
+         most puzzlingly Japanese of all, the CYBER SLAM punch-out
+         game (p28). All documented, care of the copyright-skirting
+         fansite, fibblesnork.
+         http://www.fibblesnork.com
+                       - phew, and not a mention of "legos" anywhere
+         http://www.legopolis.com/minifig/index.html
+                       - the terminology is "lego bricks" - official
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Web colliders... http://members.tripod.com/~JonnyBlaze/ ...
+         the Multilateral Agreement on Investment... the return of
+         "ferroelectric RAM"... www.bbc.co.uk/support/ ... NOLAN
+         BUSHNELL moving to UK... Jonathan Frakes to direct TOTAL
+         RECALL 2... telnet banner surfing for insecure SGI's, then
+         grabbing their vidcam feeds... Wave UFO... new Japan-only
+         PLAYSTATION 7000 with lightshow chip... "Crappie World"...
+         JOHN LESLIE's book "The End of The World" (no, not the Blue
+         Peter guy)... what is MSN doing with *two* SSL desks? ...
+         KEVIN "Clerks" SMITH to write Daredevil comic - watch
+         www.viewaskew.com/ ... SPEED GARAGE discovered to be "no
+         faster than vanilla garage"... typing "110" into London
+         Underground chocolate machines...and still they come! Time
+         Warner's upcoming WAR OF THE WORLDS game "not the first" -
+         http://cse.unl.edu/~gberigan/War-of-the-Worlds/ ...
+
+
+                               >> GEEK MEDIA <<
+                          all too persistent visions
+
+         TV>> Tomorrow's World's Judith Hann will hopefully be
+         detailing gruesome medical statistics in the last of this
+         series of SHOOTING STARS, (9.30pm, Fri, BBC2) - though, as
+         is now traditional, they're repeating an old series
+         straight afterwards... give 'em a movie, a making-of docu,
+         plus soundbites from Arthur C Clarke, and BBC2 can create a
+         theme evening about anything, even 20-year-old Spielberg
+         schlock like JAWS (8.10pm-11.30pm, Sat, BBC2)... compare
+         and contrast: Woody Harrelson and Juliette Lewis as young
+         serial killers pursued by Oliver Stone's novelty hand-held
+         camera collection in NATURAL BORN KILLERS (10.50pm, Sat,
+         C5) - or Brad Pitt and Juliette Lewis as young serial
+         killers pursued by photographer David Duchovny in
+         KALIFORNIA (10.30pm, Sun, C4)... US networks certainly took
+         to heart the ruthless double-dealing yuppie message of
+         PROFIT (10pm, Sun, BBC2), and cancelled it after just 8
+         episodes... populist issues-show HERE AND NOW (7.30pm, Mon,
+         BBC1) looks at "nuns on the Net"; new indoor-games series
+         MOVERS AND SHAKERS (8pm, Mon, C4) rolls up with
+         professional Backgammon (presumably they're building to
+         exhibition deathmatches); and the world's dullest
+         sportspeople describe how they attained "The Zone", the
+         unthinking semi-meditative state that will surely be
+         familiar to regular viewers of EQUINOX (9pm, Mon, C4)...
+         yes, that is 6502 assembler scrolling up inside the head of
+         THE TERMINATOR (10.40pm, Tue, ITV); those *are* just a load
+         of Richard Linklater's mates rambling entertainingly
+         through SLACKER (12.50am, Tue, C4), and it is *that* Mark
+         Thomas (the earnest political prankster stand-up) blagging
+         his way into tax-exempt buildings in a more light-hearted-
+         than-usual edition of DISPATCHES (9pm, Thu, C4)...
+
+         MOVIES>> it's probably the smartest, fastest, nuttiest
+         thriller this year - the only attempt we've seen at
+         criticising John Woo's FACE/OFF (imdb: action / thriller /
+         identity / slow-motion / weapons / church / secret-service
+         / body-swap / prison / doctor / terrorism / plane-crash /
+         murder) is that he shouldn't have "ditched the sci-fi
+         elements" - like Cage and Travolta swapping faces (and
+         bodies) was way too plausible... disappointingly, THE
+         GAMBLER (imdb: uncategorised) is not a remake of the film
+         of Kenny Roger's Country and Western song, which itself is
+         nothing to do with the novel by Dostoyevsky which this film
+         is based around, if you get the idea... else it's a load of
+         nondescript boring rubbish this week, with the possible
+         exception of Ringo Lam's Jean-Claude Van Damme-starrer
+         MAXIMUM RISK (imdb: action / adventure / thriller), plus a
+         few previews at the London Film Festival, like COPLAND
+         (imdb: crime / drama / police / vigilante / small-town /
+         conspiracy) and MIMIC (imdb: sci-fi / shoes / giant-insect
+         / epidemic / cockroaches / horror / subway / virus /
+         genetics). Or, for indie-heads, London's VOLCANO fest
+         continues until 15/11/97, tonight featuring free kung-fu
+         haircuts from a "Shaolin barber".
+         http://www.bfi.org.uk/lff/
+         - yes, Mimic is at least partly about "shoes"
+         http://www.backspace.org/volcano/
+         - Shaolin movies: "1% love interest. 9% plot. 90% fighting."
+
+         "REAL" RADIO>> Linneaus classification system sure to be
+         called "18th century Yahoo" in yet another Radio 3
+         arts/science hybrid, BLUE SKIES (9.30pm, Sat, R3)... new
+         bugs czar Don Cruickshank reveals what he actually does in
+         his one-day-a-week post - talk to radio presenters, as both
+         IN BUSINESS (6.30pm, R4, Sun) and THE BIG BYTE (8pm, Sun,
+         R5) choose the same night to tackle what the Radio Times
+         dubs "Fear 2000"... more apologetic coders as Wargames goes
+         to Africa in bizarre new play SEARCH AND DESTROY (7.45pm,
+         Mon, R4), with Mike Leigh stalwart Joe Tucker as Matthew
+         Broderick... "are 20th century film-makers going as mad
+         about fairies as the Victorians were?" asks Richard Coles
+         in NIGHT WAVES (10.45pm, Tue, R3)... you know that Mark
+         Kermode would rather talk about '70s ads and Blade Runner
+         but, stuck on Radio 2, it's all Thelma and Demi when Ridley
+         Scott is profiled in THE DIRECTORS (10.00pm, Wed, R2)...
+         inevitable comedy commission #1: ON THE TOWN (6.30pm, Thu,
+         R4) - series for darkly camp Perrier-winning sketch combo
+         The League Of Gentlemen... inevitable comedy commission #2:
+         Matthew Bannister caves in yet again to Chris Morris, who
+         returns to radio in BLUE JAM (12midnight, Thu, R1), clearly
+         eyeing up Kenny Everett's all-time sackings record of 14...
+                                                - wireless@spesh.com
+
+
+                                 >> COMPO <<
+                 get sacked, win a prize at www.ntk.net/compo
+
+         Four hundred "bit easy this week, wasn't it?" mails later,
+         we can reveal that ANDREW NEWSAM of Southampton is the
+         winner of our previous guess-the-URL competition. He'll be
+         taking home a copy of ... errm, well, let's say YOU DON'T
+         KNOW JACK, shall we, and hope Berkeley get it to us in
+         time. Oh, and some CDs that Dave hasn't told me about yet.
+         (It's the new DAWN OF THE REPLICANTS EP, and the make-your-
+         own LIVE AND KICKING CD-ROM - D.)
+
+         Jealous already? Then take it out on this week's site,
+         whose URL is hinted at in the following Loyd Grossman
+         monologue:
+
+               "This glorrrrious locale in the acordemic hort of
+               England is home to someone with a penny or two,
+               thart's for sure. Just one look at the fifteenth
+               centory architecture shows that he (or she) isn't
+               down orn their uppers, and their bookshelf reveals
+               that they've gort a braincell or two to boot - CS
+               Lewis, Oscor Wilde, Jorn Betjeman, Seamus Heaurrney
+               and AJP Taylor - the list goes orn and orn. One
+               look out the morgnificent windows indicates an
+               unstorpable taste for venison cutlets, orn-" *SNIP*
+
+         Well, parody was never our strong point. URL is of the form
+         http://www.****.**.**.uk/now.html. Write in now to
+         tips@spesh.com to win your dreck prizes, plus complimentary
+         ticket to the .NOT Awards - of which more next week. We
+         hope. Anyone know a good venue?
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+          It is registered at the Post Office as "biting the hands".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+

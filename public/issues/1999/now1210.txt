@@ -1,0 +1,299 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-12-10_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                                >> HARD NEWS <<
+                                 market moves
+
+         Just in time for the Campaign for Unmetered Telecoms
+         Christmas party (sponsored by AOL: oh, the rich historical
+         irony), BRITISH "LOLLIPOP-MAN" TELECOM finally announced
+         flat-rate deals for those over-exuberant Internet children.
+         Dateline is March 2000. The deals: 35UKP a month for 24/7 Net
+         access, 26UKP for unlimited daytime calls, 7UKP for either
+         free weekend or weekday evening use. The charging system is
+         based on a new 0844 number, so you'll have to use an ISP
+         that signs up for the new connection, and you'll have to
+         have a BT line. And the ISP will be using BT's own local IP
+         infrastructure, which should stop them getting any sick
+         ideas about investing in their own networks for when
+         the local loop unbundles in 2001. BT: they may be monopolistic,
+         but they're not *stupid*.
+         http://www.unmetered.org.uk/news/news071299.htm
+                                        - okay, not short term stupid
+         http://www.bt.com/
+         - and stupid enough to have an infinite loop on their homepage
+
+         The GNU/Linux General Public License to Print Money
+         continued on its stockmarket roll, with ANDOVER.NET and VA
+         LINUX both profiting from "Jesse Berst mentioned that once.
+         Buy!" daytraders. As of Thursday, Andover shares were
+         running at about 400% of the initial offer price, giving
+         Slashdot kids a potential eight million dollars to play with
+         (on top of the two million cash they scored when they sold
+         out). VA LINUX was hit an insane 700% price hike on its first
+         day, valuing the company at ten billion dollars,
+         about the GDP of Papua New Guinea.
+         http://www.rockmine.music.co.uk/Pete2.html
+                                - perfect Christmas gift for CmdrTaco
+
+         Reasons to stay out of broadband: On November the 30th, the
+         UNDERCURRENTS video-journalist Charlotte Wilcox was bundled
+         away by the police whilst recording the N30 mini-riots in
+         London. Her tapes and camera were confiscated - indeed, the
+         police arrested her on suspicion of stealing her own
+         equipment. A female officer conducting a search threatened
+         to "throw her down and break her back". No property sheet
+         was given for the seizure of her property. Not that sticking
+         to words and pictures helps: as the NEW YORK TIMES noted
+         this week, the prosecution against Tony Geraghty, author of
+         The Irish War, is still on. GERAGHTY is accused of
+         breaking the Official Secrets Act with his descriptions of
+         the computerised surveillance systems used by the military
+         in Northern Ireland. Good thing too: who could imagine
+         that our government would ever misuse that tech?
+         http://cryptome.org/tony3.htm
+- Blair says he's sick of "libertarian nonsense masquerading as freedom."
+         http://www.undercurrents.org/
+         - journalists masquerading as dangerous video-camera thieves
+         http://news2.thls.bbc.co.uk/hi/english/uk/newsid_555000/555715.stm
+                                      - IRA "bug selves", says expert
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         LYCOS insist on rebranding Wired URLs, unaware of the subliminal 
+         effect of "suck.lycos.com"... loss of MARS LANDERS bears "eerie, 
+         prophetic" resemblance to Voyager season 6 episode "One Small 
+         Step", reports STAR TREK magazine... "Virtual" NHS at 
+         http://www.nhsdirect.co.uk replicates features of real NHS: slow, 
+         unhelpful, falls over because of too many users... urban 
+         folklorewatch: GUARDIAN 1999-12-08 runs "McDonnell Douglas 
+         warranty registration card", almost certainly *not* posted online 
+         "by an employee", who would know that the F-14, F-16 and F-117 
+         are not, for instance, McDonnell Douglas planes... your credit 
+         card details "are NOT sent over the Internet" reassures 
+         https://register.btinternet.com/help/security_help.htm ... 
+         http://www.ferrysavers.co.uk offering understandably high 
+         insurance premiums for Y2K trips: "£247866.00 pp for the 247877 
+         days you intend to be away"... oh, the airports will be *fine* 
+         over New Year: http://www.tahallah.demon.co.uk/gatwick1.jpg , 
+         http://www.tahallah.demon.co.uk/gatwick2.jpg ... closing for 
+         notoriously slow pre-Christmas period: http://www.argos.co.uk ...         
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         A hectic week ahead for the transgressive cultural terrorist who 
+         regularly redefines society's so-called "boundaries" between art 
+         and entertainment. (And who lives in London.) From 8pm tonight, 
+         VXSLAB take another of their experimental "things" to the old 
+         Lateral offices above Backspace (which clearly hasn't been 
+         demolished yet, unless this is part of the process). The ICA's 
+         resident net-spazzos at last hit on something the public will 
+         definitely like - FREE ICE CREAM (from 1pm, Sat 1999-12-11, the 
+         ICA, London). And Richard "the beret" Barbrook's SCIENCE FICTION 
+         CYBERSALON (Tue, 1999-12-14) is so "new edge", it's already 
+         altered its location once (from noted cyber-murder crime scene 
+         The University Of Westminster on Regent St, to the campus 
+         building at 115 New Cavendish St, free before 7pm). Pray it does 
+         not have to alter it again.
+         http://www.nmk.co.uk/nmk/events_diary/events.cfm?ItemID=928
+                  - Pat Cadigan! Manga man! (hopefully in robot suit)
+         http://bak.spc.org/ice/
+            - and what if you *like* the taste of frozen pig fat, eh?
+         http://www.vxslab.org/VXSLAB002-s.gif
+             - "do what you like with this flyer" - except IGNORE IT!
+
+         Oh, and there's a UK UNIX USER GROUP conference in Cambridge next 
+         week too, which we know nothing about, except someone sent us the 
+         cryptic message: "Sun, C and SENSS with Bruce in Cambridge - 
+         crack Alec Muffett's latest toy", which is kind of funny, if you 
+         think about it.
+         http://www.ukuug.org/events/winter99/prog.shtml
+              - the first bit, we mean, not "cracking Muffett's toys"
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         Sometimes the most traditional presents are the best-loved:
+         the hand-carved wooden dolly, the old tin soldier, the huge
+         lunking overfeatured wrist-worn watch/PC hybrid. Sure,
+         ONHAND PC is an anglicised version of 1998's Ruputer, but
+         age has not withered its terrifying specs. Three month's
+         battery life, 38400bps IR and serial ports, 2MB RAM, 16bit
+         RISC processor (with double the clock speed of the old
+         Ruputer) and, to quote our correspondent, "Beautiful
+         architecture: RAM is on-chip, so while MOV Dn, Dm takes 1
+         cycle, MOV Dn, [An] also takes 1 cycle! (also [An+imm8]).
+         God it's lovely). Also, screen (102x64) is laid out in
+         vertical bytes. It's like they designed it for my
+         Wolfensterin-style raycasting app!" How does he know such
+         things? Because with every OnHand you purchase, you get two
+         huge geek manuals, and a CD with GCC, docs, and ALL THE
+         LIBRARIES. Now, *that's* holiday. The OnHand PC: available
+         online for $249.
+         http://www.onhandpc.com/
+         - although "off the wrist" would have been so much more accurate
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         what *is* it with these obscene DREAMCAST comedy fan sites?: 
+         http://www.tgfn.com/dc/ vs http://www.ukresistance.com ... not 
+         the NAKED QUAKE NEWS site you'd hoped for (still, "Carrie" 
+         appears in full Klingon headgear): http://www.bluenudes.com/ ... 
+         as heard at USENIX: the 12 Days of Y2K, http://www.kiai.org/ssh/ 
+         ... MP3 POETRY READINGS... no wonder THEY haven't been in touch: 
+         http://pass.maths.org/issue9/news/oops/index.html ... sending 
+         "Matsushita held a cocktail party at their swanky new skyscraper 
+         in Scunthorpe on Saturday. I bumped into Dick Feltcher, whose 
+         haircut was a little shaggy. He'd accumulated quite a pile of 
+         buttered scones. The subject of blow-jobs never came up, however. 
+         What a chump" via EMAIL A FRIEND on any http://www.bbc.co.uk 
+         page... PUBS - for The Autistic Geek in your "social" circle: 
+         http://www.sirc.org/publik/pub.html ...POTTER - pawn of Satan: 
+         http://www.family.org/pplace/pi/genl/A0008833.html ... wahl 
+         +host:co.uk as altavista search term produces FAKE MANGA TITLES: 
+         "Drunken Girls Mega Control Reproduction Wahl", "Extreme Hot 
+         Bikinis Drew UK Wahl", "Public Beach Bikini Dover Wahl Bestiality 
+         Encounter Club"... personal nipples: http://www.cultofmarms.org/ ...
+
+
+                               >> GEEK MEDIA <<
+                    the less rude http://www.tvgohome.com/
+
+         TV>> only 6 more years to go before 1970s dystopia LOGAN'S
+         RUN (1.30pm, Sat, BBC1) itself turns 30, and must submit to
+         the "carousel" for scifi movies that dare to be even duller
+         than their spin-off shows... THE HISTORY OF THE POP VIDEO
+         (9.30pm, Sat, C4) was originally going to be called "Video
+         Killed The Radio Star", so will hopefully feature The
+         Buggles' Midi Karaoke classic in all its glory... and, hey,
+         anything's preferable to a sub X-Files "EBE" episode of
+         JONATHAN CREEK (8.55pm, Sat, BBC1)... John Travolta fritters
+         away much of his post-Tarantino goodwill by playing an
+         overweight angel in MICHAEL (9pm, Sun, C4)... a timely
+         reshowing of that episode of DISPATCHES (10.55pm, Sun, C4)
+         which allegedly caused the ALF to brand their initials on the
+         reporter's back - that guy who did "Macintyre Undercover"
+         probably lives in similar fear of the Elite Modelling
+         Agency... plus the early, fitfully amusing MONTY PYTHON AND
+         THE HOLY GRAIL (11.35pm, Mon, BBC1) - actually quite closely
+         based on the ZX Spectrum adventure of the same name... more
+         heavy-handed satire from the Drop The Dead Donkey team,
+         sensationally asking "how far will  TV sensationalism go?" in
+         SEX 'N' DEATH (9.30pm, Tue, BBC2), featuring Ulrika Jonsson
+         "as herself"... while somehow you wonder if even Jamie
+         Theakston can prevent you sympathising with the "growing
+         epidemic of crime against Britain's phone companies" in
+         phreaker's how-to PHONES, ROBBERS AND VIDEOTAPE (8pm, Wed,
+         BBC1)...
+
+         FILM>> impressively, intermittently brutal Arnie apocalypse 
+         comedy actioner END OF DAYS (http://www.hollywoodjesus.com : 
+         gratuitous breast shots; vaginal lubricant; a young girl whose 
+         father is watching her, along with her mother, have sex with 
+         Satan while NIN's "Closer" song blares in the background) manages 
+         to: a) directly address the old "monster not scary enough" 
+         problem in Terminator 2; b) answer that old joke "What happens if 
+         you dial 666? A policeman comes round upside-down!", while c) 
+         recklessly spoofing that entire "The Omen" trilogy - "Satan must 
+         impregnate his bride between 11pm and midnight on New Year's 
+         Eve!" "What, Eastern Standard Time?". Also features truly 
+         appalling Arnie acting, plus three (count 'em!) refs to The Usual 
+         Suspects, not including the casting of Kevin Pollak and Gabriel 
+         Byrne... a close second for limited-release geek-cred junior 
+         rocket scientist OCTOBER SKY (http://www.capalert.com/capreports/ 
+         : sky-high impudence; "potty-mouth" language; could have been a 
+         great movie if the goodness of it was not buried beneath new age 
+         entertainment ignominy)... elsewhere, THE LIMEY (imdb: crime / 
+         drama) appears to be a largely successful LA-set arthouse OAP 
+         remake of "Get Carter" - the flashback clips of Terence Stamp 
+         actually come from some old Ken Loach film, rather than, say, his 
+         excellent "General Zod" in Superman II... closer to home, THE 
+         LAST YELLOW (imdb comment: "contains two curiously pointless 
+         homages to the children's TV series The Double Deckers") 
+         continues modern British cinema's almost pornographic fascination 
+         with the criminal underclass... while Peter Greenaway's 8 1/2 
+         WOMEN (imdb: comedy) continues his almost pornographic 
+         fascination with numerology, and porn... finally, Albert Brooks/ 
+         Sharon Stone head up the latest in an increasingly unamusing 
+         batch of Hollywood films trumpeting Hollywood's own creative 
+         bankruptcy THE MUSE (http://www.capalert.com/capreports/ : 
+         portrayal of unholy goddess in control of human lives; adolescent 
+         use of sexual expression to portray worldliness; excessive 
+         cleavage, including before a child, much like the poster for 
+         *American Pie*)...
+
+         FEEBDACK>> first, the chance to clear up a couple of old 
+         chestnuts: in accordance with NTK prophecy (of about 2 years ago) 
+         http://www.ntk.net/index.cgi?back=archive97/now1219.txt&line=44#l 
+         the SGI/ Microsoft "Fahrenheit" project fell apart recently, and 
+         one, er, ex-SGI employee was good enough to send us this          
+         "translation" of its future http://www.ntk.net/ads/opengl.txt ... 
+         talking of "blasts from the past", ex-"The Word" presenter ALAN 
+         HAMILTON (you know, little Alan, with the big jacket) mailed to 
+         point out an "incorrect baseref" in our (now fixed) EU redirect 
+         page http://www.ntk.net/anoneu/ . Can't wait to hear from Amanda 
+         De Cadanet (or "Huffty") about their problems viewing the site 
+         under Lynx!... and while we're on the subject, FROSSIE objected 
+         to NTK 1999-11-05's assertion that "if you're not reading this in 
+         its definitive, non-proportional e-mail form, you're a fricking 
+         girl", countering that "Real girls read NTK in an XEmacs window 
+         running VM under Linux, ta very much". Sadly, her additional tip 
+         (a local news story about someone who *received an email* from 
+         one of the victims of the recent Honolulu shooting) was deemed 
+         too "Hawaii-centric" for even our Tiki-Tiki lifestyle... MATT 
+         BACON leapt to the defence of Denise Richards' "Lara Croft" 
+         costume in NTK 1999-11-26, constructing an elaborate conspiracy 
+         along the lines of "Lara Croft = big star on Playstation. 
+         Playstation made by Sony. Sony recently been seen off by Ma 
+         Broccoli in lawsuit to prevent them making another rival Bond 
+         movie (the Thunderball/Never Say Never Kevin McLory factor). So 
+         I'm thinking big in-joke about copyright in characters". For 
+         those who don't know him, Matt *looks* a bit like a Bond villain, 
+         too... and finally, LOCANDEZ cast doubt on NTK 1999-11-12's claim 
+         of "canine erections" in the Lycos TV advert, though the whole 
+         dog-pulling-car sequence does now seem to have been edited out. 
+         "It's not an erection (if it was, you'd be looking at 5 inches of 
+         red flesh)", explains Locandez, concluding with the all-purpose 
+         conversational corker: "It's just a tuft of fur around his 
+         sheath". Undeterred, reader TONY BLEWS picked up the baton with 
+         this scan http://www.ntk.net/doh/991210dog.jpg from page 717 of 
+         the current Argos Catalogue which, Argos insiders reveal, is "the 
+         most complained about thing this month". NTK regrets that this 
+         correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+         Registered at the Post Office as "finest *and* most literate"
+http://www.telegraph.co.uk:80/et?ac=000111464113065&pg=/et/99/12/9/ecrimo09.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

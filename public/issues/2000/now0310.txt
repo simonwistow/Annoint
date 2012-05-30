@@ -1,0 +1,334 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-03-10_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Create a traffic-stopping Web site with Frontpage 98"
+                                       - COMPUMASTER seminar brochure
+                    http://www.compumaster.net/seminar2.cfm?SID=116
+                  ...next year: create X-Box-Crashing games with W2K!
+
+
+                                >> HARD NEWS <<
+                                 spooky ghouls
+
+         On Tuesday, JULIE-ANN DAVIES was arrested under the
+         Official Secrets Act while attending her lectures at
+         Kingston University. JA, as she's known online, is a
+         popular correspondent with a lot of online types, including
+         us (she's an active member of the Mark Thomas mailing list,
+         which we played a part in starting). Obviously, we can't
+         talk much about a current case, so allow us to take this
+         opportunity to describe the same events should the
+         arrest have occured after the Regulation of
+         Investigatory Powers bill passes. The arrest of JA has
+         generated a lot of uncomfortable publicity for the security
+         services: a far better approach for them in the future, we'd
+         suggest, would have been to skip the arrest, and serve an
+         interception order on her instead. RIP allows interception
+         warrants to be served on anyone who "has control of any part
+         of the telecommunication system" which can definitely
+         describe JA (and us, and you, for that matter). After that, they
+         could compel her to pass on any communications she receives
+         (it seems they were attempting to find out whether she'd
+         been in e-mail contact with David Shayler, the ex-agent
+         currently in exile in Paris). JA would, of course, not be
+         allowed to reveal this to anyone, on pain of imprisonment.
+         She'd be co-opted as a spook, and it would be a crime for
+         her to disobey: even though the authorities were merely
+         fishing for evidence. All hypothetical, of course: but we
+         thought it's worth mentioning. While we can...
+         http://www.stand.org.uk/ripnotes/index.html#isps
+               - of course, we've been MI5 stooges since 199--MMmmmph
+         http://www.guardian.co.uk/Archive/Article/0,4273,3971515,00.html
+                                             - free the Kingston One!
+
+         The newsgroup uk.legal isn't a stranger to philosophical
+         arguments over libel law, but it's not often someone decides
+         to explore the practical effects. Last week, DAVID HOLLAND,
+         in a argument over whether "truth" was a defence in a libel
+         case decided to test the opinion - by posting potentially
+         libellous (but, he claimed, true) opinions about one of his
+         local dignatories. As if to prove the point, Demon stepped
+         in, cancelled the message and cut off his posting rights
+         until he'd signed an agreement not to post defamatory
+         material again. This is a policy they'd introduced after the
+         initial decision in the Lawrence Godfrey (see NTKs passim).
+         A terrible infringement of free speech, agreed some posters,
+         including DAVE BIRD, who promptly laid into Lawrence for
+         introducing such a restriction. Unfortunately, Godfrey saw
+         this post, and sent instructions to him too, demanding that
+         the posting be removed. To be immediately followed, we hope,
+         by postings decrying *this*, followed by more cancelling,
+         and so on, and so on. We eagerly await the injunction to
+         cancel the cancel messages themselves, until the courts
+         finally decide who the hell's right around here.
+         http://x27.deja.com/viewthread.xp?AN=594098864
+                                                - now you see them...
+
+         Ooh ooh! Free Net access from everybody! What could
+         *possibly* be the catch? Well, since we're now bored of
+         being gung-ho about the imminent Net revolution (see our
+         slightly embarassing gushing over CallNet0800 earlier this
+         year, and almost every newspaper this week), we're now
+         collecting TANSTAAFLs on the next bound in Britain's leap
+         into the Net swamp. So far, we've spotted that a) Altavista
+         cut you off after five minutes of inactivity (which rather
+         limits the "always on" feature that makes this such a good
+         idea, b) NTL won't let you stay on for more than two hours
+         (see (a)), and c) BT Net, in preparation for seeing their
+         entire network fall over from the demand,  are now using
+         private address spaces for their dial-ins, creating all
+         kinds of freaky problems when you try and use non-Web
+         services. Did we mention the complete lack of business plans
+         for all of these until BT finally relents on holding the
+         local loop? Or have we said that before?
+         http://www.askntl.com/freeinternet/qanda.asp
+                                        - you know, they're all going
+         http://www.altavista.co.uk/company_info/about_av/av0800.jsp
+                                                       - to go mental
+         http://www.bt.net/
+                                  - when we start using Napster on it
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Finally, the greatest American newspaper has been placed
+         online" TIMES INTERFACE's website roundup mentioning
+         www.theonion.com... http://www.nobags.com/ - yeah, *sure*
+         you got DoS'ed ... i think we may have found one, MS:
+         http://www.ntk.net/2000/03/10/dohms.png ... seven days
+         before the IRIDIUM global Falco ... stress-free, unless
+         you're right-handed: http://www.nutopia.net/cyberlounge.html
+         ... DEMON leave ADSL triallist mailing list open, has to beg
+         people not to use it until they find someone who understands
+         mailing lists ... don't ask about what happened to the
+         foxes: http://www.ntk.net/2000/03/10/martha.gif ... warning!
+         you are about feel an insecure connection between VERISIGN
+         and NETWORK SOLUTIONS ... JAKOB NIELSEN says Slashdot has
+         "simplicity in the layout": guess he didn't scroll down to
+         read the comments ... what devilery is this?
+         http://www.futuresounds.co.uk/shop/system/ ... HASBRO sues
+         anyone ripping off their ASTEROIDS, CENTIPEDE, MISSILE
+         COMMAND properties - but probably not LUNAR LANDER (ripped
+         off Jack Burness's PDP orginal, c. 1979) ... shop around: 
+http://www.insight.com/cgi-bin/bp/228603454/uk/result.html?a=s&f=p&t=a&d=xircom
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         We're currently processing a vast backlog of Kevin Warwick
+         sightings (apparently he was on Radio 4 twice this week -
+         almost like he's deliberately taunting us) but dedicated KW
+         watchers should start preparing now for a rumoured "public
+         appearance" in Reading next weekend. More on that as it
+         happens - more pertitently, your attendance is also
+         requested at tomorrow's debut HACKERLY SOCIAL (from 7pm, Sat
+         2000-03-11) at East London's The Foundry; hopefully it'll be
+         up to the standard of the last 2600 meet, which featured a
+         working implementation of the famed LEGO MACHINE GUN.
+         http://www.vxslab.org/hs/?x=1
+                              - rate of fire: "500 rounds per minute"
+         http://www.silverlight.org/Cray/lego/machinegun.asp
+                 - even better, looks like the Gosper gun from "Life"
+
+         Somewhat more enigmatically, Duncan Campbell was scheduled
+         to discuss Echelon as part of the ongoing Security Colloquia
+         at London's LSE next Tuesday (we think). You can't check
+         though, as the usual website has been "silenced" by a
+         bizarre redesign, featuring imported Newshub headlines, a
+         dumb scrolling applet and a Pong game.
+         http://csrc.lse.ac.uk/
+                          - what's worse, an IE4/IE5 *only* Pong game
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         H-E-L-P-I-A-M-B-E-I-N-G-H-E-L-D-A-G-A-I-N-S-T-M-Y-W-I-L-L
+         B-E-H-I-N-D-A-S-O-D-D-I-N-G-C-O-R-P-O-R-A-T-E-F-I-R-E-W-A-L-L.
+         For those whose workside Net access is pinned underneath several
+         protocol layers of firewall, proxy servers, filtering
+         software and a large fierce dog owned by your bastard IT
+         department, comes MAILTUNNEL, one of the more desperate
+         protocol hacks you'll ever be tempted to use. In layman's terms,
+         it's the equivalent to pricking out messages in blood
+         with a broken thumbnail onto paper made from your own scalp
+         sheddings, then throwing them between the bars of your
+         Turkish prison in the hope that someone may find them sixty
+         years on. More technically, it tunnels a two-way TCP/IP
+         connection through, may Postel forgive us all, an exchange
+         of e-mails. You may find it useful, if only as an indicator
+         that it really is time you changed jobs. Or rose up against
+         your sysadmin.
+         http://detached.net/mailtunnel/desc.html
+   - those fifty-line company legal disclaimers .sigs? *steganography*!
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+       USENET congas ... Tom Christiansen Psychic Warfare I:
+  http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2000-03/msg00653.html
+       thank *God* somebody got around to http://winerlog.editthispage.com/ ...
+       http://www.livingstoneforlondon.org.uk/ + http://www.frank-dobson.org.uk/
+       at least share the same IP number ... "a Salem Communications company",
+       indeed: http://www.christianpirateradio.com/ ... dig @138.195.138.195
+       goret.org. axfr | grep '^c..\..*A' | sort | cut -b5-36 | perl -e
+       'while(<>){print pack("H32",$_)}' | gzip -d ... www.monkeybagel.com/
+       vs http://www.ietf.org/internet-drafts/draft-christey-imps-00.txt ...
+       Spot The Satanchild: http://www.waynecojournalbanner.com/scrapbook.html
+       ...TC Psychic Warfare II: http://www.lwn.net/2000/0309/a/perlos.html ...
+ Death Imitates Onion: http://www.cnn.com/2000/HEALTH/03/06/bc.heart.pierced.ap/
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> after 6 years, FRASIER (10pm, Fri, C4) blows one of its
+         best and longest running gags (Niles and Daphne) - or *does
+         it*?... C5 continues chasing any niche market it can think of,
+         with TRANNY NIGHT (from 8pm, Fri, C5) - apparently including a
+         little-known cross-dressing Charles Bronson movie THE STONE
+         KILLER (9pm, Fri, C5)... which segues gently into Sunday's
+         QUEEN DAY (from 12.25pm, Sun, C5), with the always
+         entertaining film of FLASH GORDON (5.05pm, Sun, C5) and
+         hopefully plenty of opportunity to catch Freddie Mercury's
+         bizarre speaking voice... replaced on "She's Gotta Have It" by
+         Jayne Middlemiss, Arabella "Does my bum look big in this?"
+         Weir continues parlaying that single punchline into an entire
+         career in fat-farm docu THE F*# WORD (1.55pm, Sat, C4)...
+         Matthew Kelly presents two back-to-back celebrity doppleganger
+         shows - THE LOOKALIKES AGENCY and STARS IN THEIR EYES (from
+         6.50pm, Sat, ITV) - unless one's an imposter!... the press
+         release they mailed us about new kids' CGI magazine show TOO
+         MUCH TV (10am, Sun, C5) claimed it was set in space "to save
+         money"... and The Radio Times believes Nicole Kidman bad-
+         weathergirl satire TO DIE FOR (10pm, Sun, C4) to be "easily"
+         Gus Van "Good Will Hunting" Sant's "most accessible movie"...
+         no wonder Buffy's psych lecturer is so messed up, after the
+         endless double/ triple/ quadruple crosses of David Mamet con-
+         trick thriller HOUSE OF GAMES (10.55pm, Mon, C5)... yes, two
+         terrestrial showings in two and a half years for THE LAWNMOWER
+         MAN (9pm, Tue, C5) seems like exactly two too many... plus
+         another chance to savour Roger Ebert's "post-apocalyptic
+         mechanical Darwinism" cliche in Kevin Costner's only semi-
+         appalling WATERWORLD (9.30pm, Wed, BBC1), in which, he notes,
+         impractical, uneconomic jet-skis appear to have survived,
+         while thousands of yachts, rafts and dinghies have not...
+
+         FILM>> fired with success at taking down Robert De Niro in
+         "Heat", Michael Mann and Al Pacino reteam against a brand new
+         enemy, known only as "Big Tobacco" (formerly Nick O'Teen) in
+         gripping truth-at-all-costs crusade THE INSIDER (imdb: based-
+         on-article / media / based-on-true-story / television-industry
+         / controversial / tv / ethics / whistle-blower / law /
+         censorship / tobacco / cigarettes / corporate-crime /
+         journalism / law-suits / big-business) - essentially a remake
+         of "Heat" but with fewer gunfights, and this time Russell
+         Crowe as the middle-aged guy manically pursuing his obsession
+         to the possible detriment of his personal life. Good to see
+         they've completely misunderstood the original US poster
+         campaign as well... after propping up "Three Kings" last
+         Friday, Ice Cube returns this Friday in scatalogical stoner
+         flick NEXT FRIDAY (http://www.cndb.com : Jacob Vargas - "He
+         rips off his pants, revealing a tight black thong. He jumps
+         onto a woman to have sex and we see his buns")... Stephen Fry,
+         Keith Chegwin, and Uri Geller - together *at last!* in
+         WHATEVER HAPPENED TO HAROLD SMITH (imdb: comedy), apparently a
+         paranormal remake of "That '70s Show / Days Like These" - and
+         not in a good way... while Luc Besson continues trotting out
+         flashy versions, starring his wife, of stories he thought were
+         cool when he was 12, with UK-renamed female sub-Braveheart
+         historo-tosh JOAN OF ARC (http://www.capalert.com/capreports/
+         : inappropriate touch - female face to frontal male pelvis
+         with her hands on his posterior; kick beating; implication of
+         a young boy as evil or sinister; portraying of yielding to
+         Jesus as sinister; suggestion that God giving a message is
+         sinister; graphic burning of a human; verbally threatening
+         Jesus; implication that confessing of sins will save the soul)
+         - all together now: *not* very closely based on the Ultravox
+         song of the same name...
+
+         THE "WHERE ARE THEY NOW?" FILE>> "I wonder if you remember
+         an old magazine called 'Zero'," enquires NTK reader NICK
+         SMITH, "- the essential read for Amiga/ST users in the late
+         80's/early 90s?" Nick remembers the mag as being "really
+         pretty funny", though confesses that he "was only 14 then so
+         maybe it was shite", and goes on to wonder "where its
+         writers are now, especially the cute one. Are they well
+         known writers on current magazines, or do they live in
+         bedsits in Pinner?" Nick concludes: "I do not live in a
+         bedsit in Pinner"... So, over to the panel, and first up
+         it's JONATHAN NASH: "Zero, from Dennis, was the
+         16-bit-computer sister mag to console-based Game Zone, and
+         featured the usual cast of writers. Dunc MacDonald was
+         definitely there, and Patrick McCarthy (both now on PC Zone,
+         except Dunc, who's vanished, although his sister turned up
+         recently to say he wasn't dead or anything, but working on
+         something excellent and secret), as well as Davey Wilson
+         (now extremely high up in EA), Daniel Pemberton (who's gone
+         on to be a big TV soundtrack composer, despite being about
+         12), Jackie Ryan (went into PR), er, David McCandless (PC
+         Zone again), er, er, Rich Pelley (works on Arcade), er, and
+         possibly gentleman editor Jonathan Davies. And some other
+         people"... hold it Jon - David McCandless? David
+         "http://i.am/a.gaylord" McCandless? David, who just happens
+         to be here with us tonight - anything you'd like to add? "In
+         its 'non computery' section, Zero carried genuine interviews
+         with Bungle of Rainbow, Norris McWhirter (who gave the
+         interviewer Roy Castle's number in an attempt to end the
+         interview and started a long running sketch series featuring
+         his catchphrase: "String 'Em Up - it's the only language
+         they understand"), Jeremy Beadle, and Bob Holness,"
+         McCandless recalls, claiming they also "ran a section called
+         'Smack In The Marf', where readers were invited to send
+         pictures of injuries they had sustained in bar fights. I was
+         17 at the time"... "Zero was the link for flappily
+         purposeless readers between YOUR SINCLAIR and AMIGA POWER,
+         and was indeed funny," Nash agrees, "except when it was
+         'relaunched' towards the end as a horribly misjudged 'Young
+         Lad' mag, complete with messy giveaway green slime, which
+         got them in lots of trouble because it was made of lead or
+         something, and they died within three issues. A tragic
+         end"... thanks for that guys - but what about "the cute
+         one"? "In the long tradition of games mags, quite a few of
+         the female writers were made up, so this could be a crushing
+         blow to Nick," Nash confides, though McCandless knows cute
+         when he sees it: "The cute one, I believe, was Amaya Lopez,
+         common law wife to David Wilson and expecting their
+         first child in May." Well, there you go Nick - and if any
+         other readers would like their teenage videogame-related
+         crushes tracked down in possibly excessive detail, just
+         contact the team here at NTK, care of The "Where Are They
+         Now?" File...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                  Registered at the Post Office as "on hold"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

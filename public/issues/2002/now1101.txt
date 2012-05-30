@@ -1,0 +1,222 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-11-01_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Still, the rest did me good, I learnt all about the Movie
+         Industry and got to see things from a consumer's viewpoint
+         again. Then I noticed something. The games world had got
+         boring. Really boring without me..."
+                                      ...and relatively bandanna-free
+            - "Games Animal" DAVE PERRY modestly announces his return
+http://community.channel4.com/6/ubb.x?a=tpc&f=7986032211&m=9216033741
+
+
+                                >> HARD NEWS <<
+                              photocopying fumes
+
+         DAVID DOCHERTY, MD for Broadband Content for the telco
+         Telewest, is more than just the thoughtful man in the polo
+         neck that his Guardian column depicts. He writes thrillers
+         too. His latest novel, Killing Jar, has just come out, and
+         someone's clearly been thinking hard about ways to publicise
+         it. On the 28th of October, messages pointing to a site called
+         mcleaninternationalmining.com began popping up all over the
+         newsgroups. Now, as frustrated Usenetter Adam Aglionby spotted
+         using the simple sword of Google and the trusty shield of
+         whois, McClean Mining only exists in Docherty's book. The fake
+         company's fake domain was registered from a Bristol address
+         and all the postings were sent from Blue Yonder, Telewest's
+         own ISP. According to Adam, Docherty mailed him saying the
+         posts are "not intended to be spam. It's meant to be a drama".
+         Or could they perhaps be broadband's long-awaited killer app?
+         Sending thousands of Usenet posts via Telewest's broadband
+         accounts, sneakily advertising a commercial product? And if
+         so, can we expect Blue Yonder to update its AUP accordingly?
+ http://groups.google.com/groups?q=www.mcleaninternationalmining.com/
+              - if you read comp.mail.sendmail, you may also enjoy...
+         http://makeashorterlink.com/?C1A045052
+                                           - ...Adam's detective work
+http://media.guardian.co.uk/mediaguardian/story/0,7558,792676,00.html
+ - the "transformation of the Net into a quality distribution medium"
+         http://shared.blueyonder.co.uk/acceptable_use_policy.html
+            - or the transformation of publicists with the cluestick?
+
+         "But there isn't any rule against copying stuff off a website,
+         is there?" Not at THE DAILY MAIL there doesn't seem to be,
+         where staff have continued their enthusiastic pillaging of
+         online content with substantial yet uncredited lifts from -
+         this time - retro telly site TV CREAM. Regular readers will
+         recall The Mail's similar forgetfulness in attributing the
+         sources of material they "borrowed" from high-tech bitchfests
+         "Things My Girlfriend And I Have Argued About" and THE
+         REGISTER, the difference being that TV Cream have spent all
+         the money they were saving for proper legal representation on
+         extremely rare Clangers videos. The upshot of this is: they'd
+         genuinely like to hear from any NTK readers who'd like to have
+         a go at being their lawyer, on some sort of "no win, no fee"
+         basis - email the usual tips@spesh.com if you're interested,
+         using the cryptic subject line: "Declan Swann - You've Been
+         Gone Too Long".
+         http://www.guardian.co.uk/diary/story/0,3604,822207,00.html
+                         - "and here's one someone else made earlier"
+         http://www.theregister.co.uk/content/archive/16979.html
+           - of course all copyright is evil, but while it's there...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         because you demanded it - all-new PUERILE GOOGLE MISSPELLINGS:
+         http://www.google.com/search?q=%22proven+mythology%22 , and
+         "heavy duty wench". This week's cliche: things which didn't
+         http://www.google.com/search?q=%22arise+out+of+a+vacuum%22 -
+         or the somewhat more poetic "The internet is like"... more old
+         favourites - BBC sceptical about speed, efficiency of 3G:
+         http://news.bbc.co.uk/1/2367829.stm ; looking forward to their
+         upcoming illustration "White Cat Lost in Blizzard on Moors":
+         http://www.bbc.co.uk/oxford/news/2002/10/electricity.shtml ; the 
+         Broadbandy Landings: http://news.bbc.co.uk/1/hi/technology/2350963.stm
+         ... "Buy A.A. Gill Is Away with A.A. Gill Is Away today!":
+         http://www.amazon.co.uk/exec/obidos/ASIN/0753816814/ ... who'd
+         win a fight between: http://news.bbc.co.uk/1/2367313.stm and
+         INFLATABLE BURGER: http://www.ntk.net/2002/11/01/dohburger.gif
+         ... http://www.oxford-union.org/usage/usage_200210.html - spot
+         the slashdotting... good to see the IT sector picking up again:
+         http://www.vrl.co.uk/list.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         And where are they now, the hip young gunslingers of THE
+         INDUSTRY STANDARD EUROPE? Georgia Cameron-Clarke, off in New
+         York somewhere, Mike "Butch" Butcher, "reworking" his mbites
+         newsletter, James Ledbetter writing a tell-all chronicle of
+         where it all went wrong, entitled "Starving To Death On $200
+         Million A Year". But the one we're keeping an eye on is former
+         London Correspondent Polly Sprenger, who's exchanged "routers"
+         (made by Cisco) for "routers" (made by Black and Decker), and
+         who'll be auctioning the creations of her fellow female
+         woodworkers from 6:30-9:30pm, Thu 2002-11-07, The Carpenters'
+         Hall, London EC1, tickets UKP10 in advance, UKP15 on the day.
+         Say what you like, but at least she's gone out and learned a
+         real skill - as has former Mondo 2000 contributor (and current
+         Vice-Chairman of the EFF) JOHN PERRY BARLOW, who'll be wowing
+         the crowds at the ICA, from 7.30pm, Wed 2002-11-06, UKP10, as
+         part of their almost Klingon-esque WHATDOYOUWANTTODOWITHIT?
+         "digital festival".
+         http://www.ica.org.uk/index.cfm?articleid=9621
+       - and when do you want to do what you want to do with it? Now!
+         http://www.fifty.cc/womeninbuilding/
+                                         - "often as a second career"
+         http://gllug.linux.co.uk/20021102.html
+                    - on Sat: gathering of the local Linuxmen's guild
+         http://www.robots.ox.ac.uk/~aisoc/events.html
+             - in Oxford on Monday: Kevin Warwick once again at large
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         CORPORATE ANTHEMS re-relaunched by ZDNet - but for how long?:
+         http://techupdate.zdnet.co.uk/story/0,,t481-s2122414,00.html
+         ... "people might consider a double cheeseburger and milkshake
+         to be the same [...] as a milkshake and double cheeseburger":
+www.asa.org.uk/adjudications/show_adjudication.asp?adjudication_id=34845
+         ... "be" Geordi LaForge: http://www.cab.ca/ ... "Sometimes
+         Credited As: Ima Cunt": http://us.imdb.com/Name?Anonymous ...
+         http://www.barclaycard.co.uk/ has firm grasp of international
+         sign-language gesture for "wanker"... one reason to Google
+         before naming your company: http://www.roman-showers.com/ - vs
+         http://www.odd-sex.com/info/gloss661.htm ... EASYGROUP:
+         http://www.easygroup.co.uk/NewIdeas/condtitions.html believes
+         "in the free flow of ideas" - vs "no use should be made of the
+         'easy' name (or anything similar to it) without our consent":
+         http://www.easygroup.co.uk/NewIdeas/ideas.html ... oh, we'll
+         give them a link just for laying off the "Dave Green" trolls:
+         http://www.antics.org.uk/memes.htm ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> they've fast-cut it to keep it interesting, but THE
+         OSBOURNES (9.30pm, Fri, C4) could still possibly be improved
+         if it was about a family of "portable" CP/M machines instead:
+         http://www.davemathews.com/osborne.html ... the dangers of
+         mod-chipping your kids are explored in SOUTH PARK: THE MOVIE
+         (10.30pm, Fri, C4)... and Sigourney Weaver battles a psycho
+         sending her enormous email attachments in COPYCAT (11.05pm,
+         Sat, BBC1)... "Gay Nazi" week kicks off with a homosexual
+         infiltration of the National Front in TRUE SPIES (9pm, Sun,
+         BBC2), the curiously titled YOUNG, NAZI AND PROUD (9pm, Mon,
+         C4) and the obligatory REVEALED: WAS HITLER GAY? (9pm, Tue,
+         C5)... it still takes nearly 3 hours to get through even the
+         non-director's cut of Jim Cameron's THE ABYSS (9pm, Mon,
+         C5)... and Julie Burchill exploits her passing resemblance to
+         a squeaky-voiced Dana Scully in WHAT KILLED MY DAD? (9pm, Mon,
+         BBC4)... the good news is, of course, that those bloody Ewoks
+         would never have survived the destruction of Death Star II in
+         STAR WARS EPISODE VI: RETURN OF THE JEDI (8pm, Tue, ITV):
+         http://www.theforce.net/swtc/holocaust.html ... each week,
+         Jamie Oliver kills and eats the least proficient would-be chef
+         who dares to chance their luck in JAMIE'S KITCHEN (9pm, Tue,
+         C4)... Louis Theroux stops asking annoying questions and just
+         films the bizarre behaviour of Tony Blackburn, Leo Sayer and
+         Bernard Manning, aka THE ENTERTAINERS (10pm, Tue & Thu, BBC2)
+         ... and it's http://www.mcsweeneys.net/ collaborator Arthur
+         Bradford behind special-needs vox-pop one-off HOW'S YOUR NEWS?
+         (11.40pm, Tue, C4) - an improvement on "Have I Got News For
+         You?" any day...
+
+         FILM>> "Resident Evil" meets the BBC's 1981 "Day Of The
+         Triffids" in Danny Boyle's brutal largely-shot-on-video post-
+         apocalypse zombie-fest 28 DAYS LATER ( http://www.bbfc.co.uk/ :
+         Contains very strong language, strong violence and horror),
+         starring Naomie "Tomorrow People" Harris... Ben Affleck and
+         Samuel L Jackson remake "Planes, Trains And Automobiles", but
+         with less emphasis on the laughs, in urban revenger CHANGING
+         LANES ( http://www.capalert.com/capreports/changinglanes.htm :
+         adolescent disrespect; adult tantrum with property damage;
+         portrayal that a few good deeds offset intentional
+         wrongdoings, ease the conscience of the wrongdoer)... the
+         Halloween horrors continue with WES CRAVEN PRESENTS: THEY
+         ( http://www.bbfc.co.uk/ : Contains frequent strong threat and
+         menace) - and surely it should be "Them", or "Those"?... as
+         Adam Sandler plays his usual man-idiot in Capra bastardisation
+         MR DEEDS ( http://www.screenit.com/movies/2002/mr_deeds.html :
+         [Winona Ryder] wears a shirt that looks somewhat transparent -
+         and we can somewhat see the shape of her breasts and nipples
+         beneath it in her bra)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "when someone asks you if you're a God... you say YES!"
+           http://www.googlism.com/index.htm?ism=dave+green&type=1
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

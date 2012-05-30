@@ -1,0 +1,219 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-10-29_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+          In comparison to other process-oriented industries, the meat 
+          industry had a lot of catching up to do before it arrives at a 
+          highly integrated functional system. "We have now plugged this 
+          gap with myMEAT," [Jan Grutter] remarks proudly....
+     http://smbnews.sap.info/en/news.php4?OID=Article-1553441665bfd61a8f
+           - entire press release builds to classic "Carry On" punchline
+
+
+                               >> HARD NEWS <<
+                            spontaneous ballyhoos
+
+          See what happens when you go mainstream? Old Internet
+          wunderkinder CHARLIE BROOKER, father of TV Go Home, NTK 
+          irregular, creator of Nathan Barley, maker of (corporate 
+          shields up! pr0n filters on stun!) "Cunt", was picked off
+          in a hail of lone typists acting online this week, for
+          concluding his Guardian TV review of the US presidential
+          debates with a reference to Lee Harvey Oswald, John Hinckley
+          and the other people you put in the standard "Come back
+          $PERSON, all is forgiven!" graffiti joke.
+          http://news.google.com/news?q=charlie+brooker
+                                               - how these things spread
+
+          The Guardian, in its fine tradition of boldness in the face
+          of adversity, instantly took down the column and replaced it
+          with an apology. But, as the servers struggle to keep up
+          with the bad-teeth-citing, lime-despising, sure-kicked-your-
+          ass-in-the-late-18th-Century barrage, we remain charmed by 
+          one thing: Proper Media still counts.
+          http://littlegreenfootballs.com/weblog/?entry=13269#c0051
+           - the Net perceives censorship as a fair use op and carefully 
+                                                        redistributes it
+
+          Because Brooker may write in a paper, but he still posts
+          like he was on a newsgroup. You do know what they're saying 
+          on IRC, right? Do you read what the little green forums of 
+          the world spit out on a daily basis? Have you seen the
+          Indymediots, the Freepers, the lists, the feeds, the
+          unmoderated masses? Do you remember what you yourself wrote
+          *last night*? You've heard the Bush jokes, the Kerry jokes,
+          the Blair jokes: are we supposed to take all of those
+          seriously, too?
+          http://www.arbitary.i12.com/ccb-archive.html
+          - we wish to complain about the portrayal of Micro Machines V3
+
+          Yes, it's all serious now. But one day, we'll look back and
+          laugh. We'll watch Dad's Reservist Army, and visit the Twin
+          Towers Vegas attraction, and the guy in the giant Osama head
+          will ask us to recall that time when people stayed up at
+          night, staring at their dim screens, and darker forums,
+          threatening to do more than JUST TYPE IN ANGRY CAPS during
+          The Great Trolling. Ah, hell, here's to next week, when we
+          all tap on reload, watching that grey bar of progress of
+          inch across the screen, then sticking, as it always does, at
+          49%. HAND.
+          http://www.guardian.co.uk/weekend/story/0,,321755,00.html
+ - as recently as 1999, you were even allowed to have a pop at John Peel 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          We're as sceptical about online petitions as anyone, but it 
+          took just 47 signatures to ensure the resurrection of a 32-
+          page "tribute" issue to YOUR SINCLAIR, covermounted with this 
+          month's RETRO GAMER magazine (in shops now, UKP5.99). Here's 
+          hoping that next weekend's ORSAM NORWICH SINCLAIR AND CLONES 
+          SHOW (10am-4pm, Sat 2004-11-06, Alec Bussey Scout Centre, free
+          - presumably) is at least as enthusiastically attended, though 
+          the exhibitors (eg "Anglia Classic Computer Users Society will
+          be selling keyboard membranes on behalf of RWAP Software") can
+          always just sell stuff to each other, as happened from time to
+          time last year. 
+          http://www.ysrnry.co.uk/cover1.htm
+                       - David McCandless! Jonathan Davies! (scroll down)
+          http://www.speccyverse.me.uk/orsam/
+               - vs http://www.petitiononline.com/Sinclair/petition.html
+          http://www.apachecon.com/
+        - "Will ya plug [ApacheCon]?" (Vegas, Nov 13), Ben Laurie pleads
+          http://www.shmoocon.org/cfp.html
+          - and ShmooCon, Washington DC, Feb 2005. Consider it done, Ben.
+          
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          another satisfied customer makes use of guestbook facilities: 
+          http://www.westwalesbeachbreaks.co.uk/10602/10603.html ... 
+          Daily Mail fails to realise there are 101 years from 1904 to 
+          2004 (inclusive): http://qwer.org/ClassicFencePostError.html 
+          vs http://news.bbc.co.uk/2/hi/uk_news/magazine/3755482.stm ... 
+          intricately constructed Widdecombe of the fortnight or 
+          whenever (some NSFW language): http://tinyurl.com/3pbrg ... 
+          when oh when will the public tire of inappropriate background 
+          image-linking on forums full of earnest Harry Potter fans?: 
+          http://p071.ezboard.com/fhogwartsandbeyond81091frm114 ... one 
+          reason why Bush doesn't want the world seeing his website?: 
+          http://www.siliconcreative.com/images/towit_large.jpg (fixed 
+          now from the looks of things)...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          Look, you're not obsessed over your http hits, alright? You
+          don't pour over your apache logs, gleefully pouncing on
+          referrers, chortle over your keh-razy Google search terms,
+          tracing your rise up the blogrolls to Supreme
+          Google-Juicity. That would be *vain*. As a matter of fact,
+          you don't even have a weblog statistics analyser installed.
+          But you do concede it would be nice to just take a cursory
+          glance across the last /var/log/apache/access_log file.
+          Perhaps even, as in that last slashdotting, to get an HTML
+          summary in real time, counting up the hits as they happen.
+          Enter VISITORS, the ironically ungoogleable name of a C
+          executable that's fast enough to just run over your logs
+          when you need it, raw enough to generate a text summary to
+          STDOUT, and small enough to sit listening to a piped "tail
+          -f" of your logs, generating HTML on the fly. The code is
+          portable with no dependencies, so you don't even have to
+          install it. No-one need know you care.
+          http://www.hping.org/visitors/
+                          - wow, that's a lot of adverts for a C program
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> you know, you wait all year for detailed deconstuctions 
+          of what goes on in US politics, then GOD BLESS AMERICA: WITH 
+          GOD ON OUR SIDE (7.20pm, Sat, C4), THE NEW WORLD WAR (11.10pm, 
+          Sun and Mon, ITV), and DEAD RINGERS ELECTION SPECIAL (9pm, 
+          Mon, BBC2) all come along at the same time... the makers of 
+          "Attachments" tackle a slightly less fantastical workplace in 
+          the form of legally dubious pre-crime procedural MURDER 
+          PREVENTION (10.20pm, Sat, C4)... and the mythical "but Abraham 
+          Lincoln's statue has the head - of a horse!" ending would make 
+          about as much sense as anything else in Tim Burton's travesty 
+          of PLANET OF THE APES (9pm, Sun, C5)... ITV3 launches on 
+          Freeview with both home-grown *and* American crime shows, the 
+          latter including detective-cabbie romp HACK (11pm, Mon, ITV3) 
+          and the updated Ed "Married With Children" O'Neill DRAGNET 
+          (9pm, Wed, ITV3)... THE SMOKING ROOM (10pm, Tue, BBC2) is 
+          basically a nicotine-stained, less-funny version of "The 
+          Office"... but the "you've been targeted for Shermination" bit 
+          remains a highlight of the as-you'd-expect AMERICAN PIE 2 
+          (9pm, Wed, ITV)... HORIZON (9pm, Thu, BBC2) tackles the tricky 
+          issue of nature vs nurture in the sensitively titled "Dr Money 
+          And The Boy With No Penis"... C4 are presumably celebrating 
+          something with a terrestrial premier double bill of TOUCHING 
+          THE VOID (9pm, Thu, C4) and the neat but neurologically 
+          improbable MEMENTO (11.05pm, Thu, C4) - dense anterograde 
+          amnesia is so rare it's unlikely he'd have ever met anyone 
+          else with the same condition... and apparently it's quite 
+          amusingly written, but does that really make up for the 
+          atrocious animation quality of new C4 acquisition THE SIMPSONS? 
+          (from 9pm, next Fri, C4)...
+          
+          FILM>> Izabella "Reign of Fire" Scorupco is sworn in as the 
+          new "Pazuzu" in unnecessary prequel EXORCIST: THE BEGINNING 
+        ( http://www.capalert.com/capreports/exorcistthebeginning.htm :
+          If you are bothered by seeing a human body atomized into tiny 
+          pieces and another body with a 10-inch hole eaten through its 
+          midsection with about half the flesh gone from the rest of the 
+          body, this film is not for you)... also out on limited release 
+          this Friday is the scariest Halloween sociopath of them all - 
+          aka THE CORPORATION ( http://www.bbfc.co.uk/ : Cert PG, 
+          contains images of real violence and death)... then next week, 
+          Sarah Michelle Gellar avoids stereotyping as a young woman 
+          battling supernatural forces in Japanese horror remake THE 
+          GRUDGE ( http://www.capalert.com/capreports/grudge_the.htm : 
+          human mandible; adults in underwear; mutilated walking undead; 
+          at least seven murders and one suicide; Buddhism)... and sure, 
+          we admit there are *a few* funny moments amid the endless, 
+          brutal misanthropy of Billy Bob Thornton's predictably BAD 
+          SANTA ( http://www.imdb.com/title/tt0307987/trivia : the word 
+          "fuck" and its variations are used 147 times while "shit" 
+          appears 34 times - possibly a record for a Christmas film)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+         "in all this excitement, we've kind of lost track ourselves..."
+             http://www.freecherrypy.org/asbradbury/archive/0429000
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

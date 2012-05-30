@@ -1,0 +1,167 @@
+  __  __ _2003-07-11   _________  __
+ |  \/  (_)_ __ (_) \ | |_   _| |/ /    o Subscribe via the beauty of
+ | |\/| | | '_ \| |  \| | | | | ' /     o   http://lists.ntk.net/
+ | |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+ |_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+         "When we were doing the research to build the school of the
+         future we looked at swipe cards or fingerprinting, but there
+         are many civil liberties with the latter issue."
+         http://news.bbc.co.uk/1/hi/england/wear/3056162.stm
+ - that headmaster who is introducing eye-scanners for school lunches
+   ... always best to minimise the civil liberties as far as possible
+
+    [ We're still on holiday. Actually, more on holiday than
+    expected, as Dave seems to have disappeared. I'm assuming this
+    isn't due to cyberassassin "copycats" under the undue influence
+    of Terminator 3. But, you know, that'll be crime theory number
+    one if I don't hear back soon. Also, it's my birthday today,
+    which I'm spending writing apologies to all those who wrote to
+    thank us for typing in the NTK subscriber list by hand last week.
+    we didn't; it was a schoolboy joke that went a bit too far.
+    Sorry.  I *will* be writing all those apologies by hand though.
+    On my birthday. In blood. ]
+
+
+                             >> SEMI-HARD NEWS <<
+                            use strict; use booze;
+
+         This year's OPEN SOURCE CONFERENCE was like a live-action
+         role-playing game set in the Freshmeat universe. Situated in
+         the daylight-free cellars of the Portland Marriott, every
+         room and BOF had its own class library or module to defend
+         and trollish perl hackers and nigh-invisible Ruby wraiths
+         flew through the corridors, pick-pocketing ideas from each
+         other, while fine upstanding clerics with dutch accents
+         waved Python at them to exorcise the bad magic away.
+         Highlights: a Perl lightning talk that consisted of a rap
+         version of "these are a few of my favourite CPAN modules"
+         *in Japanese*; a rather wistful Larry Wall, recovering from
+         Perl6 ulcers, noting that he's devoted much of his mortgage
+         to hacking the new language; Brian Ingerson ruefully
+         confessing that maybe he wants to get out of this whole wiki
+         business, after his Kwiki project took over most attendees
+         like a brain slug.  And the London Perl Mongers yelping with
+         cockney rhyming delight when it was announced that the
+         Perl5-on-Parrot language is to be called "Ponie" - and
+         becoming almost catatonic with glee when they pursuaded
+         Larry Wall to say "I need a Ponie" in his State of the Onion
+         address. That's all very well - but has anyone explained to
+         the Americans what "monger" means in British slang?
+         http://www.odps.cyberscriber.com/slangm.html
+                                                       - see "Menner"
+         http://oscon.kwiki.org/
+                                        - software that's too damn social
+
+
+                             >> TINY ANTI-NEWS <<
+                             berating the obvious
+
+         antispam letter actually reads like spam, down to mispelling
+         of "pornorgraphy" http://www.endspam.org.uk/contact-mp.html ...
+         world's worst store locator: http://www.roofbox.co.uk/store.html ...
+         stats widdecombe (hit ctrl-r a few times) http://www.xsls.com/?521
+         ... calling it a headline already feels a little inappropriate:
+         www.ntk.net/2003/07/11/dohhead.jpg ... see why they have an opening:
+         http://www.surrey.police.uk/careersitem.asp?jobid=3 ...  13 (f)
+         is a toughy: http://www2.amd.com/us-en/gcab/lt/exam/1,,,00.html ...
+         military use secret methods to gain 32 hours in a day:
+ http://infocom.cqu.edu.au/Units/aut2000/85321/Resources/Lectures/2000/14/2/
+         ... harsh but fair http://images.google.com/images?q=aging+wrestlers
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Sick of all the hype? Then why not mentally search-and-replace
+         the fancy high-tech term "weblog" with a more down-to-earth
+         equivalent - "soapbox", for example - every time you hear
+         someone using it. For instance: VoxPolitics would now be
+         holding a seminar entitled CAN SOAPBOXES CHANGE POLITICS?
+         (7pm, Mon 2003-07-14, Grand Committee Room, House of Commons,
+         free but RSVP), noting that several British MPs now broadcast
+         their opinions from soapboxes of their own, and perpetuating
+         the myth that some US soapboxes are so influential that they
+         actually affect events in the real world - just as Ben Elton's
+         relentlessly scathing commentaries are widely regarded to have
+         brought about the ultimate downfall of Margaret Thatcher.
+         http://www.voxpolitics.com/weblog/archives/000305.html#000305
+                - featuring Tom "Yo Teens" Watson (Labour, West Brom)
+         http://www.ojr.org/ojr/glaser/1055282466.php
+                                  - "hobby horse" also seems to do it
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Using the FRAMEWORK FOR INTEGRATED TEST is the closest mere
+         mortals get to being inside Ward Cunningham's brain. Here's
+         how it works: FIT is a unit testing program that can parse
+         HTML tables. The first column (say) of the HTML table has a
+         function to be called, the second column has an expected
+         result. You have a big pile of these tests, all in the same
+         table. This tester program outputs in HTML, adding a third
+         column: the actual result. Here's the smart part: you run
+         this program as a CGI script, and it gets its HTML tables
+         from the referrer Webpage. You put those test tables on a
+         Wiki, so you can change and tweak them, and you put a link
+         to your tester CGI at the bottom. When you want to run your
+         tests, you bounce on the CGI submit button. When you want to
+         edit or add to your tests, you edit your wiki. Your tests
+         live in HTML, and can gradually morph into documentation.
+         Your users can write their own tests. Bug reporters can add
+         tests that fail. Installed versions of your work can grab
+         the latest tests from your Website. Your test suite can sit
+         somewhere else - on a different server, and be written in
+         different languages (there are FIT CGI implementations in
+         Java, C#, Perl, Python, Ruby and Lisp). It's such a simple
+         idea, you'll slap yourself in the seconds before your brain
+         melts entirely at the possibilities.
+         http://fit.c2.com/wiki.cgi?WhatsWhat
+                                      - something of a starting point
+         http://fit.c2.com/
+                                      - less than 750 lines of Python
+
+
+                              >> MINI-MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         we think they're covering up something: http://tinyurl.com/gomd
+         ... automated irc humour: http://www.jibble.org/montyquotes.php
+         ...  http://ukcdr.org/issues/cd/retail/20030707-amazon.txt versus
+         http://ukcdr.org/issues/cd/retail/20030707-eliza.txt ... for our
+         London readers: http://www.livejournal.com/users/oichurchill/364.html
+         ...  http://images.google.com/images?q=DCP_0001.JPG (also
+         CP_0001.JPG, IMG_0001.JPG, DSC0000001.JPG, etc.) ... inevitably,
+         alt.fan.harry-potter.creative ... and what mail does a spammer get?
+         http://www.cyberangels.nl/evidence/mailfile.html ...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+              remembering to "pick a dataset/template that is extremely
+              dull and wouldn't make news in NTK should anyone ever
+              guess the URL" - BBC internal in-situ testing guidelines
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                       Unsubscribe? Ah, well, you see...
+           Subscribe? The thing is: could you wait until next week?
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

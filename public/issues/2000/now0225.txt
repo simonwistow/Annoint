@@ -1,0 +1,234 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-02-25_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "We have always done a good job of safeguarding privacy. I
+         don't think we've done a good job as we could have on
+         getting the message out there about privacy."
+                                           - DoubleClick's KEVIN RYAN
+              http://www.zdnet.com/zdnn/stories/news/0,4586,2444975,00.html
+ ...although if you had detailed knowledge about the sites we visited, 
+                                       you could probably work it out 
+
+
+                                >> HARD NEWS <<
+                                nuts and screws 
+
+         If you were wondering why this week's Private Eye had an
+         advert for www.portia.org.uk, an apparently empty site,
+         here's why. PORTIA is - or was - a site that documents
+         suspected cases of false convictions in the UK, run by the
+         eighty-year-old journalist, Ken Norman. On February 9th of
+         this year, the small ISP who hosts the site received a
+         letter from lawyers acting on behalf of the Police
+         Federation. The Police Federation is currently seeking
+         action against the BBC for a Trial and Error program on the
+         Eddie Gilfoyle case, and sought to have a page covering the
+         case removed, and replaced with "a full apology". Eddie's
+         conviction has been found unsafe by the the Criminal Cases
+         Review Commission, and following an investigation by a
+         neighbouring police force, officers involved have been
+         recommended for disciplinary action. Nonetheless, under the
+         weight of the Federation's legal threats, the ISP felt
+         obliged to remove the entire site.
+         http://www.google.com/search?q=cache:www.portia.org.uk/cpages/intro.html
+         - although, of course, censorships' just a caching problem
+         http://www.deja.com/%3Ddnc/threadmsg_ct.xp?AN=588838054
+                                            - best dealt with backups
+         http://scandals.org/trialanderror/gilfoyle.html
+                                                  - at multiple sites
+
+         Of course, we have our own battles to fight. Not quite in
+         the same league is our two year campaign to hold Bill Gates
+         to his promises. As founder subscribers will recall, back in
+         1997 we challenged Bill on a promise he gave some years
+         previously: to release the source for the original, 4KB
+         Altair BASIC. Since then, he has persistently mentioned
+         "getting around to it". We guess he's been too busy
+         forgetting stuff for the DOJ trial to recollect this
+         particular commitment. Or has he? IT WEEK recently reminded
+         him of the deal, and Bill said that "anybody who wants a
+         copy can just ask." You heard the man: wonder what license
+         he's going to pick?
+         http://www.zdnet.co.uk/news/2000/7/ns-13511.html
+                        - next, he has to get Win2000 to run in 640KB
+         http://gizmonaut.net/soapflakes/EXE-199711.html
+                                                   - the story so far
+
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+         
+         http://www.softwareparadise.co.uk features ISO9002 "qulaity"
+         (sic) accreditation ... ... MATT DRUDGE demands bongo and
+         flute backing to his audio book ... THE THE in Amazon's top
+         ten pre-ordered albums: but *how*? ... BBC reveal that in
+         futuristic Finland, "Some girls change the covers to suit
+         their clothes - if they're wearing a red dress they'll have
+         a red phone that day." ... SUNDAY TIMES recommends users
+         "jiggle their mouse" to beat online time-outs ... AMAZON not
+         learning much from that purchase circle feature:
+         http://www.amazon.com/exec/obidos/subst/wishlist/wishlist-portal.html
+         (try Bill Gates) ... they're just trying to wind up Tim BL,
+         right? http://www.g-wizz.net/errordocuments/404error.swf ...
+         still, there are worse industries to have a doh file:
+         http://www.zipworld.com.au/~zem/images/bsod-1.jpg vs
+         http://www.ee.surrey.ac.uk/Personal/L.Wood/received/mandarin-airlines/
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         OK, so the word is that long-time anti-virus varmint (and
+         friend of the Sunday Times) DK MATAI will be the "guest" of
+         that notoriously cynical First Tuesday crew on, er, Tuesday.
+         Or you could think up some equally tricky questions for
+         erratic soft-spoken "Microserfs" scribe DOUGLAS COUPLAND, who
+         (we think) is promoting his new novel, "Miss Wyoming" from
+         Monday next week at some branches of London's Books Etc. Ask
+         your local bookseller for details - ever since reading his
+         "Generation X" (and that dreadful Lara Croft book), we've been
+         just too slack to care.
+         http://www.firsttuesday.com/  
+                                          - "First Tuesday/ I gave you a worm...
+         http://www.kumite.com/myths/opinion/thoughts/1999/mi2g.htm
+                                   - but the very next day/ you gave it away..."                    
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         GRAPHVIZ is one of programs that make you
+         realise that (a) everyone else has the same problems as you
+         and (b) a few of them are *much* better at getting around to
+         solving them. It's a suite of programs for UNIX
+         and Windows that takes a simply organised text file of
+         directed or undirected nodes, and constructs an accurate and
+         aesthetically rather lovely graph of them. And it saves the
+         shame of borrowing Marketing's copy of Visio. No recent 
+         changes (although it did slip quietly into an Openish Source
+         license last September). We only just found it. We're fools.
+         http://www.research.att.com/sw/tools/graphviz/
+                                                  - Tony Buzanariffic
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         hmmm : www.dos-truth.com ... not exactly 24 hour access:
+         http://www.xtml.co.uk/managedserver.html ... TV Go Home +
+         Davros = http://tv.cream.org/gorilla/tvmenu.htm ... X-MEN
+         teaser still manages to beat the presidential candidates
+         sites: http://mutantwatch.com/ ... Private Sector Takeover
+         of Mir - Sterling one, Gibson nil ... we stole the quote, so
+         here's the link: viva http://www.ditherati.com/ ! ... from
+         our Ambassador to Moscow, to Lord Pembroke: greetings
+         http://www.ntk.net/2000/02/25/moscow.gif ... swede imitates
+         ONION: http://195.149.141.15/smart/index.htm vs.
+         http://www.theonion.com/archives/monkgloats.html ... at
+         least it's not a VIRGIN group site: http://www.hymen.com/
+         ... "look after yourself - and your SIMS!"
+         http://www.somethingawful.com/articles/article-simrealism.htm
+
+
+                                >> GEEK MEDIA <<
+                    the less rude http://www.tvgohome.com/ 
+
+         FILM>> a good week for noble, well-crafted Oscar-bait = a bad           
+         week for gunfights and explosions! Tom Hanks gets together              
+         with Shawshank Redemption director to essentially remake the            
+         same homespun Stephen King tosh, though not as well, in THE             
+         GREEN MILE (http://www.capalert.com/capreports/ : rehearsal of          
+         an electrocution; beating by crazed father; rear male nudity;           
+         porno comic book; urination as entertainment) - though you've           
+         got to admire the stamina of audiences for a three-hour film  
+         that is (largely) about Hanks desperately needing a piss...
+         Matt Damon plays a murderous bisexual Rory Bremner who wows a
+         bunch of upper-class tossers in dark lah-di-dah yawn THE
+         TALENTED MR RIPLEY (http://www.capalert.com/capreports/ :
+         homosexual embrace of a dead body; forgery; impostering;
+         cohabitation; excessive posterior exposure [bathing suits];
+         drowning suicide; homosexual behaviors, some exceptionally
+         bold)... and we should have already reviewed Jerry "Sliders"
+         O'Connell's sub-Swingers adventures in the parallel universe
+         of the the LA singles scene via not hugely amusing relo-drama
+         BODY SHOTS (http://www.cndb.com : "[Ron] Livingston's buns are
+         prominent in the frame"; Jerry O'Connell - "brief rear
+         exposure... showering in the lockerroom"; Emily Procter -
+         "only a brief glimpse of her breasts... fans of the actress or
+         into seeing bondage sequences in mainstream movies will
+         probably want to seek this out"; Tara Reid - "you can briefly
+         see her lovely rear... great views of her breasts and from
+         many different angles"; Brad Rowe - "partial rear views during
+         an intense sex scene... against a chain link fence")...
+
+         TV>> a scenario instantly familiar to any QL owners out there,
+         as Clive Sinclair "calls" with an 8 and a 7, *though there's     
+         already an Ace and a King on the table*, in all-new episodes
+         of LATE NIGHT POKER (1.25am, Fri, C4)... BBC2's ironically
+         titled "Comedy Zone" plumbs new depths with the return of
+         increasingly desperate stereotype-reiterating in GOODNESS
+         GRACIOUS ME (9pm, Fri, BBC2) plus that loathsome Dennis Pennis
+         guy playing a loathsome ad exec in PERFECT WORLD (9.30pm, Fri,          
+         BBC2) - not a spin-off show from the Kevin Costner film of the
+         same name... and there's a good reason why the "Kurt Godel"             
+         character doesn't use the Jerry Maguire catchphrase "You     
+         complete me" in zany Meg Ryan Albert Einstein boffin romance
+         IQ (10.25pm, Fri, BBC1)... like "The Matrix" and "Back To The 
+         Future", they filmed (and are showing) both sequels back to
+         back for '70s subway Walter Matthau black comedy THE TAKING OF
+         PELHAM 1, 2,(&) 3 (8.55pm, Sat, BBC2)... C4 kicks off its
+         happening peak-time Saturday night with a *2-hour* repeat of
+         soporific crypto-history STATION X (7pm, Sat, C4)... we defy
+         even dedicated fans to tell the difference between this and
+         any other series of HARRY HILL (9.30pm, Sun, C4)... and Jamie
+         Lee Curtis (then Mrs John Carpenter) has an uncredited
+         voiceover in cyber-noir Kurt Russell romp ESCAPE FROM NEW YORK
+         (10pm, Sun, C4)... alleged NTK reader and former Watchdog co-
+         host Charlotte Hudson inexplicably reappears in "bizarre" new
+         sketch show BRUISER (11.20pm, Mon & Wed, BBC2) - frenziedly
+         alternating with yet another BBC "minority comedy" show,
+         BLOUSE AND SKIRT (11.20pm, Tue & Thu, BBC2)... the Radio Times
+         implies that this week's HOME FRONT (8pm, Wed, BBC2) makeover
+         is to transform a garden (and a house?) into a liveable
+         facsimile of the Teletubbies set... while DISPATCHES (9.30pm,
+         Thu, C4) breaks from all that hard-hitting political stuff for
+         some well-meaning tech product placement by *putting a whole
+         street on the internet*. What *will* they think of next?...
+
+         INTENTIONALLY BLANK>> Dave is otherwise engaged this week,
+         training in the Nevada desert in preparation for what he
+         claims will be an inevitable post- http://www.kevinwarwick.org.uk/ 
+         nuclear armageddon. Dave, if you can hear this: everything's fine.
+         Come back home. Wolfie? Wolfie's just fine, honey. Hello?
+         Hello?
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+           "actually, we did have a third news item, but we thought
+           we'd done enough vagina stories for one century. Mail tips
+           for your free copy and WAV file. Sickos."
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

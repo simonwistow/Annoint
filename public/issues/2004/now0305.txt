@@ -1,0 +1,334 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-03-05_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "[BT Broadband Basic's] 1GB cap is the equivalent of 20,000 
+         web pages, 200 MP3 music tracks or 100 large software programs..."
+                                http://news.bbc.co.uk/1/3521539.stm
+         ...anyone know what the other 640MB on the Photoshop CD is for?
+
+
+                               >> HARD NEWS <<
+                                oh Santa Cruz
+ 
+         Who can be bothered to keep up with the SCO story these
+         days? Only those who like a laugh. To summarise for those of
+         you with better things to do: SCO first announced that they
+         had a paying "licensee" for "Linux", worth "seven digits".
+         The licensee, EV1servers said they'd paid - not that much.
+         Paypal error in your favour, SCO! Next, always a little
+         publicity-shy, SCO sent out a press release announcing that
+         they'd be sending out another press release, announcing a
+         Linux user they'd be suing. Tomorrow. No, no, the next day.
+         Two users. Yes, two. The day after tomorrow duly arrived
+         (along with their financials, which sucked). SCO said they'd
+         be suing AutoZone. Not, as it turns out, for using "their"
+         Linux without a license: but for migrating their servers
+         from SCO to Linux "too quickly" for them not to be illegally
+         using SCO's own libraries. SCO's case was water-tight, and
+         entirely unexpected, with only one flaw: the person in
+         charge of migration had posted to the GrokLaw site nearly a
+         *month* ago, asserting that they'd not had to use any SCO
+         libraries, and that he'd be happy to explain exactly "why
+         SCO lost AutoZone's and several large account's businesses"
+         in public. SCO also sued DaimlerChrysler, an act one
+         eye-witness said caused widespread ROTFLMAO at the company.
+         Then someone leaked ESR an internal SCO mail implying that
+         Microsoft was funding the whole thing. Suavely, SCO admitted
+         that mail was genuine. Then, as if admitting to your leaked
+         documents wasn't bad enough for preserving secrecy, someone
+         at ZDNET - ZDNET! - did "show changes" on one of their Word
+         documents, and found several versions of their barratry
+         strategies. With a grudging nod to ESR, it looks there's a
+         parallel Gandhicon going on here: first they're worried
+         you'll win; then they fight you; then they start laughing.
+         Soon, comes the ignoring. And then you're gone.
+         http://www.groklaw.net/
+                                           - not soon enough mind you
+
+         Just a quick update on last month's story about EBAY.CO.UK 
+         filling up with pyramid-like "Matrix" scams - eBay's official 
+         position (attributed to "an eBay spokesperson") admits: "It is 
+         important to note that these items are not permitted on 
+         eBay.co.uk and any of these items that come to our attention 
+         will be removed. It is against eBay's policy for any user to 
+         purchase items outside of the site or for catalogues to be 
+         listed where users can directly order items". The operative 
+         phrase here being "any of these items that come to our 
+         attention" - eBay appears to have no interest in filtering 
+         these auctions out itself, preferring that users do it via 
+         their mildly convoluted maximum-10-items-per-submission 
+         complaints form. This appears to be what they're trying to do 
+         over at sites like MATRIXWATCH.ORG - but given that eBay.co.uk 
+         does appear to remove auctions for illegal electric stun guns 
+         and other weapons from their site, wouldn't it be easier if 
+         they also added some of these to their list?
+        http://search.ebay.co.uk/search/search.dll?query=%22free+link%22
+                                          - another handy search term
+         http://pages.ebay.co.uk/help/community/png-catcurrent.html
+         - vs http://www.theregister.co.uk/content/archive/34956.html
+    http://www.matrixwatch.org/modules.php?name=Content&pa=showpage&pid=2
+               - not quite the "exiting" new idea it starts out to be
+
+         And just to draw a line under our most recent craze: the .name 
+         registration gold rush has petered out at last, with CHRIS 
+         BARNES claiming he's now "the proud owner of" my.domain.name, 
+         SCHABE wondering "if there's a prize for most hostile entry" 
+         re: his bitch.say-my.name, and ERIC PALMQUIST getting more 
+         phonetic with his thatzma.name suggestion. But "don't read NTK 
+         drunk" was the concluding moral offered by DARREN IRVINE, that 
+         condition having contributed to his wanton registering of 
+         theman.withno.name. Excellent safety tip Darren, though 
+         sometimes it takes us a while to sober up after writing it.
+http://xrrf.blogspot.com/2004_02_29_xrrf_archive.html#107813613660639685
+            - in our experience, *all* computer experts drink. That's 
+                     usually how they ended up as computer experts...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Mothra on way?: http://www.ntk.net/2004/03/05/dohgojira.gif 
+         ... Devon Coastguard unleash highly trained sniffer plants: 
+         http://www.ntk.net/2004/03/05/dohcliff.gif ... Jack Schofield 
+         must have been using WinXP much longer than anyone realised: 
+         http://www.ntk.net/2004/03/05/dohwin91.gif ... too clever for 
+         mere mortals: http://www.ntk.net/2004/03/05/dohsmarts.gif ... 
+         http://www.marinereef.org/searchdetail.php?species=fish&id=230 
+         - quite common round here... this month's extra-puerile GOOGLE 
+         GOOFS: http://www.google.com/search?q=business+analist , 
+         "windows mellinnium", cuntomers, nutcacker, "mange change", 
+         "dental plague", "reputable business magnet", "new ear of", 
+         http://www.google.com/search?q=site%3Aguardian.co.uk+guradian 
+         ... Google changes most of Elmer Fudd's "PageWanks" back, but 
+         not all: http://www.ntk.net/2004/03/05/dohpwank.gif ... .NET 
+         in action: http://www.ntk.net/2004/03/05/dohdabsnet.gif ... 
+         not the sort of "small businesses" that they had in mind: 
+         http://www.ntk.net/2004/03/05/dohproduct.gif ... define 
+         "unsolicited": http://www.ntk.net/2004/03/05/dohcox.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         There's a (relatively) rare opportunity to catch Creative 
+         Commons US co-director PROFESSOR JAMES BOYLE in his native 
+         Scotland at next Tuesday's public lecture THE ANCIENT RIGHTS 
+         OF CYBERSPACE?: ENCLOSING THE COMMONS OF THE MIND (4.30pm, 
+         next Tue 2004-03-09, University of Glasgow, presumably free?). 
+         He's an entertaining speaker and all, but there still might be 
+         slightly more laughs at the 2004 IG NOBEL TOUR OF THE UK AND 
+         IRELAND (from next Thu 2004-03-11, various venues, UKP5), 
+         featuring organiser MARC ABRAHAMS plus a range of favourites 
+         old - Scrotal Asymmetry in Man and in Ancient Sculpture, Using 
+         Magnets to Levitate a Frog - and new: The Impressive Brains of 
+         London Taxi Drivers, The First Scientifically Recorded Case of 
+         Homosexual Necrophilia in the Mallard Duck.
+       http://www.gla.ac.uk/newsdesk/events/details.cfm?Event_Number=1413
+              - really ought to make a TV series called "Boyle's Law"
+         http://www.patent.gov.uk/about/events/info/customs.htm
+               - or go heckle the Patent Office all round the country
+         http://www.improb.com/ig/2004/ig-tour-UK/2004-britain-ig.html
+        - drinking game: every time they namedrop a Nobel prizewinner
+         http://www.savetherhino.org/
+         - Douglas Adams lecture clash (hey, try eating less rhinos!)
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         "Oh, to be a top DJ again," writes YOZ GRAHAME, rather over-
+         romanticising the three housewarming parties he's played in 
+         the last five years. "But now that I'm all MP3ed-up, it'd be 
+         nice to use mixing software that brought back the joy of vinyl 
+         without spending half a grand on Final Scratch. I've had my 
+         eye on the HERCULES DJ CONSOLE but until payday I've got 
+         TACTILE 12000 (Windows and OSX), possibly the only 
+         Sourceforge project written in Macromedia Director. None of 
+         that fancy auto-BPM-detection here; instead you get big 
+         spinning discs, draggable needles, nudge buttons, splittable-
+         stereo cueing (along with multiple sound outputs) and hotkeys 
+         for everything. Admittedly the scratching's a bit crap and the 
+         whole thing's rather more Fisher-Price than Fischerspooner, 
+         but it's good enough to get me started on my efforts to mix 
+         'Yellow Submarine' with Weezer's 'Green Album' - roll on, Lime 
+         Wednesday!"
+         http://www.tactile12000.com/
+                    - style and substance locked in mortal soundclash
+         http://sourceforge.net/projects/tactile12000/
+           - a great start for both of you Lingo OSS coders out there
+         http://www.hothardware.com/hh_files/S&V/djconsole.shtml
+              - unlike FS, actually looks like it justifies the price
+         http://ultravnc.sourceforge.net/
+                - bonus tracking: yet another (Windows-optimised) VNC
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         M. Banks working on *the* definitive genre publication: 
+         http://www.amazon.co.uk/exec/obidos/ASIN/1841491551 ... new 
+         craze hits UK clubs: http://qwer.org/MikeOIdfieldDance.html 
+         ... Kingsmill accidentally reveal their upcoming "Scooby Doo" 
+         movie tie-in: http://www.danontherun.com/sandwich.htm ... now 
+         if Yahoo *really* wanted to make life unpleasant for Google: 
+         http://www.google.com/contact/newsletter.html ... learn from 
+         you competition: http://www.adnx.com/services_us.html (via 
+         http://www.digikitten.com/forums/showthread/t-5565.html ) vs 
+         http://www.atimi.com/atimi_processes.html ... web's lamest 
+         superheroes: http://www.commanderx.com/adventures.html vs 
+         http://www.captaineuro.com/ ... in explicit medical detail: 
+         http://www.google.com/search?&q=aorta-bifemoral+bypass ... 
+         galaxy found approx 1000 times beyond limit of observable 
+         universe: http://physicsweb.org/article/news/8/3/1 ... major 
+         milestone in language acceptance - Tetris running on Parrot: 
+         www.nntp.perl.org/group/perl.perl6.internals/21350 ... cheers: 
+        http://www.symantec.com/avcenter/venc/data/irish.virus.hoax.html
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> OK, so you've missed the pilot episode, but there's not 
+         much to catch up on in "From The Makers Of Freaks And Geeks" 
+         half-hour college comedy UNDECLARED (1am, Fri, ITV)... the 
+         trailers give the impression that new Northern Irish sitcom 
+         PULLING MOVES (9pm, Fri, BBC3) is like "Lock, Stock and Two
+         Smoking Barrels" starring the members of Westlife... and look 
+         out for some special new non-aspirational adverts in the 
+         breaks to baldy Alain de Botton's latest made-up modern 
+         malaise, STATUS ANXIETY (7pm, Sat, C4)... David Fincher's 
+         relatively downbeat THE GAME (10pm, Sat, C4) is, depressingly, 
+         now cited as an influence in yet another tedious "immersive" 
+         time-waster: http://www.projectsyzygy.com/syzpage2.htm ... an 
+         interesting cast fail to illuminate white hip-hop racial 
+         politics in the somewhat experimental BLACK AND WHITE (2.25am, 
+         Sat, C4)... while the lack of humility displayed by Jeff 
+         Goldblum in the face of CGI animal romp CATS AND DOGS (6.25pm, 
+         Sun, C5) here is staggering... rich kids Dawson's Creek THE 
+         ORANGE COUNTY (6.30pm, Sun, C4) doesn't seem very closely 
+         based on the Kim Stanley Robinson trilogy of the same name... 
+         SAVING PRIVATE RYAN (9pm, Sun, C5) shows in the same slot as 
+         "Starship Troopers" last week, though this time the ones in 
+         Nazi uniforms are the bad guys!... and DEMOLITION SQUAD 
+         (7.30pm, Mon, C5) provides a handy counterpoint to RACE FOR 
+         THE WORLD'S TALLEST SKYSCRAPER (8pm, Mon, C5)... film of the 
+         week - if not the year - is low-budget "The Making of Co-ven" 
+         indie horror AMERICAN MOVIE (12.20am, Tue, BBC2)... hope those 
+         BBC iCan windfarm protestors are tuning into powercut scenario 
+         IF - THE LIGHTS GO OUT (9pm, Wed, BBC2)... and our main 
+         contribution to the "Crisps" episode of THE MONEY PROGRAMME - 
+         FAT PROFITS (7.30pm, Wed, BBC2) was suggesting they should 
+         show Golden Wonder's ill-judged ad campaign likening suppliers 
+         to drug dealers: http://www.goldenwonder.com/popup.html ...
+         
+         FILM>> "Christ!" - on a bike! - is the typical reaction to 
+         trashy Ice Cube "The Fast And The Furious" motorbooty TORQUE 
+         ( http://www.capalert.com/capreports/torque.htm : Erotic 
+         symbolism is rampant, testosterone is apparently all that 
+         exists; [Jaime Pressly] has more steel poking through her than 
+         a rotisserie hog and exudes as much goth as Book of Shadows: 
+         Blair Witch 2)... despite the presence of Benicio Del Toro 
+         (and the title), not many drug busts in mood piece 21 GRAMS 
+         ( http://www.cndb.com/movie.html?title=21+Grams+%282003%29 : 
+         Opens with a shot of Naomi Watts topless. Not only does she 
+         continue in that state for entire scenes, director Alejandro 
+         Gonzalez "Amores Perros" Inarritu frequently shoots such tight 
+         close-ups that her breasts completely fill the screen)... 
+         bonkers Brittany Murphy and Heather Locklear's prissy daughter 
+         *both learn something from each other* in the predictable not-
+         based-on-the-Billy-Joel-song-of-the-same-name UPTOWN GIRLS 
+       ( http://www.cndb.com/movie.html?title=Uptown+Girls+%282003%29 : 
+         [Murphy's] wearing a loose fitting relatively unbuttoned 
+         shirt. When she crawls on all fours, it's possible there's 
+         something there, but the lighting is very dim and there's lots 
+         of shadows. The albeit too brief nipple peeks aren't reason 
+         enough to see this flick)... while set in North London - and 
+         apparently only being released there - is the fate of well-
+         worn Jewish wedding would-be comedy SUZIE GOLD (imdb: Contains 
+         strong language, moderate sex and soft drug use)... 
+         
+         AD MUSIC FOR SIX PEOPLE>> fortunately you seem to be getting 
+         almost as bored about Ad Music That Sounds Like A Well-Known 
+         Record as we are, with just one nomination this month for 
+         "McDonald's 99p menu" resembling "a third-rate knock-off" of 
+         Daft Punk's "Around The World" (plus it's hard to establish 
+         whether it actually is a cover of Kylie's "Slow" in the Nivea 
+         Moisturiser for Men ad, or just some bleeping noises that 
+         sounds a bit like it). In fact, the only thing that'd make 
+         this feature more obscure would be picking ads that most of us 
+         were never likely to see, an avenue currently pursued by 
+         reader ADRIAN FURBY, who maintains a solitary vigil monitoring 
+         antipodean television for all manner of transgressions, and 
+         dispatching occasional bulletins along the lines of "There's 
+         an ad for Libra tampons here in Australia that features three 
+         guys, each in a different coloured outfit, breakdancing on a 
+         large piece of cardboard to a song that sounds suspiciously 
+         like Herbie Hancock's 'Rock It', BUT ISN'T". Tampons for men? 
+         What *is* going on down there?... fortunately, January's 
+         challenge to find songs which would be ideal for particular
+         product campaigns has risen to fill the gap, with even BBC 
+         London's Danny Baker suggesting that The Wurzels' cover of 
+         Gina G's "Oooh Ahhh, Just a Little Bit" would be perfect for 
+         Ribena's new "cool" and "fiery" variants of the same name: 
+         http://www.snackspot.org/thread.php?story=0403031412daa . TIM 
+         BANNISTER proposed that "If for some reason Busted turn down 
+         that planned alteration" ("That's What I Go To Poole For", NTK 
+         2004-01-16), "there's always a chance that Peaches would be up 
+         for a reworded '[Flip] The Pain Away'", concluding with the 
+         refrain "Stay in Poole - 'cos it's the best" (we've since 
+         moved on to tweaking Coldplay's breakthrough hit to be more 
+         about Lucozade - "We've made a drink/ We've made a drink for 
+         you/ It's full of energy too/ And it is all: yellow!", and The 
+         Shamen's "Destination Eschaton" as an excellent jingle for 
+         "Destination: Chessington")... ED SINGLETON has "long thought" 
+         "a successful contact lens advert campaign could be built on 
+         the back of Mel and Kim's 'Ain't Ever Gonna Be Bespectacled'" 
+         (an improvement on our cancer-awareness rework of Kim's solo 
+         hit "G.L.A.D - Get Leukaemia And Die"), while reader GRAHAM 
+         suggested "Bernard Matthews Turkeys update their image with 
+         that Christina Aguilera song, or better yet get Bernard out of 
+         retirement to do his own cover version [Bee-yoo-ti-ful/ No 
+         matter what they say]". But PAUL DIXON snatched this month's 
+         no-prize for a staggering selection of somewhat varying 
+         quality, ranging from Kelis' "My Nesquik brings all the boys 
+         to the yard" to the Beastie Boys' "You gotta fight! For your 
+         right! To Smarrrrrties!" and Oasis' "Wagonwheel": "Maybeeeee, 
+         the school bell is gonna save meeeee/ 'Cos playtime makes me 
+         feeeeel/ Like a Wagonwheeeeel"... 
+                                                      
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "exhilarating and vaguely bizarre"
+              http://www.sfbg.com/38/22/x_techsploitation.html 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+
+

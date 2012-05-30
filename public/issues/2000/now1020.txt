@@ -1,0 +1,347 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-10-20_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The bottom line is that I feel really good about it. Here I
+         was taking big chances, breaking a new genre."
+ - JOHN TRAVOLTA, on further man-animal torturing BATTLEFIELD EARTH sequels
+                          ... breaking it beyond repair, I should add
+
+
+                                >> HARD NEWS <<
+                               patterns of abuse
+
+         So, what is going on at Demon? Their flat-rate Surftime
+         service delayed from its launch on October 9th, the network
+         fritzed from Friday 13th through most of the weekend, and
+         even the stoutest Demon defenders on the newsfroups letting
+         out the occasional gripe that things ain't what they used to
+         be. We'd pay no heed to RICHARD TIBBETTS'S theory on
+         demon.service that the troubles were caused by "a group of
+         terrorists [who] have barricaded themselves inside demon
+         towers with all the ... techies as hostages". Except...
+         there *do* seem to be a bunch of people camped outside,
+         compound-style, Demon's Park Royal facilities centre.
+         *They* say they're Gypsies - but do they mean Roma, or just
+         legal representatives of Gipsy Media, the most recent
+         company to besiege Demon to silence its own subscribers? And
+         what of that latest resignation note from a Thus senior
+         employee? His all@demon message said that the company
+         "wallows in its present circumstances and ... continually
+         shoot[s] itself in the foot" because of poor communication
+         and tribalism, and that if it carries on, "we may as well
+         give Energis a bargain and sell out now". Senior management
+         having a touch of the truth? Nah. Must be the gypsies' fault
+         after all.
+         http://www.deja.com/getdoc.xp?AN=680197567
+         http://www.meejahor.com/article.phtml?id=10
+                                        - Gypsy rights, USENET wrongs
+         http://uk.biz.yahoo.com/n/t/thus.l.html
+                   - Yahoo having problems with that "Thus" name, too
+         http://www.geocities.com/Paris/5121/paradigm.htm
+                                  - the first Distributed Nation, btw
+
+         You'd think with 41 states to pick its experts from, the
+         Council Of Europe wouldn't have fscked up its "Cybercrime
+         Convention" a *second* time. But even with the help of the
+         US and Canada (expecting to get a nice G8 world treaty out
+         of it), they still managed it. Not only does the doc still
+         forbid the distribution of "illegal devices" for the
+         purposes of illicit access to computer systems, the
+         convention now allows for extradition under those
+         over-general terms too. That means that Alec Muffet/ Ross
+         Anderson/ your favourite DeCSS/CueCat hacker could be hauled
+         off in irons to the ice-pits of the Northwest Territories.
+         Readers abroad who shrugged over RIP will be pleased to know
+         that the proposals also internationalise government access
+         to keys or, hell, any "necessary data" held on a computer.
+         Article 10 makes copyright infringement a criminal offence
+         worldwide, no excuses. Oh, and ISPs will be obliged to
+         collect and store information on their subscribers - despite
+         that information being used in the past "to identify
+         dissidents and persecute minorities", as the Global Internet
+         Liberty Campaign's protest letter has it. Final version is
+         due in December. God help us all.
+         http://www.ntk.net/cybercrime/
+         - the Convention, originally a Word document. Quelle surprise.
+         http://www.gilc.org/privacy/coe-letter-1000.html
+                     - Dear COE, are you insane? Love, everyone else.
+         http://www.securityfocus.com/commentary/98
+                      - David Banisar, the Nader of Privacy, comments
+         http://www.coe.fr/eng/std/states.htm
+                                  - there goes Bulgaria's IT industry
+
+         There are those of us still sufficiently traumatised by the
+         WIRED UK "unpleasantness" to be a little wary of the launch of
+         INDUSTRY STANDARD EUROPE (out today, UKP1.95, handed out free
+         in some London railway stations). UK/Europe-oriented version
+         of runaway US success? Check. Staffed by the cream of British
+         new-media journos, a Wired UK designer, and headed by John
+         Battelle? Check. Until recently based in the "cursed offices"
+         at 20 Soho Square, still haunted by the restless spirits of
+         Virgins .com and .net? Check, check, check! When we put this
+         to them, they were quick enough to come back with the Hegel/
+         Marx quote about history repeating itself "the first time as
+         tragedy, the second as farce", so we wish them luck with
+         their in-flight-magazine-accessible first issue - especially
+         if the rumours are true that it coincides with a decreased
+         availability through major news outlets of, shall we say, some
+         of the less exciting-looking "new economy" magazines.
+         http://www.thestandard.com/about/learn/company/bios
+          - and is it just us, or is this JB looking more and more...
+         http://www.neweconomywatch.com/bios.htm
+                       - ...like his old Wired UK pal, JOHN BROWNING?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         ABC fail to heed our Illuminati puppet-masters' press embargo:
+         http://www.abcnews.go.com/wire/Politics/ap20001012_1018.html
+         ... otherwise another "quiet week" - in national news,
+         business news, LEEDS NEWS: http://www.yourleeds.com/news/ ...
+         UrbanFetch FALCO, BagsOfTime FALCO, http://www.koobuycity.com/
+         "moving to larger premises in order to better satisfy
+         londoners expectation!" [sic]... evidently Wizard Of Oz fans:
+         http://www.365proaudio.com/breakingnews/liquidaudio.htm ...
+         "Most annoying aspect of going online with a modem?" It's not
+         the huge dial-up charges or even slow data rates, reveals BT
+         OPENWORLD, but http://www.ntk.net/2000/10/20/dohopen.jpg ...
+         because of http://www.zpok.demon.co.uk/lame/plt001.html -
+         http://www.downside.com/deathwatch.html ... outside: now:
+         http://signwave.co.uk/photos/view.cgi?foto=db/misc/urgency.gif
+         ... "Do you limit any types of Internet activity? No", says
+         http://www.libertysurf.co.uk/sections/help/faq.html?id=31 -
+         forgetting "Yes - staying on longer than we like you to"...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Thanks to the lone tipster who alerted us that next
+         Thursday's BAFTA INTERACTIVE AWARDS (2000-10-26, London)
+         promise to be "predictably crap - especially in the console
+         game nominees, two of which [READY 2 RUMBLE BOXING: ROUND 2
+         and TIMESPLITTERS - both for PS2] are yet to be released and
+         one of which [MEDIEVIL II, presumably] is utterly shit". The
+         METAPOD people asked us nicely if we could mention "the
+         first major festival celebrating innovation in the UK's
+         creative industries" (from today, various venues, the West
+         Midlands), though we're sadly unable to endorse it further,
+         due to the presences of Warp Records, Richard "Hypermedia"
+         Barbrook, Sadie "Cyberfeminism on Drugs" Plant, and
+         showcases like "the PDFheaven project, launched this year by
+         protova.com to showcase innovative uses of Adobe's Acrobat
+         format".
+         http://www.metapod.com/expo
+          - yeah, we could think of an "innovative use" or two for it
+         http://www.bafta.org/bafta/5_ie/5_NOMINATIONS_2000.htm#console
+         - no "comedy" category any more; just "moving images", "sound"
+
+         It's APACHECON 2000 EUROPE at London's Olympia from 2000-10-
+         23, from UKP350 per day; it's free to see Philip Greenspun
+         at a secret London location tonight (though probably too
+         late to register, 'cos ArsDigita never tell us about these
+         things early enough); and the cyber-enhanced exoskeletal
+         gloves come off on Tuesday night at Reading University,
+         where a Kevin- dissenter from the Cybernetics Dept, Dr Mark
+         Bishop, attempts to foster a healthy debate over the
+         imminent robotic takeover, in a talk entitled "Dancing with
+         Pixies: Strong Artificial Intelligence and Panpsychism". His
+         argument seems to be that non-biological systems (bricks,
+         cups of tea) can't possess human-style consciousness,
+         bizarrely concluding that this somehow makes them *less* of
+         a threat to humanity, not more!
+         http://www.kevinwarwick.org.uk/index.html#event
+         - nothing dangerous about a non-sentient bulldozer, is there?
+         http://www.arsdigita.com/events/event-info?event_id=2010
+         - white-water team-building may go on until after 10.30pm
+         http://apachecon.com/2000/EU/
+         - Olympia Conference Center, right next to Big Ben...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         NANOLOOP is a high-alcohol homebrew cartridge for the
+         Gameboy that turns the 'boy into a techno synthesiser.
+         It's built by German students at the University of Hamburg,
+         and in some very deep way, the music it generates seems to
+         reflect that. The interface is broadly unfathomable, and the
+         samples are generated by torturing the Gameboy's onboard
+         sound chip, so there's a charming air of Sonic on E to the
+         whole enterprise. 70USD gets you the cart direct from
+         Hamburg, but supplies are limited. Also included: a manual
+         that first-adopter Adrian Ward describes as having been "run
+         through babelfish twice", and schematics to build your own
+         MIDI interface. Makes our copy of Beatpad for the Palm look
+         a bit shit. Makes your whole former life look shit, too.
+         http://www.nanoloop.com/
+- Classic has "more 'warm' and balanced sound characteristics than Color"
+         http://stub.org/uploads/nanoloop.mp3
+                                             - Ade's work-in-progress
+         http://www.5thwall.com/minimusic/
+               - excuse music journo exaggeration: Beatpad's cool too
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         when oh *when* will the public tire of homoerotic EMINEM
+         parodies?: http://www.soundbreak.com/events/thompson/index.php
+         ... fuelling rumours about the "special sauce" of RONALD
+         MCDONALD: http://www.ntk.net/2000/10/13/harley-spunk.jpg ...
+         now, a vote for Hank, The Angry Drunken Dwarf is a *wasted*
+         vote: http://www.silicon.com/142e-envoy/home.htm - but not one
+         for CASPER BOWDEN... like that ATARI pop video, but in Flash!:
+         http://www.kaizolabs.com/captainlowrez/episode1.html ...
+         PETER "HATE" BAGGE belligerently resists whole animated point:
+         http://www.adobe.com/motion/features/shutins/ ... make FSCK
+         fun: http://www.movement.uklinux.net/fscktris/fscktris.html
+         ... if 20 is true, it's hardly "the end of the world", is it?
+         http://www.discover.com/oct_00/featworld.html ... DOMAIN worth
+         more than house? http://www.mbr.com/ ... BRASS EYE e-commerce:
+    http://www.bestbuy.com/detail.asp?e=11000813&m=1&cat=38&scat=39
+         ... keep KEVIN away from http://216.247.9.207/ny-best.htm ...
+
+
+                                >> GEEK MEDIA <<
+                     the less blasphemous www.tvgohome.com
+
+         TV>> assuming you get this in time, another good ANGEL this
+         week, spoofing zany West Coast political correctness (5.25pm,
+         Fri, C4).. a FRIENDS double-bill (9pm, Fri, C4) visits some
+         sort of parallel universe/ alternate reality - we always *did*
+         get those two confused... momentum-unconserving Arnie actioner
+         ERASER (9pm, Fri, ITV) was last shown October 23 last year...
+         and, after reader "Dunc" wrote in last week complaining that
+         "Highlander II" is "much, much worse" than we suggested, we
+         dread to think how badly he'll take the prospect of HIGHLANDER
+         III: THE SORCERER (11.05pm, Fri, BBC1), followed by Harry
+         Knowles-endorsed sci-fi camp SPACE TRUCKERS (12.40am, Fri,
+         BBC1) - alien terminator robots, apparently with ballerinas
+         inside... lame movie weekend continues with tediously '50s
+         "Mars Attacks" inspiration INVADERS FROM MARS (12.45am, Sat,
+         BBC1)... WITNESS (8pm, Sun, C4) popularises some nutbar who
+         claims she can photosynthesise, not eat... things pick up with
+         Queen Amidala's work-experience assassin classic LEON (10pm,
+         Sun, C4)... plus Kevin Costner's celebration of bad golfing
+         sportsmanship, TIN CUP (10.35pm, Mon, BBC1)... while, despite
+         its title, C5's MR PERVERT OBE (11pm, Sun, C5) turns out to be
+         a documentary about a headmaster who abused his pupils, not a
+         1970s sex comedy... clearly nothing cynical about the cross-
+         gender appeal of women's health docu BREASTS UNCUPPED (9pm,
+         Sun, Sky1) or product redesign makeover BRAND NEW BRA (9pm,
+         Tue, C4)... the "Gone In 60 Seconds" team of Nic Cage, Jerry
+         Bruckheimer and Scott Rosenberg exceed their baggage allowance
+         by packing way too much into CON AIR (9pm, Tue, C5)... and,
+         after last week's "Robocop", Wednesday night is Verhoeven
+         night again on C5, with Wayne "Newman from Seinfeld" Knight's
+         finest moment - and some other stuff - in BASIC INSTINCT
+         (10.15pm, Wed, C5)...
+
+         FILM>> a bumper week for scantily-clad women advocating some
+         sort of vague feminist message - a concept we just can't get
+         enough of - and the clever money is on Kristin "Jumanji, Drop
+         Dead Gorgeous" Dunst and Eliza "Faith from Buffy, True Lies"
+         Dushku's sassy cheerleaders in high-school bitch-fest BRING IT
+         ON (imdb: bloopers-during-credits/ championship / high-school
+         / plagiarism / teen / flatulence / cheerleader / cheerleading
+         / competition / dance / ethics / football / gymnastic) - yes,
+         even versus Jerry Bruckheimer's resolutely '90s-soundtracked
+         "Flashdance" remake COYOTE UGLY (http://www.cndb.com : "no
+         nudity [...] The only scene that was mildy exciting was when
+         the girls jump on the bar and pour pitchers of water on each
+         other [...] John Goodman has larger breasts than any of the
+         girls")... Ford, Pfeiffer and Robert "Back To The Future"
+         Zemeckis competently resurrect the ailing genre of teen-free
+         horror in WHAT LIES BENEATH (http://www.capalert.com : face
+         underwater; terror startles; licking kissing; numerous
+         paranormal forces manifesting in inanimate objects; nude woman
+         in tub, more than once - gender-specific areas not seen)... we
+         thought Christopher Nolan's low-budget "Following" debut was
+         overrated; this time, the gimmick in MEMENTO (imdb: amnesia /
+         independent-film / murder) is dense anterograde amnesia,
+         consistent with damage to area CA1 of the hippocampus. Also,
+         it's got Carrie-Anne "The Matrix" Moss in it... while it's
+         Jonathan Lipnicki, Richard E Grant - together at last! - in
+         THE LITTLE VAMPIRE (http://slashgoth.org/stories.php?story=81
+         : "really enjoyed it [...] flying cows [...] [based on] two
+         children's TV series. One from the US in the '80s and one I
+         believe from Germany in the early '90s")...
+
+         BONERS/INCORRECTLY REGARDED AS GOOFS>> someone from GRANADA
+         MEDIA, makers of SWAP TEAM [last week's issue], mailed to say
+         they'd "checked their records" and no SwapItShop ad was shown
+         in the half-time ad-break on Saturday 2000-10-07. In that
+         case, we're wrong - it must have been in the ad-break just
+         *before* the show, as was the case on Sat 2000-10-14, when the
+         ad newly invited viewers to collect tokens from packets of
+         Wotsits, the sponsors of the programme. We'll get you, SWAP
+         TEAM!... also from last week, an anonymous tipster proclaimed
+         http://darryn-reeds.tripod.com/S-Club-7-secrets.html "even
+         more evil - for attempting to install the Comet Cursor trojan
+         spyware thingie", while STEVE THORNTON admired "the FALCOed
+         brilliance" of http://uk.clust.com/consent.asp , revelling in
+         "the worst 'use policy' I've ever seen: 'I want my address to
+         be sold to spammers' checkboxes scattered throughout, some
+         meaning 'yes', some 'no', then a broken script to finish it
+         off"... going back a while now (to clear a backlog of goofs
+         you've probably already forgotten we made), the BBC's LIZZIE
+         JACKSON shot down our - admittedly speculative - story about
+         the BBC considering Napster-enabled "Post-@" as a chat client
+         [NTK 2000-08-25], pointing out that "[the BBC] regularly look
+         at all kinds of software as all companies do, to perform all
+         kinds of functions," though, no doubt to the disappointment of
+         license-payers everywhere, "- one we wouldn't incorporate is
+         file-swapping"... ELLIOT NOEL asserted that Japanese death-by-
+         video movie "Ring" [NTK 2000-08-18] "wasn't really 'renamed'"
+         from the original title, "Ringu", because "there's just no
+         straight consonant 'ng' in Japanese. There is a consonant 'n'
+         symbol, but no 'ng' symbol, so the closest phonetic Japanese
+         approximation to 'ring' is 'ri-n-gu'". Apparently, similar
+         effects cause no end of hilarity if you try to explain the
+         (phonetic) difference between "wind" and "window" to Japanese
+         exchange students, as both map to "wi-n-do"... opening what we
+         fear is a none-too-fresh can of worms, ED AVIS queried our
+         caption to http://www.ntk.net/2000/07/14/dohtrain.jpg, arguing
+         "That's not a BBC Micro, which would say 'BBC Microcomputer
+         32K' or something similar. The 'Acorn MOS' message means it
+         must be some kind of Master or maybe a B+". Like Railtrack
+         don't have enough problems already... and finally, regular
+         pedant PAUL BLEZ made a bid for "World's Most Unhelpful Proof-
+         Reader" when he coyly announced: "There was another big typo
+         at the end of [an unspecified issue of?] NTK which I can't be
+         bothered to find!". Thanks Paul, that ought to do it...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                         "a rather inelastic product."
+                  http://www.biomedcentral.com/1471-8219/1/1
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

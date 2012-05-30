@@ -1,0 +1,341 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____28/11/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+            "You look at France and Germany - and to a lesser degree
+                             the UK - and it's like the Third World"
+         - NICHOLAS NEGROPONTE, keynote address, European IT Conference
+                                                        oh, fuck off
+
+
+                               >> HARD NEWS <<
+                               weak lemon drink
+
+         "The only tunnelling you'll be doing is out of Statesville
+         Prison!" Thus chuckled the gathered ISPs of the London
+         Internet Exchange (LINX) this week, after throwing rogue
+         ISP BACTEL off the shared network and into Net oblivion.
+         Bactel had been caught smuggling data to the US via
+         transatlantic bandwidth belonging to three other companies:
+         a simple enough error, caused by Bactel accidentally
+         reprogramming their two principal routers to hide their
+         packets within an entirely spurious protocol, then - by
+         chance - setting the routes of that protocol to tunnel the
+         data via another ISP (or three). Whoops. Reports say that
+         Bactel's tech representative at the LINX was "very quiet
+         indeed" during the excommunication meeting. Ah, but maybe
+         he was throwing his voice?
+         http://www.linx.net/bactel-suspend.html
+         and we woulda gotten away with it too if it wasn't for you kids
+         http://www.linx.net/tunnel-advisory.txt
+                                 - admit it, you'd have been tempted
+
+         Suave scene hacker KUJI strolled away from court this week,
+         with all charges regarding his alleged "infowar" with the
+         US military dropped. The judge said that conducting a trial
+         wasn't worth the expense. Funny - that wasn't what the
+         Americans were saying at the time of the 1994 attacks.
+         Then, Kuji and his "accomplice" (penitent music student THE
+         DATASTREAM COWBOY) were twin Satans, stealing valuable
+         secrets for foreign powers, wreaking havoc on sensitive
+         mainframes, and almost tipping North Korea into war. Or
+         that's what Air Force Office of Special Investigations told
+         Congress, in an attempt to increase "awareness" (*cough*
+         funds *cough* status) of the hacker threat. As it turned
+         out, the AFOSI had little evidence of any serious breach of
+         security - and what they did have was profoundly flawed
+         through their own sloppy procedures. Still, plenty more
+         young hackers to demonise, and if the authorities are more
+         careful, they'll ruin peoples lives properly next time.
+         http://sun.soci.niu.edu/~crypt/other/crypt38
+                         - George Smith de-crypts the media brouhaha
+         http://online.guardian.co.uk/theweb/880564579-fumble.html
+         - Duncan "the other, famous Duncan Campbell" Campbell's take
+
+         After the first and second World Wars, the Treaty of
+         Versailles and the Geneva Convention decreed that such
+         horrors must never happen again. And now, according to
+         COMPUTER TRADE WEEKLY, the portentously named BERKELEY
+         GROUP are attempting an similarly laudable (if foolhardy)
+         mission: "to tackle the obstacles currently hindering PC
+         games sales in the UK". The industry working party will be
+         trying to figure out why only few PC titles sell in
+         comparable quantities to console releases. They reckon they
+         can sort it out it by targetting the "non-standard
+         packaging sizes and materials" used by PC releases, the
+         "possible introduction of a kitemark" to show that a game
+         may run at an almost-acceptable speed without a top-end CPU
+         or 3D card, plus, perhaps most adventurously, the "need to
+         reduce number of titles released with bugs".
+         http://www.paragon.co.uk/charts/
+            - oh, and that PC games are so easy to rip off, perhaps?
+         http://www.bsi.org.uk/bsi/services/kitemark.html
+               - that notoriously safe and stable aircraft, the kite
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         MICHAEL HUTCHENCE was about to start his "Lose Your Head"
+         tour... full daily newsfeed 4.5 gigs in Jan, now 9 gigs...
+         Japanese naturally name their first divorce magazine LIZ -
+         after international break-up icon Elizabeth Taylor... IBM
+         closing down OS/2 unit... parents complain that REBOOT's
+         bad guys "too realistic"... Bill Gates' roving eye...
+         www.stim.com tries to "go mainstream"... HUTCHENCE hanging
+         prompts recall of INXS INTERACTIVE SONGBOOK CD-ROM
+         (singalong to "Suicide Blonde")... Anastasia CD-ROM "isn't
+         as good as the movie", NANDO is amazed to discover...
+         DRUDGE REPORT seeks donations for legal defence fund...
+         "Y2K" now copyrighted... old couple drive 50 miles to BBC
+         monitoring station, hoping to see the "BBC Web site"... is
+         it just us, or is the whole HUTCHENCE/GELDOF thing just a
+         bit too much like the plot of FACE/OFF (on whose soundtrack
+         INXS coincidentally appear)...
+
+
+                              >> EVENT QUEUE <<
+                           pointers with references
+
+         Not perhaps the obvious way to celebrate World AIDS Day,
+         but each to their own: EROTICA '97 takes over London
+         Olympia this weekend (perhaps better known to NTK readers
+         as the venue for rather more chaste gatherings, like Mac
+         Expo and the ECTS). The Website both criticises a
+         Victorian-era attitude to sex, then adopts its terminology,
+         promising an "erotic extravaganza in the form of a Public
+         Exhibition... entertainment designed to tantalise and
+         fascinate." No info yet on exactly what the seedy
+         attractions might be, but even the stand specifications
+         sound a bit racey: "White Octanorm with white infill wall
+         panels... Ceiling Grid with muslin ceiling... Black Fascia
+         infill with white letters for exhibitor name..."
+         http://www.erotica-uk.com
+              - of course, that depends what you mean by "exhibitor"
+
+         Eroticism of a more subdued form takes the stage as LEE AND
+         HERRING continue their live try-outs before returning to TV
+         early next year. The show's called THIS MORNING WITH
+         RICHARD NOT JUDY II, and it's at the Battersea Arts Centre
+         (near Clapham Junction rail station, and the big Asda) for
+         at least the next couple of Sunday lunchtimes, tickets
+         UKP5. Mail us if you're going and we'll see you there.
+         http://www.bac.org.uk
+         - we'll be the dweeby studenty-looking blokes laughing at all
+                            the obscure references... oh, never mind
+
+
+                                >> TRACKING <<
+                   Web site come by this way two moons past
+
+         FACEIT! is a PC facial recognition program that, barring
+         Travolta/Cage-style test-cases, actually works. The free
+         time-limited download can use QuickCam and standard video
+         inputs: featured progs are an access-control screensaver
+         which will only unlock when it sees your face, and an
+         encryption program that uses your head as a key. But our
+         correspondents agree that the best bit is the passive-
+         recognition system, which will pluck out and circle up to
+         six faces from a continuous realtime video feed. "It's like
+         having a desktop-mounted gunsight", they are pleased to
+         report.
+         http://www.faceit.com/pcaccess/pcaccess.html
+           - now we want one of those "Resurrection" breath scanners
+
+         ICQ failing to scale; Microsoft submitting its own
+         competing standard to the W3C; Netscape teaming up with AOL
+         - are these the last days of the "buddy list" pioneers?
+         Hell, no! Out of the wilder fringes of Appledom comes
+         HOTLINE! A palpable hit with Mac users for months, HOTLINE
+         has been billed "the BBS for the Nineties". It's got
+         threaded discussion groups, chat, and a fast ftp system.
+         It's also eminently hackable, with all kinds of nice
+         extensions to try out. Out on the PC by the end of year,
+         too, although apparently there's some sort of bootleg PC
+         version going around the Hotline sites. As it is, the
+         downloadable Mac client is time-limited to 15 minutes.
+         Although apparently there's some sort of bootleg crack...
+         ah, you get the picture.
+         http://www.hotlinesw.com/
+                   - talk about creating a Frankenstein's monster...
+
+         We haven't covered record releases much recently (well, not
+         since the MPEG3 scene took off again), but here's two
+         import curiosities you can order now so your family can
+         enjoy them this Christmas. First up, THE MOOG COOKBOOK's
+         second album, YE OLDE SPACE BAND, sees the retro-synthers
+         re-cheesing rock classics like More Than A Feeling, Whole
+         Lotta Love, and Born To Be Wild. And second, that new
+         WARREN G single (an imaginatively neo-classical cover of
+         Prince Igor, by Borodin) is but the tip of the hip-hopera
+         crossover scene - there's a whole German-originated album
+         of it, called RAPSODY, and featuring rap versions of Tosca,
+         Swan Lake, and Mobb Deep's Nessun Dorma.
+         http://www.tpu.ee/~ryytel/lyrics/prince_igor.html
+                              - Warren's biggest MP3 hit so far, btw
+         http://bubblegum.uark.edu/Moog_Cookbook/
+                                - rhymes with "vogue"? yeah, *right*
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         BT to buy DEMON?... BIO TETRIS... case-insensitive URLs on
+         MICROSOFT ads... death of SUCK? Or is it just Thanksgiving?
+         ... LOUISE NURDING follows NTK advice in her new video,
+         attacks CCTV camera with laser pen... GameBoy digital
+         camera... JESSE BIRST - the new Pournelle... Barbie-size
+         Realdolls: www.racydoll.com ... Meat Bomb...
+         www.xtra.co.nz/content/loveman/cag-v0.9b/part3/ ... HARRY
+         "ain't it cool" KNOWLES tempted by high life...
+         www.fiorella.com/equipment.html ... BLADE RUNNER movie
+         sequel to reunite original cast... speleonics
+         http://members.tripod.com/~cnet_truth ... BUGTRAQ finds
+         security vulnerability in John Madden Football '97...
+         easyweb.easynet.co.uk/~stephenbalchin/zoe.html
+         spizzerinctum... and if *anyone* can take over the world,
+         CANON can: www.canon.co.jp/Philosophy/century-e.html ...
+
+
+                               >> MO' MEDIA <<
+           why don't you turn in and do something less interesting?
+
+         TV>> well, we're convinced - TFI FRIDAY (6pm & 11.25pm,
+         Fri, C4) would *never* circulate bizarre rumours about its
+         guests for cheap PR purposes - like last week's ill-timed
+         "Paul Weller has committed suicide"... more delightful
+         Niles/Daphne awkwardness in FRASIER (10pm, Fri, C4)... a
+         "predominantly female" crowd constitute AN AUDIENCE WITH
+         THE SPICE GIRLS (7.30pm, Sat, ITV) while, equally true to
+         its title, INTERVIEW WITH THE VAMPIRE (10.35pm, Sat, ITV)
+         genuinely drains your will to live... you're never too
+         young to learn Klingon, growls maybe-not-as-good-as-it-
+         used-to-be AS SEEN ON TV (11.20am, Sun, BBC2)... the
+         promisingly titled AGAINST NATURE (8pm, Sun, C4) says a
+         long-overdue hoorah for industrialisation - a sentiment
+         later queried by PLANET OF THE APES (10pm, Sun, C4)...
+         autism may be a continuum, with Rain Man at one end and
+         "normal male behaviour" at the other, drones EQUINOX (9pm,
+         Mon, C4), at the start of Autism Awareness Week... heck,
+         Tuesday sounds weird: Zoe Ball "explains ESP" on IT'LL
+         NEVER WORK (4.35pm, Tue, BBC1), followed by AQUILA (5.10pm,
+         Tue & Thu, BBC1) - a "comedy drama series about two boys
+         who discover an ancient spaceship"... but nowt so weird as
+         Wednesday: Jodie Foster voices the talking tattoo that
+         brings out Scully's "darker side" in the X FILES (10pm,
+         Wed, BBC1), some spooky anti-cloning arguments in creepy
+         docu TWINS - THE DIVIDED SELF (9pm, Wed, ITV), and - more
+         sinister still - there's THE REAL HOLIDAY SHOW (8.30pm,
+         Wed, C4), where "a teenager goes to Yorkshire... and comes
+         back with a special boyfriend in a box"...
+
+         MOVIES>> there's three big challenges in an Alien film: 1)
+         be more extreme than your predecessors; 2) continue the
+         weird childbirth metaphors. ALIEN RESURRECTION (imdb:
+         action / sci-fi / horror / aliens / genetics / android /
+         human-duplication) pretty much succeeds on the first two,
+         but not even a script from Joss "Buffy The Vampire Slayer"
+         Wheedon can achieve the third - generating genuine suspense
+         when you figure "they can always bring them back from the
+         dead anyway"... some interesting elements (Kyle
+         MacLachlan?) fail to reconcile Wesley Snipes and Nastassja
+         Kinski's ONE NIGHT STAND (imdb: drama / advertising /
+         affair-extramarital / hospital / adultery / fidelity /
+         marital-crisis / aids / love / relationship /
+         miscegenation)... and Julianne Moore, Roy Scheider and Noah
+         "ER" Wyle would probably have more fun battling monsters
+         than Thanksgiving family tension in THE MYTH OF
+         FINGERPRINTS (imdb: drama)... hard to decide which is less
+         funny: Richard E Grant as George Orwell in 1930s class
+         tourism KEEP THE ASPIDISTRA FLYING, or Joe Pesci's
+         decapitation-friendly Home Alone variant, 8 HEADS IN A
+         DUFFEL BAG (both imdb: "comedy")...
+
+         BOOKS>> somehow we doubt that the K FOUNDATION BURN A
+         MILLION QUID will be up to the standard of their previous
+         "manual" on how to make a number one record; it's equally
+         unlikely to feature the same money-back guarantee -
+         www.ellipsis.com/k/ ... tragically, JC Herz's vidgame
+         odyssey JOYSTICK NATION (How Videogames Ate Our Quarters,
+         Won Our Hearts, and Rewired Our Minds) is a Rise Of The
+         Robots-sized disappointment. Some good moments, but they're
+         buried in so much Rushkoff-style "outsider's guide to the
+         crazy world of games" bullshit, and the slightly out-of-
+         datedness that endeared in her previous SURFING ON THE
+         INTERNET is here just embarrassing (eg, no mention of
+         Quake)... conversely, Mark Leyner's THE TETHERBALLS OF
+         BOUGAINVILLE is indeed much better than we could ever have
+         hoped, like a sophisticatedly remixed ET TU, BABE, that's
+         almost a "proper" novel too (despite being listed on
+         www.randomhouse.com under "Literary Criticism & Essays")...
+         California uberzine BEN IS DEAD have compiled their epic
+         RETRO HELL: LIFE IN THE 70s AND 80s issues into handy book
+         form - "from Atari to the A-Team, Boogie Boarding to
+         Blaxploitation, Disco Duck to Day-glo, Square Pegs to
+         Studio 54, Weird Al to Wonderama, Zoom! to Zots -
+         www.benisdead.com ... yikes, even the current issue of
+         Escape magazine is getting into culture jamming, but for a
+         less breast-fixated approach, try Gareth Branwyn's JAMMING
+         THE MEDIA (http://home.earthlink.net/%7Egarethb2/jamming/ )
+         ... and finally, NOIR, next year's novel from cyberpunk god
+         (and Blade Runner sequeliser) KW Jeter depicts a future
+         where "intellectual property is so valuable that copyright
+         infringement is punishable by death". If anyone knows
+         anything more about this, do get in touch (preferably with
+         a photocopy of the manuscript)...
+
+
+                                 >> COMPO <<
+                        congratulations. you're fired.
+
+         An emotional competition last week, as competition winner
+         Jay slipped in on Thursday after a week of struggling
+         through every foodstuff URL known to man - "Did you know
+         even *Ryvita* have a Website?", he writes. The eureka
+         moment came as "we were massaging hungover headaches in a
+         greasy cafe. A friend of mine buys a can of Diet [CLUE
+         CENSORED], we all look at each other, look at the [OBJECT
+         DELETED], look back at each other again - and slap our
+         heads in unison". It's just like Willy Wonka, isn't it? Jay
+         and friends win the new Metallica album RELOAD, sci-fi
+         Command & Conquer clone DARK REIGN,and a child's T-shirt
+         advertising Shell smart cards. (Oh and special kudos to the
+         perpetrator of the URL, who "resigned" from his job on the
+         same day as the competition. Webmasters should check out
+         http://www.ntk.net/compo/ to find out how they too can
+         spend Christmas poor and alone.)
+
+         To this weeks URL. It takes the form http://www.a*****o.com
+         and it's the answer to this question: "cosa significa
+         'absurd'?". Answers to tips@spesh.com. Corporate queries to
+         ourlawyers@spesh.com.
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "subscriber 2000 compliant".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+

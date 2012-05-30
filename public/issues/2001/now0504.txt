@@ -1,0 +1,297 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-05-04_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                    "U.S. Launches Suicide Plan"
+- http://dailynews.yahoo.com/h/ap/20010502/pl/preventing_suicide_3.html
+...Yahoo not convinced by that national missile defence system either
+
+
+                                >> HARD NEWS <<
+                             grae bampots exspoosed
+
+         You can't stick a postfix next to a variable these days
+         without causing the imminent collapse of society. The day
+         after US assistant attorney Daniel Alter told a New York court
+         that DeCSS was like "software programs that shut down
+         navigational programs in airplanes or smoke detectors in
+         hotels" (you know, *those* programs), Microsoft's CRAIG MUNDIE
+         was across town, declaiming that the GPL was a virus that
+         would shut down intellectual property inside people's heads.
+         Craig's speech is all about the nightmarish future of an open
+         source world, and is rather heavy on predictions. But then
+         Craig's job at Microsoft is to make gambles on the future of
+         technology. According Marlin Eller's account in "Barbarians
+         Led By Bill Gates", one of Mundie's first acts at Microsoft was
+         killing the company's 1993 low-bandwidth Net project in favour
+         of the *real* future - broadband interactive TV. That said,
+         once Gates caught on to this Interweb thing, Mundie was first
+         to catch on. "We'll tune it for all the platforms, then get
+         hardware companies to build accelerators for it", he
+         predicted, of the Net's most guaranteed success - VRML. Oh,
+         then he masterminded that whole WebTV deal, spending $425m MS
+         mad money on the sure-fire Internet/TV convergence. "We view
+         the Internet as one of the 'features' of digital TV services",
+         he eerily prophesised in 1998. "PC this year, PC-TV's next
+         year", he again predicted - in 1997. Going further back,
+         Mundie features in "Soul of a New Machine" as the nameless guy
+         who loses the race to build a supercomputer. His own
+         supercomputer company went bust in 1992. Should anyone believe
+         his observations about the future of Open Source? As Mundie
+         himself once said "We persist. We're driven by some innate
+         belief about how these things are going to unfold." Even, it
+         seems, when they unfold in completely the opposite
+         direction.
+         http://www.washingtonpost.com/wp-dyn/articles/A56874-2001Feb26.html
+                                 - not sure about Eller's objectivity
+         http://www.s-t.com/daily/05-98/05-10-98/f07bu241.htm
+                                                  - but you know, WSJ
+         http://support.microsoft.com/support/kb/articles/q276/3/04.ASP
+             - Microsoft's future doesn't get more "secure" than that
+
+         Must be nice to be a Member of the Scottish Parliament, with
+         another couple of years to go on your watch, and everyone
+         distracted by the General Election. You'd probably think you
+         could relax a bit - update your Website, catch up on your e-
+         mail, maybe take the piss out of your constituents a bit. "I
+         am sure that your GP will give you advice on paranoia, or he
+         will if you have actually registered. Perhaps you have not
+         wanted to give him your name and address" guffaws NICHOLAS
+         JOHNSTON, MSP for Mid Scotland and Fife, at some loon. Of
+         course, the nutter in question was sane local businessman and
+         (tada!) ukcrypto regular David Hansen, asking what were
+         actually quite pertinent questions about the statistical
+         utility of the census. God knows what he'd have said if a
+         constituent had asked about NHS privacy. Perhaps a local NTK
+         subscriber could e-mail him and ask him? On the other hand, he
+         *is* on the Autistic Spectrum Disorder sub-committee, so
+         perhaps he was serious...
+         http://www.scottish.parliament.uk/msps/biographies/jhnstn-n.htm
+- less Information, Knowledge and Enlightenment and more Chronic Pain, we feel
+
+         Tempting to end with this *corker* of a story about the
+         BBC's IIS5 servers getting hacked using that new Microsoft
+         Printer 'xploit, and a false Hear'Say story put in its
+         place. Of course, before we lift it wholesale from the Reg,
+         maybe we should corroborate it a bit. Hmm. Doesn't the BBC
+         use a bastard hybrid of Apache on Solaris, with a smit of
+         IIS4 on NT4? That's odd - it appears to have disappeared
+         from the Register's easy- to-understand frontpage. Well, it
+         must be true, because look, here's the reputable Industry
+         Standard running the same story almost verbatim. Surely they
+         must have checked the details? Or even looked closely at the
+         URL that got sent around from the "anonymous tipsters":
+         complete with peculiar at-symbol- followed by large number
+         in the middle. Doh!
+http://news.bbc.co.uk!articles@3276960428/hi/english/uk/newsid/123456.htm
+              - other recent obits: Father Christmas, the Tooth Fairy
+         http://www.theregister.co.uk/content/8/18713.html
+         - or, just in case: http://www.ntk.net/2001/05/04/dohreg.gif
+http://www.thestandardeurope.com/article/display/0,1151,16446,00.html
+                      - so who's still at the Standard Europe anyway?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         VIRGIN RADIO "name that tune" compo displays their Real Audio
+         filenames; prizes awarded May 9th, closing date May 24th:
+         http://www.virginradio.co.uk/music/artists/neilfinn/comp.html
+         ... BT inks prestigious sponsorship deal with the ever-popular
+         SERVER ERROR: http://www.ntk.net/2001/05/04/dohbt.gif ... BBC
+         discovers Britney Lasers site that was so big last August:
+news.bbc.co.uk/hi/english/entertainment/new_media/newsid_1306000/1306364.stm
+         ... battling "bearded sysadmin" stereotype, F-SECURE plans on
+         "shaving around 20 percent of its 445-strong workforce":
+         http://www.computeruser.com/news/01/04/30/news11.html ...
+         http://www.rmt.org.uk/rmt/web-update-info.htm "updated every
+         Friday"; http://www.rmt.org.uk/ begs to differ... MORE OVER-
+         literal searches: http://www.ntk.net/2001/05/04/dohgay.gif ...
+         the FRENCH http://www.examineur.com/home.php?Numero=28 imitate
+       http://www.theonion.com/onion3706/nigeria_elects_black_pres.html
+         - et aussi: http://www.examineur.com/home.php?Numero=27 vs
+         http://www.theonion.com/onion3622/god_answers_prayers.html ...
+         stress of large WIN2000 user load causes premature ageing:
+       http://support.microsoft.com/support/kb/articles/Q281/9/23.ASP ...
+         BRAKE at large; BUNDER launching http://www.mediaschmooze.com/
+         - do not allow the keymaster and the gatekeeper to meet!...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         The CYBERSALON gang have graciously invited us to wear some
+         of our funny t-shirts to their BUBBLETROUBLE.COM "Whither
+         the e- economy now?" hand-wringing session from 7.30pm Tue
+         2001-05- 08, UKP8 - though of course it is at the ICA, so it
+         could be a trap. Speakers include Independent columnist Eva
+         Pascoe, Lateral's Jon Bains (who appears to *live* at the
+         bloody ICA) plus the reassuring tones of former Wired UK
+         editor John "Hal 9000" Browning, so could be quite
+         entertaining if anyone starts getting too "tasty", if you
+         know what we mean...
+         http://www.cybersalon.org/flyers/bubble.htm
+        - ingeniously parodies doomed dot-coms' fricking Java pop-ups
+         http://interaccess.org/subtle/
+          - meanwhile, the spirit of Mondo 2000 lives on. In Toronto.
+         http://www.2001thespaceodyssey.com/
+                             - London cannabis demo postponed by rain
+         http://www.simonandsuze.com/
+                                      - relax ladies; Waldo's married
+         http://www.goodvibes.com/nmm/
+         - nothing to do with *any* of the above, we should emphasise
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         While those cute little IM apps may be popular with
+         September's children there are some Unix stalwarts who
+         believe they'll never replace irc, write, talk, or (at a
+         last resort) just shouting across the terminal room. Forget
+         your GUI interfaces, if it's not available in 80x25 it's not
+         socially acceptable.  Of those that exist, the latest to
+         reach aptable status is ICENTRIQ, a colourful ncurses based
+         client for ICQ under GPL.  However, if you're of the opinion
+         that free ICQ clients are just another isotope of
+         proprietary software, then perhaps a console Jabber client
+         might be coming soon to a screen(1) near you.  One of the
+         first text apps to use Net::Jabber is sjabber, giving a
+         simple sirc-like interface to Jabber's group conference
+         facility. Righteously old skool and cutting-edge at the
+         same time - and far, far easier than crafting the raw XML by
+         hand.
+         http://konst.org.ua/eng/software/centericq/info.html
+                    - no, no! *decentralise* the - oh, what's the use
+         http://www.pipetree.com/jabber/sjabber/
+    - y'know, more Unix screenshots should come as photos of WYSE terminals
+         http://www.ugcs.caltech.edu/~jtr/gale/faq/
+                      - gale most righteous, if it didn't scare us so
+
+
+                                >> MEMEPOOL <<
+                               monitor veronica
+
+         hey, no wonder the web looks so totally NOT DIFFERENT AT ALL:
+         http://www.threeoh.com/may1/ ... THORIN still singing about
+         gold: http://totalgames.net/news/newsfull.epml?news.REF=479
+         ... ah, the old "agent looks like BRITNEY SPEARS" routine:
+         http://www.jobserve.com/jobserve/JobDetail.asp?jobid=13858030
+         ... not the FARM SEX thumbnails you'd maybe been hoping for:
+         http://www.crosswinds.net/~youpi/astrologie/comp_chevre2.htm
+         ... if LEE AND HERRING ever diversify into spreading God's
+         word: http://www.axtell.com/veggie.html#veggiewho ... this
+         week's self-confessed "British ONION-y newsertainment
+         fakerama": http://www.dotcock.com/ ... if you're DJing at
+         http://www.backintimelive.com : http://www.beigerecords.com/
+         ... this week's FLASH novelties: http://paradigm.nu/icann/ ,
+         http://www.eugenemirman.com/ ... bare-knuckle NATHAN-fighting
+       http://www.revolutionmagazine.com/wall/Wall_Thread.asp?Thread=1216
+         ... HOLLYWOOD deliberately making bad films so they can blame
+         revenue loss on peer-to-peer filesharing, get them shut down:
+       http://dailynews.yahoo.com/htx/nm/20010427/en/film-deepfocus_1.html
+         ... ROBOT FINDS KITTEN http://robotfindskitten.org/ versus
+         MONKEY VS ROBOT http://208.34.189.52/MonkeyVsRobot300k.asf ...
+         oh come on, "Infected" was one of the best albums of the '80s:
+       http://www.messiahnyc.org/resources/sermons/war_against_the.htm ...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> Dana "Garth" Carvey borrows his brother's NewTek t-shirt
+         http://www.wired.com/wired/archive/2.05/flying.toasters.html
+         for underrated rock-geek sequel WAYNE'S WORLD 2 (11.05pm, Fri,
+         BBC1)... like you hadn't guessed, persistent multimedia
+         meddlers Coldcut are somehow behind DIGITAL UNDERGROUND AND
+         REMIXED TELEVISION (2am, Fri, C4)... and it looks like the
+         omnibus concluding episodes of THE LARRY SANDERS SHOW are on
+         tonight instead of Saturday (from 9pm, Fri, UK Play)... C4
+         devotes nearly 5 hours to THE 100 GREATEST TV CHARACTERS (9pm,
+         Sat & Sun, C4)... normally when they show THE FUGITIVE (9pm,
+         Sat, ITV) there's a spectacular train crash and it has to be
+         postponed... and, for the benefit of whoever mailed tips
+         asking "Was that [NTK's] Danny O'Brien on SF:UK or did Lee
+         [Hurst] of They Think It's All Over fame stil [sic] his eyes?"
+         - no, that sounds like Greg Rowland, though there does appear
+         to be an NTK staffer impersonating Eldon Tyrell just before
+         this week's Kevin Warwick, Iain Banks-featuring edition (1am,
+         Sat, C4)... WIRED WORLD (2pm, Sun, some ITV) is "a five-part
+         series that looks at how the e-world is changing" (Radio
+         Times), though presumably they don't mean Apple's proprietary
+         online service of the same name... the ever-entertaining David
+         Icke unveils the Illuminati as THE SECRET RULERS OF THE WORLD
+         (8pm, Sun, C4) - though we'd really like to see "When Louis
+         Theroux Met Jon Ronson"... and C4's 4later strand bows out
+         (for now) with three animated shorts about AI (from 3.20am,
+         Sun, C4)... bad Bank Holiday movies include Jonathan "Yes
+         Minister" Lynn's remake atrocity SGT BILKO (3pm, Mon, BBC1),
+         mild Helen Hunt nudity nonsense AS GOOD AS IT GETS (9.15pm,
+         Mon, C4), plus of course Michael Crichton's refreshingly dull
+         THE ANDROMEDA STRAIN (11.20pm, Mon, BBC1)... if BBC2 are
+         applying "cancelled in the US, so it must be good" criteria to
+         religious animation GOD, THE DEVIL AND BOB (10pm, Tue, BBC2),
+         then roll on "Clerks: The Animated Series"... nothing gets
+         fanmail like murdering prostitutes with a screwdriver, imply
+         the writers of LETTERS TO THE YORKSHIRE RIPPER (10.35pm, Wed,
+         BBC1)... and Mira Sorvino, Chow Yun-Fat blast their way
+         through THE REPLACEMENT KILLERS (9pm, Thu, C5) - better known
+         to connoisseurs as "Time Crisis: The Movie"...
+
+         FILM>> brave young coder Ryan "Way Of The Gun" Philippe must
+         choose between Rachel Leigh "She's All That" Cook and Claire
+         "Press Gang" Forlani, presumably representing Windows and
+         Linux - but which is which? - in techno-clunkeroo ANTITRUST
+         (http://www.capalert.com/capreports/antitrust.htm : adult
+         [Claire Forlani] in underwear; promotion of the "global
+         village"; several examples of "Kevorkian" violence art)...
+         apparently the film's exactly the same as the popular holiday-
+         paperback, apart from the obligatory Nicolas Cage "wig out"
+         scene where he invents rock and roll using just CAPTAIN
+         CORELLI'S MANDOLIN (MPAA: Rated R for some violence, sexuality
+         and language). What with this and this year's "Pearl Harbour"
+         and "Enemy At The Gates", WW2 was clearly a fantastic
+         opportunity to meet chicks... or it's Morgan "Seven" Freeman,
+         Monica "Patch Adams" Potter, and Lee "Once Were Warriors"
+         Tamahori - together at last! - in formula "Kiss The Girls"
+         follow-up ALONG CAME A SPIDER (imdb: sequel / disguise /
+         encryption / phone-booth / ransom / stakeout / subway / twist-
+         in-the-end / washington-d.c. / kidnapping / killer / murder /
+         boat / helicopter / classroom / diamond / double-cross /
+         escape / farmhouse / intercom / internet / partner / serial-
+         killer / shotgun / sting-operation), and raising the
+         intriguing possibility that the third film will be entitled
+         "Wee-Wee-Wee All The Way Home"...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+              "obsessed with fame, guns, the media - who isn't?"
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

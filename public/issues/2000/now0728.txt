@@ -1,0 +1,319 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-07-28_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "And then people won't buy my records. And how will 
+         I pay for my daughter's schooling?"
+         - MADONNA vs Napster in this month's The Face (p4), 
+           shortly before buying a UKP10m house in Belgravia (p8)
+...ironically, with the money saved on CDs, our children are going private
+
+
+                                >> HARD NEWS <<
+                              slipping the noose 
+
+         First, the bad news: RIP got Royal Assent a few hours ago.
+         The good news? It's all futile anyway. As a valued NTK
+         subscriber, we know you value your privacy. We also know you
+         are some sort of international cocaine smuggler (How do we
+         know? Cookies, my friend, cookies). So you won't need us to
+         remind you that you can bypass the twenty million pounds
+         plus worth of surveillance technology that the government is
+         foisting onto the ISP industry with a nifty combo of
+         PGP/GnuGP, an offshore ssh shell account, and maybe a
+         subscription to ZeroKnowledge's Freedom. Of course, if
+         they're really suspicious, the authorities could come and
+         demand the passphrase for all of these from you: but at
+         least you'll know about it then, rather than have to play a
+         guessing game as to whether you're being picked up on the
+         mass surveillance powers provided by the Act. I mean, what
+         was the point? To somehow tweak the ears of people who start
+         hyperventilating the moment "security breaches" are even
+         hinted at to work on moving the Net out of simple
+         plain-text transmission protocols, and onto something a bit
+         more secure and scaleable, like IPv6? Oh. Oh, we get it now.
+         Thanks, Mr Blair! Thank you so fricking much. Mwah.
+         http://www.fipr.org/rip/RIPcountermeasures.htm 
+                                                   - a few more ideas
+
+         And now, the other bad news: NAPSTER ate the judicial
+         bullet, as if you hadn't heard. And, hey, it's futile too!
+         Even if Gnutella and Freenet still don't, ahem, actually
+         work very well, we're sure somebody will have the smart idea
+         to use them as systems to pass around a simple text file of
+         the new, free, Napster server IPs. That should keep things
+         going after Napigator gets shut down, or the RIAA starts
+         cutting out the middle man and shooting its customers
+         direct.  And then there's sure to be someone writing a
+         simple search program to iterate through all those servers.
+         Or, dammit, why not just code up a front-end for IRC which
+         is where all of this stuff would have stayed, out of the way
+         of all you damn college kids and in the hands of the
+         slightly-more-obsessive college kids who've been trading for
+         years. 
+         http://www.napigator.com/
+                           - sorry, it's all a bit antinews this week
+ http://interactive.wsj.com/public/current/articles/SB964562968421509497.htm
+            - on the other hand, glad they died, proprietary bastards
+         http://www.tapster.com/
+                  - coming out of their shells a little late as usual
+
+         It's amazing what happens when you breathe; but don't hold
+         your breath too long, or we'll cut off your oxygen, freak.
+         BREATHE, you may remember, was offering a "internet
+         connection for life", free from sub or dial-up costs, for
+         50UKP. Not if they're "heavy breathers", though: who this
+         week received a mail announcing that they'd been sucking at
+         the rate Breathe pipe just a little to long, and, oh, bye.
+         Any chance of getting the fifty quid back, though? Kinda:
+         you get a fifty quid pay-back if you return to using their
+         standard dial-up lines. Incredibly, Breathe managed to spin
+         this to the proper media as "surfer abuse"."When we said
+         unmetered we didn't mean that people could leave their PCs
+         on seven days a week, 24 hours a day", said their COO. Uh,
+         isn't that the *point* of unmetered connectivity? 
+         http://www.zdnet.co.uk/news/2000/29/ns-16920.html
+                                                   - bad breathe, bad puns 
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.rubberburner.com , http://www.supergreg.com ,
+         http://www.borntodestroy.com - all fake MAHIR cults registered
+         by viral marketeers... ironic use of famously unpatented GIFs:
+         http://petition.eurolinux.org/signatures.html ... CERBERUS
+         bought by L0pht^H^H^H^H^H@STAKE - l0pht not as l33t as once
+         thought?: http://www.starwarskids.com/arena/r2d2/index.jsp ...
+         EMILY POST http://www.emilypost.com/etiquette.htm suddenly
+         advises calling email "amyl" [nitrate?] half-way through...
+         BIG BROTHER working title was "Slags In New Age Forest Drama"?
+         http://bigbrother.terra.com/gossip/news_tabloid_old.html ...
+         Redhat CFO jumps ship to - *SGI*? Man's a falco-hound... .EXE
+         magazine to close "as of August issue" - unless *you* can save
+         it... JWZ wants to hear from "cute chicks", not "fanboys"...
+         Peter WEIR to direct PATRICK O'BRIAN film: dull historical
+         accuracy ahoy!... whois CONCORDCRASH.COM (sic) ... BOO
+         staff trying to claw back unpaid wages any damn way they can:
+     http://cgi.ebay.co.uk/aw-cgi/eBayISAPI.dll?ViewItem&item=389867138 
+         ... Yup, "Selecting Blendolini Causes CHOCO-BANANA SHAKE HANG":
+         http://support.microsoft.com/support/kb/articles/Q157/6/68.asp
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Not too much for the much-beleagured "Amiga Nation" to look 
+         forward to nowadays, perhaps, with the exception of Finland's 
+         top demo-party, THE ASSEMBLY (from 2000-08-03) - and, of 
+         course, the (US) Amiga West Coast Show, AMIWEST 2000 (2000-07-
+         29, Sacramento, California) where, in order to compete with 
+         the kinky thrills of DEFCON (happening now, Las Vegas), you 
+         can pay good money to watch an Eyetech Next Generation Amiga 
+         Development Machine "coupled with a Classic A1200".
+         http://www.assembly.org/
+               - now features Playstation demos and overclocking compos
+         http://uk.amigasoc.org/news/woa2000start.html
+         - "Don't book your holidays!" advises UK rival, optimistically
+         http://www.dnscon.org/dns2000/
+                   - unless of course you'll be swinging by Blackpool...
+
+         And finally, this week's short-range Nathan Forecast features 
+         one of the more ill-favoured alignments of the year, the 
+         "Arena For The Millennial Age Of Global Urban Culture" 
+         HEADRUSH (until 2000-07-30, central London). Largely based at 
+         the ICA? Check! Attendees include Mute Magazine, Hari Kunzru, 
+         Kodwo Eshun, and Normski? Check! Flyer promises, seemingly
+         without irony, "a supra-consciousness of 'Binary Soul' 
+         inviting the intellectual, the b-boy, the glamour girl 
+         and the PhD on a digital and analogue exploration of our 
+         soulful Selves and the 'Futurenow'"? Check, check, CHECK!
+         http://www.mannafest.net/
+           - oh, and Chuck D. Is "Urban" maybe a euphemism for "Black"?
+         http://yapc.org/Europe/
+                   - even YAPC::Europe now tainted by "the Art of Perl"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         VAR'AQ is a stack-based, Forth-ish language, with Lispish
+         data structures, and an object-verb-structure grammar
+         designed for use by Klingons. Ah, yes: There's little to say
+         that you haven't already guessed: written in Perl, minimal
+         documentation, Linux-oriented, no *real* working Klingons on
+         the standards committee. There is example code, however,
+         including the usual "What do you want, Universe?" program.
+         The leader of the project, Brian/B'Rian Connors/C'onnarrghs
+         expectorates: "If you are afraid to tread in hostile
+         territory like this, you might want to hold off on playing
+         with var'aq for a while." But then, maybe you are weak, and
+         dishonour us all with your cowardice, toDSaH!
+         http://www.geocities.com/connorbd/varaq/
+         - calling it loSDIch (Klingon for "Fourth") "would be silly"
+         http://www.geocities.com/connorbd/tarpit/
+           - but no Klingon could face the terrifyingly real BANCstar
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         moodily tasteful "go towards the light" bereavement e-cards:
+         http://www.british-airways.com/concorde/spirit/ - not quite
+         the "arrive before you take off" that AIR FRANCE had in
+         mind... Soundscapes For Compromising A Remote Host [By]:
+         http://www.musicforhackers.com ... When TVGoHome Fans Go Bad
+         (#1): http://www.planetvom.co.uk/amazon/ ... Here's WALDOES:
+         http://vesuvius.jsc.nasa.gov/er_er/html/robonaut/robonaut.html
+         ... pics of RICHARD STILGOE reveal shadowy influence of SATAN:
+         http://www.boreham.co.uk/surrey2000/Sherrif.htm ... When
+         TVGoHome Fans Go Bad #2 - And The Robots That Trust Them:
+         http://www.uberworld.org/robots.cgi?subject=&person=paean ...
+         http://www.andrew.cmu.edu/~dmb/IHPRS.html - Mad About
+         *Something*... open software's very own MAGINOT LINE:
+         http://www.iloquent.nl/signs/ ... life imitates CRYPTONOMICON:
+http://news.bbc.co.uk/hi/english/world/asia-pacific/newsid_849000/849090.stm
+         ... Of/By/For The People: http://www.norvig.com/Gettysburg/
+         ... http://www.lehmans.com - best viewed with a non-electric
+         web browser... so fake, even THE GUARDIAN saw through it:
+         http://download.theforce.net/theater/episode2/ep2_large.mov ...
+         concluding our CONCORDE coverage: http://www.amigoingdown.com/ ...
+
+
+                                >> GEEK MEDIA <<
+                  the less sold-out www.tvgohome.com . yeah.
+
+         TV>> Tim Berners-Lee grabs the prestigious OU Saturday am
+         technoslot, enquiring WHOSE WEB IS IT ANYWAY? (9.35am, Sat,
+         BBC2)... you can while away the dull bits of MAD MAX 3: BEYOND
+         THUNDERDOME (11.20pm, Sat, ITV) trying to spot the samples
+         used in The Messiah's techno track of the same name... Robbie
+         Williams' flesh-stripping ROCK DJ: UNCUT (1.20am, Sat, C4) now
+         seems to last an entire half-hour... and the walking-on-their-
+         hands amputee robots of '70s eco sci-fi SILENT RUNNING
+         (12.35am, Sat, BBC2) trundle back for their second showing
+         since July 1999... something of a treat for fans of kid-
+         friendly animatronic sci-fi, with back-to-back showings of
+         PROJECT: ALF (5.20pm, Sun, C5) and JURASSIC PARK (7pm, Sun,
+         BBC1)... Gene Hackman auditions for his "Enemy Of The State"
+         role in comparatively thrill-free wiretap-obsessed prequel THE
+         CONVERSATION (11.40pm, Sun, BBC2)... and, even if you don't
+         buy Cameron "Singles" Crowe's extended men's-weepie schtick,
+         there's always the "Spy Who Shagged Me"-inspiring catchphrases
+         of JERRY MAGUIRE (9pm, Sun, C4)... though we can't remember
+         them showing the original "Law And Order" series, Sky still
+         seems oddly keen on its Homicide Life On The Street-alike sex-
+         crimes spin-off SPECIAL VICTIMS UNIT (9pm, Mon, Sky1)...
+         presumably celebrating the "stay up as late as you like" start
+         of the school holidays, comes an out-of-nowhere showing of
+         ROBOCOP (12.30am, Mon, ITV) - last shown on ITV this April...
+         and, after appearing in god-awful knock-offs of both "Mad
+         About You", and "The Larry Sanders Show", Tracy-Ann Oberman
+         completes the set with "one-off" (read: uncommissioned pilot)
+         newsroom spoof THE WAY IT IS (11.35pm, Thu, BBC1) - hey, if
+         Hat Trick aren't going to make any more episodes of "Drop The
+         Dead Donkey", why shouldn't someone else?...
+
+         FILM>> It's "Das Boot" - but on a boat! - as Mark "-y Mark"
+         Wahlberg re-teams with his "Three Kings" pal George Clooney
+         and his "Boogie Nights" sidekick in Wolfgang "Air Force One"
+         Petersen's air-sea-rescue weather-porn THE PERFECT STORM
+         (http://www.capalert.com : graphic scenery of gutting and
+         butchering fish; coldness at a man's death; adult woman in
+         short nightwear; talk of intercourse with aftermath imagery;
+         suggestion of psychic communication; tattoos) - blistering
+         Twister-style CGI f/x eventually triumph over salty Captain
+         Birds-Eye stereotypes and a Disney-alike score from James
+         "Titanic" Horner... Stephen "The Usual Suspects" Baldwin ends
+         fevered speculation on the "Flintstones" fan sites over who'd
+         play "Young Barney Rubble" (before he turned to the dark side
+         and his eyes became tiny black dots) in live-action slapstick
+         stage-setter VIVA ROCK VEGAS (imdb: modern-stone-age-humor /
+         love / prequel / rich-poor / rivalry / romantic-rivalry /
+         based-on-cartoon / casino / flintstones / frame-up)... and
+         never mind life "After Earth", there wasn't any future for
+         20th Century Fox's in-house animation dept after Don "Dragon's
+         Lair" Bluth's sci-fi toon flop TITAN AE (http://www.cndb.com:
+         "Matt Damon - provides the voice for Cale, a cute guy with a
+         very buff body... we briefly see [on two occasions] his bare
+         butt") - extensively trailed on TV with the incongruous poster
+         quote "Titan AE *is* Star Wars", from otherwise respected US
+         mag Entertainment Weekly. Handily, EW have just ditched all
+         that Time-Warner Pathfinder crap and made all their back
+         issues searchable on-line, meaning you can swiftly establish
+         http://www.ew.com/ew/review/0,1683,1363,00.html that the full
+         quote was in fact "Titan AE is Star Wars - pulped and mashed
+         into flavorless kiddie corn"...
+
+         CONFECTIONERY THEORY>> no major upheavals at the moment,
+         though reader DERYCK RAWLINGS took the no-prize for first
+         confirmed sighting of CADBURY'S SHUSH (15p), describing his
+         reaction as "disappointed - hardly a Milky Way killer. The
+         fact that you can now get different flavoured Milky Ways (the
+         strawberry ones rule!) just shows that Mr Cadbury has been
+         asleep at the wheel." Del further advises sensation-seeking
+         Bristolians that "new confectionary always shows up at the
+         newsagent around the corner from Redcliff Street, next to the
+         1 Redcliff Street Building and the CompuServe Call Centre"...
+         so thanks again to our friends at http://www.cybercandy.co.uk/
+         for enabling us to extensively sample their range of US and
+         Australian exotica - pausing only to note the irony that
+         Cinammon and Wintergreen Altoids (UKP2.35/tin) are actually
+         made in the UK, but not sold here, unless they've been
+         exported to the US then re-imported again... standouts from
+         the Aussie selection were, as ever, the indigenous chocolate
+         bars, despite an alarming enthusiasm for making them out of
+         malted milk powders, as in the surprisingly palatable
+         compressed Ovaltine-tablets OVALTEENIES (45p/packet), and the
+         almost unpleasantly raw-cocoa-effect MILO BAR (UKP1.29)... our
+         top three: the solid-chocolate FREDDO (49p) - with biscuit
+         bits inside!; the Finger-Of-Fudge-meets-Dairy-Crunch titling
+         triumph CHOKITO (UKP1.29) - less novelty, but more substance
+         than the POLLY WAFFLE's "Choc-coated marshmallow filled wafer"
+         (UKP1.10); and, Bar Of The Month, the NESTLE VIOLET CRUMBLE
+         (UKP1.29), a giant-sized Crunchie with smaller air-bubbles and
+         the slogan "It's The Way It Shatters That Matters"... also
+         available from the same source, an international selection of
+         the latest in "extreme candies", from the US's semi-sour WONKA
+         "Feel the *Power*" SHOCK TARTS (78p/pack) to Australia's super-
+         hot WARHEADS (7p each, various flavours), rivalled only by two
+         (unintentionally?) hard-to-swallow down-under variants of LIFE
+         SAVERS, as immortalised in Paul Lukas' superb "Inconspicuous
+         Consumption" book http://www.core77.com/inconspicuous/ :
+         Citrus-Polo-alike "Thirst" flavour ("makes a flavour out of an
+         *abstract condition*... suggests a whole series: Hunger,
+         Restlessness, Drowsiness, Pain, Indifference"), and the
+         perfumed, justly notorious "Musk" - Lukas again: "Initial
+         sensation is extremely sweet... soon gives way to... raw meat"
+         - a flavour which then "repeats" on you for up to several
+         hours, the perfect reminder of the original unpleasantness...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+      Registered at the Post Office as "Want Be the cause of Be certain!"
+http://www.tranexp.com:2000/InterTran?type=url&from=eng&to=eng&url=http://www.ntk.net
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

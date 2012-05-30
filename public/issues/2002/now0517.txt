@@ -1,0 +1,285 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-05-17_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "We're condemning the court's decision as well as the
+         government's prosecution. We're 3 years old, and Microsoft
+         was prepared to give us the trust of owning a core part of
+         the browser. That doesn't seem the behavior of a
+         monopolist."
+  - KEITH TEARE, CEO Realnames (20% Microsoft Investment), June 2000
+
+         "Microsoft seems to be playing the role of the referee who
+         decides whether any innovations succeed"
+            - KEITH TEARE, ex-CEO Realnames, after MS cancel contract
+... so the name you get allocated really does depends on how much you pay
+
+
+                                >> HARD NEWS <<
+                                 cons and pros
+
+         The Emerging Technology Conference, it turns out, was akin
+         to putting a bunch of Wilhelm Reich fans inside an Orgone
+         machine : what transpired may not change many minds, but
+         *boy* it sounded like they were having fun in there. The
+         tribes building the new Net got to see each other through
+         the impending nanotech mist, briefly: the wiring techmonkeys
+         of WiFi (winners of Best T-Shirt Motto By A Mile: "CRIMINAL.
+         ANARCHIST. PARASITES."), the keyboard rattling hoardes of
+         Blogistan, the Men-In-Suits-With-Earrings of the Web
+         Services crowd, and the grubby-but-unbowed street P2Punks of
+         last year's file-sharing implosion. You know when the geek
+         mood is up when attendees stop talking about making rent
+         this month, and resume predicting the date of the
+         Singularity. Looks like we're back to looking up at a
+         J-curve - and after all those months of sitting on a U-bend, too.
+         http://www.aaronsw.com/
+           - Aaron generous enough to put it in your lifetime as well
+         http://kode-fu.com/shame/
+         - Joey coining what this is: the Rise of The Sycophantic Web
+         http://www.pigdog.org/auto/software_jihad/link/2581.html
+                      - but there are worse things to be than hopeful
+
+         "My spam is important to me. In this new age of the
+         Internet, I need the information and opportunities that
+         e-mail marketing provides.", writes BARRY DENNIS in C|Net's
+         trolling-for-hits opinion column. For someone who loves the
+         interactivity of the Web and runs a Net marketing company
+         himself, Barry seems strangely reticent to link to his
+         companies' site or give away his e-mail address. Can we
+         help? One quick search finds Barry's impressive corporate
+         Net presence is a detailed Geocities site, which reveals his
+         e-mail address as the equally prestigious BDennis410@AOL.com.
+         That's BDennis410@AOL.com, you Web-spidering spambots.
+http://web.archive.org/http://www.geocities.com/bdennis410/netweb.html
+                                  - remember, Barry: just hit delete!
+         http://news.com.com/2010-1076-915523.html
+- and when CPM banner ads die, we'll lose troll columns like this too
+
+         Last week's plea for "anyone who does interesting weird-tech
+         things" elicited some interesting responses, not least those
+         of GEORGE AND FREEMAN DYSON, who confirmed that they'll be
+         dropping by EXTREME COMPUTING (Sunday 2002-06-09, the Camden
+         Centre, London, blah blah blah) to discuss George's new book
+         revealing his dad's work on spacecraft powered by nuclear
+         explosions (the quantum electrodynamics pioneer is of course
+         also the father of former ICANN chairwoman Esther, and the
+         inventor of the Dyson sphere, as seen in the "Relics" episode
+         of Star Trek: The Next Generation). Joining them on this -
+         increasingly startling - bill is TOM "The Mechanical Turk"
+         STANDAGE, a selection of some of the UK's top satire sites,
+         and ZDNet-UK's RUPERT GOODWINS, who'll be hosting a salute to
+         20 Years Of The ZX Spectrum, introduced by former 1980s pop
+         icon, GARY LE STRANGE. You know, we couldn't make this up.
+         Even if we wanted to.
+         http://www.xcom2002.com/talks.php
+         - plus the author of Spectrum Machine Code Made Easy, Vol 2
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         what part of "effective user guides" don't you understand?:
+         http://www.interface.co.uk/ ... "QUEEN rocks London" reports
+         YAHOO Royalwatch: http://uk.fc.yahoo.com/r/royalwatch.html ...
+         this week's more-common-than-you'd-think GOOGLE typing error:
+         http://www.google.com/search?q=yorkshite ... mail - from jail:
+         http://weblog1.netfirms.com/rosst/archives/000013.html ...
+         http://www.ibmag.co.uk/ - FALCO!... depends what kind of "Ah"
+         they're inspiring: http://www.ntk.net/2002/05/17/dohemc.gif
+         ... pick a country, any country: http://www.eue.org/ ... VM
+         Labs have great "future of digital entertainment" behind them:
+         http://www.ntk.net/2002/05/17/dohvm.gif ... customers who
+         bought this item also bought - paperback version of same book:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0091880963/ (after
+         wearing out the first copy?)... hey, who's cloning who here?:
+      http://www.google.com/search?q=%22illegal+copies+of+Star+Wars%22 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         It's "I Love The ZX80s" - a bland, whitewashed pseudo-history
+         which largely ignores the quirkier independent stuff in favour
+         of obvious big-league successes that surely everyone remembers
+         anyway. It's corporate nostalgia masquerading as some sort of
+         cultural significance, and who gets the biggest single display
+         - Tomb Raider? Nintendo? No, RockStar Games, of course, a
+         company co-founded by exhibition curator Lucien King. Somehow,
+         we had a feeling we were going to be disappointed by GAME ON:
+         THE HISTORY, CULTURE AND FUTURE OF GLOBAL GAMING (The
+         Barbican, London EC2Y, until 2002-09-15, UKP11 full price,
+         UKP5-8 concessions). And yeah, there's a PDP-1, and some coin-
+         ops on free play (until they get broken), and the basic 8-bit
+         machines you'd expect (perched on top of PC emulators), but 11
+         quid to get in? You can spend an hour in a real arcade - or
+         buy your own retro console - for that.
+         http://www.gameonweb.co.uk/
+         - still, talk on Sat with noted "friend" of Edge, Stuart Campbell
+
+         It's LINUX INSTALL DAY this Sun, an ancient Dorset festival
+         (now spreading to the rest of the UK), in which participants
+         surreptitiously replace a friend or neighbour's Windows
+         desktop with KDE and see how long it takes them to notice.
+         Hopefully all involved will recover in time for Wednesday's
+         party celebrating the existence of SONOMU (from 8pm, secret
+         London location, UKP6), a shadowy members-only State51 spin-
+         off for "people passionate about new forward-thinking music".
+         Inexplicably, this threatens to include NTK's "Dave Green"
+         unveiling his all-new set of acoustic cover versions of synth-
+         pop favourites, a backwards-looking lineup which goes from
+         "19" by Paul Hardcastle to "Where's Your Head At?" by Basement
+         Jaxx. And he's "doing" the ARTHUR C CLARKE awards again on Sat
+         (from 1.30pm, The Wellcome Wing, The Science Museum, London),
+         though that seems to have been somewhat overshadowed by the
+         more photogenic exhibit "Grossology: Burp, Fart And Sniff Your
+         Way To Understanding The Science Of The Human Body".
+         http://www.linuxinstallday.org/
+               - Linux on a PS2 at the London Lonix event, apparently
+         http://party.sonomu.net/
+        - 6 quid though (you could print your own Olga tabs for that)
+www.sciencemuseum.org.uk/corporate_commercial/press/pressreleases.asp
+                                    - after it went so well last year
+         http://club.net-art.ws/
+                   - what is this, digital artists week or something?
+         http://twenteenthcentury.com/madminton/
+                                                   - apparently it is
+         http://www.onlinecontentuk.org/May02event.html
+            - also on Wed: just some "casual drinks", with friends...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Mark this one down as sufficiently retarded tech. As an
+         exercise in caffeine abuse and hubris, NTK's own PANOPTICON
+         is a graphical stalking system for finding bloggers and
+         other celebs in the corridors of the ETCON conference. Now
+         that the conference is over, we thought you'd like to survey
+         the damage, and perhaps gut it for your own purposes.
+         Redeeming features: it does live updating on a Webpage
+         without a page reload in sight. It does Web Services the
+         old-fashioned way, with a http GET sending data, and a
+         telnet stream outputting streaming updates. You can put rude
+         words on it and click on things. Warning: it's javascript,
+         and therefore shit. It'll only work on Windows IE 5+ and
+         Mozilla/Gecko browsers. It scares Opera so much you'll never
+         escape. And my in-depth knowledge of NTK clickthrough rates
+         and how badly I wrote the server says that it'll crash and
+         burn as soon as we send this out. We'll fix it in time for
+         XCOM, I don't think.
+         http://actuallyworks.com/panopticon/explanation
+      - i was writing documentation in a hotel bar, that much is true
+         http://actuallyworks.com/panopticon/
+                                     - FINAL WARNING: EVIL JAVASCWIPT
+         http://www.pipetree.com/qmacro/2002/May/15#panopticon
+                                                - distributed hackery
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         posted to Usenet couple of weeks ago, original author unknown:
+http://features.slashdot.org/comments.pl?sid=32731&threshold=3&cid=3530325
+         ... evil GEORGE LUCAS clones start disagreeing with each
+         other, one dismissing "that Phantom Menace was a let down":
+http://news.bbc.co.uk/hi/english/entertainment/film/newsid_1986000/1986453.stm
+         while other admits "prequel did not live up to expectations":
+http://news.bbc.co.uk/hi/english/entertainment/film/newsid_1986000/1986342.stm
+         ... LONDON UNDERGROUND present - e-democracy in action once
+         more: http://www.thetube.com/content/faq/surveys/pppoll.asp
+         ... this week's "off the map" - so there isn't an OS symbol
+         for a giant AN/FLR-9 "Elephant Cage" Antenna (dismantled)?:
+www.multimap.com/map/photo.cgi?x=510500&y=239500&scale=25000&rt=overlay.htm
+         ... $40 Win XP kit includes free bubblegum, baseball action
+         figure: http://www.microsoft.com/partner/campaign/Winpro1.asp
+         ... on the plus side, at least it wasn't GRAND THEFT AUTO 3:
+         http://smh.com.au/articles/2002/05/13/1021002431568.html ...
+         BBC pic: "Oooh Vic - I've fallen" or "Walk like an Egyptian"?
+     http://news.bbc.co.uk/hi/english/uk/newsid_1980000/1980254.stm ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> classic Bill Murray timeloop redemption comedy GROUNDHOG
+         DAY (10.30pm, Sat, ITV) - last shown on terrestrial TV in May
+         2000 - isn't this week's only case of deja vu: there's "Men In
+         Black" knockoff THE SILENCERS (9pm, Fri, C5) - last shown
+         August 1999; Christopher "Spinal Tap" Guest's dud remake of
+         ATTACK OF THE 50FT WOMAN (1.05am, Fri, BBC1) - last shown Aug
+         2000; and, more entertainingly, a teenage Eliza "Faith" Dushku
+         as Arnie's tearaway daughter in TRUE LIES (10.30pm, Sat, BBC1) -
+         last shown March 2000... plus a DIY introduction to America's
+         tenuous grasp of libel in THE PEOPLE VS LARRY FLYNT (1.05am,
+         Sat, C4) - last shown October 2000; and frankly disappointing
+         Gibson adaptation JOHNNY MNEMONIC (9pm, Sun, C5) - last shown
+         Aug 2001 on BBC1. Phew... in terms of new stuff, Jeff Bridges
+         suspects wacky neighbour Tim Robbins of being a mad terrorist
+         bomber in slightly-more-topical-than-when-it-was-made paranoia
+         thriller ARLINGTON ROAD (10pm, Sun, C4)... C4's factual
+         department dumps a bunch of zany high-concept documentaries
+         before its schedules go all Big Brother, in the form of the
+         top 100 poorly differentiated GREATEST WORLD CUP MOMENTS (9pm,
+         Sat, C4), SAS tell-all debunk TO THE ENDS OF THE EARTH: THE
+         REAL BRAVO TWO ZERO (9pm, Mon, C4), the self-explanatory
+         DANIELLA WESTBROOK: MY NOSE AND ME (10pm, Wed, C4), and
+         inspirationally titled old-people workplace docu-soap WORKING
+         WITH DINOSAURS (8pm, Tue, C4)... then it's back to the
+         temporal anomalies again, with Van Damme "Terminator" knockoff
+         TIMECOP (10.35pm, Wed, BBC1) - last shown Sep 2000... plus
+         Arnie flaunting those one-piece sunglasses that have indeed
+         become surprisingly fashionable in the 21st century, as the
+         original THE TERMINATOR (9pm, Tue, C5) - last shown on ITV
+         about two months ago...
+
+         FILM>> hopefully answering the obvious question - "What
+         possible advantage would there be to having a 'clone army' in
+         a technologically advanced universe with no apparent shortage
+         of available manpower?" - comes even more interminable blue-
+         screen action scenes composited in front of animated Maplins
+         catalogue covers, aka STAR WARS 2: ATTACK OF THE CLONES (
+www.screenit.com/movies/2002/star_wars_episode_2_attack_of_the_clones.html :
+         One [outfit] shows [Portman's] bare back and shoulders,
+         another is cut low up top and shows the tops of her breasts,
+         and a third is formfitting and accentuates her bosom - and
+         later is ripped at the bottom to reveal her bare midriff)...
+         or, apparently assuming that anyone who doesn't want to go
+         see Star Wars must be either French or gay, the only other
+         national release looks like Gerard Depardieu photoshopped
+         condom-factory comedy THE CLOSET (imdb: coming-out/
+         homosexuality/ homosexual/ accountant/ attempted-suicide/ cat/
+         closeted-homosexual/ condom/ father-son-relationship/ gay-
+         bashing/ gay-parade/ gay-pride/ man-pretending-to-be-gay/
+         obesity/ photo-montage/ pink-sweater/ racism/ rugby/ sexual-
+         harassment/ unemployment/ wet-blouse/ local-blockbuster)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                              "top of the Google!"
+                       http://www.google.com/search?q=ntk
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

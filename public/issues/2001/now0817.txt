@@ -1,0 +1,337 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-08-17_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+    "Developers, developers, developers developers developers
+    developers. Developers! Developers! Developers! Developers!
+    Developers!  Developers! Developers [INDISTINCT - poss.
+    "developers"].  Yes."
+ - STEVE BALLMER, CEO of Microsoft, presents another stirring keynote
+                          http://www.ntk.net/ballmer/mirrors.html
+
+
+                                >> HARD NEWS <<
+                                thar she blews
+
+         Well done to THE INDUSTRY STANDARD for slavishly improving on
+         the original "Wired" business model - despite all the money
+         wasted on short-lived European editions, the humble Wired UK
+         operation never quite realised its ultimate goal of taking
+         down the parent organism as well. But, as any keen new-economy
+         bullshitter knows, adversity can often breed innovation -
+         innovation like the bold new revenue stream proposed by Future
+         Publishing's US incarnation, IMAGINE MEDIA, who seem to be
+         charging between $500 and $5,000 per program for inclusion on
+         forthcoming coverdisks of PC Gamer, MaximumPC, MacAddict and
+         Official Xbox magazines. This "is not an advertising fee",
+         an email, addressed to "Software Partners", explains - it
+         is "a Distribution and Handling fee", which only happens to
+         apply to "editorially selected disc content". And thank
+         heavens for that, because when Amazon tried something similar
+         a couple of years ago, the term everyone else seemed to prefer
+         was "payola".
+         http://www.ntk.net/2001/08/17/imaginethat.txt
+         - "the publishing company that created coverdiscs". Uh-huh.
+         http://service.imaginemedia.com/info.html
+         - not exactly a great year for them so far
+         http://www.ntk.net/2001/08/17/dohstandard.jpg
+         - wish we had a copy of the "no more staff limos" mail
+
+         Is that free speech burning, or just the spreading haze of
+         DMCA smoke we smell? A fairly clear-cut case in Holland with
+         Niels Ferguson, the Dutch cryptographer who knows how broken
+         Intel's new content protection system is, but is too scared
+         to tell anyone. But what about the curious case of ALEX
+         SHTOL's WMA ENCODE/DECODER program? Alex's shareware app,
+         which can create and export to MP3 Windows Media audio
+         files, was removed from CNET's DOWNLOAD.COM last month
+         without explanation. CNET now says that it's been deleted
+         because it's in breach of the DMCA. In fact, WMA
+         Decode/Encode is licensed by Microsoft to perform what
+         deciphering it does, and is deliberately limited to comply
+         with the requirements of their Digital Rights Management
+         system. Compared to the fistful of other audio-decoding
+         progs still on DOWNLOAD.COM, it's a veritable paragon of
+         DMCA compliance. Of course, its country of origin is a
+         little more exotic than its competitors: could it be that
+         following Dmitry Sklyarov's arrest, CNET now thinks *all*
+         programs from Moscow are illegal?
+         http://www.macfergus.com/niels/dmca/
+                 - Intel will just have to work it out for themselves
+         http://12.108.175.91/ebookweb/stories/storyReader$388
+          - You're *not* scared, you're just pretending, says Seybold
+         http://www.x-filez.com/dmcacnet.htm
+                                              - scary enough for you?
+
+         Three reasons why RAZORFISH are the "Queen Mother" of new
+         media: 1. The press love them - they can always be relied on
+         for an "Oh, that's so cute" story; 2. Mere mention of their
+         name conjures up upsetting mental imagery involving hideous
+         teeth; and 3. Despite remarkable longevity so far, they're
+         surely not going to be around *for ever*. On the off-chance
+         that the current round of rumours turn out to be true and
+         Razorfish *are* currently on the ropes, NTK would like to
+         collect your recollections (and documentary evidence) of their
+         most freakish projects and campaigns, just in case a last-
+         minute "tribute" portfolio is required. For instance, we're
+         convinced we can detect their distinctive fingerprints on that
+         RAC relaunch ad which revealed that the Royal Automobile Club
+         was no longer just some blokes in vans who fix your car when
+         you break down, but (we're paraphrasing, of course) "a radical
+         new paradigm in journey assurance en route from A to B".
+         http://www.observer.com/pages/envelope.asp
+         - like those Popbitch "I Love The '80s" specials
+         http://www.wired.com/wired/archive/8.09/razorfish.html
+         - but, in net time, about 3 or 4 years ago
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Collision damage waiver" on Teletext flights? I'm not going:
+www.teletextholidays.co.uk/holiday_offers_details.asp?OID=408289&area=general
+         ... "Sir has requested the 'dead rock star' suite - very good,
+         Sir": http://www.select.with-us.com/fullstory.cfm?id=161 ...
+         WORLDPOP proactively sends registered users its (entire?)
+         mailing list of 20,000 email addresses, under "Subject: How To
+         Pull At A Festival"... Oi! Coldplay! Keep that noise DOWN!:
+         http://www.glastonburyfestivals.co.uk/2001/whatson.html ...
+         NME sees "abstract pattern with vaguely gothic overtones...
+         sonic cathedral" in particle paths from CERN bubble chamber:
+    http://www.nme.com/NME/External/News/News_Story/0,1004,39946,00.html
+         ... Leonardo da Vinci way ahead of his time (see synopsis):
+         http://www.amazon.co.uk/exec/obidos/ASIN/0201735008/ ... "we
+         know about every other technology in use today *and in the
+         future*": http://www.kisstechnologies.co.uk/company/people.asp
+         ... summertime - when "bugs the size of pixels" STRIKE AGAIN!:
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_1493000/1493152.stm vs
+      http://news.bbc.co.uk/hi/english/sci/tech/newsid_842000/842624.stm
+         ... Improve Your Image step #1 - write everything ALL IN CAPS:
+      http://www.scottish.internetradio.co.uk/userpages/imagemakers.html
+         - step #2: choose a reputable, professional service provider:
+         http://www.scottish.internetradio.co.uk/userpages/ ... another
+         satisfied customer: http://www.harrogatetheatre.co.uk/ ...
+         yup, we're *still* calling them "Widdecombe of the week":
+http://www.streetmap.co.uk/streetmap.dll?Postcode2Map?sw1a+1aa&your+HTML+here
+         ... "Ask Coca-Cola" at http://www.coke.com/ spills the beans:
+         http://www.ntk.net/2001/08/17/dohcoke.gif ... relax lads -
+     she's a man: http://www.shell-me.com/july2001/news-world2.htm#worldnews6
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Displaying the unerring eye for the contemporary zeitgeist
+         that is the hallmark of all great artists, HEATH "BUNTY"
+         BUNTING has given up that unconvincing "genetic modification"
+         schtick and bounded onto the Linux bandwagon with DIY tech
+         recycling workshop RUBBISH 2 ROUTER (from 1pm Tue 2001-08-21,
+         Windmill City Farm, Bedminster, Bristol, free if you bring a
+         screwdriver, pliers or soldering iron) - part of wireless-
+         enabled artists get-together TECH 2 (from today, various
+         venues around Bristol). Still, you'd probably intercept a few
+         more interesting packets by "war driving" past the equally
+         802.11B-positive computer security gathering DNSCON 4 (from
+         1pm today, 2001-08-17, President Hotel, Blackpool, from
+         UKP15), which we always mean to go to, if only to check out
+         the now-mythical "Need To Know" bar.
+         http://www.irational.org/cgi-bin/cv/cv.pl?member=heath
+         - doesn't quite get Godel Incompleteness either
+         http://cubecinema.com/rubbish2router.html
+         - Redundant Tech Initiative know what they're doing though
+         http://www.dnscon.org/dns4/
+         - and the "proof": http://www.ntk.net/2000/08/25/bar.html
+http://www.whatsonstage.com/uktw/page.php?page=details&id=L1152558442
+         - or save a trip to Edinburgh with the live "Blue Jam" show
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         In the thrashing Cambrian slime-pits of sourceforge,
+         it's a little hard to tell which projects are worth getting
+         involved with, and which are the "Last updated two days
+         after they started" no-hopers. As a general rule, the bigger
+         the ambition, the more doomed the codebase - but there are
+         always exceptions. Even though they (barely) missed an
+         deadline this week, tigris.org's SUBVERSION looks like it's
+         going somewhere fast. A ongoing plan to replace CVS with a
+         more modern, backwards-compatible, replacement, Sub has
+         survived an ambitious schedule, strong competitors, a
+         pitched battle between ESR and one of his supercriminal foes
+         on the dev list, and a potentially dull wall of code to climb.
+         They've survived. This week was due to be the date that
+         Subversion became self-aware (or at least, self-hosting):
+         despite a flurry of activity, they didn't quite make it. But
+         they're very close - and now would be a great point to get
+         involved.
+         http://subversion.tigris.org/
+                                                         - mmm WebDAV
+         http://subversion.tigris.org/servlets/ReadMsg?msgId=34923&listName=dev
+                                                         - sooo close
+         http://lwn.net/2001/features/KernelSummit/
+                         - ..and Linus says he really likes the name.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         it's the battle of the hypnotically ill-advised voiceovers:
+         http://www.zombo.com/ vs http://www.henryhendron.com/ ...
+www.bankofamerica.com/newsroom/press/press.cfm?PressID=press.20010813.03.htm
+         imitates ONION story we can't find in their archive any more...
+         http://news.bbc.co.uk/hi/english/uk/newsid_1490000/1490957.stm
+         imitates "The Dark Knight Returns" (Detective Inspector Paul
+         Knight!)... http://www.ananova.com/news/story/sm_376025.html
+         imitates EDWARD PENISHANDS *and* BRASS EYE... killer FLASH app
+         found at last - blocky pictures dancing to foreign language
+         soundtracks: http://www.btinternet.com/~david.st/b3ta/ ,
+         http://www.rathergood.com/vid/ , and most alarmingly of all:
+         http://user.tninet.se/~prv247p/hatt/hatten.swf ... "Oh, the
+         humanity": http://www.curlysairships.com/ ... anti-WAREZ
+         propaganda goes retro: http://www.bsa.org/usa/megabyte/ ...
+         EMINEM indigestion lyrics more accurate than we thought:
+         http://www.purplepill.com/common/101.freecertificate.asp ...
+         DIANA's flatmates so dodgy she wrote her name on all her CDs:
+         http://www.itn.co.uk/news/20010816/britain/18burrell.shtml ...
+         and drop-kick me, JESUS, through the goal posts of life:
+         http://www.catholicsupply.com/christmas/football.html ...
+         http://www.hammacher.com/sfi/2001/2001semifinalist.html
+         winners (bottom of page) rivals (intermittently updated)
+         http://www.unnovations.com ... hang on a minute - HOBBES is
+         *imaginary*?: http://www.whatever-dude.com/posts/145.shtml ...
+         the wit and wisdom of IRC - rated & preserved for all time:
+         http://www.doomworld.com/phptest/bestquotes.php ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> clip-shows stalk the primetime schedules once again with
+         Nadia Sawalahalaha's TOTAL SOAP (8.30pm, Fri, BBC1), HARRY
+         ENFIELD'S GUIDE TO THE NORTH OF ENGLAND (9.30pm, Fri, BBC1),
+         Public Enemy on an arguably anti-Semitic tip in LATER PRESENTS
+         RHYTHMS OF ISLAM (11.35pm, Fri, BBC2), Jack Dee's funny advert
+         round-up TRUST ME I'M A CELEBRITY (11.10pm, Fri, BBC1), plus
+         BRITAIN'S TOP TEN MOST WANTED MURDERERS (8.30pm, Thu, ITV)...
+         on Sat there's the bizarrely self-referential sight of Paul
+         Ross and that goon from "Heat" Magazine mocking the transient
+         appeal of TV personalities and Page 3 girls in CELEBRITY: THE
+         RISE AND FALL (9.15pm, Sat, C4), up against I LOVE THE 90s
+         (9.15pm, Sat, BBC2) - at this rate, expect "I Love The 2010s"
+         early next year - and followed by Antipodean punditry AUSSIES:
+         WHO GIVES A ****? (11.20pm, Sat, C4)... movie "highlights"
+         include - who'd have thought it? - a "Terminator" knock off on
+         C5 - THE TOMORROW MAN (6.10pm, Sat, C5), Dean Stockwell's
+         Simon Quinlank impersonation in Harrison Ford aerial antic AIR
+         FORCE ONE (9.15pm, Sat, BBC1), Scott "Con Air" Rosenberg's
+         rom-com BEAUTIFUL GIRLS (9.50pm, Sun, BBC2), and Duchovny/
+         Michelle "Ensign Ro" Forbes arthouse road thriller KALIFORNIA
+         (10.30pm, Mon, C4)... BBC2's Saturday morning ex-OU tech-slot
+         is presumably profiling The Cult Of The Dead Cow in HACK THE
+         PLANET (9am, Sat, BBC2)... "Biff" from "Back To The Future"
+         grows up to be a PE teacher in the excellent FREAKS AND GEEKS
+         (7pm, Mon-Fri, E4)... and they're clearly heeding their own
+         advice in ADAM AND JOE'S GUIDE TO TAKING OVER TV (7.55pm, Tue-
+         Wed, C4), as Joe then reappears hosting "Liquid News"-alike
+         THIS WEEK ONLY (11.05pm, Thu, C4)... LIFTERS (9.50pm, Tue,
+         BBC2) provides some handy tips on nicking stuff from shops...
+         Darcus Howe whines on about our lack of freedom when it comes
+         to protest and direct-action in SLAVE NATION (9pm, Wed, C4)
+         ... and more top viewing for historical massacre fans, in the
+         form of the concluding double-episode of THE WORLD AT WAR
+         (7.10pm, Sun, BBC2), GREAT BATTLES OF WORLD WAR II (8pm, Wed,
+         C5) and, after last week's showing of "Chasing Amy", a
+         "Timewatch" special on BOMBING GERMANY (9pm, Thu, BBC2)...
+
+         FILM>> Tim "Batman" Burton spectacularly botches another big
+         franchise in remixed kid-friendly "unimagining" PLANET OF THE
+         APES (http://www.capalert.com/capreports/planetoftheapes.htm :
+         no nudity was found, only a case of excessive [Estella Warren]
+         cleavage; the choreographers took full advantage of [Bonham]
+         Carter's deep beautiful eyes; while men and women of all races
+         are equally precious to Jesus, apes are not equal to us; +
+         http://www.screenit.com/movies/2001/planet_of_the_apes.html :
+         Phrases: "What the hell are you doing?", "Shut up" and "Damn
+         them all to Hell"). It's actually not quite as lame as critics
+         make out, apart from: 1. terrible acting and dialogue from all
+         the humans (Tim Roth and Helena Bonham Carter are surprisingly
+         good); 2. excessive wirework - you'll believe an ape can fly!;
+         and 3. the inexplicable "twist ending" - so bad, it could
+         almost be the work of Kevin Smith: [CAUTION - *MAJOR* SPOILER]
+         http://www.eonline.com/News/Items/0,1,8669,00.html ...
+
+         HAL-LOO! >> "I'm trying to repel the American media",
+         announced EMMANUEL GOLDSTEIN, keynote at the quadrennial
+         Dutch hackers' conference, HAL 2001, playing to audiences'
+         favourite phenotype this year: self-deprecating Americans.
+         "Don't ever say Americans aren't tolerant - we've been
+         tolerating shit from our government for years", he chuckled.
+         Most unexpected revelation from Manny: during the recent
+         unpleasantness, 2600 was swamped with e-mail urging them to
+         cyber attack China, all from Hotmail accounts. The
+         X-Originating-IP fields turned out to be *all* from .mil
+         domains.... JOHN GILMORE spoke both about opportunistic
+         encryption, and other opportunities he has personally
+         enjoyed as a friend of Sasha "MDMA" Shulgin... oddest (we
+         presume unconnected) sight: a 6'6" cross-dressing Lara
+         Croft-alike ... PHIL ZIMMERMAN junked his talk on Hushmail
+         2.0 in favour of a crowd-pleasing ramble on the history of
+         PGP 2.0 (Half of all the e-mail he gets about backdoors in
+         PGP are from Germans, who apparently adopt a "sort of quiet
+         tone - it's okay, you can tell me if it's backdoored, I
+         won't tell anyone".) Most unsurprising comment by PRZ: "For
+         some reason, cryptography attracts paranoid people"...
+         again, unconnected: FREESWAN's HUGH DANIELS gave three
+         speeches, characteristically bitching about the nature of
+         the universe in all of them ... Most European quote: "The
+         best historical example [of the reaction to deCSS] is the
+         churches response to printing presses" ... Returning nearer
+         home (but not there yet), HAVENCO's RYAN LACKEY revealed
+         Sealand's best-kept secret: the data haven is making a small
+         profit, and he doesn't have a Sealand passport... Finally
+         British DNSCon organiser JONATHAN WIGNALL gave a practical
+         demo of a worm, including suggesting the best place to
+         release duch a beast would be at a place with a few thousand
+         suspects. He then withdrew the idea, on realising that at
+         HAL he'd still be the *prime* suspect. Such nervousness may
+         have affected his aim in the final distribution of goodies:
+         I haven't had my photos developed, concludes our
+         correspondent, but with luck I should have a shot of him
+         throwing the pen that hit me right in the mouth...
+         FULL REPORT (WITH ALL THE JOKES LEFT IN) AT:
+         http://www.ntk.net/2001/08/17/hal2001.html
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+        "to be honest, kind of bored of being the world's Steve Ballmer
+        indiscreet video repository - can we get back to being the UK's
+                most sarcastic weekly tech newsletter instead?"
+         http://www.penismightier.com/main.php?start=1601&show=1
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

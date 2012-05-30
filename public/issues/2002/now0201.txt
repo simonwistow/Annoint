@@ -1,0 +1,315 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-02-01_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "[Children] sleep with Pooh on their sheets, they wipe their
+         faces with Pooh as they get out of the shower..."
+                    - anti-Disney litigants resort to "dirty protest"
+         http://www.thetimes.co.uk/article/0,,5-2002047037,00.html
+
+
+                                >> HARD NEWS <<
+                                 prizes accrue
+
+         The BLOGGIES are announced, and all of the constantly
+         updating, filter and linking, daily diarists of the Web are
+         there to cheer the winners on. Excepting the
+         www.livejournal.com folk, and those everything/nothing kids,
+         and the advogato/kuroshin journalers, of course. Nope, this
+         one's for people who do *proper* weblogs. But if so - where
+         was JORN BARGER, weblog ur-father, the man who coined the
+         very term? In one of those perfect coincidences, Jorn's
+         website, www.robotwisdom.com, running since 1997,
+         disappeared from the Web just about the time the Bloggies
+         were being revealed. Of course, Barger's been "disappeared"
+         off the blog community's giftlist for a while. When his
+         Israel divestment campaign veered into what some called out
+         as anti-semitism, shocked bloggers removed their links to
+         him, like shoppers determinedly looking away from a mother
+         slapping her child. So it's unlikely he'll snatch that
+         lifetime achievement award any time soon. Jorn's cranky, of
+         course: a Kibo-loving hippy and underemployed Joyce fanatic
+         who sits in his bed and scribbles about AI. Weblogging, like
+         everything else he pursues, is an obsession. WIL WHEATON, by
+         contrast, is the well-rounded cute geek boy of legend: the
+         quoteable, filmable, film-quoting ex-RenFaire ex-Trekee
+         yukster who tips a beanie to the Fark guys, knows the
+         slashdot mod jokes, and gives respect where it's due. No
+         surprise he won most of the awards. And isn't that what the
+         Net's about?
+         http://www.fairvue.com/?feature=awards2002
+                                   - and who'd do better with $20.02?
+         http://metatalk.metafilter.com/mefi/1511
+                  - "I bet his financial problems are a result of the
+                      Zionist control of the world financial markets"
+         http://www.wilwheaton.net/
+                                           - "/me does the happy dance"
+http://web.archive.org/web/20000510161001/www.feedmag.com/feature/cx329.shtml
+    - "I live on bread and water, so as not to submit to the Idiots."
+         http://instinct.org/~jorn/
+                        - just the domain name renewal cheque clearing
+
+         After much deliberation, and some locking of people in our
+         toilet, we decided to split the New Year "Design Our
+         Stylesheet" prize. One half, as originally proposed, we set
+         upon awarding to entrants who parodied other, pretty-boy,
+         sites (while spurning the cheap shortcut of just linking to
+         their own stylesheets and yes we do mean you, GORDON JOLY).
+         The other half-award, we newly declared, was to be awarded
+         to whoever of the remaining entrants most skillfully evaded
+         the whole point of the competition. This was a practical
+         decision. "Why not make it look a bit more like Ceefax?",
+         wrote VANILLA BEACH, helpfully. "Everyone watched Ceefax."
+         Stylish? Yes. A "sheet", Vanilla? No. In a similiar vein,
+         RICHARD IRONS declaimed, together with many fully compliant
+         whingers, "How about publishing NTK in XML format?". You
+         need to wait until our 2003 competition, Richard, where
+         readers will be asked to guess the CORBA interface to our
+         .NET SOAP-over-NNTP API. You nut. Others complained about
+         dabbling with CSS at all. Pigdog Journal's MR. BAD swung an
+         uncharacteristically helpful bat here: "NTK readers can
+         always use PigDog DeCSS to remove style-sheet shmoo -
+         http://pigdog.org/decss/ ". But to do so would only increase
+         your liability to subpoena by legal spider-bots, and
+         naturally, cause you to miss our sedulous runners up. Start
+         with LES MCKENNA's defiant, "Yer back to basics VT100" stylee:
+         http://www.ntk.net/index.cgi?style=http://www.carlisle.ac.uk/ntk.css
+         Move onto TOM GILDER's fantastic triple-bill homagerie,
+         which came near to sweeping the boards (sucky in Opera) -
+http://www.ntk.net/index.cgi?s=http://tom.vpwsys.co.uk/css/ntk/bbc.css and
+http://www.ntk.net/index.cgi?s=http://tom.vpwsys.co.uk/css/ntk/slashdot.css
+http://www.ntk.net/index.cgi?s=http://tom.vpwsys.co.uk/css/ntk/theregister.css
+         And finally, stumble upon PAUL HAMMOND's contribution, which
+         combined both borderline parody *and* wilfull disruption:
+http://www.ntk.net/index.cgi?s=http://www.paranoidfish.org/things/ntk_404.css
+         Mr Hammond and Mr Gilder receive halves of the T shirt
+         prize for their effrontery; all other entries are to have
+         their punishments mercifully withheld. We hope you're all
+         very pleased with yourselves.
+         http://kevan.org/twin.cgi?blog=1062
+                                   - *evil* twin, we like to think...
+         http://www.ntk.net/index.cgi?s=ntk.css
+            - yeah, we'll stick with this for the proportional lovers
+
+         The Realnames-style JINI private namespace - which we were so
+         skeptical about back in December - seemed to have it all: an
+         annoying IE plug-in which redirects words (and non-"www" URLs)
+         typed in the address bar to the pages of those who've reserved
+         those particular words for as little as UKP50 per month. Of
+         course, the ultimate online endorsement can only come from a
+         former household name/international music star, and Jini's
+         arrived this week in the form of the Surrey-based net
+         consultant who claims to work "for a woman called Joan
+         Armatrading". Joan apparently "owns several keywords on
+         various search engines", but would very much like to sublet
+         some "to give smaller companies an opportunity to promote
+         their businesses on the web cost-effectively". Her Jini
+         keywords include "movies" and "pictures", both of which
+         currently link to the official site of *the* Joan Armatrading.
+         Without getting into "After They Were Famous" territory, is
+         this really what the 1970s' answer to Tracey Chapman is up to
+         nowadays? Is it just bizarre retaliation for net entrepreneurs
+         like Cliff Stanford foraying into pop music with "Girls@Play"?
+         And will stunts like this keep Jini themselves out of the
+         "Where are they now?" file - along with the fact that, so far,
+         we've found it impossible to uninstall the bastard thing?
+         http://www.ntk.net/index.cgi?b=02001-12-07&l=82#l
+        - www.sun.com/jini/ has better search engine placement, natch
+         http://www.guardian.co.uk/Print/0,3858,4324885,00.html
+             - so *that's* whose buying those ebay EverQuest items...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         RUGBY not as popular in Ireland as you'd been led to believe:
+         http://www.ntk.net/2002/02/01/dohirish.gif ... Euro "rounding
+         down" in action: http://www.ntk.net/2002/02/01/dohblin.png -
+         or is it essential to compete in today's intensely globalised
+         job market?: http://www.ntk.net/2002/02/01/dohanglia.jpg ,
+         http://guardiantools-d-aspen.workthing.com/vacancy/12/36812.xml
+         ... BBC shows "artist impression" and photo on the same page:
+         http://news.bbc.co.uk/hi/english/uk/newsid_1791000/1791904.stm
+         ... idea for Fast Show character - Overexcitable Estate Agent:
+194.176.198.67/home/wwwea/search_profile.cgi?ea=01132682100&sor=S&reg=YAL
+         ... if we gave you a map, they wouldn't be secret, would they?:
+         http://www.vatican.va/library_archives/vat_secret_archives/map/
+         ...CENTRE POINT architect to live for 18,000 years (bottom of):
+         http://www.thetimes.co.uk/article/0,,60-2001372987,00.html ...
+         <TITLE> tag "CELEBRITIES" showing the fun to be had in Devon -
+         http://www.devon.gov.uk/econeuro/tourism/devotedstories.html -
+         include Sheffield's "Sarah Booth", Nottinghamshire's "Mr
+         Battersby", and "Mr Durling", of Wiltshire... the future
+         already happened: http://www.ntk.net/2002/02/01/dohtrain.gif
+         ... well, there goes at least one idea for the business plan:
+         http://www.ntk.net/2002/02/01/dohcam.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Perhaps anticipating all those companies who won't be sending
+         quite so many people to MILIA this year (from Mon 2002-02-04,
+         Palais Des Festivals, Cannes, 350 Euros upwards), harrowing
+         experimental electronica night DORKBOT LONDON has relocated to
+         the slightly more central State 51 venue (7pm, Wed, 2002-02-
+         06, free). NTK's "Dave Green" has been asked *not* to bring
+         his guitar on this occasion, creating a breathing space for
+         new acts like SIMON WISTOW to "kick, punch, it's all in the
+         mind" on the subject of games and generative music, based
+         around demos of titles like Rez, Vib Ribbon and Parappa The
+         Rapper. Other attractions include electronic sculptor ROLF
+         GEHLHAAR, "over-active" artist-musician TOM NULLPOINTER and,
+         testing your recall of zany SOUND and VDU 19 commands to the
+         max, a load of BBC Micros set up "just to see what people do".
+         http://dorkbot.org/dorkbotlondon/
+         - venue still the most accessible thing about it
+         http://www.milia.com/
+         - "never too late to register", the pop-up pleads
+         http://www.fosdem.org/
+         - also this month: Stallman hits Europe. Songsheets ahoy!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Compared to Mozilla, Konqueror, Opera, Galeon, Skipstone and
+         the rest of the Unix browsers, DILLO is a scrappy little
+         thing. Its HTML rendering isn't great; it don't do frames or
+         CSS; no javascript, plugins or ftp. Right now, you need to
+         apply source patches just to get SSL and cookies to work.
+         But dillo has one feature: it's fast. Not "ooh let's get out
+         our stopwatches and put it in a race with IE" fast: this is
+         "what righteous voodoo hex has this mother *placed* upon my
+         TCP/IP stack?". Dillo's written in C, with some threaded
+         networking code you shan't want to look at: but the
+         remainder is 200KB of eminently hackable GTK code. You won't
+         want to use it as your everyday browser (yet). But you'll
+         enjoy your current choice a *lot* less after you've seen this.
+         http://dillo.sourceforge.net/
+       - somebody suck this code back into the Gnome/KDE filebrowsers
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         www.tracysboyfriendsreunited.co.uk ... MR T vs World Economic Forum:
+         http://www.geocities.com/net_strike_net/english_active.html
+         ... and another reason not to book your operation for late
+         December: http://bmj.com/cgi/content/full/309/6970/1686 ...
+         hope it's a misguided viral campaign for an upcoming scifi film
+   http://groups.google.com/groups?selm=wv0oi0r4.fsf%40mail.dckco1.tn.home.com
+         most rubbish LoTR analogies so far: volume discounts for THE
+         ONE RING?  http://www.badalijewelry.com/tolkien.htm ... one
+         API to bind them all: http://java.sun.com/ ...  but still filk
+         wins the prize: http://www.kddresearch.org/Tolkien/Humor/RedSOW/
+         ... the new extreme ironing: www.cheeseracing.org ... exceeded
+         their parameters: http://world.std.com/~jlr/doom/doom_eng.htm
+         ... hahaha RUSSIANS are funny: http://funreports.com/ vs alright,
+         alright we get the message: http://shamedagain.blogspot.com ...
+         www.flybmi.com vs www.fly-bmi.com ... ah, the smell of it :
+         http://www.duke.edu/~bis/gravity/ ... but where's the wife auction?
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1313577170 ...
+         http://www.hyperdoc.net/ ... "WinZip comes with Windows XP"
+         says http://www.microsoft.com/windowsxp/pro/downloads/bliss.asp :
+         that'll be news to Nico Mak of Winzip Corp... P&P = about UKP229?
+         http://www.kodak.co.uk/UK/en/digital/dx3700offerStatement.shtml
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> in a refreshing change from all those WW2 documentaries,
+         TIMEWATCH examines a brutal US massacre of civilians in KILL
+         'EM ALL: AMERICAN WAR CRIMES IN KOREA (9pm, Fri, BBC2)... NTK
+         contributor Alan Connor seemed as surprised as we were to find
+         his book club spoof "The Pooters" in tonight's COMEDY LAB
+         (11.55pm, Fri, C4)... you can enjoy SCANNER COP (1am, Fri, C4)
+         without having seen previous straight-to-video sequels
+         "Scanners II: The New Order" and "Scanners III: The Takeover"
+         ... and, all together now, "I am wanking as I write this" -
+         Anthony Hopkins in THE REMAINS OF THE DAY (1.55pm, Sat, ITV):
+         http://homepage.ntlworld.com/david.patrick/hopkins.html ...
+         Saturday is quirky cameo-packed indie curio night on BBC2,
+         with lame Catherine McCormack romcom THIS YEAR'S LOVE (9pm),
+         sleepy Southern Altman yawn COOKIE'S FORTUNE (10.45pm), and
+         overrated Linklater student-spanking frenzy DAZED AND CONFUSED
+         (12.35am)... though C5's line-up is looking "murderously" good
+         with new runs of US imports CSI (9pm, Sat, C5) plus LAW AND
+         ORDER (10pm, Sat, C5)... NTK's "Dave Green" predicts mild t-
+         shirt product placement during the games reviews in low-budget
+         double-bill gadget show DON'T READ THE MANUAL (12noon, Sun, UK
+         Horizons)... James Bond knock-off JACKIE CHAN'S FIRST STRIKE
+         (9pm, Sun, C5) is "a disappointing end to the Police Story
+         series", but surely an improvement on Robin Williams CGI
+         afterlife odyssey WHAT DREAMS MAY COME (10pm, Sun, C4), or
+         indeed Kevin Costner's class tourism epic DANCES WITH WOLVES
+         (10pm, Mon, C4)... while C5 sticks to what it knows best with
+         Rutger Hauer terrorist Olympiad BLAST (9pm, Mon, C5)... hot on
+         the heels of last October's "Gas Attack", SMALLPOX 2002 (9pm,
+         Tue, BBC2) provides another handy how-to guide to creating a
+         bioweapon epidemic... Mel Gibson remakes "Point Blank" in
+         PAYBACK (9pm, Tue, C5)... ROBOCOP 3 is on again (10.30pm, Tue,
+         ITV)... M*A*S*H: THE MOVIE (11.35pm, Tue, BBC1) isn't as good
+         as the TV series... and new late-night comedy series THE
+         ESTATE AGENTS (11.05pm, Thu, C4) is - thank god - yet another
+         sitcom set in the workplace...
+
+         FILM>> probably the less you know about it, the more you'll
+         get out of refreshingly surprising Denzel Washington/ Ethan
+         Hawke pseudo-Shakespearean bent-cop ghetto-fable TRAINING DAY
+         ( http://www.cndb.com/movie.html?title=Training+Day : you do
+         actually get a great shot of [Eva Mendes'] breasts and can
+         even pretty clearly see her lower area)... other than that,
+         the Farrelly brothers continue to plough their increasingly
+         well-worn bad-taste feel-good furrow with Gwyneth Paltrow,
+         Jack Black, Jason "George from Seinfeld" Alexander and Laura
+         "TV Pizza" Kightlinger in fatty schmaltz-fest SHALLOW HAL
+         ( http://www.capalert.com/capreports/shallowhal.htm :
+         equations in the CAP analysis model used to calculate the
+         Sex/Homosexuality score had to be modified to accommodate
+         overflow; toilet humor, multiple; such a theme [that inner
+         beauty is more valuable than physical appearance] could be a
+         positive influence if it were not saturated in morally
+         extortionistic sexual and impudence/arrogance influences)...
+         Sly Stallone and Dina Meyer blunder into mysteriously
+         unreleased-in-the-US sub-"The Thing" containment drama hunt-
+         em-up D-TOX (imdb: original title "Eye See You")... or it's
+         Robert Altman, Jeremy "The Net" Northam, and Stephen Fry -
+         together at last! - in period murder mystery GOSFORD PARK
+         ( http://www.screenit.com/movies/2001/gosford_park.html : we
+         see [Kelly "Trainspotting" Macdonald's] bare back as she
+         bathes; [Emily Watson] shows some cleavage as she bends over
+         in a slip; [Ryan Phillippe] asks [Kristin Scott Thomas] if she
+         needs company and we then see him trying to undo her dress.
+         It's implied that they fool around)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 http://groups.google.com/groups?q=baen+mocks
+               "NTK mocks everyone, what makes you so special?"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,264 @@
+
+ _   _ _____ _  __               23/05/97       NEED TO KNOW NOW
+| \ | |_   _| |/ /   _ __   _____      __ o tries to be the premier
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o source of UK data on the
+| |\  | | | | . \   | | | | (_) \ V  V /  o infotyphoon sweeping us all:
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o         IT FAILS!
+
+
+         "I wrote PGP for human rights!"
+                                  - PHIL ZIMMERMANN, London, 19/5/97
+
+         "The Chaos Computer Club's credit hacking program is a
+         crime against humanity!"
+                                       - KIM POLESE, Oxford, 19/5/97
+
+                        old net, new net: slight differences evident
+
+
+                               >> HARD NEWS <<
+                              bitter aftertaste
+
+         NETSCAPE inched back ahead of MICROSOFT this week by
+         releasing a beta of NETCASTER - software that lets Netscape
+         users subscribe to (stop me if you've heard this) "channels
+         of information that appear on your desktop". Similar push
+         media support is due in the final version of Microsoft's
+         Internet Explorer 4.0 - but that's not out yet. Netscape's
+         standard for creating the new channels is also closer to
+         standard HTML programming than Microsoft's planned CDF
+         format. Hoorah for the plucky underdog of a $3 billion
+         software company!
+
+         The BBC announced THE BEEB, an online consumer service
+         produced with ICL Fujitsu. The service will initially
+         consist of a set of branded sites (like www.topgear.com),
+         with an Internet access package a possibility later in the
+         year (like when people work out how to make money out of
+         it). The service is funded by ICL, rather than the license
+         fee. Software will be available for the BBC Model 'B' only.
+         That's our little joke.
+         http://www.beeb.com
+
+         AMIGA TECHNOLOGIES simply refuse to die, having confirmed a
+         full buy-out by GATEWAY 2000 at last weekend's World Of
+         Amiga show in Hammersmith. The cow-loving PC maker has not
+         yet revealed its plans for the elegant but elderly Motorola
+         680x0-based architecture; pundits reckon it'd make a lovely
+         sub-$200 set-top box, though that seems likely to
+         disappoint the large, mainly European user base of
+         dedicated hobbyists and Atari ST-haters.
+         http://www.amiga.de              Mmm, _.de_ domain. *Sexy*.
+
+         In other retro-platform news: Who will stand up to STEVE
+         JOBS at APPLE? Maybe only Apple's other co-founder and
+         Yoda-figure, STEVE WOZNIAK. The Great Woz came out fiercely
+         pro-Newton in a MacAddict interview, published just as Jobs
+         was announcing he wanted to flog the PDA off. Only thing
+         they got right, says Woz; "I don't want the little scribble
+         thing." says Jobs. Uh-uh. Two guys enter the garage - one
+         guy leaves.
+         http://www.macaddict.com/
+
+         Monday's CRYPTOGRAPHY CONFERENCE at the LSE went down a
+         storm: PHIL ZIMMERMANN confessed to having helped South
+         American freedom fighters use his Pretty Good Privacy
+         program, a criminal act under US law. Cambridge
+         University's dour ROSS ANDERSON efficiently shot holes in
+         the Department of Trade and Industry's proposed Trusted
+         Third Parties system: these trusted parties are likely to
+          be banks and telecom companies, both of which have *awful*
+         records in admitting security breaches (phantom
+         withdrawals? 'Beige box' hacking of residential phone
+         lines, anyone?). And WHIT DIFFIE, General-Custer-resembling
+         inventor of public-key cryptography, said why he thought
+         the legislation was *unnecessary* as well as dangerous.
+         Have no idea what this is about? It might be worth your
+         while finding out at:
+         http://www.privacy.org/pi/conference/dti/
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         Woman marries woman, pretending to be man - judge blames
+         Internet... In-depth PC ZONE survey shows GAMERS to be in
+         late twenties, live alone or with parents, male... INTERNIC
+         suspends domain of own parent company... DTI holds Silicon
+         Valley conference: no-one comes... survey says INTERNET
+         SHOPPING only second-worst technology in the world...
+         Kasparov accuses DEEP BLUE of "cheating" - what'd it do,
+         swap the pieces when he wasn't looking?... June/July issue
+         of BLENDER CD-ROM is the last... senior APPLE exec quits,
+         company "will eliminate his position"...
+
+
+                                >> CULTURE <<
+                           we reach for our remote
+
+         It's battle of the big-beat outdoor gigs this weekend with
+         Brighton's ESSENTIAL MUSIC FESTIVAL (Chemical Bros, The
+         Orb, Future Sound Of London - via ISDN) up against Luton's
+         TRIBAL GATHERING (Orbital, Daft Punk, and "at least two
+         songs" from Kraftwerk). Advance info on UK tech-community
+         attendance suggests both may suffer due to unfortunate date
+         clash with birthday picnic of PC Magazine's RUPERT
+         GOODWINS...
+         http://www.universe.co.uk/tribal97/index.htm
+         http://www.essential-music.co.uk/
+
+         Those still traumatised by the whole Deep Blue thing should
+         certainly *not* attend Monday's gig by SERVOTRON (8pm,
+         Upstairs at The Garage, London N1), who "bring you a
+         warning of the rise of the robots in the form of popular
+         music!" But it's not all bad news: according to their FAQ,
+         "Will I be destroyed by Servotron? A. Yes, at some point
+         the human race as a whole will be ultimately erased.
+         However, a select group of humans will be needed to perform
+         menial functions for their mechanical overlords." And the
+         music? Like Kraftwerk vs The B52s, but in a good way.
+         http://pegasus.cc.ucf.edu/~mwm92401/servotron.html
+         http://www.bbc.co.uk/radio1/listeningbooth/digital.ram
+                    (Dave talks to the robots, from about 6 mins in)
+
+         KEN CAMPBELL, the godfather of Discordian theatre, is
+         performing a sequel to his 22-hour show THE WARP this
+         weekend, in an undisclosed location somewhere in East
+         London. Ken, whose dramatisation of the ILLUMINATI trilogy
+         included the first simulated oral sex act to be publically
+         witnessed by minor royalty, says "Seekers will know where
+         to find me." They could do worse than mail fnord@spesh.com
+         and promise to subscribe to ntk-now for the next 23 years.
+
+         Old news, but not widely known: for the last six weeks PAUL
+         WATSON, co-founder of GREENPEACE and now president of the
+         direct-action Sea Shepherd Conservation Society, is being
+         held by Dutch police, awaiting extradition to Norway. Many
+         supporters are concerned for his safety in that fiercely
+         pro-whaling country. The "Free Paul Watson!" campaign is:
+          http://www.seashepherd.org/
+
+         And if you prefer your action a little more direct,
+         ACTIVISTS protesting MANCHESTER AIRPORT's SECOND RUNWAY are
+         expecting an eviction this weekend - as front-page coverage
+         in the Guardian suggests. 0161 834 8221 is the protester's
+         technically supportive hotline.
+
+
+
+
+                                >> TRACKING <<
+           Ten metres, five metres... they're in the room with us!
+
+         Updates this week to the NEWS AND MAIL component of
+         Microsoft's Internet Explorer. You can now read and send
+         HTML mail, and use LDAP, a search system that for every
+         e-mail address you're looking for locates seventy other
+         people with the same name. Also included is a useful and
+         maliciously irreversible 'upgrader' (converter) for
+         Netscape Mail and Eudora users. Assimilation now taking
+         place at:
+         http://www.microsoft.com/ie/imn/ldap.htm
+
+         There's a new version of MIRABILIS ICQ, the sneakily
+         successful program for spotting when your friends are
+         online and then pestering them with chat requests.
+         Fantastically irritating if you're using a modem, a godsend
+         if you're on a direct line and have no friends in your
+         office. The new version contains features like "it works
+         better". ICQ - the distributed ciggy break, is at:
+         http://www.mirabilis.com                    Our uid: 338623
+
+         Wired Ventures (whom we hate) have announced V5.03 of its
+         brand-subscription push-channel physical artefact, WIRED
+         MAGAZINE. Good apparently - especially the charity article
+         on how to save Apple, and more movie F/X designers. Oh, and
+         some nutters who think they can predict 500 years into the
+         future. They're a madcap bunch out there.
+         http://wwww.wired.com/wired/5.06/
+                                            - count the 'W's in that
+
+
+
+                                >> MEMEPOOL <<
+                 well, technically the disinfectant footbath
+
+         the return of ZILOG... the re-return of STEVE BOWBRICK...
+         alternate NICOTINE delivery systems... the rise of the
+         THIRD BROWSER... promotional DOG-TAGS... I18N = ANSI
+         standard abbrev for "INTERNATIONALISATION" (work it out)...
+         ANTI-SPAM spamming... baggy coding... the Pink Floyd/
+         Wizard of Oz connection... obscure top-level domains are
+         the new rare stamps... feeding emotional terms ( "love",
+         "father", "woman", "Rossetto") into ALTAVISTA'S
+         LIVETOPICS... COMPUSERVE buy Microsoft software: MSN go
+         after Compuserve customers... 51% of US net users say they
+         would give up TV rather than PC...
+
+
+                               >> MO' MEDIA <<
+                             eat your television
+
+         TV HIGHLIGHTS: C4 pitches up its zany SITCOM WEEKEND (from
+         7pm, Sat, C4), with wry tributes and repeats of various
+         imported curiosities... BBC2 hits back with KUNG FU NIGHT
+         (9.10pm, Sat, BBC2), including spectacular Bruce Lee
+         showcaser ENTER THE DRAGON (10pm, Sat, BBC2)... the Bank
+         Holiday HERE AND NOW (7.30pm, Mon, BBC1) is an
+          investigative special into - wait for it - The Spice
+         Girls... C5 persists in showing an important collective
+         work appallingly out of sequence with REVENGE OF THE NERDS
+         IV: NERDS IN LOVE (9pm, Mon, C5)... out of nowhere comes a
+         repeat of season two of THE X-FILES (10.50pm, Tue and
+         10.25pm, Wed, BBC1)... and a new series of REPUTATIONS
+         (9pm, Wed, BBC2) sharpens its hatchet on philosophy poster-
+         boy Bertrand Russell - apparently "the logic and reason of
+         his public life were in sharp contrast to a private world
+         of passion, jealousy and marital disaster"...
+
+         MOVIES: BEAVIS AND BUTTHEAD DO AMERICA (snickering cartoon
+         caricatures) is exactly what you'd expect: no music videos,
+         but plenty of single-entendres and exposed American
+         underbelly... SPACE TRUCKERS (Dennis Hopper, Stephen Dorff)
+         appears to be a mix between Red Dwarf and Aliens - we're
+         not sure that's a recommendation... and low-rent romantic
+         comedy is the order of the day in LOVE AND OTHER
+         CATASTROPHES (no-one you've heard of), like an Australian
+         Brothers McMullen/sort of whimsical movie-buffs' Friends...
+
+         MAGAZINES: Two newies due this month: REVOLUT!ON is the Noo
+         Medja magazine from those nice CAMPAIGN people: one for the
+         *snappily-dressed* suits, we think. For the plebs, CONNECT
+         is from Future publishing, and will be a bunch of URLs with
+         some lifestyle articles wrapped around it. We wish them
+         success: more success, perhaps, than COMPUTER LIFE, whose
+         oxymoronic demise is rumoured in ZIFF-DAVIS despatches.
+
+
+                                   >> <<
+
+         As you might have read in i-D, MICHELLE STAVINROU died last
+         month. Mark Dz and Eva Pascoe are working on a small Web
+         page to her memory. For someone so passionate about this
+         culture, little of Michelle's writing exists on-line. If
+         you have access to any of her work, or wish to contribute
+         your recollections, you can contact Mark at
+         <markdz@intervid.co.uk>. Bye, Michelle.
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week that you can read
+   on Friday afternoon or print out and then take home if you have nothing
+        better to do. It is compiled by NTK from stuff they get sent.
+            It is registered at the Post Office as "unnecessary".
+
+                           http://www.spesh.com/ntk
+      Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body.
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+    NTKnow is helped by VIRGIN MEDIA and VENUS INTERNET. They worry about
+                      us, but we don't worry about them.
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.

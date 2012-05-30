@@ -1,0 +1,227 @@
+
+ _   _ _____ _  __               20/06/97       NEED TO KNOW NOW
+| \ | |_   _| |/ /   _ __   _____      __ o A week's worth of news,
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o views and mini-Yahoos,
+| |\  | | | | . \   | | | | (_) \ V  V /  o for UK geeks and their
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o so-called friends...
+
+
+         "It's potent. There's instant gratification. The normalcies
+         for time and space disappear."
+                - psychologist DAVID GREENFIELD on Net addiction, AP
+                   the definition of 'instant' being the first to go
+
+
+                               >> HARD NEWS <<
+                                softly spoken
+
+         Brit-based PDA old-schoolers PSION have popped the SERIES 5
+         palmtop out of their sleeves. It costs from 400 to 500UKP,
+         with an almost full-action keyboard, stylus-sensitive
+         screen, and up to 8 meg RAM into about the same size as the
+         now-discounted Series 3. Early impressions are broadly
+         positive (big apps compared to PalmPilots, plug-and-go PC
+         connectivity), let down by a couple of indicators (no Mac
+         cables, no Net software) that maybe they rushed it out to
+         beat the Windows CE machines to market.
+         http://www.psion.com
+                   - ask when they'll port Speccy Horace Goes Skiing
+
+         IRIDIUM LLC, the bazillion low-orbit satellites zooming
+         around in space communication system, announced details of
+         its forthcoming service. The 66 satellite network will
+         provide global mobile communications by 1998: receivers
+         will cost $2000-$3000 with single channel data speeds at
+         2400Kbps. Sound dull? That must be why investors Motorola
+         immediately announced details of the new CELESTRI system, a
+         much more exciting, 63 satellite, $750 receiver, super
+         high-speed broadbandy kind of Internet thang. Competitors
+         Teledesic say Motorola is pre-announcing to spread Fear
+         Uncertainty and Doubt against Teledesic's own whizz-bang
+         288 satellite monster, which won't boot up until 2002.
+         Teledesic is part-owned by Bill Gates, so they know anti-
+         competitive behaviour when they see it.
+         http://www.ee.surrey.ac.uk/Personal/L.Wood/constellations/
+         http://www.sjmercury.com/news/breaking/docs/071303.htm
+         - We only run these stories because of the trippy animations
+
+         USR announced the patch codes that allows its X2 standard
+         56Kbps modems to operate in the UK. Elsewhere,
+         manufacturers that use the other 56Kbps standard, K56flex,
+         have begun to undercut one another in an gentlemanly price
+         war to the death. Upshot? Wait until all parties nuke one
+         another, then buy a software modem (cool tech, flexible
+         another to emulate the winner, and gonna be dirt cheap.
+         They say.)
+         http://x2.usr.co.uk             we get confused - which one
+         http://www.k56flex.com                   has Woz on Sky TV?
+
+         The oxymoronic AOL UK has switched to fixed-rate charges.
+         For #17 a month, AOLers can now spend as much time as they
+         want doing ... whatever it is they do. AOL has also
+         announced a membership of 200,000 users in the UK, although
+         where they all are beats us. Why aren't they 'me too'ing in
+         uk.net, like the rest of the online service newbies?
+         http://www.aol.com                       churn, baby, churn
+
+                                >> ANTI-NEWS <<
+                            news we knew you knew
+
+         woman dumps own kids for Net... INTERNET TODAY to close...
+         Electronic Commerce On The Threshold of Genuine
+         Productivity Gains, say LOTUS... MacArthur grants reveals
+         Net legal advisor is "genius"... ASA rules ad which asked
+         "ever received oral sex from someone with braces?" not
+         distasteful to readers of Escape magazine... Jim Clark
+         tells Europeans "Bill Gates wants everything"... PIPEX
+         Webmail hacked... new European cyberphilosophy analysis
+         titled "De Vagina is De Baas op Internet"... DES
+         insecure... BBC runs a two week series called "Computers
+         Don't Bite", then show "Westworld" and "Demon Seed" double-
+         bill...
+
+
+                                >> CULTURE <<
+                          the petri dish you live in
+
+         Remember that funny OSWALD/JACK RUBY picture where they're
+         all playing in a band, and you put on your desktop and
+         laughed at every day until you noticed how much it slowed
+         down your machine and then you deleted it? Well, to
+         celebrate its popularity, the creator of the GIF is
+         launching an Essay Contest and Call for Papers. From cult
+         to sociological treatise in two months: snappy!
+         http://www.tw-zone.com/cosmo/contest.html
+
+         The folk at geek house WWW.THEHOUSE.ORG are conducting a
+         more practical study. They're developing a pattern-
+         recognition system for spam, and they need your help.
+         Redirect any spam you receive to their program's mail
+         address, and help it to learn wisely and well. To learn how
+         to help, go to the instructions at:
+         http://www.spesh.com/ntk/spam.html            
+   
+         "How can you 'kill' that which does not 'live'?" argue SCI,
+         whose ultraviolent PC death-racer CARMAGEDDON hits the
+         streets next week. Following concerns voiced in the
+         tabloids, it now encourages you to run over "zombies"
+         (which spurt green ooze) rather than the red-blooded human
+         pedestrians featured in preview versions of the game. The
+         change seems unlikely to affect the title's high review
+         scores, and continues a trend of replacing human enemies
+         with either robots (as in Sega's shoot-'em-up Gunblade) or
+         the undead (Sega's House Of The Dead).
+         http://www.sci.co.uk/      - where's the catharsis in that?
+
+
+                                >> TRACKING <<
+                              good bot - fetch!
+
+         The infamous personal encryption program PRETTY GOOD
+         PRIVACY has gone all business-like and professional with
+         version 5.0. Features include integration with Eudora,
+         keyserver utilities, and a nice, humanly-comprehensible
+         front end. Of course, full power PGP is still technically a
+         munition, and banned from being disseminated outside the
+         US, so ... but hold on! What's on this European site?
+         ftp://ftp.hacktic.nl/pub/replay/pub/incoming/PGP50free.exe
+                                            - ohh, how *could* they?
+         http://www.ifi.uio.no/pgp/pgp50.shtml
+         - guys OCRing the 6000 pages of source to do it legally. Wow.
+
+         R-r-r-ree_ree_ree_skkkkrttch---rea-ah-ah-ah-hah-ah-ah-a-h-
+         re-ahhhhhhl-skrttch---R---ealMedia version 4.0 is out. You
+         can skrttchchc-do-do-do-do-do-download it
+         attatatatatattatat ------ at this addr -
+         http://www.real.com/40/f/index.html                   -ess.
+
+         The RADIO TIMES is on the Net, although the 'easy to join'
+         registration system seems to be about par with join the
+         Bavarian Illuminati. Do you think that if we don't
+         register, they come round in little cookie-detector vans?
+         http://www.radiotimes.beeb.com                oh very funny
+
+
+                                >> MEMEPOOL <<
+                 well, technically the disinfectant footbath
+
+         "have good ventilation socks"... the sci-fi boom goes
+         bust... still got your Digicash?... has US Robotics ever
+         actually made a robot?... digeradoes... 'ladyhacking'...
+         the Curse of Winder hits www.minds.com... Stupid Datamining
+         Tricks... so what *did* happen to Nick Rosen?... If
+         alcopops are aimed at kids - just who is the target market
+         for www.wankerbeer.com? ... How to join LineOne: First,
+         download your 6MB ActiveX component...
+
+
+                               >> MO' MEDIA <<
+                             eat your television
+
+         TV >> Jonathan Ross's UFO variety special THE ALIENS ARE
+         COMING (10.05pm, Sat, ITV) launches both ITV's Into The
+         Unknown season, and a cross-channel celebration of vivid
+         body horror, including the 1977 version of THE ISLAND OF DR
+         MOREAU (11.05pm, Sat, ITV), THE FLY/SOCIETY double bill
+         (from 10.05pm, Sun, BBC2), the frankly underrated Se7en
+         tryout ALIEN 3 (10.40pm, Mon, ITV), John Carpenter's
+         triumphant arctic F/X fest THE THING (11.40pm, Tue, ITV),
+         and, er, the childishly disappointing GHOSTBUSTERS 2
+         (7.55pm, Sat, ITV)... other sci-fi highpoints include TB-
+         ridden Manchester-set dysto-drama POLICE 2020 ( Sun, ITV),
+         and next weekend's terrestrial debut of Silence-Of-The-X-
+         Files series MILLENNIUM - not to be confused with the
+         rubbish time-travel/plane-crash movie of the same name
+         that's on BBC1 on Tue, presumably being run as a
+         "spoiler"... back in the post-cyberpunk present, Carol
+         Vorderman (the real-life Sarah Connor?) continues her one-
+         woman war on technology in TESTING TESTING (8.30pm, Fri,
+         ITV) and new Tomorrow's World spin-off HOT GADGETS (7.30pm,
+         Wed, BBC1)... multinationals (well, BP, mainly) go to war
+         in WORLD IN ACTION (8pm, Mon, ITV)... and spoof
+         rockumentary 500 BUS STOPS (11.15pm, Tue, BBC2) sounds like
+         a rather long half hour in the company of John Shuttleworth
+         (think Harry Hill with a Casio)...
+
+         MOVIES >> Even if you've never heard of foul-mouthed uber-
+         geek Howard Stern, it's probably worth going to shock-jock
+         biopic PRIVATE PARTS simply to salute him for his on-air
+         savaging of rank amateur Chris Evans... even Brad Pitt
+         didn't much like simplistic IRA drama THE DEVIL'S OWN (Brad
+         Pitt, Harrison Ford)...  while INTIMATE RELATIONS (Julie
+         Walters, Rupert Graves) is one for all you fans of British
+         tragedies of sexual obsession set in the 1950s...
+
+         MAGS >> The August issue of US satire mag SPY (about UKP2
+         from most big newsagents, also branches of Tower Records)
+         has Gillian Anderson on the front, and a spot-on manifesto
+         of "pulp science" inside - "while knowing the truth can be
+         unusually gratifying, having a *theory* is a more than
+         passable alternative"... back in the UK, Fortean spin-off
+         BIZARRE struggles on with a "special sex issue" (not
+         usually a good sign?)... Britain's Factsheet 5, BYPASS #7
+          arrives on our doorstep, and we like: over 500 zines
+         reviewed by non-lunatics: #1.20 from Bypass, PO Box 148,
+         Hove, BN3 3DQ... check out PLAYSTATION PLUS for its article
+         on how to "chip" your PSX - maybe they're planning on
+         launching "wArEz d00dZ m0nThLy"...
+
+
+                              >> SMALL PRINT <<
+
+   Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "morbid".
+
+                           http://www.spesh.com/ntk
+      Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body.
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+    NTKnow is helped by VIRGIN MEDIA and VENUS INTERNET. They worry about
+                      us, but we don't worry about them.
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+

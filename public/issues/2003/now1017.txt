@@ -1,0 +1,285 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-10-17_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "We start with a package of MS Office training," says Mahmood 
+         Zahir, information and communication technology programme 
+         assistant for the [Afghanistan UN Development Programme], 
+        "where we teach our students an introduction to computers - 
+         Windows XP - and then Word, Excel, PowerPoint..."
+        http://www.guardian.co.uk/online/story/0,3605,1063619,00.html
+         - for the love of God: HAVEN'T THESE PEOPLE SUFFERED ENOUGH?
+
+
+                               >> HARD NEWS <<
+                                stifling boos
+
+         DAVID BLAINE will be gone, but if you're in London on
+         Wednesday, there'll still be a chance to taunt and bait
+         resigned-looking men in cages. Yes, it's SCRAMBLING FOR
+         SAFETY 7, the ancient Roman entertainment in which civil
+         servants answer heavily-sarcastic questions about privacy,
+         security and crypto in front of a live and gently livid
+         audience. This year, we'll be mainly shaking our fists at
+         those RIP surveillance standing orders. Simon Watkin, the
+         only Home Office official ever to be accused of trolling,
+         will defend his country's honour, and then there'll be a
+         parade of those who'll be wielding the new surveillance
+         powers, including a Trading Standards Officer, a man from
+         the Dept of Work and Pensions, and somebody from the police
+         "(invited)". And if you can't make it to that, stay in your
+         room and write a hundred lines. Preferably to your MP, as
+         that bloody software patents thing is dragging on. (This
+         will be the last push but one, if anyone is counting.)
+         http://www.fipr.org/sfs7.html
+                                      - Who Listens To The Listeners?
+         http://www.ffii.org.uk/council.html
+              - "Write to your MP - or the software industry gets it"
+
+         In between the sex orgies, the guzzling of live bunnies, and
+         the dance around the pyre of a giant Dave-Winer shaped "Wiki
+         Man" (joke (c) Andrew Orlowski, cheers kthx), it was a
+         weekend of high-achievement dossing at the notorious
+         O'REILLY FOO CAMP. Bram "BitTorrent" Cohen, having solved
+         content distribution, announced he was now tackling other
+         simple problems: reputation systems, version control and
+         perhaps after lunch the NP-complete set. Reserving enough
+         brainpower for this unfortunately involved forgetting his
+         own birthday, which unbeknownst to him, was on Sunday.
+         Similar problems beleaguered Gnome wunderkind Nat Friedman,
+         who almost absent-mindedly flew to the wrong city.
+         Elsewhere on the stumbling edge, the geolocation folk led
+         by Joshua "Memepool" Schachter and the RFID/barcodians led
+         by MSFTian Marc Smith, struggled to either locate
+         or track good solutions to their biggest bugbear - the
+         hoarding of databases like the UPC and the Ordnance Survey.
+         The WiFi-folk, glad to find a venue where they weren't asked
+         to fall off roofs while troubleshooting everyone's
+         connectivity, mainly got drunk. Above it all, there was a
+         strong sense of handing-off-the-torch across the
+         generations. Although with Bob "Visicalc" Frankston
+         outtalking everyone 4:1, Kevin Kelly compelling gentle Brian
+         Behlendorf to teach him how to DJ, and Jaron Lanier - yes,
+         Jaron "bloody" Lanier - somehow coming from behind to outdo
+         everyone with an avatar system that dynamically aped your
+         every facial expression via a Webcam... it wasn't entirely
+         clear which direction that torch was going.
+         http://www.advogato.org/person/Bram/diary.html?start=96
+                                         - also solving energy crisis
+         http://www.nat.org/2003/october/#10-October-2003
+                  - unstoppable! (even when going in wrong direction)
+         http://www.hyperorg.com/blogger/mtarchive/002061.html
+               - barcodes, sweatshops and an 11K reader for phonecams
+         http://www.oblomovka.com/entries/2003/10/13#1066058820
+                - now *we* would never make fun of "private" webpages
+
+         Continuing last week's consumer-rights crusade over the anti-
+         Opera/ Mozilla discrimination of MARKSANDSPENCER.COM, NTK 
+         reader LISA notes "if you use Mozilla Firebird with the user 
+         agent switcher plugin (has to be downloaded/installed from the 
+         plugins page) set to Internet Explorer, the site seems to work 
+         perfectly. Couldn't get JobCentre to work with a falsified 
+         user agent though". Which offers little consolation to fellow 
+         masked Mozilla user PETE, who has been frustrated by M&S's 
+         policy on no less than two separate Christmas shopping 
+         expeditions over successive years, adding "There has, by the 
+         way, been a Moz evangelism bug open on this for ages". That's 
+         where you can find Steve Wind-Mozley, "Channel Developer" of 
+         the store's E-commerce Team, promising that Mozilla will be 
+         unblocked "as soon as [he has] finished pressure testing the 
+         new code" - a claim he made on Feb 25 of this year. Steve, 
+         we know there's a myth that Mozilla users can go a long time 
+         without changing their underwear - but is it really sensible 
+         to allow them to wait nearly 8 months (and counting) before 
+         permitting them to buy any new ones?
+         http://www.marksandspencer.com/disallowed.html
+               - or browsers *pretending* to be IE5, Netscape 6.1 etc
+         http://bugzilla.mozilla.org/show_bug.cgi?id=164280
+           - not quite the "no quibble" returns policy we'd hoped for
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         and he's not the only one being vigilant in that department: 
+         http://www.ntk.net/2003/10/17/dohcum.gif ... dog eats Madonna 
+         - not news, but: http://www.ntk.net/2003/10/17/dohdog.gif ... 
+         from the folks who bought you that "4 gallon stainless steel 
+         urn": http://www.ntk.net/2003/10/10/dohdeal.gif ... because 
+         Glasgow is - the new Devon: http://www.glasgowonly.co.uk/ ... 
+         celebrities' life-force simply "too strong" for mere mortals: 
+         http://www.ntk.net/2003/09/26/dohrob.gif ... and has Robbie 
+         Williams got himself some sort of "Dorian Gray" thing going 
+         on here?: http://www.dotmusic.com/artists/RobbieWilliams/ ... 
+         contentious Euro 2004 draw pits Welshman against Welshman: 
+         http://www.ntk.net/2003/10/17/dohwales.gif , Holland "riven by 
+         dissent": http://www.ntk.net/2003/10/17/dohdutch.gif ... and 
+         there's nothing wrong with hypocrisy per se - it's just when 
+         other people do it: http://www.ntk.net/2003/10/17/dohhypo.gif 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         This weekend's LOEBNER GRAND PRIZE CONTEST 2003 - offering 
+         $100,000 to "the first computer program whose conversation is 
+         indistinguishable from a human's" - looks as safe as ever 
+         (Saturday afternoon, 2003-10-18, Continuing Education Centre, 
+         University of Surrey, Guildford, not open to the human public 
+         from the looks of things), considering that we caught out the 
+         online version of UK finalist Jabberwacky in about 6 exchanges 
+         (JABBERWACKY: How are you? HUMAN: Bit under the weather to be 
+         honest. JABBERWACKY: Oh I see. Why did you say it?). Further 
+         examples of unnatural intelligence should also be on show at 
+         next Wed's DORKBOT LONDON (7pm, Wed 2003-10-22, State 51, 8 
+         Rhoda Street, London E2, free), featuring NTK retro guru James 
+         Larsson's "One Hundred And One (Mainly Dangerous) Uses For An 
+         Old Monitor" - or indeed this weekend's cash-for-autographs 
+         fest LONDON EXPO (11am-5pm, ExCeL exhibition centre, Royal 
+         Victoria Dock, London E16, UKP6), where the celebs range from 
+         Anya out of "Buffy The Vampire Slayer" to Boomer from out of
+         "Battlestar Galactica" and - of course - Wicket the Ewok. 
+         http://www.surrey.ac.uk/dwrc/loebner/
+                        - vs http://www.jabberwacky.com/ (literally!)
+         http://dorkbot.org/dorkbotlondon/
+        - "disparate energies, possibilities and connections" alright
+         http://scifishows.com/londonexpo/home/guests.shtml
+                           - "NOTEABLE" notably misspelled throughout 
+      http://www.miniaturegolfer.com/world_crazy_golf_championships.html
+         - also this weekend: World Crazy Golf Championship, Hastings
+         http://www.mcdonalds.co.uk/offers/asp/OF_OpenDoors.asp
+         - another excuse to take the kids to McDonald's at half-term
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         When a Mac joins your network, it's always fun to guess what
+         will announce its shareable resources first: OS X's built-in
+         zeroconf/rendezvous protocol, or its braying human owner,
+         showing off again. As printers, PVRs and, yea, Windows
+         iTunes start implementing their own support for the (we
+         grudgingly concede) cool standard for network configuration
+         and general high-level LAN chattiness, it behooves us all to
+         peer a bit more deeply into this, the Appletalk of the
+         future. Step forward, HOWL, a free toolkit for zeroconf
+         hacking on Windows, Linux and BSD. It's barebones, but good
+         enough to start building your own utilities. There's a CLI
+         and sample code for the Unixies, and a IE plugin browser for
+         Windows. Worth messing around with for the sheer
+         intellectual thrill, to toy with new application ideas, or
+         the noble pursuit of making rude words appear in the Mac
+         guy's Rendezvous bookmark list.
+         http://www.swampwolf.com/products/howl/
+                           - also your chance to annoy Microsoft too!
+     http://radio.weblogs.com/0105002/categories/technical/2003/01/01.html
+          - and an implementation in Python to annoy anyone else left
+         http://www.apple.com/macosx/features/rendezvous/
+            - in the unlikely event that none of this makes any sense
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         Barefoot Doctor legs it, faced with barefaced skepticism: 
+         http://talk.guardian.co.uk/WebX?14@@.685e9480/4 ... first 
+         post!: http://www.ntk.net/2003/10/17/dohken.gif ... "Focused 
+         on advancing solutions that contribute to the welfare of the 
+         global community": http://www.ms.northropgrumman.com/home/ ... 
+         now featuring that "Extreme Computing" show-stopper "Calcium": 
+         http://db.bbc.co.uk/comedy/lookaroundyou/dvd.shtml ... calling 
+         the usability police - overextended metaphor in progress: 
+         http://www.dashxpress.co.uk/main.htm ... and if you thought 
+         Flash sites were bad, see the future of Shockwave interfaces: 
+         http://www.ulucube.com/ ... more SUN fun - no, you may not 
+         "provide, in any way, access to the HTML code for the link": 
+http://logos.sun.com/logosite.jsp?Category=third&Logo=get-java&Page=request
+         ... Danish for "I love you" apparently "not available": 
+       http://www.nypl.org/branch/central_units/d/f/language/danish.htm
+         - what is this Earth-emotion you non-Scandinavians call "love"?...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Clint Eastwood plays a grizzled past-it veteran whose 
+         crimes must remain UNFORGIVEN (9pm, Fri, C5) - a description 
+         which also applies to the BBC1's depressingly familiar "new" 
+         comedy lineup, comprising Jasper Carrott's uneasy disability-
+         com ALL ABOUT ME (8.30pm, Fri, BBC1) plus largely unnecessary 
+         continuations of ABSOLUTELY FABULOUS (9pm, Fri, BBC1) and HAVE 
+         I GOT NEWS FOR YOU (9.30pm, Fri, BBC1)... on a more positive 
+         note, there are tantalising glimpses of Larry David's standup 
+         in the pilot of CURB YOUR ENTHUSIASM (11.15pm, Fri, BBC4), 
+         leading into the first episode of season two (10.30pm, Tue & 
+         Fri, BBC4)... otherwise it's just filth, filth, filth in the 
+         form of 3-part jazz mag docu SEX EMPIRES (9pm, Sun, BBC2), the 
+         "graphic and explicit" PORNOGRAPHY: THE MUSICAL (10.40pm, Tue, 
+         C4), pseudo-educational slot SEX RULES (10.40pm, Wed, C4), 
+         plus a "search for teenagers' brightest business ideas" in 
+         BEDROOM BRITAIN (7.55pm, Mon-Thu, C4)... neat catchphrases, 
+         slightly too much other dialogue in Russell Crowe beat-'em-up 
+         GLADIATOR (9pm, Sun, C5) - annoyingly clashes with Radiophonic 
+         Workshop tribute ALCHEMISTS OF SOUND (9pm, Sun, BBC4), but 
+         that'll probably get a repeat... the CGI-and-sandals action 
+         continues in Roman reconstruction POMPEII - THE LAST DAY (9pm, 
+         Mon, BBC1)... and, just as everyone was genuinely losing 
+         interest, David Blaine emerges from his ABOVE THE BELOW (9pm, 
+         Mon, C4), intriguingly scheduled 2 hours before STEPHEN KING'S 
+         THINNER (11.15pm, Mon, C4)... "the best feature-length 'made 
+         for TV' series pilot since 'The Matrix'" remains our verdict 
+         on X-MEN (9pm, Wed, ITV)... the ever-increasing pollution of 
+         public and mental space is celebrated in THE ADS THAT CHANGED 
+         THE WORLD (9pm, Wed, C5)... and without spoiling the ending of 
+         EVERYMAN - DOES PRAYER WORK? (9pm, Thu, BBC2) - signs point to 
+         "no" http://www.suntimes.com/output/health/cst-nws-pray15.html ...
+         
+         FILM>> even occasional hints of Kevin O'Neill design fail to 
+         detract from the undiluted unwatchability of dire Alan Moore 
+         adaptation - and inadvertent argument *for* the indefinite 
+         extension of copyright - THE LEAGUE OF EXTRAORDINARY GENTLEMEN 
+         ( http://www.capalert.com/capreports/lxg.htm : ethereal beast 
+         goading the living; excusing piracy; lust for blood)... also 
+         adding to the usual half-term tedium: the gratuitous violence 
+         is tolerable, the interminable exposition and back-story less 
+         so in Tarantino-esque uneven retro pastiche KILL BILL: VOL 1 
+         ( http://www.screenit.com/movies/2003/kill_bill_vol1.html : 
+         [Uma Thurman] kills many without remorse in her vindictive 
+         spree; the term "Jap" is used in a derogatory fashion; Uma 
+         Thurman wears a midriff-revealing top)... while the producers 
+         of "The Adam And Joe Show" create a more overtly homoerotic 
+         celebration of kitsch in '90s death-clubber PARTY MONSTER 
+       ( http://www.cndb.com/movie.html?title=Party+Monster+%282003%29 :
+         Chloe Sevigny shows us her rump; [Macaulay Culkin] bares his 
+         ass in a peek-a-boo costume at a party)...
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+              "Slightly more deadpan in the original interview!"
+          http://www.guardian.co.uk/online/story/0,3605,1063370,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

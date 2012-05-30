@@ -1,0 +1,298 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____17/04/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+              "NT 5.0 will build on a proven system architecture and
+                incorporate tens of thousands of bug fixes from 4.0"
+                        - MICROSOFT on the not-quite-imminent new NT
+         while NT 6.0 will have *hundreds* of thousands of bug fixes!
+
+
+                               >> HARD NEWS <<
+                               hitting "snooze"
+
+         You're smart people: you can probably make more of this
+         than we can. Here are the clues. Murdoch's coalition for
+         the repeatedly delayed digital TV, BIB, announces they're
+         to be "Internet compatible".  Groups working on BIB content
+         are told to forget about all about the proprietary systems
+         in BIB's proposed set-top box (the one they've already
+         ordered a million of from Pace, Amstrad and others). Stick
+         to HTML, BIB say - even though HTML on that set-top boxes'
+         OpenTV system is a dog. Meanwhile, Microsoft's WebTV wing
+         suddenly loses interest in talking to any of BIB's
+         competitors. Then, we get dozens of tips that say little
+         else than "*cough* Microsoft *cough* NewsCorp". What can it
+         all mean?
+         http://www.webtv.net/
+                  - apart from another tough week for our solicitors
+         http://www.bib.co.uk/
+                            - this is getting silly now, guys. Guys?
+
+         It couldn't happen here (because it already happened last
+         week). As if to prove that whatever Europe does, the US can
+         do better, AT&T's entire frame relay network went up in a
+         "cloud" of smoke (clever comms joke, I know - cheers) this
+         Monday. That neatly excised much of Canada of the Internet
+         (see last week's "did anyone notice?" comment), and
+         destroyed every Americans' God-given right to bargain-hunt
+         for Easter eggs on their credit cards. The mess took the
+         long weekend to fix, and as of yet, AT&T aren't sure what
+         the problem was. They're currently blaming two Cisco
+         boxes - which, oddly, is exactly what our network people
+         say when *they* don't know what the hell is going on.
+         http://www.att.com/speeches/98/980414.maa.html
+                - love the way the operator calls the AT&T CEO "sir"
+         http://www.nwfusion.com/forum/att.html
+                      - "I lost 4 million!" "I couldn't buy coffee!"
+
+         Not a good Easter for the Intel bunnies, either. Profits
+         were announced down 27% to a measly $1.3billion, requiring
+         a ritual slaughter of 3,000 jobs. Their bargain basement
+         Pentium, Celeron, whose name unfortunately reminds many
+         less of "celerity", and more of "celery", was viewed as too
+         bland and weak even for poor people, and few PC makers will
+         use it. As part of their lawsuit with Intergraph (who have
+         been trying to put Intel Inside for allegedly forcing them
+         to hand over patent rights), a US district judge declared
+         Intel CPUs as "an essential facility" - like water, or air
+         - so Intel might have to give away the details of how to
+         make them. And, potentially most worrying of all, SGI have
+         entered into a "strategic parnership" with the chip
+         manufacturer. Hope whatever SGI has got isn't contagious...
+         http://www.findmail.com/listsaver/noframes/rre/792.html
+                       - smells like another open source story to us
+         http://www.sgi.com/vision/
+                            - behb by friend! Blease don't bun away!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         INTERFACE's "Dr Keyboard" advises readers to use PGP, but
+         warns that public key should be kept secret, and Fedexed
+         to the recipient, or maybe transmitted via a "secure ftp
+         site"... Thursday, AM: RICHARD "TREK WAR" BARRY "on
+         holiday" from Guardian Online... EMAP pull out of selling
+         banner advertising: Real Media take their place... Tower
+         Records place MUTE next to BBC LEARNING IS FUN and
+         2000AD... Steve Jobs said to measure stupidity in
+         "Gils"... FAST "pleasantly surprised" that 58% of 8 to 16
+         year olds claim they're not using illegal software: "They
+         weren't under any duress, so they probably were being
+         honest," says chief exec GEOFF WEBSTER... Thursday, PM:
+         RICHARD BARRY reappears at ZDNet UK, files a single two-
+         line story in which he manages to misspell the word
+         "Windows" (www.zdnet.co.uk/news/ns-4195.html)... PSYGNOSIS
+         Hangar Lane to close  ... access rights on DOWNING STREET
+         SITE set so only government officials can reach it... "Ask
+         for your salary to be paid by cash or cheque in January
+         2000; make sure you have enough cash, food, bottled water
+         and coal to last a few weeks," advises 7-day mag summary
+         THE WEEK... LIAM GALLAGHER on "The Lion, the Witch and the
+         Wardrobe" : "I love the idea of opening a cupboard door,
+         you step inside, there's a lion and you're being chased
+         through the snow." Cupboards full of snow, Liam?
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Bloody Antirom, bloody irational and bloody, bloody KOAN.
+         But it's not just familiar faces at the veteran LOVE BYTES
+         arts festival in Sheffield this weekend. In fact, there
+         appears to be quite a nice collection of new media artworks
+         taking form, including some intriguing observations on the
+         nature of tribality, a genuinely really good set of Web
+         postage stamps, and an appearance by the "Cult of the
+         Inserter Seat", who are attempting to "reverse the
+         trajectory of the ejector seat by pushing against the tide
+         of disembodiment in favour of re-inserting the body back
+         into the fridlock of the earth". Great fun, unless you're
+         planning on doing some quiet shopping in Sheffield city
+         centre this weekend. Bloody freaks.
+         http://www.lovebytes.org.uk/                bloody ALT tags
+         http://www.hypertribes.org.uk/              bloody football
+
+         Relax. It's still okay to like DOUGLAS COUPLAND, at least
+         around here. He's touring the UK promoting his new(ish)
+         book GIRLFRIEND IN A COMA, a Scooby-Doo-meets-Rip-Van-
+         Winkle-Meets-Douglas-Coupland-Still-Hanging-Out-With-
+         Michael-Stipe-Backstage-At-The-X-Files-Set book that is
+         better than his last one, but not as good as Microserfs.
+         You can meet, greet, and ask him really obscure stuff about
+         Michael in Books Etc, Charing Cross Road, London on Monday
+         20/4/98, 1900BST, or Tuesday 2000BST 21/4/98 at Cambridge
+         University at, we think, the Union. Wednesday 1900BST
+         22/4/98 sees him at Dillons in Newcastle upon Tyne, and on
+         Thursday 1900BST 23/4/98, he'll be hanging out at
+         Waterstones, Princes St, Edinburgh. And on Friday at
+         1900BST, he's going to be in Waterstone's Deansgate,
+         Manchester.
+         http://www.coupland.com/
+                              - so much to answer for. Oho-wo-ho-oh.
+
+
+                                >> TRACKING <<
+          you've turned off your targetting computer - what's wrong?
+
+         I'm an open format! No, I'M an open format! As Adobe and
+         Macromedia race to give their proprietary vector file
+         formats away, the release of a new version of the
+         MACROMEDIA FLASH editor has been somewhat missed. It's
+         looking fairly good, with some charming morphing and
+         transparency features, some stupid animated button
+         bloatlets, and a slightly better drawing tools. And it's in
+         beta, so therefore it is free!
+         http://www.flash.com/
+                                                 - Gordon's *alive*?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         where has a.b.s.mp3 gone from the Demon "censorship free"
+         newsfeed?...  Amiga Quake! Jurassic Quake! Same
+         difference?... ISO8601 now!... Voice of God:
+         http://kiev.wall.org/~larry/keynote/keynote.html ...
+         channel stuffing... boy, those 20th Anniversary Macs sure
+         look shit now, don't they?... sound of God: http://www-cs-
+         staff.stanford.edu/~knuth/organ.html... how did they do
+         that? Type +"Rudy Rucker" into Altavista... BNC T-Pieces
+         are the new Tazos... your Y2K beta site:
+         www.kcbbs.gen.nz/users/peterg/power.txt ... Resident Evil
+         2's secret Tofu character... NY POST headline, about AOL
+         user who kidnapped and sexually abused a girl he met in a
+         chatroom: YOU'VE GOT JAIL!... how dense is your town? -
+         http://www.geog.ucl.ac.uk/casa/martin/internetspace/ ...
+         GIMP approaching 1.0 asymptotically: do you think Slashdot
+         will shut the HELL UP when it does?
+
+
+                               >> GEEK MEDIA <<
+                      catch it while it's still analogue
+
+         TV>> after last week's crash-happy Comic Strip Presents,
+         maybe the BBC could console Rik Mayall with a (rare) head-
+         trauma free episode of BOTTOM (9pm, Fri, BBC2)... as you
+         suspected, the bonkers parachuting hackers in DROP ZONE
+         (9.30pm, Fri, BBC1) - think Point Break without the surfing
+         - are the handiwork of gimmick-crazed WarGames director,
+         John Badham... and don't bother with Have I Got News For
+         You, because Lilith is back on FRASIER (10pm, Fri, C4)...
+         Saturday is now officially theme night, with BBC2
+         commemorating not-dead-yet? comic SPIKE MILLIGAN (from 9pm,
+         Sat, BBC2), and C4 doing 2 hours on the first year of
+         Labour government (from 9pm, Sat, C4) - apparently that
+         Rory Bremner Max Headroom thing is supposed to be Peter
+         Mandelson, though it looks just like the weird eye-lined
+         new Lottery bot (and we don't mean Anthea Turner)...
+         instead, stick with the first, cheapest, best MAD MAX film
+         (10.55pm, Sat, ITV), or Wes Craven's social comment horror
+         romp - with guns - THE PEOPLE UNDER THE STAIRS (12.30am,
+         Sat, BBC1)... not-so-bad before-it-was-"cool" online-chat
+         action in JUMPIN' JACK FLASH (10.35pm, Sun, BBC2), plus
+         great NICAM sound, but: warning! Whoopi Goldberg! Twice!...
+         similarly, urban thriller JUDGEMENT NIGHT (11pm, Sun, BBC2)
+         has a great rap/rock crossover soundtrack, and intriguing
+         cast, but *shame about the film*... Lee & Herring host last
+         year's Montreal comedy interviews in FESTIVAL OF FUN
+         (10.50pm, Sun, C5)... new half-hour adult cartoon STRESSED
+         ERIC (10pm, Mon, BBC2) seems unlikely to really be a Brit
+         version of The Simpsons, but - still - can't be as bad as
+         Crapston Villas... the ESP debate hots up - hopefully using
+         "Scanners" tactics - on COUNTERBLAST (7.30pm, Wed, BBC2)...
+         best title-battle of the week: between ANIMAL CANNIBALS
+         (10pm, Thu, C4), and HORIZON's space station disaster
+         diagnosis, "Mir Mortals" (9.30pm, Thu, BBC2)...
+
+         FILM>> a compulsively semi-autobiographical account of the
+         compulsively semi-autobiographical Woody Allen,
+         DECONSTRUCTING HARRY (imdb: comedy / writing) also features
+         *tremendous swearing*... it's updated Charles Dickens,
+         without the funny character names, but with Ethan Hawke,
+         Gwyneth Paltrow, and added nudity: so, don't have too many
+         GREAT EXPECTATIONS (imdb: drama / romance / art-market /
+         love / revenge / based-on-novel / broken-heart / dickens /
+         ladybug / class-differences / painter / fugitive / spinster
+         / gallery )... Clint Eastwood directs John Cusack, "gay"
+         Kevin Spacey in lengthy, indulgent period murder mystery
+         MIDNIGHT IN THE GARDEN OF GOOD AND EVIL (imdb: crime / gay
+         / drama)... some of the folks responsible for Kids are
+         behind limited-release filth-fest GUMMO (MPAA rated: R for
+         "pervasive depiction of anti-social behavior of juveniles,
+         including violence, substance abuse, sexuality and
+         language")... somehow, somewhere they've sneaked out
+         excellent giant Japanese flying turtle nonsense GAMERA: THE
+         GUARDIAN OF THE UNIVERSE (imdb: also known as "Gamera:
+         Giant Monster Midair Showdown")... and, finally, Travis
+         Bickle's box-office prediction for a soggy thriller called
+         HARD RAIN (imdb: thriller / action / heist / disaster) -
+         it's gonna fall...
+
+         FEEBDACK>> well, we thought we were being rhetorical when
+         we wondered if The Three Musketeers use the  word "tits" in
+         the original novel of The Man In The Iron Mask [NTK
+         20/03/98], but PAUL BLEZ still puts us straight: "I can say
+         for sure that they wouldn't have used the word 'tits'
+         because of course they were speaking French in the
+         original, hee haw hee haw. They might however have used the
+         word 'nenes' or 'nichons'." Thanks for sharing Paul, this
+         isn't Loaded you know... leading us quite nicely to ADRIAN
+         MOULDER, who inquires, "How long before Official
+         Playstation Magazine and Edge bow to what looks like Future
+         Publishing official policy and stick semi-clothed women on
+         the front of every issue?" Well, our clock is ticking...
+         sticking with Edge, DANIEL JAMES is our first error-spotter
+         in the humourless games glossy, claiming, "They misquoted
+         me this month... and pretty much everyone else in their
+         lame 'lets write up the shorthand from that conference'
+         Online Games article." Great start, but NTK still wants
+         *your* Edge goofs and blunders, at edged@spesh.com... we
+         always knew you were funny: 'toon terrorist CHARLIE BROOKER
+         remarks, "the recent 'kaylo koverage in NTK has brought a
+         higher class of readers flocking to my site. Some of them
+         even write to me" - as the final letter on
+         http://www.superkaylo.com/super/html/post_room.htm
+         demonstrates all too well... BENET ALLEN felt it necessary
+         to inform us that the word "Ulay" is short for "underlay"
+         [NTK 03/04/98], which is either "(a) stuff that goes under
+         carpets, or (b) mute video pictures that the newsreader
+         voices over during the news." Cheers Benet, though how does
+         one go about extracting the *oil* of it?... and finally,
+         showing he's fully grasped our hard-hitting issues-driven
+         campaigning jounalism, NTK intern LEE MAGUIRE contends:
+         "According to recent USENET rumours ITV won't be buying the
+         final seven episodes of Reboot due to its 'diminished
+         appeal' (possibly caused by 'shoddy scheduling'?)" He
+         advises angry fans "to make Brooker-style phone calls to
+         Meridian on (01703) 222555 or, for a less confrontational
+         approach: sign the petition at
+         http://www.geocities.com/TelevisionCity/Studio/3016/ "...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+   It is registered at the Post Office as "grepped for Easynet references".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

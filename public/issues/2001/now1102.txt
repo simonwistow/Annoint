@@ -1,0 +1,332 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-11-02_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The biggest mistake we've ever made, as an industry, is the
+         banner ad. It is ineffective and was created by what is best
+         described as the Wired Magazine hippie crowd. These folks
+         were interested in preserving the user experience..."
+                        - JASON MCCABE CALACANIS, Wall Street Journal
+                ... a man who clearly didn't read the magazine either
+
+                                >> HARD NEWS <<
+                                court will ruse
+
+         Viva la recession! In the bad old days of the longish boom,
+         digital VCR makers Tivo and Replay were held back from
+         including heavy-duty ad-skipping features and file-copying
+         utilies by the cautious words of their investors. Investors
+         like - the TV networks, oddly, who last century offered big
+         bucks to the digital VCR companies at the same time as they'd
+         fax over a tasty grabbag of legal threats. Get hint? Get
+         funding! Nowadays the content losers don't have the money to
+         bail out Replay's new owners Sonic|Blue - and Sonic|Blue no
+         longer have the luxury to produce a half-cocked product and
+         nuzzle investor teat for succour. For as Napster discovered,
+         if you make a product that only your mother and Disney's
+         lawyers love, you've got total sales of two - and at least one
+         of them hates you already. So it's off to the courts with
+         Replay and the TV networks. Courts which, as the DeCSS vs
+         DVDCCA decision in Sunnyvale this week showed, aren't
+         necessarily as impressed with the media companies' chequebooks
+         as the computer industry used to be.
+         http://news.cnet.com/investor/news/newsitem/0-9900-1028-7739378-0.html
+         - of course, most of the US TV networks backed Tivo
+http://www.eff.org/IP/Video/DVDCCA_case/20011101_bunner_appellate_decision.html
+                                   - but that's another conspiracy...
+         http://www.microsoft.com/presspass/trial/nov01/11-02settlement.asp
+                                   - ...and that's another court case
+
+         You're a veteran of the USAF and CIA. You've been appointed as
+         "Chief of Homeland Security" for the state of Texas. What's
+         the best way to reassure your fellow Americans about their
+         domestic safety? Why, take out a patriotic ad in "Texas
+         Monthly" magazine, of course: a soldier standing proud in
+         front of the Stars and Stripes wearing a Luftwaffe uniform.
+         OK, so the pic is actually former German defense attache
+         Brigadier General Peter Schmitz, rather than, say, Hermann
+         Goering - but it's all grist to the mill for New World Order
+         conspiracy theorists, already on a state of high alert over
+         that unusual "Homeland" terminology. "Was this a bizarre
+         mistake, a Freudian slip or *a rare moment of candor* [our
+         emphasis] from the Bush administration?", muses online
+         commentator Robert Lederman, whose previous stabs at
+         controversy have included depicting New York mayor Rudy
+         Giuliani as both Hitler and Satan. "Considering that Bush's
+         grandfathers made their fortune on Wall Street managing banks
+         and shipping companies the US government seized in 1942 as
+         fronts for the Nazis", Lederman continues, "it may have been
+         all three".
+http://www.dallasnews.com/texas_southwest/STORY.e9c76eb887.b0.af.0.a4.b60dd.html
+            - c'mon, someone must have a bigger pic of this somewhere
+         http://baltech.org/lederman/bush-homeland-security-10-30-01.html
+                         - "The one thing we *didn't* want to happen"
+
+         And this week's challenge to "Guess The Password For An
+         Official-Looking Iomart: Net Intelligence(TM) Webmail Account"
+         is: marketing@iomart.com . That's marketing@iomart.com - type
+         your wildest imaginings into http://webmail.thinkmail.com/ ,
+         where the most l33t haxxors will be rewarded with a memo from
+         Iomart Human Resources, sternly warning that "whoever receives
+         this email" *must* reveal "who is checking this mailbox" by no
+         later than 12pm Thursday 30th August. Failure to comply will
+         apparently result in the account being deleted just 4 hours
+         later, at "4pm on Thursday 30th August 2001". Sometimes those
+         HR deadlines just have a way of stretching into days, weeks
+         and months, don't they?
+         http://www.ntk.net/2001/11/02/iodoh.txt
+              - admittedly, they did fix sales@iomart.com pretty fast
+         http://www.ntk.net/2001/10/26/iomart.jpg
+           - and why not get your ADSL from us while you're about it?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "The more you read about how they are going to send the
+         Internet along cables, it is who controls the cable and who
+         controls the flow of information" - ROBERT SMITH, out of The
+         Cure, prophetically imitates Winston Smith, out of 1984:
+    http://www.nme.com/NME/External/News/News_Story/0,1004,47384,00.html
+         ... thank heavens - recruitment pages with a sense of humour:
+         http://www.ntk.net/2001/11/02/dohvbc.gif ... sadly, we can't
+         afford to pay our Senior Systems Analysts more than this:
+         http://www.ntk.net/2001/11/02/dohannum.gif - we need it for
+         Physics Programmers: http://www.ntk.net/2001/11/02/dohhour.gif
+         ... BBC cutting back on "abstract tech illustration" budget?:
+    http://news.bbc.co.uk/hi/english/business/newsid_1621000/1621875.stm
+         - but can still afford glimpse of "Q-Bert: Where Is He Now?":
+    http://news.bbc.co.uk/hi/english/business/newsid_1413000/1413651.stm
+         ... slightly enigmatic plot synopsis for assertiveness guide:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0553263900/ ... more
+         immediate subtext - "Root Of All Evil" = Enterprise Javabeans:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0596001932/ ... fix -
+         try Jupiter instead: http://bugs.kde.org/db/34/34295.html ...
+         kerning komedy: http://uts.cc.utexas.edu/~triti/rightfont.jpg
+         ... "Informal/Adult" Welsh approach to Design and Typography:
+    http://www.mediaed.org.uk/resource/display_record.php?resource_no=15
+         ... prefer not to give your credit card information over the
+         internet? If so, why not "Fax or e-mail" it instead, advises
+         http://www.coolvcd.com/faq.shtml ... unsigned bands? unsigned
+         integers, more like: http://www.dot-bands.com/index.php ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Seems like our "Acoustic Cover Versions of Synthesiser Pop
+         Hits of the 1980s (introducing Matt Jones as The Unabongoer)"
+         have been deemed "too experimental" for the likes of the
+         inaugural DORKBOT LONDON (7pm, Wed 2001-11-07, The Boxing
+         Club, Limehouse Town Hall, London E14, free). Visitors to the
+         UK version of New York's "people doing strange things with
+         electricity" night will instead have to be challenged by the
+         usual computer-generated music and a talk on "fork bombs".
+         Plus, for all you circuit-bending fans out there, details of
+         how to abuse the Yamaha PSR-7 - which, as far as we can
+         remember, is either one of those cheap MIDI home keyboards, or
+         a motorbike. Either way, tunes you're guaranteed to be humming
+         all the way home.
+         http://music.columbia.edu/cmc/dorkbot/dorkbotlondon/
+         - we'd even agreed not to do "Tainted Perl". Just this once.
+         http://www.rlff.com/
+         - London Film Festival lurches back into life this weekend
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Outliners and "Brainmappers" are the closest programmers get
+         to EST cults: desperately we buy into them, believing that
+         one day we'll find the ultimate graphing planner that will
+         automagically organise our lives, and turn us into gleaming
+         Edward De Bonos of creativity. So, for level eight of your
+         third todo-list tree node, here's a cheaper, more
+         self-limiting option. PROGECT is a bog-standard Palm
+         outliner you can get the hang of after three minutes and
+         uncomplicated enough to stop you wasting hours fiddling the
+         settings to "optimise" your "goal management scenarios".
+         It's a GPLed student, uh, project, by English language
+         grappler burgbach. Apart from the usual i8n idiosyncracies,
+         it suffers from some consistent crashes that are easily
+         worked around, a few screen-refreshing issues, and other
+         indications of human frailty. But that hasn't stopped a
+         large community moving away from shareware Palm
+         brainsluicers, adopting Progect as their one true outliner,
+         contributing code and generally bucking up its shortcomings.
+         Search widely enough, and you'll find a java desktop app
+         called jprogect in the pipeline, and a Perl syncing library
+         to export your little trees of duty. It's changed our lives!
+         Like all the other ones did for a week!
+         http://progect.sf.net/
+             - now send us your favourite and we can have a big fight
+         http://ftrain.com/cleaning_the_room.html
+                              - this is you tidying your room this is
+
+
+                                >> MEMEPOOL <<
+                          warm bit behind gagpipe.com
+
+         this week's amusing FLASH games that crash in some browsers:
+         http://www.vectorlounge.com/04_amsterdam/jam/flamjam.html ,
+         http://www.evolver.co.uk/wayofthestick.html ... MORRIS at war:
+         http://downloads.warprecords.com/morris/bushwhacked.mp3 ...
+         "Brass Eye" science - Mouse 'Rave Concert' Experiment Branded
+         'Sick': http://www.ananova.com/news/story/sm_439005.html ...
+         Point-Counterpoint - feminist comment on role of Afghan women:
+         http://128.241.192.9/forums/attachment.php?s=&postid=368297 vs
+         JIM "Answer Me!" GOAD: http://www.jimgoad.com/musgirls.html
+         ... "Firearms may be carried at the captain's discretion",
+         reassures http://www.ryanair.com/FQ.html#firearms ... this
+         week's online looky-likeys: DARIUS from "Popstars" slams MS
+         censorship policy: http://www.securityfocus.com/news/270 ...
+         pesky Taliban mistake kind but firm PE teacher Abdul Haq:
+         http://uk.fc.yahoo.com/011029/80/cdapk.html for Afghan warlord
+         "Bullet" Baxter: http://tv.cream.org/baxter.jpg ... only
+         downside of http://www.kuro5hin.org/story/2001/10/30/14612/236
+         is someone has to http://www.fridgemagnet.org.uk/kitchen.html
+         afterwards ... proof you don't have to be hi-res to be sexy:
+       http://www.a-blast.org/~drx/lo-tech/teletext/ ...phone the stars:
+       http://www.oftel.gov.uk/publications/1999/numbering/drama599.htm
+       ... hot property: http://members.ebay.co.uk/aboutme/indiafoxtrot/
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Adam "What The Victorians Did For Us" Hart-Davis bicycles
+         back with "How"-style explanation show SCIENCE SHACK (7.30pm,
+         Fri, BBC2)... the floppy-haired fop recycles the Letterman
+         desk-show format - again - in FRIDAY NIGHT WITH JONATHAN ROSS
+         (10.35pm, Fri, BBC1)... and sci-fi comedy PERCY'S PROGRESS
+         (1am, Fri, BBC1) follows a showing of the dick-transplant
+         original earlier this year... Steve "tv.cream" Berry
+         confidently predicts he'll be among the TOP TEN TV HEARTTHROBS
+         (10pm, Sat, C4)... music fans have a choice of Phill Jupitus
+         presenting THE Q AWARDS (10.15pm, Sat, C5) or ALI G hosting
+         the MTV EUROPE MUSIC AWARDS (9pm, Thu, MTV)... and it's free
+         Film Four all weekend for digital or cable viewers, though the
+         only good things on are cult Japanese killer-video horror
+         RINGU (11.50pm, Sat), competent David Lynch ride-on lawnmower
+         odyssey THE STRAIGHT STORY (8pm, Sun) and, er, daft Mira
+         Sorvino monster romp MIMIC (2am, Sat)... the trend of
+         following up feature films with related documentaries on a
+         totally different channel continues with WITNESS (11.10pm,
+         Sat, BBC1) and WITNESS: THE DEVIL'S PLAYGROUND (9pm, Sun, C4),
+         plus THE VIKINGS (7.50pm, Sat, C4), followed by scary Aryan
+         DNA-history BLOOD OF THE VIKINGS (9pm, Tue, BBC2)... SCREAM 2
+         (10pm, Sun, C4) is kind of dull, but (briefly) has Sarah
+         Michelle Gellar in it... there are (slightly) more laughs in
+         Matthew Broderick stalker romance ADDICTED TO LOVE (9pm, Mon,
+         C5) than THE X FILES: THE MOVIE (9pm, Mon, ITV)... while THE
+         LIMEY (10.35pm, Mon, C4) famously features flashbacks from one
+         of Terence Stamp's earlier films, though we still think it'd
+         have been better if they'd used "Superman II"... Tuesday is
+         fast-food-themed-fish-out-of-water night, with a chip shop
+         proprietor becoming a top chef in FAKING IT (9pm, Tue, C4) and
+         the head of Burger King UK going BACK TO THE FLOOR (10pm, Tue,
+         BBC2)... Adam and Joe present cartoon clip strand HOT REELS:
+         ANIMATION GRAND PRIX (12.10am, Tue, C4)... and it's maximum
+         Rutger Hauer week on C5 - again - with ornithologist actioner
+         A BREED APART (9pm, Wed, C5), the annual showing of Sov-bloc
+         cyberthriller REDLINE (9.20pm, Fri, C5), plus Thu's now-
+         traditional UNIVERSAL SOLDIER 3: UNFINISHED BUSINESS (9pm,
+         Thu, C5) - which, admittedly, doesn't have Hauer in it per se,
+         presumably due to an administrative oversight or something...
+
+         FILM>> it's no "Deuce Bigalow: Male Gigolo" (NTK Film Of The
+         Year 2000), but there's some top-notch barnyard impressions
+         and typically off-beat digressions from SNL's Norm Macdonald
+         et al in Rob Schneider xenotransplant slapstick THE ANIMAL
+         (http://www.screenit.com/movies/2001/the_animal.html : acting
+         like a drug-sniffing dog, [Schneider] blatantly smells a man's
+         clothed rear end; the male host says to check out the "pecs"
+         on one of the women, saying, "That's pure Badger Milk" while
+         lifting up her covered breast with a pointing stick)...
+         biological functions are - literally - the basis of Bill
+         Murray/ Bill Shatner/ Farrelly brothers part-animated light-
+         hearted look at the progress of an Anthrax infection, OSMOSIS
+         JONES (http://www.capalert.com/capreports/osmosisjones.htm :
+         slicing murders; talk of getting drunk; strip bar imagery;
+         portrayal of daughter being superior to father; an out-of-
+         control squad car crash lands in a rectum; tattoos)... or it's
+         Nicole "BMX Bandits" Kidman, Eric "Sykes" Sykes and Keith "Fat
+         Les" Allen - together at last! - in old-fashioned spooky-wooky
+         photosensitive chiller THE OTHERS (imdb: 1940s / ghost /
+         haunted-house / twist-in-the-end / afterlife / death / murder
+         / suicide / superstition / tuberculosis)...
+
+         CONFECTIONERY THEORY (FEATURING "LIQUID NEWS")>> while the UK
+         struggles on without even a dash of PEPSI LEMON TWIST, up-and-
+         coming novelist JENNY COLGAN excitedly reports sampling COKE
+         LEMON in New York, likening it to "normal Coke to which
+         someone has added three squirts of lemon fairy and ten spoons
+         of sugar". NESTLE's self-heating HOT WHEN YOU WANT canned
+         coffee (UKP1.19) is another promising idea let down by harsh
+         reality: "The verdict is guilty - of being a complete ripoff",
+         fumed DAVE HEMMING, feeling it overpriced for "2/3rds of a can
+         of lukewarm rather cheap coffee", while LLOYD WOOD pondered if
+         "the [exothermic] red liquid tastes better than the coffee
+         it's heating". Lloyd found his in the Uxbridge Sainsbury's,
+         following an incident [reported in THE GROCER, 2001-10-20] in
+         which Nestle "lost control" of the original Midlands-only
+         trials, enabling 11 "control stores" to order the semi-hotly
+         anticipated product nationwide... other disappointments have
+         continued to include MARS HARRY POTTER BERTIE BOTTS EVERY
+         FLAVOUR BEANS (39p/box - "Beware of the strange flavours!"),
+         BAHLSEN CIELO luxury biscuits (UKP1.79 for box of about 20),
+         and QUALITY STREET'S THE BIG PURPLE ONE, which KEVIN CECIL
+         actually quite enjoyed ("nearly the size of a golf ball"),
+         despite paying more than the 35p RRP at the Paddington branch
+         of WH Smiths. On a more positive note, "Just as I'd become
+         resigned to only enjoying German-speaking confectionery
+         (Bahlsen, Lindt, Milka bars)", LEWIS GRAHAM revealed that
+         TUNNOCK'S DARK CHOCOLATE TEA CAKES - with their "perfect shell
+         of reasonably bitter chocolate, crisp base and delightfully
+         frothy middle" - have, at last, "brought [him] home"... once
+         again, there's been more action with the spicy savouries, with
+         a big thumbs-up from us to the wizard's-hat-shaped GOLDEN
+         WONDER BUGLES CRISPY CORN SNACKS (27p) - especially the BBQ
+         and Salt & Vinegar versions - and some sort of elaborate
+         Amazon gift-voucher scheme on both 50g and 200g tubes of
+         PRINGLES, including the more traditional new "Curry" flavour.
+         Though we still await your sightings of JACOB'S CRACKERS THAI
+         BITES (from 39p), MCCAIN'S MICRO CHICKEN WINGS (UKP1.29 for 4
+         to 5 wings) and, back with sweets, NESTLE's "FROST BITES"
+         variants of FROST PASTILLES, SMARCTIC SMARTIES and MILKYBRRR
+         BUTTONS, plus COLGATE's ADVANCED ACTION DENTAL GUM (from 49p)
+         - though it's a shame they've gone for "Sparkling Mint",
+         "Menthol" and "Peppermint" as flavours, rather than their
+         familiar toothpaste brands like "Total Fresh Stripe" and
+         "Tartar Control"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                  "Sometimes innocent, largely inappropriate"
+          http://www.wwjs.net/search/safe.cgi?url=http://www.ntk.net
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,326 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____04/09/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+          "The government is *trolling* for evidence that 
+            Microsoft 'engaged in a comprehensive plan and pattern 
+                  of anticompetitive conduct to monopolize markets.'"
+       http://www.news.com/News/Item/0,4,26012,00.html?st.ne.fd.gif.e
+                  ...now you know who posts all those slashdot attacks
+
+
+                                >> HARD NEWS <<
+                               but who's whose?
+
+         After their "Net users get depressed" anti-news, we're
+         hoping Carnegie-Mellon will turn their sociological
+         microscopes to a rash of Net-related amnesia that's been
+         doing the rounds. Sources close to the BILL GATES court
+         deposition indicate that The World's Cleverest Man has great
+         problems recalling the exact chain of events that lead to
+         company writing its browser - and indeed, many Microsoft
+         representatives apparently found it different to even remember
+         the term. "Witnesses claim they don't know what a browser is.
+         What used to be browsers are now simply 'bits of browsing
+         technologies.'" reports the NYT's Joel Brinkley, though of
+         course this was all in the pre-Outlook days, an era of
+         almost medieval chaos...
+         http://homenet.andrew.cmu.edu/progress/HN.impact.10.htm
+         - "basing their estimates on detailed time dairies"?
+
+         Australasia seems to be heading for a Mad Max period of
+         lawlessness. Australia's LABOR PARTY has fired two workers,
+         following a Web crack of the opposing Liberal party's
+         Website (which linked the site to hardcore porn, and called
+         John Howard the "Prime Minister for Pain, Suffering and
+         Inequity". Satire!). Thank God New Zealander PETER GUTMANN
+         still has some respect for law and order. Wanting to
+         demonstrate his cryptlib software on a US trip, he wrote for
+         - and received, a temporary permit for its dangerous crypto
+         wares. The principle proviso was that he came back with the
+         disk. Naturally, to comply with US export laws, the disk he
+         returned with had to be re-formatted before leaving the US.
+         That was okay, though, because the code on the disk was
+         readily available from European ftp sites anyway. Naturally,
+         Peter complied with all existing legislation during his
+         trip, including a document that allowed him to export a disk
+         to Auckland, then re-import it back to the same spot. As
+         Peter says, "It's folk wisdom that dealing with bureaucrats
+         is like running around in circles, but I may be one of the
+         few people on earth to have an official government permit to
+         do this."
+         http://www.cs.auckland.ac.nz/~pgut001/policy/mfat_5l.html
+                                                         - looping...
+         http://www.cs.auckland.ac.nz/~pgut001/policy/mfat_6r.html
+                                                           - the loop
+         
+         There's no news around for our third item, so instead we'll
+         keep you informed on how all the other Net journalists are
+         coping with the famine. MICHAEL WOLFF, who
+         famously wrote a book on his own experiences as a Net
+         publisher in "Burn Rate", devotes his New York Times
+         Magazine column to how he's being written about
+         by Brill's Content, a mag entirely devoted to analyses of
+         other journalists. Noah Robischon, the Net journalist
+         commissioned to do the Brill piece, is ex-editor of Netly
+         News, the Net publisher of which, Josh Quittner, wrote the
+         definitive Net-journalist-on-other-Net-Journalists piece,
+         the story of Suck in Wired. Suck's Carl Steadman, the only
+         man we believe qualified (by talent and academic training)
+         to indulge in this kind of postmodernism, has been subtly
+         demolishing Michael Wolff in his Industry Standard columns
+         (a magazine that Michael Wolff himself writes a column for).
+         Carl's also been encouraging Gary Wolf to write *his* story
+         of everybody else's stories in his upcoming history of
+         Wired. Hopefully, the Wired book will include a chapter on
+         the executive editor of HotWired, Gary Wolf, and thus an
+         infinite regress.
+         http://www.nymag.com/Critics/view.asp?id=1648
+         - why journalists have to be protected from other journalists
+         http://www.freedonia.com/~carl/
+                                         - six degrees of mr steadman
+         http://www.ntk.net/index.cgi?back=archive98/now0904.txt&line=10#l
+                                                   - worst of the lot
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+        
+         CD writing a dangerous business: DORLING KINDERSLEY MD Alan
+         King now receiving fatwahs over a pic of Mohammed on
+         CD-ROM... guess we won't be seeing that underwater SWISS AIR
+         advert again... "Change is good" - KATZ leaves Hotwired...
+         EPSON printers claim to be "Year 2000 ready" - ah, those
+         notorously time-dependent font renderers...  "MICROSOFT
+         pledges support to SET" - the Egyptian God, right?... DISNEY
+         kill Onion book after unfortunate Walt/Hitler headline
+         proposal... last week to enter Interactive BAFTAs -
+         apparently not much competition...  did LUCASFILM kill
+         http://www.starwarsfarts.com/ (www.lucasfarts.com still
+         available)?... US gov claim they "checked the website" of EL
+         SHIFA factory before bombing it...  http://www.motoracer.com
+         points to something a "racier" than EA PlayStation game...
+         BANDAI pulls plug on http://www.my-cd.com, stunned by own
+         "inability to license content from major record labels"...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+         
+         Thanks to everyone who responded to last week's entirely
+         genuine NTK job ad, including acclaimed cyberpunk author PAT
+         CADIGAN, who - fear not - will have to undergo the interview
+         stages and "aptitude tests" just like everyone else. We
+         *think* it's just a publicity ruse for her new VR whodunnit
+         novel, TEA FROM AN EMPTY CUP (Voyager, 5.99), which she will
+         be reading and signing at various real-world locales from
+         Forbidden Planet, London WC1 (1pm, Sat 05/09/98), to Cyberia
+         Cybercafe, London W1 (6pm, Wed 09/09/98), and the Birmingham
+         Science Fiction Group/ FantasyCon (7.30pm, Fri 11/09/98).
+         The latter will be webcast via LineOne (headsets/ neural jacks
+         not provided).
+         http://www.wmin.ac.uk/~fowlerc/patcadigan.html 
+                  - SFX gave it "B-", but what the hell do they know?
+         
+         Next week's BRITISH ASSOCIATION FOR THE ADVANCEMENT OF
+         SCIENCE FESTIVAL (Cardiff University, 07-11/09/98) takes a
+         more populist tone (presumably to attract young people to
+         the field) with its TOYS FOR THE BOYS theme, and promises of
+         "gadgets, cars, and girls!". Oops, no, sorry, got the press
+         releases muddled up: the BAAS fest examines "The Challenge
+         For Science" under the calm gaze of controversial
+         neuroscientist Prof Colin Blakemore, while the appalling
+         sounding "Toys For The Boys" show is run by "Crucial Events
+         Ltd" at the Wembley Exhibition and Conference Centre,
+         04-06/09/98. Please note that the "gadgets" include very few
+         useful household devices, like washing machines, food
+         processors or irons, and that - disappointingly - the show
+         features no actual children's toys.
+         http://www.britassoc.org.uk/info/annfest.html
+       - with Sociology Challenge and Human Brain Challenge sub-games
+         http://www.toysfortheboys.co.uk/
+                   - it's no War Planets (http://www.trendmaster.com)
+
+         And levelling out the gender balance is video games trade fair
+         ECTS (London Olympia, 06-08/09/98), nowadays attracting a
+         surprising number of female delegates (admittedly either in
+         a PR capacity or wearing bikinis and brandishing machine
+         guns). Your mission(s): try to convince yourself that
+         Dreamcast will be any good, nick a Colour Game Boy, and see
+         if there's any truth to the bizarre "Eidos to buy Psygnosis"
+         rumours (one - refreshingly honest - PR reassured us: "Not
+         after this lot of financial results".)
+         http://www.ects.com
+                 - welcomes live "Lara Croft" *and* "Daikatana girl"!
+
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Devon smugglers were quick to sneak PGP 6.0 past the
+         sleeping coastguards this week. It's just the Mac and
+         Windows users who get to revel in embedded photo-IDs in
+         their key certifs, secure server access and better
+         revocation features (like giving trusted friends revocation
+         capabilities and keys that expire). Bitter UNIXen should
+         stick to GnuPG, although last we heard, the guy working on
+         the UNIX ports had left Network Associates (after death
+         threats regarding his junking of the old command line, no
+         doubt), and so they're a tad undermanned in that department.
+         Zimmerman may be a DOS-boy at heart, but he's paid his dues
+         by now.
+         ftp://ftp.replay.com/pub/crypto/pgp/pgp60/
+                               - fell of the back of a lorry, guv'nor
+         http://www.d.shuttle.de/isil/crypt/gnupg.html
+                 - Windows version "should not be used for real work"
+
+        
+                                >> MEMEPOOL << 
+                              hasta la altavista
+         
+         http://www.worlddomination.com/ ... Win PSXemu ...  POCKET
+         OPERATION http://www.basicfun.com/KeyChains/games2.htm ...
+         STAR TREK: Special Edition... pocket DONKEY KONG
+         http://www.basicfun.com/KeyChains/donkeykong.htm... best
+         name for OASIS tribute band that isn't : http://iasos.com
+         ... http://www.scour.net/ ... candid raw TV feeds at
+         http://www.wildfeedtv.net/ ... REBOOT series three makes it
+         to the US... KRISPY KREME doughnuts... Now REALDOLL has a
+         friend: http://www.inti-mate.com/stud.html ... a study on
+         the effect of too much caffeine amongst mathematicians:
+         http://www.bell-labs.com/user/cbm/dew/dew-mail.html ...
+         http://www.sysinternals.com/ ... "Lately, I've been
+         experimenting with the asexual quality of LEGO. I've created
+         actual women." - http://www.sweet-peas.com/lego/intro2.htm
+         ... http://www.iproject.net/WFH/JackieChan/InjuryGame/ ... 
+        
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> marvel at the aimless plotting, stunt casting and
+         occasional gag in the terrifying "highlight" of BBC2's
+         returning "Comedy" Zone - the "University Challenge" episode
+         of THE YOUNG ONES (10pm, Fri, BBC2)... fear not: "Mr Hankey
+         The Christmas Poo" is widely regarded as one of the best
+         SOUTH PARKs ever (11.05pm, Fr, C4)... while Hywel Bennett's
+         PERCY (12.35pm, Fri, BBC1) may be *the worst sex comedy of
+         all time* (unless there's another Bennett vehicle called
+         "Bysshe")... Astra-owning MiSTies rejoice, as MST3k
+         reschedules to avoid the Sky watershed with Gemini Man
+         nonsense "Riding with Death" (10pm, Fri, SciFi)...
+         fortunately, the "new season" starts on Sat, with ITV
+         fielding GLADIATORS (6pm), Cilla Black's alt.games-style
+         MOMENT OF TRUTH (7pm), plus - wait for it - MOTORWAY LIFE
+         (8.30pm), a fly-on-the-wall docu about people who work on
+         (or near) the M6... the competition: Costner's costly
+         not-too-bad (but bad) WATERWORLD (9pm, Sat, BBC1), one of
+         those rare films where the studio logo merges seamlessly
+         into the opening scene... still, a bit more action than
+         Crichton's emotionless (but widescreen) repeat, WESTWORLD
+         (10.45pm, Sun, BBC2)... most promising phrases used by Radio
+         Times to describe Di doc THE PRINCESS'S PEOPLE (9.30pm, Sun,
+         BBC2): "unsentimental" and "those who appeared to be
+         indifferent"... if there was any justice, viewers of Gus Van
+         Sant's dire EVEN COWGIRLS GET THE BLUES (12.35am, Sun, C4)
+         could go to him and demand two hours of their lives
+         *back*... new cop drama LIVERPOOL ONE (9pm, Mon, ITV)
+         ingeniously pits Brookie's Barry Grant against hot new
+         psychologist, Samantha Janus!... when will they pay tribute
+         to whoever invented mad cycling science demo show LOCAL
+         HEROES (8pm, Mon, BBC2)?...  plus: surprise! ITV buries new,
+         actually OK-ish Kirstie "Lieutenant Saavik" Alley sitcom
+         VERONICA'S CLOSET (10.40pm, Mon, ITV)... EQUINOX (9pm, Tue,
+         C4) looks at "gravity" (please, no)... high hopes for TV
+         review/ preview slot THE HAUNTED FISHTANK (12.40am, Tue,
+         some ITV) - presented by Ed Hall, possibly the new, ginger
+         Johnny Vaughan... flee from BATMAN FOREVER (8.30pm, Wed,
+         ITV), and - there is no god - *another* series of incoherent
+         musos "chatting" with JO WHILEY (11.25pm, Wed, C4)...
+         HORIZON samples Viagra (9pm, Thu, BBC2)... though
+         alternative "cures" include those offered by Nick Broomfield
+         in FETISHES (11pm, Thu, C4)... coverage of the 50th
+         Farnborough on THE AIR SHOW (8pm, Thu, BBC2)... and of
+         course Sly Stallone and pals forgetting to check that
+         there's no-one pointing guns at them while they're pointing
+         guns at someone else, in ruined-by-dumb-flying-bikes
+         production treat JUDGE DREDD (9.35pm, Thu, BBC1)...
+
+         FILM>> Spike Lee almost slam-dunks his heavy-handed
+         message-movie tendencies in not-as-good-as-Hoop-Dreams
+         black/street battler HE GOT GAME (imdb: father-son / drama /
+         sport / basketball). Still, the lead character is called
+         "Jesus"... sassy dialogue is the salvation of Whit
+         Stillman's Barcelona-prequel THE LAST DAYS OF DISCO (imdb:
+         drama / nightclub / scrooge-mcduck / venereal-disease /
+         1970s / comedy / disco / 1980s / roommates / new-york /
+         studio-54) - and don't get your hopes up for Mike Myers'
+         similarly themed "54"... hard to tell which you should avoid
+         harder: Anna Friel and god-awful Rachel Weisz in THE LAND
+         GIRLS (imdb: drama / wwii / period / rural / women / dorset
+         / love)... or The Krays/ Let Him Have It director Peter
+         Medak warping back to his Space: 1999 origins with the truly
+         terrible SPECIES II (imdb user's plot summary: "Lazard's
+         character gets infected by an alien and slowly begins to
+         mutate. When they get back to Earth all he has on his mind
+         is to have sex with [Natasha] Henstridge!")...
+
+         BEAUTY WITHOUT CRUELTY (WITHIN)>> admittedly, something of a
+         departure for NTK, prompted by the launch of Gillette's MACH
+         3 "male shaving system" (http://www.mach3.com), descibed by
+         reader BEN ROONEY as "the best a man can get" - and he's the
+         editor of the Telegraph's Connected section... oddly, rivals
+         Wilkinson Sword also chose this month to launch their
+         clashing blade, PROTECTOR 3D METAL, promising "technology in
+         3 dimensions" - though not, as yet, an OpenGL API... other
+         personal grooming tips include LLOYD WOOD's 80 things to do
+         with shampoo (http://www.alberto.com/vo5hdtip.htm) - yet
+         another example of life simply imitating The Onion
+         (http://www.theonion.com/onion3404/vitaminshair.html)... KEVIN
+         CECIL was very taken by Lancome's release of a perfume
+         called "Oui!", looking forward to ads like: "Now you can
+         smell... of Oui!"... the ASA upheld complaints against press
+         ads for Elida Faberge's hip new FUSION fragrance for
+         incorporating white powder samples plus the tagline "The
+         only thing in a club worth sniffing"... also from Connected
+         (tech supplement to the "beautiful people"), GEORGIA
+         CAMERON-CLARKE highlighted alarming claims from ESTEE LAUDER
+         that their latest skin toner "actually re-programs" the skin
+         to produce less oil...  but READER MILLINGTON wins the NTK
+         geek makeover prize with his observation that BOOTS' SPA
+         TONING lotion asserts that "after one application", it
+         increases the skin's elasticity "by at least 19 per cent".
+         His girlfriend has "been applying it all week, so I should
+         be able to pull her ears right the way down onto her chin
+         then watch them spring up again"...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "ragged-trouser misanthropists".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial licence details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

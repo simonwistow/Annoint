@@ -1,0 +1,336 @@
+
+ __  __ _2000-01-07   _ _____ _  __     <Post-Y2K Recovery Procedure ON>
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o  Join! Mail 'subscribe ntknow'
+| |\/| | | '_ \| |  \| | | | | ' /     o to ntknow-subscribe@lists.ntk.net
+| |  | | | | | | | |\  | | | | . \     o  Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o       http://www.ntk.net/
+
+
+       "Too bad Linus didn't choose a starving kid as the mascot."
+        - "Anonymous Coward" on the pro-penguin charity Slashdot effect
+        http://slashdot.org/articles/00/01/06/0915249.shtml
+        ...yeah, wait till you hear what sacrifices *BSD fans make
+
+[
+   As we emerge from the bunker and see not a world in flames, but
+   merely several websites displaying the date as 19100 and a
+   frantically back-pedalling Ed Yourdon (http://www.yourdon.com/ ),
+   we have come to regret our decision to trade NTK's webserver for
+   eight sacks of lentils.
+
+   So, while we scrabble around to restore our own affairs, here are
+   the answers to last century's quiz. NTK will be back with the
+   usual online disservices next Friday.
+
+   (Note: As usual, this MiniNTK is even bigger than a normal NTK,
+   but in the words of Blaise Pascal, "This one would not be so long
+   had I but the leisure to make it shorter. Also in my stupid
+   language I have to pre-declare all the variables at the start,
+   which drags it out like a mother.")
+
+   Love,
+   Need To Know
+
+   PS If there are any big lentil fans out there, keep an eye on ebay this
+   week for a fantastic offer.                                              ]
+
+
+                                 >> WHOWAS <<
+                           who said what about whom?
+
+         "X is just like any ordinary rock star. He gets out of the
+         plane and when he walks down the stairs he still doesn't
+         know which country he is in."
+         - EX-DIGICASH EMPLOYEE on the Keith Moon of MIT, NICHOLAS NEGROPONTE
+         http://www.ntk.net/index.cgi?back=archive99/now0212.txt
+
+         "Sentiment is against us. We need to smile at X while we
+         pull the trigger."
+         - Microsoft's JIM ALLCHIN, where X=NOVELL, and "the trigger"
+         is a perfectly acceptable business practice, m'lud.
+         http://www.ntk.net/index.cgi?back=archive99/now0430.txt
+
+         "spineless and cowardly... frankly a tosser"
+         - ROY BLISS, then-MD of Demon on those who insult former
+           colleagues in company-wide emails
+         http://www.ntk.net/index.cgi?back=archive99/now0305.txt
+
+         "Jeopardize the interests of our entire tribe [and] I will
+         find a way to make you regret it. Watch your step."
+         - ERIC S. RAYMOND with some neighbourly advice for BRUCE PERENS
+         http://www.ntk.net/index.cgi?back=archive99/now0409.txt
+
+         "Words that have recently caused trouble: 'intrepid',
+         'satirical'."
+         - Leaked memo to "BIG BREAKFAST" WRITERS on the preferred
+           vocabulary of then-presenter KELLY BROOK
+         http://www.ntk.net/index.cgi?back=archive99/now0305.txt
+
+         "Not physically a Commodore 64, but ethically it's similar."
+         - A comp.sys.ibm regular looks deep into the WEB.IT's soul
+         http://www.commodore64.com/
+         http://www.ntk.net/index.cgi?back=archive99/now0108.txt&l=126#l
+
+         "X will go to schools in the evenings for cheap access."
+         - BT MD PETER BONFIELD rounds up the POOR
+         http://www.zdnet.co.uk/news/1999/43/ns-11169.html
+
+         "passwords for adult sites including jokes, porn, pussy,
+         beastiality and carmen electra, animal sex and sex stories
+         with tits, big tits and free porn simpsons and nasa starcraft
+         movies"
+         - Plucky Essex pop act "THE AOL GIRLS" about one of their
+           own members, "14 year-old Carly", in official website <META> tags.
+         http://www.ntk.net/index.cgi?back=archive99/now0326.txt
+
+         "The most dangerous man in Britain today"
+         - PAUL JOHNSON spreads his own meme about the RICHARD DAWKINS,
+         Daily Mail, 1999-02-01
+         http://www.ntk.net/index.cgi?back=archive99/now0205.txt&line=160#l
+
+         "Smack you upside the head with a hockey stick"
+         - UNIDENTIFIED POSTER TO SOC.CULTURE.CANADA on a UK libel
+         verdict against a Canadian citizen [details withheld on legal advice]
+
+         "A Rastafarian Stepin Fetchit on platform hoofs, crossed
+         annoyingly with Butterfly McQueen"
+         - Joe Morgenstern, THE WALL STREET JOURNAL, on JAR-JAR BINKS:
+         http://www.villagevoice.com/features/9923/goldstein.shtml
+
+         BONUS PAPER ROUND:
+
+         Reviewing the Public Enemy MP3 album, TIMES INTERFACE (1999-06-09)
+         settled on: "Ease of use: 5/10 (couldn't get it to work)"
+
+         THE DAILY TELEGRAPH used "Bloody revenge of Internet nerds obsessed
+         with Satan and Nazis" as a front page headline on 1999-04-20
+
+         THE GUARDIAN CONSUMER SECTION referred to both "SSL (Secure Locket
+         Layer)" then, just weeks later, "Wireless Application Protocol
+         (WOP)"
+
+
+                              >> LYRICS DOT TCH! <<
+                 the worst music of the year, free to download
+
+         "It's been hours, seems like days/ since you went away,
+          And all I do is check the screen/ to see if you're ok"
+         EMAIL MY HEART, Britney Spears
+
+         "I live alone/ I have home, car"
+         MAHIR CAGHRI TRIBUTE
+         http://artists.mp3s.com/artists/63/mahir_cagri.html
+
+         "[unintelligible] to beat / how 'bout the most complete
+         Internet products available?
+         Traffic variations for large populations
+         you're meeting demand - you're being scalable"
+         THE NETSCAPE/ SUN ALLIANCE RAP, Netscape promotion
+         http://www.ntk.net/media/knowhow.ram
+
+         "Kill him Mr Lucas, I implore you!"
+         JAR-JAR BINKS MUST DIE, Damn Nation
+         http://www.oakland.edu/~zztasesk/jarjar.html
+
+         "We bought it to help with your homework,
+         and the household accounts,
+         if your dad ever works it all out"
+         HEY HEY 16K, MJ Hibbert
+         http://www.aas.mcmail.com/aas024/start.htm
+
+         "I have a dream, and it's called a cross-bar switch,
+         What will this mean is no big data glitch"
+         I HAVE A DREAM, SGI promotion
+         http://www.ntk.net/ads/dream.mp3
+
+         "Move your hips in a gyrating circle,
+         got to get deep like my main man Urkel"
+         GO TO THE BODY, Rebecca Eisenberg and friends
+         http://greenrocket.com/mp3/
+
+         "Bake for the future!" (translated from the German)
+         BACK FOR THE FUTURE (The Official Amiga Anthem)
+         http://www.perez.de/annex/
+
+
+                              >> OFF TRACKING <<
+                        last minute Christmas presents
+
+         A Pentium Keychain?
+         http://www.triptonics.com/keychain/
+
+         A Butt Hinge?
+         http://www.patents.ibm.com/details?pn=US05819372__&language=en
+
+         A CTRL-ALT-DEL footpedal?
+         http://www.bilbo.com/
+
+         PalmPilotPorn?
+         http://www.mtco.com/~goettjp/PornPilot.html
+
+         A Furby Hooker?
+         http://www.fishdot.org/furby/
+
+         A new, 2.4 GW nuclear power plant (price on application)?
+         http://www.usedturbines.com/#powerplants
+
+         A Photon Push-Pull Radiation Detector for Use In
+           Chromatically Selective Cat Flap Control and 1000 Megaton
+           Earth-Orbital Peace-Keeping Bomb?
+         http://dips-2.dips.org/dips/viewer?PN=GB1426698&CY=gb&LG=en&DB=EPD
+
+         A Lara Croft poster composed entirely of pornographic thumbnails?
+         http://www.smalleranimals.com/tylergalleryboard/lara.jpg
+
+
+                              >> CODE REVIEW <<
+            descriptions you'll never forget of films you never saw
+
+         IMDB: based-on-novel / controversial / cult-favorites /
+         detective / dominant-mother / rain /
+         masturbation-scene / money / mother / birds / dead
+         / shower / house / murder / bathroom /
+         psychological / stolen-money / swamp / thief /
+         toilet / transvestitism ?
+         Answer: PSYCHO
+
+         IMDB: hitwoman / insurance / interracial-love / liberals
+         / los-angeles / love / may-december-romance / /
+         politically-incorrect / / rap / satire / /
+         socialism / south-central / suicide / vulgarity /
+         afro-american / assassination-attempt /
+         assassination / black / california / controversial
+         / drug-dealer / gangs / hip-hop / hitman ?
+         Answer: BULWORTH
+
+         IMDB: computer-fraud / twist-in-the- end / robbery /
+         skyscraper / technology / double-cross / computers
+         / laser / insurance / master-thief / new-year's-eve ?
+         Answer: ENTRAPMENT
+
+         IMDB: cannibalism / indian / reincarnation / windigo /
+         california / manifest-destiny / satire / scottish /
+         stew / westward-expansion / winter / cave /
+         chaplain / fort / frontier / historical / horses
+         Answer: RAVENOUS
+
+         http://www.capalert.com/capreports/: petty theft;
+         planning to defy father's wish; nude female
+         breasts; fondling of female breasts; portrayal of
+         beings having power of the weather; counterfeiting
+         of God's plan for the family hierarchy; public
+         urination
+         Answer: A MIDSUMMER'S NIGHT DREAM
+
+         http://www.capalert.com/capreports/: repeated
+         public urination; rudeness to the elderly; leaving
+         a five year old boy in the care of two male
+         homosexuals; homosexual patting of genitals;
+         homosexual statues; a general licentious disregard
+         for that which is traditionally proper
+         Answer: BIG DADDY
+
+
+                    >> QUICKFIRE SUIT AND TIE-BREAKERS <<
+
+    (for Unix users:)
+    Q. How do you do a for loop in awk? (Easy)
+    A. for (initialization; condition; increment) body
+
+    Q. What's a christmas tree packet?
+    A. A packet with every single option set for whatever protocol is
+       in use.
+
+    Q. What status response should be sent back by a HTTP/1.1 server
+       to a HTTP/0.9 GET request?
+    A. Trick question! The HTTP/0.9 protocol doesn't support a status
+       response. And it doesn't send it's version number, anyway - so
+       this shouldn't happen. Hahahah! You're *sacked*!
+
+    (for Windows users:)
+    Q. If you boot Windows NT and you're missing the TCPIP.SYS - what
+       happens?
+    A. Blue Screen Of Death on Boot
+
+    Q. If you remove the MAC address for your own machine from the
+       Windows ARP cache - what happens?
+    A. Blue Screen Of Death on Boot
+
+    Q. And if you're stupid enough to try out either of the above on
+       your own machine, what should you have done first?
+    A. What we should have done with the pre-Y2K Website: backed it up.
+
+
+                              >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> those On:Digital subscriptions pay off at last, as Sky
+         serves up not just rebadged "Roswell" US teen alien sitcom
+         ROSWELL HIGH (8pm, Thu, Sky1), season 3 of BUFFY (8pm, Fri,
+         Sky1), and season 1 of Buff spinoff ANGEL (9pm, Fri, Sky1) -
+         but also, and perhaps most unmissiably, STARSHIP TROOPERS:
+         THE ANIMATED SERIES (7.30am, Mon-Fri, Sky1)... there's a
+         "slightly better" new series of FRASIER (10pm, Fri, C4)...
+         *two* no-doubt hee-larious character comedy shows in the
+         form of WHATEVER YOU WANT (11.30pm, Fri, ITV) plus THAT
+         PETER KAY THING (10.30pm, Wed, C4)... and, if it seems
+         jokier and less dark than you remember it, it's because
+         you've tuned to Steve Martin in THE LONELY GUY (9pm, Fri,
+         BBC2) instead of Kevin Spacey in SE7EN (9.30pm, Fri,
+         BBC1)... C4 picks up last week's Woody Allen baton with
+         as-you'd-expect backstage docu WILD MAN BLUES (10.30pm, Sat,
+         C4), dated sketch anthology EVERYTHING YOU EVER WANTED TO
+         KNOW ABOUT SEX (12.30am, Sat, C4), and foul- mouthed
+         autobiog adoption knockabout MIGHTY APHRODITE (11.05pm, Sun,
+         C4)... and the contest for wackiest futureview hots up, with
+         deranged Rubik's Snake-rape sci-fi DEMON SEED (12.30am, Sat,
+         BBC2), plus lively 19100AD shoot-em-up JUDGE DREDD (10pm,
+         Mon, BBC1), rivalling even Nostradamus-inflected invasion
+         drama FIRST WAVE (8.05pm, Thu, C4) and Richard Metzger's
+         Montauk Project expose based-on-original-website
+         counterculture mag DISINFO NATION (12.05am, Thu, C4)...
+
+         FILM>> for the last time, "SLEEPY, HOLLOW" is supposed to be
+         the film's title, *not* a description of Tim Burton's visual
+         style!  (http://www.capalert.com/capreports/ : excessive
+         cleavage; nearly continuous excitement; graphic imagery of a
+         headless resurrected battle death victim terrorizing the
+         countryside on horse and on foot). No plot, nutty
+         semi-parodic casting, plus Burton's usual in-jokes, not
+         least of which seems to be that the Headless Horseman comes
+         on like a steampunk Terminator... or, if you're looking for
+         something slightly more morbidly cathartic, there's
+         Scorsese's breast-beating NY ambulance-chaser BRINGING OUT
+         THE DEAD (http://www.capalert.com/capreports/ : graphic drug
+         reaction; mockery of God's sovereignty; many women with the
+         same face; graphic conduct of CPR with defibrillation;
+         repeated episodes of multiple injuries in the emergency room
+         with mayhem) - extended episode of Casualty meets endless
+         Nic Cage wig-out scene!...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+            Registered at the Post Office as "happens to everyone"
+                http://www.theregister.co.uk/991231-000005.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 19100 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

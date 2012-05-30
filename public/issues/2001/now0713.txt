@@ -1,0 +1,359 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-07-13_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "My theory is that the (Internet) industry was started in
+         large part by technologists rather than media people..."
+            - Robin Webster, President, Interactive Advertising Bureau
+                     http://news.cnet.com/news/0-1005-200-6523029.html
+              ...of course, if we "media people" were smart enough to use 
+                        search engines, or books, we'd be able to check...
+
+
+                                >> HARD NEWS <<
+                                   you lose
+
+         Good to see MICROSOFT offering to "disappear" IE5.0 from
+         OEM's desktops should they want to (but not Media Player,
+         which actually still has a modicum of competition). Of 
+         course, nobody has any choice now, so the offer is moot: an
+         official announcement of the end of the Browser War if ever
+         we saw one. Of course, there are still a few backwoodsmen
+         fighting the good fight. Perfectly timed, the Microsoft Free
+         Friday campaign was announced last week (as so many major
+         projects are these days, by Dave Winer randomly talking in
+         his sleep). It includes a module for Apache that bounces IE
+         users off your Website, encouraging them to never return
+         again^W^W^W try alternate browsers like Opera or, maybe
+         telnetting to port 80. But while these squabbles go on and
+         on, by the end of tonight, it'll be clear who won the real
+         Browser War. It's Jamie Zawinski, who - although it was a
+         close race - managed to ship his nightclub before Mozilla 1.0.
+         http://unlikely.org/mike/hacks/mod_msff.c
+                     - we just use courier to achieve the same effect
+         http://www.dnalounge.com/
+            - needed an extra couple of months to design easter eggs
+
+         Apologies to the DIRECT MARKETING ASSOCIATION for drawing
+         attention to the member's contact details database on their
+         Website last week. The security lapse is now fixed, which
+         should mark the end of the story. Unless someone plans to
+         anonymously place the list online elsewhere and then mail us
+         the URL, that is. Still, perhaps the DMA can comfort itself
+         that they're not the only ones to leak valuable strategic
+         data out to the wider world. Thanks to the classic "I said
+         *Bcc:* the membership list!" error, exclusive subscription
+         service NETIMPERATIVE.COM inadvertently published what we
+         assume to be its the entire list of 50UKp a year paying
+         member. And what a star-studded list it is! Martha Lane-Fox,
+         Jon Thingie at Lateral, Steve Bowbrick, Leslie Bunder - the
+         list goes on and - then stops, abruptly, after 184 subs. Is
+         Netimperative really running on 9 grand a year, excluding
+         banner ad revenue? And is its often press release-led content 
+         at all swayed by the high number of PR flacks among its
+         paying audience? And not to imply that the Netimperative 184
+         are a soft touch, but maybe the DMA would like to buy this
+         list off them too?
+         http://www.netimperative.com/
+                   - of course, it's nine grand more than most of us
+
+         OK, not exactly up to the minute news, but it took us a while 
+         to realise what's actually going on here: HARVEY BALL, widely 
+         believed to have invented the "smiley face" logo in 1963, died 
+         earlier this year (that's the circular yellow countercultural 
+         icon, not the :-) emoticon whose variants once padded out the 
+         pages of oh so many internet magazines). Ball, to his credit, 
+         never applied for a trademark or copyright on the design; the 
+         small print for the movie "Evolution", on the other hand, 
+         believes it to be "a registered trademark of Franklin Loufrani 
+         and Smiley Licensing Corporation" - a French guy who says he 
+         devised the design in 1968 and "has made millions" since 
+         internationally registering it in 1971. Just a couple of 
+         questions: Wasn't anyone aware of any "prior art" on this one 
+         (we always thought it came from the simplest graphics that 
+         newborn infants would recognise as a face)? Is Loufrani now 
+         planning to sue, say, anyone manufacturing or using a device 
+         which utilises the IBM PC character set, in which this symbol 
+         occupies positions 1 and 2? And, entirely hypothetically, what 
+         if some highly distributed open source Gnutella or Freenet-
+         style project appropriated it as its "official" logo? Would it 
+         be possible for the public domain to actively steal it back?
+         http://www.s-t.com/daily/04-01/04-14-01/a04wn028.htm
+          - vs http://www.cnn.com/US/9807/07/fringe.smiley.face.off/
+         http://www.evolution-themovie.co.uk/index0.html
+    - and don't get us started on "Transmetropolitan" and "Watchmen"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "end of video censorship" celebration in August issue of 
+         LOADED abruptly truncated by page 75/76 being torn out of 
+         every issue... top product placement: http://www.pgsql.com/ , 
+         http://www.ntk.net/2001/07/13/dohexpo.gif ... BBC refuse to 
+         give up hope: http://www.ntk.net/2001/07/13/dohhen.gif ... 
+         BT research centre finally hits on guaranteed money-spinner: 
+         http://www.adastralpark.com/ ... mythical test data spotted: 
+         http://www.s1play.com/query/s1play/htdocs/stn_id_7/index.jsp 
+         ... this week's "case of the missing millions" (stop, please): 
+         http://www.ntk.net/2001/07/13/doh100.gif ... "and they're not 
+         the only ones": http://www.ntk.net/2001/07/13/dohskills.gif 
+         ... with a reassuring "420" visitors (as of Friday lunchtime): 
+         http://www.legaldirectuk.com/home.asp ... this week's "truth 
+         in search engines": http://www.google.com/search?q=bt+cellnet 
+         ... brands not queueing up to sponsor high-profile G8 summit: 
+         http://www.genoa-g8.it/eng/summit/sponsor.html ... defunct 
+         dotcom selling shirts, skirts, socks off employee's backs?: 
+         http://www.frankgbowen.co.uk/back5.htm ... "senior" salaries 
+         hit: http://www.ntk.net/2001/07/13/dohpound.gif ; minimum 
+         weekly wage: http://www.ntk.net/2001/07/13/dohcheapo.gif ; 
+         ESTATE AGENTS meanwhile now officially "taking the piss": 
+         http://www.ntk.net/2001/07/13/dohwee.gif ... International 
+         Space Station to receive thorough "dicking" via "front door":
+         http://www.ntk.net/2001/07/13/dohdick.gif ...
+
+
+                              >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         In general, we don't like art - but we know what we like, and 
+         it's pictures of spacecraft and exotic women-creatures on the 
+         front of sci-fi novels, the implied subject-matter of THE SF 
+         AND FANTASY ART EXHIBITION (from Sat 2001-07-14 to 2001-08-11, 
+         Foyles Bookshop, 113-119 Charing Cross Road, London, free). 
+         Admittedly, the only exhibitors we've heard of are airbrush 
+         maestro Jim "Traveller" Burns, and SMS - whose idiosyncratic 
+         pencilling style on 2000AD's "ABC Warriors" made such a break 
+         from Simon Bisley's florid interpretations. Oh, and Alligator 
+         Descartes, author of the O'Reilly classic "Programming the 
+         Perl DBI". 
+         http://www.sflink.net/events/artgallery/
+            - but where are the biro drawings of Psi Judge Anderson?
+         http://meets.gblogs.org.uk/partyinthepark.htm
+         - next week: non-dead non-fictitious bloggers' get-together
+
+
+                                >> TRACKING <<
+                 sufficiently advanced technology : the gathering
+
+         Can we make the funny joke about hash becoming legal? For 
+         - do you see? - it is because digital *hashes* of binary 
+         files are being used by *legal* companies to automatically
+         identify copyright-infringing MP3s on file-sharing services.
+         No, we cannot? Very well: a rather better use of hashes is
+         being pursued by BITZI.COM. They've opened up what is,
+         effectively, an Open Directory of bits. You run the open 
+         source BITCOLLIDER program on your local files. It generates
+         a hash value for each one, and, for MP3 and Ogg Vorbis 
+         files, sends that to the Bitzi server with all the
+         metainformation it can deduce (artist, track, album, yada
+         yada yada). Now anyone with that file can grab all the juicy 
+         meta-info, without having to mess around listening to the
+         song. There's precious little infrastructure for Bitzi right 
+         now, but it's likeable because the license is currently 
+         fairly sensible (Dmoz.org-esque, rather than scary cddb-ish),
+         and because - hey, with excessive automated information 
+         gathering on arbitrary binary data, what's not to like?
+         http://www.bitzi.com/
+           - can't believe some people think NTK is incomprehensible
+    http://www.openp2p.com/p2p/conference/graphics/friday/zeros_and_ones.jpg
+          - can't believe this employee thought this was a good idea
+
+
+                                >> MEMEPOOL <<
+                              oogle that google
+
+         ON DIGITAL unveil low-cost upgrade path - that really works!: 
+         http://www.broadbandbananas.com/stickers.jpg ... REEFER MADNESS 
+         at http://www.filmspeed.com/reefer/ - part of evil plan to get 
+         kids hooked on WINDOWS MEDIA PLAYER 7... kicking STAR DUDES' 
+         ass: http://download.theforce.net/theater/gangsta/starwarz.html 
+         ... like running a weblog wasn't enough of a "cry for help": 
+         http://www.daign.com/girls/stacy/bio.html ... when superhero 
+         parodies go bad: http://www.proudrobot.com/hembeck/robin.html 
+         ... or, when TVGOHOME fans go spectacularly off the rails: 
+         http://tv.cream.org/buchan/ ... "Private, what is your MAJOR 
+         MALFUNCTION?" http://www.explosiontoys.com/store/ult081.html 
+         ... when oh when will the public tire of TV catchphrase 
+         double-entendres over piss-poor home-made techno tracks? 
+         http://www.cubanboys.co.uk/ ... "Customers who bought music by 
+         Ultimate Sound Effects Library also bought music by DAVID 
+         GRAY": http://www.amazon.co.uk/exec/obidos/ASIN/B00000AG79/ 
+         ... disappointingly, doesn't monitor its own popularity (yet): 
+         http://www.google.com/press/zeitgeist.html ... life imitates 
+         SNOW CRASH: http://uk.news.yahoo.com/010710/80/bxtb6.html 
+         (c'mon, how long before refugees attach rafts to it and turn 
+         it into a huge floating city?)... and DOGBERT is Leon Trotsky: 
+         http://www.andrew.cmu.edu/~dmb/dilbert.html ... this week, we 
+         have been mainly choosing the (easier?) right-hand paths on: 
+         http://www.konami.co.uk/latest/soon/may01/sscopex/ ... hasn't 
+         quite got the hang of that whole "thou shalt not kill" thing: 
+         http://www.christiangallery.com/hill3.html ... Claudia 
+         "Babylon 5" Christian to sing in AREA 51: THE MUSICAL: 
+         http://www.area51show.co.uk/Synopsis/Act_1.htm (NB: different 
+         Dan O'Brien)... the *cheapest* tickets to low-earth orbit: 
+         http://www.cheapflights.com/cgi-bin/reload/misc/space.html ... 
+         new EMINEM song describes indigestion brought on by over-eager
+         mountaineering: http://www.ntk.net/2001/07/13/purple.txt ... 
+
+
+                                >> GEEK MEDIA << 
+                                  get out less
+
+         TV>> possibly hoping to snag some more of that lucrative lager 
+         advertising, Mark Little presents an otherwise inexplicably 
+         Australian-themed British Grand Prix NO WORRIES WEEKEND (from 
+         11pm-ish, Fri-Sun, ITV), featuring Nathan-Barley-style porn 
+         trawl 24 HOURS IN SOHO (11.35pm, Fri, ITV), CGI-free James 
+         Garner race movie GRAND PRIX (around 3am, Fri-Sun, ITV), cult 
+         car crash musical THE BLUES BROTHERS (11.10pm, Sat, ITV), and 
+         culminating - on an entirely different channel - with Matt 
+         Jones lookalike classic YOUNG EINSTEIN (4.20pm, Sun, C5): 
+       http://www.channel5.co.uk/movies/blockbusters/young_einstein.php
+  vs http://matthau.yoz.com/cam/20010705/images/29_mattj_jason_dave.jpg
+         ... other movie highlights include the Woody Allen bit of NEW 
+         YORK STORIES (12.45am, Fri, C5), the recently postponed-for-
+         some-reason SUTURE (12.50am, Sat, BBC2), Christopher Walken 
+         gangster arthouser THINGS TO DO IN DENVER WHEN YOU'RE DEAD 
+         (10pm, Sun, C4) plus Jack Lemmon back-catalogue like THE ODD 
+         COUPLE (2.10pm, Sat, BBC2) and the slightly more expletive-
+         packed actor-fest GLENGARRY GLEN ROSS (11.40pm, Sun, BBC2) - 
+         but not sodden Morgan Freeman/ Minnie Driver heist yawn HARD 
+         RAIN (9pm, Sat, BBC1), or frantically unhilarious John Cleese 
+         farce CLOCKWISE (4.45pm, Sun, C4)... John Diamond cancer drama 
+         A LUMP IN MY THROAT (9pm, Sun, BBC2) hopefully won't put you 
+         off his wife's delicious-looking recipes in the concluding 
+         edition of NIGELLA BITES (8.30pm, Wed, C4)... like we always 
+         say, DEAD CALM (9pm, Tue, C5) is "Alien" on a boat... and, 
+         apparently, during the era portrayed in the notoriously 
+         anachronistic BRAVEHEART (9pm, Tue, BBC1), they didn't even 
+         have film or movie cameras!... John Sayle's Tex-Mex epic LONE 
+         STAR (12.35am, Tue, C4) and Joe Queenan's THE MAFIA'S TEN 
+         COMMANDMENTS (1.10am, Thu, C4) are both ignominiously shunted 
+         off to post-midnight slots... "Danger is my middle name" is 
+         not the explanation for low-budget Kathy Ireland schlocker 
+         DANGER ISLAND (9pm, Wed, C5)... John Pilger traces the web of 
+         power concealing THE NEW RULERS OF THE WORLD (10.40pm, Wed, 
+         ITV) to discover, controlling everything from his secret 
+         underground base - Jon Ronson!... hopefully, every time they 
+         show that TROUBLE AT THE TOP (11.20pm, Wed, BBC2), it knocks 
+         5-10 million quid off the value of Benjamin Cohen's dot-com... 
+         while "comin' at cha" on Fri is the terrestrial debut of all-
+         girl sci-fi CLEOPATRA 2525 (7pm, Fri, C5) - or "Porno-looking 
+         whores on a violent rampage in futuristic nonsense plots" as 
+     http://libercratic.government.directnic.com/Journal/culture/TV.htm
+         enticingly describes it...
+
+         FILM>> an unusually undistinguished line-up clogging the 
+         multiplexes this week, with Keanu Reeves providing his 
+         traditional "woah, dude" moment in unintentionally hilarious 
+         Charlize Theron terminal illness romance remake SWEET NOVEMBER 
+         (http://www.capalert.com/capreports/sweetnovember.htm: "More 
+         cleavage" command; suggestion that kinky is acceptable; 
+         cohabitation, repeated; face on clothed breasts; transvestism 
+         and additional homosexual presences; two men undressing woman; 
+         book on understanding transvestism)... following the long-
+         running "James Bond" template, Ash et al pursue yet another 
+         previously undiscovered species of supervillain in POKEMON 3 
+         (http://www.screenit.com/movies/2001/pokemon_3_the_movie.html :
+         in the 22-minute short that precedes the main film, a Pokemon 
+         character swats his own rear end and sticks out his tongue, 
+         both directed at another Pokemon character in something of a 
+         taunting fashion)... and the "feature-length Saturday Night 
+         Live character spin-off" concept once again fails to translate 
+         into box-office gold in afro-powered womanising comedy THE 
+         LADIES MAN (http://www.cndb.com/ : you can see [Sofia Milos'] 
+         bare breasts. The only problem is she's wearing obvious white 
+         pasties over her nipples which completely ruins the scene)... 
+         sex-farce fans are equally ill-served by limited-release fare 
+         including Amanda "Jack And Jill" Peet in WHIPPED (imdb: 
+         independent-film/ bar/ basketball/ brooklyn-bridge/ condom/ 
+         dating/ diner/ flashback-sequence/ guitar/ homosexual-slur/ 
+         manhattan/ menage-a-trois/ new-york-city/ nightclub/ one-
+         night-stand/ sex/ statue-of-liberty/ subway/ threesome/ times-
+         square/ twist-in-the-end/ urination-scene/ vibrator/ 
+         vulgarity/ womanizer/ yanked-off-bikini-top/ remake)... or for 
+         that matter Canadian Tilda Swinton alternate-reality play-
+         adaptation POSSIBLE WORLDS (imdb: mystery/ sci-fi)...
+
+         CONFECTIONERY THEORY>> no sooner had we issued our APB over 
+         CADBURY CRUNCHIE NUGGETS [NTK 2001-06-15] than reader "ADAM" 
+         was offered some, by a Cadbury-Trebor-Bassett representative, 
+         in a pub. The nuggets are much as you'd expect, he reports (a 
+         little *too* chewily crunchy, if you ask us); more exciting, 
+         he contends, are the equally new MAYNARDS WINE PASTILLES (also 
+         UKP1.25 for 225g bag): "Wine Gums meet Fruit Pastilles in port 
+         flavoured jelly and sugar dust-up. Bloody lovely". Slightly 
+         odd flavours, too - "and there's still no wine in them!", the 
+         packet endearingly proclaims... PHILIP ROWLANDS spotted would-
+         be "Jelly Belly" rival ROWNTREE'S MEGABEANS in Terminal 4 of 
+         Heathrow Airport, describing the experience as "mostly 
+         pleasing; a standard fruity jelly bean, coated with that 
+         acidic 'tangy' sugar. Chewier than most, could be mistaken for 
+         microwaved fruit pastilles gone wrong". He felt unable to 
+         confirm their advertised "thirst quenching" or "Oingy Boingy!" 
+         properties, as JOSH ROULSTON pondered their transformation 
+         from "fruity gum-beans with bite!" (on the front of the 
+         packet), to the more prosaic "fruit flavoured chewy beans in a 
+         tangy shell" (on the back)... in other product-testing news, 
+         MARS have been trial marketing "M&Ms CRISPS" in Australia, 
+         "halfway in size between regular and peanut (approx size of 
+         the US peanut butter versions)", according to NTK reader 
+         "MIKE", with "a malted biscuit, almost Malteser-like in taste, 
+         but more dense" in the centre. ADAM ATKINSON thought we'd like 
+         to know that "M&M colour compositions change with consumer 
+         tastes", the current mix being "30% brown, 20% red, yellow, 
+         10% orange, blue, green", while KEVAN DAVIS, in the light of 
+         the recent new, "crunchier" TWIXES (and CADBURY'S FINGERS) 
+         wondered "Why do they make the automatic assumption that 
+         increasing some arbitrary trait of a given confection makes it 
+         better? Wrigley's Extra, which is now quite proudly 'Even 
+         Mintier', borders on the burningly uneatable. What next - 'Now 
+         With Extra-Laxative Sorbitol'?"... also this month look out 
+         for SKITTLES SOURS (29p/bag), CADBURY'S STRAWBERRY BUTTONS 
+         ("WITH REAL FRUIT"), STARBURST's MYSTERY "NAME THAT CHEW", 
+         MATLOWS SPACE PEBBLES (described by ANONYMOUS TIPSTER as "the 
+         first truly innovative sugar rich sweet for years" - and not, 
+         of course, to be confused with the "Brilliant Pebbles" concept 
+         of Ronald Reagan's original Star Wars plan) - plus the perhaps 
+         all-too-identifiable "Extreme" range from NTK e-commerce 
+         partners http://www.cybercandy.co.uk/ , boiled-sweet-style 
+         lollies (from UKP2.60) with delicacies like bits of gold leaf, 
+         rose petals, tequila worms and scorpions embedded in them. 
+         Apparently if they're popular they'll look into getting the 
+         chocolate-dipped cricket and chocolate ant nugget too...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "aiming for 'funny XOR sarcastic', actually"
+                    http://www.theinquirer.net/12070101.htm
+
+  
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+      NTK is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

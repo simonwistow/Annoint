@@ -1,0 +1,318 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-10-25_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "My belief - which was sort of wrong, but may in the long 
+         term be right - is that [the net] is going to change business 
+         slowly, over a long period of time..."
+        http://www.sanfran.com/features/transcripts/John_Battelle.html
+...ie, a sufficiently long period of time for me to become right again
+
+
+                                >> HARD NEWS <<
+                               debating ingenues
+
+         Sure, after both BRUCE DICKINSON and CHUCK D dropped out, we 
+         were mainly going to last night's Oxford Union "free music" 
+         debate to give RIAA chair (and erstwhile Napster-slayer) 
+         HILARY ROSEN a hard time. But, as it turned out, there was no 
+         need - Rosen was quite happy to make extraordinary claims that 
+         no copy-protected CDs have been released in the USA 
+         (fatchucks.com, we imagine, would beg to differ), and that 
+         musicians will continue making music whatever happens, which 
+         surely doesn't quite back up her anti-file-sharing position. 
+         Reassuringly, the motion that "This House believes that the 
+         free music mentality is a threat to the future of music" was 
+         resoundingly defeated by a hefty 256 "Noes" to 72 "Ayes" - so: 
+         if we can demolish them this effectively on our home ground, 
+         why can't we do it in real life? Though we did give Hilary and 
+         Jay Berman (of the International Federation of Phonographic 
+         Industries) a special round of applause when we later ran into 
+         them in the garden outside. "Tough crowd", we sympathised, and 
+         "You did very well considering your indefensible position".
+http://www.oxford-union.org/mod.php?mod=calendar&op=show_event&event_id=10
+         - some problems finding students to speak for the motion too
+         http://tirian.magd.ox.ac.uk/~nick/UnionDebate/
+                                  - vs http://www.mba-experience.com/
+         http://alumni.ox.compsoc.net/~agk/photos/CDR/full/C0889.jpg
+              - Hilary averts eyes from CD shirt, of which more later
+
+         Nice to see so many NTK subscribers at the Oxford Hilarython
+         - still no news of a coach party to the forthcoming software
+         patents "public meeting" (the one, you remember, in
+         Brussels on 2002-11-07, in the cupboard beneath the European
+         Parliament stairs, next to the sign saying "Beware of the
+         Leopard"). However, Andy Ellam wrote in to point out that
+         the person doing the drafting for the Parliament is slightly
+         closer to home. ARLENE MCCARTHY, MEP for the North West,
+         will be writing the software patent legislation - so if
+         you're a concerned constituent, you might want to give her a
+         little note explaining your worries. Or, if there's a crowd
+         of you, see if you can't organise a meeting. Fax and email
+         details are at http://www.arlenemccarthy.labour.co.uk/ . Mail
+         us at tips@spesh.com with "Come On Arlene" if you'd like to
+         be introduced to people with similar interests. "She hasn't
+         declared any relevant financial interests", says Andy,
+         peering over the PDF of her declarations, "but rather
+         worryingly, she does seem to be a Roxy Music Fan".
+         http://wwwdb.europarl.eu.int/ep-dif/2173_19-02-2002.pdf
+                        - paging Mr "Friend of the Technologist" Eno!
+         http://swpat.ffii.org/index.en.html
+     - all you need to know about software patents, and slightly more
+
+         Usenet has always been the Eastern Front of the Net: it was
+         they who faced the first Newbie invasions, the first spam
+         warlords, the deprivations of scaling, the raiding-parties
+         of early censors. And yet, despite all the ravages, running
+         it behind the scenes has been the same old sinister,
+         lowercase cabal. It takes its toll, though: and thus it came
+         to pass that the seeming everlasting, often quiescent, David
+         C. Lawrence a.k.a "tale", has stepped down as moderator of
+         news.announce.newsgroups. tale's been around since the
+         beginning of known time, and was king of the newgroup and
+         rmgroup message - the official seal of approval for the
+         creation and destruction of froups in the Big 8 (comp, sci,
+         talk, biz, rec, news, misc and kibo) - even after a nasty
+         bike accident a few years ago. Stepping into his place are
+         Russ Allbery, Todd McComb and piranha - Usenet (and, to some
+         embarrassment, Usenet 2) veterans all. The switchover is a
+         time for some long-time hatchet burials: the rogue INET
+         newsgroups (briefly a breakaway republic from the Big 8
+         empire) have been readmitted. But that's it. As tale always
+         seemed to like it, it's all quiet again. For now.
+         http://groups.google.com/groups?th=f6f9d75f53e66649
+                            - two weeks ago, and nothing's broken yet
+    http://groups.google.com/groups?selm=tale.23467.aa_ty34g345%40ten.uu.net
+                                        - and not April 1st this time
+         http://www.usenet2.org/rant.txt
+                     - new triumvirate not always as taciturn as tale
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+         
+         "Grand Theft Auto Vice City is brilliant" writes LUCIEN KING,
+         co-founder of RockStar Games, developers of Grand Theft Auto:
+         http://www.guardian.co.uk/online/story/0,3605,817488,00.html ...
+         PETA changes tack: http://www.ntk.net/2002/10/25/dohpet.gif ... 
+         self-similiar self-help http://www.xu.edu/lac/Procrastination.htm
+         .... proof-reading doesn't get more high-profile than this:
+         http://www.spicypictures.com/ ... although perhaps it should be:
+         http://www.google.com/search?q=%22at+it%27s+best%22 (esp. number 10)
+         ... attracting the lucrative "Viz reader" tourist market:
+         http://www.geocities.com/afrikanherbman/theturtleshead.html ...
+         well, somebody's going to get a lot of telephone calls:
+         http://www.idedata.no/butikk/produktbilde.asp?ID=1005xs4.jpg
+         ... for organic, but presumably irradiated produce:
+         http://story.news.yahoo.com/news?tmpl=story&u=/021021/161/2hkfs.html
+         a database error with a fine playground taunt tone to it:
+         http://www.ntk.net/2002/10/25/doharcher.gif ... for unusually
+         precise shoppers http://www.microbuyer.co.uk/en-gb/dept_55.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         BOB CRAVEN, DANNY & BETTY BOON, Miami Vice tribute band MIAMI 
+         SPICE and, of course, disgraced New Romantic pop icon GARY LE 
+         STRANGE will be gracing the stage at the irregular talent show 
+         hosted by PETERFORD GOLF CLUB (7.30pm, Tue 2002-10-29, Canal 
+         Cafe Theatre, London W2, UKP5), kind of like "Vic Reeves' Big 
+         Night Out", but with a plot. A somewhat less motley lineup 
+         will be discussing CHARGING FOR CONTENT: CAN IT WORK? (6.30pm, 
+         Wed 2002-10-30, The Media Centre, London W1P, free - including 
+         one drink - to pre-registered editorial professionals), where 
+         speakers include FT.com's JAMES BOXELL and The Friday Thing's 
+         PAUL CARR who, we're pleased to report, was never charged with 
+         *anything* over the content of thinkofthechildren.co.uk. Heh.
+         http://www.chortle.co.uk/venues/canal.html
+                             - doesn't appear on here for some reason
+         http://www.onlinecontentuk.org/Oct02event.html
+                                   - third speaker reassuringly "TBC"
+         http://www.alljustwords.co.uk/aboutme.shtml
+                                              - "Tee hee hee", indeed
+         http://www.ieee.org.uk/event.html#SONY
+                                 - also on Wed: the IEEE hack the PS2
+         http://www.ox.compsoc.net/events/termcards/current/
+         - in Oxford on Thu: the Richard Clayton bankrobbing roadshow
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Penance week here at Tracking, after everybody and their
+         second monitor wrote in to say that X2VNC does everything
+         that last week's SYNERGY does - and has been doing it since
+         199X. So what better rod for our backs than the W3C's
+         newly-revamped HTML VALIDATOR? No less strict, but more
+         explanatory, this new beta of the Web's dominatrix is still
+         handing out chinese burns for the slightest HTML deviation.
+         Only nowadays it won't take those pathetic "dog ate my
+         character encoding" and "left my DOCTYPE at home" excuses.
+         We'll take that as a cue to fix NTK's shameful
+         ill-formedness over the weekend. Just as soon as we've tried
+         to upgrade to the all new FREENET 0.5 - the other part of
+         our self-imposed punishment. Oh, we are so very very bad.
+         http://fredrik.hubbe.net/x2vnc.html
+                          - responsible parties have been "degaussed"
+         http://validator.w3.org:8001/
+           - public beta; will arrive at its destination port soonest
+         http://freenetproject.org/cgi-bin/twiki/view/Main/WebHome
+              - Windows users get an auto-installer, the lucky devils
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         oh, those annoying higher-rated GOOGLE name-alikes: 
+         http://www.erotica-readers.com/ERA/xvid-johnleslie.htm ... 
+         not to be confused with the "John Leslie" unceremoniously
+         "disappeared" from http://makeashorterlink.com/?N21162A32 ... 
+         http://homepage.virgin.net/vernon.jenkins/PS.htm - the darker 
+         side of: http://www.cl.cam.ac.uk/~mgk25/iso-paper.html ?... 
+         Wharf TV: http://www.frisnit.com/radar/radar.html vs DAVID 
+         ICKE's "you will invariably find a skyscraper shaped like an 
+         obelisk because of the effect that has on the energy field": 
+         http://www.davidicke.net/symbolism/jclicker/series1page26.html 
+         ... life: http://www.ahleman.com/ElectriClerk6.html imitates 
+         JWZ: http://www.jwz.org/gruntle/tty.html ... related artists: 
+         http://www.allmusic.com/cg/amg.dll?p=amg&sql=B3x63mp9f9f8o ... 
+         http://www.justinspace.com/ebay/ebayart.html gone too far: 
+         http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=1390007452 
+         ... at last - a POWERPOINT HAMLET which doesn't need frickin' 
+         Powerpoint: http://home.nyc.rr.com/dradosh/ppaol.html ... 
+
+
+                                >> GEEK MEDIA <<
+                       blimey, new http://www.tvgohome.com/
+
+         TV>> nerdy Ben Stiller private detective indie curio ZERO 
+         EFFECT (12.55am, Fri, C5) is, nonetheless, one of the all-too-
+         few films that ends with someone saying the title... Channel 
+         4's bid to move away from list-based Saturday nights is 
+         undermined by the American Film Institute's 100 YEARS - 100 
+         THRILLS (9pm, Sat, C4)... while CLASSIC ALBUMS (12midnight, 
+         Sat, ITV) presents a long-overdue appreciation of "Never Mind 
+         The Bollocks, Here's The Sex Pistols"... FOYLE'S WAR (8pm, 
+         Sun, ITV) appears to be a non-ironic adaptation of TVGoHome's 
+         "Inspector Bumhat"... TRUE SPIES (9pm, Sun, BBC2) is a fly-on-
+         the-wall documentary about life at Special Branch and MI5... 
+         and marrying into unexpected complications is the dual theme 
+         of both MICKEY BLUE EYES (9pm, Sun, C4) and THE CHERYL 
+         BARRYMORE STORY (9pm, Sun, C5)... "You are feeling sleepy... 
+         You *will* add a programme reminder...", insists the Digiguide 
+         listing for DERREN BROWN: MIND CONTROL 3 (10.55pm, Sun, C4): 
+         http://www.ntk.net/2002/10/18/dohderren.gif ... the makers of 
+         "From Hell" take a look at the other side of the business in 
+         AMERICAN PIMP (11.10pm, Mon, C4)... and THE STATE WE'RE IN 
+         (9.30pm, Tue, BBC Choice) is the current affairs show 
+         developed under the working title of as "News Is My Bitch"... 
+         Iain "not Clive" Sinclair helps put psychogeography on the map 
+         - http://www.martian.fm/psychogeography.htm - in his M25 
+         profile LONDON ORBITAL (11.40pm, Tue, C4)... "consolidation is 
+         inevitable" is the bizarre pro-corporate message of Meg Ryan 
+         AOL product placement atrocity YOU'VE GOT MAIL (9pm, Wed, 
+         C5)... and child-prodigy composer Daniel Pemberton proudly 
+         announces he's done the soundtrack for the COMEDY LAB 
+         (11.40pm, Thu, C4) adaptation of East London's sub-Nathan 
+         Barley fanzine "Shoreditch Twat"... 
+         
+         FILM>> we weren't too impressed with Andrew "Gattaca" Niccol's 
+         high-concept Al Pacino non-CGI synthespian goatee-stroker 
+         S1MONE ( http://www.capalert.com/capreports/simone.htm : talk 
+         of godhood; full nudity, brief; three men urinating in a 
+         restroom; vehicular irresponsibility; fraud throughout)... 
+         nor, for that matter, self-consciously surreal goth "Back To 
+         The Future" knockoff DONNIE DARKO ( http://www.bbfc.co.uk/ : 
+         Contains strong language and psychological horror)... Neil "In 
+         The Company Of Men" LaBute puts his trademark misanthropy on 
+         hold for historic Gwyneth Paltrow flashback romance POSSESSION 
+         ( http://www.capalert.com/capreports/possession.htm : lesbian 
+         snuggling; gaping mouth kissing; mockery of God's Grace; 
+         portrayal that a lesbian choice is acceptable; suicide by 
+         lesbian, viewed twice)... making this week's surprise 
+         recommendation - assuming you can withstand sustained exposure 
+         to near-lethal levels of cod Russian accents - endlessly grim 
+         Harrison Ford Soviet nuclear sub tension-twister K-19: THE 
+         WIDOWMAKER ( http://www.bbfc.co.uk/ : Moderate grisly images 
+         and sustained moderate peril)... 
+         
+         FULL SHIRTS BAD! T-SHIRTS GOOD!>> well done to long-term reader 
+         (but first-time winner!) LLOYD WOOD who, after many years of 
+         sending in bizarre t-shirt slogans - we particularly remember 
+         his Slashdot-baiting "stuff the nerds - news that matters" - 
+         has at last hit paydirt with his oh-so-simple suggestion of 
+         "++UNGOOD;" - you know, "double-plus", like in "1984"? The 
+         judges were especially impressed by the elaborate, J Peterman-
+         catalogue-style exposition he provided to support his case: 
+         http://www.ee.surrey.ac.uk/Personal/L.Wood/double-plus-ungood/ 
+         - and of course the fact that, once you've decided which 
+         distressed typewriter font to go for, the shirt almost designs 
+         itself. It's on sale now at http://www.ntkmart.com/ , along 
+         with some (limited) new stock of the ever-popular "404 
+         /SHIRT/TIE NOT FOUND", lowtech.org's "SKIP RAIDER" technology 
+         recycling design, the "CORRUPT CD" one which Hilary Rosen 
+         looked so unamused by, and (relatively uncommon) first edition 
+         printings of Mil Millington's THINGS MY GIRLFRIEND AND I HAVE 
+         ARGUED ABOUT book (not currently available in t-shirt form) 
+         ... a good response to last month's "Ben Franklin" idea 
+         http://www.cs.nott.ac.uk/~djm/ntk/franklin_small.png submitted 
+         by DUNCAN MARTIN, so we'll try and push that up the print 
+         queue before Christmas. On a similar note, there's been a real 
+         cyberactivist emphasis to your recent entries, including 
+         TOMMY's http://www.vertebrate.co.uk/shirts/killingmusic.gif 
+         and http://www.vertebrate.co.uk/shirts/criminal.gif ; JAMES 
+         SWIFT's http://www.geekstyle.co.uk/images/fnuck.png ; and the 
+         mysterious "JONATHAN"'s http://www.castlecoole.com/ . But 
+         don't forget: you can always just send us a text slogan - like 
+         the anonymous poster behind "STDIO ERGO SUM" - and still win 
+         up to UKP2.00 royalty per item!... no major media sightings 
+         this month - though Martian FM's IAN MARTIN saw an NTK shirt 
+         on September's "Stop The War" march, worn by a "30-something 
+         bespectacled Londoner with a commanding moral grandeur" - but 
+         we have at last got to the bottom of the appearance in the 
+         Buffy The Vampire Slayer Roleplaying Game [NTK 2002-09-27]. 
+         "I am just a silly yank illustrator that had no knowledge of 
+         your edgy publication!", writes the original artist, one RK 
+         POST http://www.rkpost.com/ . "I didn't want to infringe on 
+         any trademark characters. So I thought that I made something 
+         up... or was it fate?" Punishment withheld - this time - RK; 
+         truly our control of the world's media subconscious is now 
+         complete... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+        "If there is a mixture of standing and kneeling, then stand"
+             http://www.theologic.com/oflweb/inchurch/etiquet.htm
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

@@ -1,0 +1,338 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-06-09_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Presentations from the south [of Europe] were particularly 
+         dreadful... one spoke while the other simply clicked a mouse to
+         show the next Powerpoint slide"
+- VANESSA RICHARDSON, on how Europeans don't pitch like *proper* Americans
+         http://www.herring.com/vc/2000/0602/vc-pitch060200.html 
+            ... while I, by contrast, just sat there, writing it down
+
+
+                                >> HARD NEWS <<
+                                divide by twos 
+
+         Splitters! The inevitable occurred, and following the
+         distinct lack of either apologies or kool-aid drinking in
+         Washington state, the assumption is that Bill and Steve are
+         just waiting for Al or George to come to power, re-install
+         the DOJ staff with friends of Redmond, and quietly forget
+         about the whole thing. But given the company's blithe
+         demeanour to political shenanigans (at the time of the
+         announcement, Steve was in Europe, and Bill was failing to
+         get a decent haircut), do they even care about creating a
+         political solution? What Penfield Jackson spotted about MS
+         was that they were "untrustworthy" types, happy to ignore
+         the spirit of any suggestion if they can comply with the
+         wording. And that means that given a legal division, they'll
+         hack a technical workaround. At the end of this month,
+         Microsoft will announce the details of its Next Generation
+         Web Services. It'll spec out an API framework, using that
+         ole industry standard, XML. It'll be a public API, just like
+         the lawyers want. But you can bet that that API will be so
+         driven by the way that Windows works, that it doesn't matter
+         if you're working with the Microsoft App company or the
+         Microsoft Window company, if they use NGWS, you'll be buying
+         it from them, or a bunch of wannabe's desperately playing
+         catch up with their specs. Doesn't matter who's leading the
+         Microsoft twins when the appeals end: if they're given
+         enough momentum, they'll follow a trajectory of exclusionary
+         methods that'll keep them both lock-step in technological
+         lock-in. Microsoft isn't fighting the legal damage: it's
+         planning to route right around it.
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2581842,00.html
+                     - Windows services? Web services? NT Technology?
+         http://monkeyfist.com/articles/514
+                                           - RPC's considered harmful
+         http://www.ntk.net/2000/06/09/dohcompton.jpg
+                                             - straight outa Redmond!
+
+         Like good entropian cynics, we were wont to disregard the
+         SEALAND DATA HAVEN story as another fantasy invented by
+         people who get their business plans from back issues of
+         Interzone. But is there more to it than a Freedom Ship
+         without a rudder? On the con side: the Sealand fortress,
+         while appealing to far-off dreamers, has as much chance of
+         surviving a concerted assault by international law and order
+         as Radio Caroline had of developing a independent nuclear
+         deterrent. On the pro: long-time Anguilla cypher-exile Sean
+         Hastings does seem to have collected a Who's Who of Can-Do
+         cypherpunks to assist, including Sameer "C2Net" Parekh, and
+         Avi "AboveNet/BoardWatch" Freedman, and there's talk of
+         satellite links and connections not just with tetchy Albion,
+         but the continental mainland. And while we think it's going
+         to be a little hard to construct a viable turnover from
+         strong ideals and an AUP that bans anything illegal in
+         customer's country of origin, we can bet that they'll be
+         some useful publicity from when that RIP bill hits - not to
+         mention when they host a Freedom Server, a FreeNet node, and
+         a tax-free casino over there. But will the prospective
+         libertarian clientele be too objectivistically correct to
+         trust any state, let alone a decadent principality? Maybe
+         what the deep cypherpunks say is true: you don't want a data
+         heaven in meatspace, you want it distributed throught the
+         Network. Tim May, he say: don't trust the laws of men. Trust
+         the laws of mathematics.
+         http://slashdot.org/article.pl?sid=00/06/04/1742209
+                           - and carry a big boom-stick, we'd imagine
+         http://www.havenco.com/about_havenco/theteam.html
+                                          - ooh ooh! brits with guns!
+
+         And as if to illustrate what trouble small islands off the
+         coast of big countries get into, HONG KONG is the latest
+         country to propose banning access foreign sites that
+         contravene local standards of taste and decency. Given that
+         their nearest neighbour recently arrested a Net journalist
+         and threatened him with ten years imprisonment for breaching
+         same, you can see why netizens there are getting a little
+         nervous. Why, if the consultation paper becomes law, the
+         place could become as much an enemy of free speech as
+         Australia! Free Net HK (no relation) asks if you could add
+         your word to the campaign to stop the blockade. Ta!
+         http://www.geocities.com/freenethk/
+                                                     - free speech...
+http://www.editorandpublisher.com/ephome/news/newshtm/stories/060900n5.htm
+                                     - ...or free rides with the cops
+         http://www.nypost.com/news/5645.htm 
+- of course, there are always ways to tunnel dodgy material into a country 
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.491.org/projets/api/ open sources HTML, meta tags
+         from http://www.debian.org/ ... - but by QA teams, too:
+         http://www.ntk.net/2000/06/09/dohphoenix.jpg ... ex-boo
+         employees now bitterer than ex-Wired UK employees, official:
+         http://www.whatididforboo.com/ ... Times INTERFACE (prop.:
+         R. Murdoch) gives rave review to LineOne (prop.: R. Murdoch)
+         http://www.the-times.co.uk/interface/insight/story541.html
+         ... "Irish Firms Find Security Breeches", reassures DOT.IE's
+         newsletter ... MAXIM, 2000-07, p150 recommends boo.com as
+         the website of the month. concludes "You can't go wrong" ...
+         National press reveals existance of bomb making instructions
+         on the Net (again), calls for a national crackdown (again) ... 
+         the secret of that special sauce revealed:
+         http://www.deja.com/=dnc/threadmsg_ct.xp?AN=628819541 ...
+         It's the new bunderlife! http://www.mostxlnt.co.uk/2000/ ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         "Your Arts Council dollars at work" once again bring you a
+         well-meaning Nathan-magnet in the form of TECH NICKS, a "a
+         long hot summer programme of workshops, presentations and
+         collaborative projects", from 4pm, Sat 2000-06-10, and
+         initially based - where else? - in that very epicentre of
+         Barley-dom, THE LUX CINEMA IN HOXTON SQUARE. The usual co-
+         opting of open source / street-tech philosophies might make
+         it worth a look if you can't make it to this year's YET
+         ANOTHER PERL CONFERENCE 19100 - as could Matthew
+         "Underground/ IOD / Webstalker" Fuller's plan to create the
+         "world's largest human cellular automata" at 7pm Thu 06-15,
+         with people with umbrellas acting as cells in Conway's
+         "Life". Though we think he means "world's largest cellular
+         automaton", unless he's going to be creating more than one
+         of them...
+         http://www.noaltgirls.org/tech_nicks/
+              - no "cellular automata " (or even automaton) to be seen
+         http://www.ukuug.org/events/linux2000/
+                - UKP75 "Early Bird rate" ends Saturday (members only)
+         http://yapc.org/America/
+                  - " get on the stage immediately, explain your idea,
+                                                       and then leave"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         One of the eeriest areas of the Net to stumble on at 4am is
+         the engineering nostalgia pages of the TRANSDIFFUSION 
+         NETWORK. A thirty-seven year old archive begun by a
+         nationwide collective of schoolboys, maintained by the
+         men they became, Transdiffusion collects the idents, logos,
+         and general desiderata of long dead television companies.
+         Essays on "the presentation manager as chef"; blurred clips
+         of a junior John Humphries from the sixties; echoey MP3s
+         trailing long dead shows; and urgent messages
+         from RTE ordering viewers to turn off their televisions, in
+         case the local powerstation collapsed from the strain - it's
+         all here. And now, we're told the mailing list wing of the
+         wider gang of obsessives MHP-Chat ("the list that discusses
+         anything on TV except the programmes (idents, widescreen
+         glitches, test cards, etc.") is offering a free copy of
+         Volume 2 of the Tansdiffusion CD archive to its own members.
+         Our correspondent writes: "It would seem uncontentious to
+         flag this, since I hardly think anyone would join a TV
+         engineering list in bad faith, simply to lay their hands on
+         such a CD". There's no bad faith within 625 lines of this
+         place.
+         http://www.meldrum.co.uk/mhp/features/kif_1.html 
+                              - i think i'm going to burst into tears
+         http://www.meldrum.co.uk/mhp/continuity/continuity.html
+                                         - 404 Errors of the Ancients
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         porn: scandinavians show you how: http://pornolize.com/ ...
+         Microsoft Cellphone vs Apple iMobile? ... Billie Puppet!
+         http://www.bugsbugs.co.uk/stuff/puppets.html ... breathe.com
+         not as cool as they think: http://tsluts.com/?content_id=125
+         ... www.fuckedcompany.com ! Uh, I mean, Falco! ... ...
+         http://www.mediapill.com/ the official slightly less amusing
+         version of http://www.emporiumoffruit.co.uk/ ... will the
+         British public ever tire of ingenious genre name generators?
+         http://qix.lm.com/cgi-bin/fun/glamname.pl ... this week's
+         reader nomination for The Real Nathan Barley:
+         http://www.jamie.com/projects.htm - his N3 magazine "might
+         be useful if you're attempting to maintain a brand identity
+         online. Who isn't?"... DNA's earlier, funny work:
+         http://www.xcalibur.co.uk/games/hitchhik.html ... Hubcap
+         Central: http://www.ncircus.com/ufo/uphoto.htm ... the
+         acceptable face of Flash *and* France:
+         http://www.hahabonk.com/channel/index.asp?sect=0&movie_id=87
+         ... Yeah. Who *does* want to marry a sysadmin?
+         http://www.fistfullofunix.com/index2.html ... the post-potato 
+         C64 WAP client: http://www.geekhaus.co.uk/recondite/ ...
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> the most fun in SO "BEST" OF GRAHAM NORTON (9.55pm, Sat,
+         C4) likely to be watching for obviously faked phonecalls and
+         the famed "Argos dog penis" meme [from NTK 1999-12-10]... a
+         triple treat for would-be "Lone Gunmen", with docus on Marilyn
+         Monroe's FINAL DAY (11pm, Sat, ITV), the "mass suicide" of a
+         Ugandan Christian cult in WITNESS (9pm, Sun, C4) - the usual
+         cover-up used to erase evidence of CIA mind-control camps -
+         and thinly veiled Mel Gibson/ Julia Roberts MK-Ultra whistle-
+         blower CONSPIRACY THEORY (9pm, Tue, C5)... oleaginous film-
+         club spaz Mark Cousins now "owns" BBC2 late-night weekends,
+         pestering WOODY ALLEN SCENE BY SCENE (10.55pm, Sat, BBC2)
+         before intro-ing the funniest of his late-era comedies,
+         BULLETS OVER BROADWAY (11.45pm, Sat, BBC2)... David Shayler
+         the first "person with a homepage" profiled in ostensibly
+         pointless 5-minute slot VIRTUAL ME (7.55pm, Mon-Wed, C4)...
+         and Paul "Shopping" Anderson enthusiastically pilfers Alien,
+         Flatliners, Solaris and The Prodigy's back-catalogue for
+         intermittently unpleasant sci-fi EVENT HORIZON (10pm, Mon,
+         BBC1)... David Duchovny, Sigourney Weaver and Will Smith are
+         among the xenobiologist luminaries polled in CLOSE ENCOUNTERS:
+         PROOF OF ALIEN CONTACT (11.30pm, Mon, ITV)... the creators of
+         THIS LIFE (Mon-Fri, 11.20pm, BBC2) - a slot which could just
+         as easily be filled by double episodes of "Seinfeld" - are
+         making a new series about web designers, hopefully called
+         "*No* Life"... and it's Rutger Hauer week on C5 - again - with
+         familiar-sounding serial killer BONE DADDY (9pm, Thu, C5),
+         plus Albert "Mean Guns" Pyun's characteristically bizarre
+         Westworld remake OMEGA DOOM (10pm, Fri, C5)...
+
+         FILM>> on the plus side, semi-ironic nerd-makeover prom
+         procedural DRIVE ME CRAZY (http://www.capalert.com/ : another
+         teen autonomy movie; one use of the most foul of the foul
+         words; sneaking to introduce dye in the school water system;
+         homosexual presence (multiple); cyber relationship; waste of a
+         jacket in anger) does feature Melissa Joan "Sabrina The
+         Teenage Witch" Hart - and is, of course, based on the Britney
+         Spears song of the same name... ditto - partly - for Woody
+         Allen's Sean Penn tortured-artist jazz odyssey SWEET AND
+         LOWDOWN (imdb triva: "Sweet and Low-Down" by George Gershwin,
+         is a song on the soundtrack of Woody Allen's "Manhattan")...
+         Joely Richardson obsessives get their second trip out of the
+         house this year, as David Duchovny continues battling the
+         supernatural side-effects of experimental organ transplants in
+         Minnie Driver rom-com RETURN TO ME (http://www.capalert.com/ :
+         programming of which Jesus would not approve, largely due to
+         Jim Belushi)... sounding like a Lee and Herring sitcom
+         already, Ewan McGregor plays a character called "The Eye" (who
+         likes to "hold bees"?) in bizarre cult-in-the-making voyeur
+         romance EYE OF THE BEHOLDER (http://www.cndb.com/ :
+         "excruciating surrealist dud of a film. Ashley Judd: her ass
+         in the rain while she's washing blood off her back and calling
+         out her dead father's name; a quick glance of her breasts as
+         she is getting into a bath. Good shot of her right nipple if
+         you watch closely")... and, finally, David Thewlis' GANGSTER
+         NO.1 (http://www.bbfc.co.uk/ : Passed '18' for frequent coarse
+         language and strong bloody violence) is another gritty British
+         crime epic, this time based around the plot of Goodfellas or
+         something - a disappointment for anyone who thought the
+         mistranslated-sounding title meant it was a Jackie Chan film...
+
+         CONFECTIONERY THEORY>> the mutagenic weather brings a frenzy
+         of speciation, with confirmed sightings of OCEAN SPRAY
+         CRAISINS (spotted by STUART CAMPBELL, UKP1.89 for 170g, dried
+         cranberries that "resemble raisins", available in great-
+         tasting "original" and "strawberry" varieties), plus "limited
+         editions" of CADBURY'S TIME OUT MINT CHUNKY (similar to Wispa
+         Mint, and/or a giant Viscount biscuit), and this month's early
+         contender for taste abomination, CADBURY'S LEMONADE CRUNCHIE,
+         the ill-judged successor - if that's the right word - to the
+         "Champagne Crunchie" [NTK 1999-08-20], and largely resembling
+         a normal Crunchie that's been left on a shelf next to some
+         powerful household cleaning products... keen Cadbury's-watcher
+         MIKE GRAY also alerted us to their sending of special promo
+         CDs to registered Wispa users, featuring a surreal 2-minute
+         audio ad for Wispa Bite and what sounds like the phrase "shoes
+         can be twisted tight for a satin flight stream"... extending
+         our sphere of influence beyond the sweet counter to what
+         http://www.esa.org.uk/ succinctly describes as "potato chips,
+         edible nuts, savoury snacks, tortillas, pretzels, popcorn,
+         pellet snacks, pork rinds, meat snacks and other snacks", we
+         have positive reports of MARKS AND SPENCER'S THE [CHINESE]
+         TAKE AWAY (assorted flavours, all UKP1.99) in Seinfeld-style
+         cartons, and actually pretty darn microwavable (despite the
+         lack of specific instructions) for those of us who love the
+         reassuring smell of irradiated cardboard... while tipster ZOOT
+         argues that "the pointless rebranding of all Kellogg's cereal
+         products makes Frosties look like an appalling 'own-brand'
+         pastiche of itself", prophetically coinciding with Kellogg's
+         controversial, similarly Seinfeldian campaign to "replace
+         *another* of your daily meals with a bowl of cereal. Hell, why
+         not *all* of them?" (our paraphrase)... addressing the "frozen
+         chocolate gravel" effect of both NESTLE SMARTIES ICE-CREAM
+         and the M&M one, we're pleased at last to welcome the
+         MCDONALD'S MCFLURRY to these shores (99p, participating
+         restaurants only), currently only available in Smarties and
+         Cadbury's Daily Milk variants, yet retaining the USA's weird
+         outsized, square-shaped-with-a-clip-on-the-top spoon... and
+         finally, scary-sounding new stuff that we've heard of but not
+         yet witnessed first-hand: send us *your* sightings of NESTLE
+         COLA SMARTIES, NESTLE ROWNTREE BURSTING BUGS, and a startling
+         development in the static "Slush Puppy" market, ICE BLAST - a
+         "Frozen Carbonated Drink" with the sinisterly alliterative
+         slogan: "Feel the Frozen Fizz!"...
+ 
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+          "So which is it, Kennedy? Portalofevil or 'need2know.com'?"
+                           (Internet Magazine, p42, p66)
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

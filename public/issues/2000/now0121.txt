@@ -1,0 +1,279 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-01-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+ 
+         "'We made the buttons on the screen look so good you'll want 
+         to lick them', says Steve."
+                        - STEVE JOBS on the jellybean-licious MacOS X
+                http://www.pathfinder.com/fortune/2000/01/24/app.html         
+                ...watch out for the brown "Application Quit" dialogs
+         
+ 
+                                >> HARD NEWS <<
+                                crusoe carusos 
+
+         TRANSMETA announced its new range of chips this week
+         (spoiling our prediction that they were unveiling a new set
+         of amusing meta-tags for their Website: names count for
+         nothing in this business). The low-power chips for mobiles,
+         in case you don't get in much, are called Crusoes (which, of
+         course, connates lack of mobility and powerlessness. qv
+         previous parens). Fuddled hacks have so far been vague on
+         the ramifications - extra marks for Wired News on their
+         trenchant analysis of the menu served to journos at the
+         launch - so we'll leave it to Ars Technica to give you the
+         real run-down. Best observation so far goes to NTK sub Nick
+         Sweeney who noted that the webcast Torvalds vs Dave Taylor
+         Quake deathmatch gave a powerful message out to the Linux
+         weenies: "he may be a god to you, but to us, he's another
+         chubby engineer who needs to practice his plasma gun skills."
+         http://arstechnica.com/cpu/1q00/crusoe/crusoe-1.html
+                                       - for the hungry for knowledge
+         http://www.wired.com/news/technology/0,1282,33778,00.html
+                                                     - for the hungry
+
+         Our obsession with JONATHAN UNGOED-THOMAS's coverage of the
+         thyber-crime scene continues unabated, even if his latest
+         work: "Hacker gang blackmails firms with stolen files",
+         actually contains a germ of truth in it. VISA UK genuinely
+         did receive a ransom demand, and the James Grant arrest is
+         connected. But what about those eleven other companies?
+         Would one hacker "gang" really try to draw that much
+         attention to itself? And what of those "source codes", and
+         the fiendish tricks of "sophisticated" cyberterrorists who
+         use the dreaded tools of the scoundrel, "Internet mail and
+         chat"? And would the appearence of this story - with its
+         implication of an organised hacker fronthave *anything* to
+         do with the announcement of a "cybercrime" squad by the
+         NCIS, just days later?
+http://www.the-times.co.uk/news/pages/Sunday-Times/stinwenws01028.html?999
+                                   - and he's a hit on talk.guns too!
+         http://www.the-times.co.uk/interface/
+                        - feast on those "Spirit of '94" button GIFs!
+         http://www.homeoffice.gov.uk/oicd/conslist2.htm
+         - then tap into the Home Office's IOCA consultation exercise
+
+         An *exceptionally* mild winter is probably high up on the
+         forthcoming excuses made by TELEHOUSE about their
+         increasingly crowded server piles. Still, if it's still too
+         chilly for you outside, maybe you'd like to pop by to the
+         all-too-popular co-location house, where temperatures in
+         some cages have hit up to 37 degrees centigrade recently.
+         While Telehouse ops staff say that there isn't a
+         problem, the fact that they're now leaving doors open (to
+         let the hot air escape, and to fit a standalone
+         heat-exchanger in) should make it a lot easier to sneak in
+         and toast yourself in front of nice blazing, mission-critical
+         Webserver.
+         http://www.telehouse.net/ 
+                                                - companies mentioned
+         http://www.linx.net/
+                                                 - ...in this article
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         more Y2K hubris: http://members.aol.com/jesprognyc/y2000.htm
+         ... you'd at least LUCENT would know better than to run IIS:
+         http://www.ntk.net/2000/01/21/lucentuk.gif ... New Media Age
+         Online gives full cc: list to e-mail subscribers, prompting
+         imminent net marketing spam meltdown ... "does 50% of the
+         virgin.com staff resigning in a week count as a Falco?": not
+         yet, but you're getting there ... KEVIN WARWICK watch: "it
+         could be one day possible to hack into someone's brain and
+         corrupt what they're sensing." - NEW SCIENTIST, 2000-01-22
+         ... THE GUARDIAN, as part of its weeklong festival of
+         anti-news, claims "Public enemy were the first to download a
+         whole album" ... ONION STORIES in the real world:
+         http://www.ntk.net/2000/01/21/redirsfgateonion.html 
+         vs http://biz.yahoo.com/prnews/000120/ny_agency__1.html  ...
+         SEGA DREAMCAST features "individual floating shaving heads,
+         with 90 omni-directional slots to catch and cut all hairs":
+         http://195.224.53.206/comet/default.asp?page=PP&product=358851&site=GNG
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Another couple of years go by [see NTK 1998-01-30], another
+         Namco TIME CRISIS sequel lures you to the AMUSEMENT TRADE
+         EXHIBITION INTERNATIONAL (Tue-Thu 2000-01-25/27, Earls Court,
+         London). We must admit, we're not too sure about this one (the
+         Namco Time Crisis sequel, that is - ATEI's the same every
+         year): CRISIS ZONE has the same "press pedal to duck" action,
+         but the recoiling plastic pistol has been replaced with a H&K
+         MP5K-style submachine gun, which destroys both the on-screen
+         terrain and much of the subtlety and pacing of the original.
+         http://www.atei.co.uk/
+         - we *still* like the idea of a "Parks And Attractions" show
+
+         And for those who prefer their huntin' and shootin' rather
+         more "off the rails", London games cybercaff THE PLAYING
+         FIELDS proclaims that it's the "only" UK qualifying centre for
+         this year's CPL $100,000 Quake 3 playoffs. The heats don't
+         actually start till Sun 2000-02-20 but, because the UK winner
+         gets UKP1000, free entry to the Dallas finals, free flights,
+         free accommodation, UKP500 in spending money and "Gameplay
+         freebies" (presumably a baseball cap with the old Wireplay
+         logo on it), competition is likely to be *fierce*.
+         http://www.playingfields.co.uk/content/cpl_about.shtml
+         - "Players may dress in jeans, shorts, slacks, skirts, shoes,
+                         T-shirts or dress shirts. Hats can be worn."
+
+
+                                >> TRACKING <<
+                sufficiently advanced technology: the gathering 
+
+         The browser wars may be over in the land of the Big People,
+         but down here in the ASCII trenches, there's still
+         everything to play for. Our new favourite (we're so fickle):
+         LINKS. As Kragen Sitaker notes, you can't
+         search for it, and you can't tell anyone about it without
+         them thinking you've just found out about Lynx, but apart
+         from the name, it's great. On-the-fly reformatting of
+         a downloading page, handles tables well, and the same
+         cute xterm mouse handling that made our previous love, w3m,
+         such a joy. And at only 300K for the source, how could
+         you not give it a go?
+         http://artax.karlin.mff.cuni.cz/~mikulas/links
+                - at least somebody in .cz isn't running a warez site
+         http://mordor.net/~bet/links/ 
+                                       - mirror where the shadows lie
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         IRC IRL ROFL: http://www.ircnews.com/mirc.html ... ... whois
+         -h whois.nic.uk linuxformat.co.uk ... how the other 0.0001%
+         live: http://www.iwantoneofthose.com/mfjet.htm#fjetcus ...
+         teletubby Happy Meals! ... Pseuds Corner meets Death Metal:
+         http://www.evilmusic.com/bands/entombed.html ... using major
+         net outages to get bargains on auction sites ... Web design
+         of the future: http://www.toyangel.com/iluvjarjar/ ...
+         http://www.its-a-london-thing.com/ vs
+         http://its-a-london-thing.nu/ [caution: content advisory]
+         ... http://www.unamerican.com staffer, ironically, appears
+         to "hate his job": http://www.ntk.net/2000/01/21/redirunamerican.html 
+         ... obligatory Star Wars/Lego/Occasional Funny Shuttlecocks link:
+         http://www.brunching.com/ratings/rate-starwarslegos.html ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less 
+
+         TV>> an unofficial cannibalism theme on BBC2 tonight, with 
+         mildly disappointing new LEAGUE OF GENTLEMEN (10pm) - hint: 
+         the butcher's surname, Briss, is close to the Jewish word for 
+         circumcision - plus DELICATESSEN (12.50am, Fri), post-
+         apocalyptic French food farce from the makers of Alien 4... 
+         TV's finest music format returns in TOP TENS (9pm, Sat, C4), 
+         this week on "one hit wonders" - presumably including host 
+         Phill Jupitus, who had a minor success with that Buzzcocks 
+         quiz game a few years back... but the future belongs to C5 and 
+         its annual SCI-FIVE WEEKEND, featuring Rutger Hauer parallel 
+         universer CROSSWORLDS (9pm, Sat), bleak Crichton neurosurgery 
+         parable THE TERMINAL MAN (10.50pm, Sat), dated '80s Smith & 
+         Jones clunker MORONS FROM OUTER SPACE (12.50am, Sat), and - 
+         intentionally funnier? - Zsa Zsa Gabor all-female oldie QUEEN 
+         OF OUTER SPACE (2.25am, Sat)... then on Sunday, there's no 
+         doubt "edited for language" peerless geek blockbuster 
+         GHOSTBUSTERS (5.35pm, Sun), plus incomprehensibly odd Marlon 
+         Brando remake of ISLAND OF DR MOREAU (9pm, Sun) which, to be 
+         fair, has a great title sequence... in the face of which, C4 
+         throws up its hands in despair and schedules shockingly 
+         unerotic Demi Moore / Burt Reynolds "comedy" STRIPTEASE (10pm, 
+         Sun, C4)... nothing on the rest of the week, unless you count 
+         double-episode body-swap X FILES (10.20pm, Wed, BBC1), C4 
+         devoting an hour-plus to a history of the clitoris - first in  
+         a 3-part series on PRIVATE PARTS (10pm, Thu, C4), and Richard 
+         Metzger trying to get some sense out of uber '70s-casualty and 
+         Illuminatus! creator, Robert Anton Wilson, in DISINFO NATION 
+         (12.40am, Thu, C4)...
+         
+         FILM>> with Gabriel Byrne in the opposite of his usual role, 
+         STIGMATA (http://www.capalert.com/capreports/ : severe 
+         distortion of reality; constant sinister flavor; tattoos of 
+         nudity; placement of Jesus in a setting of sinister darkness; 
+         mumbo-jumbo about God's sovereignty; a full meal of violence 
+         to the non-believer) is to "The Exorcist" what "End Of Days" 
+         is to "The Omen", though sadly not as good as any of them. The 
+         plot explores the ancient prophecy that, when Christ returns 
+         to earth, he will take the form of one of the Arquette 
+         siblings and, since you ask, doesn't appear to be based around 
+         the Ministry song of the same name... Chris Columbus reteams 
+         with Robin Williams to give the world the appropriately 
+         interminable Mrs Robot Doubtfire weepie BICENTENNIAL MAN 
+         (http://www.capalert.com/capreports/ : teen and preteen 
+         arrogance against fair parental authority; assisted suicide; 
+         flatulence; detailed discussion of sexual intercourse and 
+         orgasm; a romp into the world of Kevorkianism and Clintonics) 
+         - enough to make Asimov fans modify the First Law: "injure a 
+         human being, or, through inaction, allow a human being to come 
+         to harm - unless it's fricking *Robin Williams*"... otherwise 
+         you take your chances with sci-fi-free Aussie ensemble STRANGE 
+         PLANET (imdb: comedy / romance), curiously unreviewed Brit 
+         crime caper RANCID ALUMINIUM (imdb comment: "the most 
+         convincing performance came from Dani Behr of all people"), or 
+         arguably Wes "Nightmare On Elm St" Craven's most terrifying 
+         creation yet - Meryl Streep in violin-teaching feelgooder 
+         MUSIC OF THE HEART (http://www.capalert.com/capreports/ : 
+         marital breakdown horrors; violent attitude; inviting 
+         cohabitation; overall cheapening of marriage; drive-by murder 
+         [unseen])...
+
+         COMPO CORNER>> yes, perhaps we should have specified that you
+         didn't have to enter *all* the rounds in our soul-destroyingly
+         epic end-of-year quiz [NTK 1899-12-31 ho ho]; we regret to
+         report that none of the remixes of the phrases "Need To Know"
+         from the extensive list of pop tunes provided has yet been
+         deemed adequate for use as a "theme tune" for NTK personnel at
+         their (irregular) public appearances. Still, commendations to
+         both BEN at cam.ac.uk for his "Windowsian Crapsody" -
+         "Mozilla! We will not let you code (Let him code!)" etc - and
+         ELLIOTT NOEL for "Baby Got Stack" (to the tune of "Baby Got
+         Back", by Sir Mix-a-lot, obviously). Sadly, both were
+         disqualified for not submitting MIDI accompaniments as per the
+         contest rules; Elliott's claim that "he actually began a IT
+         module of it a while ago" but doesn't "really have the
+         tracking skills anymore" is good - *but not good enough*. So,
+         at last, we are pleased to announce that the overall winner of
+         our Y19100 no-prize is none other than BEN LAURIE who, safe in
+         his server-bunker http://www.thebunker.net/hosting.htm ,
+         cheerfully corrected even our official competition answers
+         (specifically "Q. What status response should be sent back by
+         a HTTP/1.1 server to a HTTP/0.9 GET request? A. Trick
+         question! The HTTP/0.9 protocol doesn't support a status
+         response") with "Tch. HTTP/0.9 is recognisable by the fact it
+         doesn't send a version number (incidentally, the flag that
+         indicates this in Apache is called 'assbackwards'. Honest)".
+         Well done Ben, and comiserations to the rest of you: next
+         year, we promise not to make the quiz so difficult that the 
+         only only right answers come from co-authors of Apache... 
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+             Registered at the Post Office as "somewhat skeptical"
+                http://www.deja.com/=dnc/getdoc.xp?AN=572872131
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

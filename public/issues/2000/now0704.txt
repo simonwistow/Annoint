@@ -1,0 +1,302 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-07-04_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Some fellow consultants at OgilvyOne at work are involved in
+         a few 'practical memetics' projects at the moment... We have
+         been trying to work out how we can upgrade the idea of a
+         'brand communication' to make it as resilient as the chain
+         letters that flow around the net."
+         - SALIM FADHLEY, UK-NetMarketing mailing list
+         http://www.chinwag.com/uk-netmarketing/msg00184.shtml
+     ...VERY SICK CORPORATION MICROSOFT WANTS TO GET IN GUINESS BOOK
+                  OF RECORDS FOR MOST PRODUCT REGISTRATION CARDS SENT
+
+
+                                >> HARD NEWS <<
+                                  legal dues
+        
+         Now that it has the sword of truth, the shield of fair play,
+         and, most precious of all, the orb of scaredy-Cat ISPs, who
+         will stop the GODFREY vs DEMON judgement from
+         spreading through the land? This week, OUTCAST!, the gay
+         magazine run by Chris "no, the one who took the age of
+         consent law to the Court of Human Rights" Morris, was shut
+         down by ISP NetBenefit, on the merest suspicion that its
+         articles might be defamatory. When the Campaign Against
+         Internet Censorship in Britain ran a story on the Outcast
+         shutdown, its ISP was advised to remove their page too. This
+         time the warning was from LG himself, complaining that the
+         article's title could be construed as libellous to
+         Godfrey himself. Worried yet? But surely we not move
+         all our poor and huddled Websites away from nervy British
+         ISPs to America? Not according to LG, who has suggested that
+         he'll sue UK companies that even run the DNS of allegedly
+         libellous sites. To escape the threat of legal
+         action, you'd need to switch domains too. But then, what
+         about those local proxy caches? Could Freeserve be sued,
+         merely for transporting the contents of these offshore
+         sites? This could get interesting. Too interesting.
+         http://www.liberty.org.uk/cacib/
+                                      - should be over the sea by now
+         http://www.deja.com/getdoc.xp?AN=605744927
+         - the same Pink Paper who used to cry "free speech" against
+                             libel writs from Duncan "Echelon" Campbell
+
+         When the the London Stock Exchange trading computers crashed
+         *just* at the point that the US stock market bubble wobbled,
+         it's tempting to see more than the usual invisible hand
+         manipulating the market. Was it truly incompetence on an
+         unparallelled scale, or could this "accident" have been a
+         deliberate denial of service prevent further instability?
+         Well, given Andersen Consulting's involvement, we're
+         assuming the former. On the other hand, we're still curious
+         about the sudden bounceback in the US markets on Tuesday.
+         Who was behind Goldman and Merill Lynch's purchase of stocks
+         around 1PM? Did the market really pick itself up using the
+         bootstraps of post-lunch bonhomie? Or as New York Post
+         columnist (and Whitewater conspiracist) John Crudelle
+         implies, was it a staged intervention by the Feds into the
+         punch-drunk market's fall?
+         http://www.nypostonline.com/business/2250.htm
+                                  - (via Robot Wisdom, out of Drudge)
+         http://news.bbc.co.uk/hi/english/business/newsid_703000/703859.stm
+
+         Hard news, or April Fools? Microsoft guilty - maybe, but
+         then why aren't they *acting* guilty? A Jet Set Willy Academic
+         Conference - yeah, we can see that; but Netscape 6 launched
+         when Mozilla isn't even in beta. Nah. Apache for PDAs - okay,
+         there's already Jim Rees' Palm webserver, after all. But QXL
+         suddenly a "good buy"? Oh, it's all too confusing. And
+         it's not as if this entire industry hasn't been an extended
+         practical joke for the last decade or two...
+         http://www.apacheweek.com/features/apachepda/register-before.gif 
+                     - this has to be true - the Register says so ...
+         http://www.apacheweek.com/features/apachepda/register-after.gif 
+                                        - or did a few minutes ago...
+         http://www.citi.umich.edu/u/rees/pilot/
+                                             - when it's not even news
+         http://www.mozillazine.org/chromezone/component.html?component=17
+                                  - jump Netscape out of its AOL skin
+         http://www.deja.com/getdoc.xp?AN=605185455
+         - Memory Palaces: Spatial Mnemonics, Virtual Reality, and 
+                                   Why I Never Finished JET SET WILLY
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         http://www.cyrix.com/ liberated by Puerto Madryn!... KRAYS
+         fans of TVGOHOME: http://www.ntk.net/2000/04/07/dohhammer.jpg
+         ... this week's Scandinavian fakesite [CAUTION: STRONG SEXUAL
+         IMAGERY] http://www.math.helsinki.fi/~ville/tekomuna/ ... kids who 
+         carry weapons more likely to use illegal drugs, says new
+         study... secrets of running a top e-commerce site:
+         http://www.theregister.co.uk/000406-000018.html ... PC WORLD
+         sees future: http://www.ntk.net/2000/04/07/dohpcworld.gif ...
+         in accordance with NTK prophecy [1999-04-02], DECADENT ACTION
+         call last "phone in sick day"; no-one cares (why not just
+         stick your phone *in some sick* instead?)... overclocking
+         misunderstood http://www.weeklyworldnews.com/stories/1450.html
+         ... PHANTOM MENACE finally released on DVD - in 2007!... in
+         W3C-style analysis, BBC reveals hell is - PHIL COLLINS
+         ttp://news.bbc.co.uk/hi/english/uk/newsid_699000/699929.stm
+         ... CYBER PATROL blocks uk.rec.competitions, Sunsite Europe
+         - also www.need1now.co.uk - phew, that was close...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         It's Official! At last week's GEEK PRIDE in Boston, voters
+         helped us establish ALAN TURING as the "top geek role model"
+         of both fiction and reality, beating off tough competition
+         from Linus Torvalds, Steve Jobs, Eric S Raymond, The
+         Terminator, Hannibal Lecter, Roy Batty from "Blade Runner",
+         and Sandra Bullock's character in "Demolition Man". So, now
+         you know. Next week promises to be an altogether more sober
+         affair, with the Gordon Joly-promoted BBCNC 6TH BIRTHDAY PARTY
+         (a pub, in London, 8pm Thursday 2000-04-13) unfortunately
+         clashing with the opening night of THE ART OF STAR WARS at The
+         Barbican (from 2000-04-13 to 09-03) - which, perhaps
+         disappointingly, just seems to be some an exhibition of the
+         "art" involved in making the films, rather than like that book
+         which re-interprets scenes from the saga in the style of the
+         old masters.
+         http://www.pobox.com/~gjoly/
+                                       - again, if you need to ask...
+         http://www.theartofstarwars.co.uk/
+               - and it's not as if they're the Lego ones or anything
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         So you made the leap from Windoze gaming kiddie to Linux dev
+         god: you live in vim, gcc and cvs, you've got mpg123 getting
+         playlists off MySQL and displaying on an LED readout, you've
+         got so much connectivity between your devices that your
+         room's in danger of becoming spontaneously sentient, and if
+         you really feel the need for some blasting you've got GPL'ed
+         Quake and an ultra-smooth 5-button non-MS mouse. (Or
+         nethack. Or "Pingus") So what to do with that lonely,
+         unloved joystick gathering dust in the corner? With
+         Mordechai T. Abzug's jsd it'll be reborn as the
+         mp3-player/image-viewer/anything-else-you-hack-it-to-do
+         controller-lightning-wand-powerstaff of your technology
+         throne. And being the very model of an Open Source
+         individual, you'll happily send Morty your patches...
+         http://linux.umbc.edu/~mabzug1/jsd.html
+          - or just tell him to ensure the archive's gzipped, 'cos it aint
+
+         
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Canana hothousing world-beating COUNTDOWN athletes (rule 5
+         at): http://www.freelotto.com/Rules.asp ... MSX-BOX revisited:
+         http://www.faq.msxnet.org/kay-nishi.html ... TERENCE MCKENNA
+         attains deeper, more permanent trance-state than ever before
+         ... feeding MR T cgi output through http://www.askjesus.org/ -
+         then back to Mr T!... "Hey nonny nonny nooooo!", part 2:
+         http://www.njlong.ndirect.co.uk/agm_minutes_1999.htm - tone
+         oddly reminiscent of "Thorin starts singing about gold"...
+         DARPA continue getting all their best ideas from sci-fi films:
+         http://www.darpa.mil/baa/baa00-34.htm ... hello CTHULHU!
+         http://www.upl.cs.wisc.edu/~kimuchi/cthulhu.html ...
+         *two* feature length REBOOT movies... Cardassian BARBIE:
+ http://www.geocities.com/Area51/Cavern/7733/Barbie/CustomBarbie.html
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> OK, for the clarification of everyone who writes in 
+         moaning that we didn't plug this week's episode of "Jam" / 
+         "Blake's Seven" / "the repeats of Spaced on the Paramount 
+         Comedy Channel", NTK TV policy is, wherever possible, to alert 
+         you to the first episode of a new series, then allow you to 
+         make up your own mind if you want to watch more of them... 
+         exceptions are made (or satellite output covered) when we know 
+         a show or series to be of unusual quality, as is indeed the 
+         case with US import GOOD VS EVIL (formerly G VS E - 9pm, Wed, 
+         Sky1), perhaps best described as Buffy The Vampire Slayer in 
+         the style of Starsky And Hutch. Almost worth the On-Digital 
+         subscription *on its own* - which is handy, because MTV seem 
+         to be repeating *yet again* last year's THE TOM GREEN SHOW 
+         (10pm, Tue, MTV)... back on terrestrial, it's quirky sci-fi 
+         weekend, with a typically entertaining Verhoeven dystopia in 
+         TOTAL RECALL (10.15pm, Sat, ITV), space-time wormhole sequel 
+         THE PHILADELPHIA EXPERIMENT 2 (12.10am, Sat, BBC1) - featuring 
+         a parallel future where the Nazis won WW2, as opposed to, for 
+         instance, the Allies having won it, but *in a different way* - 
+         plus Roger Corman's recut-from-other-f/x-sequences cheapie 
+         BATTLE BEYOND THE STARS (5.50pm, Sun, BBC2)... an ADHD-crazed 
+         PANORAMA (10.05pm, Mon, BBC1) imitates the Onion gag 
+         "Potential Picasso Prescribed Ritalin"... the trailer-spoiled 
+         Mel Gibson thriller RANSOM (9pm, Mon, C5) loses out to Sam 
+         Raimi's Sharon Stone designer Western THE QUICK AND THE DEAD 
+         (10pm, Mon, C4)... yes, you're kicking yourself that you never 
+         got round to registering FILM2000.com (11.15pm, Tue, BBC1)... 
+         and the appallingly entitled WHEN LOUIS (THEROUX) MET JIMMY 
+         (SAVILLE) (9.30pm, Thu, BBC2) offers perhaps just enough 
+         temptation to the continuity announcer who must then introduce 
+         cultural fad analysis THAT THING (10.20pm, Thu, BBC2) on the 
+         Pokemon "Pocket Monster" phenomenon...
+         
+         FILM>> Julia Roberts continues her one-woman war against 
+         traditional feminism in sassy legal thriller ERIN BROCKOVICH 
+         (http://www.capalert.com/capreports/ : bold display of 
+         tattoos; excessive cleavage, breast exposure, and leg 
+         exposure; child arrogance against fair parental authority; 
+         using sex appeal to get ahead; underwear showing; a great 
+         pretend dad for the kids but also a source of immoral sex) - 
+         but, hey, it's Steven "Out Of Sight" Soderbergh, and anything 
+         he does is fine by the arthouse crowd... a largely unknown 
+         actress turns in a moving, highly acclaimed, utterly 
+         convincing performance as a young man - but that's enough 
+         about Kathy Burke in Harry Enfield's upcoming teen comedy 
+         "Kevin And Perry", apparently there's some sort of cross-
+         dressing twist in recent Oscar winner BOYS DON'T CRY as well 
+         (imdb: independent-film / murder / rape / sexual-identity / 
+         small-town-life / sexual-identity-crisis / small-town / 
+         transgender / alcohol / time-lapse-photography / based-on-
+         true-story / transsexual / transvestitism / transsexualism / 
+         violence / birthday / intolerance / white-trash / karaoke / 
+         love / lesbian) - all together now, *not* based on the 
+         Ultrav^H^H^H^H^H "The Cure" song of the same name... great 
+         cast, no action in talk-heavy LA actor-wank HURLYBURLY (MPAA: 
+         Rated R for constant drug use, pervasive strong language and 
+         sexual material) - we say: wait for the one where Garry 
+         Shandling plays a talking alien penis - though, promisingly, 
+         in this one, Meg Ryan does get pushed out of a car... and, 
+         perhaps inevitably, Kathy Burke pops up, with the usual gang 
+         of "Final Cut" idiots, in unsurprisingly dire gangster comedy 
+         LOVE, HONOUR AND OBEY (imdb comment: "the main reason for this 
+         film seems to have been that the cast wanted to play with a 
+         load of guns")... 
+
+         CONFECTIONERY CORNER>> being largely an excuse to say: that
+         guy who tried to get in touch with us that time about his
+         "American snack imports" - could you mail us again, this time
+         to tips@spesh.com - as Danny seems to have "eaten" your
+         previous one?... overall, an unusually disappointing month for
+         newsagent / petrol station produce, with the highest profile
+         launch - QUAKER'S "95% (+/-5%) fat free tasty rice and corn
+         snacks" CRISPY SNACK A JACKS (49p for 35g bag, look "near the
+         crispbreads") - largely resembling giant dessicated sugar
+         puffs, sprayed with a range of unappetising flavours:
+         Chocolate (95% fat free), Caramel (97% fat free), and of
+         course Cheddar Cheese (90% fat free) - by far the most
+         palatable of the lot, though almost identical to that WALKERS
+         SUN DOG CHEESY POPCORN we were hooked on back in 1999-04-16...
+         also scoring 1 out of 3: the relaunched "FRY'S SPIRIT" cream
+         liqueur bars (RRP42p - FRY'S of course being merely a front
+         for notorious new-product dabblers CADBURY'S), in "Berry
+         Margarita" (identical to strawberry-centred Black Magic),
+         "Pina Colada" (weird pineapple & coconut) and "Velvet Dream"
+         (pleasantly neutral) - "Don't they have a vaguely suggestive
+         strapline?", reports our faintly amnesic correspondent.
+         "Something like: 'Soft as a penis on your tongue'?"... because
+         we registered miniegg.co.uk 2 years ago and never did anything
+         with it, send us *your* samplings of the wide range on offer:
+         price, number per packet, how many you could consume before
+         feeling ill... sightings also required on the following new
+         products rumoured but not yet confirmed: CADBURY'S WISPABITE
+         (like Wispa but with biscuit bits, due to launch on the same -
+         epic? - scale "as WispaGold in 1996"); non-mentholated
+         strawberry TUNES (to be "aimed at clubbers"); and this year's
+         new crop of summer ice-creams, including WALLS' SOLERO ICE,
+         and a selection of NURISHMENT-flavoured tubs (2.79 for 500ml),
+         based on the crack addict's favourite milky energy drink...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+              Registered at the Post Office as "Lamers vs Kramer"
+           http://204.254.168.34/photos/saturday/820pm/MVC-012F.JPG 
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

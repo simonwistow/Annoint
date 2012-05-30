@@ -1,0 +1,193 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-09-02_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                              a conspiracy brews
+        
+         How long has it been since that rash promise: to start a 
+         member-driven digital rights group in the UK, funded by fivers 
+         pledged by ragged-t-shirted philanthropists like yourself? 
+         Just over an "NTK week", we'd estimate - or one of your earth 
+         months. And the news? Well, dispensing with the traditional 
+         policy of starting a public wiki, a mailing list, and then 
+         trailing off awkwardly into an endless "design a logo" 
+         competition, your deputised authorities have been hard at work 
+         in the background: smooth-talking potential benefactors, 
+         drugging and kidnapping would-be board members, and sidling up 
+         to people who should know better and futilely hinting that 
+         they should quit their day jobs. But time's a ticking on the 
+         pledge, and there's a point where you have to say "screw this 
+         top-down crap: let's become 'massively distributed' and get 
+         everybody else to do the real work". That time is - very 
+         close. But in the meantime, in the style of one of those 
+         always-disappointing teaser campaigns, let us give a name to 
+         our domain: Welcome, please, THE OPEN RIGHTS GROUP. Defenders 
+         of freedom; drinkers of tea.
+         http://www.pledgebank.org/rights
+              - look, you should have seen what the *second* choice was
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Among the (many) interesting aspects of October's WORLD SUMMIT 
+         ON FREE INFORMATION INFRASTRUCTURES (Sat and Sun, 2005-10-01 
+         and 02, Limehouse Town Hall, London E14 7HA, UKP10) is that, 
+         as well as tackling contemporary matters of interest like 
+         wifi, open geodata and community currencies, it also (John The 
+         Baptist-style?) aims to "gather participants, themes, issues 
+         and programme items" for a "larger event in India in late 
+         2006". 
+         http://www.okfn.org/wsfii/wiki/WsfiiDescription
+                - more info at http://www.okfn.org/wsfii/programme.html
+         
+         Taking on "big consumerism" (and raising money for a Portland 
+         zine distributor) the week before, reader Iain Aitch's READING 
+         FRENZY (12noon-5pm, Sat 2005-09-24, Horse Hospital, London 
+         WC1N 1HX) is a second-hand book sale where almost everything 
+         costs a quid, and they'll waive the UKP1 entrance fee if you 
+         bring along some (decent) old books of your own.
+         http://www.iainaitch.com/reading_frenzy.htm
+                    - "Librarian fancy dress" may also swing it for you
+         
+         And outside London, there's a slight overlap between the UK's 
+         "first major [demoscene] party for a few years", SUNDOWN 2005 
+         (from 6pm, next Fri 2005-09-09, Budleigh Village Hall, Devon, 
+         EX9 7DU, UKP25), and - stop us if you've heard this before - 
+         how blogs and wikis are "enabling conversations between 
+         businesses and their customers [...] instead of the monologue 
+         of PR" at OUR SOCIAL WORLD (from 9am, Fri 2005-09-09, The 
+         Moller Centre, Churchill College, Cambridge CB3 0DS, prices 
+         from UKP60 plus VAT), an event which we sincerely hope has 
+         been named so they can sing along to the hit single from 
+         Disney's Aladdin: "It's Our Social World! (our social world!)/ 
+         A new fantastic point of view/ No one to tell us no/ Or where 
+         to go" - or say they're "only dreaming"?
+         http://www.sundown2005.org/rules.php
+             - may also be wishful thinking, but "Girls get in for free"
+         http://www.cybersalon.org/info.html#vrp3
+              - vs "Encouraging women to use mobiles" night, Tue Sep 20
+         http://oursocialworld.com/
+              - see also London http://www.podcastcon.co.uk/ Sat Sep 17
+         
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         really beyond the usual remit of the "Make A Wish" Foundation: 
+         http://www.timesonline.co.uk/article/0,,2-1732873,00.html ... 
+         it's like "Make" magazine for people who aren't too ambitious:
+http://chalkline.blogspot.com/2005/08/diy-coffee-scented-car-freshner.html
+         ... in other DIY ingenuity: http://samsung.co.uk/ vs "Dave G, 
+         I dispair!!!" comment in www.ntlworld.com/styles/global.css 
+         ... somewhat technically-themed Google Goofs o' the month: 
+         http://www.google.com/search?q=%22command+lie+interface%22 , 
+         never forget your http://google.com/search?q=%22loin+name%22 , 
+         http://google.com/search?q=%22fully+fuctional%22 thankfully 
+         more popular than http://google.com/search?q=fully-cuntional , 
+         http://google.com/search?q=%22massage+from+the+director%22 , 
+         slightly more impressive dummy copy than that "Lorem Ipusm": 
+         http://google.com/search?q=complex+chronotron-feedback , and 
+         the long-overdue return of "Unusually Named US Military 
+         Personnel": http://google.com/news?q=Bunnatine+H.+Greenhouse 
+         ... http://www.wftv.com/slideshow/2691965/detail.html?qs=;s=11 
+         - fossil evidence confirms Earth once ruled by - fish guy out  
+         of "Stingray": http://tv-timewarp.co.uk/stingray/ ...  
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Look, I JUST want to run cross-platform automated browser
+         tests of my BLOODY dev website so I can TELL when I break
+         stuff WITHOUT sitting there being MISTER CLICKY CLICKY
+         TESTBOT myself. Is that so very HARD? Judging from the
+         ingenious SELENIUM, which achieves the trick of automated
+         web site regression testing, yes, it is hard:
+         hack-on-top-of-hack hard. Instead of cheating and use IE's
+         OLE2 automation, Selenium does this: it loads, in-browser, a
+         bunch of javascript-driven browser frames on top of your
+         site's pages, which are trapped within their own frame. Then
+         the javascript does the clicky clicky on the lower frame,
+         magically filling your website's forms and clicking links 
+         in Safari, Opera, IE and Firefox, testing the resulting page
+         appearances to ensure it fits in with what you want your
+         site to do. The javascript frames take their orders from a
+         set of instructions spelled out in an HTML table page, or
+         can be driven by Ruby, Java or Python plugins (using a
+         JS->local process communication protocol that's even more
+         evil). The downside is that because of that darn javascript
+         security model, your Selenium javascript and command tables
+         have to be on the same server as your testee website. But
+         don't worry: somebody's written a Selenium web proxy, which
+         fakes Selenium's presence on any foreign site. And if you
+         think that's sick, wait until someone introduces the
+         Selenium coders to those Greasemonkey maniacs.
+         http://selenium.thoughtworks.com/index.html
+                       - it makes a bit more sense when you download it
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         FILM>> the makers of "Anchorman" - minus Will Ferrell - aim a 
+         bit lower in midlife grossout rom-com THE 40-YEAR-OLD VIRGIN 
+( http://cndb.com/movie.html?title=40+Year+Old+Virgin%2C+The+%282005%29 : 
+         This R-rated flick might go down as the movie with the most 
+         missed skin opportunities - the worst being Kat Dennings, who 
+         plays the daughter of the woman the virgin ends up dating)... 
+         Rachel "Wedding Crashers" McAdams faces every air passenger's 
+         nightmare - sitting next to the author of that hard-hitting 
+         industry insider's column in "Edge" magazine - in RED EYE 
+       ( http://www.capalert.com/capreports/red-eye.htm : a quite 
+         violent film with a gaudy helping of foul language; exposure 
+         of adult woman's underwear by fall. Yes, a woman's underwear 
+         is likely to be exposed when she falls but the filmmakers know 
+         *exactly* what is in each and every frame)... then, later in 
+         the month, there's another of those wacky Japanese animations, 
+         HOWL'S MOVING CASTLE (imdb keywords: castle/ floating/ 
+         scarecrow), and no doubt a continued lack of explanation as to 
+         how, in the absence of fresh "hosts", zombies are able to feed 
+         or reproduce, in GEORGE A ROMERO'S LAND OF THE DEAD (imdb 
+         keywords: shot-in-the-chest/ shot-in-the-crotch/ shot-in-the-
+         eye/ shot-in-the-forehead/ shot-in-the-leg)... still, on the 
+         plus side, 2.20am tonight sees an occasional Channel 4 showing 
+         of Skip "Swordfish" Woods' top Tarantino-ish sitcom THURSDAY 
+       ( http://www.cndb.com/movie.html?title=Thursday+%281998%29 : 
+         [Paulina Porizkova] strips and forces herself on this guy 
+         [...] Her dialogue used to degrade him is also a major plus. 
+         A must-see!)... 
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                     "The koolest kid in Peoria, Illinois"
+        http://www.urbandictionary.com/define.php?term=Danny+O%27Brien
+    
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

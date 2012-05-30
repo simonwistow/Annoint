@@ -1,0 +1,273 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-11-05_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "Little did he know that applications such as online
+        auctions, MP3 or network gaming would come about and change
+        the face of the Internet forever, despite being virtually
+        unknown and technically impossible only a year ago."
+                            - EVA PASCOE, The Independent, 1999-11-01
+http://www.independent.co.uk/news/Digital/Columnists/eva011199.shtml
+... actually, finding MP3s has been "technically impossible" since 1996
+
+
+                                >> HARD NEWS <<
+                                  flashy boos 
+         
+         So it seems we've now spent over 200 man-hours redialling
+         the CallNet registration line, kept sane only by elaborating
+         our revenge fantasy of arranging a date between the
+         CallNet0800 hold lady and That Turkish Guy. But we've spent
+         that time growing wiser, stronger, more... clueful. Rather
+         than a NAG-centric piece of work as we thought last week,
+         they do say the 0800 system is mainly a World CallNet
+         operation. It's got upstream bandwidth from NAG, C&W, AT&T,
+         and Cybernet, with outs at Lynx, LoNAP and Manchester and
+         (via NAG) Telehouse NY. Yes, they will throttle
+         registrations when the lines start doing a Screaming.Net.
+         And lest we sound too positive - and we're always too soft
+         on ISPs that turn out to be managed by NTK subscribers - we
+         still think that they're going to hit that limit a damn site
+         quicker than they thought, and we're *still* coming up with
+         horrendous abuse scenarios that could push demand even
+         further. Plus we have no idea what their business model
+         could be, apart from praying for a swift kick to that NASDAQ
+         share price. Oh, hell, let's ride it for as long as we can, hey?
+         http://www.callnet0800.com/
+              - 0800 058 0800 this is worse than when everyone
+         http://www.f1racing.co.uk/
+              - 0800 058 5855 thought we were in the pay of Freeserve
+         http://www.4unet.co.uk/
+              - 0800 058 5555 *and* we don't have an account yet. damn
+              
+         If Internet time is measured in femtoseconds, government
+         crypto time continues to grind away in terms that make
+         geological epochs seem a bit flighty. So, if you're still
+         with us, here's where it's at. The DTI Select Committee
+         report on the Electronic Communications Bill slid out last
+         week, stating the obvious: that it still smacked of key
+         escrow, and trying to prove you never had a decryption key
+         [see NTKs passim] was, while nothing like what some
+         "hysterical" commentators were gabbling [qv ibid], still
+         damn iffy if you asked them. Two conclusions of the report
+         were clutched at glacial pace by the DTI. Firstly, that the
+         spook-led wiretapping clauses should be punted off to the
+         Home Office's own Interception of Communications Bill (the
+         DTI duly leaked to the FT their intention to do just that).
+         And secondly, that the industry should hurry up with their
+         own self-regulatory crypto code of practice. Cue the latest
+         DTI fall-gal Patricia Hewitt trying to scare the Alliance
+         for Electronic Business board into action. Fine: but short
+         of turning in all their private keys to the spooks, what are
+         we supposed to be regulating again?
+         http://194.128.65.4/pa/cm199899/cmselect/cmtrdind/862/86212.htm
+             - hurry ... up ... you ... e... business ... slouchers... 
+         http://www.vnunet.com/News/102824
+                                         - Patricia Hewitt: "twitchy"
+http://www.cs.ucl.ac.uk/staff/I.Brown/archives/ukcrypto/0799-1099/msg01433.html 
+                                           - inoculated! no returns!
+         
+         Talking of wiretaps, how exactly did CHANNEL FOUR NEWS
+         manage to "intercept e-mails" which revealed an impending
+         cyber-attack on News International, planned by
+         cyber-terrorists for their city-shaking November 30th
+         cyber-riots? Might they have been obtained for them,
+         perhaps, by one Mr D.K.  Matia, star witness of Monday's
+         item, and employee of - you guessed it, conspiracy
+         rentaquotes MI2G [NTK 03/09/99]? You know, we don't want to
+         sound like we're scaremongering, but MI2G seem to know an
+         awful lot about these Net anarchists. And given that there
+         were only 2000 hits on www.n30.org at the time, and no UK
+         contacts, there surely can't be many other people who
+         *could* be the British masterminds behind this Global
+         Internet Menace. Yes, we'd definitely keep a close eye on
+         these people. Especially if we were a gullible member of the
+         proper media with a gap to fill in the schedule.
+         http://www.itn.co.uk/World/world19991101/110108w.htm
+                   - "Who was behind such an international uprising?" 
+                                            - "The answer was no-one"
+         http://www.kumite.com/myths/opinion/thoughts/1999/mi2g.htm#991104
+        - MI3G and *two* NTK employers... how could we not put it in?
+                               http://www.ntk.net/doh/19991105bbc.gif
+                                                  - more made-up news
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+             * SPECIAL "NO KEVIN WARWICK" MEDIA BLACKOUT EDITION *
+
+         NT error of the week: "Insufficient disk space to delete
+         file" ... THE SUN's two-step guide to online news gathering:
+         http://www.ntk.net/doh/19991105sun.png ... TONY BLAIR
+         promises to make Net access "as cheap as a local phone
+         call", says MIRROR - and we all know how cheap that is ...
+         LINUX ANSWERS editor says site *doesn't* crash Linux
+         browsers (and, anyway, it's fixed now) ... LINUX ANSWERS editor 
+         quieter on the whole LINUX ANSWERS Website running on NT issue
+         ... BT's http://www.comeback.bt.com/ reconnect number
+         gets disconnected ... WATERSTONES starts previewing books
+         due in 1900 : http://www.ntk.net/doh/19991105water.png ...
+         TIMES INTERFACE claims "56K modem can transfer 56 kilobytes
+         of data per second ... "An English message will not be
+         understood by the growing number of non-English Web users",
+         reveals NUA ... you don't want to know what OS your plane is
+         running: http://www.ntk.net/doh/19991105virgina.jpg ... and
+         you thought REAL'S Jukebox was privacy busting:
+         http://securityportal.com/list-archive/bugtraq/1999/Nov/0051.html
+         ... "Security is our only business", say ADT:
+         http://www.adt.com/3bussec/medco_action.cfm::$DATA says not
+         ... LINUX ANSWERS editor not commenting on
+         http://www.ntk.net/doh/19991105la.jpg name-calling ...
+                  
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         It's time to uninstall those installations and hastily
+         unplug the pirate radio stations: the CLINK STREET kids are
+         quitting their all too temporary autonomous zone.
+         Yes, Backspace (and the associated AudioRom and Coldcut
+         satellites) are being evicted, and to commiserate, there'll be
+         an orgy of critical self-examination with film show and food
+         called <BLINK>, tonight at 1999-11-05. Fireworks will no doubt
+         play a part, but instead of the usual audience going "ooh,
+         ahh", expect more "yes - I see - how very ingenious" over
+         the gentle rustling of stroked goatee-beards. Meanwhile,
+         VXSLAB are putting on a party at the Clink-in-exile, THE
+         FOUNDRY, next Wednesday 1999-11-10. Entertainments will
+         include "geek DJs, live MIDI and Perl poetry". All sounds
+         eerily familiar, but hey that's life in the avant garde,
+         right?
+         http://bak.spc.org/timeline/
+                            - last one to leave, close the bloody tag
+         http://www.vxslab.org/
+                                          - no RMS though, the lamers
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         There's some very tortuous "GIF awk" joke under the surface
+         of today's "Burn All GIFs" protest, but you won't find it
+         here, because WEB2PNG is written in Python. It's a utility,
+         written by ESR and included in his GIF2PNG distribution,
+         that'll romp through your Web directories and optimise away
+         any of those evil patent-law-suite-beckoning GIFs, replacing
+         them with deliciously topical PNGs. As if you hadn't
+         guessed. We're going to wait just a leetle bit longer (until
+         those non-PNG compliant browsers die off a bit more, and we
+         can work out how to do animated PNGs) but, hell, if *you*
+         did that too where would you be? Looking down the wrong end of
+         Eric's .45 when the revolution comes, that's what.
+         http://www.tuxedo.org/~esr/gif2png/
+         - consider that to be your final warning and or resting ground
+
+         Official NTK policy is that if you're not reading this in
+         its definitive, non-proportional e-mail form, you're a
+         fricking girl. And all the best fricking girls these days
+         have a Palm, so JUSTIN MASON has been kindly running the Web
+         page through his brilliant sitescooper (aka snarfnews)
+         program, and dumping the results for download at his site.
+         NTK is available in DOC and iSilo formats, as are all kinds
+         of other girlish, lavender-smelling Websites you may want to
+         read, like The Register and the Linux Weekly News. And "Dr
+         Koop's Health News". 
+         http://jmason.org/software/sitescooper/installable/iSilo/NTKnow/
+         http://jmason.org/software/sitescooper/installable/DOC/NTKnow/
+                                        - it's unnatural, we tell you
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         ZDNET UK get threatened with writs from *two* top Linux
+         hackers after blurting off-the-record business plans online
+         ... porn Prisoner parodies ... being sentenced to online
+         community service ... Wrestling surveys : this time it's
+         very personal http://www.wcwmayhem.com/hack2.html ... Telcos
+         tell customers not to pick up the phone at 00:01, 2000-01-01
+         to "see whether they're still working" ... COMPUTERGRAM vets
+         leave to form "new media company" ... ATLAS SHRUGGED - the
+         TV mini-series? ... slamming meets trolling meets JOY meets
+         RMS: http://x34.deja.com/=dnc/getdoc.xp?AN=542860398 ... E:
+         just say no - http://www.persistence.com/e-nough/ ... 11
+         O'Clock Show's http://corrdev6.smallpla.net/cgibin/alig.pl
+         vs DIGBY's http://www.spinnwebe.com/todd/ ... Debuggles:
+         http://www.hypercult.com/betty/net.html ...
+         http://www.boo.com/default2.htm - as if Flash wasn't evil
+         enough, View Source ... unique approach to credit card
+         transactions: http://www.omo-norma-kamali.com/celebfrm.htm ...
+ 
+
+                             >> GEEK MINI-MEDIA << 
+                               get out even less
+     
+         TV>> Despite the deceptive spelling, PYRATES (00:35, Fri
+         night, BBC1) isn't an Iain Softley-style take on the warez
+         scene, but a Kevin Bacon arson comedy... Sky One suspends
+         normal, American, programming for the weekend, instead
+         celebrating all forms of televisual Australiania - Mel
+         Gibson guests in a new SIMPSONS (18:30, Sun, Sky1) and, not
+         being a station that could be accused of cheap
+         cross-promotion, the gala opening of Fox Studios
+         Australia... After only a few minutes of Schumacher's Dark
+         Knight in BATMAN FOREVER (22:00, Sat, ITV) you'll be
+         scrambling for the Lament Configuration of HELLBOUND:
+         HELLRAISER II (23:05, Sat, C4)... which of these two sounds
+         more like a TVGoHome entry? C4 examining testicular problems
+         in EMBARRASSING ILLNESSES (20:30, Tue, C4) or AIRBORNE
+         (21:00, Tue, C5) - a Steve-Guttenburg-action-vehicle?...
+         proof that even if you've got a Michael Crichton script
+         peppered with gratuitous tech references and a cameo from
+         Bruce "Ash" Campbell, it's still not going to distract
+         anyone from the fact that CONGO (22:30, Wed, BBC1) just a
+         really bad monkey movie. Bad monkey!
+
+         FILM>> Majestically dull, effects-free kiddie frightener THE
+         SIXTH SENSE (imdb: fear / supernatural / twist-in-the-end)
+         is released this week, featuring Bruce Willis in his least
+         violent role since "Look Who's Talking", a patently obvious
+         "twist" and, as http://www.capalert.com/capreports/ points
+         out, "a child in underwear urinating"... C4-funded EAST IS
+         EAST (imdb: comedy) is like "Goodness Gracious Me" meets
+         "The Grimleys" - but in a good way... Robin "no beard"
+         Williams' JAKOB THE LIAR (http://www.bbfc.co.uk/ : "Passed
+         '12' for moderate violence and wartime horror") looks like
+         it's "Life Is Beautiful" meets "Good Morning Vietnam",
+         but'll mostly be remembered as headline fodder during the
+         forthcoming useit.com backlash... and THE OUT OF TOWNERS
+         (capalert: transvestism / *more* urinating in public) tries
+         to recapture the magic of "Housesitter" by reuniting Steve
+         Martin and Goldie Hawn, with John Cleese as - get this - a
+         hotel manager!
+
+         DAVE'S ON EXTENDED FOOD LEAVE >> SEND NO CHOCOLATE FOR NOW
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+        It is registered at the Post Office as "now *that's* a bonfire"
+                  http://www.enterprisemission.com/call.html   
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,272 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-02-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "If e-bombs are released in Iraq and work as advertised
+         Saddam Hussein would quickly become the electronic equivalent
+         of deaf, dumb and blind..."
+     http://abcnews.go.com/sections/GMA/SciTech/iraq030218_Ebomb.html
+ ...yet his "electronic sense of smell" would remain virtually intact
+
+
+                                >> HARD NEWS <<
+                                 orderly cues
+
+         Out of Africa into the British courts: a shut-the-hell-up
+         order from DINERS CLUB, demanding that ROSS ANDERSON AND
+         HIS CANTAB CRYPTO LEAGUE stop being quite so clever
+         forthwith. Ross' Cambridge team had been asked in as expert
+         witnesses in a South African "phantom ATM withdrawal" case
+         against the international credit card. Were, the
+         prosecution asked them, cashpoints really as secure as the
+         defence made them out to be? Hold on, said Ross, we'll
+         check. A few weeks later, Mike Bond and Piotr Zielinksi
+         uncovered that - despite endless security controls - a bank
+         insider could crack a cashpoint card's PIN number on an
+         internal bank network in an average of fifteen tries. One
+         employee could saunter off with seven thousand ATM PINs in
+         half an hour, making an easy two million quid out of their
+         lunchbreak. This is not the sort of detailed exploit that
+         Citibank, the owners of Diner's Club, would like widely
+         known. They have therefore commenced legal shutupshutup
+         proceedings. And if Citibank's plea succeeds, we're sure
+         everyone who reads the analysis (now mirrored at Cryptome)
+         will do their best to forget it. Not to mention anyone else
+         who worked out the exploit (which has existed since the
+         first ATMs were rolled out) and put it to good use.
+         http://cryptome.org/pacc.htm
+                         - remember: phantom withdrawals DO NOT EXIST
+
+         So what killed FAXYOURMP.COM this week? Was it the issue
+         that's been on the mind of the British public most in the
+         past few weeks? But of course! And according to messages
+         slicing into FAXYOURMP.COM, everybody in the world was very
+         very concerned about the Anti-Hunting Bill. And curiously,
+         they were all concerned using exactly the same words. Top
+         charity the RSPCA sent out a mail requesting that their fans
+         all write an identical, pre-written message to their MP and
+         send it via FaxYourMP.com, a free service (which NTK is more
+         than in cahoots with). A free service, incidentally, that
+         specifically asks you *not* to cut and paste, because MPs
+         just throw spammy pre-recorded messages into the bin. But
+         there's more. Taking a leaf out of those viral marketeers,
+         the RSPCA requested that everyone forward their mail to
+         their friends - a mail which, incidentally, had no date on
+         it, so could potentially continue bouncing around the Net for
+         years. The result: MPs complaining, overloaded servers, and
+         the fax service down for 48 hours - delaying other
+         constituents' perhaps more original messages. Of course,
+         the FYMPers have been a model of restraint throughout. After
+         digging up their server, they put a block on the boilerplate
+         text, redirecting animal lovers to a message that encourages
+         them to re-word their mail in their own words. Of course,
+         the message does end with the intimation that should the RSPCA
+         try this again, "the puppy gets it" - which seems to be the
+         only language these animal-lovers understand.
+         http://www.oblomovka.com/entries/2003/02/19#1045675680
+                               - still haven't replied, so screw 'em.
+         http://www.faxyourmp.com/q_a.php3#formletters
+                                                      - don't do this
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         UN discover secret cache of CONDIMENTS OF MASS DELICIOUSNESS:
+         http://www.ntk.net/2003/02/21/dohblix.gif - banner ad warns of
+         side-effects: http://www.ntk.net/2003/02/21/dohchest.gif ...
+         Ron "RSA" Rivest's "amazing new, low-cost" micropayments site
+         currently permits amazing new, low-cost directory browsing:
+         http://www.peppercoin.com/payment_systems_images/ ... new
+         thrill - these are *topical* puerile Google misspellings:
+        http://www.google.com/search?q=middle+east+%22peach+process%22
+         (the only way to avoid another "Gull War"?) - OCR artefacts
+         also popular: http://www.google.com/search?q=colurnbia , or
+         "Spple macintosh", "leaming experience", "slash and bum"...
+         type in any road name to hark back to golden age of motoring:
+         http://www.theaa.co.uk/motoringandtravel/traffic/silver/ ...
+         ironically, much easier to use a search engine than remember:
+http://www.cheap-flights-cheap-flights-easyjetthewebsfavouriteairline.co.uk ,
+http://www.flights-to-europe-no-frills-airlines-cheap-flights-easyjet.co.uk
+         ... CISCO provide almost spookily inappropriate banner ad:
+         http://www.ntk.net/2003/02/21/dohdolly.gif ... BBC go wild
+         with test data: http://www.ntk.net/2003/02/21/dohtest.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         The history of IT in theatre is a long and glorious one: who
+         could forget the implausible cyberchat scene in Patrick
+         Marber's "Closer", Samantha Fox's scorching performance in
+         "Virus: The Cyber Musical", or Alton Towers' skating
+         spectacular "Webmaster On Ice"? Nevertheless, we have high
+         hopes for MAKB3TH (various venues around East Anglia, from Thu
+         2003-03-06, from UKP4), which sets Shakespeare's Scottish play
+         on board the world's first free data haven, established by a
+         "community of libertarian cypherpunks" on an abandoned oil
+         platform in the North Sea. Even more excitingly, in addition
+         to those boring old-fashioned "actors", it uses SMS, ASCII
+         video footage, a techno soundtrack, a bunch of Matrox video
+         cards and RedHat 7.3 to "create a dark piece of modern,
+         digital theatre", with big TV screens and text messages and
+         all. Sticking with the classics, March also sees a day of
+         readings of Aristophanes' LYSISTRATA, culminating in a show
+         at 7:30pm, Mon 2003-03-03, the Pleasance Theatre, London N7,
+         UKP5. This is the Ancient Greek anti-war comedy with the large
+         leather phallus and the women who go on "sex strike", and is
+         not included here solely for the benefit of the NTK reader we
+         met at an arty event we'd previously recommended, who declared
+         himself very impressed by "the ratio". "The ratio?", we asked,
+         innocently. Yes, he explained. The Ratio.
+         http://www.pirateutopia.org/macbeth/dates.htm
+                                           - SMTHNG WCKD THS WY COMES
+         http://www.lysistratalondon.co.uk/
+                       - the ratio of "naked" to "clothed" attendees?
+         http://www.ntk.net/index.cgi?b=01999-03-26&l=252#l
+                            - they don't make them like that any more
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         What *is* going on with the Gecko-based browsers these days?
+         First it was Chimera deciding that all work had to stop
+         while they came up with a new name. Then it was Phoenix
+         deciding that all development should slow to a crawl - and
+         they had to come up with a new name too. Now it's Galeon,
+         which keeps the name, but loses one of its developers, Marco
+         Pesenti Gritti, who has gone off to code EPIPHANY. EPIPHANY,
+         like its Galeon forefather, is a slimmed-down, GNOME-driven
+         HTML displayer. Unlike Galeon (and like GNOME 2.2), Gritti
+         plans to strip down all the interface and prefs to a bare
+         minimum. It's early days, though, and the work is still a
+         bit patchy: any UI that needs you to read a review before
+         you can work out how to use bookmarks or create toolbars
+         isn't quite there. It's also still dealing with the niggly
+         focussing issues that pester any keyboard-driven GUI app.
+         But if you're tired of waiting for Phoenix to coagulate, or
+         you want a project to Safari-fy Gecko, this might be the
+         place to look.
+         http://epiphany.mozdev.org/
+                                 - bookmarks that are a bit too smart
+         http://writetheweb.com/Members/edd/Articles/2003-02-epiphany
+                                                 - oh, okay, i get it
+         http://tinderbox.mozilla.org/showbuilds.cgi?tree=MiniMo
+      - future cut down mozilla for for your own bespoke mini-browser
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         AMERICAN BURQUA: http://plainlydressed.bravepages.com/ - vs
+       http://shop.store.yahoo.com/brandsonsale-store/pimdadsuitch.html
+         ... thread inevitably converges towards "Blow a tunnel in the
+         moon": http://groups.google.com/groups?th=8d2747367833ede9 ...
+         "Caesius Software" changes name to "QL2" - not dumbing down or
+         anything, just wanted something "easy to remember, pronounce,
+         and spell": http://www.affinite.co.uk/news.htm ... probably
+         why AMAZON don't run an official staff recommendations system:
+www.amazon.co.uk/exec/obidos/tg/listmania/list-browse/-/2VC9BUDEG3NZZ/
+         ... not quite five 9s or anything - CONGESTION CHARGE cameras
+         read "more than 90%" of number plates accurately, reassures:
+www.cclondon.com/WebCenterBrandedTR4/StaticPages/Imaging_and_cameras.aspx
+         ... as if you didn't lose enough precious bodily fluids in a
+         car accident already: http://www.sextoyworld.com/dj0607.html
+         ... where the lone voice of political dissent is - Daffy
+         Duck?: http://images.google.com/images?q=%22john+ashcroft%22
+         ... ah, those old "Cray" jokes are still the funniest:
+         http://www.xosx.com/forum/viewtopic.php?p=233#233 ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Malcolm McDowell can't stay away from the dodgy scifi, as
+         demonstrated by live-action manga movie FIST OF THE NORTH STAR
+         (12.45am, Fri, BBC1)... yet somehow he must have missed the
+         casting call for THE FIFTH ELEMENT (12.30am, Sat, ITV), which
+         has everyone else in it, ever... repeated WW1 docu THE GREAT
+         WAR (6.20pm, Sat, BBC2) is preceded by its unfortunately-named
+         making-of THAT WAS THE GREAT WAR THAT WAS (5.40pm, Sat,
+         BBC2)... and Jon Snow *is* "Q" from "Star Trek", as he puts
+         AMERICA ON TRIAL (6.45pm, Sat, C4)... BBC1 counterprogrammes
+         Quentin Tarantino's least self-indulgent - and arguably most
+         enjoyable - script, FROM DUSK TILL DAWN (11.20pm, Sat, BBC1),
+         against the dubious delights of C4's JACKASS NIGHT (from
+         10.55pm, Sat, C4)... for all you bewildered Sunday-morning
+         viewers, REVELATIONS (11.30am, Sun, C5) is indeed a religious
+         romp made by the nutty New Zealanders behind "The Tribe":
+         http://www.theinitialjourney.com/characters/jess_01.html ...
+         and, set a year after the first film, routine Jennifer Love
+         Hewitt slasher I STILL KNOW WHAT YOU DID LAST SUMMER (10pm,
+         Sun, C4) should of course technically be called "I Still Know
+         What You Did Two Summers Ago"... art critic Jonathan Meades
+         shows how to make a supermarket sausage in MEADES EATS
+         (7.30pm, Mon, BBC2)... the carnage continues in dire Angelina
+         Jolie "Silence Of The Lambs" wannabe THE BONE COLLECTOR (9pm,
+         Mon, C5)... don't let Michael Bay actioner THE ROCK (9pm, Wed,
+         C5) distract you from the digital debut of George from
+         Seinfeld's genius Larry-Sanders-style post-sitcom CURB YOUR
+         ENTHUSIASM (10.30pm, Wed, BBC4)... while C5's double bill
+         of NATIONAL LAMPOON'S EUROPEAN VACATION (8pm, Thu, C5) plus
+         BASIC INSTINCT (10pm, Thu, C5) offers a relatively highbrow
+         alternative to ITV's SLEEPING WITH CELEBRITIES (10.30pm, Thu,
+         ITV) and extreme martial arts kickboxing celeb contest CAGE
+         COMBAT (11.30pm, Thu, ITV)...
+
+         FILM>> you know, we still prefer the Japanese pronunciation
+         of ambient but convoluted killer-video horror remake THE RING
+         ( http://www.cndb.com/movie.html?title=RIng%2C+The+%282002%29 :
+         [Naomi "Mullholland Drive" Watts] gives an extended bra and
+         panty scene while getting dressed. She is in a well and gives
+         a wet shirt and bra scene)... that Donnie Darko bloke does at
+         least listen to the Rolling Stones song of the same name in
+         bereaved-relatives-awkwardness domestic drama MOONLIGHT MILE
+         ( http://www.screenit.com/movies/2002/moonlight_mile.html :
+         we see the tops of [Ellen Pompeo's] bare breasts and [Jake
+         Gyllenhaal's] nude body down to his lower hips)... otherwise
+         it's an all-round regional-accent fest, in the form of
+         Newcastle-set romantic comedy THE ONLY AND ONLY (imdb: Patsy
+         Kensit and Donna Air - together at last!)... or the Oirish
+         version of "Rabbit Proof Fence", anti-Catholic orphanage
+         outrage THE MAGDALENE SISTERS ( http://www.bbfc.co.uk/ :
+         contains some strong language, sex references and hanging
+         scene)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "We said Oblomovka.com *above* DaveBarry" [pic]
+                     http://news.bbc.co.uk/1/2775249.stm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

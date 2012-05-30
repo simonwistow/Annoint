@@ -1,0 +1,383 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-11-03_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+    "It's important for us to explain to our nation that life is
+     important.  It's not only life of babies, but it's life of
+   children living in, you know, the dark dungeons of the Internet."
+         - GEORGE W. BUSH, going for that elusive teen e-Morlock vote
+        http://politics.slate.msn.com/Features/bushisms/bushisms.asp
+
+
+                                >> HARD NEWS <<
+                               widely diffused
+
+         So the healing power of *music* has at last mended the rift
+         between NAPSTER and BERTELSMANN AKTIENGESELLSCHAFT - and, at
+         the moment, is even enabling them to overlook their
+         glaringly fundamental incompatibilities. The whole point of
+         a peer-to- peer system is that anyone can swap any file with
+         anyone else - if BMG are going to restrict it to certain
+         approved promo tracks, or run compensatory payment tracking
+         for every file on the system (which'd be fun for bands who
+         are signed to different labels in different territories),
+         they might as well do it with a few industrial strength
+         ftp-sites. And if they don't, they continue to run the risk
+         of copyright actions from, ooh - off the top of our heads,
+         every other record company in the world. And even if the Nap
+         magically chases the *bad* files out of its walled garden,
+         won't the action move to more staid (and more heartily
+         defended) "Napster for workgroups" projects like .NET and
+         Groove? BMG don't seem to have the faintest inkling of how
+         intimately P2P and piracy are interlinked - but, hey,
+         they're a major label, and therefore their job is to waste
+         huge amounts of money on what the kids seem to like. Also,
+         it'll be far funnier to watch, if the Napster/ BMG deal
+         turns out less like AOL buying Netscape, and more like the
+         Sex Pistols signing to EMI.
+         http://www.bertelsmann.com/press/press_item.cfm?id=2461
+"Hey kids, swap legally approved tracks among yourselves! It'll be groovy!"
+
+         Time to speak softly and carry a large cluestick. The
+         British Patent Office is wetting its feet in the whole
+         software patent controversy, and wants your poolside advice.
+         Unlike some public consultations we could mention, this
+         actually seems to be genuine, and well considered; the PO
+         have a list of questions they'd like answered from live
+         developers and entrepreneurs, they're happy to take answers
+         after the closing date of 2000-12-12, and they've already
+         got a very nice backgrounder on the current, rather
+         sensible, UK software patent stance. They're even hosting an
+         NNTP newsgroup for discussions. Why, it'd be positively
+         impolite not to make your voice heard.
+         http://www.patent.gov.uk/snews/notices/softcons.html
+                - best suggestions win an exclusive, twenty-year monopoly
+         http://www.freepatents.org/
+         - put this "End Software Patents" GIF on your... oh, hold on
+
+         Just when we were re-considering our self-serving plans to
+         reward bad Net writing in the press, VNU's MOLE wrote in to
+         shop his colleagues with his own treasured quote list,
+         including the excellent "Encryption is a computer technique
+         that turns confidential documents into meaningless
+         sentences" (anonymised BBC TV news reporter). This week's
+         top entry in the make-it-up-as-you-go-along stakes has to be
+         VICTORIA FLETCHER and KEN HYDER of the Daily Express, and
+         their thoughtful piece "Hackers 'pass Microsoft code to
+         Kremlin'". Executive summary: "Whoever stole the formula at
+         the heart of the ubiquitous Windows program", the Express
+         reports, "will be able to hack into any PC in the world".
+         And watch out, because "The whole telephone network in St
+         Petersburg was configured to ensure that the KGB had access
+         to everything ... so they will have a copy of these source
+         codes somewhere." Of course they will.  Meanwhile,
+         competition inspiration John Arlidge, THE OBSERVER's media
+         correspondent, writes to one NTK subscriber to defend his
+         description of the Interweb [see NTK 2000-10-13 for the
+         complete story]. "There was, I'm afraid, confusion amongst
+         editors", he writes. "Rest assured", he adds, "heads will
+         roll." Perhaps the first brain to shove should be that of
+         The Observer's own media diarist, who in August warned
+         "uber-geek" Net experts were doomed as "other hacks cottoned
+         on to the Internet". Now, who could that fast-learning hack
+         have been, we wonder?
+         http://www.dailyexpress.co.uk/00/10/29/news/n0220.shtml
+                                            - "experts are terrified"
+         http://www.vnunet.com/News/61067
+              - also contains some major Sunday Times Y2K dumbness...
+   http://www.guardianunlimited.co.uk/Archive/Article/0,4273,4050983,00.html
+                           - just to fend off those "sell-out" flames
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         unrepentant MISS BOO swiftly slips back into coke-snorting,
+         cross-dressing high-life: http://www.boo.com/diary3.asp ,
+         http://www.ntk.net/2000/11/03/dohboo.jpg ... after last week's
+         launch party, http://www.q4music.com/ likely to appear at
+         *some* point during Q4 2000... sex-myths disproved with
+         statistical rigour: http://www.ntk.net/2000/11/03/dohthru.jpg
+         ... "if this wasn't on UKNM, you'd assume it was a troll" #1:
+http://www.chinwag.com/uk-netmarketing/archive/archive-oct-2000/msg00763.shtml
+         MARK WARD corrects "2600 MHz" to "2600 kHz" - still wrong:
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_994000/994700.stm
+         your LICENSE FEES at work #2: http://www.bbc.co.uk/radio1/pda/
+         (and indeed hp_includes/ , new/ , work/ , search/ , reception/
+         and vote/ )... "the sending of messages which contain
+         sexual... references ... is prohibited" warns LYCOS free SMS
+         service: http://www.uk.lycos.de/service/sms/agb.html - click
+         "Accept" to choose from list including "Nice Bum", "Sexy Minx"
+         and "NORWICH"... "Buy it at BOL" - before reading further:
+http://193.122.15.169/reviews/generalfiction/0%2c6121%2c366440%2c00.html
+         sendmoreinfo.com sending more info than you'd expected:
+         http://www.ntk.net/2000/10/27/dohsend.jpg ... teen-popsters
+         with a message: http://www.ntk.net/2000/11/03/dohdaph.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         When they came for *our* keys, we'd always had some vague plan
+         to fake an instant amnesia attack ("Who am I? What year is 
+         this? Are 'Adam And The Ants' still number one?"), but more
+         legally advisable strategies - along with protecting yourself
+         and your sources, plus evading surveillance in the first place
+         - are the topics of LIVING WITH THE RIP: A JOURNALIST'S GUIDE
+         TO SURVIVING CYBER-REGULATION (Thursday 2000-11-16, London's
+         ICA, free but you must pre-register). It's run by City
+         University's "Netmedia" crew, so it's pretty legit, with an
+         impressive speaker line-up that includes the most famous of
+         the numerous DUNCAN CAMPBELLS (that's one strategy to throw
+         them off your trail right there), CASPAR "the friendly spook"
+         BOWDEN, plus "Big Mouth" BILLY "Bass" THOMPSON.
+         http://www.courseleader.com/about/press/mediaforum.asp
+         - OK, so Bowden isn't a spook - at least as far as we know...
+
+         Responding at last to our complaints that they "never tell us
+         about stuff far enough in advance", the ARSDIGITA cult (along
+         with "Runtime Collective") have 'fessed up to a *free* TWO-DAY
+         BOOTCAMP ON BUILDING DATABASE-BACKED WEBSITES WITH SQL AND TCL
+         (2000-11-18/19, in "sunny" Brighton, implying they have rather
+         more optimistic long-range weather forecasting than the rest
+         of the country). Certainly nothing sinister about this at all,
+         nor in the fact that, usually when we mention these events,
+         prospective visitors cheerily promise that they'll mail us
+         afterwards to reassure us that they haven't come back
+         "changed". Then we never hear from them again.
+         http://www.arsdigita.com/events/event-info?event_id=2091
+         - didn't "Runtime Collective" once employ Gemini Man?
+
+         And for those of you seeking more immediate gratification, you
+         can always count on the KLF's JIMMY CAUTY, who'll be leaving
+         no source of controversy untapped at 5pm on Bonfire Night,
+         when he plans to set fire to a giant painting of Princess
+         Diana dying in a car crash "outside the House of Windsor and 
+         the House of Commons" (and presumably it's made out of a
+         million pounds or something).
+         http://www.ntk.net/2000/11/03/krash.gif
+         - like a Roman candle in the wind. Pop! Pop! Whoosh! Etc.
+         http://www.ddonline.co.uk/thisisgrimsby.html
+                  - grimmer up north than previously realised
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Now that the RIPA is beginning to bite, we guess it's about
+         time to start rolling out plugs for all those useful
+         technologies that completely undermine its intent of
+         allowing government and bosses to monitor any of your
+         communications they damn well like. Down at Def Con 1, Yaman
+         Akdeniz's UK CYBER-RIGHTS org has done a deal with the
+         Irish/American company Hush to rebrand their secure Webmail
+         product for Brits. Hushmail uses a Java applet to encrypt
+         communications between its servers and your machine, and
+         pretty much guarantees secure communication between
+         individual Hushmail users. It's not perfect, mind you: they
+         use non-standard protocols, your private key is kept on
+         their (non-UK) servers, and there have been some mutterings
+         about the problems of trusting even a signed Java app. But
+         it should work well enough to keep your boss from reading
+         your mail, or the local authorities from casually snooping
+         your traffic. It's also a lot easier to set up than PGP. For
+         the more determined crypto fan, Canadian paranoiacs ZERO
+         KNOWLEDGE SYSTEMS have just released version 2.0 of their
+         rather spiffing FREEDOM service. It's *very* open source at
+         the moment - the new Linux client is MPLed, but still
+         requires some battering of makefiles to compile. But with
+         people like Ian Goldberg, Stefan Brands on board, the crypto
+         is as sound as it gets, and the pre-compiled Windows version
+         (still at 1.0) is very user-friendly. Freedom offers secure,
+         anonymised surfing, e-mail and newsreading, and while it
+         does cost money ($49.95 for five anonymous accounts - and
+         yes, they accept cash), it's a great choice for companies
+         wishing to preserve their privacy, a Windows user who wants
+         a fire-and-forget encryption package, or a Linux hacker who
+         wants to peer into how near-perfect forward-secrecy can be
+         made to work in code.
+         http://www.cyber-rights.net/
+                                 - and this is just the first wave...
+         http://www.zeroknowledge.com/
+                                                         - ...we hope
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         DEVIL has all the best tunes, sauciest lyrics, most revealing
+         costumes: http://www.av1611.org/othpubls/teenidol.html ...
+         dot-coms are in EMPIRE STRIKES BACK phase of "Lucasian
+         business cycle", theorises newsletter from personalization.com
+         - and they're not the only ones: http://www.vaderfor2000.org/
+         ... entire article (and board) fails to mention MICROSOFT:
+http://news.bbc.co.uk/hi/english/entertainment/newsid_1003000/1003985.stm
+         or speculate on the timing of "recent unpleasantness" at:
+         http://www.google.com/search?q=cache:www.ms-monopoly.com/ (vs
+         http://www.satirewire.com/briefs/euro.html )... innovative,
+         non-pointless JAVA: http://www.happyhub.com/network/reflex/
+         ... "if only we had an infinite number of bored employees, in
+         an infinite number of offices - hey, wait a minute! we do!":
+  http://www.claymath.org/prize_problems/million-dollar-minesweeper.htm
+         new MONDO magazine is just another lame lifestyle publication,
+         despite being launched in the year 2000... life more ironic
+         than ONION: http://uk.news.yahoo.com/001031/80/anvew.html ...
+         http://www.tragibutes.co.uk was presumably a viral for release
+         of BLUE JAM on Warp Records - sorry... People for the Ethical
+         Treatment of REFERRER INFO: http://www.smithsq.co.uk/ ...
+
+
+                                >> GEEK MEDIA <<
+                         the less rude www.tvgohome.com 
+
+         TV>> ITV continues its unwatchable Saturday Night Movie run,
+         with inconceivably dire VR kiddy romp LAWNMOWER MAN 2: BEYOND
+         CYBERSPACE (10.35pm, Sat, ITV)... while C5 hits back with
+         romantic cyber-nonsense THE ANDROID AFFAIR (12.05pm, Sat, C5),
+         before clearing the decks for Discovery ripoff SHARK WEEKEND
+         (from 8.05pm, Sat, C5) - using a definition of "shark" that's
+         so flexible it includes a remake of Joe Dante's razor-toothed
+         maze-running PIRANHA (9pm, Sat, C5), follow-up PIRANHA II:
+         FLYING KILLERS (10.45pm, Sat, C5) - described by director
+         James Cameron as "the finest flying piranha film ever made"
+         http://www.wimpyjesus.com/cameron/articl33.htm , plus Patrick
+         Stewart's whaling classic MOBY DICK (4.40pm, Sun, C5) - which
+         isn't even a kind of fish!... aptly named mobile-endorser John
+         Simm explores the darker side of "pay as you go" tariffs in
+         yet another gritty, realistic housing-estate drama NEVER NEVER
+         (9pm, Sun, C4)... self-referential Scream prequel WES CRAVEN'S
+         NEW NIGHTMARE (10.30pm, Sun, C4) isn't quite as funny, scary
+         or interesting as it should be... while the BBC2 AWARDS
+         (10.30pm, Sun, BBC2) commend innovation in "Best TV Moment",
+         "Ad Campaign", and "Internet Design" - "Internet Content"
+         obviously being far less important nowadays... "Local Heroes"
+         invention-reconstructor Adam Hart-Davis returns in WHAT THE
+         ROMANS DID FOR US (8.30pm, Mon, BBC2), hopefully to be
+         followed by other shows based on lines from "Monty Python's
+         Life Of Brian"... C5 buries Michael "Kramer from Seinfeld"
+         Richards' geek-classic UNSTRUNG HEROES at 3.30pm on a Tuesday
+         afternoon... ANGEL squares up against Thunderbirds in the 6pm
+         Tuesday slot, making space for a celeb-hosted TFI Friday...
+         and, after "Con Air" two weeks ago, Tuesday night is exploding
+         airliner night again, in Wolfgang "Perfect Storm" Petersen's
+         aerial carnage AIR FORCE ONE (9pm, Tue, C5) - also starring
+         Simon Quinlank as the Secretary of Defense... lame Western
+         spoof WAGONS EAST! (10.50pm, Wed, C4) is notable both for
+         being John Candy's last film, and for co-starring Melina
+         Culea, aka "Amy Allen" from "The A-Team"... while, armed with
+         nothing more dangerous than a broken table leg, Steven Seagal
+         battles the dumping of lethal dayglo toxic goo in mildly
+         amusing eco-trash FIRE DOWN BELOW (9.05pm, Thu, C5)...
+
+         FILM>> something of a special week for film titles ending with
+         the syllables "-owl" or "-er": Curtis "LA Confidential" Hanson
+         imports a wintry cast from "The Ice Storm" (Katie Holmes,
+         Tobey Maguire) plus Frances "Fargo" McDormand for Michael
+         Douglas screwball dope-smoking middle-aged novelist crisis
+         WOND-ER BOYS (http://www.capalert.com : teen in sleepwear with
+         adult male in her bedroom with her; homosexual relationships,
+         behaviors and innuendo; equating being sent home to parents as
+         a bad thing; gunfire to kill a dog attacking a man)... another
+         teen re-teaming is complicated by an affair with an older
+         academic, in Jason "American Pie" Biggs and Mena "American
+         Beauty" Suvari's sparky gross-out double nerd-makeover LOS-ER
+         (MPAA: Passed '12' for strong language, and drug and sex
+         references)... while the Dawson's Creek higher-education
+         trauma continues as Joshua Jackson fictionalises George W
+         Bush's secret Yale Illuminati sect THE SKULLS (more info at
+         http://www.davidicke.com/icke/magazine/vol-5/bushsucks.html )
+         ... which almost rhymes with Pierce Brosnan pretending to be a
+         white guy pretending to be a Native American in beautifully
+         filmed eco-yawn GREY OWL (imdb: indians-adopt-white-boy /
+         snowshoe / trapper / 1930s / biographical / based-on-true-
+         story / beaver / canada / environmental / author / impostor /
+         half-breed / native-american / lecturer / national-park /
+         park-ranger / independent-film)... leaving heart-warming
+         Northern fund-raiser PURELY BELT-ER (imdb: comedy / drama)...
+         widely unpromoted Winona Ryder sub-Exorcist effort LOST S-OULS
+         (http://www.capalert.com : threat with knife to the eyes;
+         leaving the scene of an accident; a statue of the crucifixion
+         being broken, causing Jesus to hand upside down with an open-
+         eyed expression of horror) - which, nonetheless, casts Ben
+         "Game On" Chaplin as the antichrist... plus Merchant-Ivory
+         period piece THE GOLDEN B-OWL (imdb: Uma "The Avengers"
+         Thurman, Jeremy "The Net" Northam, Kate "Shooting Fish"
+         Beckinsale, Nick "48 Hours" Nolte - together at last!)...
+
+         CONFECTIONERY THEORY>> eagle-eyed DAVID AMOR located a "Who
+         Nicked The Nougat?" SNICKERS at "Gatwick Airport", describing
+         the experience as "the same as a Snickers, but over quicker"
+         ... POLO SMOOTHIES (99p for bag of about 40) turned out to be
+         mildly preferable to Strawberry Campino, as well as being "30%
+         larger than normal Polos"... while BEN MOOR inquired "Is that
+         Chester the Cheetos Cheetah that Tony the Frosties Tiger is
+         beating up in the TV ad?"... but the big talking point was, of
+         course, CADBURY'S TANGO CRUNCHIE, first spotted in the wild by
+         RICHARD IRONS - "tasted as if I was eating a Crunchie to try
+         and get the taste of a rotten citrus fruit out of my mouth".
+         "The sugary vim of Tango just wasn't carried through into the
+         bar," agreed SIMON W JONES, comparing the whole to "sugar,
+         chocolate and cheap marmalade", though STUART CAIE was more
+         positive, arguing "They should call it Terry's Chocolate
+         Orange Crunchie because, in all honesty, that's what it
+         actually *is*". "Sounds like two companies jumping into bed
+         together for a little bit of money," mused IAIN MACGARROW,
+         "which is not that dissimilar to eating one - first it's quite
+         fun and exciting, but then it just gets all sticky and
+         disgusting". Hey, we quite enjoyed it... similarly, JAMES
+         HOPKIN proclaimed the WHITE CHOCOLATE AERO "a far sexier
+         beast" than the Cadbury's Snowflake ("Double yum!", he added,
+         helpfully), though we're not sure if he's referring to the
+         peculiar "Stuff Xmas! Treat Yourself!" CRANBERRY FLAVOUR WHITE
+         CENTRE AERO we discovered recently in Colliers Wood. We'd also
+         advise those seeking Snowflake-alternatives to try FOX'S
+         excellent "Bubbly White Chocolate" ECHO biscuit bars, just 59p
+         for a pack of 6... TV's MATT LUCAS regretted he was unable to
+         tell us his views on the Snowflake, as he's "on a diet",
+         though he could confirm that "Chocolate Rispinos are better
+         than Chocolate Snack-A-Jacks. However, Caramel Snack-A-Jacks
+         top the lot"... in which case, he'd best try to avoid both
+         double-sized GIANT ROLOS (44p), and our product of the month,
+         KELLOGG'S WORLD TEMPTATIONS cereal (UKP1.99) whose "Belgian
+         Chocolate Dream" variety contains less sugar, yet 7.5 times
+         more fat than Coco Pops - and consequently, we imagine, is the
+         closest thing yet to edible heroin... finally, October's
+         product-spotter award goes to MICHAEL REEVE for not just
+         confirming our concerns over NESTLE'S WONKALATE, which is like
+         raspberry-flavoured white chocolate, with green blobs in it
+         ("another stunning victory for E-numbers"), but for also being
+         the first to identify, following the success of Fruit
+         Pastilles Body Parts, CADBURY'S CARAMEL EYEBALLS. "They're
+         caramel, in the shape of eyeballs, wrapped in foil how
+         eyeballs come," Reeve deadpans. "You get 10 in a packet. You
+         will probably want fewer"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "the slime is not included"
+     http://cgi.ebay.co.uk/aw-cgi/eBayISAPI.dll?ViewItem&item=484291225
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

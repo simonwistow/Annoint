@@ -1,0 +1,344 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-12-14_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Weight-control specialist Christopher Still, MD, says the
+         three Ns - Nickelodeon, Netscape, and Nintendo - are
+         playing a large role in the obesity epidemic among children."
+      ...MSN's health site plants some intriguing subliminal branding
+         http://content.health.msn.com/content/article/3606.1052
+                - here at Microsoft, we keep the bloat in the browser
+
+
+                                >> HARD NEWS <<
+                            news you'd rather lose
+
+         They said that a bunch of geeks waving placards would do
+         nothing to free DMITRY SKYLAROV. And they said that whining
+         about obscure Net-torturing provisions in already drafted
+         legislation would change nothing. And we believed them, too.
+         It's lucky that other people are more foolishly optimistic
+         than that. After all, it'd be fair to claim that adverse
+         publicity of the Skylarov case contributed heavily to
+         everyone's DMCA poster-boy being released yesterday:
+         especially Adobe's boycott-prompted wish that Dmitry's
+         prosecution be dropped. And while UK government defeats
+         during the final stages of legislation are almost unheard
+         of, the data retention clause in the Anti-Terrorism Act was
+         one of the few to get shot down. Out goes the condition that
+         ISP logs can be kept and examined for detecting any crime.
+         Now, as heavily lobbied by those "aery-faery" and naive
+         civil libertarians, it has to be proper *terrorist* crime.
+         Mr Blunkett, in conceding the amendment, commented that the
+         logs would have to be kept anyway, to see whether they were
+         terrorists or not, and "that is how stupid the Liberal
+         Democrats [and their Tory supporters, presumably] are."
+         Let's see how stupid the human rights judges, and the Data
+         Protection folk are when they get to work on this.
+         Meanwhile, here's to another year of stupid protestors and
+         their clearly impossible victories.
+         http://makeashorterlink.com/?N1B025B3
+                  - the day's Hansard": search, as ever, for 'stupid'
+         http://www.eff.org/IP/DMCA/US_v_Sklyarov/20011213_eff_pr.html
+                                          - putting the free into eff
+
+         Top "thinking outside the box" marks to the BRIGHTON NEW MEDIA
+         mailing list, who may just have solved the problems of
+         irrelevance and poor attendance that have bedevilled so many
+         of this year's new media awards. As well as devising rather
+         more honest categories ("The Sinclair C5 Award for Design,
+         Style and Usability", "The Ian Paisley Award for Online
+         Statesmanship & Community Bonding" etc), the folks behind the
+         NERDY ceremony, attended by a crowd of 40 in Brighton this
+         Wednesday, were able to ensure that many of the recipients
+         would be present to receive their gongs - via the ingenious
+         tactic of giving most of them to each other and their friends.
+         Nonetheless, co-organiser (and four-time nominee) JO CHIPCHASE
+         earnestly emphasised the scrupulously democratic nature of the
+         voting system ("IP addresses could be tracked, if necessary"),
+         and the fact that two-time winner Mike Halsey had merely
+         "organised the party" where the awards were being held - so
+         nothing sinister going on there. C'mon guys - if you want to
+         be taken seriously as a new media accolade, you need to work
+         out an impenetrable judging system where *all* the awards go
+         to cronies of yours that nobody else has ever heard of.
+         http://screen-play.net/NERDYS/details.html
+                              - sadly, ratemypoo.com couldn't make it
+         http://www.ntk.net/index.cgi?back=2001/now0615.txt&line=26#l
+                - if only globalfarmers had gone for "rate my manure"
+
+         GOOGLE's list of USENET firsts - published to celebrate the
+         new 20-year archive is ... riveting. Not because someone
+         bleating about waiting "to see all nine parts of Star Wars"
+         was the first mention of Phantom Menace (1982). No - it's
+         because it's Randall "Perl Fugitive from Justice" Schwartz
+         doing the bleating. USENET was the hatching ground for many
+         of computing's leaders, and looking back over two decades,
+         we see a remarkable consistency in their youth. Perl
+         missionary Larry Wall initially appears in the archive
+         exploring the nature of salvation - in Return of the Jedi
+         ("there is an afterlife, however holographic it may be").
+         Idealist Jamie Zawinski characteristically introduces
+         himself while fuming about various historical injustices -
+         notably, the replacement of Wookies with Ewoks. And if it's
+         not Star Wars that inspired our young leaders, it's the next
+         best thing. One of John Gilmore's first posts is a quibble
+         about the accuracy of the phrase "fish taco" in certain
+         unspecified contexts. And surely no-one would think of
+         posting to alt.support.herpes under their *own names*? Think
+         we're giving links? Come on - it's the triumphant return of
+         the USENET scavenger hunt!
+         http://www.google.com/googlegroups/archive_announce_20.html
+                                                   - where's carasso?
+         http://groups.google.com/
+- posting could cost you hundreds if not thousands of dollars in legal fees
+         http://catalogs.google.com/
+                                                     - next, ze world
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Drink or Die [...] is, in turn, believed to be part of an
+         international piracy network known as Warez", reveals GUARDIAN:
+     http://www.guardian.co.uk/internetnews/story/0,7369,617641,00.html
+         - arch-enemy of international media cartel known as "Movies,
+         Games and Videos"... TIM B-L "widely credited" by BBC with
+         inventing internet: http://www.ntk.net/2001/12/14/dohtim.gif
+         ... "success" of Yahoo!, eBay, ENRON "can't be explained"
+         muses: http://www.hbsp.harvard.edu/hbsp/prod_detail.asp?R0101G
+         ... "the film Trainspotting introduced the world to the rail-
+         loving hobby", clarifies BBC's "cultural gap" correspondent:
+  http://news.bbc.co.uk/hi/english/world/europe/newsid_1668000/1668860.stm
+         ... CASES OF THE MISSING MILLIONS - telco market bottoms out:
+         http://www.ntk.net/2001/12/14/dohcolt.gif , CHRIS EVANS needier
+         than thought: http://www.ntk.net/2001/12/14/dohevans.gif ...
+         thrilling "screen shot from the smash hit Unreal Tournament":
+  http://softwaredev.earthweb.com/sdtech/article/0,,12065_936561,00.html
+         - they need a site like HALF-LIFE SCREENGRABS UNLIMITED:
+         http://www.guardian-online.co.uk/ ... H&M? H&P, more like:
+         http://qwer.org/widdecombeoftheweek011214 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         We've got to admit, we've yet to be informed exactly how we're
+         "supporting" tonight's LONDON 2600 XMAS PARTY (from 7pm, Fri
+         2001-12-14, WebsHack cybercafe, Dean St, Soho), but we'll
+         probably turn up (about the same time you receive this mail),
+         inquire politely about the bar prices, and maybe show the
+         "banned" Lone Gunmen hijacked-plane-aimed-at-the-World-Trade-
+         Center video - that sort of thing. Then we'll have a bigger
+         event around May of next year to commemorate NTK'S OFFICIAL
+         5TH BIRTHDAY CELEBRATION, so you've got plenty of time to let
+         us know what you'd like to see (or do) at it. Or at the very
+         least, clear your diary.
+         http://www.spy.org.uk/cgi-bin/xmas-party.pl
+           - and maybe a VHS of Buffy the Vampire Slayer: The Musical
+         http://www.cybersalon.org/
+       - Richard Barbrook presents his Christmas speech to the nation
+         http://www.interlog.com/~porteous/festivus.html
+                                   - a Festivus... for the rest-iv-us
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Sadly, due to a communications mixup with PR monkey dicks,
+         we don't have a Gameboy Advance *or* a GBA Flash Cartridge
+         programmer. In all honesty then, we can't say we've
+         exhausively tested FOON, Strags' new ZX Spectrum Emulator
+         for the GBA. Tesla-like, though, we have emulated it
+         perfectly in our heads - and what's not to admire? We liked
+         that the Gameboy series has reached a sophistication that
+         allows it to be a emulatix as well as an emulatand. We like
+         the Speccie. We like that the author has been frantically
+         cranking out updates to Foon for weeks on his site. We even
+         like that he asked "Is it considered bad form to try and
+         plug your own stuff in NTK?" too. It is bad form, Strags:
+         but we *reward* bad form.
+         http://foon.pocketheaven.com
+                                       - hint, hint, Father Christmas
+         http://zxadvance.gbaemu.com/
+                                        - not yet tested in our heads
+
+
+                                >> MEMEPOOL <<
+                  ceci n'est pas une http://www.gagpipe.com/
+
+         makers of MONOPOLY inadvertently end up imitating THE ONION:
+         http://www.guardian.co.uk/uk_news/story/0,3604,617906,00.html ,
+         http://www.theonion.com/onion3614/parker_brothers_monopoly.html
+         ... foreign-language anticonsumer all-your-base-style FLASH:
+         http://www.verylowsodium.com/fanimutation/exuberance.php ...
+         when oh when will the public tire of online TURNER PRIZE
+         parodies: http://www.informationwantstobefree.com/creedalizer ,
+     http://www.imperica.com/art/turnerprize/ ... life imitates JEFF MINTER:
+http://news.bbc.co.uk/hi/english/world/south_asia/newsid_1705000/1705341.stm 
+         - vs http://home.dal.net/shrub/mountain/photoshops/ ... typing
+         rude words into http://www.m-w.com/cool/press/webaudio.htm ,
+         singing along with http://oozak.caseyporn.com/listen.php ...
+         WTC UFO WTF?: http://www2.justnet.ne.jp/~kiti/Ufo/fs/fs.htm
+         ... if you can't read this, maybe we're just too "worthless":
+     http://www.ositis.com/english/products/pd_smartfilterlist_en.asp#wt
+         ... "It can't be bargained with. It can't be reasoned with.
+         But it *can* be purchased online here for as little as $4.99":
+     http://catalog.belkin.com/IWCatProductPage.process?Product_Id=38067
+         ... "illustration does not depict recommended maintenance
+         procedure": http://www.xitel.com/support.htm ...
+
+
+                                >> GEEK MEDIA <<
+                      the less trailered www.tvgohome.com
+
+         TV>> C5's cheap 'n' confusingly transatlantic clip-show THE
+         GREATEST TV COPS OF ALL TIME (8.15pm, Sat, C5) unlikely to
+         rival the insights of http://kreskytv.com/everything.html ...
+         the unthrillingly live and dangerous BRITISH COMEDY AWARDS
+         (9pm, Sat, ITV) segue neatly into nuclear exploding helicopter
+         hilarity BROKEN ARROW (10.15pm, Sat, BBC1)... and Malcolm
+         "Clockwork Orange" McDowell explores what Hogwarts would be
+         like if the kids had automatic weapons instead of spells in IF
+         (12.30am, Sat, BBC2) - more entertaining than Cronenberg low-
+         budgeter THE BROOD (12.50am, Sat, C4) and the similarly themed
+         puberty-confronting body-horror MIGHTY MORPHIN POWER RANGERS:
+         THE MOVIE (5.10pm, Sun, C5)... "ordinary Americans" boldly
+         deny allegations of their country's "global arrogance" in
+         CORRESPONDENT (7.15pm, Sun, BBC2)... Jennifer Lopez's breasts
+         - and Sean Penn's ass - are "briefly visible" towards the end
+         of Oliver Stone's knockabout smalltown comedy U-TURN (10pm,
+         Sun, C4)... and both THE SOUTH BANK SHOW (Sun, 11pm, Sun) and
+         OMNIBUS (6.45pm, Sat, BBC2) attempt a ratings-boost by
+         ditching their usual arts coverage in favour of "The Making
+         Of: The Lord Of The Rings"... as WW2 rages on in THE BATTLE OF
+         HOOD AND BISMARCK (9pm, Mon & Tue, C4), Pamela Anderson takes
+         a look at the lighter side of the conflict in nipple-packed
+         "Casablanca" remake BARB WIRE (10.35, Mon, C4)... a funnier
+         ending to otherwise excellent biometric-security-critique
+         GATTACA (10.35pm, Tue, C5) would have Ethan Hawke boarding a
+         spaceship secretly carrying gallons of other people's wee...
+         leaving you with a choice of a STEPTACULAR CHRISTMAS (7pm,
+         Thu, C5), NIGELLA BITES CHRISTMAS (8pm, Thu, C4), VETS IN
+         PRACTICE AT CHRISTMAS (8pm, Thu, BBC1), HAVE YOURSELF A VERY
+         EIGHTIES CHRISTMAS (10.45pm, Thu, C4), or a sci-fi pilot from
+         the increasingly unwatchable COMEDY LAB (11.40pm, Thu, C4)...
+
+         FILM>> apparently it threatens to be even bigger than Peter
+         Jackson's previous magnum opus, "Bad Taste", and this year's
+         "Planet Of The Apes" *put together*, but simultaneous global
+         release dates seem to have restricted the VCD previews of THE
+         LORD OF THE RINGS: THE FELLOWSHIP OF THE RING (imdb: based-on-
+         novel / epic / middle-earth / sword-and-sorcery / ancient /
+         castle / dwarf / elf / goblin / good-versus-evil / halfling /
+         orc / hobbit) - out this Wednesday, full review next week...
+         otherwise there's Tilda Swinton - from Orbital's "The Box"
+         video - in the "Suture" guys' arthouse suspense-noir remake
+         THE DEEP END (http://www.cndb.com/ : [Swinton's] dark nipples
+         are definitely visible through her wet undershirt, but we
+         never get a decent view)... it's Ali "Varsity Blues" Larter,
+         Ronny "Total Recall" Cox and Colin "Ballykissangel" Farrell -
+         together at last! - in explosive neo-Western AMERICAN OUTLAWS
+         (http://www.capalert.com/capreports/americanoutlaws.htm :
+         gunfire deaths, many, some graphic - not considered murder
+         since they were due to warfare or other military/police
+         action; open mouth kissing; flippant talk of killing)... or a
+         limited-re-release for the start of David Lynch's slide into
+         wilful suburban weirdness, BLUE VELVET (http://www.cndb.com/ :
+         we briefly see [Isabella Rossellini's] ass, a breast, and even
+         her bush. Then, near the end of the film, we get a distant
+         full frontal shot of her, and a close look at her breasts.
+         Then we see a bit more when she goes into a car, and once
+         she's inside a house; [Rosselini] holds [Kyle "Dune Guy"
+         MacLachlan] at knifepoint and forces him to strip. We see his
+         beautiful ass and a get a good frontal shot. For embarrassment
+         fetishists, this is a 4-star must-see)...
+
+         THE "VICTORIAN AFFECTATION">> What's that? You live outside
+         the UK and are therefore too late to order a fashionable
+         "They Stole Our Revolution" FBI-style NTK jacket (US$30) from
+         http://www.ntkmart.com/ ? But you've accidentally run your
+         thumb over a few PRINGLES tubes in the supermarket and wrote
+         down the Amazon UKP2 gift voucher codes, pretending you were
+         making frantic last-minute modifications to your shopping
+         list? Well, your first stop should of course be our official
+         bestsellers list at http://www.ntk.net/books/ , which shows
+         that, this month, NTK readers have been mostly reading drug-
+         crazed Tolkien-parody BORED OF THE RINGS (a high new entry,
+         with 6 sales so far), while the lower reaches of the chart
+         reflect the seasonal mood turning towards love poetry, erotic
+         anime, programmable logic controllers, the novels of Brian
+         "AI" Aldiss, and the wit of Jerry Seinfeld - enough, we hope,
+         for some lucky recipient to construct their own humanoid sex
+         robot, then make jokes about it afterwards... not on the list
+         yet is Charlie Brooker's slimline scatology TV GO HOME (UKP7.99)
+        http://www.amazon.co.uk/exec/obidos/ASIN/1841156752/needtoknow0e
+         - not drawing on the online archive as much as we'd expected,
+         possibly with a view to a followup publication next year? For
+         the boffin in the family, Steven Johnson's EMERGENCE: THE
+         CONNECTED LIVES OF ANTS, BRAINS, CITIES AND SOFTWARE (UKP11.99)
+        http://www.amazon.co.uk/exec/obidos/ASIN/0713994002/needtoknow0e
+         is already being described round here as "Kevin Kelley's 'Out
+         Of Control' - but for people who read books", while resident
+         NTK fanboy BEN MOOR was characteristically uncritical of Frank
+         Miller's DC-continuity-flaunting Batman vs Superman sequel
+         DK2: THE DARK STRIKES AGAIN (only in comic stores, around
+         UKP5.95 - http://www.dccomics.com/features/dk2/dk2.html ).
+         And rounding off this Editors' Selection of tomes you could
+         probably print most of off the net if you could really be
+         bothered to, kudos to reader MARTIN DODGE for mentioning NTK
+         on page 158 of his co-authored ATLAS OF CYBERSPACE (UKP30):
+        http://www.amazon.co.uk/exec/obidos/ASIN/0201745755/needtoknow0e
+         which combines an academic introduction to critical map-
+         reading with gorgeous coffee-table-style abstractions of the
+         Mbone, newsgroups and MOOs. "Could it be 'The Visual Display
+         of Quantitative Information' for the 21st century?" we
+         wondered (but were unable to answer, as we haven't read Ed
+         Tufte's original yet)... other than that, you're stuck with
+         Amazon's own slightly bizarre suggestions - for mums with a
+         sense of humour, Anne Robinson's MEMOIRS OF AN UNFIT MOTHER:
+         http://www.amazon.co.uk/exec/obidos/tg/feature/-/222593/ - but
+         let's face it, Granny's hardly going to notice that you got
+         her two copies of WEST SIDE STORY on video - nos 8 and 16 at
+         Amazon's own slightly bizarre suggestions - for mums with a
+         sense of humour, Anne Robinson's MEMOIRS OF AN UNFIT MOTHER:
+         http://www.amazon.co.uk/exec/obidos/tg/feature/-/222593/ - but
+         let's face it, Granny's hardly going to notice that you got
+         her two copies of WEST SIDE STORY on video - nos 8 and 16 at
+         http://www.amazon.co.uk/exec/obidos/tg/feature/-/95184/ . And
+         yes, it's hard to resist great opportunities to "Save 20%" on
+         the award-winning JIMMY CORRIGAN: THE SMARTEST KID ON EARTH:
+        http://www.amazon.co.uk/exec/obidos/ASIN/0224062107/needtoknow0e
+         - "List Price: UKP10. Our Price: UKP14.40. You Save: UKP3.60"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+                           "A WHOLE LINE OF YELLING"
+                   http://spamassassin.taint.org/tests.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

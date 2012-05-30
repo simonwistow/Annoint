@@ -1,0 +1,383 @@
+         [Hi, Dave here. Dan's currently visiting the Burning Man
+         festival in the Nevada desert and, as he normally does all
+         the cool technical stuff, I thought I'd make this a special
+         "Reader's Responses" issue, kind of like an FAQ, but
+         without the jokes. For the benefit of any new-ish readers,
+         I guess I should emphasise that this still isn't the "real"
+         weekly Need To Know, which is still on holiday till around
+         mid-September. But you know, once you've got a taste for
+         sending out this sort of thing on a weekly basis, it's hard
+         to give up.]
+
+         [Hi, Dave again. Sorry this is a bit late, but I realised -
+         only at the very last minute - that I didn't know the email
+         address that I needed to send the finished copy to. See
+         what I mean about Danny being the technical one?]
+
+
+ __  __ _29/08/97 _   _ _____ _  __      <Nasty, British and Short>
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! Mail 'subscribe ntknow'
+| |\/| | | '_ \| |  \| | | | | ' /     o   to majordomo@unfortu.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o   www.spesh.com/cgi-bin/now
+
+              "Has anyone else noticed how the answering machines in
+             Babylon 5 sound like a super-futuristic version of BT's
+                Call Minder service: 'You have... THREE... Messages,
+              Message from, Mr Donald, Message from, Readers Digest,
+                                                  Message from,...'"
+                        - subscriber Russell Paterson, Milton Keynes
+
+
+                               >> MINI NEWS <<
+                                big questions
+
+         Q. What news would you have done this week then?
+
+         A. Hmm, tricky. I quite liked the sound of the Texas
+         company with the "theoretically unbreakable" private-key
+         email encryption system - who are offering a $1,000,000
+         prize to anyone who can crack a brief message in under a
+         year ( www.ultimateprivacy.com ). Be good to see them go up
+         against folks like http://rc5.distributed.net/ ... that
+         controversial Basque/pro-ETA terrorist site is back again,
+         this time on quite a cool Brit anti-Censorship/PICS site
+         ( www.easynet.co.uk/cam/censorship/ehj/ehj.html )... then
+         there was "Whitehouse Sues Matt Drudge For $30 Million" and
+         "Netscape To Write All-Java Browser", though technically
+         those are both borderline Anti-News (see below)... Danny
+         was very keen on some nonsense about someone "patenting"
+         the word "Swampy" but I reckoned that was probably a spoof
+         - because, right, I can understand that you could register
+         it as an official trademark (for loads of cool Swampy
+         merchandise) but surely *patenting* would involve proving
+         that you had invented the whole idea of a boldly tunnelling
+         young man who captured the hearts of a nation... look, it's
+         been a slow news week, OK? Microsoft, where were you?
+
+
+         Q. What kind of news do you cover?
+
+         A. [OK, Dave, I'll take this one - Dan] *Interesting* news.
+         We cover a lot of technology/Net stuff (Microsoft vs Apple,
+         Microsoft vs Netscape, Microsoft vs Your Mother) because
+         our research indicates that NTK subscribers generally a)
+         have a computer, b) use the Internet, c) aren't clueless
+         newbies who think all of this stuff is  "booring" and
+          "unimportant". We cover it from a UK point of view because
+         by doing so, as one reader described it, "[you] no longer
+         need to get wound up checking over-serious west coast tech
+         wank news sites". We do cover other news too - in the past,
+         we've written on surveillance, direct action events,
+         hacking law, Peter Snow's move to Tomorrow's World,
+         censorship, and other geek issues. But mostly, we just
+         bleat on about Microsoft. We try to avoid material that's
+         covered in the mainstream press - partly because you'll
+         have read it before, but mostly because it's completely
+         wrong.
+
+
+         Q. How do you support it? Why do you do it? Am very
+         curious.
+                        (- Mike Butcher, News Editor, New Media Age)
+
+         A. Well, we get some support (use of computers, server
+         space etc) from our sponsors (see the end of the doc), but
+         essentially we do it for the hell of it. We've got about
+         700 subscribers so far, and that's not too bad considering
+         we haven't done much promotion yet, and are currently on
+         holiday. We haven't yet figured out any good ways of making
+         any money out of it, but at the moment that doesn't really
+         matter - I reckon that because we don't have any charges or
+         ads or lame registration systems, we can take on pretty
+         much anyone. Like Kevin Spacey says in The Usual Suspects:
+         "They realised that to be in power, you didn't need guns or
+         money or even numbers. You just needed the *will* to do
+         what the other guy wouldn't."
+
+
+         Q. Why do you hate Wired so much?
+
+         A. Another one for you, I think, Dan.
+         http://www.spesh.com/danny/wireduk/index.html         
+
+
+                             >> TINY ANTI-NEWS <<
+                              no surprises there
+
+         Q. What are all these other sections about?
+
+         A. OK, let's take it bit by bit. First up, Anti-News is
+         supposed to be the antithesis of real news, and something
+         we thought up once when some PR company sent us a press
+         release touting the fact that The Shamen planned to put
+         their new single on the Internet. "This isn't news," I
+         exclaimed, incredulously. "This, in fact, is its diametric
+         opposite. If the Shamen *weren't* releasing their new
+         single on the Internet - now that would be news..."
+
+         So, for instance, among this week's Anti-News would have
+         been the remarkable revelation that US net mags are dying
+         like flies, with Internet Underground, The Net, NetGuide,
+         and "many, many more" either ceasing publication or going
+         on indefinite holiday. The best excuse comes from the
+         publisher of The Net, who shamefacedly confessed: "We were
+         sort of in the position of educating our readership not to
+         read the magazine. After 12 issues of the magazine they
+         knew enough about the Net so they could get most of what
+         they needed online." Damn those pesky readers, eh?
+         http://www.cnn.com/TECH/9708/28/netly.news/index.html         
+
+
+                             >> MICRO CULTURE <<
+                        places to visit - pizzas to go
+
+         Q. Pardon?
+ 
+         A. Yeah, this is like stuff you might want to do that (for
+         whatever reason) doesn't involve a computer. Personally,
+         I'm hugely excited about this KLF gig at the Barbican on
+         Tuesday, but if you can't make it along there, the mighty
+         Namco have just opened their latest "fun centre" down in
+         the old County Hall building in London (Westminster or
+         Waterloo tube, next to the Aquarium), and featuring the
+         still hard-to-find (and remarkably excellent) Sega Lost
+         World coin-op. NTK says: check it out.
+
+
+         Q We've seen what you put in - is there anything you leave
+         out?
+
+         A Hmm, how about this lively piece of sci-fi rock showbiz
+         gossip: "My friend (struggling cartoonist, designer) has
+         been commissioned by none other than Gary Numan's manager
+         to make a customised loo-seat as a present for Gary Numan's
+         forthcoming wedding. It depicts Gary in Star Trek gear
+         shooting a Borg with a phaser, as his bride-to-be swoons on
+         his arm, dressed in a leather catsuit."
+
+
+                             >> TEENY TRACKING <<
+                           it's in the room with us
+
+         Q. You really don't know anything about this bit, do you
+         Dave?
+
+         A. Well, no - as round-ups of the latest software/hardware
+         upgrades go, it's really not my speciality. Dan said I
+         should plug MTU-Speed ("enables you to change the
+         appropriate Windows 95 registry settings to maximize your
+         speed on downloads... can speed page and file downloads by
+         as much as 200 percent just by keeping packet size aligned
+         with the transfer unit size"). Well there you have it.
+         http://search.shareware.com/code/engine/Find?archive=cnet-         
+         win95&search=mtuspeed.exe&and=&orfile=on&name=&hits=25         
+
+         Next Yoz Grahame chips in with "I've found a new web
+         scripting language!" Apparently it's called Curl; Yoz
+         excitedly adds that it "looks like LISP (what else do you
+         expect from MIT?)" and that it may well turn out to be
+         "incomprehensible bollocks". You decide.
+         http://www.cag.lcs.mit.edu/curl/         
+
+         Then I go and spoil it all with something lame like
+         "apparently the Game Boy Pocket is now out in five
+         different coloured cases, *including transparent*." Do
+         Nintendo know a lot about flogging you the same product
+         over and over again... or what?
+
+
+                            >> KIDDIES MEMEPOOL <<
+                              hasta la altavista
+
+         Q. What's Hawking/What's Dawkins?
+
+         A. Alright, we got a bit carried away that time, but
+         essentially this the latest buzzwords, cool sites and
+         random jargon to drop into conversations (or AltaVista,
+         whichever is more convenient). This week, among other
+         things, I would certainly have plumped for the Teletubbies
+         RPG ( www.mhairi.demon.co.uk/ttrpg.htm ), the news that many
+         N64 games won't ship till after Christmas ("Analysts say
+         Nintendo can still do well as long as its new Diddy Kong
+         Racing game and other major titles do not flop") and, well,
+         that MPEG3 clampdown clearly hasn't worked, has it?
+
+
+                                >> MO' MEDIA <<
+                                less attitude
+
+         [responding to NTK observation that the "Geek Like Me"
+         episode of Sabrina - The Teenage Witch was shown twice in
+         four days]
+
+         I hate to say it, but the word "incompetence" springs to
+         mind here. Remember that this is the channel which is
+         showing Sabrina reruns when they haven't even finished
+         showing the first run yet: there are still five unscreened
+         episodes left over from the run which finished in April.
+         They've also taken to censoring it: the "whammy fanny" song
+         lyrics have been cut out.
+
+         But for geekus ultimus you can't beat the authentic
+         portrayal we get in the character of Brian Krakow in the
+         series My So-Called Life (rerun of which has just finished
+         on C4).
+                                                 - subscriber "Shez"
+
+         NTK: Thanks for your input Shez, though you Sabrina fans
+         should also look forward to for the eventual TV debut of
+         the Buffy The Vampire Slayer spin-off series, which is
+         almost exactly the same show, yet - incredibly - cuter and
+         more terrifying BOTH AT THE SAME TIME.
+
+
+         TV>> Sunday is BBC2 night, with STEPHEN HAWKING'S UNIVERSE
+         (7.45pm) leading up to the often entertaining OUTER LIMITS
+         (8.35pm), some stuff about bullying, then the wildly
+         underrated Winona Ryder movie REALITY BITES (10.10pm) -
+         tough competition for Tim Robbins as THE HUDSUCKER PROXY
+         (10pm, Sun, C4)... funny TV ads from other countries form
+         the highly original premise of RORY MCGRATH'S COMMERCIAL
+         BREAKDOWN (9.30pm, Tue, BBC1)... yet another relaunch for
+         clunky old TOMORROW'S WORLD (7.30pm, Wed, BBC1), now hosted
+         Scully-and-Mulder-style by Philippa Forester and Peter
+         Snow... still, the real X FILES are back (Wed, 9.30pm,
+         BBC1) with really quite a dull bee-keeping cliffhanger; we
+         prefer the repeats of SLIDERS (6.45pm, Wed/Thu, BBC2)...
+         oh, and most people would surely rather spend 10 years in a
+         futuristic prison than have to endure the similarly themed
+         tedium of NO ESCAPE (11.15pm, Thu, BBC1)...
+
+         MOVIES>> it's pretty much CONSPIRACY THEORY (action /
+         thriller / conspiracy / computers) vs THE FULL MONTY
+         (comedy / stripper)... Conspiracy Theory has Mel Gibson,
+         Julia Roberts, Patrick "Picard" Stewart, direction from
+         Richard "Lethal Weapon" Donner, and some nice references,
+         but ultimately a bit confused... The Full Monty is some
+         unemployed blokes (including the guy off Hamish Macbeth)
+         turning to erotic dancing; funnier than you'd think, but
+         not exactly undermining the theory that British cinema now
+         just means costume drama and smut comedies...
+
+
+                           >> GENERAL KNOWLEDGE <<
+                              local anaesthesia
+
+         Q. Why does the newsletter seem to have lots of different
+         names? What's all this about a real magazine?
+
+         A. For historical reasons, Need To Know is the new name for
+         Need To Know (Now) - Britain's Most Sarcastic Weekly
+         Technology News E-zine. Need To Know Review is the
+         forthcoming spin-off print publication of Need To Know
+         (previously known as Need To Know (Now)). In the (unlikely)
+         event of another publication contesting our claim to be
+         "Britain's Most Sarcastic Weekly Technology News E-zine",
+         NTK will partially retract the statement by claiming that,
+         the phrase, in itself, is intended to be sarcastic.
+         Logically, this therefore makes us the most sarcastic
+         again, and so on, to infinity.
+
+
+         Q. Where did you learn to do HTML like that? Dachau?
+              (- Stevan Keane, Managing Editor, Yahoo Internet Life)
+
+         A. Cheers Stevan. The web page is in fact designed to
+         operate efficiently with most browsers, and makes extensive
+         use of bold courier as an act of solidarity with the
+         legally troubled Drudge Report ( www.drudgereport.com/ ). We
+         are painfully aware that the URL script doesn't parse
+         tildes or terminating full stops correctly, and Danny will
+         be endeavouring to correct this as soon as he gets back
+         from having such a good time in the US, the bastard.
+
+
+         Q. I'm thinking of doing my "own" NTK? Where should I
+         start?
+
+         A. [Hi - Dan here again, ingeniously anticipating your
+         queries before I went away.] Well, obviously we don't
+         recommend it, but if you're that determined, here are some
+         of the sources that we use to liberate information, then
+         claim it as our own:
+
+         SITES:
+         http://www.newshub.com/   - Great automated news links site
+         http://www.teletext.co.uk/couk/new.htm
+                                   - The Award-winning Teletext site
+         http://www.bluesnews.com/
+                       - Gossip and facts from the Quake Underground
+         http://www.zdnet.com/uk              - Rupert Goodwin's pad
+         http://www.ditherati.com/     - Nice, snipy attitude. Where
+             we would steal our quotes, if we could get away with it
+         http://www.linkexchange.com/webnews.html
+                                                 - The News in Links
+         http://www.leeds.ac.uk/law/pgs/yaman/yaman.htm
+                                         - Yaman's Cyber-Rights Page
+         http://www.pcpro.co.uk/                   - Funny headlines
+         http://www.wired.com/
+                       - The Bit Of Wired Ventures That Will Survive
+         http://browserwatch.internet.com/news/news-current.html
+                                                      - Tracking Aid
+         http://www.gmsv.com/
+                          - very American, but that's why we like it
+
+         MAILING LISTS:
+         http://www.computerwire.com
+                                    - insanely great UK news service
+         http://www.tipsworld.com    - generic mailing list selector
+         http://www.desk.nl/~nettime/    - mad Euro-artist rant zone
+         http://www.tbtf.com/   - "Tasty Bits From The Technological
+                                Frontier": terrible name, great list
+         http://www.apacheweek.com/
+                    - News about Apache, the freeware UNIX Webserver
+         http://www.blackdown.org/
+                    - Home of 0xdeadbeef, the informative funny list
+         http://www.fringeware.com/msg/sub.html
+                                       - FringeWare News from Austin
+         http://snyside.sunnyside.com/home/
+                  - Computer Professionals for Social Responsibility
+         http://www.btwebworld.com/communities/newsite/crn/note1.htm
+         l                                   - UK Communities Online
+         http://www.dis.org                - The DEFCON mailing list
+         http://www.access.org.uk -
+                                   The Access All Areas Mailing List
+         http://www.educom.edu/web/pubs/pubHomeFrame.html  - Edupage
+
+
+         AND FINALLY...
+         Q. What about Doug Hofstadter's research group in Indiana?
+         He's into machine implementation of woolly, fluid concepts
+         and stuff, only he uses very restricted domains so it often
+         looks like his programs are doing trivial shit. I was just
+         wondering whether he's taken seriously by the AI
+         mainstream...
+         - subscriber David Pape, via postcard, on holiday in Greece
+
+         A. Anyone? Anyone?
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is (usually!) an interesting UK digest of things that
+      happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+      nothing better to do. It is compiled by NTK from stuff they get sent.
+      Registered at the Post Office as "not usually this self-referential".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+ (K) 1997 Special Projects. Non-biz copying ok, but retain SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+

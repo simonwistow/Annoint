@@ -1,0 +1,198 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2006-01-13_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                              unlimited to-do's
+        
+         Is it some coded message between the busy bees of MySociety 
+         and the (comparatively) slow-moving Open Rights Group (the 
+         latter steadily nearing some way that you can actually send 
+         them the money that you may have pledged them last year)? 
+         Anyway, MySociety have turned their internal-nagging email bot 
+         *inside out* and converted it to an outward-facing web site 
+         which will regularly remind you about anything you were 
+         planning to do but keep forgetting. Like a cron job for the 
+         rest of your life, the site promises to "hassle you roughly" 
+         every X days according to what you specify, and even utilises 
+         "semi-unpredictable" intervals to prevent you anticipating 
+         (and attempting to avoid?) its relentless good intentions. 
+         Still, we always like to show some editorial impartiality on 
+         MySociety issues - and in this case maintain that the project 
+         would be slightly, but significantly, improved if it was 
+         renamed "David Hasslebot", in tribute to the calm, slightly 
+         camp conscience of the computerised car in "Knight Rider".
+         http://www.hassleme.co.uk/
+                                            - no pressure or anything
+         http://www.openrightsgroup.org/
+- yeah, yeah, says distracted NTK editor, peering at Congressional notices
+         http://qwer.org/DeptForConstitutionalAffairsOffering.html
+    - get yer UKP10K funds to "facilitate democratic engagement" here
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         You know, we've always wanted to hold an event that Joshua 
+         "del.icio.us" Schachter was speaking at - largely so we could 
+         introduce him with the Shampoo track of the same name ("You're 
+         so old and we're so young/ We're gonna have some fun/ 'cause 
+         we want to! [...] Del-icio-us/ Running wild in the city, late 
+         at night!"). Sadly, next month's CARSON WORKSHOPS SUMMIT: THE 
+         FUTURE OF WEB APPS (10am, Wed 2006-02-08, Kensington Town 
+         Hall, London, W8 7NX, UKP75 + VAT) has a slightly more 
+         conventional pretext for making him the keynote, commencing a 
+         day of mid-priced Web 2.0 cheerleading that also includes Eric 
+         "Flickr" Costello, furious Brit blogging apologist Tom Coates, 
+         plus a couple of guys from Google. Negotiations are afoot to 
+         snag one or more of them for another London GEEK DINNER, 
+         though in the meantime Ian Forrester is trying out a slightly 
+         more upmarket venue for January's soiree with DAVE "CSS Zen 
+         Garden" SHEA (7pm, Mon 2006-01-23, The Crown and Anchor, 22 
+         Neal St, London WC2H 9PS, UKP6 for buffet). And for anyone who 
+         considers an evening discussing web standards "not quite geeky 
+         enough", a new pub night for "computer security enthusiasts" 
+         continues at 8pm, next Thu 2006-01-19, upstairs at The Hand 
+         And Flower, 1 Hammersmith Road, London W14 8XJ, under the name 
+         of DC4420 - seemingly implying it's exactly 1.7 times more 
+         hardcore than London 2600?
+         http://www.carsonworkshops.com/summit/
+                                - and for David Heinemeier Hansson...
+         http://www.geekdinner.co.uk/
+                             - ..."Ruby, Don't Take Your Love To Town"
+         http://www.flat3.org/web2.0/
+           - vs: always someone trying to spoil it for everybody else
+         http://www.dc4420.org/
+             - just across the road from the Olympia Exhibition halls
+         http://www.dorkbot.org/dorkbotlondon/
+       - James "prawn sandwich" Larsson at Dorkbot London, Wed Jan 18
+         
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         mind the upholstery, would you?: http://LastRetch.co.uk/ ... 
+         not much use, but perhaps needs to be "saved for the nation": 
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=7581176936
+         ... slightly geographically-themed Google goofs o' the month: 
+         http://www.google.co.uk/search?q=%22united+kingdong%22 , 
+         http://www.google.com/search?q=%22has+a+population+of+0%22 , 
+         http://www.google.co.uk/search?q=%22circumvent+the+earth%22 , 
+         http://www.google.com/search?&q=%22developing+counties%22 , 
+         http://google.com/search?q=%22onanic+farm%22 (/"chemistry" 
+         etc), http://google.com/search?q=ultrapotable - and for you 
+         Narnia fans: http://google.com/search?q=%22fauning+acolytes%22 
+         ... interesting-sounding event, ad copy by Nathan Barley?: 
+         http://refusingstructures.net/future.html ... odd signage from 
+         our Flickr streams: http://flickr.com/photos/dob/60255361/ , 
+         http://www.flickr.com/photos/gwire/83958331/ ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Despite the naysayers in the recent "My key size is more
+         enormous than yours" mini-discussion on Slashdot, the
+         (heavily concealed) truth is that TRUECRYPT is probably the
+         most actively developed storage encryption system - this
+         week at least. Based on the old Encryption For The Masses
+         Windows program, it's recently been ported to Linux, and can
+         Mac OS X be far away? It has a nice line in "false-bottomed"
+         volumes, which means that you can give the password to one
+         encrypted volume without revealing the existence of another,
+         giving rubber-hosed attackers an excuse to torture you two or
+         three times. It can sit around on USB keys and, despite the
+         usual cryptowonktastic choice of cyphers, is actually
+         reasonably straightforward to use, leaving you time to
+         actively do something subversive enough to fill more than 
+         a GPGed textfile.
+         http://www.truecrypt.org/
+                                     - snuff movies are *so* cheating
+    http://slashdot.org/comments.pl?sid=05/12/28/1256244&cid=14351388
+             - worth it for the "I'm coauthor on the proof" smackdown
+         http://www.m-o-o-t.org/
+                               - still waiting for the Day of M-O-O-T
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> With the possible exception of "Stealth", "Hotel 
+         Rwanda" and "The Life Aquatic With Steve Zissou", last year's 
+         film were so uniformly poor they've almost put us off buying 
+         pirate DVDs altogether. And yes, MARK CARROLL and SAL TATION, 
+         that includes the shameless fan-pandering of Joss Whedon's 
+         "Serenity", despite your protests that it even appeared in the 
+         IMDB's "top 250 movies as judged by their regular voters", or 
+         that viewers who didn't jump, wince or laugh were "not paying 
+         attention" http://qwer.org/RidiculouslyComplexPermalink.html . 
+         Inexplicably, this $39m triumph only took about $25m at the US 
+         box office: http://boxofficemojo.com/movies/?id=serenity.htm - 
+         in contrast to, say, the much more cinematic "Pitch Black", 
+         whose budget and domestic takings were exactly the other way 
+         around: http://boxofficemojo.com/movies/?id=pitchblack.htm ... 
+         
+         On a related note, "[I] humbly suggest that if you need to 
+         explain phrases like phony war [NTK 2004-11-12], you're not 
+         doing a good enough job of driving away a wider readership", 
+         was just one of several reader comments we neglected to 
+         mention for the whole of last year. More recently, "Where did 
+         you get that from? Nobody I've shown it to believes that BT 
+         actually produced it", contested MATTHEW GILLIARD, regarding 
+         NTK 2005-08-05's BT Technology Timeline - now nominally 
+         accessible at http://btplc.com/Innovation/News/timeline/ ; 
+         while "Marillion fan, by any chance?" accused MATT GIBSON, 
+         following NTK 2004-10-15's use of "Currently residing in the 
+         'Where Are They Now?' file", apparently unaware that its 
+         appearance in Marillion's 1987 "Incommunicado" is itself a 
+         quote from - of course - 1984's "This Is Spinal Tap" ... 
+         
+         In a similarly nostalgic mood (and apparently apropos of 
+         nothing in particular), "What happened to all the kids in the 
+         videos such as Madness' 'Baggy Trousers', the little girl in 
+         the Smiths' 'Stop Me If You Think You've Heard This One 
+         Before', and suchlike?", mused ELIZABETH BROWN. "I've always 
+         wanted to know where are they now." More practically, "Are 
+         you still in touch with anyone like Chuffy! or Snark from 
+         [defunct 2002 NTK spin-off] EveryoneHatesAttachments.com?", 
+         inquired WOODEN SPOON - well, the simple answer is no, but 
+         they (or anyone bizarrely pretending to be them) can always 
+         contact us at tips@spesh.com if they'd like to be reunited, 
+         using the subject line "NTK - I am someone who used to use 
+         EveryoneHatesAttachments.com (or bizarrely pretending to be 
+         them)"...
+
+          
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last month or might happen next month. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "just too hard to read stuffs here"
+          http://o-turn.blogspot.com/2005/12/begin-at-beginnings.html
+         
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2006 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

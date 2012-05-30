@@ -1,0 +1,325 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-04-06_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "During the unprecedented economic boom of the 1990's, rapid-
+         growth entrepreneurial companies such as Cisco Systems, 
+         Amazon.com and Krispy Kreme Doughnuts fueled the nation's 
+         economy..."
+                          - The NATIONAL COMMISSION ON ENTREPRENEURSHIP
+                           ( http://www.ncoe.org/pressroom/032301.html )
+              ...and who could have predicted that the "Golden Age" of 
+                                       doughnuts would be over so soon?
+
+         
+                                >> HARD NEWS <<
+                                half-price PS2s
+
+         After getting yet another breathless 2001-04-01 e-mail 
+         informing us that Fucked Company had been hacked by ideaLab, 
+         and seeing it was from the founder of Skeptic magazine, no 
+         less - we finally conceded that these ONLINE APRIL FOOLS were 
+         getting out of hand. None more at risk, though, than those who 
+         would toy with the CURSE OF DEBIAN for their jollies. The 
+         unfortunately afflicted volunteer group (whose last release 
+         commemorated departed developer, Joel 'Espy' Klecker) was 
+         shocked to hear from DEBIAN PLANET that their leader BEN 
+         COLLINS had died on Sunday - just days after his election. 
+         Closer examination of the post (apparently, Ben died of 
+         "massive internal inconsistencies" following an OpenLDAP core 
+         dump) raised some suspicions. But perhaps the prank would have 
+         turned out funnier if Deb maintainers weren't still recovering 
+         from the sad - and all too real - passing away of two more key 
+         developers, Chris Rutter and Fabrizio Polacco. Well, as one is 
+         supposed to say on these occasions, they'd have seen the funny 
+         side.
+         http://lists.debian.org/debian-devel-announce-0104/msg00001.html
+                                     - it's live free *or* die", dammit
+         http://lists.debian.org/debian-project-0104/msg00000.html
+   - the biggest problem is that Debian-Policy mandates a straight face
+         http://lists.debian.org/debian-policy-0104/msg00001.html
+                                                     - on all occasions
+
+         Don't think of this as a Watchdog-style assault on a business 
+         who's had some teething problems, think of it as a resounding 
+         "well done" to a UK company boldly pushing back those e-
+         commerce boundaries. Surely among the cheapest Playstation 2s 
+         sold in the UK have come from THESLAMMER.COM, who've run 
+         various offers selling the UKP300-retail console for UKP150. 
+         Despite reassurances such as their Gameplay-style colour 
+         scheme and Sony-esque claims that "they make the money back on 
+         the games", said offers have prompted widespread newsgroup 
+         speculation over the precise nature of the company's business 
+         plan - speculation fuelled by customers who've had problems 
+         getting hold of either their consoles or indeed anyone who can 
+         tell them when they might arrive. Then again, if you were 
+         (theoretically) losing between UKP70 and UKP150 on every sale, 
+         would *you* want to be spending even more money on fripperies 
+         like customer support?
+         http://groups.google.com/groups?q=theslammer&seld=913778575&ic=1
+                                  - "LOADS of people have got the PS2s"
+         http://www.theslammer.com/planetarion/
+        - "You would have knowen [their] reputatin when you ordered it"
+
+         Here's our standard position on intellectual property: it's 
+         not that we're against it per se (and you can quote us on 
+         that, for 150UKP residuals, limited first-use rights in 
+         Regions 1 and 2 only), but if you're hanging around in a 
+         universe where copying is essentially a zero cost, high-
+         benefit activity, the only way to deter infringment is to 
+         slowly increase the punishment until possession of a CD burner 
+         is a hangable offence. Well, they're not quite there yet, but 
+         it's nice to see Andrew Miller MP getting the hang of it. 
+         Andrew's currently proposing a Bill which would increase the 
+         criminal penalty of copyright infringement from three years to 
+         ten. No explanation as to why he thinks this is a good idea, 
+         but Mr Miller is renowned for being the MP who believed 
+         "people who oppose the [RIP] Bill are playing right into the 
+         hands of some of the most evil criminals on this planet". One 
+         to watch at the next election. 
+         http://194.128.65.4/pa/cm200001/cmbills/020/en/01020x--.htm
+        - and he visited Silicon Valley? Who'd he meet up with? Unisys?
+   http://politics.guardian.co.uk/person/parliament/0,9307,-3631,00.html 
+ - Y2K funding? Speed cameras good for human rights? Did we invent him?
+
+         
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         YAHOO NEWS files Barrymore pool death under 'Sport/Swimming': 
+         http://www.ntk.net/2001/04/06/dohbarry.gif ... JEDI CENSUS 
+         email arrives from New Zealand, claims census due "August 
+         7th", when actually it's April in the UK... still waiting for 
+         punchline to NEGROPONTE's "real-time browser updates" April 
+         Fool: http://news.cnet.com/news/0-1005-200-5405498.html ... 
+         where a customer is more than just a number - you're also a: 
+         http://www.ntk.net/2001/04/06/dohhertz.gif ... MTV prank 
+       http://dailynews.yahoo.com/h/nm/20010405/re/media_mtv_dc_1.html
+         imitates http://www.zeppotron.com/unnovations/shit_tv.html ... 
+         "Market Analysis Experts" DATAMONITOR *still* "completing an 
+         audit to establish its state of readiness for year 2000": 
+         http://www.datamonitor.com/aboutdm/abouty2k.asp ... "not a 
+         secure site" confesses http://www.charleshyde.co.uk/no.htm ... 
+         ISS crew already having Mir-style problems with WINDOWS NT: 
+       http://spaceflight.nasa.gov/station/crew/exp1/exp1shepmarfeb.html
+         ... even more unwittingly disturbing EBAY auction than usual: 
+       http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=575069540
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Normally minimalist techno-artists MUTE MAGAZINE seem to be 
+         celebrating their upcoming live event (or maybe contributor 
+         Hari Kunzru's big book advance) by actually putting some 
+         content on their website - so you can go there for further 
+         explanation of what they mean by THOSE MARVELLOUS MEN AND 
+         THEIR MACHINATION MACHINES: AN AFTERNOON OF READINGS AND 
+         DISUCSSION ON THE APPLICATIONS OF SYSTEMS AND SYSTEM THEORY TO 
+         LITERATURE (from 2.30pm, Sun 2001-04-08, Tate Modern, London, 
+         UKP6). Speakers include "psion of literary psychedelia" JEFF 
+         NOON (do they mean "scion"?), ROBERT COOVER (no idea) plus the 
+         Berlin Linux User Group's FLORIAN CRAMER, and the whole thing 
+         is hosted by former Kunzru protege and NTK music columnist 
+         (gone bad) JIM FLINT, who provided those enthralling accounts 
+         of cellular reproduction in his 1998 debut novel "Habitus".
+         http://www.metamute.com/events/
+                - "Systems Theory"? Negative feedback, hysteresis, etc?
+         http://www.cybersalon.org/flyers/music.html
+             - didn't understand this one at all, but liked the picture
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         So, we were hanging out with Bill Gates on Tuesday, and he 
+         turns to us (and the other 3000 CHI2001 attendees at the 
+         keynote) and says "We're pleased that 802.11b has become the 
+         standard in wireless networks". Wooh, we think, mentally 
+         noting to step over the corpse of Bluetooth as we leave, so 
+         there's evil in 802.11 after all. Well, maybe the true 
+         wickedness is that all those crazy community-owned, peer to 
+         peer, dynamically routed, ad-hoc, IPv6-tastic roaming urban 
+         network dreams that so filled the early 802.11 mailing lists 
+         are grinding down into more realistic (but duller) plans for 
+         centrally-maintained Access Points scattered over a few city 
+         rooftops. Well, one last try: we still think that if someone 
+         took a pre-existing ad-hoc routing code like MOBILEMESH and 
+         bunged it together with some simple discovery tools and an 
+         easy configuration utility, you could build a city-wide IBSS 
+         network where *everyone's* machine acted as a router, where 
+         the reach of the network naturally grew as more people joined 
+         it, and the whole network would be so radically decentralised 
+         that not even Bill could love it. 
+         http://www.mitre.org/tech_transfer/mobilemesh/ 
+                        - might not scale, but, hey, you *never* *know* 
+     http://lists.bawug.org/pipermail/wireless/2001-April/000679.html 
+      - of course, if all else fails, Pete Shipley'll hack something up 
+     http://research.microsoft.com/~bahl/MS_Projects/RadarDemo/demo.htm 
+                - but watch out, because Microsoft knows where you are! 
+         http://www.free2air.org/ 
+                             - here's the hits kid: now write something
+
+
+                                >> MEMEPOOL <<
+                               oogle at google
+
+         products that should be advertised the same way as Haagen Dazs 
+         #1: SCALEXTRIC http://www.tv4.se/lattjo/kojan/bilbanan.asp ... 
+         bored? sell some slaves to DISO: http://www.phink.net/elite/ 
+         ...wildly plausible AOL INSTANT MESSENGER "Solar Flare" excuse 
+     http://www.infoworld.com/articles/hn/xml/01/04/03/010403hnimknock.xml
+         imitates #6 at http://bofh.ntk.net/Bastard2.html ... GameBoy 
+         emulates JACQUARD LOOM: http://www.meetizek.com/features.html 
+         ... currently leading the UK ONION pack, because they just 
+         don't care: http://www.martian.fm/ ... NATHAN BARLEY presents: 
+         http://www.k10k.net/Frames.asp?section=backissue&issue=24 ... 
+         boycotting US sites for using non-KYOTO-compliant electricity 
+         ... BBC's DOTCOM AND KOSHER TV docu "elbow-chewingly awful": 
+         http://www.j-geek.org/pipermail/talk/2001-April/003866.html - 
+         mysteriously disappears from TV schedules over Easter... 
+         creepy chat-up tips of the FREE SOFTWARE revolutionaries #2: 
+        http://crackmonkey.org/pipermail/crackmonkey/1998q4/003006.html
+         ... look, can't you just let VRML pass away peacefully in its 
+         sleep? http://www.adobe.com/products/atmosphere/main.html ... 
+
+
+                                >> GEEK MEDIA <<
+                         the less rude www.tvgohome.com
+
+         TV>> BBC2 banishes another prime-time US import to the 
+         prestigious 6.45pm Friday slot - still, it is only overrated 
+         child genius sitcom MALCOLM IN THE MIDDLE... newsgroup regular 
+         Dom http://www.dvdfever.co.uk/ "The Dominator" McClane co-
+         hosts a "warez" special RIGHT TO REPLY (7.30pm, Fri, C4)... 
+         and great title sequence, shame about the rest of THE ISLAND 
+         OF DR MOREAU (9pm, Fri, C5)... in the absence of a Saturday 
+         night war movie, C4 shunts in the final SCIENCE AND THE 
+         SWASTIKA (8pm, Sat, C4), on Heisenberg's uncertain sabotage of 
+         the Nazi nuke project, as documented in Michael Frayn's play 
+         "Copenhagen"... which of course links - via Kraftwerk etc - to 
+         the '80s electro-pop pioneers profiled in TOP TEN (9pm, Sat, 
+         C4)... despite its "cool" image, actually making pornography 
+         remains curiously degrading, 90-minute investigative docu 
+         HARDCORE (10.35pm, Sat, C4) is horrified to learn... while SF: 
+         UK (12.35am, Sat, C4) explores the Freudian subtext of those 
+         extended launch sequences in Gerry Anderson shows, and Blade 
+         Runner... hitmen Banderas and Stallone compete to off Julianne 
+         "Hannibal" Moore's hacker in wacky Wachowski-written ASSASSINS 
+         (10.30pm, Sat, ITV)... Keanu Reeves and the always-unwatchable 
+         Rachel Weisz outrun a couple of shockwaves in cold fusion 
+         chaser CHAIN REACTION (10.15pm, Sun, BBC1) - not based around 
+         the Diana Ross hit single of the same name... after last 
+         week's "Kelly's Heroes", Tuesday is C5's Telly Savalas WW2 
+         night again with THE DIRTY DOZEN (9pm, Tue, C5)... and the 
+         usual Hoffman/ Travolta showboating almost sinks anti-TV 
+         hostage social comment MAD CITY (9pm, Thu, C5) - though, to 
+         its credit, it's no MRS DOUBTFIRE (8pm, Thu, BBC1)... 
+         
+         FILM>> the ever-useless Matthew McConaughey helps the giftless 
+         Jennifer Lopez make her long-unawaited comedy debut in 
+         meticulously formulaic US box office smash THE WEDDING PLANNER 
+         (http://www.capalert.com/capreports/weddingplanner.htm : 
+         suggestive positioning; lies; mention of homosexuality as 
+         being acceptable; man and woman standing in front of a nude 
+         male statue with the man cupping the statue's genitals in his 
+         right hand)... Spike Lee ingeniously imitates TVGOHOME 
+         http://www.stepnfetchitpictures.com/fset.htm - though shooting 
+         on digi video doesn't seem to have made him any less angry or 
+         heavy-handed, on the strength of "The Producers"-style rap-
+         videos-are-the-new-minstrel-shows TV ratings satire BAMBOOZLED 
+         (http://www.screenit.com/movies/2000/bamboozled.html : It's 
+         possible that some kids - black or white - might want to do 
+         the blackface minstrel thing)... in deference to the "evil" 
+         hacker who bears her name, Angelica is "a little extra snippy" 
+         in typically scatalogical sequel RUGRATS IN PARIS: THE MOVIE 
+         (http://www.capalert.com/capreports/rugratsinparis.htm : two 
+         dogs sniffing each other; the curvature of Bouche's' glutei 
+         maximi; a dog urinating on the Eiffel Tower; constant 
+         hatefulness by Angelica)... or there's yet another limited-
+         release Australian twentysomething extended bedroom chat 
+         BETTER THAN SEX (http://www.cndb.com : "shots of [Susie 
+         Porter's] plump little titties throughout this otherwise 
+         mundane movie [...] one great scene features Susie recieving 
+         head while pinching and squeezing her nips; her areole wrinkle 
+         up and the teats stiffen - as will your member!")... 
+         
+         THE "VICTORIAN AFFECTATION">> and this month's print media 
+         round-up opens with the news that we have more or less got the 
+         hang of Amazon's new reporting format, as shown by the hot new 
+         NTK BESTSELLERS CHART now at http://www.ntk.net/books/ . In 
+         fact, with the possible exception of a surprise new entry by 
+         THE KIDS FROM FAME SOUNDTRACK, it's pretty much business as 
+         usual, with the Top 20 once again dominated by programming 
+         manuals, literary classics and, of course, Neal Stephenson - 
+         though, reassuringly, no-one seems to have advance-ordered 
+         http://www.amazon.co.uk/exec/obidos/ASIN/0434009032 yet, 
+         despite the enticing information about how many pages it's 
+         going to have. Also on the long-range scanner, TVGOHOME fans 
+         can look forward to the official tie-in adaptation in October: 
+http://www.amazon.co.uk/exec/obidos/external-search?keyword=Charlie%20Brooker
+         - the long-awaited fourth volume in Brooker's "Community 
+         Mental Health" series... uber-fanboy BEN MOOR wrote in to 
+         recommend the very-post-Watchmen POWERS COLOURING BOOK (UKP1) 
+         http://www.jinxworld.com/powers.htm and Warren Ellis' upcoming 
+         MINISTRY OF SPACE, while questioning our omission of the DUNE 
+         mini-series from our last pirate video review, as it's now 
+         available on off-air US VHS transfers from "the right comic 
+         fairs", if you know what we mean. Oddly, this new version 
+         seems closer to the book, but isn't as good as the David Lynch 
+         film (due to some truly otherworldly bad acting). Of course, 
+         NTK condemns piracy should the offenders turn out to be big 
+         companies like AOL; though sometimes it's tricky to sympathise 
+         when the "victims" are the estate of noted libertarian Robert 
+         A Heinlein and Harlan Ellison, who appears to have subtitled 
+         his legal fighting-fund appeal "I HAVE NO CAPS LOCK KEY, AND I 
+         MUST SCREAM" http://harlanellison.com/kick/kick_rls.htm ... 
+         back with your earth publications, insiders seem to have 
+         issued their own version of this week's leaked LOADED memo
+http://www.mediaguardian.co.uk/presspublishing/story/0,7495,467924,00.html
+         - http://members.madasafish.com/~amifiredornot/ , while 
+         SUBJECT has made it to issue 2 - despite a promising manifesto
+        http://www.moseisley.force9.co.uk/subject/articles/5commands.htm
+         and "Question everything" attitude, which even extends to that 
+         old publishing aphorism "Don't lay out every article in what 
+         looks like giant 14-point Helvetica". And finally, a quick 
+         snippet from the ever-vital world of the specialist press, 
+         where PRESERVED BUS will, at last, be merging with BUS AND 
+         COACH PRESERVATION from the issue dated June 2001. The new 
+         title will be go by the name BUS AND COACH PRESERVATION - 
+         INCORPORATING PRESERVED BUS, so be sure to keep an eye out for 
+         this exciting new title, preserved bus (and coach) fans!...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                  "like Jeeves, we prefer the term 'jovial'"
+                             http://ntk.isgay.com
+  
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+      NTK is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

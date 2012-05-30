@@ -1,0 +1,336 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-10-26_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+       "A new kind of tennis has been served online. Called Photoshop 
+              tennis the players are graphic designers, the balls are 
+              images, and the racquets are stored in your computer..."
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_1613000/1613145.stm
+...and your BBC sports-tech correspondent remains: ALAN PARTRIDGE. Ah-haaaa!
+
+
+                                >> HARD NEWS <<
+                               forgotten untruths
+
+         There we were, thinking we'd *really* scared Demetron,
+         makers of the Sunday Times' WORDMAKER kid-surveillance
+         program. Last week's damning criticisms of their product, 
+         as you'll recall, were: it broke child market research
+         guidelines; violated what creditcard/password security your
+         home PC ever had by storing plaintext versions of everything
+         you type *including its own master password*; and it offered
+         the less salubrious Times reader the chance for even
+         creepier activities than silently monitoring their kids.
+         Like monitoring other people (or we can rabble-rouse too:
+         other people's *kids*) at cybercafes. But then we spotted
+         Demetron's mass spamming of members of rec.arts.competitions
+         back in June. Damn. Looks like they just don't care about
+         marketing guidelines (where'd they get this mailing list
+         from again?), security (the spam purports to be a
+         "accidental" leak of their new product, with password), or
+         having WordWatcher retooled for other uses. Or is it just us
+         who thinks that last sentence, "You-know-who was on the net
+         till 2:00 this morning, wonder what he'll say when he finds
+         out I know his every move?!?" surely ought to set a few 
+         data-protection alarm bells ringing?
+http://groups.google.com/groups?selm=3b2623e8.850174%40news.freeserve.co.uk
+                                   - "exclusive deal with the Mirror"
+         http://www.wordwatcher.com/internetcafesmain.htm
+ - they know about cybercafes too. And they want your *product keys*?
+
+         "3 of them use illegal software. 1 of them is a hacker. 1 of 
+         them spends 2 hours a day playing online games," says the new 
+         poster ad on the London Underground for NetIntelligence from 
+         IOMART. And what's more: "2 of them download and distribute 
+         'Dubious Material'" - while, in a cubicle just across the way, 
+         "1 of them is sending confidential info to a competitor". Now, 
+         assuming there's no duplication here (our money would be on 
+         that guy who's "a hacker"), that comes to a grand total of 8 - 
+         and there's only 10 people in the picture. No wonder it takes 
+         so long to get any work done round here. Iomart of course hit 
+         the headlines a couple of weeks ago with their unsubstantiated 
+         claims of "Arabic text and dates" steganographically concealed 
+         in image files [NTK 2001-10-12] - intelligence partially 
+         obtained by employing former hackers to download "dubious 
+         material". Perhaps their time might have been better spent 
+         securing the http://webmail.thinkmail.com/ interface to the 
+         email address "sales@iomart.com" - which, for at least the 
+         last two weeks, has had a slightly too literal interpretation 
+         of the phrase "Enter 'password'".
+         http://www.ntk.net/2001/10/26/iomart.jpg
+       - "I took them away from all that. And now, they work for me."
+         http://www.iomart.com/
+                   - "Secure Internet. Secure Email. Secure Desktop." 
+         http://www.ntk.net/2001/10/26/dohio.gif
+          - probably not their official contact address. But still...
+
+         For those who asked if we will still criticise THE REGISTER
+         now they're reselling our T-shirts: please, you misremember.
+         NTK is not at war with The Register. NTK has never been at
+         war with The Register. The Register is a fine, notoriously
+         reliable periodical. We'd *never* consider running a mocking
+         piece on, say, Kieran McCarthy, who this week spent 380
+         words out of a 660 word Register story recounting in detail
+         the plot of Snow White. Instead we have always been at war
+         with Mike Magee's THE INQUIRER - a website that's exactly
+         like The Register, except with more CPU articles, and an
+         almost unique tendency to feel we're insufficiently biased
+         against The Register. Not that that this war is easy. Take
+         when someone mails to say check out tech journalist Andrew
+         Thomas on Mastermind soon, answering questions on the
+         History of Computing; given how much he hates Unix, they
+         ask, how is he going to deal with anything before 1975? Claim
+         Bill Gates invented it just after he came up with the time
+         machine? Now, do we ditch a piece like that because Thomas
+         used to hate Unix at The Register, or run it in all caps
+         because he now works at The Inquirer? Or do we try to care
+         just a *little* bit less?
+         http://www.theregister.co.uk/content/4/22472.html
+            - the kind of context you just don't get from silicon.com
+         http://www.delphi.com/theinquirer/messages?msg=796.1
+             - Clive Anderson hosting new series on Discovery Channel 
+         http://www.theinquirer.net/21100103.htm
+         - funnily enough, Magee's still a major Register shareholder,
+                              and no-one accuses *him* of favouritism
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         future sounds of London - review of next Monday's ELBOW gig: 
+         http://www.dotmusic.com/live/Review/October2001/live22535.asp 
+         ... XP lets you "delete data from [your] hard drive", reveals: 
+         http://www.cnn.com/2001/TECH/ptech/10/25/xp.london.launch/ ... 
+         refreshing MS honesty: http://www.ntk.net/2001/10/26/dohxp.gif 
+         ... BBC Literal Illustrations Dept really getting stuck in: 
+     http://news.bbc.co.uk/hi/english/business/newsid_1619000/1619802.stm
+         ... 30% - approx 2/7 - of cars stolen on Fri and Sat, say FBI: 
+     http://www.azcentral.com/offbeat/articles/1022NEWS-CRIME-FBI-DC.html
+         ... "knowledge of Linus" required - in the Biblical sense?: 
+     http://www.it.jobserve.com/jobserve/JobDetail.asp?jobid=15015595
+         ... Interactive BAFTAs go to "Walking With Beasts" TV show 
+         (not shown yet), Black And White, Max Payne, Gran Turismo 3 
+         and, for the fourth year running, BBC News Online... maximum 
+       Widdecombe! http://www.headbalancer.com/?gallery=1&galleryID=main 
+         ... liked "America: A Tribute to Heroes"? Then you may also 
+         enjoy "Taken for a Ride (1996)" and "Intimate Portrait: Margot 
+         Kidder (1999)": http://us.imdb.com/Recommendations?0296503 ... 
+         "Vote for the fat bloke" mail urges gullible to "sabotage" ITV 
+         POP IDOL show - by ringing their premium rate phone line...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         "And the moon shall turn the colour of blood" would surely be 
+         a more exciting byline for that Missouri-based writer's now 
+         widely-discredited plans to get everyone to "paint the moon" 
+         with hand-held laser pointers at various times this weekend 
+         (from 8pm local UK time, Sat 2001-10-27). Objections include 
+         the divergence of the beams, diffraction caused by the Earth's 
+         atmosphere, and the fact that the moon isn't a shiny flat 
+         mirror hanging there in space but an imperfectly reflecting 
+         sphere which is incredibly bright already due to ambient 
+         sunlight. Nonetheless, the guy behind the idea is unrepentant, 
+         maintaining that "we need to have dreams that are bigger than 
+         ourselves" - and maybe he has a point. In these troubled 
+         times, perhaps we all need reminding that when we all work 
+         together and really put our minds to something, we still can't 
+         achieve the impossible. 
+         http://www.paintthemoon.org/wont.html
+                               - ye cannae change the laws of physics
+         http://www.nanowrimo.com/
+ - speaking of impossible dreams: Nov is National Novel Writing Month
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Italian hacktivist jaromil, worshipful creator of hasciicam,
+         has sidled into the higher-res vidcap universe with FREEJ, a
+         newish GPL'd video effects utility that lets you layer
+         endless video filters over your footage of Genoa police
+         atrocities. You'll need the SDL library, video4linux (with a
+         suitable video source), and - hooray! - the nasm 80x86
+         assembler to get it working. While already a charming mix of
+         live video capture and oldsk00l demoscene FX, the program's
+         currently a bit short on FX plugins. It does feature a great
+         implementation of the "spinning grid of multiple screens"
+         rotoscope effect (as seen on '80s Top of The Pops and '90s
+         Amigas), though, and some de rigeur colourcycling. You
+         should be able to port the excellent EffectTV collection
+         (hint hint). Or just use it to ponce around in front of a
+         videowall in your giant ant costume, you arty fop.
+         http://lab.dyne.org/
+                                                         - hello PAL!
+         http://effectv.sourceforge.net/
+                                                     - hello NTSC-JP!
+         http://linart.net/info/guide/
+                                 - death to manifestos! viva HOW-TOs!
+
+
+                                >> MEMEPOOL <<
+                that warm bit under the http://www.gagpipe.com/
+
+         Windows XP crasher in 5 lines of C++: can *you* do better? 
+         http://tane.cream.org/files/crashxp.cpp ... what Finnish bears 
+         do in woods: http://members.surfeu.fi/kklaine/primebear.html 
+         ... anthrax threats in the post? hey, things could be worse: 
+         http://www.record-eagle.com/2001/oct/19postal.htm ... or one 
+         of those times when life imitates this week's Nathan Barley: 
+         http://www.boston.com/news/daily/23/102301_tennis.htm ... at 
+         last, a (Flash) flight-sim that doesn't need a 300-page 
+         manual: http://www2.tell-tale.co.uk/telltale/flightsim.htm ... 
+         "Edelweiss, Edelweiss - my mind is going. I can feel it": 
+         http://www.computing.dundee.ac.uk/staff/irmurray/dectalkf.asp 
+         ... TVGH back just in time: http://www.wimn.net/sg/my.shtml 
+         ... and still topping patriotic pull-down menus everywhere: 
+         http://www.flagline.com/countries.html ... smaller audience 
+       than *Newton* users? http://download.planetnewton.com/downindex.asp 
+         ... new thrill! it's "Separated at Birth", online. This week: 
+         Paul Lassiter, the unloved stumbling buffoon from "Spin City": 
+     http://www.geocities.com/Hollywood/Hills/3783/images/paul1-2.jpg
+         vs Gordon Brown, unloved stumbling buffoon from Spin Parliament: 
+     http://news.bbc.co.uk/olmedia/1570000/images/_1573323_pointing300.jpg
+
+
+                                >> GEEK MEDIA <<
+                 the mildly punctual http://www.tvgohome.com/
+
+         TV>> as happened a few weeks ago with "The Usual Suspects", 
+         I LOVE 1998 (9pm, Sat, BBC2) provides a free trailer for C4's 
+         showing of shamless Brit gangster nonsense LOCK, STOCK AND TWO 
+         SMOKING BARRELS (10pm, Sun, C4)... the obligatory Parker Posey 
+         pops up in semi-competent domestic-dispute indie comedy THE 
+         DAYTRIPPERS (10pm, Sat, BBC2)... yet film of the week - if not 
+         the last decade - remains self-referential Schwarzenegger 
+         shoot-em-up THE LAST ACTION HERO (10.05pm, Sat, ITV)... Suzy 
+         "The Usual Suspects" Amis reappears in "gratutiously sexual" 
+         lame RoboCop rip-off DEAD BY MIDNIGHT (10.55pm, Sun, BBC1)... 
+         otherwise every night is Anthrax night with a BIOTERROR 
+         Equinox special (8pm, Sun, C4)... PANORAMA examining "Bin 
+         Laden's Biological Threat" (10.15pm, Sun, BBC1)... the 
+         preposterous idea that the military-industrial-entertainment 
+         complex might "create" wars to further their own ends, in Bond 
+         bullshit TOMORROW NEVER DIES (8.30pm, Mon, ITV1)... and, on a 
+         lighter note, scientists attempting "to locate Creation within 
+         the human genome" in URBAN GOTHIC (11pm, Mon, C5)... speaking 
+         of which, someone at the Radio Times still thinks that the 
+         Thylacine (or "Tasmanian tiger"), featured in EXTINCT (10pm, 
+         Tue, C4), had "the head of a wolf and a rear end similar to a 
+         kangaroo" [NTK 1998-03-13]... Frank Black jams with "Kiss" in 
+         the Halloween comedy special of MILLENNIUM (9pm, Tue, Sci-
+         Fi)... C5's commitment to ground-breaking independent world 
+         cinema continues with LETHAL WEAPON 4 (9pm, Tue, C5)... Wayne 
+         "Newman" Knight's signature scene in BASIC INSTINCT (10.15pm, 
+         Wed, C5)... and UNIVERSAL SOLIDER 2: BROTHERS IN ARMS (9.20pm, 
+         Thu, C5) - not, it appears, based on the Dire Straits song of 
+         the same name... disappointingly, cutting ATTACHMENTS (10pm, 
+         Thu, BBC2) down to 30 minute episodes has only made them 
+         duller: http://www.everyonehatesattachments.com/ ... and we 
+         never really "got" THE SOPRANOS (10.35pm, Thu, C4), though 
+         this season 3 opener does feature an amusing medley between 
+         "Every Breath You Take" by The Police, and "Peter Gunn (Theme 
+         from Spy Hunter)"... 
+         
+         FILM>> sorry - words can't express our outrage over last 
+         week's covered-up low-key release for Tom Green's rawly 
+         personal transgressive masterpiece FREDDY GOT FINGERED 
+         (http://www.screenit.com/movies/2001/freddy_got_fingered.html :
+         we see a bloody wound with part of the bone sticking out and 
+         then see Gord [Green] licking that wound and bone with his 
+         tongue; Gord tells his mother that if he were her, he'd go out 
+         and have sex with strange men, basketball players etc; Gord 
+         suddenly grabs a huge sausage and holds it to his crotch like 
+         a large, erect penis, and then goes down the assembly line 
+         where he works in that pose, saying that he's a "sexy boy")... 
+         Reese "Election" Witherspoon, Selma "Cruel Intentions" Blair, 
+         Ali "Varsity Blues" Larter and a near-unrecognisable cameo 
+         from Linda "Freaks and Geeks" Cardellini transplant "Clueless" 
+         into reverse-nerd-makeover courtroom "comedy" LEGALLY BLONDE 
+         (http://www.capalert.com/capreports/legallyblonde.htm : much 
+         talk of sexual body fluids; suggestive eye movements; girls in 
+         skimpy underwear; calling The Cosmopolitan magazine "Your 
+         Bible")... or, for all you arthouse fans, the Coen brothers 
+         are back with another interminable period pastiche THE MAN WHO 
+         WASN'T THERE (imdb: neo-noir)... oddly, there's only 3 songs 
+         in subtitled Bollywood epic ASOKA (http://www.bbfc.co.uk/ : 
+         rated 12 for "some moderate violence and horror")... and, 
+         rounding off this week's trio of directors who'll never be 
+         picked to helm a Bond film, Jan Svankmajer brings a tree stump 
+         to life in part-animated Czech-version-of-"AI" LITTLE OTIK 
+         (imdb: black-comedy / surreal)... 
+         
+         RED BOOK AUDIO: SONGS ON TV ADS THAT SOUND LIKE POP SONGS THAT 
+         SOUND LIKE RETRO VIDEOGAMES - AND THE VIEWERS THAT LOVE THEM>> 
+         after last month's allegations that Vodafone hadn't realised 
+         the DANDY WARHOLS' "Bohemian Like You" is supposed to be 
+         sarcastic, TIM BANNISTER similarly highlighted "Smile" by THE 
+         SUPERNATURALS, as showcased in the TV campaign for smile.co.uk 
+         - with lyrics like "Your life's a mess, you've been cut 
+         adrift", "Smile, cause that's all you've got left", and "I 
+         feel like a Dalek inside" among the more "irony-tinged": 
+         http://www.thesupernaturalsofficialwebsite.com/music.htm ... 
+         ADRIAN FURBY named Vodafone as "repeat offenders" in the 
+         field, citing an Australian ad which features "bright young 
+         things standing in front of a white tarpaulin" and "a 
+         soundtrack that sounds suspiciously like the Stereo MC's 
+         'Connected', but isn't"... while "You are Burger King", began 
+         GRAEME VIRTUE - rhetorically, as it turned out. "You are trying 
+         to punt your limp-looking, three-patty triple melt on the 
+         telly," he continues. "What music do you put put through the 
+         sonic copyright-blender?" BLUR's "talkie-talk knees-up classic 
+         'Parklife'", apparently - "except it's a harrowing, chromatic 
+         version that sounds like it's being played underwater. Say 
+         what you like about McDonald's, at least they cough up for the 
+         original songs"... ADRIAN MOULDER argued that "the music from 
+         the ad for Heat Magazine, with women running round a maze, is 
+         presumably supposed to be 'Sabotage' by the Beastie Boys", and 
+         then ranted, at some length, about the claim that "the higher 
+         the IQ, the greater the need for gossip" reproduced therein, 
+         without substantiation, as scientific fact. "Can I complain 
+         about it to the ASA?", he reasonably inquired, noting also 
+         Morgan Stanley Dean Witter's "93% of communication is non-
+         verbal" slogan for credit cards - a factoid which is, 
+         ironically, "impossible to express without using words"... 
+         Usenet consensus is that the girl in the Gap ad with the 
+         electric guitar is playing "Back In Black" by AC/DC, though 
+         one dissenter argues "I wish the riffs were in synch with what 
+         her hands are doing"... and, finally, ALEX TEA strongly 
+         objected to last week's frame-by-frame analysis of the new AOL 
+         ad, asking "Who in their right mind would want to see Connie's 
+         breasts?". More to the point: "Anyway, what about the new 
+         naturist Freeserve advert?" he muses. "Can any of your Tivo-
+         owning friends test that out too?"... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "now available in Avant-Go"
+                    http://nobodynet.ddts.net/palmntk.htm 
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

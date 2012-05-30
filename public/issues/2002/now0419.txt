@@ -1,0 +1,277 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-04-19_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Europe's music companies need to do more to wean
+         music-lovers away from a 'free-music mindset', according to
+         an Internet research company."
+         http://news.zdnet.co.uk/story/0,,t269-s2108751,00.html
+- of course, if only oxygen breathers could be weaned away from their
+         "free air mindset", we could charge them for that as well...
+
+
+                                >> HARD NEWS <<
+                                 pay per views
+
+         Nice to see the Inland Revenue getting into this whole "open
+         government" policy. But really, there's no need to be so
+         subtle. If you truly want everyone to see the edits to your
+         Budget press releases, there's no need to hide it by
+         uploading Word files with the previous deleted revisions
+         casually left in. After all, if you wanted everyone to know
+         that the suspiciously Old Labour phrase "ensure the nation
+         receives a fair share of the profits from the exploitation
+         of the North Sea" was edited out by a Treasury civil servant
+         at the last minute, and replaced with "the North Sea fiscal
+         regime does not strike the right balance between promoting
+         investment and taking an adequate share of revenue derived
+         from a national resource", tell us outright! It's no fun
+         ploughing through all the Treasury word files you left on
+         the site, turning on the "Confirm Revisions" option, and
+         spotting the Sir Humphrey fixes for ourselves, is it?
+         http://www.inlandrevenue.gov.uk/budget2002/index.htm
+                                       - well, perhaps it is for some
+         http://www.inlandrevenue.gov.uk/budget2002/releases_doc.zip
+             - check out revce1.doc and revce2.doc for such non-"fun"
+         http://www.ntk.net/2002/04/19/treasurydoh.png
+                                          - or just check it out here
+
+         It's only when you see all the main combatants piled into
+         the same room at the COMPUTERS FREEDOM AND PRIVACY
+         CONFERENCE that you realise just how dirty the copyright
+         wars have become. Itinerant EFF reps, ricocheting from LA's
+         Copy Protection Technology Working Group, struggling with
+         the culture-shock: blank-faced Hollywood apparatchiks
+         plotting the downfall of open computing there, geeks
+         open-mouthed with horror here. Pro-DMCAer Allan Adler of the
+         Association of American Publishers inadvertedly spurring
+         everyone on by declaiming that the audience had "no right to
+         access copyrighted material" - even copyrighted material in
+         their own homes. Some other IP stooge backtracking from the
+         mob by stating that the US just *had* to introduce the DMCA
+         because of "international treaties". (Well, that's odd: they
+         tell us the neoDMCA proposals in the EC is there because the
+         US did it first.) Phil Zimmermann, patient as ever, trying
+         to break it to the media barons that the software industry
+         *tried* this copy protection lark back in the Eighties and
+         if it didn't work for Leisure Suit Larry, it won't work for
+         "Blade II". John Perry Barlow, so shocked and upset he
+         starts talking sense. And the more the CFPers confer, the
+         more they seemed to realise that Hollywood is going for the
+         hat-trick: taking away freedom, privacy *and* computers.
+         Pretty impressive. But only if they manage it.
+         http://www.cfp2002.org/
+                                                     - spot the Brits
+         http://www.eff.org/blogs/bpdg/
+                                              - deep, deep, blogging
+
+         Forced to relocate to a pub after an administrative mixup over
+         the bank offices they'd been hoping to use, last Saturday's
+         first public meeting of the UK's ASSOCIATION FOR FREE SOFTWARE
+         offered something for everyone: beer, pizza, and an expertly
+         crafted mix of practical decision-making and drunken shouting.
+         As the name suggests, the group plan to support and promote
+         Free Software (ie, GNU *and* Linux) to the likes of schools,
+         voluntary organisations, business federations, local
+         government and the media - but that's "free" as in "freedom",
+         not "free" as in "we currently think the membership fee will
+         be UKP10 annually". And, just to liven things up at the end,
+         the shouting came courtesy of a heated debate over software
+         patents - not over whether they're a bad thing (they are,
+         apparently), but over exactly how stringently the AFFS - and
+         bemused pub locals - should oppose them, with (as ever)
+         those who'd had the most recent contact with Richard Stallman
+         feeling the uncontrollable urge to prove themselves more
+         ideologically uncompromising than everyone else.
+         http://www.affs.org.uk/
+           - no, it's not supposed to stand for "Ah, for fuck's sake"
+         http://mail.gnu.org/pipermail/fsfe-uk/2002-April/000916.html
+         - vs http://mail.gnu.org/pipermail/fsfe-uk/2002-April/001013.html
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         INTERNET WORKS still getting most of its referrals from other
+         Future mags: http://212.113.202.21/statsreports/iwks/all/ ...
+         you say "nachos", but MS microwave oven prefers "nauseous":
+         http://support.microsoft.com/default.aspx?scid=kb;EN-US;q161129
+         ... not the only thing that's been "borrowed wholesale":
+http://www.google.com/search?q=%22bridge+designs%22+%22borrowed+wholesale%22
+         ... students' weekend runs from Fri-Thu, offer implies:
+         http://www.thefilmworks.co.uk/tfw38/studentsfw/ ... recovering
+         job market offers UKP25000-30000K (25m-30m) for engineer:
+     http://www.gojobsite.co.uk/cgi-bin/vacdetails.pl?selection=910404048
+         ... BBC stuntman bravely defies even Pythagoras' Theorem:
+     http://www.telegraph.co.uk/news/graphics/2002/04/19/nspider19big.jpg
+         ... Ally McBeal or, to use her full name, the "Victoria and
+         Albert Museum": http://www.ntk.net/2002/04/19/dohally.gif ...
+         join the Royal Horticultural Society, get great discounts on
+         live gig tickets: http://www.ntk.net/2002/04/19/dohrhs.gif ...
+         alarmingly big condoms they're selling in Nigeria nowadays:
+http://news.bbc.co.uk/hi/english/world/americas/newsid_1925000/1925464.stm
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         It's all happening next Wednesday, with a three-way clash
+         between this month's Silicon Beach Forum WIRELESS NETWORKS: A
+         REVOLUTION ABOUT TO BEGIN? (Sussex Arts Club, Brighton, free),
+         INFOSECURITY EUROPE (from Tue 2002-04-23, London Olympia, also
+         free), and New Media Age's NEW MEDIA SHOW 2002 (Business
+         Design Centre, London, no obvious pricing information visible
+         on the website). But if you're not too exhausted after all
+         that, NTK reader and Britain's most theoretically rigorous
+         stand-up comedian STEWART LEE is holding a fundraising
+         spectacular to save the Vortex Jazz Foundation (from 8pm, the
+         Union Chapel, London N1, UKP12.50), with an all-star bill
+         featuring Harry Hill, Johnny Vegas, John Hegley, Kevin "Simon
+         Quinlank" Eldon and Jenny Eclair - though please note that
+         Omid "The Mummy" Djalili appears on the leaflet but has had to
+         pull out, hopefully not because of publicity commitments for
+         "The Scorpion King".
+         http://www.zoonies.com/cait/ohgoonthen/flyer.gif
+              - not a penny wasted on fancy flyer design, you'll note
+         http://www.silicon-beach.com/events.html
+                             - war-driving workshops in pub next door
+         http://www.infosec.co.uk/
+                    - ah, those reassuringly unfashionable .cfm files
+         http://www.newmediashow.co.uk/
+                - "Paid-for content is a reality. (finally!)". Twats.
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         One day, some public-domain pauper publisher will release
+         the edition of Nietsche's "Beyond Good And Evil", and on the
+         cover will be a single, black fringed screenshot of W3M-IMG.
+         This eldritch patch to the strange and powerful Japanese text-only
+         browser W3M does a - thing - which, if God were alive, would
+         strike him dead and all his morality. It is a text-only Web
+         browser. It runs in an Xterm. It displays inline graphics.
+         On an Xterm! In a text browser! JPEGs and GIFs and PNGs! So
+         wrong! So beautiful! So ugly! So useful as a mutt mailcap
+         setting! So *dirty*!
+         http://packages.debian.org/unstable/text/w3m-img.html
+- use alien or look for "w3m-img" in ports, Miss I'm-So-BSD-I-Compile-My-Socks
+         http://www.ntk.net/2002/04/19/w3mbbc.png
+      - submit wacky BBC images from the comfort of your term session
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         the new 6 Degrees Of Kevin Bacon: http://covers.wiw.org/ ...
+         the new "reviewing 9V batteries by tasting them with your
+         tongue": http://www.eet.com/sys/uth/OEG20020326S0045 ... off
+         the map this week - Aldermaston atomic weapons establishment:
+www.multimap.com/map/photo.cgi?x=460000&y=164000&scale=50000&rt=overlay.htm
+         ... now BOFH-free SALMON DAYS somewhat influenced by TVGoHome:
+         http://www.salmondays.tv/column_2_jdl.html .... former Serb
+         leader Radovan Karadzic threatens "Akts of mercy - SOON...":
+         http://www.karadzic.org/rat/rat_akti_e.html ... who's scarier
+         - the EDMONDS cult: http://rs.snoochdesigns.com/noel/ , the
+         HONG KONG BIN LADEN and his "Brain voice read write machine"
+         http://enaaaaa.cjb.net/ , or the FEDERAL FRAUD CONSPIRACY to
+         sabotage the Matrix sequels?: http://qwer.org/fedfraud.html
+         ... at 150p/min, let's hope they get the message pretty fast:
+         http://www.lazystudent.co.uk/rejectline.html ... photos that
+         didn't make the school prospectus this year for some reason:
+         http://sova.lulea.org/ ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> we think that tonight is the Dorkbot episode of GAME-PAD
+         (7.30pm, weekdays, Bravo) - another top co-production from
+         Violet Berlin/Gareth Jones: http://www.whizzbang.tv/ ... in
+         accordance with our suggestion of 2001-07-06, ALISTAIR
+         MCGOWAN'S BIG IMPRESSION (8.30pm, Fri, BBC1) features "When
+         Ruby Wax Met Louis Theroux" - but no Jon Ronson?... and Sarah
+         Michelle Gellar is stranded on a desert island in BEVERLY
+         HILLS FAMILY ROBINSON (5.15pm, Sat, C5), then the inevitable
+         "The Matrix"-style episode of BUFFY THE VAMPIRE SLAYER (8pm,
+         Thu, Sky1)... Al "Pub Landlord" Murray introduces TOP TEN TV
+         BASTARDS (10.20pm, Sat, C4)... BBC2 continues trying to up the
+         viewing figures with 3 more back-to-back repeats of 24 (11pm,
+         Sat, BBC2) - can't wait till the series is over, then they can
+         show them all "in real time" one day... and Charlton Heston
+         once again finds it difficult to make friends of similar age-
+         group and interests in post-biowar shootout THE OMEGA MAN
+         (12.45am, Sat, C5) - customers who bought this video also
+         bought "Harry Potter and the Philosopher's Stone" on DVD:
+www.amazon.co.uk/exec/obidos/tg/stores/detail/similarities/-/video/B00004CNHQ/
+         ... hopefully reprising that really good "Decisive Weapons"
+         docu about the Falklands, ULTIMATE JUMP JETS (8pm, Sun, C5)
+         profiles the Hawker Harrier... if C5's LIFE DOCTOR (8pm, Thu,
+         C5) is such a frickin' expert, why doesn't she help people
+         with real problems, like the Mad-Max-esque car-dwelling petrol
+         scavengers of WASTED? (8.05pm, Sun, C4)... while Alicia
+         "Cybill's daughter" Witt discovers you just can't trust a
+         "friend of a friend" in URBAN LEGEND (10pm, Sun, C4)... Ricky
+         "The Office" Gervais may win one of THE BAFTAS (8.30pm, Mon,
+         ITV) at the same time as slagging off other comedians in ROOM
+         101 (10pm, Mon, BBC2)... pedestrian Brit horror AN AMERICAN
+         WEREWOLF IN LONDON (9pm, Mon, C5) segues handily into THE
+         TRUTH ABOUT GAY ANIMALS (10.35pm, Mon, C4), followed by
+         considerable Deborah Kara Unger nudity and disturbing subject
+         matter in David Cronenberg's censorship cause celebre CRASH
+         (11.35pm, Mon, C4)... join us, please, to say farewell to
+         surely the last ever episode of ATTACHMENTS (10pm, Wed, BBC2):
+         http://www.everyonehatesattachments.com/ ... and Jeffrey "Hank
+         from The Larry Sanders Show" Tambor offers an alternative to
+         Victor Lewis-Smith's jabbering commentary in the hilariously
+         titled THE ANNUAL BARFTA AWARDS (11.05pm, Thu, C4)...
+
+         FILM>> for the benefit of anyone who's ever wondered how it
+         would look, Richard Linklater remakes the stoner conversations
+         of "Slacker" as hi-res Flash animations in WAKING LIFE (imdb:
+         independent-film/ dream/ surreal/ conversation/ philosophy)...
+         equally authentic-looking CGIs paper over the acting cracks in
+         The Rock/ Kelly "Martial Law" Hu grudge-match THE SCORPION
+         KING ( http://www.bbfc.co.uk/ : The distributor sought and was
+         given advice during post-production which resulted in the
+         removal, prior to formal submission, of a headbutt delivered
+         by the hero to the villain in a climactic fight sequence)...
+         and it looks like Guy Pearce really has suffered a knock to
+         the head as he follows top-notch noirs like "Memento" and "LA
+         Confidential" with Kevin "Robin Hood: Prince of Thieves"
+         Reynolds' historic revenge nonsense THE COUNT OF MONTE CRISTO
+         ( http://www.bbfc.co.uk/ : Distributor chose to remove two
+         shots of a man hanging to avoid giving children the impression
+         that a person can hang for some time with no ill effects and
+         in order to achieve a PG classification)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "still backing OS/2"
+                  http://biz.yahoo.com/iw/020405/040325.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

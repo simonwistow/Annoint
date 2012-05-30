@@ -1,0 +1,345 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-02-02_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "What Microsoft has done is as close to my mission statement
+         as anything I've seen. They're making it as easy to buy
+         music as it is to steal it."
+                    http://news.cnet.com/news/0-1005-200-4684177.html
+                                         - JAY SAMIT, VP at EMI Group
+                         ...and as a record exec, of course I do both
+
+
+                                >> HARD NEWS <<
+                                   got you
+
+         Despite support by such legal heavyweights as CAROL
+         VORDERMAN and ZDNET NEWS, an amendment to permit entrapment
+         of suspected online chat crims didn't pass muster in the
+         Lords this Wednesday - possibly because it'd have breached
+         Article 6 of that pesky EuroConventionoHumanoRightso. But
+         who needs laws when the febrile Interweb permits all? To a
+         paranoid eye, everything online was a trap this week. Take
+         the boast by 192.com that they'd bought half of THE BIG
+         BREACH's first printing, and were set on distributing it to
+         their 650,000 users. Very laudable: except wasn't it 192.com
+         who were this year's runner-up in the Big Brother Awards for
+         "Most Invasive Company"? This honour was bestowed thanks to
+         their habit of storing data on almost everyone in the
+         country, and a curious phrase in their privacy policy that
+         states "While i-CD Publishing is committed to your privacy,
+         we cannot guarantee that your private communications and
+         other personally identifiable information will never be
+         disclosed in ways not described by this policy". And you
+         know, we can't help feeling that composing a database of
+         10,000 known "subversives" wouldn't be worth something to
+         *someone* around here...
+         http://www.zdnet.co.uk/news/2001/4/ns-20571.html
+              - Richard Whiteley, Gyles Brandreth have yet to comment
+         http://www.192.com/beta/products.cfm?icdaction=details&item_id=19
+                                 - they can't silence us all, can th-
+         http://www.thebigbreach.com/
+     - Mr Bond, I believe you have already met our little "guestbook"
+
+         And even if MI6 aren't entrapping, those unsurprisingly
+         competitive mites in the cut-throat world of comping (with
+         which we are currently obsessed) are getting damn close with
+         it. Hark to DOTCOMPER.CO.UK's bitchy attack this week on
+         COMPINGQUEEN - both hawking commercial competition
+         newsletters - in the uk.rec.competitions newsgroups. Dot
+         accused Queen of stealing comps, and to prove it, secreted
+         false "ringer" compos within their newsletter. Queen,
+         naturally, went on to post the fake competitions as teasers
+         for her 40UKP a year newsletter.Only slightly more
+         puzzling than why such seasoned quiz buffs had spotted the
+         fake ones ("Fair Play Cruises: First letters of answers
+         spell JUDAS"), was why either company thought the
+         uk.rec.competitions regulars would give a blank - given that
+         so many comps were nicked from the froups. A few even
+         referred to "the darker side of comping". Leaving both
+         companies struggling to complete this common phrase or
+         saying: Information seeks to be _____?
+         http://www.deja.com/threadmsg_ct.xp?AN=721688271
+                                          - last of the summer whines
+
+         But there's one place we can start tackling all this
+         criminality - with those pesky kids! Based on the
+         rigorous screening process that is the National Cycling
+         Proficiency Exam, left- leaning thinktank THE INSTITUTE FOR
+         PUBLIC POLICY RESEARCH have proposed a "surfing proficiency
+         test", where kids would airily prove that they know how to
+         avoid porn before being allowed to browse by themselves - a
+         scheme currently backed by Internet Magazine and old-school
+         Pipex dude Bill Thompson (perhaps under the impression that
+         it will include a written exam on Apache configs and obscure
+         RFCs). On behalf of smartarse-kids-who-know-more-than-their
+         -teachers everywhere, NTK wholeheartedly supports this
+         alternative-to-censorship initiative, and has several
+         suggestions for the test already: Did you "look both ways"
+         to make sure no adults were around before searching for "XXX
+         passwords"? Or, more pertinently, do you know not to use the
+         search term "amateur" (as in "dramatics" or "astronomy") on
+         altavista.co.uk, as this automatically starts feeding you
+         banner ads for sex sites?
+         http://www.internet-magazine.com/news/view.asp?id=840
+         - remember: if it asks "Are you over 18?", you just say "No"
+         http://www.allatsea.demon.co.uk/cycling/
+          - intensive 6-week course on carrying luggage, slowing down
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "If I had a pound for everyone who vists this site - wait a
+         minute, I do!" http://www.ntk.net/2001/02/02/handdoh.gif ...
+         REDHAT getting hang of Apache: http://updates.redhat.com/ ...
+         sure, the Beasties' SABOTAGE is exciting - but Hitchcockian?
+         http://www.amazon.co.uk/exec/obidos/ASIN/B00004CPN5/ ... rate
+         our STATS: http://www.dooyoo.de/dooyoo.ukstat/Dec_2000.HTML
+         ... when oh when will the public tire of INAPPROPRIATE BANNER
+         ADS: http://www.ntk.net/2001/02/02/frankendoh.jpg ... feeding
+         him KALAKUKKO? http://jobsearch.monster.co.uk/jobs/9412162.asp
+         ... "love the GIANT PUBIC LICE, Peter - where'd you get them?"
+     http://www.dome2000.co.uk/assetsale/zones.html ... news in PIKACHU:
+     http://news.bbc.co.uk/hi/english/health/newsid_1145000/1145813.stm
+         ... ENGLAND "too small for Salon to hold a meeting there",
+         brags http://www.wired.com/news/business/0,1367,41406-2,00.html
+         - forgetting http://www.ntk.net/?back=archive99/now0108.txt ...
+         radical new journalism forum http://www.spiked-online.com/
+         "should work with Internet Explorer versions 5.0 and upwards"...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         FIRST TUESDAY LONDON, evidently still going strong, mailed its
+         UK subscribers this week with an invitation to the "The Future
+         of TV", followed by 60 lines of uuencoded text - their "most
+         cryptic announcement to date", quipped one NTK reader. Those
+         who did eventually decipher the message learned that the
+         future of TV seems to be boring old broadband convergence
+         (again), extensively discussed by the gang at a secret central
+         London location on Tue 2001-02-06 (UKP10, you probably need to
+         be "invited" or something, but somehow we doubt they'll be
+         turning people away). Of course, that just happens to be the
+         same night as the London leg of the ITC's 2001 FARADAY
+         LECTURE, rumoured by boy-inventor (and Britain's best Yahoo
+         Serious impersonator) Matt "Blackbelt" Jones to feature "Dr
+         Johnny and his holographic TV" (6pm, Tue 2001-02-06, Wed 2001-
+         02-07, Sadlers Wells, London). Not one to be left out, PROF
+         KEVIN WARWICK continues his tireless efforts to warn of the
+         imminent meccano apocalypse by asking "What is Intelligence?"
+         at the Old Town Hall, Reading (Tue 2001-02-06, UKP5) - a
+         series launched last week by PROFESSOR SUSAN GREENFIELD, who's
+         made a bit of a habit out of encouraging people to listen to
+         the master of cyborgs recently, almost as if some neurological
+         implant was controlling... well, we've said enough.
+         http://www.firsttuesday.com/EventDetail.asp?id=374
+             - "David Docherty? I thought we'd booked David _Duchovny_!"
+         http://www.faraday.org.uk/faraday/default.htm
+     - Cardiff, Glasgow, Bristol, Jersey: everyone's talking about 3DTV
+         http://www.rdg.ac.uk/ContEd/thl.htm
+                   - see also Feb 20th's "The Future In Science Fiction"
+         http://www.c-realevents.demon.co.uk/
+             - pedal-powered convention for the hardcore steampunk fans
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Continuing our theme of stuff-I-bet-you'll-say-you-could
+         do-with-a-Perl-two-liner-but-must-continue-to-amaze-Windows
+         -users is the unnecessarily good EGENIE, a dialog box that
+         pipes messages through to Genie's free Web->SMS gateway,
+         without that finickety Web bit. Credit to Richard Lawrence for
+         actually writing the thing, with the sort of attention to
+         detail that means that, yes, you can use your Outlook
+         Contacts with it, and yes, you can multiple-mail and break
+         up messages automatically. Extra points for Richard's
+         combative approach mailing list accusations that this is
+         "ideal for spamming SMS" by elegant defences that begin
+         "Actually, I am that 'smartarse'".
+         http://egenie.wibble.org.uk
+                                                - smartarses, we like
+
+         And just in time for LinuxWorld: Veghead's fine, fine, fine
+         kernel-embedded middle-management emulator for Linux 2.4.
+         11KB of totally unnecessary, dangerously insecure and poorly
+         justified code which simply demands to be run in
+         kernelspace. Comments to /dev/bollocks at:
+         http://www.squirrel.co.uk/veghead/software/bollocks/
+                                     - transform impactful bandwidth!
+
+
+                                >> MEMEPOOL <<
+                                 haross lycos
+
+         whois aoltimewarneryahoo.com ... FRESHMEAT in a Nutshell:
+         http://slashdot.org/comments.pl?sid=01/01/31/2352210&cid=39
+         ... http://www.consultants-conference.de/media/kpmgsong.mp3 vs
+         http://www.phrenetic.org/mp3/kpmg_jungle.mp3 ... life imitates
+         HAIKU ERROR meme: http://zpin.com/viao.jpg ... put the bat DOWN:
+       http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1104979102
+         ... apparently, they can get you for "impersonating a police
+         officer": http://www.ukcop.net/ ... the "c" stands for
+         "COFFEE", of course: http://c-cup.com/linux/ ... I feel so
+         DIRTY: http://www.planet.com/dirtweb/search/dirtsrc3.html ...
+         solution to global warming riots is better AIR CONDITIONING:
+         http://news.excite.com/news/r/010129/17/health-warming ... ICQ
+         51083014 ... NOKIA racing... evangelists imitate SIMPSONS:
+         http://www.christianitytoday.com/ct/2001/002/1.28.html ...
+         "hang on - these files are encrypted, it could take a few
+         minutes": http://www.barrykirkey.com/i.audio.htm ...
+         license to be cypherpunk http://www.cypherspace.org/CPL/...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> humourless diarist Adrian Mole goes through his second
+         regeneration in THE CAPPUCCINO YEARS (9.30pm, Fri, BBC1) -
+         hopefully C4 will compete with a follow-up series, set 18
+         years later, of "Teenage Health Freak"... Tom Cruise and the
+         Blade Runner unicorn frolic through Ridley Scott's extended
+         Timotei ad LEGEND (7.40pm, Sat, BBC1)... and it appears to be
+         "Sex Week" on Channel4 - for a change - kicking off with SEX:
+         THE ANNABEL CHONG STORY (11.10pm, Sat, C4) - as we pointed out
+         in NTK 2000-04-21, 251 guys no longer constitute "The World's
+         Biggest Gang Bang" - then continuing with KAMA SUTRA: A TALE
+         OF LOVE (10pm, Sun, C4), WHEN HARRY MET SALLY (10pm, Mon, C4),
+         BETTER SEX (10pm, Tue, C4), PRIVATE PARTS: THE CLITORIS
+         UNCOVERED (11.05pm, Tue, C4), gender-reassignment gameshow BOY
+         MEETS GIRL (9pm, Tue, C4), cross-dressing French film MA VIE
+         EN ROSE (12.05am, Tue, C4), POSITION IMPOSSIBLE (9pm, Wed, C4)
+         and a double SEX IN THE CITY (10pm, Wed, C4) - all rounded off
+         with the powerfully erotic, probing, questing presence of THE
+         MARK THOMAS PRODUCT (11.20pm, Wed, C4)... the best C5 can come
+         up with is "Murder Week", featuring Renee Zellweger polygraph
+         psycho-thriller LIAR (9pm, Sun, C5) - written and directed by
+         the "Good Vs Evil" Pate Brothers, mafia yawn GOODFELLAS (10pm,
+         Mon, C5), plus Rutger Hauer regular THE HITCHER (9pm, Thu,
+         C5)... after extensively indulging the "Lost Civilisations"
+         theorising of Graham Hancock, C4 seem to be being a bit more
+         skeptical about the "Was God An Astronaut?" claims of THE REAL
+         ERICH VON DANIKEN (9pm, Mon, C4)... a creeping bioengineered
+         menace threatens to wipe out all life on earth, but that's
+         enough about the "Killer Algae" HORIZON (9pm, Thu, BBC2), BBC1
+         are also showing the glacially dull STAR TREK: FIRST CONTACT
+         (8.05pm, Thu)... and, for all the other column inches it's
+         generated, no-one has yet commented on the game-theoretic
+         implications of "your partner has to watch the video if you
+         do" in the hypnotically compelling TEMPTATION ISLAND (10pm,
+         Thu; 10.30pm, Sun, Sky1)...
+
+         FILM>> WHAT WOMEN WANT is, presumably, to see Helen Hunt
+         struggling with an recalcitrant partner - Tom Hanks, Kevin
+         Spacey or, this week, Mel Gibson - in a new movie every week
+         (http://www.capalert.com/capreports/whatwomenwant.htm : many
+         instances of child arrogance and hatefulness; suicide talk;
+         man wearing towel only; portrayal of sexual sanity, but only
+         after sexual irresponsibility; full male nudity - with no
+         genitals) - though we still prefer Teletext's more literal
+         interpretation: http://www.ntk.net/doh/990827mars.gif ... John
+         Malkovich casts a real vampire as "Nosferatu" in Scream-vs-Ed
+         Wood magic-of-moviemaking goatee-stroker SHADOW OF THE VAMPIRE
+        (http://www.screenit.com/movies/2000/shadow_of_the_vampire.html :
+         We see [Catherine "Braveheart" McCormack]'s bare breasts as
+         she rolls around on a bed with her robe open, apparently high
+         from something she's taken) - though surely most movie cameras
+         contain mirrors, and vampires "cast no shadow" anyway?... the
+         aptly-named Michael Winterbottom answers the largely unasked
+         question "What would 'Vertical Limit' be like if it was remade
+         as a period drama and written by Thomas Hardy?" in THE CLAIM
+         (imdb: Sarah "Go" Polley, Wes "American Beauty" Bentley, Milla
+         "The Fifth Element" Jovovich - together at last!)... still,
+         there's always advance previews of retro-rocker ALMOST FAMOUS
+         (http://www.theonion.com/onion3703/celebrity_couples.html :
+         "Actress Kate Hawn is now married to a long-haired rock
+         musician from The Black Crows. I guess she wasn't really
+         acting when she portrayed a slavering groupie to a rock band
+         of questionable talent")...
+
+         FEEBDACK>> it took just one week for reader DAVE DEANS to
+         wilfully misunderstood our appeal for new PCs for Schnews: "If
+         you say Schnews are out of action for a short while..." - then
+         he handily recommends http://uk.indymedia.org instead... an
+         (ex?)employee of H2G2 described the Industry Standard's upbeat
+     http://europe.thestandard.com/article/display/0,1151,14111,00.html
+         as "the kind of stuff we were peddling 3 months ago". Hang on:
+     http://europe.thestandard.com/article/display/0,1151,12651,00.html
+         - it's also the stuff _they_ were peddling 3 months ago... and
+         ADRIAN MOULDER accused us of giving an atypically "easy ride"
+         to rubberburner-alike http://www.stimulus.com/members/msl/ ,
+         largely by neglecting to highlight his "oral sex poetry",
+         enjoyable by clicking on "Like A Rose" and "Greatest Meal" at
+         http://www.stimulus.com/members/msl/poems/angel/ssub/ ...
+         continuing the vaguely genital-related theme, the proprietor
+         of a well-known industry quotes site followed up NTK 2001-01-
+         19's "Linuxcare will go down for stock" gag by observing
+         "Perhaps you (and the original author ) weren't aware of this
+         tidbit? http://www.upside.com/Chris_Nolan/39ee17e60.html "...
+         ANGUS KENNEDY, clearly with plenty of time on his hands after
+         the apparent demise of "his" MEN'S QUEST magazine [NTK 2000-
+         05-12], has continued to amuse himself with the Kabalarian
+         name analyser - http://www.kabalarians.com/male/penis.htm -
+         from NTK 2000-08-18... and finally, KATY LINFIELD wrote in a
+         few weeks ago to inquire: "Why do you always degrade your
+         TV/movie reviews with puerile references to whatever glimpses
+         of female nudity may be seen?", citing "We see [Tea Leoni's]
+         mostly obscured body through the smoked shower glass door"
+         from NTK 2000-12-22, among other examples. Our rapid response
+         team attempted to rectify this imbalance by packing subsequent
+         issues with references to male nudity - "a few times [Tom
+         Hanks'] buttock was exposed" [2001-01-12], "Geoffrey Rush
+         shows us his butt for an extended amount of time" [2001-01-19]
+         - only to be then accused, by ROS TAYLOR, of having become a
+         "[more] homoerotic slashdot" (if such a thing is possible).
+         Both were reassured by our excuse that the quotes are aimed to
+         contrast the oddly similar reviewing styles of "Concerned
+         Parents" websites, like http://www.screenit.com and
+         http://www.capalert.com , with the rather more secularly
+         motivated Celebrity Nudity Database http://www.cndb.com - and
+         to highlight the potential for possible abuse: nudity-hungry
+         teens surfing the (often more comprehensive) god-sites for
+         "recommendations", or more liberal parents judging suitability
+         from listings in the CNDB - who, for instance, did attempt to
+         contextualise Requiem For A Dream's sighting of "Jennifer
+         Connelly's bush" [NTK 2001-01-19]... nonetheless, the debate
+         remains open, so do let us know if you want to see more of
+         "Tom Hanks' buttock" and its ilk. Please note that this does
+         not mean we want you to send us your own nudity-sightings,
+         especially the guy who mailed in a detailed account of the
+         "several full frontals", "fine young jutting breasts", and
+         "long hair falling across groin" he'd managed to freeze-frame
+         on his DVD of Disney's "The Little Mermaid"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            "hey, we have go.gif!"
+                  http://www.deja.com/getdoc.xp?AN=717084967
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

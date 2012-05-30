@@ -1,0 +1,306 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-06-04_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+  "As usual, I'm living in a parallel universe - got tons of very
+    intelligent, interesting, thoughful, e-mail about this column
+    which, as usual, is being linked all over the place."
+  - JON KATZ, http://slashdot.org/comments.pl?sid=99/05/29/2049226&cid=1232
+  ...but in reality Jon is being used by aliens as a source of energy
+
+
+                                >> HARD NEWS <<
+                                 special moves
+
+         R-r-r-rrunarahnd! This week's celebrity resignations: BRIAN
+         HOOK, programmer at id software, chief architect of the 3DFX
+         Glide API, and original singer of 911's "A Little Bit More";
+         RASTERMAN, creator of the Enlightenment Window manager,
+         GNOME project employee, lyricist for the Wailers; NATHAN
+         MYHRVOLD, head of Microsoft Research, no discernable
+         achievements, inspiration for mid-seventies novelty hit "I'm
+         Nathan Myhrvold And I Live in A Hole". Like everyone else,
+         we assumed they were taking each others' jobs (".plan: this
+         year, sink $5 billion R+D into new staff 'skins'"), but
+         it isn't turning out that way. Brian's gone to Ultima
+         rivals VERANT INTERACTIVE, Rasterman is taking some time off
+         to plot the "disappearance" of his old Redhat manager, and
+         Nathan... well, nobody's broken it to Nathan that he's going
+         yet. Despite rock-hard sources inside and outside Microsoft
+         saying that Ballmer's already put all his desktop dinosaurs
+         into bin liners, Nathan's still convinced that he's just
+         taking a few months holiday. Two points for Nathan to
+         consider: a) wasn't that *exactly* what he told Stephen
+         Hawking, just before he left him to work for Microsoft for
+         15 years? b) Doesn't he know Ballmer's sense of humour yet?
+         http://www.edge.org/digerati/myhrvold/
+                                - "The Chef": Hurdy Borg! Borg! Borg!
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2224955,00.html
+                        - c) look what happened to the other dead guy
+         http://www.verantinteractive.com/
+                                  - strafe-hopping across the country
+
+         You may recall UK publishers SAVOY pioneering the legal 
+         take on the graphic novel in 1992. Their comic MENG AND
+         ECKER was banned principally "because it was luridly bound
+         and therefore likely to attract attention from the less
+         literate". They're also known for being the original
+         sponsors of horror/sci-fi author M John Harrison, and
+         publishers of avant garde art and erotica by Michael
+         Moorcock, Sam Delany, and Charles "Silicon Man/ Anarchy
+         Online" Platt. After a brief period free from hassle,
+         Customs and Excise last month performed a suitably perverse
+         impoundment: they've seized unsold copies of exported copies
+         of Lord Horror, M&E, and their new abortion Reverbstorm, as
+         they're returned to the UK. Yup, books written and
+         printed in the UK, confiscated because they briefly
+         re-crossed a border. Just thought you should know that no
+         matter how bad it gets here on the Net, it's even crazier 
+         in the real world.
+         http://www.abel.net.uk/~savoy/
+                            - test cases in which people go to prison
+         http://www.eff.org/pub/Publications/Misc/Charles_Platt/
+                       - Net connection less tenuous than you thought 
+
+         Boo, Demon, boo! Boo for denying USENET access to anyone
+         posting links to the infamous LAURENCE GODFREY fake postings
+         [NTK 1999-03-12] - archived by, ahem, "a popular discussion 
+         group search engine". Of course, we'd feel a lot happier 
+         laying into this craven spinelessness if we hadn't done 
+         more or less the same thing, and heeded Laurence's sensible
+         encouragement to remove all our links to defamatory
+         postings about him three months ago. Our sympathies, then, 
+         lie with Demon. Unless it really is impossible for them to 
+         keep these links off the newsfeed: if indeed, attempting 
+         to cancel these messages just makes them spread further...
+         http://www.courtservice.gov.uk/godfrey3.htm
+                             - hmm. well, *maybe* we can link to this
+         http://www.ntk.net/index.cgi?back=a99/now0312.txt&l=46#l
+                                              - anyone for a Webring?
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         http://www.numberchange.org/who/index.html - those look a lot
+         like old-style numbers to us... INTERNIC voicemail on 001 703
+         742 4777 refers users to "https: backslash backslash"... 20TH
+         CENTURY FOX deny online Phantom Menace warez reached UK - 
+         not according to the downloaders we've heard from... TOTAL
+         TELECOM send out Happy99.exe trojan, followed by effusive
+         apology... AMERICANS "so discouraged" by Earth's
+         environmental problems they have begun to "lose interest"...
+         TOP SHOP to launch free-calls ISP on 1999-06-14... WIRED
+         July: grrreat cover... NAVIGATOR and EXPLORER happily SSL
+         with sites that have an (entirely insecure) RSA public key
+         exponent of "1"... "MICROSOFT Joins Oasis" - hang on, that 
+         can't be right... and it's *not* goodbye from them:
+         http://www.aolgirls.com/admin/db/Goodbye.txt ...
+         
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         In perhaps an too-literal display of "doublethink", Simon Davies
+         reports that he won't be celebrating the anniversary of NINETEEN
+         EIGHTY-FOUR next Tues (1999-06-08) after all. But there's still
+         time to support Access All Areas stalwart Zap, who'll be running
+         his anti-authority FREE KEVIN protest outside London's US
+         Embassy (from 2pm Fri 1999-06-04, Grosvenor Square W1). More
+         info on Zap's update page, which excitingly duplicates the
+         "gotta go" terror of having the Feds hot on your tail...
+         http://www.gold.ac.uk/~ma602da/
+                  - 10 metres! 5 metres! They're in the room with us!
+         
+         Neatly coinciding with Sunday's International Telecoms Boycott
+         (if someone rings up, and your answerphone gets it, do you call
+         it a "scab"?), the UK PC GAMING CHAMPIONSHIPS get under way at
+         the compulsory Playing Fields, London - and they've extended the
+         Brummie deadline so Quake-loving Midlanders can have a pop at
+         the big cash prizes...
+         http://www.ukpcgc.com
+                                           - LANs don't count, right?
+         
+         "Seen in the back of SFX classifieds" isn't usually a
+         recommendation, but with a line-up promising Ray "Maul" Park,
+         Warwick "ewok" Davis, and Gary "Empire" Kurtz, it might well be
+         worth queuing up outside Wolsey Hall, Windmill Lane, Cheshunt
+         (North London) for "EPISODE I - EMPIRE DAY" (Sun 1999-06-06,
+         UKP10, "hotline" on 01908 671138), even though the location
+         sounds more suited to a Women's Institute Bring-And-Buy Sale.
+         The caravan of courage (TM) proceeds to Bristol on the 11th, and
+         has not been "Lucas approved" - so maybe they'll show those
+         Phantom Menace VCDs...
+         http://www.google.com/search?q=wolsey+maul
+                             - cached at Google; may have been canned
+         
+         Oh, and "(Law)suits for you, sir" and "This week, I have been
+         mainly shutting down: warez sites" will be the oft-repeated
+         catchphrases at next week's FAST show, when the FEDERATION
+         AGAINST SOFTWARE THEFT hold their annual conference in
+         Bournemouth, 1999-06-09/10. Not too much to add to their basic
+         stance on piracy (they're against it, apparently), but the
+         session on NatWest's new "Magex" system might be entertaining:
+         an e-commerce pay-per-view system that has so revolutionised
+         intellectual property that they neglected to check if anyone
+         else had registered magex.com, which they now *share* with an
+         Italian construction company...
+         http://www.fast.org.uk/
+               - does not use "warez" or "SNES ROMS" in its Meta tags
+         http://www.magex.com
+                                                      - which is nice
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         If you've found yourself stuffing more and more apps into
+         that little system tray on the bottom right of the WINDOWS
+         TASKBAR, then you'll no doubt be considering one of those
+         applications to tidy it all up. Alternatively, why not
+         download this monster German applet that lets you bloat the
+         box like an overstuffed turkey, with uptime readouts, system
+         temperatures, logfiles, and all the usual tat crammed in
+         there, plus parse Web pages using its own text-mauling
+         language. All even extend it by running external parsers -
+         "like REXX or PERL", the creators say helpfully. And then,
+         if you've got any RAM left, you can maybe run Notepad in 
+         what's left of your screen.
+         http://www.emtec.com/infotray/
+                                              - the emacs of systrays 
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+
+         http://members.tripod.com/serbad/ ... CIVIL DISOBEDIENCE 1.0:
+         http://www.2600.org.au/censorship-evasion.html ... BUTTER-
+         flavoured crisps... Helen Mirren *is* AYN RAND... STUNT CAR 
+         RACER bounces back (and doesn't require Amiga with OpenGL card):
+         http://www.wyatt100.freeserve.co.uk/download.htm ... hey, what 
+         happened to those WEBTV things?... complete FRIENDS Season 5 
+         now up at http://www.geocities.com/TelevisionCity/Set/5799/ ...
+         FALCO: the "No 6" gift shop in The Prisoner Village... slightly 
+         worrying GERMAN omission: http://ismb99.gmd.de/sol-eclipse.html 
+         ... Sir Christopher Cockerell dies: buried at sea *and* land...
+         www.portal.com and www.frontofficenews.com/lycos.htm tie the
+         WANKOMETER at 11.0; NTK regrets this correspondence is now
+         closed... can you get out the way of the sign, please?
+         http://www.juicymango.com/main/models/techsigngirls.html ...
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+                                 
+         TV>> a sniper holds 10,000 spectators hostage at a football game
+         - unless NRA spokesman Charlton Heston can arm everyone else in
+         the stadium given just a TWO MINUTE WARNING (11.25pm, Fri,
+         BBC1)... there's Mute Witness, and now BLIND WITNESS (9pm, Fri,
+         C5) - but no "Deaf-As-A-Post Witness", we note... and given
+         Brian Yuzna's dire subsquent output, the odd flesh-melting orgy
+         bits in SOCIETY (12.45am, Fri, BBC2) were probably fortituitous
+         accidents... after last week's two-parter, SPACE: 1999 (3.55pm,
+         Sat, BBC2) comes to an ignominious end in "The Dorcons"... set
+         your TV on fire to properly enjoy HENDRIX NIGHT (9pm, Sat,
+         BBC2)... regular Light Ent treat BEFORE THEY WERE FAMOUS (10pm,
+         Sat, BBC1) has Arnie on Magpie; JUNIOR (8pm, Sat, BBC1) sees him
+         bearing Emma Thompson's child - last shown approx 17 months ago
+         on 1998-01-11... and going from the http://www.ntk.net/killer 
+         comments, they cut a lot out before showing the sensitive
+         Australians KILLER NET (10pm, Sat, C4)... the repeat of this
+         week's DAWSON'S CREEK (12.10pm, Sun, C4) has excellent life-
+         imitates-art-imitating-life plot - plus Rachel "She's All That"
+         Leigh Cook naked... the missing link between Dumb And Dumber and
+         There's Something About Mary, bawdy bowling slapstick KINGPIN
+         (10pm, Sun, C4) features Bill Murray, vile comb-overs and the
+         "milking" of a bull... while ALWAYS AND EVERYONE (9pm, Mon, ITV)
+         is - thank god - another hospital drama... interchangable
+         international docu UNDER THE SUN (9.30pm, Tue, BBC2) combines a
+         look at the traditional way of life of the Shaolin monks with
+         martial-arts whupass action... Dolph Lundgren pops out of "where
+         are they now?" file as THE PEACEKEEPER (9pm, Tue, C5)... Richard
+         E Grant and Samantha "Broken Arrow" Mathis are the two
+         unappealing losers and a baby in infantile feelgooder JACK &
+         SARAH (10pm, Wed, C4)... will they place that annoying pizza ad
+         in overrated Scorsese yawn GOODFELLAS (10pm, Wed, C5)?... and
+         your licence fees continue to advertise the bizarre sexual
+         services available on the streets of PADDINGTON GREEN (10.20pm,
+         Wed, BBC1)...
+         
+         FILM>> double Donald Sutherland treat this week, with the last
+         man left un-Bodysnatched battling lame cybernetic aliens and
+         Jamie Lee Curtis aboard all-at-sea actioner VIRUS (imdb: based-
+         on-comic / ship / electricity / typhoon / aliens / virus /
+         computers) - hugely derivative, but that doesn't seem to have
+         put anyone off "The Matrix"... dapper Don also pops up in
+         extended Nike ad WITHOUT LIMITS (imdb: running / biographical /
+         olympics) - "among the five finest movies about athletics ever
+         made" says one imdb comment; high praise indeed... Michelle
+         "who?" Pfeiffer's latest lost-child weepie sinks swiftly to THE
+         DEEP END OF THE OCEAN (imdb: based-on-novel) - not based around
+         Chris Searle's job-swap TV show of nearly the same name... plus
+         a (reluctant) plug for overhyped live-action rave cartoon HUMAN
+         TRAFFIC (imdb: UK) - somehow we doubt it really is "The last
+         great film of the 90s", unless you're a suspiciously thin
+         leather-faced 80s casualty still convinced that "style culture"
+         is in some way relevant or interesting...
+         
+         ONE YEAR ON>> last June, ISPs were *reeling* from the
+         announcement of 1p/min BT CLICK [NTK 1998-06-12], while we
+         pointed out that Oftel had virtually sanctioned the whole thing
+         "on the understanding that the smarter ISPs would grab a Telco
+         license, and undercut it with free IP provision when they
+         started receiving telco-ish revenues from the phonecall
+         charges". Christ, we're smug... in other '98 (anti) news:
+         LABOUR's pre-election crypto policy "disappeared" from their
+         site... AIN'T IT COOL NEWS admitted that claims that 40% of Star
+         Wars 1 rushes were out-of-focus were "probably exaggerated"...
+         and EDGE magazine's "continued pursuit of excellence" included
+         the claim that the RIDGE RACER cabinet ran at "0.4FLOPS" - an
+         incredible 4/10ths of a floating point operation per second...
+         oh, that short, cruel summer: ftp clients strained under the
+         weight of IE 5.0 Developer Release, Apache 1.3.0, and Real
+         Network's Preview of RealPlayer G2... we reported rumours of
+         Shatner rapping Julius Caesar in FREE ENTERPRISE, and TV
+         NATION's "return to C4"... PANASONIC withdrew a kids'
+         wordprocessing program that swore fluently... the UK tooled up
+         with trade shows like the "International Chemical Warfare
+         Demilitarization Conference", "European Guns, Mortars and
+         Ammunition Symposium", and "Undersea Defence Technology
+         Europe"... while, among the stuff that never troubled our
+         mailfeed again were: The World's First QUAKE POETRY COMPETITION,
+         Keanu Reeves' beatnik road movie THE LAST TIME I COMMITTED
+         SUICIDE, and - presumably featuring George Dawes, Dennis Pennis,
+         and the usual gang of idiots - Channel 4's "new cruelty" sketch
+         show BARKING...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+          It is registered at the Post Office as "never on a Sunday"
+                        ( http://www.unmetered.org.uk/ )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

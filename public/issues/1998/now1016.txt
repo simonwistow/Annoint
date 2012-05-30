@@ -1,0 +1,288 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____16/10/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+                    
+         "Cut out the slaughter of innocent Albanian civilians, you
+         vodka-snorting goofus, or face the wrath of NATO airstrikes
+         dropping 500-pound laser-guided bombs on your butt."
+                       - C|NET experiments with a broader news agenda
+http://www.gamecenter.com/Downloads/Mac/FrontDoor/0,37,0-17,2000.html
+
+
+                                >> HARD NEWS <<
+                                it barely moves 
+
+         Now, didn't we say all along that APPLE would make it? Steve
+         Jobs announced profits of $106 million on revenue of $1.6
+         billion (same as last year - shhh! shhh!) and revealed that
+         soon "You'll be able to get a new Mac for $99". Sweetly,
+         some Mac fans thought this was *really true*, rather than
+         the Jobsian way of suggesting that it was time to splash out
+         on yet another OS upgrade. We also enjoyed Apple's mailing
+         to the rhapsodic Macevangelists providing the exact times
+         of product placements in this week's TV and films, so that
+         the devout could set their VCRs. Everyone's happy. Except...
+         why did Jobs, apropos of nothing, insist at the press
+         conference, that "we still have our soul"? I mean, you don't
+         think that deal with Microsoft involved a third party?
+         http://www.apple.com/macos/upgrade/
+                                       - oh, smart thinking, Sherlock
+         http://www.zdnet.co.jp/magazine/macuser/craft.html
+                                                     - a Mac for 99p!
+
+         Deputy Prime Minister JOHN PRESCOTT is learning to route
+         around censorship. "The SNP were so ashamed of their policies
+         they deleted them from the Internet. I can tell Alex
+         Salmond [SNP leader] that in the interests of public
+         information we are going to put them back on", he told
+         the Labour Party conference. A brilliant scheme, with only a 
+         few flaws. Like - wouldn't it have been sensible to
+         edit out the "(c) 1996 SNP" comments in the HTML *before*
+         copying it without permission? Also, if you do 
+         give official sanction to this behaviour, might it be more
+         effective if the site you publicise is designed by
+         somebody who understands HTML? And should this kind of jape
+         really be encouraged by the same Labour party that 
+         removed key crypto policy commitments from *their*
+         Website after reneging on them, back in June?
+         http://www.tibus.com/encryptionuk/labour.html
+                                   - lucky someone mirrored those too
+         http://www.mcmen.demon.co.uk/SNP.html
+                                                  - HTML by committee 
+         http://www.mcmen.demon.co.uk/SNP/
+                                  - some hope of reading the dox here
+         http://www.geocities.com/CapitolHill/Congress/2840/ 
+                                         - a degree of accountability
+
+         Maybe BT's just taunting the (presumably highly impatient)
+         ADSL target audience with its sluggish roll-out trials - as
+         the site is at pains to emphasise, it's not a test of
+         the technology, it's a test of the service (to establish
+         whether there's actually enough Internet out there for
+         people to download at 2Mbps, and just how much over the odds
+         people will pay for home access at a reasonable speed).
+         Or maybe the announcement, mysteriously postponed from last
+         week's TMA31 conference, was aimed to divert attention from
+         a local authority in Thurrock, Essex, reported to be
+         trialling their own DSL-style broadband services over
+         "Keylines", mid-priced BT-owned copper pairs intended for
+         (much slower) data applications. Other "broadbandits" are
+         keen to play down their promising results, fearing that BT
+         will clamp down on unofficial DSL experiments on their
+         lines, despite using BABT-approved kit - and because only BT
+         has an extensive old-fashioned copper network, they can't go
+         to other telcos 'cos they're too high in fibre...
+         http://www.serviceview.bt.com/list/current/docs/Private_Cir_/03316.htm
+                                               - hey, you do the math
+         http://www.zdnet.co.uk/news/1998/40/ns-5703.html
+            - is "Goodwins" one of those Extropian surnames, or what?
+ 
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                   
+         Hayes go NO CARRIER... can't launch a major brand without
+         breaking EGGS - http://www.ntk.net/doh/egg981012.gif ...
+         BBFA psychologists refuse CARMAGEDDON II certification,
+         after seeing a four-minute demo... THRESH wipes out plucky
+         British Quake champion Billox 56 to -1... US sex columnist
+         Dan Savage gets "a disproportionate amount of mail from
+         MICROSOFT employees complaining about impotence"... ZAP.COM
+         pulls out of everything... E-TRADER caused market crash by
+         leaning on keyboard... DEMON director sets up mail filters:
+         accidentally broadcasts inbox to entire department... THE
+         SUN launches anti-FURBY campaign, citing "They're UKP7 to
+         make, but UKP30 in shops" (no economies of scale printing a
+         newspaper, then?) plus "they only supply 350,000 so you have
+         to fight to get one" (self-restricted profiteering! uh-oh!)
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         What bookfair has a poster designed by self-proclaimed Clint
+         Eastwood body-double Clifford Harper, advertises itself with
+         "fuck Private Ryan" stickers, has a sex worker's "show and
+         tell" to start off and a huge party to finish? Some kind of
+         ANARCHIST BOOKFAIR, that's for sure. Now seventeen years old
+         - and acting like it - it's on tomorrow, Saturday 17/10/98,
+         from 1000 to 1900 at the irreproducible Conway Hall, Red
+         Lion Square, bloody London WC1. Fun-loving rebels or the
+         State - see who gets smashed first.
+         http://freespace.virgin.net/anarchist.bookfair/ 
+                                            - Mr Branson does his bit 
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         The new PERL JOURNAL has been out for three weeks now,
+         splashing its payload of Obfuscated Perl Contest entries
+         about like a Typhoid-infested floozy. As Europeans, we're
+         cheered that French and (quelle surprise) Finnish
+         contestants grabbed three out of the four awards, given
+         annually for code that's unreadable even by Perl's high
+         standards. The US managed to hold on to first place in the
+         "Most Powerful Code" section, with Clifford Adams'
+         implementation of two encryption systems - including RSA -
+         in just five lines. Ironically, by clawing some scrap of
+         dignity for the United States, Clifford and TPJ now lay
+         themselves open for prosecution by same as outlaw crypto
+         munitions-smugglers. Although we'd be amused to see the
+         prosecution try to prove that's what the code does.
+         http://www.tpj.com/
+                       - print version protected by the 1st amendment 
+         http://www.tpj.com/tpj/rules
+                 - oh, but now it's Lisp, beating Python by a head...
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         creator of SKY DIGITAL banner ad is NTK subscriber: have you
+         no sense of decency?... not quite sure what market
+         http://www.syphilis.com/ is aiming at... LEXICAL FREENET is
+         the new sixdegrees... DR SHUFFLEBRAINS will see you now:
+         http://www.indiana.edu/~pietsch/home.html ... world's first
+         objective mirror site: http://www.justhow.co.uk/ ... no,
+         fsck you! - http://lwn.net/1998/1015/a/f-word.html ...
+         Louis and Jane get a cool 10 million dollars each... game
+         over for your "Nick Hornby with computers" book pitch:
+         http://www.extralife.org/ ... new ATARI 3D GAUNTLET - shit?
+         ... how it should be - http://www.classicgaming.com/stella/
+         ... "Linus does not scale"... stop press: the ECONOMIST
+         gets to the bottom of Art Bell's "disappearance" :
+http://www.economist.com/editorial/freeforall/current/index_us3986.html
+    
+                               
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> face it, no matter how many repeats of BLACKADDER GOES
+         FORTH (9pm, Fri, BBC2) they churn out, it's never going to
+         make up for yet another series of lame impressions atrocity
+         STELLA STREET (11.15pm, Fri, BBC2). Director Peter
+         Richardson was the least funny one in The Comic Strip, by
+         the way, which is certainly saying something... not quite
+         the conceptual black and white ancient horror of the TV
+         original, but slightly better production values in the
+         Hammer remake of QUATERMASS AND THE PIT (1.15am, Fri, C4)...
+         also, in "Post Modern Prometheus", a Jerry Springer/Cher
+         crossover episode of THE X FILES (9.25pm, Sat, BBC1) that's
+         monochrome, funny, even interesting - for a change... or, as
+         if you needed it pointed out that you're sitting at home on
+         a Saturday night, friendless and alone, heeeeere's BRIDGET
+         JONES NIGHT (8.55pm, Sat, BBC2)... still prefer Sharon
+         Stone's performance on THE LARRY SANDERS SHOW (11.30pm, Sat,
+         Paramount) to Scorsese's head-crusher CASINO (10pm, Sun,
+         C4)... while Pete McCarthy's DESPERATELY SEEKING SOMETHING
+         (7.30pm, Sun, C4) groks the water-brothers who've based
+         their religion around defensible Heinlein novel, Stranger In
+         A Strange Land... appallingly titled THEWEBSTORY.COM
+         (7.30pm, Mon, BBC2) presumably retreads the "success" of Bob
+         Cringely's recent C4 net history, though without the
+         "advantage" of all his out-takes from Triumph Of The Nerds,
+         and presumably restricted to the boring old WWW... who's on
+         the most drugs: whoever commissioned the zillionth gritty,
+         realistic etc police drama THE COPS (9pm, Mon, BBC2)? or
+         whoever thought that C4's contribution to the narcotics
+         debate (most evenings, special "season") wouldn't end up
+         like "Smack Me Up Gun-Bitch" from The Adam And Joe Show?...
+         banks=Nazis, uncovers TIMEWATCH (9pm, Tue, BBC2)... and
+         whose sex lives would you rather not know about: precocious
+         adolescents in shock-doc TEEN SPIRIT (10.40pm, Tue, ITV)? or
+         Jonathan Ross, Carol Smillie and Vanessa Feltz - not
+         together, we hope! - in THE TRUTH ABOUT... SEX APPEAL (9pm,
+         Tue, ITV)?... fresh, new LATE LUNCH "WITH MEL AND SUE" (6pm,
+         Wed, C4) now only once a week, presumably to avoid spreading
+         ingredients too thinly... and there's hope for parents
+         everywhere, as polite mum Janet learns to love death metal
+         while on tour with "Cradle Of Filth" in LIVING WITH THE
+         ENEMY (9pm, Wed, BBC2) - the band responsible for such
+         jaunty toe-tapping albums as "The Principle Of Evil Made
+         Flesh", "Dark Faerytales In Phallustein", and (who could
+         forget?) "Total Fucking Darkness"...
+
+         FILM>> some above-average history-plundering this time from
+         Disney, but the same terrible songs in MULAN (imdb:
+         cross-dressing / training / martial-arts / china /
+         based-on-true-story / boot-camp / disney-animated-feature /
+         based-on-poem / women-soldiers / folklore / dragon / legend
+         / army-life / impersonation / sexism / cricket). And good to
+         see McDonalds saluting the youth-feminist message with their
+         tie-in Oriental (Spare) McRib... plus a better-than-usual
+         Hitchcock remake - though lacking Dial M For Murder's
+         original 3D gimmick - twists and turns through A PERFECT
+         MURDER (imdb: power / affair-extramarital / greed / jealousy
+         / murder / artist / money) - described by Roger Ebert as
+         part of his "Fatal Basic" genre (sex between bad people who
+         live in good houses - and one of them is usually Michael
+         Douglas)... otherwise it's limited-release French stuff -
+         THE DREAM LIFE OF ANGELS (imdb [under "Vie rêvée des anges,
+         La"]: playboy / friendship / suicide / dreams / hospital /
+         coma / shoplifting / class-differences / sewing-machine /
+         casual-work / young-woman) or RIEN NE VA PLUS (imdb:
+         black-comedy / mafia / gambling / deception / role-playing /
+         thief / money). Quelle horreur!...
+
+         RED BOOK AUDIO>> is it just us, or does the new U2 single
+         sound just like cult '80s Frankenstein tribute "China In
+         Your Hand", by T'PAU?... still no news of whether ACE OF
+         BASS really are going to sue T-SPOON for "Sex On The Beach"
+         sounding too much like AOB's 1993 hit, "The Sign". And why
+         doesn't the blonde one in Ace Of Bass ever appear in
+         interviews or videos or even properly in focus on the cover
+         of the new album? It's because *she's being hunted by a
+         stalker!*... our top compilation of the moment: CD number 2
+         stuck to the front of clearly desperate, objectively
+         disgusting Nestle brekkie cereal GOLDEN GRAHAMS. (Very)
+         varied Radio 1 Evening Session-style highlights include the
+         first RIALTO single, and almost BRA-like novelty techno from
+         THE EGG and upcoming album-mongers FUZZ TOWNSEND - who, in
+         both name and musicianship, remind us of the theme from '70s
+         kids Saturday morning TV show, The Fun Factory... ORBITAL
+         tell NME their new album will be most "jolly" so far,
+         promise single consisting entirely of samples of Rolf Harris
+         Stylophone... tribute band for PUFF DADDY pick unfortunate,
+         all-too predictable name of MUFF DADDY... which *is* the
+         best UK music news site? http://www.dotmusic.com , or that
+         "Dominator" guy who just lists all the current singles
+         releases?... and finally, farewell to AntiNews instigators
+         THE SHAMEN, who finally halt their shameless partying like
+         its 1989 with their new, final album UV due Monday 19/10/98.
+         (Intentionally) hilarious sign-off at http://www.nemeton.com
+         warns shocked fans that no material "will be given
+         further terrestrial release", though the band "will continue
+         to collaborate, via their higher aspects, in the 4th
+         Dimension". The band blame mathematical differences...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "more viewers than New Media Age" 
+                      http://stats.oyster.co.uk/nma/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

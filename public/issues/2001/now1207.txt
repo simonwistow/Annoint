@@ -1,0 +1,350 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-12-07_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "At Microsoft there are lots of brilliant ideas but the
+         image is that they all come from the top - I'm afraid that's
+         not quite right but fortunately there are plenty that are
+         coming..."
+                                            ...FROM OUTSIDE MICROSOFT
+                           - BILL GATES, "thinking outside the X-Box"
+http://news.bbc.co.uk/cbbcnews/hi/club/your_reports/newsid_1697000/1697132.stm
+
+                                >> HARD NEWS <<
+                               warrants for you
+
+         Cast your minds back to February: the Wonderland case is in
+         all the papers; Carol Vordeman and ZDNet are campaigning to
+         get ISPs to control their filthy ways. Under pressure, DEMON
+         breaks its own anti-censorship tradition, and announces that
+         newsgroups will be removed from the newsfeed "to protect the
+         vulnerable and to increase our vigilance".  Weeeell, it
+         turns out that some people were being vigilant already.
+         With their stream of evidence abruptly cut off, police
+         investigators monitoring the newsgroups are not best
+         pleased. They turn up at Demon HQ intending to seize the
+         ISP's entire newsserver network. After some gentle panicking
+         compromise is reached: Demon sets up a PC next door to
+         news.news.demon.net, reinstates the newsgroups, and peers
+         the spool across. (Which, you know, the cops could probably
+         have obtained with a phone call: but that's by the by.)
+
+         Cut to last week's weirdo press release [NTK 2001-11-30].
+         Suddenly it all becomes clear: the NCS, eager to clear
+         things up, puts out the conciliatory message that Demon have
+         been very helpful with enquiries. A bit too helpful,
+         unfortunately: misunderstanding the politics, NCS happily
+         tells everyone that Demon handed over their entire server,
+         logs and all. Now, Demon can't exactly tell the full story -
+         and reassure the world that no private information was
+         released - without showing up both the police for acting
+         impetuously, and themselves for putting an investigation at
+         risk. And neither group can publically admit to the one
+         truth in this mess: that those namby-pamby anti-censorship
+         arguments that Cliff Stanford, old time staff, and Demon's
+         own users gave turned out to be perfectly true. It *is*
+         better to have it out in the open, where the police can
+         track it. And you can't cure everything with one
+         poorly-considered Vordeman-pandering press release. Or two.
+         http://www.ntk.net/2001/11/30/#HARD_NEWS
+                                                     - original story
+         http://news.zdnet.co.uk/story/0,,t269-s2084582,00.html
+                         - Demon eliminates child porn by ignoring it
+http://www.nationalcrimesquad.police.uk/Hot_off_the_press/2001/November/122.html
+     - Spindler manages to rail against newsgroups, despite depending on them
+
+         Last week two Japanese students were arrested for sharing
+         copyrighted files via WinMX. Japanese law, rather uniquely,
+         states that if you merely "place a copyrighted work in such
+         a state as it can be transmitted without authorisation", you
+         can be prosecuted for infringing copyright. The two
+         students, from the cities of Tokyo and Saitama, shared
+         around 2400 files, and got nabbed because of the warez
+         nature of their goods: Adobe Photoshop, Visual C++, the
+         rather nice Ichitaro wordprocessor. Given the precedent for
+         prosecuting software pirates the world over (one of the
+         largest warez bbs cases is just finishing up in the US right
+         now), it's a lot easier to go after those sharing apps than
+         music. But it won't be long before the net widens: indeed,
+         ZDNet Japan reports that one of the students raised
+         suspicion because of the large numbers of MP3s he was
+         sharing. Ah, Japan: "the global imagination's default
+         setting for the future", as Mr Gibson has it.  Let's hope
+         there's still time to mess with the Control Panel before it
+         installs here.
+         http://www.accsjp.or.jp/news/011128e.html
+                                                  - they said "penal"
+         http://boingboing.net/2001_11_01_archive.html#7539331
+                - tip of the beanie to the old skool boingboing posse
+
+         Another year, another dumb attempt to create a totally new
+         namespace instead of trying to make more intelligent use of
+         the existing one. At least two NTK readers expressed
+         scepticism this week over JINI SEARCH, the revolutionary IE
+         plugin where you "just type the brand, company or product name
+         directly into the address line of your Internet Explorer
+         browser and go straight to the specific page" - replicating
+         almost exactly what IE usually tries to do anyway. The
+         impossible-to-find-anything site provides further reassurance:
+         "Approximately a 30 second download !!!! PLEASE READ TERMS AND
+         CONDITIONS!!!!" - conditions which naturally include: "5.1.4
+         by registering or using the Keyword (in what ever manner) you
+         will not knowingly infringe the intellectual property rights
+         of a third party". Typing, say, "BBC" into a Jini-ed copy of
+         IE takes you straight to http://www.possessiondirect.co.uk/ ,
+         who, handily enough, just happen to be "specialists in
+         assisting landlords regain possession from unwanted tenants
+         [...] at a truly exceptional price".
+         http://www.jsearch.co.uk/html2/jinikeywords.htm
+          - no relation to Sun's "where is it now?" Java network tech
+         http://www.jinionline.co.uk/templates/template%202/
+           - "fuiegwiufgihe gwfuigeiwufiuehwifu uhgewifhuiew woihfow"
+         http://www.bbc.co.uk/bbc.com/images/
+   - adding Boston Business Computing's distinctiveness to our own...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         ALEC GUINNESS' CBE links to "tyrannical regime" of THE EMPIRE:
+         http://www.starwars.com/bio/siralecguinness.html - is the
+         Queen Mother "more machine now, than man"?... LOVE - in an
+         elevator: http://uk.news.yahoo.com/011205/80/ckin0.html ...
+         surreal GRAUNIAD "reality check" features "Detectives from the
+         sheriff's hat": http://www.ntk.net/2001/12/07/dohgraun.gif ...
+         FT moves into world of nightmarishly disturbing illustrations:
+         http://specials.ft.com/creativebusiness/FT3XAQN4RUC.html ...
+         BBC more influenced by cinematic allusions to "Pulp Fiction":
+         http://news.bbc.co.uk/hi/english/uk/newsid_1690000/1690033.stm
+         ... FAB, Lewis: http://www.ntk.net/2001/12/07/dohmorse.gif ...
+         "We has not had English pages, already": http://www.akira.jp/
+         vs "To be elegant queen!! You have five different colors of
+         frends": http://samsungelectronics.com/mobile_phone/index.asp
+         ..."We could do it in -": http://www.google.com/search?q=dobly
+         ..."non-critical safety functions" are a different matter:
+         http://www.ntk.net/2001/12/07/dohfail.gif ... clue's in the
+         image name: http://www.adobe.co.uk/special/illustratorcomp/
+         ... source of http://www.infosec.co.uk/page.cfm has more than
+         50 "web bugs" at the end - annoying if your secure browsing
+         includes individually accepting each cookie... great for
+         bedtime stories: http://www.ntk.net/2001/12/07/dohbed.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Of course, our usual disclaimers apply to anything which
+         involves identifying yourself both as a terrorist and,
+         potentially more embarrassingly, as an "electrohippy".
+         Nonetheless, if you want to make a token protest against the
+         "war on terrorism (and/or those pesky civil liberties which
+         make today's intricately interlinked industrial societies so
+         irritatingly vulnerable to sabotage)", the ANTI-TWAT CAMPAIGN
+         are continuing to hold would-be denial-of-service "sit-ins" at
+         the Home Office website next Mon and Tue 2001-12-10 & 11 -
+         plus a special action when the current Anti-Terrorism,
+         Security and Crime Bill becomes law. Basically it's the same
+         Javascript repeated-reload "attack" used by the pro-Zapatista
+         Electronic Disturbance Theater back in 1998, though this time
+         you're encouraged to register with the Home Office as a
+         potential terrorist cybercriminal beforehand - like you're not
+         on their "known subversives" database already.
+         http://www.fraw.org.uk/ehippies/action/twat_brief.html
+               - vs http://www.theregister.co.uk/content/6/23255.html
+         http://www.ntk.net/index.cgi?back=1998/now0123.txt&line=161#l
+                             - no good will ever come from Javascript
+         http://www.ri.ac.uk/Christmas/details2001.html
+      - this year at the Royal Institution: What Am I? Where's Kevin?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Ade Ward's FINDER MAIL takes the very sensible attitude that
+         your Mac OS 9 machine has already got enough freaking
+         interface, ta thank you. Instead of confusing matters with
+         yet another email client, it grabs your mail from a POP
+         server, converts it into separate plain text files,  and
+         dumps them all into a selectable directory. After that, your
+         mail reading is done with the Finder. The more one thinks
+         about this, the more sense it makes. Worries about losing
+         mail are now a fractional subset of worries about trashing
+         the whole hard drive. Double-clicking on the files kicks up
+         a mini-editor which lets you reply and send. Copying and
+         sorting files is just drag and click territory. You want
+         mail folders? Well, what's wrong with *real* folders?
+         Search? See Sherlock. Filters? At last, a use for
+         Applescript! MIME attachments? Who cares? As our
+         correspondent says, it's mh for Mac.
+         http://www.signwave.co.uk/products/FinderMail/
+                               - just saying that makes us feel empty 
+         http://area51.upsu.plym.ac.uk/~adrian/gallery-of-a-crap-computer/
+                           - not a man who lets Finder get off easily
+
+
+                                >> MEMEPOOL <<
+                the warm bit behind the http://www.gagpipe.com/
+
+   TVGoHome at the Movies: http://www.finemanfilms.com/cgi-bin/moviedb.cgi
+         ... supernatural computing: http://www.phobe.com/yeti/ ,
+         http://users.bestweb.net/~bennetc/holistic ... Jesus Christ:
+      http://www.answersingenesis.org/AfterEden/AE_Pages/ae6-4-2001.asp
+         ... this week's Shockwave game - a Class One laser product:
+         http://www.input-entertainment.de/laser/laser.html ... it's
+         the mythical "good" flash intro: http://www.fakepilot.com/ ...
+         new thrill! CHRIS MORRIS at large - in "Trench Coat Mafia":
+     http://www.crimelibrary.com/serial4/littleton/4.htm ... at the BBC:
+http://news.bbc.co.uk/hi/english/world/middle_east/newsid_1694000/1694035.stm
+         ... brandy only consumed by Hungarian Vlach Gypsies "first
+         thing in the morning, in the middle of the night at a funeral
+         and by women prior to a rubbish-scavenging trip", drunkenly
+         reveals: http://www.sirc.org/publik/ptpchap6.html ... new
+         LIGHTHOUSE FAMILY song is "theme from Film 2001"... who is the
+         SHORTEST LINK #2: http://shorterlink.com/ vs http://qwer.org/
+         ... Segway "not what people want", says SINCLAIR, who should
+         know: http://www.newscientist.com/news/news.jsp?id=ns99991636
+         ... PJ Harvey beats Madonna in poll - picture editor unmoved:
+         http://uk.news.yahoo.com/011203/80/ck83e.html ... NTL and
+         Freeserve now blocking broadband access to AUDIOGALAXY... you
+         see, http://theinternet.com really *does* run on APACHE...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> THE PRIVATE LIFE OF A MASTERPIECE (7.25pm, Sat, BBC2)
+         looks at Edvard Munch's "The Scream", with contributions from
+         postmodern horror movie fans and, hopefully, Rolf Harris...
+         Bruce Willis rivals Val "The Saint" Kilmer's repertoire of
+         comedy accent/wig combinations in hilariously poor remote-
+         controlled machine gun remake THE JACKAL (9.30pm, Sat, BBC1)
+         ... the "I Love" series grinds to a halt with I LOVE TOP OF
+         THE POPS (9.25pm, Sat, BBC2), to return next year with "I Love
+         The Wry Observations Of Stuart Maconie"... and C4 presents a
+         "point-counterpoint" examination of firearms in society with
+         LETHAL WEAPONS: INSIDE BRITAIN'S GUN CULTURE (8.05pm, Sat, C4)
+         followed later that evening by John Woo's ultraviolent shoot-
+         em-up HARD-BOILED (1.05am, Sat, C4)... autistic abattoir
+         designer Temple Grandin is profiled in a FIRST PERSON (7.30pm,
+         Sun, C4) directed by Errol "Fast, Cheap And Out Of Control"
+         Morris... WITNESS (9pm, Sun, C4) apparently fails to question
+         the "electronic voice" phenomenon of people hearing "ghosts"
+         in recorded static... and Sarah Michelle Gellar and Jennifer
+         Love Hewitt remain inexplicably clothed throughout most of
+         archetypal neo-slasher I KNOW WHAT YOU DID LAST SUMMER (10pm,
+         Sun, C4)... post-apocalyptic Don Johnson punfest A BOY AND HIS
+         DOG is shunted off to the prestigious 2.05am, Mon, C4 slot,
+         leaving primetime to the dubious delights of BRAM STOKER'S
+         DRACULA (10pm, Mon, C4), dire Leslie Nielsen/ Mel Brooks spoof
+         DRACULA: DEAD AND LOVING IT (10pm, Tue, C4), plus Jean-Claude
+         Van Damme as a counterfeit fashion designer - believe it! - in
+         KNOCK OFF (9pm, Mon, C5)... Louis Theroux doesn't even have to
+         pretend he's out of his depth when serious sexual allegations
+         arise in WHEN LOUIS MET THE HAMILTONS (9pm, Tue, BBC2)...
+         NTK's Dave Green maintains he was "really very drunk" while
+         opposing net censorship on this week's TABOO (9.50pm, Wed,
+         BBC2)... and C4's popular "When Gravity Attacks" strand
+         explains HOW THE TWIN TOWERS COLLAPSED (9pm, Thu, C4),
+         hopefully addressing the issue of why no-one seemed to have
+         even the faintest suspicion that they might fall over...
+
+         FILM>> the dumping of local product in the wake of "Harry
+         Potter" continues, with Samuel L Jackson and the cast of "The
+         Full Monty" - together at last! - in a look at the lighter
+         side of designer drug deaths in Brit gangster beat-em-up THE
+         51ST STATE (http://www.bbfc.co.uk/ : rated "18" for very
+         strong language, drugs references and violence) - and not, it
+         appears, based on the chorus of the song "Heartland" by The
+         The... sadly, Tom Green doesn't even cameo in Drew Barrymore's
+         "Teen Mother And A Baby" feelgooder RIDING IN CARS WITH BOYS
+         (http://www.capalert.com/capreports/ridingincarswithboys.htm :
+         flatulence; wild necking; sex poem; young girls pretending to
+         participate in love-making with open mouth kissing; 6 uses of
+         God's name in vain without the four letter expletive; teen sex
+         in a car - genitals unseen)... also for the ladies, perhaps
+         not as much swearing - or authentic Glaswegian accents - as
+         you'd expect from Helena "Planet Of The Apes" Bonham Carter
+         and Gina "Brass Eye" McKee in female buddy-movie WOMEN TALKING
+         DIRTY (http://www.bbfc.co.uk/ : rated "15" for strong language
+         and sex references)... and a slightly puzzling use of "The
+         Movie" in the title of the animated A CHRISTMAS CAROL: THE
+         MOVIE (imdb: based-on-novel/ ghost/ redemption/ victorian-era/
+         compassion), given that there's already been at least 10 film
+         versions of the book, not including such classics as "The
+         Muppet Christmas Carol" (1992), "The Jetsons Christmas Carol"
+         (1985), or Bill Murray's "Scrooged" (1988)...
+
+         DRESS DOWN FRIDAY>> Attention all Europeans! Christmas is
+         officially uncancelled, because the black ADMINSPOTTING shirts
+         are back - albeit in a new version with the "Choose no life.
+         Choose to sysadmin" spiel on the front instead. Plus we've
+         imported a limited number of DEMOTIVATORS CALENDARS 2002 from
+         http://www.despair.com/ to drag down morale in your office
+         throughout the next 12 months - order by next Wednesday (or
+         the week after in the UK) via http://www.ntkmart.com/ to
+         ensure probable pre-Christmas delivery... new designs continue
+         to oscillate between the more straightforward parodies - eg,
+         reader JONG's implementation of the old "AT/DT" idea we were
+         kicking around: http://www.geekstyle.co.uk/images/atdt.jpg ,
+         and BEN CURTHOYS' http://www.geekstyle.co.uk/images/bar.jpg -
+         right the way through to rather more personal demon-wrestling,
+         as we suspect is the case with the contribution of DAVID HUNT,
+         a self-confessed "computer games programmer" who "hates
+         HaCkErZ": http://www.geekstyle.co.uk/images/hackerz.jpg , and
+         indeed LOFTY's http://www.geekstyle.co.uk/images/lofty.txt ...
+         of course, even if your graphic design skills aren't up to
+         these rigorous standards, you can always send us a text slogan
+         instead, as demonstrated this month by CAMILO MESIAS ("Error
+         404: /shirt/tie Not Found"), several anonymous contributors
+         ("Will Lie For Sex", "Intercal programmers do it the hard way"
+         and "HP calculator programmers in reverse Polish notation it
+         do"), and DUNCAN MARTIN who, in tribute to those "who find NTK
+         operates at the edge of their understanding", proposed our
+         email logo with the shampoo-ad-style warning: "Here comes the
+         ASCII art: concentrate"... as ever, if we use one of your
+         designs, you (or a charity of your choice) will get a royalty
+         for each one we sell, which has this year raised UKP168 for
+         SIGHTSAVERS INTERNATIONAL http://www.sandywhite.fsnet.co.uk/ ,
+         UKP336 for the only mildly sinister-sounding ALLIANCE FOR
+         CHILDHOOD http://www.allianceforchildhood.net/ (nominated by
+         Jonathan "Adminspotting" Chin), and a startling UKP920 (+VAT)
+         for THE REDUNDANT TECHNOLOGY INITIATIVE http://www.lowtech.org
+         (nominated by Modesty "Elite" B Catt), which they intend to
+         spend on a "European Union audit" which they previously had
+         "no idea" how they were going to pay for. Keep, as they say,
+         them coming, and - whether you designed a shirt, bought one,
+         or just kept sending us increasingly obscure and/or obscene
+         programming slogans - God bless you, every one...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                  "yo Chuck, you think we're gonna sell out?"
+                  "I say if we do, then we get the hell out"
+     http://www.msn.co.uk/exredir.asp?STARTID=bjd_hm&URL=http://www.ntk.net
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

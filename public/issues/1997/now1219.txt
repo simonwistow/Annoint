@@ -1,0 +1,334 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____19/12/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                              "It's an expectation, not a deadline."
+    - Spokesman KATIE COTTON on Apple's "CEO by end of '97" promise
+          "Bust by '99" - it's an expectation, Apple, not a deadline
+
+
+                               >> HARD NEWS <<
+                                   win/lose
+
+         MICROSOFT responded to last week's court ruling (that they
+         should unbundle Internet Explorer and Windows 95) with all
+         the care and attention of their own technical support
+         staff. First, they denied it was possible. Then they said,
+         airily, that you *could* try and delete the Explorer files,
+         but that would probably crash the OS: they really weren't
+         sure. Finally, they grudgingly suggested formatting the
+         hard disk and re-installing the original (Summer 1995)
+         version of Win '95. Maybe that'll work, they said. Given
+         Microsoft's clear intention to wind up the DOJ (and their
+         superlative experience at doing that to everyone else), we
+         were hoping for something a little more creative. Maybe
+         they should deny that Windows '95 is an OS at all, but a
+         "special sort of Internet Explorer for hard drives".
+         Scarily, that's close to what MS seem to be saying about
+         Windows '98: it and IE4.0, they say, are essentially the
+         same thing. Which is interesting when you remember that
+         Microsoft also promised that Explorer would be always be
+         free. Wow! Free Windows! It's what we always wanted!
+         www.yahoo.com/headlines/971218/tech/stories/browser_2.html
+                   - well, we'd have preferred socks, but never mind
+
+         Of course the point at which it'll get truly scary is when
+         the DOJ announces a "strategic partnership agreement" with
+         Gates to "develop and improve... the legislative process".
+         This inevitably happens to any enemy of MICROSOFT,
+         generally four months just before they disappear entirely.
+         SGI's just announced such a deal over OpenGL++, or
+         FAHRENHEIT, as the co-development is now called. Presumably
+         the name is meant to convey the chilly reception SGI's die-
+         hard fans gave it - or perhaps it's a hint to HP (who
+         thought *they* were doing the 3D stuff for Microsoft) that
+         they're now out in the cold. Or maybe it's just a reference
+         to those OpenGL developers now burning their old manuals at
+         451 degrees, and trying to learn the new order.
+         http://www.sgi.com/ hold on, didn't we run this deal last week?
+         http://www.apple.com/              or the time before that?
+         http://www.ibm.com/                or the time before that?
+
+         Bill Clinton - the US President, equivalent of the Queen in
+         this country - signed the "NO ELECTRONIC THEFT ACT" this
+         week. The new law closed the loophole that let Americans
+         give away copies of copyrighted data even if they didn't
+         make a profit out of it (refusing to profiteer is already a
+         capital offence in most American states). Now the tricky
+         part: enforcement. Latest copy protection to unravel: the
+         Digital Watermarking system in PHOTOSHOP. Look out for
+         un%ign, a cross-platform utility to remove those
+         watermarks, including the "Adult picture" rating flags.
+         Even more mischievous, cracker Frogs_Print's new Photoshop
+         patch allows perps to replace the original copyright with
+         their own, letting them sue those capitalists right back.
+         http://www.digimarc.com/im_page.html
+                                   - like the Titanic, "uncrackable"
+ 
+         In the week's other news: an ESCAPED LION rampaged through
+         Disneyworld - Florida tourists were warned it was "not an
+         attraction"; a virulent Hong Kong contagion crossed the
+         species barrier from CHICKENS to humans; NINTENDO denied
+         responsibility for an anime show that triggered epileptic
+         seizures in 600 Japanese children; and a METEOR blasted a
+         15 megaton crater in the heart of Greenland. That's the
+         nightmare futuristic news round-up with me, William Gibson.
+         Next up: Bruce Sterling with the heavy weather.
+
+
+                               >> ANTI-NEWS <<
+                            imagine your surprise
+
+         WIRED 6.01 is special "how lunatic are we?"
+         retrospective... Chris Morris' BLUE JAM does Diana re-edit,
+         is abruptly replaced with repeat... "Partners Show Little
+         Sympathy For Microsoft" reveals NET INSIDER... COREL
+         reports loss... XS4ALL in legal trouble... SLATE to charge
+         subscriptions "next year" (bye, Slate)... APPLE stock at
+         10-year low... RACING GAMES may encourage (nay, reward)
+         dangerous driving, manufacturers admit... BRITISH BOFFINS
+         discovered strong crypto before anyone else, did nothing
+         with it ( www.cesg.gov.uk/cnellis.htm ) ... "Internet does
+         not hold key to World peace", JON KATZ concedes... 87% of
+         young people believe themselves "invulnerable to AIDS",
+         study shows... SCOTLAND to encourage "Silicon Glen". Again.
+
+
+                              >> EVENT QUEUE <<
+                   where "time out" isn't an error message
+
+         From the people who brought you something to read on a Friday
+         afternoon if you've got nothing better to do (ie NTK, you
+         dummy) comes something to do from 8pm this Saturday evening
+         (20/12/97) - if you've got nothing better etc etc. Yes, you are
+         *all* invited to the NTK XMAS "DON'T" at London Bridge-area
+         people's cybercafe Backspace (free drink! and entertainment
+         that costs only self-esteem!). RSVP to tips@spesh.com, and note
+         that you do have to be a subscriber to attend, so make sure you
+         know the email address that your NTK gets sent to. Your
+         domain's not down, you're not coming in. Got that?
+         http://www.backspace.org/clink - a new kind of entertainment...
+         http://www.primenet.com/~kennyb/top.htm - ...a new kind of war
+
+         "Freedom Of Information consultation process kept under
+         wraps". What would Mr Rory Bremner and his satirical chums
+         make of that? Well, the secret's out: UK Citizens Online
+         Democracy (UKCOD) have set up a site (in loose co-operation
+         with the govt) to collect submissions from the public on
+         the new White Paper. It's only until 11/2/98 - which is
+         why, technically, it's an event. Yeah, we know, but it's
+         actually quite a smart site, with a lot of impartial data
+         on the proposals, chats with the relevant officials, and a
+         respectable mail/Web discussion forum. It'd be nice if the
+         FOI Act didn't mess up completely, and judging by the DTI's
+         similar set-up with their crypto proposals, these sites can
+         at least serve as a source of acute embarrassment when they
+         try to ignore the collected opinions. Which they will. Oh,
+         what's the point?
+         http://foi.democracy.org/ a more optimistic slant. For now.
+
+
+                                >> TRACKING <<
+                             if it moves, ftp it
+
+         If you're (rightfully) disappointed by "teaser" trailers like
+         the one for the X Files movie, then *why not render your own*?
+         That's the self-reliant philosophy of the young Jedis at
+         SKYSTATION, who've unofficially CGI'd and video-hacked both a
+         20 meg tease and a 13 meg trail for STAR WARS EPISODE I,
+         currently due for cinema release May 1999. Back on the "real"
+         film, there are unconfirmed reports that Liam Neeson "stormed
+         off" during his first lightsabre duel with Ewan McGregor, as
+         the crew collapsed laughing. George Lucas walks over to
+         McGregor, completely straight-faced. "Ewan", he says, "Don't
+         make the noises."
+         http://www.thex-files.com/video/xfmov70.mov
+                        - exciting, yet disturbing, possibilities...
+         http://theforce.net/Skystation/holoscrn.html
+           - ...I mean, didn't this sort of thing lead to Babylon 5?
+
+         A couple of updates to end the year with. There's a new
+         version of mIRC, Khaled Mardam-Bey's irrepressible IRC
+         client for Windows. It's worth upgrading, partly because
+         it's always fun to install new software, partly because
+         there's a host of new features (nick completion, find text
+         in window, scripting extensions), and partly because there
+         was a not inconsiderable security hole in the last one.
+         http://www.mirc.co.uk/     no, we're not saying what it was
+         http://www.irchelp.org/irchelp/mirc/si.html
+                                       - okay, you talked us into it
+
+         And ooh! A new Java Development Kit 1.2 beta! Drag and drop!
+         Almost-working-Swing pluggable components! Vague control
+         over the stupid garbage collector! A halfway-decent
+         Collection class! Something to hack when you're hiding
+         upstairs from the relatives! Doesn't run on any browsers
+         yet! Who cares! It's cutting edge! Mmmm!
+         http://java.sun.com/
+            - the URL reads like a Class. Is that some kind of joke?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         SHOOTBACK BART vs Explodroid... translating English->French
+         on ALTAVISTA - then translating back... GEOCITIES IPO? ...
+         "Vulnerabilities in ICQ"... Coolest checkbox ever - "make
+         noise if new Mersenne prime found" - www.mersenne.org ...
+         seasonal overclocking at www.kryotech.com ... BBC have just
+         started casting THE INVISIBLES, reveals GRANT MORRISON...
+         meanwhile NEAL GAIMAN reveals a NEVERWHERE film in the
+         pipeline (where it belongs)... www.mafia.spb.ru ... Prince
+         Nazeem vs Kevin Kelly?!... SONY to remake THUNDERBALL
+         *again*, with Sean Connery, and ID4's Dean Devlin, Roland
+         Emmerich... Free the ONE IN A MILLION two!...
+         http://sero.org/Sero/game.html ... don't go here (really):
+         www.euronet.nl/~highman/prison2.htm
+
+
+                               >> CORRIGENDA <<
+                                 goofing off
+
+         We said that DEMON's nameserver had been hacked last week.
+         We were wrong - it was, in fact, a customer of Demon,
+         www.netalia.com. NTK regrets the error: guess someone must
+         have been playing with *our* "name" servers! Ahahaha. Just
+         our little joke. Go on Cliff, please laugh.
+
+
+                               >> GEEK MEDIA <<
+                           it's a wonderful no-life
+
+         WIDE TV>> Linda "Sarah Connor" Hamilton guests in the last
+         in this series of FRASIER (10pm, Fri, C4), though "He'll be
+         back" - in two weeks... the only way we can describe LEXX:
+         THE DARK ZONE STORIES (12.10am, Fri, C5) is - "like Dune
+         remade by the people who did Space Precinct so as to
+         resemble an unofficial sequel to Blake's 7" - but in a good
+         way, of course... rivalling even previous bizarro theme
+         nights, the evening devoted to the choices (and output) of
+         cross-dressing comic EDDIE IZZARD (9pm, Sat, C4) includes
+         Woody Allen's hit-and-miss sci-fi spoof SLEEPER (11.55pm,
+         Sat, C4) and hopefully the cracking "best of" episode of
+         KIDS IN THE HALL (11.10pm, Sat, C4)... Doug Trumbull's
+         proto-Strange Days VR-thriller BRAINSTORM (11.45pm, Sat,
+         BBC2) is actually far better than Strange Days but, then
+         again, *what isn't*? - a theme intriguingly echoed by the
+         CHARLIE BROWN AND SNOOPY SHOW (11.20am, Sun, BBC2) in which
+         "the kids go to a computer camp where the games come to
+         life" (Radio Times)... www.dianabear.com won't be appearing
+         in the first of many docus wallowing in MEMORIES OF DIANA
+         (6.30pm, Sun, BBC1)... it's hard to imagine the horror of
+         being trapped on board Mir day after day after day - well,
+         that is until you've heard "Brit-born" astronaut Michael
+         Foale go on about it for an hour on EQUINOX (9pm, Mon,
+         C4)... Phil Cornwell's impressions of ageing celebs on
+         STELLA STREET (11.15pm, Mon-Tue, BBC2) should be tragically
+         less funny than his Steve Wright show stuff... bunk off
+         early for the cool sci-fi F/X compilation of MOVIE MAGIC:
+         FINAL FRONTIER (3.10pm, Tue, ITV) - probably a big
+         improvement on Harrison Ford yawn-athon CLEAR AND PRESENT
+         DANGER (9.30pm, Tue, BBC1)... Xmas Eve taunts devotees of
+         the Formulaic Film Titles Of Steven Spielberg, with RAIDERS
+         OF THE LOST ARK (2.50pm, Wed, BBC1) vs CLOSE ENCOUNTERS OF
+         THE THIRD KIND (2.05pm, Wed, ITV)... Drebin is back (just
+         accept it) in NAKED GUN 33 1/3 (9pm, Wed, BBC1), while
+         MODERN TIMES (9pm, Wed, BBC2) plays with toys... on the big
+         day itself, the MUPPET CHRISTMAS CAROL (3.10pm, ITV, Thu)
+         and THE MASK (6.50pm, Thu, BBC1) are the best of the
+         regular kiddie-crap (The Flintstones? Honey I Shrunk The
+         Kids? Home Alone 2???)... and C4 continues its 15th-
+         anniversary retrospective with A SPLICE OF LIFE (10.15pm,
+         Thu, C4), featuring clips from seasonal Film On Four fare
+         like Shallow Grave, The Crying Game, The Madness Of King
+         George and - of course - Trainspotting...
+
+         FILM>> GEORGE OF THE JUNGLE (imdb: comedy / jungle / based-
+         on-cartoon / based-on-tv-series) is perhaps the least
+         despicable of this week's child-oriented offerings, with
+         Brendan "Encino Man" Fraser imitating the tree-slamming
+         doofus originally devised by Jay Ward Productions - who
+         also made Rocky And Bullwinkle, Tom Slick, Peabody's
+         Improbable History, yet astonishingly *not* Roger Ramjet or
+         Batfink... uh-oh: crypto-Arthurian romp PRINCE VALIANT
+         (imdb: adventure / based-on-comic) is an UK/ Irish/ German
+         co-production and features characters called "Pechet" and
+         "Thagnar"... it's got four villains instead of two, and may
+         yet be the best Home Alone movie ever made - but still take
+         care stepping over the threshold of HOME ALONE 3 (MPAA
+         rated: PG for "slapstick violence, language and mild
+         sensuality" - whatever *that* means)... in other movie
+         news, MEN OF CRISIS is a recently uncovered 1971 Woody
+         Allen short that satirises the Nixon government - as Film
+         Threat Weekly reports: "unlike his last 15 movies, the film
+         DOES NOT feature a sub-plot about Allen involved in a May-
+         September romance"...
+
+
+                                 >> COMPO <<
+           open the envelope - you may already have lost your job!
+                         http://www.ntk.net/compo/
+
+         It's the last week of our Christmas competition, and we're
+         pleased to say that we finally shook off all those "another
+         easy one, mate!" e-mails. Only one contestant sent us the
+         correct URL for last week's clue. Unfortunately, he sent it
+         as a reply to the 17/10/97 competition, and is therefore
+         disqualified. The correct answer, was, of course,
+         http://www.virgin.net/now.html - the "extra dot" being the
+         one we slipped into our sponsor list at the bottom of the
+         e-mail. Just goes to show how much attention people pay to
+         banner ads, doesn't it?
+
+         Anyway, here it is, your last chance to win fame and
+         fortune. The URL is in the form www.**********.com/now.html
+         and your starter for ten is:
+
+                                 GNU homo art
+
+         The full list of "hacked" URLs (and we use those quotes
+         advisedly) will be announced at the .NOT Awards early next
+         year, where we'll also be giving the prize for the best URL
+         submitted (a bumper box of goodies and a free dinner date
+         with the Scotland Yard's Computer Crime Unit). We might
+         also give a sneak preview of the list at tomorrow's party:
+         it depends how desperately we need to make friends. And,
+         let's face it, we come across as pretty desperate, don't
+         we?
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "worryingly well clued-in".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+                           >> even smaller print <<
+
+           NTK will return on Sat 27/12/97 in a special double-issue
+            (ie there probably won't be one the week after that).
+                 Normal transmissions will resume on 9/1/98.
+
+           In the meantime, have a very merry Newtonmas and a great
+                                  New Year.

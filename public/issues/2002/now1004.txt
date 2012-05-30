@@ -1,0 +1,321 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-10-04_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Dade Murphy, who is listed as a primary contact for Burn, did
+         not respond to repeated requests for comment..."
+              http://www.wired.com/news/politics/0,1283,55450,00.html
+          ...other fictional characters from the movie "Hackers" have
+                         also failed to return calls as of press time
+
+
+                                >> HARD NEWS <<
+                               currently 3s and 2s
+
+         Any sufficiently opaque process on the Net eventually gets
+         described as "weather". This week a hurricane hit the
+         rankings of Google search terms. Every month, Google tweaks
+         its algorithms and reloads its database, shuffling sites
+         into a new world order in a move known to those who care as
+         the "Google Dance". This month, though, the music was
+         particularly thrash metal. Long-time top-rankers plummetted
+         from the front page of search results into the far hellish
+         reaches of "oooogle". It hit bloggers, whose
+         hyperlink-o-hypertrophia had previously made them Google's
+         kingmakers. And it hit the Search Engine Optimisers, whose
+         voodoo schemes to make you - yes, you, Widget Maker of Iowa,
+         #1 ranking for "+sex +iowa" - were sorely screwed by
+         plummeting rankings. More importantly though - anecdotal
+         evidence suggest that search results for ordinary users seem
+         to be a bit off, too. Broken sites, obvious spams, and
+         irrelevant sites are dotting people's first hits. Of course,
+         anecdotes don't count for jack: but now that Google has
+         gathered so much power, and moves in such mysterious ways,
+         conjecture's all that's left. We mortals can just sit and
+         watch the clouds gather. Who knows what Google wrought?
+         http://www.webmasterworld.com/forum3/5688.htm
+   - "Google's penalty literally took food out of my families mouth"!
+         http://diveintomark.org/#when_an_engineer_flaps_his_wings
+- what's the world coming to when you can't depend on Google for eminem?
+         http://www.google.com/search?q=kevin+warwick
+                                                  - still number one!
+
+         In what we assume isn't a "Faking IT"-style scheme to turn a
+         Linux sysadmin into a contemporary digital artist, Sheffield's
+         REDUNDANT TECHNOLOGY INITIATIVE are seeking applications for a
+         two-week (paid!) residency this November at their attractive
+         Access Space free media lab, ideally making use of their
+         extensive stocks of recycled/reclaimed "redundant" technology
+         and open source software. You'd have to run a workshop,
+         presentation and online diary about what you've created during
+         that space of time, but other than that, they sound amazingly
+         open-minded about what you could have a go at. Deadline for
+         applications is next Friday 2002-10-11, mail tamar@lowtech.org
+         for further info - and, if you are lucky enough to be chosen,
+         maybe you could stick a couple of updates on their website,
+         assuming they give you access to the servers and you have a
+         spare moment or two.
+         http://www.access.lowtech.org/
+          - those "Elite" t-shirt royalties clearly going to good use
+
+         Like Seinfeld says: "There's no way that moving in with your
+         parents is a sign that your life is right on track... Yeah,
+         things are going great, I've met a terrific girl, I've got a
+         great job, I'm making a lot of money and, if everything goes
+         according to plan, I'm going to be moving back in with my
+         parents". However, let us emphasise that there are entirely
+         sensible reasons for THE REGISTER to leave their prestigious
+         central London office address, as happened this week, and
+         (temporarily) operate as a "virtual" workplace from various
+         safehouses dotted around the country. First of all, the lease
+         was up; the landlord wants to convert the office into flats or
+         somesuch; and we imagine the rent for 20-22 Maddox Street, in
+         the heart of London's fashionable Mayfair, was really quite
+         something. But put away your concerns over "the end of an era"
+         and potential impact on the local economy - rest assured that
+         the team will now officially be carrying out their most
+         important business from pubs in the area, instead of it
+         sometimes just seeming that way.
+         http://www.theregister.co.uk/content/62/26148.html
+                - just down the road from the sign saying "Golf Sale"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         SMALL BUSINESS SERVER is "dog", "bites", admits "Microsft":
+         http://ad.au.doubleclick.net/527362/728x90_dog_sbs1.swf (needs
+         Flash, sorry)... QUEEN keeps distance from manual labourer:
+         http://www.pch.gc.ca/royalvisit2002/1959-2_e.cfm (proper
+         caption at: http://www.pch.gc.ca/royalvisit2002/1951-2_e.cfm )
+         ... "and our servers seem to be in no hurry to process them":
+         http://www.ntk.net/2002/10/04/dohhurry.gif ... "WOW! There are
+         a lot of you wanting to use [the heavily publicised 'Future of
+         Music'] at the moment - please come back later if it's slow":
+         http://www.digitaldownloadday.com/retailers.htm ... APPLE
+         unveil 120MB drive: http://www.ntk.net/2002/10/04/dohmeg.gif -
+         can store 2 viruses: http://www.ntk.net/2002/10/04/doh50.gif
+         ... fairly accurate paraphrase of most guestbook contents:
+         http://xsls.com/?11 ... not the kind of "abuse" they had in
+         mind: http://www.ntk.net/2002/10/04/dohhear.gif ... the stink
+         of privatisation: http://www.ntk.net/2002/10/04/dohsmell.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Former sysadmin and AMIGA POWER contributor MIL MILLINGTON
+         will be telling how his site THINGS MY GIRLFRIEND AND I HAVE
+         ARGUED ABOUT went from being ripped off by the Mail On Sunday
+         to a column in Guardian Weekend and a semi-autobiographical
+         campus comedy novel at next Wednesday's DORKBOT LONDON (from
+         7pm, Wed 2002-10-09, mystery venue near "the top of Brick
+         Lane", London E2, free) - and no doubt signing copies into the
+         bargain. The line up also includes spoof truth-manufacturing
+         motivational speaker www.muti.tv , and the enigmatic "yaxu"
+         demonstrating "animal.pl" - further details should appear on
+         the Dorkbot site next week, or just go to the junction with
+         Bethnal Green Rd and you'll be redirected, like it was an
+         illicit programming rave or something.
+         http://dorkbot.org/dorkbotlondon/
+             - precautions to prevent his girlfriend from finding out
+         http://www.thingsmygirlfriendandihavearguedabout.com/
+               - vs http://www.ntk.net/index.cgi?b=02001-02-16&l=23#l
+         http://www.linuxexpo.co.uk/
+                    - pop by after visiting Olympia's Linux Expo 2002
+         http://www.strangeattractor.co.uk/megalithomania.html
+              - next weekend: rockin' with Iain Sinclair and the gang
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         CAMELBONES, Sherm Pendley's Perl to Cocoa bridge for MacOS
+         X, has all the looks of a standard sourceforge project:
+         half-written website written in barebones HTML, low version
+         numbers, couple of unmarked downloads. Install it, though,
+         and it's another story. Tight integration with the Mac's
+         Project Builder, ridiculously complete API support - it's an
+         amazing piece of work that's fast becoming the official Perl
+         environment for the running-dog turncoat Switchers of the
+         Unix world. Dan "Stakhanovite of Perl" Sugalski is writing a
+         book on it, even Apple have been heard to recommend it.
+         About the only thing it's missing is sub-classing, which
+         Thank The Lord, just isn't the big deal in Objective C that
+         it is in other, more crack-inspired OOP languages. Rumour
+         has it that this will be fixed in 0.3, due in November. That
+         is, unless Jobs is planning to have Sherm killed beforehand,
+         for being Too Clever Outside The Cupertino Campus.
+         http://camelbones.sf.net/
+         - hubris: a virtue in Perl, a criminal offence outside Apple
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         SPECTRUM emulator authors still have plenty of new directions
+         to explore: http://homepage.ntlworld.com/simon.owen/lenskey/
+         ... almost as plausible as: http://www.degenatron.com/ ...
+         yeah, but didn't Atari VCS cartridges used to cost 60 quid or
+         something?: http://www.fairplay-campaign.co.uk/front.htm - vs
+         http://www.ilikecake.pwp.blueyonder.co.uk/campaign/ ... it's
+         clearly short for "home-made" - whatever you were thinking:
+         http://www.wisconsin-cherries.org/beashomadeproducts.html ...
+         snaxx0rs 4 haxx0rs: http://walkers.corpex.com/cr15p5/ ... no
+         mention of his sidekick, "Salt": http://www.vinegarman.com/
+         ... this week's Finnish spoof fundamentalist rant against
+         roleplaying, ice hockey: http://www.co.jyu.fi/~np/gameofsatan/
+         ... the BOBBIT will "easily slice through meat and bones":
+         http://www.internetcookshop.com/viewdetail.asp?prodcode=HR919
+         ... what appears to be your favourite double entendre of the
+         week: http://news.bbc.co.uk/1/hi/world/europe/2282603.stm ,
+         http://www.nme.com/news/102458.htm - see <TITLE> tag...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> ITV wheels out hooker-free "Pretty Woman" non-sequel
+         RUNAWAY BRIDE (8.30pm, ITV, BBC1) against new BBC pop search
+         FAME ACADEMY (8.30pm, Fri, BBC1)... it's a dire action movie
+         weekend with Liz Hurley hilarity PASSENGER 57 (9pm, Fri, C5),
+         John Woo misfire HARD TARGET (11pm, Fri, BBC1), and Armstrong
+         and Miller idiocy PLUNKETT & MACLEANE (10.20pm, Sat, C4)... as
+         it's left to C5 to schedule the weirdest film of the week,
+         hillbilly nipple-taping surrealism-fest GUMMO (2.25am, Fri,
+         C5)... should be interesting to see if they use the codeword
+         "Nigger" in THE DAM BUSTERS (3pm, Sun, ITV) this time around:
+     http://media.guardian.co.uk/broadcast/story/0,7493,504037,00.html
+         ... K-911 (6.30pm, Sun, C5) is a sequel to James Belushi
+         police dog comedy "K-9", not a prequel to Harrison Ford Soviet
+         sub thriller "K-19: The Widowmaker"... Nic Cage wigs out over
+         the degrading world of snuff pornography in 8MM (10pm, Sun,
+         C4)... and BRITAIN'S FAVOURITE HOAXER (9pm, Mon, C4) turns out
+         to be some guy who gets himself into team photographs, rather
+         than, say, Chris Morris or something... A MAN'S BEST FRIEND
+         (10pm, Mon, C4) is, of course, yet another show about penises
+         ... WEB RATS (1.30am, Mon, BBC Choice) threatens to be a
+         "comical internet review show" from the "Cyderdelic" gang:
+http://www.offthekerb.co.uk/artists/b_artists_home.jsp?artist=cyderdelic
+         ... but in a week of big-name sci-fi - including STAR WARS
+         EPISODE V: THE EMPIRE STRIKES BACK (8pm, Tue, ITV) and THE
+         MATRIX (9pm, Thu, C5) - Verhoeven's magnificent libertarian
+         parody STARSHIP TROOPERS (9pm, Mon, C5) still stands supreme
+         ... Dwight "Howlin' Mad Murdock" Schultz *is* Bob Oppenheimer
+         in Manhattan-project docu-drama SHADOW MAKERS (8pm, Tue,
+         C5)... Victorian Whitstable is the glamorous starting point
+         for lipstick lesbian costume romp TIPPING THE VELVET (9pm,
+         Wed, BBC2)... while THE GREAT STINK (8pm, Thu, C5) is
+         presented by Big Brother producer Peter Bazalgette as a
+         tribute to his ancestor, Victorian sewer pioneer Sir Joseph
+         Bazalgette - hopefully introduced by the continuity announcer
+         explaining: while previous Bazalgettes specialised in piping
+         shit out of your home, the current generation seems to prefer
+         piping shit into it...
+
+         FILM>> it's the first of a couple of movies this month which
+         implicitly advocate switching to some sort of digital camera
+         http://www.fox.co.uk/comps/one_hour_photo2.html - features
+         include 2 megapixel resolution, 2x optical zoom, not having
+         your family stalked by creepily diligent Robin Williams, as
+         happens in ONE HOUR PHOTO ( http://www.cndb.com/ : Gorgeous,
+         French-born "Alias" star [Michael Vartan] shows off everything
+         as he gets out of bed naked. A natural, un-buffed body, nice
+         butt, and a surprisingly large, full penis)... Disney tone
+         down the cute a little, squeeze some decent jokes into groovy
+         Hawaii sci-fi LILO AND STITCH ( http://www.bbfc.co.uk :
+         Distributor chose to remove sight of dangerous activity which
+         might be copied by young children - child character emerging
+         from a hiding place inside a washing machine or tumble drier -
+         in order to achieve a U)... otherwise, with the possible
+         exception of cross-dressing basketball slapstick JUWANNA MAN
+         ( http://www.screenit.com/movies/2002/juwanna_mann.html :
+         Vivica A. Fox shows some cleavage; some lesbian comments and
+         innuendo are made), it's a bunch of movies which inexplicably
+         haven't been released in the US yet, the most promising being
+         Jennifer "Cleopatra 2525" Sky "Big Brother"-style containment
+         horror MY LITTLE EYE ( http://www.bbfc.co.uk/ : Contains
+         strong language, violence and sex)... Ken Loach provides a
+         characteristically bittersweet portrayal of teen Glaswegian
+         heroin dealing in SWEET SIXTEEN ( http://www.bbfc.co.uk/ :
+         Contains very strong language), or it's Vivica A. Fox (again),
+         Cuba Gooding Jr, Roger Moore, and Ken "Peugeot ads" Campbell?
+         - together at last! - in homophobic one-joke gross-out BOAT
+         TRIP ( http://www.bbfc.co.uk/ : Contains strong language and
+         comic sex references)...
+
+         CONFECTIONERY THEORY>> so we finally get our hands on sugar-
+         free fruity apostrophes STARBURST FRUITINESSE (from 49p), only
+         to discover that if you hand them out at parties, the flip-top
+         plastic tube makes people assume they're some kind of drugs.
+         That said, the blackcurrant/ strawberry/ mandarin/ apple
+         flavours do indeed "Wake up your mouth", causing reader JAMES
+         CRONIN to ponder if they were intended as "a rival" to WONKA
+         NERDS? Other non-disappointments include white chocolate's
+         most sophisticated incarnation yet, CADBURY DREAM SNOW BITES
+         ("White chocolate with a whipped mousse centre containing
+         honeycombed pieces"), but CADBURY MYE ("Whipped cream flavour
+         mousse and roasted cocoa nib truffle centre") was just pipped
+         at the post for this month's accolade of "Taste Abomination"
+         by the new green-foil-packaging CADBURY BOOST WITH GLUCOSE AND
+         GUARANA, nominated by RICHARD CHENG for combining the old
+         Boost experience with "a nasty fake cherry flavour and a
+         slightly bitter aftertaste". Though an honourable mention goes
+         to BENDICKS for their boxed twist-wrap "Milk, dark, white &
+         marbled chocolates with a hint of mint", to which they've
+         given the truly terrible name of MINGLES... over in drinks 'n'
+         savouries, there does appear to be a thin, but genuine, non-
+         reprocessed slice of meat in the MCDONALDS STEAK PREMIERE
+         SANDWICH (from around UKP2.49), yet the abuse continues to
+         flood in for DIET COKE LEMON ("like drinking ordinary coke
+         through a Kentucky Fried Chicken Handwipe" - STEF MAGDALINSKI)
+         - does no-one have any similar complaints over PEPSI LEMON
+         TWIST? And our sympathies to JAMES HINCHLIFFE, who found the
+         resemblance of STREAKY BACON QUAVERS to "the flayed hide of
+         Bagpuss" both "uncanny" and "distressing" - and leaving what
+         they actually taste like to our fevered imaginations... on the
+         international scene, DAN BURGESS recommended ALTOIDS CITRUS
+         SOURS ("truly delightful breath mints that I have only seen in
+         Pennsylvania this summer"), but there's still plenty of fun
+         stuff to look out for over here, as CADBURY take on MCVITIES
+         MUNCH BITES with their own range of pocket-sized MIGHTY MINIS.
+         But "hot and spicy" is the real theme of autumn, with SPICY
+         COCKTAIL AIRWAVES GUM, PEPPARAMI MINICHEDDARS, MCCAIN HOT
+         CRISPS (which you cook in the microwave), plus the long-
+         awaited return of last year's limited edition MONSTER MUNCH
+         which turned your mouth blue [NTK 2001-09-07] - the innovation
+         being that it now turns it blue or green, and you have to
+         stick your tongue out to find out which. It's called the
+         "Mystery Tongue" Monster Munch variant - what else?...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                              "an enormous cornet"
+                            http://www.antics.org.uk/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

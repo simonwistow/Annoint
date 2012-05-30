@@ -1,0 +1,251 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-04-16_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                               >> HARD NEWS <<
+                              postmarked - Peru
+ 
+        "With us, it's personal", says the new motto of the Royal
+         Mail - and when it comes to viciously killing off the
+         accessible/usable version of their website, they might be
+         right. TextGIFs and mouseovers are the order of the day at
+         the new RM "portal". When subscriberzoid ECLECTECH mailed to
+         ask where the old text-only site had gone, they assured her
+         that the old site had to die, as it could not be assimilated
+         fully into "the increasing technological sophistication of
+         our online offerings". They did promise that she would
+         "begin to notice dramatic improvements in accessibility in
+         the next two months", though. Allow subscriber SEAN SOLLE to
+         do the same thing in two seconds: "Wait a minute! Who's that
+         hiding behind an old DNS record, on a completely different
+         server! Hurrah! Postcodes online, the only thing on their
+         site you'd ever want to use anyway!"
+         http://pol.royalmail.com/dda/txt/home.asp
+                            - no cookies or registration needed either!
+         http://www.royalmail.com/portal/rm
+                                         - actively helps you go blind
+         http://accessibility.english-heritage.org.uk/
+              - of course you *can* be accessible and still cock it up
+
+         As Armando Ianucci used to conclude his stand-up set: "There 
+         are only two rules in showbusiness. Number one: always leave 
+         them wanting more". Apparently heeding that advice is the 
+         intermittently delayed "London News Review" weekly offshoot of 
+         "satirical" email The Friday Thing, which managed no less than 
+         3 print issues before disappearing over Easter for what is 
+         expected to be "a couple of months" due to an "introduction of 
+         new investment". Sadly this also means they've stopped taking 
+         subscriptions for that particular project - though, on the 
+         plus side, you can continue to read Rich Herring's prolific, 
+         often yoghurt-obsessed columns (apparently a highlight of the 
+         mag) on Herring's own website for nothing, then send your 
+         money to sponsor him running this weekend's London Marathon 
+         on behalf of the charity Scope, if you so prefer. 
+         http://www.richardherring.com/warmingup/
+                 - currently just UKP1000 short of (arbitrary?) target
+         http://www.ntk.net/2004/04/16/dohlnreview.gif
+              - "well on the way to producing an essential weekly read"
+         http://qwer.org/YesThatBenHammersley.html
+          - Hammersley "Marathon Des Sables" tracker (but no RSS feed?)
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Bush administration all bunch of "girls", allege Google News: 
+         http://www.ntk.net/2004/04/16/dohloads.gif ... clown appears 
+         later in story: http://www.ntk.net/2004/04/16/dohbozo.gif ... 
+         Apple desperate: http://www.ntk.net/2004/04/16/dohshift.gif - 
+         + http://www.google.com/search?q=%22significant+shits%22 ... 
+         http://www.culturalcncl.com/support_index.htm - nice use of 
+         weird-kid.jpg ... more or less reassuring than an .asp error?: 
+         http://www.ntk.net/2004/04/16/dohtang.gif ... SQL brotherhood 
+         exposed: http://www.ntk.net/2004/04/16/dohmysql.gif ... all 
+         downhill from there: http://www.ntk.net/2004/04/16/dohbea.gif 
+         ... no essay now complete without "Gatesions" of search and 
+         replace artefacts: http://www.google.com/search?q=Gatesion , 
+         http://www.google.com/search?q=Gatesionaires ... at this rate: 
+         http://www.ntk.net/2004/04/16/doh0-60.gif - we're never going 
+         to make our flight: http://www.ntk.net/2004/04/16/dohsqkm.gif
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Gameboy Audio, a "generative Hypercard" exhibition, Modified 
+         Toy Orchestra, and "other low-tech hokum" are among the 
+         delights at next weekend's 4-IN-04 Access Space 4th Birthday 
+         bash (from Friday 2004-04-23, various venues just down the 
+         road from Sheffield station, free but pre-book as places are 
+         limited). It may even rival the electronic racket produced by 
+         Bournemouth's inaugural mashup masterclass BOOTY ON THE BEACH 
+         (8pm-2am Fri - and Sat? - 2004-04-23, Bartonka, Poole Hill, 
+         Bournemouth, "UKP3 one night, UKP4 both"), featuring scene 
+         favourites Cartel Communique, Lionel Vinyl, McSleazy and Go 
+         Home Productions, who apparently mixed David Bowie's latest 
+         single/ Audi ad soundtrack "Rebel Never Gets Old". No, we 
+         wouldn't have the faintest idea what any of that meant either, 
+         were it not for new fortnightly "bootleg briefing" newsletter 
+         THE CONFIDENTIAL, which comes complete with news, interviews 
+         *and* download links that actually work, and appears to be the 
+         brainchild of the Reviews Editor from that epitome of cutting 
+         edge cool, IDG's "PC Advisor" magazine. 
+         http://donttellyourfriends.net/hush/
+                   - though not an official IDG publication, of course
+         http://access.lowtech.org/4in04/
+           - still going 24 hours later?: http://booty.elektrobank.net/
+         http://www.infosec.co.uk/
+           - free registration at Infosecurity London before Thu 04-22
+         http://www.linuxuser.co.uk/expo/
+              - similar seems to apply for LinuxExpo starting next Tue
+         http://www.kemptonrally.co.uk/
+           - almost forgot: "Radio Rally" at Kempton Park this weekend
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The big new (yet old) killer app this year is going to be a
+         some dinky little program that lets you easily and
+         selectively share individual files with groups and
+         sub-groups of your friends. It seems such a simple idea, but
+         given the number of Known Clever People struggling to
+         implement it, it has to be harder than it looks. The
+         Nullsoft guys tried it with WASTE, but that was too
+         crypto-tastic to succeed; Ximianites have adopted Novell's
+         iFolder as their effort, but that's still pre-alpha. Now
+         ex-Audiogalaxy staffers are working on FolderShare.
+         FolderShare has some of the right idea - it just sits in 
+         the background, talking P2P with your mates, and silently
+         rsyncing their shared directories with yours. Weirdly it
+         requires a central logon, but still won't cope when you and
+         your friend are both behind NATs or firewalls; you'd think
+         having a central server, they'd be up for negotiating some
+         connections. The ACL stuff is still, in the way of ACLs,
+         confusingly powerful instead of usefully simple. It's also,
+         tragically, Windows only. It might yet grab the Napster
+         crown of reaching critical-mass usability, but there's still
+         a way to go.
+         http://www.foldershare.com/
+                 - can't help feeling the hard part is a compelling UI
+         http://usefulinc.com/edd/blog/contents/2004/03/08-ifolder/read
+                                          - uh-oh virtual file systems!
+         http://forge.novell.com/modules/xfmod/project/?ifolder
+                                                            - uh-oh C#!
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         most amusing Title offered probably "THE" - as in "THE Stephen 
+         King"?: https://www.bupa-intl.com/onlinesales/integration.asp 
+         ... one not currently safe for work like the other (one is): 
+         http://images.google.co.uk/images?q=slanted+lego&safe=off + 
+         "South East" a euphemism for?: http://qwer.org/nsfwSE.html ... 
+         RFID tag available in familiar swastika-shaped form factor: 
+         http://qwer.org/RFID.html ... other choice on the "Hostname" 
+         pulldown: https://www.password.uk.demon.net/webpassword.cgi 
+         ... just the "a database of sights and places to visit in the 
+         UK, including opening hours, location and other pertinent 
+         fields" that those pesky Al-Qaeda operatives had been looking 
+         for: http://3lib.ukonline.co.uk/pocketinfo/travel_uk.html ... 
+         http://www.rootsmanuva.net/ diversifying into financial advice 
+         for the more mature club-goer... thanks Stu, that ought to do 
+         it: http://www.casnic.org/6.html#2 ... 
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "How come you don't include radio programmes in your geek 
+         media coverage?", asks BBC Radio Entertainment Producer ED 
+         MORRISH - "Yes, of course I have a vested interest". Mainly 
+         because we rarely get to hear of anything good, Ed - though we 
+         can temporarily rectify that by passing on RHYS JONES' alert 
+         that Ben Moor's ELASTIC PLANET is currently being repeated on 
+         digital (11.45pm, Thursdays, BBC7, listed in Radio Times as 
+         "Elastic Plane"), plus SPARKES' recommendation of his own UK 
+         roadshow answer to "Geeks In Space" http://www.lugradio.org/ 
+         ... otherwise it's another chance to link to the stapler 
+         highlights http://www.virtualstapler.com/office_space/ of 
+         OFFICE SPACE (1.05am, Fri, BBC1)... they're puppets, but they 
+         - get this! - say offensive things!, in the faux-educational 
+         "from the makers of Zig and Zag" THE BRONX BUNNY SHOW (1.15am, 
+         Fri, C4)... and even the combined skills of Iain Lee and Holly 
+         Willoughby might not make this year's GAME STARS (12.30pm, 
+         Sat, ITV) any less toe-curlingly awful... Channel 4 continues 
+         its secret agenda to create a new race of ubermenschen with 
+         bespectacled Julia "Robot Wars" Reed selecting the strongest 
+         specimens in the more-pompous Krypton Factor SUPERHUMAN (7pm, 
+         Sat, C4), on-air termination of unwanted pregnancies in MY 
+         FOETUS (11.05pm, Tue, C4), and the harvesting of organs from 
+         the underprivileged in THE TRANSPLANT TRADE (9pm, Thu, C4)... 
+         while two different views of governmental interference are 
+         contrasted in defensible Samuel L Jackson designer gangster 
+         comedy THE 51ST STATE (10pm, Sun, C4), and Tony Scott/ Will 
+         Smith surveillance thriller ENEMY OF THE STATE (9pm, Mon, 
+         BBC1)... Libby "Celebdaq" Potter aims to dig the dirt on 
+         Nintendo in the promising-so-far OUTRAGEOUS FORTUNES (9pm, 
+         Mon, BBC3)... there's a "dark" double-bill commemorating two 
+         of Cameron Diaz's more bearable performances in THE LAST 
+         SUPPER (11pm, Mon, C4) and VERY BAD THINGS (12.40am, Mon, C4) 
+         ... plus there's nothing unhealthy about "fresh ingredients", 
+         maintain the clown-baiting restaurateurs of Clapham's "Real 
+         Burger World" http://qwer.org/burgertime.html as profiled in 
+         RISKING IT ALL (9pm, Wed, C4)... 
+         
+         FILM>> Ashton Kutcher's "Dude, Where's My Past?" performance 
+         is the main letdown in from-the-writers-of-Final-Destination-2 
+         "Donnie Darko, but where something actually happens" awkwardly 
+         chaos-theory-quoting time-travel paradox THE BUTTERFLY EFFECT 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7557 : 
+         A dog gets put in a bag and set on fire. Please read on to 
+         find out how this scene was really achieved)... an adult movie 
+         actress neighbour actually seems to improve property values in 
+         unreconstructed adolescent wish-fulfilment THE GIRL NEXT DOOR 
+        ( http://www.screenit.com/movies/2004/the_girl_next_door.html :
+         [CAUTION, POPUPS] We see [Elisha "24, Old School" Cuthbert's] 
+         bare back and partial glimpses of the sides of her bare 
+         breasts. She then removes her pants)... and it looks a bit 
+         like Liv Tyler, but isn't, on the poster for "based on a made-
+         up story" Arabian horse-race Viggo Mortensen nonsense HIDALGO 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7563 : 
+         Contains intense action involving horses, leopards and a 
+         falcon; When the swarm abated, a combination of rubber and 
+         specially-made edible locusts were placed around the set, and 
+         both actor and horse knew which ones to eat)... 
+                                                                        
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+      "your one-stop launch pad to everything NTK related on the internet"
+                  http://www.celebrity-photos-crazy.com/NTK.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

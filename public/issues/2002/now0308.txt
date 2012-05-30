@@ -1,0 +1,292 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-03-08_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Microsoft has built a FreeBSD version of Linux, but this is
+         more of a publicity gig than a serious endeavour..."
+                 http://www.cw360.com/article&rd=&i=&ard=110220&fv=1
+       ...still, that's what we'd hoped about their DOS version of CP/M
+
+
+                                >> HARD NEWS <<
+                                delicate truce
+
+         To the BIG BROTHER AWARDS: traditionally a bit of a friendly
+         get-together for those who fight for personal privacy while
+         desperately attempting to get "monitored" by the press doing
+         so. This year, however, saw a bit of extremist entryism -
+         principally in the form of those chubby young men in their
+         uncomfortable suits, the Orthodox Libertarians. And, on
+         discovering that everyone else wasn't quite the government
+         lickspittles the pamphlets implied, how pleased they were!
+         Seeing both Mark Thomas and the Telegraph editorial team
+         join forces to protest the government's recent invasive
+         policies, they fell to their knees and thanked the gods of
+         Critical Rationality that everyone had promptly united
+         behind the libertarian cause. "Could they possibly come to
+         any conclusion other than the ownership of self and the
+         sovereignty of the individual?", marvelled the Libertarian
+         Alliance's David Carr looking with new eyes upon those who
+         he had previously dismissed as "wall-to-wall dreadlocks".
+         Well, we'd have asked them all down the pub after the
+         ceremony, but what with David Shayler getting pied by a
+         bunch of anarchists and someone else throwing a pint over
+         the Telegraph's Deputy Ed, it was a little tricky to ask how
+         they'd all managed to put aside their differences. Still,
+         nice to see those unidealistic libertarians as grounded in
+         the real world as ever.
+         http://www.privacyinternational.org/bigbrother/uk2002/
+                               - usual suspects sweep the board again
+  http://samizdata.blogspot.com/?/2002_03_03_samizdata_archive.html#10429119
+                                       - same blogs, different planet
+
+         "I wonder if the average NTK reader thinks as highly of
+         .name as I do?", writes - well, somebody. Putting aside the
+         truth that there are no "average" readers, only less extreme
+         outliers, we certainly believe that they do. It is, after
+         all, a silly domain. Any single-issue TLD is going to get
+         trashed sooner or later, unless they're really careful with
+         the nominees. And so desperate are all the registrars to
+         make a buck, that just isn't going to happen. And, as if to
+         prove us right, the Hithertofore Nameless One continues:
+         "Well, I've registered a .name which I felt conveyed my
+         feelings. If anyone wants to share and have their own free
+         subdomain under bork.bork.bork.name, they can", says the
+         subscriber, who we'll call Judge Bork, "provided they a)
+         email hostmaster@bork.bork.bork.name with their nameserver
+         IP numbers and subdomain request and b) it's amusing
+         enough". So there you are. Pollute the namespace: It'll
+         annoy Esther Dyson, and make Vernor Vinge's "True Names"
+         look a bit silly (although we still believe Mr Vinge was
+         predicting IRC 'nicks', not the global DNS framework)._
+         http://www.almac.co.uk/chef/chef/chef.html
+                                  - the Instant Chef ... it's borken!
+         http://www.icannwatch.org/
+                                                 - still naming names
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         modern music all sounds the same, admits MINISTRY OF SOUND:
+       http://www.ministryofsound.com/radio/features/mix_template.asp
+         ... bad typo: http://www.ntk.net/2002/03/08/dohwop.gif ...
+         makes you wonder where they're going to "stick" the modem:
+         http://www.ntk.net/2002/03/08/dohblue.jpg ... case of missing
+         EUROs: http://www.ntk.net/2002/03/08/dohmoto.gif ... revving
+         nearly 1000 hits per day: http://www.suziperry.com/stats/ ...
+         crimes of the future: http://www.grandprix.com/ns/ns05861.html
+         ... book well in advance for gigs by TEST in the year 2099:
+         http://www.wayahead.com/dotmusicmaj/price.asp?code=65000 ...
+         "Long Lead Time Expected" for ever-popular EMPTY PACKAGING:
+     http://www.dabs.com/products/prod-info3-info.asp?&m=y&quicklinx=B6P
+         ... or display it to the whole Internet, whichever you prefer:
+     http://www.google.com/search?hl=en&q=%22please+delete+this+slide%22
+         ... true banners: http://www.ntk.net/2002/03/08/dohlies.gif
+         ... hugely reassuring choice of database engine from ORACLE:
+         http://www.ntk.net/2002/03/08/dohoracl.gif ... experience in
+      frickin' FLASH preferred: http://www.ntk.net/2002/03/08/dohcock.gif
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         At time of writing, there are 893 events that have declared
+         themselves part of NATIONAL SCIENCE WEEK (from today Fri 2002-
+         03-08, various venues around the UK), from "How To Find A
+         Water Vole" (The Ivel Valley Countryside Project, Biggleswade)
+         to "Every Tree Tells A Story" (Odell Country Park, Harrold,
+         Bedfordshire). The listings for rival digital arts festival
+         LOVEBYTES 2002 (from Thu 2002-03-14, various venues around
+         Sheffield) are, if anything, even more exciting, with a
+         performance by Robin "Scanner" Rimbaud, that Linklater
+         rotoscope movie, Star Wars parody films - and NTK's very own
+         DIY web-publishing workshop, currently scheduled for 6pm at
+         the Redundant Technology Initiative's "Access Space" HQ on Fri
+         2002-03-15. But we're not listed on the Lovebytes site at the
+         moment - 'cos we like to keep it underground, and don't want
+         to play that corporate game with the likes of Lego and Apple.
+         http://www.lovebytes.org.uk/2002/
+                                      - vs http://access.lowtech.org/
+         http://www.the-ba.net/the-ba/page.asp?selectPage=193
+                - no less than 3 science-oriented Mother's Day events
+     http://www.tate.org.uk/modern/programmes/webcasting/surveillance.htm
+       - sensors detect Duncan "Zircon" Campbell tomorrow at the Tate
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         You've read his blistering indictment of a world imprisoned
+         by universal surveillance - now buy the contacts manager to
+         rule it! Simson Garfinkel, author of dystopian non-fic
+         "Database Nation", exemplary risks journalist and ex-NeXT
+         hacker, is sneakily previewing the next incarnation of his
+         decade-old address book applet SBOOK - now up to version 5,
+         and ported via metempsychosis to the Mac OS X platform. It's
+         a sweet little program which looks innocently like one of
+         those freeform cardfile databases, but hides terrifying
+         "proprietary search techniques" and sinister "artificial
+         intelligence" to allow speedier monitoring of all your
+         victim's names and addresses. Have a file on everyone! Dial
+         their number using the internal modem! Send them blackmail
+         letters using the "print envelope" functionality!
+         http://www.sbook5.com/
+               - no relation to S Book 7, the teenage literary circle
+         http://www.simson.net/sbook/92.4.Winter.BarlowLavin.html#SBook
+                  - still think it should have been called DataFinkel
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         ELECTRONIC TAGGING of lager-swilling troublemakers begins at
+         last: http://www.ananova.com/yournews/story/sm_538560.html ...
+         MS unwittingly hothousing next generation of macro virus
+         writers: http://www.microsoft.com/uk/visualstudio/terrarium/
+         ... once you've popped one wireless network, you can't stop:
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1860000/1860241.stm
+         ... alternative explanation of how he got that "DIZZY"
+         nickname: http://www.monkeon.co.uk/gallery/html/1c.html ...
+         http://www.people.fas.harvard.edu/~dgreenf/lesson2.html ...
+         ... "it gets so lonely here in space", rambles ROCKET MAN:
+         http://www.spacedaily.com/news/oped-02b.html ... former BORG
+         DRONES reunited?: http://www.globe-guardian.com/borg.htm ...
+         scarier than http://web.mit.edu/aram/Public/godkills.jpg :
+       http://www.claancy.net/index.php?area=lunacy&showcat=Domo%20Kun
+         ... hmm, maybe "cocking Action Script" is somehow to blame:
+     http://www.macromedia.com/support/flash/ts/documents/crushinghead.htm
+        "Happy Valentine's Day from Potty Bear Goes Poopy": 
+         http://www.pottybear.com/ ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> and who'd have thought it'd be Winona Ryder whose career
+         hit the skids out of the cast of Ben Stiller Gen-X classic
+         REALITY BITES? (1.05am, Fri, BBC2)... Orson Welles double-bill
+         CITIZEN KANE (1.40pm, Sat, BBC2) and THE MAGNIFICENT AMBERSONS
+         (3.35pm, Sat, BBC2) collides with THE HINDENBURG (3pm, Sat,
+         ITV): http://www.theonion.com/onion3209/hindenbergguy.html ...
+         and a weekend of interesting but flawed movies continues with
+         Kevin Bacon worm battler TREMORS (11.25pm, Sat, BBC1); Gina
+         "Brass Eye" McKee London drama WONDERLAND (10.20pm, Sat, BBC2)
+         - apparently features a character who works in Micro Anvika on
+         Tottenham Court Road; Kevin Costner baseball bash BULL DURHAM
+         (12midnight, Sat, ITV); and Terry Gilliam's semi-bearded Robin
+         Williams fantasy THE FISHER KING (10.55pm, Sat, C5)... that
+         bloke out of "Coupling" joins Samantha "Game On" Janus in
+         spooky Buffy-spinoff-spoiler STRANGE (9pm, Sat, BBC1)... for
+         all you Paul Auster fans, SMOKE (12.45am, Sat, BBC2) is way
+         better than improvised "companion piece" BLUE IN THE FACE
+         (12.40am, Sun, BBC2), as hinted by the latter's casting of
+         Roseanne Barr and Madonna... and there's an impromptu tribute
+         to the late Charlotte Coleman in posh Brit self-stereotyping
+         exercise FOUR WEDDINGS AND A FUNERAL (10pm, Sun, C4) plus
+         asylum-seeker comedy BEAUTIFUL PEOPLE (12.30am, Mon, C4)... C4
+         marks science week by demonstrating key principles on a budget
+         of just UKP25 in UKP25=MC^2 (7.55pm, Mon-Thu, C4), presumably
+         as a bizarre protest against grant cuts for pure research...
+         after last week's "Disco" episode, the BBC bafflingly seems to
+         be remaking all of C4's "Top Ten" music shows with WHEN ROCK
+         RULED THE WORLD (10.35pm, Wed, BBC1)... so thank heavens you
+         can always rely on Channel 5, this week showing Bill Murray
+         golfing goof-off CADDYSHACK (9pm, Mon, C5), Kim "Sex And The
+         City" Cattrall chase-em-up BIG TROUBLE IN LITTLE CHINA (9pm,
+         Tue, C5), and parallel-reality Nazi thriller FATHERLAND (9pm,
+         Thu, C5), starring - who else? - Rutger Hauer...
+
+         FILM>> continuing the intriguing trend of US soldiers "just
+         happening" to find themselves in impossible situations then
+         having to bravely fight their way out, Mel Gibson discovers
+         further practical flaws in that "leave no (dead) man behind"
+         attitude in 'Nam-set "Black Hawk Down"-alike WE WERE SOLDIERS
+         ( http://www.screenit.com/movies/2002/we_were_soldiers.html :
+         people who are shot have blood squirt out and/or are bloody;
+         [Gibson] and others urinate on hot mortar equipment to cool it
+         off; we see a bad looking blister on one of the men's feet)...
+         while Anthony Hopkins ditches Stephen King's "Dark Tower"
+         continuity for a more conventional tale of smalltown coming-
+         of-age "Tomorrow People"-style telepathy in HEARTS IN ATLANTIS
+         ( http://www.capalert.com/capreports/heartsinatlantis.htm :
+         sneaking out of house by a child; sexual humor to a child; sin
+         of "filthy communication"; beating with a bat)...
+
+         DRESS DOWN FRIDAY>> we're as surprised as anyone, but PayPal
+         has caved to our thinly-veiled threats of NTK 2002-01-25, and
+         non-US citizens can now buy a http://www.ntkmart.com/ t-shirt
+         on their credit cards without having to sign up for a full
+         PayPal account. Prices are still in dollars (hey, it's good
+         practice for converting everything into Euros) - and thanks to
+         everyone who alerted us to http://www.paypalsucks.com/ and the
+         like, which appear to primarily document the claims of users
+         who naively allowed thousands of dollars to accumulate in
+         their PayPal accounts. Our tip: don't do that then... new this
+         month is the "404 /SHIRT/TIE: NOT FOUND" design submitted by
+         reader CAMILO MESIAS back in NTK 2001-12-07, and a (slightly)
+         less sexist variation of DAVID J BODYCOMBE's "Hi-Score Table"
+         idea http://www.geekstyle.co.uk/images/hiscoresf.gif which has
+         been kicking around since NTK 2001-08-24. Both receive at
+         least UKP2 per shirt sold (Bodycombe quite a bit more in fact
+         because he funded this new design from royalties from the
+         "Encoded" one which he co-designed and which will be back in
+         stock real soon now)... the latest runners-up include PAUL
+         COOPER's "IANAL" (prone to misinterpretation), JEREMY ARDLEY's
+         "b4 i gt my pHn / i cdnt evN Spll / DslXc Mrn / nw IR1" (a bit
+         harsh towards dyslexics, we felt), PAUL RANDALL's copyright-
+         infringing http://www.darkwave.org.uk/~gribbley/gauntlet.txt ,
+         and MATT "Yahoo Serious" JONES' proposed series of footballing
+         physicists: http://www.blackbeltjones.com/sagan_shirt.gif and
+         http://www.blackbeltjones.com/feynman_shirt.gif (we don't do
+         these kinds of shirts yet, but when we do)... though we were
+         quite tempted by JAMES SWIFT's currently embryonic suggestions
+         of http://www.geekstyle.co.uk/images/jamesswift1.gif and
+         http://www.geekstyle.co.uk/images/jamesswift2.gif - the second
+         might go quite nicely with a "Fly al-Qaeda" slogan if anyone
+         out there is any good at designing fake airline logos. And
+         we'd still like to see some parodies of the classic Designer's
+         Republic "look": http://www.thepeoplesbureau.com/ - rather
+         than, say, IAN STUART's elaborate spoofs of our current range:
+         http://vlucas2.ucs.ed.ac.uk/roverspotting.800x600x300.png ...
+         not much action at the moment in the parallel "Buy One,
+         Subvert The Mass Media, Get One Free" competition, as NTK's
+         own Dave Green continues to plough his own lonely digital-TV
+         furrow: http://www.geekstyle.co.uk/images/ , although ALASTAIR
+         ALEXANDER did spot someone in an "I Got 80million" shirt at a
+         recent London Fetish Fair, but was unable to supply evidence
+         as, kinkily, "cameras aren't allowed" - so we may never know
+         if its cheery orange schadenfreude now forms an essential part
+         of any modern gimp costume...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "superb", apparently
+         http://www.base58.com/booms/archives/2002_03_03_archive.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

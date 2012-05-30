@@ -1,0 +1,294 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____27/02/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+            "Microsoft doesn't have a drunken captain who ruined the
+                      environment. Microsoft doesn't kill people..."
+             - Pam Edstrom, Vice President of Microsoft's PR company
+         http://www.sjmercury.com/business/microsoft/docs/bash022398.htm
+                                     what's known as "positive spin"
+
+
+                               >> HARD NEWS <<
+                                soft wariness
+
+         Murdoch and BT's British Interactive Broadcasting announced
+         that their set-top boxes are going to be Internet
+         compatible, after all. Well, *that* should be easy to set
+         up in the short months before BIB's premiere. Especially
+         since BIB's boss said at the outset that legally, they
+         couldn't provide Internet access (contravened ITC
+         regulations, he said), and that BIB would actually compete
+         with the Net (numbers would "overtake the Internet" by this
+         time next year, he said). The decision to switch to an IP-
+         friendly format for the joint venture was, no doubt, made
+         easier by a) the threats of legal action from competitors
+         BDB if BIB *did* try and use their proprietary standard, b)
+         the rumoured paucity of content using that format, and c)
+         the increasing fragility of partner BT's interest in their
+         other co-venture, LINEONE.NET. Perhaps Murdoch can pursuade
+         BT to stay a bit longer in that deal if he ports the whole
+         of LineOne across to the set-top boxes?
+         http://www.opentv.com/Access/accessFrms/access3.html
+         - oh, yeah. This should work, no worries mate. Sweet as a nut.
+         http://www.bib.co.uk/
+                                 - Guys? Think you missed something.
+
+         Evil hackers broke into the offices of the DAILY MAIL on
+         Wednesday night, and replaced their science correspondent
+         with a babbling idiot. That's the explanation, claimed
+         self-appointed experts, for that paper's "Anarchist Code
+         Cracker Britons Hack Into Pentagon" front page story on
+         Thursday. The Mail reported a Pentagon source as saying the
+         attack was launched from a "secret convention of computer
+         hackers, probably in New York", in which "there was a
+         contingent from Britain". So secret that no-one in the
+         computer underground knew a thing about it (must have been
+         for the real elite). It's also an odd thing for the
+         Pentagon to be saying, when earlier military reports (like,
+         over two weeks ago) suggested that the hackers were
+         American and Dutch. One thing is for sure - these
+         statements by the Pentagon have nothing to do with its
+         current attempts to secure extra funding for an expanded
+         info-warfare division. Oh no.
+         http://www.ntk.net/hacks/
+         - maybe it was all those people trying to e-mail back to
+                                          mlewinsk@pagate.pa.osd.mil
+
+         When the Trading Standards Officers raided online shop, The
+         Oasis Superstore, on the suspicion that it sold bootleg
+         Gallagher merchandise, someone must have pointed out the
+         disclaimer. "Although ALL staff at THE-OASIS-SUPERSTORE are
+         permanently 'MAD-FOR-IT'," it admits, "the 'oasis-
+         superstore' is not connected in any capacity to Oasis."
+         Unfortunately for them, they *are* connected with Derek
+         Gorman, Oasisnews.com webmaster and scourge of Creation
+         Records' legal department. Young Derek escaped prosecution
+         last August by pointing out that his "pirated" sound
+         samples were freely available on Sony Music Brazil's site.
+         Now, it would be sniffy to suggest that Sony and Creation
+         went for the Superstore after it cheekily sponsored Derek's
+         site. And it would be equally ill-mannered to draw
+         comparisons when the Trading Standards boys had to give
+         back all the seized merchandise, and Sony was forced to
+         back down again. Well, someone's clearly mad about
+         *something*...
+         http://www.oasisinet.com/prstore.htm
+            - the official site's cheerful breaking of the bust news
+         http://www.oasisnews.com/oasis3.html
+                  - ...though strangely lacking the end of the story
+         http://www.the-oasis-superstore.com/
+                             - all my products right here, right now
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         NETNAMES sells >1,000 lame .tm domains in first week -
+         sign-ups include Esso, BT - and BP... BT launch "Mill-e-
+         mail" - free e-mail account to everyone in Britain. So how
+         many of these do we *need*?... "Many Could Bank Online, But
+         Don't" uncovers C|NET... GUARDIAN ONLINE plugs Kuji's new
+         security consultancy; claims he owned "a Commodore Omega
+         500"... failed "WAR MACHINES" cyber-helmet used Windows
+         3.1... LEMMINGS *don't* hurl themselves off cliffs, British
+         naturalists said Tuesday... WWW.GREENWICH2000.CO.UK uses
+         client-side clocks... CHEMICAL BROTHERS get Grammy
+         nomination for "Best Rock Instrumental"... JAVA NAVIGATOR
+         "on hold"... Net hackers cost UK businesses over one
+         billion pounds in 1997 alone, says KEVIN BLACK - manager of
+         "Internet Security Systems"... HATE Comic collaborates with
+         Alan Moore: goes on "permanent hiatus"... NETLY NEWS
+         collaborates with NTK; Netly News rumoured to close...
+         COMPUTER ACTIVE may be "worst magazine ever", contains
+         headline "Science Fiction Becomes Fact"...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         This one's a bit spurious, but there ain't nothing out
+         there but Titanic right now. Monday 2/3/98 is your last
+         chance to pre-book for UKCAC, the UK comic art convention.
+         This year, it's in Manchester (21/3/98 - 22/3/98), which
+         means that we may still be able to talk our geekier pals
+         out of going. A shame for them, because they'll be missing
+         visits from Alex "Marvels" Ross, Eddie "Bacchus" Campbell,
+         Alan Grant (promoting his new title "Shit The Dog"), Dave
+         Taylor etc. etc. Great for us, because we'll be able to
+         avoid the insanity that is the UKCAC Fancy Dress contest.
+         Original artwork for sale, a chance to purchase rare and
+         valuable comics, and a must for field anthropologists
+         looking for a project.
+         http://www.ukcac.digitalalba.com/
+                                       - so suddenly we're anti-geek
+
+
+                                >> TRACKING <<
+                             grep goodies ftp://*
+
+         Fortify, the patch that provides UK users of Netscape 4.04
+         with full-blown security (rather than the crippled, 40-bit
+         security that the American government forces on foreign
+         browser users), has been upgraded. You now get strong
+         S/MIME email encryption, and 1024 RSA keys. It's all
+         freeware, and the patch is only 350KB for the Windows
+         download. Not quite as short, mind, as this:
+         #!/usr/bin/perl -0777pi
+         s/(KEY-BITS:.*?\0)/($_=$1)=~s,[a-z], ,g;s,    $,true,gm;s,
+         512,2048,;$_/es;
+         which we're told, hacks the Unix 4.04 executable.
+         http://www.fortify.net/
+                                                     - play safe now
+
+         Quake II's "point release" is out. Somebody'll write in and
+         tell us point release means when you pressed the CDs for
+         the commercial version months ago, and you carry on sending
+         out patches hours after the point release went out. In the
+         meantime, though, we'll sit back and enjoy the bugfixes,
+         co-operative play for four players, and extra deathplay
+         maps. And, yes, we know you already found this out off
+         bluesnews, slashdot, news.com, and your nan. But think of
+         the poor lost ones, reader. The poor lost ones.
+         http://www.idsoftware.com/hot/index.html
+                           - and capture the flag for Quake II. Too.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         bad Mickey! - www.negia.net/~issachar/secret/mickey.html
+         ... DESIGNERS REPUBLIC sent a bomb... www.sex-on-a-
+         stick.com/ ... "Po stared at the long, thick, hard, green
+         furry rod that had emerged" - TELETUBBIES slash... he's
+         baaack: www.mediabiz.co.uk/team/people/nickr.html ...
+         looking for PURPLE 3s... www.webleyweb.com/tle/index.html
+         ... "The Collected .plans Of J Carmack" ... Millennium Dome
+         - designed by CHRIS MORRIS?... 192.246.40.37:27912 for
+         "Team iD" ... www.bushido-dojo.com/vdx/ ... Film Threat's
+         review of TITANIC? "Star Wars for chicks"... spammers with
+         weapons of mass destruction: http://www.strathuranium.com/
+         ... following last week's superhero outing, STAR FLEET
+         ACADEMY #17 introduces the homosexual side of Decker's pal
+         Yoshi... AUCKLAND shut down by power-cut: who will be next?
+
+
+                               >> GEEK MEDIA <<
+                    all screens are constantly refreshing
+
+         TV>> animated white trash-com KING OF THE HILL (10.30pm,
+         Fri, C4) is back, and so is Have I Got News For You, albeit
+         disguised as yet another interminably smug panel game
+         called IF I RULED THE WORLD (10pm, Fri, BBC2). But will
+         they have just a captain and guest per team, like Have I
+         Got, or try the 3-1-3 line-up of NEVER MIND THE BUZZCOCKS
+         (9.30pm, Fri, BBC2) etc - and so end up with 7 celebs who
+         can't get a word in edgeways?... POWER RANGERS CLASSICS
+         (8.25am, Sat, ITV) is an hour of "selected episodes from
+         the first series", in case you were wondering... did Tony
+         Hart deliberately borrow the theme from THE DEER HUNTER
+         (10pm, Sun, C4) to highlight the Russian Roulette-like
+         gamble of entering his Take Hart Gallery, with its sinister
+         disclaimer: "We cannot return your pictures - but there is
+         a prize for *all the ones we show*"?... Monday is wild
+         boffin night again, with a new run for cycling invention
+         historian Adam Hart-Davis in LOCAL HEROES (8pm, Mon,
+         BBC2)... plus the new, "funny" series of previously arty/
+         worthy tech show THE NET (11.15pm, Mon, BBC2) - in which
+         NTK staff advocate Betamax as "the new DVD"... annoyingly,
+         they then *didn't* ask us onto FOR THE LOVE OF (12mid, Mon,
+         C4) to discuss Diana Conspiracy Theories... Jodie Foster
+         isn't so multi-talented that she actually plays the child-
+         prodigy of the title in cool geek fable LITTLE MAN TATE
+         (10pm, Tue, C4)... but the heavy-handed presidential satire
+         of Tim Robbins - aka BOB ROBERTS (12.25am, Tue, C4) - is
+         way too smart for his own good. Or indeed anyone else's...
+         "Wellington invents a machine for catching ghosts" in new
+         adventures of THE WOMBLES (4.05pm, ITV, Wed) - oh, and
+         Alderney *isn't* a new Womble, as anyone who's read the
+         books would know... plus: Alien corpse found! It's all a
+         hoax! Mulder dead?! It's (yawn) another cliffhanger climax
+         to probably the penultimate season of THE X FILES (10pm,
+         Wed, BBC1)...
+
+         FILM>> another special double-bill week, first for fans of
+         Anthony Hopkins, as he grizzles through a script by David
+         "House Of Games" Mamet - with Alec Baldwin and Elle
+         Macpherson - in survivalist romp THE EDGE (imdb: thriller /
+         survival / wilderness / bear)... or as a courtroom battler
+         vs the historical inaccuracy and liberal self-flagellation
+         of Spielberg's free-the-slaves drama AMISTAD (MPAA: rated R
+         for "some scenes of strong brutal violence and some related
+         nudity")... the title doesn't seem to refer to the casting
+         of Michael Keaton and Andy Garcia (almost an honorary
+         Baldwin brother himself), but DESPERATE MEASURES (MPAA:
+         rated R for "violence and language") has an OK twist to its
+         Silence Of The Die Hards manhunt, and also references both
+         Star Trek: TNG and The Wrath Of Khan... which gives it a
+         small edge over this week's other terrifying glimpse
+         "inside the mind of a murderer", stylised New Zealand low-
+         budgeter THE UGLY (imdb: horror)
+
+         SKIENCE>> top title from this week's NATURE magazine:"A time-
+         resolved glimpse of the terahertz glory"... first they found
+         out how to make you laugh with an electrode in the brain - now
+         there's a test to measure your sense of humour: not "Do you
+         find Have I Got News for You funny?" but a 19-point
+         questionnaire assessing your "NEED FOR LEVITY" - considerable,
+         after filling it in, we should think... Skience Antinews:
+         "Multiple Factors Contribute To Death In Men And Women Over Age
+         65" reveals the JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION...
+         if NURBS and b-splines mean anything to you, visit
+         http://www.cs.jhu.edu/~subodh/research/software.html -
+         although, of course, subdivision surfaces are where it's really
+         at... a watched ELECTRON never interferes, as old uncle Erwin
+         used to say, and there's finally experimental proof; expect
+         quantum cryptography any day now... you knew there was a reason
+         for supercomputers, and "simulating the evolution of a large
+         fraction of the whole observable Universe" was probably it,
+         right? Top news is that it looks like the patterns on the
+         bottom of a sunlit swimming pool. So now you know...
+                                                   skience@spesh.com
+
+
+                               >> CORRIGENDA <<
+                             hubris, man, hubris
+
+         We rejigged the mailserver last week. Turned a four hour
+         wait into three-minutes turbonutter majordomo nukefest.
+         Along the way, we somehow lost about n^2 NTKs, so that's
+         why you didn't get it. E-mail <oops@ntk.net> with a blank
+         message to get your replacement copy, with our most abject,
+         pitiful apologies. Also, the URL should have been
+         http://american-computer.com/Transcap.htm , and Carl
+         Steadman's www.dianabear.com is down, and, yes, StrongARM
+         *is* going to be saved by Intel, so we got that wrong too.
+         We're sorry, we've learnt our lesson, and we're never going
+         to be horrible to anyone ever again. Promise.
+
+
+                              >> SMALL PRINT <<
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "read between the lines".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

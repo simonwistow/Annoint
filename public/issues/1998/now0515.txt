@@ -1,0 +1,294 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____15/05/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+           "Erotic fiction on the Web merits all the usual criticism
+            of writing on the Web -- there are tons of typos, and no
+                                         editorial hand whatsoever."
+                - JACK MURNIGHAN, editor of tasteful porn site NERVE
+           <http://www.wired.com/news/news/culture/story/12240.html>
+                               pls ekuse speling - editril hand buzy
+
+
+                               >> HARD NEWS <<
+                               turning to booze
+
+         Bill Gates may be able to turn his company around on a
+         dime, but only STEVE JOBS keeps his organisation swivelling
+         like a top. At the Apple Developer Conference this week, he
+         announced yet another graceful arc in corporate direction.
+         Gone is the "I had to run NeXT: now you will too" mantra
+         he'd been pitching to scared Mac developers for the last
+         year: Rhapsody is no longer a separate product, and the
+         previously fuddy-duddy MacOS is back, back, BACK! There are
+         some changes: Jobs, inimitably, has taken his frustration
+         out on low-level MacOS functionaries: around 2000 of the
+         Mac's 8000 API calls have been slaughtered. That's okay,
+         apparently, because no-one used them. And anyway, they
+         disagreed with him. Rumours that calls to the old addresses
+         will be secretly intercepted by NeXT managers hiding
+         underneath the hardware abstraction layer, are, we assured,
+         to be disbelieved.
+         http://www.apple.com/pr/library/1998/may/11strategy.html
+               - Well, doh! We were holding the roadmap upside-down!
+
+         "Sorry we're late: the government made us do it" is an
+         original excuse for MICROSOFT blowing shipping dates, but
+         in this case, it's the truth. In a last minute face-off,
+         Gates agreed to delay delivering Windows 98 to
+         manufacturers until the DOJ could decide whether they want
+         to sue his ass or not. Bill's generosity knows no bounds -
+         the new shipping date is Monday, giving the DOJ less than
+         72 hours to pull him in. Expect top government counsel to
+         hand in their badges and go undercover to nab the
+         international fugitive, who, as we speak, is planning to
+         blow up Seattle's Space Needle using an embedded-NT timebomb
+         and the wiles of his beautiful - yet deadly - assistant,
+         Myhrvold.
+         http://www.microsoft.com/
+         - putting the nervous back into "digital nervous system"
+
+         Remember when NORTEL announced the IP-down-the-power-lines
+         hack, and everyone racked their brains to work out the
+         killer flaw? Was it, perhaps, the isolation equipment you'd
+         have to install into every house that used it? Or the fibre
+         lines Nortel would have to spool out from each substation?
+         Well, here's a likely contender: Nick Long from the Low
+         Power Radio Association reports that streetlamps in the
+         Nortel trial region have been acting as highly efficient
+         antennae, merrily broadcasting packets across much of the
+         shortwave radio bands. Bad for radio hams, not brilliant for
+         personal privacy - but what a great solution for
+         multicasting Web events!
+         http://www.gcd.co.uk/comment.htm
+                          - see, we told you it was the new CB radio
+         http://www.lpra.org/
+                    - get IE4.0 to play "Daisy, Daisy" on your radio
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         LINEONE Beginner's Guide To Net links to wrong AltaVista...
+         Apple press ads offer Macs with 384MB RAM; boast it's
+         "enough to keep several applications open at the same time"
+         ... INTERNET WORLD UK Exhibitors' Page links to - wrong
+         AltaVista... alt.ph.uk-ers plan to call James Whale's
+         Talk Radio show all at the same time - don't bored BT
+         employees^H^H^H Britain's top hackers have better things to
+         do?... "cyber-conversation", "cyber-confessions", and
+         "cyber-sighs" all used in same dreadful cyber-WEEKEND
+         GUARDIAN cyber-article... NEW REPUBLIC publish *entirely* 
+         fictional hacking story - editor fails to notice... DAVE
+         WINER wants Microsoft to "take it up the butt"... MSN 
+         FRANCE vanishes - who next?... BRITISH COMPUTER SOCIETY'S
+         "Computer Driving Licence" displays date of issue- using 
+         just two digits... ACTIVISION license "Soldier of Fortune"
+         mag for games titles... Times' INTERFACE section dispenses
+         with services of editor Kathryn Bailey; new guy Alan Copps 
+         kicks off with up-to-the-minute review of Quake 2...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         There's some twitch in the old corpse yet! Gateway,
+         praisers-not-buryers of the AMIGA legacy, are planning a
+         big announcement at the World Of Amiga show in Hammersmith
+         today, and Amigans everywhere are buzzing with excitement.
+         Or is that just the flies? Whatever - icons on the rumours
+         Workbench vary from the release of version 3.5 of ye
+         anciente operating system, to the launch of sub-$500
+         PC/Amiga hybrid, to Gateway giving up altogether on the
+         hardware and telling everyone to scarper and buy third
+         party mods (like Phase 5's PowerPC co-processor add-on)
+         instead. Alas, our sources in the Amiga scene have all
+         dropped dead or gone mad, so we don't know. See you at
+         seven.
+         http://www.cu-amiga.co.uk/woa/index.html
+                                                     - Amiga! Amiga!
+         http://www.phase5.de/products/powerup2e.html
+                                                   - Andale, andale!
+
+         Thanks to everyone who's joined the slagging of Lynda
+         LaPlante's KILLER NET drama series (10pm, Tues, C4),
+         including many of those involved as "technical consultants"
+         on the show. We'll add them to the site soon - *and*
+         feature them in next week's NTK first anniversary "Right To
+         Reply" special, where we'll give people who feel they've
+         been "wronged" by us a chance to air their grievances, by
+         printing their objections and reactions in full, then
+         taking the piss out of them some more. Yes, this means you,
+         "Dr Keyboard".
+         http://www.ntk.net/killer/
+         - laplante.demon.co.uk is, sadly, just the production company
+
+
+                                >> TRACKING <<
+                        they've even got a shoe-shop!
+
+         Sure, from the description of Sonic Foundry's ACID
+         (shipping next week), you'd assume that it was one of those
+         fun but limited TechnoMaker CDROMs. But, based on the,
+         ahem, "beta" that we've seen, $400 buys you some very cool
+         time-stretching, auto-BPM calculating, etc. - essentially
+         casseroling *any* bunch of .WAV files into authentically
+         tasteful Norman Cook-ery. "This is going to be huge, I
+         could do so much with this," says David McCandless, bedroom
+         musician and winner of Q Online's Search For A Star
+         competition, hastily adding, "...if I had no musical
+         ability."
+         http://www.sonicfoundry.com/Acid/
+                - from the makers of popular warez title, SoundForge
+
+         ANARCHIST STUDIES, the revolutionary yet curiously academic
+         journal of potted Kropotkins everywhere, is climbing to the
+         top of the barricades and shouting, delirious with new-
+         found freedom: "OUR AUTUMN 1999 ISSUE WILL BE DEVOTED TO
+         EXPLORING THE RELATIONS BETWEEN ANARCHISM AND SCIENCE
+         FICTION! BROTHERS, SEND US YOUR 500 WORDS ABSTRACTS, NOT
+         LATER THAN 1ST JUNE!" A call to arms, or a call for papers?
+         E-mail john.moore@luton.ac.uk, or storm the following
+         location.
+         http://www.erica.demon.co.uk/AS602.html
+                             - Ursula LeGuin a popular choice, then?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         clothes with Sun Protection Factors... religions with
+         Millennium Bugs... Mr Media to retire - boo!...
+         http://www.icsi.berkeley.edu/~minenko/PalmVNC/ ...
+         www.ussubs.com's only interested buyer so far - a Mr
+         M Jackson... http://www.circle-r.com/ncz/noclowns.shtml ...
+         geek parlour games: "I'll name that software from its
+         version number", "I'll name that mobile service provider
+         from its area prefix"... DON'T DELETE THIS MESSAGE --
+         FOLDER INTERNAL DATA... the clue's in the password:
+         http://member:trailerpark@www.getjerry.com/area51/ ...
+         GODZILLA vs Tamagotchi vs your Shockwave Plugin -
+         http://www.jitterbug.com/gvt/gvt.shtml ... GATES movie! -
+         with Mike Myers!... Java Lava... Error 'o' the week
+         (Photoshop): "Could not save file because of pixels"... and
+         who'd win in a fight between this and CELEBRITY DEATHMATCH:
+         http://www.snoot.com/cgi-bin/wuss.cgi
+
+
+                               >> GEEK MEDIA <<
+                     screen and screen until you're sick
+
+         TV >> nutty sci-fi fun with Prisoner fans in LOST IN SPACE
+         (7.15pm, Fri, BBC2), followed by Contact-inspiring SETI-
+         heads in new docu series QUANTUM LEAPS (7.30pm, Fri,
+         BBC2)... Michael J Fox twists again in SPIN CITY (9.30pm,
+         Fri, C4)... plus, great-looking Ridley Scott nonsense in
+         Yakuza actioner BLACK RAIN (10.20pm, Fri, BBC1) - but
+         where's The Adam And Joe Show?... early-morning repeat of
+         RAIDERS OF THE LOST ARK (10.55am, Sat, BBC1) unlikely to
+         feature the line "Holy shit" when Indy spots the U-boat...
+         don't let your Swiss bodyguard fall asleep during THE
+         GODFATHER PART III (9pm, Sat, BBC2)... and C4's promising
+         "Lolita" theme-night is upsettingly interrupted by Joe
+         Dante's B-movie tribute MATINEE (10pm, Sat, C4) - starring,
+         in something of a trend for this week, Roseanne's John
+         Goodman... MYSTERY SCIENCE THEATRE 3000 (12midnight, Sat,
+         SciFi Channel) rips the limbs from 60's B(rit)-movie Devil
+         Doll... Sunday's John Goodman film is Ellen Barkin erotic
+         thriller SEA OF LOVE (10.25pm, Sun, BBC1)... Arizona-based
+         Brit-thriller WHITE OF THE EYE (11.30pm, Sun, BBC2) has
+         taken 12 years to reach TV screens - maybe the director
+         could have killed himself earlier... at last, it's the
+         free-climbing skyscraper repeat of THEY WHO DARE (7.15pm,
+         Mon, BBC2)... chug a beer every time you spot Robert "T2"
+         Patrick in the drinking game to liven up DIE HARD 2 (9pm,
+         Mon, ITV)... then you're ready for the surprisingly cogent
+         psychedelic sensory deprivation of ALTERED STATES (10.55pm,
+         Mon, C5)... more millennial panic-mongering in KNOCKING ON
+         DOOMSDAY'S DOOR (10.40pm, Tue, ITV)... no Bruce Willis in
+         this DAY OF THE JACKAL (11.15pm, Wed, BBC1), but - of
+         course - *more* John Goodman in EVERYBODY'S ALL AMERICAN
+         (12.15am, Wed, some ITV)... Planet Mirth's Ben Moor plays a
+         "fight-o-gram" in MEN BEHAVING BADLY (9.30pm, Thu, BBC1),
+         and guesting in mildly amusing Tom Hanks stand-up saga,
+         PUNCHLINE (9pm, Thu, C5), why - it's *John Goodman*...
+
+         MOVIES >> a good week for Bill Murray fans, first with
+         fantastically over-the-top Neve Campbell naughtiness WILD
+         THINGS (imdb: thriller / mystery / crime / police /
+         bisexual / sailing / mother-daughter / pool / drama /
+         erotica / drugs / alligator / high-school / florida /
+         school / sexual-harassment / teaching / sex / doublecross /
+         threesome / lesbian / lesbian-scene / twist-in-the-end /
+         murder / rape) - and, by the way, very little to do with
+         Tone Loc's 1980s rap hit of almost the same name... a
+         bigger role, but fewer laughs, for Bill in overcontrived
+         spy spoof THE MAN WHO KNEW TOO LITTLE (MPAA: rated PG for
+         "language, innuendo, comic violence and sensuality"), like
+         a comedy version of David Fincher's The Game... the touchy-
+         feely title gives a clue that it's the *emotional* impact
+         they're more interested in, in Tea Leoni's DEEP IMPACT
+         (imdb: thriller / sci-fi / action / apocalypse / drama /
+         disaster / meteor-threatens-earth)... Tim Roth denies
+         killing Jerry Maguire's Renee Zellweger in too-clever
+         polygraph puzzler LIAR (imdb: known in US as "Deceiver")...
+         and complex plot-strands meet wacky sex in Almodovar's LIVE
+         FLESH (imdb: drama / adultery / jealousy / birth / based-
+         on-novel / sex / bus / wheelchair / paraplegic / marital-
+         abuse / basketball) - apparently based on a novel by Ruth
+         Rendell...
+
+         MAGS >> putting the "dead" back into "dead tree publishing"
+         - seems everyone knows about DENNIS PUBLISHING selling
+         their business mags (most too boring to mention) to
+         somewhere in Surrey, especially since the editor of
+         COMPUTER TRADE SHOPPER went mad slagging the company off on
+         his (final?) credits page... also, doesn't look like
+         they'll be doing the official MINISTRY (Of Sound) mag much
+         longer either... ground-breaking retro-fetishising BEN IS
+         DEAD < www.benisdead.com > is, er, dead, though editor
+         Darby will apparently continue with her other zine,
+         Socially Fucking Retarded... from the ashes of misguided
+         "let's put it all on the net" project: OMNI renegades are
+         to start new Webzine ominously called EVENT HORIZON... and
+         is http://fitshaced.com/ the true heir to Jim Goad's hate-
+         fuelled ANSWER ME?... back over here, IPC's VOX is, at
+         last, silenced, following a failed US-style redesign.
+         "Somebody *stop* us," chirrups the final editorial,
+         unwittingly... also rumours that GOAL has been similarly
+         disallowed, just in time not to pick up any new readers
+         from all that exciting World Cup hoo-hah next month... and
+         (very) finally: Future's CULT TV seems to have run its last
+         Randall And Hopkirk Deceased episode guide - though
+         wouldn't it be ironic if a small minority audience suddenly
+         started re-appreciating it in 20 years' time?...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "the Treat of Versailles".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

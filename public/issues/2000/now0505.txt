@@ -1,0 +1,314 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-05-05_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Despite the worm attacking Microsoft's Outlook, the
+         software had no comment after several telephone calls."
+         http://www.zdnet.co.uk/news/2000/17/ns-15172.html
+         - ZDNET's RICHARD BARRY gets desperate for a lead
+                                   ...but it said that it *loved* me!
+
+
+                                >> HARD NEWS <<
+                                we love you too
+
+         And who do we love? We love the journalists who, despite
+         having the source of the ILOVEYOU virus repeatedly delivered
+         to them as an attachment, said that it "could steal your
+         bank details" (Channel 5) and that it affected Macintoshes
+         (BBC News Online), but not users of the "Lycos operating
+         system" (The Times). We loved NETWORK ASSOCIATES boast that
+         they "believed [it] to have originated in Manila" and "We
+         have the name of who we think it is, but we're not saying"
+         (amazing detective work, given that the handle and location
+         of the author is in the first line of the script). We loved
+         that one of the first propagators in the UK was McAfee's PR
+         company. We loved watching MoneyFacts send it to their
+         entire mailing list, then apologise using a cc: list of
+         their subscribers. We loved it when mail gateways led to it
+         being sent by fax and SMS. And we loved it when Microsoft
+         pretended that it had nothing to do with their lousy
+         security provision in Outlook and Windows Scripting . But
+         most of all, we love Mutt and Elm and even, sometimes, when
+         we are generous, we love Pine.
+         http://www.thepope.org/index.pl?node_id=140
+        - until the next buffer-overflow exploit comes along, that is
+         http://www.wired.com/news/technology/0,1282,36139,00.html
+         - "Spyder"? Could it be... Time Out's old Net correspondent?
+
+         Oh, and we also love Nick Palmer MP, who claimed on Channel
+         Four news that plans were already far advanced for a law
+         that would stop ILOVEYOU ever happening again. Yes, it's
+         that darn RIP bill, still struggling to find supporters in
+         the real world. Fun stuff crawling out of the woodwork this
+         week: the Sunday Times re-reported the news that, yes, law
+         enforcement were planning on sticking physical taps into
+         individual ISPs. On the North American Network Operators
+         Group list, the security admins of major ISPs continued the
+         slack-jawed amazement at the UK government's plans. "This
+         seems to be a good way to put all of the UK owned
+         ASP/ISP/NSPs out of business.  Then again, that may be what
+         the government wants", commented one dangerous subversive.
+         "Perhaps steganography tools will become more popular in the
+         UK", predicted another. "Hopefully everywhere!", added a
+         final net guy, "More bandwidth to sell!". You see? There's
+         always a silver lining.
+http://www.sunday-times.co.uk/news/pages/sti/2000/04/30/stinwenws01034.html
+                                             - all wires lead to GTAC
+http://www.publications.parliament.uk/pa/cm199900/cmbills/106/amend/00504a01.htm
+          - those amendments in full. and no, they don't fix it
+          http://www.ntk.net/2000/05/05/dohusgov.jpg
+                 - of course in the States, they encrypt *everything*
+
+         Paul Farrington, co-founder of the CEX, the Computer
+         Exchange in Tottenham Court Road, disappeared while
+         exploring an underwater wreck off the coast of Cornwall last
+         Tuesday. Anyone who has spent any time at CEX (and
+         especially those who spent the bulk of their teenage years
+         hanging out there) might have guessed that its inspiration
+         came from more than the usual flogging of dodgy second-hand
+         kit. The compulsory smoking rules, the bizarrely
+         knowledgeable staff, the eclectic (and tympanum-crunchingly
+         loud) musical choices: Judging from the messages of shock
+         and love we've heard, Paul was a great and unique part of
+         the CEX ambience. "He was a surrogate father to a generation
+         of geeks", said one correspondent. Charlie Brooker writes:
+
+           One of my enduring memories of Paul is the day I first met
+           him; I'd turned up for my first day at work in the
+           computer department of Music and Video Exchange in Notting
+           Hill, and walked in to find nobody there. I sat behind the
+           counter for about half an hour, not really knowing what to
+           do, and was about to leave when a tall, gangly man wearing
+           pink tights and a fucking *fez* stalked in, looked
+           confused for a while, and then asked me who I was and what
+           I was doing there. I really wasn't sure whether to run
+           away or not. I'm glad I didn't. Once you got used to the
+           fact he dressed like a maniac (and I particularly remember
+           an incredible haircut he once had which made him look like
+           a cross between Coolio and an exploding picnic basket), he
+           became an incredibly likeable, inventive, anarchic, and
+           weirdly trustworthy companion. I always looked up to him,
+           even when he convinced me to shave all my hair off apart
+           from one off-centre tuft, and I spent an entire month
+           watching strangers cross the street when they saw me
+           coming.
+
+           Probably the simplest thing I could say about him is this:
+           that he was easily the coolest person I've ever met, and
+           my head refuses to believe he's gone.
+
+         http://www2.cex.co.uk/gaming/cex_feature.asp?ct=1&id=1789
+                                                           - not fair
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         THE TIMES repeats decade-old rumour that Sony Playstation
+         can run Nintendo cartridges... METALLICA reveal "any part of
+         a computer can be used for good or bad" (except for 3D
+         accelerator cards, which are chaotic neutral)... New
+         Vice-Chancellor at Reading is BRIAN ALDISS: Kevin Warwick to
+         be replaced with more introspective, less robot-based
+         fiction ... http://www.freeforlife.co.uk/ not quite for
+         life, free: FALCO! ... MIRANDA SAWYER more exclusive than we
+         thought: http://www.ntk.net/2000/05/05/dohbol.jpg ...
+         CONNECTED - FALCO! ... E-BAY snags bargain Apache server:
+         http://www.ntk.net/2000/05/05/ebaydoh.jpg ... GUARDIAN
+         ONLINE inquires: "will Pokemon catch on?" ... NETSCAPE
+         Instant Messenger lets you talk to monkeys just like you:
+         http://www.hot-schmitt.co.uk/doh/chimpchat.jpg ... the
+         self-aware IRIDIUM network senses a problem:
+         http://tbtf.com/blog/doh/doh-iridium.gif ... SUN's people
+         try to get the hang of Linux, their own StarOffice software:
+         http://www.amazon.com/exec/obidos/tg/cm/browse-communities/-/210337/
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Hopefully the last time-limited imminent apocalypse for a
+         while, the CATASTROPHIC PLANETARY ALIGNMENT happening "on or
+         around" May 5, 2000 promises the usual earthquakes, floods,
+         climate change, tidal waves and, of course, demoralised
+         survivalists desperately trying to flog their left-over Y2K
+         stockpiles. Hey, even tinned foods have a longer "best
+         before" date than most prognostications of doom nowadays.
+         http://www.survivalcenter.com/echange.html
+                          - come back in a week for the real bargains
+         http://www.scala-london.co.uk/future/future_events.html
+              - oh, and Sigue Sigue Sputnik stalk the earth once more
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Metallica fans will be pleased by Scour's shamelessly
+         bandwagonning app, SCOUR EXCHANGE - a feature-for-feature
+         clone of Napster, only without all that tedious RIAA-led
+         stalking. Other minor positive deltas to Napster include an
+         open protocol, a basic Perl version for unixen, and the
+         capability to share images and movies. To be honest, it's
+         got that Excite/Lycossy feel of being
+         just-lower-than-the-bee's-knees. But we know it'd be popular
+         amongst our student readers, if only because it uses an
+         unbanned port. For now, anyway.
+         http://www.scour.com/Software/Scour_Exchange/
+                                                          - hi, Lars!
+         http://sixpak.cs.ucla.edu/psx/
+                            - grumble grumble needs ioctrl.ph grumble
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         NATHAN MYHRVOLD leaves Microsoft, in accordance with
+         prophecy: http://www.ntk.net/index.cgi?b=a99/now0604.txt&l=15#l ...
+         http://www.handanova.com/ vs http://www.lostminute.com/ ...
+         ... "will Jeeves suck my cock" (you know, we're beginning to
+         think Jeeves *is* gay - or at least very canny at getting
+         these extra hits) ... SCOUR EXCHANGE is to Napster what
+         www.raging.com is to GOOGLE ... "shoepath" ... apres
+         http:///www.hungersite.com/ comes http://www.therainforestsite.com/ 
+         ... The First $20 Million: the movie... Simulate the Iridium
+         burn-ups! http://timeline.aps.org/multimedia/satellites.html
+         ... prospective purchasers of boo.com give up after spending
+         45 minutes trying to find "buy" button... cracking sites
+         with style: http://dataloss.net/papers/how.defaced.apache.org.txt
+         bacteriophage-dance! http://www.phage.org/beg_phage_images.htm ...
+
+
+                                >> GEEK MEDIA <<
+                    the less rude http://www.tvgohome.com/ 
+
+         TV>> "Stubborn Mayor Ignores Warnings, Refuses To Cancel
+         Festivities" should be the Onion headline for Peter "End Of
+         Days" Hyams' daft but entertaining DNA-monster thrash THE
+         RELIC (9.30pm, Fri, BBC1)... Bill "Ghostbusters" Murray seems
+         condemned to play the same wisecracking cynic, a la GROUNDHOG
+         DAY (9pm, Fri, ITV), *over and over again* - but who's
+         complaining... and is David "Invisible Man" McCallum's
+         MOSQUITO SQUADRON (2.20pm, Sat, BBC2) yet another 1960s WW2
+         bombing movie ripped off by the Star Wars trench scene?...
+         Derek Jacobi stutters through rather over-worthy Alan Turing
+         bio BREAKING THE CODE (8.05pm, Sat, BBC2)... black-and-white
+         book-burning sci-fi FAHRENHEIT 451 (12.45am, Sat, BBC2)
+         features someone who's memorised a novel by original author
+         Ray Bradbury... and Wesley Snipes' straight-to-video
+         FUTURESPORT (9pm, Sun, C5) appears to be a evolved hybrid of
+         hockey, skateboarding, and Rollerball... RORY BREMNER does his
+         annual "look back on Labour's (n+1) years in government" (9pm,
+         Sun, C4)... "Don't confuse [Season 2's] X Chromosome Earth
+         with the Women's Earth seen in the [Season 1] episode The
+         Weaker Sex" warns an episode guide for SLIDERS (6pm, Thu,
+         BBC2) http://www.brillig.com/sliders/episodes/12.html ...
+         while Douglas Rushkoff and his New York/media buddies get
+         oddly excited over night-vision's green tinge in DIY
+         surveillance show SPY TV (11.50pm, Thu, C4)...
+
+         FILM>> we've waited a long time to say this, but Jim Carrey's
+         who-cares? guy-off-Taxi tortured-comedian biopic MAN ON THE
+         MOON (http://www.capalert.com/capreports/ : ethnic insults;
+         gender slander; trickery; excessive posterior exposure;
+         touching and talking about male privates by another male;
+         vulgar motions with a female; zen meditation and holistic
+         medicine for protection and healing) is, indeed, based on the
+         REM song of the same name. Plus, now she's played the same
+         sort of role in this *and* The People Vs Larry Flynt, count
+         yourself lucky that Milos Forman didn't have Courtney Love
+         marrying Mozart in "Amadeus"... "buy" recommendation of the
+         week goes to mildly depressing Glengarry Glenross day-traders
+         update BOILER ROOM (imdb: stocks)... particularly when it's up
+         against the worst crop of lame Brit movies for some time,
+         including Patsy Kensit temping atrocity JANICE BEARD: 45 WORDS
+         PER MINUTE (http://www.bbfc.co.uk/: Passed '15' for strong
+         language)... Chegwin & Forsyth kitsch-fest HOUSE (imdb:
+         independent-film / bingo / magic / rivalry / wales)... and/or
+         John Hannah, Brian Conley and Eddie Izzard, together *at last*
+         in CIRCUS (http://www.bbfc.co.uk/: Passed '18' for strong
+         violence with strong language and sex) - which could just be
+         this year's "The James Gang"...
+
+         DEAD TREE FEEBDACK>> following on from last month's magazine
+         roundup [NTK 2000-04-14], "Why no mention of the return of  
+         CRAZYNET?", inquires DANIEL THORNTON, "I just picked up the
+         second issue, and it's rather spiffing." We passed this    
+         compliment to gentleman ex-editor James Wallis, who modestly
+         observed: "You may notice my distinctive writing style attached
+         to several of the articles, not to mention several screenshots
+         of my distinctive desktop. This is because large parts of the 
+         new Crazynet #2 are parts of the old Crazynet #2, assembled by
+         me in October last year, only even more appallingly laid-out
+         and with even more typos and strange hyphenation added by the
+         French." Phew, James, as long as you're not bitter then, eh?
+         http://www.erstwhile.demon.co.uk/crazynetisdead.htm ... CONNOR
+         MCLAUGHLIN questioned NTK 2000-04-21's assertion that there
+         has never been "a UK internet magazine targetted at anorak-
+         wearing speccy geeks", citing Paragon's "crappy" INTERNET AND
+         COMMS TODAY from "about 4 years ago". "It was staffed by that
+         guy John Kennedy and his mate - Darren something," Connor
+         reminisces, with "articles by all of JK's local mates, like
+         Colin Turner who still unbelievably runs a BBS in Bangor,
+         NI"... but perhaps picking up that baton is another of the
+         clan, ANGUS "ROUGH GUIDE TO RECYCLING A BESTSELLER" KENNEDY,
+         who claims that his new MEN'S QUEST mag [again, NTK 2000-04-
+         21] is "basically the 'Time Out' of alt.binaries.*, with
+         jocular features from lovable award-winning internet luminary,
+         Dave Winer. This month Dave reveals cosplay, mail-order
+         husbands who can code all night and how Gnutella can get you
+         laid." Sadly, we assume (because still no sign of the mag in
+         any shops near us), he's kidding. You're kidding, Angus -
+         aren't you?... and finally, extending this section's brief to
+         include magazine *programmes*, DREW FROM PRINCESS PRODUCTIONS
+         (makers of 'dotcomedy') unfortunately mistook NTK for a
+         publication that gives a shit when he mailed to tell us off
+         for running last week's "How do I clear the theme from
+         Roobarb?" email from dotcomedy to http://tv.cream.org - now in
+         full at http://www.the-bullet.com/tv/content/rumours.html -
+         URL typo and all. "[This email is] not particularly for
+         publication," he begins, (well, nor, we imagine, was last
+         week's one - we would have replied personally, Drew, but we
+         figured any show that relies so heavily on mailed-in
+         attachments is probably a bit busy with its anti-virus
+         software around now). Drew says he's "a bit disappointed" over
+         the publication of the original email (clearly a world away
+         from, say, humiliating audience members by going through their
+         bookmark files on national television), because it's "made
+         someone feel really bad about doing their job". Oh, boo hoo
+         Drew - we didn't identify the sender, and frankly they got off
+         lightly. Just ask Kelly Brook...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+              "basically same as model TK but with a new die-cast
+                      casing and better sound insulation"
+               http://www.dotpoint.com/xnumber/facit_ntk_nlx.htm 
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

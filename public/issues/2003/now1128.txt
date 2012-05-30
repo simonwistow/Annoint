@@ -1,0 +1,266 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-11-28_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Either the meteors encountered the Earth at random, in which 
+         case there's no point in worrying. Or they strike at specific 
+         intervals, meaning the next one isn't due for another 186 
+         million years - so why worry!"
+www.tcpalm.com/tcp/the_news_editorials/article/0,1651,TCP_1033_2450153,00.html
+            ...not quite the reassuring conclusion we were hoping for
+
+
+                               >> HARD NEWS <<
+                              without any trews
+
+         This week, it seems, was the week when "real" drive-by hacking 
+         over WiFi made it to the mainstream. First, that peculiar 
+         report about a Toronto suspect brought in for downloading 
+         child pornography while wardriving one-handed the wrong way 
+         down a one-way street without his trousers on. Then, *at 
+         last*, somebody caught in credit-card liberation via wireless  
+         packet-sniffing at a Michigan home improvement store. And, 
+         finally, a loosely corroborated (by us, anyway) report of a 
+         drive-by spamming in California's neighbourly Santa Cruz. The 
+         slashdot securanoiacs, of course, are taking such reports as a 
+         demand to shut down all open access points and burn down the 
+         homes of anyone sharing their "insecure" connections. Sure, it 
+         may inconvenience everyone else - but it's the only language 
+         spamming pedophile trouserless wardrivers understand. Maybe 
+         the Santa Cruz operation showed a better way: at the cafe 
+         where the WiFi spammer was spotted, a veritable hue and cry 
+         was started, and the miscreant was run out of town by fellow 
+         laptop-wielding cafe-goers, "delighted" to finally encounter a 
+         spammer face-to-baseball-bat. Different times, different forms 
+         of online security: wardriving your devilry may make you 
+         fractionally-harder to locate on the wider Net. But it makes 
+         you a damn sight easier to find by your local lynch mob. 
+         http://yro.slashdot.org/article.pl?sid=03/11/22/1936213
+                                 - the darker side of "Accordion City" 
+         http://www.theregister.co.uk/content/69/34144.html 
+- on the other hand, maybe some networks should use a bit of security
+         
+         Other acts of cosmic justice and injustice: Debian gets its 
+         karmic come-uppance for that "apt-get install r00tkit" April 
+         Fool's joke, when a developer lost his password and the 
+         security update boxen (among others) is 0wned. The promethean 
+         Jamie Zawinski, still chained to his nightclub kiosks, has his 
+         AOL tormentors take another swipe at his liver. This time, 
+         they re-tool the "Netscape Navigator" trademark for a 
+         benighted desktop toolbar. Netscape 7.1 users, outraged, start 
+         a petition, confirming them as the OS/2 users of the new 
+         millennium. DRM's own Norse Loki-figure, Jon Johannssen, 
+         continues his trickery, this time writing an AAC cracker for 
+         iTunes users. Media reports, unused to the trickster god, 
+         confuse the funny title of his blog, "So sue me", as a lairy 
+         invitation to Steve Jobs. ID cards got a mention by the Queen, 
+         the only woman who won't have to carry one (unless she gets to 
+         use biometric stamps). Objectors might want to bring the 
+         proposal up in Tony Blair's new website, The Big Conversation. 
+         Big issues need a big conversation, he says. Judging from the 
+         site, it seems, they also need a huge bloody jpeg, as well as 
+         a rich array of database errors. 
+         http://www.livejournal.com/users/jwz/276786.html
+   - AOL have a whole department devoted to tormenting JWZ these days
+www.chiark.greenend.org.uk/pipermail/ukcrypto/2003-November/029981.html
+                                       - ID cards versus Vernor Vinge 
+         http://www.bigconversation.org.uk/
+          - perhaps you'd like to bring up ID cards with them (again) 
+         http://www.puttyworld.com/thinputdeffi.html
+                             - fake your own biometrics, the fun way!
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         trying to convince Bush he's actually visiting "Nev-amble-da": 
+         http://www.ntk.net/2003/11/28/dohnev.gif ... world's poor 
+         fancy a "pasty": http://www.ntk.net/2003/11/28/dohpasty.gif 
+         ... Glen's "Rhinestone Cowboy" track more autobiographical 
+         than you thought: http://www.ntk.net/2003/11/28/dohglen.gif 
+         ... Version 5.1 able to "Rewrite almost all source code and 
+         fix bugs": http://www.tucows.com/preview/209285.html ... FALCO 
+         http://2lmc.org/spool/ ... Engrish for the "all too curious 
+         intruder": http://www.travallo.de/laender/iceland/myvatn.html 
+         ... Blunkett aiming "to be the King Herod of Labour Party", 
+         taking children into care as "last resort" (if killing them 
+         doesn't work?): http://www.ntk.net/2003/11/28/dohherod.gif ... 
+         bargain!: http://www.ntk.net/2003/11/28/dohpercent.gif ... 'cos 
+         so many of you found something (intentionally?) amusing in the 
+         headline: http://www.ntk.net/2003/11/28/dohjacko.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         OK, so the US has Jason Kottke, Wil Wheaton and a load of 
+         lunatic libertarians you've never heard of - but who are the 
+         "A-list bloggers" of the UK? Tom Coates? That UKbloggers list? 
+         Andrew Ian Dodge? Hopefully some means of identifying said 
+         individuals will transpire at tomorrow's UK WEBLOGGER'S XMAS 
+         PARTY (evening of Sat 2003-11-29, "Downstairs at The Well", 
+         London EC1V, free from the looks of things) - where the topics 
+         of conversation, we are assured, will certainly not include 
+         "Who's won the Guardian Best British Blog Awards", but instead 
+         focus on far more important matters, such as the pitfalls of 
+         moving from Greymatter to MovableType, or the *zaniest* search 
+         engine referrals that everybody's getting nowadays.
+         http://www.funjunkie.co.uk/
+         - category winner, "Most unwieldy permalink format 2002/2003"
+         http://www.meish.org/archives/20031127_well.php
+             - bit sensitive about that whole "media co-opting" thing
+         http://www.buynothingday.co.uk/
+          - c'mon, surely buying (non-branded?) alcohol doesn't count
+ http://www.lonix.org.uk/cgi-bin/Lonix?CODE=searchMeeting&CURRENT=YES
+                      - Lonix Christmas dinner on Thu in the West End
+        http://www.proboscis.org.uk/urbantapestries/london_trial.html
+                      - book now for psychogeographic moblogging WiFi
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Since his retirement to an underground volcano hideout in
+         Switzerland, briliant ex-Autodesk founder JOHN WALKER is
+         rarely seen. Sunlight reaches him only when he throws his
+         enemies into the lava pits, and releases small but - in the
+         words of his arch-enemy Rudy Rucker - gnarly advice and
+         utilities. The pre-Atkins geek health regiment of choice,
+         the "Hacker Diet" was one. The latest is JAVASCRYPT: a set
+         of Javascript programs designed to do the fiddly work of a
+         home-brewed crypto conversation on whatever machine you need
+         it. Code book generation, AES encryption and (weird) textual
+         steganography are all implemented in downloadable,
+         browser-runnable applets. Being in Javascript, the code is
+         slow, but source-viewable and locally run, which gets it
+         double-points for the trad standards of trustworthiness. For
+         those of you who believe in it, Javascrypt's non-standard
+         formats also make it as securely obscure as you can get.
+         Then again, do you really trust a man *known* to be an evil
+         archcriminal mastermind?
+         http://www.fourmilab.ch/javascrypt/
+                    -  ah, but that's just what he wants you to think
+         http://www.4w8w.com/bookrucker4.html
+                                  - the full story of his evil genius
+         http://www.fourmilab.ch/javascrypt/example.html
+                    - and he has the cheek to use it as his book key!
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         not so much use for that "Diplomatic Reception Room" nowadays: 
+         http://story.news.yahoo.com/news?tmpl=story2&u=/031125/480/wx1 
+         ... at last - an automated-googlefight-mispellings-whack-bot: 
+        http://cgi.www.oview.co.uk/cgi-bin/www.oview.co.uk/bad_english.pl
+         ... Amazon's "Perfect Partner" suggests - US version of very
+         same book: http://www.ntk.net/2003/11/28/dohhornby.gif , yet 
+         acknowledges overclockers' struggle against "phonies" who just 
+         don't understand: http://www.ntk.net/2003/11/28/dohrye.gif ... 
+         one of these photo library search results is not (literally) 
+         like the others: http://www.ntk.net/2003/11/28/dohhorse.gif 
+         ... "Respect" for those smuggling you out of your UCI job after 
+         work: http://www.ucijobs.com/ ... obscenities asterisked out 
+         of http://www.fanta.dk/ captions include "shit", "fuck", 
+         "pepsi"... attention all Irish readers - hey, free Mars 
+         Delight!: http://panel.effem.com/surveys/en/mars_delight/ ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> director/producer Jacques Peretti saves a bit more on 
+         the wages bill by filming himself having a "fictionalised 
+         conversation" with Vincent Gallo about "48 People (Who Should 
+         Be Dead In Hollywood)" in THE ART SHOW (7.30pm, Fri, C4)... 
+         still, might make a break from second half of the (CD:UK-
+         inspired?) special hour-long ALL NEW TOP OF THE POPS (7pm, 
+         Fri, BBC1)... and WALNUT CREEK (11.30pm, Fri, C5) is an 
+         "erotic thriller" sadly not set at the popular distributor of 
+         freeware CD-ROMs... the launch sequence from "Thunderbirds" 
+         wasn't even shortlisted for C4's 100 GREATEST SEXY MOMENTS 
+         (9pm, Sat, C5)... Rachel Weisz helps wreck mildly intriguing 
+         Eastern front sniper shootout ENEMY AT THE GATES (10.30pm, 
+         Sat, BBC1)... but it's three films for the price of one in 
+         subtitled Mexican dog-fight spectacular AMORES PERROS (9pm, 
+         Sat, BBC4)... the movie schedules are largely dominated by 
+         enhanced superhumans in the form of SOLO (9pm, Sun, C5), 
+         UNIVERSAL SOLDIER 2 (9pm, Mon, C5), live action manga CRYING 
+         FREEMAN (10.05pm, Thu, C5), and timely critique of biometric 
+         identification protocols GATTACA (10.40pm, Mon, C4) ... though 
+         other highlights include wacky Clooney/ Coen brothers "comedy" 
+         O BROTHER, WHERE ART THOU? (10pm, Sun, C4), the ever-excellent 
+         neo-noir THE LAST SEDUCTION (11.15pm, Mon, BBC1), and the 
+         terrestrial debut of wildly underrated Arnie/"Usual Suspects" 
+         crossover THE END OF DAYS (10.30pm, Tue, ITV1)... also off 
+         digital at last is mildly hit-and-miss "Fast Show" successor 
+         LITTLE BRITAIN (10pm, Mon, BBC2)... BBC1 profiles "Memento"-
+         style anterograde amnesics in LIVING WITHOUT A MEMORY (9pm, 
+         Tue, BBC1) and Christian entertainers - including Pamela 
+         Anderson - in THE HAND OF GOD (10.35pm, Tue, BBC1)... as The 
+         Money Programme takes a swig of SUNNY DELIGHT - A JUICY TALE 
+         (7.30pm, Wed, BBC2)... and Alvin Hall mysteriously overlooks 
+         Larry Ellison for a Gates vs Jobs face-off in the final of THE 
+         WORLD'S MOST POWERFUL COMPUTER MOGUL (9.50pm, Thu, BBC2) - our 
+         tip: don't bet on the Mac guy...
+         
+         FILM>> apart from a couple of scenes that look like an "act 
+         like you're on drugs" drama student improv class, Darren 
+         "Requiem For A Dream" Aronofsky directing an episode of "Dick 
+         And Dom In Da Bungalow" - with Fearne Cotton as Brittany 
+         Murphy! - is the overall impression you're left with after 
+         attention-deficit-tastic meth-fuelled white-trash mayhem SPUN 
+         ( http://www.cndb.com/movie.html?title=Spun+(2002) : Why do 
+         they edit [Chloe Hunter's] pubes in the R rated version, but 
+         not John [Leguizamo]'s when he is wearing only the sock?)... 
+         "Star Trek - but on a boat" is the general verdict on Russell 
+         Crowe's big-budget "Hornblower" remake MASTER AND COMMANDER 
+         ( http://www.capalert.com/capreports/master-commander.htm : 
+         intense battle violence, frequent; surgical amputation of a 
+         child's right arm; peril at sea)... you assume you're watching 
+         one of those trendy ads for FilmFour or NatWest or something, 
+         then it turns out to be a trailer for gritty Oirish drama 
+         INTERMISSION ( http://www.bbfc.co.uk/ : Contains very strong 
+         language and violence)... and rounding off this week's batch 
+         of somewhat limited releases is Neil LaBute's stagey-looking 
+         dodgy-American-accent play adaptation THE SHAPE OF THINGS 
+       ( http://www.screenit.com/movies/2003/the_shape_of_things.html :
+         [Rachel Weisz] gives "the finger" to the camera; [Rachel 
+         Weisz] wears a midriff-revealing top)... 
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "endorsed by the pope"
+         http://wiredblogs.tripod.com/sterling/index.blog?entry_id=151454
+       
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

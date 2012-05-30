@@ -1,0 +1,297 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____05/06/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+            "There's really not much in the way of news here. People
+           point out security issues with the product all the time."
+                                     - NT product manager KEVIN KEAN
+              on the phone, in the pub, from my own admin account...
+
+
+                               >> HARD NEWS <<
+                                in garish hues
+
+         No news at all this week. Well, we presume there wasn't -
+         every time we tried to find out, our e-mails got sucked
+         into the anti-spamming Black Hole that descended onto PIPEX
+         users over the weekend. Paul Vixies' ruthlessly efficient
+         Mail Abuse Protection System meant that a sizeable chunk of
+         Pipex's outgoing mail and a few slivers of incoming were
+         forwarded to /dev/null until the sysadmins promised to be
+         good. Like they did last time Pipex got blacklisted.
+         http://www.vix.com/
+                           - like an author of "cron" is going to forget
+
+         Any remaining news, we suspect, was destroyed in collision
+         with the purest anti-news made by VIRGIN NET on Tuesday.
+         Whispers over the weekend intimated that the ISP was going
+         to announce an entirely free dial-up service that was going
+         to "revolutionize the UK Internet industry". Well, up to a
+         point. Virgin Net, is indeed, waiving their twelve quid a
+         month charge - if you have account with partner Citibank.
+         And have two grand in it. And have an income of over thirty
+         thousand a year. And they're only waiving it for 12 months
+         (of which three months would have been free anyway). So
+         that's revolutionary in the sense of redefining "free", then.
+         http://www.virgin.net/
+             - we're only running this because everyone said we wouldn't
+
+         ICE-style security software that comes back down the phone
+         line to attack hackers' computers? Just how closely did the
+         LA Times, CNN, and New Scientist question the FUTUREVISION
+         GROUP about their supposedly quantum-based "self-healing"
+         Lightning Server? Well, it "debuts" at next week's TechNet
+         '98 show in Washington - hey, maybe it really is a genuine
+         breakthrough cleverly disguised by an appalling website
+         (you naturally assume it's an art student prank) plus
+         impenetrable journo-frightening jargon ("Using the UGEM
+         generalization of Godel's Incompleteness Theorem, precisely
+         partition any continuous NP-Complete problem into
+         decideable [sic] and undecidable components" - yeah,
+         *right*). Oh, and we know this was on slashdot a while
+         back, but they gave it quite an easy ride, with comments
+         like (paraphrase): "Hmm, a revolutionary new non-local
+         computing paradigm and security implementation? Well it
+         won't affect me, I run Linux..."
+         http://www.newscientist.com/ns/980530/nhackback.html
+                      - and they fell for the Nortel story too! Chortle!
+         http://www.fvg.com/PublicHtml/UGEM-C.HTM
+                                           - sexy brochure pictures, too
+         http://www.afcea.com/TECHNET98/
+                  - from the (scary) folks who also brought you milcom98
+
+
+                             >> MORE ANTI-NEWS <<
+                             berating the obvious
+
+         DEJANEWS beta-tests it all - www.ntk.net/doh/deja980605.gif
+         ... WIRED strapline: "The New Economy" (again)... "Videos
+         good for children" - says DISNEY... TELETUBBIES outselling
+         Godzilla merchandise 3-1... open government site features
+         BT banner ads - http://www.open.gov.uk/index/orgindex.htm
+         ... Times INTERFACE runs article on "the Lara Croft
+         phenomenon"... NEGROPONTE's column still e-mailed to
+         "lr@wired.com" - does he have to forward it every month?...
+         POURNELLE estimates Byte column would cost $500,000 to fund
+         independently; $1,000,000 ensures he'll never write it
+         again - http://home.earthlink.net/~jerryp/fiasco.html ...
+         applicants may "attribute desirable characteristics or deny
+         undesirable ones" during interviews, scientists reveal...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Can one play Gran Turismo and still party on down at
+         London's RECLAIM THE STREETS on Sat 6/6/98? Well, yes - as
+         long as you don't ask for a lift home afterwards. Dancing,
+         singing, brightly coloured banner-waving and other forms of
+         anti-democratic aggravated trespass will be conducted, in
+         an attempt to persuade motorists that air-conditioning
+         isn't an optional extra for everyone else. Meet in front of
+         the Ritzy, Brixton or Euston Station at noon, and follow
+         the instructions of your decentralised anarchist leaders.
+         http://www.hrc.wmin.ac.uk/campaigns/RTS/local.htm
+                                       - say you prefer "Street Fighter"
+
+
+                                >> TRACKING <<
+                             head up! load down!
+
+         Remember when you first ran a retro-gaming emulator? Meta-
+         nostalgics have a chance to re-re-live that moment, with
+         the 0.1 release of MESS, which is kind of the Exidy
+         Sorcerer to MAME's Pong, or something. Perhaps a better
+         description would be a NES, Sega Genesis (nee MegaDrive),
+         TRS-80, Colour Genie, and Colecovision emulator for Mac,
+         DOS and (retro upon retro) ARM processors. Freenix versions
+         are promised soon. The MESS license explicitly prevents
+         distribution of ROM images with the emulator, cough, cough,
+         so you'll have to dig those out for yourself. Although you
+         will go to Hell if you do. You know that, don't you?
+         http://internetter.com/titan/mess/
+                - if only Ally McBeal had shown the TRS-80 Dancing Demon
+         http://members.tripod.com/~piters/zx.htm
+                   - Ironic inversion: Speccy users get an IDE interface
+
+         Mmmm, text files. For the million or so Web years that
+         we've been hitting the Internet Movie Database (from back
+         when everyone used to call it the Cardiff Movie Database,
+         and you could legitimately kill them for their ignorance),
+         we never realised you could download the *whole database*
+         in plaintext for local searching. And as well as interfaces
+         for Unix, OS/2, DOS and Amiga (spot the missing platform),
+         there's now a Newton book version, for the too-sexy-for-
+         your-Psion brigade. So Barry Norman can bog off to Sky now.
+         See if we care.
+         http://uk.imdb.com/interfaces
+         - with UGEM, you could use this to predict future films...
+         http://www.magma.ca/~sheppard/IMDb/
+         - "I'll look that up in my - oh have I not shown you this?"
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         the Brian Hook/Alan St John mudfight... ONION back on form:
+         http://www.theonion.com/onion3321/windows98.html ...
+         DAIKATANA "boring"... DEER HUNTER RSAC rating - "Violence:
+         3 out of 4. Rewards injuring non-threating animals"...
+         Pnickies! ... CARBON for Intel... "Your computer's so slow"
+         jokes... DIY H-Bombs using staged Z-pinch... American filth
+         exposed at http://lemur.ecs.soton.ac.uk/VisibleMars ... do
+         Spice Girls tribute acts now have to fire all their
+         "Gingers"? Not the Thai transsexual version, SPICE GAYS...
+         Tom Hanks in - THE APPLE STORY... funny SUN fart humour at
+         http://cnn.com/TECH/space/9806/04/kamikaze.comets/ ...which
+         Brit games PR company "guarantees" at least 70% review
+         scores? (and don't most get 90%+ automatically?)... SOUTH
+         PARK remix MP3s... VIC REEVES for next Doctor Who...
+
+
+                               >> GEEK MEDIA <<
+                           fluoresce with the best
+
+         TV>> Friday still a science/sci-fi minefield, with X-Philes
+         fan profile LOST IN SPACE (7.15pm, Fri, BBC2), car ad
+         spokesman Steve Jones ecstatic about evolution in QUANTUM
+         LEAPS (7.30pm, Fri, BBC2), and the interminably ponderous
+         INVASION: EARTH (9.30pm, Fri, BBC1) - so why not make it a
+         "Darwin Awards" theme night with THE WORLD'S DUMBEST
+         DRIVERS (9pm, Fri, ITV)?... hosting a singles party in his
+         flat, it sounds like a good episode of FRASIER, too (10pm,
+         Fri, C4)... THE SCI-FI FILES (8pm, Sat, C4) looks at
+         "Spaceships And Aliens" - which go together like
+         international co-productions and earth-shattering
+         boredom... then spice up your life with David Lynch's
+         great-looking star-studded DUNE (9pm, Sat, C4) - in many
+         ways (eg, the "weirding modules") actually *nuttier than
+         the book*... else it's Sam Peckinpah's classic ultraviolent
+         Nam-metaphor Western THE WILD BUNCH (9pm, Sat, BBC2)...
+         satellite schedules collide with two early '80s shockers:
+         Doug Trumbull's BRAINSTORM (11.45pm, Sat, TNT) and
+         Cronenberg's VIDEODROME (12.55am, Sat, UK Gold)... Paul
+         Newman barely represses chain-gang lust in COOL HAND LUKE
+         (2.30pm, Sun, BBC2)... and those Victorian antipodean
+         ladies *love* it when you steal their musical instruments,
+         and will then show you their underwear, implies THE PIANO
+         (10pm, Sun, C4)... with this week's white-water
+         bodysurfing, THEY WHO DARE (7.15pm, Mon, BBC2) is still the
+         scariest 15 minutes around... the most terminal thing about
+         TERMINAL VELOCITY (9pm, Mon, ITV) was Charlie Sheen's
+         career... and the erratically entertaining STRESSED ERIC
+         (10pm, Mon, BBC2) finally keels over at last...  offsetting
+         that whole Computers Don't Bite nonsense comes drama-docu
+         DISASTER: THE MILLENIUM TIME BOMB (6.50pm, Tue, BBC2)...
+         Chris Morris pops up in repeated I'M ALAN PARTRIDGE (10pm,
+         Tue, BBC2)... and gorgeous futuristic cannibal delights in
+         DELICATESSEN (10.55pm, Tue, C4) - as recommended by Firefly
+         if you say you like Terry Gilliam's Brazil... ah, NASA may
+         well be able to deal with an asteroid on collision course
+         with Earth, but what if there was also an *alien monster*
+         that dwelled WITHIN THE ROCK (9.45pm, Wed, C5)?... and
+         rounding off the week, a coupla "Oirish" filums, to be
+         sure: CIRCLE OF FRIENDS (9pm, Thu, C4) with Minnie Driver
+         and Chris O'Donnell, followed by THE FIELD (10.55pm, Thu,
+         C4) - and also mostly starring Brits and Americans...
+
+         FILM>> it's half-price "National Cinema Day" this Sunday
+         with (for once) at least a couple of things worth seeing -
+         and we don't mean previews of MIMIC or CITY OF ANGELS...
+         disbelieve the lame trailer for cracking 1980s karaoke
+         romance THE WEDDING SINGER (imdb: "Anachronisms - At
+         Robbie's nephew's house, some pieces of LEGO are visible.
+         The red bottom half arch (like from model 6099) was not
+         produced until after 1985")... like John Woo before him,
+         Chow Yun-Fat makes a fun-but-flawed attempt to go Hollywood
+         as one of THE REPLACEMENT KILLERS (imdb: action / thriller
+         / murder / police) - and, disappointingly, he's not trying
+         to kill '80s US post-punkers, The Replacements... in the
+         race to create the ultimate "fruit corner" yoghurt, Richard
+         "The Gerbil" Gere goes on implausible trial in anti-Chinese
+         nonsense RED CORNER (imdb: thriller / crime / drama /
+         cultural-revolution / torture / murder / assassination-
+         attempt / bamboo / pond / corruption / pipa / law /
+         courtroom / human-rights / courage / china / separation-of-
+         powers / frame-up / television-industry / prison / embassy
+         / political / controversial)... seriously, could *you* sit
+         through Patrick Stewart's performance in Brit crime caper
+         DAD SAVAGE (imdb: thriller) without yelling "HOLODECK
+         MALFUNCTION!!!"?... an equally small-scale release for
+         bizarro Gen-X saga NOWHERE (imdb: drama / apocalypse / rape
+         / alien-abduction / gay / idol / drugs / satire / youth)...
+         though in fact we'd plump for similarly grungey Kids-style
+         drama HURRICANE STREETS (MPAA rated: R for "language,
+         violence and drug use involving teens") - and that's
+         *despite* the fact that NOWHERE's got Traci Lords, Shannon
+         Doherty and (possibly) Christina Applegate being vapourised
+         by a UFO...
+
+         CONFECTIONS>> [With two guest reviewers - first, TV's BEN
+         MOOR, on "lollies":] WALLS have attacked the summer thirst
+         with a new logo that looks like the symbol of a bizarre
+         Christian cult or something. Or a political party. Or,
+         side-on, simply an ear. But the proof of the lolly is in
+         the licking and, boy, they lick good this year... SURFER's
+         bubblegum and vanilla flavour has to be the taste of the
+         season, with fab colours - the extreme blue and white
+         ripple is sensational - and two bonus candy chews on top.
+         The wrapper calls them 'hand' and 'foot' but to me they
+         looked more like a useless surfer separated from his board.
+         I, like Jaws, ate them, with my jaws, and was happy... the
+         crazy and triangular TRICKY LICKY has four fruit flavours
+         and tastes like all the MR MEN lollies in one... the
+         fruits-of-the-forest stripe through the new MAGNUM EGO is
+         promising, but then they stuck what look like roasted
+         rabbit droppings on it (and what happened to the Dirty
+         Harry-style TV ads?)... CALIPPO SHOTS try to be the new way
+         to enjoy frozen ice, but *I can't find them anywhere*...
+         and how long will it be before we get alco-ice-pops? A
+         summer? Two? Till then, TONY'S FREEZER COCKTAILS with the
+         phoney US sitcom commercials are pretty good. I had a
+         margarita at Christmas and it was a little taste of
+         summer... [Thanks Ben. Now over to NTK staffer LEE MAGUIRE,
+         at the "sweets" desk:] CADBURY has a new white choc/milk
+         choc bar out: MARBLE. Is summer really the best time to
+         lauch new chocs? Mine was just a gooey mess - or maybe it's
+         supposed to be... the packaging of POLO SUPER MINT suggests
+         that yes, this is one huge hotel-soap-sized Polo. But
+         really it's just a plastic container for about 50 tiny tiny
+         ones. I wanted to indulge my "Honey I Shrunk The Kids"
+         fantasies, yet was stuck with "Honey I Blew Up The Baby"...
+         and finally from the Cads: a thin finger of choc-covered
+         krispy cereal/caramel called NOBBLE (ho ho ho). Packaging
+         reads: "Nobble makes Nobble bars to 'Nobble your hunger'.
+         He works so hard that no one in Cadbury Land has ever
+         caught more than a glimpse of him. You've seen his friends
+         like Chomp, Fudge and Curly Wurly; what do you think Nobble
+         looks like? Send your drawings to:" Lee and Herring
+         perhaps?...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+   It is registered at the Post Office as "independent ... and unemployed"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

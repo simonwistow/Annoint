@@ -1,0 +1,142 @@
+ __  __ _2001-12-28   _ _____ _  __
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! mail an empty message to
+| |\/| | | '_ \| |  \| | | | | ' /     o ntknow-subscribe@lists.ntk.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+                  "If you publish next Friday you need help."
+                   - MARC INGRAM, personal correspondence, 2001-12-21
+
+                                >> YEAR END COMPO <<
+                          going out with style sheets
+
+         How very right you are, Mr Ingram. Given our failed
+         Newtonmas taunting of The Register by a public-school style
+         "detagging": http://www.theregister.co.uk/content/31/23511.html ,
+         the abandoned midair destruction of Perl eurohacker Leon Brocard:
+         http://use.perl.org/journal.pl?op=display&uid=189&id=1787
+         and recent misspellings of both Kieren McCarthy *and* Dmitry
+         Sklyarov in dispatches, we could do with a break. We'll be
+         back from the retraining exercise at Minas Morgul on
+         2002-01-11.
+
+         Meanwhile, we do indeed "need help". Acting from orders from
+         readers who believe non-proportional fonts to be Ye Devile's
+         Scrawl, we've revamped the NTK frontpage. It still appears
+         exactly the same (of course!), but a closer look at the HTML
+         will show that we've now parsed the newsletter more tightly,
+         and slung some SPAN tags into the mix. Now all it needs to
+         be turned into something that even a designer could love is
+         a slinky CSS stylesheet. Which brings us to our problem:
+
+         One of Santa's naughty pixies sneaked into our brains over
+         Christmas and made us too lazy and untalented to write
+         decent CSS2. The best we could do is this near-monstrosity:
+         http://www.ntk.net/index.cgi?style=http://www.ntk.net/ntk.css
+         ... which sucks, but gives you the general idea. Change that
+         "style" parameter to any URI, and you'll see NTK through
+         your own CSS choices. Send your homegrown CSS2 stylesheet to
+         us, and you could see your code garland the official "fancy"
+         alternative NTK Webpage. Also, you'll get an NTK shirt of
+         some kind. Prizes will be awarded for best real stylesheet
+         that we can use, and funniest alternative. Code has to look
+         good on Mozilla, Opera, and IE6, no prizes for cross-site
+         script hacking, you naughty monkeys. If you need extra tags,
+         let us know and we'll see what we can do. Not much, we fear.
+         http://news.bbc.co.uk/hi/english/uk/newsid_1730000/1730523.stm
+                       - doomed even when we roped in Craig from Big Brother
+         http://www.webstandards.org/
+- we're the kiss of death to the Web Standards Project though, thank god
+
+         [ Just to reassure all those scared-stiff correspondents: 
+		   we're not planning to switch from Courier. The stylesheet 
+		   stuff will remain a heavily-concealed option. We're flexible,
+		   but we're not Zeldman-level *crazies*.                       ]  
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> it's the battle of the inadvertent Elite t-shirt product
+         placements, with reader Alex "nuttyxander.com" Ingram and
+         NTK's own "Dave Green" predicting appearances on the redhead
+         bit of today's ROYAL INSTITUTION CHRISTMAS LECTURES (12noon,
+         Fri; 4am, Thu, C4), and the BBC's BUSINESS BREAKFAST (from
+         6am, Sat?, BBC2) respectively... Tamzin "Eastenders" Outhwaite
+         plays a no-nonsense army sysadmin hunting down a cabal of
+         renegade Debian users in RED CAP (9pm, Fri, BBC1)... and
+         "Despite Warnings, Stubborn Mayor Refuses To Cancel Local
+         Festivities" once again in JAWS (10.55pm, Fri, BBC1) - last
+         shown Nov 2000... yes, THE ENGLISH PATIENT (9pm, Sat, BBC2)
+         has more nudity, but "The Terminator" is a "more satisfying
+         love story": http://www.sweetbomb.com/cameron/love.htm ...
+         given the title, THE 100 GREATEST TV TREATS OF THE YEAR
+         (9.15pm, Sat, C4) seem unlikely to include 2001's most heavily
+         repeated footage of planes crashing into buildings... and
+         who'd have thought it, but Mark Kermode is a fan of cult Brit
+         handicrafts horror THE WICKER MAN (12.20am, Sat; 11.40pm, Mon,
+         C4)... THE BRADY BUNCH MOVIE (7.35pm, Sun, BBC2) isn't that
+         great, but still an improvement over similar high-concept
+         conformo-parables THE TRUMAN SHOW (9pm, Sun, BBC1) and
+         PLEASANTVILLE (10pm, Mon, BBC2)... young Superman Roswell-
+         alike SMALLVILLE (4.45pm, Mon, C4) *is* broadly consistent
+         with the new non-Superboy DC continuity ... SHAKESPEARE IN
+         LOVE (9.30pm, Tue, BBC1) is handily balanced by a look at the
+         making of 1982's "The Number Of The Beast" album in ROCK
+         CLASSICS: IRON MAIDEN (11.45pm, Tue, C5)... as a patchy
+         selection of horror and sci-fi sees you into the New Year, in
+         the form of post-modern "Scream" prequel WES CRAVEN'S NEW
+         NIGHTMARE (12.05am, Wed, C4), dire comic-book comedy MEN IN
+         BLACK (8pm, Thu, BBC1), above-average SNL-spinoff CONEHEADS
+         (12.35am, Thu, BBC1), and Cronenberg's atypically entertaining
+         SCANNERS (12.15am, Thu, C4)...
+
+         FILM>> not much new at the cinema so, as ever, we've tried to
+         assemble a "Best Of 2001" list consisting of films which
+         preferably don't appear on anyone else's "Best Of" lists or,
+         where possible, appear on their "Worst Of" lists instead.
+         ("Shrek" eventually won out over "Final Fantasy: The Spirits
+         Within", though, for being more convincingly animated.) And
+         the winners are: 10. SHREK, 9. STARTUP.COM, 8. DRIVEN, 7. A
+         KNIGHT'S TALE, 6. BEST IN SHOW, 5. THE DISH, 4. ZOOLANDER, 3.
+         ALMOST FAMOUS, and 2. SWORDFISH, making NTK's no.1 Film Of The
+         Year Tom Green's rawly personal "transgressive masterpiece"
+         FREDDY GOT FINGERED. History - and the video release - will
+         prove us right... which means our "Worst Of" list can focus on
+         ones that everyone else claimed were really good, or that were
+         just wildly disappointing for some other reason. Namely (in no
+         particular order): PLANET OF THE APES, GHOST WORLD, THE FAST
+         AND THE FURIOUS, EVOLUTION, ANTITRUST, AI, HANNIBAL, AMELIE,
+         CROUCHING TIGER HIDDEN DRAGON, TRAFFIC and, for scintillating
+         underachievement even by videogame movie standards, TOMB
+         RAIDER. You have been warned, Hollywood - dare you disappoint
+         us again?...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+             "c'mon, even 'The Face' managed to get our URL right"
+    ("Seven Wonders Of The Web" runners-up, Guardian Online, Thu 2001-12-27)
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

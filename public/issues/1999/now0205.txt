@@ -1,0 +1,368 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-02-05_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+       
+
+         "I left my PC on for 30 hours just to download them." 
+ - JAIME GORMAN answers the mail for his Cyberstrike campaign in .NET
+...which undoes the effect of the 24 hour Internet strike, admittedly
+
+
+                                >> HARD NEWS <<
+                                crocodile shoes 
+
+         Anti-trust trial? More like a nasty brawl at a Demo Party.
+         This week, the elite scene team from Microsoft attempted to
+         outhack Princeton prof Edward Felton's demo that removed
+         Internet Explorer from Windows 98. Their own demo showed
+         that, sure, EF may have found and removed some of IE4.0, but
+         we hid another bit in the Windows help system! C00l! The
+         Department of Justice (excellent name for a hacking crew)
+         fought back the traditional way, by claiming MS faked it .
+         As always, it ended it tears, with the Microsoft posse
+         working overnight in a hotel room with their Amigas, err,
+         Thinkpads to fix the bugs, and abandoning the best bits (the
+         much-acclaimed "Win98 runs even *more* like a dog without
+         IE" sequence) in the process. And to think, they might have
+         gotten away with it, had not the DOJ team spotted a tiny
+         change in one of the Windows title bars in the original demo
+         - a subtle indicator that it was a mock-up, but one which
+         passed Microsoft's Jim Allchin's notice entirely. To be fair,
+         it can be difficult to spot subtle changes in the most
+         familiar interfaces. For instance, we're sure the management
+         at http://www.multimap.co.uk/ must have been staring at
+         their homepage's title banner every day this week, without
+         noticing the giveaway change: 
+         http://www.multimap.co.uk/
+            - bet you they'll have fixed it by the time you read this
+         http://www.ntk.net/doh/mmap990205.gif 
+                            - but we'd like to submit new evidence...
+         http://ojuice.citeweb.net/e/
+                           - by contrast, demo scene not dead shocker
+         http://www.theregister.co.uk/
+                         - meticulous attention to dull trial details
+
+         We're laying off the Internet Service Providers' Association
+         this week. True, Yaman Akdeniz did did manage to firm up his
+         accusation that they've been having secret meetings (no, say
+         the ISPA, just "private") with the Association of Chief
+         Police Officers, and submitting secret ("private") documents
+         explaining exactly what info on their own subscribers they
+         could hand over to the police. But these days, ISPA seem to
+         be incredibly touchy about any press coverage at all - even
+         taking a break in their e-commerce submission to the DTI
+         select committee to rail at "countless, poorly researched
+         press articles" that suggest they were doing anything
+         untoward. Well, excuuuse us: I mean, we're only the people
+         who pay your *wages*, whiny boy. Tell you what - how about a
+         "private" meeting with your members' subscribers - maybe a
+         note or two in the newsgroups, or a Website to discuss the
+         what *they* want, rather than an ad hoc bunch of of police
+         officers? Okay, okay, just a suggestion. No need to call the
+         cops.
+         http://www.cyber-rights.org/privacy/watchmen-iii.htm 
+                         - maybe you could hire Yaman to do publicity
+         http://www.ntk.net/ispa/dti.txt
+                        - still, can't knock their anti-crypto stance 
+         
+         Response to HEATH BUNTING and RACHEL BAKER's SUPERWEED prank
+         ("invulnerable to herbicides", "designed to attack corporate
+         monoculture") was a bit, well, weedy. The hoax managed to
+         hit just the right targets, with a small mention in the Big
+         Issue and gullible anti-GM activists e-mailing us
+         practically in hysterics. And if you are going to launch a
+         media hack, isn't having a press conference at the ICA a bit
+         of a giveaway? The irational kids are going to have to work
+         a bit harder to beat the real-world genetic pranks of
+         MONSANTO: The WASHINGTON POST revealed this week that the
+         Zaibatsu is hiring private detectives to take snippings off
+         Canadian farmers to catch them using unlicensed copies of
+         the company's GE crops. MONSANTO then reads out the names of
+         these seedz pirates on local radio, and encourages other
+         farmers to shop their neighbours using a FAST-like hotline.
+         In this country, FOE reports - improbably - that the
+         government is to use loyalty card stats to trace the
+         long-term effects of GE food - now this sounds like they're
+         actively *baiting* Heath to come up better. One suggestion:
+         given that a recent study showed a quarter of shoppers
+         aren't loyal to their supermarket at all (they said they'd
+         shop elsewhere "given the choice"), maybe he could combine
+         the two - with "treacherous" consumers named and shamed over
+         shop tannoy systems? Or is this just giving Them ideas?
+         http://pages.hotbot.com/politics/superweed/kit.html
+                 - bet you fell for that marijuana-in-oranges one too
+         http://www.irational.org/tm/archived/sainsbury/front.html
+                                              - ah, the good old days
+   http://www.foe.co.uk/pubsinfo/infoteam/pressrel/1999/19990125154458.html
+                         - fact genetically engineered to be stranger
+   http://www.washingtonpost.com/wp-srv/WPlate/1999-02/03/100l-020399-idx.html 
+         http://i.am/jorn
+                                   - credit: diversions from the meme 
+         
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                   
+         TESCO.NET go free (in accordance with prophecy - [NTK
+         1999-01-15]) - penny to drop with BT CLICK in next few
+         days... STEVE CASE nominated as Internet Society Trustee -
+         was Hank, the Angry Drunken Dwarf not available? ... PIPEX
+         nameserver down for three hours; no-one notices... NT
+         servers on the International Space Station - spirit of Mir
+         lives on... LINX down for ten minutes; no-one notices...
+         latest Future Gamer e-mail has "problems" (not leas of
+         which, it's 400KB long)... GAMES DOMAIN lets you find out
+         which swearwords it *will* accept at
+         http://www.gamesdomain.co.uk/cheats/swear.pl (looks like
+         "blow-job" might work)... SKY takes poll on Film of The
+         Millennium: Star Wars wins. Star Wars, Episode I, that is...
+         JESSE BERST now has two million subscribers... BT buy
+         Spanish ISP ARRAKIS - let the spice trading begin!... LOUIS
+         ROSSETTO'S home domain: forca.com (your joke here)... dodgy
+         Aussie "One Nation Party" TV ad based around STARSHIP
+         TROOPERS, as discussed on aus.politics, aus.sf, aus.tv.
+         (Anyone got a video? Anyone? ANYONE?)...
+         http://www.lakota.clara.net links to
+         http://www.reconcile-chile.co.uk - they don't link back...
+
+         
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+         
+         Yeah, maybe we were a bit cloak-and-dagger about the LSE
+         Security Colloquia, considering there is full schedule on
+         their site after all. But then again, we'd never have found
+         out about Kevin Townsend's upcoming events diary at his
+         ENCYCLOPAEDIA OF COMPUTER SECURITY pages, and anyway, we
+         thought you hacker guys liked a challenge. Thanks also to
+         the guy who mailed to say that the touring IEE Faraday
+         Lecture, as plugged by us last week, was a "banal advert for
+         digital TV and radio", and that he'd rather have spent his
+         UKP2 at Burger King. With that in mind, we'd advise you to
+         resist the lure of 3D Master Backgammon, the "parade of
+         animated characters", Microsoft DirectX "Techno Night" and -
+         of course - Peter Molyneux at MILIA next week, and go
+         directly to the "trade-only" INTERNATIONAL FOOD EXHIBITION
+         Sun 1999-02-07 to Thu 11, Earls Court London, where "Sharing
+         The Stomach" and "Home Meal Replacement" are the order of
+         the day.
+         http://csrc.lse.ac.uk/Colloquia/colloquia1.htm
+                       - what do we look like, your mum or something?
+         http://www.itsecurity.com/eventsindex.htm
+                              - now featuring Cambridge *and* London!
+         http://www.milia.com
+                       - no "demo party" this year; still, more games
+         http://www.ife99.com
+             - "user-friendly" registration, if you know what we mean
+
+         Oh, and genetic overlord RICHARD DAWKINS ("The Most
+         Dangerous Man In Britain Today", Daily Mail, 1999-02-01,
+         p10) will be wrestling rogue psy-op STEVEN PINKER to
+         establish alpha-male dominance on the question "Is Science
+         Killing The Soul?" in the Guardian Dillons Debate, 7pm, Wed
+         1999-02-10, Westminster Central Hall, London SW1. Dawkins
+         will no doubt be drawing on his special powers, as detailed
+         by the Mail's Paul Foot, of militant atheism, a willingness
+         to clone his own daughter, and "possible armies of homicidal
+         zombies, churned out of underground factories or - another
+         frightening prospect - squads of identical terrorists, with
+         explosives strapped to their bodies, programmed to carry out
+         suicide missions". We're not making this up you know. We
+         wish we were. Box office: 0171 467 1613.
+         tickets@dillons.org.uk
+         - dillons.co.uk still "finalising its 1999 schedule"
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Hotmail is all very well, but... alright, we lied, Hotmail
+         is an utter pain. You have to clunk through all those
+         forms, mentally tippex out the banner ads, squirm under the
+         bright lights of those Microsoft logos, and worst, you're
+         paying to stay online throughout it all. C-WEBMAIL is a
+         Windows 95 app that wraps Hotmail with a POP3 interface - so
+         you can read it with Eudora or Outlook or Netscape Navigator
+         or (if you want to be perverse) ICQ. We imagine that
+         Microsoft will keep jiggling the site designs so as to
+         regularly break the program: but C-Webmail is one of the
+         Crazy Israeli start-ups, and they *never* give up. Thirty
+         days free trial, ten American dollar for the supported
+         version, or several million in mixed currency if you're MSN
+         looking for a buy-out.
+         http://www.cwebmail.com/
+                                   - Yahoo Mail and others to come...
+
+         DirectX 6.1 SDK now out. PROS: New software is always
+         exciting. Contains thrilling new "DirectMusic" feature, aka
+         finally sensible MIDI support under Windows. Only available
+         for a month online - than you'll have to buy a CD (or a game
+         that uses it). PentiumIII support. CONS: File length: 7.2MB.
+         Tendency to crash range of games (Hexen 2, Rogue Squadron,
+         some Quake IIs) of type played by people mad enough to spend
+         years downloading new DirectX drivers. Pentium III not out
+         yet. Conclusion: maybe you should wait a bit.
+         http://www.microsoft.com/directx/default.asp
+                     - wait until the video comes out, eh, Microsoft? 
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+    
+         not your usual bunch of Interrailling backpackers -
+         http://esu.simplenet.com/ ... yes, we should be using
+         http://www.dict.org/ ... Stallone for Boba Fett? Hmmm... and
+         you thought FHM covers were contrived:
+         http://www.lileks.com/institute/frahm/ ... ATARI TEENAGE
+         RIOT's Alec Empire from Germany, but Glasgow (oh, and they
+         use Amigas) ... BA execs really *are* going to be in the
+         air, midnight 2000-01-01 - suckers!... +"y2k virus"...
+         BLONDIE now fronted by MADGE FROM NEIGHBOURS... TV captions
+         positioned for widescreen... DEMON CRYPTO whisperings... get
+         out less: http://www.york.ac.uk/~mpf103/ ... Doncaster man
+         gets *arrested* for SMS SPAMMING: maybe a test case?...
+         producers of new Duke Nukem film say: "We're still on a
+         search for the Duke. We asked the original Duke, John Wayne,
+         but, you know, he couldn't do it."... mixed-up Mac kids:
+         http://w1.1491.telia.com/%7Eu149100079/section6/backtobeige.html
+         ... tattooed Generation Girl Barbie... *naughty* 3Dlabs,
+         cheating on your CDRS benchmarks like that... "Attention
+         webmaster - your trademark hitlersthirdreich.co.uk is
+         unregistered in the following countries..."
+         http://www.hamsterdance.com/ ... more cheating at Channel Four -
+  http://business.virgin.net/edward.parsons/malcolm/howto/shootthehoopnf.html
+
+                               
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+
+         TV>> oh my sides: the fat one writes all the songs
+         (chortle!) in formula Take That spoofumentary BOYZ UNLIMITED
+         (9.30pm, Fri, C4)... not to be confused with Svengali
+         godfather Ronan Keating imploring amateur wannabes to GET
+         YOUR ACT TOGETHER (6.25pm, Sat, BBC1)... repeated
+         first-series FRIENDS (9pm, Fri, C4) does observational sex
+         novel humour via Chandler's guesting mum... the "giant
+         heads" Jean-Claude Van Damme/ Lance Henriksen face-off is
+         the only bulletproof bit of John Woo's HARD TARGET (10.25pm,
+         Fri, BBC1)... and Roger Corman trash classics resurrected in
+         deserted supermarket time travel romp THE UNDEAD (12.55am,
+         Fri, BBC1), then Vincent Price tinky-winky Poe adaptation
+         THE FALL OF THE HOUSE OF USHER (2.10am, Mon, ITV)... war
+         again on Saturday, with THE DIRTY DOZEN (9pm, Sat, BBC2)
+         seeing off FORCE TEN FROM NAVARONE (8.55pm, Sat, C4)... the
+         COLD WAR (8.10pm, Sat, BBC2) goes nuclear... and isn't that
+         an Abrams M1 main battle tank in dire Dudley Moore/ Eddie
+         Murphy DARPA farce BEST DEFENCE (11.50pm, Sat, BBC1)?...
+         Henriksen returns with Natasha "2 Girls And A Guy" Wagner in
+         zany brain-eating Alien knock-off WES CRAVEN'S MIND RIPPER
+         (10.50pm, Sat, C5)... geek movie of the weekend: either
+         Chess prodigy tradegy INNOCENT MOVES (1.15pm, Sat, BBC2)...
+         early Sandra Bullock romp BIONIC SHOWDOWN (3.35pm, Sun, LWT
+         only)... or James "Rockford Files" Garner in true-life
+         Nabisco boardroom drama BARBARIANS AT THE GATE (11.55pm,
+         Sun, BBC1)... no Buffy on Wed, but the young Willow - and
+         her future on-screen beau - pop up in MY STEPMOTHER IS AN
+         ALIEN (10pm, Mon, C4)... should have called the "race to
+         clone first human" edition of PANORAMA (10pm, Mon, BBC1)
+         "The Clone Wars"... and, despite the BT-bashing trail for IF
+         I RULED THE WORLD (10pm, Mon, BBC2), we are contractually
+         obliged not to recommend anything with Tony Hawks in it...
+         at least the computer salesman in WORKERS AT WAR (9.30pm,
+         Tue, BBC1) ain't got problems like League Of Gentlemen
+         inspiration THE WICKER MAN (12.40am, Tue, C4)... the "true
+         love dating ageny" (sic) who own LOVE.CO.UK (10.30pm, Wed,
+         C4) haven't even put up a page to exploit the free plug -
+         and we bet it's announced as "Love - Dot. Co - Dot. Uk"
+         instead of "Love. Dot-co. Dot-uk"... Jack "City Slickers"
+         Palance, Keir "2001" Dullea, Barry "1999" Morse shoot it out
+         in '70s cowboy mind MUD nonsense WELCOME TO BLOOD CITY
+         (12.05am, Thu, BBC1)... and swiftly cancelled mock-Darwinist
+         sci-fi cult PREY (12.05am, Thu, C4) promises to be the new
+         Tomorrow People for the serial killer in us all...
+
+         FILM>> evidence that Antz was rush-released to punish Jobs/
+         Apple/ Pixar? Well, compared to the the full-rendered
+         gorgeousness of A BUG'S LIFE (imdb: food /
+         computer-animation / kids-and-family / circus / ants /
+         insect / inventor), Antz had those terrible *painted
+         backgrounds*. A Bug's Life lacks the big-name voices, but it
+         tackles Antz's third-act problems (or "thoract", if you
+         will) with startling action scenes - plus too many
+         characters (natch), but when they look this good, who
+         cares?... John "Hairspray" Waters seems to have calmed down
+         a little for photofit Henry Fool comedy PECKER (imdb: satire
+         / stripper / sugar-addiction / thief / ventriloquist /
+         art-gallery / art / baltimore / blasphemy / exploitation /
+         gay / homeless / laundromat / miracle / perversion /
+         photography) - which, in the dogshit-eating department, can
+         only be a good thing. Still likes Ricki Lake-style stunt
+         casting though, hence Edward "Terminator 2" Furlong and the
+         - perhaps ironic? - presence of Christina "ubiquitous"
+         Ricci... elsewhere, it's all middle-aged women recapturing
+         their youth, either through straightahead Angela Bassett
+         wish fulfilment HOW STELLA GOT HER GROOVE BACK (imdb:
+         romance)... all-out weird parallel-reality romance with
+         Danny DeVito, as in LIVING OUT LOUD (imdb: comedy / drama /
+         romance) - the "Liz Bailey" character (played by Queen
+         Latifah) is *not* based on net journo Liz Bailey... or hippy
+         chick flick travelogue HIDEOUS KINKY (MPAA: Rated R for some
+         sexuality and language) - the title derived from the
+         adjectives most often used to describe Kate Winslet fans... 
+
+         COMIC BOOK CONFRONTATIONAL>> STAR WARS: PRELUDE TO REBELLION
+         (Dark Horse) leads into some film or other that's coming out
+         in the summer. Good thing: it's canonical; bad thing: it
+         therefore has to be set in some far-off galactic backwater
+         so it won't affect the main plot anyway. To be honest, this
+         is sub-Dune galactic economics, enlivened only by
+         cute-looking aliens who haven't mastered basic English
+         sentence structure (a common SW universe failing, we
+         find)... PLANETARY (Wildstorm) launches with a superstrong
+         first issue, featuring a cameo by an evil JLA in a gentle
+         dig at Grant Morrison... but not as excellent as Alan
+         Moore's THE LEAGUE OF EXTRAORDINARY GENTLEMEN (America's
+         Best Comics) starring all the 19th century adventure fiction
+         greats - Capt Nemo, The Invisible Man - as rendered by Kevin
+         "Marshal Law" O'Neill, the only artist to have his entire
+         *style* banned by the Comics Code Authority. Good to see
+         Moore back with the big companies again - his America's Best
+         Comics is a subline of Wildstorm, itself now a subline of
+         DC, so we should get good runs of all his new books - as
+         hilariously previewed in this month's WIZARD... and finally,
+         sticking with the O'Neil(l)s, we are assured that the "Bill
+         O'Neil" credited as writer on the record-breaking
+         good-girl-art fest WITCHBLADE/ TOMB RAIDER is *no relation*
+         to the "Bill O'Neill" who runs that other action-packed
+         high-tech tit-thrills rollercoaster, the "Online" section in
+         The Guardian...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "Y0Ua00YOua-00Y00Aa0000e"" 
+              http://www.cityline.ru/paravozov-news/23jan99.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

@@ -1,0 +1,320 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____11/09/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+ "Gates had told [DEC CEO] Palmer 'You have to decide if you're Larry's
+                                                friend or my friend'"
+http://www.nytimes.com/library/tech/yr/mo/biztech/articles/10digital.html
+         - DAVID CHAIKEN, ex-Digital researcher and playground snitch
+         
+                                
+                                >> HARD NEWS <<
+                                click-throughs 
+
+         Who said de facto monopolies were slow to respond? On
+         Tuesday, Oftel gave BT's CLICK! Internet service the
+         nod, despite the fears of independent ISPs that BT would use
+         its existing customer database to poach their users. Within
+         hours, BT was... well, using its existing customer database
+         to poach independent ISPs' users. BT telesales, the good
+         Rupert Goodwins reveals, have been cold-calling customers
+         who named ISP dial-up numbers as "Friends & Family"
+         (hey, we've all been there) and asking them if they'd be
+         interested in this *fascinating* new service. Of course, if
+         they'd really sorted this data-mining stuff, they'd have had
+         a big light that flashed whenever they got a Cix user on the
+         line. Warning! Suspicious of Unsolicited Calls! Knows
+         Loads of Journalists! Unlikely To Change ISP At This Late,
+         Late, Stage! And ... Probably Recording This Call!
+         http://www.zdnet.co.uk/news/1998/36/ns-5454.html
+      - finally, reading 1000 cix conferences pays off for Mr Goodwins
+         http://www.homehighway.bt.com/
+       - also in the self-defeating promotions stakes, this is where
+              BT's extensive banner ad campaign for ISDN points to...
+         http://www.ntk.net/doh/bt981109.gif 
+                       - and this is what it was telling us yesterday
+
+         If Newt Gingrich wasn't already the pointy-haired boss of
+         the US legislature, his spur-of-the-moment decision to put
+         the Starr report on the Net (giving the sysadmins hours to
+         sort out bandwidth, and the librarians minutes to OCR the
+         thing) now confirms it. Aww, like we care. As far as we can
+         see, this is going to be about as exciting as last week's
+         chance to see Americans learning how to count, slowly, to
+         63. What are people expecting - animated GIFs? It could all
+         go horribly wrong, we guess/hope/predict: at time of going
+         to press, one train had already derailed in the excitement,
+         snipping through a bunch of Atlanta fibre-optics and taking
+         out a chunk of service in the south-east. And I'd watch out
+         for conclusive proof of terrorist camps around MAE-East, if
+         I were you, guys.
+         http://thomas.loc.gov/icreport/ 
+                                        - go for those XXX banner ads
+         http://www.adobe.com/
+                                - or worse, it could be in PDF format
+         http://www.internetweatherreport.com/
+           - this is just like that movie "Flap the Route", isn't it?
+         http://www.cctec.com/maillists/nanog/current/msg00241.html
+                                   - give that man a cigar, too!  
+
+         Coincidentally (or was it), one anonymous tipster writes in
+         to suggest a suitable cover story. As regular NTK tipsters
+         will be aware, middle-class people all over the world have
+         been desktop fighting for the Mexican Zapatistas, this week
+         by participating in Ricardo Dominguez' and Stefan Wray's
+         "Electronic Civil Disobedience Campaign". Broadly
+         translated, this has involved a mass pinging of the Mexican
+         President's site, the Frankfurt Stock Exchange, and the
+         Pentagon. Upshot: little press, flames from techies, a death
+         threat from a mysterious Mexican when Ricardo set out to
+         speak at Ars Electronica (yes, yes, they're artists, how did
+         you guess?), "ingenious" Blitzkrieg-style Java ICE
+         counterattacks, and, from our correspondent at least, a
+         patronising tip on how to *actually* crash their target
+         sites (word to your subcommandante: it's running NT). But,
+         you know, denial of service at the Pentagon is technically
+         infowar, it's election year in Germany - and the
+         milindustrial complex's got to use up those Cruises before
+         the GPS bug kicks in. Also, see above.
+         http://www.nyu.edu/projects/wray/ecd.html
+                                 - "The HEART says good idea Bad Code!"   
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+        
+         like every fanboy always knew - it's official: GALACTUS
+         destroyed Krypton... SUNDAY TIMES INNOVATION headline "Face
+         Muscles Could Control Wheelchairs"... MSN.CO.UK relaunches
+         *again*... NCR offers combined microwave/PC/TV - and it
+         still doesn't work as a cash register... ADOBE's profits
+         collapse - hint they're dropping Apple (clever: Apple'll pay
+         *anything* to shut that talk up)... Mormon video store to
+         edit out TITANIC nude footage for customers... to everyone
+         who sent us the e-mail: there *is* no Walt Disney, Jr...
+         NETWORK SOLUTIONS launch new London rootserver - forget to
+         reverse DNS it... AUTISM more common in males: getting the
+         hint yet? ... CARMACK finally busted for card counting in
+         casino... HMSO put UK pharmocopoeia online for 30 day trial
+         - downloaded and printed by 100s of chem geeks... 
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+         
+         How could we resist the combination of an e-commerce
+         conference, sponsorship from The Grocer magazine, *and* a
+         logical paradox, all under one roof? That's the promise from
+         NON-SHOP SHOPPING, all day Thu 17/09/98 at the Commonwealth
+         Institute, London W8. Radio 4's Sue McGregor will be
+         "chairing" and "facilitating" the sessions on digital TV,
+         the EMU, home shopping revolution etc etc, and among those
+         paying the UKP365 + VAT fees are delegates from Boots, Coca
+         Cola, Iceland (the shop), and United Biscuits. Hey, now
+         those biscuits have put together a united front, I bet the
+         cakes are worried...
+         http://www.foodanddrink.co.uk/future_shopping.html                    
+                                - no online event registration, natch            
+         Looking for a holiday that challenges your mind *and* your
+         body? How about 240 days sealed in an 3,500 cubic ft chamber with
+         69 other people, testing out biosystems for the INTERNATIONAL SPACE
+         STATION? Interested parties should contact Yevgeny Dyomin,
+         at the non-too-reassuringly-named Institute of Biomedical
+         Problems, Moscow. You must be between 30 and 50 years old at
+         the time of the test, fluent in English, and clearly
+         bonkers. The alternative is to win this "Design A Web Page -
+         Go And See the Leonids Meteor Shower In China", but you've
+         got to be under 19 for that one. A challenge to most of our
+         reader's bodies, that's for sure.
+         http://cnn.com/TECH/space/9809/09/holliman/index.html#isolation
+                       - anything to get away from this news coverage 
+         http://homepages.nildram.co.uk/~sproston/sstar3c.htm
+                                   - it'll be dark, no-one'll notice.
+         http://www.theonion.com/onion3124/mir.html
+                                     - life imitates Onion once more time
+                 
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         While, with most of the so-called "impartial" media busy
+         brainwashing the public into believing that there is only
+         one serious OS choice for PCs, we'd like to put in a brief
+         word for Windows 95 software, which is easily as good as
+         Linux in certain niche areas. This week, our token Win app
+         is SCRAMDISK 2.02, a very satisfactory on-the-fly file
+         encrypter that allows you to use any of your favourite
+         encryption algorithms on a mock mounted drive. It's small
+         enough to fit on a floppy, and also features a neat
+         hide-data-in-a-WAV-file steganography mode.  Author's
+         anonymous, but the source code *is* available. And the
+         crypto resource pages are some of the best we've seen coming
+         from the UK.
+         http://www.hertreg.ac.uk/ss/
+           - yeah, we know, Linux has cfs -- give a poor OS a break 
+                  
+        
+                                >> MEMEPOOL << 
+                              hasta la altavista
+         
+         so, who'd win in a mailing list slanging match between
+         Haddock and THE FILTHY TRUTH?... TTYQUAKE? when we see it
+         working on a *real* teletype, then we'll be impressed... C&W
+         going for cheapo ADSL?... was the BLUE PETER Garden incident
+         really an inside job?... PYTHON fans seize the Perl
+         Homeworld - http://www.tpj.com/tpj/rules/ ... well, *that's*
+         not full disclosure: http://www.ntk.net/doh/ms980911.gif ...
+         MP3ed nostalgia at http://www.c64audio.com/ ... the return
+         of FIRESIDE THEATRE... omigod, they killed KENOBI:
+         http://www.citysun.ac.uk/klawler/sp.htm
+         http://www.conavigator.com/main.jhtml vs the MODEL RAILROAD
+         at http://onion-router.nrl.navy.mil/Tests.html ...  build a
+         better one: http://ww.docfizzix.com ... GNU CPU design -
+         yah, right... FANTASY NOVELISTS demand Realism in Movies:
+         http://www.sff.net/people/doylemacdonald/r_godzilla.htp ...
+         spot the irony in *this* anti-MS toon collection URL:
+         http://www.cagle.com/microsoft/gates1.asp ...  
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> lame new cop thing DANGERFIELD (9.30pm, Fri, BBC1)
+         takes the mickey with a crime scene in a (presumably
+         dangerous) field... the Black Sabbath branch of ROCK FAMILY
+         TREES (11.15pm, Fri, BBC2) hopefully solves the mystery of
+         why rockers no longer have cool names like "Ozzy Osbourne",
+         "Ian Gillan", and "Ronnie James Dio"... and can new star
+         Julian Barratt monkey around with the peridontal atrium of
+         COMEDY NATION (12.05am, Fri, BBC2) to stop it becoming the
+         sci-fi-free Planet Mirth?... the synthetic fabrics of '70s
+         nostalgia stray near to the 2-bar electric fire of desperate
+         C4 theme nights, causing an avoidable DISCO INFERNO (from
+         9pm, Sat, C4)... and Sat's only bright spot - repeats of the
+         US extreme-cyberpunk spin-off series of MAX HEADROOM (7pm,
+         Sat, Sci-Fi cable only) - are dimmed by slow plotting and
+         this first one being just a shorter remake of the original
+         Blipverts movie (*plus* Bryce is no longer evil!)... former
+         "Kryten" Robert Llewellyn finds himself on the SCRAPHEAP
+         (6.20pm, Sun, C4) - when they asked us about helming this
+         Mad-Max Great Egg Race-style face-off, we said that
+         difficulty playtesting would be a problem. Based on the flop
+         of their Easter hovercraft-building pilot, they didn't
+         listen... more stomach-churning than Saving Private Ryan's
+         depiction of D-Day: Mark "Moviedrome" Cousins fawns over
+         Spielberg in WAR STORIES (8.40pm, Sun, BBC2)... and some say
+         the anti-Nazi message of SCHINDLER'S LIST (9.30pm, Sun,
+         BBC2) is so powerful that *everyone should be forced to
+         watch it*... hey, if you were responsible for both Mrs
+         Merton and laugh-free class-tourism sitcom THE ROYLE FAMILY
+         (10pm, Mon, BBC2), maybe you'd try to kill yourself too...
+         Martin Clunes returns as Man Shagging Unconvincingly in
+         uninspired marriage drama TOUCH AND GO (9pm, Tue, BBC2)...
+         the "This Life" bloke chases undead semi-believable vampires
+         afraid of the ULTRAVIOLET (10pm, Tue, C4)... and
+         decontaminate the deadly dull Michael Crichton double bill
+         of CONGO (9.30pm, Thu, BBC1) and THE ANDROMEDA STRAIN
+         (11.25pm, Thu, BBC1), for C4's ongoing "Renegade TV"
+         efforts, including the "uncompromising" Newcastle-based ZINE
+         (1.10am, Thu, C4), repeats of Ken Campbell's BRAINSPOTTING
+         (2.35am, Thu, C4), and the non-confrontational but no less
+         entertaining repeated Cringely fest TRIUMPH OF THE NERDS
+         (3.35am, Thu, C4)...
+         
+         FILM>> disgusted by redesign of Amazon-owned IMDB? Well,
+         fortunately, they haven't reached all the mirrors yet (
+         http://virgin-net.imdb.com/search )... fans of nasal Tom
+         Hanks see him kill for the first time (and be killed?,
+         detractors may hope), in widely hyped "war unpleasant,
+         cruel" shocker SAVING PRIVATE RYAN (imdb: drama / war /
+         action / rescue / military / wwii / historical / d-day /
+         normandy / violence / blood / gore / controversial / tragedy
+         / blockbuster / omaha-beach / epic / cult-favorites /
+         based-on-true-story / brothers / bravery / army-life /
+         heroism / weapons / vomit / 1940s / tank / flashback /
+         soldier / aviation / _horror_ / brother / death / guns /
+         machine-gun / tearjerker / anti-war / stabbing / translator
+         / bridge / machine-gun-nest). The apparently entirely
+         serious http://www.hollywoodjesus.com highlights the film's
+         Christian message - at least it's not Schindler's List 2:
+         Nazis On The Run... so, god knows what they'd make of LA VIE
+         DE JESUS (imdb: French), an oddly non-Biblical countryside
+         version of La Haine, though not from the immigrants' point
+         of view... even the official URL - http://babymother.channel4.com
+         - doesn't seem to work for Hackney-set "Ragga to riches"
+         musical BABYMOTHER (imdb: yeah, right)... so, this week's
+         surprise tip: raunchy revenge-fuelled OTT costume antics for
+         people who don't like costume dramas in Balzac's COUSIN
+         BETTE (imdb: comedy / 1800s / based-on-novel / drama /
+         period), including "Elisabeth Shue writhing naked in
+         chocolate"...
+
+         PRO-CELEBRITY FEEBDACK>> "Are contributors still being named
+         and shamed?" inquires privacy activist MARK DZIECIELEWSKI,
+         after inadvertently being credited with a tip he sent in two
+         weeks ago [see NTK 28/08/98]. Yeah, sorry Mark - NTK policy
+         is to keep all contributions anonymous, unless they
+         specifically request a credit (in which case we usually keep
+         them anonymous), or they're clearly doing something (like a
+         whois lookup) that no-one is going to get too annoyed
+         about... rather less playfully, cult author MARTIN MILLAR
+         was "extremely unhappy" about the mention we gave to his
+         book Love And Peace With Melody Paradise [also NTK
+         28/08/98], objecting to the phrase "after bundles of
+         rejection notes, Millar would be the first to concede that
+         it might not be any good", and instead pointing out that he
+         tried to get it published "for several years", because he
+         likes it "so much". There we are then - the author himself
+         recommends his own work. Now go buy it...  sticking with
+         lit, Surfing On The Internet author JC HERZ complimented us
+         on last week's NTK, with the precise words "God, this issue
+         was the best ever (love the beauty notes)", followed by the
+         enigmatic postscript "I'm making Joystick Nation into a
+         two-hour documentary for PBS". Cheers JC, though apparently
+         the youngsters are all calling them "joypads" nowadays...
+         again with the personal grooming: CONRAD HUGHES queried our
+         description of Wilkinson Sword as Gillette's "rivals", being
+         "under the impression that Gillette own 20% of WS, so it's a
+         bit of a weird rivalry". Well, now that
+         http://www.wilkinson-sword.co.uk/ is up, that's clearly not
+         their only identity crisis: the "male/ female" select option
+         suggests that the big 5 items in every bloke's gym bag
+         include a copy of Cosmopolitan and a "spare lipstick"... and
+         finally, prolific tipster LLOYD WOOD couldn't stop chuckling
+         over the odd juxtaposition in the job ad where we advised
+         applicants to hack the homepage of a "major UK web design
+         agency". You're right Lloyd, we didn't mean "major", we
+         meant "still going"...
+
+
+                              >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "picking one from column A".
+               http://www.geocities.com/SoHo/1388/zwhofuck.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial licence details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

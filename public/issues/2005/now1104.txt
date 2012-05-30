@@ -1,0 +1,177 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-11-04_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                             shortening the fuse
+        
+         HAHAHA! The Americans are funny! This Thursday, the funniest
+         of them all, Mitch Bainwol of the MPAA, said with a straight
+         face firstly how much he loved his MP3 player (glad you
+         could enjoy it, after you tried to sue the Diamond Rio out
+         of existence). Then, his organisation asked, very gently,
+         for all digital radio players to be rigged so that: you can 
+         only record for a minimum of 30 minutes; have no metadata
+         storage at all; and only save a maximum of fifty hours of
+         music, before the machines would start deleting - in strict
+         FIFO order. That's the land of the free, my friend! Can't do
+         digital TV, can't do digital radio, and when they do, they
+         let their self-style "entertainment" industry drool DRM all
+         over it! Never happen here, of course:
+         http://www.dvb.org/index.php?id=294
+                                                                - ulp.
+         http://www.xmfan.com/viewtopic.php?t=50894 
+                    - PLEASE DO NOT PRESS THE RED RECORD BUTTON AGAIN
+
+         Hopefully moving beyond a simplistic techno-libertarian "Well, 
+         my computer seems able to copy all sorts of stuff, so it must 
+         be morally justifiable *somehow*" riposte to this kind of 
+         thing, the as-previously-advertised OPEN RIGHTS GROUP is 
+         holding its first open-to-all get-together in London later 
+         this month. What's definite so far is the date (the evening of 
+         Tue 2005-11-29), the venue (the 01Zero-One Creative Learning 
+         Lab cyber-basement, Hopkins Street, Soho, London W1F 0HS) and 
+         the aim: for all potential members, the press, and any other 
+         digital activists to meet each other and discuss what's 
+         currently lighting up their personal early-warning systems. 
+         Further details will be furnished closer to the time via the 
+         organisation's conveniently just-launched official site, 
+         including what time to actually turn up, whether you need to 
+         pre-register (you know, for numbers), and tips on identifying 
+         - let alone accessing - the venue's seamless metal door 
+         embedded in an otherwise featureless brick wall.
+         http://www.openrightsgroup.org/
+                   - now with its own Wikipedia entry, and everything
+         http://www.pledgebank.com/rights
+        - save from the ignominy of http://pledgebank.com/list/failed
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Live in London? Like programming? Then you're in for a treat 
+         this month, as the metropolis is rocked not just by SOCIAL 
+         SOURCE 2005 (exploring the potential of Free and Open Source 
+         software for the Voluntary and Community Sector, 9.30am-5.30pm 
+         next Wed 2005-11-09, City Temple Conference Centre, Holborn 
+         Viaduct, London EC1A 2DE, free) but also this winter's LONDON 
+         PERL WORKSHOP 2005 (Sat 2005-11-26, City University, near 
+         Angel, London EC1V 0HB, free but pre-register on the site). 
+         But glancing further north - just for a moment - November's 
+         spawned another monster in the form of Edinburgh's inaugural 
+         "people doing strange things with electricity" show-and-tell 
+         DORKBOT ALBA (from 4pm, Sun 2005-11-13, Forest Cafe, 3 Bristo 
+         Place, Edinburgh EH1 1EY, also looks free), in the company of 
+         a-life artist RICHARD BROWN, ZOE "Dial-a-Diva" IRVINE, and 
+         wearable-computing-enthusiast-turned-"Speckled Computing"-
+         researcher MARTIN "EARTH" LING.
+         http://dorkbot.org/dorkbotalba/
+        - while http://dorkbot.org/dorkbotlondon/ moves to Mon Nov 21
+         http://london.pm.org/lpw/
+        - also, from the looks of things, something to do with the...
+         http://blog.unixdaemon.net/cgi-bin/blosxom.pl/events/
+           - ...Docklands "Web Frameworks Evening" on Thu November 17
+         http://www.socialsource.org.uk/pmwiki.php/EventNov05/HomePage
+       - bit vague on whether you need to register or anything though
+         http://www.geekdinner.co.uk/
+          - plus a London Geek Dinner with Molly Holzschlag on Nov 24
+         
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         Amazon.co.uk credits Jeffrey Zeldman with yet another work of 
+         http://amazon.co.uk/exec/obidos/ASIN/0553840444/ "Pleistocene 
+         detail, provocative speculation [...] sex, tribal politics, 
+         soap opera, and homicidal woolly rhino-hunting adventure": 
+         http://amazon.com/exec/obidos/ASIN/0609610597/ ... vaguely 
+         legally-flavoured Google misspellings of the month: 
+         http://www.google.co.uk/search?q=%22died+interstate%22 , 
+         http://www.google.co.uk/search?q=%22fist+and+foremost%22 , 
+         http://google.com/search?q=%22temporary+retraining+order%22 , 
+         http://google.com/search?q=%22fragrant+abuse%22 - or, with a 
+         nod to Spinal Tap, you won't find heavy metal using "dobly": 
+         http://www.google.com/search?q=dobbler+shift ... membership 
+         possibly put off by odd headline spelling of "Proffesionals": 
+         http://groups.google.co.uk/group/Global-Business-Professionals 
+         ... "BBC Broadcast" rebrand makes impressive "Pseuds Corner" 
+         bid: http://digitmag.co.uk/news/index.cfm?NewsID=5265 - lucky 
+         they overlooked nature's other "expert navigators" that begin 
+         with "B", like the "bird", or "bluebottle", or "bat"...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Sometimes, it seems that all life consists of piping
+         the same basic Unix utilities in ever varying combinations.
+         If that's true, then perhaps the secret of life-extension is
+         GNU SCREEN. Which is here, not because there's anything new
+         with it (it's nearly twenty years old, and no longer
+         actively developed), nor has there been some new and
+         wonderful application for it. It's still the same as it's
+         always been - a program that lets you run more than one
+         terminal session at a time, and switch between them, and
+         re-attach to them if you lose the connection to a remote
+         machine. It's just here because we sense that everyone is
+         re-discovering it again, and we wanted to make sure, as
+         ever, you smugly rediscovered it a fraction of a second
+         before your friends.
+         http://www.gnu.org/software/screen/
+             - go on, you've been meaning to learn it. Ctrl-A! Ctrl-A!
+         http://www.kuro5hin.org/story/2004/3/9/16838/14935
+                                  - kuro5hin! the great hope for 2004!
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         FILM>> hitting pretty much all the places you'd expect (but in 
+         a good-natured, sporting fashion), the only disappointment is 
+         that they didn't work in more homages to the original 1975 
+         "Rollerball" in MTV quadriplegic-rugby documentary MURDERBALL 
+         (imdb: high school friends/ car crash/ handicapped person/ 
+         paralympics/ wheelchair)... for all that we've enjoyed Cameron 
+         Crowe's previous romantic nonsense, Kirsten Dunst and that elf 
+         guy apparently aren't so good in this new one, ELIZABETHTOWN 
+         ( http://www.capalert.com/capreports/elizabethtown.htm : adult 
+         in underwear, repeatedly; portrayal of parent as "pal" to son; 
+         building suicide machine; postponing suicide; plan to get back 
+         to suicide; talk of killing self)... and Crowe's just not in 
+         the same league as his idol Billy Wilder, as proved by next 
+         week's (presumably limited-screen) re-release of 1944's top 
+         film noir DOUBLE INDEMNITY (imdb: cult favorite/ insurance 
+         fraud/ femme fatale/ told in flashback/ jump from train)...
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                 "holy", "crap"
+            http://www.gnome.org/~jdub/blog/projects/ubuntu/1129996213
+   
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

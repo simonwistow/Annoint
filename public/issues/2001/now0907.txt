@@ -1,0 +1,365 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-09-07_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Largely unmoderated, often unruly and certainly
+         unprofitable, a financially unviable Usenet was recently
+         acquired by the Google search engine."
+         - GERRY MCGOVERN, "thought leader" and Web consultant
+ http://www.gerrymcgovern.com/nt/2001/nt_2001_09_03_online_communities.htm
+                ... Google, of course, bought the World Wide Web in 1998
+
+
+                                >> HARD NEWS <<
+                                loose some screws
+
+         Many have tried to define the "je ne sais quoi" which THE
+         REGISTER brings to IT journalism, but their Washington
+         correspondent, Thomas C Greene, hit the nail on the head this
+         week in his combined mission statement and scathing riposte to
+         world-renowned theoretical physicist Stephen Hawking. It is
+         "irrational insight", Thomas explains, which will always give
+         humans the edge over so-called "thinking machines" - leading
+         one cynical reader to comment "Lucky we've got The Register
+         staff on the front line then". Maybe it's our fuddy-duddy
+         Enlightenment ways, but Thomas' subsequent explanation of why
+         superintelligent computers could never take over the world
+         does seem to require some "mysterious and unreliable gifts" to
+         fully comprehend it, dragging out the old anti-strong-AI
+         argument that DNA evolution (or quantum consciousness, or
+         whatever) is somehow non-deterministic, and that a mere
+         computing device could never achieve "religious awareness,
+         dance, language, visual arts and literature" - which, of
+         course, were so instrumental to the rise of the robots in "The
+         Terminator" films. Greene did slip in a surprise treat for
+         anyone making it to the end of his second piece, however,
+         concluding that if Hawking "actually believes" that humans
+         should be genetically engineered to see off the AI menace,
+         "then the little shit deserves to be hanged".
+         http://www.theregister.co.uk/content/6/21414.html
+        - Physics killed my ancestors. Now I'm out to even the score.
+         http://www.theregister.co.uk/content/6/21488.html
+                 - clearly no machine could make these literary leaps
+         http://www.elsewhere.org/cgi-bin/postmodern/
+                                       - though, on the other hand...
+
+         Side-effect of being the last-century-but-one's top
+         imperialist: no matter how confused and corrupt your own
+         institutions become, the suckers upon which you dumped
+         half-arsed variants always get it worse. AUSTRALIA's many
+         and varied libel laws, for instance, are generally taken to
+         be as bad, if not worse, than Britain's. And now everyone
+         gets to share in their mediocrity: the Supreme Court of
+         Victoria decided last week that a Website published in New
+         Jersey, USA, can be sued for libel in Victoria, Australia if
+         someone even blinks at their Website while down under. In
+         the short term, this means that Joe Gutnick, current
+         plaintiff, gold-miner and noted Aussie rule football fan,
+         gets to sue US company Dow Jones in an environment much more
+         friendly to suers than suees. And in the long term Australia
+         will join Britain as the cyberlibel haven of repetitive
+         litigants, and you'll all be dragged down to our level of
+         muted politeness.
+         http://it.mycareer.com.au/breaking/2001/08/29/FFXZIU40YQC.html?NDailyH
+         - we get the impression that he is the Alan Sugar of down under
+         http://www.cjr.org/year/91/6/australia.asp
+                                               - bad laws spread fast
+         http://web.lemuria.org/DeCSS/hague.html
+                            - it's a shortcut to the Hague Convention
+
+         We know someone at BBC News Online reads NTK, because they
+         go off and fix all the typos we point out every Friday
+         afternoon^Wnight^Wmidnight. So, good to see them entering
+         into the spirit of our contest for "Worst BBC Graphic
+         Depicting Hacking (Or Other Scientific Subject)" with this
+         startling creation from their coverage of the Glasgow
+         Science Festival, interpreted by reader Paul Manzotti as "A
+         giant head attempted to take over the world from space, but
+         was stopped by the playing of Pink Floyd's 'The Dark Side Of
+         The Moon'. And robots will tell this story by inscribing DNA
+         molecules onto aluminium foil". Come on BBC, we *know* you
+         can do better...
+http://news.bbc.co.uk/olmedia/1515000/images/_1519096_basf2001_1_300.jpg
+                 - twice at: http://www.ntk.net/2001/09/07/dohpix.gif
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         GUARDIAN DIARY (para at bottom of page) imitates THE ONION:
+         http://www.guardian.co.uk/diary/story/0,3604,546519,00.html ,
+       http://www.theonion.com/onion3730/helvetica_sweeps_fontys.html
+         ... French MINI site animation makes ill-timed use of "BA-
+         BOOOM": http://www.mini.com/FR/intro.html ... huge deal causes
+         run on pound: http://www.ntk.net/2001/09/07/dohmerge.gif ...
+         no, we're merely "leveraging a portion of our palette":
+http://www.compaq.com/products/servers/ProLiantdl380/questionanswer.html#37
+         ... enigmatic http://www.twentythree.co.uk/ project furthers
+         shadowy aims by sending entire mailing list KAKworm virus...
+         BRASS EYE Word doc authored by "Oregen Computer Training":
+   http://www.itc.org.uk/news/news_releases/show_release.asp?article_id=511
+         ... broadband area check box at http://info.blueyonder.co.uk/
+         slightly *too* helpful if you only enter partial postcodes (or
+         "?")... "thanks for your patients" says rather too-DIY signage
+         site: http://www.signx.co.uk/ ... farewell FALCO from LOADED
+         online: http://www.popex.com/chums/bollocks/homepage/ ...
+         redirect form lets you drive http://www.londontransport.com/
+         anywhere you like... please stop sending us "SOUNDS OF
+         PASSION" (and broken tickers off THE SUN) - now *this* is
+         weird: http://www.amazon.co.uk/exec/obidos/ASIN/0751379204/ -
+         ditto the "EMC Directive Post-radial Keratotomy" Description
+         of: http://www.amazon.co.uk/exec/obidos/ASIN/0750649305/ ...
+         hey, these things become more important once you're dead:
+         http://mercury.beseen.com/quizlet/g/20950/Results.html ...
+         "up the Crumlin Road"? is that, like, an expression?:
+         http://uk.news.yahoo.com/010907/4/c38qn.html (last line)...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         INTERNATIONAL DAY OF ACTION AGAINST VIDEO SURVEILLANCE today
+         (various venues, Fri 2001-09-07), your chance to protest
+         against the increasingly unopposed proliferation of CCTV *and*
+         insidious use of reality TV shows as pro-surveillance
+         propaganda. Frankly the whole "putting on a play in front of
+         the cameras" thing sounds a bit arty to us, but we figure that
+         just waving or otherwise reacting to your neighbourhood
+         telescreen could help make the point, and might even distract
+         a jaded operator from an actual crime taking place on a
+         different monitor. The activism continues on Mon with the
+         second TECH 2 (from 2001-09-10, various venues, Leeds) - a
+         more technically competent version of the "Tech Nicks"
+         conference which kept us so amused last summer, and the
+         apparently media-ignored protests against DSEi, the DEFENCE
+         SYSTEMS AND EQUIPMENT INTERNATIONAL exhibition at London
+         Docklands (Tue 2001-09-11) - who, let's hope, won't be
+         spoiling for a chance to try out their new non-lethal
+         "civilian pacification" technologies. All of which is kind of
+         academic, of course, because 02:46am Sunday 2001-09-09 UK
+         local time marks the passing of Unix's one billionth epoch
+         second - and probable apocalypse, now everyone thinks the
+         media and IT industry were just crying wolf about Y2K last
+         time. The EFF, bless 'em, are holding a copyright-free concert
+         in San Francisco just beforehand, so your last conscious act
+         on this earth need not be one of despicable commodification of
+         cultural property that really belongs in the public domain.
+         http://www.eff.org/alerts/20010831_surveil_cam_alert.html
+         - or bring laser pointers to http://www.london2600.org.uk/ ?
+         http://www.disarm-trade.org/
+         - "Aux armes, citoyens!" (not literally of course)
+         http://tech2.southspace.org/
+         - military-industrial tech into ploughshares, or something
+         http://www.electromagnetic.net/press-releases/unixonebln.php
+         - too late for that "party like it's (time_t) 1E9" t-shirt
+         http://www.eff.org/events/share-in/
+         - bands include "Wavy Gravy", "Shady Lady", "Hot Buttered Rum"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         How does NTK eliminate all rational bias and yet stay honest
+         to our readers' everyday lives? By the expedient, mon brave,
+         of *never having any friends*. On the other hand, we do have
+         a long list of people we have unjustly wronged, and it is to
+         these we must make futile pandering gestures from time to
+         time. Heading that list was always MOOSE INDUSTRIES 2000,
+         whose excellent Tellytubbies site we once wiped off the face
+         of the Earth, and whose FUCK LINUX t-shirts we inconceivably
+         declined to retail. The site remains mirrored, the T-shirts
+         stay on Cafe Press; but still the slate is not clean. Small
+         Rocket's STAR MONKEY is a shareware 2D shoot 'em up for
+         Windows, like old skool Bitmap Brothers if they'd had access
+         to 3D accelerators instead of Amigas. It is good - even if
+         the demo is a bit short to tell whether it's worth $15 or
+         not. Moose coded it. 
+         http://www.smallrockets.com/pc/starmonkey/
+                 - hey, look, Linux games too! We're all friends now!
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         the perhaps-inevitable Korean ass-poking shit-dodging game:
+         http://user.chollian.net/~psy1865/flash/chimgam%5B1%5D.swf ...
+         new model "Bishop" droid comes with a range of relaxing (and
+         useful) hobbies: http://www.bylancehenriksen.com/ ... hot on
+         the heels, so to speak, of the HOLLYOAKS foot fetishists:
+         http://www.geocities.com/johnkipling36/gail/ ... clearly
+         the American term for what Sara Cox calls "the upside-down
+         McDonald's sign": http://www.cameltoe.org/ ...dumb JAVASCRIPT
+         tricks: http://www.rain-street.org/fightcrime.htm ... the 
+         'bit is BACK: http://www.yomgaille.com/bordel/un_lapin.html 
+         ... *copyright-violating* techno Christians with a sense of
+         humour: http://www.ship-of-fools.com/Features/NedNight/ ...
+         HEZBOLLAH fanatics have better taste in TV than you thought:
+http://news.bbc.co.uk/hi/english/world/middle_east/newsid_1527000/1527266.stm
+         ... "Top 20 Films Of The 20th Century" pretty illuminating
+         too: http://www.sweetfancymoses.com/goldstein_amazon.htm ...
+         c'mon, you could at least change the "Shipping address" field:
+        https://id87.securedata.net/internet-escorts/ukmid/esorder.html
+         - still, at least "Company Name" is "optional" (phew, eh?)
+         ...better chance than that "clock of the long now" bollocks:
+     http://www.nandotimes.com/entertainment/story/73556p-1038416c.html
+         ... for those annoying offices that don't let you bring your
+         C5 indoors: http://www.ideo.com/studies/steelcaseq.htm ...mmm, 
+         it's the great taste of BEES: http://www.vaam-power.com/ ...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> that Saturday morning kids' format may be dead, but Trey
+         Farley is still "Live and Kicking" - with Gail Porter! - in
+         inevitably disappointing human "Robot Wars"/"Extreme Fighting"
+         hybrid MASTERS OF COMBAT (6.45pm, Fri, BBC2)... Tom Baker dies
+         in DR WHO OMNIBUS: LOGOPOLIS (9.05am, Sat, UK Gold)... and not
+         much "Blue Lagoon"-style action from the sound of things for
+         castaway Melissa "Sabrina The Teenage Witch" Joan Hart in TWO
+         CAME BACK (6.05pm, Sat, C5)... hypertextual author Geoff "253"
+         Ryman is the subject of SCRIBBLING (6.10pm, Sat, BBC2)... the
+         insanely irritating Lowri Turner seems an odd choice to host
+         dating-makeover WOULD LIKE TO MEET (7pm, Sat; 8pm, Wed, BBC2)
+         - the ideal partner for inspirationless reality gameshow
+         PERFECT MATCH (9pm, Tue, C4), and followed on Wed by "But your
+         dad's Albert Einstein!" Meg Ryan romantic comedy IQ (9pm, Wed,
+         BBC2)... some reasonable movies on Sat for a change, with
+         humourless remake LOST IN SPACE (8.20pm, Sat, BBC1); Spielberg
+         before he lost it in DUEL (8pm, Sat, BBC2); all-too-accurate
+         Cronenberg videogame cut-scenes yawn EXISTENZ (10.30pm, Sat,
+         BBC2); plus Ridley Scott administering a largely unjustified
+         man-beating to Demi Moore in GI JANE (9.30pm, Sat, ITV) -
+         though, then again, maybe he'd just rented "Striptease"...
+         Channel4 imitates a C5 evening line-up with WW2 sub-aqua "Time
+         Team" HUNT FOR THE HOOD (7pm, Sat, C4), Nazi mountaineering
+         reconstruction CLIMBING FOR THE FATHERLAND (8.05pm), Mr T's
+         TOP TEN TV: HARD MEN (9.05pm), and the brutal Mark Kermode
+         flaunting what he perceives to be his softer side in
+         SHAWSHANK: THE REDEEMING FEATURE (11.45pm) - though frankly
+         there are more laughs in FROM DUSK TILL DAWN (9.50pm, Sun,
+         BBC2), arguably Quentin Tarantino's least annoying film...
+         relax girls, Alan Davies is gay - *or is he?* - in inverse
+         "Chasing Amy" hetero conversion caper BOB AND ROSE (9pm, Mon,
+         ITV)... there's a rag-bag of Avalon Management acts in THE
+         SKETCH SHOW (10.30pm, Mon, ITV), as previously rejected by the
+         BBC: http://uk.tv.yahoo.com/010712/128/by012.html - who, in
+         'ORRIBLE (9.30pm, Mon, BBC2), appear to have spent UKP5m on a
+         sitcom version of Johnny Vaughan's popular cider ads... while,
+         to compound the insult of ITV2 moving DAVID LETTERMAN to
+         midnight, BBC2 counterprogramme the increasingly misanthropic
+         final series of SEINFELD (12.05am, Mon & Wed & Thu, BBC2)...
+
+         FILM>> an irritatingly limited release for the unmissable
+         "Blair Witch Project" of dotcom documentaries STARTUP.COM
+         (imdb: business-deal / business-failure / business-manager /
+         businessmen / business / entrepreneur / internet / burglary /
+         capitalism / childhood-friend / coming-of-age / greed /
+         industrial-espionage / venture-capital) - visit the official
+         tie-in site at: http://www.govworks.com/ ! ... Kidman cute,
+         McGregor sings in visually arresting Harry-Hill-style pop-
+         lyrics-quoting overwrought ubercamp steampunk musical MOULIN
+         ROUGE (http://www.capalert.com/capreports/moulinrouge.htm :
+         homosexual dance; display of adult underwear in dance; self
+         touching to entice; painting and statue nudity; faces at
+         posterior or crotch of opposite gender; partial nudity with
+         masked intercourse)... both better bets than post-Buffy
+         vampire road romp THE FORSAKEN (http://www.cndb.com/ :
+         [Izabella "Coyote Ugly" Miko's] pert little breasts are in
+         full view for several wonderful moments [...] This could be a
+         star making scene for her)... or not-as-good-as-the-original
+         turning-into-modern-day-"Carry On"-franchise SCARY MOVIE 2
+         (http://www.screenit.com/movies/2001/scary_movie_2.html :
+         we briefly see [Anna Faris], [Regina Hall] and [Kathleen
+         Robertson] in just their bras and panties; there's also the
+         exaggerated sight of a long human penis coming from under a
+         bed and wrapping around a clown's neck; after Cindy tells
+         Buddy that they should talk about personal stuff, he mentions
+         the time some "chick" was "licking my nuts")...
+
+         CONFECTIONERY THEORY>> NESTLE are spending UKP2.5m to promote
+         the mildly underwhelming AERO HONEYCOMB (32p), but you simply
+         don't care - our mailbag has been metaphorically crackling
+         with reactions to SNICKERS CRUNCHER (from 25p), perhaps best
+         described by MATT MULLEN as "packed with whatever Mars might
+         be overstocked with - 'Crisped Rice, Crunchy Peanuts, Caramel
+         & Milk Chocolate' - crammed in such a way as to remind me of
+         the old cellophane-wrapped 'Nutty' bar. Not recommended
+         straight from the fridge for anybody with human jaws, OK if
+         you are some sort of jackal or wild dog of similar capacity".
+         "Like eating a Toffee Crisp that's had nuts bunged in it",
+         agreed DANIEL THORNTON, while MATT LOCKE eulogised: "the light
+         airy rice of a Toffee Crisp, the crunchy peanuts of the
+         Snicker, but no gooey caramel that sticks in your teeth and
+         makes you feel guilty about not flossing. Lovely". Dissent was
+         limited to old-fashioned TOM "Wasn't nougat the whole point of
+         Marathons?" BLAKESON and PAUL MISON, who noted "it's only 40g,
+         or two Mars Quarks, compared to 65g for a Mars Bar these days"
+         - in fact retailers have been told to position it away from
+         its full-fat Snickers sibling, to make it "more appealing to
+         women"... a more muted response to MARS' LIMITED EDITION MINT
+         TWIX (27p) - "the same sort of mintiness as a Viscount bar,
+         with the added benefit of toffee. The chocolate-flavoured
+         biscuit was a pleasant surprise" (ADAM JEFFERSON); "a
+         wonderful combination of After Eight mints, with a Twix, with
+         all the creamy sweetness of cheap English chocolate" (OWEN
+         BLACKER) - and those "HARRY POTTER" BERTIE BOTTS EVERY FLAVOUR
+         BEANS [as seen in NTK 2001-08-10], spotted by ADAM GOLDING
+         while on holiday in the US, and described by him as "bad -
+         particularly horseradish flavour which is vile. The sardine
+         flavour is also not unlike lung scrapings", adding that there
+         are 5 other novelty yucky flavours "too disgusting to
+         describe". HARIBO are believed to be launching an unbranded
+         "me too" bag of MAGIC MIX (99p), while DANIEL THORNTON (again)
+         deadpanned that "MONSTER MUNCH now turn your mouth blue
+         apparently. God knows why it's a selling point though"... ALEX
+         TEA - if only his parents had named him "Rich" - confirmed the
+         "All Your Base" inspiration of the OINGY BOINGY ads, which
+         were "creative directed" by his "girlfriend's dad"; ADRIAN
+         MOULDER praised the "increased structural integrity" of the
+         MCDONALDS MCCHICKEN WRAP ("Tasty chicken, chargrilled peppers
+         & onions, lime salsa, tortilla, cool sour cream & chive
+         sauce"), compared to "the self-destructing BURGER KING ones";
+         but CRAIG STEPHENS filed the biggest report of the month,
+         detailing the recent range of Formula 1-themed one-week-only
+         sandwiches inflicted by "Mucky D's" on Germany, including the
+         MCFRANCE ("a rather insipid cordon-bleu type affair permeated
+         by a garlic sauce with a fetid aftertaste"), the MCMALAYSIA
+         ("a chapati containing salad and some actually rather pleasant
+         'oriental' sauce"), and the MCBRITAIN ("an odd rehash of the
+         singularly unpopular curry Chicken McFu"). And you don't want
+         to know about the MCGERMANY ("exactly the same as the
+         McFarmer, only with mustard") and the vegetarian MCEUROPE - we
+         should all be grateful that http://www.mcstories.com/ remains
+         (relatively) unsullied so far...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+                "no, you *don't* need Quickti- oh, never mind"
+          http://www.business2.com/articles/web/0,1653,17030,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,342 @@
+
+_   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____19/06/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+
+           "You have to treat them as you would a spoiled child. You
+           have to decide, do I spank them or give them some candy?"
+                                      - Sun's JOHN CAGE on Microsoft
+                or ask the government to spank the candy out of them
+
+
+                               >> HARD NEWS <<
+                                private views
+
+         Since the Net is supposed to be populated exclusively by
+         peeping toms, evil hackers and sociopathic stalkers, it's
+         surprising how few commercial Net sites there are for this
+         burgeoning demographic. Well, fret no more. This week,
+         CAMEO opened for business - a fully searchable online
+         database of the entire UK Electoral Register. Find long
+         lost friends - or the location of familiar enemies! Uncover
+         names and addresses for future false identities! Bulk
+         download the details of whole towns for real-world spam!
+         The site also generously offers a free trial period, so you
+         can browse for free, and you can register as often as you
+         like - ironically, in relative anonymity. Our own research
+         into the NTK readership reveals that you're all poll tax
+         dodgers, so no hits there, but we're surprised none of the
+         Proper Media have picked up on the self-evident potential
+         for abuse. Except, of course, that the Proper Media's
+         marketing people have had access to this info in convenient
+         CD-ROM form since 1995. And we trusted *them*, didn't we?
+         http://cameo.bvdep.com/
+               - only an appallingly clunky NT server can save us now!
+         http://catless.ncl.ac.uk/Risks/10.61.html#subj2
+                           - there was a time when people gave a damn
+
+         We all know how hard domain registration companies work.
+         You've got to check the DNS server doesn't come unplugged:
+         you've got to make sure the Webserver is still cashing
+         credit card orders (securely, mind!) And there's always one
+         more scary letter to write, informing companies that their
+         "mrs-miggins-pies" trademark is dangerously unregistered in
+         the Christmas Islands domain. Up until now, NOMINET (the
+         organisation that - quite literally - "nominally" oversees
+         the .uk domain) has been a loose confederation of these
+         domain naming registries, all working characteristically
+         selflessly to ensure that everyone has the chance to buy a
+         domain off their members. Now, though, it's time to get
+         organised. Last week, Nominet's Council of Management sent
+         around proposals for a new voting system. Curiously, for
+         such a charitable group, the proposals weren't a variant of
+         "one domain, one vote". They weren't even "one registry,
+         one vote". No - to preserve *absolute* fairness for all,
+         the ballot was carefully biased to give the top 5% of
+         registries a majority. That, says the current Council,
+         makes it proportionate to the "relative commercial
+         involvement in the UK Domain Name service". So, who gets
+         how many votes? That's "commercially sensitive
+         information", say the Council. And how do you state an
+         interest in the .uk domain? Well, unless you're a domain
+         salesman, you haven't got one. Better get sending out the
+         scary letters.
+         http://www.mrs-miggins-pies.cx/
+                                                     - oops! too late!
+         http://www.netnames.com/
+         - Largest name registry (prop. Ivan Pope, Nominet Councillor)
+
+         There's bugs, there are features - and then there are the
+         real showstoppers. SECRET WRITER'S SOCIETY is a educational
+         game for seven to nine year olds. In the words of its
+         publishers, Panasonic Interactive Media, it "puts the 'fun'
+         into learning about writing fundamentals". Just how much
+         fun that can be became apparent when the SuperKids Website
+         decided gave it to a panel of kid reviewers. What those
+         children learnt that day changed their lives forever. Now,
+         click on...
+ http://www.superkids.com/aweb/pages/reviews/writing/1/sws/merge.shtml
+                                   - why beta-testing is important
+         http://www.panakids.com/phase3/html/body_swsrelease.html
+                           - Panasonic learn a few lessons themselves!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         DISNEY buy INFOSEEK, fittingly the Mickey Mouse search
+         engine... "Homeless man has Web page business", reports
+         NANDO... SIGUE SIGUE SPUTNIK to reform - on Net... MARIMBA
+         to disappear from Navigator: Kim Polese to be airbrushed
+         from FAST COMPANY back issues... LOUIS ROSSETTO wins
+         "Ditherati Quote of the Year"... PERSIL TABLETS in legal
+         battle with AERIAL DISCS... PAT ROBERTSON suggests "Gay
+         Days" at Disneyland may bring Florida "earthquakes...
+         possibly a meteor" - Infoseek deal seen as portent...
+         FUTUREVISION "demo" turns out to be bunch of men dressed in
+         balaclavas... bad karma at FREE TIBET gig in US: punters
+         struck by lightning... audio CDs can be "copied onto
+         ordinary CD-ROM disks", uncovers RICHARD BARRY...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Is it just us, or is there actually *less* fuss about the
+         World Cup this time? Or is it now so ubiquitous that it's
+         bizarrely easier to ignore? Anyway, here's a tip if you're
+         desperate to avoid football/tennis/"Glasto"/whatever: just
+         *do whatever you would do normally* - which in our case
+         would mean: alcopop ad star JULIAN BARRATT continues
+         "monkeying around with your insides" in his Edinburgh
+         tryout show on Mon 22/06 at the Hen And Chickens theatre
+         bar, London N1, UKP4, followed by similarly booze-themed
+         "pub landlord" AL MURRAY, and (perhaps later this week) NTK
+         stand-up fave STEWART LEE... when we checked this morning,
+         there were still tickets left for departed sitcom god JERRY
+         SEINFELD at the London Palladium on 12/07, maybe 'cos
+         they're priced UKP30-45... the Real Audio at last seems to
+         be working for non-stop temporary-license limited-range
+         "radio art event" RESONANCE 107.3 FM (until 05/07), somehow
+         linked with John Peel's Meltdown Festival. And it's not
+         just meaningful bursts of static alternating with Tuvan
+         throat-singing: this week has the Association of Autonomous
+         Astronauts (10pm, Sat), "new music enthusiast" Stew Lee
+         (4pm, Sun), the KLF (7.30pm, Sun), that Scanner bloke, and
+         a breakfast show hosted by samplin' pranksters Negativland
+         (8am, Fri)... something of a London bias so far, which we
+         heartily correct with the unashamedly mainstream outdoor
+         picnic concert tour A SYMPHONY UNDER THE STARS: 27/06 High
+         Wycombe, 04/07 Hitchin, 11/07 Elstree, 18/07 Wokingham,
+         25/07 Alcester, 01/08 Peterborough, UKP16, booking on 0500
+         66 1812. The leaflet looks a bit like that Trek convention
+         that went bust, but the live orchestra/ fireworks present
+         all the outer-space classical greats, including Holst's The
+         Planets, Eine Kleine Nachtmusik, Moonlight Sonata, and - of
+         course - Star Wars. Incredibly, it's hosted by Patrick
+         Moore, who promises both "star gazing" and his "own
+         composition on xylophone".
+         http://www.londonfringe.demon.co.uk/Venues/henachk.htm
+                               - an "action packed woodland bonanza"
+         http://www.ticketmaster.co.uk
+            - Seinfeld "popular event"; won't let you book it online
+         http://www.l-m-c.org.uk/resonance.htm
+               - like Radio 3, but with a show called "Shit Happens"
+
+         If you've popped along to our NTK live events and you're
+         gay or something, you'll sure to have fallen in love with
+         our Viewdata-obsessed Internet Weatherman, JAMES COATES.
+         He's not just a pretty face, however: next Friday 26/06/98,
+         he's hosting his own club night at Smithy's, Leeke Street
+         WC1X (bloody London again). And the spurious Net connection
+         is...? Well, the tickets are available from Webshack... and
+         we're sure it'll be filled with the beautiful people of the
+         British online community. Such as they are.
+         http://www.bettyfjords.com/
+                            - anything else we can do for you James?
+
+         And if *that* wasn't enough for you, Phil Agre's excellent
+         Red Rock Eater mailing list points out the following
+         exhibitions, *all* happening on 23/06/98 - 25/06/98:
+         Bournemouth, England sees the DERA -organized
+         "International Chemical Warfare Demilitarization Conference
+         (CWD98)", Shrivenham stakes out the Royal Military College
+         of Science (RMCS)'s "European Guns, Mortars and Ammunition
+         Symposium", while in London, Nexus Information Technology
+         is organizing the "Undersea Defence Technology Europe"
+         conference. We have no idea what any of these shows will be
+         like. We just like imagining what would happen if they took
+         a dislike to one another.
+         http://communication.ucsd.edu/pagre/rre.html
+                         - Shrivenham to go on to the quarter-finals
+
+
+                                >> TRACKING <<
+                                net tucker man
+
+         We had planned to weigh you down with a couple of
+         *fascinating* new Net standards, courtesy of the W3C -
+         SMIL, which is worth a flick through if you're into
+         synchronised multimedia extravaganzas, and the WEB
+         ACCESSIBILITY INITIATIVE, so you don't screw the people for
+         whom multimedia is a tad less multi. But at the last moment
+         we were drawn away by THE WORLD'S FIRST QUAKE POETRY
+         COMPETITION. The prize, offered by Loki's Minions, is a
+         Voodoo 1 card, but that's not the point. The true reward is
+         seeing your work appreciated by the toughest literary
+         critics of all - the Clans of Planet Quake. Note: the poem
+         must incorporate two references to classical or Norse
+         mythology, demonstrate the "elements of love, betrayal, and
+         honor involved in multiplayer first-person shooters" - and
+         contain only words beginning with "L" and "M". What's
+         wrong? Not MAN enough to take the challenge?
+         http://www.w3c.org/
+                                                  - the new Academy
+         http://planetquake.com/lmctf/
+                                               - for the new Athens
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         first GATES buys Cliveden, haunt of Oswald Mosely - and
+         then - http://pes.eunet.cz/billy.jpg ... does WESTWOOD's
+         new DUNE 2000 take place 9000 years before the previous
+         one?... BITBOYS Oy!... HAIKU is the PalmPilot killer app...
+         bootleg WORLD CUP feeds... Computers as Theatre:
+         http://www.puppettime.com/ ... SRL at Web 98: stand well
+         back... BSD most reliable, Windows stingiest, MacOS most
+         over-rated: it's an OS WAR AGAINST CYSTIC FIBROSIS at
+         http://www.geocities.com/SiliconValley/Network/5601/ ...
+         "sinister-smurfing"... get an adult to help you with
+         http://www.xeromag.com/fvtoys.html ...URBAN OUTFITTERS
+         (quit sniggering, US readers - they only just arrived
+         here)... http://www.ideosphere.com/main.html ... SONIC
+         BINGO... about:jwz - http://themes.org/totd/guest/ ...
+         better (and unclaimed) name than "portsurfer" for a hacking
+         zine: THE LISTENER... Duke Nukem to use UNREAL now...
+
+
+                               >> GEEK MEDIA <<
+                     may contain strongly-typed language
+
+         TV>> the irrepressibly excellent FRASIER (10pm, Fri, C4)
+         elegantly bows out of Friday nights for now, possibly
+         leaving a gap ready for the first series of SOUTH PARK,
+         currently squelching to an end on satellite (10pm, Sat;
+         11pm, Sun, Sky1)... 5 new drivers, 5 talking cars; so
+         surely TEAM KNIGHT RIDER (5.25pm, Sat, ITV) can only be 5
+         times worse than the original...  serious-voiced Heather
+         Couper closes THE SCI-FI FILES (8pm, Sat, C4) with -
+         surprise! - a look at the future: ie clips from Things To
+         Come, Stepford Wives, and Blade Runner... followed by
+         interminable Mark E Smith drinking anecdotes in LEGENDS OF
+         THE FALL (9pm, Sat, C4)... invite your approaching-30 pals
+         round for the dull movie version of LOGAN'S RUN (8pm, Sun,
+         BBC2); its second showing in 10 months, by the way...
+         "features three-in-a-bed sex, full frontal nudity and lots
+         of swearing", "warns" The Radio Times about Anna Friel/
+         Joely Richardson cult romp THE TRIBE (10pm, Sun, BBC2)...
+         while "features Keanu Reeves, Patrick Swayze and Lori
+         Petty" should be the warning on daft Pepsi Max "thriller"
+         POINT BREAK (10pm, Sun, C4)... hmm, not quite *enough*
+         gratuitous nudity in Bo Derek's TARZAN, THE APE MAN
+         (11.40pm, Sun, BBC1)... and, as an ironic counterpoint to
+         all the Tarzan stuff on terrestrial (what's going on?),
+         it's Sky monkey movies week, including Wednesday's
+         fantastically titled, but sadly terrible, LIFE, LIBERTY AND
+         THE PURSUIT OF HAPPINESS ON THE PLANET OF THE APES (around
+         1pm, Mon-Thu, Sky Movies 1)... 3 degrees of Kevin Bacon
+         commence with FLATLINERS (11.15pm, Mon, most ITV), linking
+         to cool worm chaser TREMORS (10.45pm, Tue, BBC1), then
+         PYRATES (12.15am, Tue, BBC1) where the focus is on
+         involuntary firestarting rather than copyright violation...
+         "men and women biologically different", uncovers hard-
+         hitting pop biology in WHY MEN DON'T IRON (9pm, Tue, C4)...
+         gangland-style execution too good for Lynda LaPlante's new
+         BELLA MAFIA (8pm, Tue, C5)... tasty-gorgeous product
+         placement when the TELETUBBIES (10am, Thu, BBC2) enjoy
+         "Becky's Flake Cakes"?... and here's hoping schedules don't
+         overrun with the controversial "dying man" episode of THE
+         HUMAN BODY (10pm, Thu, BBC1) confusingly followed by
+         footage of a 61 year-old "base jumper" parachutist in THE
+         MAN WHO JUMPED TO EARTH (10.50pm, Thu, BBC1)...
+
+         MOVIES>> CITY OF ANGELS (imdb: romance / drama / angel /
+         swimming / death / medical / religion) is - of course - a
+         funnier remake of Wim Wenders' Wings Of Desire, rather than
+         say, The Crow II: City Of Angels. And it's directed by the
+         bloke who made the appalling film of Casper The Friendly
+         Ghost. As with many Meg Ryan films, not as bad as you'd
+         think. But still pretty bad... otherwise a choice of two
+         hipster beat dudes, daddio: DREAM WITH THE FISHES (imdb:
+         drama / comedy / voyeur / fish / fantasy / bowling / buddy
+         / suicide-attempt / euthanasia / drugs / twist-in-the-end /
+         black-comedy / suicide / terminal-illness / drama / drug-
+         trip / lottery) gets a slightly wider release (and more
+         laughs?) than the Keanu Reeves-featuring THE LAST TIME I
+         COMMITTED SUICIDE (imdb: drama / beatnik)... or take your
+         pick of harrowing violence with '60s Lee Marvin beat-'em-up
+         POINT BLANK (imdb: thriller) - nothing to do with the Namco
+         arcade game of the same name - or Oliver Stone-produced
+         former-Yugoslav war saga SAVIOR (MPAA rated: R "for strong
+         violence including brutal war atrocities, and for language"
+         - well, there's mispelling "Saviour", for a start)...
+
+         BOOKS>> A pair of writers, outwardly different but with
+         peculiarly similar backgrounds - it's either the plot or
+         the biographical blurb for Iain "M" Banks' new INVERSIONS
+         (hardback, UKP16.99) - good to see the requisite plot-twist
+         down to two words... just out in paperback, LONGITUDE
+         (UKP6.99) may be the dullest pop-science bestseller since
+         the appalling Sophie's World, reading like a naval history
+         textbook without any diagrams of how any of all these
+         interesting nav systems worked... Ellen Ullman's CLOSE TO
+         THE MACHINE (paperback, UKP10.99) combines cool you-are-
+         there coding anecdotes with - uh-oh - social
+         responsibility, and the best bits are all online at
+         http://www.salonmagazine.com/21st/feature/1997/10/cov_09ullman.html
+          ...  people have been recommending Katherine Dunn's GEEK
+         LOVE (paperback, UKP7.99, some special offers) - but
+         - it's about carnival geeks, not computer ones... still
+         not much sign of the enticingly titled VIRTUAL LOVE
+         (paperback, UKP5.99), from the author of TV potboiler "Real
+         Women". And we quote: "Virt-E-Go have developed a virtual
+         reality interactive sex machine that fulfils your dreams...
+         while the all-male management can't rise to the
+         challenge... step forward the secretaries... all desperate
+         to prove that mechanical mating can make them money, even
+         if it'll never beat old fashioned rumpy-pumpy"... roll on
+         Danielle Steel's THE KLONE AND I, that's all we can say ...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "educational"
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

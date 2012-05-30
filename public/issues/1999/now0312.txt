@@ -1,0 +1,338 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-03-12_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+                                                                       
+         "I think that we will be able to re-create the old magazine
+         again, and fill a void that has been sorely missing."
+          http://www.zdnet.com/zdnn/stories/news/0,4586,2223851,00.html
+           - JERRY POURNELLE: how BYTE's return fills a much-needed gap
+                                    
+                                    
+                             >> HARD NEWS <<
+                           mission to confuse
+                                    
+         Well, a third of the time to help the DTI invent an
+         alternative to key escrow has passed already, and here's our
+         top 5 suggestions for "meeting law enforcement requirements":
+         5. A voluntary PICS-style "criminality" rating which users
+         put on their own emails, ranging from "1 - harmless" and "2 -
+         mildly subversive" to "4 - felony in progress". 4. A Babylon
+         5-esque "Psi-corps" of telepathic sensitives to extract
+         crypto keys directly from crooks' minds. 3. Foster perfect
+         socialist utopia, thus rendering concept of secrecy moot. 2.
+         Alternative to "Key escrow"? How about "No key escrow!"
+         (hehehe). and: 1. Hire that kid from Mercury Rising, or any
+         movie hacker that has ever said "the files are encrypted, it
+         might take me a few minutes...". Impressively, Tim Pearson,
+         head of the UK's INTERNET SERVICES PROVIDERS ASSOCIATION, has
+         pinned his hopes on that last option, according to a story on
+         Fox News - "it is unlikely criminals are going to... use
+         licensed encryption companies," says Tim (rightly), "so the
+         only alternative is to get at the messages once their PC has
+         unraveled them". In other words: hack into them while they're
+         still online. We're not convinced the commercial and civil
+         rights lobbies are actually going to prefer this over key
+         escrow - but our objection is a little more succint: isn't
+         this what we already pay GCHQ to do?
+http://www.foxnews.com/js_index.sml?content=/scitech/030899/hackers.sml
+                         - they could operate the MOD's satellites, too
+         http://www.statewatch.org/news.html
+                             - no wonder the local loop is so expensive
+         
+         In October 1997 British physicist LAURENCE GODFREY sued
+         Canadian student Michael Dolenga (then at Cornell University)
+         for libelling him online in 1995. Mr Godfrey is also suing
+         Demon for not removing allegedly forged messages appearing to
+         be from him on soc.culture.thai. We haven't heard anything on
+         the Demon one yet, but a UK court ruled against Dolenga last
+         week, ordering him to pay UKP15,000 in damages. Clearly an
+         important precedent in cross-border cyber-disputes etc etc,
+         right down to the fact that the Canadian authorities may not
+         enforce the judgement: "I'm not recognizing the British
+         court's jurisdiction and the hell with it", Dolenga
+         explained. It hasn't calmed the newsgroups down either: a
+         posting on the matter to soc.culture.canada makes remarkable
+         use of the phrases "Blow it out your ass", "Fuck off, eh!",
+         and "Smack you upside the head with a hockey stick".
+         http://www.ntk.net/canada/
+                           - strangely, hardly any coverage in UK media
+ http://news.bbc.co.uk/hi/english/sci/tech/newsid_278000/278482.stm
+                    - presumably awaiting judgement on this Demon thing
+         [ link to Dejanews deleted at Laurence Godfrey's request ]
+	
+         Kieslowski... Kurosawa... and now STANLEY KUBRICK. Not a
+         great time to be a cult director whose surname begins with a
+         "K" but other so-called "coincidences" have had film fans'
+         conspiracy meters twitching. Guardian Unlimited mis-spelled
+         his surname (the usual sign that someone's faked their death
+         to enjoy Elvis-like seclusion), all traces of former "work in
+         progress" Artificial Intelligence were swiftly erased from
+         imdb.com (just like it never existed), and the timing is,
+         frankly, a bit coincidental (just before the release of Eyes
+         Wide Shut footage, and the rumoured dispute between Kubrick
+         and Warner Bros over its release date). Of course, all the
+         obituaries stress "natural causes" and Stan's good
+         relationship with his studio, so some theories are weirder
+         than others: Clockwork Orange-obsessed fans trying to secure
+         a UK release? A HAL-influenced face-off with an on-set
+         mainframe?
+         http://hollywood.com/news/topstories/03-10-99/html/1-1.html
+                      - Geek, recluse, *crypto expert*? See lead story!
+         http://www.ntk.net/doh/kube120399.gif
+               - yeah, like Paul's bare feet on the front of Abbey Road
+         http://www.fucker.com/index_hair.html
+           - obvious UL; first of this week's requisite 2 "erotic" URLs
+                                    
+                                    
+                             >> ANTI-NEWS <<
+                          berating the obvious
+                                    
+         www.vim.org "hacked", replaced with "Vim has become too big.
+         Please use Emacs! Thankyou"... spam "from" CAPITAL RADIO
+         quotes http://www.pair.com/spook/webfaq/faqfiles/caprad.htm
+         ... AMAZON deleting gag reviews? http://www.ntk.net/ping/ ...
+         "Take me to the Web of Porn Special", flirts ZDNET.CO.UK...
+         world to be much safer for AMERICANS by end of this month:
+         http://www.csmonitor.com/durable/1999/03/05/text/p7s2.html ...
+         WHOIS mybigstiffy.com ... EU "anti-caching" clause inserted by
+         copyright lobby as clearly ridiculous delaying tactic: dumb
+         MEPs passed it anyway... "Dreamcast 2" fooled NEXT GEN ONLINE:
+        http://headline.gamespot.com/news/99_03/05_vg_avatar/index.html
+         ...new MS FUD? http://www1.bluemountain.com/home/hoax.html ...
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_293000/293366.stm
+     new space-hotel article made from bits of old space-hotel article:
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_244000/244498.stm
+                                    
+                                    
+                            >> EVENT QUEUE <<
+                      goto's considered non-harmful
+                                    
+         Sure, every week is SCIENCE (AND ENGINEERING) WEEK here at
+         NTK Towers, but it's always good to see the rest of the
+         country struggling to come into line with our "Technology
+         Gestapo" worldview. Look forward to bizarre celebrations of
+         godless machine-worship nationwide, all with hilarious
+         titles: Laser Afternoon, Liverpool; A Pyrotechnics Guide to
+         Fireworks, Ormskirk; Action On Apple Acne!, East Malling; and
+         The "Adults Only" Evening, Cardiff. Londoners are
+         particularly well served with a "special buttock measurer" at
+         the Science Museum, the bongo-accompanied stage adaptation of
+         Surely You're Joking Mr Feynman (also in Cambridge) and,
+         Tuesday at the ICA, usual suspects Colin Blakemore, Jonathan
+         Miller and Susan Blackmore duetting with 'N Sync on their new
+         power ballad: "Can The Human Brain Understand The Human Brain
+         (And Explain My Love For You)?"
+         http://www.setweek.org/
+                                - no, this isn't the other "erotic" URL
+         http://members.tripod.com/~mike_maran/
+            - too much like Who Do You Think You Are Kidding Mr Hitler?
+                                                                       
+                                                                       
+                              >> TRACKING <<
+                     look what the mouse dragged in
+                                    
+         Many of our readers have children, though we're not sure how
+         (Asexual mitosis? Repeated viewings of Weird Science?). But
+         true nerd parents will understand the lesson of Davros,
+         creator of the Daleks: how can one enforce geek values into
+         your "next generation" technology? Well, while you made do
+         with discrete Logo, Lego and BASIC components, the whole
+         experience is now integrated into Ken Kahn's TOONTALK - a
+         visual object-oriented concurrent constraint logic
+         programming language, implemented in a virtual Lego world
+         using animated robots (functions), buildings (objects), birds
+         and nests (messages), trucks (actor spawning), bombs, and a
+         little mouse that hits things with a hammer. In common with
+         most visual languages, I have no way of explaining further
+         except by showing you my recursive mandelbrot robot, and
+         waving my hands a lot. Toontalk appears to be extensible
+         (there's a filing system bird), and accomplished building-
+         bird-nest-robot hybrids can be compiled into Java applets.
+         Significantly, it exhibits the essential characteristic of a
+         larval geek training kit - borderline incomprehensibility to
+         any adult. See the look of pity mixed with shame on your
+         child's face as you struggle to convert Tinytool's metaphors
+         to a "proper programming language". And feel the glow of
+         pride on your own. Obsolete, at last.
+         http://www.logo.com/download/toontalk/TTUK103.EXE
+                   - UK version demo version; 49UKP for the whole thing
+         http://www.toontalk.com/
+                    - old enough to read: old enough to read the manual
+         http://www.cs.dal.ca/~pcox/CS6087/June22-sol.html
+                    - fuddy-duddies think it's not what "the kids" want
+                                    
+                                    
+                             >> MEMEPOOL <<
+                           hasta la altavista
+                                    
+         forget Wing Commander film, new Star Wars trailer: NIGHTFALL
+         is "the best Quake/Quake II/Unreal movie ever made"... we
+         wanted the LEGO R2D2, we got: www.trainupachild.com ...
+         PARAPPA the Toasta: http://www.psmonline.com/news/7222.html
+         ... Chris Morris making BLUE JAM TV series for C4... secret
+         MERCED documentation has photo-sensitive covers that change
+         color on exposure to light; they can tell if you've left it
+         lying around... confirming concerns about BRITNEY SPEARS
+         video: http://www.gpforums.com/showforum.cgi?id=6582 ... VINT
+         CERF defends Al Gore's "I created Internet" claim; Gore
+         supported "High Performance Computing and Communication
+         initiative (HPCC/NREN)", led to Next Generation Internet
+         program... more bloody HAMSTERDANCE PARODIES... grassroots
+         campaign to get Katz to post to SLASHDOT in spoken RealAudio;
+         only thing that could make it funnier... RPGing for cash:
+http://www.cdmag.com/Home/home.html?article=/articles/018/045/uo_ebay.html
+                                    
+                                    
+                            >> GEEK MEDIA <<
+                              get out less
+                                    
+         TV>> impressively, noted misanthrope Woody Allen is claimed
+         among the celebs keeping fixed grins through the 6-hour
+         torment of COMIC RELIEF (from 7pm, Fri, BBC1). Highlights may
+         include Rowan Atkinson and Julia Sawalahalaha in a typically
+         hard-hitting parody of DR WHO (8pm, 8.30pm, 9.35pm);
+         hopefully an inappropriate Rwanda quip or two from ALAN
+         PARTRIDGE LIVE (9pm, BBC2); SIMON MAYO battling sleep-
+         deprivation-induced psychosis and hallucinations (could you
+         tell?) after 37 hours on air (9.45pm); and some FRENCH AND
+         SAUNDERS sketch about child prostitution (10.25pm). HAVE I
+         GOT BUZZCOCKS ALL OVER (11.10pm) sees Radio Times putting the
+         caption "Phill Jupitus" on what is surely a picture of Meat
+         Loaf - and listen up, radio fans: when former Richard Curtis
+         girlfriend (and Bridget Jones inventor) Helen Fielding
+         appeared on A BUNCH OF RED NOSES (9pm, last Tue, Radio 2),
+         did she mention that she took the piss out of the whole
+         business in her earlier, funnier novel "Cause Celeb"?...
+         BBC2's Vegas day (from 1.50pm, Sat, BBC2), featuring rare,
+         good Elvis film VIVA LAS VEGAS (3.15pm), even infects a new
+         Simpsons episode "Viva Ned Flanders" (6.30pm, Sun, SkyOne)...
+         but "Bullocks to that" says ITV with Sandra's dubious double
+         bill WHILE YOU WERE SLEEPING (9.05pm, Sat) then Dennis Leary
+         co-creation STOLEN HEARTS (11.10pm)... no-one let Spielberg
+         near romance *or* comedy after the appalling 1941 (12.50am,
+         Sun, some ITV)... Peter "Truman Show" Weir shows a bit more
+         bite in semi-Mad-Max THE CARS THAT ATE PARIS (12.10am, Sun,
+         BBC1)... and forget ITV ditching News At 10 for Bond films:
+         C5 drops its 7pm News in favour of from-the-start reruns of
+         classic crimebusting Hasselhoff vehicle KNIGHT RIDER (7pm,
+         Mon-Fri ) - talking car meant less dialogue for non-acting
+         lead... yup, last week's wasn't the last of this lot of X
+         FILES (10pm, Wed, BBC1) - this week's is... ditto we think
+         THE LARRY SANDERS SHOW (11.35pm, Tue, BBC2) and penultimate
+         clip-show SEINFELD (10pm, Mon, SkyOne)... TOMORROW'S WORLD
+         MEGALAB (7pm, Wed, BBC1) gives itself an hour to solve the
+         mysteries of memory, beauty, and the human mind - and to
+         write a pop song about it online... first and best of the
+         Dirty Harry sequels MAGNUM FORCE (9.35pm, Thu, C5) features
+         Lalo Schifrin theme, as covered by Pop Will Eat Itself on
+         their "92 Degrees" 12-inch... while HORIZON (9.30pm, Thu,
+         BBC2) cunningly promotes the video/ DVD release of Armageddon
+         by warning of "New Asteroid Danger"...
+         
+         FILM>> "Other animals / that kill their own species: / lions,
+         chimps, dogs, ants" is the largely uninformative haiku review
+         http://www.wunderland.com/WTS/Ginohn/poetry/HMR.htm for
+         critic-hated Robin Williams big-US-box-office sick Comic
+         Relief tie-in PATCH ADAMS (imdb: doctor-patient / medical-
+         school / mental-institution / mental-patient / medical /
+         students / based-on-true-story / compassion / doctor). Yup,
+         it's an even schmaltzier "Live Patients Society", with a
+         rather selective "true story" basis: whatever the real Adams
+         was expelled from medical school for, it wasn't "excessive
+         happiness"; last year he was accused of mismanaging funds for
+         his Gesundheit Institute (Entertainment Weekly, 1999-01-15,
+         p7)... SFW's Reese Witherspoon, Tobey Maguire are reunited in
+         f/x heavy preachy moral-relativism fable PLEASANTVILLE (imdb:
+         teen / small-town / masturbation-scene / fantasy / 1950s /
+         1990s / innocence / tv / basketball / bowling / high-school /
+         painting / bathtub / remote-control / intolerance / colors /
+         rain / fascism / books) - a Truman Show remake with that
+         black-and-white/ colour trick from pop videos. Blah blah
+         power of the individual blah blah freedom vs oppression -
+         annoys http://www.hollywoodjesus.com/pleasantville.htm
+         though, so can't be all bad... strong performances (and a
+         hint of organ-legging) triumph over hackneyed plot in Oscar-
+         friendly older-woman-teams-with-street-orphan road weepie
+         CENTRAL STATION (imdb: Brazilian)... so if you can find it
+         (and want something super-weird), take a trip to Steven
+         Soderbergh's self-starring largely unreleased dentally
+         disturbed word-game SCHIZOPOLIS (imdb: experimental /
+         surreal) - shades of Eraserhead / Dark Star comedy from the
+         Out Of Sight / Sex Lies And Videotape man...
+         
+         PUDDING CORNER>> pains us to say it, but CADBURY'S JESTIVES
+         (an astonishing UKP1.09) are still nicer than MCVITE'S
+         CARAMELS (69p) - clearly based on Burton's Toffee Pops, but
+         oddly oversweetened... the world hasn't gone completely mad,
+         though, as CADBURY'S JAFFA CUBES, the "first individually
+         packed chocolate covered cake snack in bite size portions"
+         (33p for pack of 5) are stale-tasting 1950s-style sponge, and
+         a poor spoiler for the imminent launch of MCVITIE'S JAFFA
+         CAKES in resealable tube (89p for 15 vs 78p for 12 in a
+         box)... in supermarkets, SAINSBURY'S John Cleese campaign was
+         an expensive failure, ICELAND'S in-store "Feel The Deal"
+         posters will invite customers to "eat what they want and give
+         the empty wrapper in at the till", and seen in TESCO: "St
+         Patrick's Day March 17th" - on a display of Heinz spaghetti
+         in tomato sauce... penetration of SPACE DUST continues into
+         all sectors, with SAINSBURY'S CUSTARD DELIGHT WITH POPPING
+         SPACE ROCKS (59p), followed by upcoming NESTLE ZOOM lolly
+         going up against the TREBOR REFRESHERS fizzy fruity milk ice
+         (35p)... in direct contravention of the laws of nature
+         outlined in Soda Stream instructions, two new "fizzy milk"
+         drinks have the UK tingling: EHRMANN'S ALMI DRINK - believed
+         to be Germany's first carbonated yoghurt drink (blended with
+         apple juice); and the Swiss RIVELLA - a slightly sparkling
+         herb-flavoured Lucozade-alike "based on milk serum"
+         (43p/can). Just don't pour them on JURASSIC BREAKFAST:
+         http://www.quaker-dinoeggs.com/ ... sticking with (non-
+         effervescent) dairy, reader ANDY HOWARD wishes they'd go back
+         to NESTLE MAXI-MOOZE (6 tubes of condensed milk "Bursting
+         with Energy", ie 28.2g of sugar per 50g total: "I've taken to
+         carrying a couple of these around in my pockets for a quick
+         sugar fix when out and about") - instead of the "more
+         ambitious" MINI-MOOZE (12 x 35g packs of fluid with curious
+         strawberry, vanilla and chocolate flavours). Haven't been
+         able to replicate this ourselves, largely due to difficulties
+         finding them in Sainsbury's: would they be with the ONKEN
+         FRUFOO FORMAGE FRAIS (now comes with "six collectable
+         chicks", a direct competitor to Anchor SoSoft's "small cuddly
+         cows") - or the NESTLE SQUIZZO'S?...
+                                    
+                                    
+                            >> SMALL PRINT <<
+                                    
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "Slight Of The Week"
+                      (http://www.disobey.com/netslaves)
+
+
+                  NINFOMANIA.COM "LINK TO US" APPEAL UPDATE
+                       Target: 10,500 hits on AltaVista
+
+0                                   TOTALISER                     10,500
+|.---------------------------------------------------------------------|
+ ^-current total: 7                         ...current shortfall: 10,493
+
+
+                                NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                           but retain SMALL PRINT.
+
+           Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+

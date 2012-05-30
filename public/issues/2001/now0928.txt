@@ -1,0 +1,370 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-09-28_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Of course, this big Blackberry is not a fruit at all. You
+        can't turn it into jam and spread it on your toast. No, it is
+        a wireless pager that can send and receive e-mail."
+    - BBC NEWS online technology correspondent ALAN PARTRIDGE reports
+ http://news.bbc.co.uk/hi/english/in_depth/sci_tech - oh, forget it
+                                http://makeashorterlink.com/?D1412401
+
+
+                                >> HARD NEWS <<
+                                  naif rubes
+
+         JACK STRAW, now Foreign Secretary, took time out from
+         battling terror to put a bit of blame where it really lies:
+         the secret, pro-encryption agenda of Radio Four's Today
+         programme. Apparently, when Jack was at the Home Office,
+         Radio 4 together with "large parts of the industry, backed
+         by some people who I think will now recognise they were very
+         naive in retrospect, said: 'You mustn't do [key escrow]'."
+         And *that*, gentlemen, is how terrorists are made. Jack:
+         reckon you're busy, but let's go over this one more time,
+         shall we? When you wanted every citizen to hand over their
+         private keys to all their communications, your opponents
+         didn't say you shouldn't because it was "unnecessary". They
+         said it was "stupid" and "self-defeating". Rather than
+         making everyone safer, it'd make those law-abiding citizens
+         who were forced to use your crippled system ridiculously
+         vulnerable to attack. And meanwhile, even if terrorists did
+         use digital encryption they wouldn't be using *your*
+         encryption, would they? They'd be using the proper,
+         non-Jack-approved, unbreakable kind. And, if you'd just let
+         us finish, Foreign Secretary, who the hell is recognising
+         "that they were very naive"? Phil Zimmermann, who gently
+         (but firmly) denies the Washington Post reports that he felt
+         guilty about PGP? All the other groups who at this point are
+         *still* warning about the dangers of catastrophically
+         reducing the security of our citizens? Or is it those
+         politicians who repeat the briefings of their security
+         services without thinking why they're looking to shift the
+         blame right now? How long before that looks "very naive in
+         retrospect"?
+www.bbc.co.uk/cgi-bin/radio4/today/listen/audiosearch.pl?ProgID=1001686858
+                                                  - twelve minutes in
+         http://www.philzimmermann.com/news-Response_WashPost.shtml
+                                                       - ten years on
+
+         It's what the record industry warned us about: No sooner had
+         news of the British release copy-protected Michael Jackson
+         promo CD leaked out, than bootleg copies of that story began
+         to spread everywhere! More horrifying still, it turns out
+         that until somebody implements the EU COPYRIGHT DIRECTIVE
+         researchers here are *still* allowed to examine the new
+         copyright protection for bugs. This week, the CAMPAIGN FOR
+         DIGITAL RIGHTS people have been looking at the system
+         installed on the CHARLEY PRIDE import CD. They're coming to
+         the conclusion that not only do these CDs not work on normal
+         CD-ROM drives, the technique could make them more prone to
+         skip or click in standalone CD players too. Good god - if
+         this information is permitted to be redistributed, the poor
+         music industry will never be able to profit off
+         only-mildly-crippled commercial products. Where's the
+         justice in that?  Sadly, The Campaign For Digital Rights
+         will be fearlessly pirating this information on their
+         disgustingly free leaflets on OCTOBER 6TH. As well as
+         volunteers for that cause, they're also looking for "in the
+         field" reports of CDs that look to have copyright protection
+         installed: send your details to dodgy-cd@uk.eurorights.org .
+         Possible candidates already include, "One Wild Night by Bon
+         Jovi, and a free Pet Shop Boys CD given away by The Daily
+         Telegraph", according to one NTK subscriber,  who wishes to
+         remain anonymous. Well, we assume that he does.
+         http://uk.eurorights.org/issues/cd/charley_pride.shtml
+         - nothing to do with the cat in the public information films
+         http://uk.eurorights.org/calendar/
+                        - the CDR says "meowmeowmeowmeowmeowmeowmeow"
+         http://www.rootme.org/sounds/bsatruce.mp3
+                                                 - peace in our time!
+         http://www.ntk.net/2001/09/28/dohnme.gif
+           - bands may even be forced to "copyright" all their music
+
+         So who *is* to blame for the world not taking cybercrime
+         seriously? Well, if our Worst "BBC Graphic Depicting Hacking
+         (Or Other Scientific Subject) Contest" mailbag could speak,
+         we're sure it would scream "Overstretched Web Designers". After,
+         of course, it had vomitted the following for your inspection:
+         "It may lack the simple charm of the napping Jamie Oliver at
+http://news.bbc.co.uk/olmedia/1410000/images/_1411682_broadband_300scene.jpg,
+         writes topical ALAN CONNOR, "but there's something prizeworthy about
+  http://news.bbc.co.uk/olmedia/1565000/images/_1568254_snooping300.jpg "
+         Nice try, Alan, but we're trying to starve Jack Straw of the
+         oxygen of publicity here. HENRY BLOOMFIELD takes another tack,
+         drawing us to a simpler time, where the "classic, 1999-vintage"
+       http://news.bbc.co.uk/hi/english/sci/tech/newsid_417000/417408.stm
+         contrasts with a dull, unintelligible graphic from 1998:
+http://news6.thdo.bbc.co.uk/hi/english/sci/tech/newsid_41000/41533.stm "
+         Inspiring though those ancients are, it's the modern schools
+         which draw the big crowds now, as ANON praises the surreal
+         beauty of "giant Laden-hunting iMacs eating a satellite" at
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1548000/1548860.stm
+         Strong challengers all: but it's DORIAN MCFARLAND who pins
+         down the ineluctable spirit of BBC literalness. Awed silence
+         please, for the perfect illustration of the headline "Are
+         Computer Viruses Unstoppable?". Featuring a computer, the word
+         "virus", and a hand, we can only guess, trying to stop it. Bravo.
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_737000/737396.stm
+                  - anti-news continues to welcome your contributions
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         JAMIE OLIVER - file under science fiction, or science FACT?:
+         http://www.whsmith.co.uk/whs/Go.asp?BIC=bFGJ - vs terrifying
+         POLENTA-based techno-thriller (scroll down page for reviews):
+ http://shop.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0446603406
+         ... hang on - so you can pay your BT Openworld bills ONLINE?:
+         http://www.vnunet.com/News/1125622 ... but Solent Green - is
+         people!: http://www.ntk.net/2001/09/28/dohkangoo.gif ...
+         documentary channels' ratings-battle starts to hot up:
+         http://www.ntk.net/2001/09/28/dohbox.gif ... reassuringly,
+         http://www.dnotice.org.uk/secretary.htm uses HOTMAIL account
+         ... DK MATAI, of "security firm" mi2g, still living in Middle
+         Ages: http://www.theregister.co.uk/content/55/21814.html - vs:
+        http://www.ntk.net/index.cgi?back=archive99/now1203.txt&line=6#l
+         ... "NO LINKS are permitted TO or FROM any page" apologises:
+         http://www.spia.com/THESPANISHWORLD/ ... falco DEEPEND - just
+         as Kimberly-Clark were going to launch the popular "Depends"
+         brand of adult incontinence diapers over here as well... YAHOO
+         miss their big chance for a "We are them. Really, we are" gag:
+         http://uk.news.yahoo.com/010921/12/c4svw.html ... WIPO rules
+         that it's "inconceivable" that fucknetscape.com could have
+         "anything to do with a company of such high repute as [AOL]":
+      http://arbiter.wipo.int/domains/decisions/html/2001/d2001-0918.html
+       ... http://www.thebrainstrust.co.uk/article.17.2002.html imitated
+         http://www.brunching.com/features/feature-microsoftsplit.html
+         - sorry... it's just good to know you're on the case, OFTEL:
+         http://www.oftel.gov.uk/consumer/advice/FAQs/intfaq3.htm ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         You know, we enjoyed that last "Strange Attractor" event so
+         much [NTK 2001-08-31], we agreed to "do a talk" at the next
+         one, though now we find out their DIGITAL UNDERGROUND night
+         (from 7.30pm, Tue 2001-10-02, the "Horse Hospital", London
+         WC1, UKP6) is nothing to do with the early '90s "Humpty Dance"
+         funk-rap crew, and is all about hackers or something. Anyway,
+         along with sessions from the 802.11-friendly Consume.Net and
+         the always-entertaining Heath Bunting, NTK's so-called "Dave
+         Green" will be discussing "Exploitable Vulnerabilities In The
+         Mainstream And Technology Media", with the aid of funny
+         screenshots from our back-issues archive. While we're
+         shamelessly promoting NTK contributors' personal side-
+         projects, consider this fair warning that Ben Moor is
+         presenting a short straight-outta-Edinburgh season of his
+         whimsical comedy narratives A SUPERCOLLIDER FOR THE FAMILY
+         (8pm Wed 2001-10-03 & Thu 2001-10-04, 6pm Sun 2001-10-07, The
+         Pleasance, London N7, from UKP5) plus THREE WISHES (8pm, Fri
+         2001-10-05 & Sat 2001-10-06, same venue) - in which, following
+         the high-energy physics/ parallel universe theorising of his
+         previous shows, our hero shares the stage with an even more
+         exotic phenomenon: a real live girl.
+         http://www.strangeattractor.co.uk/talks.html
+         - there's *always* been a recycling aspect to Heath's net.art
+ http://www.whatsonstage.com/uktw/page.php?page=details&id=L0861719504
+              - more info at http://www.spesh.com/ben/wishespress.html
+         http://www.games-workshop.com/gamesday/
+         - imitates Onion's "Plan To Get Laid At DragonCon 2001 Fails"
+         http://www.insound.com/annex/resfestLondon.cfm
+          - "Ya Mama" video shown in London for "first time in the US"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         People often ask: "Hey, NTK, what's your 'secret'? How come
+         you always know what's up on the zaniest, most erratically
+         updated Onion-alike satire sites which no-one else can ever
+         be bothered to go back to?" And we say: well, obviously the
+         readers mail us the good ones - and then we feed them to
+         GAGPIPE.COM, the Moreover-style headline aggregator which
+         currently scans about 30 comedy sites a day. The results of
+         which you can now view in public beta, to commemorate the
+         recent return of both the tech-oriented "SatireWire" and the
+         equally self-explanatory "Dotcock" - or perhaps compare the
+         relative merits of The Onion's tentatively heartfelt "American
+         Life Turns Into Bad Jerry Bruckheimer Movie" and the National
+         Lampoon's "Hollywood Braces for Even More Ridiculous Action
+         Films". And what's in it for us? Well, let's just say the lazy
+         journalist community has done *a lot* for us in the past. It's
+         great to be able to give something back.
+         http://www.gagpipe.com/
+         - imitates http://www.squealnewspig.com/websites1.html
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         US corporate anthem set to (now-unused?) tune of BUDWEISER
+         "Wrecking Ball" ad: http://www.americastandstall.net/ - vs
+   http://www.poprevolution.co.uk/mp3/cassetteboy_-_blair_vs_bush.mp3
+         ... can you spot the real NATIONAL HIGH-TECH CRIME UNIT?:
+         http://www.nltcu.co.uk/ vs http://www.nhtcu.org/ ... stealth
+         intro of non-anonymous cash: http://www.doshtracker.co.uk/ ...
+         and the *really* good news is - the BBC aren't going to sue
+         them: http://www.hallmundur.com/bbc/ ... LUXO JR - the game:
+         http://www.virtools.com/applications/technology-lamp3.asp ...
+         clear-thinking JACK CHICK provides handy link to "Scientific
+         Errors in The Koran": http://www.chick.com/articles/sept11.asp
+         ...scanning 2m porn pics for hidden messages? They'll go BLIND:
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_1555000/1555981.stm
+         .. SONY to advertise UKP199 PS2 with continued use of "The
+         Third Place" slogan - third place after Gamecube and X-Box?...
+         "first casualty of war is irony", claim Americans - ironic,
+         given their notorious inability to grasp the concept anyway:
+         http://www.time.com/time/covers/1101010924/esroger.html ,
+         http://chicagotribune.com/features/chi-0109210010sep21.column
+         ... s/bush/moron/g : http://www.presidentmoron.com/ ... admit
+         it, you'd always wondered who MAC USERS could laugh at and
+         look down on: http://lowendmac.com/lite/01/0924.html ... life
+         imitates Kramer's "Bro" from SEINFELD: http://www.manties.net/
+         ... swear-words in Dutch and Swedish - a comparative review:
+         http://www.santesson.com/enedcurs.htm ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> whether it's preparation for next week's Spielberg shoot-
+         'em-up BAND OF BROTHERS (8.30pm, Fri, BBC2) - or something
+         altogether more sinister - it's WW2 all over your TV again,
+         with David McCallum trench-from-Star-Wars semi-inspiration
+         MOSQUITO SQUADRON (7.50pm, Sat, BBC2) - last shown Feb 1999;
+         naval epic BATTLE OF THE RIVER PLATE (8.05pm, Sun, BBC2);
+         Melanie Griffith vs the Nazis nonsense SHINING THROUGH (9pm,
+         Mon, C5); MEMPHIS BELLE (9pm, Wed, C5) leading into THE EAGLE
+         HAS LANDED (11.30pm, Wed, ITV1); and, presumably as some
+         twisted "Enigma" movie tie-in, an agonisingly extended repeat
+         of STATION X (6.55pm, Sat, C4)... non-global-conflict-themed
+         entertainment is largely restricted to TOP TEN TV COPS
+         (10.20pm, Sat, C4) - presumably not featuring Reeves and
+         Mortimer's inexplicably re-resurrected vanity project RANDALL
+         AND HOPKIRK DECEASED (9pm, Sat, BBC1); the postponed STRANGE
+         DAYS (11.05pm, Sat, BBC2); plus the "We Have Explosive" bit of
+         MORTAL KOMBAT II: ANNIHILATION (9pm, Sun, C5) - last shown Nov
+         2000... C4 and BBC1 go head-to-head on Sunday with Melanie
+         Griffith - again! - playing a kind-hearted prostitute math
+         teacher in MILK MONEY (10.55pm, Sun, BBC1), while Demi Moore
+         starts killing her career in STRIPTEASE (10.20pm, Sun, C4)...
+         fear not, Lucas and Walliams get a lot more offensive than the
+         opening Elton John episode of the-long-overdue-on-terrestrial
+         ROCK PROFILES (11.25pm, Sun, BBC2)... and there's a chance to
+         cheer for the desert-dwelling underdogs in the cheap-looking
+         unnecessary CGI TV remake of the movie of FRANK HERBERT'S DUNE
+         (10pm, Mon, Sci-Fi)... C4 screens teen-murder classic HEATHERS
+         (11.50pm, Mon, C4) and leaves the real moron-fodder to patchy
+         Adam Sandler "Billy Elliot" prequel BILLY MADISON (10.35pm,
+         Wed, BBC1)... CHEER FOR CHARLIE (9pm, Thu, BBC1) transforms
+         that annoying "Ground Force" woman into a trapeze artist,
+         without addressing whether, after extensive vocal training,
+         she might have some sort of future as a TV presenter... Jay
+         Mohr semi-satirises Hollywood in the short-lived ACTION
+         (12.05am, Thu, C4)... as Anne Heche gets her kit off - again
+         - in nerd romance PIE IN THE SKY (12.40am, Thu, BBC1)...
+
+         FILM>> it's "Alan Turing In Love" - and this time, he's not
+         gay! - featuring Saffron "Deep Blue Sea" Burrows, Kate "looks
+         like Saffy from AbFab" Winslet, Dougray "MI:2" Scott, Jeremy
+         "The Net" Northam, Mick "Freejack" Jagger *and* the producer
+         of "Wayne's World" - together at last! - in stately "U571"-as-
+         made-by-the-"Inspector Morse"-team WW2 crypto-mystery ENIGMA
+         (http://www.bbfc.co.uk/ : Passed '15' for strong language).
+         Oh, OK then - according to the book, he's not really supposed
+         to be Turing, who was "away" when all this took place... damn,
+         if only we hadn't just used that "together at last" gag, it
+         would have been perfect for the long-awaited collaboration
+         between Ed "Fight Club" Norton, Marlon "Island of Dr Moreau"
+         Brando, Robert "Meet The Parents" De Niro and Angela "Strange
+         Days" Bassett, as Frank "In And Out" Oz proves - perhaps a
+         little late in his career - that he can make a competently
+         uninspired "one last heist" movie in the form of THE SCORE
+         (http://www.screenit.com/movies/2001/the_score.html : It's
+         possible some kids could be enticed to try their hand at
+         cracking safes; [Norton] poses as having cerebral palsy or
+         something)... while Steve "ReBoot" Barron, director of
+         "Electric Dreams", "Teenage Mutant Ninja Turtles" and A-Ha's
+         "Take On Me" video, continues his intriguing career path with
+         Brit footy-comedy mockumentary MIKE BASSETT: ENGLAND MANAGER
+         (http://www.bbfc.co.uk/ : Passed '15' for strong language)...
+
+         RED BOOK AUDIO>> not much action in terms of "songs off TV
+         ads that sound like other songs" recently, although the ever-
+         vigilant ADRIAN MOULDER elaborately alleged that Vodafone have
+         used the DANDY WARHOLS' "Start Me Up"-soundalike "Bohemian
+         Like You" on their current campaign without realising that
+         "the lyrics are actually an implicit critique of the whole
+         Nathan Barley mobile-phone-owning lifestyle". Back on more
+         familiar territory, a reader identifying themselves only as
+         "BENJAMIN" thought LOUISE's "Stuck In The Middle" cover
+         version "*really* sounds like the music from Carnival Night
+         Zone in Sonic Hedgehog 3 on the Megadrive" - while surely
+         we're not the only ones to have noticed what appears to be an
+         old "R-Type" coin-op playing the synth arpeggios on MUSE's
+         recent chart flop "Bliss"... seeing off fierce competition for
+         the post of honorary NTK "Belle and Sebastian" correspondent,
+         DANIEL BUTT felt the need to point out that the band's recent
+         Peel session contained the (as yet) unreleased track "The
+         Magic Of A Kind Word", whose chorus "nicks both lyrics and
+         melody from 'Stop!' by the Spice Girls". We remain equally
+         convinced that the radio mix of INDIA ARIE's "Brown Skin" is
+         merely a better sung version of "All I Wanna Do" by Sheryl
+         Crow, and that, at 1:18 into CAKE's next single, "Short Skirt,
+         Long Jacket", you can hear the distinctive riff from the
+         chorus to "Since You've Been Gone" by RAINBOW... over with
+         magazine covermounts, theatre's BEN MOOR eschewed the "bubble
+         gummy fun" "Selecta" selection bagged with the new issue of
+         J17 (UKP2), preferring the "One For The Road" compilation on
+         the front of NEW WOMAN (UKP2.50), apparently on the strength
+         of a "surprisingly good track by Deacon Blue" (thankfully, Ash
+         and Darude appear on both). And finally, JOHN VANILLABEACH was
+         moved to accuse frequent t-shirt and confectionery contributor
+         (and composer of last year's official NTK corporate anthem:
+        http://www.ntk.net/index.cgi?back=2000/now0317.txt&line=316#l ),
+         JOSH ROULSTON, of "pure jackassery". "I remember when I first
+         met the guy. Me and DeLuca were sitting on the back of a '82
+         Cortina in my back yard. Mountain Dew was all the rage and I'd
+         just sold my Amiga 600", Vanillabeach recalls. "Suddenly, this
+         geezer wearing next-year's fashion and a sly grin appeared in
+         the driveway clutching a cassette. Damned if Roulston didn't
+         amaze us all with this surreal blend of musical trip, blending
+         the best elements of Aphex Twin and a Kalashnikov. So where is
+         he now? Last I heard he did something on obsess.com, but I
+         can't be too sure". As ever, if you have any (non-libellous)
+         Beat-poet-style recollections of other NTK readers, do feel free
+         to mail them in. Friendsreunited.com has nothing on this...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                "one of a kind"
+                    http://www.ntk.net/2001/09/14/dohie.gif
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

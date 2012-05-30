@@ -1,0 +1,248 @@
+
+ _   _ _____ _  __               30/05/97       NEED TO KNOW NOW
+| \ | |_   _| |/ /   _ __   _____      __ o News               Views
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o Culture        TV & Film
+| |\  | | | | . \   | | | | (_) \ V  V /  o Protest           Coding
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o New Media    Nice Sweets
+
+
+         "The Web is my mind. I brought the Web into play."
+                                                    - CHARLES MANSON
+                 interviewed at www.revolting.com (launches: 1/6/97)
+
+                                                     Charlie IS surf
+
+
+                               >> HARD NEWS <<
+                              soft underbellies
+
+         The SEGA/BANDAI merger was called off just hours before the
+         first official document was due to be signed on Wednesday.
+         The combination of Sega's video game experience with
+         Bandai's high tech toys (Power Rangers, Tamagotchi et al)
+         could have created a Japanese Disney beater, but apparently
+         Bandai workers feared a corporate culture clash between
+         their relaxed, informal working style and Sega's stricter
+         management practices. Nothing to do, then, with the poor
+         performance of the Bandai-manufactured Apple net-box
+         Pippin, or the Sega Saturn (last seen in Selfridges at a
+         bargain-basement UKP99...) Bandai president Makoto
+         Yamashina says he takes full responsibility for the flopped
+         deal, and will now resign. And they're the informal,
+         relaxed ones, remember?
+         http://www.bandai.co.jp/
+         http://www.sega.co.jp/ (all in Japanese of course, but you
+         gotta love those dinky little manga graphics)
+
+         The National Criminal Intelligence Service's PROJECT
+         TRAWLER looks to be recommending new Net monitoring powers
+         for the police. Detective Super BRIAN DREW of the NCIS
+         announced "Interception of Internet communications is very
+         difficult", and clearly hoped a few new laws might simplify
+         the process.  Meanwhile NCIS Director General Albert Pacey
+         reported that "In the UK, we're finding criminals moving
+         from drugs importation to software piracy". Drugs barons
+         can't afford Office either?
+         http://www.open.gov.uk/ncis/ncishome.htm
+                                         - Don't click! It's a trap!
+
+         AT&T is to shut down UK PLANET INTERNET, the ISP it bought
+         from Royal Dutch PTT six months ago. Subscribers have been
+         offered transfers to AOL, which is odd, because AOL are the
+         hated competitors to AT&T's US-based "World"Net. Customers
+         will be shipped off in mid-June; e-mail will be forwarded
+         for three months after that.
+         http://www.uk.pi.net
+         - includes amusing piece on how to de-install your software
+
+         As if you needed reminding that no-one's buying edutainment
+         CD-ROMs, Wakefield-based UK games house TEAM 17 has axed
+         its multimedia division, formerly known as The Big Room,
+         with the loss of seven jobs. Over the last two years, the
+         department had completed just one title - an introduction
+         to the Internet called Access All Areas. The company now
+         hopes to spend more time with its core business of writing
+         PC games, like its reworking of that old tanks-on-mountains
+         classic, Worms.
+         http://www.team17.com/
+
+         The validity of those blanket disclaimers on software
+         packages is to be tested in court. COMPUTING reports that
+         GEOFFREY DARNDON, a management consultant, is to sue SAGE
+         after their software wasted nine months of his work
+         (allegedly). 'Opening the envelope meant I had agreed to a
+         licence that states Sage is not responsible for anything,'
+         said Darndon. He's fighting that declaration in Portsmouth
+         Court next month. We asked Sage for an e-mail comment, but
+         we're too scared to read past the headers.
+         http://www.sagesoft.co.uk/
+
+         That wouldn't be a problem if we were COMPUSERVE users, who
+         can now have their e-mails read out to them over the phone.
+         As if they weren't mollycoddled enough. Subscribers call a
+         special number ("from anywhere in the world", CIS notes,
+         proudly) and hear the text read out by a voice synthesiser.
+         Ascii art comes out like a slasher porn line, apparently.
+         http://www.compuserve.co.uk/
+         -  compoosi-yerve period cuh period ook
+
+
+                               >> ANTI-NEWS <<
+                       what's the opposite of 'scoop'?
+
+         Jurassic Park site hacked... www.microsoft.com falls
+         over... LAPD site hacked... proto-push software Freeloader
+         folds... man who filtered 10,000 credit card numbers was
+         "amateur"... Internet "may be insecure" - Sunday Times...
+         Intranet "not top of list for UK firms" - PC Week... More
+         than half of software in Italy is pirated, SPA study shows,
+         again... Digital TV bidder DTN plans to link "every school
+         to the Internet" *As well* as BT? How many pipes do these
+         kids need?
+
+
+                                >> CULTURE <<
+                       passes for a lifestyle these days
+
+         On Sat 31/5/97, godfather of sci-fi conspiracies and ex-
+         Playboy editor ROBERT ANTON WILSON will be speaking at
+         TRANSCENDANCE, a "national conference celebrating and
+         discussing 'human consciousness'". Also on the bill are
+         TERENCE MCKENNA and HOWARD MARKS. The press release
+         misspells consciousness and refers to ISDN as though it was
+         a Class A drug - two big danger signs - but with this line-
+         up, we forgive them. Info from jabba@enterprise.net.
+         5.30pm, Brighton Dome Theatre, 29 New Road, Brighton.
+         Ticket Enquiries: 01273 709709
+         Event Info: 01273 502471
+
+         US direct action group FREE SPEECH TV are running 12 weekly
+         video lessons in effective civil disobedience on their Web
+         site. To take part, you'll need a RealVideo player, a
+         Javascript-enabled browser, a whistle and a friend with
+         handcuffs. While you're there, check out the feed of the
+         brilliant ROX, which this week examines police brutality at
+         underground 70s revivalist raves. "Their dogs are trained
+         to attack polyester," says one concerned party-goer.
+         http://www.freespeech.org
+
+         Once you've learnt those tricks, why not join the movement
+         that truly frees the world? The One True Programming
+         Language is having its first conference, so beg, borrow or
+         ask your boss for the money to go to: THE O'REILLY PERL
+         CONFERENCE, San Jose, US, 18/8/97-21/8/97. Then go on to
+         Burning Man and laugh at their priorities.
+         http://www.ora.com/info/perl/conference/
+
+
+                                >> TRACKING <<
+                                  scans well
+
+         ADOBE have gone update crazy! The interfaces of ILLUSTRATOR
+         7.0 and DIMENSIONS 3.0 have been snipped and re-arranged to
+         mimic those of Photoshop 4.0 and Pagemaker. Adobe say it
+         "reduces the user's learning curve" - not if you used
+         Illustrator 6.0, it won't. 299UKP or 85UKP to upgrade. Also
+         on site, a mondo, yet free upgrade for Mac Photoshop 4.0.
+         http://www.adobe.com/prodindex/illustrator/main.html
+         http://www.adobe.com/supportservice/custsupport/
+
+         Meanwhile, MACROMEDIA have at last shipped DIRECTOR 6.0,
+         which is as packed as jam is with new Web features:
+         RealAudio support, streaming Shockwave and the disturbed-
+         sounding Live Internet Authoring (what, like Rolf Harris?).
+         UK prices aren't available yet; file sizes start at around
+         1 megabyte.
+         http://www.macromedia.com/software/director/
+
+         Beta - uh, sorry - Pre-Release 5 of NETSCAPE COMMUNICATOR
+         came out this week: a relief for cutting-edge Mac users
+         who've been left behind on the updates, a waste of time for
+         PC owners who are probably still fiddling with NETCASTER,
+         which only works with PR4. You might be better off waiting
+         for the expected full release on Mon 9/6/97. Or even the
+         rumoured INTERNET EXPLORER 4.0 beta on Wed 11/6/97.
+         ftp://ftp.netscape.com/pub/communicator/4.0/
+         http://www.memphis97.com
+         - Unofficial Win 97 site with a UK flavour. Who could they be?
+
+
+                                >> MEMEPOOL <<
+                               our idea of fun
+
+         noun-ology ... knee-jerk cypherpunks and Linux wannabees...
+         "teethy" days... PC Stamps... unfortunate banner-
+         ad/editorial juxtapositions... Locust mail... that MI5
+         answerphone hack... finding out we share our building with
+         that MI5 answerphone hack... tamagotchicide ... hacking
+         MULTOS... "of course, I don't actually BUY records anymore,
+         I get my friends to ICQ me real-audio files"... this week
+         on www.fray.com : Jack Handy...
+
+
+                               >> MO' MEDIA <<
+                       everything to do from 'T' to 'V'
+
+         TV HIGHLIGHTS
+         As-you'd-expect non-sequitur stand-up from HARRY HILL
+         (10.35pm, Fri, C4) tonight, but otherwise it's a week of
+         movies, movies, movies, starting off with C4 showing
+         (entirely uncut) that little-known cult heist flick
+         RESERVOIR DOGS (10.30pm, Sat, C4) - and the really good
+         news is that it finishes just in time to turn over for the
+         last episode of SPACE: ABOVE AND BEYOND (12.40am, Sat,
+         BBC2)... amazingly, there appears to be yet another series
+         of THE OUTER LIMITS (8.55pm, Sun, BBC2), this week ripping
+         off Independence Day... the sci-fi theme continues with Jim
+         Rockford X-File FIRE IN THE SKY (10.40pm, Mon, BBC1) -a
+         fairly recent alien-abduction drama apparently "based on
+         fact"... pigs are more intelligent than chimpanzees (or at
+         least better than them at playing video games) claims QED
+         (10pm, Tue, BBC1)... scheduling tragedy of the month is the
+         highly rated SAY ANYTHING (1.15am, Tue night/Wed morning,
+         ITV) - John Cusack, Ione Skye in cute-with-an-edge teen
+         romance from Cameron "Jerry Maguire" Crowe... a promising-
+         sounding investigation into people's perception of health
+         risks forms the basis of new series ANXIETY ATTACK (7.30pm,
+         Wed, BBC2), while ER (10pm, Wed, C4) concludes its run with
+         a totally undramatic non-cliffhanger ending - yeah,
+         right...
+
+         MOVIES: By all accounts, TURBULENCE (Ray Liotta, Lauren
+         Holly) is rubbish: you'd do much better to try and catch
+         one of the "special weekend previews" of next week's
+         similarly themed aerial disaster blaster CON AIR (Nicolas
+         Cage, John Cusack, John Malkovich)... otherwise it's a
+         bizarre choice between wacky presidential murder thriller
+         ABSOLUTE POWER (Clint Eastwood, Gene Hackman, Ed Harris),
+         or food-related feel-gooders like BIG NIGHT and THE
+         SPITFIRE GRILL...
+
+         CHOC: More limited edition mutants from the Sweetshop of
+         Doctor Moreau: Cadbury's continue to abuse the power of
+         mint with their MINT CRUNCHIE, but then outdo themselves,
+         we think, with the WISPACCINO, a Wispa despoiled with a
+         cappuccino flavoured caramel. Big news though, is that
+         NESTLE ROWNTREE are fighting back with a BLUE KIT KAT next
+         month. Sadly, it's just the wrapper that goes blue when
+         it's put into the fridge. But still: you know - cool.
+
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week. Or might happen next week. You can read it
+      on Friday afternoon or print out and then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "overly simplistic".
+
+                           http://www.spesh.com/ntk
+      Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body.
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+    NTKnow is helped by VIRGIN MEDIA and VENUS INTERNET. They worry about
+                      us, but we don't worry about them.
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+

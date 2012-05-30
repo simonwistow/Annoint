@@ -1,0 +1,332 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-08-08_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "The earliest bloggers have been at it for two years now..."
+                   - net may have "silly season", muses BILL THOMPSON,  
+                                                   self-referentially
+                                  http://news.bbc.co.uk/1/3134629.stm
+            ...earliest where? The International Space Station? Iraq? 
+
+
+                               >> HARD NEWS <<
+                                 excess BTUs
+
+         All hail the great, the good and the clueless. Last months's
+         report from the Broadband Stakeholder Group concluded that
+         what was *really* impeding broadband wasn't BT's slackness 
+         at connecting up rural areas, but - get this! - a lack of
+         micropayments and DRM. Evidence? Not just the testimony of 
+         the committee's "17 year-old ... mate Dan" who is depressed 
+         that he can't pay for "cool digital stuff", like "Dr.M's"
+         "Where's da money?" track, we hope. Oddly, if you read past 
+         the report's bizarre introduction, all the right people 
+         and points are quoted (including Ross "DRM will blind our 
+         children" Anderson). It's merely the conclusions that are
+         pasted in from another planet. Particularly the idea that
+         the best place to try out DRM would be in the public sector.
+         Oh yeah, wouldn't want that publicly-funded intellectual
+         property falling into the wrong hands, would we? What's
+         scarier is how seriously such sentiments are taken: witness
+         the National Gallery being quizzed this week on exactly why
+         their digitisation project isn't being DRMed up the whizzer.
+         Hello? Unless we're still trying to incentivise Vincent van
+         Gogh with royalty cheques, whose "digital rights" are we
+         managing here? And in whose interest is it to keep these
+         already publicly-owned works from being spread far and wide?
+         http://www.broadbanduk.org/reports/DRM_report.pdf
+                                                   - read it and weep
+         http://www.newscientist.com/news/news.jsp?id=ns99994030
+         - "If a file is hacked or a high-quality print scanned and
+         copied, the gallery will be unable to prove the source." OH NO!
+
+         A depressingly hefty mailbag for our request for sites that
+         could do with a little guerilla webscaping "improvement". We
+         sense great pain. We're determined to see the brighter side
+         of all this, however: and CHRIS LONG sent the first glimmer
+         of hope with his repurposing of Channel Four's cinema
+         information site, which appears to put every fragment of
+         data you need to know about a film - the cinema it's at, the
+         time it's on, its name - on separate webpages. Of course,
+         writing a scraper does put you somewhat at the mercy of the
+         original site, and the (original) cinema finder does seem a
+         little flakey at the moment. But at least Chris is trying to
+         help. And there's worse - far worse - to come. Start your 
+         side-bets now on what the most (un)popular suggested sites
+         have been - or mail us with any new Web horrors you've felt
+         crawling over your face recently, and just how you'd like to 
+         see them "fixed".
+         http://www.oview.co.uk/
+                           - admittedly, you still have to click once
+        http://www.channel4.co.uk/film/search/cinema/cinema_search.jsp
+                                - mr no results is showing everywhere
+
+         Last fortnight's clarification of our Japlish slogan contest 
+         appears to have worked wonders, though we did receive a few 
+         more retranslations of our existing catchphrases - JONATHAN 
+         MATTHEWS' "With the fact that it is on the register in the 
+         point official duties thread together", BRUCE LOKEINSKY's 
+         "*The* weak resale caustic high-tack udpate, fool you! OK?". 
+         Lack of space unfortunately precludes a full explanation of 
+         SHEZ's intriguingly phonetic "Conpuu tama neon rubbery you 
+         shun", but many of the other runners-up were (relatively) more 
+         self-explanatory, ranging from PAUL HOFFMAN's "We like listing 
+         on Fridays!", GARETH ROBINSON's "No, lets come assist liquid, 
+         helper. What then?", and GRAHAM DUNN's "Pleasure to be 
+         deceived! For your enjoyable Newsletter life". CHARLIE ULLMAN 
+         touched on some of the poignancy we were hoping for with his 
+         "Technical Friday reading alone", JILL PHYTHIAN thought that 
+         "Seven day elegant and can dancing with winning news shirt of 
+         mens" summed up "everything she ever believed" about NTK, and 
+         LLOYD WOOD was inadvertently filed as a competition entry for 
+         pointing out the haiku-esque structure of an online chat with 
+         International Star Trek Guru quizmaster Terry Shuttleworth, in 
+         lines like "In general yes/ the universe is too big/ for use 
+         [sic] to be all alone". And taking the final runners-up no-
+         prize was the similarly unwitting suggestion from ALEC MUFFET 
+         to check out the meta-tag-style spamdexing on ringtone sites 
+         nowadays, such as the breathily conspiratorial: "Do you find 
+         lots of lg cell phone and ericcson phone accessories on the 
+         television or free logos for nokia and nokia 3210 australia on 
+         cable TV, I know I do, all the time nokia cat".
+         http://uk.docs.yahoo.com/chat/terry.html
+                          - actual winners announced in a week or two 
+         http://www.ringtones-4-all-phones.co.uk/vodafonede_r4989_409.htm
+   - thought "melissa sagemiller" would set off all the filters again
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Beckham identified as "Real Player", al-Qaeda dangerously keen 
+         on home taping: http://www.ntk.net/2003/08/08/dohbec.gif ... 
+         tempted to break "largest death toll from chemical weapons" at 
+         the same time?: http://www.ntk.net/2003/08/08/dohguin.gif ... 
+         and presumably that must be steam coming off their feet there: 
+         http://www.ntk.net/2003/08/08/doh98.gif ... double-URLtendres: 
+         http://simonkidgitsclub.com/ , http://hunkinsexperiments.com/ ,
+         http://www.professional-ho.co.nz/ ... "things that are new and 
+         quirky will be successful" - analyst's super-specific prediction: 
+         http://news.bbc.co.uk/1/3123993.stm ... inappropriate print ad:
+    http://thegareth.net/home/photos/random/inappropriate_advert_of_the_week
+         ... usually boots faster than this: http://www.mysymbian.com/ ...
+         London Flash mob "staged": http://www.blackbeltjones.com/work/
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         We can't remember if next Thursday's ARTISTS AGAINST SUCCESS 
+         RECORD LABEL PARTY (from 8pm, Thu 2003-08-14, The Windmill, 
+         Brixton, SW2, UKP3 may include "Goody Bag") is the show that 
+         MJ HIBBETT was supposed to be learning Eminem's "Stan" for, 
+         though no doubt the other performers - including the "Joy 
+         Division meets Mario Bros electro" of JOHNNY DOMINO - will 
+         graciously decline your shouted requests for "Hey Hey 16K", 
+         "Programming Is A Poetry For Our Time", or any of Hibbett's 
+         slightly less geeky tunes for that matter. In fact, why not 
+         make it a week of offbeat pop by catching the highlights of 
+         last month's "Placard London" headphone-only electronica 
+         weirdness at Wednesday's DORKBOT (7pm, Wed 2003-08-13, 
+         Limehouse Town Hall, London E14, free), or indeed the laid-
+         back jazz and hip-hop of INNOCENT SMOOTHIES' FRUITSTOCK (12pm 
+         to 9pm, Sat & Sun 2003-08-09/10, Camden corner of Regents 
+         Park, London, free) - while of course queuing for the Pimms, 
+         Ben & Jerry's and Ty Nant spring water essential to recreating 
+         that grass-roots Woodstock atmosphere. 
+       http://www.windmillbrixton.co.uk/Months/2003August.html#Thursday
+             - vs http://mjhibbett.tripod.com/sampler/programming.htm
+         http://dorkbot.org/dorkbotlondon/
+              - "gabba techno, but played live with a home-made feel"
+         http://www.innocentdrinks.co.uk/fruitstock/details.html
+                      - caution: self-consciously cute corporate site
+         http://www.edinburghnews.com/capitalcity.cfm?id=842902003
+             - Gary Le Strange "best Fringe debut" since Steve Coogan 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         SLITHY is "a library for creating animated presentations
+         using Python and OpenGL". Actually, it's a bit more than
+         that: it's a framework for creating little bits of drawing
+         and animation code objects that can dance along to a
+         time-line on a canvas, and have enough introspection to be
+         generally treated by code-generating proggies. In other
+         words, to write a presentation, you hand write code for all
+         your objects you need (or pull some out from the toolkit
+         provided), and then stick them together in a simple Python
+         script. Or - better - write that code that *generates* the
+         code that runs your presentation. To put it another way, if
+         the marketing types can waste hours building a Powerpoint
+         presentation, you can certainly deserve to spend *months*
+         creating the perfect meta-presentation. Code for everything
+         is shockingly clean; the documentation is, literally, a
+         philosophical thesis, and the guys at SIGGRAPH reportedly
+         loved it. Freak out your CEO by trapping his entire business
+         logic in a little bouncing 3D cube on slide 4 today.
+         http://www.cs.washington.edu/homes/dougz/slithy/
+                                                               - ssss
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         inevitably: http://www.fixyourmp.com/ ... "At MINAS TIRITH, turn 
+         LEFT toward MINAS MORGUL": http://www.ooblick.com/text/tomordor/ 
+         ... nice idea, good answer to "how are you going to make money":
+         http://www.mailinator.com/mailinator/Faq.do ... after the glow of
+         http://www.themarriage.co.uk/ comes http://www.thedivorce.co.uk/ ...
+         something candled this way comes: wish Ray Bradbury happy birthday
+         at https://planetary.org/bradbury/ ... www.respectcopyrights.org 
+         vs www.disrespectcopyrights.org ... top-ten net vulnerabilities 
+         - LIVE!: http://www.qualys.com/security/ ... investigators ask: 
+         could we have started killing off the Beatles any earlier?
+         http://www.anycities.com/user/uberkinder/ ... before they rise to kill
+         STEVE JOBS? http://www.foxnews.com/story/0,2933,88439,00.html#2 ...
+         ah, but who is *really* behind http://www.google-watch-watch.org/ ?
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> you wait all year for some terrestrial appearances from 
+         MTV uber-prankster Tom Green, and then two come along at once: 
+         hopefully a few Glenn Humplik-humiliating highlights in chat 
+         format THE BEST OF THE NEW TOM GREEN SHOW (11.45pm, Fri, C4); 
+         plus a cameo in MALCOLM IN THE MIDDLE (6.45pm, Thu, BBC2)... 
+         SEX AND THE CITY (10pm, Fri, C4) briefly explores the erotic 
+         possibilities of the TiVo... and it's psychological horror 
+         almost every other evening, in the form of JACOB'S LADDER 
+         (11.50pm, Fri, BBC1), STIR OF ECHOES (10.15pm, Sun, BBC1) and 
+         INSTINCT (9pm, Wed, ITV) - aka "Gorillas In The Mist" meets 
+         "Silence Of The Lambs"... THE BEACH (9pm, Sat, BBC1) isn't so 
+         bad until it goes all "Apocalypse Now"... Michelle "Dawson's 
+         Creek" Williams ponders a different kind of adolescent trauma 
+         in HALLOWEEN H20 (10.55pm, Sat, BBC1)... and C4 gives up the 
+         weekend ratings battle with WITNESS: GOD BLESS IBIZA (8.15pm, 
+         Sat, C4) plus Dermot O'Leary taking a madcap look at papal 
+         infallibility in SOME OF MY BEST FRIENDS ARE CATHOLIC (7.30pm, 
+         Sun, C4)... "too much reality" TV is examined in both ED TV 
+         (9pm, Sat, C4) and THE TRUMAN SHOW (10.15pm, Wed, BBC3)... 
+         preceded by MAN TRAP - STRAW DOGS: THE FINAL CUT (11.20pm, 
+         Sat, C4), controversial 1970s mathematician's revenge STRAW 
+         DOGS (11.15pm, Sun, C4) is championed by - you've guessed it, 
+         Mark Kermode... BLACK HAWK DOWN: THE TRUE STORY (8pm, Tue, C5) 
+         appears to be the third History Channel reversioning of the 
+         source material for its two "Battle Stations" profiles of the 
+         Black Hawk helicopter shown on C4 in March and June of this 
+         year... while yet another role-reversal life-swap contrivance 
+         MASTERS AND SERVANTS (9pm, Thu, C4) will nonetheless hopefully 
+         feature the eponymous Depeche Mode track as its theme tune...
+         
+         FILM>> over-the-top performances from Johnny Depp and Geoffrey 
+         Rush almost salvage overlong Disney theme-park-ride adaptation 
+         THE PIRATES OF THE CARIBBEAN: THE CURSE OF THE BLACK PEARL 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7519 : 
+         A fish biologist accompanied the crabs to the set. He released 
+         6 Nigerian Moon Crabs on the sand and the fake skeleton and 
+         stood just off camera [...] They were retrieved when the scene 
+         was over and brought back home)... it's "Freddy Vs Jason" next 
+         week, Paul "Shopping" Anderson is making "Alien Vs Predator" 
+         http://www.imdb.com/title/tt0370263/board/flat/2453059 , but 
+         it's the ultimate faceoff of Rugrats Vs The Wild Thornberrys 
+         providing this summer holiday's "mild peril" in RUGRATS GO 
+         WILD ( http://www.screenit.com/movies/2003/rugrats_go_wild.html :
+         We briefly see Charlotte (an adult) in her non-sexy, non-
+         revealing underwear)... while "Somebody sensitive and tough/ 
+         Somebody there when the going gets rough/ [...] Somebody cool 
+         but real tender too/ Somebody, baby, just like [Colin Firth]" 
+         was Christina Aguilera's original definition of "You English 
+         are so uptight!" Anglo-American kids comedy WHAT A GIRL WANTS 
+         ( http://www.capalert.com/capreports/whatagirlwants.htm : 
+         lashout at mother; punk dress, repeatedly; lack of chemistry 
+         and energy in the kissing scene. Thankfully)...
+         
+         PHEAR, BEER, AND OTHER PEOPLE'S ROOT PASSWORDS #2 with our "My 
+         second DEFCON" correspondent, "Crash Override", Las Vegas>> 
+         "popular adjunct to the BlackHat briefings" might not be quite 
+         such an accurate description any more, as BlackHat speakers 
+         were reportedly asked not to present at DefCon. Not that this 
+         seemed to affect the talks' popularity: fire marshals decided 
+         that each of the three presentation rooms could only hold as 
+         many attendees as there was available seating. With a con of 
+         roughly 4500, and seating in all three streams of talks for 
+         only about 1900, that's lot of disappointed haxx0rs. But the 
+         Defcon staff explained the situation patiently and repeatedly, 
+         "flushing" the crowd out of the room at the end of each talk 
+         so the maximum number of people could see something. The video 
+         feed to the bar gave up after a day or so, but all the talks 
+         were on "DefCon TV" throughout the hotel so you could catch 
+         most of what you wanted to... the talks I did see were well 
+         worth the queuing: CAT OKITA on peer-to-peer reputation 
+         software that might solve the authenticity problem on security 
+         mailing lists http://www.geekness.net/tools/aura/ ; DNSCon's 
+         own JONATHAN WIGNALL summarising the history and future of 
+         network worms and defences against them; and RYAN LACKEY 
+         overcoming myriad technical problems to present a post-mortem 
+         on HavenCo http://zdnet.com.com/2100-1105_2-5059676.html - 
+         life imitates http://www.pirateutopia.org/macbeth/about.htm ? 
+         Still, missing a few talks was a bug and a feature - I met a 
+         lot more people and made a lot more friends than last year; 
+         not being one of the hordes huddled over a laptop also seemed 
+         to help... the HACKER JEOPARDY contest was even more chaotic 
+         than last year: on the Friday night "supporting babe" BEER 
+         BETTY was replaced by a selection of haxx0r girls - alleged 
+         "pornstars of the hacker scene" - who would strip and duct 
+         tape audience members when necessary. Things got better, or 
+         worse, on the Saturday, with the third qualifier and final 
+         taking a marathon four hours to complete. For the qualifier 
+         the OSI category caused uproar amongst the audience, "friend 
+         of NTK" DAN KAMINSKY arguing with compere WINN SCHWARTAU about 
+         quite where TCP sits on stage. The final ended, appropriately, 
+         in a complete farce, with the "Son of Portmath" question 
+         suffering a typo between SNMP and SMTP... there were plenty of 
+         other event highlights - the Scavenger Hunt team that scored 
+         points by bringing a cow's head to the organisers' table, the 
+         runaway LockPicking contest winner who'd only been practising 
+         for five months, playing "six degrees of David Litchfield" 
+         with the UK security enthusiasts, the orgy in the pool, the 
+         rare times KEVIN MITNICK wasn't being asked for an autograph, 
+         and PETE SHIPLEY briefly seen hanging around at the back of 
+         talks. Of course, with the contract with the Alexis Park Hotel 
+         expiring this year, DefCon 0B was, of course, the last one 
+         ever. Well organised, well attended, very friendly - I'm 
+         looking forward to next year's "last ever" DefCon already...
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+          "we said snackspot.org *above* 'Sideburns' and 'The Cure'"
+                    http://www.snackspot.org/images/qmag.jpg
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

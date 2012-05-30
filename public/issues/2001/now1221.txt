@@ -1,0 +1,290 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-12-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "[British] children open their gifts on Christmas afternoon, 
+         following a meal of goose or roast beef and a dessert of plum 
+         pudding..."
+       http://encarta.msn.com/find/concise.asp?mod=1&ti=761556859&page=4
+             ...then ride around in their open-top Bentleys showering 
+                             gifts on the poor and shouting "Hoorah!"
+
+
+                                >> HARD NEWS <<
+                                 legal reviews
+
+         Naturally, we were stunned by a site we saw this week which 
+         purported to be the detailed log of workplace bullying, 
+         together with some pretty specific and damning accusations. 
+         Sadly, since, British law says ISPs are liable if notified of 
+         defamatory material on their servers, all it took was 
+         correspondence between a worried employer's solicitors and the 
+         hosting ISP to have the site shut down. The press release by 
+         the site creator is suitably outraged: "'[They] have shot the 
+         messenger,' says the author of the site, RICHARD ASHTON.", 
+         "'Do they not know that the Internet doesn't work like that?'" 
+         Well, maybe they don't - but we're a bit surprised by Mr 
+         Ashton's reaction. For isn't this the same Richard Ashton who 
+         was ongoing technical consultant and supporter of LAURENCE 
+         GODFREY? Lo, and was it not Godfrey's case against Demon that 
+         established the precedent that ISPs are publishers in English 
+         libel law? In other words - this *is* how the Internet works, 
+         apparently. Ashton's done what everyone else does, and has 
+         moved the site to a US host: best of luck. Sadly, as Laurence 
+         has pointed out to us in the past, we could be liable for even 
+         *linking* to libellous material, so fear of a similar libel 
+         suit really means we can't publicise Richard's new location. 
+         Justice, huh? 
+         http://127.0.0.1/
+                                - this space intentionally left blank
+
+         Worried that it's getting too late to send that seasonal
+         deaththreat? Your Noel gift of loosely-packed icing sugar
+         lost in the post? Armchair hoodlums the world over, twiddle
+         your moustachios with relief: EVIL ANGELICA and her "Xmas
+         Giveaway" hacking offer have returned. As involuntarily
+         advertised by www.meet-victoria.com (and later by
+         pittsburghrock.com , www.eunhyang.net , www.gibnews.com, and
+         www.eprofessionalsinc.com ) web-defacing haxx0r Angelica
+         will gladly replace the perfectly innocent front page of a
+         semi-obscure domain with festive gr33tz of your own
+         devising. Deadline is 2001-12-23, so send your requests to
+         webhack_competition@cow-tipper.com where Angelica - as well
+         as, we're sure, the National Crime Squad - will select
+         the most creative and/or incriminating for further
+         examination. Have fun, but do remember: that 4am knock on
+         the door is not *always* Santa Claus.
+         http://defaced.alldas.de/?attacker=EVIL+ANGELICA
+   - you're already taking that mailbox down, aren't you another.com?
+
+         Perhaps understandably, the one "titsup.com" story that THE 
+         REGISTER haven't been crowing over this week involved the 
+         layoffs of half their own writing staff. As reported in THE 
+         GUARDIAN blah blah irreverent approach blah blah advertising 
+         downturn, but it was left to relatively-gloat-free Reg-in-
+         exile THE INQUIRER to name those made redundant, including 
+         reader's favourite Kieren McCarthy, whose work in particular 
+         we've had the honour of linking to on oh so many occasions. 
+         Tech journalism, we fear, will be an even duller place without 
+         them. Plus, with THE TIMES INTERFACE and DOTCOM TELEGRAPH (nee 
+         CONNECTED) also among this year's casualties, we've got to 
+         pray that BBC NEWS ONLINE keeps going next year, or we're 
+         going to be completely stuck for material.
+         http://www.theinquirer.net/19120106.htm
+                - Point-Counterpoint: Register Loses Four Journalists
+     http://www.hamhigh.co.uk/archived/2001/1214/news/asp/newsbig.asp
+                             - vs: experts reject "Register For Gays"       
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         FOXTONS attack stereotype of boring, non-cross-dressing estate 
+         agents: http://www.foxtons.co.uk/shortlets/images/arnaud1.jpg ,
+         http://www.foxtons.co.uk/shortlets/images/tim1.jpg ... it's 
+         Craig *David*, dad: http://www.ntk.net/2001/12/21/dohcraig.gif 
+         ... BBC illustrations don't get much more literal than this: 
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1719000/1719019.stm
+         ... the capable JEEVES provides topical hint for US military: 
+         http://www.ntk.net/2001/12/21/dohjeeves.gif ... inappropriate 
+         *hic* banner ad: http://www.ntk.net/2001/12/21/dohalco.gif ... 
+         http://widdecombe-of-the-week.museum ... sales starting early: 
+         http://www.topixonline.com/cgi-bin/sgin0101.exe?T1=TC604C ... 
+         GeForce 2 MX 400 graphics card - fast enough for 11.7GHz CPU?: 
+     http://www.compaq.ie/products/desktops/evo/options/d300/p4_1.5.stm
+         ... if you like [Channel 4 News], we also recommend "Edge Of 
+         Darkness": http://us.imdb.com/Title?0239164 ... run them down, 
+         using your car: http://www.ntk.net/2001/12/21/dohsf2.gif ... 
+         searching for "jugs" at DEBENHAMS http://www.debenhams.com/ vs
+         http://catalogs.google.com/catalogs?q=bra ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         [ Having last week broken our vow to hand-test every Tracking
+         we cover, tragically the whole house of cards has come
+         tumbling down. So, while we struggle to reimplement our
+         ethics using a strongly worded New Year's Resolution list,
+         alllow us to slip one biased review through the breach. If
+         only because he's been sending us tips, quotes and bile
+         for years, if only because his plug-in makes a disturbingly
+         fascinating screensaver even if you have no clue what you're
+         looking at, if only because it's Newtonmas: Lloyd - this one's
+         for (and by, and from) you: ]
+
+         See Teledesic fully operational. Run Globalstar without
+         spending any money. Deorbit Iridium's satellites, one by
+         one. The only constellations you'll ever get to control are
+         in SaVi 1.2, which runs under Linux and some of those
+         unfashionable Unixes, too. Now, if someone can plot a TIE
+         fighter and supply a Death Star texture-map, we'll be able 
+         to use all this for something people actually seem to WANT.
+         http://savi.sourceforge.net/
+                                      - now with added lava-lamp mode
+         http://www.geomview.org/
+                         - set your controls for the heart of the sun
+         http://www.ee.surrey.ac.uk/Personal/L.Wood/software/SaVi/
+                                               - it's that man again!
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         "Well, it looks like *somebody's* not getting any this 
+         Christmas": http://www.cihost.com/images/ebus_popup_xmas.jpg 
+         ... this week's URL pass-the-parcel: http://www.nolgo.com/ ... 
+         disclaimerville, dude: http://home.att.net/~waterses/myeck/ 
+         ... http://www.monkeon.co.uk/store/ too trendy to stock any of 
+         http://www.martian.fm/singles.htm ... and they call computer 
+         users sad: http://www.cardiffcity.com/Swans_Fan.mp3 ... *too* 
+         viral marketing?: http://www.mainframe.co.uk/christmas.mov ... 
+         http://www.violetshivers.com/John/Burgertime/Tenets.html vs 
+         http://www.uncleclive.co.uk/ ... http://www.weaselweekly.com/ 
+         vs http://www.fascinatingferrets.com/ ... hey, who needs 
+         CRYPTO?: http://www.coincidencedesign.com/q-shutdown.html ... 
+         handouts *will* be available at the end of the presentation: 
+         http://www.craphound.com/misc/doubletree.htm ... Xmas panto at 
+         Sussex University Cognitive Science Dept featured character 
+         called "the cyborg formerly known as Kevin Warwick"... oops:
+         http://www.dailyrotten.com/articles/archive/189387.html vs 
+     https://badtrans.monkeybrains.net/search.html?table=res&search=gov.uk
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> in the absence of any real celebrities, the BBC goes a 
+         bundle on impressions of them instead, in ALISTAIR MCGOWAN'S 
+         BIG IMPRESSION (11.15pm, Fri; 7.40pm, Tue, BBC1) plus Dame 
+         Edna's NIGHT OF A THOUSAND FACES (9.25pm, Sat, BBC1)... 
+         "Rabblemock Ha-Ha Time" returns in the unamusing disguises of 
+         the TRIGGER HAPPY CHRISTMAS TV SPECIAL (9.30pm, Fri; 10.40pm, 
+         Sat; 9.05pm, Mon, C4) followed next Fri by who-cares docuspoof 
+         BEING DOM JOLY (11.20pm, Fri, C4)... but some of the films are 
+         quite good, including against-type De Niro nerdfest THE KING 
+         OF COMEDY (11.5pm, Fri, BBC2), maths-prodigy man-weepie GOOD 
+         WILL HUNTING (9.25pm, Sat, BBC2), and topical desert shoot-em-
+         up LAWRENCE OF ARABIA (1.40pm, Sun, C4)... Sunday night is 
+         particularly poor, however, featuring historo-yawn ELIZABETH 
+         (9pm, Sun, C4), Terry Gilliam time-travel tedium TWELVE 
+         MONKEYS (9pm, Sun, BBC2) and more o' Robert De Niro in sub-
+         "Mission Impossible" romp RONIN (10.30pm, Sun, BBC1)... 
+         households celebrating a more "non-traditional" Christmas Eve 
+         can pick from quickfire Jackie Chan kickabout RUSH HOUR 
+         (8.30pm, Mon, BBC1), the sophisticated live-action South-Park 
+         humour of BASEKETBALL (10.35pm, Mon, C4), or ITV's bafflingly 
+         regular early-morning showing of TIM BURTON'S THE NIGHTMARE 
+         BEFORE CHRISTMAS (1.15am, Mon, ITV)... on Christmas Day, we'd 
+         still go for THE GREAT ESCAPE (3.10pm, Tue, ITV) over Pixar's 
+         overrated TOY STORY (4.40pm, Tue, BBC1)... and, indeed, Peter 
+         "Lord Of The Rings" Jackson's BRAINDEAD (1.40am, Tue, C4), in 
+         a double-bill with Clive Barker's HELLRAISER (12midnight, Tue, 
+         C4), over ponderous Paltrow parallel-reality SLIDING DOORS 
+         (10.55pm, Tue, BBC1)... the BBC's commitment to CGI continues 
+         with an utterly convincing "Bob Hoskins" exploring THE LOST 
+         WORLD (6.25pm, Tue & Wed, BBC1) and animated Woody Allen 
+         anthropomorphism ANTZ (5.15pm, Wed, BBC1)... and Julia "Press 
+         Gang" Sawalha nips out of Sky's curiously unpublicised TIME 
+         GENTLEMEN PLEASE (10pm, Mon, Sky1) to stand in for Caroline 
+         Quentin in JONATHAN CREEK (9.05pm, Wed, BBC1) - which, if only 
+         they replaced Alan Davies as well, would be nigh-on perfect... 
+         
+         FILM>> basically, the scenery is like a three-hour holiday to 
+         New Zealand, with some dudes playing a particularly cliched 
+         Warhammer campaign in front of it - probably exactly what you 
+         were hoping for from THE LORD OF THE RINGS: THE FELLOWSHIP OF 
+         THE RING (http://www.screenit.com/ : a comment is made about 
+         what certain characters smoke in their pipes being "weed"; 
+         magic, sorcery and the like [...] occurs and/or is practiced 
+         by some characters; kids could be enticed to imitate all of 
+         the fighting and action that occurs in the film)... a decent 
+         supporting cast help make up for Kate Beckinsale grinning like 
+         a lunatic in fatalistic John Cusack rom com SERENDIPITY 
+         (http://www.capalert.com/capreports/serendipity.htm : 
+         homosexual jokes, insult, suggestion; extremely short skirt; 
+         much faith in fate and destiny)... or it's Vinnie "Swordfish" 
+         Jones, Danny "Human Traffic" Dyer and Sally "Smack The Pony" 
+         Phillips - together at last! - in unintentionally homoerotic 
+         Burt Reynolds remake THE MEAN MACHINE (http://www.bbfc.co.uk/ :
+         passed '15' for strong language and moderate violence) - and 
+         not, it appears, based around the 2000AD/Judge Dredd character 
+         of the same name... 
+         
+         RED BOOK AUDIO>> and kicking off our special tribute edition 
+         to pioneering soundalike-warez enthusiast George Harrison 
+         http://www.copyrightwebsite.com/audio/harrison/harrison.asp , 
+         we're not sure which '80s ambient track the CHEMICAL BROTHERS' 
+         "Star Guitar" reminds us of, but the view-from-a-train video, 
+         directed by Michel "Let Forever Be" Gondry, is fantastic... 
+         furthermore, reader RO BITCHARSE alleges that the intro to 
+         "Rebel Girl" by BIKINI KILL "is exactly the same" as "I Am The 
+         Resurrection" by THE STONE ROSES, prophesying that "Kathleen 
+         Hanna would kick Ian Brown's scrawny little arse if they ever 
+         came to blows over it"... and over by the Top 40 section, BEN 
+         MOOR muses that S-CLUB 7's "Have You Ever" starts "an awful 
+         lot" like THE CARPENTERS' "Top Of The World", and that TYMES 
+         4's "She Got Game" is "exactly the same song" as DREEM's "He 
+         Loves You Not" - "even down to the same video. Nearly"... 
+         among readers' own efforts, SHELDON SOUTHWORTH felt compelled 
+         to warn the world of his seasonally-themed remixes over at 
+         http://www.diffusiononline.net/ , including GREG LAKE's "I 
+         Believe In Father Christmas 2001" and "a semi-official 
+         Clangers one on the way in the New Year", while "Hey Hey 16K" 
+         guy MJ HIBBETT http://www.mjhibbett.com/ continued to remind 
+         us of a modern-day Half Man Half Biscuit - but with a genuine 
+         grasp of pathos and melody - on his new "Milk And Baubles" EP, 
+         which features an undocumented acoustic cover of EMINEM's 
+         "Stan"... which brings us to this month's round-up of "Ads 
+         That Sound Like Songs That Sound Like Other Songs That Sound 
+         Like Videogames, Or Something". NICK DRAGE wondered if the use 
+         of RESIDENT EVIL sound effects in MTV's recent ads for 
+         extremepie.com created "the right mental links" in the viewer, 
+         as MARTIN PARKER questioned the appropriateness of the ISLEY 
+         BROTHERS' "Harvest For The World" ("surely a plea to us 
+         decadent Westerners to try to end world hunger", he argued, 
+         with lyrics like "Half of us are satisfied, half of us in 
+         need") in the TV campaign for "sub-pub grub" chain Harvester. 
+         "Screw you, Starvin' Marvin," he paraphrases, "I'm going for 
+         the all-you-can-eat special". And, to end on a Christmassy 
+         note, one of our own current ad-music favourites: if it's too 
+         loud for the bloke in the bar to hear that the girl wants to 
+         order a Baileys, then *what the hell* is she talking to her 
+         friends about beforehand?... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                        "we said NTK *above* tvgohome"
+                  ("Top 10 websites of the year", The Face, p102)
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

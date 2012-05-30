@@ -1,0 +1,293 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-09-03_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+      "By the time we are done reading 2000 AD, we will have a
+      confident understanding of how today's world will not only
+      accept, but embrace the coming anti-christ."
+
+  - featured review of 2000 A.D. : ARE YOU READY? : How New
+    Technologies and Lightning-Fast Changes Are Opening the Door for
+    Satan and His Plan for the End of the World
+    http://www.amazon.com/exec/obidos/ASIN/0785271880/
+         ...people taking that "Judge Child" saga a bit too literally 
+                                             
+
+                                >> HARD NEWS <<
+                                  mail abuse 
+          
+         Ubiquitous publicity for Microsoft's new "blackmail.com"
+         feature for HOTMAIL, wherein the peace-loving Swedes uncover
+         that the password question hint for all accounts was
+         effectively "Password, what password?". A simple CGI exploit
+         blew Hotmail wide open - yet tragically, it still wasn't
+         simple enough the UK media to comprehend. Poor Vic Keegan at
+         the Guardian became an instant net.celebrity for his
+         assertion that "e-mail sent throught Hotmail differs from
+         most other e-mails because it is routed through the
+         internet" (big Fidonet fan, our Vic). Channel Five Teletext
+         simplified that whole confusing "e-mail" jargon by referring
+         to problems with "cyber posts". Online, Slashdot descended
+         into a strange loop of "HAHAHA! MICROSO~1 WINDOZE LAME!"/
+         "Actually, Hotmail uses Solaris"/ "HAHAHA! MICROSO~1 USE
+         SOLARIS!" posts. Oldbies declaimed smugly that they'd never
+         trusted Hotmail for vital mail anyway - then remembered that
+         it had all their shell passwords in its pop3 download
+         utility (View Source on the config form, suckers). Ziff Net,
+         among others, did an excellent follow-up on a new batch of
+         Hotmail hacks that had sprung up. These new exploits were
+         even simpler: for full Hotmail admin privileges, you just
+         e-mail your username and password to
+         trick_lamers_into_giving_you_their_ids@hotmail.com for admin
+         privileges and - DOH! In all the confusion, the real
+         culprits - Microsoft, remember? - managed to exit unharmed
+         through their own publicity backdoor. In the words of the
+         Guardian again: "If Microsoft - probably the company with
+         the greatest intellectual firepower in the world - cannot
+         achieve [security], then what can mere mortals do?". Not be
+         so fucking stupid as to engineer out the password checks in
+         their scripts, maybe? Just a thought.
+         http://www.cryptonym.com/hottopics/msft-nsa.html 
+         - you want a real Microsoft security backdoor? Ask the NSA.
+
+         Look forward to an interesting month for press coverage of
+         the always nutty free ISP market. Let's get this straight:
+         EMAP's mags are heavily involved in the well dodgy
+         FREENETNAMES ISP (which offers you domain names for a fiver
+         with your login, on the understanding that they'll charge
+         you a fortune for moving it). They'll be far too busy
+         slagging off the online competitor BBC's utterly impartial
+         sponsorship of FREEBEEB to cover that story. And the
+         always-objective FUTURE PUBLISHING won't have space to cover
+         either - not without plugging *their* exclusive deal with
+         AOL'S NETSCAPE ONLINE service. Brings a whole new (and
+         opposite) meaning to the phrase "free press", doesn't it?
+         http://www.futurenet.co.uk/futureonline/press/futurenetscape.asp
+          - that's free as in "free publicity", not as in "free beer"
+         http://www.freenetname.co.uk/admin/terms.asp 
+     - 94UKP to send an e-mail to Nominet? Banner ads? "Free money", too!
+          
+         Was he in the bathroom? The master bedroom? The toilet? No,
+         but, after over two years of wandering the levels [NTK
+         1997-10-10], the current location of Matthew Smith,
+         reclusive genius behind Manic Miner and Jet Set Willy has
+         finally been determined. In a tell-all interview with
+         comp.sys.sinclair regular Peter Mella (and a drink-all pub
+         night with ex-Software Projects/Bug-Byte Chris Cannon),
+         Matthew exposes the truth and lies behind his decade-long
+         disappearence. FACT: He did move to a commune in Amsterdam.
+         FICTION: He never phoned up Caesar the Geezer to bemoan his
+         diminished status. FACT: He hasn't got a job right now, and
+         can't work on games because his PC isn't up to it. FICTION:
+         He doesn't want you to send him money, or offer him a job in
+         your multi-million business you'd never started, if it
+         wasn't for the addictive nature of POKE-ing his games. Get
+         to it, manic moguls.
+         http://www.jonlan.demon.co.uk/spectrum/matsmith/ 
+                 - if they think he's the real thing, we're convinced
+         http://www.pmella.freeserve.co.uk/copy-of-the-spectrum-site/
+                      - "Not deed poll. I am Matt from Earth though."
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         EMMA NICHOLSON announces that government "moving from 16-bit
+         encryption to 32-bits" ... "Finland is home to Europe's most
+         virile men," according to study cited by LINUS ... CHINA.COM
+         nicks taiwan.com domain ... NETSCAPE, as ever, gives answer
+         to the wrong question: http://www.ntk.net/doh/990903yes.gif
+         ... WWW.ALLTHEWEB.COM say it took them ten years to develop
+         their Web search engine (you can see how they'd get bogged
+         down pre-1993) ... MILITARY still struggling with CAPS LOCK
+         in disclaimers: http://144.170.127.189/ ... BBC WALES Online
+         Editor job "not for a techie", says ad (the BBC is an equal
+         opportunies employer) ... MICROSOFT lets their Commerce
+         Server speak for itself: http://www.ntk.net/doh/990903server.gif
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Most fun you can have at next week's ECTS: asking awkward
+         Dreamcast questions at the SEGA stand. Suggestions so far
+         include: Why was the launch delayed to sort out the online
+         services, when there aren't any online-play UK games due
+         until April? (No, split-screen Sega Rally 2 doesn't count.)
+         Since the ad campaign trumpets a possible "six billion
+         players" worldwide, doesn't the incompatibility between Euro
+         and US/ Japanese machines make that an overestimate of, hmm,
+         about five billion? Is the DC browser really a) developed by
+         the Japanese and b) therefore "rubbish" (ie no RealAudio,
+         its own proprietary MP3 audio format, and a grasp of
+         cascading style sheets akin to NTK office fave, Netscape 3)?
+         And finally, have the Japanese in fact given up on DC
+         already, abandoned the much-touted WinCE SDK, and now
+         desperately hope the spurned Microsoft will buy up the tech/
+         company for their own CE network games machine when they 
+         finally go under next year?
+         http://www.ects.com/
+                              - still, JC "Mega" Herz should be there
+         http://www.next-generation.com/jsmid/news/7540.html
+                       - and will need 3D/CPU upgrades every 6 months
+         http://www.mentealth.com/
+                    - Playstation marketing still contemptuously poor
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Not quite the free local weekend calls everyone's hanging on
+         for (see NTKs passim), but sinister sounding price plan BT
+         TOGETHER will reputedly offer half-price national calls (and
+         1p/min local evening rate) from 1st October for a monthly
+         charge of UKP12. In an act of noble, self-sacrificing
+         generosity, it also triples the laughable new "allowance" of
+         one free hour of local weekend calls (per *month*) - obviously
+         less of a big deal if you're currently logging in through on
+         of those "shared" BT Internet accounts. Still, it's
+         fractionally more palatable than their other free calls
+         deal, currently trialling in Bristol and Newcastle: BT
+         FREETIME tempts users with up to 10 mins of free calls (per
+         *day*!), assuming you (and the person you're calling) can
+         tolerate amateurish local radio-style adverts every couple
+         of minutes. Data, faxes and calls to the operator are
+         understandably forbidden, but maybe there are still ways of
+         ringing up BT and making them listen to their own
+         commercials...
+http://www.yahoo.co.uk/headlines/19990902/news/news_story_89718s_9.html
+       - "easy to remember", says BT (ie more competitive with cable)
+         http://www.freetime.bt.com/
+                          - hope the ads aren't all 3 minutes long...
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         more signs of the apocalypse: FUTURE to launch Linux mag ...
+         Attention. CARMACK has learnt Perl. This is not a drill ...
+         DAVID FURNISS quits DEMON ... YODA and BEEKER, DAVROS and THE
+         NUN: http://dspace.dial.pipex.com/log/sitcom.htm ... so why
+         is the MoD buying 100 copies of FONTOGRAPHER a week? ...
+         for all you Trekkie, Web-surfing, e-commerce crazy
+         technophobes: http://www.ludditereader.com/ ... protect us
+         from the AMISH threat: http://home.earthlink.net/~demainz/ ...
+         incoming PHRACK set for the End of File bug day, 9/9/99...
+         hope the THE BLAIR WITCH COMIC is written on bits of
+         leaves and bark: http://www.onipress.com/blair.html ... FAQ
+         jeopardy : http://www.hmprisonservice.gov.uk/faq.asp ... honesty 
+         in brochureware: http://www.fbn.bc.ca/index.html ... DUKE NUKEM
+         doing Monster Cable endorsements ... UINs have *credibility*?
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=152398300
+
+
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> something of a special week for fans of overblown
+         two-hour-plus movies, kicking off with Terry Gilliam's
+         hideously ham-fisted Terminator remake TWELVE MONKEYS
+         (9.30pm, Sat, BBC1)... THE SHINING (10.30pm, Sat, C4)
+         launches a Kubrick season that continues with an arty
+         "making of" promo for EYES WIDE SHUT (9pm, Sun, C4) and FULL
+         METAL JACKET (10pm, Sun, C4)... while THE BRIDGE ON THE
+         RIVER KWAI (8.10pm, Sat, BBC2) lays down supporting fire for
+         *yet another* WORLD WAR TWO NIGHT (from 6.05pm, Sat,
+         BBC2)... Keith "Cheggers" Chegwin presides over an ancient,
+         nobler way of settling European disputes in C5's revived
+         IT'S A KNOCKOUT (8pm, Fri, C5)... the BBC continues its
+         decline into prurient porn nonsense with daily strand ADULT
+         LIVES (from 9.40pm, Sun, BBC2)... season 7 of SEINFELD
+         (12am-ish, Mon-Thu, BBC2) returns in a near-daily slot -
+         Soup Nazi next week!... and Monday's pretentious epic is
+         Ollie Stone's NATURAL BORN KILLERS (11.10pm, Mon, C5);
+         Tuesday's INDEPENDENCE DAY (9pm, Tue, C5)... atrocities of
+         60 years ago at last get the ratings they deserve, as ITV
+         presents - we kid you not - THE SECOND WORLD WAR IN COLOUR
+         (10pm, Thu, ITV)... while this week's discouragingly
+         cable-friendly themes - Nazis and sex - come to a
+         spectacular climax in another of those worthily dull
+         editions of SECRET HISTORY (9pm, Tue, C4) entitled "Sex And
+         The Swastika"...
+
+         FILM>> the long-awaited alliance of Katie Holmes (House
+         Dawson's Creek), Scott Wolf (House Party Of Five) and Jay
+         Mohr (House Jerry Maguire) comes to impressive fruition in
+         pacey Swingers / Pulp Fiction / "Driver" on the Playstation
+         hybrid GO (imdb: black-comedy / grocery-store / independant
+         / multiple-time-frames / revenge / scam / comedy / drama /
+         drugs / gay) - which turns out to have a plot at almost
+         exactly the same point that "Human Traffic" turned out not
+         to.  Oh, and it's not particularly based around the current
+         Simon Lewis novel, Moby's 1991 techno hit,or the Japanese
+         board game of the same name... anyway, it's more fun than
+         John "Die Hard / Thomas Crown Affair" McTiernan's
+         ultra-violent Viking fest THE 13TH WARRIOR (capreports:
+         walls, piles, and pillars of bloody human skulls; rabblery;
+         child nudity; praying to many gods; implied intercourse by
+         cohabitation)... ageing hippy stand-in odyssey YELLOW
+         SUBMARINE (imdb: beatles / surreal)... or Tim Roth's
+         predictably hard-hitting child abuse whistle-blower THE WAR
+         ZONE (bbfc.co.uk: Passed '18' for adult theme, language and
+         nudity)..
+
+         PRO-CELEBRITY FEEBDACK>> ROB ROSENBERGER, maintainer of 
+         "Computer Virus Myths", is so impressed with the far-seeing 
+         predictions of not-at-all panic-mongering tech consultancy 
+         MI2G [NTK 1999-08-27], he's devoted an entire page to them: 
+         http://kumite.com/myths/opinion/thoughts/1999/mi2g.htm . 
+         "We'll win the battle eventually," he confides in a 
+         covering email - and we don't think he means the one 
+         against Serb viruses, "e-bombs" and "cyber warfare 
+         attacks"... both REBECCA EISENBERG and DAVE WINER seem 
+         oddly pleased with their recent mentions [1999-08-06 and 
+         08-27]; perhaps they have different inflections to "career 
+         capping" and "manifestly full of shit" over there... and, 
+         not waiting for us to insult him before getting in touch 
+         this time, "Your zine is fuckin' great. This Ungoed-Thomas 
+         thing kills me. I even read the lame British sci-fi TV 
+         listings sometimes," enthuses BRUCE STERLING, who 
+         (apparently) knows a thing or two about lame sci-fi... most 
+         exciting of all for us fame-hounds at NTK was a missive 
+         from SOMEONE AT NESTLE: "Much as we'd like to take the 
+         credit for Mars's confectionery products," he confessed, 
+         "Twix isn't one of ours" [see NTK 1999-08-20]. Nonetheless, 
+         he did offer to look into a "Chunky Unix - then perhaps 
+         offer it as a trademark to Sun, Hewlett-Packard et al"... 
+         and finally, no sooner had STUART CAMPBELL contacted us to 
+         promote his comprehensively career-spanning archive 
+         http://come.to/worldofstuart/ than we stumbled across his 
+         ideal headgear - at last, you, Stu, can "be" SPIDER 
+         JERUSALEM: http://www.transmetropolitan.com/newsfeed.htm ...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "related to Street of Shame?"
+                        http://www.ntk.net/private_eye/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+                        Yes - that includes you, Gnome.
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

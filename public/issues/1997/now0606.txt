@@ -1,0 +1,244 @@
+ _   _ _____ _  __               06/06/97       NEED TO KNOW NOW
+| \ | |_   _| |/ /   _ __   _____      __ o UK news, views and big
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o canoes packaged into 
+| |\  | | | | . \   | | | | (_) \ V  V /  o ASCII then mangled by 
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o your mailserver>>>>>>>
+
+
+         "One of the most notable parts of this vision of the world
+         supported even through pedophilia is the coming birth of a
+         cyber-race improved by computers. And all which they imagine
+         so original... unequivocally smacks like a rotten carcass."
+                            - tr. from "Il Mattino", Naples, 28/5/97
+                                       attack on www4.iol.it/decoder
+
+                                       sounds original enough for us
+
+
+                               >> HARD NEWS <<
+                                GIF at eleven
+
+         MICROSOFT announced moves to create a multi-million pound
+         research centre in CAMBRIDGE's featureless fenlands.
+         Microsoft told the UK press that it's their "big project
+         for the millenium"; UK press believed them, and Dons awoke
+         to find themselves in the M'soft's "new Silicon Valley". We
+         think it more likely that Chief Tech Officer
+         Nathan Myhrvold just misses the old days with ex-tutor
+         Stephen Hawking. And they wouldn't sell him Trinity.
+
+         Meanwhile, back at Real World College, Cantab: Korean
+         manufacturer SAMSUNG has licensed ACORN's TVCentric(tm)
+         technology for use in consumer electronics. Upshot? Acorn
+         Computers, one of Britain and Cambridge's finest hopes for
+         computer megastardom, is now the world leader in showing
+         fonts on a TV without it looking jittery. We're so proud.
+         http://www.acorn.co.uk/
+                      - comp.sys.acorn.advocacy are going to kill us
+
+         More 'this-isn't-going-to-work-any-more-is-it?'
+         realisations for the authorities. The JET REPORT into
+         Britain's first SATANIC ABUSE case was written in 1988 by a
+         joint committee of police and social workers. Despite the
+         wishes of its authors, Notts Council never released it.
+         Many groups believe that the report's criticisms could have
+         prevented mistakes made in later incidents, such as
+         Rochdale and the Orkneys. Three journalists have now re-
+         published it on the Web. NOTTINGHAMSHIRE COUNTY COUNCIL
+         have served the journalists responsible with a court
+         injunction. Guess what? You can now read the report at
+         mirror sites all over the world. More information from:
+         http://www.xs4all.nl/~yaman/jetrep.htm
+
+         There's been a settlement between TOTALNEWS and the media
+         giants who claimed that, by hyperlinking, its site steals
+         their content. Times Mirror, CNN, Dow Jones, the Washington
+         Post, and Reuters, all now say that (and maybe you should
+         write this down) Total News is still forbidden to put their
+         sites into a framed Web page, but *is* allowed to link to
+         them. The settlement implies a tacit 'permission to link'
+         which may well form the legal argument in later US cases.
+         http://www.totalnews.com      - I hope they don't mind this
+
+         More posh toff educational news: ETON COLLEGE is dumping
+         their 10 PC LAN, and installing an ATM network, linking
+         every building in the prestigious public school to a
+          155Mbps backbone. Each of the 1,289 pupils will have
+         desktop Net access at 25Mbps. Our ETA for the first 1 gig
+         candid Prince William posting to alt.b.p.nude.celebrities:
+         three hours.
+
+
+                               >> ANTI-NEWS <<
+                            you knew this, right?
+
+         US Senators demand spam banned ... survey reveals "Women
+         are no longer afraid of technology"... Netly news reveals
+         people trade porn site passwords... US Senators demand
+         offices ban computer games... Daily Star site promises
+         topless girls, "3D pub" ... US Senators demand Internet II
+         designs includes rural universities... survey says 28% of
+         teenagers consider computer use "cool"... US Senators
+         demand moon, stick... Oracle launch service with CNN;
+         server fails... EU Commissioner "does not have an answer"
+         to Net crime, says "it's a complex problem"...  free e-mail
+         service emarkt considers dropping freephone number, says
+         "service being abused"... And PC World readers believe
+         April Fool, attempt to download hard disk, modems...
+
+
+                                >> CULTURE <<
+                          is that how you spell it?
+
+         Finally, HEATH BUNTING! The digital Damien Hirst takes out
+         all opponents and leaves them to die of EXPOSURE, his new
+         work - an "unexpected look at mailouts and CCTVs". Yes
+         Heath! More CCTVs! As well as the Web site, there's a
+         physical exhibition at Folly's Upstairs Gallery which will
+         "effectively spill out into the city of Lancaster." We have
+         no idea what this means or where Folly's is (we're guessing
+         - Lancaster?), but - hey, it's art with CCTVs in it! Have
+         you no soul?
+         http://www.channel.org.uk/metropolis/ 
+                                              - Show finishes 1/7/97
+
+         Shock win in the ARTHUR C. CLARKE awards - outside bet THE
+         CALCUTTA CHROMOSOME, by anthropologist and author Amitav
+         Ghosh snatched the prestigious UK Sci-Fi prize. The book is
+         a biothriller set in India and the U.S., and nobody I know
+         has read it, because Amitav is a proper writer who does
+         books like 'Shadow Lines' and writes for Granta. Does
+         *nobody* place nifty ideas over emotional intensity
+         anymore?
+         http://www.bookshop.co.uk/scripts/webbook.asp?isbn=0330347586
+
+
+                                >> TRACKING <<
+                        what did your last bot die of?
+
+         APPLE have released the SYSTEM 7.6.1 update for Brit
+         systems. Various bugfixes, chiefly the rash promise that
+         for PowerPC users, "nearly all Type 11 errors are
+         eliminated." What, even with a new Netscape beta out?
+         http://www.euro.apple.com/newdocs/pressreleases/pr-System761.html
+
+         POINTCAST 2.0 beat the rest to become the first of the
+         latest of the, sigh, yes, push clients. Improvements in
+         this beta preview are a better distribution (although it
+         still eats bandwidth like a big daddy pig), and assorted
+         speed-ups and short-cuts. Pointcast, the screensaver that
+         makes you feel like you're working is at:
+         http://www.pointcast.com
+
+         The APACHE GROUP have put out the flags for APACHE 1.2, the
+         latest incarnation of their freebie Web server. Apache is a
+         net-wide, communal programming project that writes the code
+         which drives around 40% of all Web servers. After eleven
+         betas, V1.2 is now, touch wood, as bug-free as you get. New
+         features in the new server are ... too complex to explain
+         here.
+         http://www.apache.org     - what else did you need to know?
+
+         "Internet users to be paid to read advertising email" -
+         virtually anti-news, were it not for the fact that, this
+         time, it's coming from here in the UK - a husband-and-wife
+         team based in Bath. Best bit: their system for verifying
+         that you've actually read the ad (and properly earning your
+         "up to UKP45 a quarter") - a system of code numbers in
+         mails and on ad sites that you mail in for credit. So,
+         nothing you couldn't automate a small Perlbot to "read" for
+         you, then...
+         http://www.htmail.com        - they thought of that, right?
+
+
+                                >> MEMEPOOL <<
+                               do they meme us?
+
+         quake movies... earplugs as officeware...
+         www.clevermedia.com... new BUGS series... quick, what's
+         more exciting? LDAP or IMAP?... death of the computer
+         mag... AD&D's TSR eaten by Wizards of the Coast...
+         Connectix VirtualPC for the Mac looking *good*... SGI not
+         developing NT machines (honest)... EA buy MAXIS - looking
+         forward to "Theme Sim"... somebody kill B5: The Motion
+         Picture... "The problem with the Dragon 32 was that they
+         never licensed the OS"... getting in touch with your inner
+         pimp... the Telegraph's new IT correspondent? Irvine
+         Welsh...
+
+
+                               >> MO' MEDIA <<
+                             cheats for real life
+
+         TV: Arnie serves up a healthy helping of guns (and puns!)
+         in COMMANDO (10.30pm, Fri, ITV) - like the eighties never
+         went away... tonight, Matthew,post-modernists everywhere
+         will be watching THE STARS IN THEIR EYES LIVE FINAL
+         (7.30pm, Sat, ITV) with misguided impersonators pretending
+         to be Jarvis Cocker, Jon Bon Jovi and Susanna Hoffs (from
+         The Bangles)... John Dahl finally pulls off his ambition of
+         making a decent modern film noir in THE LAST SEDUCTION
+         (10pm, Sun, C4), chiefly through the performance of Linda
+         Fiorentino as a femme more fatale than Ebola... in case
+         anyone out there is still trying to follow the intricate
+         conspiratorial meanderings of DARK SKIES (10pm, Mon, C4),
+         the first series ends this week (oh, and it's been
+         cancelled in the US)... the folks behind the Hollywood
+         Kids/Wives/Pets series turn their superficial but
+         entertaining docu-viewpoint on us Brits in CLASS (9pm, Tue,
+         ITV)... Wim Wenders' cyber road movie UNTIL THE END OF THE
+         WORLD (12.10am, Tue, C4) is nearly 3 hours, but worth it...
+         voting has just closed for your favourite repeat of ER
+         (10pm, Wed, C4), but the candidates are still visible at
+         www.channel4.com (under "drama")... and rather less
+         conventional maladies are the concern of Dr Sam BLISS
+         (8.30pm, Thu, ITV), a Cambridge immunologist this week
+         investigating a murder involving "memory transference" -
+         just for a moment, he thinks he's Fox Mulder...
+
+         MOVIES: CON AIR is pretty much last year's all-action
+         surprise blockbuster: The Rock (but on a plane!), with
+         Nicolas Cage, John Cusack, John Malkovich chewing on a
+          smarter-than-usual script by Scott "Beautiful Girls/Things
+         To Do In Denver When You're Dead" Rosenberg... CRASH (James
+         Spader, Holly Hunter) eventually skids into Britain's
+         cinemas (though not in god-fearing Westminster): cars and
+         sex as promised, but nothing to undermine the theory
+         that Cronenberg hasn't made a decent horror film since The
+         Fly... and THE FIFTH ELEMENT (Bruce Willis, Gary Oldman,
+         Milla Jovovich) is a huge futuristic space romp that looks
+         expensive (in a Judge Dredd movie kind of way) but makes
+         *no goddamn sense at all*...
+
+         MUSIC - Some serious sounds due to call in this Summer.
+         Tipped for the top is Roni Size's band REPRAZENT, who
+         finally release their double album "NEW FORMS" (16/06/97,
+         Talking Loud). Feel free to drop KID LOOP'S "TIMEQUAKE"
+         (30/06/97, Filter) into the conversation: delicate drum 'n'
+         bass for those balmy summer eves. Ballistic beat scientists
+         EBOMAN are back, with the follow-up to Sampling Madness
+         Volume 1 called - let's check this, yes, it's  "SAMPLING
+         MADNESS VOLUME 2: BOUNCE TO DISS" (7/7/97, XL Recordings).
+         And if that lot's not enough for you, go buy "3RD
+         PERSPECTIVE", the new release from Japanese jazzers UFO
+         (23/6/97, Talkin Loud). Mad beats, bad singing, and "killa
+         toones".
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week that you can read
+   on Friday afternoon or print out and then take home if you have nothing
+        better to do. It is compiled by NTK from stuff they get sent.
+          It is registered at the Post Office as "sub-opinionated".
+
+                           http://www.spesh.com/ntk
+      Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body.
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+    NTKnow is helped by VIRGIN MEDIA and VENUS INTERNET. They worry about
+                      us, but we don't worry about them.
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 

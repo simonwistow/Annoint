@@ -1,0 +1,18 @@
+.line {
+        overflow-Y: hidden;
+        overflow: auto;
+        font-family: “Consolas”,monospace;
+        font-size: 9pt;
+        text-align:left;
+        white-space: pre-wrap; /* css-3 */
+        white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+        white-space: -pre-wrap; /* Opera 4-6 */
+        white-space: -o-pre-wrap; /* Opera 7 */
+        word-wrap: break-word; /* Internet Explorer 5.5+ */
+        _white-space: pre; /* IE only hack to re-specify in addition to word-wrap */
+        margin: 0px 0px 0px 0px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -khtml-border-radius: 5px;
+        border-radius: 5px;
+}

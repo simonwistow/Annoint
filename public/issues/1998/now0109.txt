@@ -1,0 +1,352 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____09/01/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+            "He's got such humility, such sincerity on stage... He's
+                              the Marc Antony of high-tech oratory."
+   - HAL JOSEPHSON of Invisions Awards on STEVE JOBS' Macworld keynote
+   that'll be Steve's "I come to bury Apple, not to praise it" attitude
+
+
+                               >> HARD NEWS <<
+                                  short fuse
+
+         A brilliant but possibly sociopathic recluse, accused of
+         creating intricate devices that spread terror across a
+         nation - a universally reviled figure, caught by the
+         authorities after twenty years' pursuit - he is on trial
+         for his very life. But can the man the US government claim
+         is behind the "Unibrowser" threat truly defend himself - or
+         is BILL GATES just too mad? The evidence points to the
+         latter, after a series of increasingly paranoid outbursts
+         over the pending anti-trust case. After last month's
+         unsuccessful attack on the judge (the so-called "you
+         talkin' to me?" defence), MICROSOFT this week turned on the
+         court-appointed investigator, Lawrence Lessig. Lessig, they
+         said, had exchanged e-mail with friends at Netscape in
+         which he accused Microsoft's Explorer of "screwing up" his
+         bookmarks. Clear bias, said MS - presumably as Lessig had
+         failed to refer to the bookmarks as "Microsoft Favourites",
+         the new name for bookmarks on the Microsoft Web(TM).
+         Meanwhile in BusinessWeek, Gates made the demented claim
+         that the current anti-MS backlash is being secretly run
+         by... IBM. "People don't understand," he says, "how IBM set
+         out to eliminate us ... Unless we're allowed to enhance
+         Windows, [it] would certainly be eliminated." Enemies
+         everywhere, and only one brave man protecting us from an
+         OS/2 planet: expect more insights into the fractured mind
+         of Bill as the trial progresses.
+         http://www.businessweek.com/premium/03/b3561005.htm
+         - but believe me, you don't want Bill Gates inside your head
+         http://www5.zdnet.com/zdnn/content/reut/0108/269507.html
+         -"we're sorry if we have made any statements that
+           would suggest we do anything but respect [the DOJ and Judge]"
+         http://www.microsoft.com/corpinfo/doj/1-5email.htm
+                       - in time you will call me ... Special Master
+
+         Meanwhile, the anti-Bill, STEVE JOBS, won over everyone
+         with his "humble, moi?" keynote speech in the ever-
+         shrinking planet of MACWORLD. Jobs continued to keep the
+         big announcements for another time (so no sub-$1000 Mac
+         announcement, no new servers, no Rhapsody gameplan), and
+         merely kicked around the same QuickTime, Microsoft-Are-Our-
+         Friends, online shopping nonsense. Oh, and one other thing
+         - Apple made a profit in the last quarter of $45 million.
+         Yeah, surprised you, didn't he? Only five more years of
+         profits like that, and Apple will have paid back the $884
+         million it frittered away in the other three quarters.
+         Other Macworld turn-ups: there's a new Debabelizer,
+         Freehand 5.0 came out, and errmm... errr...
+         http://www.macweek.com/
+         - can the last one out turn off the little Newton bulb?
+         http://www.news.com/Radio/Features/0,155,125,0.html
+          - look, drop this Kai Krause bollocks and we'll be nice again
+
+         As spammers threatened to publish a database of AOL
+         addresses on the Net (isn't that what USENET is these
+         days?), Microsoft cut out the middle man and bought out the
+         entire HOTMAIL free-mail-on-the-Web operation, addresses
+         and all. The deal cost Microsoft around $350 million. Given
+         that Hotmail claims 9.5 million users, that's about $35 a
+         pal. Cheap if you consider the hundreds of dollars spent
+         per head trying to get MSN subscribers; expensive if you
+         just think Hotmail is just a bunch of people too stingy to
+         stay with one ISP longer than the free trial - or if you've
+         seen the spams offering 16 million email addresses for
+         $149. It all comes down to what Microsoft plan to do with
+         these people. And you know what? We reckon they have *no
+         idea*, but they'll watch what Yahoo does with its
+         cheapskate free e-mail subscribers, then copy that. Yes,
+         Yahoo's next on that Microsoft "imitate to eliminate" a la
+         carte menu.
+         http://www.hotmail.com/
+                                - complaints to bill_g54@hotmail.com
+         http://www.microsoft.com/
+          - no, no! they're trying to eliminate *us*, don't you see?
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         just as the rumours were getting boring, WEBMEDIA *really
+         does* close down as a Web design company - now plans to
+         move into "corporate strategy"... AMAZON outage... AOL
+         outage... THE WEB magazine (US) folds... NETLY NEWS
+         "cutting back"... NT 5.0 needs 64MB of RAM... NETSCAPE
+         announce loss, blame "free software".. MICROSOFT claims
+         will become "kindler, gentler"; also hopes to flog 100,000
+         betas of Win 98 at $30 apiece... "Digital TV May Not Take
+         Off Quickly" reckon satellite-decoder makers PACE MICRO
+         TECHNOLOGY... ZIFF-DAVIES claim new publication is "IT
+         launch of the decade", possibly unaware that the UK has at
+         least 7 weekly IT mags already... Albert Einstein, Pablo
+         Picasso, Jim Henson, Thomas Edison, Alfred Hitchcock,
+         Amelia Earhart - celeb endorsers in US Apple "Think
+         Different" campaign have one other thing in common: they're
+         all dead... Dept Of Justice "Special Master" reveals that
+         IE4 made him "really angry", also stole his "soul"...
+         initial DVD launch unsuccessful, consumers "suspicious"...
+         TODAY programme reveals "reading books still popular
+         despite the growth of the internet"
+
+
+                              >> EVENT QUEUE <<
+                       social glue for the non-adhesive
+
+         It's been only 8 months since the last "annual" LOEBNER PRIZE
+         contest [see NTK 02/05/97], but maybe that's how fast things
+         move in the grant-starved world of artificial intelligence
+         nowadays. This year's $2000 Turing Test to find the most human-
+         sounding computer program will be held on Sun 11/01/98 in
+         Sydney, Australia, apparently as part of Australian Natural
+         Language Processing Fortnight (do your own Neighbours/ barbie
+         joke here). In other competition news, AUDIOCAST are offering
+         $10,000 (and a salary) to the "geekiest radio presenter" they
+         can find, while a London-based short-poetry mag promises a
+         UKP500 prize to the best haiku (free form or 5-7-5
+         conventional) that they receive before 15/02/98. Feel free to
+         enter all three of these - but just make sure you don't get
+         your entries mixed up, OK?
+         http://acm.org/~loebner/loebner-prize.htmlx
+                          - or, for the most computer-sounding human...
+         http://www.audiocast.net/HomeTemplate.cfm?page=geek.html
+                - "applicability to the radio format". ie: bots allowed
+         http://www.into.demon.co.uk/
+          - added new Linked Forms/ more Linked Forms/ still 3 added to 
+                                                             archive
+
+
+                                >> TRACKING <<
+                             blips on the nerdar
+
+         QuickTime 3.0? Pah! DVD? Yeah, right. Maybe it's time to
+         revive arguably *the* most extreme video compression codec
+         of all time: TTYVIDEO. Developed by Chris Pirazzi, it takes
+         any SGI video input and turns it into live ASCII art. And
+         not only does it look cool (apparently it's particularly
+         good with cartoons), Chris lists a huge range of off-the-
+         shelf ttyvideo utilities that you may already own: Real-
+         time compression? compress file.movie ! Full pixel-level
+         editing: emacs file.movie (or vi! or jot!). If only we can
+         convince a few RealPlayer users to switch, the bandwidth
+         will all come *flooding* back. We mention this now, because
+         this technique has recently been advanced by Czech demo
+         coders, who have ported an entire PC graphics library to
+         work with realtime ASCII art. We suspect it's no
+         coincidence that this library is call-compatible with the
+         graphics libraries used by Linux Doom and Quake. Yes, you
+         read that right - ASCII Doom. ASCII Quake. And if you can't
+         be bothered with that, the "bb" demo is still fun.
+         http://reality.sgi.com/cpirazzi/ttyvideo.html
+                                              - time for teletypies!
+         http://horac.ta.jcu.cz/aa/index.html
+                      - bringing new meanings to the word !@!*!*?!!*
+
+         Pens. Lovely, aren't they? But loveliest of all is the UNI
+         pen breed, those transparent rollerballs that are usually
+         quite expensive and whose purchase involves going into art
+         shops and pretending to be all trendy. Fortunately, someone
+         persuaded Uni to put up a Web site which semi-automatically
+         gives away their products to anyone who completes a simple
+         trivia test. At last, a UNI distribution system that
+         rewards the intelligent over the stylish! Sadly, the site
+         uses Macromedia Flash, so they won't be getting the truly
+         singular. But what need have they of pens?
+         http://www.uni-ball.co.uk/
+            - watch out for the new UMN152 retractable! MmmmmMMMMmm!
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         ISP smurfing... Amiga Doom *and* official Quake ports? ...
+         What *is* going on in the 5th floor of BT's scary
+         Martlesham main lab block?... Winner of our "Award" Award -
+         http://cm.bell-labs.com/who/ches/awards.html ... Snowcrash
+         the movie? ... Operation (the Mad New Doctor's Game) now
+         re-packaged as "Alien Autopsy"... Mo Mowlam - Mo' Problems
+         ... http://www.smudgereport.com/ ... pi-man warez at
+         http://www.users.globalnet.co.uk/~nickjh/Pi.htm ... small,
+         local black hole GRS 1915+105 now inexplicably emits vast
+         jets of hot gas at 92 per cent of the speed of light every
+         half hour... anyone got a Perl script to filter the tedious
+         sport news out of Brian Hook's .plan file? ... What if
+         Microsoft designed children's toys? Find out at
+         http://premium.microsoft.com/support/tshoot/barney.asp ...
+         Depressed, lonely? Isn't that the idea? The Goth Singles'
+         Network at http://www.gothicclassifieds.com ... emphasis
+         definitely not on "real" - http://www.realflight.com/  
+
+                               >> GEEK MEDIA <<
+                    fast, cheap, and with a remote control
+
+         TV>> big comedy clash tonight, with no less than 6 new
+         humour-oriented shows, including thankfully-Bremner-free
+         satire THE FRIDAY NIGHT ARMISTICE (9.35pm, Fri, BBC2),
+         cheapo sketch-romp COMEDY NATION (12.05am, Fri, BBC2),
+         sitcom-of-Satan DRESSING FOR BREAKFAST (9.30pm, Fri, C4),
+         and the reliably formulaic EUROTRASH (10.30pm, Fri, C4)...
+         our picks: the top-class neuroses of FRASIER (10pm, Fri,
+         C4) and - wait for it - the vastly underrated FAITH IN THE
+         FUTURE (8.30pm, Fri, ITV)... it's the most sexually
+         explicit kids' advice show we've ever seen (well, at least
+         by post-Chart-Show standards) - is that why only swinging
+         Londoners get LOVE BITES (12.30pm, Sat, LWT)?... you'll
+         wish Invisible-Man-Behaving-Badly Neil Morrissey *would*
+         disappear from THE VANISHING MAN (8pm, Sat, ITV)... three-
+         way TV cops go bad, with the first-and-best NAKED GUN movie
+         (9.05pm, Sat, BBC1), the Lalo-Schiffrin-scored Dirty-Harry-
+         sequel MAGNUM FORCE (10.05pm, Sat, ITV) and blah-blah-
+         Tarantino gritty-no-music failed-heister DOG DAY AFTERNOON
+         (11.05pm, Sat, C4)... basically another sinisterly amusing
+         genetic comedy for Arnold "Twins" Schwarzenegger, though
+         JUNIOR (7.15pm, Sun, BBC1) does spawn some acutely
+         disturbing shots of the heavily pregnant former Terminator
+         gambolling in a flowery meadow, dressed as a girl... no
+         real revelations about the Challenger shuttle explosion, as
+         DISASTER (8pm, Mon, BBC2) implicates the "O Rings" - maybe
+         they should have used some other, tougher, crispy cheese
+         snack instead... BBC2 temporarily consoles fans of soon-to-
+         conclude SEINFELD (11.15pm, Tue, BBC2) with a double
+         episode... Sean Connery yawns through aimless sci-fi
+         Western OUTLAND (10pm, Tue, C4)... and TV Nation sidekick
+         strikes out on his own in LOUIS THEROUX'S WEIRD WEEKENDS
+         (9.30pm, Thu, BBC2) - ObNTK: is he the son of novelist Paul
+         Theroux? Yes, of *course* he is...
+
+         MOVIES>> yes, that's Emma Thompson *and her real-life mum*
+         in not-as-dull-as-you'd-think luvvie-fest THE WINTER GUEST
+         (MPAA: rated R for "language and brief sensuality") -
+         fortunately, director Alan "Die Hard" Rickman sticks behind
+         the camera... not too many "stiffy" jokes in similarly
+         death-obsessed quirky love story KISSED (imdb: romance/
+         morgue/ drama/ necrophilia)... Jennifer Aniston continues
+         turning down tough-action-heroine roles for average
+         romantic fluff like PICTURE PERFECT (MPAA: rated PG-13 for
+         "sensuality and related dialogue")... fans of Wim Wenders'
+         rambling Euro-musings should know just what to expect from
+         THE END OF VIOLENCE (imdb: thriller/ drama/ big-brother/
+         fbi/ film-industry/ lost-identity/ violence) - except
+         perhaps some odd slapstick bits, loads of CCTV action,
+         ID4's Bill Pullman, and that bald guy off Murder One... oh,
+         when we did THE JACKAL (MPAA: rated R for "strong violence
+         and language") last week by accident, we forgot to ask: for
+         sheer ridiculous pointlessness, could Bruce Willis'
+         disguises maybe even rival Val Kilmer's ones from The
+         Saint?...
+
+         "ZINE" NOT "HERD">> Our New Year resolution was to get this
+         unhealthy love/hate obsession with US ratpile media out of
+         our system, so what better way than a final binge of Yank
+         zines from New York's SEE HEAR - http://www.zinemart.com
+         ... looks like we arrived just in time, with the best of
+         the US small-press publishers sailing out on well-earned
+         book deals: the first 16 issues of Lisa Suckdog's grunge
+         slag zine ROLLERDERBY ($3, PO Box 474, Dover, NH 03821) has
+         made it to book form (ISBN: 0922915385), while the zine
+         itself rolls on with interviews with Beck and neo-nazis in
+         the latest ish... Paul Lukas' obscurely titled BEER FRAME
+         ($3, 160 St. Johns Place, NY 11217) translated to the
+         marginally more informatively titled INCONSPICUOUS
+         CONSUMPTION (ISBN: 0517886685), a commendable trawl through
+         the reject bin of modern consumer products and services...
+         but our favourites sell-outs from the East Coast remain the
+         "old people say the craziest things" oral histories in THE
+         DUPLEX PLANET and its various comic spin-offs ($2.50, PO
+         BOX 1230, Saratoga Springs, NY 12866), and the
+         *spectacularly* self-destructing HATE COMIC #28 ($3.95, c/o
+         Fantagraphics, 7563 Lake City Way NE, WA 98115) whose well-
+         deserved success seems to have led creator Peter Bagge to
+         kill off everyone's favourite characters... in the "wish
+         we'd never seen it" category, we can't imagine FUCK ($5,
+         Randall Phillip, PO Box 2217, PA 19103) would ever sell out
+         to The Man, and even if there was a market for full-colour-
+         shotgun-wound coffee table books, we'd never get it past
+         Customs... back on this side of the stormy pond, following
+         the runaway success of Brit slacker bible THE IDLER
+         (recently relaunched, now with even more time-wasting
+         pages), they also do a sort of semi-pro junior spin-off
+         called CHEAP DATE (UKP 1.00, PO BOX 16778, London EC1M
+         5XA), "for thinking thrifters". A bit Londony, suspiciously
+         high B-list celebrity count, perhaps too self-consciously
+         '70s kitsch (like Ben Is Dead did to death). But good on T-
+         shirts, fun to read, and cheap - just like it says on the
+         tin.
+
+
+                              >> FINAL COMPO <<
+                                  too late!
+
+         Alan Braggins of Ncipher wins the final prizes of our '97
+         competition - a book about how to get on the UK Internet
+         (sorry), the audio soundtrack to MDK (joke: if Nintendo
+         ever released it, they'd say it stood for "Mums, Dads &
+         Kids") - and perhaps the most cruel and unusual punishment
+         gift of all, a 3-year-old video called GAMES ON THE .NET
+         published by Pearson New Entertainment in conjunction with
+         SubCyberia and hosted by "virtual celebrity" WAVEY DAVEY
+         WINDER. *Thrill* to Davey's pioneeringly matey presenting
+         style, bravely avoiding obvious traps like ever making eye
+         contact with the camera. *Gasp* at the cover's bold
+         assertion that you should "Say goodbye to games consoles"
+         (hey, it was 1995, how could they have known?). And
+         *cringe* with horrified nostalgia at the free CompuServe
+         software included with the video, offering "over UKP 80 of
+         free surfing", all on just one floppy disc! Games On The
+         Net is available now in Virgin Megastores for UKP 1.99. And
+         even we don't know the current whereabouts (or career
+         prospects) of Mr "Wavey" Davey Winder. But we'll try and
+         track him down to receive our "special" award at the
+         endlessly trailed, probably in Feb, fabulous .NOT Awards.
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "yeah, we guessed Straw too".
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+
+

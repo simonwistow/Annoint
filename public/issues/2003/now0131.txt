@@ -1,0 +1,332 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-01-31_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "AOL has estimated it would need 360,000 CDs each year at a cost 
+         of UKP34m to set up and maintain the [data retention] system."
+                    http://news.bbc.co.uk/1/hi/technology/2706677.stm
+                     ...ie: about as many as they mail out in a week?
+
+
+                                >> HARD NEWS <<
+                               distinct deja-vus
+
+         After our jocular "history is repeating itself" motif of last 
+         week, we're disturbed to find that 2003 is continuing to 
+         increasingly resemble a 1990s megamix. One of the first major 
+         cyberrights flaps in the UK was a 1996 piece by THE OBSERVER 
+         newspaper, which unfairly declared Clive Feather of Demon to 
+         be Britain's "pornographer in chief" - all because Demon had 
+         newsgroups with funny names, and The Observer had a picture of 
+         Clive looking shifty. The whole thing turned out to be major 
+         embarrassment for the truth-seeking, civil-rights-loving 
+         Observer, as the paper claimed credit for the shut-down of the 
+         first anonymous remailer, anon.penet.fi, and the FBI point-
+         blank denied the quotes ascribed to them. The Observer has a 
+         short memory, though, and ran the story a second time, back in 
+         2000, when, on a slow news day, it reeled once more at the 
+         shockingly continuing presence of Demon newsgroups. Still, 
+         like the addled Net users we are, we're getting a bit hardened 
+         to these sensational exclusives. Which is handy, because this 
+         week, they ran the same story again. Admittedly, this time, 
+         the names had been changed: it was Easynet now, not Demon, who 
+         were "peddling child porn involving incest and bestiality" 
+         (ie: running a full newsfeed). Basically, then, The Observer 
+         digs out this story roughly every three years, in the hope 
+         that nobody notices. It may be worth checking to see if they 
+         do that with the rest of the paper, too.
+         http://www.community.org.uk/met-obsl.htm
+       - back then even the CIXen were roused from their sedan chairs
+         http://www.ntk.net/index.cgi?b=02000-03-24&l=60#l
+                 - article itself mysteriously gone from the archives
+         http://tinyurl.com/54tc
+                                          - archive.org remembers all
+         http://www.theregister.co.uk/content/6/29062.html
+                                   - Easynet not taking it lying down
+
+         Open source PC-recyclers THE REDUNDANT TECHNOLOGY INITIATIVE 
+         describe themselves as "very impressed" with the standard of 
+         entries they had from our readers for their last UKP1000 2-
+         week residency at their Access Space media lab in Sheffield. 
+         And NTK was "definitely one of the places" where the eventual 
+         winner, German electronic sound artist Malte Steiner, heard 
+         about it, making us almost morally compelled to tell you about 
+         this next one, just in case you - yes, you, Mr "Between Jobs" 
+         Tinkering Sysadmin - could make $$$ by going all "artistic". 
+         As before, tamar@lowtech.org would like to receive not more 
+         than 2 sides of A4 plus your CV, outlining a moderately low-
+         tech free-software project that would "contain a strong visual 
+         element", to wow the crowds at a 2-hour workshop at the end of 
+         your fun-packed fortnight in post-industrial Full Monty-land.
+         http://lowtech.org/intro/
+                  - 2 weeks, 10 working days, or "80 hour equivalent"
+         http://www.ntk.net/index.cgi?b=02002-10-04&l=46#l
+              - and they even got round to updating their website too
+
+         While we're handing out the curatorships: does anyone want
+         the 5K competition? It's nearly the season for the only
+         half-way decent annual challenge on the Web, and by now
+         compressimaniacs around the world should be obfuscating
+         their javascript at the very thought of fitting a neat game,
+         design or flesh-eating worm into 5120 bytes of http-served
+         glory. But the 5K's creators have left the building. They're
+         spending their time these days hacking on their prospective
+         MOO-for-money, The Game Neverending, and they are not coming
+         out. Last September, the judges offered the 5K to anyone who
+         wanted it - but as yet, nobody has come forward. Any
+         volunteers? Would you like to be king of the modern-day demo
+         scene? Should we do it? Or should everyone sit outside the
+         Neverending's portal, yelling until the founders come out?
+         http://www.the5k.org/
+                                    - answers to a Yahoo mailing list
+         http://groups.yahoo.com/group/the5k/
+                         - currently demonstrating the apathy L-curve
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         in Middle East, the punishment for smoking in toilets is harsh:
+         www.ntk.net/2003/01/31/dohegypt.jpg ... Naked eBay Guy Strikes Again!
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=1942839616
+         (look at the reflection in the TV) ... we think everyone with
+         experience of Grimes, Iowa deserves a sizeable commiseration:
+         http://desmoineshasjobs.com/0/0/4/0/po/000002.htm ... children
+         can be cured of fear of dark with torches, lit rooms:
+         http://news.bbc.co.uk/1/hi/health/2686891.stm ... not fair, BBC
+         designers: http://news.bbc.co.uk/1/hi/technology/2699481.stm ...
+         and the inappropriate banner ad folk are trying too hard too:
+         http://www.ntk.net/2003/01/31/dohnohands.png ... and if PUERILE
+         GOOGLISMS http://www.google.com/search?q=%22bums+night%22
+         lose their appeal, will SCR1PT K1DDI3 GOOGLISMS be far behind?
+         http://www.google.com/search?q=%22index+of+hidden%22 ... and
+         what about our extensive SURREAL GOOGLE MISSPELLING collection:
+         http://www.google.com/search?q=%22bob+marley%22+whalers ...
+ 
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Extensive research has revealed that next week's THE POLITICS
+         OF CODE: SHAPING THE FUTURE OF THE NEXT INTERNET (from 9.15am,
+         Thu 2003-02-06, the Oxford Union, registration from UKP15)
+         isn't the same as the similarly named 2001 bash in Cambridge
+         which featured a shouting Richard Stallman (for a change).
+         Nonetheless, it does promise LAURENCE "Eldred v. Ashcroft"
+         LESSIG, ESTHER "Release n.0" DYSON and FIPR's IAN "not the
+         Stone Roses" BROWN discussing - and hopefully explaining -
+         "IPv6, digital rights management systems, and digital identity
+         and authentication technologies". You can catch Stallman,
+         meanwhile, at the Free and Open source Software Developers'
+         European Meeting FOSDEM 2003 (from Sat 2003-02-08, Universite
+         Libre de Bruxelles, Brussels, all talks and tutorials free but
+         "donations are welcome"), along with JON "MADDOG" HALL, the
+         latter illuminating "The History Of Free Software: From 1300
+         AD To The Present Day". Handily, the UK's Linux User Groups
+         have set up a mailing list for anyone interested in "exploring
+         shared travel/accommodation/sponsorship arrangements" for the
+         event - and let's hope that's not all they end up "exploring",
+         if you know what we mean.
+         http://mailman.lug.org.uk/mailman/listinfo/fosdem/
+             - we mean Brussels' many other delightful attractions...
+         http://www.fosdem.org/
+                                                       - ...of course
+         http://pcmlp.socleg.ox.ac.uk/code/
+                       - requires IE, Opera or "Netscape 6 and above"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         So, you did something awful in a past life, and now you've
+         got to do a proper, businesslike presentation in front of an
+         audience of your peers. But how? You don't want to use
+         PowerPoint because of those pledges your friends made to
+         shoot you if you ever did. Your grungy five-year old clown
+         laptop might spontaneously self-immolate as you sweep onto
+         the stage - but you don't know what backup hardware they'll
+         have running at the venue. You want your presentation to be
+         in plaintext so you can hack final tweaks, but you also want
+         to be able to stick in those funny pictures you snagged at
+         the last minute from Google Images. You don't want to use
+         Keynote because your image is of a raw, rough-and-ready
+         soothsayer, not a turtlenecked Jobs clone. So what do you
+         do? Can we suggest the rarely mentioned, but rather cool,
+         presentation feature of the unbrowser, Opera? Pressing F11
+         in any version of Opera since v.5.0 will switch the app
+         fullscreen, with a new media stylesheet enabled: simple HTML
+         pages magically become individual slides, which you can
+         flick through using PgUp and PgDown. Opera itself fits in
+         under 4MB, so you can stick it on a USB key, or download it
+         at your destination. Your presentation is in HTML, so you
+         can download that too. Opera's non-free, but hell, it'll run
+         on anything - and the ad-supported versions don't show their
+         wares in presentation mode. Plus the more people use this
+         feature, the (marginally) more likely it will that Mozilla
+         and friends will adopt the same useful functionality.
+         http://www.opera.com/support/tutorials/operashow/
+                                                 - step-by-step guide
+         http://www.w3.org/Talks/2002/04/11-pemberton
+                                                 - as used by the W3C
+         http://bugzilla.mozilla.org/show_bug.cgi?id=120398
+                                                     - but not by Moz
+         http://titanium.dstc.edu.au/xml/jacksvg/
+                      - alternatively, how about doing it all in SVG?
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+        these days the West Country treats WiFi with merely suspicion, 
+        not mortal fear: http://www.psand.net/watershed/ ...
+        at last, the perfect place to stick a sellotape dispenser:
+        http://www.extremetech.com/article2/0,3973,846370,00.asp ...
+        and you thought it was hard to get permits for anti-war marches:
+        http://c8.com/anathematician/lrrs.htm ... www.omfg.com !1!!1!!
+        ... www.homedespot.com/ ... Darth Straw up to his Jedi Mind Tricks
+        again: http://news.bbc.co.uk/1/hi/world/europe/2697667.stm ...
+        www.ugly-midis.de.vu/ ... could this be the next Kevin Warwick?
+        http://www.augerment.com/projects_at.html - *seems* zany enough:
+  http://www.gsa.ac.uk/design/product/degreeshow95/people/peopfour.htm#James
+        ... wonder if they also considered doing this to the pop song
+        "Halo", by Texas: http://halo.bungie.org/misc/aholemirrors.html
+        ... the perfect combo: unsteady boats, alcohol, and electric drills:
+  www.hydrobikes.com/Hydrobike_Video/Products/Boat_Blender/boat_blender.html
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Antoine "Training Day" Fuqua directs Mira Sorvino in THE 
+         REPLACEMENT KILLERS (11.10pm, Fri, BBC1) - aka "Time Crisis: 
+         The Movie"...CD:UK HOTSHOTS (1.25am, Fri, ITV) "may include 
+         content unsuitable for Saturday mornings"... and Kim Delaney 
+         Week kicks off with CSI: MIAMI (9pm, Sat, C5), NYPD BLUE 
+         (11.40pm, Tue, C4) plus erotic thriller TEMPTRESS (10.50pm, 
+         next Fri, C5)... while CSI: Vegas's William Petersen 
+         confusingly faces Hannibal Lecter in the '80s-tastic MANHUNTER 
+         (10.05pm, Sat, C4)... the rapid-reacting BBC now holds its top 
+         2002 TV MOMENTS (9pm, Sat, BBC1) in Feb instead of mid-March: 
+         http://www.ntk.net/index.cgi?b=02002-03-15&l=214#l ... THE 
+         SIXTH SENSE (9pm, Sun, ITV) is basically "Signs" but without 
+         any aliens... here's hoping "Baghdad" isn't suddenly added to 
+         the list as archeologist Dan Cruickshank rummages through the 
+         rubble of THE LOST CITIES OF IRAQ (9pm, Sun, BBC2)... and 
+         Alotta Fagina's cameo in the original-and-best AUSTIN POWERS: 
+         INTERNATIONAL MAN OF MYSTERY (9pm, Sun, C4) is followed, aptly 
+         enough, by DESIGNER VAGINAS (10.45pm, Sun, C4)... the mildly 
+         unairworthy CON AIR (9pm, Mon, C5) and LEONARDO'S DREAM 
+         MACHINES (9pm, Mon, C4) are both scheduled against Martin 
+         Bashir's typically po-faced LIVING WITH MICHAEL JACKSON - A 
+         TONIGHT SPECIAL (9pm, Mon, ITV)... Richard E Grant's career 
+         goes from Argos ads to a 10-min cookery spoof written by the 
+         "Does my bum look big in this?" woman POSH NOSH (9.50pm, Tue, 
+         BBC2)... and Morrissey gives a rare TV appearance as GOD 
+         ALMIGHTY (10.50pm, Tue, C5)... THE DAY I DIED (9pm, Wed, BBC2) 
+         gives credence to the bollocks "that near-death experiences 
+         actually come from beyond the brain"... scifi Western OUTLAND 
+         (9pm, Wed, C5) perpetuates that old "explosive decompression" 
+         myth: http://www.straightdope.com/classics/a3_147.html ... and 
+         20 THINGS TO DO BEFORE YOU'RE 30 (10.35pm, Thu, C4) is a drama 
+         about 20somethings who must somehow have missed last year's C5 
+         show "99 Things To Do Before You're 30", and indeed Dom Joly's 
+         presumably still-unmade "100 Things to Do Before You Die": 
+         http://www.amiannoyingornot.com/2002/view.aspx?ID=6670 ... 
+         
+         FILM>> Spielberg makes a rare venture into comedy - what next 
+         for this talented young director: romance? - in overlong 
+         anachronism-packed '60s-set social-engineering missing-kid 
+         caper CATCH ME IF YOU CAN ( http://uk.imdb.com/Goofs?0264464 : 
+         when [DiCaprio] escapes from the plane after crossing the 
+         Atlantic, the plane is a modern 2-engine jet; the US currency 
+         seen throughout the movie is from the 1996 and 1999 issues)... 
+         it's "Death Wish" meets "Memento" in extraordinarily brutal 
+         French filmed-backwards rape-revenge arthouser IRREVERSIBLE 
+       ( http://www.cndb.com/movie.html?title=Irr%E9versible+%282002%29 : 
+         [Monica Bellucci] and real life lover Vincent Cassel wanted to 
+         work together on a project that involved steamy sex scenes)... 
+         - despite the similar title and explicit theme, not to be 
+         confused with ageing-groupie midlife-crisis THE BANGER SISTERS 
+         ( http://www.screenit.com/movies/2002/the_banger_sisters.html :
+         due to [Goldie Hawn's] presence and influence, [Susan Sarandon]
+         eventually loosens up, smokes a joint and uses some profanity; 
+         [Hawn] and [Sarandon] return home to discover [Erika "Traffic"
+         Christensen] having sex in the family pool)...
+         
+         FROM DESPAIR - TO LEISUREWEAR>> and well done to first-time 
+         caller BEN GOLDACRE, who was apparently unaware of sites like 
+         http://www.googlism.com/ when he suggested the not-at-all 
+         puerile - and occasionally quite poetic - Google search: 
+         http://www.google.com/search?q=%22the+internet+is+like%22 at 
+         the start of last November. Exactly 43 edited results of 
+         things that "the internet is like" - from "a large appletalk 
+         network" to "trying to put a cat in a washing machine" - are 
+         now available on t-shirts over at http://www.ntkmart.com/ , 
+         and Ben gets a pound for each one we sell (yeah, it's usually 
+         more, but it's not usually such hard work converting the idea 
+         into a usable graphic)... also new this month: special knock-
+         down prices - for as little as a week or so - on design 
+         classics like the "Born To Run" ZX font and "I Spend All Day 
+         Bitching About You On IRC Channels You Can't See", while the 
+         ever-creative LLOYD WOOD has invested some of his royalties 
+         from last year's popular "++ungood;" into what he believes to 
+         be its diametric opposite: text saying "++good;", in black ink 
+         on a women's white "skinny tee". Continuing his "1984" theme, 
+         Lloyd hopes that the man's version of the shirt will now be 
+         called "the Winston", and that "the ++good; F-fit will have 
+         a strange attraction for the Julia set", he puns, shamelessly 
+         ... leading the pack of this month's runners-up was STEPHEN 
+         GILLIES' strong-concept-but-not-quite-there-for-some-reason: 
+         http://www.max.net.au/t-shirt.html ; LUKE PILLANS' pleasingly 
+         pixellated - though not immediately obvious - Tetris tribute: 
+         http://www.btinternet.com/~l.pillans/tetris_ntk_lpillans.gif ; 
+         and THOMAS CHIVERTON'S poignantly text-only "suicide.h:1198: 
+         warning: 'class MWaitSelf' only defines a private destructor 
+         and has no friends"... ED FEAR took the media placement prize 
+         for getting his "FairPlay" shirt onto BBC2's "Can't Get Enough 
+         Video Games" - more at http://www.geekstyle.co.uk/images/ - 
+         but WILL GRAINGER received nothing at all for asking "Does he 
+         get a free t-shirt?", regarding the man wanted by police 
+         earlier this year regarding "the dismembered remains of two 
+         women found in bin bags" http://news.bbc.co.uk/1/2619123.stm . 
+         (Un)fortunately, Will, it wasn't one of ours, and anyway, the 
+         rules clearly disqualify "entrants who, for instance, commit a 
+         hideous felony then wear the shirt to the subsequent court 
+         case" - please note, http://www.martian.fm/uckWa.htm ... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "What do we have to do to get banned round here?"
+               http://cyber.law.harvard.edu/filtering/china/test/        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

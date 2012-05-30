@@ -1,0 +1,324 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-08-04_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+          "Dot.net is like an elephant"
+          - BILL GATES, on the new Microsoft standard, RED HERRING
+          http://www.redherring.com/mag/issue82/resources/mag-gates-82-p5.html
+                         ...and the IETF is like a monkey with a cork
+
+
+                                >> HARD NEWS <<
+                               hiding the bruise
+
+         So, let's get this straight: first, Network Solutions
+         changed their contracts so that they now own all the domains
+         you've registered with them. Next, they withheld the release
+         of unpaid domains, so that they own *those* as well - to be
+         auctioned by them at some unannounced date. What's next for
+         the domainitrixes? Well, how about trying to charge for
+         stuff that they *don't* own? For the last few months, the
+         NSI have been sending out bills for .COM, .ORG and .NET
+         addresses - *even though their users have transferred the
+         accounts to other registrars*. This is a little reminiscent
+         of the "magazine subscription: final demand" scam that Ziff
+         Davis used to put out. And even if you do pay for the
+         domains, it's not as if you've got any guarantee that
+         they'll work: witness the blanket denial by the G root name
+         server this week that any .COM existed at all. That said, G
+         isn't run by NSI, so we can't place all the blame with
+         NetSol. Although if we did, we bet they'd work out a way of
+         billing us for it. Ha. (Oh, and we know it's not
+         authoritative any more; but it's supposed to remember
+         something).
+         http://www.opensrs.org/archives/discuss-list/0006/0786.html
+         - ICANN *on* the case! Case *on* its way to the Bahamas!
+         http://www.enteract.com/~lspitz/whois.html
+                  - uh-uh. it's the DoD. Which brings us neatly to...
+
+         DERA, the MOD's Defence Evaluation and Research Agency, are
+         probably best known for that time they appeared on TV as
+         bumbling boffins messing around with impractically
+         futuristic Clive Doig-style home-made weapons systems. (Or
+         is that just what they *want* you to believe?) Either way,
+         it's good to see that "gentleman amateur" ethos extended to
+         their website, which this week turned out - via some
+         "unofficial" evaluation and research - to have what's best
+         described as a "whopping great open SQL pipe" into their
+         jobs database. DERA said "The developer has simply used a
+         SQL like set of parameters to aid him in the parsing of the
+         application parameters", but pulled the page anyway; our
+         correspondent regrets not trying "INSERT INTO
+         job_spec(jobtitle,salary,area,ref) values('warmonger','6
+         pieces of silver','genocide','your-developers-suck')".
+         http://www.dera.gov.uk/html/news/deranews/census_goes_online.htm
+            - or they could just employ more long-term prison inmates
+         http://www.ntk.net/2000/08/04/dohdera1.jpg
+        - even 1901 census data still falls under Official Secrets...
+          http://www.dera.gov.uk/html/it/it_security_health_check.htm
+         - ...to protect our 100 year-old citizens, eg: The Queen Mum
+
+         New Rules for a New Economy: never rhyme your company with
+         "falco". Example number one: the spectacularly badly-branded
+         ClickMango, which disappeared with little mourning earlier
+         this week. Next victim: plucky start-up Bango, which owns
+         what has to be the *dumbest* idea we've heard since Real
+         Names. Real Names, you may recall, was the plan to replace
+         domain names with ... more names. Bango's ruse is to replace
+         domain names with numbers. So the plan here is that you take
+         an IP address, which is a number, then turn it into a
+         domain; then turn it *back* into a number: presumably one of
+         those number you can turn upside down to make a word. Ahh,
+         say, Bango: but this time, it's for WAP. Good old WAP-O.
+         http://www.bango.net/
+                                              - cisco is an exception
+         http://www.theregister.co.uk/content/archive/12080.html
+                  - Register not quite as cynical as it used to be...
+         http://194.159.40.109/
+                             - as these easy-to-remember numbers show
+http://www.independent.co.uk/news/Digital/Update/2000-08/time010800.shtml
+                - second stupidest idea this week: hello? NTP? HELLO?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+        BALLMER says Linux "communism", FRED MOODY says Linux "worst
+        operating system in the world", world says "uh-*huh*" ...
+        Spielberg's POP.COM goes way of 1942 ... "BT phone bills are
+        cheaper than major cable companies" - reports BT.CO.UK ...
+        ... "POST OFFICE of the future" features authentic "Position
+        Closed" sign: http://www.relayone.com/ ... "invisible dot
+        on your screen is watching every move you make", reports OBSERVER,
+        on acid: http://www.observer.co.uk/focus/story/0,6903,348648,00.html
+        ... BBC ONLINE introduces new, gritty, swearing preview
+        section: http://www.ntk.net/2000/08/04/dohenders.jpg ... TONY
+        BLAIR rants against private e-mails falling into wrong hands,
+        excessive surveillance: *cough* ... "bold, space-saving design"
+        conceals HTML source's INSANE, STREAM-OF-CONSCIOUSNESS SPAMDEXING
+        http://www.pc.ibm.com/us/netvista/tour/allinone/allinone.html
+        NEW SCIENTIST tests Jamie Oliver's overall "funniness":
+        http://www.keysites.com/keysites/site/site.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Take one of your favourite screen-based activities, combine
+         it with seasonal peer-pressure to venture outdoors from time
+         to time, and you've got this summer's STELLASCREEN TOUR, a
+         travelling 60 x 30 foot weekend cinema which appears to try
+         to match the movie to the location (eg, tonight, there's
+         "The Beach" on Brighton Beach, then "Deep Blue Sea" on
+         Liverpool Pier in two weeks' time). The big-screen
+         competition comes to a head over the August Bank Holiday
+         weekend, when "The Italian Job", "Austin Powers", "The
+         Matrix" and "Lock Stock And Two Smoking Barrels" square up
+         against an exclusive IMAX presentation of the first 3
+         "Alien" films.
+         http://www.stellascreen.co.uk/summer/stellascreen/outdoor.php3
+         - "like seeing the films 'live'", they promise, confusingly
+         http://www.bfi.org.uk/showing/imax/afterdark.html
+         - "none of the films are in IMAX format, nor... shown in 3D"
+
+         With even Ben Moor and Quake-theatre pioneers Strange Company
+         staying away from the Edinburgh Fricking Festival this year,
+         there's always the live recordings of TIME GENTLEMEN PLEASE,
+         Al "The Pub Landlord" Murray's upcoming Sky sitcom, apparently
+         recording near Waterloo, Thursday evenings until 2000-10-05.
+         Critical opinion is divided ("The sitcom equivalent of The 11
+         O'Clock Show" - self-appointed comedy curmudgeons Some Of The
+         Corpses Are Amusing; "The best thing I have ever written" -
+         Richard Herring, same forum), but then that's exactly the
+         kind of rigorous nit-picking we know you Lee & Herring fans
+         love ("The best thing you've ever written? Do you seriously
+         include Lionel Nimrod and TMWRNJ in that assertion?" - ibid).
+         http://mudhole.spodnet.uk.com/fist/news/index.html#End
+             - scroll up to "30 May 00" for details of ticket hotline
+         http://mudhole.spodnet.uk.com/~frogger/corpses/edin_index.html
+        - though, admittedly, this is amusingly/depressingly accurate
+         http://www.strangecompany.org/
+                    - .plans all last updated October 1999, strangely
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Remember back in November, when we reviewed NAPSTER and said
+         it was going to *really* annoy the music industry? Well, the
+         alpha of MOJO NATION is now out, and while we're not sure
+         that it's going to have the same uptake as the Nap, if it
+         does it'll piss off the music industry *and* every
+         revenue-gathering government in the world. Currently an
+         endearing mess of Python scripts and hardcore protocol
+         specification, Mojo Nation uses machine resources as a
+         anonymous micropayment currency to fund file storage, search
+         engines and firewall proxies on a massively distributed
+         network of machines. The idea here isn't to charge for MP3s
+         (as some have intimated), but to charge for the cost of
+         maintaining a file-sharing network, using an internal
+         currency which you can top up just by offering those
+         services yourself. The Mojo Nation creators, Evil Geniuses
+         for A Better Tomorrow, promise to offer a real money->mojo
+         tokens exchange for those too wimpy to pay in cycles: but
+         what's rather more interesting is keeping all your accounts
+         in pure, untrackable Mojo's, and then widening the economy
+         to cover a whole range of other services. Oh, The Man is
+         going to *love* this.
+         http://www.mojonation.net/
+- LGPLed too, and launched at DefCon. This is so anarcho-PC, it hurts.
+         http://www.ntk.net/index.cgi?b=archive99/now1112.txt&line=137#l
+                                        - in accordance with prophecy
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Tonight, Matthew, I vill be JARVIS COCKER
+         http://www.zrs.de/tdx2000/personality/person.htm ...
+         somebody tell KIBO: http://www.supersig.com/ ... Shouldn't
+         there be a label marked "Put your mouse on this and move it
+         around?" http://www.cafepress.com/peterme/ ... META tags at
+         http://www.bnp.org.uk/ indicate search for critical-minded,
+         non-credulous types ... teaching those robotic Germans how
+         to RHUMBA: http://www.fe.org/artists/senor.coconut.html ...
+         SIR ALAN AYCKBOURN is TV Go Home fan, believes "it's written by
+         someone who sounds like he'll be dead within 5 years" ...
+         MP3z, musical drama, and ELITE: how could we resist:
+         http://www.iancgbell.clara.net/elite/musical/ ...
+         DOUG COUPLAND reviews this year's cereal nominations:
+         http://www.coupland.com/writtenword/nonsense/spokestoons.html ...
+         http://www.createonline.co.uk/ vs http://www.create-online.co.uk/
+         (vs http://www.cre@teonline.co.uk/ even)  ... the first
+         rule is: you do not talk about STITCH CLUB:
+         http://www.latimes.com/news/state/20000801/t000072072.html vs
+         http://www.onion.com/onion3621/quilting_society.html ...
+         manga "Revelations" http://www.e-sheep.com/apocamon/01.html vs
+         POKEMON "Revelations" http://www.e-sheep.com/apocamon/apocadex/ ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> despite their recent near-random scheduling of the
+         peerless original series, MTV *do* seem to be broadcasting
+         extreme reality-com TOM GREEN'S CANCER SPECIAL (10pm, Fri,
+         MTV), followed by two THE BESTS OF TOM GREEN (10pm, Sat; 9pm,
+         Sun), the latter as lead-ins to the ominously titled "Richard
+         Blackwood's Comedy Weekend"... if they wanted to avoid
+         unflattering comparisons with "Father Ted", why did the makers
+         of THE FITZ (9.30pm, Fri; 11.10pm, Sun; BBC2) fill it with
+         goofy Oirish stereotypes?... and, clearly being groomed for
+         that prestigious Star Trek repeat slot, it's now possible to
+         catch THE FRESH PRINCE OF BEL AIR three times a week on BBC2
+         alone (6.45pm, Fri; 11am, Sun; Mon, 6.20pm)... ITV heads off
+         BBC2's simultaneous tribute to Lauren Bacall with a triple
+         bill of Peter Sellers programming, starting with one of his
+         hilarious "Indian" character-slapsticks THE PARTY (2.15pm,
+         Sat, ITV)... sniggering po-mo cultural commentators largely
+         survive their feature-length transition BEAVIS AND BUTTHEAD DO
+         AMERICA (9.50pm, Sun, BBC2) - despite two elementary "You'd
+         think with an animated film they would be able to get it
+         right" firearm goofs http://www.recguns.com/MGM-BABDA.html ...
+         while the maker of the documentary BLOKES (11.40pm, Sun, BBC2)
+         re-examines notions of editorial distance by sleeping with at
+         least one of her subjects... SECRETS OF THE DEAD (9pm, Mon,
+         C4) reveals staggering evidence that the Salem witch-trials
+         may have been caused by - ergot wheat poisoning!... we refer
+         you to NTK 1999-05-14 for our definitive gag about fighting-
+         Kylie beat-em-up STREET FIGHTER (9pm, Tue, C5)... still plenty
+         of episodes left of SNL-alumnus vehicle NORM (2.10am, Tue, C4)
+         - in the ongoing absence of Seinfeld and Sanders, easily
+         terrestrial's cruellest sitcom... and, finally, Jeremy
+         "Airport" Spake investigates whether inseminating turkeys is,
+         indeed, among THE TOUGHEST JOBS IN BRITAIN (8pm, Thu, BBC1)...
+
+         FILM>> Jerry "The Rock, Armageddon, Bad Boys" Bruckheimer
+         reassembles his wacky-name "Con Air" writing team for Angelina
+         "Hackers" Jolie / Nic Cage wig-out car-porn GONE IN SIXTY
+         SECONDS (imdb: los-angeles-storm-drain / brother / organized-
+         crime / auto-theft-ring / auto-theft / police / remake /
+         surveillance / twist-in-the-end / waitress / crime-boss /
+         detective / drag-racing / burglary / car / chase / convicted-
+         felon / hacker / auto-mechanic / mother-son / drugs /
+         computer-cracker / heist / lock-pick / machismo) - that's just
+         the one "car chase", singular, of any significance but, hey,
+         it's big-screen Bruckheimer!... otherwise it's the voices of
+         Kenneth Branagh, Kevin Kline, Rosie Perez and Edward "Blade
+         Runner" James Olmos - together at last! - in Dreamworks'
+         light-hearted retelling of the systematic exploitation and
+         smallpox-assisted extermination of the native South American
+         peoples - with songs by Tim Rice and Elton John! - on THE ROAD
+         TO EL DORADO (http://www.capalert.com : monster attack;
+         consistent theme of lust and greed; treating two men as gods;
+         God's name in vain once without the four letter expletive;
+         sensuality and scant dress; full rear [cartoon] nudity -
+         male)...
+
+         INTERNECINE NATHANIC INFIGHTING>> the confession of CHARLIE
+         "TVGoHome" BROOKER (currently tipped as the next "Tapehead"
+         in the "Guardian Guide") to being the prototypical "Nathan
+         Barley" [NTK 2000-07-21] has prompted an unexpected number
+         of Spartacus-style counter-claims. "I am the real Nathan
+         Barley" proclaimed JAMIE KING on his http://www.jamie.com/
+         page, after being nominated in NTK 2000-06-09; within weeks,
+         he'd got back in touch with us, gobsmacked that this had led
+         to his receiving "regular abuse mail" from "various parts of
+         the West London noomedia fraternity looking, maybe, to
+         transfer a little of their Nathanness on to me". "I can't
+         believe anyone would happily compare themselves to Nathen
+         fucking Barley," begins one. "You KNOW you're going to get
+         hate mail [...] soulless public school mockney talentless
+         smartarse gadget- obsessed tosser fuckwit [...] piss off
+         back to obscurity [...]" "This, from someone called
+         Tristan!", Jamie seethes, before launching his own polite
+         little tirade against "public school people in West
+         London"... meanwhile, multiplying the unwitting Nathanity
+         ironies still further, ex-NTK music columnist JAMES
+         "Habitus" FLINT reveals privileged details about his new
+         novel (which due to market pressures will not now be called
+         "Habitum"). While writing, he came across TVGoHome, and "in
+         partic., the wonderful Nathan Barlow [sic]", a character
+         which he would like to licence to appear in his new book, as
+         "a young web journalist who has telephone sex with one of my
+         characters before bounding off to eagerly interview
+         another"... yes, the Nathan-on-Nathan action is definitely
+         hotting up, and will hopefully now be recognised with a
+         special "Nathano di tutti Nathani" (lit: the "Nathan's
+         Nathan") award at next year's Milia show in Cannes - so if
+         you stumble across the webpage of a Nathan Barley-style
+         "Cunt" (or if, perhaps you are one!) do get in touch with us
+         soon, using the subject line "I've stumbled across the
+         webpage of a Nathan Barley-style 'Cunt' (or, perhaps, I am
+         one!)"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+  "don't thank us, thank whois -h whois.networksolutions.com name FALLON MC*"
+           http://www.wired.com/news/culture/0,1284,37985,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

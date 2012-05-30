@@ -1,0 +1,263 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-01-24_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "There are few things in Italy that seem to work, including
+         the football team at the moment but citizens seem satisfied
+         with the ID card which is rarer than sex with an elephant"
+         - GIUSEPPE MISTRETTA, First Counsellor of the Italian Embassy
+         http://news.bbc.co.uk/1/hi/technology/2688697.stm
+     ... babelfish now being used to translate official EU statements
+
+
+                                >> HARD NEWS <<
+                               looping the loops
+
+         Remember that time that MICROSOFT forgot to pay $35 for
+         their passport.com domain, and Hotmail completely broke
+         until a Linux coder phoned up NetSol and paid it for them
+         and then we all went "hahahahahaha" and it was funny? Ahh.
+         Well, Microsoft's entry in the DATA PROTECTION REGISTER
+         expired on January 8th. This means that all personal data
+         held by them in the UK is now illegal, in that jaunty white
+         collar criminal-but-getting-away-with-it way Microsoft has.
+         Sadly, the DPR folk say that it's not as easy as just us
+         paying up the 35UKP. Apparently, Microsoft (or good-hearted
+         and overly knowledgeable Linux coder friends of theirs) will
+         have to put in a completely new application. Which makes it
+         a bit less fun. Still, you could always ask the Information
+         Commissioner if they'd be up for prosecuting MS on your
+         behalf for unlawfully using your info-soul. You have that
+         right if you're a "data subject" of Microsoft, you know.
+         http://www.dpr.gov.uk/cgi-bin/dpr98-fetch.pl?source=DPR&docid=111181
+         - Oh so *data subjects* are the "offenders and suspected offenders"?
+                                           http://www.doublewide.net/
+         - still funny three years on and oppressively over-explained
+
+         And remember that time when the US government wanted to put a
+         wiretapping backdoor into every digital phone, and it was
+         called THE CLIPPER CHIP, and everyone was like "Woah!", and
+         it got thrown out and the cypherpunks and EFF won and it was
+         the beginning of cyberrights? No, us neither. Our dads do,
+         we think. Well now, on the eve of a perhaps unjustifiable,
+         but certainly justifying, war, that ghost of past battles
+         returns. Down at the Drake hotel in Chicago yesterday, US
+         business and law enforcement met up to discuss "ELECTRONIC
+         SURVEILLANCE NEEDS FOR CARRIER-GRADE VOICE OVER PACKET
+         SERVICE". Now, let's see: if it's VoIP between the real
+         telephone network, and the Net, surely they can pop the taps
+         in the former, right? So why does VoIP need special
+         attention? Are they worried about Internet only, IP to IP,
+         voice? Are they talking about putting the eavesdropping tech
+         into the hardware itself? And if so, are any countries
+         worried that the "they" here is exclusively US law
+         enforcement?  Hard to tell, because apart from "carriers,
+         solution providers, standards and industry groups", no-one
+         from the civil liberties side was allowed in to the meeting.
+         As VoIP spreads as a consumer app across the Net, it'll be
+         intriguing to see if this shadow of Clipper follows it:
+         history repeating itself, first as farce, and then as a tragedy.
+         http://www.askcalea.com/summit.html
+                 - don't want other people listening to their conversations
+         http://tinyurl.com/4v5s
+   		 - taken down already? try this Google cache of the same page
+         http://www.epic.org/crypto/clipper/
+                                                       - 1984 vs 1994
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         great promotion, wifin limits: http://www.starbridge.co.nz/ ...
+         ... careers or personal? http://jobs.escapeartist.com/J-39908/ ...
+         problems with your ISDN line? click here to - oh. Oh.
+         http://www.bt.com/isdn/ ... not quite the optional extra you'd
+         hope for on a merc http://www.regencymotors.co.uk/stocklist.asp
+         ... Penelope Keith and Peter Bowles to fight in Gulf War II:
+         http://www.ntk.net/2003/01/24/dohmanor.gif ... new .ORG
+         registrars PIR start as they mean to go on: send out notice
+         to domain owners with 18,000 addresses in cc: line ... Donald
+         Sutherland struggle against typecasting shows results
+         http://www.ntk.net/2003/01/24/dohact.gif ... Widdecombe of the
+         week: http://www.xsls.com/?158 ... oh come on guys, just one more
+         PUERILE GOOGLISM: http://www.google.com/search?q=redshit+galaxies
+         ... BBC graphics department looks into Linux, gives up:
+         http://news.bbc.co.uk/1/hi/technology/2680955.stm ... overly cagey
+         events listing declines to get specific about which pub, where
+         in Sydney Harbour: http://www.cw.com/template_03.jsp?ID=aus_events
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         "A strictly 'non-geeky' look at the genre" is promised by THE
+         LONDON SCIENCE FICTION FESTIVAL (from Mon 2003-01-27, mostly
+         next weekend, various central London venues, individual event
+         pricing), manifesting itself in a programme that features
+         "Hypercube: Cube 2", "Solaris", two Anime Allnighters, and a
+         short with Emily "Bits" Booth in it. NTK's Dave Green is
+         billed to appear as part of THE DOUGLAS ADAMS MEMORIAL DEBATE:
+         DOES SCIENCE FICTION PREDICT THE FUTURE? (11am, Sat 2003-02-
+         01, Curzon Cinema Soho, London W1, UKP5), along with Mark
+         "Black Ice" Bennett, Steve "Slaughtermatic" Aylett, and
+         Jonathan Clements, writer (and director) of some of those
+         2000AD audio drama CDs. So, nothing too geeky there.
+         http://www.sci-fi-london.com/programme.htm
+                                 - The Matrix! Plan 9! Soylent Green!
+         http://www.strangehorizons.com/2002/20021014/farscape.shtml
+                               - from the folks who killed "Farscape"
+         http://www.bigfinish.com/2000ad/ad03_downtoearth.htm
+                                       - Simon Pegg *is* Johnny Alpha
+         http://www.tate.org.uk/modern/programmes/events3.htm#wireless
+             - some sort of wireless thing at the Tate that afternoon
+         http://www.ents24.com/web/event.php3?eventid=s476272
+       - Club Classical night later on Sat: hardly Acid Brass, is it?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The big thing about LEO, the outlining editor for Python,
+         was its support for Literate Programming.  Unfortunately,
+         Literate Programming is aggravatingly dull in a way only a
+         Knuth obsession can be. This may have put a few people off.
+         But Leo has always been a bit more than that. After some
+         recent sweet loving by creator Edward K. Ream, it feels
+         these days like an editor about to blossom into a original
+         and powerful IDE. Usable with most languages, but coziest
+         with Python syntax, the Tk editor is bulging with all kinds
+         of scripting hooks waiting be exploited (it's already
+         got a fine "import and turn into a hierarchy" feature for
+         Python code). It could make a great refactoring editor, ala
+         Intellij IDEA, or (once they've fixed the .leo formats
+         problems with CVS) a neat configuration manager. It ain't
+         there yet. But even if the possibilities never dawn, it's
+         still the best cross-platform outliner the Free Software
+         world has. Which, unfortunately, is rather faint praise for now.
+         http://personalpages.tds.net/~edream/front.html
+                                      - literate programming EXTREME!
+         http://www.refactoring.com/
+                    - i wonder how often they rewrite that front page
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         either TERRY PRATCHETT book titles are getting more abstract:
+         http://www.amazon.co.uk/exec/obidos/ASIN/055276471X/ - or
+         searching for "Dumpbin" shows you prices in bulk... HARRY
+         POTTERS "not just for kids" - though expressions in 2nd pic
+         imply otherwise: http://news.bbc.co.uk/1/2684937.stm ... "Has
+         Sir considered our popular 'mauled by an elephant' look?":
+         http://www.orange-today.co.uk/news/story/sm_742619.html ...
+         BAE cuts 1000 shipbuilding jobs in UK, takes the piss in USA:
+http://www.na.baesystems.com/cgi-bin/prjps/req_ViewJobs.cfm?id=2&rn=207690
+         ... why CANADIANS tend to suffer such chronic low self-esteem:
+         http://www.prisonplanet.com/news_alert_011303_general.html ...
+         HERRING - blogging: http://www.richardherring.com/warmingup/ ...
+         http://216.136.200.194/auction/Jan/20031208934432828315774.jpg
+         - steampunk slashdot spoof saves you going through the rest of
+         http://forums.fark.com/cgi/fark/comments.pl?IDLink=409288 ...
+         oh, stick your firm 4-block rectangle in my welcoming hole:
+         http://www.striptetris.co.uk/ (NB: pants return in level 7)...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> C5's "movie doubles" pick up with a couple of genre-
+         restricted classics STAR TREK VI: THE UNDISCOVERED COUNTRY
+         (8pm, Fri, C5) and COMA (10.10pm, Fri, C5)... there's some
+         sort of blaxploitation undercurrent to C4's similar double-
+         billing of I'M GONNA GIT YOU SUCKA (1.50am, Sat, C4) with
+         AMERICAN PIMP (3.20am, Sat, C4)... and Clive Anderson presents
+         a "Body Panic" edition of CONSPIRACIES (9.30am, Sat, BBC2)
+         before defecting to interview Mark Lamarr in the role of GOD
+         ALMIGHTY (10.45pm, Tue, C5)... an ad exec swaps bodies with
+         his dog in baffling kid comedy DOGMATIC (2.05pm, Sun, C5)...
+         there's rare footage of Prince Charles frolicking in the wild
+         in NATURAL WORLD (6.25pm, Sun, BBC2)... as DIY makeover shows
+         take an alarming turn by offering SEVEN WAYS TO TOPPLE SADDAM
+         (9pm, Sun, BBC2)... C5's weeknight schedule remains as
+         endearingly bonkers as ever, with WEAPONS OF WORLD WAR II
+         (8.30pm, Mon, C5) looking at "Tanks" - next week, "Planes"? -
+         plus new reality gameshow THE HONEY TRAP (11pm, Mon, C5)
+         featuring male holidaymakers making fools of themselves to
+         impress women, as if they ever needed any incentive... that
+         said, the new series of CSI: CRIME SCENE INVESTIGATION (9pm,
+         Tue, C5) moves to Tuesday to lead-in for yet another acclaimed
+         US cop import BOOMTOWN (9.50pm, Tue, C5)... and TWO GIRLS AND
+         A GUY (11.40pm, Tue, ITV) is the play where the poster should
+         have predicted that Robert Downey Jr is "about to learn a new
+         sexual position: honesty. Thanks to his two girlfriends!"...
+         over on digital, Simon "The Code Book" Singh presides over
+         baffling-in-every-respect gameshow MIND GAMES (8.30pm, Tue,
+         BBC4)... sadly it's not PJ O'Rourke presenting the otherwise
+         self-explanatory HOLIDAYS IN THE AXIS OF EVIL (9pm, Mon & Tue,
+         BBC4)... and there's a rare showing of real-time alleged "24"
+         inspiration NICK OF TIME (9pm, Wed, BBC Choice)... 16th-
+         century Satanist hunt recreation WITCHCRAZE (9pm, Wed, BBC2)
+         segues neatly into the pseudo-documentary format of all-new
+         MARION AND GEOFF (10pm, Wed, BBC2)... HORIZON (9pm, Thu, BBC2)
+         shows how to build a dirty bomb... BATTLE STATIONS (8pm, Thu,
+         C4) looks at the Huey helicopter - just months after it was
+         the subject of BBC2's "Decisive Weapons"... and the former
+         stand-up imitates http://www.rootingoutevil.org/ when he
+         becomes MARK THOMAS - WEAPONS INSPECTOR (7.30pm, Fri, C4)...
+
+         FILM>> anyone who found the director's overrated "Election"
+         weirdly depressing will presumably "enjoy" his two-hour Jack
+         Nicholson wasted-life post-retirement drab-fest ABOUT SCHMIDT
+         ( http://www.cndb.com/movie.html?title=About+Schmidt : you see
+         [Nicholson's] ass; [Kathy "Misery" Bates] whips off her robe,
+         and gets in the tub totally naked)... the TV ad describes it
+         as "Roman Polanski's most personal film" - which, considering
+         he made "Rosemary's Baby", doesn't entirely come across as a
+         recommendation for Holocaust hide-and-seek epic THE PIANIST
+         ( http://www.screenit.com/movies/2002/the_pianist.html : for
+         kids/teens already predisposed to such behavior and/or
+         attitudes, it's possible the film could inspire further anti-
+         Semitic behavior and/or attitudes)... Betty "Hill Street
+         Blues" Thomas re-teams with Eddie "Dr Dolittle" Murphy for the
+         dire I SPY ( http://www.screenit.com/movies/2002/i_spy.html :
+         [Famke Janssen] then says that she's getting hot and throws
+         back the covers and we see her in her panties. [Eddie Murphy]
+         then tells [Owen Wilson] to "bite her on the ass real hard")
+         ... which just leaves this week's dumb-but-fun alternative -
+         the reuniting of ER's Julianna Margulies and Ron Eldard on
+         board "The Shining" meets "Deep Rising" hybrid GHOST SHIP
+         ( http://www.cndb.com/movie.html?title=Ghost+Ship : we're
+         given a wonderful full-top-frontal shot of [Francesca
+         Rettondini] naked as [Isiah Washington] tries to bang her from
+         behind - only to find (whoops!) she's a still a ghost!)...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+        "the only nationwide phonecard club run for and by the members"
+                 http://www.norsktelekortklubb.no/english.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

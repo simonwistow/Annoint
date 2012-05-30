@@ -1,0 +1,280 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-09-24_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+Q. "Why is every futuristic movie, such as Bladerunner, so dark? Is
+    there a light bulb shortage in the future?"
+           - RICHARD HART, misunderstanding the nature of "film noir" 
+              http://www.wired.com/news/news/culture/story/21830.html
+
+A. ...because the light that burns twice as bright burns half as long!
+
+
+                                >> HARD NEWS <<
+                               repeated boo-boos 
+
+         At last, a use for JONATHAN UNGOED-THOMAS! This week saw
+         another of his incisive, in-depth investigations of the
+         stinking filthpot that is the Net: a revealing probe into
+         the millions of pounds lost by banks to cybergangs of
+         cyberterrorist cybercriminals. Of course, it's not exactly
+         news (the Sunday Times has been running with this urban
+         legend since 1996), so why relaunch the story now? Might the
+         clue be in the repeated theme that the criminals are "using
+         encryption", and GCHQ's kindly offering to "help companies
+         safeguard themselves"? Far be it from us to suggest that
+         Jonathan has proved himself sufficiently gullible to be
+         taken in by the regular spook troll for favourable
+         cybercrime stories. After all, who wouldn't want to miss
+         Cheltenham's generous suggestion, relayed by the piece, that
+         they "inspect sensitive computer systems of key companies"?
+         And we're sure this has nothing to do with GCHQ's ongoing 
+         search for outside income, in the form of those hefty
+         consultancy fees.
+ http://www.the-times.co.uk/news/pages/sti/99/09/19/stinwenws01021.html?999 
+- next week: CYBERTERRORISTS SEIZE COOKIE RECIPE, HOLD NEIMANN-MARCUS TO RANSOM
+ http://www.sunday-times.co.uk/news/pages/sti/96/06/02/stinwenws01016.html?999 
+                            - my god! they've been at it for *years*!
+       
+         As predicted, SCRAMBLING FOR SAFETY worked its semi-annual
+         magic of tempting government policy-makers out of their
+         ivory towers - straight into the giant rotating-knife
+         machines of the uk crypto community. Poor Patricia Hewitt
+         announced the death of key escrow with the tone of someone
+         expecting a standing ovation, only to find everyone else had
+         moved on to her government's latest fuck-up: reversing the
+         polarity of the burden-of-proof flow in the latest
+         proposals. The ukcrypto posse pointed out that if they sent
+         her an encrypted batch of child pr0n, and then shopped her,
+         under the current proposals she could could go to jail for
+         refusing to reveal the plaintext - even though she didn't
+         have it. Hewitt, who has a background in Liberty (the civil
+         rights org, not the shop), made "What? Where does it say
+         that? Oh, right. Well, it's not *meant* to say that" noises
+         - expect an amendment exempting government ministers from
+         self-incrimination in the next draft. How many versions of
+         this bill are we up to now?
+         http://www.fipr.org/ecomm99/
+                               - play "spot the idiocy" with a pal 
+
+         Over 240,000 intercontinental ballistic cancel messages were
+         launched at the uk.* news hierachy over the week, all
+         originating from an connect.com.au account. Is the Aussie
+         government taking a more pro-active stance with their
+         censorship initiative? Grundy Productions fighting back at
+         uk.media.tv.misc? Or, a little more likely, is it the work
+         of one of uk.*'s increasing number of troll and spamworts,
+         now bouncing their nukes through an open antipodean news
+         server? Nobody knows, but this is USENET, so everybody has
+         an opinion. Newbies thrashed about in uk.local.*, demanding
+         that "whoever's in charge" fix the problem. The "whoever's
+         in charge" spent their time trying to killfile all the
+         newbies, and arguing about whether anything could be done.
+         Death of the UK Usenet, antinews at 11.
+         http://x34.deja.com/=dnc/getdoc.xp?AN=527692764
+                                      - "no worries" - connect.com.au
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         THE SUN mysteriously relaunch currantbun.com as bun.com;
+         equally mysteriously, new install CD's don't work... where
+         "it" is site logging data: http://www.gettingit.com/logs/
+         ... http://wwwyahoo.co.uk points to... note absence of
+         "phones": http://st5.yahoo.com/iridiumgifts/index.html ...
+         not just Linuxen who hassle Alan Cox to fix their software:
+         ftp://ftp.linux.org.uk/pub/linux/alan/giassholes.jpg ...
+         travel - IN TIME!: http://www.ntk.net/doh/990924time.jpg ...
+         when TAGS attack: http://www.ntk.net/doh/990924plain.gif ...
+         plus, entirely understandable NT error of the week: "Memory
+         Allocations May Fail When There Are Large Free Blocks":
+     http://support.microsoft.com/support/kb/articles/Q216/3/83.ASP .
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Call it liturgical programming: Donald Knuth's latest
+         displacement activity to take his mind off Volume 4 is a
+         lecture series on religion, randomness and the art of
+         programming in MIT, Boston, starting on 1999-10-06 (advanced
+         warning so you can book your plane tickets). Presumably not
+         offering his usual $2.56 reward for any lapses in faith,
+         Donald will be discussing his 3:16 project, wherein he
+         analysed the 16th paragraph of the third chapter in every
+         book of the bible. And before you say anything, Isaac Newton
+         did weird stuff too, and you still use his algorithms, don't you?
+         http://web.mit.edu/bpadams/www/gac/lecture_seriesiii.html
+     - and on the fourth day, God got, like really *into* font kerning
+         http://www-cs-faculty.stanford.edu/~knuth/ 
+             - Donald and God: the last two people not to have e-mail
+http://www.geocities.com/ResearchTriangle/Node/4081/
+                                    - eradicating Godless free software 
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Just to show that we don't harbour any ill will to our
+         Australasian readers (hey, if geographical proximity to
+         idiocy was a problem, we'd all be in trouble), here's
+         CGI-PROXY, a tiny CGI Perl script that lets any server act
+         as an anonymising relayer of Web pages. It should defeat any
+         filtering program that forbids by URL. It has a subset of
+         the standard proxy spin-offs, too: pages can be served
+         without images, cookies can be filtered, and adverts
+         ignored. Having an open proxy is begging to have your
+         bandwidth sucked away, but make friends with a geek in
+         another country with cgi access, and you'll have password
+         protected surfing until they prise your history logs for
+         your cold blue fingers. Works for most corporate filters too! 
+         http://www.jmarshall.com/tools/cgiproxy/
+                        - can we have our newsgroups back now, please
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         "*how* much do I no longer need the weirding module!":
+         http://www.angelfire.com/ma/duneguy/ ... that "Tales Of The
+         Unexpected/ Four Rooms" wager more popular than we thought:
+         http://www.who2.com/missingdigits.html ... RADIO TIMES does
+         panic re-design to avoid confusion with TV GO HOME... Belgian
+         THE ONION: http://www.atmosphere.be/media/theheadlines/ ...
+         "Reach Out and Touch Somebody with a Diana Ross e-mail card"
+         http://home.talkcity.com/LibrettoLn/dianaross99/cards.html
+         - no, not that hard... DRIVER game has a lot to answer for:
+     http://www.gamespot.co.uk/pc.gamespot/driving/m25_uk/preview.html
+         ... just liked the name: http://prosthetic-monkey.com/ ...
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+
+         TV>> it's not all "fab" down at the CD-ROM fab plant for
+         Michael Douglas and Demi Moore in mismarketed Mikey Crichton
+         sexual harrassment VR thriller DISCLOSURE (9pm, Fri, ITV)...
+         proving it's - perhaps - not too late for a Generation X
+         slacker sitcom after all, SPACED (9.30pm, Fri, C4) features
+         Simon "Faith In The Future" Pegg, that annoying girl off
+         that camera advert, plus what are worryingly trumpeted as
+         "cultural references" - as opposed to other TV shows, which
+         all exist in their own hermetic universe... and the weekend
+         movie schedule reaches "MA" in Maltin's index, with Brit WW2
+         afterlifer A MATTER OF LIFE AND DEATH (12.40pm, Sat, BBC2);
+         mid-range Woody Allen romp MANHATTAN MURDER MYSTERY (9.30pm,
+         Sat, BBC2); and of course, original Hannibal Lecter chiller
+         Michael Mann's MANHUNTER (10pm, Sat, C4) - the only one of
+         the three to feature prominent product placement for "Glaser
+         safety slugs"... aiding their mission to become *the*
+         channel for robot crime-fighters, C5 airs the pilot of the
+         ROBOCOP spin-off show (5.55pm, Sun, C5) plus regular mascot
+         Knight Rider... "So, why aren't you as funny any more?"
+         unlikely to be the opening question levelled at Steve Martin
+         in thinly disguised "Bowfinger" advert OMNIBUS (10.40pm,
+         Mon, BBC1)... while some shrewd racism satire and a florid
+         Jeff Goldblum pad out patchy Samuel L Jackson boxing comedy
+         THE GREAT WHITE HYPE (9pm, Mon, C5)...
+
+         FILM>> "Rushmore" meets "Drop Dead Gorgeous" - but in a 
+         good way - in sharp-scripted foul-mouthed Matthew 
+         Broderick/ Reese Witherspoon high-school politico-satire 
+         ELECTION (http://www.capalert.com/capreports/ : mockery of 
+         Jesus' love; disgusting prayer to God; repeated lesbianism; 
+         adultery; covered sexual intercourse with vulgar talk 
+         typically associated with X-rated videos, even by a 
+         teen)... just edges out Harold "Ghostbusters/ Groundhog 
+         Day" Ramis' take on now well-trodden sensitive-mobster 
+         comedies ANALYZE THIS (http://www.capalert.com/capreports/ 
+         : attention to male crotch; skimpy swimwear; multiple 
+         murders by gunfire and push out of a window; sexual 
+         intercourse - covered by a bedsheet with body forms 
+         ghosting through the sheet with body folds pinching the 
+         sheet with characteristic motions, positioning, and sounds 
+         - by an unmarried couple). Interestingly, the A4 press ad 
+         implies that the full title is actually "Analyze This - And 
+         Lisa Kudrow"... losing their deposit this week: Jan de 
+         "Twister" Bont's lazy Neeson/ Zeta-Jones CGI remake THE 
+         HAUNTING (http://www.capalert.com/capreports/ : explosive 
+         startles; unholy manifestations; excessive cleavage and 
+         breast exposure; admission of bisexuality; child mischief 
+         by disregard for private property; ominous invisible 
+         threat)... and Michelle "Where are they now?" Pfeiffer 
+         heading up what's most charitably described as a cast with 
+         "international appeal" - Kevin Kline? Anna Friel? - in 
+         lushly made Shakespeare anachronism-fest A MIDSUMMER 
+         NIGHT'S DREAM (http://www.capalert.com/capreports/ : petty 
+         theft; planning to defy father's wish; nude female breasts; 
+         fondling of female breasts; portrayal of beings having 
+         power of the weather; counterfeiting of God's plan for the 
+         family hierarchy; public urination)... 
+
+         HARD LIT>> such a disappointing crop this month, we can 
+         hardly bring ourselves to link to Amazon: Greg Egan's usual 
+         eigenvectors - next step in human evolution, quest to 
+         exotic island etc - collapse into a decidedly non-optimal 
+         configuration in TERANESIA (trade paperback RRP 9.99, 
+         Amazon 7.99) - sure, more accessible than some of his 
+         "previous", but that's not what you're reading Egan for, is 
+         it? You're better off with his recently re-released 
+         QUARANTINE (RRP 5.99, Amazon 4.79)... similarly, Stephen 
+         Baxter is on something of a recycling tip, combining DIY 
+         NASA, autistic Midwich Cuckoos, 2001 gateway artefacts 
+         *and* the neturino time travel from Greg Benford's 
+         "Timescape" in new hardback TIME (RRP 17.99, Amazon 14.39) 
+         - not particularly based on the West End musical of the 
+         same name... NTK reader recommendations haven't been 
+         particularly glowing either: ANDREW ORLOWSKI enjoyed the 
+         comments on THE GIZA POWER PLANT: TECHNOLOGIES OF ANCIENT 
+         EGYPT http://www.amazon.com/exec/obidos/ASIN/1879181509/ 
+         - "solid, scientific literature" - though apparently "a 
+         couple of weak points revolving around Cayce, magnetic 
+         elevation, stellar radiation, and laser transmission could 
+         have been shored up a bit more"... SIMON WHITAKER found the 
+         ideal way to teach kids and/or foreigners serial killer 
+         terminology in the special Penguin easy-reader edition of 
+         SEVEN http://www.amazon.co.uk/exec/obidos/ASIN/0582402530/ 
+         ... while, following The Science Of The X Files, The 
+         Metaphysics Of Star Trek etc comes a UK edition of SEINFELD 
+         AND PHILOSOPHY: A BOOK ABOUT EVERYTHING AND NOTHING 
+         http://www.amazon.co.uk/exec/obidos/ASIN/0812694090/ ... 
+         and finally, those who remember Po "Teletubbies" Bronson's 
+         hilariously defensive online comments on his previous novel 
+         "The First $20m Is Always The Hardest" will be pleased to 
+         learn that his new collection THE NUDIST ON THE LATE SHIFT 
+         (RRP 10.00, Amazon 8.00) begins with an equally convincing 
+         account of how it's OK for him to interview all these big
+         CEOs, because he is immune to the lure of big money. So, no
+         need to feel guilty about downloading most of the chapters 
+         from the Wired and Forbes sites then... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "visiting our strange relations"
+             http://www.google.com/search?q=related%3Awww.ntk.net
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+               Unsubscribe? Mail ntknow-subscribe@lists.ntk.net
+               Subscribe? Mail ntknow-unsubscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,288 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-11-08_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "We don't shy from a hearty give-and-take and no one believes
+         that the skeptics will be convinced overnight. As Thomas
+         Jefferson wrote, 'It takes time to persuade men to do even
+         what is for their own good.'"
+                   - the RIAA on their 256-72 loss at the Oxford Union
+                              http://www.politechbot.com/p-04127.html
+... mind you, it saves time if you pay politicians to force them to do it
+
+
+                                >> HARD NEWS <<
+                                 on the loose
+
+         UK.COM, the slightly silly but popular para-TLD, disappeared
+         briefly from the Net this week. The reason, as ever in
+         DNSland, was a combination of overearnestness and mild
+         incompetence that slowly escalated until it hit Verisign,
+         home of *fantastic* incompetence. It started with spamcop
+         and rfc-ignorant.org deciding they'd seen spam from a
+         *.uk.com domain - and therefore, uk.com were responsible.
+         Their bots checked the uk.com admin details - and, by a
+         quirk, failed to find a valid mailserver. So they reported
+         uk.com as having invalid whois details to a bot at ICANN.
+         That bot turned and told Verisign. Of course, Verisign as
+         the last port of call, had the sense to check with a huma -
+         oh, what am I saying? Ten days after the first mistake,
+         without apparently contacting uk.com by phone, post or mail,
+         Verisign shut down the domain, killing thousands of other
+         sites. Which presents an interesting denial of service
+         attack on a domain: it seems if you can report to ICANN that
+         a domain's details are wrong, there's a good chance of it
+         escalating until your victim has vanished from the Net.
+         Heck, just reporting a fake spam might do it. ICANN and
+         Verisign updated the DNS root hints file this week, for the
+         first time in five years. If only we could send them the
+         occasional hint back.
+         http://www.donelan.com/dnstimeline.html
+                                           - DNS snafus we have loved
+         ftp://rs.internic.net/domain/INTERNIC_ROOT_ZONE.signatures
+                    - zones signed by the GnuPG key of Postel's Ghost
+
+         DAVID DOCHERTY, MD for Broadband at Telewest, novelist, and
+         thinker, writes to declare that he "loathes spam".
+         Consequently, he (and the company he hired, YourRelease.com)
+         simply hadn't planned on sending hundreds of posts (which
+         "looks like spam", he admits) to newsgroups worldwide using
+         commercial spamming software at all. They were just trying
+         to create a "War of The Worlds style drama," using fictional
+         companies and a fake activist group to "create awareness of
+         the issues" (and sell David's book). A volunteer, David
+         says, acted irresponsibly. They're now drawing the drama to
+         an early close, and deleting all the e-mail addresses they
+         collected - perhaps realising at this late stage that
+         fictional companies in particular have real problems
+         complying with the Data Protection Act. Which leads us to
+         wonder - given this was an ad campaign (and not a real activist
+         spam), why was the agency employing "volunteers"? Are reality
+         and fantasy beginning to blur in the telco industry? And if
+         so - what, again?
+         http://groups.google.com/groups?selm=smtpc1c9fb68.wibble%40localhost
+- "as someone who has spent 12 years working in TV and the Web..." <SNIP>
+         http://www.yourrelease.com/corp.htm
+               - Underground/Guerilla Marketing Strategy & Management
+
+         Thanks to everyone who responded to last week's appeal for
+         someone to advise TV CREAM [see last week's NTK] - but don't
+         worry if you haven't heard anything back from them yet, as the
+         "creamies" are currently assembling a crack legal team to take
+         on web-piracy repeat offenders The Daily Mail. Following on
+         from that, this week's community interaction slot has been
+         tailored to a couple of other interests we know to be popular
+         among the NTK-reading demographic: obscure retro hardware and
+         role-playing games. More specifically, reader JAMES WALLIS
+         plans to "Create A Game In A Day" at his upcoming DRAGONMEET
+         (from 10.30am, Sat 2002-11-30, Kensington Town Hall, London
+         W8, UKP7) - but if you brought along a working Macintosh (or
+         monitor) that they could use for this, you'd get a t-shirt and
+         admission for free. Email the usual tips@spesh.com with the
+         subject line "Return of the Mac" if you're interested. Though
+         to be honest, we'd try to find a use for any old hardware
+         you'd be prepared to loan - or if you don't especially want it
+         back, perhaps build into a DIY recycling media centre. Or
+         fully-autonomous walking battlemech, whichever seems easier.
+         http://www.dragonmeet.com/giad.shtml
+          - also features "Dorkstock Europe" and "Curse of the Wendigo"
+          http://johnpeace.f2o.org/idiot/
+                        - Linux (heck, even Windows) boxes also welcome
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.google.com/search?q=%22hotel+incontinental%22 ,
+         "pennis enlargement", "british telecome", and "went for the
+         juggler"... out of the mouths of content management systems:
+         http://www.ntk.net/2002/11/08/dohholmes.gif ... battle of
+         generic BBC pics: http://news.bbc.co.uk/1/hi/2400441.stm vs
+         http://news.bbc.co.uk/1/hi/2403339.stm ... BEFORE new
+         licensing laws: http://news.bbc.co.uk/1/hi/2400273.stm - and
+         AFTER?: http://news.bbc.co.uk/1/hi/1879457.stm ... yup, that
+         ought to do it: http://www.saturn-entertainment.com/WARNING.html vs
+         http://tswg.gov/ ... Total Staff - a super-accurate "1432.78":
+     http://www.gov.im/deptindex/fr_checkParents.asp?article=eduinfo.asp
+         ... also, isn't that a pretty dumb comment to go with this
+         warning?: http://www.ntk.net/2002/11/08/dohwarn.gif ... those
+         baffling MS licenses: http://drmlicense.one.microsoft.com/ ...
+         perhaps what that "Shadow of Z'ha'Dum" episode was really
+         about?: http://www.ntk.net/2002/11/08/dohbab.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         This year's Stand-up Socialism Season starts a little later
+         than usual, as heavy-handed multimillionaire MICHAEL MOORE
+         brings not just his anti-gun documentary "Bowling For
+         Columbine" to the UK (out next week), but also the world
+         premier of his ONE AND A HALF MAN SHOW (various times, every
+         day until Sunday 2002-12-08 except Mondays, the Roundhouse,
+         London NW1, most tickets from UKP25.00). But if that sounds
+         like a lot of money to see someone who, on the strength of
+         that his TV show, isn't exactly a natural comedian, expect a
+         somewhat more egalitarian pricing structure for the MARK
+         THOMAS WARM-UP TOUR (various venues around the South and West,
+         until Wed 2002-12-11). Continuing the theme of "To each,
+         according to their needs", the TUC are giving away 75 pairs of
+         tickets to the one-off UK debut of MIKE DAISEY'S 21 DOG YEARS:
+         DOING TIME @ AMAZON.COM (5.30pm, Saturday 2002-11-23, Congress
+         House, London WC1B, Union members only). And NTK's own rabble-
+         rousing co-editor Dave Green will be delighting members of the
+         Oxford University Computing Society - and their "bona fide
+         guests" - with his illustrated talk KNOWN VULNERABILITIES IN
+         THE TECHNOLOGY MEDIA (8.30pm, Tue 2002-11-12, Comlab, Keble
+         Road, Oxford OX1, UKP1 to non-members), featuring an all-too-
+         rare chance to buy NTK t-shirts post-and-packaging free.
+     http://www.wayahead.com/tixonlinemaj/event.asp?artist=michael+moore
+               - vs http://www.foxnews.com/story/0,2933,48562,00.html
+         http://www.mtcp.co.uk/news/tourdates.htm
+                    - aka the "not quite so poor" man's Michael Moore
+         http://www.tuc.org.uk/worksmart/21dogyears.htm
+                     - possibly what Moore looks like without the hat
+         http://www.ox.compsoc.net/events/termcards/current/
+                 - "404" now back in stock at http://www.ntkmart.com/
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         For those of you who think DDR stands for "double data
+         rate", then think it stands for "Dance Dance Revolution",
+         then start flip-flopping manicly between the two, comes
+         PYTHON DANCE DANCE REVOLUTION, the high-level, ogg-wielding
+         scripting dance game for Linux or Windows, a PS2->USB
+         connector, and a DDR mat. For those who like their GPL'd
+         rhythm games more polished - and platform specific - there's
+         the Visual C++, but otherwise damn fine STEPMANIA 3.0, now
+         with a vast world of skins, track editing, extra announcers
+         and music files behind it. If you can *get* the music files,
+         that is : our copyright overlords dictate that your
+         favourite MP3 tracks be hidden away from sight, like escaped
+         rebels or MAME files. But, hey, that's why it's called
+         revolution, right?
+         http://www.clickass.org/~tgz/pyddr/
+                                    - many dependencies, but hackable
+         http://stepmania.com/stepmania/
+ - It's SDL! Port it to the Mac! Port it the Linux! Are you a monkey?
+         http://www.ddrmaniax.net/
+                                                         - and so on.
+http://www.thesunmachine.net/image_archive/archive/pcgames/france.jpg
+                                    - other versions we'd like to see
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         games biz tackles persistent accusations of "sexism" head on:
+         http://www.gamegirladvance.com/archives/2002/10/26/ ... in the
+         running to be a set text in next year's A-level English exam:
+         http://www.w0wz3rz.com/bling/ ... make warez, not war:
+         http://www.AudioBooksForFree.com/kalashnikov/Ak-mp3.asp ...
+         ... ultimately, depends just how desperate you are to run
+         an Acorn OS: http://www.iyonix.com/Launch/register.cgi vs
+         http://homepage.ntlworld.com/rpsprowson/bbc/minib.htm ...
+         also, impresses colleagues when you leave it in staff carpark:
+http://cgi.ebay.com/ebaymotors/ws/eBayISAPI.dll?ViewItem&item=1871775187
+         ... New Mexico may allow "idiots" to vote, no comment on who's
+         being voted for: http://uk.news.yahoo.com/021101/80/ddowi.html
+         ... CARLYLE for the rest of us: http://www.vicefund.com/ ...
+         because the movie skips over some of the interesting features
+         of "dot products": http://www.matrixreloaded.com/ ... LIFE
+http://www.smh.com.au/articles/2002/11/04/1036308257969.html imitates:
+http://www.chaser.com.au/show_story.asp?ID=577&ED=63&NAME=debatefails ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Sandra Bullock finds smalltown solace in HOPE FLOATS
+         (9pm, Fri, ITV)... Alexandra "The Champions" Bastedo is lured
+         to a remote castle in Freddie Francis' THE GHOUL (1.05am, Fri,
+         BBC1)... but all the best films of the week are scheduled way
+         past midnight, including Mike Myers' pre-Austin Powers SO I
+         MARRIED AN AXE MURDERER (1.10am, Fri, ITV), Ben Stiller/ Tea
+         Leoni adoption quirk FLIRTING WITH DISASTER (12.40am, Tue, C4)
+         and Woody Allen/ younger woman trendsetter MANHATTAN (12.30am,
+         Wed, ITV)... BBC Digital shows all of series 2 of THE OFFICE
+         (from 9pm, Sat, BBC Choice), raising the bar for the new
+         series of I'M ALAN PARTRIDGE (9.30pm, Mon, BBC2)... on the
+         basis that everyone else goes on about Saturday morning kids'
+         TV presenters, so does FAME SET AND MATCH (9.05pm, Sat,
+         BBC2)... and it's not quite as exciting as David Fincher's
+         "Se7en" or "Panic Room", but still worth watching THE GAME
+         (9.05pm, Sat, C4)... presumably timed to coincide with the
+         release of their greatest hits album, "U2 Weekend" largely
+         consists of POPMART LIVE FROM MEXICO CITY (12midnight, Sat,
+         C4) and ZOO TV LIVE FROM SYDNEY (12.45am, Sat, C4)... hope
+         this new series of ROLF ON ART (7pm, Sun, BBC1) will show him
+         recreating the modern masterpieces of Jeff Koons, Damien Hirst
+         and Andres "Piss Christ" Serrano... and Naomie "28 Days Later"
+         Harris battles a different kind of zombie in Labour spin-
+         doctor drama THE PROJECT (9pm, Sun, BBC1)... the debate
+         continues to rage over whether Christina Ricci's cleavage
+         constitutes "nudity" in Tim Burton historical curio SLEEPY
+         HOLLOW (9pm, Sun, C4)... Gina "Coupling" Bellman sniper
+         thriller SILENT TRIGGER (9pm, Sun, C5) was, bafflingly, last
+         shown this June on BBC1... harrowing police procedural WIRE IN
+         THE BLOOD (9pm, Thu, ITV) segues neatly into the madcap antics
+         of HARRY HILL'S TV BURP (10.30pm, Thu, ITV)... while Matt
+         Lucas and Kevin "Simon Quinlank" Eldon could have the next
+         "Red Dwarf" on their hands in intergalactic trucking sitcom
+         COMEDY LAB: CAPTAIN V (11.35pm, Thu, C4)...
+
+         FILM>> it's Colin "son of Tom" Hanks, Jack "Tenacious D"
+         Black, Carly "Popular" Pope, John "Third Rock From The Sun"
+         Lithgow, and Kevin "bloody" Kline - together at last! - in
+         intermittently hilarious feelgood teen slapstick ORANGE COUNTY
+         ( http://www.capalert.com/capreports/orangecounty.htm : [Jack
+         Black] dropping his pants in view of a woman to entice,
+         privates unseen; drug intoxication leading to fire; deceit in
+         urinalysis, repeatedly) - not very closely based on Kim
+         Stanley Robinson's scifi trilogy of the same name... manga
+         director Mamoru "Ghost In The Shell" Oshii teams up with an
+         all Polish-speaking cast for great-looking lethargic
+         videogaming VR philosophy-fest AVALON (imdb: color / dark-
+         future / desaturated-colors / dog / purse-snatcher /
+         stylization / team-play / video-game / virtual-reality / war-
+         game) - not based on the Marion Zimmer Bradley novels or the
+         Roxy Music song of the same name... but, disappointingly, the
+         Internet Movie Database doesn't seem to have a reciprocal link
+         saying "If you like [The Adventures of Priscilla, Queen of the
+         Desert], we also recommend..." 1930s Aussie racism walkabout
+         RABBIT-PROOF FENCE ( http://www.bbfc.co.uk/ : Contains mild
+         emotional intensity)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "the less Irish version of"
+                           http://www.imho.8m.com/
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

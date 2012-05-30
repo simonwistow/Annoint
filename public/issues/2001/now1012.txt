@@ -1,0 +1,344 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-10-12_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Before the tragedy of September 11th the only thing scary
+         about Anthrax was our bad hair in the 80's and the 'Fistful Of
+         Metal' album cover. Most people associated the name Anthrax
+         with the band, not the germ. Now in the wake of those events,
+         our name symbolizes fear, paranoia and death. Suddenly our
+         name is not so cool..."
+         - thrash metal band ANTHRAX disown previous albums "Armed And
+         Dangerous" and "Spreading The Disease"
+         http://www.anthrax.com/html/ANTHRAX_home.htm
+            ...fear and paranoia of our record sales dying, more like
+
+
+                                >> HARD NEWS <<
+                              filtering the spews
+
+         No, it's this week's *other* story about stupid muppets linked
+         to subliminal imagery: a bit of support now for THE REGISTER's
+         knee-jerk scepticism over IOMART's steganographically
+         encrypted files "which *might* be linked to Osama bin Laden"
+         [our emphasis] on account of their "containing Arabic text and
+         dates". Despite fears that the former Madasafish owner had
+         found these by snooping on their customers, Iomart actually
+         ditched its consumer ISP earlier this year and "now regards
+         Net Intelligence as its main product" - "intelligence" partly
+         provided by one STEPHEN WHITELAW who, perhaps prophetically,
+         called steganography "the third biggest threat to US security
+         after biological and chemical attack" almost exactly this time
+         last year [NTK 2000-10-27]. Whitelaw's man-sized database of
+         "the dark side of the web" was then claimed to be worth around
+         $300m, though we suspect Iomart paid slightly less for it when
+         they bought his company out of liquidation in July. Of course,
+         those traditional stego bogeymen - porn files - remain a
+         slightly odd choice for religious fundamentalists using public
+         net access terminals; on the plus side, you don't have to
+         worry about a blanket ban on all steganography, because all
+         digital watermarking systems also fall into that category.
+         http://www.theregister.co.uk/content/6/22154.html
+        - also unquestioned by Ananova, BBC News Online, The Guardian
+http://people.ft.com/ft/gx.cgi/ftc?pagename=View&c=Article&cid=FT3G54ELIEC
+            - "One password [...] took 35 days for Buchanan to crack"
+http://www.chiark.greenend.org.uk/pipermail/ukcrypto/2001-October/017708.html
+        - But why would *MI5* want more resources to monitor the net?
+
+         You know, there was a time when we *dreamed* of having
+         BBC1's WATCHDOG expose BT's secret policy of throttling ADSL
+         bandwidth on specific high ports used by file-sharing
+         clients. Hell, to have someone on the telly say any phrase
+         in that sentence without drooling would have made our year.
+         But now it's happened, we're a mite freaked. It doesn't make
+         sense. Why did BT hide these ploys? If BT are concerned
+         about bandwidth abuse, wouldn't it make sense to scare
+         uneconomic customers away - or maybe kill them - as they
+         have been doing to hardcore BT Anytime users? And if they
+         went public, BT could make a strong argument for throttling:
+         after all, it's not as if slow file-sharing is *that*
+         problematic (your downloads take two evenings instead of
+         one? horreur!). No, BT's sneakiness points to the flaw in
+         their own plan: if their policy is widely known, it's
+         trivially easy to circumvent. And unlike most of the
+         entertaining arms races we're seeing in software these days,
+         BT will always lose, because the smarter you try and make
+         your network, the crappier it gets. BT: Bad network design;
+         bad publicity; bad customer relations. Now things seem more
+         comfortably familiar.
+         http://www.theregister.co.uk/content/6/22163.html
+         - hmm. we're sure this Register article said BT killed customers
+http://www.btopenworld.com/business/static/business_conditions.html#8
+- 8.10: "must not be used [...] in breach of any copyright". Ahem.
+         http://www.bbc.co.uk/watchdog/reports/reports_wbtanytime2.shtml
+                      - yeah, and where's anne robinson now? nowhere.
+
+         Ooh, yes, terrible prospects for the tech world, ooh yes,
+         much better if you look for something in marketing again.
+         Okay, have they gone yet? Good. Fancy a job? We've got two
+         vacancies kicking around, both guaranteed to save you from
+         the careerwreck in the banking sector that the jobs market
+         is currently wafting you toward. Not much money, but that
+         was never the plan, was it? Traditional bastion of
+         right-thinking folk THE FOUNDATION OF INFORMATION POLICY
+         RESEARCH is still after Web designers for its site -
+         volunteer initially, maybe salaried later (presumably when
+         they get paid off by all those steganography-using
+         terrorists). Same resume, different planet: the assistant
+         editor slot at Venture Litterateur funded MUTE megazine is
+         now open for applicants. Three days a week, 14K-16K,
+         experience in writing and a "sound knowledge of contemporary
+         culture and politics" required, although in our experience
+         shouting drunkenly about 6502 assembler at parties is more
+         than enough to impress them with your scene credentials.
+         http://www.gorjuss.com/archives/00000035.html
+                                      - what the last servant died of
+http://www.xenoclast.org/free-sklyarov-uk-announce/2001-August/000003.html
+                                - nah, it'll be fun: mail cb@fipr.org
+         http://www.metamute.com/
+ - no webpage for the job, ze lamerz: mail mute@metamute.com for info
+http://amsterdam.nettime.org/Lists-Archives/nettime-l-0110/msg00070.html
+- while you're at it, ask Hari where we can get the *real* Muslim Berts
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Kylie's new look wins major award, but is she DOG OR MONKEY?:
+         http://www.ntk.net/2001/10/12/dohkylie.gif ... meanwhile, all
+         ITN can think about: http://www.ntk.net/2001/10/12/dohitn.jpg
+         ... maths special - a lot of money for one "well-timed shot":
+         http://uk.news.yahoo.com/011004/80/c6isd.html ... UKP142m for
+         import GAMECUBE: http://www.ntk.net/2001/10/12/dohn64.gif ...
+         CHUCK NORRIS figures "fundamentalists like Bin Laden amount
+         to 1/100th of one percent of the world's 1 billion Muslims":
+    http://www.nationalenquirer.com/stories/feature.cfm?instanceid=15889
+         - 1,000,000,000 * 0.01 * 0.01 = a reassuring 100,000... birth
+         control the answer?: http://www.ntk.net/2001/10/12/dohiran.gif
+         ... help rebuilding effort, keep AFGHANISTAN at top of pull-
+         down menus: http://wdb1.caldera.com/sdir_web/owa/scodir_search
+         ... FBI going all "chicken little" on us (according to URL):
+         http://www.ntk.net/2001/10/12/fbidoh.jpg ... yes, I'm sorry
+         to have to press you on this, but what exactly do you *do*?:
+         http://www.gridcom.co.uk/faqs/ ... BBC hacking pic classic:
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_1468000/1468329.stm
+         ... 500 copies of Nick Hornby novel - for the price of 594!:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0575402377/ (vs:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0140293450/ )... so,
+         what might "ability to own a problem" be a euphemism for?:
+       http://www.gojobsite.co.uk/showvac/VaVby3/4680763/909721060 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         THE LOEBNER "ARTIFICIAL INTELLIGENCE" PRIZE FOR GIMMICKY
+         CHATBOT OF THE YEAR comes to London's Science Museum at some
+         point tomorrow (Sat 2001-10-13), though if you prefer your
+         off-the-wall-hypothesising to have some sort of point, there's
+         also the ECOLOGICAL DESIGN ASSOCIATION's "10UP" event which
+         includes "defining a vision for the next ten years" among its
+         varied goals (from 9am, Sat 2001-10-13, UKP40, Conway Hall,
+         London WC1). Sure, they're designers, so the results may not
+         always be too practical - but you've got to admit, the guy who
+         wants to know if "polymer acoustic guitars have any 'ecodesign
+         advantages' over traditional wooden instruments" is definitely
+         one to watch in the future.
+         http://www.loebner.net/Prizef/loebner-prize.html
+              - can't find anything on the Science Museum site, again
+         http://www.biothinking.com/10up/whocome10.htm
+                                     - next week: Anarchist Bookfair!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Matthew Westcott's MINIGAME competition rules were harsh,
+         even by demo standards: but when you're cross posting to
+         comp.sys.sinclair and comp.sys.cbm, you've got to be tough.
+         Entries had to be a playable game; total code size had to be
+         under 512 bytes or 2KB, excluding BASIC bootloader; and the
+         game should run on the Commodore 64, ZX Spectrum, Amstrad
+         CPC, or Atari 8 bit computers. Yeah, middle-class BBC Micro
+         Fauntleroy's need not apply. The closing date was 2001-09-30
+         (how retro is that?) but, ahh, now comes the judging. A 52KB
+         zip gets you 22 C64 games, 6 Speccie specks, two CPC
+         proglets, and one Atari shoo-in, "Asteraxis 2K". A great
+         responsibility - and a good few hours messing with emulators
+         - now befalls you. If you can fight through the
+         understandable preponderance of Snake 'n' Tetris games in
+         here, we're sure you'll find something to make you cry with
+         the pain of lost innocence and fucked-up tape copies.
+         Eight-bit is forever: completed voting forms are due 2001-11-09.
+         http://demo.raww.net/minigame/
+              - "Defend the Earth from an alphabetical alien attack."
+         http://www.robsoft.co.uk/ultimate/misc/remakes.shtml
+     - Ultimate remixes: like you'd see one of these under 512 bytes.
+
+
+                                >> MEMEPOOL <<
+                    source for the http://www.gagpipe.com/
+
+         this year's scary HALLOWEEN COSTUME suggestions start right
+         here: http://frozen-sahara.com/eliblob/tf-costume.jpg ,
+         http://www.magicnet.net/~yak/pix/ja.jpg ... CHARGRILLED - to
+         perfection: http://www.startribune.com/stories/484/740442.html
+         ... http://www.geocities.com/TelevisionCity/1356/cartoon2.htm
+         elaborates (alarmingly) on http://www.brainbake.com/fpoll.asp
+         ... what is it with PHOTOSHOP/GIMP users and their apparently
+         limitless free time? http://www.touristofdeath.com ... "a
+         new definition of 'frustration' [...] the melty wide-eyed
+         hero-worshipping look from gorgeous twentysomething Korean
+         college girls": http://tuxedo.org/~esr/writings/deep-kimchi/ -
+         hope ESR didn't wander into the red-light area by mistake...
+         is that what happens to people who ask "too many questions"?:
+         http://www.ask.co.uk/reply.asp?ask=What+are+MI5+and+MI6%3F ...
+         http://catless.ncl.ac.uk/Risks/21.68.html#subj11 imitates
+         http://www.ubersoft.net/d/20000606.html ...another MATRIX actor
+         "wakes up": http://www.eonline.com/News/Items/0,1,8926,00.html
+         ... HAYSEED DIXIE vs AC/DC: http://www.dualtone.com/hayseed/
+         ... anyone have a grab of the UK news show that displays
+         "(T)he (W)ar (A)gainst (T)errorism" vertically next to pics of
+         George Bush?... currently featuring entirely different "Steve"
+         tribute: http://www.fuckedcompany.com/images/developers.mpeg
+         (caution: adult content)... random metafilter generator:
+       http://www.msu.edu/~baileyk6/generate.html vs meta generator filter:
+       http://www.wrongwaygoback.com/designforlife/randomgenerator.shtml ...
+
+
+                                >> GEEK MEDIA <<
+                       the more regular www.tvgohome.com
+
+         TV>> Debbie "Carrie Fisher's mum" Reynolds guests in the "is
+         C-3PO gay?" episode of WILL AND GRACE (9.30pm, Fri, C4)...
+         contemporary photorealist David Hockney's SECRET KNOWLEDGE
+         (6.50pm, Sat, BBC2) argues painters of the past aren't as good
+         as he is, and "cheated using mirrors"... while C4 seem to be
+         launching some sort of unofficial sci-fi weekend with Starlab/
+         Rodney Brooks/ some-guy-in-a-shed robotics face-off BATTLE OF
+         THE ROBOTS: THE HUNT FOR AI (8pm, Sat, C4)... NTK's Ben Moor
+         neglects to point out that "Sapphire" and "Steel" aren't
+         technically "elements" in TOP TEN TV: SCI-FI (9pm, Sat, C4)...
+         Mark Kermode, perhaps predictably, gets all excited over the
+         uncompromising vision and graphic violence of the Alien films
+         in ALIEN EVOLUTION (10.40pm, Sat, C4), inexplicably followed
+         by bemused Philip K Dick adaptation SCREAMERS (12midnight,
+         Sat, C4)... and maybe it's just us, but this ALIEN CONTACT
+         docu (1.40pm, Sun, C4) sounds a lot like the old-Amiga-demo-
+         featuring "What If: ET?" mockumentary shown on C5 a few weeks
+         ago... black-and-white alleged "Alien" inspiration IT! THE
+         TERROR FROM BEYOND SPACE (2.45pm, Sun, C4) memorably features
+         pre-Apollo astronauts hunting an on-board xenomorph with a
+         bazooka... tough call for Sigourney Weaver fans as ALIEN:
+         RESURRECTION (10pm, Sun, C4) goes up against '70s domestic
+         drama THE ICE STORM (9pm, Sun, BBC2), which also has Katie
+         Holmes in it... and Steps and Shirley Bassey are viciously
+         lampooned in this week's ROCK PROFILE (11pm, Sun, BBC2)... "a
+         lot of vomiting" is promised in extreme "1940s House" followup
+         PLAGUE, FIRE, WAR AND TREASON (9pm, Mon, C4)... C5's unique
+         interpretation of "factual output" continues with a cheesy
+         reconstruction of THE TUTANKHAMUN CONSPIRACY (8pm, Tue, C5),
+         handily followed by their annual showing of groovy Mel Gibson/
+         Patrick Stewart MK-Ultra thriller CONSPIRACY THEORY (9pm, Tue,
+         C5)... similarly, dieting docu SKINNY WOMEN (9pm, Wed, C4) is
+         educationally double-billed with ALLY MCBEAL (10pm, Wed, C4),
+         then followed by another David E Kelley creation THE PRACTICE
+         (11.35pm, Wed, BBC1), although Lara Flynn Boyle isn't in these
+         "previously shown on Sky and ITV" early 1997 episodes...
+
+         FILM>> pretty much the same feelgood teen filth as the first
+         one, though this time there's a bit more of Alyson "Willow"
+         Hannigan and you get to see the full "The Terminator" chat-up
+         routine in AMERICAN PIE 2 (http://www.cndb.com/ : [Lisa
+         Arturo] has small tit[s] with nice brown nipples; [Denise
+         Faye] had bigger breasts with brown areolas but pink nipples;
+         in the middle of the movie you get a full view of [Jason
+         Biggs'] butt again after he glues his hand to his penis)...
+         inexplicably, the craze for gross-out comedies seems to have
+         passed Sean Penn and Jack Nicholson by, as they stick with
+         glacial '70s-style smalltown child-murder character-study THE
+         PLEDGE (http://www.screenit.com/movies/2001/the_pledge.html :
+         We briefly see most of the underside of a woman's thigh)... or
+         there's London-centric Nathan Barley "Human Traffic" remake
+         SOUTH WEST 9 (http://www.bbfc.co.uk/ : rated 18 for "drugs
+         use, very strong language, sex and some violence") - so
+         obscure it doesn't seem to even be in the imdb... while the
+         "Flick/Fuck" confusion once again besets the Movie Chart
+         Show's poster quote "A Fruity Flick Ripe For The Picking" for
+         Oirish sex comedy PEACHES (http://www.bbfc.co.uk/ : rated 15
+         for "frequent strong language") - not, it appears, based on
+         the Presidents Of The USA song of the same name...
+
+         CONFECTIONERY THEORY>> a "biscuits and cereals" special this
+         month, to commemorate both the coming of autumn and next
+         week's WORLD ANTI-McDONALD'S DAY http://www.mcspotlight.org/ .
+         Also their new MCCHICKEN TIKKA WRAP (UKP1.99) and MEGA MAC
+         MEAL (UKP3.99) are a bit of a disappointment to be honest, and
+         we didn't feel we could really compete with the comprehensive
+         likes of http://www.horklezorp.com/entertainment/mcsauce/ ...
+         anyway, following the example of Warren Ellis' "Stormwatch",
+         KELLOGG's have subdivided their awesome CRUNCHY NUT brand into
+         CRUNCHY NUT RED (from UKP1.89), setting aside the ingredients
+         with greatest destructive capability - cranberry fruit pieces,
+         yoghurt flavour flakes, and what can only be described as
+         "slivers" of almond - for acts of deterrent display and
+         retaliation. CRUNCHY NUT PRIME will now be assigned to address
+         "supercereal threats in hotwar situations" - for instance,
+         READY BREK's RIP, MIX AND MICRO (from UKP1.49, 6 sachets),
+         which frankly don't seem to taste of anything much, let alone
+         "Chocca Chocolate", "Saucy Strawberry" or "Bursting Banana".
+         And the jury's still out on NESTLE'S "Lightly Sweetened Whole
+         Wheat Cereal" SPORTIES, with their sinister "REVOLUTIONARY new
+         Power Zone"... that "delicious yoghurt flavour topping" pops
+         up again on the mildly uninteresting KELLOGG'S SPECIAL K BAR,
+         but pseudo-health product of the month remains CADBURY'S
+         chocolate-coated BRUNCH BAR, available in both hazelnut and
+         raisin variants, and rivalling even CADBURY'S CARAMEL FINGERS
+         (99p/125g) and limited edition TOFFEE APPLE MARYLAND COOKIES.
+         Reader ALAN CONNOR reports TUNNOCK'S DARK CHOCOLATE CARAMEL
+         WAFER - the firm's "first new product in living memory" - "has
+         a Rich Tea sophistication which almost makes up for in class
+         what it lacks in the pure Scottish sugar-and-fat hit of the
+         original". And Cyrillic ingredients appear on the tasty new
+         "Double Choc" and "Tangy Orange" flavours of BURTON'S SPECIAL
+         EDITION WAGON WHEELS because Russia apparently constitutes a
+         major export market for these decadent Wild Western delicacies
+         ... you'll probably want to wash all that down with a glass or
+         two of LUVLY LATTE FRIJJ, TOP TOFFEE GULP (59p), Nestle's "Hot
+         When You Want" self-heating cans of NESCAFE ORIGINAL (now back
+         on trial in Birmingham), or even INTERCONTINENTAL BRANDS' ANT
+         NATURAL STIMULATION soft drink (99p/275ml), a fruit juice
+         featuring the great taste of red and black Asian Mountain ants
+         - available from pubs and pet shops, presumably...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+              "trolling so fine we thought we'd let him have it"
+                http://www.subclear.com/New%20HTML%20Page1.htm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

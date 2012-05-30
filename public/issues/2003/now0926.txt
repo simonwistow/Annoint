@@ -1,0 +1,293 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-09-26_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Although [Russell "Queer As Folk" Davies] says he wants to 
+         'introduce the character to a modern audience', Lorraine 
+         Heggessey, the controller of BBC1, insisted yesterday
+         that she did not expect a gay Doctor Who..."
+http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2003/09/26/nwho26.xml
+         ...foppish "Time Lord", travels with entourage of "companions" 
+                                 - what could be straighter than that?
+
+
+                               >> HARD NEWS <<
+                            what happened to MOOs?
+
+         A contrary couple of weeks among the forces fighting the
+         good fight - or at least, convincing everyone else they are.
+         MSN certainly added a few people to their buddy list after
+         many outlets ran MSN's cancelling of their chat services
+         without a glimmer of analysis. MSN UK head Gillian Kent was
+         on all media, recommending people switched from "free and
+         unmoderated" chatrooms to... MSN Messenger. Oh yes, much
+         safer. Anyone wanting to write a real follow-up story might
+         want to try opening MSN Messenger. Click on "Search for a
+         Contact". Choose "Search By Interest". Browse "Profiles By
+         Interest". Click on "People > Romance". Click on "13-19".
+         Voila. A list of potential penpals, sorted by age and gender.
+         Any chance of MSN Messenger getting shut down now? Or is the
+         AIM-killer a bit more profitable than free, moderated chat?
+         http://www.currybet.net/archives/000099.shtml
+                                                        - more quotes
+         http://news.bbc.co.uk/1/hi/scotland/3139754.stm
+- and while you're running that press release, could you put this one up too?
+
+         It got even weirder in Parliament last Thursday, when the
+         Lords debated a bit in the Sexual Offences Act that would
+         let police and GCHQ "make" their own child porn. While the
+         Lords wandered off into a fascinating fancy that Al-Qaeda
+         was using steganography to send sekrit messages in illegal 
+         material, the rest of us were left wondering exactly what
+         kind of David Icke-level conspiracy was going on here. Turns
+         out that it's not just the cops "making" pr0n. Since 1999,
+         "making" child porn, in the legal sense of the term,
+         includes caching indecent GIFs, preserving them for the
+         police, or even seeing them fly past as a moderator or
+         suspicious sysadmin. Everyone, it turns out, involved in the
+         self-policing of the Net: from the Internet Watch Foundation
+         helpline callers to those very same MSN moderators keeping
+         an eye on chat rooms, yea even unto GCHQ spies who must
+         stare at every Usenet binary until their eyes bleed, have
+         been "making" the stuff. A crime which, understandably, has
+         no possible defence. And which carries a hefty penalty of 
+         ten years in jail. Currently the police are pushing for an
+         "authorisation" fix - which means that every sysadmin would
+         have to apply for a special "Yes, I Make Child Porn But It's
+         Okay" license, or face possible prosecution for even
+         investigating dodgy practices. FIPR, very sensibly, are
+         arguing that perhaps caching isn't *quite* same as "making"
+         child porn, and could have extenuating circumstances under
+         the law. Whatever the final form, for now, a huge chunk of
+         Britain's "family" ISPs are discovering they're legally the
+         same criminals as they're trying to catch. Which might
+         further explain why MSN - and other ISPs - would rather
+         close down their entire service than see employees thrown in jail.
+www.chiark.greenend.org.uk/pipermail/ukcrypto/2003-September/028553.html
+                                  - mostly funny stuff about Al-Qaeda
+         http://www.cl.cam.ac.uk/~rnc1/SexualOffencesBill.pdf
+                                                  - look what I made!
+
+         So the European Parliament, after some bitching, did the
+         right thing in the end, and voted for enough of the
+         amendments to stop software patents. And who have we got to
+         thank among British MEPS? Not Labour, who voted with Arlene
+         "nasty dirty voters bullying me with their opinions"
+         McCarthy. Not the Tories (although apparently there were a
+         couple of dissidents). How about the Liberal Democrats,
+         then, whose JURI committee member Diana Wallis spoke to
+         their conference on Monday about how "We should be exposing
+         the political choices that lay beneath... technical issues.
+         For example we are currently dealing with a directive on the
+         patentability of computer generated inventions; we have been
+         lobbied to death by various individuals. This is about
+         liberty, about choice, about protecting innovative small
+         enterprises and the consumer." Oh, do guess. The British
+         LibDems voted against fellow European Liberals and for
+         software patents. Only the Greens and the UK Independence
+         Party consistently voted down the bad provisions. Just so
+         you know who is on your side next election.
+         http://lwn.net/Articles/50722/
+                                    - directive, with useful comments
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         new minimalism: http://www.ntk.net/2003/09/26/dohlogo.gif ... 
+         ... football, football - that's all you ever think about: 
+         www.ntk.net/2003/09/26/dohstoke.gif ... 'cos no-one has an up-
+         to-date laptop: http://www.ntk.net/2003/09/26/dohobs.gif ... 
+         impressively eclectic lineup for triple-CD PiL tribute album: 
+         http://www.amazon.co.uk/exec/obidos/ASIN/B000007UDQ/ ... Open 
+         University project threatens to set research back 70 years: 
+       http://computing.open.ac.uk/Research/Showproject.cfm?ProjectID=39
+         ... e-Envoy's idea of "html version of full list of e-
+         Champions" is - an html page with another link to the Word 
+         file: http://www.e-envoy.gov.uk/EStrategy/EChampions/fs/en ... 
+         nothing more annoying than forgetting to rewind your DVDs: 
+         http://www.ntk.net/2003/09/26/dohdvd.gif ... Brit initiative 
+         in action: http://www.ntk.net/2003/09/26/dohbdi.gif ... The
+         Friday Thing blog lambasts Bowie, Morissette for elementary 
+         geographical goofs: http://www.ntk.net/2003/09/26/dohbelt1.gif 
+         - yet believes "Beltway" [sic] to be "a suburb of Washington": 
+         http://www.ntk.net/2003/09/26/dohbelt2.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Obviously we have only the vaguest idea of what a "private 
+         view" might involve, so instead we've decided to hold a "gala 
+         opening" for FROM DESPAIR TO LEISUREWEAR: NTK - THE T-SHIRT 
+         YEARS (5.30-8pm, next Fri 2003-10-03, Access Space, 1 Sidney 
+         St, Sheffield S1 4RG, admission free, exhibition continues 
+         11am-7pm Tue-Sat until end of Oct). It's not just 20 or more 
+         of our most technically sophisticated t-shirt designs draped 
+         over the walls and shop-window dummies - there'll also be rare 
+         and hard-to-get collector's items (like the mythical "red 
+         Adminspotting"), and an educational "designer's commentary" 
+         explaining the jokes on each one. Plus free wine and nibbles 
+         at the opening. And supermodels. Possibly. And next weekend 
+         threatens to be a busy one for fans of the esoteric and 
+         bizarre, incorporating what seems to be the UK premier of 
+         MCSWEENEYS VS THEY MIGHT BE GIANTS (7.30pm, Sat 2003-10-04, 
+         the Barbican, London, tickets from UKP10), and the innovation 
+         of a "strippers" and a "curry" track at Birmingham 2600's 
+         informal computer-security fest BRUMCON III - RETURN OF THE 
+         FED GUY (also Sat 2003-10-04), though their site currently 
+         seems to be down, making its Birmingham location perhaps even 
+         more "top secret" than they'd originally planned.
+         http://www.leisurewear.lowtech.org/
+         - next: the return of "Memes don't exist, tell your friends"
+         http://www.barbican.org.uk/generic/details.asp?eventID=1776
+              - "McSweeney's deserves no praise and accepts no blame"
+         http://brumcon.org/
+                  - (slightly) more info at http://www.phreaking.org/
+         http://www.infowar.com/
+             - please "Be civil" for InfowarCon, Washington, next Tue
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         KNOPPIX 3.3 is the most convincing argument for Linux on the
+         desktop we've seen. Hell, it's the most convincing argument 
+         for thin clients we've seen. Use the free distrib-on-a-CD on 
+         your nearest laptop, and the chances are you'll be terrified 
+         by its hardware detection skillz (it spotted video card, USB, 
+         sound and wireless networking on a straight-out-of-a-box 
+         Vaio). Then, after a while being taken aback with its 2GB of 
+         speedily uncompressed apps (including two office suites and 
+         most of the KDE collection), you'll wonder whether you need to 
+         install it at all. If you do (with 3.3's knoppix-installer), 
+         you'll get the easiest Debian distribution you could ask for. 
+         If you don't, you can content yourself with hardware config 
+         and home dir details on USB storage or floppy (optionally 
+         encrypted), and keep your precious hard drive virginally 
+         intact.
+         http://www.knopper.net/knoppix-mirrors/index-en.html
+                                                      - git your isos
+         http://www.knoppix-std.org/docs/crypto_home.html
+                                - keep your keychain on your keychain
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         bad worm pics - "surf without rhythm" to avoid attracting 
+         them?: http://www.ecommercetimes.com/perl/story/31632.html , 
+         http://wireless.newsfactor.com/images/story-computer-worm.jpg 
+         ... http://www.anandasangha.net/mysticmicrosoft/ vs power of 
+         prayerware: http://www.ultraedit.com/products/story.html ... 
+         the laser beam-reflecting game that hasn't disappeared into 
+         Macromedia's subscription area: http://www.dyson.co.uk/game/ 
+         ... dull Amazon title of the week (falls asleep while typing 
+         it?): http://www.amazon.co.uk/exec/obidos/ASIN/920111186X ... 
+         SETI@home "successful", reveals www.climateprediction.net/ ... 
+         well, thanks for clarifying the whole "heterosexual" aspect: 
+         http://www.cannibalism.org.uk/ ... token Japlish of the week: 
+    http://www.webtribe.net/~davidgentle/2000_10_29_8factsarc.html#1241216
+         ... Kieren McCarthy lashes out at Prof Kevin Warwick's latest 
+         pronouncement, unfortunately omits when or where it took 
+         place: http://www.theregister.co.uk/content/28/32991.html 
+         (under heading "Welcome back, Master of Gibberish")... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> forget muzzle velocity and armour penetration - it's all 
+         about reliability when GREATEST MILITARY CLASHES (8pm, Fri, 
+         C5) pits the AK47 vs the M16... according to the now-defunct 
+    http://web.archive.org/web/20001018091551/magi.com/~rhdf/scms/arnd.html
+         Arnie's body count hits just 15 in THE RUNNING MAN (9pm, Fri, 
+         C5), compared to a whopping 105 in COMMANDO (9pm, Thu, C5) - 
+         couple of suggestions for recreating that "futuristic escaped 
+         prisoner" look http://www.nokia.com/nokia/0,,43613,00.html , 
+         http://store.yahoo.com/sharperimage-gb/iu558.html yourself ...  
+         and who knows what kind of scary RFID metal-strip technology 
+         was involved in tracking THE LIFE OF A UKP10 NOTE (11.35pm, 
+         Fri, BBC2)... hang on, is this a Saturday afternoon kid-
+         friendly edit of LOGAN'S RUN? (3.50pm, Sat, C4)... in the 
+         quest to find the UK's dullest people, the champion of sports 
+         reality show BORN TO RUN (5.30pm, Sat, BBC1) goes on to face 
+         the winner of WIFE SWAP (9pm, Tue, C4) in the final... while 
+         Jonny Lee "Hackers" Miller seems unlikely to correct the 
+         popular misconception that Ada Lovelace was "the world's first 
+         computer programmer" in BYRON (10pm, Sat and Sun, BBC2)... 
+         first they renamed Opal Fruits and Marathons, now Boadicea/ 
+         Boudicca loses another letter to become BOUDICA (9.20pm, Sun, 
+         ITV)... still, she comes across as something of a peace-loving 
+         diplomat compared to whatever goes on INSIDE THE MIND OF TONY 
+         BLAIR (8pm, Sun, C4), itself preceding 1983-era Rory Bremner 
+         style impersonation political drama THE DEAL (9pm, Sun, C4)... 
+         as if you care, being glued - if that's the right word - to 
+         the original-and-best AMERICAN PIE (9pm, Sun, C5)... the Radio 
+         Times describes "erotic manga cartoons" as one topic of the 
+         final WHATEVER TURNS YOU ON (10.55pm, Tue, C5), though GOTHS 
+         MAKE BETTER LOVERS (1.15am, Wed, C4), argues C4's "Outside" 
+         strand... Robert Winston uses computer graphics to probe THE 
+         HUMAN MIND (9pm, Wed, BBC1)... and tough call for Brad Pitt
+         fans between Guy Ritchie rubbish SNATCH (10pm, Wed, C4) and 
+         Terry Gilliam's TWELVE MONKEYS (11.20pm, Wed, BBC1) - also 
+         rubbish, of course, but - hey - partly set in the future... 
+         
+         FILM>> interestingly, Kevin Smith's "Critical Mess" coterie 
+         http://www.moviepoopshoot.com/mess/10.html claim that being 
+         friends with Ben Affleck *isn't* why they haven't done a spoof 
+         poster for not-as-bad-as-you'd-hoped "Chasing J-Lo" remake 
+         GIGLI ( http://www.screenit.com/movies/2003/gigli.html : we 
+         see [Lopez] in a sports bra (that shows cleavage) and small 
+         and tight shorts as she exercises and does various stretches, 
+         some of them sexually suggestive; [Affleck] threatens to put a 
+         gagged man through a spin in an industrial clothes dryer)... 
+         "best" of an odd week is Robert Rodriguez's characteristically 
+         incoherent El Mariachi III actioner ONCE UPON A TIME IN MEXICO 
+       ( http://www.capalert.com/capreports/onceuponatimeinmexico.htm :
+         firearm threat to crotch; thong nudity, repeatedly; death by 
+         fire; death by bus; invasive medical procedure, twice, once to 
+         gouge out eyes)... the accent-fest continues in grim 1950s 
+         "Confessions of a Canal Drifter" Scottish odyssey YOUNG ADAM 
+         ( http://www.cndb.com/movie.html?title=Young+Adam+(2003) : 
+         Emily Mortimer shows ample breasts in three sex scenes with 
+         Ewan McGregor)... while almost all the Australians from this 
+         month's other movies - Heath "Sin Eater" Ledger, Naomi "Le 
+         Divorce" Watts, Joel Edgerton and Rachel Griffiths from "The 
+         Hard Word" - reunite in armour-plated period shoot-em-up NED 
+         KELLY ( http://www.bbfc.co.uk/ : contains infrequent strong 
+         violence)... 
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                  "parseable"
+         http://membled.com/work/apps/xmltv/presentation/12future.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

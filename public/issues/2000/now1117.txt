@@ -1,0 +1,351 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-11-17_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+    "It is believed [Hawking] has visited the accident and emergency
+       department of Addenbrooke's Hospital, near his home in Cambridge,
+        on several occasions with various injuries but has refused to
+          explain how he got them."
+     http://www.itn.co.uk/news/20001112/britain/03hawking.shtml
+   - PROFESSOR STEPHEN HAWKING returns from another secret, paradox-defying
+                                        battle through space and time
+  ...of course, they have *no idea* who they're dealing with:
+     http://www.theonion.com/onion3123/hawkingexo.html
+
+
+                                >> HARD NEWS <<
+                           choose, damn you, choose!
+
+         You'd probably not know about subtle moves by the INTERNET
+         WATCH FOUNDATION to move from a passive reporter of illegal
+         content online, to a pro-active force for removing certain
+         newsfroups from the British spool. But, in their defence,
+         that's because they're discussing it on the newsgroups
+         themselves - uk.net, mainly. As ever, the issues are
+         muddled: the IWF are asking to remove three groups (nope,
+         they won't say what ones they are) that they feel contain
+         over three-quarters of the illegal material reported to
+         them. Which doesn't sound so bad, except this kind of
+         centralised control of the feeds was pretty much what the
+         IWF was set up to avoid. Given that there's generally an ad
+         hoc approach to dropping groups among ISPs, it's good to see
+         the IWF taking this step slowly, with the now requisite
+         public consultation. And before you throw up your hands and
+         give up USENET for dead anyway, it's worthwhile noting that
+         it's *still* the only heavily distributed
+         information-relaying network that works, Freenet and
+         Gnutella's notwithstanding. Dangerous precedent or just a
+         tweak of the config scripts? Read the noise, then mail your
+         opinion.
+         http://www.iwf.org.uk/about/poli.htm
+                               - and then they came for alt.tasteless
+         http://www.deja.com/threadmsg_ct.xp?AN=691547047
+                                  - 280 messages so far, and counting
+         http://www.zdnet.co.uk/news/2000/45/ns-19037.html
+            - meanwhile, ZD Net takes on the *evil* Yahoo corporation
+
+         .pro, .biz, .museum, .aero, .mudpie, .coop, .seagull, .info,
+         .name? ".NAME"? I'm sorry, but isn't that the kind of top
+         level domain proposal you'd get if you grabbed a seven-year
+         old off the streets, and told him to come up with a
+         suggestion or you'd give him a black eye? Oddly, that seemed
+         to be exactly the procedure chosen by ICANN for their final
+         consultation on Wednesday in LA. In fact, we rather warmed
+         to the event, from the moment that Esther Dyson stormed onto
+         the Webcast with apparent backing from Joni Mitchell, to the
+         Gong Show spectacle of dozens of sweaty suits having 90
+         seconds to justify their sorry existence. Vint Cerf was
+         excellent in his role as a ghostly Obi Ben Kenobi, and
+         a particular commendation goes to the head of the dotNom
+         consortium, who spent his three minutes berating the whole
+         procedure, only to have second thoughts moments after a
+         stern, "That's Life"-style, dressing down from Esther ("Don't
+         you want to talk about your domain then?" "Uh. Can I have
+         another three minutes?") These are the benefits of
+         open process: any ICANNspiracy theories evaporated in the
+         face of the truth, which was as arbitrary and bizarre as
+         anyone could have hoped. As St. Cerf repeatedly hinted, the
+         whole thing was really just a "proof of concept" trial, and
+         still sucks in several ways. Mainly the "Sunrise" provision
+         of many of the chosen domains means that legitimate
+         businesses (latin for "those with lawyers") get to grab
+         their choice of domains before the grubby masses. Like
+         anyone cares: the "concept" being "proven" here, we reckon,
+         is that any number of top level domains are possible and,
+         hopefully, inevitable. And the more that the gTLD hopefuls
+         and domain-snapping corporations realise they're about to be
+         sucker-punched thousands of times, the more we can watch the
+         whining on RealVideo. Encore!
+         http://cyber.law.harvard.edu/icann/la2000/archive/
+                              - .one? HAHAHAHA! .iii? HAHAHAHAHAHAHA!
+
+         Notorious "Jimmy Saville" transcript forgers SOME OF THE
+         CORPSES ARE AMUSING [NTK 2000-09-08] are back, and they're
+         madder than ever. Perhaps enraged by the - incorrect, yet
+         intriguing - rumour on Chris Morris fan sites that Morris' new
+         series will be a TV version of TV GO HOME, SOTCAA selected
+         TVGH as the latest target of one of their typically light-
+         hearted parodies, lambasting mild-mannered proprietor Charlie
+         Brooker for 1: failing to "attack or lampoon" anything; 2: not
+         being as funny as Not The Nine O'Clock News (a reassuring hint
+         of self-parody there, eh readers?); and 3: "utilising what he
+         imagines to be Chris Morris-style humour" - ironic given the
+         rumoured Chris Morris connection mentioned above. Within days,
+         TVGoHome fans hit back with their own parody of SOTCAA's
+         parody, confirming the status of Radio Times-lookalikes as
+         *the* preferred format for modern-day satirical discourse -
+         more popular even than Amihotornot spoofs and Palm Beach
+         Voting Forms. Brooker himself remains "tight-lipped" about the
+         whole affair, though, when provoked, lashed out at the
+         Corpses' version, slamming them for not getting "the fonts
+         [...] quite right. TV Go Home programme titles are rendered in
+         Arial Black scaled - and the scaling's the important bit - to
+         90% of its normal width". Kids, eh? What do they know?
+         http://www.koekie.org.uk/funnel/
+                    - also outs Lee and Herring as fans of "NTK Live"
+         http://www.notbbc.co.uk/corpses/
+           - click "Previous" to see them attack or lampoon Al Murray
+         http://pages.zoom.co.uk/pcmftp/
+              - Buchan, tsluts: we're sure you could automate this...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         fuelling last week's MICROSOFT VS DEMOCRACY conspiracy theory:
+         http://www.guardian.co.uk/breakingnews/US/0,3560,548880,00.html
+         ( backup at http://www.ntk.net/2000/11/17/dohguard.gif )...
+         SILICON.COM news stories auto-refresh within about 5 mins/ 300
+         seconds - one way to get your page impressions up... IETF
+         social http://www2.eventreg.com/ietf_reg/ietf_reg.html
+         *requires* you to send credit card details un-SSL'd... GEORGE
+         HARRISON lawyer is Blues Brothers-quoting "Simon Mayo":
+http://news.bbc.co.uk/hi/english/entertainment/newsid_1022000/1022754.stm
+         ... http://www.pets.com/#pressrelease - yes, you work in an
+         industry where a SOCK PUPPET is considered valuable
+         intellectual property... "Gone Gardening"? "Gone WORM-EATING
+         CRAZY", more like: http://www.ntk.net/2000/11/17/dohworms.gif
+         ... http://195.92.253.218/register/faqs/first14.htm - "Can it?
+         Can it f*ck!"... FUTURE's upcoming "Computer Active" rival to
+         get the bids in: http://www.ntk.net/2000/11/17/dohfuture.jpg
+         ... http://www.topbuisness.com/ (sic) for sale, to help you
+         target lucrative market of high-flying execs who can't
+         spell... HOTEL INTERNET full of bored insane people shocker:
+http://www.google.com/search?q=all+work+and+no+play+makes+jack+a+dull+boy
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         You know how smug we get when we're consistently right about
+         things? Well, just this once, we'd have preferred to be in the
+         wrong as, in accordance with NTK prophecy [2000-09-22], the
+         on-again off-again GEEK PRIDE SAN FRANCISCO has again been
+         postponed - indirectly due to falling tech shares, we suspect.
+         This disappointment has, however, merely hardened our resolve
+         to put on some kind of large-scale UK geek event next year -
+         possibly reviving the old Access All Areas "computer security"
+         get-togethers, maybe absorbing one or two of the less healthy-
+         looking Amiga shows. Mail us at the usual address if you'd
+         like to get involved, or if the voices in your head tell you
+         to try and stop us before it's much, much too late.
+         http://www.geekpride.org/
+         - apparently they guessed Tim wrong on "Tell The Truth", too
+         http://www.nngroup.com/worldtour/cit_ld.html
+          - or wait for the Californians to come to you - at $800/day
+         http://meets.gblogs.org.uk/camb2.html
+                                                     - bloggers ahoy!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         One of the worries about developing on the UNIXish platform
+         is the possibility that various wizards will become
+         terminally curmudgeonated, or die, or both, or already have,
+         before they have a chance to offload the full thirty-years
+         of their gentle wisdom. So it's with some relief that we
+         greet the arrival of GNU AUTOCONF, AUTOMAKE, AND LIBTOOL -
+         henceforth known as the "Performing Goats" book. The whole
+         thing has a slight feel of "One more thing you must know
+         about Bourne shells on AIX is ...argh, no more time, must
+         tell you ... M4 ... square-brackets ... ackkpth", but it's
+         welcome nonetheless. Best of all, though you should pursuade
+         a grownup to purchase the 30UKP hard copy, the hordes of
+         hyperactive schoolchildren who make up the true cutting edge
+         of Linux development can peruse the whole thing online,
+         while saving their pocket money for that Beowulf cluster.
+         Which is nice.
+         http://sources.redhat.com/autobook
+     - of course, the authors will now transpire to be twelve years old
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         seeing through to the underlying "building blocks" of reality:
+         http://www.geocities.co.jp/Hollywood/9060/mtrxe.html... PETER
+         COCHRANE leaving BT, launching UK wing of www.conceptlabs.net
+         , teaming up with brother Zefram?... isn't this what DIXONS is
+         for?: http://212.158.10.26/news/releasemail.asp?ReleaseID=236
+         ... worth it for "ANNE WIDDECOMBE Film Censorship Database":
+         http://www.dvddebate.com/sections.php?op=viewarticle&artid=24
+         ... http://www.titpillows.co.uk - business plan: diversify
+         into other overliteral realisations of lyrics by CORNERSHOP
+         and/or FATBOY SLIM... ROSE ROYCE & LIMAHL - together at last!:
+http://news.bbc.co.uk/hi/english/entertainment/newsid_1022000/1022753.stm
+         ... when oh when will the public tire of life IMITATING ONION:
+         http://www.texnews.com/reality/brazosbill/bill041097.html ...
+         POPBITCH in-joke: http://www.chazbaps.com ... relax ladies, he's
+         "married": http://www.amihotornot.com/r/?eid=BSNZG&key=NRSFD
+         ... in the old days, brightly coloured genitals would suffice:
+www.sfgate.com/cgi-bin/article.cgi?f=/chronicle/archive/2000/11/14/MN79565.DTL
+
+
+                                >> GEEK MEDIA <<
+                      the less imitable www.tvgohome.com
+
+         TV>> Kevin Costner week steps up to the plate with baseball-
+         groupie men's weepie BULL DURHAM (11.25pm, Sat, ITV), followed
+         later in the week by unintentionally hilarious Mad Max spoof
+         THE POSTMAN (9pm, Tue, C5)... '70s WW2-er ACES HIGH (7pm, Sat,
+         C4) is, indeed, based around the Iron Maiden song of the same
+         name - or vice-versa... while serious cineaste show WATCHING
+         (10.35pm, Sat, BBC2) looks at film's anti-TV propaganda which,
+         if you've just sat through the first in a new run of KISS ME
+         KATE (9.30pm, Sat, BBC1), seems entirely understandable... no
+         wonder Sony never bothers doing decent TV campaigns, when they
+         get so much free coverage in shows like THE BITS SUPERCONSOLE
+         TOUR (12.20am, Sat, C4) and a "Game Wars" special of THE MONEY
+         PROGRAMME (7.30pm, Wed, BBC2)... and Farrelly/ Bill Murray
+         Amish bowling bonanza KINGPIN (10pm, Sun, C4) turns out to be
+         not that closely based around the PC game of the same name -
+         seemingly part of a Sunday-night cross-channel exploration of
+         modern machismo, which also includes Joe "If You're Talking To
+         Me, Your Career Must Be In Trouble" Queenan on REVIEW (8.20pm,
+         Sun, BBC2) and the appealingly titled MAN-TEST (12.40am, Sun,
+         C4)... Tuesday, however, shows its more feminine side, with a
+         serious scientific look at female masturbation in HIDDEN LOVE
+         (10.30pm, Tue, C4), plus Todd Solondz's makeover-free junior
+         nerd-nightmare WELCOME TO THE DOLLHOUSE (12.35am, Tue, C4) -
+         working title "Faggots and Retards"... clearly unrepentant, C5
+         carries on showing cybertrash like VELOCITY TRAP (10.15pm,
+         Wed) and GHOST IN THE MACHINE (9pm, Thu)... and people always
+         complain when we slag off the smug celeb impressions in STELLA
+         STREET (9.50pm, Thu, BBC2), but you've got to admit, it lacks
+         the occasional pathos of the latest batch of ROCK PROFILES (UK
+         Play, seemingly every hour of the day)...
+
+         FILM>> a pair of ruthless, foul-mouthed mercenaries pursue a
+         hare-brained scheme that results in the shocking murders of
+         many old favourites - but enough about Gwyneth Paltrow/ Huey
+         Lewis singalong vanity project DUETS (http://www.cndb.com:
+         [Maria "Coyote Ugly" Bello] is in the process of getting
+         dressed and we see her breasts as she stands in her underwear)
+         ... in fact, "even more baffling than The Usual Suspects" is
+         our verdict on leisurely convoluted post-Tarantino shoot-em-up
+         THE WAY OF THE GUN (http://www.screenit.com : It's possible
+         impressionable teens could get the idea to kidnap someone for
+         a ransom, and some may want to imitate the "cool" characters
+         and their violent/criminal behavior)... otherwise there's the
+         can't-tear-your-eyes-away spectacle of a sexually precocious
+         adolescent wrestling with demonic influences - but that's
+         enough about Adam Sandler's usual SNL-cameo-packed fart-fest
+         LITTLE NICKY (http://www.screenit.com : Humor stems from
+         punishing Hitler by having objects such as pineapples and
+         flasks shoved up his butt, and it's possible that some kids
+         could get the idea to "punish" others or pets in a similar
+         manner; http://www.hollywoodjesus.com/little_nicky.htm : There
+         is some real spiritual truth here)... no matter what Mark
+         Bloody Kermode says, it's unlikely that brief "new footage"
+         scenes are going to add to or detract from the raw scariness
+         of THE EXORCIST: DIRECTOR'S CUT (http://www.capalert.com :
+         invasive medical procedures; extremely graphic and vulgar
+         demonic possessions with hateful expressions to our Lord)...
+         leaving Nathan Barley-esque Ali G-appropriation curio BLACK
+         AND WHITE (imdb: independent-film / filmmaking / gay / murder
+         / threesome / controversial / cultural-assimilation / gangster
+         / hip-hop / ménage-à-trois / new-york / race-relations /
+         bisexual) - as is so often the case, just missing simultaneous
+         release with Peter Molyneux's tie-in game of the same name...
+
+         BONERS, CORRECTIONS AND CLARIFICATIONS>> our Echelon-style
+         scanning of crypto mailing lists swiftly picked up a posting
+         from original researcher MARKUS KUHN on the topic of last
+         week's "Microsoft-sponsored" BSA software detector vans -
+         "Microsoft never had anything to do with it," he says. "We
+         showed [them] early results [...], and they decided that they
+         were not interested in pursuing it any further". NTK regrets
+         perpetuating the error, as presumably do Scientific American:
+         http://www.sciam.com/1998/1298issue/1298techbus4.html ... ANDY
+         ARMSTRONG was sure he was "not the first" reader to point out
+         that NTK's 2000-11-03 reflex-testing link was "Javascript
+         rather than Java" - though in fact e *was* by far the first to
+         do so, by a margin of 0.13 seconds and 14 days... while an
+         anonymous tipster, regarding last week's mention of the
+         "Antitrust" movie, objected that "re-writing HTTPUrlConnection
+         in Java - look closely - is hardly the work of a 'computer
+         genius'": http://www.mgm.com/antitrust/synopsis.html ...
+         despite some impressively conspiratorial counter-theories:
+         http://www.theclothesstore.com/ubbz/Forum8/HTML/000042.html ,
+         we now suspect the whole "Diana On Fire" Krash And Burn
+         debacle [NTK 2000/11/03-10] was an unusually pointless "Hoax
+         Magazine" anti-KLF prank, which we fell for. Sorry... when we
+         foolhardily asserted an "absence" of "new Shampoo material"
+         [also last week], MARK SEDDON tentatively drew our attention
+         to the fact that the duo released a new online-only album this
+         August, as proved by even the most cursory of visits to
+         http://www.shampoo.org.uk/ . In many ways, we could not have
+         been more wrong here - though, oddly, we did start mentioning
+         the band at around this time, perhaps detecting their return
+         on a purely subconscious level... speaking of which, ADRIAN
+         MOULDER berated us strongly for not linking to porn-gossip
+         columnist LUKE FORD's comments on cheerleader filth "Bring It
+         On" [NTK 2000-10-20], "the most upsetting film review of all
+         time": http://www.lukeford.com/archives/updates/000828.htm ...
+         and finally, in case that leaves a nasty taste in your mouth,
+         someone called EPONYMOUS updated us on the enigma of Nestle's
+         "Stuff Xmas" Cranberry White Chocolate Aero [NTK 2000-11-03],
+         revealing that the bar had been voluntarily withdrawn after
+         the Church Of England deemed it "potentially offensive":
+         http://www.marketing.haynet.com/news/n001116/nestle.html .
+         There are several interesting aspects to this story, not least
+         of which is that the C of E apparently employs a "head of
+         signal logistics" - so what does *that* involve? Is it like
+         "signals intelligence", where he sits around with a mainframe,
+         trying to decrypt signs from God, who persists in encoding his
+         message using "mysterious keys"?...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "quelque chose de drole dans chaque article"
+              http://www.linux-france.org/prj/jargonf/N/NTK.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

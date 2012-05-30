@@ -1,0 +1,320 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-07-16_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "For the next couple of weeks, I am reduced to typing with
+          one hand."
+                  - PETER COCHRANE, BT RESEARCH LABS, Daily Telegraph
+                            ...good to see a writer enjoying his work
+
+
+                                >> HARD NEWS <<
+                                an obvious ruse
+                                  
+         To read the Proper Media, you'd assume that DEFCON 7.0
+         consisted exclusively of the Cult Of The Dead Cow rerouting
+         the Hoover Dam through Vegas, releasing the infamous
+         "trojan/virus/powerful remote administration utility" Back
+         Orifice 2000 ("Anyone curious enough to log on to their
+         website will find their computer automatically infected with
+         a virus." - The Guardian), then shooting each other. Allow
+         us to inject a few genuine highlights. Best quotes: BRUCE
+         SCHNEIER, who noted that "128 bits of symmetric key is
+         probably good enough 'for ever'", while BT's quantum key 
+         exchange over ten miles of cable will be useful 
+         "approximately never". The con's most cutting criticism  
+         came from those fleeing STEVE "wearable computing" MANN's
+         demo: "Let's blow this shit - who wants to see some robot
+         guy?". Research Least Likely To Be Covered In The Mainstream
+         Media: ANGUS BLITTER's AFIRM - a hacker classification
+         system based, it appears, on AD&D character sheets. What was
+         that? Real hacks? Oh, okay - for that, we choose L0PHT's
+         exploit-in-progress  against Intel's Nightshade/Nightlight
+         motherboards' Board Management Controller. Due to flaws in
+         their (plaintext) authentication system, L0pht has been
+         shutting down these babies with 50 bytes up the ethernet.
+         Not crash, not hang: but gracefully power down. As our
+         correspondent writes - fun to see that scale with broadcast
+         packets in a server farm. Did Intel learn nothing from the
+         Borg?
+         http://www.defcon.org/
+                                                - fear my weather fu
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2294628,00.html
+         - that said, the BO2K CD-ROM does have CIH on it... doh!
+         http://www.bo2k.com/
+                                             - pronounced "botty kay"
+         http://www.afirm.org/
+                                         - chaotic lawful +4 bullshit
+
+         In the US, they have a gameshow called WIN BEN STEIN'S
+         MONEY, starring the teacher from Ferris Bueller's Day Off.
+         But in the UK, the alternative challenge is to Win MARK
+         BERNSTEIN'S Money, following news that lamer-loving BT
+         call-generator WIREPLAY has been sold to the never-say-Falco
+         Net.speculator who, regular readers will recall, was also
+         involved with VR-losers Virtuality, ill-judged online
+         games-monger E-ON, and the European version of GeoCities
+         (what does that require, exactly - making the "Athens"
+         subdir world-readable?). Wireplay went for "around UKP5.5m"
+         though, of course, if BT were to, say, introduce free local 
+         weekend calls any time soon, that's hardly going to improve
+         those ping-times.
+         http://www.midnight.co.uk/entline/new.htm
+                       - Bernstein's online gaming empire, circa 1996
+         http://www.ntk.net/index.cgi?back=archive97/now1107.txt&line=19#l
+                      - and you thought your CV made gripping reading
+         http://www.comcentral.com/bstein/index.shtml
+         - UK version actually called "Win *Beadle's* Money". Christ.
+
+         SNAPPY QUESTIONS FOR DUMB ANSWERS>> (being an occasional
+         series encouraging readers to ruin press conferences by
+         asking smart-arse questions): ALISTAIR DABBS wins this week,
+         with his query at the Acrobat 4.0 launch earlier this year.
+         When Adobe's CHUCK GESCHKE demonstrated how the whole of
+         Apple UK's Website could be converted into a PDF, Alistair
+         asked if Chuck could see the irony of choosing the Apple
+         site for the demo, since this feature is only available in
+         the Windows version. Chuck's instant comeback: Adobe will
+         have added this function to Mac Acrobat 4.0 by launch
+         date. Impressive comeback? "I learnt fifteen minutes later
+         from a whispering Adobe product manager", reveals Alistair,
+         "that this was total bollocks, invented off the cuff by
+         Chuck in order to shut me up." Okay, folks: now it's up to
+         you to remind Chuck of his promise at every public
+         appearance. And remember: the demo is only over when you're
+         forced to leave the building.
+- Had a cutting, sarcastic brush with the great? mail: cuttysark@spesh.com
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         7 days before the E-COMMERCE BILL gets canned... IRA to 
+         replace Man Utd in FA Cup: http://www.ntk.net/990716arse.gif
+         ... forget DECLAN MCCULLAGH'S teenage hacker years - is
+         NetGravity's JOHN DANNER the former Apple ][ warez king?
+         ... "Unfortunatily you have a browser that is not Y2k 
+         compatibale or 4.x or above. This will be a site that will 
+         allow people with ghetto browser can see" explains (surely not 
+         *the*) http://www.iso.org ... beats scratching on the desk 
+         with a compass: http://www.schools-directory.co.uk/ ...
+         CHANNEL 4 SITCOM FESTIVAL idea: oops vicar, aren't all these 
+         people clients of the organiser's agent wife?... WIRED NEWS 
+         excitedly discusses Robin Hood gay anti-news from "England's 
+         Cardiff University"... "By not presenting any menuing options 
+         until this page, and not requiring you to scroll pages, we 
+         can try to ensure that you read all the content of the site"
+         says http://www.websitedesign.co.uk/ - for anyone who gets
+         that far... BBC ALERT alert... Babelfish, without the fish:
+         http://www.gabby.net/expo/us-venture98/back/0630/0630-e.html
+         ... LONDON UNDERGROUND stored the year in 2 bits? Doh!
+     http://www.yahoo.co.uk/headlines/19990709/london/newsstory154274.html
+         ... excellent DORLING KINDERSLEY warez from - uh oh:
+     http://www.dk.com/uk/shared/product_m_spread.asp?isbn=0751370584&pid=1
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Peer across a desolate grey landscape, abandoned by humans 
+         since the mid-Seventies. And once you've made it to the
+         South Bank, why not drop into the Hayward Gallery, and check
+         out FULL MOON: APOLLO MISSION PHOTOGRAPHS OF THE LUNAR 
+         LANDSCAPE? (1999-07-22 - 1999-09-19) Photographic artist
+         Michael "Earth" Light's prints are digitally scanned and
+         blown up from the original masters - not the third to fifth
+         generation Athena wall poster tat you're used to. The
+         selection is unique, too, from the 32,000 snaps taken, the
+         press release boasts, "by the astronauts themselves". And 
+         if you fancy taking a sample or two home with you, the
+         accompanying coffee-table books aren't bad either:
+         apparently they developed a new ink to show off that, well,
+         inky blackness of space. After all, how much more black can
+         you get?     
+         http://www.sbc.org.uk/hayward/h_exh.htm 
+                                                         - None more.
+         http://www.geocities.com/Pentagon/2666/MoonHoax2.html
+                      - bet Light had to airbrush out the helicopters
+
+         Sadly, ill-health is preventing fantasy author Mary Gentle
+         from attending BAROQUON, the British Roleplaying Society
+         Convention at New Hall, Cambridge University, 1999-07-16/18
+         (there's more to life than d20s and "saving throws", you
+         know). Equally gothic are the plans of VOCALTEL agitators
+         to organise a mass coach trip to the offices of semi-
+         medieval ISP Localtel / Screaming.net next Fri (1999-07-23)
+         - details are currently sketchy (ie the old message archive
+         appears to be down); we thought advance warning was best as
+         it's taking them a week to get a working dial-up
+         connection...
+         http://members.tripod.com/vocaltel/
+              - if you can read this, what are you complaining about?
+         http://www.ntk.net/ads/coach.txt     
+             - STOP PRESS: info rescued from regularly shut-down site
+         http://www.philm.demon.co.uk/Baroquon/Main.html
+                - they do have NTK's James Wallis, of whom more later
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         We do grind on about Windows replacement shells, don't we?
+         So what are our excuses for plugging GEOSHELL, Yet Another
+         Explorer for Win9x/NT? It's only 80KB? Yawn. It's GPL'd?
+         Yawny yawn yawn yawn. It's written by a Microsoft engineer,
+         whose day job still maintaining the original Explorer.exe?
+         W-wha-wh-ha-hoo-wha?
+         http://www.cybersnot.com/geosh/
+                                        - W-wha-wh-ha-hoo-wha indeed.
+
+         There's something quintessentially UNIXique about NGREP.
+         It's a stubby, simple tool, with thousands of potential (but
+         as yet unforeseen) uses. Also - and this has to be the
+         best indicator of a perfect CLI tool -  you've already
+         guessed what it does from the name. Yes, it's a packet
+         sniffer which can pluck out regular expressions from network
+         traffic and pipe them to STDOUT. Like all things UNIX
+         (including UNIX), we expect someone will eventually pervert
+         this beautiful, theoretically and malicious tool for
+         non-evil and practical purposes. In the meantime - have fun.
+         http://www.packetfactory.net/ngrep/
+                  - we reckon grep the word preceded grep the acronym
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         APACHE 10x speedup patch?... all natural FULLERENE... "How 
+         do I sue ASK JEEVES for http://www.ntk.net/doh/jeeves.html ?" 
+         (also quite helpful on RICKY MARTIN)... E-BAY auctions own 
+         server: http://www.bobsfridge.com/skew.htm ... beware! CEO 
+         Chan has AGENCY.COM root access... Rock, Paper, Scissors -
+         FRAGS: http://www.planetquake.com/axis/projects/rps/ ...
+         AD-BLOCKER-BLOCKER-BLOCKERS ... EMPIRE Pre-Emptively Strikes
+         Back: http://www.usatoday.com/life/cyber/tech/ctf596.htm -
+         probably keeping an eye on PHANTOM PULP MENACE FICTION: 
+         http://users.vei.net/jng/fcp/sw/sw1.html ... they're always
+         the best bits: http://www.adcritic.com ... leaves real 
+         JAPANESE names untouched: http://www.stupid.com/japanese.htm
+         ... last day of UKP29.99 PLAYSTATION games, console to go
+         69.99 in Sept?... and you think this description is obscure:
+         http://www.itknowledge.com/tpj/obfusc-4.html ... at last,
+         a doctoral student in "hyphal tensile strength" reviews
+         http://sun1.bham.ac.uk/s.m.stocks.cen/potnoodle/PotNoodleNav.htm
+     - a vital part of http://www.fourmilab.ch/hackdiet/www/hackdietf.html
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> the Star Wars/ moon landing alignment prompts some
+         remarkable theming, with ITV's "futuristic" (ie Logan's Run-
+         inspired?) DIAL A DATE SPECIAL (12.40am, Fri, ITV), plus
+         4Later's double-buffering of classic queue docus STAR WARS
+         - or TATOOINE - OR BUST (12.05am, Fri, C4)... gorge
+         yourself on the feast of Kubrick/ Trumbull eco-weepie 2001:
+         A SPACE ODYSSEY (2.15pm, Sun, ITV) plus Trumbull/ R2D2 
+         eco-weepie SILENT RUNNING (2.55pm, Sat, BBC2) - who could
+         forget that moving end sequence when the dome-ships join
+         Battlestar Galactica's rag-tag fleet?... attempts continue
+         to revive Gerry Anderson live-actioner UFO (4.20pm, Sat,
+         BBC2), and - of course - elderly car-chase caper THE DUKES
+         OF HAZZARD: REUNION! (5.50pm, Sun, C5)... then the whole
+         thing explosively decompresses in lame Sean Connery space
+         Western OUTLAND (10pm, Sat, C4)... rather than Lucas or
+         Spielberg, HOLLYWOOD'S MASTER OF MYTH (11.10pm, Sun, BBC2)
+         is actually Joseph Campbell - the man who pioneered the
+         revolutionary "character goes somewhere, does something"
+         school of screenwriting... but a quick reminder of how good
+         Spielberg used to be in JAWS (9pm, Sat, BBC1) - the
+         character had "evolved considerably" by the time he 
+         re-appeared in THE SPY WHO LOVED ME (8pm, Wed, ITV)... 
+         fucking HACKERS (10pm, Mon, C5)... another fly-by for 
+         dull-ish FOR THE LOVE OF - LUNAR CONSPIRACY (4am, Tue, 
+         C4)... and, in what seems to be a new "chick TV" strand 
+         on Weds, C4 have somehow resisted the temptation to combine 
+         adjacent shows LOVE IN LEEDS (9pm, Wed, C4) and LOVE IN 
+         THE 21ST CENTURY (9.30pm, Wed, C4) to create LOVE IN 21ST 
+         CENTURY LEEDS...
+
+         FILM>> There *is* no "film". There is only STAR WARS -
+         whose box office, MCV reports, may receive a boost from
+         Sega fans keen to see the debut of the UK Dreamcast ads.
+         Oh, and in case anyone's still puzzling over last week's
+         wildly enthusiastic mystery review, it was of course 
+         SOUTH PARK: BIGGER, LONGER AND UNCUT - as featured at
+         http://www.capalert.com/capreports/southpark.htm - and 
+         not, as many of you thought, "Eyes Wide Shut" after all. 
+         South Park *was* linked off their front page when we sent 
+         out last week's issue, but subsequently disappeared -
+         disappointingly, not to rise again on the third day. We're
+         all going to burn in hell for this, you know...
+         
+         SHINY ENTERTAINMENT>> many mags trying to boost summer
+         sales with either Star Wars covers or extra nudity (SKY's
+         "The Naked Issue", ESQUIRE's "Gail Porter: The Last Ever
+         Naked Pictures"), yet no-one's dared for the obvious double-
+         whammy: the cast of Star Wars, au naturel... still,
+         admittedly, the Adam & Joe SW bit in THE FACE isn't *too*
+         bad... we never read the media sections, so this may be
+         widely known; some anonymous tipster believes that EMAP has
+         bought ailing Face, Arena, Frank-publishers Wagadon for "16
+         million quid"... and good to see issue 3 of IPC's LATER is
+         saving cash by running exactly the same cover image as the
+         previous 2... isn't it about time you gave SFX another
+         chance, especially now they - and "Tomorrow's Technology
+         Today" stablemate, T3 - are touting their thrilling,
+         revolutionary web presences - clearly accustomed to the 
+         far-off sciences of the future, it's taken them this long to
+         master basic tech of 3-4 years ago... someone involved in
+         new Haymarket rag THE NET complains that we didn't diss its
+         trade ads ("the worst I've ever seen"); his claim that the
+         mag "treats the net as a media, rather than a computer
+         related exercise" should, surely, speak for itself...
+         hopefully a bit more cutting-edge attitude from upcoming
+         CRAZYNET (due September from Freeway - not to be confused
+         with Fleetway), helmed by former "Bizarre" managing ed and
+         RPG self-publisher James Wallis. "Don't describe it as
+         'BIZARRE about the net'", advises James, "or I'll kill
+         you". Bring it on, big guy... oh, and this section just
+         wouldn't feel complete without slagging the latest OFFICIAL
+         PLAYSTATION MAGAZINE (UKP4.99), this month complementing
+         its shit reviews of shit games and cod Chris Morris-isms
+         with a dire "Analysis" piece on London's Namco World - ie
+         tests of up-to-the-minute coin-ops Alpine Racer 2, Time
+         Crisis 2, Tokyo Wars, and Prop Cycle. And what hard-hitting
+         revelations forced them to tear page 91 out of every issue?
+         Apparently, a Computer Exchange ad that offered a UKP99.99 
+         Dreamcast if you trade in your Playstation. Let's not take 
+         that "editorial independence" too far, eh?...
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+                        "who are you calling hermetic?"
+                       http://www.bowbrick.com/ntk.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Caution: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

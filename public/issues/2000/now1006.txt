@@ -1,0 +1,330 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-10-06_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "First Tuesday is my revenge on socialism... I keep looking
+         for John Galt."
+    - JULIE MYER, First Tuesday founder and ATLAS SHRUGGED fan, Wired 8.10
+           ...oh, is he disguising himself as a sweaty guy in a cheap
+        suit, begging double-barrelled investment bankers to bankroll
+                "golfing-supplies-limited.uk.com" these days, then?
+
+
+                                >> HARD NEWS <<
+                               self-evident truths
+
+         You wait three hundred and twelve years for an embodiment of
+         the rights of man in law, then thirteen come along at once.
+         Next step: enforcing a few of them online.  Coming soon:
+         4DMEDIA's Chris "no, not that Chris" Morris' test case will
+         investigate whether ISP's shared liability for defamatory
+         Websites is a restriction on free speech. The Civil rights
+         group LIBERTY is still scouting around for the perfect RIP
+         test case. And we've had enquiries from Mike and Trish
+         Mahoney of BLUEYONDER.COM, asking if the HRA might help them
+         fend off the 18,000 e-mails and countless mis-hits they've
+         received from the subscribers and staff of Telewest's
+         BLUEYONDER.CO.UK. We're not sure if protection from
+         "intimidation" by mistyped URLs and (in this case),
+         messed-up bookmarks on Telewest's own installation CD is a
+         fundamental human rights issue *per se*, but, hell, why not
+         have a go? God knows, we'd like some court to decide whether
+         domain names are personal property, commercial trademarks, a
+         private address, the copyrighted property of Network
+         Solutions, or - as some extremists claim - a mnemonic to
+         remember IP numbers.
+         http://www.4dmedia.co.uk/news1.htm
+                   - although it's not *really* common carrier status
+         http://www.davros.org/legal/carriers.html
+                                                      - right, Clive?
+         http://www.blueyonder.com/
+                           - oh, we'll support anyone against The Man
+
+         Good to see the sickening knee-jerk liberalism is
+         spreading: Russia's SUPREME COURT ruled last week that
+         the security services were obliged to inform ISPs of any
+         surveillance orders, as the providers were legally
+         responsible for insuring the confidentiality of their
+         clients' communications. Contrast with the freedom-lovin' UK,
+         where telco employees get thrown in jail for five years if 
+         they let anyone* know of the existence surveillance order, 
+         even after its expiry date passes with no police action. That
+         said, we're still lagging behind some countries on the
+         technological fronts: In Malaysia, the cabinet have slapped
+         a universal ban on videogames "in view of the serious
+         menace" caused by the degenerate entertainment. Deputy Prime
+         Minister Abdulla Badawi says the games "become like opium to
+         the younger generation. They have to go and play the games
+         daily or they feel uneasy when sleeping." Like any of us
+         sleep anymore.
+         http://www.themoscowtimes.com/stories/2000/09/27/015.html
+         - no more registration! new york times, are you listening?
+         http://www.zdnet.co.uk/news/2000/39/ns-18277.html
+                          - did we mention what your boss can do now?
+         http://www.ntk.net/2000/10/06/malay.html
+               - shame they didn't ban overlong URLs at the same time
+
+         At 23:55 on Thursday, the CGI script running KEVIN WARWICK 
+         WATCH became sentient for the first time, and decided our fate 
+         in a microsecond. In fact, we hadn't heard anything from the 
+         UK's foremost cyber-pioneer for a couple of weeks, but he may 
+         well have spent that time plotting his latest headline-
+         grabbing foray into the realms of sense - and sensuality. In 
+         addition to the fruition of his long-hinted plans to provide 
+         himself with bat-like echolocation abilities, his new implant 
+         will, via a similar device connected to his wife, relay her 
+         experiences directly to him, with such perhaps-too-revealing 
+         applications as "never faking an orgasm again". Full details - 
+         with the exception, of course, of exactly how Kevin might 
+         achieve this near-miraculous feat of neurological wiring - 
+         appear on the main KWW page, under the headings "Technology 
+         Spells Doom For Popular Relationship-Maintaining Deception" 
+         (2000-10-05), "My Supersonic Sonar-Radar Will Help Me" (2000-
+         09-20), and 2000-08-25's "Kevin Could Be 'Excited' By Wife 
+         Looking At Other Men".
+         http://www.kevinwarwick.org.uk/
+                               - Half man. Half machine. Not much cop.
+         http://www.theregister.co.uk/content/1/13781.html
+            - hard-hitting Register satirists nicking our jokes again
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         JOBS calls worldwide Apple hiring freeze: still, needs to eat:
+http://17.254.0.116/cgi-bin/t3.cgi/tafs/extShowDescription.taf?_req=1469820
+         ... book for kids with ATTENTION DEFICIT DISORDER - only 1 page 
+         long: http://www.amazon.com/exec/obidos/ASIN/0962162981/ ... 
+         "porn" appeared on-screen, and everyone just gathered round: 
+    http://www.allnetdevices.com/wireless/news/2000/09/22/arrests_in.html
+         "Windows Free Zone" store http://store.linuxjournal.com/ vs 
+         http://www.netcraft.com/whats/?host=store.linuxjournal.com ... 
+         KELLOGG'S send out G-R-R-R-REAT! big 1MB email to list 
+         members, from "Tony the Tiger"... "What's WAP" area at 
+         http://www.vizzavi.co.uk has setup details for just Nokia 7110 
+         and Ericsson MC218 - a spot-on snapshot of WAP as of November 
+         1999... "Logic Bomb" cyber-commentator STEVE BEARD debuts on 
+         JG Ballard mailing list, tells everyone about his IDLER 
+         article, then sends unsub request to entire list... search 
+         THE REGISTER for "Dave the Goth"... IT workers strangely not 
+         immune to drug-taking seen in all other well-paid businesses: 
+    http://www.latimes.com/news/state/updates/lat_techdrug001001.htm
+         "Many chinks in China's stellar FDI inflows", gaffes 
+         http://www.financialexpress.com/fe/daily/20001004/fec04088.html
+         Amazon's PENS now compatible with Win95 *and* 98, NT, 2000!: 
+         http://www.amazon.co.uk/exec/obidos/ASIN/B00004XS51/ ... soft-
+         launching with fists flying - it's INDUSTRY STANDARD EUROPE:
+    http://www.thestandardeurope.com/article/display/0,1151,11469,00.html
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Yes, approximately 97% of NTK-featured events take place in
+         either London or California, but there's just something about
+         those two venues that seems to actively invite our heartless
+         mockery. Fortunately other regions have been getting in on the
+         act recently, thanks to the touring efforts of cod-corporate
+         "edutainments" like BBC FUTUREWORLD, drawn to our attention by
+         reader DAVID DEANS, and enthralling the inhabitants of both
+         Bristol and Portsmouth until at least the end of October.
+         Leading one to suspect that they comprise bits of stuff that
+         were part of a failed Millennium Dome bid, Deans reports that
+         the exhibitions are "run by some odd part of the BBC which
+         tells us how excellent it is", as well as heavily sponsored by
+         BT. Attractions (at the Bristol one at least) include free
+         admission, a manga Peter Snow, endless digital TV propaganda,
+         and trying to view pr0n on the inadequately firewalled PCs.
+         "Crap," Deans concludes, "but in a cool-spazz0 sort of a way."
+         http://www.bbc.co.uk/futureworld/
+         - hey, if it was a "Westworld" theme event, we'd be interested
+         http://www.evolutiontv.co.uk/
+         - in Leeds, 2 days of "convergence" bollocks; and in London...
+         http://www.hatehypnotizer.net/
+           - now, *this* doesn't sound like a corporate publicity prank
+         http://www.unmatched.org/
+          - "Top people trade small talk over big drinks." KILL US NOW!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Excuse From The NT Fascists That You Can't Run UNIX on Your
+         Desktop Machine #478: "We use Netmeeting a lot here". Yeah,
+         right. The smug answer comes courtesy of, you'll be pleased
+         to hear, an obscure telephony standards initiative. OPENH323 
+         is a set of drivers supporting the ITU's videoconferencing 
+         protocol, which just happens to be the same standard used by
+         Microsoft's Netmeeting. The 1.1 version has just slipped out
+         of beta. The whole thing is a bit of a beast to install, and
+         not quite past the "hello? helloooo?" stage, but then what
+         Internet telephone isn't? Video4Linux and FreeBSD
+         videograbbers are supported. Confirm that those conference
+         calls aren't worth your precious time today!
+         http://www.openh323.org/
+  - remember: shots of your genitals may contravene workplace etiquette
+         http://www.netmeeting-zone.com/news.asp
+         - "we're not getting complaints about sexual content any more"
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         combining http://www.cs.cmu.edu/~reshko/PILOT/overview.html 
+         with http://palmfun.multimania.com/en/MainFrame.html to make 
+         *more* little autonomous robots... if NATHANs spoke in  
+         subtitles: http://www.mosquitostudios.com/temp/truthadv.mov 
+         ... no wonder he's been forced to go back to professionals: 
+         http://www.punternet.com/board/posts/42678.html ... reassuring
+         chaperone-style emphasis on not leaving individuals alone with 
+         NUCLEAR WEAPONS: http://www.contrast.org/onkruit/lessons.html 
+         ... "viewers complained about the contents of five episodes 
+         from the [6-episode] series" of Chris Morris' JAM, reports 
+http://news.bbc.co.uk/hi/english/entertainment/newsid_956000/956452.stm
+         - implying one episode got *no complaints at all*: is Morris 
+         "losing his touch" a little nowadays?... hack 'n' slash 
+         GAUNTLET: http://www.vex.net/~smarry/yip/gauntlet.html ... 
+         METALLICA not too worried: http://www.eminemesis.fsnet.co.uk 
+         ... GUARDIAN Christoper Walken imitates ONION Christopher
+         Walken: http://www.theonion.com/onion3011/walkeninla.html vs
+    http://www.guardian.co.uk/Archive/Article/0,4273,4068100,00.html 
+         ... ELTINGVILLE COMIC BOOK, SCIENCE FICTION, FANTASY, HORROR,
+         AND ROLE-PLAYING CLUB - The Animated Series...
+
+
+                                >> GEEK MEDIA <<
+                  the not on-holiday http://www.tvgohome.com/
+
+         TV>> cndb reports extensive "shower nudity", speculates Sly's
+         penis may have been "edited out" of Stallone/Stone bomb
+         disposal bomb THE SPECIALIST (9pm, Fri, ITV), filling in
+         between now-every-other-week Bond films... speaking of Bond
+         films, it's a very special week for dodgy movie franchises,
+         with HIGHLANDER (10.30pm, Fri, BBC1), the enthusiastically
+         daft video game adaptation MORTAL KOMBAT (10.50pm, Sat, ITV),
+         OMEN III: THE FINAL CONFLICT (12.40am, Sat, ITV), CANDYMAN
+         (10pm, Mon, C4), BATMAN AND ROBIN (9pm, Thu, C5), and the
+         perhaps too-revealingly-titled DARKMAN III: DIE, DARKMAN, DIE!
+         (11.20pm, Mon, BBC1)... and MTV VJ Trey Farley makes a bid to
+         control all Saturday morning as he hosts both late-night porn
+         clip-show LOVES LIKE A DOG (2.20am, Fri, C4) and the new-look
+         LIVE AND KICKING (9.15am, Sat, BBC1)... decision time for fans
+         of all-American retards as the COUNTRY MUSIC AWARDS (9.05pm,
+         Sat, BBC2) go up against FORREST GUMP (9pm, Sat, BBC1)...
+         meteorologists are issuing a double "Richard E Grant" warning
+         on Sunday, incorporating JACK AND SARAH (9pm, Sun, C4) -
+         instead, watch Chris Farley's BEVERLY HILLS NINJA (9pm, Sun,
+         C5) - and KEEP THE ASPIDISTRA FLYING (10pm, Sun, BBC2) -
+         instead, watch SWINGERS (11.05pm, Sun, C4)... while EQUINOX
+         (9pm, Mon, C4) and HORIZON (9.30pm, Thu, BBC2) go head-to-head
+         in the exciting-science stakes with shows about fast cars and
+         giant tidal waves, respectively... like Tupac Shakur before
+         him, death seems to have done wonders for Gene Roddenberry's
+         productivity, with the arrival of his latest space-opera
+         ANDROMEDA (8pm, Mon, Sky1) - also look out for Tia Carrere
+         Tomb Raider-alike RELIC HUNTER (1pm, Sun, Sky1)... and sure,
+         we thought http://www.everyonehatesattachments.com would come
+         out funnier, but we'll give ATTACHMENTS (9pm, Tue; 11.20pm,
+         Fri, BBC2) one last chance to make some more really hideous
+         technical errors before we give up on it altogether...
+
+         FILM>> intended as an academic exercise - to see how just many
+         different Eddie Murphy roles, CGI/ prosthetic special effects,
+         and bodily function gags could be crammed into Janet Jackson
+         Touretting-genius slapstick NUTTY PROFESSOR II: THE KLUMPS
+         (http://www.capalert.com : portrayal of oral sex by an old
+         woman; flatulence, even to music; animal copulation [twice];
+         feces as missiles from a giant hamster; rape of a human male
+         by a giant male hamster with interest in continuing the
+         relationship)... the highly-public cutting of Ben Moor's role
+    http://www.guardian.co.uk/Archive/Article/0,4273,4066192,00.html
+         is just one reason to boycott lame "and you thought 'Human
+         Traffic' was behind the times" clubs 'n'n drugs rave SORTED
+         (imdb: Tim "Rocky Horror" Curry, Jason "Rocky Horror" Donovan,
+         Tim "Blue Peter" Vincent, Kelly "Big Breakfast" Brook -
+         together at last!)... so, frankly, your only real hope is
+         advance previews of Tom Green's peripatetic "American Pie"
+         remake ROAD TRIP (imdb: fraternity / politically-incorrect /
+         room-mate / road-trip / sex / snake / marijuana / college /
+         party / dirty-videotape / sperm-bank / french-toast / drugs /
+         story / girlfriend / cheating / gross-out-comedy / mistaken-
+         mail / foot-fetish / mouse / person-eating-mice)...
+
+         CONFECTIONERY THEORY>> a mixed verdict on this month's major
+         arrival, the CADBURY'S SNOWFLAKE: DERYCK RAWLINGS reported
+         that, although white chocolate gives him migraines, his "young
+         lady" pronounced it "absolutely yummy", enabling Cadbury to
+         "regain my favour after the Shush disappointment"... "white
+         choc doesn't taste of anything," analysed trainee chemist TOM
+         ANDERSON: "[Snowflake] also lacks the top-drawer chocolate
+         that makes this architecture work for Ripple", while adding "a
+         truly alarming cross-sectional appearance" and a "nasty
+         aftertaste" which he promised to investigate using his gas
+         chromatograph... so the casting vote goes to SIMON GREENWOOD,
+         who persuasively argued: "There is a vague delineation between
+         the white and milk chocolate but [the bars] are made all the
+         more delicious by the spectacle of the airhead Turner and her
+         new hubby [appearing in] such a crappy picture"... on the
+         import front, the ground-breaking http://www.cybercandy.co.uk
+         crew have now added New Zealand, Japanese and Chinese faves to
+         their line-up, as well as US classics such as ThinkGeek-style
+         PENGUIN CAFFEINATED PEPPERMINTS (UKP2.65, also available in
+         "Decaff" form). Kiwis specialise in choc-covered marshmallow
+         bars - as with CADBURY'S PINKY (UKP1.20, pink marshmallow),
+         CADBURY'S CHOCOLATE FISH (69p, also pink), and PASCALL'S
+         PINEAPPLE LUMPS (UKP2.45, pineapple flavoured, yellow) - while
+         the ever-expanding Japanese range includes such beautifully
+         packaged delights as MEIJI CHOCO BABY (UKP1.45 - normal or
+         strawberry varieties) and LOTTE CHOCOLATE SNACK KOALAS
+         (UKP1.89, empty box makes excellent desk-ornament), as well as
+         the inevitable taste-surprises like CHELSEA YOGURT SCOTCH
+         (UKP1.37, boiled sweets with "The Taste of Old Scotland"), and
+         HI-SOFT GREEN TEA flavoured toffees (UKP1.23)... reassuringly,
+         our UK sweet-industry seems to be more than holding its own,
+         as DAVID CHALLENDER alerted us to "the ice cream version of
+         those green triangle chocs found in Quality Street"; DAN
+         CALLADINE unilaterally awarded new FOX'S JAM 'N' CREAM ROCKY
+         BISCUITS the prized plaudit of "nicest Rocky ever"; and WAYNE
+         WILLIAMS enthused over KELLOGG'S TOFFEE FROSTIES, the "coming
+         soon" NUTRIGRAIN ELEVENSES ("am incredibly excited by the
+         prospect of being able to replace all my meals with small
+         chewy bars") and, inexplicably, WESTLIFE BUBBLEGUM, "spotted
+         at a service station on the M6"... great work team - your
+         targets for this month include CADBURY'S TANGO CRUNCHIE (rrp
+         35p), MARS' "WHO NICKED THE NOUGAT?" LIMITED EDITION SNICKERS
+         and, leaked to us from a Mars secret test-site, SKITTLES MINTS
+         http://www.ntk.net/2000/10/06/skittles.jpg - sub-flavours
+         include "Coolmint", "Peppermint", "Spearmint", "Sweetmint"
+         and, of course, nature's very own "Toffeemint"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+      "if he had actually *talked* to us, he'd realise we like cereals
+                       much, much more than the next guy"
+http://www.guardianunlimited.co.uk/Archive/Article/0,4273,4064822,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+    NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

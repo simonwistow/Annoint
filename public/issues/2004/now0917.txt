@@ -1,0 +1,232 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-09-17_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+         "These [miniature atomic clocks] will be so useful that we 
+          can't even think of the most significant applications at 
+          present..."
+                          - Dr John Kitching, US National Institute of    
+                                              Standards and Technology 
+                       http://news.bbc.co.uk/1/hi/sci/tech/3656278.stm
+                 ...you know, we've heard they've had similar problems 
+                        unleashing the "true usefulness" of the Segway
+
+
+                               >> HARD NEWS <<
+                         "just putting you through"-s
+
+          Here's how a video call works on the new Amstrad E3 land-line 
+          phone: you make a person-to-person voice call (through your 
+          usual telephone provider) to someone else with an Amstrad E3, 
+          press a button, then an internal DSP modem effectively splits 
+          the usual 56k dialup bandwidth of the existing call, sending 
+          pics at 2-9 frames per second to the other device and your 
+          voice in whatever's left over. Ingeniously, the phone then 
+          logs the fact that you've made a video call and, in its 
+          regular nighttime calls back to Amstrad's telco partner Thus 
+          (to check your email, ad downloads etc), then charges you 50p 
+          for each one you've made, even though you make no additional 
+          demands on their network (or even your own phone supplier's) 
+          by doing so. When pressed by us about this, Alan Sugar became 
+          defensive about needing the revenue to subsidise the hardware 
+          (retailing at UKP99), but we think this is a business model 
+          hardly anyone's dared try before: selling you a product which 
+          charges you every time you use it (ie, for the privilege of 
+          making person-to-person data calls via your own telephone 
+          supplier) - presumably on the assumption that most users find 
+          phone tariffs completely arbitrary and confusing anyway?
+          http://www.theregister.co.uk/2004/09/15/amstrad_e3_launch/
+       - framerate not great for hearing-impaired sign language either
+
+          Foo you once... That sinister Bohemian Grove of geekery, FOO
+          CAMP, forked this year, with a EuroFoo taking place near old
+          Amsterdam, and Foo Classic running a little later in the
+          Californian home of O'Reilly, the hippyopolis Sebastopol.
+          Compare-and-contrasting, some cliches applied: MerkinFoo was
+          certainly more about the pesos (and the Jeff Bezos, who
+          leapt from talk to talk). In Sebastopol, delicate clouds of
+          cashotropic hackers gathered around otherwise identical
+          geeks who had previously sublimed into millionairehood. No
+          such luck^Wdistractions for the EuroFoo, who had a narrower
+          income range, and perhaps more subversive tastes. Ah, the
+          Baudelairean pursuits of the Eurohacker: lockpicking;
+          drinking and decadence; 0wnzoring phones over bluetooth;
+          more drinking; studying the effects of marijuana on the
+          frontal lobes; dancing to thumping bass; RSS, decay, and
+          Perl. The haler MerkinFoos seemed healthier, but had their
+          own inner rot: they built rocketships and compared hiking
+          boots with their peers. But while the Eurohackers laughed at
+          the folly of the world, the Americans grew furious with each
+          other over DRM, simple metadata versus the semantic web,
+          and exactly how satanic Microsoft was this year. The MSDN
+          apologists left little "Channel 9" playpeople everywhere. By
+          nightfall, most of them had had their heads torn off.
+          http://www.whoot.org/archives/000079.html
+                                   - Chocolate Printer Summer Tour '04
+          http://qwer.org/preferthetermalphaspazzos.html
+              - video of Piers Cawley, impro, creative archive, Cawley, 
+                                                'tooth hacking, Cawley
+          http://overstated.net/04/09/15-foocamp-hacks.asp
+                                              - badger, badger, badger
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          OK, last time we went to see Paul B "8-Bit Construction Set" 
+          Davis talk about circuit bending (at the Royal Festival Hall 
+          in Feb), it wasn't his fault that he couldn't get the video 
+          projector to work with his Powerbook. And we're still not 
+          completely convinced of the fun potential of learning assembly 
+          language to reprogram old Nintendo cartridges. But his upcoming 
+          tour of CIRCUIT BENDING WORKSHOPS (from next Sat 2004-09-25, 
+          London, Bangor, Manchester, Newcastle, Plymouth, Liverpool, 
+          and London again, free but email them your phone number to book 
+          a place) also features "UK experimental noise artist" Sarah 
+          Washington, is backed by the Institute of Electronic Engineers 
+          and the Channel4 IdeasFactory, and "all equipment is 
+          provided", so you don't even need to dig out your old soldering 
+          iron and Speak and Spell machine. 
+          http://www.lektrolab.com/
+             - also available: DJing masterclass with Bitch Ass Darius
+          http://www.no2id.net/events/launch.html
+            - official launch of the UK anti-ID card campaign tomorrow
+http://www.inthecity.co.uk/itc2004/interactive/ic-tuesday-detail.shtml
+            - Reg hack keynotes Manc music-biz pigopolists, on Tuesday
+          http://www.cybersalon.org/edemocracy/
+             - Cybersalon on "E-Democracy vs E-Hypocrisy" that evening
+          http://www.brum2600.net/brumcon4/
+            - advance warning of Brumcon IV at the start of next month
+          http://www.openhouselondon.org/london/search/showall.asp
+              - almost-navigable London Open House venues this weekend
+          http://www.swarming.org.uk/recl/reclwhe.htm
+           - plus 90 minutes of Ken Campbell on Thames beach on Sunday
+          
+
+                                >> ANTI-MEMES <<
+           there's smoke, flames, there's http://dohthehumanity.com/
+
+          together at last - terrible cover art Photoshopping triple-
+          whammy: http://dvdtimes.co.uk/content.php?contentid=12690 ... 
+          Blunkett ID card "fringe" conference session sponsored by - 
+     http://www.disinfopedia.org/wiki.phtml?title=Labour_Party_conference
+          (search page for "Siemens")... Westminster City Council 
+          promotes "innovation" with - man in a rubber "gimp" suit?: 
+          http://www.westminster.gov.uk/ ... casualty Widdy - thought-
+          provoking *and* puerile: http://qwer.org/tasteless.html ... 
+          if you're going to nitpick, why is it only hunting "with" dogs 
+          - what about if you just happen to be hunting "near" them?: 
+          http://www.spy.org.uk/spyblog/archives/000450.html ... double-
+          URLtendres of the month - http://www.poolife.com/ , those 
+          frisky students: http://www.studlife.com/ , plus publishers 
+          of fine nautical filth: http://www.FishermanSexPress.com/ ... 
+          calling Jon Katz - if you can read this, your people need you: 
+          http://slashdot.org/comments.pl?sid=121036&cid=10214639 ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          VIEWGLOB is a little GTK+ window that sits near your xterm,
+          and listens to you tapping away on bash or zsh. When you
+          "cd" to a new directory, it shows you the content listing of
+          that directory. When you start typing commands, it shows you
+          (a la autocompletion) which of the filenames you're typing.
+          If you type a wildcard, it'll show you what you're about to
+          affect. It's not two-way (so you can't select files and see
+          them appear on the command line), but it's still strangely
+          reassuring to have it lurking over your actions. As the
+          author Stephen Bach says, "no longer will you compulsively
+          ls after every cd". It also feels like a harbinger of helper
+          apps to come. With shortcut managers like QuickSilver on Mac
+          adding CLI elements to the GUI, it's about time we got some
+          GUI sugar to add to the bitter black hotness of our terminal
+          windows.
+          http://viewglob.sourceforge.net/
+                 - I like my terminals like my women: VT100 compatible
+                                             with Tektronix extensions
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> Bill Bryson apparently perpetuates the Superman/ Batman 
+          cape "Does not enable wearer to fly" urban myth in GRUMPY OLD 
+          MEN (10pm, Fri, BBC2) - next week, ironically turning 
+          their wrath on "The Media" and "celebrities"... good of them 
+          to specify that it's "Sci-Fi" (as opposed to that "Fantasy" 
+          rubbish) in HOLLYWOOD'S GREATEST SCI-FI SPECIAL EFFECTS 
+          (8.05pm, Sat, C5)... and it's only three years since we last 
+          made the joke about the next film in the ALONG CAME A SPIDER 
+          (9.10pm, Sat, C4) series being called "Kiss The Girls 3: Wee-
+          Wee-Wee All The Way Home"... tragically, Rob Schneider never 
+          quite recaptured the "man-whore" comedy gold of DEUCE BIGALO: 
+          MALE GIGOLO (11.30pm, Sat, ITV) - NTK Film Of The Year 2000... 
+          Greg Dyke uses his privileged media contacts to explain why he 
+          feels BETRAYED BY NEW LABOUR (8pm, Sun, C4)... and there's 
+          Kirsten Dunst, Martin Short and arguably excessive soundtrack 
+          use of Badly Drawn Boy's "The Shining" in cheap but cheerful 
+          high-school Shakespeare comedy GET OVER IT (9pm, Sun, C4) - 
+          young people face rather more pressing dilemmas in the always-
+          entertaining low-budget horror FINAL DESTINATION (10.35pm, 
+          Wed, BBC1)... ABBA - THE REUNION (9pm, Tue, ITV) may as well 
+          be a more mainstream re-edit of BBC3's recent "Liquid Assets: 
+          Abba's Millions"... and no doubt they'll eventually combine 
+          the two lifestyle-makeover formats of THE BANK OF MUM AND DAD 
+          (8pm, Tue, BBC2) and TOO POSH TO WASH (8.30pm, Tue, C4) to 
+          create a show where your mum follows you round all day wiping 
+          your face with a hanky...
+          
+          FILM>> normally when a lead character is obviously made up to 
+          look older, this means there'll be a time-travel sequence when 
+          they go back and meet their younger self, but oddly that 
+          doesn't seem to be the case for Tom Cruise in Michael "Heat" 
+          Mann's digital-video ambient-lighting extravaganza COLLATERAL 
+          ( http://www.capalert.com/capreports/collateral2004.htm : talk 
+          of sexually immoral deeds; many demonstrations of sinful 
+          behavior; use of firearms to threaten and to force behavior, 
+          repeatedly)... the bizarre futuristic street-slang infects 
+          even the title of post-cyberpunk Tim Robbins/ Samantha Morton 
+          mood-piece CODE 46 ( http://www.bbfc.co.uk/ : Contains strong 
+          nudity and moderate sex)... then, next week, its being 
+          championed by Quentin Tarantino is frankly all the warning you 
+          should need regarding CGI/wirework-heavy kung-fu cobblers HERO 
+          ( http://www.capalert.com/capreports/hero.htm : intercourse 
+          under sheets with sounds; second intercourse, implied; lots of 
+          "Crouching Tiger, Hidden Dragon" flying; running on water in 
+          mockery of our Lord who walked on water)... 
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "That's *formerly* idealistic - if you don't mind!"
+ www.google.com/search?q=%22Danny+O%27Brien%22+%22idealistic+journalist%22
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

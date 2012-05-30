@@ -1,0 +1,255 @@
+ _   _ _____ _  __Issue [0.4]b 16/05/97
+| \ | |_   _| |/ /_ __   _____      __ o Slight Mo'media bloat again,
+|  \| | | | | ' /| '_ \ / _ \ \ /\ / / o exciting new media format to
+| |\  | | | | . \| | | | (_) \ V  V /  o be tried next week. Tell us
+|_| \_| |_| |_|\_\_| |_|\___/ \_/\_/   o what you hate/want! QUICK!
+
+              "Don't be afraid of Microsoft. We're not here to
+              dominate the market. We're here to help it grow."
+                 - Greg Maffei, MS treasurer, oozing reassurance
+                                                 from every pore
+
+
+                               >> HARD NEWS <<
+                              served in silence
+
+              Apple announced its new OS strategy at this
+              week's Worldwide Developer Conference. The
+              company promised that the NeXTSTEP-based OS,
+              "Rhapsody", will run on both Wintel and PowerPC
+              machines, that MacOS programs will run on
+              Rhapsody, and that everything will run on time.
+              Surprisingly punctual PowerPC demos of ported
+              NeXT software (like the Mach kernel) lulled the
+              developers. Less placable were the Mac clone
+              makers, who sniped about Apple's tight-fisted
+              licensing procedure. Cue "Bohemian Rhapsody" song
+              parodies: "anyway, there's Windows; doesn't
+              really matter..."
+              http://wwdc.smgtv.net/track0keynotes.html
+                - Keynote speeches in RealVideo, including Jobs
+
+              More news on BIB, the NewsCorp/BT/Midland/
+              Matsushita digital/interactive TV joint venture:
+              the MAIL ON SUNDAY reports BIB's Adam Slater as
+              saying that the box *won't* support a full
+              Internet service. Instead, BIB will provide "'a
+              walled garden' with access to sites selected for
+              popularity and suitability and contents re-
+              formatted for TV screens." Slater blames this
+              limitation, rather ingenuously, on ITC rules.
+              Rather than that conveniently 'walled garden' BT
+              and Murdoch have already at LineOne...
+              http://www.bib.co.uk         Still nothing there
+
+              The British Library, which holds a copy of every
+              UK copyrighted book ever, is to put its
+              catalogues on the Web. Information on 8.5 million
+              works will be freely available from next week.
+              Also, members of the Libraries' reading room will
+              be able to order books from the stack online to
+              be ready and waiting when they turn up at that
+              horrid building in St. Pancras. Or Boston Spa,
+              Yorks. Whatever. The service is launched
+              20/5/97...
+              http://www.bl.uk          Fashionably abrupt URL
+
+              ...at Internet World UK '97 (20/5/97 - 23/5/97),
+              the "industry"'s annual foray into vast hype and
+              mild farce. Look out for literally millions of
+              exciting product launches and market-rocking
+              announcements. Best tie-in? Kim Polese
+              fighting off Bill Thompson, Vincent Hanna,
+              Andreas Whittam Smith and a thousand sweaty CS
+              geeks at Monday's Oxford Union debate. Last year
+              we sent them Jerry Yahoo and Steve Bowbrick;
+              unfortunately they sent them back.
+              http://www.iwuk.com          Internet World site
+
+              Tepid official Oasis Website creators IGNITION
+              are stomping on unofficial OASIS Web pages,
+              presumably to prevent the imminent bootlegging of
+              any "exclusive" new album clips they pay through
+              the nose for. Concerned individuals should
+              contact the OASIS WEBMASTERS FOR INTERNET FREEDOM
+              (not quite as catchy a name as the Electronic
+              Frontier Foundation, but we wish them the best);
+              reports that The Beatles plan to countersue Oasis
+              for "ripping off all their tunes" remain
+              unconfirmed.
+              http://www.geocities.com/SunsetStrip/Alley/1909/sony.html
+              http://www.oasisinet.com/        "Official" site
+
+
+                               >> ANTI-NEWS <<
+                          well, gag us with a spoon
+
+              Jimmy Hill to sue Courage for Web slurs... IE
+              security breach; fix on MS site... Nintendo
+              profits fall 13.7%... Powerpoint security breach;
+              fix on MS site... Guardian claims Deeper Blue may
+              be "first computer to pass Turing Test"...
+              Windows 95/NT security breach; fix on MS site...
+              Norwegians put brothel on Webcam as "political
+              act"... PentiumII floating point bug; workaround
+              "to be provided by application providers, if
+              necessary"... Net users high suicide risk group,
+              say Samaritans...
+
+
+                                >> CULTURE <<
+                           we reach for our remote
+
+              Get your PGP key signed by Phil Zimmerman!
+              There's to be a grand key signing session at next
+              Monday's SCRAMBLING FOR SAFETY conference.
+              Register now, as places are going as fast as your
+              civil liberties! Can't make it? Then listen to
+              the live audiocast, and contribute your views via
+              e-mail on the day.
+              http://www.privacy.org/pi/conference/dti
+              http://www.encryption.co.uk       live audiocast
+
+              NITTYNORA HEAD EXPLORER is art, so it goes in
+              here. Its creators, Jenny Jones and Eva Wojdat
+              will be giving talks at: Wed 21/05/97 7pm at
+              Backspace, and Wed 5/06/97 7pm at The Conductors
+              Hallway - Camberwell. See it at:
+              http://www.golgonooza.org/nitty    
+
+
+
+
+                                >> TRACKING <<
+                        I'm the bear - the Bounty Bear
+
+              There's a new MICROSOFT INTERNET EXPLORER out for
+              the Mac. Mostly silly features like URL
+              completion (a la Communicator PR4), and a 'Which
+              of my bookmarked pages have changed?' tool (a la
+              Navigator 2.0, for God's sake). But it *is* out
+              of beta...
+              http://www.microsoft.com/ie/mac/
+
+              Wired Ventures, whom we hate, released another
+              product this week: NEWBOT, an ActiveX search-
+              engine front end for HotBot. NewBot's USP is that
+              it will find only *new* Web/Usenet references to
+              your chosen topics, and will seek them out in the
+              background. Great idea, fucking terrible
+              interface and a chilling indicator of current
+              Microsoft-Wired amicability. Worth a worried
+              stare or two.
+              http://www.newbot.com
+
+              Also on the ex-employer's list, BERKELEY SYSTEMS
+              have released the new version of their
+              NETJACKSHOW software. If you haven't played Don't
+              Know Jack Online... well, you really should.
+              http://www.bezerk.com
+
+              Zooming up C|Net's WWW.SHAREWARE.COM charts is
+              NET.MEDIC, a Win 95 application that analyses
+              your slow Web surfing and reports on where it
+              thinks the bottle-neck is. Find out whether its
+              your ISP, your modem or your computer that sucks.
+              Nice graphics; makes you feel like you're running
+              complex low-level diagnostics instead of just
+              watching the Jennicam.
+              http://www.vitalsigns.com
+
+
+                                >> MEMEPOOL <<
+
+              incompatible 56Kbps standards force pricewars,
+              big ad campaigns... "playability" is the new
+              "functionality"... "duty" is the new
+              "slacking"... karaoke/MIDI .kar files are  the
+              new rock'n'roll (eh Sony?)... peak of the
+              alttabbing lifestyle... the new Asian emoticons
+              (-_-;)... When Wired used pseudo-futurist
+              gibberish in ads, we kind of expected it. When
+              The Times got in on the act, why not? But WHAT ON
+              EARTH do the *R.A.C.* think they're doing?
+
+
+
+                               >> MO' MEDIA <<
+
+              TV HIGHLIGHTS: CAROLINE IN THE CITY (9pm, Fri,
+              C4) concludes her Friday night residence with an
+              ongoing will-they-won't-they cliffhanger, but who
+              cares 'cos she's up against the repeated second
+              series of THE FAST SHOW (9pm, Fri, BBC2)... That
+              darned "Computers Don't Bite" campaign persists
+              with a look INSIDE THE INTERNET (8.10pm, Sat,
+              BBC2), including a look at "hackers and those who
+              try to stop them"; other quirky as-they-are users
+              tell their TALES FROM THE NET (around 10.25pm,
+              Mon-Fri, BBC2)... real-life courtroom drama in
+              the two-part MCLIBEL! (7.15pm, Sat, C4; 7.30pm,
+              Sun, C4) - Press Gang's Julia Sawalha in "burgers
+              not good for you" shocker... overly-populist
+              science show QED (10pm, Tue, BBC1) returns with a
+              man who has invented a new kind of glasses... and
+              a probing 20-minute psychological
+              examination awaits Vanessa Feltz, first of seven
+              guests promisingly sentenced to THE CHAIR
+              (7.10pm, Wed, BBC2)...
+
+              MOVIES: THE RELIC (Penelope Ann Miller, Tom
+              Sizemore) comes across as a bizarre extended
+              mutant-monster-loose-in-a-museum X-Files-alike
+              from eccentric nutter Peter "Capricorn
+              One/2010/Timecop" Hyams... even if you don't like
+              documentaries or fist-fights, you may still enjoy
+              WHEN WE WERE KINGS (Muhammad Ali, George Foreman,
+              BB King) a recently rediscovered account of the
+              historic Ali/Foreman "Rumble In The Jungle"...
+              and MICROCOSMOS (various arthropods) is kind of
+              like Honey I Shrunk The Cameraman, zooming in on
+              a bunch of insects going about their segmented-
+              body business without the benefit of a natural
+              history narration...
+
+              COMICS: Most of this month's Marvel titles are
+              numbered minus one, presumably to go one lower
+              than DC who did a month of issue zeroes a couple
+              of years ago. Marvel have made the stories
+              "Flashbacks" to events before each title started
+              to give extra background to current plotlines.
+              Pick of the bunch has to be UNTOLD TALES OF
+              SPIDER-MAN #-1, which tells of Richard and Mary
+              Parker (Peter's parents) and their adventures as
+              agents of S.H.I.E.L.D. Cool! Next week's top
+              recommendation: YOUNG HEROES IN LOVE NO 2 (DC)
+              http://www.marvelcomics.com/
+
+              Reggae rumbler BIM SHERMAN returns with more
+              mellow sounds: New album IT MUST BE A DREAM
+              (Mantra, June 2nd) features percussion from
+              Talvin Singh... TALKING LOUD's collection "21ST
+              CENTURY SOUL" out June 9th, promises to colonise
+              the future with wide range of modern soul beats.
+              The eclectic selection includes 4 hero, MINNIE
+              RIPERTON, UFO, CLEVELAND WATKISS and, as they say
+              in the trade, many many more... Hyper-active
+              guitar popsters BIS release new single "Everybody
+              thinks they're gonna get theirs" on May 12th. Cue
+              more mad cartoon posters... Drum 'n' Bass the
+              way it should be from the fabulously original MR.
+              RONI SIZE + THE REPRAZENT outfit with "SHARE THE
+              FALL" (Talking Loud, May 19th)...
+
+
+                              >> SMALL PRINT <<
+
+      We're so in Beta it's untrue. Send bugs, fixes to tips@spesh.com.
+
+      Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body. 
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+NTKnow is sponsored by VIRGIN MEDIA and VENUS INTERNET. They worry about
+                      us, but we don't worry about them.
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com

@@ -1,0 +1,342 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-06-11_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+       "I guess it won't surprise anybody that because AT&T has put
+       my life at risk to this harassment organization, I will be
+       switching both Internet service providers and my long-distance
+       service from AT&T..."
+       - "Safe", the anti-scientology campaigner shopped by his telco
+          ...every day, more and more people - under threat of death -
+                                              are coming back to BT...
+
+
+                                >> HARD NEWS <<
+                                  petit coups
+
+         In a post-Net Strike parliamentary debate on unmetered
+         telecoms, Ian Bruce MP rather smugly declared that certain
+         telecommunications companies had confided in his very
+         important ear that they were going to go unmetered in a
+         matter of weeks. Who could he mean? Well, fortunately we've
+         been in the position of having somebody swear us to secrecy
+         about this every twelve minutes for the last fortnight. And,
+         on the assumption that once an MP realises something, it
+         must be inches away from blindingly obvious, we might as well
+         blab. So, big secret: it's BT, it's ADSL, it's coming in
+         September, it's unmetered, it's always on and it'll cost
+         c.30UKP a month. More predictions: they won't have enough
+         installers so you'll have to wait ages, journalists will
+         write scary articles about "portscanners", even more
+         pisspoor TV people will enter the industry hoping to present
+         "high-bandwidth video documentaries" online, the newsgroups
+         will fill with people whinging that they only get 300Kb/s
+         and want their money back. But none of us will care,
+         because, you who want this *so* badly and have prayed for
+         so long, you will be happy.
+         http://www.unmetered.org.uk/news/news100699.htm
+         - "someone leaked it, I'm afraid. Cancel the whole thing.."
+         http://www.elite.dircon.co.uk/ADSL/
+         - gurus will be amazed that this isn't in full motion video
+
+         "ISP casualties 'inevitable'", declared the BBC News site
+         this week, as another zillion free ISPs sprang out of the
+         telco woodwork, each adorned in its own freakish
+         Cambrian-explosion branding. Up popped Dellnet, FreeWeb,
+         TheMutual, ICLNet - and of course, "FreeBeeb", the BBC's own
+         cloying entry into the market. FREEBEEB is a co-venture by
+         Scottish "Demon" Telecom and BBC Worldwide. BBC Worldwide 
+         is the bit of the BBC that's allowed to be commercial and
+         money-grubbing, in order to make money for the rest. Not
+         too much money, though: it was they who killed fledgling
+         ISP the BBC Networking Club back in December 1995. Why?
+         Because, they said, it was clear there was no money in the
+         ISP business.
+         http://www.freebeeb.net/
+                                              - well, there isn't now
+         http://www.bbc.com/
+                      - hey, they got bbc.com back! A snip at a 100K!
+         http://www.tv-l.co.uk/students.htm
+                  - better scare a few more students into coughing up
+
+         Windows users faced a brand new threat this week, as a new
+         virus spread from machine to machine, claiming to be the
+         e-mail answer to a question nobody asked. But enough about
+         OFFICE 2000 - how's about that worm? Well, we're sure
+         everyone affected by the EXPLOREZIP trojan will extend their
+         sympathies to those hit hardest - MICROSOFT UK, where the MD
+         had his drive trashed as well as dozens of others at Reading
+         HQ. In Microsoft's defence, the trojan does not exploit any
+         security weakness in Windows: only users naive enough to
+         click on a mailed executable are zapped. Guess that learned
+         them.
+         http://www.xciv.org/~meta/orifice2000.gif
+                                              - some hidden clue here
+         http://www.zdnet.co.uk/news/1999/23/ns-8460.html
+         - oh, and I think those zipped files you're looking for are here
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         VNU NET become MSN UK's exclusive IT news source - celebrate by
+         misspelling "Ballmer" throughout entire headline report:
+http://webserv.vnunet.com/www_user/plsql/pkg_vnu_news.right_frame?p_story=84939
+         http://www.carrera.co.uk launches new "recursive" range... 
+         US MICHAEL MOORE show omits "Teen Sniper School" segment...
+         "moderated" forums on DOWNING STREET site: "not very"
+         reports METRO... MS buys 10% of Borland, freezes Philippe
+         Kahn in carbonite... that FSF's more viral than we thought:
+         http://www.min.net/~douglas/gfx/msfsf.gif ... clearly not a
+         BT front: http://members.tripod.com/vocaltel/ ... "There
+         will be no white knuckle rides at BLETCHLEY PARK" says press
+         release: ride the giant Colossus!... important personal message: 
+         http://www.ntk.net/doh/19990611nick.gif ... "UK corporates 
+         still failing to ensure their software is properly licensed",
+         moan FEDERATION AGAINST SOFTWARE THEFT - ooh, but BSD-style 
+         or GPL?... ROMERO takes as long over his hair as over his 
+         releases: http://www.planetquake.com/mynx/dearromero.shtm ...
+         NEAL STEPHENSON upgrades from EMACS - to pen... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Just a quick advisory that sci-fi musical RETURN TO THE
+         FORBIDDEN PLANET is stalking the land once more; the
+         overlong cod-Shakespeare rock-and-roll show is on national
+         tour for most of the year; see site for details. Expect
+         rather fewer toe-tapping tunes in Philip K Dick play FLOW MY
+         TEARS, THE POLICEMAN SAID (Oval House Theatre, 52 Kennington
+         Oval, London SE11, 7.45pm, 1999-06-11/19 not Mon or Tue),
+         adapted by Linda Hartinian who, says ANSIBLE, "appears in
+         PKD's autobiographical "The Dark Haired Girl". Tickets (0171
+         582 7680) are UKP7.50; since it depicts "a future where
+         people caught without official papers face years in labour
+         camps" (Time Out), we'd advise taking your NUS card if you
+         want the 4.50 concession.
+         http://members.aol.com/dillyria/ 
+                            - time for the "Rockabye Hamlet" revival?
+         http://ourworld.compuserve.com/homepages/flowmytears/
+               - "Dick, Dick, Dick" "How many Dicks is that?" "A lot"
+
+         And a big shout goes out to the "Special Branch" posse,
+         already rumoured to be taking an interest in the
+         anti-corporate festivities of JUNE 18 (financial centres of
+         many major cities, all day next Fri, 1999-06-18; duh). Maybe
+         they're planning on partying along, Notting Hill
+         Carnival-style, with the Reclaim The Streets-crowd
+         revellers; maybe they'll be filming the participants purely
+         to help out with the global webcasting of the alternative
+         G8-summit activism. 
+         http://www.gn.apc.org/june18/
+                - or see the stickers on lamp-posts all over Brighton 
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         Hey, if George Lucas doesn't want the world to pirate his
+         STAR WARS films, why's he keep putting that
+         camcorder-calibrating eyetest-chart at the beginning?
+         Research suggests that the 1.3 gig VCD Phantom Menace
+         currently circulating isn't full digital-to-digital
+         "zero-day" warez, but in fact a (fairly good)
+         cinema-camcorder job; near-identical to the knock-off copies
+         shifting at your local street market for a fiver. Hallmarks
+         include sudden improvement in sound quality at 0:30 mins;
+         intermittent audio drop-out (mike clipping?) during pod race
+         (1:00); and a "floating Z" at the edge of the screen. VCD
+         has minor MPEG artefacts, some VHS versions have Chinese
+         subtitles - handy for the ethnically stereotyped Trade
+         Federation - and we don't hold out too much hope for the 800
+         meg AVI. Still, with all that CGI and dodgy eyelines, maybe
+         the lower the resolution, the better.
+         http://www.zdnet.co.uk/news/1999/21/ns-8344.html
+                  - last seen on the server of a top UK university...
+         http://www.villagevoice.com/features/9923/goldstein.shtml
+          - c'mon, being in an "ate my balls" doesn't prove *nothing*
+
+         Overclocking your Palm. No, you're lying: you'd *never*
+         considered doing that. And even if you did consider it,
+         you'd certainly weren't planning on cranking an 80% clock
+         speed improvement for a standard IIIx or V. Oh, you did,
+         huh? Well, I bet you'd never envisaged doing it in
+         *software*, with a freeware Hackmaster mini-application, no
+         assembly required? You did? Then you are Jean-Paul Gabini and
+         I claim my five pounds.
+         http://www.gavini.com/Public/
+         - oh! oh! check out his other impossible software packages
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         ZX Spectrum the new techno: http://yoyo.org/levine/load_screen.mp3 
+         ... CLUETRAIN lands "phat book contract"... FREEMASONS sponsor
+         neuroelectronic implants... "SETI@home: the second-best way
+         to impress JODIE FOSTER"... show creator JOSS WHEDON 
+         instructs fans to bootleg banned BUFFY... any top-secret
+         info that *isn't* online yet? http://jya.com/irish-war.htm
+         ... taunting BOND fans by calling new film "Tomorrow's World
+         Never Says Die Enough - Again"... PLAYING FIELDS to set up
+         DREAMCAST network cafes (well, they should be able to get the
+         hardware cheap, anyway)... WITCHBLADE in TOMB RAIDER 4?... 
+         CEE-NO-FAX: http://tvguardian.com/html/faq.html ... John 
+         Cleese *is* GEORGE WASHINGTON... "guys, look at us, fighting
+         each other": http://www.attrition.org/negation/special/ ...
+         *five* MATRIX movies? We're living in the wrong reality!... 
+         not quite the "affirmative action" they were hoping for:
+         http://www.jewwatch.com/jew-occupiedgovernments-uk-media.html
+         ... "I don't know about SPAMMERS, but they scare the 
+         hell out of me": http://www.robertstech.com/gallery.htm ...   
+         we want the Real DR EVIL as the Other Dr Evil (or maybe 
+         Mini Me): http://www.scifi.com/sfw/issue112/cool.html ... 
+         ... not sure we've ever seen "anus" on a Japanese game:
+         http://www.nationalgamereview.com/99.4.26/words/japan.html
+         ... c'mon, "JAR JAR ate my balls" doesn't prove anything: 
+         http://www.villagevoice.com/features/9923/goldstein.shtml ...
+
+
+                               >> GEEK MEDIA <<
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> an over-done double helping of FRASIER (10pm, Fri, C4)
+         ... a rerun of oddly similar variations on "Alan
+         Partridge" geekdom, in COOGAN'S RUN (10pm, Fri, BBC2)...
+         plus PERVERSIONS OF SCIENCE? (9.30pm, Fri, Sci-Fi) -
+         Perversions Of *Shatner*, more like, as Bill directs and
+         guest-stars in the first of a brief bunch of tackily
+         "erotic" space stories... a semi-cute cast almost pull
+         nooveau-pulp THE ROCKETEER (2.45pm, Sat, ITV) out of its
+         nosedive... Coogan's back, plus Lee And Herring, plus -
+         uh-oh - the cast of "Big Train" - trying to pay off the
+         Third World's overdraft on COMIC RELIEF: THE DEBT WISH SHOW
+         (10.40pm, Sat, BBC1)... and Angus Deayton retaliates for
+         ITV nicking his "Before They Were Famous" format by stealing
+         their Oscar out-takes idea with NOT ANOTHER AWARDS SHOW
+         (9.45pm, Sat, BBC1)... something of a theme-night on ITV,
+         with Michael Barrymore reporting that ANIMALS DO THE
+         FUNNIEST THINGS (6.50pm, Sat, ITV)... spreading lethal
+         monkey germs, for instance, as documented later by OUTBREAK
+         (9pm, Sat, ITV)... while inbetween, primates parade
+         elaborate mating displays in MAN O MAN (7.50pm, Sat, ITV) -
+         of course, they should do a more authentic, fighting-based
+         show and call it "MANO A MANO"... it's the last of this
+         series of THIS MORNING WITH RICHARD NOT JUDY (12.15pm, Sun,
+         BBC2)... the clear inspiration for the Star Wars "trench"
+         bit at the end of 633 SQUADRON (3pm, Sun, ITV)... and, again
+         on satellite, we're hoping that the spin-off series of THE
+         NET (10pm, Sun, Sci-Fi) sees the Sandra Bullock character
+         having a different aspect of her identity erased each week,
+         with hilarious consequences... C5's sensationalist
+         barrel-scraping hits inevitable paranormal hokum STRANGER
+         THAN FICTION (8pm, Mon, C5), then, yet more imaginatively,
+         hospital docusoap A & E (8pm, Tue, C5)... the "Scared To
+         Death" season aptly continues with BODY DOUBLE (10pm, Mon,
+         C4), an erotic thriller - with Melanie Griffith! Aiieeee!
+         ... and chubby DJ Carl Cox presides over no-doubt
+         vastly embarrassing dance music show ACETATE (11.15pm, Mon,
+         BBC2)... following "Holding The Baby", Sally Phillips'
+         http://www.w2s.net/sally-phillips/ sitcom choices haven't 
+         improved, as she guests in KISS ME KATE (8.30pm, Tue,
+         BBC1)... and a brief spate of new shows on Thu, with
+         cookie-cutter Roddenberry alien nonsense EARTH: FINAL
+         CONFLICT (8.05pm, Thu, C5), Ben Miller/ Dennis Pennis
+         theatrecom COMING SOON (10.30pm, Thu, ITV), wacky barrister
+         style show SLAVE (11.30pm, Thu, C4) - and, most puzzlingly
+         of all, the new series of OZ (12midnight, Thu, C4),
+         inexplicably described by Radio Times as a "Sci-fi prison
+         drama"...
+
+         FILM>> yes, it stars a hacker, and it's kind of about VR,
+         but get over it: Keanu Reeves' thermodynamics-defying
+         talk-heavy effects-lite trenchcoat shoot-em-up THE MATRIX
+         (imdb: alternate-earth / cyberspace / shootout / martial-
+         arts / slow-motion / training / artificial- intelligence / 
+         computers / cyberpunk / men-in-black) takes the best bits 
+         of The Terminator, Total Recall, and They Live and pisses 
+         them up the wall - to the accompaniment of the soundtrack 
+         from Spawn and, in one pivotal action scene, shameful Brit 
+         techno-novelty act The Propellerheads... still, you're 
+         probably going to ignore us and go see it anyway, considering 
+         what it's up against: long-unawaited offbeat nomadic Pete 
+         Postlethwaite pylon-painting love story AMONG GIANTS 
+         (imdb: romance)... re-released elderly Michael Caine caper 
+         GET CARTER (imdb: thriller) - from the director of "Flash 
+         Gordon" and "Morons From Outer Space"... or Jimmy "Cracker" 
+         McGovern's typically upbeat domestic violence transplant 
+         horror HEART (imdb: UK) - not particularly based around the 
+         1988 Pet Shop Boys song - or the Seattle '80s girl-rock band 
+         - of the same name ( you know, the ones who had a hit with
+         http://stat.tamu.edu/~sherman/KEOS/lyrics/sartre.html )...
+
+         HARD LIT [ "buy now" links at http://www.ntk.net/books/ ]>>
+         yes, even we couldn't be bothered to get into the online price-
+         slashing for HANNIBAL (RRP 16.99 - yeah, right, Amazon 8.33),
+         when branches of WH Smiths were serving it up for just
+         UKP9.99... probably our closest to a half-price bestseller was
+         latest cyber-romance nonsense SINGLE WHITE EMAIL (RRP 6.99,
+         Amazon 5.59) - written by an Australian, which doesn't really
+         explain why it's not nearly as bad as all the dire previous
+         efforts in this ever-expanding genre... this month's token
+         goatee-stroker is Steve Beard's inappropriately named
+         "transmissions from the edge of style culture" compilation
+         LOGIC BOMB (RRP 10.00, Amazon 8.00), which nonetheless has one
+         of the good, early UK "otaku" articles - from a 1991 i-D...
+         fighting it out in London's remainder bins are Mark Leyner's
+         MY DREAM DATE WITH DI (RRP 6.99, Amazon 5.59, now 2.99), David
+         Foster Wallace's INFINITE JEST (RRP 9.99, Amazon 7.99, now
+         4.99), and - pick of the bunch - Nicholson "Vox" Baker's
+         hardback THE SIZE OF THOUGHTS (RRP 7.99, Amazon 6.39, now
+         4.99); hyper-focussed musings on model aircraft, card
+         catalogues, and, on p232, the funniest ever "CD-ROM reviewed
+         by trying to play it in a CD player"... but our "literally
+         unputdownable" recommendation goes - no, not to Terry
+         Pratchett's THE SCIENCE OF DISCWORLD (RRP 14.99, Amazon 8.99)
+         - but to the "authors inbetween" who've said "Let's all meet
+         up" in CTHULHU 2000 (RRP $12.95, Amazon 7.27); Bruce Sterling,
+         Kim Newman, Harlan Ellison etc pay largely effective 
+         contemporary tribute to HP Lovecraft's mythos, which, as
+         Jarvis Cocker feared, is indeed "strange" when they're all
+         "fully grown"... we close with NTK's resident Matrix apologist
+         pointing fans toward Neil Gaiman's spin-off story at
+         http://www.whatisthematrix.com/cmp/neil_g.html ... and our
+         admission that we haven't checked whether Neal Stephenson's
+         glaring attribution of Cap'n Crunch to General Mills from
+         "Disco 2000" http://www.scs.carleton.ca/~morin/misc/capn/ then
+         made it into the final draft of CRYPTONOMICON (RRP 12.99,
+         Amazon not in UK stock), when in fact Cap'n Crunch is, of
+         course, made by Quaker Oats. (Hey, Stephenson, crypto,
+         nitpicking and breakfast cereal - how could we resist?)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+http://www.the-times.co.uk/news/pages/Wednesday-Times/timintint01016.html?999
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

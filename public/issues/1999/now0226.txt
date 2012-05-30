@@ -1,0 +1,301 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-02-26_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+                                                                     
+         "...it was just the best fun ever. Keep your dreams alive,
+         your hearts open, and your hands on the keyboard... cuz even
+         on the web, Girls Do Rule!"
+                      - "games for girls" company PURPLE MOON signs off
+                                           (http://www.purple-moon.com)
+         ...and you know, after that summer, I was never the same again
+                                    
+                                    
+                             >> HARD NEWS <<
+                             garbled  adieus
+                                    
+         Sunday, and somewhere off the coast of Iceland, a Teleglobe
+         cable snapped like taffy. And while mostly everyone
+         blundered through with only a few DNS slowdowns, JANET, the
+         academic network, treated the damage as permanent, and
+         rooted around for some excuses. Could have happened to
+         anyone, of course (anyone who hadn't forked out for some
+         redundant backup), but there's a special irony for JANET
+         users, who have are among the few to pay a per-byte charge
+         for transatlantic data transfer. Guaranteed quality of
+         service - wasn't that the billing everyone gives for priced
+         bandwidth? 
+         http://www.teleglobe.com/media/index.html
+                            - Russian connectivity to MIRnet? Uh-oh...
+         http://www.ja.net/press_release/charging.html
+               - how come we never get student sit-ins for this stuff?
+         
+         Eagerly awaited PlayStation game METAL GEAR SOLID sneaks
+         into our British retail installations today, a sprightly 6
+         months after its Japanese release - and surely of interest
+         to anyone who hasn't already been forced to get a pirate
+         copy following Konami's grey import clampdown. We know the
+         game is supposed to take things cautiously, but this is
+         ridiculous: Sony blame "localisation" for the delay, but
+         were able to launch a complete English language version for
+         the US market within two months of the Japanese original
+         - a fact conveniently ignored by the Brit magazines that all
+         but pleaded with you to wait for the official UK one.
+         http://eagle.ca/~cadams/mgsout.html
+         - yeah, admittedly, there's NTSC to PAL recoding in there too
+         http://www.consolecity.com/metalgear/fanart.htm
+          - but the art still looks like those terrible Zzap!64 covers   
+            that were done by a relative of the publisher or something
+                                                                      
+         And draconian Euro ISP-bashing is one thing, but when it's
+         combined with hilarious mistranslation humour, how *could*
+         we resist? THE REGISTER reports that Valentin Lacambre,
+         owner of French webspace provider Altern.Org, has chosen to
+         "return his apron" after legal actions taken against him for
+         copyrights infringed by members' pages, including nude pics
+         of model Estelle Halliday. A typically gallic tiff over a
+         beautiful woman, perhaps: Lacambre's Babelfish-translated
+         statement swiftly descends into a heart-rending description
+         of how his 48,000 accounts will either have to "go
+         disparaitre" or "transform itself into bibendum advertising
+         elsewhere". Though oddly, when you go to his site, his
+         English isn't that bad...
+         http://195.89.1.232/990225-000010.html
+              - is that why don't they link to http://www.altern.org ?
+         http://www.ntk.net/aus/
+            - meanwhile some Aussie ISPs want more than just caller ID
+                                    
+                                    
+                             >> ANTI-NEWS <<
+                          berating the obvious
+
+         new BRITNEY SPEARS album includes "godawful ballad" titled
+         EMAIL MY HEART... http://www.lloydsbank.co.uk won't let you
+         use numbers or symbols in password... this week's pointless
+         email campaign: http://www.bpm.ai/~sameer/ - but don't go too
+         far: http://www.imrg.org/survey/questions/virgin.htm ...
+         maddest Y2K quote: "The DNS serial number is the key to the
+         problem, as many dates only use six digits to represent the
+         year in a byte with eight digits, the other two digits being
+         used to represent a negative or positive number. This means
+         that in 2000 several years will disappear, as they will no
+         longer exist" ("INS", NetworkNews) *or* "In the year 2000,
+         your computer will literally go back in time 100 years!" (BBC
+         kids' show "Short Change")... why are ISPA's press releases
+         always the worst formatted?... average monthly wage for
+         trainee coder in Moldova: UKP10... webmaster at
+         http://www.elonex.co.uk might not have spotted that
+         http://www.gvsystems.com/home/ took his gifs, till the
+         borrowed links showed up in his referrer logs...
+                                    
+                                    
+                            >> EVENT QUEUE <<
+                      goto's considered non-harmful
+                                    
+         Last we checked, Michael Moore's "culture jamming workshop"
+         at Channel 4 (Tue 1999-03-02, UKP10) was all sold out and,
+         let's face it, Jerry Springer "ringmastering" the stuck-up
+         weirdos at the Oxford Union (also Tue 1999-03-02, 8.30pm)
+         could get a bit *too* freaky. Fans of the adage "When I hear
+         the word 'culture', I reach for my gun" are instead directed
+         to Chris Burden's WHEN ROBOTS RULE: THE TWO MINUTE AIRPLANE
+         FACTORY at the (ahem) Tate Gallery, London SW1 - a "fully
+         automated assembly line manufacturing rubber-band-powered
+         aeroplanes from tissue paper, plastic and balsa wood". The
+         guy appears to be for real, a cross between Tim "The
+         Rudiments Of Wisdom" Hunkin and William "oops I just killed
+         my wife" Burroughs: his previous works include standing in
+         an art gallery and getting a friend to shoot him in the arm.
+         Entrance (from Tue 1999-03-02) is free; assistants will be
+         catching the planes as they're launched and selling them to
+         punters for UKP5. And at least if you happen to get in the
+         way, there's less muzzle velocity this time.
+         Michael Moore info: bcu@spanner.org, voice: 0171 247 8881
+                 - you could always stand outside dressed as a chicken
+         http://www.oxford-union.org/
+            - not quite the voice of the disenfranchised working class
+         http://www.ntk.net/planes/
+                 - anyone know what happened to that lego car factory?
+                                                                      
+         We're always skeptical of events claiming to be "the biggest
+         thing to hit the European Quake scene" (that would be
+         "puberty", surely?) but we're assured that EUROQUAKE - The
+         "defacto European Quake Championships" are the real deal.
+         The actual UK team, not some goofs off Wireplay, will be
+         taking on Clan 9, who took down Thresh's clan, Death Row,
+         and it's all on LAN, so no whingeing about international
+         ping time.
+         http://www.theplayingfields.co.uk/home/990220-08.htm
+           - no moaning about the puberty joke, either. Where's yAARGH
+                                       
+                               
+                           >> TRACKING <<
+                    look what the mouse dragged in
+                                    
+         Until recently, if you wanted a Windows secure shell
+         connection to your Unix box, correct medicinal procedure was
+         to download the official Data Fellows software, use it until
+         the trial period expired, try to crack it, fail, then give
+         up and install Linux. Nowadays, even that doesn't work,
+         because those same fellows of Data are trying to encourage
+         everyone to upgrade to their new SSH2 protocol (special
+         powers include ultra-secure complete-incompatibility-with-
+         the-ssh-your-Unix-box-uses mode), and only the most
+         outrageous warez dudes can find their original, working,
+         software. Thus, the sudden renaissance of TERATERM PRO, an
+         ancient Windows terminal program that has the singular
+         advantage of having an ssh plug-in. Okay, it's not new,
+         exactly, but one day soon you'll need to find it, and
+         careful observers will note that no new software has been
+         invented since Netscape 1.1N. And even that was just
+         Hypercard with a glowing 'N', right?
+         http://www.zip.com.au/~roca/ttssh.html
+             - caution, Americans! RSA don't want our stinking foreign
+                                                      code in your PCs
+         http://hp.vector.co.jp/authors/VA002416/teraterm.html
+                       - Japan, too. Smacks of World Government to me.
+                                    
+                                    
+                             >> MEMEPOOL <<
+                           hasta la altavista
+                                    
+         EBAY's lucrative slave-trade: http://208.169.218.91/kids.html
+         ... this stuff gives us a headache: http://www.hedweb.com/ ...
+         new KFC ad set in heart of rival franchise territory,
+         SHEPHERD'S BUSH... justify that most tempting bugfix of all:
+         http://til.info.apple.com/techinfo.nsf/artnum/n58272 ...
+         AMAZON files Michael Marshall Smith's "One Of Us" under
+         "Family & Health"... this week's monkey-themed Brit ONION
+         http://www.gorillagorillagorilla.freeserve.co.uk/ ... forget
+         "steps", it's the EMACS workout: http://www.bilbo.com/ (to
+         http://www.broadcast.com/shows/loosebrucekerr/Y2K/ ?)
+         ...subscribing to http://slab.org/void.html and checking
+         headers - higher X-MAILER to Outlook/AOL ratio, the better...
+         filth *everywhere*: http://www.global-image.com/eXonizer/ ...
+         http://www.boxing.com/live-event/delahoya-quartey/round_0.html
+                                    
+                                    
+                            >> GEEK MEDIA <<
+                              get out less
+                                    
+         TV>> THE NEW ADDAMS FAMILY (5.40pm, Sat, ITV) will really have
+         to try to be as bad as The New Munsters ("We went to sleep
+         many years ago/ Now we're back with a brand new show!")... the
+         phrase CRIMSON TIDE (9pm, Sat, ITV) makes useful shorthand for
+         any office authority face-off situation, we find... "Make
+         Room! Make Room!" on your video for dullish Harry Harrison
+         Charlton Heston future euthanasia weepie SOYLENT GREEN (9pm,
+         Sat, C4)... apparently there's a massive Dr Who subtext in
+         repeated new gay soap QUEER AS FOLK (11.15pm, Sat, C4)...
+         4LATER is, perhaps unsurprisingly, "on drugs" (from 12.30am,
+         Sat, C4), featuring THE TRIP (2.50am, Sat, C4): space techno
+         footage compiled by the guy who does the club page in some
+         editions of The Guardian Guide, plus timeless student-pleaser
+         THE CLANGERS (3.25am, Sat, C4)... otherwise provide your own
+         MST3K comments for BBC1's showing of TERROR FROM THE YEAR 5000
+         (1.45am, Sat, BBC1)... just after DWEEBS, LABYRINTH (2:55am,
+         Sun, C4) is a black and white Czech movie - and not the Bowie
+         Muppet-fest of the same name... Christian Slater is oddly
+         proud of his work in teen pirate DJ romp PUMP UP THE VOLUME
+         (10pm, Mon, C4) - oh dear... and NTK ed Danny O'Brien
+         inexplicably pops up presenting wacky new weekend travelogue
+         DOORS TO MANUAL (8.30pm, Wed, C4) - he assures us that the
+         title is what they say on planes when they land, and not a
+         Trek reference at all... the political comedy continues with
+         MICHAEL MOORE: THE AWFUL TRUTH (10.30pm, Wed, C4) - hopefully
+         TV Nation in all but name... followed by past-its-sell-by-date
+         MARK THOMAS COMEDY PRODUCT (11pm, Wed, C4)... complemented by
+         Sly Stallone's one-man eviction of the Russians from
+         Afghanistan in RAMBO III (10.10pm, Wed, C5)... oh, and there's
+         obviously an echo when you're standing on the hastily
+         scheduled EDGE OF ETERNITY (1.45pm, Fri, C4) - Radio Times
+         lists it as: "to come come come come come come come come come
+         come come"...
+         
+         FILM>> you've guessed it, Nora Ephron's low-tech cyber-romance
+         YOU'VE GOT MAIL (imdb: internet / new-york / bookstore ) is
+         indeed packed with sappy soppy stupidity that only an AOL user
+         could love. And *what is* shameful-looking Tom "rhyming slang"
+         Hanks fiddling with under the table in the ubiquitous press ad
+         and poster?... UL reference-spotting, Alicia Witt (Cybill's
+         sarcastic daughter), and "inventive death scenes" are the
+         memorable bits of latest production-line Scream-alike URBAN
+         LEGEND (imdb: serial-killer / teen / urban-legend / splatter)
+         - better than I Know What You Did Last Summer, if only 'cos
+         the killer wears a giant Adrian Mole-style coat... along with
+         George Clooney, John Travolta, and the rest of the world,
+         Jared Leto also appears for a minute or more among the near-3
+         hours of determinedly unconventional great-looking dreamy
+         nature-parable photo-poem THE THIN RED LINE (imdb: based-on-
+         novel / wwii), believed to be the first arty war flick for
+         chicks. Shame Krzysztof "Three Colours" Kieslowski isn't
+         around any more - what with this and Errol Morris's 1998
+         miscarriage of justice docu The Thin Blue Line
+         (unsatisfactorily adapted into Ben Elton's 1998 sitcom), he
+         could have finished off the whole epically wide-ranging
+         trilogy...
+         
+         MAGS>> we're enjoying our free subscription to INTERNET.WORKS
+         http://www.futurenet.com/internetworks/regcard.asp enormously
+         - where else can you learn that WebObjects were designed by
+         the ever-prescient Steve Jobs in "the 1980s" (p33), and that
+         "over 8000 orders were taken [by UK AOL ecommerce] during the
+         Christmas period, with an average cost of UKP35 per item. The
+         total amount taken has yet to be calculated but it will
+         certainly be in the millions" (editorial, p5). Almost exactly
+         UKP 0.28m, according to those figures and a grasp of basic
+         multiplication... despite a cover featuring Lara "Annabel"
+         Croft and being racked with the games mags in some newsagents,
+         ACE *isn't* the return of "Advanced Computer Entertainment"
+         that your father might recall, but rather a games/footie/etc
+         mag that's "great for boys" - great for boys whose mums won't
+         let them buy Front, perhaps... the "Music For The Rollcage
+         Generation" music CD on the front of PLAYSTATION POWER crams
+         12 Peel Show-standard drum and bassy bits into its
+         disappointing all-one-track 27-minute runtime. Still, unlike
+         OFFICIAL PLAYSTATION MAGAZINE, at least the mag isn't half-
+         written in bad fake Japanese English, nor does it devote its
+         letters page to patronising its - apparently numerous - 12
+         year-old readers... issue 7.03 of WIRED completes its decline
+         into a new-jobs-list for men in suits, pix of the hottest new
+         desktop calculators, and fashion spreads of models dressed in
+         fanfold paper. Only reason to buy is Chuck D promising to
+         "ride the MP3 like a mutha-fuckin' cowboy" - "if you pirate
+         something of mine, I just have to make sure to do nine or ten
+         new things. I mean, you can't download me". There. Saved you
+         four quid... sadly, after they were so nice to us last month,
+         the new EDGE is largely tolerable, interviewing self-made DMA
+         games theorist Gary Penn, plus a bland Amiga retrospective.
+         Don't know the difference between Dune and Dune 2, though
+         (p55)... and the early ardour of "ENTERTAINMENT" HEAT now
+         seems to have cooled - apparently banned from reading (and
+         scooping) EMAP's monthlies, they seem to be seeking
+         inspiration elsewhere: http://www.ntk.net/heat/ . They do,
+         however, remain in the running for "Poorest Video-Grabs In A
+         Mass-Market Publication", going on to meet the winner of RADIO
+         TIMES vs TOTAL FILM...
+                                    
+                                    
+                            >> SMALL PRINT <<
+                                    
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "most important [wrong URL]".
+                      (Computer Weekly's "Alan Smithee")
+
+                                NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                           but retain SMALL PRINT.
+
+               Tips, news and gossip to tips@spesh.com. Cheers.

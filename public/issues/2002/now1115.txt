@@ -1,0 +1,234 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-11-15_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                                >> HARD NEWS <<
+                                 absent acutes
+
+         The new edition of the Shorter OED came out too early (or
+         too late) to include medireview, the Yahoo-generated
+         alternative to medieval [NTK 2002-07-12]. We have higher
+         hopes for the next edition and "risumi" - a new autocoinage
+         spotted by Jeremy Ardley and still, it would seem, growing in
+         popularity. A "risumi", word fans, is a special kind of
+         "resume" that has been written with a ISO-8859-1/14 character
+         set and then sent through a mailer that drops the high bit.
+         Lowercase e with an acute accent, minus the top bit, turns
+         into an "i". Hence, risumi. Our favourite citation for the
+         new dictionary entry: an article by Peter Kaufman, "creative
+         strategist" at clickz.com, who confidently declares "Why
+         would anyone hire a person with spelling errors in a
+         document? Several risumis I've seen over the years have had
+         spelling, grammar and syntax errors that would make you
+         either laugh or cry". Coincidentally or not, Kaufman's piece
+         is now the highest hit on Google for the neologism. How
+         diclassi.
+         http://www.clickz.com/article.php/838241
+                                                             - touchi
+         http://www.google.com/search?q=risumi
+                     - google translates 621 pages into South African
+
+         Obviously we're suspicious of whether AMAZON.COM APPAREL have 
+         made their recommendations exceptionally bizarre in a bid to 
+         get viral publicity for the launch of their spinoff clothing 
+         store. Nonetheless, many of you felt their winter wardrobe 
+         suggestions worthy of comment, from the hint of e-shopping 
+         nudity in the tagline "Customers *who wear clothes* also shop 
+         for:" (our emphasis), to the fact that, presumably due to 
+         insufficient sample data, it regularly proposes a fetching 
+         ensemble consisting of "Clean Underwear, Ladybug Rain Boots, 
+         Suede Headwraps and Cheetah Print Slippers", for all the more 
+         adventurous Rod Stewart impersonators out there. In fact, it 
+         advises a purchase of "Clean Underwear" to go with pretty much 
+         everything (is "Used Underwear" also an option?) - including, 
+         as reader JONATHAN BEESTON soon discovered, the unexpectedly 
+         apposite title, "Overcoming Incontinence: A Straightforward 
+         Guide To Your Options".
+         http://www.ntk.net/2002/11/15/dohpants.gif
+                - those "Ladybug Rain Boots" could also come in handy
+         http://www.ntk.net/2002/11/15/dohuse.gif
+           - cashmere top, clean pants, and no trousers: a look which 
+                               is *never* going to go out of style...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         probably not the kind of "attracting girls to IT" that they 
+         had in mind: http://www.ntk.net/2002/11/15/dohbpi.gif - but 
+         then again: http://www.ntk.net/2002/11/15/dohinout.gif ... 
+         slightly more exotic double-entendre GOOGLE MISSPELLINGS: 
+         http://www.google.com/search?q=%22thrust+me+on+this%22 , plus 
+         "retart your computer", "bridget jones dairy" - making up for: 
+       http://www.empireonline.com.au/new/html/home/content.html#bjones
+         ... hit "click to enter" - and it 404s, "at the speed of 
+         thought": http://www.microsoft.com/billgates/book/ ... hello? 
+         Brighton Uni? I think I've found three faults all on one 
+         page: http://www.brighton.ac.uk/is/faults.shtml ... your 
+         shtoopid English names are UNACCEPTABLE, barks the German: 
+         http://www.ntk.net/2002/11/15/dohte.gif ... why he's called 
+         "Rabbit"?: http://www.ntk.net/2002/11/15/dohhop.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Chris's MORRIS and CUNNINGHAM - together at last! - at this 
+         weekend's digital and lowtech film festival RESFEST (from 
+         today Friday 2002-11-15, various London venues, from UKP7.50 
+         per showing) - a great opportunity to catch the state of the 
+         art in pop videos for anyone who doesn't have MTV2. Somewhat 
+         less disturbing entertainment should be available in the form 
+         of gangling NTK fellow-traveller BEN MOOR, whose whimsical 
+         pseudophysics odyssey A SUPERCOLLIDER FOR THE FAMILY bounces 
+         around the Chaplaincy Centre, Bath (7.30pm, next Friday 2002-
+         11-22, UKP5) - email su1fish@bath.ac.uk to reserve your 
+         tickets today.
+         http://www.resfest.com/cities/london.html
+                 - is this different to "onedotzero"? And if so, how?
+         http://www.bath.ac.uk/~su1fish/
+                     - aka "Brian O'Green" in "Time Gentlemen Please"
+         http://www.koerperwelten.com/en/aktuelle.htm
+            - on Wed: live human autopsy at London's Body Worlds show
+         http://dorkbot.org/dorkbotlondon/
+               - plus: advance notice of DorkBot December spectacular
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         OS X developers must sometimes feel like the early American
+         colonists (oh yes they must). Under the guide of good King
+         Steve, they bravely build on the very edges of the known
+         world - only to have a bunch of laughing natives slinking
+         through every Winter and plundering their stores of new
+         ideas to use on their Free Unix teepees. Next up, we hope,
+         for booty, is the Mac's genius (and $20) LaunchBar app. With
+         LaunchBar installed, OS X's surprisingly bad keyboard
+         accessibility is cured. It's a menubar app which keeps a
+         list of all the popular appplications, documents, and
+         bookmarked URLs on your machine. To reach any of them, you
+         just hit ALT-<SPACE> then the first few letters of the title
+         you want. With a bit of training (it learns from your
+         choices), it's not long before you wish that every OS had
+         this - and wonder when Gnome and KDE will get the feature.
+         http://www.obdev.at/products/launchbar/
+ - we may have got American history mixed up. The natives won, right?
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         Aussies not as "up for it" as popular stereotype makes out: 
+         http://www.ananova.com/news/story/sm_700109.html ... BUSH 
+         counts "millions of peaceful-loving Muslim Americans": 
+http://www.reuters.com/news_article.jhtml?type=topnews&StoryID=1734219
+         ... slightly harsh description of popular kids' character: 
+     http://www.washingtonpost.com/wp-dyn/articles/A57430-2002Nov15.html
+         ... Radio 1 claim "100th Window" = "threat of internet piracy": 
+     http://www.bbc.co.uk/radio1/news/altnews/021114_massiveattack.shtml
+         - though the book of the same name seems to suggest otherwise: 
+         http://www.amazon.co.uk/exec/obidos/ASIN/068483944X/ ... so, 
+         how's my driving?: http://www.changingtheclimate.com/ ... 
+         browser games which don't need the latest Flash plugin: 
+         http://kisrael.com/features/gb.html ... when ANTI-AUDIOPHILES 
+         STRIKE BACK: http://home.cfl.rr.com/happysurfer/audio_bs.htm 
+         ... ORWELL by name: http://www.orwellpolice.com/Crimetip.htm 
+         vs http://www.easycar.com/eng/core/nossl/OverdueCars.asp ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the stealth bomber's special "passengers" configuration 
+         is unveiled by in-flight "Die Hard" romp EXECUTIVE DECISION 
+         (8.55pm, Fri, ITV)... "there's more" to Isaac Newton than just 
+         the Principia Mathematica, argues GREAT BRITONS (9pm, Fri, 
+         BBC2)... and Z-list celebrities murdering pop standards is the 
+         theme of the week in what seems to be most of BBC CHILDREN IN 
+         NEED (7pm-2am, Fri, BBC1), SONGS OF BOND (9.15pm, Sat, ITV), 
+         THE UK'S OFFICIAL 100 BESTSELLING SINGLES (9pm, Sat, C4), and 
+         CELEBRITY BIG BROTHER (9pm, Wed, C4)... there's a rare chance 
+         to see the first two episodes in a double bill of THE NORM 
+         SHOW (3.55am, Sat, C4)... porn star Kobe Tai avoids 
+         typecasting by playing a prostitute in botched stag night 
+         black comedy VERY BAD THINGS (10pm, Sun, C4)... and director 
+         Danny Cannon's thirst for justice served him well as he went 
+         on to direct and produce CSI: CRIME SCENE INVESTIGATION (9pm, 
+         Sat, C5) a few years after JUDGE DREDD (10.55pm, Sun, BBC1)... 
+         it's unclear whether NTK t-shirts form part of Violet Berlin's 
+         cute new outfit in GAME-PAD 3 (4.30 & 7.30pm, Mon-Fri, 
+         Bravo)... "Alistair McGowan's Big Impression" impersonation 
+         DEAD RINGERS (9pm, Mon, BBC2) is only loosely based on the 
+         David Cronenberg gyno-horror film of the same name... the 
+         fruits of C4's "digital animation scheme" are premiered in 
+         MESH (7.55pm, Mon-Thu, C4)... and GROUNDHOG DAY (9pm, Mon, C5) 
+         gets its third terrestrial showing this year, aptly enough... 
+         Channel 5's late-night schedule becomes increasingly self-
+         referential in masturbation docu HISTORY OF SELF-PLEASURE 
+         (11.40pm, Mon, C5) - not to be confused with controversially 
+         weird Bjork musical DANCER IN THE DARK (11.40pm, Mon, C4)... 
+         as the Guardian Guide usually puts it, Dirty Harry encounters 
+         some cops even more right-wing than he is in MAGNUM FORCE 
+         (9pm, Wed, C5)... bookmark the new location for that site on 
+         how CONTACT (8pm, Thu, C5) - and Morrissey - predicted Diana's 
+         death: http://home.cogeco.ca/~veganmozfan/part3.html ... while 
+         Adam Buxton and Alice "Garth Marenghi" Lowe play struggling 
+         rock stars in COMEDY LAB: THE LAST CHANCERS (11.40pm, Thu, 
+         C4)... 
+         
+         FILM>> if you don't mind Moore's overbearing manner and the 
+         terrible poster tagline ("Are they a nation of gun nuts or 
+         just nuts?"), then hire your shoes for BOWLING FOR COLUMBINE 
+       ( http://www.screenit.com/movies/2002/bowling_for_columbine.html : 
+         Marilyn Manson wears makeup that includes a black stripe 
+         across his face; we see some women in skimpy swimsuits [...] 
+         holding various guns; some may view Moore as having a bad 
+         attitude for his apparent liberal approach and anti-gun agenda 
+         with the film)... that pesky Internet Movie Database said it 
+         was out a month ago, but this week appears to be the real 
+         release for gross-out stoner police slapstick SUPER TROOPERS 
+         ( http://www.screenit.com/movies/2002/super_troopers.html : 
+         two local cops answer a call about a man having sex with a 
+         bear)... and even professional movie reviewers seem to be 
+         having difficulty distinguishing between the previous film 
+         http://www.ntk.net/2002/11/15/dohpotter.gif and the somewhat 
+         Freudian-sounding HARRY POTTER AND THE CHAMBER OF SECRETS 
+         ( http://www.bbfc.co.uk/ : contains mild language and horror, 
+         and fantasy spiders)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                              "ZDNet's top mp3z"
+        http://techupdate.zdnet.co.uk/story/0,,t481-s2125586-p2,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

@@ -1,0 +1,249 @@
+ _   _ _____ _  __Issue [0.3]b 09/05/97
+| \ | |_   _| |/ /_ __   _____      __ o We heard you. TV zapped, news
+|  \| | | | | ' /| '_ \ / _ \ \ /\ / / o tweaked. One more beta to go.
+| |\  | | | | . \| | | | (_) \ V  V /  o WE WANT YOUR MAIL, BLOOD, SOUL
+|_| \_| |_| |_|\_\_| |_|\___/ \_/\_/   o Hassle us at tips@spesh.com
+
+
+              "Out of sheer morbid curiosity, I'm allowing this
+              freakshow to continue."
+                                              - Judge, LIAR LIAR
+
+
+                               >> HARD NEWS <<
+                                is good to find
+
+              BSKYB, BRITISH TELECOM, MATSUSHITA and the
+              MIDLAND BANK are co-operating in the latest
+              attempt to bring exciting old interactive TV to
+              the UK. BRITISH INTERACTIVE BROADCASTING LTD
+              (BIB) has pooled 265 million pounds to create the
+              infrastructure for the service, which will be
+              accessed by a combined digital satellite receiver
+              and modem. The price of the end unit is to be
+              discounted by the venture from c.500 to 200UKP.
+              Most papers greeted the announcement as a new
+              dawn of iTV and cheap Net access; others noted
+              that somehow Murdoch has got three other
+              companies to subsidise his set-top standard.
+              http://www.bib.co.uk (not that there's anything there)
+
+              IOMEGA made a batch of faulty Jaz disks, and it's
+              a-calling them home. The 1GB disks can cause data
+              loss if used. IOMEGA estimate as many as 50,000
+              may have slipped through the net. If you bought a
+              cartridge after March 24th, you too may be a
+              winner of a free replacement - check link below
+              or local papers for details.
+              http://www.iomega.com/company/news/newsjaz/jazdisk.html
+
+              TELEHOUSE, and thus most of the UK Internet
+              blinked out of existence lunchtime Thursday
+              (8/5/97) when a power surge took out machines on
+              at least two floors of the Docklands building.
+              Equipment affected included most of the LINX
+              local area network, which carries most inter-ISP
+              traffic in the UK. The system was back online
+              after ten minutes, but everyone trading shares at
+              the time went instantly bankrupt.
+              http://www.linx.org
+
+              SKY STATION (no relation) has been given a
+              tentative go-ahead by the US FCC to create a
+              network of permanently hovering, STRATOSPHERIC
+              COMMUNICATION BALLOONS. The airships are about
+              140m long, weigh 10,000kg, are powered by solar
+              panels, and should provide wireless 64bps
+              connectivity in urban areas "for a few cents per
+              minute". The balloons are to be manufactured by
+              UK company LINDSTRAND BALLOONS LTD. Unconnected
+              safety note: Lindstrand also built the Virgin
+              Global Challenger. Watch the skies!
+              http://www.skystation.com/
+
+              Good news for lovers of freedom of speech *and*
+              hyperliterate amateur publishing white-trash....
+              Bellingham-based NEWSTAND INTERNATIONAL, who were
+              sued last year for selling the seminal hate zine
+              ANSWER ME! have finally been awarded $1.3 million
+              in damages by a Seattle civil court. Maybe
+              that'll make it easier to buy the excellent
+              ANSWER Me! softback collection over here. "For
+              us, mass murder isn't the problem, self-
+              righteousness is."
+              http://www.spr.org/docs/answer-me.html
+
+              On the other hand, maybe mass murder is the
+              solution. The 5/5/97 WALL STREET JOURNAL reported
+              that a 45-year old technical support employee is
+              being sued by his ex-company so that they can
+              obtain "a software idea he has in his head". DSC
+              Communications Corp of Texas fired Evan Brown
+              after he failed to tell them his idea for
+              converting programs written in old languages into
+              new code. Three days later the company filed suit
+              to get him to disclose details. Mr. Brown,
+              reports the paper "hasn't written down his
+              thoughts or created a working model."- he's not
+              even sure it will work. Time for that second
+              round of investment then.
+
+
+                               >> ANTI-NEWS <<
+                           picture our astonishment
+
+              Over 9m Americans leave Internet, claiming it's
+              "difficult to use and lacks useful content"...
+              Bug in PentiumII... Borland sues Microsoft for
+              unfair practices... Larry Ellison *not* to buy
+              Apple after all... Polish cabinet hacked... New
+              bug in Explorer... losses mount at General
+              Magic... intensive Net research reveals Paul
+              McCartney popular, people curious about Royals...
+              WINTEL DOMINANCE COULD END BY 2002 says Infoworld
+              headline...
+
+
+                                >> CULTURE <<
+
+              TALK WITH PHIL ZIMMERMAN! FIND OUT THE FACTS! BE
+              A GOOD NETIZEN! Come to "SCRAMBLING FOR SAFETY:
+              Privacy, security and commercial implications of
+              the DTI's proposed encryption policy for the
+              United Kingdom", an all-day, all-star forum at
+              the LSE on MONDAY 19/5/97. Speakers include
+              Zimmerman, Ross Anderson, Simon Davies, Alistair
+              Kelman and the truly scary Professor Ian Angell.
+              RSVP to get a place: details from Gus Hosein at
+              gus@uk.pi.net. Tel: +44 (0)958 466 552
+              http://csrc.lse.ac.uk/csrc/csrchome.htm
+
+              The third ACCESS ALL AREAS, the UK Hackers' - uh,
+              security consultants' - Conference has been set
+              for SATURDAY 5/7/97. Details sketchy at the
+              moment, for obvious reasons: join the mailing
+              list to find out more. Your NTK eds will be
+              speaking again, probably on the moral necessity
+              to pirate all software. Or did we nick that idea
+              from Stallman? Ah, who cares. Info at:
+              http://www.access.org.uk
+
+              SCI-FI's prestigious Hugo Award nominations are
+              in. Among the chosen are Bruce Sterling's HOLY
+              FIRE, Kim Stanley Robinsons' BLUE MARS, and a
+              whole stack of books which you must get round to
+              reading. Full list via the inevitable winner of
+              best fanzine, Dave Langford's ANSIBLE:
+              http://www.dcs.gla.ac.uk/SF-Archives/Ansible/a118.html
+
+
+                                >> TRACKING <<
+
+              Beta four of NETSCAPE Communicator slouches
+              toward Mountain View to be born. Features:
+              http://home.netscape.com/eng/mozilla/4.0/relnotes/
+              All 8MB minimum of the rough beast at:
+              ftp://ftp12.netscape.com/pub/communicator/4.0/4.0b4/
+
+              MACROMEDIA has released Authorware 4, its point
+              'n' click Web, CD-ROM and Kiosk development
+              package. The new version supports embedded
+              Shockwave, ActiveX controls and ODBC. Warez dudes
+              and corporate buyers please make your way to:
+              http://www.macromedia.com/software/authorware/00_main.html
+
+              The May NETCRAFT survey on Web servers is out.
+              Microsoft IIS is now way ahead of Netscape, and
+              catching (slowly) up with the free Apache.
+              http://www.netcraft.co.uk/survey/
+
+              Three new freebies from the MICROSOFT charitable
+              instition may tickle your COMMUNITY AND CHAT
+              bones. NETMEETING 2.0 is the update of Gates'
+              conferencing software, with full duplex audio and
+              industry standard video. Also updated is
+              Microsoft's IRC client, previously known as COMIC
+              CHAT. "Calmed down" might be a summary of the
+              change there. And if you're developing chat areas
+              on your site, the new ACTIVEX CHAT CONTROL may be
+              what you need - an IRC client that runs from a
+              Web page.
+              http://www.microsoft.com/netmeeting/
+              http://www.microsoft.com/ie/comichat/
+              http://www.microsoft.com/ie/ie3/chatcontrol.htm
+
+
+                                >> MEMEPOOL <<
+                           REPEAT idea UNTIL false
+
+              cybercafes in hospitals... geek golf... ultra-
+              violent petsims... cyberpunk dead, "Bioslackers"
+              in... return of Tcl... product-placing
+              chatbots... Next is Apple UNIX : unfortunately,
+              UNIX is next Apple... "earnet"=telephone...
+              briefly cool again: Newtons! Pynchon! Both!
+
+
+
+                               >> MO' MEDIA <<
+               fresh from the military-industrial-entertainment
+                                   complex
+
+              TV HIGHLIGHTS: Anne Robinson exploits her
+              remarkable resemblance to a middle-aged Tasha Yar
+              to expose rip-off Star Trek conventions in
+              tonight's WEEKEND WATCHDOG (7pm, Fri, BBC1)...
+              Top Gear's Quentin Willson introduces BBC2's new
+              Saturday morning MENZONE (10.30am, Sat, BBC2):
+              over an hour and a half of _male interest_
+              featuring, er, Top Gear, a business programme and
+              Tony Hancock repeats... Frank Drebin returns in
+              NAKED GUN 2.5 (8pm, Sat, BBC1) fighting an
+              attempt to assassinate an ecological adviser to
+              George Bush. Not as good as the first Naked Gun
+              but, then again, what is?... Carol _Countdown_
+              Vorderman hosts the hilariously titled IT
+              literacy strand COMPUTERS DON'T BITE (7.30pm,
+              Mon, BBC2)... a pun rivalled only by THE LYING
+              GAME (10.20pm, Thu, BBC1) in which Angus Deayton
+              investigates the art of deception. Allegedly...
+
+              MOVIES: Apparently jungle snake-hunt ANACONDA
+              (Jon Voight, Eric Stoltz, Jonathan Hyde, Jennifer
+              Lopez, Ice Cube) is nonsense, but good
+              nonsense... while CRYING FREEMAN (Mark Dacasco,
+              Rae Dawn Chong) is a live-action adaptation of
+              the popular manga/anime series about an assassin
+              with a sensitive side (he gets his name from his
+              habit of weeping for his victims). Draw your own
+              conclusions...
+
+              MUSIC: Gillian _X Files_ Anderson mutters semi-
+              erotically through the new single from Hal,
+              EXTREMIS, which is actually a reworking of the
+              theme from the BBC TV show she presented, Future
+              Fantastic...
+
+              GAMES: On PlayStation, SOUL BLADE -conversion of
+              Namco's acclaimed beat-`em-up-with-extra-
+              swordfighting... X-WING VS TIE FIGHTER on PC -
+              latest in long line of Star Wars themed space
+              combat sims (probably more fun than YODA STORIES,
+              also out today)... and all you sickos with Atari
+              Jaguars with CD drives, don't miss IRON SOLDIER
+              II...
+
+
+                              >> SMALL PRINT <<
+
+      We're so in Beta it's untrue. Send bugs, fixes to tips@spesh.com.
+
+      NTKnow is the weekly bulletin of the British School of Dentistry.
+      Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body. 
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+NTKnow is sponsored by VIRGIN MEDIA and VENUS INTERNET. They worry about
+                      us, but we don't worry about them.
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com
+

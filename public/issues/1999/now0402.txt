@@ -1,0 +1,313 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-04-02_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+                    
+         Cloning, genetic modification and exposure to radio energy 
+         have good safety records and histories spanning 100 to 500 
+                                                      million years.
+                        - PETER COCHRANE, Daily Telegraph, 1999-03-25
+         ... yeah, Monsanto and the Illuminati go back a *long* way...
+  
+
+                                >> HARD NEWS <<
+                                  april fewls 
+
+         Remind us which stories were the April Fools again? Eric S
+         Raymond complaining of *too much exposure*? USER FRIENDLY,
+         BEDOPE and SEGFAULT closing due to legal threats (we were
+         going to join in on this joke, but after receiving three
+         legal notices this week, we want to save the shutdown e-mail
+         for when we really need it); NEAL STEPHENSON writes a 35,000
+         article extolling... BeOS?; JWZ quits Mozilla the day before
+         its birthday (he's still kidding us, right?); the DTI's
+         "Electronic Envoy" competition result postponed "due to
+         Yugoslavian conflict" (Slobodan was in the running?). Our
+         pick, though, has to be this whole Melissa virus story.
+         Let's see - MICROSOFT closes down external e-mail due to
+         rogue Word Macro trojan; FBI track down author thanks to
+         revious "unique Ethernet ID code stored in Word document"
+         goof. So, Gates is the hero of the day because his company's
+         software has too many bugs? Oh, that's just too good...
+         http://www.tuxedo.org/~esr/writings/take-my-job-please.html
+         - if you do resign, can we have the "Open Source" trademark?
+         http://www.perl2000.com/Webmaster/Support/
+                                              - hey, what's so funny?
+         http://www.io.com/~mccoy/beginning_print.html
+                                       - or "Why God created Editors"
+         http://www.well.com/user/neal/cypherFAQ.html
+                       - this could delay the export edition... 
+         http://catless.ncl.ac.uk/Risks/20.26.html#subj9
+                              - Outlook & Word vs Evolution in Action
+
+         He's supposed to be "outrageous", but some viewers felt
+         GRAHAM NORTON took this a bit far when he rang up the
+         surprised "owner" of a glove fetish page on his TV show this
+         week and explained [exact wording]: "We emailed to the
+         people who put up your site and they gave me your number" -
+         surely violating even GeoCities' standards of data
+         protection privacy? Well, not if the guy they spoke to -
+         the plausible-sounding "keith@geocities.com" - doesn't
+         actually exist. Dedicated porn-surfers here at NTK soon
+         found a remarkably similar glove page, differing only in
+         background graphic, contact details and lack of pic of Joan
+         Collins. The creator of this page denies all knowledge of
+         the show, leaving the obvious post-Vanessa speculation: who
+         was on the other end of that (admittedly hilarious) phone call?
+         http://www.geocities.com/FashionAvenue/Catwalk/2315/members/hane.htm
+            - Mis-spell "GeoCities"! That'll throw 'em off the scent!
+
+         God knows why this is still making the news (the Advertising
+         Standards Authority adjudication is dated January) but good
+         to see the phoney war between AOL and DEMON shows no sign of
+         letting up . The ASA upheld AOL's complaint over Demon's
+         claims of being "the UK's number one Internet service
+         provider" and that "More people get on with us", believing
+         consumers would not understand Demon's distinction between
+         Online Service Providers and ISPs (well, AOL doesn't seem
+         to). Of course, it's all a bit academic now that Freeserve
+         has trounced them both, but next time AOL start running
+         those "No wonder we're number one" ads (or indeed, bang on
+         about how "free" they are), you know who to call... 
+         http://www.asa.org.uk/adj/adj_3182.htm 
+                  - AOL last rapped for "520 free hours a month" deal
+   http://news.bbc.co.uk/hi/english/sci/tech/newsid_208000/208515.stm
+- Can I do my "Can I do my 'Number Two' joke?" joke? ((No - Ed) - Ed)
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                   
+         MELISSA virus produces hundreds of posts to zdnet.co.uk/news
+         ... RICHARD BARBROOK salutes the NATO bombing on Nettime,
+         unaware just how many innocent net.artists live in
+         Belgrade... Mohamed Al-Fayed after fugging CLARANET... see
+         wishy-washy liberalism transform into uncompromising
+         socialism before your eyes http://www.scottish-labour.org.uk/ 
+         ... Danish rap group releases STAR WARS tribute - in MP3...
+         PRINCE ANDREW to publish webzine... can't wait for this to
+         be reduced next week: http://www.ntk.net/easter/disco.jpg
+         ... it's all a game at MSN: http://www.ntk.net/doh/msn990402.jpg
+         - or are they the names of the games? ... FURBY Happy Meals... 
+
+                               
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         We spent all that money getting that BAFTA "Special Mention"
+         and they didn't even send us a GIF for our webpage. But don't
+         let that dissuade you from entering the UK's NETMEDIA ONLINE
+         JOURNALISM AWARDS - if only to prevent "Best Sports Site"
+         from being a toss-up between Football 365 and CricInfo, just
+         like every other year. Deadline for entries is next Wed 1999-
+         04-07, and in a display of unflinching editorial integrity,
+         we won't be entering any of the categories - as we're helping
+         judge them. Be interesting to see how BBC News Online, ITN
+         Online, Reuters etc deal with that same dilemma...
+         http://www.jour.city.ac.uk/olja99/
+                - host: Eddie Izzard, Jeremy Paxman or Dominik Diamond?
+         http://www.europemedia.com/
+            - nice, but Robin "ArseHaus" Hunt is one of the judges too!
+
+         Capitalism trembles once again at the prospect of PHONE IN
+         SICK DAY (1999-04-06), a none too radical notion for those
+         of us with jobs in the media who've never done a decent
+         day's work in their lives. Greater slack should be available
+         at Bristol's UK COMIC FESTIVAL (from today 1999-04-02 to Sun
+         04-04), this year featuring Garth "Preacher" Ennis, Warren
+         "Transmetropolitan" Ellis, an army of ex-2000AD "art
+         droids", and a movie All Nighter of comics-based turkeys
+         like Judge Dredd and Howard The Duck. And speaking of
+         work-shy fops, the ICA is hosting some promo event for those
+         zany EMI Songbooks (Sat 1999-04-03, London SW1, UKP22), with
+         Robert Crumb, Gilbert Shelton and Ivor Cutler tempting you
+         away from the traditional Easter weekend DIY. Hey - Jesus
+         was a carpenter, after all.
+         http://twistandshoutcomics.netgate.net/comics99/
+                    - the new name for the unfortunately titled UKCAC
+         http://www.underbelly.demon.co.uk/decadent/docs/sickcont.htm
+         - what if they held a Phone In Sick Day and no-one turned up?
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Yes, yes, yes - but *which* PALMPILOT? The chunky IIIx with
+         hackable expansion port, an acceptable 4MB of RAM, the
+         original sync socket (so you can use all your old
+         peripherals) and a plastic case around which you can still
+         mess with a Phillips screwdriver? Or the Palm V, with
+         its sleek, finger-thin exterior, "executive styling", a
+         backwards-incompatible sync socket, hermetically-sealed
+         chassis with imprisoned rechargeable batteries you can only
+         replenish by dragging the cradle around with you, and a
+         humiliatingly unexpandable 2MB? Case closed? Not quite. This
+         month, Japanese hacker Toshio Kashiwagi discovered that you
+         could dismantle the sealed V unit by using a hairdryer to
+         melt the sealant. An 8MB RAM chip could then be soldered
+         onto the board, and the two halves jammed together with
+         superglue to make fractionally fatter, but infinitely cooler
+         uber-five. Hours of warranty-invalidating fun that
+         pisses on any machismo hackery those IIIx guys could ever
+         contrive. Management types keen to fake geek credibility
+         can pay the guys at the euphemistically-named Electronic
+         Fast Integration Group $150 to do it for them, or $600 to
+         buy a pre-bloated V. At your own risk, natch.
+         http://www.asahi-net.or.jp/%7ETG7T-KSWG/newpalmve.htm 
+                                  - no user-serv,Reable parts, my ass
+         http://www.efig.com/
+                                          - cross my palm with silver
+         http://www.palm.com/prodsoft.html
+                          - smart money says wait for the phone pilot
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Roy Gibney, Grimsby's £7.5m lotto winner, uses FREESERVE,
+         the cheapskate... let's see the OBSERVER try to shut down
+         http://info.anonymizer.com/kosovo.shtml ... haxploitation...
+         "Furby Hookers aren't the most experienced lovers, but the
+         more you play with them, the more they learn"
+         http://www.fishdot.org/furby/ ... getting seasonal on Uranus
+         - http://oposite.stsci.edu/pubinfo/pr/1999/11/ ... winner of
+         AIRFIX "Web Warriors" battle LEGO Technic "Slizers" go on to
+         meet SONY robo-dog versus MATSUSHITA robo-cat in final...
+         more like this: http://tbtf.com/jaundiced/ ... LINUX and
+         MICROSOFT, living side by side on my keyboard, oh lord -
+         http://www.vmware.com/ ... is KINGPIN the sweariest game
+         ever? http://www.gangland.org/files/ ... cross-network
+         SMS... the GUARDIAN GUIDE DAILY... note to the the guys
+         behind http://www.occaviationandspace.edu/ - www.nato.com
+         still available ...
+         
+                               
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+                                    
+         TV>> repeated LOCAL HEROES (7.30pm, Fri, BBC2) praises
+         Hornby and Meccano - a sort of weird post-war metallic lego,
+         as far as we can make out... FRASIER (10pm, Fri, C4) sports
+         a Woody - Harrelson, that is... uber-slacker drama REALITY
+         BITES (10.15pm, Fri, BBC2) could not be more early '90s if
+         it cast Winona Ryder, Ben Stiller, Janeane Garofalo, and
+         Ethan Hawke - wait a minute, it does... all followed by
+         100th episode SEINFELD clip show (11.45pm, Fri, BBC2)...
+         "Cheggers" Chegwin runs down the TOP TEN NOVELTY ONE-HIT
+         WONDERS (9.30pm, Sat, C4), in a format that surely spells
+         doom for John Peel yawnathons like "Rock Family Trees"...
+         Lee & Herring are pulled off for Easter, leaving a choice of
+         new messiahs: Harrison Ford in BLADE RUNNER: DIRECTOR'S CUT
+         (9.40pm, Sun, C5)... Tom Hanks' all-American idiocy FORREST
+         GUMP (9.05pm, Sun, BBC1)... the "Tarantino-esque" RESERVOIR
+         DOGS (10pm, Sun, C4) - now contractually required to be
+         shown with Ringo Lam's inspirational CITY ON FIRE (12.40am,
+         Sun, C4) plus Brit knock-off FACE (10pm, Mon, BBC2)... or
+         Oliver Stone's JFK (10pm, Sun, BBC2) - followed by an Outer
+         Limits episode called "The Deprogrammers" (yeah, think about
+         it)... Pam "Mindy" Dawber TV satire STAY TUNED (2.35pm, Mon,
+         ITV) had the worst video-sleeve tagline in human history:
+         "Most people would love to get into television. Helen and
+         Roy have 24 hours to get out of it - literally!"... but when
+         UFO tosh ROSWELL (9pm, Mon, C4) opens with Kyle MacLachlan
+         and pals badly made up as old men, it (phew) means that the
+         rest of the film is in flashback, rather than - say - being
+         about a bunch of guys badly made up as old men... sod
+         Sylvester McCoy's TREK MASTERS quiz (various times, Sat-Mon,
+         SkyOne) - perhaps the most promising of yoof-TV video
+         diaries TRIBE (11.50pm, Mon, BBC2) is listed as "Boy Trek: a
+         group of girls join their local Star Trek fan club"... the
+         self-explanatory LIE DETECTOR (5pm & lunchtimes, Tue, ITV)
+         finds a brand new way of libelling members of the public...
+         KNIGHT RIDER's pursuit of warez d00dz (7pm, Thu-Fri, C5)
+         fails to deter NTK staff from mocking ELSPA and Microsoft on
+         surprisingly open- minded consumer show ARE YOU BEING
+         CHEATED? (8pm, Tue, C5)... THE LAST TRAIN (9.45pm, Wed,
+         ITV) sounds like "This Post- Apocalyptic Life", featuring
+         the girl off that school comedy "Chalk" who talked like Sue
+         "Mel & Sue" Perkins... and Falklands burn victim Simon
+         Weston movingly updates us on his progress in SIMON's
+         JOURNEY (9.30pm, Thu, BBC1) - not to be confused with the
+         new series of BUFFY THE VAMPIRE SLAYER (6.45pm, Thu,
+         BBC2)...
+         
+         FILM>> whatever Jake "Junior Ridley" Scott's costume-rocker
+         PLUNKETT & MACLEANE (imdb: British) might be, it certainly
+         isn't "a medieval Lock, Stock & Two Smoking Barrels" (Nick
+         Fisher, The Sun) - for the simple reason that P&M is set in
+         1748, and the medieval era is widely considered to have
+         ended about 300 years earlier... yeah, OK, we meant no
+         *acting* Oscars for last week's Gods And Monsters -
+         especially not for Brendan Fraser, who extends his Encino
+         Man/ George Of The Jungle shtick to the same innocent abroad
+         in BLAST FROM THE PAST (MPAA: Rated PG-13 for brief
+         language, sex and drug references). Unlike, say, "Back To
+         The Future" (on now!, Fri, BBC1), these new '50s films - The
+         Truman Show, Pleasantville - never seem to realise that the
+         timeshift could be just an amusing detail rather than a
+         massive excuse for a plot... just what the world was
+         waiting for - *another* quirky look at life in an Italian
+         fascist death camp, this time with - wait for it! - Judi
+         Dench, Joan Plowright and Cher taking TEA WITH MUSSOLINI
+         (imdb: (1930s / 1940s / based-on- autobiography / wwii)...
+         
+         SHINY ENTERTAINMENT>> WIRED 7.04, always up-to-the-minute,
+         runs Y2K cover story, instinctively blames software that is
+         "out of control"... redesigned 50th-issue SFX claims
+         Kubrick's "AI" is "still on the back burner" (p47), doesn't
+         seem at all horrified by the prospect of Kevin J Anderson co-
+         writing the "Dune" prequels. And where, oh where, is their
+         consumer-mag compulsory "What Our Ratings Mean" table for any
+         readers confused by their switch from A-E to 1 to 5 stars...
+         scourge of Usenet-naming (and Britain's best games
+         journalist) STUART CAMPBELL makes ARCADE almost worth
+         UKP2.70, with his top 50 "Top Players" in the games biz
+         including some surprise entries (Digitiser's Paul Rose at 12)
+         and an amusing icon system borrowed - if we're not mistaken -
+         from the "Night Of 100 Serial Killers" in ANSWER ME... we
+         also detect Campbell's fingerprints on the "Emulation
+         Rarities" piece in April's EDGE, which continues to redeem
+         itself with a John Carmack interview on subdivision surfaces
+         vs NURBS. Still confused about the difference between
+         "palpable" and "palatable", though (p79) - and surely it was
+         CRASH that did the SINCLAIR USER spoof, not ZZAP 64?
+         http://www.nvg.ntnu.no/sinclair/crashs19.htm (p61)... over on
+         Tower's "import" shelves, the Apple-acclaimed FRIGHT X #10
+         http://www.apple.com/publishing/design/frightx shows exactly
+         why you should never run reviews written by your breast-
+         fixated "Creative Director". Worse even than the "Driver" bit
+         in the current disc-disappointing OFFICIAL PLAYSTATION
+         MAGAZINE? Yes, worse even than that... MACUSER boasts that a
+         circulation of 28,643 keeps it UK market-leader - akin, one
+         distressed NTK reader points out, to boasting that "my dick
+         is 1 inch long!"... while MCV reports that STATION publishers
+         Rapide are not "going away", and fully expect to "trade out"
+         of their "difficult situation" - even if their site
+         http://www.rapide.co.uk doesn't exactly fill you with
+         confidence...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+             "is not a medical device, cannot prevent cot death" 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                            but retain SMALL PRINT.
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.

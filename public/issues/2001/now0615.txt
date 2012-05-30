@@ -1,0 +1,289 @@
+ __  __ _2001-06-15   _ _____ _  __      
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! mail an empty message to
+| |\/| | | '_ \| |  \| | | | | ' /     o ntknow-subscribe@lists.ntk.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+        "Microsoft has embarked on a campaign known as the 'war on 
+         hostile code', with the goal of preventing _any_ hostile code 
+         from running on users' systems..."
+         http://www.microsoft.com/technet/security/raw_sockets.asp
+                                 - via resource starvation, presumably?
+         
+
+                                >> HARD NEWS <<
+                               license to re-use
+         
+         MiniNTK this week (ie, less news, no tracking), because a) 
+         we're officially well into slow news season, but b) Suck's 
+         recent demise means that if you now say you're "on holiday", 
+         everyone naturally assumes that you're dead. Still, awards are 
+         always good for filling up the front page, especially after 
+         vaguely NTK-related e-democracy gateway FAXYOURMP.COM won 
+         NEW MEDIA AGE's "Best Use Of The Web" category, to be now 
+         commemorated on a site that makes the Interactive BAFTAs seem 
+         easy to navigate by comparison. Other highlights of the 
+         evening included host (and sometime Will Smith tribute act) 
+         Richard Blackwood bafflingly failing to persuade the audience 
+         to "Get With [His] Wicked", two-time winners ("Business To 
+         Business" and "Grand Prix") GLOBALFARMERS not making it down 
+         from Edinburgh to collect either of their awards, plus of 
+         course Leslie Bunder not winning anything (and after making 
+         all that fuss - see NTK 2001-05-18), indicating that perhaps 
+         there is some justice in the world after all. 
+         http://www.newmediazero.com/news/home.asp?sd=14062001
+                    - "Globalfarmers [...] offered WAP as well as Web"!
+         http://www.newmediazero.com/awards/web.htm
+              - go back to "Categories" page, click on next one, repeat
+         http://www.suck.com/daily/2001/06/08/
+       - and they've taken Feed, http://www.unmetered.org.uk/ with them
+         
+         Otherwise, we're forced to fall back on our usual stand-bys: 
+         followups to previous stories and/or corrections to this 
+         week's stories in The Guardian and/or The Register. After we 
+         wondered why THE GUARDIAN was so consistently upbeat about 
+         wacky Flash website generator Moonfruit last week, CEO WENDY 
+         TAN thoughtfully sent us ABC-audited evidence of their 196,584 
+         sites built so far, explaining that only about 4,470 appear on 
+         Google because "Google's crawlers don't normally pick up Flash 
+         sites unless the siteleaders actively register [with them]"  
+         (A site that generates homepages that don't show up on search 
+         engines? Buyers must be queuing round the block!) THE GUARDIAN 
+         proved that they weren't unduly biased toward Moonfruit by 
+         running an extended plug for RABBIT-ON.COM, co-founded by 
+         occasional Guardian contributor, Imogen O'Rorke - though, to 
+         their credit, this doesn't seem to have driven any huge amount 
+         of traffic there, going from the total of 2 postings on the 
+         "Rabbit Board" forum so far. And this time not even THE 
+         REGISTER fell for the spoof "Britney dead" BBC news page, 
+         leaving it to, once again, THE GUARDIAN to explain: "Outsiders 
+         can produce a page that appears to belong to another's service 
+         as long as the numbers of the address, in this case the BBC's, 
+         are added in the correct order". Hey, maybe _that's_ where all 
+         these bullshit Guardian articles are coming from.
+http://www.mediaguardian.co.uk/mediaguardian/story/0,7558,504663,00.html
+                      - vs http://www.rabbit-on.com/phorum/list.php?f=1
+     http://www.mediaguardian.co.uk/newmedia/story/0,7496,506736,00.html
+               - also, the song is actually called "Baby One More Time"
+
+         
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         AA online quote form aware of risks of Wrestlers, Professional 
+         Snooker Players, and Tupperware Dealers behind the wheel: 
+  https://www.aainsurance.co.uk/insurance/aains/car/quote/secure/sq1.asp
+         ... ICL cybercrime consultant advises "de-romanticising" 
+         hackers - by using fiction-inspired term "cyberpunks" instead: 
+         http://www.cw360.com/article%26rd%3D%26i%3D%26ard%3D101609 ... 
+         http://www.isgay.com/ almost cave in to legal threats, the big 
+         cissies... http://www.ourprice.co.uk/ - your log files, vs 
+         checking your (or someone else's) "ONLINE SPARE ORDER STATUS": 
+         http://microwave.harris.com/cservice/ ... "Online ads get in 
+         your face", illustrates CNET - unless you take "tag" off URL: 
+         http://news.cnet.com/news/0-1005-200-6269719.html?tag=tp_pr 
+         ... "highly promising youngster" is a sprightly 101 years old: 
+         http://www.liverpoolfc.tv/team/squad/sjolund/ ... who's that 
+         being quietly voted out of VICTORIA REAL?... fake friends?: 
+www.friendsreunited.co.uk/FriendsReunited.asp?wci=membernotes&member_key=70084
+         ... only Terminator-style VC funding from the future can save 
+         us now: http://foobar.starlab.net/~degaris/news/bankrupt.html 
+         - unless, of course, this is proof they've already intervened: 
+         http://www.cs.usu.edu/~degaris/news/zurich.html ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         LIBERTY - the human rights organisation, not the chintzy 
+         department store - will be holding their ANNUAL CONFERENCE - 
+         PRIVACY AND HUMAN RIGHTS: WHAT CHANCE FOR ARTICLE 8? and their 
+         AGM over the weekend (from 10am Sat 2001-06-16, Hamilton 
+         House, London WC1R, UKP35). Still, if you'd rather leave all 
+         that tedious bureaucratic campaigning to the lawyers in suits, 
+         there's another chance to stick it to the man at the LONDON 
+         CANNABIS MARCH & FESTIVAL (from 12noon Sat 2001-06-16, Oval 
+         Tube, London, 99p), originally drawn to our attention as part 
+         of an email from a US reader enthusiastically describing the 
+         merits of Nestle's soft-centred "Treasures" chocolate bars. 
+         This (the march, not the chocolate bar) appears to be a re-
+         staging of a similar event scheduled for May 6th of this year 
+         which, according to the so-called "news papers", apparently 
+         "did not happen" - though didn't you get the email that it 
+         actually had been cancelled due to heavy rain? Maybe there
+         _is_ something to all those short-term memory-loss studies...
+         http://www.liberty-human-rights.org.uk/mevent2.html
+            - doesn't support the human right not to use frames, though
+         http://www.schmoo.co.uk/cannabis/
+                 - the choc bars look like treasure chests, and have...
+         http://www.schmoo.co.uk/comdot/cannabis.htm
+             - ..."1 of 4 varieties of really good stuff" at their core
+         http://uk.news.yahoo.com/010611/80/buq7k.html
+                    - look, it's not a stereotype if it's actually true
+         http://list.ftech.net/pipermail/gllug/2001-June/008752.html
+         http://list.ftech.net/pipermail/gllug/2001-June/008526.html
+                       - stop press: Greenwich Geek Picnic, hacking BBQ
+
+
+                                >> MEMEPOOL <<
+                              oogle that google
+
+         physics model isn't bad, but where are the course contours?: 
+    http://www.electrotank.com/lab/minigolf.html ...wicked crease, dude: 
+    http://cub.phpwebhosting.com/~eib/ei/homepage/main.php ... MOUSE movies:
+         http://sloan.stanford.edu/MouseSite/1968Demo.html ...withdrawn 
+         from WHERE? http://www.ananova.com/news/story/sm_314817.html
+         ... lines composed on seeing a UK Gold repeat of THE A-TEAM: 
+ http://www.poetry.com/Publications/display.asp?E=1&ID=P0864244&BN=047&PN=1 
+         ... not the CLASS WAR nostalgia site maybe you were hoping 
+         for: http://policehelmets.homestead.com/ ... mad Japanese toy 
+         of week: http://www.worldshopdirect.com/ToyE/aquaroid-2.htm 
+         ... life imitates intermittently funny ONION-alike, again: 
+         http://www.urbanreflex.com/portillo.html ... oh, "I agree": 
+        http://www.ecompany.com/articles/mag/print/0,1643,9772,00.html 
+         ... WAP 404: http://www.ntk.net/2001/06/08/dohphone.jpg ... 
+         (bottom of) http://www.mcdonalds.com/legal/ trademarks phrases 
+         "Changing The Face of The World", "Hey, It Could Happen"... 
+         HipCrime steganography ... just in time for FATHER'S DAY: 
+         http://www.selsyn.co.uk/sockmail.shtml ... 
+
+
+                                >> GEEK MEDIA <<
+                    the less-postponed http://www.tvgohome.com/
+
+         TV>> nutty film weekend kicks off with Rubik's Snake computer 
+         nonsense DEMON SEED (12.40am, Fri, BBC1), possible Lara Flynn 
+         Boyle nudity romance EQUINOX (12.20am, Fri, BBC2), bizarro 
+         arthouse unlookalike noir SUTURE (1.20am, Sat, BBC2), plus the 
+         late William Burroughs and Heather Graham - together at last! 
+         - in Gus Van Sant's DRUGSTORE COWBOY (12.40am, Fri, C4)... 
+         after this week's "Se7en", Morgan Freeman season continues 
+         with uninspired "Silence Of The Lambs" copycat KISS THE GIRLS 
+         (9pm, Sat, BBC1)... and the erratically bi-annual SCI-5 NIGHT 
+         gets off to an early start with the original ATTACK OF THE 50 
+         FOOT WOMAN (3.15am, Sat, C5), an improvement over Spielberg's 
+         pro-Grey propaganda CLOSE ENCOUNTERS OF THE THIRD KIND (9pm, 
+         Sun, C5)... as we've said before, Frank Oz's dire IN AND OUT 
+         (10pm, Sun, C4) is an extended version of the "gay" Seinfeld 
+         episode - though, in this case, there *is* something wrong 
+         with that... THE MONEY PROGRAMME (7.30pm, Mon, BBC2) looks at 
+         identity theft - in our day, we had to make do with the birth 
+         certificates of people who died before getting a National 
+         Insurance number... and C4's usual tub-thumping DRUGS LAWS 
+         DON'T WORK season (11pm-ish, Tue-Thu, C4) is handily preceded 
+         every night by a cautionary example of the dangers of 
+         hallucinogens, deranged pseudo-Japanese "interactive gambling" 
+         spazzorama BANZAI (10.30pm, Tue-Thu, C4)... Bruce Willis and 
+         an autistic code-cracking kid blunder through crypto-thriller 
+         MERCURY RISING (9pm, Tue, C5)... Melissa "Sabrina The Teenage 
+         Witch" Joan Hart enchants an ex-con into murdering her parents 
+         in TWISTED DESIRE (11.15pm, Wed, BBC1) - presumably why she 
+         lives with her aunts in the TV show... and hopefully they've 
+         avoided the traditional "will-they-won't-they" "Moonlighting"-
+         style romantic intrigue in two simultaneous family detective 
+         shows, MACREADY AND DAUGHTER (8.30pm, Thu, BBC1) and DONATO 
+         AND DAUGHTER (9pm, Thu, C5)... 
+         
+         FILM>> the curse of the exec producer strikes again, as Wes 
+         Craven "presents" hastily-renamed-from-"Dracula 2000" DRACULA 
+         2001 (http://www.cndb.com/ : Basically, when [Colleen "Vitamin 
+         C" Fitzpatrick] reaches orgasm, she stretches in mid-air to 
+         unleash a birds-eye view of both her breasts and nipples [...] 
+         Jeri "Seven of Nine" Ryan also appears)... and the Farrelly 
+         brothers didn't even bother turning up to direct their Heather 
+         Graham/ Chris "Rollerball" Klein incest-fest SAY IT ISN'T SO 
+         (http://www.screenit.com/movies/2001/say_it_isn%27t_so.html : 
+         gross out humor involves, but isn't limited to, [Klein] 
+         accidentally getting his arm stuck up inside a cow's rectum, 
+         waxed-off hair from the pubic or buttocks region being used as 
+         a beard for disguise, and the top of an ear accidentally being 
+         clipped off by an inept hairdresser)... otherwise it's Richard 
+         Gere in terminally ill May/December romance AUTUMN IN NEW YORK 
+         (http://www.cndb.com/ : There IS a [Winona Ryder] nipple, at 
+         1:23:18)... Oscar-nominated gay Cuban drama BEFORE NIGHT FALLS 
+         (http://www.screenit.com/movies/2000/before_night_falls.html : 
+         Johnny Depp plays a flamboyant male transvestite/transsexual 
+         who visits the men in prison, smuggling things to them in his 
+         rectum - but we don't see anything graphic)... or Nick "Lock, 
+         Stock" Moran playing a stuck-up Edwardian in repressed period 
+         drama ANOTHER LIFE (imdb: independent-film / murder) - a film 
+         that, without wanting to pre-judge it or anything, has sat in 
+         distributor limbo for the past 2 years... 
+         
+         CONFECTIONERY THEORY>> CADBURY'S PEANUT SUB (32p) appears to 
+         be a half-hearted incursion into Snickers territory, described 
+         by reader MIKE GREY as "some weird new peanut thing" (and by 
+         his mother as "a bit like a Topic"), but MARS have fought back 
+         with the GALAXY LIASON (35p), a illicit rendezvous between 
+         chocolate and praline hazelnut paste. "New permanent line" is 
+         the confident boast on the counter-top boxes, despite the Mars 
+         marketing geniuses deciding to introduce it to the public at 
+         the height of summer, when a packet of warm chocolately smush 
+         is what everyone's looking for. Then again, that did seem to 
+         work for Cadbury's wildly successful MARBLE bar exactly three 
+         years ago... over in savouries, it's shaping up to be a spicy 
+         summer all round (in accordance with NTK 2001-04-27 prophecy), 
+         with "Smokey BBQ" being more normal than the "Tangy Salsa" new 
+         KP MINI CHEDDARS (though we have yet to spot either outside 
+         large multipacks), plus JOSH ROULSTON reporting that JACOB'S 
+         CHILLI CREAM CRACKERS (also available in "Roast Onion" and 
+         "Sundried Tomato") are "quite nice actually, with an 
+         accumulative chilli effect as you eat them". "Firecracker 
+         Chicken" and "Balti Curry" THE REAL MCCOY'S CRISPS are much as 
+         you'd expect, but the rice cake war appears to be over - for 
+         now! - as UNCLE BEN'S "Barbecue", "Cheese and Onion" and 
+         "Pizza" RISPINOS are no match for the salty new QUAKER SNACK-
+         A-JACKS... you might want to wash those down with a "Chilla 
+         Vanilla" FRIJJ ("exactly like cheap molten vanilla ice cream, 
+         but in a good way" - TOM PEARSON), though not quite up to the 
+         standard of NTK office staple WHITE CHOCOLATE FRIJJ EXTREME, 
+         an experience often compared to "snogging a Milky Bar". Either 
+         remains preferable to Coke's doomed unsparkling drink ALIVE, 
+         whose "Orange Cascade" and "Tropical Torrent" variants both 
+         taste like underdiluted Soda Stream concentrates or something 
+         ... following the recent PENGUIN FLIPPER DIPPERS, PEANUT LION 
+         BAR/"NOW MORE CARAMEL" LION BAR disappointments, this month's 
+         new product developments (and brand extensions) to look out 
+         for include: BAHLSEN luxury boxed biscuits CIELO (UKP1.99 for 
+         17); CRUNCHIE NUGGETS IN A BAG; 15p pyramid-shaped bags of 
+         MINI SMARTIES (spotted in a petrol station just outside 
+         Manchester by GEMMA WATT who, continuing NTK contributors' 
+         "too much information" tradition, appears to be the girlfriend 
+         of Mike Grey, the Peanut Sub guy); and the latest from regular 
+         "Taste Abomination" contenders NESTLE ROWNTREE WONKA OOMPAS 
+         (29p), a bag of chewy sweets ostensibly featuring the savoury 
+         flavours of "Caterpillar" (cucumber) and "Mashed Potato". So 
+         far we've only tried the 99p "Family Bag", which restricts 
+         itself to "Rhubarb 'n' Custard", "Jam Doughnut", "Popcorn" and 
+         "Snozberry" - and, frankly, they were bad enough...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "less of the 'reportedly', if you don't mind"
+             http://www.dcs.gla.ac.uk/SF-Archives/Ansible/a167.html
+  
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+      NTK is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

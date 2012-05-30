@@ -1,0 +1,328 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____25/07/97_ o To join: mail now-l@spesh.com
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o with 'subscribe' in the body.
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o   www.spesh.com/cgi-bin/now
+
+
+          "The Internet is extending the United States' thinking and
+           principles. If anybody benefits, the United States does -
+               but I think it is good for every other country, too."
+                       - DON HEATH, Internet Society President
+        today president of the internet society,
+                                ...tomorrow, president of the WORLD!
+
+
+                               >> HARD NEWS <<
+                                  easy jibes
+
+         Osteopathy and spinal tap treatments continue on the UK's
+         creaking Internet backbone. At midnight this Saturday, deep
+         down in the chock-a-block Docklands Telehouse where all the
+         UK ISP spaghetti meets, someone will have the unenviable
+         task of unplugging the beating heart of the British Net,
+         the LINX, manhandling it into a side-room which isn't quite
+         as knee-high in cables, and then try and put it back
+         together again. Nothing will go wrong. Of course, if
+         something did go wrong, you wouldn't know about it, because
+         with the LINX dead, practically every bit of UK traffic
+         would back up through those oh-so-expansive US connections
+         your ISP has been promising to improve, and the whole thing
+         would freeze like ... well, it did last time the LINX blew
+         a fuse, two months ago. But that won't happen again. Trust
+         us. Not even an atomic bomb can destroy the Net, remember?
+         http://www.spesh.com/cgi-bin/now?b=archive97/now0509.txt&l=40#l
+                                            - or a nasty mains spike
+         http://www.linx.net/moveinfo.html
+                                      - or a well placed banana skin
+
+         LINX is what is defiantly *not* known on the Net as a
+         "single point of failure". Good news then, that the other
+         bit of Net surgery this week was the insertion of a second
+         UK ...err, point of failure. The Manchester Network Access
+         Point was launched this week by a group of northern ISPs as
+         a "major step towards building an ultra reliable UK
+         Internet". Unfortunately, there's just six of them (because
+         someone forgot to ask the 'southerner' ISPs, even though
+         most of them have some connectivity in Manchester), and
+         they haven't got a .uk nameserver (which is a bit vital in
+         a LINX-crashing scenario). Still, g'luck - and see you on
+         Sunday, right? Right? Hello? HELLO?
+         http://www.manap.net/
+              - hey, what happened to that i-exchange peering point?
+                                                     - hello? HELLO?
+
+         Anti-virus programmers - they're the good guys, yes? Not if
+         you listen the cuss-words from SYMANTEC and MCAFEE these
+         past few months. First Symantec (that's Norton Utilities
+         Inc) rudely accused McAfee of nicking their code and using
+         it in the McAfee PC Medic 97 program. Pause for out-of-
+         court negotiations. This week, Symantec spotted the same
+         (allegedly) nicked code in loads of other McAfee programs,
+         did a comedy double-take and formally accused McAfee of
+         *taking the piss*. Full war recommenced this week with
+         McAfee countersuing for defamation. Moral? Well, casting no
+         aspersions, but if there are companies whose code you
+         shouldn't rip off, it's probably the ones whose software is
+         *specifically designed* to scan executables. (Hilariously,
+         both companies are also being sued by TREND MICRO, who say
+         they patented this whole idea of catching Net virii, and
+         whoever *is* writing this stuff better own up soon so they
+         can send them all to jail.)
+         http://www.symantec.com     what next? Peter Norton didn't
+         http://www.mcafee.com            really write all of Norton
+         http://www.trendmicro.com           Utilities? NooooOOOooO!
+
+         It's not often that anyone escapes Microsoft alive. ALEX
+         ST. JOHN did, and, boy, is he living to tell the tale. Alex
+         used to be the official MS "games evangelist" for DirectX,
+         the Windows 95 games programming API. Chief opposition to
+         DirectX (the 3D bit of it) is OpenGL, already kicking the
+         DirectX butt in the PC 3D cards biz, and backed by the
+         mighty Thor-like John Carmack, creator of Quake, Ur-Lord of
+         Doom. Alex St. John's job was to persuade people that
+         Carmack was wrong, and Bill was right. Last month, St. John
+         was abruptly sacked from MS. This week, he revealed why:
+         "In my opinion John Carmack", St. John the ex-evangelist
+         repented, "is a God, and has my complete respect. In theory
+         John is absolutely right about OGL, but in practice it will
+         never be for reasons that have little to do with technical
+         purity, and a lot to do with cold market forces, politics,
+         and NDA's." Ouch: Microsoft fails to put the pin back in.
+         http://www.bootnet.com/aliveandwell.html
+               - disgruntled ex-employee. Armed with Super Nail Gun.
+         http://www.melgir.demon.co.uk/lrp/labyrinthe/alex.html
+               - the same ASJ? Who cares? Funny dressing-up picture!
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         NETSCAPE announce profits : shares drop 18%... UK Home PC
+         market "saturated", fear DIXONS... T3 still pondering
+         "what's better, Mac or PC?"... FUTURENET claim best ABC Web
+         figures (out of two sites audited so far)... CYBORGANIC
+         "having financial problems"... EXCITE launch international
+         edition... COMPUSERVE to "exploit" pornographic forums...
+         EXCITE launches free Web-based e-mail service... Olivetti
+         sells ACORN shares... ACCLAIM loses $100m, *despite* Turok:
+         Dinosaur Hunter... EXCITE launch "pay us to wash your
+         laundry" service... ZILOG bought by Texans... "Most users
+         do not need push technology", study reveals... COMPUTER
+         CHANNEL "looking for new presenters"... Inkjet printers
+         count for 25% of Hewlett-Packard profit, says NEWSWEEK...
+         new INTERNET EXPLORER 4.0pr2 does not work with AOL,
+         CompuServe - or MSN...
+
+         ANTI-NEWS INTERACTIVE >> NTK readers spread the obvious via
+         poorly-filtered letters pages: in TIME OUT LONDON, Jem
+         Stone (sub#120) reveals Web-columnist Spyder to be
+         "idiot"... in TELEGRAPH CONNECTED, Adrian Mulder (sub#48)
+         questions sanity of game journo Steve Boxer... Over to
+         you...
+
+
+                                >> CULTURE <<
+             dialing your Penfield to 888 - and leaving it there
+
+         Brighton goes bot mad next week when the FOURTH EUROPEAN
+         CONFERENCE ON ARTIFICIAL LIFE bandwagon hits town.
+         Registration costs an out-of-control UKP350, but there's
+         plenty of free sideshows for rubbernecking boid 'n' droid
+         fans: public lectures on evolution by Robin Dunbar and
+         Lewis Wolpert, bot art by the usual suspects (Latham,
+         Stelarc, and the aptly-named Karl Sims) and the always
+         enthusiastically spasticated robot football tournament. Our
+         pick, though, has to be the promised demo of a bot that
+         "mimics the behaviour of a pre-Cambrian creature, laying
+         trails (using toilet paper) just like those found in
+         fossils of the period."
+         http://www.cogs.susx.ac.uk/ecal97/
+         - "Andrex puppy 5 billion years older than previous estimate"
+
+         Form reflects content in a *very real sense* for ALEXEI
+         SHULGIN, Russian curator and benefactor of humanity. He's
+         offering a thousand dollars to the designer of the best
+         piece of Web art to consist only of HTML form elements -
+         buttons, checkboxes, text areas and pull down menus. Yes,
+         we'll wait while you re-read that sentence. A GRAND FOR ONE
+         HTML PAGE: better than even the most confused ad agency
+         pays. The artwork created (and it must be art, not a search
+         form or something crass like that) should be publically
+         accessible, the winner will be announced at the Ars
+         Electronica festival in September, and the deadline is
+         31/8/97, so get *your* arts over to:
+         http://www.c3.hu/hyper3/form/           Submit... submit...
+         http://www.roline.ru/sp/cp/shulgin.html
+         - Not to be confused with LSD guru Alexander Shulgin. Altho...
+
+
+                                >> TRACKING <<
+             like the Cylons had on their forehead (only in text)
+
+         Don't forget the Mac, writes one reader - presumably an
+         altruistic Amiga fan. How could we, in the week when
+         MacOS8, the super giant "Aaron" extension, hit the shelves?
+         Extensive Internet support, a multi-threaded PowerPC
+         finder, some great features ripped off Windows 95, and they
+         killed that stupid Quickdraw GX printer rubbish, so that's
+         a relief. Also out from Apple is a beta of Java 1.5
+         runtime, which, they say, runs Net apps "up to 10 times
+         faster" than the instructions-per-fortnight Java 1.0.
+         Brings a whole new meaning to "Just in Time", doesn't it?
+         http://www.apple.com                      motto: STILL HERE
+         http://applejava.apple.com
+         - calm down, ladies, it's only SDK 1.0.2 compatible
+
+         Much more hardcore a Mac user than that? Curious to check
+         out the Unixy future of the platform (and who'd have
+         imagined *that* migration path)? Too stingy to splash out
+         on a NeXT box? Alors! Voila Jean-Louis Gassee, making like
+         Linus Torvalds and giving away a free preview release of
+         BeOS on the cover of the August MacUser. C'est magnifique!
+         http://www.be.com   and soon to be as rich as Mr Torvalds,too
+
+         Locate any computer shop in the UK! Well, technically it's
+         find any Europress supplier, but with their Oasis
+         Interactive Songbook shifting 28,000 units since launch
+         ("Fantastic for this time of year" - a company spokesman),
+         that's going to be most of them. The parser ain't exactly
+         AltaVista, but combine it with the "Where's My Nearest
+         Tandy Branch?" CGI and suddenly shopping is fun again.
+         http://www.unipower.co.uk/es/wwdistrib.nsf/sales
+         - Unipower also offer "competitor intelligence". Which is nice.
+         http://www.internexus.co.uk/tandystores/search.htm
+                     - And what do they do with all *our* postcodes?
+
+         We're having fun with ALEXA, a freebie PC Net tool that's
+         so close to being useful that it's only a matter of time
+         before Microsoft rips it off and makes a packet. Alexa lets
+         you publicly annotate Websites, publicly vote for Websites,
+         and generally confer with other surfers as to the
+         suckability of the URL you're viewing. Fatal flaw: the vast
+         possibilities for spamming popular site with adult XXX
+         links. There's also a bizarro ability to connect to a tape
+         backup archive of the entire Internet: we suspect this is
+         the Alexa designers' Great Work. Sadly, like all Great
+         Works, it doesn't. Yet. But it's fun.
+         http://www.alexa.com
+         - based in San Fran. I think you know what we're saying
+
+
+                                >> MEMEPOOL <<
+                              hasta la Altavista
+
+         Life imitates Tap: Christopher "NIGEL TUFFNELL" Guest takes
+         seat in House of Lords... majordomo hacking... why aren't
+         the Medellin cartel sponsoring Impro comedy clubs?...
+         www.spesh.com/nanoguitar/... Oh, Mr Kawasaki? SHUT UP...
+         Oh, *sure* you "stepped down", ROSSETTO... Yemeni
+         martians... crypt newsletter... FIREFLY should do tapes for
+         its friends... nanog flamewars... ICQlones... AIX ping o'
+         root... "The witch is late"... www.spacewriter.com... Nick
+         Rosen : the new Rasputin... PLAYSTATION pushes rental
+         market - anathema to Nintendo... www.milde.no/mars/...
+         prepare never to forget: the Ben Hur scene in the STAR WARS
+         prequel...
+
+
+                               >> MO' MEDIA <<
+                      the vicarious lifestyle of choice
+
+         TV >> Remark how quickly modern comedy dates, as BBC2
+         showcases the first ever episode of BOTTOM (9pm, Fri,
+         BBC2), the "Sick" episode of THE YOUNG ONES (9.30pm, Fri,
+         BBC2), followed by a compilation of the "best bits" of
+         NEVER MIND THE BUZZCOCKS (10pm, Fri, BBC2)... torment
+         yourself further with the devil's own movie dilemma of
+         Clive Barker's sado-machismo HELLRAISER (10.30pm, Fri, C4)
+         vs Joe Eszterhas's FLASHDANCE dancing welder (11.25pm, Fri,
+         BBC1) vs Robert Mitchum's tour de force NIGHT OF THE HUNTER
+         (11.55pm, Fri, BBC2)... Clive Sinclair is one of several
+         experts chatting professional (rather than technical)
+         HYPOTHETICALS (7.10pm, Sat, BBC2) for sixty minutes, but
+         just half an hour in the company of design poseurs TOMATO
+         (1.50am, Sat pm/Sun am, C4) is still half an hour too
+         long... despite Thunderbirds-style F/X and stunt casting
+         (Rutger Hauer, Martin Sheen) nuke-sub drama HOSTILE WATERS
+         (9pm, Sat, BBC1) goes edge-of-seat like Edge Of Darkness,
+         but all ITV has to retaliate is a double-bill of POLICE
+         ACADEMY 7: MISSION TO MOSCOW (8.15pm, Sat, LWT - watch for
+         the Tetris allegory) and - almost certainly - their rubbish
+         grainy print of 9.5 WEEKS (10pm, Sat, LWT)... these hard
+         s/f OUTER LIMITS (9.35pm, Sun, BBC2) really are an
+         improvement, but don't miss the remarkable non-revelations
+         in the dramatised ROSWELL (10pm, Sun, C4) or repeated docu
+         THE ROSWELL INCIDENT straight after (declassified after 50
+         years? Yeah, right)... the evil-looking Carol Smillie
+         promotes house-swap vandalism in CHANGING ROOMS (9pm, Mon,
+         BBC2) - the newest of many shows proclaiming "Wake up -
+         time to DIY"... while historical sitcom fans should lap up
+         the first-ever ROSEANNE (6.30pm, Tue, C4), THE GOOD LIFE
+         SELECTION BOX (8.15pm, Wed, BBC1), the last ever (?)
+         NORTHERN EXPOSURE (10.35pm, Thu, C4) and PILGRIMS REST
+         (8.30pm, Thu, BBC1) - set in an isolated transport cafe,
+         here's hoping it's more than just a terrible Brit version
+         of Cheers...
+
+         MOVIES >> Another of those lean, blockbuster-between weeks
+         - PALOOKAVILLE (no-one we'd heard of) may well be yet
+         another post-Tarantino failed-heister, but it's got a
+         genuine warmth and sense of humour... otherwise WARRIORS OF
+         VIRTUE (kung-fu kangaroos) is bizarre mass merchandising
+         mayhem, like Teenage Mutant Martial Arts Wallabies, and
+         PORTRAITS CHINOIS (Helena Bonham-Carter) is an elaborate
+         ensemble romance, like Friends - but in French! We'll take
+         the kangas...
+
+         HOLIDAY READS >> Disappointingly, we didn't hate digital
+         travelogue HARD SOFT & WET (Melanie McGrath, Harper
+         Collins, UKP16.99) anyway near as much as we wanted to -
+         sure, it's overwritten and full of lamers, but it feels
+         right, has an honest directness, and Dave makes a brief
+         cameo on page 230... conversely, Po Bronson's net-top box
+         novel THE FIRST $20M IS ALWAYS THE HARDEST (Secker &
+         Warburg, UKP 5.99) is much *worse* than anyone imagined -
+         if we wanted patronising tech explanations, we'd be buying
+         net mags (see also Po's very defensive AOL Website)... Hard
+         Drive sequel OVERDRIVE - BILL GATES AND THE RACE TO CONTROL
+         CYBERSPACE (James Wallace, John Wiley, UKP 16.99) is - just
+         - worth ploughing through pages of monopoly legalities for
+         Bill's tell-all personal details... despite the subhead
+         "Popular Science And Sex In America" NASA/TREK (Constance
+         Penley, Verso, UKP 11) is for cult-studies obscurists -
+         lovely jacket design, though... Edward Tenure's WHY THINGS
+         BITE BACK (Technology And The Revenge Of Unintended
+         Consequences) (Fourth Estate, UKP 8) seems to have
+         transferred to paperback with few dramatic side-effects...
+         and, as you sit in the sun, spare a thought for occasional
+         NTK music columnist JAMES FLINT, rumoured to be getting a
+         six-figure advance for forthcoming cyber-novel - so Jim,
+         guess you won't be doing this for the free CDs any more...
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "affiliated with joke-a-day".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and FLIRBLE.ORG.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+
+

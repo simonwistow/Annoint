@@ -1,0 +1,236 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-02-04_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+        "I feared women the way lots of people fear the Windows 
+         operating system. (But Apple products) are easy to use and 
+         people are empowered by this..." 
+   http://money.cnn.com/2005/01/26/technology/personaltech/apple_fans/
+                           ...ah, Windows - she is a mistress of pain. 
+                        And the "pleasure" that pain sometimes brings...
+
+         
+                               >> HARD NEWS <<
+                             mmm, petits filous
+
+         Everyone else likes to worry about Google's gathering
+         conflict of interests, but Verisign's S.P.E.C.T.R.E.-level
+         skills still take some beating. This week, orbiting crypto
+         analysts Ian Grigg and Adam Shostock belatedly pointed out 
+         to ICANN that perhaps Verisign couldn't trusted with
+         .net. Why? Well, Verisign these days offers both top level
+         domains and SSL certificate authentication. They also, with
+         their NetDiscovery service - sell ISPs a complete service for
+         complying with law enforcement surveillance orders. So, if an
+         American court demands an ISP wiretap its customers, and the
+         ISP turns that order over to Verisign to do the dirty: well,
+         Verisign can now fake any domain you want, and issue any
+         temporary fake certificate, allowing even SSLed
+         communications to be monitored. What's even more fun is that
+         they are - at least in the US - now moving into providing
+         infrastructure for mobile telephony. Yes, NOT EVEN YOUR 
+         RINGTONES ARE SAFE.
+         http://forum.icann.org/lists/net-rfp-verisign/msg00008.html
+                            - you know, this is probably a little late
+         http://iang.org/ssl/
+                             - but then, this is the year of the snail
+         http://www.thefeature.com/article?articleid=101334&ref=5459267
+                                  - stupid network vs stupider company
+
+         Seems like yesterday when the anti-software-patents movement
+         was being slighted for their confrontational approach.
+         Impudent letters to MEPs? Railroading national parliaments
+         to condemn their own commissioner's railroading of the patent
+         directive? Real, live, protests in Brussels? These are not
+         the subtle negotiations of which the EU is enamoured. It 
+         worked though: against all the odds, the software patent
+         process was hard-reset this week. Now it all starts again:
+         and with groups like the FFII, for better or worse, taken
+         much more seriously this time. Plus, it looks like Microsoft
+         has taken a leaf from the free software protesters' book.
+         Rather than simply lie down and take the EU's forced
+         unbundling of Windows and its media player, Microsoft have
+         cheekily named their new, legal, software "Windows XP:
+         Reduced Media Edition". We're thinking "Windows XP: Suck My
+         Pastel-Coloured Balls, Euroweenies" might have been mildly
+         more confrontational, but only just. And wll it work?  Angry
+         citizens are one thing; petulant, sulking, multinationals are
+         distinctly less ennobling. 
+   http://www.xenoclast.org/free-sklyarov-uk/2005-February/006042.html
+    - lobby your MEP to sort out their position (unless Green or UKIP)
+ http://www.theregister.co.uk/2003/06/29/open_source_prepares_to_kiss/
+                                - who's kissing whose ass goodbye now?
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         If you were tasked to come up with online equivalents of the 
+         12 mythical labours of Hercules, where would you start? 
+         Perhaps with contesting THE NETIMPERATIVE BEST DIGITAL MEDIA 
+         BLOG AWARD, whose closing date, we are assured, is now next 
+         Monday 2005-02-07, and whose entry fee (for the blog category 
+         at least) has now been waived - yet you must still capture the 
+         site's fearsome "PDF of Adobe" (and print it off and mail it 
+         to them) in order to be accepted within their hallowed walls. 
+         Similar tales of informational heroism shall echo round the 
+         campfire at THE OPEN KNOWLEDGE FORUM ON CIVIC INFORMATION 
+         (from 7pm, Thu after next 2005-02-17, Stanhope Centre, London 
+         W2 2HH, free), as bare-chested PHP-warriors Tom Steinberg, 
+         Francis Irving and Stefan Magdalinski recount their battles 
+         wrestling the golden chalice of local and national government 
+         data from the secretive high priesthood of Hansard. And, just 
+         to top it all, you probably won't have to tie yourself to a 
+         rock to endure the national tour of THE TWELVE TASKS OF 
+         HERCULES TERRACE (from next Tue 2005-02-08, Riverside Studios, 
+         London W6 9RL, tickets from UKP9, venues around the country 
+         from Feb 24) - a similarly contemporary take on the ancient 
+         legend from the fertile mind of Rich "Lee And" Herring who, it 
+         must be said, has shown considerable dedication to the actor's 
+         craft in "bulking up" for the role.
+         http://www.netimperative.com/awards/
+            - no, we're not sure what a "digital media" blog is either
+         http://www.okfn.org/wiki/OpenKnowledgeForums
+             - we don't normally link to wiki pages, but what the heck
+         http://www.richardherring.com/hercules/gigs/
+             - yes, tying yourself to a rock was someone else, we know
+         http://www.deadmansboots.co.uk/
+            - dancing to the rhythms of the dead, in London on Mondays
+         http://homepage.ntlworld.com/kate.darby/page8.html
+                         - another "Club Le Strange", London, next Thu
+         http://www.ukuug.org/events/winter2005/
+           - UKUUG winter conference in Birmingham at end of the month
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         an alarming return for "one of these is not like the others": 
+         http://images.google.com/images?q=%22ainsley+harriot%22 
+         (cached at http://xcom2002.com/doh/?s=05020416pic - along with 
+         the very latest in stupid Amazon mis-recommendation tricks: 
+         http://xcom2002.com/doh/?s=05020415eco )... hard to work out 
+         what "3D-like" means in "High-definition gives incredible, 3D-
+         like pictures and surround" - other than "not 3-dimensional": 
+         http://news.bbc.co.uk/1/4210551.stm ... inevitably, EU online 
+         consultation on eAccessibility - not very "eAccessible" 
+         itself: http://lists.virus.org/ukcrypto-0501/msg00049.html , 
+         http://europa.eu.int/yourvoice/forms/dispatch?form=369 ... 
+         all-video-game-themed puerile Google misspellings, all the 
+         time: http://www.google.com/search?q=%22games+consul%22 , 
+         http://www.google.com/search?q=%22price+of+persia%22 , 
+         http://www.google.com/search?q=%22motal+kombat%22 , and 
+         http://google.com/search?q=%22cannon+fooder%22 ... Happy 
+         Computers is "Great Place To Work (R)" - for disclaimer 
+         lawyers: http://www.happy.co.uk/greatplace/#greatplace ... 
+
+         
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         SUPERWABA! Superwaba! Soo-per. Wab-ah. Why is it that the
+         Brazilians always come up with the most mellifluous project
+         names? Superwaba is a mildy cut-down java compiler and class
+         library that can spit out native-code, cross-platform apps
+         for Palms, WindowsCE, desktop machines - and now, with
+         version 5.0, Symbian phones. It's for people who can't quite
+         bring themselves to use J2ME and its policy of "ooh I don't
+         think a little mobily thing like you should be trying big
+         boy work like that do you?". This version also marks a
+         change in their business model, which involves commercial
+         folk paying a license for a LGPL'd version. Free peoples can
+         use the GPLd SuperWaba for free just fine. You can tell this
+         has something to do with business models and commercial
+         respectability, because the new corporate-looking website is
+         unnavigable, and tells you nothing about the software. Ah
+         well, there's always the Wiki.
+         http://www.superwaba.com.br/etc/SuperWaba.pdf
+                                                   - or the README PDF
+         http://www.superwaba.com.br/
+                                         - uh-oh, strong relationships
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> disappointingly, THE FRIDAY NIGHT PROJECT (10pm, Fri, C4) 
+         appears to be an "11 O'Clock Show" format from the makers of 
+         "Dot.Comedy" rather than the eagerly-awaited TV debut of The 
+         London Friday News Review Project Thing, or whatever they call 
+         themselves nowadays... the all-new CSI: NY (9.05pm, Sat, C5) 
+         faces off against Farrelly brothers/ Jack Black/ Gwyneth 
+         Paltrow post-PC fat-suit feelgooder SHALLOW HAL (9.05pm, Sat, 
+         C4)... inexplicably shunting comparatively coherent Oliver 
+         Stone sporting movie ANY GIVEN SUNDAY to the PVR-wasteland 
+         slot of 12.40am, Sat, C5... Jimmy Carr can surely not ignore 
+         the Hasselhoff body of work if they do a "Worst of" roundup as 
+         a break from THE 100 GREATEST POP VIDEOS (8pm, Sun, C4)... for 
+         some reason, the suspension of disbelief just doesn't seem to 
+         work in these extended 30-min editions of LOOK AROUND YOU 
+         (10pm, Mon, BBC2) ... and the "Storyville" documentary strand 
+         visits a Nokia sweatshop/ factory in MADE IN CHINA (9pm, Tue, 
+         BBC4)... both Kurt "Slaughterhouse Five" Vonnegut and Stewart 
+         "Jerry Springer: The Opera" Lee appear in THE CULTURE SHOW 
+         (7pm and 11.20pm, Thu, C4) - though probably not at the same 
+         time... THE GADGET SHOW (7.30pm, next Fri, C5) pits Google 
+         "against some academics" - in a similar fashion to, a quick 
+         Google reveals, that Guardian article from a few months ago: 
+         http://www.guardian.co.uk/online/news/0,12597,1210455,00.html 
+         ... while NTK's "Dave Green" maintains that his cameo is 
+         "heavily disguised" - if it even appears at all - in Charlie 
+         Brooker/ Chris Morris TVGoHome spinoff NATHAN BARLEY (10pm, 
+         next Fri, C4) - http://www.trashbat.co.ck/ ... 
+         
+         FILM>> the stars are back in the coolest heist caper ever - 
+         but enough about next week's SPONGEBOB SQUAREPANTS: THE MOVIE 
+       ( http://www.capalert.com/capreports/spongebobsquarepants04.htm :
+         Patrick portraying sadomasochism; best friends SpongeBob and 
+         Patrick were the only ones in the show to flash bare 
+         backsides; two other characters [...] were noted gleefully 
+         rubbing their posteriors together but at least they were 
+         clothed)... the gag about one of the actors playing themselves 
+         is possibly the only original bit in extended David Holmes 
+         video/ modern-day "Pink Panther" retread OCEAN'S TWELVE (imdb: 
+         rome/ heist/ amsterdam/ sequel/ criminal-gang/ thief/ sequel-
+         to-remake/ train)... otherwise half-term is traditionally 
+         commemorated by a load of talking animals - oh and adolescent 
+         "my dad's the President" wish fulfilment frolic FIRST DAUGHTER 
+         ( http://www.screenit.com/movies/2004/first_daughter.html : 
+         We see [Katie "Dawson's Creek" Holmes] in some sexy-looking 
+         pajamas; We see [her] in small shorts, a low-cut top that 
+         shows cleavage, high-heeled boots and a blonde wig. After 
+         drinking too much, she gets up on a bar's runway and starts 
+         doing some sexy dance moves)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "Nathan Barley's *personal* lampshade, if you don't mind"
+           http://www.livejournal.com/users/internetsdairy/4504.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

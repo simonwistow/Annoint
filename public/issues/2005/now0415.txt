@@ -1,0 +1,216 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-04-15_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+       
+                               >> HARD NEWS <<
+                                  warm vdu's
+
+         And cue the Creative Archive! Oh sure, a few people have
+         griped about the "no-endorsement" clauses (hey, even the
+         mighty copyright-free NASA weakly requests you not to use
+         its material to imply United States Starfleet support). And
+         there's some real questions over what it means to be UK-only
+         (Will the BBC enforce the rule with special GeoIP "detector
+         vans" that will roam every street outside Britain? Is the
+         BBC motto going to be "Nation Won't Let Nation Touch Its
+         Preciousssss"? Or will the original copyright holders
+         eventually wise up and see the benefits of inevitable
+         worldwide distribution?) But the key promise has been
+         preserved: no DRM, and a working demo to test the waters.
+         Plus the Open University is on board, leading to potentially
+         endless "Look Around You"-style parodies. Also, actual
+         content: while nobody seems to have mentioned it, the BFI
+         have stepped up to the mark with three CA-licensed works:
+         "Silent Hamlet" (clearly some classic anime episode), "Looks
+         very jolly, doesn't it?" (would work great in a video remix
+         of Fatboy Slim's "Praise You"), and "Our New Errand Boy".
+         Which, presumably, is some sort of ad for BitTorrent.
+         http://creative.bfi.org.uk/
+             - oh come on, "Praise You" must be public domain by *now*
+http://creativearchive.bbc.co.uk/archives/what_is_the_creative_archive/
+  - FAQ has entry for old Dr Who episodes, oddly overlooks uknova.com
+         http://creativecommons.org.uk/
+    - and not to be outdone, actual CC licenses for England and Wales
+
+         Are we the only ones who suspect that when the election is
+         over, CHRIS LIGHTFOOT will be mysteriously found to be Prime
+         Minister, with the rest of the MySociety hackers in prominent
+         cabinet positions? The speed by which they have,
+         individually or acting in secret conspiracy, constructed
+         fistfuls of election sites, surely hints at some deeper lust
+         for power. Their slightly-defensively-domained NOTAPATHETIC
+         DOT COM takes your confessions as to why you're not voting
+         (we're looking forward to the MP's response site,
+         IDONTBLOODYWORKFORYOUTHEN.COM). Lightfoot-hosted,
+         party-based "Who Should I Vote For" competes with his
+         honourable colleagues' more granualar seven-question quiz at
+         Public Whip, which bases its demands on your personal MP's 
+         voting patterns. If just one of these sites were rigged to 
+         tell you to vote for the CVS party, they could get in with 
+         a landslide.
+         http://www.notapathetic.com/
+- we only picked Chris as leader because we suspect he's good in a coup
+         http://www.whoshouldyouvotefor.com/
+             - it's the "So You're Trying To Deny Being Lib Dem" quiz!
+         http://www.publicwhip.org.uk/election.php
+                         - worth clicking around the rest of the site
+         http://www.politicalsurvey2005.com/
+      - and here's another one (which "political quiz taker" are you?)
+         http://www.notapathetic.com/cgi-bin/tags.cgi
+                          - there's a cry for help if ever we saw one
+         http://www.mysociety.org/?cat=2
+                                  - and another: the developer's blog
+https://secure.mysociety.org/cvstrac/getfile/mysociety/bin/hassleblog?v=1.2
+                          - the technical fix to their social problem 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+        "You know, you can tell GPS was invented by a man", we caught 
+         ourselves thinking the other week, "because women tend not to 
+         be quite so inexplicably terrified of asking for directions." 
+         (Isn't that right, ladies? Well, isn't it?) Why not question 
+         this - and other gender-related stereotypes - at the launch of 
+         Cybersalon's VENUS RISING girl-gang think-tank (7pm this Tue 
+         2005-04-19, Dana Centre, next to the Science Museum, 165 
+         Queen's Gate, London SW7 5HE, free but RSVP to the email on 
+         the site), a debate chaired by Cyberia co-founder Eva Pascoe 
+         on whose turn it *really* is to "hold the remote control", if 
+         you know what we mean. 
+         http://www.cybersalon.org/future.html#venusrising
+        - also Jungulator show + workshop in North London on Saturday
+         http://www.dorkbot.org/dorkbotlondon/
+       - multimedia "Erotic Shortcuts" at Dorkbot London on Wednesday
+         http://www.tjm.org.uk/wakeup/comedy.shtml
+      - free charity gig with Rob "Hello..." Newman, midnight tonight 
+         http://www.notbbc.co.uk/not118/?31%5DaX%7BZrYx
+              - or sponsor LeeAndHerring.com's Rob in London marathon
+         http://www.penguicon.org/programming
+     - Cory Doctorow *is* Meat Loaf at Penguincon, Michigan, April 22
+         http://www.tvturnoff.org/week.htm
+                    - and don't forget TV-Turnoff Week, from April 25
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         Learn how to program your very own amazing disappearing left-
+         hand rollover menu (in IE - even worse in Mozilla/ Firefox): 
+      http://www.ics.heacademy.ac.uk/Events/Oxbrookes/bookoxbrookes.shtml
+         ... blinking botanists: http://www.botanic.co.uk/ ... "Do you 
+         comply with the DDA?", reads an image with no "alt" attribute: 
+         http://www.slingsby.com/ ... The Gadget Shop - (slightly 
+         overpriced) FALCO!: http://toynewsmag.com/newsitem.php?id=61 
+         ... browse the web - without leaving the comfort of the Half-
+         Life 2 engine: http://www.hostile-planet.com/gallery.php?4 ... 
+         perhaps making it slightly too easy for anyone to build their 
+         own official-looking site: http://www.labour.co.uk/ - vs 
+         esoteric satire: http://chimpen.com/tory/ ... so now maybe 
+         someone could have a go at that other annoying thing he wrote, 
+         retitled "If you're so super-smart, why don't you just work 
+         out what the other kids are doing to make them so 'popular'?": 
+         http://www.idlewords.com/2005/04/dabblers_and_blowhards.htm ... 
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         [TO TUNE OF "MICKEY", BY TONI BASIL] Greasemonkey, you're so
+         fine, you're so fine, you rewrite incoming HTML on the fly
+         within the Firefox browser, using user-defined Javascript
+         scripts, the script being determined by the URL of the
+         original page! Hey Greasemonkey! GM is the premier
+         bit-tampering plugin, based on its growing library of
+         rewriters, which do locally what the best guerilla usability
+         sites did at the server: skin sites, strip ads, de-Flash
+         Flickr, grab Salon daily passes, cut out Michael Jackson
+         stories from Reuters, and splice Bloglines and Del.icio.us
+         together in inhuman ways, and so forth. For those trapped 
+         by the Time Wars in the 20th Century, there was briefly
+         GREASEMONKIE, which did the same thing for Internet
+         Explorer co-dependents. Todd Ostermeier even attempted to
+         patch IE's idiosyncratic Javascript library so that
+         Firefox-sourced scripts would work unchanged. But now,
+         that's gone - and who will write a replacement? Will it be
+         Dean Edwards, master of the IE7 library? Will it be you?
+       http://www.daishar.com/downloads/GreasemonkIE/greasemonkie.msi
+                                    - no. not you, the guy behind you
+         http://dunck.us/collab/GreaseMonkeyUserScripts
+                                       - don't break my heart, monkey 
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the "psychological" illusionist faces his greatest 
+         challenge yet - befuddling the fearsome intellect of mental 
+         giant Simon Pegg in DERREN BROWN: TRICK OF THE MIND (9.30pm, 
+         Fri, C4)... C4 counts down THE 100 GREATEST ALBUMS (8pm, Sun, 
+         C4) - which, for the benefit of our younger readers, were an 
+         old-fashioned way of selling music that padded out the better-
+         produced tracks with obvious filler material... similarly, it 
+         may help to think of POINT BREAK (9pm, Sun, C4) as basically 
+         "The Fast And The Furious", but with extreme sports instead of 
+         racing cars... the British fixation with hobbies that are 
+         extremely time-consuming, yet ultimately produce very little, 
+         is celebrated in the three-part history of cartoons ANIMATION 
+         NATION (9pm, Mon, BBC4)... "Best way to make it look like 
+         you've lost weight? Holiday with Americans", recommends 
+         obesity-reality docu WELCOME TO FATLAND (8pm, Tue, ITV)... 
+         while Freeview watchers may sometimes feel they're in their 
+         own special purgatory condemned to watch it every other week, 
+         but it's always worth catching the magnificent production 
+         design of Paul Anderson's demented "Solaris"-remake career-
+         highlight, EVENT HORIZON (11.45pm, Fri, BBC1)...
+         
+         FILM>> spring is here at last, commemorated by traditional 
+         cinematic celebrations of transformation and rebirth such as 
+         Wes Craven's troubled Christina Ricci werewolf romp CURSED 
+         ( http://www.cndb.com/movie.html?title=Cursed+(2004) : After 
+         Judy ["Arrested Development" Greer] is (spoiler!) killed she 
+         is seen in the fetal position offering a split-second shot of 
+         her ass in profile. Not brightly lit and far too brief to be 
+         of much interest) - or the equally uninspiring Michael "Pearl 
+         Harbor" Bay-produced retread of THE AMITYVILLE HORROR (imdb: 
+         haunted-house/ axe/ based-on-true-story/ demonic-possession) 
+         ...then also next week, Debra "Prey, Will And Grace" Messing's 
+         man-troubles continue in romantic gigolo farce THE WEDDING DATE
+    ( http://www.cndb.com/movie.html?title=Wedding+Date%2C+The+%282005%29
+         When [Debra] embraces Dermot Mulroney and start[s] rolling 
+         around, we get a nipple peek for about a second. Worth it only 
+         if you are a Debra fan)...
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                    "puckish"
+www.corante.com/copyfight/archives/2005/04/04/gearing_up_for_world_ip_day.php
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

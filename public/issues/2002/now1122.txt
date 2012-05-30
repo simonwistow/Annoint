@@ -1,0 +1,261 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-11-22_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                                >> HARD NEWS <<
+                                tentative phews
+
+         Ding dong, the witch is - well, not dead, exactly, but
+         certainly trapped in an environmental stasis field for the
+         holidays. The EUROPEAN COPYRIGHT DIRECTIVE, aka the evil
+         EuroDMCA, has been postponed. Thanks to your three hundred or
+         so comments on the UK Patent Office's consultation document,
+         the government has admitted that it'll have to go back to
+         the drawing board. They've postponed the law until March
+         2003 instead of the 2002 Christmas pressie we were all
+         expecting. An excellent result, given that a) the original
+         British draft had almost all of the bad bits of the EUCD
+         with none of the handy get-out clauses, and b) up until now,
+         the government has claimed that to miss the original
+         deadline would be "In Serious Breach Of Treaty", with
+         punishments including exile from the EU and being forced to 
+         beg for subsidies on the streets of Norway. 
+         http://www.patent.gov.uk/copy/notices/report.htm
+      - "the degree of importance attached by certain correspondents"
+         http://www.theregister.co.uk/content/54/28202.html
+   - "not in the business of locking up content", a Reg reader claims
+
+         So will the Patent Office listen to your complaints? Odder
+         things have happened - are happening, indeed. We're
+         currently watching the Home Office with something almost
+         approaching sympathy, as they attempt a new consultation
+         over this year's RIP "give spying powers to parish councils"
+         statutory instrument. Their first port of call, naturally,
+         was the wise yet opinionated folk of the ukcrypto mailing
+         list. Three weeks on, dozens of longwinded threads, a
+         smattering of Ross Anderson prophecies of doom, and
+         hundreds of emails later, the list is still in major thrash
+         mode. Three hundred comment documents must look like a
+         couple of Post-Its to the beleagured HO subscribers.
+         Unless, of course, drowning us all in nitpicking discussions
+         while they get on with the dirty work is exactly what our
+         betters *want* to happen...
+http://www.chiark.greenend.org.uk/pipermail/ukcrypto/2002-October/020853.html
+                                                        - starts here
+http://www.chiark.greenend.org.uk/pipermail/ukcrypto/
+                                      - two megs on, it's still going
+         http://www.cl.cam.ac.uk/~rnc1/APIG021115.pdf
+                     - plus: a data retention inquiry? Whatever next?
+
+         Looks like JASON CLIFFORD, a man who has had his fair share
+         of ups and downs on the Usenet reputation rollercoaster, 
+         has been wheeling out another well-meaning, if slightly
+         controversial, project. The father of UK distro Definite
+         Linux and founder of uklinux.net split with the latter
+         company earlier this year after he felt that their plan 
+         to plough money into the Free Software movement from
+         UKLinux's dialup ISP profits wasn't really happening. Now
+         he's launched the UK Free Software Network - a new ISP
+         which, he says, really will pay back the community. In a
+         nice twist, he's setting up public accounts to show what's
+         going on. Really public. Every month, UKFSN promises to post
+         up the company's profit and loss on their website, for
+         everyone to see. It's an ambitious undertaking, and seeing
+         as UKFSN seems to be a bit of a one-man operation, we hope
+         Jason hasn't bitten off more than he can chew. But even if
+         you don't support it, it'll be interesting to see if these 
+         mini-ISPs really are a Perl script for making money
+         (Clifford claims that UKLinux pulled in over 120,000UKP a
+         year). And for the time being, who can fault a dial-up
+         service whose current status report includes "In what I can
+         only describe as a screw up of monumental proportions, I had
+         forgotten to turn on PHP support" from the CEO?
+         http://www.ukfsn.org/status/
+                                                              - bless
+         http://www.jasonclifford.com/uklinux.html
+                                   - Jason's side of the story so far
+         http://groups.google.com/groups?q=jason+clifford
+                                        - the court of usenet opinion
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "clean underwear" recommendations were "joke", AMAZON claim: 
+         http://www.goodexperience.com/columns/02/1121.amazon.html ... 
+         enjoy taking surveys? "Enter survey number" from 1-3000, press 
+         "Go": http://www.advancedsurvey.com/ ... MISSPELLINGS AHOY: 
+         http://www.google.com/search?q=%22buggers+belief%22 , "bomb 
+         treats", "prictical", "jewish setters" and, following on from 
+         last week's "risumi", the increasing pressure to decriminalise 
+         middle-class use of http://www.google.com/search?q=canapis ... 
+http://ak.bluestreak.com/adv/aol-uk/^1941/^79772/lfstyl_skyscraper_600x120.gif
+         imitates http://www.epigee.org/ocd/graphics/scream-md.gif ... 
+         BILL THOMPSON describes first right-hand link as "blah blah 
+         blah": http://www.bbc.co.uk/webwise/column/col157.shtml ... 
+         "Yatter yatter yatter" help desk informatively agrees: 
+         http://www.encorecbt.com/clients/nationwide/ ... not sure what 
+         ads are trying to say about thrift shopping for video games: 
+  http://groups.google.com/groups?selm=395CBB2B.58CEB7B5%40earthlink.net ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Want to be part of the increasingly fragmented UK new media 
+         "networking" scene, but can't tell the difference between one 
+         bunch of braying self-congratulatory wankers and the next? 
+         Then you'll be pleased to hear that NOTJUSTANOTHERFAILING.COM 
+         shares your exasperation, and sent out their invites to 
+         December's THE RED SIDE CHRISTMAS PARTY (Thu 2002-12-05, The 
+         Propaganda Bar, London W1, UKP15) with the generic mailmerge 
+         instructions still in them. "This Christmas, [insert name of 
+         community here] has joined up with 14 other online communities 
+         to bring you the best party of the season", they enthuse. 
+         "[Add community comment or promotional offer here]", they 
+         continue, before making you feel really special with the 
+         personalised signoff, "Wishing you a very merry Christmas, 
+         [insert community name here]". The descriptions of the other 
+         participants are no more reassuring: "physical e-business 
+         community" METROCUBE; "intelligence for digital business" 
+         NETIMPERATIVE; plus the lone, terrifying epithet CHINWAG - no 
+         further description apparently required. 
+         http://www.theredside.com/
+               - OK, so it's a cool name for it. We'll give 'em that.
+         http://g2002.bash.sh/cgi-bin/gwi?mode=page&pg=home
+                    - also in Dec: return of the LAN bash in a bunker
+         http://www.ica.org.uk/index.cfm?articleid=10701
+               - or 6 quid to listen to Bill "Tiddly Om-Pom" Thompson
+         http://www.bath.ac.uk/~su1fish/
+                - tonight: your last chance to see Ben Moor. In Bath. 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Anyone who saw his storming depiction of weird-ass NAT
+         tunnelling at last year's Codecon knows that you don't get
+         much more twisted copper-pair than Dan Kaminsky. That boy is
+         to data packets what Magneto is to iron filings. So it's
+         with some trepidation that we announce a public snapshot of
+         Dan's current mental state in PAKETTO KEIRETSU, a grab-bag
+         of sick and evil things done with bits on a wire. Stateless
+         port-scanners, traceroutes so far down the OSI Networking
+         model they're into the negative numbers, ethernet trailer
+         steganography, a userland "virtual router" that uses
+         ethernet multicast to let machines on a network share the
+         same IP address (think of it as NAT turned inside out). If
+         that's not enough, there's a graphics dumper that takes
+         those strange-attractor fingerprints of sequence ids and
+         turns it into a 3D voxel plot, and the usual fine
+         caffeinated stream o' consciousness Kaminskytron prose to
+         penetrate. As ever, it's not quite what these
+         mini-utilities do as much as how the hell they do it. Not
+         black hat or white hat but *deep* hat going on here.
+         http://www.doxpara.com/
+                      - person most likely to be digitised by the MCP
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         great gift ideas #1 - t-shirts, coffee mugs, keyrings from 
+         "merchandise" page at: http://www.neuticles.com/index1.html 
+         (via http://www.indiana.edu/~wanthro/museum.htm )... ladies 
+         and gentlemen, may we present - Al-Qaeda's Winter Collection: 
+         http://www.oxbridgecasuals.co.uk/millennium/fleece.htm ... vs: 
+         http://www.utilikilts.com/ ... on a similarly Scottish note: 
+         http://www.limmy.com/playthings/xylophone/ ... found photo 
+         fun: http://www.diddly.com/random/ ... very prior art: 
+         http://www.ananova.com/news/story/sm_709660.html ... set your
+         clock to 23:59: http://www.yugop.com/ver3/stuff/03/fla.html ... 
+         look-o-like-o JACKO: http://anomalies-unlimited.com/Jackson.html 
+         ... MARK WARD revives last year's "not a fruit at all" gag: 
+         http://news.bbc.co.uk/1/hi/1560419.stm for "not an interview at 
+         all": http://news.bbc.co.uk/1/hi/2488049.stm - ah-haaaaaa!...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> sci-fi classic THE THING FROM ANOTHER WORLD (1.20am, Fri, 
+         BBC2) didn't have the special effects to do the shape-shifting 
+         alien from the original short story, subsequently resurrected 
+         by John Carpenter's "The Thing"... Billy Connolly is the voice 
+         of a computer-literate dog in Aussie soap-actor kiddie caper 
+         PAWS (4pm, Sat, C4)... and FAME SET AND MATCH (8.55pm, Sat, 
+         BBC2) looks at the jetset lifestyles enjoyed by Peter Cook, 
+         Dudley Moore, Jonathan Miller and Alan Bennett following their 
+         appearance in "Beyond The Fringe"... the BBC counterprogrammes 
+         ROBIN HOOD: PRINCE OF THIEVES (7.50pm, Sun, BBC1) against 
+         ITV's all-star remake of DR ZHIVAGO (9pm, Sun, ITV) and C4's 
+         incisive analysis of the significance of the female bottom in 
+         modern society, BOOTYLICIOUS (10pm, Sun, C4)... REAL LIFE: 
+         FLEUR'S STORY (10.30pm, Mon, ITV) looks at a kid with 
+         progeria, the accelerated ageing disorder suffered by JF 
+         Sebastian in "Blade Runner"... Mark Kermode continues his 
+         mission to shock "normals" out of their complacency with 
+         previously unshown footage from THE DEVILS (11.10pm, Mon, C4) 
+     http://media.guardian.co.uk/broadcast/story/0,7493,843371,00.html
+         ... and the perils of not keeping offsite backups are once 
+         again highlighted by the interminable TERMINATOR 2: JUDGEMENT 
+         DAY (9pm, Mon, C5)... the former owners of HMV trace their 
+         roots back to the military-industrial-entertainment complex in 
+         EMI - AND ME (9pm, Wed, BBC2)... Crystal, De Niro and Kudrow 
+         look on the lighter side of "The Sopranos" in ANALYZE THIS 
+         (9pm, Wed, C5)... James Randi's $1m Homeopathy Challenge is 
+         put to the test in HORIZON (9pm, Thu, BBC2)... as Ewan 
+         McGregor chooses weird Cthulhu sex in Lovecraftian Ian McEwan 
+         adaptation SOLID GEOMETRY (10.35pm, Thu, C4)... 
+         
+         FILM>> as if they hadn't all been made to a rigid formula 
+         anyway: http://www.langleyhigh.com/english/bond/formula.htm , 
+         they're making a big thing out of the "references" to all the 
+         preceding Bond films - mad millionaire, terrible sub-"Carry 
+         On" dialogue, invisible car etc - which appear in DIE ANOTHER 
+         DAY ( http://www.screenit.com/movies/2002/die_another_day.html :
+         [Halle Berry] shows cleavage and other skin in various scenes; 
+         We see [Rosamund Pike] in something akin to a sports bra top; 
+         some kids many want to imitate Bond or Jinx's adventurous 
+         stunts, fighting and/or the double entendres they deliver)... 
+         otherwise it's another wistful 1970s Midlands/Asian coming-of-
+         ager ANITA AND ME ( http://www.bbfc.org.uk/ : Contains 
+         moderate language, violence and sex references) - not to be 
+         confused with brutal fact-based crime drama TED BUNDY (imdb: 
+         masturbation-scene/ painful-sex/ rape/ serial-killer)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                     "easily confused with NeedtoKnow.Com"
+       http://media.guardian.co.uk/newmedia/comment/0,7496,843324,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

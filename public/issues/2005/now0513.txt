@@ -1,0 +1,207 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-05-13_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+       
+        "I'm a programmer by trade and I know probably several 
+         hundred, and I have only ever met one woman," Mr Sear said
+                       [end of] http://news.bbc.co.uk/1/4530583.stm
+             - that's enough "I met a woman once" boasting from you, 
+      Mr Super-Cool Games Programmer lording it over the rest of us
+
+
+                               >> HARD NEWS <<
+                               MS misconstrues
+
+         The 1400-word terms and conditions for MSN.CO.UK's strong-IP 
+         "Thought Thieves" film competition are quite the read, even if 
+         you're not the 14-17 year-old they're intended to be read and 
+         understood by and complied with in their therein bywhich 
+         entirety. Entries must be the "sole work and creation of the 
+         person submitting the film" (no sharing your precious 
+         intellectual property fluids with your cameraman, Mr Auteur); 
+         must not "use third party intellectual property rights" (no 
+         furniture, no architecture, only clouds as background); the 
+         entry form additionally specifies "Should I be selected as a 
+         finalist [...] I will formally licence on terms acceptable to 
+         Microsoft, all intellectual property rights in my film and 
+         agree to waive all moral rights in relation to my film if 
+         requested to do so". But what we made us wonder was: where 
+         exactly did Microsoft get this "Thought Thieves" idea from? 
+         The idea that people can "steal your thoughts" is surely not 
+         original. We're hoping for a class-action by paranoid 
+         schizophrenics, who we think came up with the idea that others 
+         are stealing the very THOUGHTS FROM YOUR MIND a good few years 
+         before Microsoft started losing theirs.
+         http://www.msn.co.uk/thoughtthieves/
+                        - send us a copy of your entry. We'll do prizes.
+         http://www.the-future-of-ideas.com/excerpts/index.shtm
+      - Lessig's book starts at the exact point the T&C gets ridiculous 
+         
+         On top of that, legal experts agree, it's not like there's 
+         usually copyright in "just an idea" in the first place. It's 
+         this (and the fact that it only seems to encourage them) 
+         that's preventing us from having more of a pop at sampling 
+         pranksters NEGATIVLAND, no doubt currently asking themselves 
+         how they can possibly stay cutting-edge and relevant in a 
+         world where pretty much any semi-talented PC owner can churn 
+         out audio collages to their sort of standard - and beyond. One 
+         possibility, on their new album out May 26, has been to base 
+         their 10-min "Downloading" track around former Grammy head's 
+         Michael Greene's anthemic "insidious virus" address - yes, the 
+         same one that NTK readers were enthusiastically remixing 
+         shortly after he actually made the speech, certainly not much 
+         more than three long years ago.
+         http://www.negativland.com/nobiz/
+            - yup, also appears in the epic http://djfood.org/info.html
+         http://www.ntk.net/index.cgi?b=02002-05-10&l=70#l
+            - vs http://www.ntk.net/2003/05/09/DownloadingLivesAway.mp3
+         http://www.primalscreamremixed.com/
+           - pioneering nu-skool of collages that actually "have a tune"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Worried that Java is insufficiently free for your dirty
+         tree-hugging OpenOffice.Org? Hah - NeoOffice/J is far more
+         blasphemous! For those who have already SOLD OUT and are
+         running MacOSX, it's an OpenOffice implementation that has
+         been stitched, with no care for scruples, to Java *and*
+         Cocoa, and probably the corpses of some murdered free
+         software coders too. Disorientingly, it works rather well,
+         and rather speedily: you don't need X11, it uses Aqua menus
+         (no Services, mind), and you can use Mac fonts and do that
+         magic thing that open source practitioners have theorised
+         may be "actually printing" (only 300dpi mind you). And it's
+         GPLed too, so even when you're feeling bad, you don't have
+         to *be* bad. Well, not very.
+         http://www.neooffice.org/
+- for those interested in software that is "free as in - oh shiny thing" 
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         Morse: "This parchment - must date back to the Roman era. 
+         Lewis, find me a Latin-speaking special constable right away": 
+http://www.herts-recruitment.police.uk/03_specials/03.3_profile2_2004.htm 
+         ... oh, those saucily-named Korean Nintendo DS dating sims: 
+         http://www.touchdic.co.kr/ ... German comedy confectionery 
+         page: http://nicoladoering.de/gbear.htm - as theoretically 
+         rigorous as you'd expect... Google goofs of the edible/ 
+         natural world: http://google.com/search?q=%22larva+lamp%22 , 
+         http://google.com/search?q=%22doner+card%22 / "donor kebab", 
+         http://www.google.com/search?q=%22endangered+spices%22 ... 
+         PageRank to replace democracy - Andrew Orlowski's head to 
+         explode: http://groups.yahoo.com/group/sd-2/ ... Google 
+         apparently misunderstanding that this is what a search engine 
+         is intended to do: http://google.com/press/testimonials.html ... 
+         
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         And the award for this year's "Conference With The Most 
+         Sessions Featuring The Letter X In Their Title" must surely be 
+         in the bag for the event formerly known as XML Europe, XTECH 
+         2005 (from Tue May 24, Rai Centre, Amsterdam, registration 
+         fees from $175 for "Students without lunches" - lunch upwards 
+         of $150 extra), where NTK readers Edd Dumbill and Matt 
+         Biddulph have assembled an acronym-tastic lineup covering 
+         XSLT, CMS, XAML, XUL, RSS, JFDI, ROME, XFY, IDE, FOAF, RDF and 
+         SVG - and that's just on the first day! As Edd himself pointed 
+         out, we've all come a long way since he first wrote to us 
+         about how impressed he was by the "free orange squash and 
+         choc-chip biscuits" being given away by one VC-happy exhibitor 
+         at Kensington's "World Of Amiga" show back in July 1999...
+         http://www.xtech-conference.org/2005/schedule.ASP
+                - vs http://www.ntk.net/index.cgi?b=01999-07-30&l=244#l
+         http://www.dorkbot.org/dorkbotlondon/
+          - Dorkbot London on Wed if you're not going to E3 or anything
+         http://www.onedotzero.com/event.php?id=30952
+          - onedotzero9 digital film stuff at the ICA at the end of May
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> sure, we can understand it not being in the Top Ten or 
+         anything, but surely it's an oversight to leave "Starship 
+         Troopers" out of THE 100 GREATEST WAR FILMS (about 9pm, Sat 
+         and Sun, C4) altogether?... presumably Errol "Fast, Cheap And 
+         Out Of Control" Morris' extended Robert McNamara interview THE 
+         FOG OF WAR (10pm, Sun, BBC2) was excluded from the chart for 
+         slightly *too* unflinchingly depicting the real horrors of the 
+         battlefield... while George Lucas' latest effort remains 
+         largely uncriticised in both STAR WARS: FEEL THE FORCE (8pm, 
+         Wed, Sky1) and GENERATION JEDI (9pm, Sun and Fri; 11.30pm, Tue 
+         and Thu, BBC3)... expect a bit of coverage for CELEBRITY LOVE 
+         ISLAND (10pm, weeknights, ITV), though frankly we're more 
+         intrigued by the preposterous "past life regressions" of Dr 
+         Fox, Anneka Rice, and Lisa I'Anson in HAVE I BEEN HERE BEFORE? 
+         (1.30pm, Mon-Fri, ITV)... "The Money Programme" catches up 
+         with the VOIP phenomenon in THE FREE PHONE CALL REVOLUTION 
+         (7pm, Fri, BBC2)... and look out for http://snackspot.org.uk/ 
+         savouries correspondent Stuart Campbell sharing his crisp-
+         sampling expertise in the "Potatoes" edition of EVER WONDERED 
+         ABOUT FOOD? (11.30am, next Sat, BBC2)... 
+         
+         FILM>> ditzy J-Lo discovers her husband-to-be is the son of 
+         notorious serial killer Aileen Wuornos in slapstick sequel 
+         MONSTER-IN-LAW ( http://ahafilm.info/movies/mr.phtml?fid=7651 :
+         [Lopez] sits on the beach with four of her canine clients when 
+         one of the dogs tries to mount another)... "no wirework, no 
+         CGI, and very few scenes that don't feature some form of 
+         kickboxing" are the unique selling points of onomatopoeic Thai 
+         beat-'em-up ONG-BAK ( http://mpaa.org/ : Rated R for sequences 
+         of strong violence, language, some drug use and sexuality)... 
+         and speaking of martial arts, they don't seem to retained many 
+         of the original Jackie Chan/ Jennifer Love Hewitt/ robot suit 
+         characters in "The Tuxedo" time-travel followup THE JACKET 
+         ( http://cndb.com/movie.html?title=Jacket%2C+The+%282005%29 : 
+         After a heaping load of plot development, [Keira Knightley's] 
+         character, much to our delight, decided to take a bath. She's 
+         sitting in the tub, and her left breast can be seen for 
+         several seconds)... then, next week, the special effects are 
+         inevitably let down by all the mystical new-age nonsense, but 
+         that's enough about quantum pseudoscience WHAT THE [BLEEP] DO 
+         WE KNOW!? ( http://www.guardian.co.uk/life/badscience/ : [Jars 
+         of] water photographed after positive words such as "love" and 
+         "thank you" was [sic] taped to them overnight produced 
+         beautiful patterns)... as 28 years of suffering at last comes 
+         to some sort of end in (hopefully) the last ever "Star Wars" 
+         film, EPISODE III - REVENGE OF THE SITH ( http://mpaa.org/ : 
+         Rated PG-13 for sci-fi violence and some intense images)... 
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "wanting high-caffeine soft drinks" 
+http://telegraph.co.uk/money/main.jhtml?xml=/money/2005/05/09/cbstar09.xml 
+         
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,327 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____31/10/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Positive effects include increased hand-eye co-ordination,
+         attention span, motivation, a sense of mastery and control and
+         a reduction in other youth problems due to addictive interest
+         in games."
+         - Dr Mark Griffiths on the up-side of video games/net addiction
+                     also works if you replace the word "games" with "crack"
+
+
+                               >> HARD NEWS <<
+                                soft wariness
+
+         Looks like the cradle rocks both ways. DIGITAL, American
+         nanny for British Advanced RISC Machine's infant StrongARM
+         processor, casually swung the poor babe over to INTEL this
+         week as part of an out-of-court patent settlement. Intel
+         get full development rights to the processor, in a deal
+         that also involved buying up Digital's fab plants, and
+         getting Digital to develop Intel-based servers. Digital
+         deny dropping the fledgling (despite a lot of concerned
+         mutterings from its own dev team), and have stated that
+         spending time with Intel will only help the child.
+         Commentators agree that it would be criminally negligent of
+         INTEL to let the chip languish, especially when it had such
+         a promising future in Oracle's Network Computer design, a
+         system intended to destroy Intel's monopoly of the personal
+         comput... uh-oh. Butterfingers.
+         http://www.arm.com/                  you did WHAT with WHO?
+         http://www.intel.com/             more zero-RISC strategies
+
+         It's unclear whether geek sharpshooters are now due an
+         amnesty after CLASS 3 LASER POINTERS were banned from sale
+         by Consumer Affairs minister Nigel Griffiths. Sure, maybe
+         the "heckling lecturer with gunsight on forehead" gag was
+         wearing thin, or, if you'd prefer a pro-privacy conspiracy
+         theory: exactly how good were laser pointers at taking out
+         CCTV cams? Maybe it's time to switch to those invisible
+         wavelengths, like Jan Eric Herr's new "phaser", a UV laser
+         that creates an ionised air plasma beam down which taser-
+         esque electric currents can be sent to stun your victim. As
+         the inventor himself told NEW SCIENTIST "any technically
+         competent person [can] build [one]".
+         http://www.laserinfo.com/mesh_500.htm
+                         - "do not stare at beam with remaining eye"
+         http://patents.uspto.gov/access/search-num.html
+          - pat.no.5675103. See also this Xmas' Innovation catalogue
+
+         With job cuts, top-level resignations and a fast viewpoint
+         change in company direction, flash workstation makers
+         SILICON GRAPHICS would clearly much prefer to be associated
+         with the dinosaurs in Jurassic Park rather than the ones in
+         their current product line. Forget what the good guys use
+         in movies like The Peacemaker, Twister, and Disclosure -
+         Windows NT boxes may not be sexy, but have outperformed
+         desktop SGI kit for some time now (at least in terms of
+         millions of polygons per second vs $millions of loss per
+         quarter). SGI are now moving towards making souped-up 300-
+         MHz+ Pentium II machines, keeping their exotic Irix/MIPS
+         combo for high-end graphics and server apps. Hopefully
+         this'll shut up lazy games mags who continue using the term
+         "SGI rendered" to describe anything more sophisticated than
+         Battlezone.
+         http://reality.sgi.com/ariel/sgi-myths.html
+         - still, everyone loves 'em (for all the good that did Apple)
+
+         You can talk chaos theory until you're sick (and we've been
+         to those parties too), but the fact remains - no-one knows
+         what caused the stock market to crash. Or do they? Here's
+         the story going around the *entirely reputable* Brit
+         hacking underground: Bill Gates used "clandestine
+         technology and hidden currency assets" to massage the Hong
+         Kong exchange as a warning to the Clinton administration.
+         The clues? Trader Websites all over the world slowed to a
+         crawl on the day - a classic Gates hallmark. Microsoft
+         employees were reported to be "unconcerned" by the turmoil.
+         Apple stocks remained entirely unaffected. And the
+         clincher: on Monday, Larry Ellison was made to lose $666
+         million. And if that's not the sign of the Beast at work...
+         http://www.connix.com/~rzs/humor/666.html
+                 - great timing to launch http://finance.yahoo.co.uk
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         CANADIAN TEENS are "injecting beer into their veins"; it
+         gives a "faster rush" and "leaves very little odour" (plus
+         "a sense of mastery and control"?)... new ST: VOYAGER
+         character called "Annorax"... new EDGE boldly addresses
+         sexism in video games, complete with lavish
+         illustrations... JUPITER on-line experts at London
+         conference refer to UK's "free local calls"...  TimeOut ad
+         for LONDON ELECTRONIC ARTS ignores own URL, instead links
+         to Lutheran Education Association... AMIGA FORMAT boasts
+         readership is 99.7% male... Cornell prof Ken Birman boasts
+         that hospital monitors, air-traffic control systems will
+         all run Win95, as his PC PowerPoint keeps crashing...
+         ALTAVISTA.COM is linked by 35,000 Web sites - according to
+         the *real* Altavista at altavista.digital.com ... STEVE
+         JOBS caught parking in Apple disabled space... irony of new
+         HOTWIRED STYLE book on Web design rivals even "Create This
+         Hideous Cover Image At Home!" headlines in COMPUTER ARTS...
+
+
+                              >> EVENT QUEUE <<
+                          places to be, pizzas to go
+
+         SCI-FI CON 2.0? STARSHIP TROOPERS CON, more like!
+         Admittedly, the Sci-Fi Channel has suited up a couple of
+         other celebs for their all-weekend online "convention", but
+         it's probably Paul Verhfuhruhurroeven (and his other bug-
+         blasting comrades - including RoboCop/Troopers writer Ed
+         Neumeier) that'll get the rookies signing up in droves.
+         Other Federal credits include a "dramatic reading" of
+         HG Wells' First Men In The Moon by LEONARD NIMOY (let's
+         hope it's as "dramatic" as Bill Shatner would have made
+         it), plus RealVideo showings of MYSTERY SCIENCE THEATRE
+         3000. It could be a pleasant off-world alternative to Radio
+         1's special "Spice Girls" weekend (haven't they heard?
+         everyone's *officially* bored of them now), though Radio 4
+         may tempt you back to Earth (so to speak) with their
+         adaptation of Arthur C Clarke's first-contact cracker,
+         CHILDHOOD'S END (2.30pm, Sun; repeated 2pm, Fri).
+         http://www.scifi.com/scifi.con/
+          - nice of them to do GMT times, rather than just stardates
+         http://www.starshiptroopers.com
+             - what's scarier: giant insects or this much Shockwave?
+
+         Two places not to wear your Microsoft baseball cap: this
+         weekend's ACORN WORLD 97 (Wembley, 31/10/97-02/11/97) will
+         be one of the first places you can buy their new "Network
+         Computers" (only UKP300!), while next week's APPLE EXPO 97
+         (Olympia, 05/11/97-07/11/97) will be one of the few places
+         you can still buy their "Macintosh Computers". Haha, only
+         kidding, we *love* those tiny user community get-togethers.
+         http://www.argonet.co.uk/acornworld97/
+
+
+                                >> TRACKING <<
+                                   ftp asap
+
+         If you just watch CNN for James Earl Jones, or, in Europe,
+         the entertaining "watch us at these fine hotels" breaks,
+         we've got a better excuse. CNN has running a Vxtreme stream
+         of its US channel on its Website for some weeks now. Long
+         enough for them to forget to turn off the feed during the
+         ad breaks. You've missed most of the jokes made by
+         presenters about the Louise Woodward case, but we're
+         hopeful they'll continue their "special commentary" into
+         even more distasteful waters.
+         http://www.cnn.com/SPECIALS/live.video/
+         - that hack who said "nice tits" during the Diana coverage
+                                           what *did* happen to him?
+
+         Just when you thought THE SANTA CRUZ OPERATION was going to
+         end with the death of the patient, they come up with
+         frankly rather astounding TARANTELLA system. It's an X-
+         Windows, Windows, and 3270 client for Java browsers, and
+         the demo on the site (which is all we're interested in)
+         let's you indulge in such delights as running Xclock,
+         Tetris, Excel and Powerpoint - on SCO's own machine! Forget
+         the security loopholes - feel the refresh.
+         http://tarantella.sco.com/
+                                  - it'll slow to a crawl now, natch
+
+         Cyber-philosophy art mag MUTE is soliciting for
+         contributions to their next "Art News" listings page. Now,
+         we like to think of Mute as Whizzer to our Chips (in so
+         many ways), so we were initially tempted to smuggle in our
+         list of made-up techno installations ("Jan 3rd, ICA: Dr
+         Garina Kildall will be performing 'Server-LAN', a
+         performance piece in which ex-members of the Blake's 7 cast
+         mime the CORBA client-server API.", that kind of thing).
+         But they do say that "the word 'Art' has been very broadly
+         interpreted in the past", so it may be that your real-life
+         Quakefest might fit the bill. Send 60 words or less to
+         <mute@easynet.co.uk>. Your happening should take place
+         after January, and should incorporate the words "fractal",
+         "virtual" and/or "vectored art phase-space" in the title.
+         http://www.metamute.com        ASCII is the new avant-garde
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         www.rageboy.com ... Uni-ball pens... ICQ port for Amiga?...
+         www.phunhaus.com/ugly/ ... giddyup, Namco's FINAL
+         FURLONG... whatever next, the Commemorative Princess Diana
+         Edition of MINESWEEPER FOR WINDOWS?... SUNDAY TIMES
+         contains more info than a 17th Century person would have
+         been read in a whole lifetime - about as accurate, too...
+         www.phoenixnewtimes.com/extra/gilstrap/jesus.html ... the
+         fluffy "LINUX PENGUINE" (sic)... quake II game prompt: GIVE
+         ALL... upcoming DAILY STAR "Virtual Girlfriend" CD-ROM -
+         user: "joanne", password: "guest"... www.d-b.net/dti/
+         Virgin Interactive: management buy-out... Webmedia's Ivan
+         Pope diversifying like crazy... best suggestion at recent
+         Y2K conference - grow your own food...
+
+
+                               >> GEEK MEDIA <<
+                            obsession as a weapon
+
+         TV >> revealed - how people made bombs before the Net came
+         along: DIY techno-christ (on a bike!) Adam Hart-Davis
+         salutes Britain's pyro-pioneers in EXPLODING HEROES (8pm,
+         Fri, BBC2)... over on C4, Monica dates a software mogul in
+         FRIENDS (9pm, Fri); Roz wants her own show in FRASIER
+         (10pm); and Victor Lewis-Smith - www.lewis-smith.com -
+         tries to out-Morris Chris in one-off TV OFFAL (11.10pm)...
+         another bizarre clash of the theme evenings on Sat: BBC2's
+         Abigail's Party Night (9pm-11.35pm) vs the start of C4's
+         Abortion Week (9pm-12.50am)... infuriate fans by claiming
+         you preferred From Dusk Till Dawn to PULP FICTION (10.15pm,
+         Sun, BBC2), and that you've "heard that theme tune
+         somewhere before"... almost worth popping round to your
+         satellite-owning "friends", as DEEP SPACE NINE (8pm, Mon,
+         Sky 1) inserts its cast into the Star Trek: TOS episode,
+         The Trouble With Tribbles - with hilarious consequences...
+         Steve Coogan's other characters were all getting pretty
+         similar anyway, so good to see him back declaring I'M ALAN
+         PARTRIDGE (10pm, Mon, BBC2)... oh, and MODERN TIMES (9pm,
+         Wed, BBC2) examines bystander intervention (or the lack of
+         it) when people are attacked in public - which is kind of
+         rich coming from a fly-on-the-wall documentary team...
+
+         MOVIES >> they say LA CONFIDENTIAL (imdb: crime / mystery /
+         thriller / police / police-brutality / porn-makers /
+         corruption / prostitution) "isn't as good as the novel" (by
+         James Ellroy), raising the question: jesus, how good is the
+         novel? Anyway, the film's a neat twisty-turny noir-ish
+         drama about call-girls plastic-surgeried to look like film
+         stars (including Kevin Spacey, Kim Basinger, and Guy Pearce
+         - the former Neighbours star, that is, not the UK PR guy
+         for Sony Computer Entertainment)... you cannot kill what
+         does not live - AN AMERICAN WEREWOLF IN PARIS (imdb:
+         thriller / horror / werewolf) is more a remake of the '80s
+         bio-morph classic than a sequel, but does have Julie Delpy,
+         a Ghostbusters-style CGI creature, and the shocker-skills
+         of director Anthony "Mute Witness" Waller... wrap up warm
+         for the bleak whodunnit of SMILLA'S FEELING FOR SNOW (imdb:
+         sci-fi / thriller / action / psychic) - the "sci-fi"
+         element, by the way, doesn't just refer to Julia Ormond's
+         (by her standards) unusually modern-looking haircut... so:
+         is FOOLS RUSH IN (imdb: romance / comedy / drama / las-
+         vegas) just another tame date movie? Apply our two-point
+         checklist! 1. Member of Friends cast playing weak version
+         of familiar role: Check (here, Matthew "Chandler" Perry).
+         2. Romantic comedy named after pop song (see also Addicted
+         To Love, One Fine Day): Check. 2/2. You do the math...
+
+         MAGS >> AREA 51 is a new mag devoted to what it calls
+         "sci-fi collecting", but what we like to think of "crashed
+         saucer merchandise"; probably all the encouragement they
+         need to once again re-shuffle all their regular features
+         over at SFX... best-of-the-rest compilation COVER magazine
+         is now on its second issue, and has turned out like an
+         unusually interesting in-flight magazine (and there's
+         surely no higher recommendation than that)... is the new
+         Arts Council-sponsored fake Net tabloid THE MULE really
+         named after the guy in Asimov's FOUNDATION books?... never
+         mind the blokey gadget mags, for UKP 3.45, you can still
+         get 1400 pages of detailed tech specs in the '97/'98
+         MAPLINS CATALOGUE (from large branches of WH Smiths) -
+         though it's never been quite the same since they got rid of
+         the sci-fi cover pics and stories about "What Maplins Will
+         Be Like In The 25th Century"...
+
+
+                                 >> COMPO <<
+                      where search engines fear to tread
+
+         Powerups awarded to reader David Hudson (of www.rewired.com
+         fame), who correctly solved last week's mystery URL, and
+         consequently receives a Marylin Manson album that someone
+         has drawn on with a biro, a "Fuck The Millennium" car
+         sticker, and an electronic pocket Tetris game. This week's
+         modified site takes the form www.xxxxx.co.uk/now.html,
+         where xxxxx is the word you obtain from this lively game of
+         TEXT CHARADES:
+
+         "OK, one word, four syllables. First syllable: go! open!
+         walking, entering... OK, forget that: drinking, lots of
+         drinking, paying money... pub! Like a pub? Right, second
+         syllable: sounds like, hole, looking down... never mind -
+         still second syllable: man, person, chopping hands, Edward
+         Scissorhands! big eyes, scissorhands man? No? Oh well,
+         third syllable: stop, freeze, die? come to a stop? finish?
+         Move on... fourth syllable: big, person, arms, tree! Giant
+         walking tree creature from Tolkien's Lord Of The Rings!
+         Okay, okay: the whole thing? Newspaper! Yes? Yes! Oh, I
+         give up, sorry."
+
+         A slightly clearer explanation for the whole competition is
+         still at http://www.ntk.net/compo/ . Next week: clues in
+         MIME-formatted braille.
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "DOS/DESQview/X compatible".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (C) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

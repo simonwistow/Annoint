@@ -1,0 +1,290 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-01-14_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                    "I might be threatening to write code."
+                                    - BILL GATES, ex-CEO of Microsoft
+                                ...or I might not. Get my drift, DOJ?
+
+
+                                >> HARD NEWS <<
+                                 fernando poos
+
+         Plenty of corporomancy in the air this week, as pundits
+         attempted to guess the future by observing movements in the
+         heavens. AOL entered into conjunction with the
+         Time Warner constellation, prompting the prophet of
+         slashdoterati, Jon Katz, to doomsay the end of the world.
+         Microsoft was occluded by Caldera in a $150 million plus
+         settlement in the DR-DOS case, followed by the declension of
+         now ex-CEO Bill Gates, to be replaced by a Steve Ballmer
+         ascendant in the astro-organisational charts. But do stellar
+         movements like this have any bearing on life in the real
+         world? After all, there's not much evil AOL Time Warner
+         can wield that they couldn't have managed in their slightly
+         less fat bastard previous incarnations. And the
+         Gates/Ballmer shuffle was just the final precession of
+         Bill's longterm move from daylight operations at MSFT, all
+         the better to skulk in preparation for the DOJ split.
+         http://www.earthchangestv.com/breaking/January2000/0110dawn.htm
+         - so moved with what I experienced today, I will set up a new page
+
+         A Damnable Subscriber Loophole: BT Internet's engineers
+         discovered they weren't the only people fiddling with the
+         settings of their ADSL set-up this week. In December, the
+         telco had tweaked the routers to prevent their customers
+         from opening static incoming ports (and thus preventing such
+         obscure Network services as passive ftp, online gaming, ICQ
+         etc). Sadly for BT, the customers tweaked back: prising open
+         the DSL adaptors and re-configuring them to not only
+         re-instate the services, but also to change the security
+         passwords so that BT couldn't change them back. In a
+         heart-warming New Years Message, BT threatened its own users
+         with breach of contract, and re-asserted its powers to mess
+         about until it gets a service that keeps pesky consumers
+         where they belong - forking out extra for anything but the
+         more asymmetric of Internet services. Expect locked
+         cages for the DSL roll-out next year, kids
+         http://www.flowpoint.com/support/dsl/dsl_faq.htm
+                                   - get it while you can, triallists
+
+         Just when you thought the continuiiiiing story of "Mir in
+         Space" couldn't get any weirder, another Western business
+         partner has emerged to save Mir and convert it into that
+         anti-news stalwart "an orbiting space hotel for
+         billionaires". This time, who should it be but Gold & Appel
+         Transfers, of the Cayman Islands. Yup, "Gold & Appel
+         Transfers": last observed in Shea and Wilson's ILLUMINATUS!
+         trilogy as the front organisation for neophile outlaw
+         Hagbard Celine and his Legion of Dynamic Discord.
+         Terrifyingly for the few who still believe that book to be
+         fiction, G&A is a real company with funds of over $300
+         million. President Walt Anderson made his money as
+         co-founder of Esprit Telecom, and is now a major investor in
+         the Space Frontier Foundation and the Roton, the orbital
+         transfer system that looks like a beanie. G&A have already
+         offered $21 million to the Russian government to maintain
+         Mir in a serviceable orbit, with more, they say, to come.
+         It's unclear whether the group of investors can really
+         rustle up the huge amounts needed to maintain Mir; but
+         wouldn't it be nice if, when the ISS finally boots in the
+         22nd century, NASA found that a bunch of Discordians had
+         beaten them to it?
+         http://www.mercurycenter.com/premium/front/docs/mir13.htm
+ - financier "reclusive"; Cayman Islands last outcropping of Atlantis
+         http://www.reston.com/nasa/watch.html
+                                                              - fnord
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         CEO of Apple now officially Steve ... VIRGIN NET mess up
+         e-mail passwords: but it could be worse -
+         http://www.virgin-atlantic.com/emergency/ ... CEO of AOL
+         Time Warner as of now, a Steve ... from the Millennium
+         Doh!me: http://www.ntk.net/2000/01/14/doh/dohme1.jpg ,
+         http://www.ntk.net/2000/01/14/doh/dohme2.jpg ... METACREATIONS
+         seamlessly erase 100 from staff photo ... CEO of Microsoft -
+         from this week, a Steve ... "Internet may be crowded". Sure
+         it is, http://www.ntk.net/2000/01/14/doh/go.jpg ...
+         http://www.cesg.gov.uk/news/ mildly alarming ...
+         http://www.aol-girls.com/ now hosting "Street Walking The
+         World Online Escort Magazine" ... explaining Y2K to any kids
+         you didn't smother in their beds to save them the horror:
+         http://www.fema.gov/kids/wytookie1.htm ... so bad it broke
+         the wankometer: http://www.get-time.org/thinking_article_2.htm ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         First the mild ripples of netfreedom's Internet Article Of Shame
+         [see NTK 1999-12-24], and now some shadowy security dudes propose
+         the "E-nsecure Awards" - this could be the year to redress the
+         balance of all those backslapping "best of" giveaways. The
+         "E-nsecures" are aimed at naming and shaming award-winning,
+         beautifully designed sites that, nonetheless, ignore basic
+         security precautions, thus exposing their owners to the "e-
+         gnominy" of receiving an "e-gnoble" E-nsecure Award. We have
+         little to add to this clearly worthwhile goal, other than maybe
+         they should shorten the name (in the style of the Oscars, Tonys
+         etc) to "the Ians" - partly in tribute to BT's Iain Vallance,
+         partly because trying to read their manifesto is, perhaps
+         intentionally, like that old "Ian (and Iain) News" sketch by Lee
+         and Herring.
+         http://www.netfreedom.org/
+                  - No list of nominees? Did they only get 3 or something?
+         http://www.e-nsecure.net/
+           - yes, it *does* look a bit like that London 2600 party page...
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         On the happy assumption that everybody else shares the same
+         obsessions as we do (hey, it's worked so far), here's
+         another solution to that perennial "trying to log into our
+         shell account from a cybercafe because we've locked
+         ourselves out of the flat" issue. MINDTERM is a Java
+         implementation of an ssh client. Actually, it has been for
+         ages, but it's recently got much much better (no flickering,
+         signed applets so you can log into arbitrary machines, very
+         cool scp file-transfer utility). Do remember: you should
+         assume somebody's sniffing all your keystrokes anyway and do
+         all your private correspondence by Post Office mail.
+         http://www.mindbright.se/mindterm/
+                                                - from sshweden
+         http://www.bootlace.co.uk/space/
+                                - Elite: *that's* the Java killer app
+
+         If you haven't heard already: MP3.COM, in a Napsterish fit
+         of legal hubris has created MY.MP3.COM. It's an elegant
+         scam, uh, customer service, whereby you download an app that
+         checks for the presence of an audio CD in your drive,
+         cross-references the ID with MP3.COM's own monster track
+         cache, then creates a streamable MP3 copy of the album
+         tracks in a mp3.com hosted directory (without that tedious
+         uploading of the ripped files). Obvious applications:
+         instantly ripping all your album collection, sneakily
+         ripping other people's album collections when you go around
+         their house, publicly putting out your id and password so
+         that everyone can auto-rip their collections for you, and
+         generally undermining intellectual property rights in the
+         music industry. Again. Catch it while it's uninjuncted.
+         http://my.mp3.com/
+         - worth checking out, no matter how badly we explained it.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         SHATNER PRICELINE ads: we want MP3s ... media-map that's out
+         of date already: http://www.cjr.org/owners/index.asp ... BSD
+         vs BDSM: http://www.digitaldiscipline.com/products.html ...
+         SANDRA in EASTENDERS another Demon exile ... Beano hits prog
+         3000 - http://www.beano.co.uk/ ... the future of heavy metal
+         karaoke: http://antonmaiden.eu.org/am.html ... spot the pot
+         with http://www.geekhaus.co.uk/teapot/ ... 2001: A SPACE
+         ODYSSEY, compressed to 1 pixel: http://www.isness.org/2001*1/
+         (no, really) ... "not that I'm bitter or anything":
+         http://www.hackernews.com/bufferoverflow/00/scenewh.html ...
+         SAGAN on drugs! http://ftrain.com/index.php3?fileid=2000-01-11 ...
+         http://www.bbc.co.uk/tw/stories/technology/0001wheeldrive.html vs
+         http://www.4wdonline.com/LandRover/Series/Cuthbertson.html ...
+         interesting take on "public relations":
+         http://www.lewispr.com/uk/competitor/subpage.html ...
+
+
+                                >> GEEK MEDIA <<
+                      the less rude http://www.tvgohome.com/
+
+         TV>> good to see Andrew Chitty - MD of digital TV company Illumina
+         - helping Shirley Manson collect her award at the (repeated) VH1
+         FASHION AWARDS (6pm, Fri, C4)... "*Do* give up your day job", we
+         advise "New Adventures Of Dr Who" author Mark Gatiss, who returns
+         in a new series of ubercamp "broken" comedy THE LEAGUE OF
+         GENTLEMEN (10pm, Fri, BBC2)... and, yes, new post-Beadle prank
+         slot TRIGGER HAPPY TV (9.30pm, Fri, C4) looks all very amusing,
+         but it's no http://www.tomgreen.com/ ... after boring us all to
+         death with The Exorcist, Mark Kermode lauds *another* dated 'n'
+         overrated '70s genre movie THE FRENCH CONNECTION (8.55pm, Sat,
+         BBC2)... similarly, Channel 4, inexplicably, devotes an evening to
+         a show it doesn't seem to own the rights to, in CHARLIE'S ANGELS
+         NIGHT (from 8pm, Sat, C4) - unless it's still part of their
+         "cocaine" season... and "watch the skies" for Howard Hawks '50s
+         scifi THE THING FROM ANOTHER WORLD (1.20am, Sat, BBC2), though
+         John Carpenter's shape-shifting remake is actually closer to the
+         short story original... enthusiastically casting doubt on parents
+         who make tearful televised pleas to "help catch our daughter's
+         killer", CROCODILE TEARS (10pm, Mon, ITV) focuses on 15 recent
+         cases where it was *actually them who did it*... should anyone
+         still care, THE X FILES (10.20pm, Wed, BBC1) is the "long take"
+         time-travel Bermuda Triangle one... and notorious spoilsports
+         HORIZON (9.30pm, Thu, BBC2) reveal that that Peru's "Nasca Lines"
+         *aren't* alien runway markings after all, but the work of some
+         fucked-up ancient religious cult or something...
+
+         FILM>> a triple treat this week for fans of serial killers and/or
+         human remains as, for starters, Spike Lee churns out his grittily
+         overwrought Italian-American remake of "Do The Right Thing" (with
+         sex scenes instead of Public Enemy) in '70s disco heatwave soap
+         SUMMER OF SAM (http://www.capalert.com/capreports/ : The listing is
+         not fit for display due to the vulgarity of the movie). It's a bit
+         like "This Life" set in the "Boogie Nights" era with someone
+         picking off characters with a .44 handgun, though not as much of a
+         recommendation as that sounds... despite the presence of Married
+         With Children's Ed O'Neill, Angelina "Hackers" Jolie's ongoing
+         audition for Jodie Foster's "Hannibal" role is by far the best
+         thing about graphic sub-Silence Of The Lambs knock-off THE BONE
+         COLLECTOR (imdb: new-york / brooklyn-bridge / police / destiny /
+         quadriplegic / helicopter / serial-killer) - although action hack
+         Philip "The Saint" Noyce keeps sticking her in contrived "Crystal
+         Maze" set-ups where bedridden Denzel Washington, against the
+         clock, yells murder-solving instructions at her... and salt-of-
+         the-earth Oirish folk may be poor - *but they've got each other* -
+         reveals ponderous vomit-packed poverty porn ANGELA'S ASHES (imdb:
+         drama) - the ashes are a cremated serial-killer-style "trophy"
+         taken from one character, possibly "Mrs Doyle" from Father Ted...
+
+         THE BONER COLLECTOR>> full report on our apocalyptic server-
+         busting Y2K Kwiz next week (so still time to mail in *your* DIY
+         compositions) - though, it's official, you *can* stop sending us
+         "19100" pages now (especially http://www.cs.cmu.edu/~lenzo/yapc/
+         which, believe us, has been "wrong" for some time)... NICK DRAGE
+         leapt to attention over last week's assertion regarding "season 3
+         of Buffy The Vampire Slayer", enquiring "Tut, tut, what kind of
+         nerds are you? It's season FOUR", though then spoiled the effect
+         by failing to get NTK 1999-12-24's reference to the "Argos dog
+         penis" nicked off us by The Graham Norton Show. No, Nick, we
+         meant *this* Argos dog penis: http://www.ntk.net/doh/991210dog.jpg
+         ...subsequent to which, MARK WHITAKER mailed us his "treasured"
+         (yet popular) piece of phallic clip art, an ad for the
+         Northumberland Lawn Tennis & Squash Rackets Club in the Newcastle
+         Yellow Pages: http://www.ntk.net/2000/01/14/doh/tennis.gif . Please
+         stop sending us these, you're ruining the "boner" section's
+         sophisticated tone... similar concerns were raised by the
+         Mimesweeper program at FLEMINGS.COM, which rejected NTK 1899-12-31
+         "because it contains unacceptable words or phrases, e.g. jokes or
+         profanities". The handy output log enclosed ("Found phrase Value
+         20, Text 'sex ', Found phrase Value 100, Text 'COCAINE '") gave
+         some indication of how amusing or profane it thought we were
+         being, while (at last!) establishing than cocaine is, officially,
+         5 times more profane (or amusing) than sex... clearly not a
+         problem for ANDY ISAACSON, who mailed to confirm unsubstantiated
+         reports of Richard Stallman singing the "Free Software" song at an
+         NTK "event" in London, then being rushed by geeks who wanted him
+         to sign their copies of the sheet music, and "at least one girl
+         who got him to sign her collar bone". Well, we've checked, and
+         we're sorry to say these rumours are false: the girl concerned
+         insists it was her breast that RMS signed. Yup, we don't get out
+         often, but when we do: "hoo, boy"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+               Registered at the Post Office as "Web Activists"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

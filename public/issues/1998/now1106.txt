@@ -1,0 +1,326 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____06/11/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+
+     "I'm not prepared to talk about specifics but we have
+       seen organized criminal groups using the proceeds from software
+          counterfeiting to pay for terrorist operations overseas."
+                              - BRAD SMITH, Microsoft general counsel 
+                       air strikes on Norwegian warez sites to follow
+      http://www.pcworld.com/pcwtoday/article/0,1510,8566+1+6,00.html
+
+ 
+                                >> HARD NEWS <<
+                              scary "woooooooo"s 
+                                
+         Remember, remember the fifth of - I'm sorry, it's gone
+         again, pleaded BILL GATES this week, as his taped testimony
+         to the DOJ Truth Commission revealed an inability
+         to recall the details of his own e-mail outbox. We guess
+         then he won't remember the words of the NYT column where he
+         noted "I can remember all the moves of many chess games that
+         I've played. I can still remember all my lines in a high
+         school play, 'Black Comedy... I remember financial data very
+         well, too. I can visualize the source code to the version of
+         BASIC that I wrote for the first microcomputer, back in
+         1975." But I can't *quite* remember sending a three-line
+         e-mail which included the phrase "Do we have a clear plan on
+         what we want Apple to do to undermine Sun?"
+         http://www.microsoft.com/billgates/columns/1996q&a/qa960604.htm
+                        - fifth of... fifth of... fifth of amendment?
+         http://www.cspan.org/watch/exclusive1.htm
+         - I deny having developer relations with that ... platform
+http://www.techserver.com/newsroom/ntn/info/110398/info8_4154_noframes.html
+         - there can be no red faces at the Redmond
+        
+         Another e-mail that Gates failed to recall was, of course,
+         the Halloween Document, a sharp memo shoved into Eric
+         Raymond by a masked "brother" on the run from Redmond
+         Asylum. But was it meant as a trick or treat? While the
+         gathered Free Softwarelings scared themselves into even more
+         recursive states ("We shouldn't read it! That's exactly what
+         he'd *expect* us to do!"), author Vinod Valloppillillilloopp
+         returned in - Halloween Document II. In this sequel, he
+         tries Linux, and likes it. "The feeling was exhilarating
+         and addictive", he writes, "as it was when first I heard the
+         screams of the OS/2 evangelists in Sub-Level Five".
+         http://www.opensource.org/halloween.html
+                - well, the mark-up's a little hard to read sometimes
+         http://www.tuxedo.org/~esr/html-hell.html
+             - we refer the honourable gentleman to his previous page
+         http://www.pbs.org/cringely/pulpit/pulpit19981105.html
+                                - Gaddafi-lover Cringely speaks sense
+http://www.scripting.com/davenet/98/11/howWindowsDeveloperThinks.html
+              - Winer writes "I am not a gorilla". Nobody tell Glenn!
+         http://www.sjmercury.com/columnists/gillmor/docs/dg110398.htm
+                   - still no-one knows what "de-commoditizing" means
+         
+         Over the next month, 20,000 UK companies will be sent a
+         survey by the anti-piracy body, the BUSINESS SOFTWARE
+         ALLIANCE. It's the usual stuff: How many employees are you
+         responsible for? How many PCs do you have in your company?
+         Do you realise that as MD, you are responsible for the
+         legality of software? Do you realise that if you don't fill
+         this in and return to the BSA within 21 days, they'll put
+         you on a special "blacklist" of companies that they suspect
+         of harbouring illegal software, and blitz you with mailings
+         and possibly even begin investigations into the legality of
+         your software purchases? Do you think there's anything odd
+         in being penalised for *not* returning a junk questionnaire?
+         You don't?
+         http://www.bsa.org/news/press/spool/910220507.html
+                  - would you like to join our book of the month club?
+
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         Finally, someone paid http://www.hotwired.com to lose the
+         colours... COMCOMCOMCOMCOMCOMCOM.COM currently "on hold"...
+         LLOYDS BANK Website closes between 0400-1000AM (server
+         needs a nap)... DANNY KELLY gets big plug for www.m365.com
+         in Guardian, despite its current non-existence... Brain
+         Structure May Play Role in Children's Ability To Learn To
+         Read, reveals study... DIGICASH runs out of money... N2K
+         "forget" to pay Ticketmaster $3 million... Human Error
+         Responsible for Most Data Loss, uncovers survey... IE5.0 to
+         feature "Go" button, for users who don't know you have to
+         press return after an URL... APPLE claim to have "patented"
+         the colour Bondi Blue... PC DIRECT illustrates computer
+         security article exclusively with stills from WarGames movie
+         - mentions WarGames in first sentence... Falco! SYQUEST
+         crashes - but they took backups, right? ... Microsoft buy
+         LINKEXCHANGE for $250 million - but how are we going to
+         break it to http://www.stopgates.com/ ?... BBC.CO.UK now
+         "Millennium Product" (ie will be usable sometime in next)
+         ... who will find a future for http://www.streetmap.co.uk?
+
+
+                               >> EVENT QUEUE << 
+                              stop! scanner time! 
+
+         Pity the traditional craftsfolk, outmoded by rapid
+         technological change - craftsfolk like DJ SCANNER, whose
+         live mixes and recordings of mobile phone calls were the
+         talk of the town back in the heady days of the early '90s.
+         Obviously this hasn't been quite such a poignant artform
+         since digital mobiles hit the scene, and he's now reduced to
+         hanging around near London tourist attractions, recording
+         and photographing the ambience - and, we believe, somehow
+         "converting the digital images into sounds". Scanner will be
+         performing the resultant "Surface Noise" on a travelling
+         double decker bus between St Paul's Cathedral and Big Ben
+         from 6pm on 12/11/98-14/11/98 (UKP12.50, advance booking
+         essential), and hopefully providing some sort of tour
+         commentary, since his voice - oddly - sounds exactly like
+         the lead singer out of Jamiroquai.
+         http://www.innercity.demon.co.uk/scanner.htm 
+         - is it just us, or does the B*Witched Rollercoaster single
+         http://home1.gte.net/davidra/tv/double.htm 
+         - ...sound just like "Get on board, get on board"?
+ 
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         You know how everything in UNIX is supposed to be a file?
+         You know Perl lets you do everything you'd ever want to do?
+         You know that means, logically, you can return UNIX to its
+         pure, pre-Fall state, where everything *is* a file -
+         anything you want? So you could, say, chdir to
+         "http://www.yahoo.com/", then chdir to all the links on that
+         page? And you know that there's only one person insane
+         enough to thus let you write your own filing system - in
+         Perl? Yes, from the people who brought you the Turing
+         Machine using only dd and sh, we roundly announce:
+         http://dd.sh/perlfs/
+         - next: X-Windows servers using trained cellular automata
+         
+                  
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         that's not a Millennium Bug - that's a *feature*:
+         http://www.go2zero.com/... are you wearing L'OREAL
+         "Industria" Barcode transfer tattoos (Sainsburys, 2.99UKP)
+         on *your* forehead? well, you will. It is foretold ... when
+         arty Mac types go Windows NT, can firearms be far away? -
+         http://photo.net/wtr/mac-to-pc-migration.html ... IONICA -
+         with Sugar or without? ... BOB KANE slips away from
+         Commissioner Gordon for the last time... the "Catch The
+         Chicken" Quake mod... let's see MICROSOFT try to
+         de-commoditize www.windows2000.com ... apart, TV nostalgia
+         and Macromedia Flash are execrable, together -
+         http://625.simplenet.com/tv_logos/flash.htm ... blue
+         nitro... http://www.pretext.com/ ... analog transformer
+         watches... just how patronising can an RFC be?
+         ftp://ftp.ietf.org/internet-drafts/draft-ietf-uswg-fyi4-00.txt
+         ... "So we did what any bereaved FURBY owner would do - we
+         cut him up and took pictures." http://www.phobe.com/furby/
+         ... it's the subjective IMDB - http://www.mrqe.com/ ...
+         http://no.no.youdontunderstand.itsallreallybad.com/ ...
+                  
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> we've been personally assured that the new series of
+         ROBOT WARS (6.45pm, Fri, BBC2) *will* be more violent,
+         though not due to the presence of new Clarkson-replacing
+         rent-a-cyber-presenter, Craig Charles... still, Jeremy
+         reappears spouting his knee-jerk reactionary nonsense on
+         pseudo chat-show CLARKSON (9pm, Sun, BBC2) - "I've thought
+         of the only tube station that doesn't contain any of the
+         letters of the word 'Mackerel'"; "Well, I don't live in
+         London, don't know the names of any tube stations, and
+         therefore *don't care*"... Lee/ Cushing '60s sci-fi scare
+         NIGHT OF THE BIG HEAT (12.10am, Fri, BBC1) sounds a bit like
+         the pilot movie of Voyage To The Bottom Of The Sea... and
+         another excellent arguing-Niles episode of FRASIER (10pm,
+         Fri, C4)... sadly, doesn't look like Armando Ianucci will be
+         doing a special "Remembrance Day" edition of Saturday Night
+         Armistice this weekend - scariest look back should be the
+         subterranean WW1 tunneling tactics in THE UNDERGROUND WAR
+         (7pm, Sat, C4)... use of unnecessary violence in the
+         avoidance of THE BLUES BROTHERS (10.30pm, Sat, ITV) *has*
+         been approved... dated, dull, featuring Nancy "RoboCop"
+         Allen - once-acclaimed telekinetic teen scream CARRIE (10pm,
+         Sun, BBC2), frankly, doesn't live here any more... full-on
+         Will Smith/ Tea Leoni Miami Vice rip-off BAD BOYS (10pm,
+         Sun, C4) is still Michael "The Rock" Bay's best film ever -
+         and possibly the greatest cop buddy drama of all time...
+         surely new Linehan/ Matthews sketch series BIG TRAIN (10pm,
+         Mon, BBC2) - starring Kevin "Simon Quinlank" Eldon - isn't
+         *all* understated slice-of-life weirdness featuring '80s pop
+         stars?... speaking of which, Christopher "Nigel Tufnel"
+         Guest directs, but doesn't appear in pre-The Player
+         Hollywood satire THE BIG PICTURE (10.55pm, Mon, C5), with
+         Kevin Bacon, Teri Hatcher, Michael "David St Hubbins"
+         McKean... among the new lot of - deeply disturbing -
+         MYSTERIES WITH CAROL VORDERMAN (8.30pm, Tue, BBC1): "An
+         explosion in the sky in the Outer Hebrides which has aroused
+         local suspicion"... CUTTING EDGE (9pm, Tue, C4) seems to be
+         somewhat blunted on the cut-throat competition between
+         celeb-porn rags OK! and Hello! (9pm, Tue, C4)... and let's
+         not get our hopes up for the acting skills of fresh young
+         cast in "music biz satire" drama THE YOUNG PERSON'S GUIDE TO
+         BECOMING A ROCK STAR (10pm, Tue, C4) - and you were hoping
+         it was a '90s version of Rockschool... former Sunday Show
+         irritation Peter Kay mutates into fly-on-wall spoof motorway
+         services staff, a justifiable experiment from C4's COMEDY
+         LAB (11.30pm, Wed, C4)... Emergency 999 meets Fantastic
+         Voyage in endoscope-filmed BODY STORY (9pm, Thu, C4)...
+         SCIENCE AT WAR (9.25pm, Thu, BBC2) delivers a harrowing
+         history of poison gas and battlefield chemical weapons...
+         still, probably more laughs than Victoria Wood's new sitcom,
+         DINNERLADIES (9.30pm, Thu, BBC1)...
+
+         FILM>> so: can you, with a clear conscience, back
+         Dreamworks' ANTZ (imdb: computer-animation / ants) against
+         Disney/Pixar's A Bug's Life? On one hand, the (often
+         ultraviolent) Dreamworks are going up against Disney (yay).
+         On the other: it's bloody Spielberg, in "strategic alliance"
+         with Bill Gates - who, of course, brought the release
+         date forward to "punish" Steve Jobs for his impudence -
+         ( http://fnews.yahoo.com/fool/98/09/18/trouble_980918.htm )
+         Then again, Antz is excellently celeb-packed, Woody Allen-esque,
+         and wasted on kids, apparently... cute camerawork, CCTV
+         concept, Nic Cage, inevitably ruined by the usual Brian De
+         Palma hysterics, darting everywhere with his SNAKE EYES
+         (imdb: hurricane / murder / police / tidal-wave /
+         assassination / blockbuster / boxing / casino)... Ice Cube
+         directs worthwhile backstage table-dancing comedy drama THE
+         PLAYERS CLUB (imdb: catfight / stripper / urban) - less
+         degrading than Showgirls or Striptease, for both performers
+         and audience... Swingers' Vince Vaughn, swingin' Anne Heche
+         put real take on Prisoner's Dilemma game theory in wordy
+         would-you-do-time-in-a-foreign-jail-so-your-friend-doesn't-die
+         poser RETURN TO PARADISE (imdb: drama / romance /
+         thriller)... and going by http://www.lff.org.uk/ , most of
+         the LONDON FILM FESTIVAL has sold out already (as usual),
+         though not, at time of writing, weirdie numerological
+         low-budget sci-fi PI (imdb: judaism / low-budget /
+         mathematical-equation / mathematics / paranoia / pi /
+         self-mutilation / surreal / chaos-theory / computers /
+         cult-favorites / delusion) - full of slogans that sound like
+         they're out of Jim Flint's Habitus, and also explains what
+         happened to Clint out of Pop Will Eat Itself:
+         http://www.pithemovie.com ...
+
+         THUMB CANDY TALKING>> we're too glued to FUTURE COP: LAPD
+         (EA, PSX) to move right now ("This product [mech-suit
+         chain-guns crims in nightmare dystopia] is not endorsed or
+         associated in any way with the Los Angeles Police
+         Department"), but fortunately we can hand you over to
+         scourge of the home office and friend to the stars, CHARLTON
+         "CHARLIE" BROOKER... despite abysmal title, WARGASM (DID,
+         PC) is itself very good - sort of a cross between C&C, a
+         high-falutin' simulator, and an arcade game. Rousing Wagner
+         soundtrack accompanies the gung-ho pornography, excused via
+         transparently apologetic storyline about it all taking place
+         on the "World Wide War Web"... APOCALYPSE (PSX), starring
+         Bruce Willis, isn't as bad as some recent films he's been
+         in; looks like a 3D one-player Gauntlet with wisecracks and
+         blood. Bruce spouts almost *every* action-hero cliche you've
+         ever heard. Cumulative effect hilarious... Jap import
+         "DJing" game BEAT MASTER (PSX) starting to appear here,
+         rumoured to require special "turntable" controller. Or check
+         out HIPHOPMANIA arcade version in some UK arcade test sites
+         (oh alright then, we mean Namco Wonderpark)... oh, and
+         HALF-LIFE (Sierra, PC) may be "best PC game ever" according
+         to - ironically - about 50% of those who've played it
+         ("Resident Evil meets Quake meets Quatermass And The Pit.
+         Genius.")... and, it being Christmas and all, it must be
+         time for another illicit "gore" patch for CARMAGEDDON 2 -
+         anyone got an URL yet?... cheers Charlie, and just time to
+         close now with games news gossip: http://www.ctw.co.uk
+         launched... http://www.cex.co.uk/cex revamped... Future
+         Gamer first email not the promised 256K, but "more like
+         400"... hacked or just hacked off?
+         http://www.ign64.com/news/5572.html ... and thanks to
+         everyone who pointed out the Lionhead interview in the new
+         EDGE, featuring company staff with curious yet consistent
+         names like "Mark thingy", "Christian whatsisname", "Irish
+         geezer", "Jean Claude french bloke", and "Scawen scary
+         name". The same interview also boasts the snappy call-out
+         "MOST GAMES 90% LOOK TO THE PAST FOR THEIR INSPIRATION;
+         COMPUTER ARTWORKS' 50% EVOLVA SCIENTIFIC USES 50%COMPLEX
+         SCIENTIFIC USES COMPLEX 90% THEORIES 09% THE STATE OF THE
+         ORGANIC ART" - as one correspondent (and former Edge
+         contributor) points out: "a phrase so Now that it gets
+         repeated in edited form on each of the next two pages"...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+	  nothing better to do. It is compiled by NTK from stuff they get sent.
+          It is registered at the Post Office as "penny for the guy?"
+              http://www.marxists.org/admin/guidelin/balance.htm 
+                  
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+

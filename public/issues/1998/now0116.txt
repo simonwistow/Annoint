@@ -1,0 +1,321 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____16/01/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The Internet too often resembles a cocktail conversation
+         rather than a tool for effective health care communication
+         and decision making."
+              - From the Journal of the American Medical Association
+         www.news.bbc.co.uk/hi/english/sci/tech/newsid_47000/47664.stm
+                          yes, doctor, but how often is "too often"?
+
+
+                               >> HARD NEWS <<
+                              concrete overshoes
+
+         EXCITE emphasised the "secondary" in its title of "the
+         Net's secondary search engine" this week, by offering every
+         schoolchild in the UK a free e-mail account, supported by
+         "suitable" advertising. Lots of fun questions instantly
+         arise: given that Web e-mail is about as insecure as you
+         can get, which teen hacker will be the first to write a
+         password grabber that lets them read the rest of the
+         school's mail - including the teachers? And who exactly are
+         "suitable" advertisers for kids? Crayola? Mattel? And given
+         that every e-mail address takes the form
+         yourname.uk@excitepost.com, will all children with names
+         ending in "f" get a brand new nickname?
+         http://www.excitepost.com/
+                                        - The "@aol.com" of tomorrow
+
+         Already a strong candidate for Antinews of the Year,
+         WEBMEDIA's collapse - what's the cliche we're looking for
+         here? - sent shockwaves through the UK Web design
+         community. As if there wasn't enough Shockwave there as it
+         is. Damage was concentrated near the epicentre, which might
+         explain the tsunami of invective directed at investors
+         Megalomedia on Webmedia's ex-site over the weekend. Sources
+         at Webmedia indicated that the accusations contained in the
+         hacked site were wildly inaccurate, but sources went a bit
+         quiet about why, in that case, Megalomedia stomped so
+         heavily on any site that dared to copy the accusations ...
+         for reporting purposes, naturally. In the meantime, ex-
+         Webmedia partner Ivan Pope is sniggering his way to a
+         couple of big announcements in the near future. Can anti-
+         Pope Steve Bowbrick fight back? Now that he's got a
+         comfortable consultancy, does he even care?
+         http://www.webmedia.com/                - the hack has gone
+         news:alt.anonymous.messages      - but hold! What's *this*?
+                                (if you can't see it, try on Monday)
+
+         When DENNIS announced the "suspension" of Net 'n' Chicks
+         'n' Games 'n' Lager magazine ESCAPE this week, the board
+         said they felt that "the market was not yet ready". What
+         they didn't reveal was that the market in question was
+         eponymous company owner Felix Dennis. Best known for his
+         involvement in the Oz magazine trial, when he was charged
+         with corrupting youth, and the BLENDER CD-ROM magazine
+         trial, when he was charged with corrupting AUTOEXEC.BATs,
+         Felix was holidaying in Mustique when he received the
+         latest issue of the mag. Unfortunately for everyone, it was
+         raining, and Felix actually read it. One phone-call
+         later, and it was all over for the plucky - if occasionally
+         absentee - team. Concerned Dennis employees are now
+         wondering where the Felix finger of death will touch next.
+         Hint: he was last seen flicking through a mag whose design,
+         it is said, he feels to be "art wank shit".
+         http://www.escapemag.co.uk:80/cypherpunk/themag.html
+                                      - "look who's stalking" indeed
+
+         Microsoft's new "charm offensive" got off to a bad start
+         this week. As reported by the frankly great www.tbtf.com,
+         Microsoft's Chief of Operations Robert Herbold was asked in
+         one of their "friendly" interviews how small firms could
+         compete with his company. Herbold said they had three
+         options: fight a losing battle, sell out to Microsoft, or
+         they could "not go into business to begin with because,
+         hey, if you're a betting person, you know which way it's
+         going to go." Elsewhere, Microsoft continued to discover
+         that you can't bullshit a bullshitter - especially such a
+         distinguished veteran as the US government. In court,
+         Microsoft handwaved through the files on the Internet
+         Explorer CD-ROM, and explained how Windows 95 just couldn't
+         work without them. Readers who've never installed Explorer
+         are excused wondering how they ever managed without;
+         readers who have installed Explorer should now understand
+         that they are never *ever* going to get rid of it. Judge
+         Jackson looked suitably underwhelmed. Where do you want to
+         go today, Microsoft, he seemed to hiss - Sing Sing?
+         http://www.tbtf.com/archive/01-12-98.html#s01
+                                      - and this is them being nice?
+         http://www.news.com/Perspectives/Soapbox/rs12_30_97a.html
+         - also via TBTF - how Microsoft screwed the UK 3D engine scene
+                                                         (allegedly)
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Breathing could be fatal" says cautious BBC... BSkyB
+         digital boxes delayed until June... shock survey reveals UK
+         Net users to be mostly white males (*very* white, in our
+         experience)... IE Explorer security bug... after decade of
+         "high prices have nothing to do with piracy", Microsoft
+         lowers prices in Asia "to discourage piracy"... EMAP banner
+         ad team curiously quiet about appearance of "L. Ron Hubbard
+         - had the wisdom" ads on client sites... Internet Business
+         mag lists "100 net firms tipped for success in 1998",
+         includes Webmedia Ltd... .Net's mailing list hacked, "due
+         to administrative oversight"... Ian Hislop sells out to
+         MSN... Digital TV will make teletext services "more
+         sophisticated," FT predicts... Lord of Realm's son admits
+         to buying "Grand Theft Auto" demo, claims "not motivated to
+         go out and steal cars"...
+
+
+                              >> EVENT QUEUE <<
+                         pointers to class behaviours
+
+         Our distant cousin MUTE magazine, which we continue to
+         believe is the "art" to our "wank shit", is hosting a
+         CYBER.SALON (love the dot!) at the Upper Bar, White Horse,
+         16 Newburgh Street, London at 7pm on Wed 21/01/98. The
+         topic is "The Digital Artisans", and stars opinionated loon
+         Richard Barbrook and Anj Medhurst, who is (it says here) a
+         Technowhore. The show is co-sponsored by the Hypermedia
+         Research Centre, which is not, we repeat, is not, a front
+         for the Moonies - nor the MIT Media Lab, neither.
+         http://www.metamute.com/
+         http://www.hrc.wmin.ac.uk/hrc/            - "cyberbollocks"
+
+         It's the fifth anniversary of the most written-about MOO in
+         the whole darn MUDiverse. To celebrate, the "inhabitants"
+         of the MOO are having a costume parade (dresses designed by
+         Howard Rheingold - no, we're not making this up). It's
+         preceded by a jocular, fun-packed debate on "Virtual Worlds
+         for Business" with Adele Goldberg and Amy Bruckman, and a
+         roustabout discussion called "Who Sped Up The MOO?", which
+         covers technical improvements in the LambdaMOO
+         implementation. Be there or be a Gray_Guest! The show
+         starts at 11:30GMT on Tuesday 20/01/98. Sweetly, the
+         organisers "apologize to residents of Europe for the late
+         hour" - as if anyone who uses MUDs is up during the day.
+         http://www.ntk.net/mediamoo/invite.txt         full details
+
+         And finally, music-biz tradefest MIDEM '98 hits Cannes
+         tomorrow (17/01/98) with seminars on digital radio, digital
+         distribution, digital techno, and (we suspect) a lot of
+         very scared record company suits denying that MP3 is a
+         problem. Among the exciting new talent entertaining the
+         execs are DJ Carl Cox, 80s rockers Daryl Hall & John Oates,
+         and - in a triumph of subverting from within - outspoken
+         anarcho-syndicalists Chumbawumba.
+         http://www.midem.com/cannes/index.htm
+                            - hey, even agit-proppers need a holiday
+
+
+                            >> TRACKING SPECIAL <<
+                          wavey davey where are you?
+
+         We'd have pursued our usual Tracking search for the best
+         new code and sites this week, but our bandwidth was wiped
+         out by helpful replies to our claim to have "lost track of"
+         net.pundit Wavey Davey W*****r.
+
+         It was Gary Taylor who first pointed us in the direction of
+         PC PRO magazine, where Davey apparently runs a regular
+         column under the byline "Dave Winder - author, freelance
+         journalist, broadcaster and consultant specialising in the
+         Internet and computer communications". Paul Agius reports
+         that one of Wavey's recent columns was "about a web page
+         called Davey Winder Haters." (That'll be us as well then -
+         in fact, it badly needs updating, but it's tough keeping up
+         with all the mail...) According to Paul, "He did not seem
+         to be amused." Hopefully, Davey offers a more cheery aspect
+         to his readers in top glamour title FIESTA, where Andy Stox
+         resolutely claimed not to have spotted another of his Net
+         columns.
+
+         We also received an e-mail about "a friend of a friend" who
+         worked with Wavey Davey on our previously featured video
+         GAMES ON THE .NET (still reduced to UKP1.99 at Virgin
+         Megastores). This FOAF claimed that Wavey Davey wore a
+         wooden leg throughout the filming. Well, that seems as good
+         a point as any to close the correspondence. We request that
+         any more sightings of Davey Winder - or any part thereof -
+         be sent to Davey directly at waveydavey@dial.pipex.com,
+         where we understand he is always glad to receive your mail.
+         http://alt.venus.co.uk/davegreen/winder.html
+         - we still have the unclaimed copy of micromachines, though
+
+         THIS WEEK'S CHALLENGE: anyone got an MP3 or RA of Victor
+         Lewis-Smith's "never to be released" spoof call to Princess
+         Di, in which he pretends to be Stephen Hawking? Let's all
+         mail him at www.lewis-smith.com - the big coward.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Vertigo Comics hires Jack "Terraplane/ Elvissey" Womack?...
+         www.parascope.com ... Sony's smart video labels... Sega
+         president says sayonara?... www.rwalker.com/nscp.html ...
+         Is UK hacker Cyberjunky turning legit?... Yeltsin cameo in
+         "Weekend At Bernie's" sequel?... Richard Hamming, inwenuor
+         og tie Hamming Code, diee... ex-Wired ed John Battelle's
+         "Internet Industry Standard" out soon... Titanic F/X done
+         on Linux; UNIX roadmap based on Titanic's... Forget
+         www.dianabear.com (again), we want a "Leah Betts RIP"
+         ecstasy pill... Hey, JOHNNY RICO! How about the troopers
+         borrow A TANK?... Sonny Bono, Michael Kennedy and the "Lone
+         Tree" conspiracy... http://stomper.base.org/... new
+         videogame based on "Wargames"... next move for alcopops?
+         alconicotinopops!...  http://observe.ivv.nasa.gov/ ...
+         Microsoft scanning *entire* IP number space from Redmond
+         (check for "generic" in your logs)... www.scallywag.org
+         *still* going? ... http://people.netscape.com/jwz/dadadodo/
+
+
+                               >> GEEK MEDIA <<
+                             dramatic resolutions
+
+         TV/RADIO>> when we met Father Lionel Fanthorpe, paranormal
+         presenter of FORTEAN TV (8pm, Fri, C4), we advised him to
+         "play up the musical bits", and - inexplicably - he appears
+         to have concurred... other strangeness in Aussie sci-fi AS
+         TIME GOES BY (12.45am, Fri, BBC1), Spike Lee's extended
+         Public Enemy video DO THE RIGHT THING (12.45am, Fri, BBC2),
+         and Armando Ianucci smug-a-thon FRIDAY NIGHT ARMISTICE,
+         which promises a visit to Rolf Harris's Psychiatric
+         Hospital... some original cast (the voice of Orac!) return
+         for a pre-Gauda Prime sequel to BLAKE'S 7 (2.30pm, Sat, R4)
+         - Blake's extra 7 stone, more like... sure, the critics
+         (and the public) hated it, but action movies got way more
+         ironic after Arnie played THE LAST ACTION HERO (8pm, Sat,
+         ITV)... then, in an unfortunate similar-titles clash, Wil
+         "Wesley Crusher" Wheaton lays in a course for THE LAST
+         PROSTITUTE (12.30am, Sat, LWT)... so what is it,
+         Schwarzenegger season? - BBC1 follows last week's Junior
+         with equally weird kid-pleaser KINDERGARTEN COP (7.15pm,
+         Sun, BBC1), and C4 peers into THE ABYSS (9pm, Sun, C4) in
+         the company of old Arnie-cronie Jim "Director's Cut"
+         Cameron... wannabe model Tessa is complimented on "looking
+         like an alien" in BABEWATCH (8.30pm, Mon, ITV), while new
+         construction-vehicle series CLASSIC PLANT (8.30pm, Mon, C4)
+         opens with "Diggers" and is narrated by (the almost-
+         obligatory) John Peel... author of let's-all-be-brothers
+         sci-fi hokum ENEMY MINE (10pm, Tue, C4) says it was the
+         studio that insisted on the subplot involving a mine,
+         claiming that the audience "would not realise that the
+         'Mine' in the title was a possessive rather than an
+         object"... forget firing guns on planes - the rocket crew
+         in partial Alien-inspiration IT! THE TERROR FROM BEYOND
+         SPACE (12.05am, Tue, C4) have no qualms about letting rip
+         with a bazooka... your statutory rights are not affected by
+         the new series of effortful satire THE MARK THOMAS COMEDY
+         PRODUCT (11pm, Wed, C4)... sinisterly, ITV follows
+         straight-talking docu THE TRUTH ABOUT WOMEN (9pm, Thu, ITV)
+         with - you've guessed it - FATAL ATTRACTION (10.40pm, Thu,
+         ITV)...
+
+         FILMS>> the only good thing about Brit showbiz spoof BRING
+         ME THE HEAD OF MAVIS DAVIS (imdb: "comedy") is that someone
+         might kill Rik Mayall and/or Jane Horrocks to try and
+         ensure its success... don't be misled by the disco
+         soundtrack, the universally acclaimed BOOGIE NIGHTS (imdb:
+         drama/ 1970s/ disco/ adultery/ prosthetic-body-part/
+         mother-figure/ child-custody/ porn-makers/ title-based-on-
+         song/ drugs/ sex/ vulgarity) appears to be about a
+         different kind of "boogieing" altogether... Pacino overacts
+         in lawyer=Satan antinews DEVIL'S ADVOCATE (imdb: action/
+         thriller/ crime/ mystery/ animals/ art/ black-comedy/
+         black-magic/ corruption/ lesbian-scene/ sexuality/
+         insanity/ endless-loop/ supernatural/ incest/
+         psychological/ law/ courtroom/ devil/ law-suits/ twist-in-
+         the-end/ father-son/ drama/ erotica/ family/ flashback/
+         intrigue/ murder/ based-on-novel/ mythological/ horror/
+         religion/ sexual/ subculture/ surreal/ voodoo/ satanism/
+         subway/ lucifer)... Icelanders underact on weirdie comedy
+         DEVIL'S ISLAND (imdb: drama/ post-wwii/ 1950s/ barracks/
+         based-on-true-story/ camp/ humor/ rock'n'roll/ based-on-
+         novel)... and a man plays videogames while a house blows up
+         (among other scenes) in Serbian-made limited-release PRETTY
+         VILLAGE, PRETTY FLAME (imdb: war/ former-yugoslavia/ comedy
+         / drama/ ethnic-conflict)...
+
+         TO URL IS HUMAN>> It was http://www.uni-pen.co.uk , not
+         http://www.uni-ball.co.uk. It wasn't
+         http://www.gothicclassifieds.com, it was
+         http://www.gothic-classifieds.com . What can we say? Tim
+         Berners-Lee always said these things weren't supposed to be
+         comprehensible to humans.
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "exploited".
+                            ( Thanks, Dennis J. )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

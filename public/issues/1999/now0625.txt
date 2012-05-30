@@ -1,0 +1,348 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-06-25_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "If we go into life-science companies, we find up to 70
+         packages; that means 70 kingdoms. When Europe had 70
+         kingdoms, it was a very unhappy time in history. Then
+         democracy came up and we integrated."
+                          - Friedrich von Bohlen, LION BIOSCIENCE, AG
+         http://www.wired.com/news/news/technology/story/20395.html
+                    ...not quite how everybody else saw it, Friedrich
+
+
+                                >> HARD NEWS <<
+							    up for a bruise
+
+         Good to see the DTI applauding the Consumer Association's
+         new E-Commerce Code of Practice - even if they're still
+         acting like the biggest cowboys around. That E-Commerce Bill
+         that was ordered months ago? Well, I've spoken to the
+         Ministry and they say it's definitely *definitely* in the
+         post, and should arrive next week. Yeah, they did say that
+         last week too. You do know it's not the same Bill as the one
+         you were expecting, right? Now it's called the Electronic
+         Communications Bill, which - given how much the consultation
+         paper was banging on about how it was exclusively to assist
+         e-commerce, should ring a few alarm bells. Although when you
+         do get it, don't be surprised if, once all the packaging is
+         removed, there's nothing there anyway. The DTI say that
+         tricky questions - such as whether key escrow is to be
+         supported - will now be deferred to a "joint forum" of
+         industry and government and implemented in secondary
+         legislation, away from all that awkward parliamentary
+         scrutiny business. Jesus. We heard that the DTI prefers
+         self-regulation, but this is ridiculous...
+         http://news.bbc.co.uk/hi/english/sci/tech/newsid_377000/377320.stm
+          - oddly, we don't even remember ordering it the first place
+         http://www.which.net/webtrader/index.html
+     - note prominent link to the Consumer Associations' online shop. 
+
+         Still, if anyone's feeling short of some law, there's
+         plenty to explore in the new Interception of Communications
+         consultation document. The IOC paper, while vague to the
+         point of meaninglessness (anyone seeing a pattern here?),
+         seems to suggest establishing tapping capabilities directly
+         into ISPs' NOCs. ISPs, predictably, have expressed concern
+         about this - mainly because of the cost. Absolutely right:
+         we'll all be much happier if our ISPs get paid by the
+         government to monitor their own customers, rather than just
+         doing it for free. Tell you what: given that your customers
+         are going to end up paying for this either way, how about
+         opening up the description of how the tapping would take
+         place, so we can all ensure that it's not going to turn into
+         some general general surveillance spectacular?
+         http://www.homeoffice.gov.uk/oicd/ioc.htm
+                                      - pdf to prevent "interception"
+         http://www.cyber-rights.org/interception/ioca99.htm
+                                     - html (and a tenth of the size)
+         http://www.ncis.co.uk/web/intelligence.htm
+         - quote from Sinead O'Connor album "I do not need what I cannot smell"
+
+         When we heard that an NTK reader had been ejected from a Sky
+         Digital training session for "asking too many questions",
+         our sympathies went immediately to Sky. I mean, in a world
+         where every month you have to stand up and pursuade people
+         that the OpenTV system isn't a crock, and in a world where
+         uptake is so bad that you have to give away these "training
+         sessions" for free (even though every Web company is gagging
+         for iTV contracts), then surely the last thing you'd deserve
+         is some smart alec asking questions like "Isn't this just
+         glorified teletext?" or "say, does this tedious authoring
+         system get on your nerves, too?". These things should not
+         happen. To prevent them, from now on, NTK will be running a
+         "Sarcastic Bastard Name And Shame" campaign. Simply e-mail
+         in with the sarky question *you* asked at any developer
+         meeting (not just Sky: Microsoft, Oracle, or even Linux '99
+         will do). We'll pick the most cutting comments, and punish
+         the troublemaker with a plug in the issue. Extra points for
+         getting physically thrown out of the session. Because if you
+         keep pointing out the truth to these marketing people, how
+         are they supposed to do their job?
+         http://www.opentv.com/
+                                          - mmmf. mmmmf mmmfff mmmff.
+
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         (this week's Antinews is dedicated to long-time AN superstar
+         SPYDER, whose Web "reviews" in London's TIME OUT not only
+         pioneered the innovative approach of clicking around a site
+         and writing down *exactly* what happens, but who also,
+         towards the end, veered into the exciting territory of
+         "thinking of things that don't seem to have a web presence
+         and clamouring for them to be put online" - culminating, in
+         this week's final column, with the plea "Oddly, Pot Noodles
+         don't have a website (so get pitching, people)." Presumably,
+         that would be apart from last September's ingeniously
+         misnomered http://www.potnoodle.co.uk ; goodbye, Spyder -
+         the Net never truly deserved you...)
+
+         VIRGIN not flying anywhere on 1999-12-31... BT CALL MINDER
+         upgrade delayed *again*... FALCO! http://www.angels-on-line.com
+         ... giving whole new meaning to "AAAA-AHHHAAA-AHHAAAAAAA!"
+         http://www.eonline.com/News/Items/0,1,4924,00.html ... PETER
+         NORTON restores love letters to JD Salinger, reminds him to
+         take back-ups next time... DIXONS advertise Rio as "MPEG 2
+         player"... FALCO? http://www.innerworkings.com/ ... LIGHT
+         SABRES "may cause burns": http://www.hasbro.com/consumer/safety.html
+         ... "In the contest between people and lightning, lightning
+         wins", wagers SCIENCE DAILY... BT internal document
+         reports: "PETER COCHRANE is often referred to as the
+         country's most holistic and unusual thinker who lives in the
+         future rather than trying to predict it" - how often,
+         exactly? ... obvious, when you think about it:
+         http://www.hackcanada.com/canadian/phreaking/riobox.txt ...
+         battle of the BABELFISHES: "the world of the juicy"
+         http://cactus.masterweb.it/eng/2intro.htm vs "To allow you
+         of view any our last workmanships, we have realized
+         demonstrative tapes" http://www.improntadigitale.mi.it/chiing.htm 
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Peter "ex-Bullfrog" Molyneux's touring roadshow stops off at
+         London's Olympia Conference Centre tomorrow for DEVELOP! 99
+         (UKP 329) - "For programmers, designers, and producers of
+         [cough] interactive entertainment" (they mean video games).
+         Other usual suspects include Argonaut's Jez San,
+         Revolution's Charles Cecil, and Shiny's Dave Perry; there
+         doesn't seem to be any mention of it on the organiser's
+         website, unless it's the "US Geriatric & Long-Term Care
+         Congress", which this line-up increasingly resembles.
+         http://www.unmf.co.uk/latest/index.html 
+- "Hong Kong Jewellery & Watch Fair" (incorporating "Fake Rolexes '99")
+
+         As if proof were needed that the web design biz was "full of
+         gangsters": the British Interactive Multimedia Association
+         awards await next Monday (1999-06-28), but only for those
+         who survive Artec/ FusedInteractive's invite to "MAD"
+         FRANKIE FRASER'S GANGLAND TOUR. At the time of writing, 4
+         tickets were still available for this Sunday (UKP25, from
+         mick@thekrays.co.uk); a look back at the notorious
+         "companies" whose high-profile "blags" and "scores" once
+         horrified all East London. And "Mad" Frankie Fraser should
+         have some pretty scary stories too.  
+         http://www.bima.co.uk/
+                                    - can't see this one winning much
+         http://www.fusedinteractive.co.uk/franks/tainer.html 
+                       - "under construction" = "concrete overshoes"?
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         It's difficult to say how the shotgun massacres that plague
+         our schools, workplaces, and university computer rooms[1]
+         might be avoided. Would it be better if we'd kept our
+         children from the mind-bending Quakey Doom violence game
+         that we have heard so much of from our television experts?
+         If someone had gone back in time and killed Siouxsie and The
+         Banshees before they'd met John Peel - could that changed
+         our present for the better? The only solution we've heard of
+         that works, really *works*, in preventing (or at least
+         limiting) occupational carnage, is arming all your kids and
+         cow-orkers to the teeth with RUBBER BAND TOYS, and letting
+         God sort them out. Just make sure you're the only one with
+         the "Uzzi"[sic]. Available in this country from the Kite
+         Store, 48 Neal Street, London. Well, they were until
+         everyone we knew bought out the shop's stock.
+         http://www.rubberbandtoys.com/
+                   - [1] not yet - but it's waiting to happen, isn't it?
+
+
+                               >> MEMEPOOL << 
+                              hasta la altavista
+         
+         "It's QUAKE O'Clock!"... ONION editor has stalker...
+         RIP http://people.netscape.com/mcmullen/ ... *now* you tell us:
+         http://209.192.217.100/graphics5B/font/zip/zxspectrum.zip
+         ... no, we're not stalking him - we just thought you'd like
+         http://www.jwz.org/webcollage/ ... http://216.33.45.198/jfk/
+         - really realistic "because OSWALD's not there"... so,
+         evil electricity company, it's PAYBACK TIME - and we're doing
+         the paying! http://www.homepower.com/rogues.htm ... if you
+         felt sorry for the guy who got his arm chopped off in the
+         CANTINA (http://home.earthlink.net/~rpalacios/walrusman/),
+         you'll love http://home.earthlink.net/~rpalacios/jarjar/ ...
+         still time to enter the next DARWIN AWARDS, Juan:
+         http://spin.com.mx/~jmlozano/indexi.html ...  jokes-in-the-URL:
+         http://www.corona.bc.ca/films/details/pictures/youvegotmaul.jpg
+         ... CLIFF STOLL now *knitting* Klein bottles... don't encourage:
+         http://www.warwick.ac.uk/staff/D.Chrastina/stalker.html ... 
+         but does it have a WATERSLIDE TRANSFERS boss monster: 
+         http://www.target.se/ia/dogfight.htm ...
+
+
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV NOTES>> yes, L7 taking their pants down does qualify as
+         THE BEST OF THE WORD (10.30pm, Fri, C4)... some sort of
+         "mud" comment compulsory for all coverage of GLASTONBURY '99
+         (11.15pm, Fri, BBC2)... and C5 shows its commitment to
+         old-fashioned smut as well as the new stuff, with Russ Meyer
+         tit-thrills rollercoaster SUPERVIXENS (11.50pm, Fri, C5)...
+         not at all affected by such sensationalist ratings-grabbing,
+         TIMEWATCH (9.40pm, Sat, BBC2) wheels out yet another
+         "history of pornography"... Patrick Stewart hops on board
+         ALISTAIR MACLEAN'S DEATH TRAIN (10.50pm, Sat, BBC1) -
+         tragically not the first in a series of rhyming
+         thriller-writer movies: THOMAS HARRIS' DEADLY PARIS, TOM
+         CLANCY'S FONDANT FANCY... THE WIZARD OF OZ (1pm, Sun, BBC1)
+         launches BBC1's "Twister Week", apparently in the absence of
+         the film "Twister" itself - unless it's on next Saturday or
+         something... and remade Robert Rodriguez shoot-em-up
+         DESPERADO (10pm, Sun, C4) is not based around The Eagles'
+         song of the same name... FOR THE LOVE OF (1.45am, Sun, C4)
+         features various clinical paranoids on the subject of "Big
+         Brother"; phone-tapping, surveillance, microwave
+         thought-control etc... looks like the "Miss Norwich" in
+         better-than-usual KNOWING ME KNOWING YOU (10.45pm, Mon, UK
+         Gold) went on to become the non-Sally Phillips receptionist
+         in I'm Alan Partridge... effortful history romp THE MADNESS
+         OF KING GEORGE (10pm, Mon, C4) wasn't called "The Madness Of
+         King George III" because Americans would think it was a
+         sequel... and PLAYING NINTENDO WITH GOD (11pm, Tue, C4) is
+         about terminally ill kids with AIDS, and not a
+         characteristically over-the-top review of Zelda 64... Rutger
+         Hauer is - literally and metaphorically - brought back from
+         the dead by derviative sci-fi REDLINE (9pm, Tue, C5)...
+         over-reverential muso jazz club ALL BACK TO MINE (11.30pm,
+         Wed, C4) sounds like a laugh-free "Vinyl Justice" from The
+         Adam And Joe Show... and the scheduling suggests that
+         chat-show MICHAEL MOORE LIVE (2.35am, Wed, C4) was bought in
+         as part of some bumper package deal, also implied by
+         subsequent chance to see Errol Morris's self-descriptive
+         FAST, CHEAP AND OUT OF CONTROL (3.15am, Wed, C4)...
+ 
+         FILM>> "Guaranteed to make you jump, laugh, scream and cover
+         your eyes" (Daily Express) - *and that's just Rachel Weisz's
+         acting!*, in dumb-ass sub-Lovecraft flesh-eating Evil Undead
+         adventure comedy THE MUMMY (bbfc: 0m 14s cut to obtain a
+         '12' category, for frequent, scary scenes of horror). Or
+         "Indiana Jones And The Endless Dynamation Particle System
+         Shots", as our f/x pals are apparently calling it...
+         following last-month's "The Corruptor", what is it with Mark
+         Wahlberg and pseudo-Hong Kong buddy action thrillers,
+         inquires explosive quick-talking breakdance assassin romp
+         THE BIG HIT (imdb: chase / black-comedy / kidnapping /
+         hitman / machismo / screwball / miscegenation / violence);
+         also stars Christina "Married With Children" Applegate,
+         ubiquitous straight-to-video hero Lou Diamond Phillips, and
+         DS9's Avery Brooks... so, presumably an improvement on the
+         rest of the Brit-shit being rushed out before Star Wars,
+         including Billy Connolly celebrity criminal chiller THE DEBT
+         COLLECTOR (bbfc: uncut, passed '18' for strong violence,
+         sexual violence and coarse language)... and Ewan McGregor/
+         Anna Friel's ill-judged celebration of gross financial
+         ineptitude, ROGUE TRADER (bbfc: uncut, passed '15' for
+         strong language); "It's 'Wall Street' - on acid!" chortles
+         The Sunday Express, revealing more about their reviewing
+         technique than we really wanted to know...
+
+         BUBBLING UNDER>> frankly we're disappointed by the current
+         confectionery: CADBURY'S MILLENNIUM BUG (as cheap as 20p in
+         Sainsburys) is tacky sub-caramel rubbish foiled to look like
+         the "zeroids" from Terrahawks; CADBURY'S CRAZE peanut-butter
+         bar (about 40p) is almost nauseatingly salty, and features a
+         cardboard protective shield - the ultimate chocolate
+         affectation; and CADBURY'S STAR WARS EPISODE 1 (25p)
+         explains - somewhat unnecessarily - that it's "From the
+         Makers of Cadbury's Wispa", and is indeed a small Wispa, but
+         with "6 Different Character Bars To Collect"...  NESTLE
+         haven't done much better, with POLO SUPER OJ'S reprising the
+         "giant Polo" packaging of last summer's Polo Super Mint [NTK
+         1999-06-05] plus their equally oversized price; 49p for a
+         few tangy orange "rich in Vitamin C" tablets. Still, it's up
+         to the uniformly pale-green POLO CITRUS SHARP (20p) to
+         finally appease all those who think Trebor Refreshers don't
+         taste enough like bath salts; and don't get us started on
+         POLO BUTTER-UPS...  instead we've been swigging the latest
+         fizzy drinks or, clearly influenced by disapproving
+         middle-class parents, the "flavoured waters" as some
+         supermarkets now call them... old-skool Dandelion And
+         Burdock-mongers SILVER STREAM have moved with the times and,
+         echoing the Penfield Organ in Do Androids Dream Of Electric
+         Sheep?, have launched IN THE MOOD (UKP1.09 bottle,
+         Sainsburys): spring water, fruit juices, plus "natural
+         botanicals" (ginseng, rosehip, acesulfame K, etc) to induce
+         states of excitement, refreshment, tranquility or
+         sensuality. We've only tried the first two, with limited
+         results; to explore other moods (naked aggression, perhaps),
+         may we suggest pre-mixed alco-pop RED SQUARE, an "energising
+         blend of premium vodka, caffeine and taurine"... we haven't
+         dared taste female-oriented milk-serum fizz RIVELLA [NTK
+         1999-03-12] - "sounds like rubella in a can to me", comments
+         one tipster... on a related note, reader JOHN MAYNARD asks:
+         "Why, on the new Tomb Raider Lucozade adverts, doesn't the
+         energy bar on the top of the screen show any increase when
+         Lara drinks the orange energy nectar?"... in other news,
+         BROOKE BOND has suspended a year-long trial of hot canned
+         drinks in the Granada TV region; the drinks were "warmed to
+         55 degrees C in specially designed cabinets"... while the
+         latest US fad is "supercarbonating" soft drinks with more
+         CO2 than usual; each can of EXCUSE ME'S new BELCHER range -
+         Loogie Lime, Gastro Grape etc - comes with its own "belch
+         gauge"... not fizzy, but expensive: RIBENA SMOOTHIES (75p)
+         are the thinnest we've ever chugged; more like various fruit
+         juices - blackcurrant, strawberry, pineapple - mixed with
+         cream.  Inspection of the ingredients reveals: they *are*
+         various fruit juices, mixed with cream... and finally, back
+         on semi-solids, kudos to Cadbury's highly paid product
+         strategists who, responding to Nestle's fast-selling KitKat
+         Chunky, devised the TIMEOUT CHUNKY, almost indistigushable
+         from its rival. "Bwaha-ha-ha," our correspondent writes:
+         "Soon *all* earth food shall be in 'chunky' form!"... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+     "choice of the Daily Post, regional paper for the North West, generation"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

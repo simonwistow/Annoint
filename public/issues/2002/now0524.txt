@@ -1,0 +1,284 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-05-24_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The Terminator films are set a couple of decades too early,
+         and we have no idea how to do time travel, but most of the
+         rest of the film is technologically feasible."
+         ... IAN PEARSON, "a futurologist", Sunday Times, 2002-05-19
+     - although here at BT we cannot stack skulls quite as neatly yet
+
+
+                                >> HARD NEWS <<
+                                skirt the truths
+
+         So CNN call us up and ask: "Could you demonstrate the magic
+         marker trick for defeating copy protection on Celine Dion
+         CDs?" And we say: "Sure, but you know it only circumvents
+         *some* copy protection systems - Cactus Data Shield 100/200
+         and KeyAudio, apparently?" CNN don't seem too worried about
+         this, and turn up with an "Attack Of The Clones" soundtrack,
+         with "Will not play on PC/Mac" on the front. And, true enough,
+         it won't read at all in our HP8100 CD-Writer Plus. "Do the
+         magic marker trick", they plead, as we search in vain for the
+         distinctive multi-session-style outer track, all the while
+         explaining the numerous different kinds of copy-protection in
+         contemporary usage, and eventually concluding "Oh, let's just
+         try it in the other CD drive". And lo and behold, it rips
+         without a hiccup from the crappy old LiteOn LTN382 32X using
+         Easy CD-DA Extractor 3. The CNN crew try to hide it, but you
+         can see the disappointment on their faces. In some ways, we
+         shrug, this is a less televisual, but more interesting, story
+         - all you need to get round copy protection is a friend with
+         moderately lame old hardware. Unless that's illegal under the
+         DMCA nowadays as well.
+         http://www.theregister.co.uk/content/54/25274.html
+              - vs http://www.ntk.net/index.cgi?b=02002-03-22&l=162#l
+         http://uk.eurorights.org/issues/cd/docs/celdion.shtml
+                                              - love that new logo...
+
+         All we ask for in the criss-crossed world of cyberrights is
+         the occasional MASSIVE FIST-FIGHT. The closest this week was
+         on the US BROADCAST PROTECTION DISCUSSION GROUP's conference
+         call. This is where the MPAA and friends were finishing off
+         the pseudo "consensus" they need to dictate little
+         copyright-cop-chips in every part of the American digital
+         network. Pesky meddling journalists were banned from the
+         call: just as well, because haxx0rs weren't. Gatecrashing
+         phreakers spent much of the call jaunting around the phone
+         bridge reminding the Hollywooderati just how 0wned they
+         were. Owned by feelingless multinational combines, of
+         course. Hollywood, we imagine, will now mandate magic
+         telephone chips that recognise when people who aren't in
+         suits are making calls, and stop them until their motives
+         are better known.
+         http://bpdg.blogs.eff.org/
+                - hint, phreakers: don't piss off your future counsel
+
+         If only someone was to inject the same level of thrillpower
+         into the EUROPEAN PARLIAMENT's current deliberations.
+         Confident in the belief that nobody is still awake, the MEPs
+         are capitulating like craven dogs over the permanent storage
+         of ISP logs and such. Given a choice between a nice, juicy
+         clause that says member countries won't retain data unless
+         it's for national security, is a temporary measure, and 
+         (best bit) "based on a specific law which is comprehensible
+         to the general public" - or a pile of namby pamby Eurodrivel
+         that says countries can monitor their citizens any time they
+         damn well want ... well, guess which one both the left and
+         right are going for? Statewatch has all the dreadful news.
+         Vote is on May 29th. There's a petition. You can sign it.
+         We understand pissing in the wind helps, too.
+         http://www.statewatch.org/
+                                                           - bad week
+         http://www.stop1984.com/index2.php?text=letter.txt
+         - we could have thought of less fatalistic domain names, but
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         this week's more-common-than-you'd-think GOOGLE typing error:
+         http://www.google.com/search?q=accuntants ... don't most
+         mobile networks try to play down this "undocumented feature"?:
+         http://www.ntk.net/2002/05/24/doht.gif ...all clipart extensively
+         tested on potential clients: http://www.hotbanana.ca/ ...
+         return of classic BBC tech pics - "Girl murdered on internet":
+http://news.bbc.co.uk/hi/english/world/americas/newsid_2000000/2000959.stm
+         - police are searching for a frustrated broadband customer:
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_2002000/2002160.stm
+         ... trapped in HOLLYOAKS: http://www.hollyoaks-online.net/ -
+         freed by the "Harlow [Too Much] Online Learning Initiatve":
+     http://www.google.com/search?hl=en&q=%22Do+not+reveal+to+Non+HOLLi%22
+         ... memo to self: avoid THE TIMES' pizza delivery service:
+         http://www.timesonline.co.uk/printFriendly/0,,1-2-302787,00.html
+         - "As the Italians say, revenue is a dish best delivered cold"
+         ... AMAZON being slightly over-eager in its suggestions again:
+         http://www.ntk.net/2002/05/24/dohvenus.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Hey, nearly a whole week free of plugs for EXTREME COMPUTING
+         (from 11am, Sun 2002-06-09, The Camden Centre, etc etc - now
+         featuring John "Meteor Storm" Hollis and Nigel "Chuckie Egg"
+         Alderton). However, in our really quite exciting role as
+         "media sponsor", we're also compelled to mention the annual
+         UKUUG LINUX DEVELOPERS' CONFERENCE (from 2002-07-04, Bristol,
+         from UKP40+VAT if you book before Fri 2002-05-31, student
+         concessions available), coincidentally the same day as the
+         closing date for this year's NET-MEDIA ONLINE JOURNALISM
+         AWARDS, which we accepted so graciously last year. Meanwhile,
+         continuing this summer season of digital arty get-togethers,
+         there's PLUG AND PLAY (from 6pm, Sunday 2002-05-26, Public
+         Life, London E1, free we assume), the art/music event where
+         you PLUG in whatever electronic kit you've brought, then use
+         it to PLAY some music or videos. Public Life is of course the
+         converted public toilet just opposite Spitalfields Market -
+         and the only limit which the organisers wish to place upon
+         your boundless creativity appears to be "no fucking bongos".
+         http://www.ukuug.org/events/linux2002/
+        - ah but do they have Indymedia and circuit bending? Exactly.
+         http://www.net-media.co.uk/awards/
+                     - hoping to give someone else a chance this year
+         http://www.gabba.net/pnp/lofiframe.htm
+           - and quite a bit cheaper than http://www.vjs.net/ as well
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Use Outlook Express? Yes? No? Whatever. You still badly need
+         to know about OE-QUOTEFIX, the tiny utility by Dominik Jain
+         that saves the world from Outlook's braindead quoting.
+         Quotefix sits in the System Tray and silently waits for you
+         to hit "reply" in Microsoft's mailer, then instantly
+         reformats Outlook's illusion of what a reply mail looks like
+         into something a bit saner. All the ">" quoted bits are
+         reformatted to fit on a 72 line, and a proper "Darth
+         Tyrannus wrote:"-style accreditation added on the top line.
+         Then, just for giggles, it colourises it so you can see who
+         said what. Quotefix is utterly invisible, does nothing nasty
+         with DLLs, exists completely independent from OE itself (you
+         can run Outlook with or without it), and is free. If you
+         must use Outlook Express, you can at last take part in long
+         threads without fscking up the structure of the replies. And
+         if you don't have OE, send this to your friends who do, as a
+         handy way of starting to talk to them again.
+         http://home.in.tum.de/~jain/software/quotefix.php
+                                    - It's not for them. It's for us.
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         best gagpipe-alike so far: http://www.martian.fm/bazooka.htm
+         ... RICH HERRING touches every base: http://www.talkingcock.co.uk
+         vs http://www.doyourecall.com/ ... finding patterns in noise, find
+         the text on the page: http://www.astro.ubc.ca/people/scott/cmb.html
+         ... proving that not all American fundamentalists are gun nuts:
+         http://www.knifeforums.com/ubbthreads/postlist.php?Cat=&Board=UBB64
+         ... *one* open WiFi AP inside the Research Labs, and they're away:
+         http://www.martleshamwireless.org.uk/ ... "I finally tracked it
+         down to the sound bouncing around between my glasses and my eyes
+         before being reflected into my ears" - when audiophiles go awry:
+         http://rogerdarlington.members.beeb.net/Tweek.htm ... this week's
+         secret base: the NSA monitoring station in MORWENSTOWE, CORNWALL
+ www.multimap.com/map/photo.cgi?x=220507&y=112750&scale=25000&rt=overlay.htm
+         gentle zine stories from when copiers and PDFs were relevant:
+         http://free.freespeech.org/greeblefew/ ... yummy giftext!
+         http://bokstavskex.framtid.nu/agi/default.asp ... CHRIS MORRIS,
+         pre-Dark Side? http://moof.org.uk/images/attackoftheclones.jpg
+         ... actually, more science and history might help you better:
+         http://m.doubleclick.net/viewad/421314/adc_afta_louis_468x60.gif
+         ... the military-industrial-fastfood-entertainment complex presents
+         http://www.defenselink.mil/news/May2002/n05222002_200205222.html
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> as the reality TV ratings war intensifies, contestants
+         will be permitted - nay, encouraged - to "flip out" and beat
+         the shit out of each other in the new series of BIG BROTHER
+         (9pm, Fri, C4)... the ubiquitous Dermot O'Leary doesn't even
+         make the bands dress up, or choose interesting songs, in sub-
+         "Stars In Their Eyes" cover version show RECOVERED (12.50am,
+         Fri, BBC1)... or you can sing along with THE EUROVISION SONG
+         CONTEST (8pm, Sat, BBC1) in either French or English, thanks
+         to http://www.ifrance.com/faneuro-france/chansons2002.htm - in
+         inconvenient Word doc and pdf formats... this week's bizarre
+         movie selection includes Tarantino-script-doctored submarine
+         workplace face-off CRIMSON TIDE (10.25pm, Sat, ITV), radically
+         re-edited Katie Holmes "Stepford Teenagers" romp DISTURBING
+         BEHAVIOR (9pm, Sun, C5), Claudia "Babylon 5" Christian low-
+         budget sex farce HEXED (1am, Sun, ITV), Helen "Supergirl"
+         Slater in Brit hacker effort THE STEAL (11.45pm, Sun, BBC1)
+         plus disappointing pro-Glock "The Fugitive" knockoff US
+         MARSHALS (9pm, Mon, C5)... but obviously you can turn down
+         the annoying Quentin Willson commentary and just admire the
+         ground-effect vehicles in ULTIMATE HOVERCRAFT (8pm, Sun, C5)
+         ... Jean-Claude Van Damme, Roger Moore team up for hilariously
+         poor would-be "Tekken: The Movie" THE QUEST (11.30pm, Mon,
+         ITV), scheduled vs sensationally non-exploitative docu-feature
+         PORNSTAR: THE LEGEND OF RON JEREMY (11.05pm, Mon, C4)... and
+         brutal "sci-fi" prison drama OZ (11.05pm, Tue, C4) returns for
+         a new series, hotly pursued by puerile Damon Wayans retarded-
+         superhero spoof BLANKMAN (1.15am, Tue, C4)... DANGER! 50,000
+         VOLTS (7pm, Wed, C5) appears to be an unofficial "Worst Case
+         Scenarios" adaptation... Sherilyn "Twin Peaks" Fenn has
+         another close encounter in straight-to-video sci-fi THE SHADOW
+         MEN (8pm, Wed, C5)... Mark Thomas imitates multimap's aerial
+         photo option in SECRET MAP OF BRITAIN (11.05pm, Wed, C4)...
+         asteroid-disaster ensembler DEEP IMPACT (8pm, Thu, BBC1) isn't
+         too bad, once you get past the preposterous "Ellie/Extinction
+         Level Event" confusion at the beginning... as CUTTING EDGE:
+         BOYS ALONE (9pm, Thu, C4) finds out what really happens if ten
+         12-year-old boys live without adult supervision for a week,
+         and whether they actually do fashion elaborate home-security
+         systems, as predicted by the literary classic "Home Alone"...
+
+         FILM>> as if any further recommendation was needed, Mia "24"
+         Kirshner plays Sarah Michelle Geller's "Cruel Intentions"
+         character in the rip-roaringly cynical NOT ANOTHER TEEN MOVIE
+         ( http://www.cndb.com/movie.html?title=Not+Another+Teen+Movie :
+         Cerina "Yellow Power Ranger" Vincent is topless throughout the
+         entire movie. In fact, she never is shown wearing any clothes
+         at all - except for a scarf in one of the deleted scenes; both
+         sides of [Chris Evans'] buttocks, but no crack)... Val Kilmer
+         *is* abstract expressionist Willem DeKooning in Ed "The Abyss"
+         Harris' best-actress-Oscar-winning painting potboiler POLLOCK
+         ( http://www.screenit.com/movies/2000/pollock.html : [Jennifer
+         Connelly] shows cleavage - and does so in other scenes in
+         various outfits. Later, we see her in bed with [Harris], but
+         other than that suggesting sex, we don't see any activity or
+         nudity)... otherwise there's Bruce Willis' unexpectedly grim
+         movie version of the popular "Hogan's Heroes" sitcom, HART'S
+         WAR (imdb: wwii/ prisoners-of-war/ based-on-novel/ airplane-
+         accident/ court-martial/ cover-up/ dogfight/ escape/ falsely-
+         accused/ frame-up/ honor/ murder/ POW-camp/ racism/ radio/
+         secret-plan/ shoe/ torture/ train/ traitor/ tunnel)... Jim
+         Carrey's latest serious yawnfest, McCarthy-era '50s drama THE
+         MAJESTIC ( http://www.capalert.com/capreports/majestic_the.htm :
+         Carrey opened his face a little in one of the kisses but it
+         certainly was not the Patrick Swayze kiss with his face
+         disappearing behind the hole of his mouth with his tongue
+         dragging the ground then slapping the slimy configuration on
+         his kissing partner; The House [of] Unamerican Activities
+         Committee was doing what needed to be done during the cold
+         war)... or Viz Comic-alike Brit-made fart-fest THUNDERPANTS
+         ( http://www.bbfc.co.uk/ : Contains mild bad language and
+         flatulence theme), which already seems to have been reviewed
+         by a chatbot: http://uk.imdb.com/CommentsShow?283054-1 ...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                               "baked beans"?
+    http://labs1.google.com/sets?hl=en&q1=ntk&q2=&q3=&q4=&q5=&btn=Large+Set
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

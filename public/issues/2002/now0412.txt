@@ -1,0 +1,369 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-04-12_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "More than 95% of the people that are in the United States at
+         any given time are in the computers of companies that mail
+         junk mail and you can look for patterns there..."
+      http://news.bbc.co.uk/hi/english/sci/tech/newsid_1912000/1912895.stm
+           - former President BILL CLINTON spams for freedom, imitates
+                    http://www.nationallampoon.com/news/4_11_2002c.asp
+         Dear TERRORIST SLEEPER AGENT,
+           You may already have won a super DETENTION WITHOUT TRIAL...
+
+
+                                >> HARD NEWS <<
+                               pitying the foo's
+
+         BT's announcement that they'd be rolling out 400 802.11b
+         access points within 12 months seems pretty darn ambitious -
+         especially when you take into account that it's currently
+         illegal for them to do so. Although everyone seems agreed
+         that the Radiotelecommunications Agency is going to dump the
+         current restrictions on business use of 2.4Ghz (which, by
+         way of its strange wording, was also messing up
+         unbusinesslike community initiatives like Consume.net), it's
+         still not gone yet. The RA's report on the topic comes out
+         on 2002-04-24, after which there'll be 28 days of public
+         consultation. A consultation mainly, we imagine, composed of
+         squawking 3G licensees bitching about how WiFi upstarts are
+         getting their money for nothing and spectrum for free. After
+         that, 802.11 will be open for free nets and telcos. Odd
+         isn't it, that BT are so keen on WiFi now they've dumped 3G
+         onto their spin-off MMO2? Anyway, talking of consultation
+         (and bitching), there's also been some idle talk that
+         parties interested in WiFi should join the government's
+         Broadband Shareholder Group, where they can rub shoulders
+         with BT, the Heeby-Jeeby 3Gs, good old Erol Ziya of the
+         Campaign for Unmetered Telecomms, and speak the ad-hoc
+         wireless gospel unto them all. Mail us if you're interested.
+         No weirdoes beyond the usual parameters.
+         http://www.radio.gov.uk/topics/pmc/consult/publictele/public.htm
+- we have to route around microwave ovens, we have to share these ESSIDs
+         http://www.e-envoy.gov.uk/ecommerce/broadband/compgrp.htm
+                                         - now doesn't this sound fun?
+
+         Sensitive souls already troubled by recent events in the
+         Mundane World should draw no conspiratorial conclusions from
+         the fact that that Palestine's top level domain .PS expired
+         on 2002-03-22. As the ever-watchful Sean Donelan notes in
+         his mail to NANOG, the sell-by date *shouldn't* affect
+         anything - although given NetSol's recent attempts to bill
+         ARIN for the in-addr.arpa domain [NTK 2002-03-15], we're
+         not so confident. For those of you who fancy a bit of
+         whois-omancy, however: Israel's .IL "domain" expires on
+         2087-10-24, thereby dating the arrival of the Messiah
+         uncommonly accurately. .DE evaporates on 2088-11-05,
+         allowing them a decent 98 year Reich. Don't get cocky
+         though: .UK sinks below the waves first on 2087-07-24. As
+         ever, you shouldn't put too much store by NetSol's accuracy
+         - as Sean points out, someone there set the .SU domain to
+         expire on 2092-09-19. A very optimistic prediction for the
+         Soviet Union's lifespan, we'd say.
+         http://www.netsol.com/cgi-bin/whois/whois?!PS240-DOM&id=0
+             - all their sites down anyway, perhaps because they're...
+         http://www.netsol.com/cgi-bin/whois/whois?!IL-DOM&id=0
+                                             - all routed through here
+
+         So, falco then, ZENTERTAINMENT, the twice-or-thrice weekly 
+         email entertainment newsletter which we stole the format of 
+         NTK from and which went on indefinite hiatus this week after 
+         nearly 7 years of continuous publishing. Editor Sean Jordan 
+         cites a number of reasons for the break - he's got a job in a 
+         fancy French restaurant, he wants to spend more time with "the 
+         good people and good things that surround [him]" - but there's 
+         also a hint that his pioneering optional subscription scheme 
+         (asking the 160,000 recipients to pay 50c per month - if they 
+         felt it was worth it) didn't really take off, with reportedly 
+         only 5% of the readership chipping in. All of which supports 
+         our stand that, despite some readers' reassuringly misplaced 
+         enthusiasm, we'd never try moving NTK to a subscriptions-only 
+         model - if only because, if you paid for NTK, you might start 
+         reasonably inquiring why half the issues never arrive until 
+         after you've already left work. 
+         http://www.zentertainment.com/
+                          - bonkers website still going strong, though
+         http://www.ntk.net/2002/04/12/zensub.txt
+           - still, 5% of 160,000 is 8,000 subscribers, at 50c each...
+ 
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         illustration depicts Marc Almond, presumably not Will Young: 
+         http://www.ananova.com/entertainment/story/sm_559478.html ... 
+         <TITLE> tag describes royal tributes as "Game of the Month":
+www.ntlworld.com/data-feeds/editorial/microsites/queen_mother/reviews.html
+         initial letters of weather outlook spell "Die Old Witch": 
+         http://www.ntk.net/2002/04/12/dohdie.gif ... "Download the 
+         latest Flash 4.0 plugin" advises "real time" new media agency 
+         http://www.ehsrealtime.com/ , goes on to enthuse about 
+         Tamagochis: http://www.ehsrealtime.com/mn_home_noflash.html 
+         ... "it's a girl's game", background .jpgs gruffly imply: 
+        http://www.csclub.uwaterloo.ca/clubs/badminto/tipssingles.html 
+         ... snappy comeback to that "wehavethewayout.com" fiasco: 
+         http://www.ntk.net/2002/04/12/dohsun.gif ... "Many of [my 
+         publications] revile something about me", reveals spellcheck 
+         fan: http://kevin.atkinson.dhs.org/ ... supporting the theory 
+         that every rude word is also the name of an American town: 
+         http://www.gotocity.com/local/2/us/MI/a/49831/ ... TA teamup 
+         with goatse.cx implied by http://www.getfitta.co.uk/ , where: 
+     http://www.laxguiden.com/cgi-bin/navigate/go.cgi?page=ordlista_sv_eng#g
+         - "get" is Swedish for goat, and "fitta" is - something else: 
+         http://www.notam02.no/~hcholm/altlang/ht/Swedish.html#f ... 
+         and concluding this week's inadvertent double-entendre triple-
+         bill: http://www.dice.com/DandL/i/infobahn.018.html ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         As you've no doubt gathered from our minimal coverage of it so 
+         far, the USA's proposed CBDTPA (formerly known as the Security 
+         Systems Standards and Certification Act) is extraordinarily 
+         bad news if you happen to enjoy swapping warez and MP3s - or 
+         even if you don't. Basically it requires all "digital media" 
+         players, including PCs, to incorporate mandatory copy-
+         protection technology - which, under 1998's Digital Millennium 
+         Copyright Act, it's an offence to circumvent. And there's no 
+         reason for Europeans to feel smug and complacent, as our very 
+         own poorly-localised version of the DMCA, the European Union 
+         Copyright Directive, is due to be implemented by EU member 
+         states later this year. The first thing you can do about it is 
+         to get along to the next CAMPAIGN FOR DIGITAL RIGHTS public 
+         meeting on the subject, featuring guest vocals from kernel 
+         hacker Alan Cox and scheduled for Monday 2002-04-29 at City 
+         University in North London (free but you must pre-register for 
+         numbers). And we'll probably be returning to the subject at 
+         some point during the NTK 5TH BIRTHDAY CONFERENCE AND DIY 
+         TECHNOLOGY TRADE FAIR, which now seems almost certain to take 
+         place at a central London venue on Sunday 2002-06-09, for the 
+         benefit of all those lucky people who like to plan what they're
+         doing more than 24 hours in advance.
+         http://www.lonix.org.uk/tnet-cgi/Lonix?CODE=userMeetings
+                           - vs http://www.digitalconsumer.org/cbdtpa/
+         http://www.yurisnight.net/parties/index.php
+                          - Yuri's night tonight (Gagarin, not Geller)
+         http://www.onlinecontentuk.org/Apr02event.html
+           - NB: for content practitioners (and their students) *only*
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         There's immature tech - and then there's P2P, which is
+         currently a pile of oily prototypes up on blocks in the
+         driveways of leather-clad enthusiasts. But if you're sick of
+         riding around the garden on the GNUTELLA lawnmower, and want
+         to get dirty with some intriguingly coded, easy-to-get-into,
+         works-on-my-platform, and - most importantly -
+         nearly-almost-working prototypes, whose front yard should
+         you loiter around? Best bets at the moment seem to be: for
+         anonymity and crypto fun, INVISIBLE IRC. This anonymising
+         IRC client works, good god, actually works, on Windows, OS X
+         and the Freenixes. There's some work to be done in auditing
+         the code for possible attacks, but hey - it's the written in
+         C instant-feedback Freenet you can understand. For crunchy
+         cutting-edge distributed resource sharing without all that
+         confusing anonymity, THE CIRCLE is a neat Python 2.1 app
+         that melds a neat GUI with some well-explained
+         slicing-and-dicing-edge theoretics. Windows and Linuxen are
+         both supported, and you can even run it from behind yonder
+         firewall if you have a ssh shell account somewhere else. As
+         with all of these baby P2Ps, it's a bit crummy for sharing
+         MP3s, but is dripping with "non-infringing uses" - including
+         trust metrics, distributed chat, neat visual public-key
+         signatures, and, yay, gossip distribution. Perfect for a
+         Sunday afternoon's hacking.
+         http://www.invisiblenet.net/iip/
+           - 1.2 out in a fortnight; and a system-wide upgrade beckons
+        http://invisibleip.sourceforge.net/iip/research/httpoveriip.gif
+                                                          - inevitably
+        http://yoyo.cc.monash.edu.au/~pfh/circle/
+- arbitrarily trust some random peers to get some traffic. We're 'simplicity'
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         because everyone thought the original pics were a caption 
+         contest: http://www.sortakinda.com/look/withyoualways.shtml 
+         ... how he did the "Fell in Love With a Girl" video (among 
+         others): http://www.res.com/feature-michelgondry.jsp ... fame-
+         hungry BLOGGERS make it into local paper, still aren't happy: 
+         http://www.infinitemonkeys.co.uk/gasgiant/000023.html - maybe 
+         they're all bots?: http://greengabbro.net/haveblogs.shtml ... 
+         http://www.penny-arcade.com/view.php3?date=2001-07-30 vs 
+         http://buffy.slayers.co.uk/ ... which ostensibly humorous 
+         external validation of your so-called "personality" are you?: 
+    http://www.carlsoncarlson.com/dane/stories/2002/01/13/whichAreYou.html
+         ... lazy fan sites: http://johnhannah.freeservers.com/ ... 
+         lazy spoof sites: http://www.poprevolution.co.uk/gurgle/ ... 
+         instant forgiveness for listening to "Geeks In Space": 
+         http://thepope.org/index.pl?node=Create+Indulgence - or 
+         watching: http://spaceflight.nasa.gov/realdata/nasatv/ ... 
+         there's no OS symbol for a solid-state phased-array radar?: 
+www.multimap.com/map/photo.cgi?x=486500&y=497000&scale=25000&rt=overlay.htm
+         vs http://www.subbrit.org.uk/rsg/sites/f/fylingdales/ ... 
+         even worse, they conceal their sinister machinations behind 
+         an annoying Flash interface: http://www.theyrule.net/ ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> THE BOOK GROUP (9.30pm, Fri, C4) is Yet Another Brit 
+         Sitcom Featuring That Bloke From The Chewing Gum Ads - 
+         arguably a funnier name for it... the Pet Shop Boys do an 
+         acoustic set on the new LATER WITH JOOLS HOLLAND (11.35pm, 
+         Fri, BBC2)... and the interesting career choices continue when 
+         Louise Brealy http://www.filmfour.com/cannes2001/txt_louB.htm 
+         becomes the latest CASUALTY (8.10pm, Sat, BBC1), following 
+         recent cameos from the stars of ATTACHMENTS (10pm, Wed, 
+         BBC2)... Ali G on PARKINSON (10.20pm, Sat, BBC1) goes up 
+         against TOP TEN CAMP ICONS (10pm, Sat, C4), patchy antiwar 
+         satire CATCH-22 (11.35pm, Sat, BBC2) and the original Dudley 
+         Moore/ Peter Cook Faustian pact BEDAZZLED (11.35pm, Sat, 
+         C4)... low-rent X-Files knockoff DARK SKIES (1.55am, Sat, C4) 
+         reveals the real truth behind Peter Cushing and Bernard 
+         Cribbins' resistance to the DALEKS: INVASION EARTH 2150AD 
+         (3.25pm, Sun, C4)... while Dr Who just happens to be among the 
+         concepts consigned by former BBC boss Michael Grade - both 
+         literally and metaphorically - to ROOM 101 (10pm, Mon, BBC2) 
+         ... maybe Hasselhoff was too busy doing "Reservoir Dogs" cover 
+         versions to appear in KNIGHT RIDER 2010 (5.20pm, Sun, C5): 
+      http://www.hellonetwork.com/demo/toysclub/video.asp?speed=hook300
+         ... Jackie Chan directs himself in WHO AM I? (9pm, Sun, C5)... 
+         Melanie Griffiths takes on nightmare tenant Michael Keaton in 
+         pro-landlord horror PACIFIC HEIGHTS (10pm, Sun, C4)... and THE 
+         SLOT (7.55pm, Mon-Thu, C4) profiles 4 digital artists whose 
+         work "explores the concept of personal identity", which 
+         doesn't exactly narrow it down: http://www.identinet.net/ ... 
+         C4 flaunts its commitment to investigative factual programming 
+         with THE TRUTH ABOUT LESBIAN SEX (10.35pm, Mon, C4), hotly 
+         pursued by nude photography docu NAKED STATES (11.40pm, Mon, 
+         C4)... but C5 stays in the game with "Naturists Uncovered" in 
+         STARK NAKED (8.30pm, Thu, C5), Dolph Lundgren action idiocy 
+         BLACKJACK (9pm, Mon, C5) and Matthew Modine made-for-TV 
+         nootropic weepie FLOWERS FOR ALGERNON (3.45pm, Tue, C5): 
+         http://www.xocolatl.com/kathy/ALGERNON.html ... FOOD JUNKIES 
+         (9pm, Wed, BBC2) counts the sugar content of "95% fat free" 
+         products... while the LIFE DOCTOR (8pm, Thu, C5) addresses the 
+         increasingly common problem of a tribute singer who feels that 
+         his "Robbie Williams" side is starting to "take over"... 
+         
+         FILM>> it's not as similar to Greg Egan's "Infinite Assassin" 
+         story as SFX Magazine makes out, but Jet Li does appear to be 
+         playing a character called "uLaw" (compression?) in parallel-
+         universe wirework actioner THE ONE (imdb: James "director of 
+         Final Destination" Wong, Glen "writer of Space: Above And 
+         Beyond" Morgan, and Carla "Mike's girlfriend in Spin City" 
+         Gugino - together at last!)... Jeff "Tron" Bridges sees the 
+         other side of that "Starman" situation when Kevin Spacey plays 
+         a mental patient who thinks he's an alien who thinks he's a 
+         mental patient, or something, in actionless actor-fest K-PAX 
+         ( http://www.capalert.com/capreports/k-pax.htm : irreverent 
+         discussion of Jesus; brief nudity of [Mary McCormack] in bed 
+         with a man; several presentations of thematic elements such as 
+         "All beings have the capacity to heal themselves"; I will in 
+         this case consider the use of mind control through hypnosis to 
+         be an unholy act and liken it to witchcraft and sorcery)... 
+         while from the makers of the raunchy Gwyneth Paltrow "Great 
+         Expectations" comes acclaimed arthouse Mexican teen sex comedy 
+         Y TU MAMA TAMBIEN ( http://www.cndb.com/ : we get to see [Gael 
+         Garcia Bernal's] great ass; [Maribel Verdu] looks 10 times 
+         cuter with a hat on; so much sex and nudity I'm sure I'm 
+         leaving something out)... "East Is East" meets "Gregory's 
+         Girl" in Keira "Queen Amidala imposter" Knightley feminist 
+         footy comedy BEND IT LIKE BECKHAM ( http://www.bbfc.co.uk/ :
+         contains moderate language and sexual references)... and 
+         Aaliyah is - briefly - resurrected from straight-to-video 
+         oblivion in yet another bloody Anne Rice adaptation, QUEEN OF 
+         THE DAMNED ( http://www.cndb.com/ : [Aaliyah] spends most of 
+         her scenes in a bronze chest plate; an extreme close-up of 
+         [Marguerite "Mighty Ducks" Moreau's] nice rack; a shot late in 
+         the film potentially shows [Stuart "Shooting Fish" Townsend's] 
+         pubic hair)... 
+         
+         CONFECTIONERY THEORY>> Easter has been and gone but top marks 
+         to MCDONALDS for successfully deseasonalising their CREME EGG 
+         MCFLURRY (99p), remarkable in the field of brand extensions 
+         for actually tasting like the thing it's supposed to be based 
+         on - unlike MARS' frankly bizarre MILKY WAY CHOC ICE and the 
+         MALTESERS ICE CREAM STICK. BIRDS EYE WALLS have attempted to 
+         address the McFlurry threat with their disappointing WHIPSTER 
+         tubs (with fake mini Smarties on top), but continue innovating 
+         elsewhere with an automated dispenser for what looks like 
+         chocolate flavour CORNETTO SOFT ice-cream, and Slush-Puppy-in-
+         a-pouch SOLERO SMOOVER (UKP1). But KIT KAT CHUNKY ICE CREAM 
+         has now been officially axed, confirming doubts about biscuit-
+         based choc-ice bars... elsewhere, there's been unremitting 
+         criticism of TERRY'S CHOCOLATE ORANGE EGG & SPOON (UKP1.99) - 
+         "the most sickly thing I have ever eaten" (SIMON WHITAKER), 
+         "suspiciously not available individually. This is because they 
+         are disgusting" (CHARLOTTE LATIMER); FLYIN' CUSTARD FLAVOUR 
+         FRIJJ - "somehow they've got it wrong" (PAUL GILLIBRAND); and 
+         FOX'S COOKIE POPPETS - "like slightly stale digestive 
+         biscuits" (BHIKKU). Speaking of which, we love the "Frosted 
+         Multi-Grain Cereal Loops" but not the "Mini-Chocolatey 
+         Biscuits" in KELLOGG'S BART SIMPSON'S NO PROBLEMOS (UKP1.79), 
+         and ditto the "NEW for Adults" MILKYBAR MUNCHIES ("White 
+         chocolates with a CRUNCHY biscuit centre"), while WRIGLEY'S X-
+         CITE "Mint Crunch Pearls" (60p for box of 40) appear to be a 
+         more expensive way of buying WRIGELY'S EXTRAS, and aren't even 
+         the right size to fit in a standard calibre air gun. That 
+         said, you seemed to like the new DIME NUGGETS (49p/bag) and 
+         NESTLES LITTLE ROLOS, despite - or perhaps because of - the 
+         highest per capita "missing toffee" rate of any recent product 
+         (CHARLOTTE LATIMER again)... over in savouries, the Walkers/ 
+         Golden Wonder war rages on with WALKERS' SENSATIONS (40p) 
+         tackling Kettle Chips by spraying ordinary crisps with fancy 
+         flavours like "Four Cheese and Red Onion", "Oven Roasted 
+         Chicken and Thyme", "Sea Salt and Cracked Black Pepper", and 
+         "Thai Sweet Chilli" and putting them in a foil bag, but GOLDEN 
+         WONDER's upmarket response DUETS (UKP1.49) are basically Wheat 
+         Crunchies with a creamy dip almost indistinguishable from 
+         tartar sauce. And finally, new stuff to look out for includes: 
+         the MARS SNICKERS FLAPJACK (65p), NESTLE SMARTIES CANS (75p), 
+         the UK launch of DIET COKE LEMON (due in June), CHICAGO TOWN 
+         SCRAMBLES - microwaveable breakfast pizzas topped with egg, 
+         cheese and a choice of bacon or sausage - and the equally 
+         microwaveable ALDO'S PIZZA BAR, notable mainly for their 
+         mildly unsettling "Cook - Crack - Stack - Snack" promotional 
+         campaign: http://www.pizza-bar.co.uk/ingredients.htm ... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                           "Successful businessman?"
+                http://www.ananova.com/news/story/sm_564608.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

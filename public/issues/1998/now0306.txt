@@ -1,0 +1,365 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____06/03/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+               "There is no more open market than Internet browsers.
+            Consumers can use any Internet browser they want just by
+                     taking five seconds to download a new browser."
+                                    - BILL GATES, in his Slate diary
+         though it helps when ftp.microsoft.com is only two doors down
+
+
+                               >> HARD NEWS <<
+                               made to confuse
+
+         Jim "Netscape" Barksdale, Scott "Sun" McNealy and Bill
+         "Everything Else" Gates were called to a SENATE JUDICIARY
+         COMMITTEE hearing this Wednesday to explain exactly what
+         all this goddamn commotion was about. Jimmy and Scott said
+         it was Billy who'd started it, that he'd told Michael Dell
+         not to play with them. Also, they alleged, whenever Jimmy
+         and Scott wanted to play, Billy always had to join in
+         (because he owned the ball). Senator Hatch and his
+         colleagues asked Michael whether this was true. Michael
+         said that he just wanted to play with Billy this one time,
+         and Billy said Michael could borrow the ball to play with
+         Jimmy if that's what he wanted to do. Scott and Jim started
+         shouting at Billy, saying that was a lie; further, that he
+         was a cheat; and moreover that he was just using his ball
+         ownership as leverage in order to establish a commanding
+         presence in other unrelated game sectors. When asked by
+         Senator Hatch whether they thought the government should
+         spank anyone here who was lying, all of them went quiet and
+         said no. The hearing was adjourned when Billy started to
+         cry.
+         http://www.upside.com/texis/mvm/story?id=34fdf6a40
+               - The "real" Gates diary. Ironically, not real at all.
+         http://www.c-span.org/onprogak.htm#e0303
+                       - "Real" Video and "Real" Audio of the event.
+         http://www.nypost.com/business/217.htm
+                          - a body language expert writes: Gates has
+                                "a Princess Diana quality about him"
+
+         Just how tolerant are the INTERNET WATCH FOUNDATION? That's
+         the self-referential question that the IWF will be asking,
+         after their announcement of a proposed rating system for UK
+         Web sites on Wednesday. The new ratings include a special
+         "tolerance" setting, which varies between 0 (neutral to
+         other groups) to 4 ("Advocates action which would cause
+         physical, psychological or economic harm or violence
+         against the group"). Naturally, the IWF would hope that
+         economic harm would occur to anyone who *didn't* stick
+         their ratings tag on all their Web pages, so that gets them
+         a four. Also intriguing is the "sex" rating, which
+         estimates "periods, etc." as a "2", and masturbation as a
+         "4". Startling to think that without the IWF, innocent
+         teenagers might have stumbled across these issues.
+         http://www.iwf.org.uk/
+         - Not to be confused with the Internet Wrestling Federation
+         http://www.leeds.ac.uk/law/pgs/yaman/right-to-reply.html
+         - Yaman gets a 4 in all our books. Baby.
+
+         The Good Ship of British Government continues to sail
+         perilously close to the Ginormous Rocks of NUMBINGLY STUPID
+         CRYPTO LEGISLATION. This week, the DTI has been calling up
+         everyone it knows to find out whether *any* business
+         interest thinks key escrow is a good idea. Not a great time
+         to do so, given that in the US, a broad coalition of
+         companies have just launched a $15 million media campaign
+         to publicise their opposition over there. And these
+         dangerous radicals are? Let's see: Microsoft, Intel,
+         Netscape, Cisco, Sun, 3Com, AOL, Adobe, Lotus, Compaq,
+         Honeywell, Rockwell, SCO, Mastercard, Visa... looks like
+         GCHQ is going to have problems keeping track, even *with*
+         their private keys.
+         http://www.computerprivacy.org/
+           - trusted third parties? They don't even trust each other
+         http://www.demon.net/news/features/crypto/
+                  - bless their "pillars of the Net community" socks
+
+                    [Because the crypto issue is so fast moving
+                    (and, of course, really James Bondish and
+                    exciting) NTK has set up a special mailing list
+                    so you can receive almost-daily updates. For top
+                    news on spooks, cypherpunks, those funny
+                    politicians and what you can do to help, e-mail
+                    <majordomo@lists.unfortu.net> with the message
+                    "subscribe crypto-announce". First MI5 plant
+                    wins a special prize! ]
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         MS to dump IE channel bar, claims "is unpopular"... WINDOWS
+         NT crashes: world's media horrified... Apple ditches
+         NEWTON; owners plan protest march: look forward to seeing
+         those placard spellings... Worst URL of the week:
+         http://www.citibankprivatebankphotoprize.co.uk/ ...
+         MACROMEDIA publicity gets desperate: www.sludgereport.com
+         ... Top model Honor Fraser uses TIMES INTERFACE "for all
+         her computer news" - Guardian... "POINTCAST In No Rush For
+         IPO"... JULIAN LLOYD WEBBER says media ignores classical
+         music "unless semi-naked bimbo violinists" are involved...
+         How many programmers does BIB have? How about "three"?...
+         Net Cited As Avenue For Computer Crime, uncovers WIRED...
+         COMPUTER CHANNEL relaunches as .TV, preserves commitment to
+         boring rubbish... Microsoft hate us, PSION moans...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         STOP WHATEVER YOU ARE DOING AND LISTEN TO US. We've
+         decided, against everyone else's better judgement, to do
+         another NTK Live. Yes, that's right: Forty minutes of
+         realtime geek news, amusing funnies, upsettingly personal
+         confessions and slap-dash vitriol, served up in front of a
+         live cybercafe audience, then compressed into crackly
+         RealMedia for your online enjoyment. We'll have more
+         details next week (when we've written some of it), but in
+         the meantime, make a space in your lives for THE WEBSHACK,
+         15 DEAN STREET, LONDON, 6.30pm, on Monday 16/3/98. And
+         until then: lay down on the floor, listen to the beta show,
+         and keep calm.
+         http://www.ntk.net/live/
+                                    - 500 audio streams of gibberish
+
+         "It was the year 2020. Dr Nicholas Wee of the Singapore
+         Robotics Research Institute was adding the finishing
+         touches to his human-like robot." That's the most
+         informative thing you get if you AltaVista for "Jupitus" -
+         as in Phill, as in Never Mind The Buzzcocks, but also as in
+         READY JEDI GO, his stand-up Star Wars spoof which has just
+         started touring the UK. It sounds like all the gags you've
+         ever made about the Holy Trilogy - using the Jedi mind-
+         trick to order drinks etc - plus (one imagines) numerous
+         imitations of Chewbacca. But we've warmed to the Jabba-like
+         Jupitus since discovering his previous incarnation as Porky
+         The Punk Poet, who once supported Billy Bragg and drew
+         illustrated lyrics for him and Attila The Stockbroker.
+         Check local search engines (or even newspapers and
+         magazines) for details - or you could always stick with the
+         adventures of Pinpin, Gopi, and Dr Nicholas Wee.
+         http://iagent.iti.gov.sg:5000/cgi-bin/child_frame1b
+         - "Aliens from spaceship Jupitus!" cried Patrick.
+                                          "I am not insured enough!"
+
+         It's embarrassing to admit Blue Peter reviewed this a month
+         before we did, but we finally sent someone down to Croydon
+         to see DEVIOUS DEVICES, and ... they like. A group of
+         automata inspired by "twentieth century objects" that were
+         selected by Terry Gilliam (who is, one assumes, too cranked
+         on the Fear and Loathing set to do much else), the pieces
+         include work by Ralph Steadman and Keith Newstead. The best
+         bit, our correspondent writes, are "some rather scary wee
+         men walking in a circle". Until 4/6/98, at the Croydon
+         Clocktower, then touring to Wolverhampton, Manchester,
+         Birmingham, Newport and Hollyhead.
+         http://www.croydon.gov.uk/cr-exhib.htm
+         - this place is turning into the National Geek Museum
+         http://www.cabaret.co.uk/newstead.html
+         - "one of them mysteriously transforms into an alien"
+         http://www0.bbc.co.uk/bluepeter/recently/january98.html
+                       - check here for tour dates. The shame!
+
+
+                                >> TRACKING <<
+                                     -404
+
+         Somehow we doubt that Tomorrow's World magazine - or any of
+         the other blokey gadget mags - could ever capture the
+         insane soldering-on spirit of Britain's ultimate low-tech
+         newsletter, the BULL ELECTRICAL CATALOGUE. Regular NTK
+         tipster Moose has drawn our attention to their latest
+         knock-off end-of-line bargain, Chieftain Tank Lasers (9
+         watts, 900nm infra-red, 5 mile range, now down to 200 quid
+         "despite some pretty heavy visits from the military
+         police"). Now almost-fully online, the Sussex-based danger
+         merchants also offer their solution to the banning of the
+         Video Sender home TV transmitter (sell it in kit form),
+         plus hydroponics, steam engines, circuit diagrams for
+         paranormal devices, and live worms. In today's safety-
+         conscious consumer world, it's good to see a company whose
+         corporate history breezily lists their bizarre
+         misjudgements, mishaps and brushes with the law - including
+         at least one fatality.
+         http://www.bull-electrical.com/
+           - so, does Weird Stuff Warehouse have lasers? Off a TANK?
+
+         We've covered it before (NTK 23/1/98), but the *proper*
+         MacOS 8.1 for UK users was finally sneaked onto the servers
+         this week. Don't forget to get the new runtime for Java
+         (because it's sooo good), and the PowerPC Disk Tools image
+         (because your one is now out of date) say those crazy first
+         adopter types, who as we speak are trying to work out how
+         to get the old filing system back. Probably.
+         http://www.apple.com/macos/macos8.1/
+                           - 16 megs - or two seconds if you're Bill
+         ftp://ftp.info.euro.apple.com/Apple.Support.Area/ ...etc
+                                    - you find it, if you're so keen
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Mr Jobs? We finally got the handwriting recognition
+         working! http://www.paragraph.com/javapad/JavPad.html ...
+         T.R.O.O.P.E.R.S - http://theforce.net/troops/ ... DAX to
+         leave DS9 ... Watch *this* go out of date:
+         http://datapult.com/domains.html ... maybe DISTRIBUTED.NET
+         should turn to spamming: www.dcs.ex.ac.uk/~aba/hashcash/
+         ... Terri Pearson, Neil McRae - who *isn't* leaving DEMON
+         this week?... There *is* such a thing as a free launch:
+         http://195.50.90.75/wavtv/ ... We neither condone nor condemn
+         http://satan.idsoftware.com/psteed/ ... Nor
+         http://billywildhack.com/ ... RTE shows memorial FATHER TED
+         - replaces "One Foot In The Grave"... SOUTH PARK hits Sky
+         at end of March... "In cyberspace, no-one can hear you
+         scream. Unless they have at least RealAudio 3.0" - or one
+         of these? www.mpman.com/ ... NASA turbocodes... Studies in
+         "intelligence": www.odci.gov/csi/studies/95unclas/lea.html
+         ... MYST guys split : you must try and fit them back
+         together again to continue... And how long is that lunar
+         water going to last then? ... hidden messages in
+         DIGITALMINDSTREAM?... EUROPE ONLINE to - return?... "What
+         IS this?"... polite URLs: http://www.infoplease.com ...
+         REBOOT is dead! Long live WAR PLANET and WEIRD-OHS! ...
+
+
+                               >> GEEK MEDIA <<
+                          electronic *fun* transfer
+
+         TV >> NTK exclusive backstage gossip: cute actress Trevyn
+         McDowell from COMEDY NATION (12.15am, Fri, BBC2) - also the
+         wife in the UK version of Mad About You - is apparently "a
+         huge sci-fi fan", particularly of Frank Herbert's Dune...
+         oh, and those cheeky guys back in a surprise two-episode
+         run of THE ADAM AND JOE SHOW (11.05pm, Fri, C4) are -
+         allegedly - really into Star Wars... Trek episodes never
+         got quite as bad as Gene Roddenberry's women-ruled romp
+         PLANET EARTH (1am, Fri, BBC1) - but it's a close-run
+         thing... two eponymous theme evenings battle it out on Sat,
+         with BBC2's "My Name Is Michael Caine" (9pm-2.10am)
+         answering C4's "Who Do You Think You Are, Stirling Moss?"
+         (9pm-2.25am)... which leaves ITV's "Grand Prix Night With
+         Murray Walker" (10.15pm-5.10am) to feature two of Murray's
+         lesser-known films: Clint Eastwood actioner THE ROOKIE and
+         THE DIRTY DOZEN: THE DEADLY MISSION... seems like his old
+         Moviedrome slot is now the only place you'll see Alex Cox
+         output HIGHWAY PATROLMAN (11.45pm, Sun, BBC2)... while Nam
+         chopper epic APOCALYPSE NOW (10pm, Sun, C4) is of course
+         based - as everyone knows - on the literary classic Three
+         Men In A Boat... Adam Hart-Davis takes his personal demons
+         up-river in an oar-propelled submarine in LOCAL HEROES
+         (8pm, Mon, BBC2)... but has yet to tackle truly terrifying
+         inventions like the *enormous hair* sported by Fenella
+         George, co-presenter of the now quite bizarre THE NET
+         (11.15pm, Mon, BBC2)... best "reality TV" docu ever? zoo-
+         and-village meanderthon LION COUNTRY (3pm, Mon-Fri,
+         BBC1)... BBC2's new "Late Arrivals" series on motherhood
+         hits complications when NEXT OF KIN (9.50pm, Tue, BBC2)
+         profiles Zoe Ball - and her dad, Johnny... Harry Enfield
+         crams his career into half an hour in FIRST ON FOUR (10pm,
+         Wed, C4)... a lethal virus threatens to jump species in
+         OUTBREAK (9pm, Wed, ITV) - and, no, Dustin Hoffman doesn't
+         play the monkey... plus: Picard's assimilated, and (even
+         worse?) Riker assumes command - The Best Of Both Worlds may
+         be the only episode of STAR TREK: THE NEXT GENERATION (6pm,
+         Wed, BBC2) to be titled from the Borg's point of view...
+
+         MOVIES >> a smart script, a bright cast, and one of those
+         rare likeable performances by Robin Williams: GOOD WILL
+         HUNTING (imdb: orphan / mathematics / genius / therapy /
+         drama / vulgarity / pyschology / friendship / math) is the
+         deeply harrowing, amusing, and uplifting fable for the
+         belligerent underachieving child prodigy in us all -
+         though, as one NTK previewer put it: "Too much love story
+         and not enough combinatorial mathematics for my liking. See
+         if you can spot the unlikely looking equations on the
+         boards (like 123^5 + 657^5 - 10 etc.) - as if theoretical
+         mathematicians are going to say 'Well, that equation looks
+         right, let's just try putting some numbers into it to make
+         sure.'"... elsewhere, Morgan Freeman dignifies a semi-
+         average serial killer thriller in which the kidnapper never
+         actually gets to KISS THE GIRLS (MPAA rated: R for "terror,
+         violence and language")... and another of those weird Brit
+         actor double-bills (the third in a month), with Rupert
+         Graves in post-WWI era It's The (Virginia) Woolf!
+         adaptation MRS DALLOWAY (MPAA rated: PG-13 for "emotional
+         elements and brief nudity")... plus disappointingly failed
+         play-adaptation BENT (imdb: war / drama / gay / WWII),
+         which only succeeds in putting the "camp" back into
+         "concentration camp"...
+
+         EDIBLES >> OPAL FRUITS "made to make your mouth water"?
+         Well, perhaps they meant "slaver with fury" following their
+         daft US-friendly renaming as STARBURSTS - as predicted way
+         back in NTK 19/09/97... this month's why-didn't-I-think-of-
+         that goes to RUMBLERS - 60g of dried breakfast cereal in a
+         dual-payload plastic package with 125ml of fresh semi-
+         skimmed milk. Expensive at 80p or more, but worth it just
+         for the astonishing self-assembly spoon... frenzied
+         speciation continues in the choc bar market - the ROLO
+         SMOOTH (aka the "New name for Rolo Bar"), huge blocks of
+         CADBURY'S CARAMEL, the BIG CRUNCHIE - plus mint, orange,
+         and giant-sized variants of everything that wasn't
+         originally mint, orange or giant-sized before (how long
+         before the Limited Edition King-Size Minty Terry's
+         Chocolate Orange?) Pics of most at
+         http://www.jakeh.demon.co.uk/collection.html (but where's
+         the "Dark And White" MARS BAR?)... dullest innovation: the
+         6 tiny Hubba-Bubba-ish pieces in a pack of WRIGLEY'S ORBIT
+         FOR CHILDREN - presumably aimed at youngsters unprepared
+         for the thrills of a full-strength adult-rated sugar-free
+         chew experience (connoisseurs, fear not - it still
+         "contains a source of Phenylalanine"; excessive consumption
+         may still produce "laxative effects")... Trebor's EXTRA
+         STRONG MINT diversification has its fans, this reviewer
+         unfortunately not one of them - although the HURRICANE
+         provides one of the zingier aftertastes on the shelf right
+         now... back with breakfast, a lot of fingers burned by the
+         shock redesign of POP TARTS (in deep blue to complement the
+         roll-out of Kellogg's Squares in newsagents?) and the
+         simultaneous flavour slimdown/ expansion: raspberry and
+         blueberry are now, officially, *toast*, replaced by
+         Strawberry Sensation, Watermelon Splash, Berry Bonanza,
+         Brown Sugar Spice, and - rather less alliteratively -
+         Chocotastic... product name of the month (spotted in
+         Sainsburys): MR FUNNY'S RUNNY HONEY, a "Mr Men" tie-in
+         spread that improves on old *unfunny* runny honey by adding
+         the great extra taste of orange, blackcurrant, or
+         strawberry. What next - Mr Bump's Mumpy Lumps? Mr Silly's
+         Willy Chilli? oh, never mind...
+                                                     - ben@spesh.com
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+             "AGENTS/WHORES/SLAVES/HIRED ASSASSINS/WITCHES AND/OR
+                   TELEPATHICALLY-CONTROLLED WITCH'S CATS"
+                  <http://www.webspawner.com/users/scandal/>
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

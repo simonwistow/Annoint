@@ -1,0 +1,308 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-03-09_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Oftel has just published the latest instalment of the LLU
+         guidelines, which lay out the rules for allocating space for
+         DSL equipment in exchanges. The rules also specify how space
+         for equipment will be located in toilets, offices, car parks
+         and other areas of existing local exchanges."
+                                      - http://www.silicon.com/a43071
+   ...BT encourages new providers to install "near the Blue Goldfish"
+
+
+                                >> HARD NEWS <<
+                              who's taunting who?
+
+         Biggest excitement at COMPUTERS FREEDOM AND PRIVACY this
+         year? Wired News' DECLAN MCCULLAGH getting nabbed by
+         government agents after the Carnivore debate. Sadly for
+         Dec's rep, the pair weren't after him for "knowing too
+         much" - or even *writing* too much, for which they'd have a
+         much better case. No, this was just another weirdly
+         scattershot subpoena in the Treasury's ongoing case against JIM
+         "Assassination Politics" BELL (also known as the one
+         net.kook more libertarian than Declan). MCCULLAGH now joins
+         JOHN "Cryptome" YOUNG in unwilling witnesses called in the
+         case. Boy, you'd think that if you were forcing people to
+         reveal supposed threats to the State, you'd choose people
+         who were known to *stop* blabbing about them from time to time.
+         http://www.politechbot.com/
+ - you'd also think wearing an NSA t-shirt would protect you but nooo
+         http://jya.com/ap.htm
+- we sense the gubbermint may be a little ... codependent with these folk
+
+         Meanwhile - and we'd say in accordance with prophecy, but we
+         never thought it'd pan out like this - after buying up a big
+         bunch of The Big Breach (and obviously selling *all* of
+         them, clearly, no problems there), noted secrecy/privacy
+         busters 192.COM have apparently liberated their own content,
+         and are now offering a free bookz version of the Tomlinson
+         autobio. Of course, now it's readily available and you don't
+         have to go through the fun of self-righteously mirroring it,
+         the book itself is kinda boring, but you can get it in Word
+         format, presumably with KGB Macro virus and MAC number of
+         Tomlinson's desktop PC included. Think we'll wait for the
+         seven-line Perl precis.
+         http://thebigbreach.com/download/
+                      - have we recommended that anonymizing proxy yet?
+
+         Sure, we've all wondered about the accountability of charities
+         who receive large sums of public money from time to time - but
+         few of us have had as much opportunity to do something about
+         it as WIPO who, next week, we believe are due to decide the
+         fate of leonard-cheshire.com, "a work of interventionist art"
+         constructed by disabled people - who happen to occasionally
+         criticise UK charity THE LEONARD CHESHIRE FOUNDATION (who,
+         naturally, own the non-profit leonard-cheshire.org). It's
+         impressive to see just how much ill-will this apparently
+         well-meaning care-provider has generated (over its alleged
+         institutionalisation of disabled people and priorities in
+         distribution of funding); leonard-cheshire.com's defence in
+         the domain dispute argues that it clearly identifies itself as
+         an "anti-Leonard Cheshire Foundation website", and should
+         therefore not be mistaken for the "real thing" - unless of
+         course the "real" site also includes such playfully satirical
+         content as "What can I do if I do not like disabled people
+         and want to see them banged up in institutions away from the
+         community and only let out in controlled groups with lots of
+         'carers' to protect the public from their hideous presence?"
+         http://www.leonard-cheshire.com/pages/pictures.html
+         - "fast facts" at http://leonard-cheshire.com/pages/fast.html
+         http://arbiter.wipo.int/domains/cases/2001/d0000-0199.html
+         - that .sucks TLD got here just in time
+     http://www.societyguardian.co.uk/voluntary/story/0,7890,423065,00.html
+         - conference to "improve public confidence": sounds expensive...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "total UK internet marketing expenditure" = UKP600 this year:
+         http://www.ntk.net/2001/03/09/doh600.gif - enough for 75
+         race meetings: http://www.ntk.net/2001/03/09/doh8quid.gif ...
+         NETSCAPE users "may not be able to take full advantage" of
+         UK WEB DESIGN ASSOCIATION: http://www.ukwda.org/netscape.html
+         ... PETER TATCHELL forwards ONION's "Eminem Releases Single
+         About Hugging Elton John Then Ripping His Dick Off With
+         Pliers" to mailing list, later apologises for perpetrating
+         "hoax"... http://www.theregister.co.uk/content/6/17420.html vs
+         http://www.theregister.co.uk/content/archive/15418.html ...
+         BBC off chasing WOOZLES http://www.machaon.ru/pooh/chap3.html :
+     http://news.bbc.co.uk/hi/english/business/newsid_1210000/1210087.stm
+         ... counting the days: http://www.aolwatch.org/bush.htm vs
+         outright DENIAL: http://realguide.real.com/channels/ ... your
+         MUM's so uncool, she watches: http://yourmum.mtv.co.uk/ ...
+         http://www.cookdandbombd.co.uk/ "not suitable for an 8-YEAR
+         OLD CHILD"... does the Geneva Convention cover CHINESE BURNS?
+         http://www.ntk.net/2001/03/09/dohira.gif ...is this the lamest
+         ONION ripoff of all time? http://www.theschmews.com/ ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         We've been a bit slack over this year's COMPUTER SECURITY
+         COLLOQUIA at the LSE (Wed 2001-03-14: "Future Technology/
+         Future Information Security", with David Lacey of the Post
+         Office). After that, there's always the looming threat of the
+         complex emotions elicited by COMIC RELIEF - sure, you'd like
+         to help, but there's always the lingering doubt that you may,
+         in some small way, be unwittingly prolonging the careers of
+         Lenny Henry or Richard Curtis. One initiative we feel we can
+         give our typically half-hearted support to is the DUBBLE BAR
+         (RRP around 35p) - "Milk Chocolate With Caramelised Crisp
+         Rice", produced in keeping with "Fairtrade" principles and
+         perhaps uncharitably described by NTK readers as "rather too
+         sweet for me - each rice grain seems like it's been injected
+         with sugar" (Tim Aidley) and "just a really thick version of
+         Dairy Crunch with not very good chocolate" (Mike Gray). We,
+         however, kind of liked it - though it does pale in comparison
+         with the shockingly tasty Organic range launched this week by
+         NTK e-commerce affiliates CYBERCANDY, our personal favourites
+         being the bars with big chunks of apple and orange and ginger
+         and stuff in.
+         http://www.cybercandy.co.uk/pmet1.php?xdbc=ORG&dbtc=1&pic=0
+         - tell your friends that the turtles are "chocolate starfish"
+         http://www.comicrelief.ac.psiweb.com/dubble/Dubble_Click.html
+         - yet no link to http://www.divinechocolate.com/
+         http://csrc.lse.ac.uk/colloquia.htm
+         - hair-raising anecdotes on envelope sniffing and stamp fraud
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         You know the problem. You've upped your BogoMips, padded out
+         your address space with cheapo SDRAM, slotted a couple of
+         forty giggers in your bays: your desktop is at eleven.
+         Except for one thing. Your average load: a pathetic 0.01.
+         That needs to be rounded up. But with such conspicuous
+         consumption tendencies, you're just not the type to donate
+         them to some fly-by-night key-cracking, ET-searching,
+         AIDS-curing distributed "effort". No, you need MGM. Written
+         by Ogg Vorbis' very own Xiphophorus, MGM (which stands for
+         Moaning Goat Meter, you crazy WIPO people) is a load meter
+         with a catch: the principal load is itself. It's written in
+         Perl-TK. It thrashes itself silly measuring system params
+         about once every other instruction. It take plug-in. It show
+         spinning fish. It look real pretty. It take up more RAM than
+         Emacs. No, really.
+         http://www.xiph.org/mgm/
+                                         - worth it for the FAQ alone
+         http://www.xiph.org/archives/mgm-announce/
+    - first plug-in: measures MGM's own RSS bloat and so on and so on
+
+
+                                >> MEMEPOOL <<
+                               frott the hotbot
+
+         new craze in JAPAN - artificial nails that glow when you're
+         receiving a mobile call... ALL YOUR BASES is new "Mr T Ate My
+         Balls": http://www.maficdesign.com/ayb/mrt.swf ... US wire
+         story: http://www.vny.com/cf/news/upidetail.cfm?QID=163936
+         imitates: http://www.thebrainstrust.co.uk/article.3.60.html
+         ... loathe TREES? here's your big chance to have your say!:
+       http://www.camden.gov.uk/young/fairplay/trees/treequestions.cfm
+         ... barmy-looking NASA boffins imitate start of INDEPENDENCE
+         DAY: http://www.spaceweather.com/glossary/nasameteorradar.html
+         ... Dr Phlox: from C5's "Pepsi Chart" to infinity and BEYOND!:
+         http://www.trektoday.com/news/040301_01.shtml ... BT network
+         capacity: http://www.labs.bt.com/news/00-12-15.htm imitates:
+     http://www.tuxedo.org/~esr/jargon/html/entry/phase-of-the-moon.html
+         ... http://www.char.tv/ ... Scientologists now targeting
+         BURROUGHS fans: http://www.ntk.net/2001/03/09/harmaline.jpg
+         ... http://www.jesuschristsuperstore.net/ more heavily armed
+         than http://www.trainupachild.com/ ... very "special" SAILOR
+         MOON attack: http://www.tcp.com/doi/smoon/char/taiki.html ...
+         got some gags out of New-Zealand-census-email, the BBC have:
+     http://news.bbc.co.uk/hi/english/uk/newsid_1204000/1204829.stm ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> former Simon Quinlank sidekick Kevin "Alan" Cecil co-
+         stars in the extended Robot Wars/ Fight Club spoof episode of
+         SPACED (9.30pm, Fri; 12.25am, Sat, C4)... commemorating a
+         decade when the undead once again walked the earth, EVIL DEAD
+         II (10.35pm, Sat, BBC2) and Kathryn "Point Break" Bigelow's
+         NEAR DARK (11.55pm, Sat, BBC2) follow on from I LOVE 1987
+         (9.05pm, Sat, BBC2) - which, by the way, had better not
+         overlook the publication of the "Watchmen" graphic novel and
+         the release of "Beat Dis" by Bomb The Bass - events which, as
+         far as we're concerned, effectively marked the start of the
+         modern era... while this week's autistic spectrum appearances
+         include idiot-savant exaggeration docu FRAGMENTS OF GENIUS
+         (7.40pm, Sun, BBC1), a fictionalised version of the same thing
+         in RAIN MAN (10.55pm, Sun, BBC1), plus a pair of high-
+         functioning Asperger's syndromers in FIRST SIGHT (7.30pm, Thu,
+         BBC2, London only)... despite its title, 3-part manned-mission
+         docu DESTINATION MARS (8pm, Mon, C4) isn't a sci-fi movie from
+         30 years ago - these are now reserved for weekday afternoons
+         in the form of MAROONED (1.10pm, Mon, C4) and time-traveller
+         QUEST FOR LOVE (1.10pm, Wed, BBC2)... and, once again, there's
+         something of a shared theme among "The Great Dot.Con" special
+         of THE MONEY PROGRAMME (7.30pm, Wed, BBC2), "Jamie's Internet
+         fantasies begin to intrude on reality" in entertainingly
+         filmed teen trash AS IF (6pm, Thu, BBC2), and the "Searching
+         for Sex" edition of TROUBLE AT THE TOP (9.50pm, Thu, BBC2), on
+         17 year-old child prodigy Benjamin Cohen's mission to create
+         the world's most Jewish porn search engine, or something:
+         http://www.theregister.co.uk/content/archive/15847.html ...
+
+         FILM>> essentially a feature-length adaptation of the Spinal
+         Tap track "Bitch School" - with an extended role for Lt "I'm
+         joking of course" Hookstratten who shows them round the air
+         force base - means top marks for the reassuringly barking BEST
+         IN SHOW (http://www.screenit.com/movies/2000/best_in_show.html
+         : Phrases: "Sh*tbox," "I sh*t you not, you freak," "Loser(s),"
+         "Bitch" (for dogs, said several times), "Freaks," "Taking a
+         dump," "Shut up," "What the hell is this?" and "Nuts")... this
+         week's other gem is limited-release NY mole people docu DARK
+         DAYS (http://www.darkdays.com/ - caution: Flash)... otherwise
+         James "Stargate" Spader plays a cop unhealthily obsessed with
+         Keanu Reeves' unhealthy obsession with Marisa Tomei in THE
+         WATCHER (http://www.capalert.com/capreports/watcher_the.htm :
+         explosively startling programming; teen arrogance against fair
+         authority; female underwear mag in man's apartment; blow to
+         the head) - first of this year's major releases featuring
+         Ernie "Ghostbusters" Hudson... or, speaking of unhealthy
+         obsessions, there's "strong language and some moderate sex
+         references" in this year's 'This Year's Love', the postponed-
+         release Brit comedy BORN ROMANTIC (imdb: Jessica "Spaced"
+         Stevenson, Sally "Smack The Pony" Phillips, and Jane "bloody"
+         Horrocks - together at last!)...
+
+         NASTY, BRITISH AND SHIRT(S)>> feverish speculation over the
+         contents of NTK's "Spring Collection" can now be (temporarily)
+         stilled, as we reveal that our first new T-shirt design -
+         unveiled today at http://www.ntkmart.com/ - is something of a
+         timeless "retro classic": a screenshot of BBC Micro "Elite"
+         with the letters "NTK" pasted into it! Respect is due to
+         shadowy creators "Violence Through Kittens" for volunteering
+         to donate their royalties to NTK's adopted PC-recyclers the
+         Redundant Technology Initiative (and for keeping the original
+         GIF down to less than 4K in size); kudos also to Elite authors
+         Ian Bell and David Braben, who we did ask to check that they
+         didn't mind, and they said "fine"... which makes this month's
+         Runner-Up that "Bruce" guy again - who, attendees at our
+         Christmas Party may recall, recklessly agreed to gamble his
+         royalties from the "I got UKP80million in venture capital"
+         design on a print run of one of his other ones - specifically
+         the deviously renaissance-man slogan "iMachiavellian: Think
+         dissident", printed in a curiously familiar-looking font in
+         delicate light blue on a gorgeous "graphite" dark grey shirt.
+         And we've even managed to get some of our old favourites
+         available in both sizes - Medium *and* XL - next we might even
+         consider shipping to the US, if they really beg for it...
+         still, if you think you can do better, the good news is we're
+         planning at least one new design every month now until we get
+         bored - plus we're setting up some sort of gallery of entries
+         that we're still "not sure about", which currently includes
+         HANDANOVA's surreal http://www.geekparty.net/tshirt.html ,
+         JEREMY ARDLEY's RIP-aware http://www.ardley.org/shadowsml.jpg
+         (based on http://www.nara.gov/exhall/powers/shadow.jpg ), and
+         NICK SZCZEPANIK's text-only back-print "WARNING: I SLOW DOWN
+         FOR SHOE SHOPS", to be printed in "in women's sizes only",
+         and allegedly inspired by "his girlfriend". Though we're
+         definitely calling a moratorium on those fucking Einsteins
+         who've proposed some sort of "All Your Base Are Belong To Us"
+         variant - SIMON BATISTONI is partly forgiven for "NTK: They
+         Set Us Up The Bomb - Now We Have Set Them Up It Back" - but,
+         attention reader HARRY HARRIS: "All Your Memes Are Belong To
+         Us"? You're going to have to try harder than that...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "They had robbed our restoration nonupdated,
+                        we rob here to her hour behind"
+     ( still amusing ourselves with http://www.telalink.net/~carl/multibabel/ )
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

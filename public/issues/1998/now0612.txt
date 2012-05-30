@@ -1,0 +1,295 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____12/06/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+           "We don't tell people America Online owns CompuServe, and
+                                      we don't want people to know."
+                                         - BOB PITTMAN, President of AOL
+         ...those "forums" are more heavily moderated than we thought
+
+
+
+                               >> HARD NEWS <<
+                                 unpaid dues
+
+         Penny for the packet! As if Northern Ireland hadn't
+         suffered enough, BT announced a new bare-bones Internet
+         service to be trialled there this Summer. No e-mail, no
+         newsfeed, no Webspace, but no charges - apart from a measly
+         one pence extra on every minute you call; peanuts to a
+         light Net user like yourself. Charges will be billed to the
+         calling number's bill - so expect to see spammers armed
+         with acoustic couplers at your local phonebox. Stunned
+         "industry consultants" blustered about reporting BT to
+         Oftel for their devilishly monopolistic scheme - apparently
+         unaware that it was practically Oftel's idea in the first
+         place. The watchdog predicted this sort of service over a
+         year ago, giving it the nod on the understanding that the
+         smarter ISPs would grab a Telco license, and undercut it
+         with free IP provision when they started receiving telco-
+         ish revenues from the phonecall charges. ISPs like, say,
+         Easynet, who - just coincidentally - activated their
+         telephony system days before the BT announcement. Looks
+         like *somebody* made the connection.
+         http://www.oftel.gov.uk/competition/pcstn.htm#CHAP5
+                 - Geocities, Dejanews and Hotmail are in for a fun time
+         http://www.ntk.net/index.cgi?back=a97/now0926.txt&line=80#l
+                            - sorry if we're repeating ourselves here...
+         http://www.portsurfer.demon.co.uk/psurf4.htm#finternet
+             - mind you, some people have had free Net access for months
+
+         AOL finally paid $287 million up front for MIRABILIS.
+         Hardcore ICQers protested that this meant they were now
+         AOLers - an effective demotion (in official Net pecking
+         hierarchy, ICQers are slightly above AOLers while still
+         below IRCers, MUDders, and Koko the signing Gorilla). AOL
+         was quick to deny a complete merger, saying that they
+         considered ICQ merely a "portal" to the Windows desktop.
+         Can't knock the theory, although with all the security
+         flaws in ICQ, it looks like it's *everybody's* portal to
+         your desktop. Our recommendation for the next AOL purchase
+         - ICKill, a ICQ script-kiddy exploit which purports to
+         allow users to spam other ICQers, but in fact installs a
+         permanent backdoor into the spammers' system, allowing it
+         to be remotely controlled by ICKill's programmer. 35,000
+         unwitting users so far, and growing every day!
+         http://members.tripod.com/~hakz/ICQ/
+                            - now that's what we call an online presence
+         http://www.mirabilis.com/
+                            - design straight out of AOL's free Webspace
+
+         More Brit buy-outs: in an intriguingly reversal of his
+         namesake's baby-splitting strategem, DR SOLOMON and his
+         cohorts have merged with Philistines NETWORK ASSOCIATES
+         (producers of the arch-enemy McAfee NetShield and
+         VirusScan) for a cool $640 million stock swappage. Not a
+         bad price for the company McAfee used to call "Dr
+         Dolittle". In another awkward fit - perhaps a fit of panic
+         at Amazon's imminent arrival here - WHSmiths bought out the
+         Internet Bookshop for UKP 9 million - less than the
+         recommended retail price, we'd say. And what are WHSmiths
+         going to do with it? If their real world shops are anything
+         to go by, they'll dump everything except the big cookery
+         hardbacks, stick all the interesting stuff in a corner
+         that's too crowded to browse comfortably, then put all the
+         batteries behind a secure firewall in case people try and
+         shoplift all the electricity.
+         http://www.whsmith.co.uk/
+                                   - impossible to get service here, too
+         http://www.bookshop.co.uk/
+                          - includes unsolicited praise from one Mr Borg
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         LABOUR's pre-election crypto policy "disappears" from
+         Website... SKY quietly changes slogan from "we like coming
+         first" to "we like *being* first" ... US-based OLGA sheet
+         music archive shut down; hope the Eastern European mirrors
+         can take the traffic... DNS white paper "inconclusive"...
+         WRIGLEY'S trademark phrase "Won't Stick To Most Dental
+         Work"... TURK gets jail for insulting police in chat
+         room... heavy lifting "kills your back", UNIVERSITY OF
+         CALIFORNIA decide... this week's employer humiliation: The
+         INDUSTRY STANDARD - http://www.ntk.net/doh/ts980609.gif ...
+         AIN'T IT COOL claims that 40% of Star Wars 1 rushes are
+         out-of-focus "probably exaggerated"... FLORIDA woman to
+         "give birth on Internet"...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         It's 50 years since MANCHESTER'S first "STORED PROGRAM
+         COMPUTER", though frankly we'd be more impressed had been
+         running the whole time - doing the accounts for the
+         Hacienda, programming drum loops for the Stone Roses,
+         automatically generating the Oasis catchphrase "Mad for it"
+         etc etc. To celebrate, the whole town will be going "Mad
+         for IT" (clever wording, we know) - from retro-emulator
+         fans reconstructing the original "Baby" (Hunt The Wumpus,
+         anyone?) to the cutting edge of modern low-computing-power
+         robotics: a 100-quid Micromouse face-off.
+         http://www.computer50.org/
+                  - "concert" features neither The Smiths nor Kraftwerk!
+
+
+                                >> TRACKING <<
+                            performing mime types
+
+         Do you demand cutting edge technology *and* frequent
+         reboots? For those with a blue screen of deathwish, we're
+         picking Real Network's Preview Release of RealPlayer G2
+         over Microsoft's Internet Explorer 5.0 Developer Release.
+         IE 5.0 introduces nothing but a bunch of DHTML extensions
+         you'd never stoop to using, and yet more parochial
+         Microsoft dialects (Want to view pages without annoying
+         browser buttons? Just change all your .html files to .hma!
+         Will they never learn?) G2, on the other hand, is
+         chillingly good. The stereo audio sounds like - well, real
+         stereo audio. And the video? It's like having a tiny telly
+         on your monitor!
+         http://www.real.com/g2/
+                   - a very tiny, badly tuned telly that keeps imploding
+         http://www.microsoft.com/ie/
+                    - Both are Windows only. Because they're used to it.
+
+         Didn't I used to have a Dungeons and Dragons berserker
+         character called "Brian Behlendorf"? Suppose it must be a
+         different one to *the* BB, herd-master of the Apache free
+         Webserver effort. Hope so. Anyway, he's just announced the
+         stablest Apache version yet, Apache 1.3.0. Incorporating
+         twelve months of tweaks and fixes - with a minimum of
+         feature creep *and* a Windows port - the Apache gang are
+         saying it's time to upgrade. And who are we to roll against
+         them?
+         http://www.apache.org/
+                              - Quick! Fetch me my Hammer of Serverload!
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         "STAY ALERT" caffeine gum... HotWired designers on more
+         drugs: http://www.absurd.org/ ... Shatner to rap Julius
+         Caesar speech in FREE ENTERPRISE... Quake DOCTOR WHO...
+         http://www.scn.org/newspeak/ ... should be a porn site, but
+         isn't, no.1: http://mobydicks.com ... DIFFERENTIAL POWER
+         ANALYSIS smartcard cracks... dare you return to MECCANO
+         PARK http://www.geocities.com/CapitolHill/Senate/3270/ ?
+         ... Skeet "Scream" Ulrich to play Mitnick in TAKEDOWN
+         movie... FIGHT YO' MAMA - the beer that'll "make you square
+         off and hit somebody"... proof of an Apple/Nazi conspiracy:
+         http://www.symbols.com/encyclopedia/25/2518.html ... not
+         that it's the return of "stupid URL tricks", but host -t
+         ptr 207.158.223.244 ... shouldn't be a porn site, but is:
+         http://www.yahoo.org ...
+
+
+                               >> GEEK MEDIA <<
+                              basic programming
+
+         TV>> LOST IN SPACE (7.15pm, Fri, BBC2) concludes with
+         Blake's 7 fans, as does INVASION: EARTH (9.30pm, Fri, BBC1)
+         - with *about* 7 fans! [chortle]... John "Dark Star"
+         Carpenter takes a peek IN THE MOUTH OF MADNESS (10.25pm,
+         Fri, BBC1) and finds people going mad from reading books -
+         a human variant of the "Good Times" virus? - and part of a
+         new BBC Friday horror double-bill, unbelievably called
+         "Fright-day"... of all the movies the Beeb *should* be
+         showing in widescreen, why not Ridley Scott's postponed
+         BLACK RAIN (10.20pm, Sat, BBC1), rather than lame yuppie
+         "comedy" wallow CLUELESS (9pm, Sat, BBC2)?... "blah-blah-
+         Tarantino gritty-no-music failed-heister" was just what we
+         said about DOG DAY AFTERNOON (9.55pm, Sat, C5) when it was
+         last shown on C4 back in January... Sontaran-necked Mark
+         Kermode breathes heavily over 25 YEARS OF THE EXORCIST
+         (10.30pm, Sat, BBC2), then of course they're not allowed to
+         show it... FLASH GORDON's alive! (3.30pm, Sun, some ITV) -
+         more than can be said for many of those involved, like, er,
+         Freddie Mercury... those pesky asteroids are back in Arthur
+         C Clarke adaptation TRAPPED IN SPACE (8.55pm, Sun, BBC2)...
+         and here's hoping for plenty of commercial breaks in
+         Italian arthouser THE ICICLE THIEF (12.50am, Sun, C4) -
+         about a director annoyed by irritating TV ads... a slightly
+         more haunting depiction of autism in kiddie drama HOUSE OF
+         CARDS (10.20pm, Sun, C4) than, say, cult radio adaptation
+         SPOONFACE STEINBERG (9.50pm, Tue, BBC2) - see also the
+         CHILDREN'S HEALTH (10.20pm, Thu, BBC2) series focusing
+         (briefly!) on Attention Deficit Hyperactive Disorder (are
+         they deliberately taunting sufferers by regularly changing
+         the name?)... James Earl Jones does hilarious Darth Vader
+         cameo in cute historical courtroom romp SOMMERSBY (8pm,
+         Mon, BBC2)... new six-part series BEG TO DIFFER (11.30pm,
+         Mon, C4) promises to be both "irreverent" *and*
+         "satirical"... and over on satellite, the SLIDERS (9pm,
+         Mon, Sky1) arrive on "unused sets from Timecop" world...
+         while STAR COMMAND (10pm, Mon, SciFi) may be the "4th
+         bloodiest sci-fi film ever", with 1,200 confirmed kills
+         ( http://magi.com/~rhdf/scms/scms.html )... reassuringly,
+         it's the original version of the best film ever, BLADE
+         RUNNER (11.10pm, Tue, most ITV) - according to my memory
+         implants, somehow even more authentic than the supposedly
+         authentic "Director's Cut", if you know what I mean...
+
+         FILM>> it's offbeat family saga time! Best (and longest) is
+         Robert Duvall producing, directing, writing and starring as
+         Jesus-filled preachin' machine THE APOSTLE (imdb: drama /
+         religion / minister / pentecostalism)... Pfeiffer, Lange
+         and Jason Leigh are sisters battling over King-Lear-alike
+         A THOUSAND ACRES (imdb: drama / based-on-novel / pulitzer-
+         prize-source / sibling-rivalry)... and it's African-
+         American clans "Waiting To Ingest" some of that tasty SOUL
+         FOOD (MPAA: rated R "for some strong sexuality and
+         language")... not a big Hollywood week elsewhere either:
+         somehow the fact that it's a Brit-made costume spoof
+         undermines STIFF UPPER LIPS (imdb: "co-produced by Isle of
+         Man Government")... check out the racy settings of multiple
+         partner-exchange fest THE BIG SWAP (imdb: "Locations:
+         Bristol, Clevedon, Weston-Super-Mare")... while Leicester-
+         set 1970s coming-of-age athleticism tries to keep up with
+         THE GIRL WITH BRAINS IN HER FEET (imdb: drama / comedy)...
+         so, our surprise recommendation: the witticism-packed
+         script of ungrammatically titled rom-com HOTEL DE LOVE
+         (imdb: "Australian")...
+
+         CORRIGENDA, ADDENDA, ETCETERA>> You'd think we'd get this
+         one right; in response to last week's bite-the-hand-that-
+         feeds-us VIRGIN NET piece [NTK 05/06/98], David Clarke
+         (Managing Director, Virgin Net - uh *oh*) writes to point
+         out that contrary to our snipe, Virgin Net's "three month
+         trial ended in February 1997!" and request that Danny now
+         be escorted from the building. Fortunately, the Chief
+         Financial Officer of the ISP steps in with this career-
+         saving justification: "If you did the free monthly trial,
+         and then switched to our annual package (12 months for the
+         price of 10) you would, indeed, still get three months
+         free." Exactly what we meant to say - and what great value,
+         eh, readers?... No such sparring from similarly-dissed
+         PIPEX, who in a weird synchronicity, cancelled Dave's e-
+         mail account a day after we ran a PIPEX bounces mail story.
+         Apologies for any errors accessing tips@spesh.com at this
+         time... NORTEL deny their Digital Powerline generates
+         interference [NTK 15/05/98] - anyone in the trial area with
+         a SWR meter like to indulge us in some fact-checking?...
+         while the FUTUREVISION story gets stranger and stranger:
+         see http://sun.soci.niu.edu/~crypt/other/blitz.htm for
+         author Tom Maddox's take on more spooky coincidences
+         between the company's press release and his X-Files
+         episode... in NTK 08/05/98, we said that DOS browser
+         Arachne couldn't do frames. It can, and we've felt guilty
+         ever since... as we have over the numerous complaints from
+         Lynx users about our Website's illegibility - let us know
+         how the new format looks, kids!
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "30 days to sell out date"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+

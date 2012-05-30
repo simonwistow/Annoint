@@ -1,0 +1,266 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-03-03_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                "We do more for our Mac customers 
+                 because Mac customers appreciate that."
+                                           - MICROSOFT's Irving Kwong
+http://www.independent.co.uk/news/Digital/Features/2000-02/design280200.shtml
+     ... PC users, on the other hand, take the most amazing amount of
+                                                 wait, is this microphone on?
+
+
+                                >> HARD NEWS <<
+                                  zarro boogs
+
+         On Monday, the REGULATION OF INVESTIGATORY POWERS BILL will
+         get its second reading in the Commons. Then it goes to
+         committee, then it becomes law, and then you'll never hear
+         from it again, because talking about most of its powers will
+         get you five years in prison. So, when the police ask your
+         ISP to put a tap on your mail, you won't hear about it. When
+         your local trades and standards officer decides to take a
+         look at your browser log for the last month, you won't hear
+         about it. And when they come and get your private encryption
+         key so that can read your friend's mails, you won't be able
+         to tell your friend - or us - that it happened. Hell, you
+         won't even be able to change your key if that might give us
+         a clue. Given that it's all going to get so quiet so soon,
+         STAND thought it might be an idea to let our MPs know that
+         we're still here. So, with mild and belated fanfare, please
+         welcome - STAND's Open Web to MP fax gateway. Peruse the
+         bloody-long-but-not-as-long-as-the-bill STAND Guide to RIP,
+         then send your comments on the Bill direct to your
+         constituency MP's office with just a few clicks. But please
+         be quick - MPs have only ten days from Monday to
+         propose their amendments. At the very least, we should get
+         an anti-spam statute out of it.
+         http://www.stand.org.uk/
+    - may be a few bugs. but, hey, there's bugs everywhere these days
+         http://www.stand.org.uk/ripnotes/
+          - liberty requires eternal vigilance (and magnifying glass)
+
+         The CONSUMER PROJECT ON TECHNOLOGY's proposal to ICANN that
+         the .union top level domain be introduced, as well as
+         .isnotfair, .isnotgreen, and .sucks (for official AOL-haters
+         sites, and the like) sounds like a joke. Well, that's
+         because it is. Or at least, its serious intent is mainly in
+         seeing what ICANN's response will be. Previously, ICANN has
+         insisted that its function was principally technical: the
+         anti-corporate stand taken by these domains is partially an
+         attempt to see just how far ICANN can toe the line before
+         throwing up their hands and going "Okay, we're molls of the
+         international business community, what can we say?". Of
+         course, what *might* happen is they'll create those domains,
+         AOL et al will buy them all up and then we'll have to pay
+         them millions to slag off their own companies. This would
+         fit the pattern we're seeing.
+         http://www.cptech.org/ecom/icann/tlds-march1-2000.html
+  - would Esther sue over dyson.sucks - even if www.dyson.com owned it?
+
+         So what's the latest group to fell afoul of the US
+         government's still-twitching export controls on downloading
+         128-bit secure browsers? Might it have been - the US
+         government, whose own justice department had to obtain a
+         sworn affidavit that they weren't Iraq or something before
+         they could ftp Netscape's domestic browser across? A lot of
+         effort for a few bits: especially when, in a parallel
+         mess-up, MICROSOFT were offering the same product for
+         download at www.microsoft.com. A 19.7MB installation guide
+         for Exchange 2000 released this week included 1.7 megs of
+         documents - and 18 megs of Netscape 4.7. Taunt that DOJ with
+         your warez pr0w3ss, Bill!
+         http://www.microsoft.com/exchange/prodinfo/2000/PlanInstall.htm
+                - fixed now. still, nice to know they use it in-house
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         whois format changes *again* ... used NEWTONs cost more than
+         they did new - say Newton users ... unfortunate ticker
+         truths: http://www.ntk.net/2000/03/03/bbcdoh.gif ... sure,
+         save the water-based lifeforms on Europa, but does anyone
+         care about the sentient gas-bags in Jupiter's atmosphere?
+         Nooooo ... Falco! Oracle's NETWORK COMPUTER ARCHITECTURE
+         site: http://www.oracle.com/nca/ ... a little too late for
+         literacy tests: http://www.ntk.net/2000/03/03/abcdoh.gif ...
+         "interactive pizza" fails to show: geeks starve in their
+         thousands http://www.ntk.net/2000/03/03/domindoh.gif ...
+         NEGROPONTE says he chose Ireland for the new media lab
+         because "the Irish are mad": mad enough to give him money,
+         certainly ... "'The message is clear.' The judge tells
+         everybody, 'Don't go too far with the Internet, because you
+         are going to pass Go and go to jail,'", reports WIRED,
+         showing judges misunderstand both the Net and Monopoly ...
+         2099 proving to be quite a year for album releases:
+   http://www.audiostreet.infront.co.uk/cgi-bin/show?Key=audio-4321360392
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         If we've timed this right, you'll already have missed the
+         new media rubbish at onedotzero's retrospective at the Lux
+         Cinema in Hoxton Square, London tonight - but you can still
+         tag along for 2100GMT's cinema showing of videos by Spike
+         Jonze, Hexstatic and Chris Cunningham. And if you really are
+         the sort of person who thinks the FMV inserts in games are
+         "the best bit", the whole shebang is showing again at,
+         inevitably, Brighton's Cinematheque on March 16th.          
+         http:///www.onedotzero.com/
+         - "as close to the future as you're likely to get" says the
+                                             Guardian, threateningly.
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         For those of you who have waited an eponymous duration for
+         the Eternity network, FREENET may provide some solace. Both
+         have similar aims: a network of machines that provide
+         permanent access to anonymously-uploaded documents which
+         might otherwise be censored by having servers shut down, or
+         the original source traced. Freenet works using a genuinely
+         non-hierachical set of nodes which have limited knowledge
+         about each other. Send your file to one of them, and
+         eventually most of the nodes will be able to relay your file
+         to anyone who knows its name. Once the server numbers have
+         reached a critical mass over a number of political domains,
+         it'll be almost impossible to censor anyone. Server numbers
+         is, naturally, where you come in. The first version of the
+         GPL'd software is now available for beta-testing: if you
+         have a machine permanently connected to the Net and running
+         Java 1.1, you too can take place in the first network
+         trials. Obligatory strong crypto is to come shortly. And not
+         a moment too soon, it would seem.
+         http://freenet.sourceforge.net/
+         - you just know it's going to filled with Gilmore dox for
+                                               the first month or two
+         http://www.kolej.mff.cuni.cz/~eternity/
+                                   - your very own home from cryptome
+         http://www.gotlinux.org/~jasta/gnapster.html 
+                        - not putting ideas into your head or anything
+         
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         cannabis destroys brain tumours: MO MOWLAM vindicated ... no
+         catch caches at http://proxys4all.cgi.net/ ... pope vs pope:
+         http://www.truecatholic.org/ ... spams from Evel Knieval ...
+         DAVE WINER patents anti-patent rhetoric ... Clinton imitates
+         Onion: http://news.excite.com/news/r/000301/10/odd-computers
+         ... "Not that we're bitter" vs "Life imitates Onion" -
+       http://news.bbc.co.uk/hi/english/health/newsid_659000/659685.stm
+         ... GPL RPGs ... Mecha no! http://www.earleshouse.com/mps.html 
+         ... much more interesting when you can't see the ad
+         campaign: http://www.ilovecheese.com/ ... are these people on
+         *drugs*? http://www.edge.org/3rd_culture/story/99.html ...
+      http://cgi.ebay.co.uk/aw-cgi/eBayISAPI.dll?ViewItem&item=269771110
+         vs http://www.deja.com/getdoc.xp?AN=590984602 ... expedite
+         *this*! http://www.sentient.com/%7Epcm2/action_item.gif ...
+         when Denial Of Service gets really harsh:
+         http://www.af.mil/news/Feb2000/n20000229_000305.html ... JWZ
+         + MP3 = GRONK : http://www.jwz.org/gronk/ ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less 
+
+         FILMS>> Dave's still away, and our deeply held beliefs
+         prevent us from staring too long at Satan's Lantern, so not
+         much in the way of films this week. Still, in case you
+         didn't already know, director du jour Spike Jonze is the
+         serf erased from the publicity for THREE KINGS
+         (http://www.capalert.com/capreports/ : Wanton Violence/Crime
+         - field impalement to relieve collapsed lung) - what appears
+         to be an unnecessary field upgrade of the old Clint Eastwood
+         comedy "Kelly's Heroes", sending the message to America's
+         "CNN generation" that the Gulf War wasn't just about that
+         one laser guided missile zooming down a chimney. No, there
+         were the soldiers on the ground doing the real dirty work -
+         like performing rectal searches on POWs...  
+
+         TV>> those bastards finally did it - they scheduled a
+         widescreen run for THE PLANET OF THE APES movies.  But,
+         since you already know the twist, we advise that the only
+         way to watch "the Apes" is in chronological order - so tape
+         the original (Sat, 20:05, C4) and "BENEATH THE" (Sat, 23:10,
+         C4) then watch pseudo-prequel "ESCAPE FROM" (Sun night,
+         00:00, C4) and wait for C4 to schedule "BATTLE FOR" and
+         "CONQUEST OF" first... it's fairly obvious that scripts for
+         the "classics" of TWILIGHT ZONE: ROD STERLING'S LOST
+         CLASSICS (Sat night, 00:20, BBC1) were probably "lost" in
+         the conical metal "Twilight Zone" in Rod's office...
+         continuing Channel 5's perpetual bullshit season: Gilliam's
+         THE ADVENTURES OF BARON MUNCHAUSEN (Sun, 16:40, C5) another
+         movie cursed by evil, clean-shaven Robin Williams - set
+         loose yet again for period stand-up routine GOOD MORNING
+         VIETNAM (Mon, 22:00, C4) ... CLONED (Mon, 21:00, C5) is not
+         quite the hilarious sci-fi comedy you might have expected
+         from the name, then again neither is the similarly titled
+         SNL-spinoff CONEHEADS (Tue, 23:55, BBC1) nor indeed the
+         hideously misleading FUNNY GAMES (Tue, 23:00, C4) ... and
+         more scheduling hilarity as THE X-FILES (Wed, 22:20, BBC1)
+         airs against decidedly non-paranormal relationship-docu THE
+         EX-FILES (Wed, 22:30, C4) possibly in a bid for that coveted
+         "got confused when setting the video-timer" audience-share...
+
+         BOOKZ>> With our Uncharacteristically Generous Literary
+         Correspondent, Mr Ben Moor: "Toby Litt has written a cracking
+         thriller in CORPSING. Anything that opens in an editing
+         suite for the Discovery Channel's Shark Week knows from
+         cool. Contains: the best descriptions of bullet trajectories
+         since the heyday of Kennedy Assassination literature, and
+         great tips on how to ruin Shakespeare at the Barbican...
+         Dave Egger's impressively self aware memoir of bringing up
+         his 8 year old brother after both his parents died is called
+         A HEARTBREAKING WORK OF STAGGERING GENIUS and you kind of
+         feel obliged to make some funny comment on the title. He's
+         the guy behind Might magazine (which for us defined the
+         midearly and then the earlymid nineties) and McSweeneys (
+         http://www.mcsweeneys.net/ ) and could be the Tom Wolfe of
+         the 21st century if he feels like it. But he probably won't.
+         Whatever. Contains: a great stapler drawing... knowing a new
+         book by Douglas Coupland is on the way is like being about
+         to win at pass the parcel. You're enjoying the suspense of
+         waiting, but what if the thing is rubbish? MISS WYOMING
+         luckily is very not. There's a very neatly structured story
+         that takes you from the madness of child beauty pageants to
+         the relative sanity of a movie executive who decides to
+         'walk the earth.'... and Dave Barry's BIG TROUBLE is a total
+         hoot. If PG Wodehouse had used more and bigger weapons in
+         his stories, they'd still only be about half as funny as
+         this. Psychedelic toads, water pistols, former Soviet
+         armaments, it's got everything a Miami novel needs. Plus
+         snakes..."
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    Registered at the Post Office as "DIY"
+          http://www.brunching.com/cgi/toy-acronymer.cgi?acronym=NTK
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,343 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-09-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "We suddenly found that one of our home servers had been
+        turned into a repository for MP3s of the world's worst pop
+        music. All the guy's friends knew about it too, and they
+        downloaded several GB of files in the three days it was up"
+http://msdn.microsoft.com/msdnmag/issues/01/10/ednote/ednote0110.asp
+... have any of you non-Microsoft people ever heard of such a thing?
+
+
+                                >> HARD NEWS <<
+                              smoothed, criminal
+
+         MICHAEL JACKSON's new single seems likely to "Rock Your
+         World" in more ways than one, as promotional copies sent out
+         by Sony appear to be the first examples spotted "in the
+         wild" of audio CDs which won't play in PC CD-ROM drives.
+         "When loaded into the CD drive, the disc spun continuously
+         as though the drive was trying to access the TOC of a blank
+         or corrupted CDR", reports our correspondent, a producer and
+         sound engineer, adding: "None of our stand-alone
+         professional or domestic CD players had a problem with it".
+         Of course, this is exactly what Macrovision's SafeAudio (or
+         similar copy-protection systems) are intended to do: insert
+         "bad" error-correction codes, which audio CD players can
+         interpolate around, but higher-precision CD-ROM drives
+         don't, effectively preventing you from ripping (or listening
+         to) any tracks on your PC. The UK's Campaign for Digital
+         Rights (formerly the "Free Dmitry Sklyarov" guys) are still
+         planning a leafleting campaign alerting shoppers to this
+         ingenious reduction of their music's self-healing properties
+         (making CDs more susceptible to scratches or other damage) -
+         though perhaps an "explicit lyrics"-style labelling system
+         wouldn't go amiss either, for those of us who just don't own
+         a non-CD-ROM CD player.
+         http://uazu.net/cd/
+                   - like anyone with a PC is still buying CDs anyway
+         http://www.bbspot.com/News/2001/08/encrypt.html
+            - apparently not as good as Jacko's earlier, audible work
+
+         We're all looking for safety in this insecure world: it just
+         happens that some of us aren't looking very hard. Ploughing
+         through the usual inbox of obscure and deliciously open
+         Webservers, we were very hard pushed this week to select the
+         most embarrassing lack of home security. Was it the
+         university clearing service UCAS, who popped onto their
+         public ftp server what appears to be a list of some three
+         hundred thousand students who accepted a place at Uni this
+         year (with their home addresses)? Or was it the folks at
+         FORESIGHT.CO.UK, whose staging server, while ingeniously
+         hidden under the http://stage.foresight.co.uk/ URL, still
+         remains publically accessible - avec private intranet - to
+         the rest of the world. Or maybe, just maybe, it was ACORN
+         USER, whose last CD included a free RISCOS Web Browser -
+         together with the magazine's own selection of personal
+         cookies, including AU reader Brian O'Carroll's Amazon
+         preferences, as well as site ids for voyeurgals.com,
+         amateurpie.com, and perhaps most scandalous of all for the
+         true believers, MSN?
+         ftp://ftp.ucas.ac.uk/pub/accept_home.csv
+                                       - gone now; don't do it again!
+         http://stage.foresight.co.uk/
+                                      - going down any second ... now
+ http://groups.google.com/groups?selm=ant1423570b0r2wt%40194.72.192.6
+                - or British Telecom. British Telecom would be worse.
+
+         Answering our own question: no. By tradition, all system
+         weaknesses, no matter how entertaining, are always trumped
+         by use of the infamous ALL@DEMON.NET security hole, whereby
+         company-wide Demon resignation notices always seem to get
+         bounced to our tips address (what are we, Demon's secondary
+         MX?). Good to see the exploit is still open, even as
+         employees are *supposed* to use all@thus.net when firing off
+         their wide-ranging, self-destructive attacks. "all@thus.net
+         mailing list does not go to all staff. Hence the mail to
+         all[@demon.net]", writes the resignee, before settling in
+         for the argy-bargy. It's all here: the homely IRC
+         references, the sideswipes at the non-Net management, the
+         call to the pub, the delicious literary references. We
+         eagerly await the traditional Demon management response,
+         which,  judging from last time, consists of a string of
+         abuse aimed at the ex-employee, followed by the swift exit
+         of the manager himself. Demon: however it may change, still
+         the bestest, most fun-packed of ISPs.
+         http://www.ntk.net/2001/09/21/goodbye.txt
+                                               -  "Drink until dead."
+         http://www.ntk.net/index.cgi?back=archive99/now0319.txt&line=55#l
+                                     - zey call it zee "Bliss effect"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         mysterious Glasgow-based letter-writer to LONDON METRO:
+         http://www.ntk.net/2001/09/21/dohmetro.jpg imitates San
+         Francisco-based SALON columnist of exactly the same name:
+         http://www.salon.com/news/feature/2001/09/14/afghanistan/ ...
+         RICHARD DAWKINS declares war on all religions everywhere,
+         offers personal arsenal of pigeon-guided cruise missiles:
+       http://www.guardian.co.uk/Archive/Article/0,4273,4257777,00.html
+         ... YAHOO search for hijackers' names "inconclusive", reports:
+         http://www.wired.com/news/politics/0,1283,46991-2,00.html -
+         "Some names were close to those of the hijackers, while others
+         didn't match up at all"... striking family resemblance:
+http://news.bbc.co.uk/hi/english/uk_politics/newsid_1544000/1544871.stm
+         ... SPACE.COM identifies another likely culprit - gravity:
+http://www.space.com/scienceastronomy/generalscience/wtc_science_010919.html
+         ... godless "Other Realm" teen threatens further "zappings":
+         http://images.amazon.com/images/P/0671027026.01.LZZZZZZZ.jpg
+         ... and, hopefully concluding our coverage for now, good to
+         see everyone mucking in: http://www.webgirlauction.com/ ...
+         lame "last page of net" gag: http://www.1112.net/lastpage.html
+         has two links leaving it... master of camouflage, Privet Ryan:
+         http://freewarepalm.com/hobbies/moviecritic.shtml ... hope
+         CHORUS have registered that popular www.PORTAL NAME.ie domain:
+         http://www.chorus.ie/broadband.html ... very trusting, these
+      small NZ communities: http://www.swktodc.govt.nz/Fix-o-gram.htm ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         This year, some of the speculation on how to "save" UK games
+         trade show ECTS has dwelled on whether it should be open to
+         the public and thus become more of a LIVE 2001-style mass-
+         market exercise in soul-destroying corporate PR (from 10am
+         today, Friday 2001-09-21, Birmingham NEC, UKP12.50 on the
+         door). Sapping your will to live this year are opportunities
+         to "have your picture taken with a Sun Page 3 girl", "show off
+         your knowledge of the mobile communications industry" and to
+         "ooh" and "ahh" at the UK's debut unveiling of MICROSOFT
+         WINDOWS XP, which seems to be a long-overdue security patch
+         for the popular virus-propagating operating system. We kid you
+         not, last time we saw a MS product launch at one of these
+         events (admittedly quite a while ago), they were facepainting
+         the kids in the crowd with the "Windows" logo.
+         http://www.livexpo.co.uk/LIVEnews.asp?ID=47
+         - site requires Flash, for no immediately obvious reason
+         http://ecoplan.org/carfreeday/
+         - apparently Saturday is also "National Chocolate Day"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Hack, hack, hack. X-Windows 4.0's support for antialiasing
+         was a fine, timely hack by Keith Packard; rewriting
+         application widget libraries like Qt and GTK 2.0 to support
+         it are an ongoing piece of hackery in themselves; but in
+         terms of master-kludge, shaolin philosopher Josh Parson's
+         GDKXFT beats them all. It's a stomp-in replacement for the
+         GTK+ font functions that lets almost all Gnome apps
+         instantly fuzz over with antialiased fonts. Some fiddling is
+         required: in particular, you may have to stick in a
+         LD_PRELOAD=/usr/lib/gdkxft.so before your set-up pays any
+         attention. Also it won't work with Mozilla or
+         gnome-terminal, can crash your X-server, won't work with
+         every font, and when you do get it working, you generally
+         can't tell the difference. Which teaches you an important
+         lesson: Apart from ruining GIFs in the GIMP, why did you
+         want AA in the first place? Oh, yeah: hack value.
+         http://philrsss.anu.edu.au/~josh/gdkxft/
+                        - isn't easier to just take your glasses off?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         eyes of BUNGLE: http://www.widdy.demon.co.uk/rainbow/head.htm
+         ... old man MOVIES: http://seanbaby.com/ifls/ ... it's lucky
+         we only run unconfirmable RADIO 1 ban lists, isn't it?
+         http://dotmusic.com/news/September2001/news21910.asp versus
+         http://www.snopes2.com/inboxer/hoaxes/radio.htm ... you know
+         when you've been playing first-person shooters too long:
+         http://personal.mco.bellsouth.net/mco/g/r/gregts/ ... and
+         you really know you've been watching too many ads when:
+         http://www.slipups.com/items/15971.html ... hey, what's wrong
+         with the timeless "don't try and ram the station, or vipers'll
+         get you" analogy? http://www.ibell.co.uk/vortex/castle/ ...
+         when retro and case-mods collide (the first, we bet, of many):
+         http://www.globalpublicationspress.com/retrocase/ ... the
+         irony being - it's not funny: http://www.opengiggle.org/ ...
+         it's the little samurai headband its wearing that worries us:
+         http://www.intercorr.com/roach.htm ... in 2001AD, THARG promised
+         all the city blocks would be named after present-day celebs:
+         http://www.jdi.ucl.ac.uk/ ... ugh! bugs! crawling over my - face!
+         http://chat.q42.net/?url=www.ntk.net (IE only) ... kill us both,
+         SPOCK: http://www.thebrainstrust.co.uk/article.17.2002.html ...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> in the future, all celebrities, world leaders and tech
+         standards will be selected via the tried-and-tested process of
+         auditioning idiotic hopefuls on TV, as seen this week in MODEL
+         BEHAVIOUR (6pm, Fri, C4) and BEST INVENTIONS (7.30pm, Wed,
+         BBC1)... the "mobile phone" edition of UNREPORTED WORLD
+         (7.30pm, Fri, C4) so far remains untransmitted due to extended
+         news coverage... LOS DOS BROS (10.40pm, Fri, C4) is a sketch
+         show with the blokes out of "Smack The Pony". Hello?... and
+         the BBC stands shoulder-to-shoulder with the rugged frontier
+         spirit in extended song-adaptation CONVOY (11.15pm, Fri, BBC1)
+         ... Dani Behr - who you may have thought was dead - and Joe
+         Mace - who you may have hoped was - present grimly jovial
+         SM:TV knock-off THE SATURDAY SHOW (9am, Sat, BBC1)... scanners
+         indicate a small but significant risk of Kevin Warwick
+         punditry in AI tie-in THE ANDROID PROPHECY (11.50pm, Sat, C4),
+         handily followed by "Terminator" knock-off APEX (1am, Sat,
+         C4), and preceded by TOP TEN TV LOSERS (9.10pm, Sat, C4)...
+         up against arguably Jim Carrey's most satisfying film, LIAR
+         LIAR (9.15pm, Sat, ITV1), and combined Julianne "Hannibal"
+         Moore, Lori "VR5" Singer and Huey "Back To The Future" Lewis
+         nudity in comparatively watchable Altman portmanteau SHORT
+         CUTS (11.55pm, Sat, BBC2) ... Sherilyn Fenn's NIGHTMARE STREET
+         (11.15pm, Mon, BBC1) begins a week of former "Twin Peaks"
+         contributors failing to live up to their early promise - see
+         also Lara Flynn Boyle in THE TEMP (11.05pm, Tue, BBC1) and
+         David Lynch himself in LOST HIGHWAY (11.55pm, Tue, C5)... the
+         makers of "Robot Wars" adapt their seemingly evergreen teatime
+         format to paintball with X-FIRE (6pm, Tue, C4)... there's a
+         double-bill of computer-graphic enhanced profiles of dead
+         things - the Dodo in EXTINCT (9pm, Tue, C4), and racing driver
+         Ayrton Senna in GOING CRITICAL (9.30pm, Tue, C4)... and, while
+         the BBC pulled an unusually distressing CAPTAIN SCARLET this
+         week (6.20pm, Mon, BBC2), C5 happily showed "Terminator 2",
+         and show no sign of backing down from Spacey/Jackson face-off
+         THE NEGOTIATOR (9pm, Tue, C5)... IN BUSINESS (8.30pm, Thu,
+         Radio4) looks at the UK games biz... Nathan Barley art video
+         "OneDotZero" spinoff ONE DOT TV is back (1.10am, Thu, C4)...
+         and "Evil Dead" director Sam Raimi pops up in uninhibited
+         Jules Verne "adaptation" JOURNEY TO THE CENTER OF THE EARTH
+         (3.35pm, Fri, C5)...
+
+         FILM>> it's the epically grim fairy-tale synthetic-emotion
+         lost-child special-effects extravaganza that Spielberg has
+         been trying to make all his life, but unfortunately that
+         doesn't make it any easier to enjoy science-free sci-fi AI
+        (http://www.capalert.com/capreports/artificialintelligence.htm :
+         a nude boy behind an iced glass shield, covering himself with
+         his hands; much talk about sex; sexual conquest; sexual
+         servicing, anatomy and use of robots for sex toys; telepathy;
+         equating sex with love; excessive cleavage before a child;
+         statue nudity, some quite vulgar)... following the hilariously
+         downbeat Startup.com, the other side of the dotcom dream is
+         explored when Wayne "Smoke" Wang and his DV cam imitate
+         http://www.bbspot.com/News/2000/9/linux_laid.html in grainy
+         arthouse nerdporn THE CENTER OF THE WORLD (http://www.cndb.com :
+         porn star Alisha Klass cameos as a stripper; [Molly Parker]
+         has cute small breasts; [Peter Sarsgarrd's] balls at least are
+         clearly visible in one shot when he bends down) - now *that's*
+         AI: http://www.center-of-the-world.com/chat/chat.html ... or
+         Kirsten Dunst comes of age in wrong-side-of-the-tracks teen
+         romance drama CRAZY/BEAUTIFUL (http://www.cndb.com/ : the
+         nudity was cut from the film. It was replaced with a scene
+         with [Dunst] wearing just underwear; a clear view of the
+         underside of her breast at least once)...
+
+         DRESS DOWN FRIDAY>> sorry, no new designs this month - we're
+         in the process of reworking the shop to accommodate everyone
+         who's asked for everything in girls' sizes, or XXL, or black,
+         or all three. Or shipped to the southern hemisphere, for that
+         matter: "You're right, it's getting a bit chilly here at the
+         tip of Africa - temperature's dropped to the mid-20s",
+         confirmed PAUL W from his .za domain, following NTK 2001-05-
+         18's jibe: "Isn't it winter over there?". "With the mercury
+         hitting a dizzy 10 degrees at Bristol airport a couple of days
+         ago," Paul adds, "I can appreciate your desire to hold on to
+         all the T-shirts you can". More specifically, if anyone wants
+         to buy any of the current range - "Encoded" now back in stock
+         in both Medium and XL, "Adminspotting" back in more sizes next
+         month - then do so at http://www.geekstyle.co.uk/ before the
+         start of October, when the "changes" will commence... many
+         would-be designers out there seemed to be actively encouraged
+         by the "increasing trends towards the upsetting and bizarre"
+         reported in NTK 2001-07-20, as ANDY PANDINI swept the board
+         for worst pun of the month with his firmly non-sexist "Knead
+         To Know" concept: http://www.pandini.co.uk/ntkfemale.jpg - or,
+         for men: http://www.pandini.co.uk/ntkmale.jpg . Most prolific
+         was TARAS YOUNG, who submitted no less than 6 different
+         designs - http://www.strugglers.net/~taras/images/shirt/ - of
+         which our favourites are probably "treeloot" and "rebelgoat",
+         though we're not sure if the digitised goat is a Jeff Minter
+         trademark, while THE TARTARUS COLLECTIVE explored similar
+         themes with their largely self-explanatory "Keep Mordor Tidy":
+         http://www.tartarus.org/~simon/things/kmt.png ... "Elite"
+         author IAN BELL and MATTHEW GARRETT both went amazingly self-
+         referential with http://www.ibell.co.uk/misc/tshirt/ntk404.htm
+         and http://zeus.jesus.cam.ac.uk/~mjg59/tshirt.html , and CHRIS
+         HEALEY apologised for his "non-existent Paintshop skills", but
+         explained that "anger got the better of me" and went ahead
+         with http://www.arco.ndirect.co.uk/images/tshirt.jpg anyway...
+         of course, if you can't design, you can just send in a slogan
+         - or, if you can't think of a slogan, you can redesign someone
+         else's (we'd still like a more "visual" interpretation of last
+         month's: http://www.tartarus.org/~simon/tshirt.png ). Topping
+         the text-only weirdness this time around was BODO MOELLER's
+         "Personally, I prefer T-shirts with nothing printed on them.
+         Consequently, I recently had myself made a couple of T-shirts
+         saying 'This shirt intentionally left blank'"; the suggestion
+         from JO3SH that we replace all the usual "Jesus [is Lord etc]"
+         bumper stickers with "Linus" instead ("Honk if you love Linus.
+         And so on"); and ALEX TEUGELS who, during the course of
+         discussing whether there was a "Police Aware" complement to
+         Toxico's "Police State" design, came up with the inspirational
+         "Talk to the router, 'coz the host ain't listenin'". As ever,
+         let us know if you could wear (or improve) any of the above,
+         and we *will* get round to printing more in the future, just
+         you see if we don't...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+            "a breath of fresh air? Isn't that a little tasteless?"
+       http://www.guardian.co.uk/Archive/Article/0,4273,4260488,00.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

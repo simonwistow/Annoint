@@ -1,0 +1,238 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-04-29_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+       
+                               >> HARD NEWS <<
+                                   404 42s
+
+         And so the previously popular figurehead faces the public,
+         weakened by age and damaged in the eyes of many by a
+         dalliance with an unpopular American hegemony. Nonetheless,
+         you're still going to go see THE HITCHHIKER'S GUIDE TO THE
+         GALAXY, aren't you? Our angle has always been that HHGTTG
+         isn't SF, but geek prophecy. For instance, MJ SIMPSON, the
+         fan-man whose scathingly overprecise preview brought new
+         meaning to the word "spoiler", seemed last week to enter
+         his own personal total lack of perspective vortex. "Nobody
+         else in the world has," he humbly wrote, "... the
+         sufficient knowledge of [DNA's] life and work to be able to
+         put any piece of news into context, which is why there is
+         no other site providing a service like this, and from now
+         on there won't even be this" - and at this point,
+         disappeared himself and his site PLANET MAGRATHEA in a puff
+         of his own logic. Joining him - in a remarkably improbable
+         way - is occasional NTK ice-cream correspondent MICHAEL 
+         BYWATER, who also swore in the Independent never to write
+         about his friend ever again. Seeing all these stars boiling
+         away into the ultraviolet must be as sign we have reached
+         the Franchise At The End Of The Trilogy, where finally,
+         Hitchhiker's is awkwardly wrapped up, dispatched with, and
+         will no longer be quoted at length in young geek
+         conversations. To be replaced, it seems, with a new
+         generation, who, in an unfortunate temporal eddy, are
+         commencing to quote Douglas Adams' earlier work, Dr Who,
+         instead. Leaving, perhaps, Mr Adams to that quiet cup of
+         tea and Tiger install that he probably wanted all along.
+ http://news.independent.co.uk/people/profiles/story.jsp?story=631129
+- and so the words wink out into the subscription firewall, one by one
+         http://www.cow.net/laststraw/magrathea.txt
+                                                - "worst. fish. ever."
+         http://google.com/search?q=magrathea+short+review
+      - Google cache of the controversial review, on which more later
+
+         A fortnight ago, at US conference COMPUTERS FREEDOM and
+         PRIVACY and CAKE, the US State Department said that its new
+         RFID passports could only be read from 10cm away. These are
+         the same passports as will be introduced later this year in
+         the UK. Well, almost the same. They have a different
+         country on the front, and American passport holders don't
+         have Her Brittanic Majesty doing their dirty work for th-
+         waiiit. Anyway, a few minutes after that claim, Barry 
+         Steinhardt of the ACLU turned up and, using that ingeniously 
+         brainy science that makes high-gain wi-fi antennas so popular, 
+         read it from a meter away. Cue coughing from US, and a 
+         subsequent statement that they'll be encrypting the chips' 
+         data. Oh, and maybe putting a little tin-foil hat around the 
+         wallet. The question is: will the UK passport be encrypted? 
+         And even if it is, will the little bits that say "Hey! I'm a 
+         UK citizen with a valuable passport! Kidnap me!" to anyone
+         tuning in still be out in the clear?
+  http://www.spy.org.uk/spyblog/archives/2005/03/contacless_rfid.html
+    - maybe a scan checking US visitors aren't smuggling in bad ideas
+         http://www.theinquirer.net/?article=22552
+- apparently the US doesn't want us to have biometric ID cards though
+         http://www.freedom-to-tinker.com/archives/2005_04.html
+- that's nothing, we can get the Executive Lounge's wi-fi on this too 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Just a suggestion, but - given that the vast majority of 
+         best-known audio mashups have been based around unaccompanied 
+         "a cappella" vocal samples (or, in the case of many Beatles 
+         recordings, often just one of the stereo channels), if you 
+         wanted to foster a new kind of "remix culture", couldn't you 
+         just provide a lot of more of those? (Or, at the very least, 
+         some guitar tabs?) Hopefully this - and other issues - will at 
+         last be resolved at next Fri's REMIX CULTURE: CREATIVE COMMONS 
+         AND CREATIVITY symposium (9.15am-4pm, Fri 2005-05-06, EDB 
+         Building, Sussex University, Brighton BN1 9RH, free but RSVP 
+         to the address on their site), in the company of TED "inventor 
+         of Hypertext" NELSON, MusicBrainz "lead geek" ROBERT KAYE (who 
+         doesn't seem to be speaking, he's just going to be "hanging 
+         out"), plus heads of the main Creative Commons-y record labels 
+         currently active in the UK: JOHN "Magnatune" BUCKMAN, NEIL 
+         "Fading Ways" LEYTON, and DAVID "Loca Records" BERRY (the last 
+         of whom also sent us a spoof Bertolt Brecht play that he's 
+         rewritten to feature modern mythic archetypes Larry Lessig and 
+         Richard Stallman - with the slight caveat that non-fans should 
+         skip straight to the action on page 7, as "the joke preface by 
+         Bertolt Brecht appears to be throwing a lot of people"). 
+         http://www.musiccommons.org/
+       - otherwise, it's a bit like banging on about free software...
+         http://www.remixreading.org/node/489
+                - ...and not actually showing anyone your source code?
+         http://www.remixreading.org/node/255
+                - sounds a bit like Em7/ G/ Cadd9/ A7sus4 to us (ymmv)
+         http://www.acidplanet.com/contests/
+        - loops + a cappellas from known artists + demo Acid software
+         http://www.musicbrainz.org/
+           - retrospective MP3-retagger we've failed to cover somehow
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         not sure quite whose "translations of the necessary documents" 
+         http://www.borenius.lv/en/office/team/index.php?id=20 produced 
+         such an intriguing profile of their swashbuckling philosopher-
+         CEO: http://www.borenius.lv/en/office/team/index.php?id=2 ... 
+         can you spot the new content on this recently snapped-up 
+         domain? www.healthywiltshire.org.uk ... "Click here to view 
+         the accessible version", invites www.coca-colafootball.co.uk , 
+         magnanimously... political web-humour almost over for another 
+         5 years: http://industrialandmarine.com/archives/000113.html 
+         vs http://www.martian.fm/gambling.htm ... to commemorate the 
+         launch of http://maps.google.co.uk/ (which seems to list the 
+         same prestigious establishment under both "arse end" and 
+         "shithole"), it's special geo-Google goofs o' the month: 
+         "United Kinkdom", all these moons are yours - except Cisco's: 
+         http://www.google.com/search?q=%22moons+of+Juniper%22 , while 
+         fear of Southern California now so common there's a medical 
+         term for it: http://google.com/search?q=%22SoCal+phobia%22 ... 
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         You can imagine, around a month ago, six zillion authors
+         rubbing their hands and cackling to themselves: "Soon,
+         thanks to its ingenious and novel feature-set, my version
+         control system will take over the world! And with that fool
+         Linus Torvalds distracted by developing an operating system
+         instead of competing with me - NOTHING STANDS IN MY PATH!".
+         Cut to now, and Torvalds, post BitKeeper spat, is cranking
+         out his own cra-ah-azily simple VCS, GIT/COGITO, just to get
+         things done. Given the surfeit of next generation systems -
+         including darcs, codeville, arch, monotone, bazaar,
+         bazaar-ng, vesta, svk, ArX, aegis, we suspect that the
+         winner will be git, just out of the Mighty Power Of
+         Fanboyism. Survival credits, then, to Tom Lord of Arch, who
+         mere days after it was announced, decided to re-engineer
+         arch to use Git. The branching has ended - let the merging
+         commence!
+http://lists.gnu.org/archive/html/gnu-arch-users/2005-04/msg00176.html
+                             - isn't Tom Lord an Alan Moore superhero?
+         http://www.zooko.com/revision_control_quick_ref.html
+                   - the one offering a free pr0n repository will win
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> as THE APPRENTICE (9pm, Wed, BBC2) draws to a close, we 
+         now maintain that no-nonsense troubleshooter Alan Sugar would 
+         be the ideal choice to play the next DOCTOR WHO (7pm, Sat, 
+         BBC1) - "Davros, your dictatorial management style and 
+         persistent inability to tackle glaring design flaws have seen 
+         your 'cybernetic master race' fail to dominate the universe 
+         time and time again. And yes, as it happens, lots of planets 
+         have an 'East End'"... the fascination-with-fascism Dalek-
+         subtext then continues with a repeat of THE NAZIS: A WARNING 
+         FROM HISTORY (7.50pm, Sat, BBC2), HITLER'S PLACE IN HISTORY 
+         (8.40pm, Sat, BBC4), HITLER - THE DEBATE (9.40pm, Sat, BBC4), 
+         THE LATE SHOW SPECIAL: LENI RIEFENSTAHL (10.30pm, Sun, BBC4) 
+         plus propaganda classic TRIUMPH OF THE WILL (11.20pm, Sun, 
+         BBC4) - way to celebrate general election week, BBC4... you 
+         know, maybe interminable D&D road movie LORD OF THE RINGS: 
+         THE FELLOWSHIP OF THE RING (7.45pm, Sat, C4) would have been 
+         improved by the addition of a talking Monster Manual, a la 
+         the repeated HITCHHIKER'S GUIDE TO THE GALAXY (11.20pm, Tue, 
+         BBC2)... though sadly they didn't manage to schedule in it a 
+         double-bill with the "Real" RIDDLE OF THE HUMAN HOBBITS: AN 
+         EQUINOX SPECIAL (9pm, Bank Holiday Monday, C4)... expect 
+         "zany" songs, not very many practical insights in three-part 
+         evolutionary biology "science musical" DR TATIANA'S SEX GUIDE 
+         TO ALL CREATION (11.05-ish, Mon-Wed, C4)... the ubiquitous 
+         Martin "The Office" Freeman reappears in the dumb-but-fun ALI 
+         G INDAHOUSE (9pm, Wed, ITV)... while the "Somaliland" opener 
+         to HOLIDAYS IN THE DANGER ZONE - PLACES THAT DON'T EXIST 
+         (7.30pm, Wed, BBC2) remains one of the few contemporary 
+         factual programmes where a British person goes to a foreign 
+         country - for some reason other than to buy a house there...
+         
+         FILM>> it's worth staying for the Magrathea f/x at the end - 
+         but, although they've ditched a lot of the dialogue, there's 
+         still no real plot and way too much throwaway exposition in 
+         the clearly-aimed-at-children HITCHHIKER'S GUIDE TO THE GALAXY 
+        ( http://www.ahafilm.info/movies/mr.phtml?fid=7647 : Dolphin 
+         footage was shot under the supervision of trainers from the 
+         "Dolphinarium" at Loro Parque in Tenerife, Spain; In another 
+         scene, two mice chew on fiber optic wires in the spaceship. 
+         These rodents did not actually chew the wires - trainers 
+         smeared the wires with peanut butter, which the mice happily 
+         licked off)... we still think it ought to be an "adult film 
+         star turned secret agent" in now-Vin-Diesel-free daft action 
+         franchise XXX 2 - THE NEXT LEVEL ( http://www.bbfc.co.uk/ : 
+         During post-production, the distributor sought and was given 
+         advice on how to secure a 12A classification. Following this 
+         advice, a sequence early in the film in which a man is stabbed 
+         from behind was changed prior to submission to remove detail 
+         of the knife emerging from his stomach).. then, next week, 
+         Ridley Scott picks up the "nice visuals, no story" baton in 
+         his latest sword-and-CGI romp KINGDOM OF HEAVEN (MPAA: Rated R 
+         for strong violence and epic warfare)... 
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "beginning to do well"
+       http://business.timesonline.co.uk/article/0,,8209-1519700,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

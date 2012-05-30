@@ -1,0 +1,330 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-01-29_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+
+             "You have zero privacy anyway. Get over it."
+             - SCOTT MCNEALY, scott.mcnealy@sun.com, +01 650 960-1300 
+     (to wife, in bathroom of personal residence, 1999-01-26 09:32:04)
+         
+
+                                >> HARD NEWS <<
+                               with armed crews 
+
+         The NATIONAL CRIMINAL INTELLIGENCE SERVICE helpfully pitched
+         into the no-really-very-soon-now cursed E-COMMERCE crypto
+         legislation. Director General John Abbott said that a number
+         of serious criminal cases had been hampered by the perps'
+         use of encryption. To back this up, three vague case studies
+         were presented. You know, even we lunatic extremists here at
+         NTK do accept this argument - that law enforcement needs
+         assistance in crypto cases. We become even more convinced
+         they need help when we see the NCIS picking three tales
+         where the proposed new law would be *no* use at all. All
+         three were nasty individuals (terrorists, child pornsters,
+         murderers, PGP users) encrypting data on their permanent
+         hard drives, an area where the new law has very little
+         purchase at all. So, two questions for the NCIS: how would a
+         voluntary system stop this (or do you want to make it
+         illegal to use any encryption, even on home computers,
+         without key escrow?). Secondly, why is it that none of the
+         cases address what everyone in business is worried about -
+         the deliberate weakening of encrypted communication over the
+         Internet? Getting into secret files, sure: desirable, but
+         impossible to enforce. Crippling of government-supported
+         commercial and personal transactions on the Net to allow
+         transparent tapping of anyone's communications? Possible,
+         but is that what you really want? Yeah? Then argue the case.
+         http://jya.com/ncis012699.htm
+                                            - no names, no pack drill
+         http://www.cosc.georgetown.edu/~denning/crypto/cases.html
+                                - memo to NCIS: scarier examples here
+
+         It's good to see that the new brooms at the TIMES
+         INTER//FACE section haven't damaged its reputation for
+         clear, honest, factual reporting. While we usually keep our
+         coverage of their work to Antinews, we thought this week's
+         excelled itself so admirably that we'd give you a full run
+         down. Inside: The supplement welcomes the arrival of the new
+         Star Wars prequels, featuring "Luke Skywalker and friends".
+         Evil virus writers are planning to tie-in their work with
+         the Y2K bug (what?). A "new online guide to virtually every
+         movie" is premiered: it's 1990's very own
+         http://www.imdb.com/. And finally, an impartial piece on
+         Open Source Software, which says "there are alarming
+         parallels between a fanatic organisation and the way the
+         Open Source movement can behave. Journalists have been known
+         to receive death threats for daring to question the
+         movement's ideology". Nigel Powell, journalist, writes that
+         Eric Raymond himself "flew into a rage" when Nigel suggested
+         that open source culture embodied the communist ideal. Well,
+         he seemed very calm a few minutes later when he discussed
+         "some clueless hack" with us. And we believe the words were
+         "oh, fuck off". Maybe you're not asking daring enough
+         questions? All this *and* Dr Keyboard - check the floor of
+         your nearest train carriage for that free copy now!
+http://www.the-times.co.uk/news/pages/tim/99/01/27/x-timintcon01001.html?1741204
+         - Lotus launch $100 million marketing campaign? Hold the front page!
+
+         And finally... shopping around for local Internet access took
+         on a new dimension on Wednesday, when UUNET opened its
+         Manchester Point-of-Presence to incoming calls *and* 
+         incoming cars. An out-of-control vehicle embedded
+         itself into in the wall of the Manchester Telecity building,
+         and ended up parked in the UUNet suite of machines. While
+         the machines did not suffer any downtime, Telecity
+         operations did manage to inform the UUNet technical staff
+         with a brief e-mail. "There is a car in your pop. All fine."
+         http://www.manap.org/
+      - okay, so it's a slow news week. You wanted the Lotus story, maybe?
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         YAHOO buys Geocities (maybe they're running out of webspace
+         or something)... OFFICIAL PLAYSTATION magazine claims "22
+         Exclusive Demos" on coverdisc, *14* of which are Yaroze
+         games from previous issues... new ENTERTAINMENT HEAT
+         magazine reads like ill-fated TV mag THE BOX... "Theft of
+         passwords and hacking does not violate HOTMAIL terms of
+         service", say HOTMAIL... RICHARD BARRY emails all Ziff-Davis
+         UK staff re Internet Watch Foundation, asks "does anyone
+         know the URL???" (qv altavista, hit number 1)... you don't
+         want to know what MICROSOFT are planning with the blueprints
+         from FASA INTERACTIVE... LOOT Exposed As Tool For Software
+         Pirates, reveals Exclusive ZDNet Investigation... Guardian
+         Online's LUCY ELLMAN still struggling with the CAPS LOCK
+         key... Big Mac-style carnage already reported on BURGER KING
+         free "Fryday"... reports say LEGO laying off 10% of Danish
+         workforce: problems prising them off the green base
+         reported... BILL GATES on course for 100 billion... Modern
+         Man Still has Primitive Sexual Instincts, reveals Reuters...
+         BEEB.COM sends 205k Windows game to all "beeb blurb"
+         subscribers - to distract from "the dull, the mundane and
+         the totally tedious" (process of downloading their mail?)...
+         
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Some slightly trickier-to-access events than usual: we're
+         not sure if Peter Sommer (the author formerly known as Hugo
+         "Hacker's Handbook" Cornwall) wants us to plug his COMPUTER
+         SECURITY COLLOQUIA, which resumed at the London School of
+         Economics last Monday - but if it's the sort of thing you
+         should be going to, we're sure you'll find a way. By
+         contrast, a tenner gets you into the not particularly
+         non-trade friendly BRITISH INTERNATIONAL TOY AND HOBBY FAIR
+         (Sat 1999-01-30 - Wed 1999-02-03, London Olympia). But if
+         you've got lots of inner children to amuse, we're hoping -
+         as ever - that the IEE's touring FARADAY LECTURE (until Thu
+         1999-03-28, venues nationwide) is a bit like an
+         electromagnetic Radio 1 Roadshow, with pumped-up PhD
+         students tossing dynamos and copper coil windings to a
+         hysterical pre-teen crowd.
+         http://www.ntk.net/lse/
+                           - last year's dates; we're not that stupid
+         http://www.atei.co.uk/ate/index-n.html 
+                                                - you missed this too
+         http://www.eco.co.uk/html/whatson_detail.cfm?SNBRShwNbr=9041
+           - no link to http://mudhole.spodnet.uk.com/fist/simon.html
+         http://www.iee.org.uk/Lectures/faracrnt.htm
+             - could feature quiz game "Who Wants To Be An Engineer?"
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         In accordance with prophecy [NTK 1999-01-08], SONY have
+         slapped an injunction on CONNECTIX for selling their PSX
+         emulator, and quite right too: software of that calibre
+         should stay where it belongs, being handed out for the hell
+         of it by obsessive coders. And, anyway, everyone we know has
+         moved on to the UltraHLE's N64 Emulator, which plays Zelda,
+         Mario, GoldenEye, on 200Mhz+ Pentiums with 3DFX+GLide at
+         30fps. The program, which is only 175850 bytes zipped, is titled
+         ultrahle.zip, has an md5sum of
+         3e3a77f10666d14cef069805dcb57cfd and is... oh. Oh it's gone.
+         Oh, well, I'm sure your cooler friends have backups. Looks
+         like we'll have to go back to playing with this port of Doom
+         for the TI-82 Graphing Calculator. 
+         http://www.emuunlim.com/EmuUnlim64/
+          - you think we're making this stuff up, don't you 
+         http://defiance.adamman.nws.net/ 
+                  - NO PORTING TO THE TI-83 UNTIL THE PROJECT IS DONE
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         CNN Space Correspondent is called "Miles O'Brien": you don't
+         think? Nah... ebay for nuclear reactors:
+         http://www.usedturbines.com/#powerplants ... Microsoft
+         Linux... generic Monsanto slag-off "withdrawn from
+         publication" - but it's available on the Web:
+         http://www.gn.apc.org/ecologist/SeptOct/index.htm ... part
+         of the Animated Violent Deaths Webring:
+         http://www.stickmorgue.com/sticklightsaber.html ... VIRGIN
+         ENTERTAINMENT CENTRES... driving schools with TOYOTA
+         RAV-4s... more blusher, marca, more blusher:
+   http://www.cnn.com/TECH/computing/9901/26/andreessen.aol.ap/andreessen.jpg
+         Q in future BOND FILMS to be played by - Q from STAR TREK:
+         THE NEXT GENERATION... honey, I overclocked my keychain:
+         http://www.triptonics.com/keychain/ ... make the dino swear!
+         http://www.geekchic.com/~jpd/barney/ ... if you were the
+         size of Heath Bunting, would you have chosen the name
+         "SUPERWEED"?... N64's first music sim:
+         http://www.gamefaqs.com/console/n64/faq/zelda_64_ocarina.txt
+         Larry Wall calls REBOL "a cute toy", John Lindal ponders OSS
+         http://www.its.caltech.edu/~jafl/misc/bazaar_fizzle_fail.html
+         - yup, we've found another Weblog to steal from: Scripting
+         News for Grown Ups at http://www.elj.com/new/ (thanks to
+         frequently plundered http://i.am/jorn for that) ...
+         meanwhile, out viral namesakes at http://www.memepool.com call on
+         the protection of http://smfa.edu/~kaiju/ and now do you see
+         why we don't credit as much we should?
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> sounds like it's about the host's links to the Mob, but
+         GRAHAM NORTON - SO CONNECTED (10.30pm, Fri, C4) purports to
+         be a "best of" the last series, before (oh god) a new one
+         starts next week... equally high-pitched porn-fixated THE
+         RUPAUL SHOW (1.20am, Fri, C4) isn't part of 4Later's SCI-FI
+         MUTANTS strand (from 11.20pm, Sat, C4), featuring cult
+         Argentinian soft-core THE CURIOUS CASE OF DR HUMPP (1.15am,
+         Sat, C4)... but should keep you awake till the long-awaited
+         return of godlike video sarcasm POP-UP VIDEO (2.50am, Sat,
+         C4)... speaking of sci-fi mutants, not too sure about the
+         shape-changey girl and lame new theme music in the second
+         series of SPACE: 1999 (3.40pm, Sat, BBC2)... the shock
+         table-turning conclusion of ANIMAL MINDS (6pm, Sat, BBC2)
+         has chimps trying to measure the intelligence of Jane
+         Goodall... C4's WW2 season continues with Japanese
+         co-production TORA! TORA! TORA! (8.55pm, Sat, C4), after
+         painfully slow repeat of STATION X... we made the Namco gag
+         last time for the cinema re-release of Lee Marvin arty
+         hardman trip POINT BLANK (9pm, Sat, BBC2)... and DANCES WITH
+         WOLVES? (10.55pm, Sat, ITV) - smells-of-wee, more like...
+         stagey Bosnian sniper drama SHOT THROUGH THE HEART (10.10pm,
+         Sun, BBC1) is not based around the Bon Jovi song with the
+         same opening line: "And you're too blame/ You give love a
+         *bad name* (Bad name!)"... if those Mariah Carey / Ike
+         Turner marriage rumours are true, maybe she should watch the
+         not-so rhetorical Tina biopic WHAT'S LOVE GOT TO DO WITH IT?
+         (10pm, Sun, C4)... Mark "Dr Chinnery" Gatiss mines his
+         previous career as New Adventures Of Dr Who author when a
+         "thing" is dug up by THE LEAGUE OF GENTLEMEN (9.30pm, Mon,
+         BBC2)... and those idiots who did the C4 Roswell alien
+         autopsy docu get a 3-part UFO series to solve the RIDDLE OF
+         THE SKIES (8pm, Mon, C4)... about as plausibly, the couple
+         who fooled the fly-on-the-wall crew last year claim to be
+         telling the truth this time on CUTTING EDGE (9pm, Mon,
+         C4)... just in time to be exposed again on TV hoax
+         investigation FAKING IT (10.30pm, Tue, C4) - believed to be
+         "the new media sabotage" (pardon?)... an inspirational,
+         rather more realistic attitude to home improvement with
+         three people who never do any housework in COMING CLEAN
+         (10.15pm, Tue, BBC2) ... and wholesome kiddie-script cuties
+         Sarah Jessica Parker - from FLIGHT OF THE NAVIGATOR (2.35pm,
+         Sun, BBC2) - and Kim "Mannequin" Cattrall go all
+         "dirty-something" in frank, provocative etc SEX AND THE CITY
+         (10pm, Wed, C4)... David Koresh looks oddly like Bill Gates
+         in dramatic retelling of AMBUSH IN WACO (12.05am, Thu,
+         BBC1)... and surely HORIZON (9.30pm, Thu, BBC1) should be
+         paying more attention to classic sci-fi films when they
+         travel to the Arctic Circle to dig up a lethal virus buried
+         there since 1918...
+
+         FILM>> acclaimed playwright finds inspiration in other
+         people's material, extra-marital affairs - but that's enough
+         about Tom Stoppard because SHAKESPEARE IN LOVE (imdb: 1500s
+         / 1590s / biographical / historical) largely triumphs over
+         its O-level-flattering corny cod Tudor trappings, and is
+         directed by John Madden, author of the Megadrive's best-ever
+         American football game... not sure what kind of message
+         putting "It's bad. It's very bad" on the posters sends out,
+         but ultra-dark Shallow Grave-style accidental murder
+         "comedy" VERY BAD THINGS (MPAA: Rated R for strong, grisly
+         violence) is far more unpleasant than even the presence of
+         Christian Slater and Cameron Diaz would normally alert you
+         to... TWO GIRLS AND A GUY (MPAA: Rated NC-17 for a scene of
+         explicit sexuality) isn't the alternative title for Susan
+         Sarandon / Julia Roberts / Ed Harris weepie STEPMOM (MPAA:
+         Rated PG-13 for language and thematic elements), but a
+         talk-heavy sexual politics menage a trois with Robert
+         Downey, Heather Graham and Natasha "Mind Ripper" Wagner that
+         even sticks too many words into its tagline: "Thanks to his
+         two girlfriends/ Blake's about to learn a new sexual
+         position./ Honesty." Given the illustration, the "two
+         girlfriends" bit is redundant and defuses the double
+         punchline - we reckon they should have gone for: "Blake's
+         about to learn a new sexual position. Honesty" then, down at
+         the bottom of the poster in brackets: "(Thanks to his *two
+         girlfriends*!)"...
+
+         FEEBDACK>> proof-reading motorbike consultant to the stars
+         PAUL BLEZ writes to complain about the mis-spellings of
+         "wander" and "meagre" in last week's issue, but missed our
+         slightly more embarrassing confusion between the Annals Of
+         Improbable Research and the Journal Of Irreproducible
+         Results in NTK 1999-01-15, and the missing "h" in "Cthulhu"
+         in NTK 1999-01-22. Or did we deliberately avoid spelling it
+         out in full, for fear of invoking the Old Ones
+         themselves?... similarly, the "Providence, Rhode Island"
+         reference in this DTI press release
+         http://www.dti.gov.uk/IBB/US/1999-01-014.html should "send a
+         shudder through any HP Lovecraft-aware crypto worriers",
+         says STUART HOUGHTON, the 70,000 per cent enhancement
+         offered by "Ntru" surely evidence of n-dimensional
+         tampering... the ubitiquous KRAGEN asks whether we *really*
+         meant to say that someone had *patented* Princess Diana,
+         instead of trademarking her virtual likeness? We're not sure
+         if we're even allowed to answer that... while we're at it,
+         we'll sneak in the corrigenda that SEGA DREAMCAST may be
+         water-cooled after all, just don't blame us if they start
+         blowing up if you leave them on all day... "Why doesn't Geek
+         Media include radio?", inquires SUE BROOM of the BBC Science
+         Unit (natch). "It does come in digital these days and for a
+         mere UKP700 you can listen in true DAB at home." Sadly, Sue,
+         our computers interfere with FM reception and we never
+         switch them off, so we know little of this "Logged On",
+         "Frontiers" or "new series on the brain" of which you speak.
+         Audio fans, keep us posted... and finally the remarkably
+         named BREMSTRAHLUNG X JONES informs us that, as far as he
+         can establish, "he's the only person who watches Buffy The
+         Vampire Slayer for reasons other than to masturbate at the
+         lead". He watches it "to masturbate at the slightly geeky
+         one"... you know, this is the kind of subscriber information
+         marketeers kill for...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "rather tiresome" [Edge Magazine]
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

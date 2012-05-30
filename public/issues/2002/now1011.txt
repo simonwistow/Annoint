@@ -1,0 +1,247 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-10-11_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "The eight-game contest comes five years after IBM computer
+         Deep Blue beat then-world champion Garry Kasparov -- the
+         first time since the invention of a chess program in 1958
+         that a machine had beaten a human."
+http://www.cnn.com/2002/WORLD/meast/10/03/bahrain.chess/index.html
+      - all those games you lost against GNU Chess? It was *cheating*.
+
+                                >> HARD NEWS <<
+                                unwilling dupes
+
+         It was Eldred vs Elder Gods this week, with the US Supreme
+         Court mulling whether to remove intolerable copyright
+         extensions. It's not entirely clear how we'd do the same in
+         the current Europe: Copyright law is becoming more and more
+         a EU-wide issue, and there's precious few areas where people
+         can protest against European legislation (we'll mention one
+         next week, hopefully). So in the UK, for now, we are forced
+         to indulge in civil disobedience. Clearly frustrated by the
+         diminished public domain, it was left to BBC News24's "Click
+         Online" presenters last week to publicise www.etextz.com, a
+         brave holdout in copyright liberation. You "can't help but
+         find a good read in its database", they marvelled.
+         Including, they didn't add, many previously costly works
+         written by Douglas Adams, Neal Stephenson and William
+         Burroughs. Some small technical error appears to have caused
+         the BBC to remove its glowing review from the Website - but
+         thank God they've still maintained the link to the other
+         legitimate business practice covered, that of selling chunks
+         of lunar real estate online.
+         http://eldred.cc/ 
+         - still running the remains of his library from a cablemodem
+http://www.eldritchpress.org/
+                - after the copyright extension gutted the collection
+         http://news.bbc.co.uk/olmedia/cta/progs/02/click_online/03oct.ramn
+                                                      - 19 minutes in
+http://www.bbcworld.com/content/template_clickonline.asp?pageid=666&co_pageid=6 
+                                                  - as watched by ...
+         http://www.linux.org.uk/~telsa/Diary/diary.html
+                                          - ... Telsa and four others
+
+         Hanging around TV's "cruel and shallow money trench" a little
+         while longer: BIG BROTHER and FAME ACADEMY are both made by
+         the production company Endemol - Big Brother for Channel 4,
+         the current Fame Academy for BBC1. They both involve wannabe
+         celebrities being watched 24 hours a day in a some kind of
+         controlled secure environment. We're entirely prepared to
+         concede the benefits of outsourcing the websites for these
+         kinds of shows and reusing as much back end software as
+         possible. But doesn't it suggest you're recycling a very
+         similar show format if you also reuse the same test data?
+         http://www.bbc.co.uk/fameacademy/news/newsitem80.shtml
+vs http://www.channel4.com/apps26/search/index.jsp?searchQuery=Xchange
+         http://www.ntk.net/2002/10/11/dohfame1.gif
+         http://www.ntk.net/2002/10/11/dohfame2.gif
+                      - and this is where you start paying... in GIFs
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         K-19: fact? http://www.ntk.net/2002/10/11/dohk19pt1.png or
+         fiction? http://www.ntk.net/2002/10/11/dohk19pt2.png ...
+         who will claim responsibility for MORE INAPPROPRIATE BANNER-ADS?
+         http://www.ntk.net/2002/10/11/dohxfire.jpg ... Rangers games
+         getting more violent: http://www.ntk.net/2002/10/11/dohfirm.jpg
+         http://www.tesco.com/entertainment/help.htm#expresscheckout -
+         TESCO goes existential... Feds react to WIRED NEWS redesign:
+         http://www.wired.com/news/technology/0,1282,55342,00.html ...
+         Irish Bishops younger, smaller, more female than previously
+         thought: http://news.bbc.co.uk/2/hi/europe/2311025.stm ...
+         alright, you get just *one* more PUERILE GOOGLE SEARCH:
+         http://www.google.com/search?q=interfeces ... one thing is
+         clear - the number of times "clear" used in this piece:
+http://www.usatoday.com/news/world/2002-10-07-afghan-lessons_x.htm
+         ... horse asks BBC's graphic designers: why the long faces?
+         http://news.bbc.co.uk/1/hi/programmes/panorama/2302853.stm ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         You can prove anything with Google, and it's easy enough to
+         show that Sir Clive "ZX" Sinclair has a brother called Iain
+         who was born in 1943 - the very same year as the *other* Iain
+         "Radon Daughters" Sinclair. Coincidence - or symptomatic of
+         some deeper psychogeographic geek resonance whose significance
+         we cannot currently comprehend? These, and other, issues will
+         no doubt be pondered at Strange Attractor's MEGALITHOMANIA!
+         (from 10am tomorrow Sat 2002-10-12, Conway Hall, London WC1R,
+         UKP20), featuring Sinclair on "The M25, London's Stone
+         Circle", "Psychedelic Archaeology", "Megaliths in Movies"
+         (hopefully "Quatermass" and "Children Of The Stones"), plus
+         "rocking" (sorry) accompaniment from the likes of Wigwam,
+         Mount Vernon Astral Temple, Gorodisch, and Coil. But no
+         heckling Iain's talk by asking if the ZX81 and Spectrum
+         casings were inspired by the 2001 monoliths, OK?
+         http://www.strangeattractor.co.uk/megalithomania3.html
+                                                         - it's mega!
+         http://www.nvg.ntnu.no/sinclair/sinclair/life_of_clive.htm
+            - vs http://www.complete-review.com/authors/sinclairi.htm
+         http://www.youhavebeenwatched.org.uk/pressrelease/artpr.html
+             - also tomorrow: CCTV movie art at London's Isle of Dogs
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         After only a month's development, Phoenix, the Mozilla.org
+         skunkworks' rewrite of Moz, has tabs, a sidebar, and support
+         for extensions like mouse gestures and ting. Some of the dev
+         team is already talking of finishing up, doing a brief
+         ticker-tape parade, and moving onto creating a slimlined
+         mail client called THUNDERBIRD. So where does stately
+         MOZILLA trunk, with its sprawling skyscrapers of XUL, go
+         now? In some pretty intriguing directions, judging by the
+         scrabbles in Bugzilla and checkins on the nightly builds.
+         The latest Mozilla builds now have typeahead. Bounce on the
+         keyboard while browsing, and Moz will search through the
+         current page for a link with the same text as what you type.
+         Hit return and it'll open the link. It's a browser usability
+         no-brainer that only took six years to hit upon - for
+         keyboard fiends, it makes navigating Moz faster than lynx.
+         Next up: CONTENT EDITABLE - a mimic of the IE feature that
+         lets you edit sections of an HTML page in place. And after
+         that, the crowd demands: PGP support and for all you pr0n
+         fiends, yyenc decoding in the newsreader. Lizard's not dead
+         yet.
+         http://www.mozilla.org/projects/phoenix/
+                                                       - traans-mute!
+         http://www.mozilla.org/projects/ui/accessibility/typeaheadfind.html
+                           - just available in nightly builds for now
+         http://www.geocities.com/pratiksolanki/
+                              - secret preference settings of the gods
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         still pretty funny, even if it is fake (requires Flash,
+         sorry): http://www.247365.com.au/extras/enrique.html ... when
+         AUDIOPHILES STRIKE BACK: http://www.vinylvideo.com/ ... and 
+         the all-time "great movies" of this endearingly free-thinking
+         individualist include Blade Runner, The Matrix, Fight Club: 
+         http://www.chrisworth.com/ME/about_me.html ... where "M2A" =
+         "Mouth to Anus"?: http://news.bbc.co.uk/2/hi/2319249.stm ...
+         highlighted in any colour you like, though it defaults to red:
+         http://mencal.kyberdigi.cz/english.html ... Castrol GTX - good
+         safety tip: http://www.gentlebirth.org/archives/natinduc.html
+         ... keeping http://www.mulatta.org/Thaielephantorch.html away
+         from http://www.gemueseorchester.org/anfang_e.htm ... no
+         "certain death"?: http://www.cheapflights.com/misc/space.html
+         vs http://www.adventureplanet.com/ap_home/ap_trips_tcr.asp ...
+         and the best adaptation of http://www.blogjam.com/ntk.not/ to
+         http://www.thefridaything.co.uk/demo.txt wins a t-shirt...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the (brief) Anna Friel/ Ewan McGregor nudity in ROGUE
+         TRADER (9pm, Fri, ITV) is over in time to catch the Molly
+         Shannon guest-starring double-bill of WILL AND GRACE (9.30pm,
+         Fri, C4)... Saffron "Deep Blue Sea" Burrows weekend begins
+         with baffling videogame adaptation WING COMMANDER (12.15am,
+         Fri, BBC2) and continues with rom-com HOTEL DE LOVE (11.50pm,
+         Sat, C5)... and Mia "24/ Not Another Teen Movie" plays a
+         stripper in Atom Egoyan arthouser EXOTICA (12.10am, Sat,
+         BBC2)... there's an uninterrupted cross-channel triple bill of
+         quirky nonsense in the form of CGI snake chase ANACONDA
+         (9.35pm, Sat, C4), Adam Sandler idiot-fest BILLY MADISON
+         (11.25pm, Sat, BBC1) and unacclaimed Larry "Seinfeld" David
+         bitterness vendetta SOUR GRAPES (1.40am, Sat, C5)... Sunday
+         night unfortunately appears to be rapist night, thanks to
+         police procedural drama SIRENS (9pm, Sun, ITV), botched-heist
+         thriller BEST LAID PLANS (10.30pm, Sun, BBC2) and of course
+         overrated Kubrick wide-angle brainwashing semi-sci-fi A
+         CLOCKWORK ORANGE (10pm, Sun, C4)... plus more Kubrick tedium
+         on Tue in piano-soundtracked plodder EYES WIDE SHUT (10.05pm,
+         Tue, C5) - http://www.google.com/search?q=%22eyes+wide+shit%22
+         more like... a corporate lawyer takes on the greatest
+         challenge of his career - pretending to be a garage MC - in
+         another bloody FAKING IT (9pm, Wed, C4)... DOWNLOADING SEX
+         (11.40pm, Thu, C5) gives you a free password to view behind
+         the scenes at nerve.com... and apologies for missing last
+         week's debut of both BBC Micro-featuring schools-programme
+         spoof LOOK AROUND YOU (9.50pm, Thu, BBC2) and the heavily
+         Charlie Brooker voice-overed THE BEST OF TV GO HOME (11.55pm,
+         Thu, C4)...
+
+         FILM>> with the real Will Graham off running the CSI team in
+         Las Vegas, tormented office junior Ed Norton leads soulless
+         exposition-heavy student-drama-style "Manhunter" remake RED
+         DRAGON ( http://www.cndb.com/movie.html?title=Red+Dragon :
+         there are again some very clear butt shots, glimpses of [Ralph
+         Fiennes'] big cock and balls dangling between his legs and
+         some shadowed full frontal views; My g/f loves this guy so she
+         was really looking)... nonetheless, original Hannibal Lecter
+         Brian Cox seems to be keeping busy, this week appearing in
+         both Dennis Quaid "Fields Of Dreams" baseball dud THE ROOKIE
+         ( http://www.screenit.com/movies/2002/the_rookie.html : We see
+         [Quaid] in bed, shirtless [...] as well as [Rachel Griffith's]
+         bare shoulders - with the sheets pulled around her chest) - in
+         addition to gross-out stoner police slapstick SUPER TROOPERS
+       ( http://www.cndb.com/movie.html?title=Super+Troopers+%282002%29 :
+         lengthy views of [a] big, fat, very unsexy butt and a brief
+         view of [a] tiny penis; if you are into big fake boobs, then
+         enjoy)... otherwise, that "Hackers/ Swimfan" guy is back in
+         juvenile Jonathan Frakes time-freezing sci-fi CLOCKSTOPPERS
+         ( http://www.capalert.com/capreports/clockstoppers.htm :
+         deceitful advertising; irresponsible cycling; teen assuming
+         "command" of father; adult in underwear; planning to take
+         advantage of technology to see nakedness)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "like the Daily Mail"
+               http://www.theregister.co.uk/content/6/27442.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

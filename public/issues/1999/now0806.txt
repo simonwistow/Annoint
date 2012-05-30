@@ -1,0 +1,282 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-08-06_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Don't Play Games With Criminals - It Will End In Tears"
+                    - hard-hitting new ELSPA anti-piracy campaign
+      ...offenders will be smacked, sent to bed without any dinner
+ 
+
+                                >> HARD NEWS <<
+                              connection refused 
+
+         Headlines on the banner-ad-tabloids this week: Wired took a
+         long hard look at Tech Company Perks (dental care schemes
+         vs. massages at selected Silicon Valley corps); ZD Net lead
+         with UK Website Accuses Other of Copying Site ("John Morris,
+         owner of JM Comms claims the HTML code on his site has been
+         'lifted' ... in such a way that a number of characteristic
+         spelling mistakes are still present."), and The Register,
+         rising gloriously above everyone else's desperation, went
+         headfirst into their revelation that "a little-used
+         newsgroup that calls for the annihilation of the Internet
+         has received a lyrical endorsement from a Net user in
+         Norway."News? There was no news. There wasn't even USENET
+         news. It's too hot in this hemisphere for news.
+         
+         So the Evil Corporates, run (they say) with people like us
+         all, did what we all do now we're bored and hot and
+         crotchety: they quit the real work and futzed around the LAN
+         trying to crash one another's servers. AOL and Microsoft,
+         listlessly sizing each other up before their big cable
+         fight, settled on wasting time with ICQ, slapping the
+         protocol about like two schoolboys baiting a puppy to bit
+         the other.  In steaming Seattle, jumpy young Microsoft
+         marketeers hurled a "sacrificial lamb" Webserver to the
+         Linux weenies milling outside the firewall. Pre-installed
+         with a Windows 2K beta, anyone was invited to hack into it,
+         provided they did so in "an interesting way". One noisy and
+         permanent crash later, Microsoft publicists emerged to blame
+         a rash of thunderstorms in the area. Which, you
+         have to admit, is a pretty interesting denial-of-service
+         attack if you can arrange it.  But then, if you're
+         burning a sacrificial lamb out at Redmond, who knows
+         what Loa you're paging?
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2309474,00.html
+                                    - well, *Somebody's* a Linux user
+
+         Whatever it was, it got around. SYMANTEC went down next,
+         with Peter Norton's still fresh face ground into the
+         bone-dry gutter, his laundered shirt foully sodden by
+         punks with a passing vendetta against the Brazilian
+         government. And GLOBALCENTER, whose services serve Netscape
+         and Yahoo, blew a router out in Arizona, trashing all that
+         eager e-business for a chunk of the long day. All
+         unconnected events: the usual cracks and crashes that make
+         up the noise under the news these days. But, there's natural
+         noise, and there's noise you make yourself. BOL.COM - "The
+         British Internet Bookshop", as it likes to call itself, or
+         Bertelsmann Online as the Evil Corporates spell it, chose a
+         quiet week - and a single hour - to give away 20,000 books.
+         A desperate attempt to poke their head above Amazon's brand,
+         but all publicity is good publicity right? Well, we hope so:
+         the screams of the straining servers, and the pain of
+         thousands of new users being introduced to BOL via the 404
+         page, certainly made a splash. Somebody new in PR just
+         learnt very publically about viral marketing, server load,
+         how to spell the names of their books properly, and the
+         Summer Loa.
+         http://www.attrition.org/mirror/attrition/com/www.symantec.com/
+                       - this is news? No. This is not even anti-news.
+         http://www.ntk.net/boldoh/
+              - our Bol Summer gallery, sent in by our still cool readers
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         "Jane Goodall condemns CHIMP CHANNEL", reports NY POST...
+         http://www.indianrailway.com/ trumpets unfortunate slogan
+         "Bringing People Together"... OUTLOOK doh, via Samuel
+         Beckett: http://www.ntk.net/doh/19990804outlook.gif ...
+         WHOIS hitlerdance.com ... EUDORA also lacks self-knowledge:
+         http://www.ntk.net/doh/19990804eudora.gif ...
+         "[They] are using a technique similar to that used to
+         compress MP3 music files to produce a compact version of
+         Shakespeare" reports TIMES INTERFACE - what, lossy
+         compression? What do they do: delete the quatrains that
+         no-one bothers reading?... http://www.digiguide.co.uk/ lists
+         Gerry Anderson's UFO under "Documentaries"... new DUNE
+         prequels http://www.space.com/spaceimagined/dunemain.html
+         channel authentic voice of Frank Herbert, aged 12... SUNDAY
+         TIMES believes Gates giving away entire fortune to cure
+         "malaria and AIDS"; Gates Snr begs to differ... taking the
+         security out of securities, REDHAT uses Matt's Script
+         Archive: http://www.redhat.com/cgi-bin/formmail ... USAF
+         genius "invents" black-hole strategy, calls it "infowar":
+         http://www.fcw.com/pubs/fcw/1999/0726/fcw-peoprofile-07-26-99.html
+         ... DISNEY now unable to release films without nudity and/or
+         erections http://www.drudge.com/1999/08/080499.html ...
+ 
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         It lasts approximately two minutes, and has been described
+         as "the grandest sight in nature": yes, there'll be plenty
+         of rhapsodising over the bit where the planet blows up in
+         Defender at the CALIFORNIA EXTREME CLASSIC ARCADE GAMES SHOW
+         ("Building 10", San Jose Town & Country Center, CA
+         1999-08-21/22). Admittedly, that is 2 weeks from now, but
+         maybe you can persuade someone to fly you out to SIGGRAPH
+         (LA, from this Sun 1999-08-08) and stay over. And for those
+         of us stuck in the UK, there's going to be some not-at-all
+         anti-climactic Cornish solar eclipse on Wed 1999-08-11: what
+         with water shortages, overcrowding and encouraging
+         Ecstacy-fuelled crowds to stare directly at the sun, it's
+         gonna be like Day Of The Triffids down there...
+         http://www.caextreme.org/
+         - "not synonymous with martial arts and gun violence". Aw...
+         http://www.siggraph.org/s99/
+          - "My eyes! My eyes! Wow, these VR goggles really sting..."
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         "WE PAY YOU TO WATCH TV" chortles this (provisional) job ad
+         from a major UK TV channel, seeking a content editor to
+         maintain sassy but affectionate fan-style listings site.
+         Would suit responsible first-jobber with alarming enthusiasm
+         for off-beat TV, Web publishing proficiency and own copy of
+         Photoshop, Gimp or image-editing equivalent. Cheap but
+         entertaining reviewers also required. Candidates for both
+         should email jobs@spesh.com with: a brief CV; an
+         episode-guide-like summary of a late-night TV show you've
+         recently enjoyed (in 100-150 words); plus (ideally) URLs of
+         previous web-published material. Applicants for previous
+         NTK-advertised positions are encouraged to re-apply as we've
+         probably lost all your details by now.
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         STAR TREK - The Poems... "what service do you require -
+         police, ambulance, fire brigade, locksmith, plumber or
+         TAXI?" http://www.smi-group.co.uk/999/ ... capture the
+         excitement, if not the images, of aptly named Asteroid
+         BRAILLE: http://eis.jpl.nasa.gov/~mbareh/ACS/ ... DREAMCAST
+         launch titles include 3D Hedgehog Adventure, Giant Fighting
+         Teenage Headcases, Childish Computer Pet 2000, Super Generic
+         Driving Game, and one of those quirky Japanese "real life"
+         sims, Doorway Urinator XL5 ... when CS academics lose it:
+     http://www.ubiq.com/hypertext/weiser/PersonWorldDistinction4Up.gif
+         ... just when you had SCISSORS PAPER STONE all worked out:
+         http://www.vtiscan.com/~samkass/theories/RPSSL.html ...
+         ALEXEI SHULGIN'S 386DX has *left* the building... so who
+         else is going in for that BAFTA Comedy Award? Gex 3D? the
+         (now-defunct?) rant.co.uk? the iBook?... MEGADETH vs DUKE
+         NUKEM... LOCAL HEROES guy enjoys local "facilities":
+         http://www.hd.org/Damon/photos/toilets/ ... how you imagined
+         SF New Media Hip Hop would sound: REBECCA EISENBERG caps her
+         career with http://greenrocket.com/mp3/body_unfmix.mp3 ... 
+         CAUTION - contents may have unsettled during transit:
+         http://www.contrib.andrew.cmu.edu/~cls/cerealpage.html ...
+                  
+         
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> following last week's Withnail back-slapping, C4
+         continues to promote drug-taking and youth licentiousness
+         with its SUMMER OF LOVE season (from 11.05pm, Fri, C4),
+         harking back to the last time the CIA had to bombard the
+         population with hallucinogens to undermine a Democrat
+         presidency...  watery-eyed Ray Liotta and - of course -
+         Lance Henriksen lead the futuristic convicts in faintly
+         homoerotic prison sci-fi NO ESCAPE (11.40pm, Sat, BBC1) -
+         contrary to the impression given by the cinema poster, the
+         full title was never "No Escape (From The Penal Colony)"...
+         and, according to our records, C5 previously scheduled
+         low-rent Men In Black rip-off THE SILENCERS (9pm, Sat, C5)
+         early last November - are they trying to tell us
+         something?... Kevin Costner, Ron "Bull Durham" Shelton
+         re-team to praise stubborn bad sportsmanship in above-par
+         golfing chuckle TIN CUP (9.30pm, Sun, BBC2)... a former
+         "George" from The Famous Five gets strung out on smack in
+         repeated kids' drama JUNK (10pm, Sun, BBC2)... BARCELONA
+         (12.45am, Mon, C4) is *another* 20something chat-fest from
+         Whit "Metropolitan/ Last Days Of Disco" Stillman... and
+         frankest title of the week goes to BBC2's impressively
+         fallible Nietzsche / Heidegger/ Satre profiles HUMAN, ALL
+         TOO HUMAN (11.15pm, Mon-Wed, BBC2)... THE MAN WITH TWO
+         BRAINS (9pm, Tue, C5) may be among Steve Martin's funniest
+         films - for what that's worth...  hopefully it's that behind
+         the scenes repeat of misguided "style" mag Dazed And
+         Confused in "new series" UPSTARTS (11.30pm, Tue, C4)... and
+         the culmination of 2 days of pompous pop-science hyping
+         comes with the hour-long rotation of Jim Steinman's epically
+         over-extended metaphor TOTAL ECLIPSE OF THE HEART (11am,
+         Wed, VH1) - do not look directly at Bonnie Tyler; permanent
+         eye injury may occur...
+
+         FILM>> sub-Rugrats upgraded-from-video-release TV spin-off
+         DOUG'S 1ST MOVIE (http://www.capalert.com/ : adolescents in
+         a forest with no adult protection; adolescent arrogance
+         against a father's rightful dominion; adolescent underwear;
+         a Satanic symbol) - doesn't quite fit the Fisher Price-like
+         "My First Cinematic Experience" niche - unless your name
+         happens to be "Doug", of course... low-key London releases
+         for THE MATCH and PLAYING BY HEART (of which more next
+         week)... while Roland "The Killing Fields/ Scarlet Letter"
+         Joffe risks living up to the "No one's Ever Been So Good At
+         Being So Bad" tagline of intricate, trashy Wild Things-esque
+         neo-noir GOODBYE LOVER (http://www.capalert.com/ : adultery;
+         homosexual talk; female anatomy ghosting through clothing;
+         gamming; adult underwear; Ellen Degeneras [sic] - "a
+         homosexuality statement by itself")...
+
+         "FRINGE" WARES REVIEWED>> meaning we're not sure whether
+         this is a genuinely informed Edinburgh Festival round-up or
+         just another chance to plug another of our friend BEN MOOR's
+         quirky one-man shows; his concoction this year, "Poppy Day"
+         http://www.stoneranger.co.uk/edin99/benM/benm.html combines
+         media spoofs with a parallel universe where even the
+         (autobiographical?) hero has a girlfriend. "Better than the
+         one with the old woman, not as good as the one with the
+         string", insiders reveal... apparently modified from the
+         surefire hit title "Iain Banks Sold Me Ecstacy" comes THE
+         CURSE OF IAIN BANKS http://www.trt.co.uk/curseofiainbanks - 
+         "every time Iain Banks writes a book, another member of my
+         family dies". Yes, but does it also work with "M Banks" as
+         well - who, as everyone knows, is the talented one... typing
+         "multimedia", "internet" & "virtual" into the Fringe search
+         http://www.edfringe.com/new_script_html/menu2.htm produces
+         the usual parade of curiousities, including Sylvester "worst
+         Dr Who" McCoy performing BECKETT IN THE AFTERNOON; a play
+         called THE TRUTH by someone apparently promoting their own
+         "internet truth cult" http://graffiti.virgin.net/the.truth ; 
+         gameshow satire DREAM.2000 - from theatre company Activated
+         Image, whose site http://www.activated.co.uk has neglected
+         to "activate" a few of their gifs here and there; and the
+         oddly unenticing prospect of a "virtual Richard O'Brien" 
+         http://www.who-is-go4.com ... no Lee & Herring show per se,
+         though Richard is doing another of his plays, IT'S NOT THE
+         END OF THE WORLD (featuring Nostradamus); our final tip for
+         the Perrier-nominating big(ger) time goes to high-tech Spike
+         Milligan lookalike SIMON MUNNERY AS THE LEAGUE AGAINST
+         TEDIUM, for incorporating home-made video multimedia into a
+         thrilling new direction in stand-up fascism...  
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+           It is registered at the Post Office as "well, we know now"
+            http://web.games.theplanet.net/html/services/news.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

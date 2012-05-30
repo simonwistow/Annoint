@@ -1,0 +1,282 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-05-02_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                                >> HARD NEWS <<
+                              sender, returned to
+
+         In the upper section of four-colour problem that is mainland
+         Britain, Scotland's election has come to an end, and a new
+         batch of MSPs sent to Holyrood. Well, actually, it's mostly
+         the same batch of MSPs - but with one difference. This week,
+         they won't have a backlog of email. In their infinite
+         wisdom, when Parliament was dissolved back in April, all the
+         MSP's (and their assistants) email accounts were deleted too
+         - on the grounds that they were no longer MSPs. Mailing
+         lists and personal mail alike have since received bounce
+         errors, suggesting instead that you write them a letter or
+         track down their personal email address yourself.
+         Apparently, the same thing will happen at Westminster next
+         election: Like Bagpuss, when the Parliaments disappear, all
+         their mailhosting services disappear too. In the interest of
+         keeping track of these people, wouldn't it be better to set
+         up a forward to whatever lucrative city job politicians move
+         on to? Or at least hold the mail for the 80% of politicians
+         who just keep getting re-elected?
+  http://www.chiark.greenend.org.uk/pipermail/ukcrypto/2003-April/024968.html
+  - ah, I appear to have been helpfully unsubscribed from everything
+
+         We have a simple antispam filter at NTK: we only read mail
+         with self-deprecating subject lines - "You've probably
+         already seen this" and "Not very funny", as opposed to "The
+         best invention ever" and "Offer you cannot refuse". It's
+         worked for us so far - so it's been particularly upsetting
+         to discover our Legitimate Corporation Spam Corpus
+         collection turns out to be chockablock now with greedy nasty
+         grasping multinational capitalists,  but meek little lovely
+         charities. Following that first dark omen of the RSPCA, it
+         turns out they're *all* at it: Oxfam (via France), the WWF
+         (via Los Angeles), and Save the Children (via good old
+         Florida and sent, according to the headers, using Pine on
+         Mozilla via Outlook Express). What is going on here? Are
+         charities more desperate than we thought? Are spammers now
+         manipulating our guilt and our non-profits to get some sort
+         of clickthrough reward for themselves? Is it possible to
+         overclock being good so much you become evil again? We'll
+         carry on looking into it, but we though we'd share being
+         weirded out with you.
+ http://as1.emv2.com/I?X=e6c375ca763f6a917da1223ee0c8911d 
+             - points to Oxfam's email privacy policy. Which is nice.
+http://www.google.com/groups?selm=1050807787.33.19116%40verence.noctua.org.uk
+                                  - take action for a spamming planet
+         http://www.sampleclub.net/children/
+                                - don't click, it only encourages them
+
+         Dave writes: Debbie Barham was the geekiest person I ever met.
+         She stood up for me when Davey Winder flamed me on uk.media in
+         1996. She wrote three books, at least one sitcom, gadget
+         reviews for Wired UK, and god knows how many jokes for
+         newspaper columns, and radio and TV shows. She came up with
+         the NTK section heading "Confectionery Theory", and the first
+         winning entry in our competition "Buy A T-shirt, Subvert The
+         Mass Media, Get One Free". She died on April 20, of heart
+         failure due to anorexia, aged 26. Deb didn't write about
+         herself much - she preferred the classic one-liners - so
+         here's her byline from her acclaimed dissection of the
+         'Bridget Jones' genre: "Debbie Barham lives in London, where
+         she works as a journalist and writes comedy for television.
+         She has just finished her first novel and hopes to read
+         another one soon."
+         http://www.google.com/search?q=%22da+barham%22
+            - see also "Debbie Barham" +Psion, +webloggers, and so on
+         http://www.guardian.co.uk/g2/story/0,3604,946106,00.html
+                                      - Debbie "DA" Barham, 1976-2003
+         http://yourmedicalsource.com/library/anorexia/ANO_help.html
+                                                       - just in case
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         bias-free: http://www.ntk.net/2003/05/02/dohfoxiran.gif ...
+         leading by example: http://www.ntk.net/2003/05/02/dohroy.gif
+         ... OK, trying to make the GOOGLE GOOFS a bit less puerile
+         now: http://www.google.com/search?q=%22my+strenghts%22 (don't
+         seem to include spelling), plus phrase "be pendantic" and
+         ultimate OCR demo: http://www.google.com/search?q=Qmfice ...
+         David Allan Serfozo, Tripod user, lists wisdom of - David
+         Allan Serfozo: http://serfozo.tripod.com/dave/id24.html ...
+         and the award for "Double-take Logo of the Week" goes to:
+         http://www.janustraining.co.uk/ ... top test sites of the web:
+     http://www.kenneymoore.co.uk/who.htm , http://www.globesprinkler.com/
+         ... moneybags JK Rowling still wearing special warm cardigan:
+         http://www.ntk.net/2003/05/02/dohjk.gif ... oh, those hormone
+         treatments: http://www.ntk.net/2003/05/02/dohtao.gif ... May
+         1st issue of http://www.ntk.net/2003/05/02/dohzen.gif imitates
+         http://www.ntk.net/index.cgi?b=02003-04-04&l=9#l , believes
+         Barbelith to be ".com WebZine", goes on to fall for last
+         month's Tom Watson MP "Yo, teens" page...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Broadly, we're in agreement with SPIKED ONLINE that it's hard
+         to get accurate assessments of how dangerous anything actually
+         is, which is (loosely) the theme of their PANIC ATTACK all-day
+         conference (10am, next Fri 2003-05-09, The Royal Institution,
+         London W1S, from UKP20) featuring, among others, controversial
+         Skeptical Environmentalist author BJORN LOMBORG, whose claims
+         have been applauded as both "dishonest" and "clearly contrary
+         to the standards of good scientific practice". Fortunately,
+         we're also persuaded by the position of The Ecologist magazine
+         - that ignoring the potential hazards of, say, genetically
+         modified food just makes it look like you're in cahoots with
+         Monsanto. For a somewhat less Pollyanna-ish view of the
+         future, there's always SCRAMBLING FOR SAFETY 6 (1.30pm-5.30pm,
+         The Hong Kong Theatre, LSE, London WC2, free but RSVP), the
+         Foundation for Information Policy Research's almost-annual
+         crypto get-together, this year looking at those hilarious
+         data-retention proposals in the company of Simon "Privacy
+         International" Davies, Duncan "Zircon" Campbell, et al.
+         http://www.fipr.org/sfs6.html
+       - not remarking on how practical and well-thought-out they are
+         http://www.spiked-online.com/panicattack/
+         vs http://www.bowblog.com/archives/000327.html#000327 ,
+         http://www.forsk.dk/uvvu/nyt/udtaldebat/bl_decision.htm
+         http://www.cures-not-wars.org/
+         - cannabis weekend, vs http://news.bbc.co.uk/1/2995275.stm
+         http://twenteenthcentury.com/uo/index.php/CcSchedule
+        - in London on Sat: sod the psychogeography, show me bunkers!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         So you've got a friend and you've been telling them for
+         years about how the Intarweb is going to transform society
+         and change the way cities are designed. Only these days,
+         they're stuck in the usual nightmare world of popup, ads and
+         spam. You have one lunchtime to put things right without
+         completely screwing up their Windows machine (again). What
+         do you do? If your friend is using POP to pick up their
+         mail, download SAProxy, a local free POP SpamAssassin proxy.
+         It's good enough, and you won't have to bork too much with
+         their mail client. Be prepared to fiddle around with
+         exciting text config files, albeit wrapped in a sensible
+         configuration UI. Moz Firebird does great popup handling, if
+         you can cope with unzipping it somewhere safe. Or you can
+         wait until 0.6 comes out, any day now.  Stick one of the
+         userContent.css files mentioned in the slashdot discussion
+         below into its chrome directory, and it'll CSS style away
+         most banner ads too. If it's an XP machine, you can skin
+         Firebird to use IE-a-like widgets with Christopher Cook's
+         Luna skin. And, voila! The Internet like it's supposed to
+         be, and a Windows machine perforated with destabilising Free
+         Software!
+         http://saproxy.bloomba.com/
+           - pay no attention to the exhortations to download Bloomba
+         http://ftp.mozilla.org/pub/phoenix/nightly/latest-trunk/
+         - okay, maybe a nightly isn't the best choice. Wait a week.
+         http://slashdot.org/comments.pl?sid=62583&cid=5846505&threshold=0
+                                                  - flash or no flash
+         http://www.intraplanar.net/projects/luna/
+                   - for Firebird (or whatever it's called this week)
+         http://pages.prodigy.net/zzxc/ieskin/
+                               - or if sir prefers Win 98 and Mozilla
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         Ain't It Cool News "reviewer" imitates The Onion's "The Star
+         Wars" guy: http://www.aintitcoolnews.com/display.cgi?id=15110
+         ... EVENING STANDARD joins in the b3ta-style photoshop fun:
+         http://www.thememoryhole.org/media/evening-standard-crowd.htm
+         ... when will the public tire of vocal samples over piss-poor
+         ambient techno?: http://www.boycott-riaa.com/article/6532 ...
+         SARS imitates title sequence of 1970s SF thriller Survivors:
+         http://web.ukonline.co.uk/jj20/l-z/clips/survivors1975.rm ...
+         http://validator.w3.org/check?uri=http://validator.w3.org/check
+         it's basically "extreme piercing": http://www.trepanning.tv/ ,
+         http://www.trepan.com/people_personalities/coloringbook.pdf
+         ... harder to spot those "50 Years Ago" stories in Georgia:
+         http://www.foxnews.com/story/0,2933,85737,00.html ... Japanese
+         Nazis Party borrow poster from http://www.motherearth.org/ :
+         http://www.nsjap.com/axis/english.html ... more Nazi consumer
+         goofs: http://www.ananova.com/news/story/sm_775737.html ...
+         http://www.amcgltd.com/archives/002450.html#002450 - if so,
+         the Kilroy team would like to hear from you...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the squealing-and-pointing gesture remains the ideal way
+         to highlight signs of human weakness, thanks to the second -
+         and by far the scariest - version of INVASION OF THE BODY
+         SNATCHERS (12.15am, Fri, BBC2)... the Bank Holiday is
+         "Directed by Richard Lester" with both A HARD DAY'S NIGHT
+         (3.25pm, Sat, BBC2) and SUPERMAN II (10.30pm, Mon, ITV)... as
+         Fi Glover's debt documentary SPEND SPEND SPEND (7.15pm, Sat,
+         BBC2) is intriguingly juxtaposed with a "Revised repeat" of
+         THE 100 GREATEST TV ADS (7.30pm, Sat, C4)... "The Bill"
+         spinoff M.I.T (9.15pm, Sat, ITV) appears to stand for "Murder
+         Investigation Team" rather than "Massachusetts Institute of
+         Technology"... get out the markers and the whiteboard for a
+         double-bill of LAW AND ORDER (10pm, Sat, C5) plus the best
+         abandoned-by-Channel4 cop show ever, HOMICIDE: LIFE ON THE
+         STREET (11pm, Sat, C5)... and who knows what Robinson and
+         Schofield are hoping to find this time with the now-annual
+         TEST THE NATION: THE NATIONAL IQ TEST (8pm, Sun, BBC1) - it
+         probably won't have gone up, given that the trailers count
+         Angelina Jolie among THE 100 GREATEST MOVIE STARS (9pm, Sun &
+         Mon, C4)... it's movies, movies, movies on Bank Holiday
+         Monday, with candlepowered Kubrick classic BARRY LYNDON
+         (11.50am, Mon, BBC2), Robert Altman-style ensemble chase caper
+         IT'S A MAD MAD MAD MAD WORLD (1.10pm, Mon, ITV), darker side
+         of "Toy Story" semi-CGI satire SMALL SOLDIERS (6.20pm, Mon,
+         BBC1), "The Fast And The Furious" - but with surfers instead
+         of cars! - POINT BREAK (9pm, Mon, C5), plus De Niro beat-'em-
+         up RAGING BULL (12.05am, Mon, C4)... fortunately, Sky and
+         cable subscribers can maintain some sort of balance with a
+         remorseless 12 hours of DALEK DAY (7.20am, Mon, UK Gold)...
+         occupational makeover show HEADHUNTING THE HOMELESS (9.50pm,
+         Wed, BBC2) is appositely preceded by management intervention
+         I'LL SHOW THEM WHO'S BOSS (9pm, Wed, BBC2)... can't wait to
+         see what earth-shattering revelations they've dug up for
+         HEATHER MILLS: THE REAL MRS MCCARTNEY (10pm, Wed, C4) - she's
+         not really an amputee? is actually a top arms dealer? killed
+         and ate Linda McCartney?... while the ever-insightful Dave
+         Gorman and girl band "neX-us" http://www.nex-us.tv/ discuss
+         their lunch preferences on THE NATION'S FAVOURITE FOOD (8pm,
+         Thu, BBC2)...
+
+         FILM>> another perfunctory outing of obvious special effects,
+         appalling dialogue, and mutants, mutants, mutants - including
+         one which, if you're not paying attention, appears to go by
+         the name of "Biro" - make up tame "Wrath of Khan"-template
+         sequel X2 (imdb: fighting/ leader/ mutant/ sequel/ based-on-
+         comic/ superhero/ marvel-entertainment/ mansion/ bigotry/
+         hatred/ racism/ adamantium-claws/ adamantium/ marvel-comics/
+         wolverine)... otherwise it seems to be a good week to dump
+         potentially underperforming local projects, like THE HEART
+         OF ME ( http://www.bbfc.co.uk/ : contains moderate sex and
+         nudity), HEARTLANDS ( http://www.bbfc.co.uk/ : Contains
+         moderate sex and language)... or, continuing the "starts with
+         an H" theme, Steven Seagal, Ja Rule and Claudia "Babylon 5"
+         Christian - together at last! - in HALF PAST DEAD (imdb:
+         helicopter/ machine-gun/ martial-arts/ prison/ body-landing-
+         on-car)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            "24 hour party people"
+        http://www.craphound.com/images/etcon2003pix/etcon2003pix.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+          Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

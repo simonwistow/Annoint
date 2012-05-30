@@ -1,0 +1,276 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-02-20_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Usually machine-written [spam] messages betray their 
+         mechanical origins... Occasionally though a message will 
+         arrive that eschews the usual tricks and fools you into 
+         opening it with a clever or enticing subject line. 
+         Congratulations, you've just been outsmarted by a 
+         computer..."
+                - Mark Ward now getting email from Turing-capable AIs
+                                  http://news.bbc.co.uk/1/3503465.stm
+            ...Greetings Friend, I Am Mrs Miriam Wintermute, Widow Of 
+                                   The Late Dr Ibrahim Neuromancer... 
+
+
+                               >> HARD NEWS <<
+                                all in ToDo's
+ 
+         We have no idea how this happened, but it *does* appear to
+         be happening. After an engagingly shambolic West Coast debut, 
+         ETCon catchup CONCON comes to the UK this Monday evening, 
+         at the Dover Castle pub in Weymouth Mews, London W1. Unless
+         someone zips back from this weekend's CodeCon, it'll mostly
+         be a speedy Emerging Tech deconstruction (because you surely
+         haven't heard enough of that), with extra status reports
+         promised from Mr MySociety, Tom Steinberg, and perhaps some
+         late chocolate news from Dave. If ConCon US is anything to
+         go by, expect a radically decentralised event (ie, lots of
+         mic feedback and communistic re-investment of donations into
+         free bar snacks). Put your name down on the Wiki so we know
+         how many are coming - and if you were at Etech, or have some
+         geowankery, hardware-hackery, social-softwarey, mobile-
+         whackery thing you can explain in five minutes, stick your
+         name down as a speaker too. Oh, and if you can bring a
+         VGA/S-Video projector along, say that as well, otherwise
+         it's all going to be done with glove puppets.
+         http://wiki.oreillynet.com/etech/csp?ConConUK
+                                      - what could POSSIBLY GO WRONG?
+
+         We really should shut up about the BBC too, given that the
+         private sector seem to be finally employing new media geeks
+         again. One last go though. The people desperately trying to
+         work out what the BBC should do next are calling for members
+         of the public who are freakish interactive cut-and-paste
+         media-consumption aberrations. You know, you who play video
+         games, file-share, time-shift and/or self-publish, you
+         *weirdos*. It all involves a questionnaire, a London-based 
+         chat session, and UKP50 for you. We could have saved them
+         the money and told them the replies they'd get from their
+         initial postings: the Barbelith forum folk conspiratorially
+         spotted it as a booby-trap to catch filesharers (the BBC is,
+         after all, the original home of "Room 101"), and the B3ta 
+         community started ripping it to bits. And we'll do nothing
+         - but winge about how the questionnaire is in Word format.
+         http://www.tomski.com/archive/000592.html
+            - ignores less-fashionable threats to TV-viewing posed by 
+           "renting videos", "visiting the cinema", "going for a walk"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         frankly arguable example of blatant BBC pro-Americanism: 
+     http://www.ntk.net/2004/02/20/dohdads.gif ... with those accents, 
+         hard to tell: http://www.ntk.net/2004/02/20/dohasth.gif ... 
+         MSNBC a-haaaaa!: http://www.ntk.net/2004/02/20/doheast.gif 
+         ... must have been updating this page when Delia got busted 
+         by the Food and Drug Administration, Martha-Stewart style: 
+         http://www.deliaonline.com/premium/christmaswithdelia/ ... 
+         something Nintendo should be telling us? (bottom right): 
+       http://images-eu.amazon.com/images/P/B0000A1OX0.02.LZZZZZZZ.jpg
+         ... for one week only - return of spookily *appropriate* 
+         banner ads: http://www.ntk.net/2004/02/20/dohasp.gif , 
+         http://www.ntk.net/2004/02/20/dohmiss.gif ... visible 
+         integrity: http://www.ntk.net/2004/02/20/dohdotpro.gif ... 
+         Aussie government approves little-known "Annie Lennox" 
+         distro: http://www.ntk.net/2004/02/20/dohlen.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         "Have just read latest Wired", writes NTK's ever-vigilant 
+         reader/enforcer, LLOYD WOOD. "Want to hear Minibosses vs MJ 
+         Hibbett remixed by any DJ that JWZ has recently taken a 
+         disliking to". Well, we can't promise the other two, but 
+         Lloyd's former schoolmate MJ HIBBETT is currently embarking 
+         on a tour of London and Scotland (starts 9pm, Thu 2004-02-
+         26, Hieronymous Bisch Bosch night, 12-Bar Club, 22-23 
+         Denmark Place London WC2, UKP5) - and most likely also 
+         unveiling his first ever "Hey Hey 16K" official t-shirt 
+         merchandise. But there's more to the IT industry's very own 
+         Billy Bragg than novelty techno-nostalgia anthems; Rolling 
+         Stone Online described his latest album as "hilarious, 
+         heartbreaking and chock-a-block with brass, twee girly 
+         backing vocals and songs about pints", albeit in a column 
+         that also provided such penetrating critical analysis as 
+         "The Rapture? The *Crap*ture, more like!"
+         http://www.mjhibbett.net/gigs.htm
+                - mmm, popups *and* frames: http://www.12barclub.com/
+         http://www.rollingstone.com/news/newsarticle.asp?nid=18689
+                      - still, they've got a point about "The Shield"
+         http://www.wired.com/wired/archive/12.02/miniboss.html
+                   - no mention of http://www.theadvantageband.com/ ?
+         http://www.rfh.org.uk/main/series/185.html
+               - circuit bending + soft-synths at RFH, from March 6th
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         More cheap hacks to counter-impress smug MacOS X owners.
+         Yes, Panther's "Preview" app is a super-fast PDF viewer that's 
+         a lot snappier than Adobe "OMFG! A vector! How do I draw
+         that??!!" Acrobat. Close the gap of shame (and stop yourself
+         eating your own fist off waiting for Acrobat to start up) by
+         running ADOBE READER SPEED-UP, a eensy-weensy Windows
+         program that deletes a bunch of Adobe plugins that you don't
+         care about. Voila: spend your spare time reading your doc
+         rather than watching Adobe go "Loading dumb-ass marketing
+         rubbish/lousy DRM feature" for a thousand hours.
+         http://www.tnk-bootblock.co.uk/prods/misc/index.php
+              - also check out Sub7 Faker for those quiet evenings in
+http://www.groovymother.com/archives/2004/02/19/acrobat_degumphe.html
+             - tip of the beanie to the ever lilac-scented Rod Begbie
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         real reason Barbie split up with that Windoze Luser Ken: 
+         http://www.divisiontwo.com/articles/barbieOS.htm ... re 
+         "An English Inquistion" etc - don't give up the day job: 
+         http://spruce.he.net/~paulmars/poem-index.html ... Usecrime 
+         in progress: http://humane.sourceforge.net/the/mission.html 
+         does "not exclude from our audience the poor, the blind, 
+         the young, the aged" - then again, "Humane Environment" 
+         header made up of individual letter GIFs, none with ALT 
+         tags... "one of these not safe for work like the others" 
+         #395-6: http://images.google.com/images?q=blue+sky , 
+         mario64 - proving the web isn't full of pictures of naked 
+         women, though on the other hand: peasant, Katy Hill ... all 
+         things considered, not the best filename for the main jpeg: 
+         http://www.meenakshimission.org/cont.htm ... wot no "Purple 
+         Bayes"?: http://www.biostat.umn.edu/~brad/cabaret.html ... 
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> it's not every day we find ourselves agreeing with the 
+         Radio Times, but the agreeable surrealism of HARRY HILL'S 
+         TV BURP really does deserve a better slot than 11pm, Fri, 
+         ITV (repeated midnight on Sat)... Sly Stallone weekend 
+         takes in both the reassuringly downbeat COPLAND (11.30pm, 
+         Sat, BBC1) and the mildly satirical DEMOLITION MAN (9pm, 
+         Sun, C5)... BBC2 devotes Saturday night to relative unknown 
+         Ross Noble with his stand-up show UNREALTIME (11.15pm, Sat, 
+         BBC2) bracketed by repeats of his appearances on "Room 101" 
+         and "Have I Got News For You"... as the BBC's Brendan 
+         Fraser season goes from nuclear-bunker-family cultureshock 
+         BLAST FROM THE PAST (10pm, Sun, BBC2) to a slightly more 
+         homoerotic take on the 1950s in James Whale biopic GODS AND 
+         MONSTERS (12.30am, Thu, BBC1)... C4's search for THE 
+         ULTIMATE POP STAR (9pm, Sun, C4) seems unlikely to include 
+         Jamie Cullum's apparently straight-faced Mike Flowers Pops-
+         style cover of Radiohead's "High And Dry" on THE SOUTH BANK 
+         SHOW (11.05pm, Sun, ITV)... this week's CSI (9pm, Tue, C5) 
+         appears to be the one set at a fictional Furry convention, 
+         in a bid to antagonise both "furs" and "mundanes" in one 
+         go: http://www.csiguide.com/forums/topic.asp?TOPIC_ID=190 , 
+       http://www.parentstv.org/PTC/publications/bw/2003/1030worst.asp
+         ... and new conman drama HUSTLE (9pm, Tue, BBC1) implies 
+         that the makers of "Spooks" specialise in glamorising 
+         actually quite dull professions - sending out "advance fee 
+         fraud" emails, making bogus house calls to OAPs, etc - see 
+         also THE STING (11.15pm, Wed, BBC1)... 
+         
+         FILM>> the casting of several "former child stars" seems to 
+         be the funniest part of DICKIE ROBERTS: FORMER CHILD STAR 
+( http://www.screenit.com/movies/2003/dickie_roberts_former_child_star.html :
+         [Alyssa "Charmed" Milano] shows some cleavage and makes 
+         what could be an innuendo-based comment about needing to 
+         "see my Dickie")... Johnny Vegas, Gareth and Dawn from "The 
+         Office", and Adrian "Working Lunch" Chiles don't even have 
+         that going for them in Birmingham-based would-be farce SEX 
+         LIVES OF THE POTATO MEN ( http://www.bbfc.co.uk/ : Contains 
+         very strong language and strong sex references)... and this 
+         week's arthouse limited releases are all based around 
+         terminal illness (for a change), albeit played for laughs 
+         slightly more in shot-on-video indie comedy PIECES OF APRIL 
+        ( http://www.screenit.com/movies/2003/pieces_of_april.html :
+         We see [Katie Holmes] and [Derek Luke] snuggling in bed and 
+         then a brief shot of [Holmes] in her panties; we see a 
+         photo of a person hanging a spoon off their nose), compared 
+         to LES INVASIONS BARBARES/ THE BARBARIAN INVASIONS (imdb: 
+         cancer / fear-of-death / heroin / hospital / christianity / 
+         father-son-reunion / political-commentary / depiction-of-
+         corrupt-society / last-reunion / lasting-friendship / 
+         reflection-on-life / social-portrait / independent-film)... 
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY 
+         REGARDED AS GOOFS">> first off, our gratitude (as ever) to 
+         all those who wrote to point out that 2004-02-06's "Google 
+         Goof" http://www.google.com/search?q=singer+dongwriter , 
+         was almost certainly "a deliberate reference to Bill 
+         Callaghan (Smog)'s 'Dongs of Sevotion' album </indie dork>" 
+         (reader FORREST NORVELL, among many others) - the fact it 
+         only showed up once really should have tipped us off. 
+         There's no such excuse for us not having noticed that the 
+         prior art for JWZ's "penis-shaped sound wave" [NTK 2004-01-
+         02/09] appeared in the 2001 "Brass Eye Special" (ADRIAN 
+         FIRTH, et al) that we rather inadvisedly linked to that 
+         other time, while TOBY CORKINDALE was inspired by our same 
+         end-of-year quiz to ponder that we might (but "probably 
+         won't") be interested to know that Mugwhump Jism "was a term 
+         used in Bomb the Bass' track 'Bug Powder Dust'", seemingly 
+         unaware that it all comes from Bill Burroughs' "The Naked 
+         Lunch" http://www.cdtimes.co.uk/content.php?contentid=87 in 
+         the first place... on a more mathematical (and somewhat 
+         less phallic) note, we hope DR PETER J. LOVE didn't tie up 
+         too many mainframes at his Department of Mathematics, Tufts 
+         University, Ma., to work out that "The moon didn't blow up 
+         in Space: 1999 [NTK 2003-12-05], it just mysteriously 
+         wandered out of its orbit. I know, because I got one of 
+         those albums when I was six. Given that the moon's orbital 
+         velocity is 0.64 miles per second, the events depicted in 
+         the album (regularly encountering inhabited planets, etc) 
+         are somewhat implausible. I know that because I have a D. 
+         Phil in theoretical physics. You're still wrong, though" - 
+         sounds like the "album" was a bit different to the TV show: 
+         http://www.eyespider.freeserve.co.uk/space/one/ep01.html . 
+         Still, we were more persuaded by his defence of the book 
+         ending of "Contact" [NTK 2004-01-30] - as Peter points out, 
+         "because the decimal expansion of Pi is infinite and non-
+         repeating, every possible message occurs in it, eventually. 
+         So Jodi Foster would find all messages, but only after an 
+         infinitely long search"... 
+                                             
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                     "more or less the stand-up comedian"
+                  http://multiplicity.dk/archives/000610.html 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+
+

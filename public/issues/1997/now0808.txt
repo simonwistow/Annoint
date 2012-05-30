@@ -1,0 +1,309 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____08/08/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o   www.spesh.com/cgi-bin/now
+
+   * APPLE JUDAS! * UUNET LYNCHINGS! * MY NAME IS PRINCE, AND I AM .. UM *
+        GAME.COM ARRIVES!  * PLUS SIGGRAPH SPECIAL REPORT, "BREASTS" *
+
+         "We will be looking at how we can move large data files
+         around this year... The aim is to find golden nuggets of
+         technology that may have been developed by someone else.
+         We are taking lots of commercially available off-the-shelf
+         equipment and seeing what it has to offer."
+         - British Army Officer, Joint Warrior Interoperability Demo '97
+                   announcing: the world's first military warez site
+
+
+                               >> HARD NEWS <<
+                                  soft heads
+
+         Capturing the spirit of the classic APPLE 1984 advert,
+         Steve Jobs announced to a rapt MacWorld Expo that MICROSOFT
+         was investing $150 million in Apple, that Microsoft had
+         always been Apple's friend, and that Apple was now at war
+         with Eurasia. Proles and Apple Developers alike then
+         chanted at a huge telecast image of "Uncle" Bill Gates
+         (Bill has not been seen outside his Seattle bunker since
+         the attempted Netscape putsch of 1995). Evangelists from
+         the Ministry of Truth later enthused about how Microsoft
+         had agreed at the last minute to a) invest in a company
+         whose share price was at an all-time low, b) make its
+         browser the default on all new Macs, and c) get out of any
+         outstanding Apple patent suits for a widely-assumed
+         pittance. It was also revealed that Lawrence Tesler was
+         never chief technical officer for Apple, and Mike Makkula
+         had never been a board member since the old garage days.
+         Victory to Apple! Down with Emmanuel Andreessen!
+         http://www.apple.com
+               - if you want to see an image of the future, Winston,
+         http://www.microsoft.com      imagine a boot taking forever
+
+         MICROSOFT'S new policy of evading anti-trust actions by
+         throwing money at the competition (just how *does* that
+         work?) continued in the streaming Net video market. A few
+         weeks ago, Microsoft bought 10% of PROGRESSIVE "RealAudio/
+         RealVideo" TECHNOLOGIES. Now they've bought out
+         Progressive's main competitor, VXTREME, the people whose
+         plug-in crashed when you were trying to watch the CNN
+         coverage of the Mars landing. Both companies have now
+         decided to support Microsoft's own streamed video client,
+         claiming that it is the industry standard. Well, it is now.
+         http://www.vxtreme.com      oh, and Bill holds a board seat
+         http://www.real.com     at VDOnet. No monopoly here, uh uh.
+
+         UUNET, the granddaddy of PIPEX, received the Dreaded Usenet
+         Death Penalty last Friday. Following the D-UDP, all UUNET
+         users' postings to newsgroups were automatically cancelled
+         by a diddy 78-line bots put in place by a worldwide
+         alliance of vigilante newserver operators (scary, huh?).
+         The lynch-team had good cause - at one stage, one
+         administrator reported, only 20% of the newsgroup postings
+         emanating from UUNET were "legitimate" (people asking for
+         warez or porn on just the one newsgroup). The death penalty
+         was lifted Wednesday when UUNET announced anti-spam
+         measures - ie, blamed its resellers. Meanwhile, in the
+         darker waters of Usenet, a more pro-active hacker released
+         the complete password files for top spammer SANFORD
+         WALLACE's machine. "His userid is wallace,", the bad hacker
+         reports, "with a [crypted] password of 'sTUv6x8r.'  Guessed
+         the root password yet?" Err... god? Err... sex? Ummm...
+         http://www.usa.uu.net/      hilariously, uu.net want to sue
+         http://cyberwerks.com:70/cyberwire/howto.html
+         - Brock Meek's mailing list, where we stole the Spamford tale
+         http://www.intraday.com/spam/spam/spam/
+            - unrelated, but still the most annoying page on the Web
+
+         A British judge refused to comment on a fight over the
+         ownership of the 'PRINCE.COM' domain name, effectively
+         passing .com battles back to the US courts who, it's
+         suspected, may favour US-based companies. The two litigants
+         were the PRINCE SPORTS GROUP, a US firm, and PRINCE PLC, a
+         Brit computer services company who we'd describe as
+         'plucky' if they'd actually done more with the domain than
+         point it at the Pipex Worldserver Website, the wimps. The
+         judge, Justice Neuberger, went against the precedent set by
+         a previous UK case, which determined that the singer-
+         songwriter "Prince" was not a member of the British Royal
+         Family, and could not use the title on UK soil. Prince
+         complied by adopting an obscure Zapf Dingbats character as
+         his moniker.
+         http://www.prince.com 
+            relax - we're just trying to freak out the US readership
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         Music videos glamorise tobacco and alcohol use, reports
+         study... 30% of City execs use "a sexual position or
+         abusive name for the boss" as password... AMAZON/Updike
+         story "not very good"... Pathfinder has problems, fix is to
+         upgrade software (uh-uh)... UFOs were secret plane project,
+         "reveal" CIA... 16% of City execs use their partners' name
+         or nickname as password ... WIRED designers, faced with
+         major overhaul, losses, decide mag is "basically fine"...
+         Excite looks for "the real Dorothy Com!" (or failing that,
+         some tacky brand publicity)... automatic docking system on
+         Mir fails... Could *any more* film mags put MEN IN BLACK on
+         the cover?... Internet "creating computer junkies" - THE
+         GUARDIAN... NEWTON 130 price drops to #299... 8% of City
+         execs use whatever they first saw on their desk...
+
+
+                                >> CULTURE <<
+                   it's what separates us from the controls
+
+         Not much going on at the moment - possibly because everybody
+         (including NTK) is off to HIP '97, Amsterdam's open air, 100
+         Megabit-networked hacking, phreaking, singing, political agit-
+         propping and all the trimmings show. In a brave show of idiocy,
+         NTK has sent its least-travelled editor along, possibly in a
+         deliberate attempt to kill him. You can check his daily (ha!)
+         reports via our special site, or try and track him down
+         yourself. Danny says "Yes. Come and chat about NTK, or just say
+         hello to me. I'll be the one wearing a 'STAY ASLEEP' T-shirt;
+         or I will if I remember to wash it." Eww.
+         http://www.spesh.com/hip97/
+                                    - please don't let him come back
+         http://www.hip97.nl                          excess for all
+
+
+                                 >> TRACKING <<
+                      something "wicked" this way comes
+
+         Waiting eagerly for the Mac port of Quake?  Want to
+         download it right now? Want to strangle us when we tell you
+         that LION ENTERTAINMENT, who were porting (by all accounts
+         rather successfully) Quake to the Mac, went bust on
+         Wednesday? The MacQuake project is now very much up in the
+         air, although it's assumed that MacSoft will be able to
+         pick up the pieces. Sorry about that. God, we're cruel.
+         http://www.grayphics.com/3dmacgames/macquake/about.html
+         - Didn't you Mac people have enough good news this week?
+
+         Techno toymakers TIGER have at last trotted out GAME.COM,
+         their new 80 quid hand-held personal organiser/game system
+         that (with a modem and net cartridge out next month) also
+         reads email and browses (text) web pages - via Dircon, of
+         all people. The games (Virtua Fighters, Duke Nukem, William
+         Arcade Classics) ought to freak out anyone still trying to
+         play on a PalmPilot, Psion or Newton, though may suffer a
+         little from translation to an 8-bit CPU and B&W (stylus-
+         sensitive) screen. That other sound you hear is Nintendo
+         audibly kicking themselves for never pushing the
+         productivity apps or doing a TCP/IP stack for the world's
+         top-selling portable computer, the equally shockingly
+         underpowered Z80-based Game Boy. Anyway, how much is a
+         VT100 and 1200/75 modem nowadays?
+         http://165.247.176.184/tigertoys/gamecom.htm
+                                     - counter seems to be *way* off
+         http://www.mitt.demon.co.uk/tiger.html
+                                       - Moose, as usual, is spot on
+         http://www.game.com           but... there's nothing there!
+
+         Dynamic HTML. Oh god. It's a mess, no browser supports the
+         same standard, there's no clear use for it, and it's got
+         "Microsoft Crack Cocaine" written all over it (no
+         development tools FOR AT LEAST SIX MOMTHS?) - but, dammit,
+         every geek instinct in your body is telling you to snort it
+         up. Then may we suggest you visit Macromedia "w-w-we're d-
+         d-doing ok-k-kay" Incorporated's Dynamic HTML site, and do
+         your wallowing somewhere vaguely civilised?
+         http://www.dhtmlzone.com/
+         - oh, if *only* we could make that URL fly around your desktop
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         relationshippers... www.theobvious.com/wired... laser
+         pointers with programmable X-Y modulation (like K-9)...
+         dies BURROUGHS eighty-three, WILLIAM aged... CD players
+         that can read MPEG3 files... Quake Rally... Ecstasy hits
+         Japan... BBC clamp down on Teletubbie pages for
+         "compromising the programme's intentions" (and we went to
+         all that trouble, too)... MacDonalds accidentally use Nazi
+         map of Austria on Austrian placemaps... Tamagotchi
+         movies... mini-beasts... Tomb Raider single delayed *again*
+         - what, is it rubbish or something?... Bus plunges!
+         www.users.interport.net/~tcs/... ICQ to charge?... file
+         directory exploring converted to shoot-'em-up (we're not
+         kidding)... Pentium 133 what people want; shame Intel
+         stopped making them... VR hardware as fomite... Industrial
+         Ship Printers... www.spesh.com/louis/ - it's funky disco
+         ex-CEO of Wired, Louis Rossetto!...
+
+
+                               >> MO' MEDIA <<
+              as if your social life wasn't busy enough as it is
+
+         TV >> Maximum US comedy tonight with an extra-special
+         flashback-funnies FRIENDS (9pm, Fri, C4), nutty younger
+         brother Niles stepping up to the mic in FRASIER (10pm, Fri,
+         C4), and sex ed southern-style in KING OF THE HILL
+         (10.30pm, Fri, C4)... apparently this series of BUGS
+         (8.10pm, Sat, BBC1) is concentrating more on
+         "relationships" than on high-tech thrills (god help us
+         all); stick with the true horror of THE OMEN (10pm, Sat,
+         C4)... it's "primates perplexed by 20th century customs"
+         when they somehow ESCAPE FROM THE PLANET OF THE APES
+         (5.45pm, Sun, C4), not to be confused with dark incest
+         comedy SPANKING THE MONKEY (10pm, Sun, BBC2)... HARD DRIVE
+         (11pm, Mon, C4) hopes to avoid scaring America's top
+         luddites with its infernal TV camera contraption... Shatner
+         returns triumphant, with new guests including Angela Rippon
+         and Bruce "Iron Maiden" Dickinson, in the cleverly can't-
+         decide-if-I-hate-this-or-is-it-actually-alright SPACE
+         CADETS (6pm, Tue, & 10.15pm, Wed, C4)... compellingly dull
+         Jon Ronson chat show FOR THE LOVE OF (12.25am, Thu, C4) is
+         back with 65 minutes on "Trees", but probably won't get the
+         same ratings as 22 topless women engaging in an hour-long
+         philsophical discussion of BREASTS (10pm, Tue, C4)... a
+         young girl struggles to come to terms with her geekiness in
+         one of the better repeats of SABRINA - THE TEENAGE WITCH
+         (4.45pm, Wed, ITV)... no, we can never remember the diff
+         between Cutting Edge, Modern Times and INSIDE STORY (10pm,
+         Wed, BBC1), this week examining the best temperature (and
+         chefs) for serving revenge... Special Projects co-founder
+         Ben Moor had to leave the country before the first episode,
+         while co-editor Danny O'Brien fought to get his name
+         removed from the credits of new sci-fi sketch show PLANET
+         MIRTH (12.40am, Thu, Carlton + some regions) - tune in and
+         find out why...
+
+         MOVIES >> GROSSE POINTE BLANK (John Cusack, Minnie Driver,
+         and a remarkably good Dan Aykroyd) is a quirky, indie-ish,
+         black comedy (aren't they all?) about a hitman going to his
+         school reunion; lots of good moments (including a Doom
+         arcade machine?!) but never quite as funny as it wants to
+         be... on the other hand, ROSEANNA'S GRAVE (Mercedes Ruehl,
+         Jean Reno) is a quirky, indie-ish, black comedy about a
+         terminally ill woman hoping for a graveyard reunion with
+         her dead daughter; some funny scenes (Reno tries to stop
+         other townsfolk from dying and taking her plot) but much
+         more sentimental than it should have been... perhaps
+         unsurprisingly, BEAN (Rowan Atkinson, John Mills, Burt
+         Reynolds) is just like three episodes of Mr Bean joined
+         together, so depending if you like the show or not, either
+         a huge laugh, or simply 90 long, long minutes of hell...
+
+         SIGGRAPH >> The opening party was held at night in the LA
+         Zoo - where an interesting mixture of Hollywood movie types
+         and heavily bearded academics were entertained by DJs
+         and transsexual go-go dancers, as the elephants looked
+         on.... The rest was as per - more high volume bad-Prodigy-
+         imitation techno and fast-cut "flying camera" CGI than most
+         sane people can handle... NewTek refugee Kiki Stockhammer
+         was enthusiastically demonstrating PLAY INC's 8-years in
+         development son-of-Video Toaster product, TRINITY, which
+         seems to provide everything you need to make bad cable TV
+         shows for $5000... No one was surprised by the large amount
+         of WINDOWS NT graphics products on the floor, but despite
+         buying most of the big names (Jim Blinn, Andrew Glassner)
+         there was still little evidence that Microsoft really knows
+         what they're talking about... Much more interesting was the
+         "Electric Garden" which featured a bunch of pretentious
+         video art and hacked together student projects, including
+         an image processing interface for the PLAYSTATION, allowing
+         2 people to fight on TEKKEN 2 by actually jumping around in
+          front of a screen, and an innovative 360 degree virtual
+         display made from a giant paper dodecahedron and 12 video
+         projectors that the participant was actually sealed into...
+         Showcases at the ELECTRONIC THEATRE included the most
+         impressive impromptu audience-generated laser pointer show
+         I've ever seen, and the new TOY STORY shorts showing were
+         the highlight for the many (at least those who don't get
+         excited by scientific visualisation), but the unforgiving
+         audience actually booed at the MICROSOFT and INTEL
+         sponsored films - si@spesh.com
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "creating Internet junkies".
+
+                    "I am going off to join the wild boys.
+                   When you read this I will be far away."
+                             WILLIAM S. BURROUGHS
+                                  1914-1997
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Non-biz copying ok, but retain SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 

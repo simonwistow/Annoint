@@ -1,0 +1,297 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-05-12_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Flash is everything Java applets were supposed to be.
+         People are putting it in cars and cell phones. I think it's
+         the way to display ads in Times Square or read books in an
+         e-book. It's an exciting time to be a Flash developer."
+                           - PHILLIP TORRONE, excited Flash developer
+         http://www.wired.com/news/technology/0,1282,35927,00.html
+                           ...don't get a lift home with this guy
+
+
+                                >> HARD NEWS <<
+                                dearth of clues
+
+         A hushed public awaits: and, in the pages of Time magazine,
+         Bill Gates puts THE CASE FOR MICROSOFT. But years of
+         conviction play with a man's recollection. Every every one
+         of Bill's arguments points to the company's guiltiest
+         moments. With a split Microsoft, he begins, a future MS
+         "tablet PC" with handwriting recognition would not exist,
+         because Microsoft's OS and App developers need "real-time
+         collaboration" to pull it off.  But MS had designs on a
+         "tablet PC" before: when they wrote Pen Windows, a
+         piece of FUDware designed to kill Jerry Kaplan's GO.
+         Back then, Microsoft bristled at any suggestion that their
+         OS and App departments colluded. Now the party line is that
+         it's vital for the consumer. In 1991, Gates goes on to
+         explain, MS Office developers invented the toolbar. "Had
+         toolbars been created elsewhere, they no doubt would have
+         been patented and never incorporated into Windows [as the
+         taskbar]". How very true: except toolbars *were* invented
+         elsewhere. In MacPaint. In 1984. At that point, Gates
+         entered into a secret agreement with Apple to use
+         Mac-ish features in the Windows OS, in return for developing
+         apps for the Mac (no monopoly here: yet). Moving to modern
+         day concerns: Bill says that the DOJ scheme would slow down
+         innovation, impeding "Windows updates that could protect
+         against attacks like the Love Bug virus". As opposed to now,
+         when Microsoft denies liability for the jelly-weak security
+         of Outlook? Gates end with his own horrific vision,
+         post-Microsplit: Apps and OS mini-Bills that could never
+         work together, because the DOJ demands that "no technical
+         information can be discussed that is not 'simultaneously
+         available' to the entire computer industry - which would be
+         a practical impossibility". An impossibility, of course,
+         which open source projects - and hell, most of the rest of
+         the industry - manage every day.  Except, that is, when
+         Microsoft sues for publishing MS's proprietary extensions to
+         their work. And this is the case *for*?
+         http://www.time.com/time/magazine/articles/0,3266,44557-2,00.html
+             - well, that is where my theory just falls to the ground
+         http://www.headgap.com/~macstar/macpaint/About_MacPaint.html
+               - cute pictures of old Mac apps to take bad taste away
+         http://www.microsoft.com/presspass/features/2000/04-27tv2.asp
+                                          - this isn't helping, is it
+         http://www.ntk.net/2000/05/12/dohlove.JPG
+                                           - the smoking gun! (see centre right)
+
+         More ILOVEYOU anthems: The DERBY EVENING TELEGRAPH reports
+         that the Tory leader of Derby City Council was sent a
+         mysterious fax, containing the secret code of the virus. The
+         police recommend that she send them a copy for forensic
+         study, then destroy it: demonstrating that it still had
+         destructive viral properties, even in this weakened form.
+         Similarly, the Guardian gave a clue to the Nam-Shub nature
+         of the attachment when they revealed it was written in
+         "Virtual Basic".  When the alleged creator was caught - as
+         prophesied, in the Philippines, his sinister black-ice
+         powers served to hide his trail.  Scrambled news reporters
+         variously listed his name as Reomel Ramones, Rommel
+         Lamores, Rommel Lamore, Rommel Ramores, Riomel Lamores,
+         Reomel Ramones, and Reonel Rameon. And the mutations
+         are increasing at an exponential rate.
+         http://www.hackernews.com/
+                                      - for tracking the name changes
+http://www.guardianunlimited.co.uk/Archive/Article/0,4273,4015243,00.html
+                                          - for creating some of them
+         http://www.derby.org/lovebug.htm
+                                                  - for best coverage
+
+         They say that Vegas in its heart hates Comdex, because geeks
+         never bet. So, in the hope that we're not playing into their
+         loss-leading, addict-begging, ever-loving arms, here's an
+         intriguing offer from William Hill's offshore gambling site.
+         You get a 50% cashback on your first bet, up to 50UKP. So:
+         find an event with only two outcomes. Bet 100UKP on the
+         favourite. Bet the 50UKP return on the alternative. Sign
+         off, delete the cookie, and return to your non-sporting life
+         to spend the cash on a proper addiction.
+         http://www.willhill.com/
+                                    - the first one's always for free
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+        "I built it" - and made it rather too "easily" accessible:
+         http://www.ntk.net/2000/05/12/doheasily.jpg ... new BT TV ad
+         depicts mum getting "engaged" tone while daughter online;
+         daughter miraculously maintains connection... meta tags at
+         http://www.alton-towers.co.uk/ cross-promote Legoland,
+         EuroDisney... because "METALLICA's integrity" on eBay went
+         already: http://www.ntk.net/2000/05/12/dohmetallica.gif ...
+         BLOCKBUSTER unveils secret video-on-demand backbone:
+         http://www.ntk.net/2000/05/12/dohblock.jpg ... for once, not a
+         novelty auction: http://search.ebay.co.uk/ ... "This is hyped
+         to be bigger than lastminute.com IPO floatation", reassures
+         http://www.toca.co.uk/ ... importance of staying "on massage":
+         (top left at) http://www.kofex.com/english/kofex/ceo.asp ...
+         ... ROB ZOMBIE to make horror movie... yeah, like LOS ALAMOS
+         wasn't goading Nature to "have a go"... 
+
+ 
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Best excuse for not going to E3, with its zany reports of
+         Bleem for Dreamcast and all: "I have to take part in
+         'Coagulum', this Saturday's direct-action art prank intended
+         to clog the main thoroughfare of KINGSTON SHOPPING CENTRE
+         with a large, circular, rugby-style scrum." Apparently
+         they're meeting at Fairfield Recreation Ground, Kingston,
+         1.30pm 2000-05-13 - could be a complete washout of course,
+         but could rival even "Chu Chu Rocket" if it caught on.
+         http://www.core-design.com/newlara/newlara.htm
+             - or continue fantasising over new, *younger* Lara Croft
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Too paranoid to use your shell account from those unusual
+         cyber cafe machines?  Sure, you're using ssh - no problems,
+         right?  You'll be glad to know some of the more frustrating
+         compatibility snafus with ssh may be going away now that the
+         knights of OpenSSH have wrestled the ssh2 protocol away from
+         the dark side.  So, that's the network sorted - but what
+         about those pesky local key-loggers? Well, for on-the-road
+         access we'll packing a PDA with OPIE, an open replacement
+         for Bellcore's (apparently abandoned) One Time Password S/KEY
+         system. With support for OTP in openssh we'll soon be able
+         to sit back, sipping our overpriced lattes, worrying about
+         some of the more obscure vunerabilites.
+         http://www.openssh.com/
+        - maybe ssh.com should move to a t-shirt based funding model?
+         http://www.ntk.net/2000/05/12/tracking.html
+                     - persuade your boss you need a Palm "for work"
+
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         ASA takes on RSA: http://www.asa.org.uk/adj/adj_4765.htm ...
+         R[o|i]ver Phoenix gags... searching for CHRIS MORRIS, found:
+         http://www.asf.ca/Communications/99mediacover/media0999.html
+         - "salmon ladder needed on east river"... so where's MR T vs
+         LYMPHATIC CANCER http://members.tripod.com/mtvsblair/page4.htm ... 
+         and the "evil" of NAPSTER cancels out the evil of Flash:
+         http://www.campchaos.com/cartoons/napsterbad/napsterbad_56k.html
+         ...  never mind "negative energy", tell us about the CURRY
+         GRID: http://members.xoom.com/mr_theremin/geop~2.htm ...
+         http://www.alancoxonachip.com/ ... duller than the real
+         thing: http://www.conceptlab.com/simulator/ ...  BeebWAP:
+         http://www.bbc.co.uk/mobile/mainmenu.wml ...  product
+         shipped to you only after full crash investigation:
+    http://virtualairport.lufthansa.com/english/ev/fs_flugzeugsitze_sell_e.htm
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> tough call for fans of Smack The Pony's Sarah
+         Alexander, as she appears simultaneously in Steven "Press
+         Gang" Moffat's sniggering sex-com COUPLING (9.30pm, Fri
+         (ahem); 10.50pm, Sat, BBC2), hopefully to feature loads more
+         contrived set-ups with mobiles and answerphones...  not
+         wishing to overload the cybernetic circuits, the hotly
+         awaited "Orac" episode of BLAKE'S SEVEN (*not* this Sat pm)
+         has been contemptuously replaced by a "Gene Kelly double
+         bill" leaving Saturday night for ROBOCOP (2) (again -
+         11.10pm, Sat, ITV), with Weller/ Allen sleepwalking through
+         Frank Miller's usual recycled script ideas... Chris Rock
+         heads up rap-umentary spoof CB4 (12.20am, Sat, BBC2) - not
+         to be confused with the similarly themed "Fear Of A Black
+         Hat"...  while neurological deficit edutainment PHANTOMS IN
+         THE BRAIN (8pm, Fri, C4) leads neatly into brain-damaged
+         Sandra Bullock hacker-virus nonsense THE NET (9pm, Sun,
+         C4)... Errol "Fast, Cheap And Out Of Control" Morris
+         hopefully uses different criteria to select the naive
+         execution expert profiled in TRUE STORIES: MR DEATH (9pm,
+         Mon, C4)... Adam Hart-Davis cycles through another run of
+         DIY historical inventions slot LOCAL HEROES (8pm, Tue, BBC2)
+         - more welcome than the return of stand-up manque Michael
+         Moore in his self-descriptive THE AWFUL TRUTH (11.30pm, Tue,
+         C4)... and in one of those ironic twists that no-one else
+         mentions, SEX AND STOPPING (10.15pm, Wed, BBC1), a
+         "light-hearted" history of contraception, is presented by
+         none other than Nick Hancock, one of the single most
+         persuasive arguments in favour of it...
+
+         FILM>> in a far-off, decadent age, lower-class "barbarians"
+         brawl and cavort to the mock-horror of their more "civilised"
+         audience - but enough about Sex Pistols rebellion-nostalgia
+         biopic THE FILTH AND THE FURY (imdb: independent-film / music
+         / punk-rock) - what about Ridley Scott's semi-CGI beat-em-up
+         GLADIATOR (http://www.capalert.com/ : gruesome defensive
+         killings; lusting after blade fighting and gladiatorial
+         killing; intentional trampling of a 8 year old boy; flatulence
+         as a street puppet show "weapon")? Battle scenes are, indeed,
+         judderingly spectacular, interspersed by agonisingly dull
+         dialogue and occasional Blade Runner references - but not
+         quite, as James King of Radio 1 seems to think on the poster,
+         "Truly the most epic movie of the last decade" (or even of 
+         this one)... otherwise a selection of, shall we say, more
+         "female-friendly" flicks, in the form of WW2-era teen sex
+         romance SNOW FALLING ON CEDARS (http://www.capalert.com/ :
+         "clothing falling on the ground", more like!)... and what
+         looks like Nora "Sleepless In Seattle" Ephron's sisterly
+         remake of "The First Wives' Club", with Diane Keaton, Phoebe
+         Kudrow and (natch) Meg Ryan's extended phone metaphor HANGING
+         UP (http://www.capalert.com/ : most atypical of [Cloris]
+         Leachman's usual parts such as Granny of "The Beverly
+         Hillbillies" where what I would like to believe is her true
+         genius was revealed)...
+
+         PRO-CELEBRITY PUBLISHING FEEDBACK>> yup, we know, we did mags
+         and stuff last week, but felt we should try to defuse the
+         sheer ferocity of this week's mailbag as soon as possible -
+         almost all of it directed toward other NTK readers, we were
+         reassured to note... JACK SCHOFIELD kicked off by defending
+         Guardian Online's "Will Pokemon catch on?" headline [NTK 2000-
+         05-05] as "ironic" - that's nothing Jack, you should have seen
+         what they wanted us to put... several wrote to applaud last
+         week's attack on TV's DOTCOMEDY, described by one of you as "a
+         show that seems to be amazed that humans have sexual organs
+         and can't keep its excitement to itself"... and at least two
+         people bought MEN'S QUEST magazine, on the strength of last
+         week's (sarcastic) "recommendation", only to pronounce it
+         somewhere between "awful" and "shite". In another of his
+         (humorous) flights of fancy, Angus "Rough Guide To The
+         Internet" Kennedy reveals that it's not him, but "an
+         imposter" behind MQ magazine ("I believe he chose the name
+         because he thought it sounded very masculine"), which would
+         explain why none of the heartfelt, windswept creator bios at
+         http://www.mensquest.com/irishtimes.html make any mention of
+         (presumably) substantial royalties from a regular top-10 non-
+         fiction bestseller... again from NTK 2000-05-05, DARREN
+         SOMETHING [nee IRVINE] hit back at Connor McLaughlin, unable
+         to "believe McLaughlin has the nerve to describe [Internet And
+         Comms Today] as 'crappy' when he and his fellow Fidonetteers
+         used to fawn over myself and John when we deigned to grace
+         them with our august presences"... while WENDY GROSSMAN bravely
+         asserted that she "used to write for Internet and Comms Today.
+         And was friend to no-one" - this, we hope, in reference to the
+         claims of alleged editorial cronyism, rather than a more
+         general outlook on life... and, finally, "Don't forget to
+         tease me about this", mailed someone claiming to be "CHRIS
+         WARD-JOHNSON AKA DR KEYBOARD" (is that how he introduces
+         himself - "Chris Ward-Johnson - aka: Dr Keyboard"?), linking to
+         another of The Register's meticulously researched stories on
+         him: http://www.theregister.co.uk/000510-000018.html . Oh,
+         come on Keyboard (if it really *is* you, our old arch-enemy),
+         this is hardly playing the game now is it? Where's the sport
+         in that?...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+            Registered at the Post Office as having "more rigidity 
+          as well as a 'flatter' back surface to minimize bending and 
+                   flexing of the package during clamping."
+               http://www.rsc.rockwell.com/mct_fpa/NTK/ntk.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

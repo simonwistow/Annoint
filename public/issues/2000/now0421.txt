@@ -1,0 +1,330 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-04-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+    "Celera Genomics, which recently claimed to have finished
+     the human genome sequence, inadvertently mixed some human 
+     genetic information with that of the fruit fly in a public database."
+     http://www.wired.com/news/technology/0,1282,35814,00.html
+                      - now wouldn't that be a good idea for a movie?
+
+
+                                >> HARD NEWS <<
+                                icann't refuse
+
+         So who had the worst week? Was it our Lord Jesus? Or was it
+         NAPSTER, now caught in crossover court cases with Metallica
+         *and* Dr Dre. Good to see someone whose early career was
+         marked by a disrespect for authority and heavy reliance on
+         sampled works (as well as a love for words ending with "z")
+         taking out the Napsters with Attitude. And even better to
+         see that, while heavy metal and rap still have artistic
+         differences, they can unite under one ne attorney - LA's
+         Howard King, who is leading both court cases. And we're sure
+         that if the music industy mows Napster, Inc down in a legal
+         bloodbath, absolutely no-one will step in to take over the
+         server duties in an illegit manner. For that would be wrong.
+         http://www.savenapster.com/
+     - "don't condone piracy": Some say no to drugs and take a stand,
+                  But after the show they go lookin' for the dopeman.
+         http://www.paylars.com/
+                                                     - s'payback time
+
+         Who can make Network Solutions look like a model of
+         efficiency? ICANN! The beginning of the week saw the "at
+         large" ICANN membership discover, painfully, that the member
+         announce list was open to subscriber posts. "'ICANN ... to
+         assume responsibility for the IP address space allocation,
+         protocol parameter assignment, domain name system
+         management, and root server system management functions' -
+         and they've screwed this up, this badly? Jeesh.", one
+         subscriber succinctly commented (to about 12,000 others). At
+         the same time, NSI was sliding up to the exhausted tangle of
+         committees and slipping over a position paper aimed at
+         breaking the current ICANN deadlock over those long-awaited
+         extra top level domains. NSI's plan includes whittling it
+         down to two new TLDs - .shop and .banc. Note the
+         euro-friendly feel of ".banc" and NSI's silky insinuation
+         that the whinging European sector of ICANN  should host the
+         ".shop" servers. Very clever. Very... political. We also
+         note that NSI has picked the two domains most likely to be
+         favoured by cash-rich corporations (dropping that whole
+         pesky ".union" slab), and naturally suggested themselves as
+         willing to support the new domains. Good to see NSI taking
+         part in an open discussion of the issues. Especially given
+         what we hear about NSI's new Premier Partner program, which
+         includes a cause forbidding members from saying anything
+         disparaging about the company.
+         http://www.thestandard.com/article/display/0,1151,14338,00.html?nl=mg
+         - oh, so the next ICANN junket is Japan? Can we have Bali next?
+         http://members.icann.org/
+                                    - larging it with the Dyson posse
+
+         A couple of people mailed asking us about ZD Net UK's story
+         claiming that the EU was intent on banning anonymous e-mail.
+         Wonder who they were? Anyway, as ever, our investigative
+         team sat around until someone else did the research for us.
+         Thanks then to Ben "Millennium Winner" Laurie for digging up
+         the latest status. Apparently, the European Parliament have
+         yay-sayed the ban, and now it's back to the European Council
+         to decide what to do with it. File it under "laws which
+         won't get implemented by the national governments in a month
+         of officially-redefined Sundays". We sincerely hope.
+         http://www.ntk.net/anoneu/update.html
+                                - at least, we think Ben posted it...
+         http://www.zdnet.co.uk/news/2000/14/ns-14710.html
+                                - one year from the original story...
+         http://www.ntk.net/index.cgi?back=archive99/now0423.txt&line=34#l
+                            - and we *still* haven't any clearer idea
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         MS recommends "industrial-strength, quality focused" UNIX:
+         http://support.microsoft.com/support/kb/articles/Q80/5/20.ASP ...
+         META tags at http://ted.examiner.ie/books/books.htm - Ireland
+         in a nutshell... "Surfers in cities with higher household Net
+         usage spend more time online", intuits the INDUSTRY STANDARD:
+    http://www.thestandard.com/article/display/0,1151,14058,00.html ...
+         http://www.htmlsourcekid.co.uk/ uses FRONTPAGE... "The Product
+         is not designed, manufactured or intended for use in the
+         operation of nuclear facilities, aircraft navigation or
+         communication systems, air traffic control, direct life
+         support machines, or weapons systems", reveals terms and
+         conditions for WINAMP... BT "trailing" ADSL, admits Freudian:
+         http://www.btinternet.com/html/v90.html#what_next... BT
+         'fesses further: http://www.ntk.net/2000/04/21/dohnumber.gif
+         ... MCSWEENEYS.net hijack was, gasp, prank, believes OJR:
+         http://ojr.usc.edu/content/story.cfm?request=364 ... hot new
+         MS algorithm: http://www.ntk.net/2000/04/21/dohcompression.gif
+         ... CONXION/ DAVE WINER love-affair sours before your eyes:
+         http://search.userland.com/default?q=conxion ...
+         http://shop.bn.com/booksearch/isbnInquiry.asp?isbn=1572316381
+         - Green Eggs And SPAM, more like...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Nathan Barleys and Justin Futures alike will be converging at
+         - where else? - London's ICA from next Fri 2000-04-28 for the
+         imaginatively named ONEDOTZERO4. Billed as a "digital moving
+         image festival", in fact it now seems to have settled into a
+         traditional annual routine of pop promos, Playstation FMV,
+         manga toons, people praising Chris "Aphex Twin videos"
+         Cunningham and, as is now believed to be compulsory at these
+         sorts of events, a showing of the "Meeting People Is Easy"
+         Radiohead film.
+         http://www.onedotzero.com/
+       - "Nathan Barley" credited on that new dotcomedy show, we note
+
+         Oh, and someone from "Gothtart Promotions" wrote to say that,
+         in last week's SIGUE SIGUE SPUTNIK concert details, we should
+         have said not Sheffield University, but Sheffield *Hallam*
+         University - "I know it's only one word difference but the two
+         venues are on opposite sides of the city" (a long way to walk
+         in those heels, we imagine). Didn't quibble about the "Fifth
+         Generation of Rock And Roll *above* puppet show" jibe, though.
+         http://www.sputnikworld.com/
+         - anyone going to LA2 on Sunday? Could be "interesting"...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         On this day, beloved, we should think of those friends who
+         were until recently hammered onto crosses and subjected to
+         extended taunting - but who are now back, back, back, shiny
+         and new. I'm thinking of QT - the nifty C++ class library
+         and former Yoko Ono of open source, now released in a
+         transcendental 2.1 form. Updates include a faster HTML
+         viewer, an even more Windowsy file dialog, some nice network
+         protocol abstraction and a speedier and tighter ship in
+         general. The license is okay now from a open source POV, but
+         tradition requires that must never develop it with the same
+         hand that you have touched a GPL'd program. Oh, and talking
+         of untouchable, Andrew Tanenbaum's MINIX OS is now under a
+         BSD license. Happy now, Linus?
+         http://www.trolltech.com/announce/qt-210.html
+         - includes snipes at Motif: these guys really are trolls!
+         http://www.gnu.org/philosophy/license-list.html
+                 - ah, but what about different spellings of licence?
+         http://www.cs.dartmouth.edu/~perrone/oldsite/feud.html
+                                                  - lama sabachthani!
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Where's MUGABE?: http://www.visi.com/~sgrantz/dict_fash/ ...
+         proof at last: http://xxx.lanl.gov/abs/physics/0004034 ...
+         avoiding kibo-like skills via anagrams: RARELY FORGED DUNCE,
+         CAREER FUNDED GLORY, GREEDY FOUL ARC NERD... using GNUTELLA
+         Search Monitor as "instant messenger"... forthcoming books:
+         hardback "Travels with Samantha", "My Life with the Ars Digita
+         Cult"... "Only 20% of internet ideas have been invented",
+         estimates http://www.lbird.com/ - remainder derived from
+         crashed saucer technology... MTV's TOM GREEN has cancer, Drew
+         Barrymore... http://www.pacificnet.net/~jmh/ - must also enjoy
+         giant Quicktime audio files (for when embedded MIDI isn't
+         romantic enough)... of course, it was Trevor "Buggles" Horn:
+         http://www.ietf.org/mail-archive/ietf/Current/msg07156.html
+         ...  both the International Monetary Fund (IMF.INT) and
+         Mobilization for Global Justice (A16.ORG) go through the
+         backbone Internet via Cable & Wireless... only *virtually*
+         impossible "for animals to consent to sex with humans" (phew),
+         advises: http://www.goaskalice.columbia.edu/1056.html ...
+http://www.guardian.co.uk/international/story/0,3604,211754,00.html -
+         barely alive imitate ONION...
+
+
+                               >> GEEK MEDIA <<
+                    the less rude http://www.tvgohome.com/
+
+         TV>> and let's not forget the *real* meaning of Easter: Bank
+         Holiday movie bonanza!... Kelsey "Frasier" Grammer's DOWN
+         PERISCOPE (6pm, Fri, BBC1) isn't that bad - assuming it's
+         not finished already [i don't understand this, dave. it's
+         still afternoon in ... oh. oh dear. - danny] ... Madonna
+         musical EVITA (8.30pm, Fri, BBC1) doesn't even have a cameo
+         from the performer behind the definitive stage
+         interpretation of the role, David Essex... and Fish Called
+         Wanda followup FIERCE CREATURES (9pm, Fri, ITV) would be
+         more amusing if the entire cast were torn apart by Mack
+         trucks, as in Rutger Hauer's THE HITCHER (9pm, Fri, C5)...
+         "Live And Kicking" seems to have been ditched in favour of
+         something called FULLY BOOKED INTERACTIVE (8.45am, Sat,
+         BBC1) - hey, it's no "Wonky Donkey"... the TOP TEN COMEDY
+         RECORDS (9.15pm, Sat, C4) should be far less annoying than
+         Tim Burton's gag-free ID4 spoof MARS ATTACKS (10.15pm, Sat,
+         ITV) - more laughs, albeit unintentional ones, in
+         recut-from-TV-show [BATTLESTAR] GALACTICA DISCOVERS EARTH
+         (4.40pm, Sun, C5)... while FUTURECAST (9pm, Sun, C4) has
+         some good ideas - among the terrible sub-Max Headroom sets
+         and acting... now grown up, Jenny Agutter sees her kids
+         cursed to relive the terrors of her own childhood in remade
+         THE RAILWAY CHILDREN (8pm, Sun, ITV)... Samuel L Jackson's
+         FRESH (12midnight, Mon, C4) easily checkmates all other
+         ghetto-chess movies... most confused title-pun of the year
+         comes from DESPERATELY SEEKING EUTOPIA (11.20pm, Tue,
+         BBC2)... and, while ALISTAIR MCGOWAN'S BIG IMPRESSION (10pm,
+         Wed & Thu, BBC1) is indeed a subtly observed improvement on
+         satirical '60s throwback Rory Bremner, does that in itself
+         justify it being on twice a week?...
+
+         FILM>> word is that we get the *uncut*, 3-way sex scene
+         version of heavy-handed '80s satire serial-killer chick-flick
+         AMERICAN PSYCHO (http://www.bbfc.co.uk: Passed '18' for strong
+         sex, violence, language and some drug-taking) - the fifth in
+         the ongoing series of "American" movies, picking up the story
+         where "Graffiti", "History X", "Pie", and "Beauty" left off.
+         Phil Collins and Huey Lewis tracks are in the film, but sadly
+         not the soundtrack album... Tim Robbins' rent-paying role in
+         last week's "Mission To Mars" ("Where's Woody?" "He - didn't
+         make it") presumably partly funded his right-on Orson Welles
+         "let's do the show right here" theatrical historo-pic CRADLE
+         WILL ROCK (http://www.capalert.com : arrogance against a
+         father; argumentation; implied intercourse; intercourse with
+         nudity; no idea what the plot was, if any) - a slightly
+         incongruous sequel to evil-nanny thriller "The Hand That Rocks
+         The Cradle"... bickering with your spouse of 15 years? Then
+         it's unclear whether you should or shouldn't take them to
+         ailing "Spinal Tap" director Rob Reiner's extended arguing-
+         divorcees Bruce Willis/ Michelle Pfeiffer "comedy" THE STORY 
+         OF US (http://www.capalert.com : violent displays; "Does God
+         exist?"; belittlement of marriage; necking in underwear; sex  
+         talk with explicit descriptives and adulterous activities 
+         provided teasings of the lower levels of AH Maslow's hierarchy
+         of needs)... otherwise it's one-joke kiddie nonsense like
+         KEVIN AND PERRY GO LARGE (http://www.bbfc.co.uk : Passed '15' 
+         for frequent, moderate sexual references and infrequent strong
+         language)... Chevy Chase's SNOW DAY (http://www.capalert.com :
+         "Kiss my [backside]"; urine-soaked snowball; disguised foul
+         word; gratuitous flatulence; organized child aggression
+         against adult authority; suggestive picture; ghosting of
+         female anatomy through clothing; clear theme of trying to make
+         any adult look like a buffoon; no noted issues of cult/
+         occultism or other issues of great offense to God)... or, a
+         record-breaking attempt that never seemed to make it onto the
+         Roy Castle/ Norris McWhirter/ Cheryl Baker TV show - the 
+         world's biggest gang-bang, as documented in SEX: THE ANNABEL
+         CHONG STORY (http://www.bbfc.co.uk : Passed '18' for strong
+         sexual themes and sex), though of course the 251-man record
+         has long been surpassed by such dedicated attempts as
+         http://www.houston500.com ...
+
+         FEEBDACK>> "You fixed all the typos in the netmarket message,"
+         accused ever-vigilant NTK enforcer LLOYD WOOD, referring to 
+         the opening "practical memetics" quote in NTK 2000-04-07. "Not
+         on - what is (sic) for?" Well, Lloyd, it might be handy if, 
+         say, the author, SALIM FADHLEY (of mindless.com), chose to
+         contact us again, along the lines of "What a shock to see
+         myself featured in the 'silly idiot' bit of NTK... I better be
+         more carefull (sic) where I hyperbolate (sic) in future, I had
+         no idea that such distinguised (sic) eyes would be reading my
+         partially thaught out (sic) comments!" Happy now?... in other
+         news, DAVID QUANTICK and pals finally caved to the demands of
+         heroin users without the Quicktime plugin, and have encoded
+         their "Junkies" smack-com [NTK 2000-03-31] in Real Player as
+         well: http://www.dred.demon.co.uk/junkies/thejunkiespilot.rm
+         ... while ANDY COX complained that he was unable to find the
+         large "pron.wav" file on his copy of Office 97 Professional
+         [NTK 2000-04-14], though he did find a 72 meg "pron.vox" - and
+         now, perhaps understandably, wants to know "What's it for?"...
+         last week's dead-tree round-up contained a couple of omissions
+         (if you see what we mean), at least according to LEE MAGUIRE,
+         who has "seen but not bought" CLICK IT!, the "family internet
+         magazine" - "Doubtless it has an editorial along the lines of
+         'an internet magazine not targetted at anorak-wearing speccy
+         geeks'," he rages, "but when has there *ever* been a UK
+         internet magazine targetted at anorak-wearing speccy geeks?" -
+         while ADRIAN MOULDER had news of yet-unseen launch MEN'S QUEST
+         (UKP2.45), edited by Angus Kennedy (Angus "Rough Guide To The
+         Internet" Kennedy?), and covering, Adrian believes, "health,
+         travel, books, and fatherhood", rather than being, say, "a
+         'Forum'-style spin-off of the 'Mayfair' letters page"... but,
+         as ever, it was NTK 2000-04-07's Confectionery Corner that
+         prompted the largest postbag (watch for our US candy import
+         report sometime real soon now), with PAUL BLEZ recommending
+         the "new Yorkie bar *with honeycomb pieces* - but why oh why
+         won't they make a plain chocolate version?", BOBBY MARSH
+         discovering a controversial abuse of the new TREBOR MIGHTY EXTRA
+         STRONG MINTS: http://www.sghms.ac.uk/tictac/trebor.htm , and,
+         brimming with confidence after his appearance in last week's
+         Dead Trees, KEVIN "ALAN" CECIL uncovering a 15p "Strawberry
+         Milky Way" in Suffolk earlier this week - "so revolting", he  
+         claims, "it actually did ruin my appetite between meals." His
+         appetite for what, exactly, Kevin fails to specify...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+    on Friday afternoon or print it out then take it home if you have
+     nothing better to do. And have a temporal displacement vortex handy.
+                It is compiled by NTK from stuff they get sent.
+             Registered at the Post Office as "part of the family"
+                           http://www.mafiaboy.com/
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

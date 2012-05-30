@@ -1,0 +1,306 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-07-14_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "We are completely network agnostic. In fact, we would
+         invest in broadband carrier pigeons if someone could find a
+         way for them to deliver two megabits into the home."
+          - BRUCE LYNN, group manager of network solutions at Microsoft
+     http://www.zdnet.com/intweek/stories/news/0,4164,2603396,00.html   
+ ...and they didn't threaten our monopoly of shitting on the customer
+
+
+                                >> HARD NEWS <<
+                                 badly skewed
+
+         As NTK readers' attention spans collapse under the barrage
+         of our saturation RIP coverage, we thought we'd enter a bit
+         of a quiet period. But afore we go, one final glimpse at the
+         one remaining pressure group still supporting the Bill:
+         self-proclaimed protector of the kids, BARONESS THORNTON
+         (wife of anti-RIP rentaquote, John Carr). In the dying
+         moments of the Lords debate, the good Baroness launched a
+         spectacular, and somewhat desperate, attack on critics of
+         the Bill. To a rapt house, the Baroness unveiled a
+         conspiracy in which RIP critics "would like to have the
+         regime which exists in America, which is protected by the
+         First Amendment and which has no constraints at all." And
+         what could such extremism lead to? "In America, children are
+         kidnapped. In America, there is no restriction on the
+         paedophile activity which can take place... I do not want
+         the Internet in the rest of the world to operate under that
+         regime." Unfortunately for the Baroness, the kidnappers have
+         already taken over by fooling us into signing the European
+         Convention on Human Rights.  We'll see whether RIP makes it
+         past that. Oh, and the eagle-eyed Baroness "noticed that not
+         a single childcare organisation or organisation involved
+         with the education of the young and their relationship to
+         the Internet is involved in [the RIP] campaign." Well,
+         Baroness, maybe you'd like to visit www.peacefire.org, where
+         views of "the users with whom we are concerned - the
+         children, the young and those who are vulnerable" are given.
+         Weirdly, a lot of kids seem to quite like this free speech
+         filth. Hope that doesn't mean you won't listen to what they
+         have to say. Or give them a chance to say it.
+http://www.fipr.org/rip/RIPLordsReportDebate2.htm#00713-06_spnew0
+                   - of course, RIP has little to do with Free Speech
+http://www.fipr.org/rip/RIPLordsReportDebate2.htm#00713-12_spnew0
+   - unless, of course, they're planning to use it to silence critics
+
+         On the other hand, those God-fearing Yanks who regularly
+         pepper Demon subscribers with accusations of Satanism must
+         have felt vindicated this week, when DIS's ancient
+         sacrificial pit at Finchley finally burst into flames.
+         Recollections are a little confused: initial reports
+         suggested that the remaining staff had self-immolated;
+         subsequent enquiries showed it to be a tar boiler on the
+         roof. Brave descriptions of company directors battling it
+         out on the rooftops of North London contrast with more
+         anonymous messages from Demon employees complaining about
+         having to stand around in the rain. We did, though, like the
+         dry Demon de-briefing report which paused in mid-drama to
+         not that just as everyone was running around with
+         extinguishers, "a passer-by came in through the front door
+         and explained that the building was on fire". The man was
+         thanked for his powers of observation. You see, all that
+         diplomacy on demon.service proved useful after all... 
+         http://www.ntk.net/2000/07/14/demonfire.jpg
+     - piccie moved just in case it's a sackable offence or something
+http://gr.mlive.com/news/index.ssf?/news/stories/20000218gprofilte113811.frm
+                    - this is because they run those dirty newsgroups
+         http://www.the-times.co.uk/interface/insight/story667.html
+                        - unfortunate use of phrase "hardcore option"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         RAILTRACK finally spring for a disk drive for the BBC Micro:
+         http://www.ntk.net/2000/07/14/dohtrain.jpg ... no, JIMMY
+         SAVILLE Have I Got News For You "transcript" cannot be "for
+         real" ... Q Magazine looks close to home for its Website
+         picks: http://www.ntk.net/2000/07/14/dohq.jpg ... "Around
+         75pc of Britain's dotcom millionaires live within a 10-mile
+         radius of Notting Hill, W11" - ie: *in London*, reveals
+         DOTCOM.TELEGRAPH ... English innings collapse again, thanks
+         to "triangle" http://www.ntk.net/2000/07/14/dohsport.jpg ...
+         . Our Campaign to Keep Small Business Off The Internet, Pt
+         2: http://www.briarmistcats.btinternet.co.uk ... taking the
+         title http://www.useit.com/ a bit *too* literally:
+         http://www.classicbookshelf.com/ ... more advertising truth 
+         in javascript - see the 'offer legal notice' link at
+         http://www.ondigital.co.uk/getondigital_form.asp ...
+         http://www.macthings.net/ webmaster apologises for "the
+         Japanese Porn website which was replaced with Mac Things" -
+         but did the Japanese Porn fans notice? ... wash mouth out
+         with SOAP http://www.alphaworks.ibm.com/reg/soap4j.nsf/resultsQ4www
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Rather more on-the-ball (than us) reader Michael Bluett 
+         pointed out that ARS DIGITA's LONDON 3-WEEK BOOT CAMP [NTK 
+         2000-07-07] has been full since "3rd July", boasting that he 
+         is "attending the event along with 19 other initiates". So, by 
+         way of apology, this week we've pulled out all the stops to 
+         find the dream assignment for NTK's core demographic: the OPEN 
+         AUDITION FOR STAR TREK CREW MEMBERS - from 9am, Thu 2000-07-
+         20, Science Museum, London. The positions involve showing 
+         punters round the Museum's forthcoming "Star Trek: Federation 
+         Science" exhibition from Sept 2000 to April 2001. Salary 
+         (full- or part-time) is a Ferengi-esque UKP6.07 per hour 
+         though "all successful applicants will be provided with Star 
+         Trek costumes" (wear it to the audition if you've already got 
+         one); candidates should additionally bring a CV, a 200-word 
+         piece on "What I see the role of a Star Trek Crew Member at 
+         the Science Museum to be", and - presumably - an inability to 
+         distinguish fantasy from reality. 
+         http://www.nmsi.ac.uk/science_museum_fr.htm
+         - no mention here; it was a job ad in "The Metro". No, really.
+         http://www.arsdigita.com/events/event-info?event_id=1610
+             - Ars Digita threaten even *more* intensive "long weekend" 
+         http://laughpage.com/archive/jokes/j-par-10.html
+                  - "cause ev'ry girl's frightened/ of a Star Trek fan"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Far be it for us to intimate that MOZILLA has been hijacked
+         by the same naive completeness fanatics that collapse so
+         many free software projects into development black-holes,
+         but ... oh come on, two years and counting? Seventy
+         megabytes of swap? Per *window*? Hello? Is there some kind
+         of AOL/ crack cocaine stock-swap going down at Mountain
+         View? The beauty of Open Source, though, is that say you
+         *could* do without Mozilla's built-in WYSIWIG HTML editor,
+         Mail handler, News reader, IRC client, xterm replacement,
+         run-time XML UI interpreter, cross-platform high-level C++
+         widget set, and re-implementation from scratch of
+         Microsoft's entire COM system, you can. And, thank God,
+         someone has. GALEON is a Gnome application that uses Chris
+         Blizzard's minimalist wrapper around the Mozilla HTML
+         rendering routines. It's little. It's fairly stable. It
+         takes less than an hour to load. It lets you look at Web
+         pages. Think of it as salvage.
+         http://galeon.sourceforge.net/
+                      - you'll still need to download Mozilla for now
+         http://www.mozilla.org/
+                                - we're on a mission from God. Still.
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         BUENA VISTA FIGHT CLUB ... off-cam and well out of order at
+         Jennicam: http://www.latitude11.com/laststory.html ...
+         Gameboy Slim: http://remix.overclocked.org/ ... HOLY GRAIL
+         found: http://home.earthlink.net/%7ebhami/rosetta.html ...
+         will the public ever tire of pictures of puppets having sex?
+         http://www.kama-sooty.co.uk/ ... the anti-Martin Lewis:
+         http://www.brutal.com/ ... how about "because it crashes
+         Netscape?" http://www.whynotchemeng.com/ ... the ASDA
+         difference: http://www.shinylime.free-online.co.uk/Asda.html
+         ... first blue "Cheese and Onion" crisps, now GREEN KETCHUP
+         http://www.infobeat.com/stories/cgi/story.cgi?id=2567997089-b5d
+         ... I am not a hideously deformed NATHAN BARLEY - I'm a
+         human being! http://www.hoki.com/hoki_newmedia/flash/who.htm
+         ... Diana may have been decapitated by sheet of glass:
+         http://dccsa.com/greatjoy/anti.html ... DIY MACOSrumors:
+         http://www.themacjunkie.com/archives/7.11.00.rumors.html ...
+         "Adam & Joe Show" makers WORLD OF WONDER imitate THE ONION
+         http://www.thesmokinggun.com/doc_o_day/plumbingsuit1.html
+         http://www.theonion.com/onion3601/plumbing_industry.html ...
+         at last! a site *entirely* devoted to (dismissing rumours
+         about) BRITNEY SPEARS' BREASTS http://bsrumor.8m.com/ vs
+         http://www.britney-spears.com/images/boobs.gif ...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com 
+
+         TV>> hopefully realising that the film is effectively *about* 
+         the artificiality of "authenticity", Mark Kermode grills 
+         Ridley Scott about what's "really going on" ON THE EDGE OF 
+         BLADE RUNNER (11.10pm, Sat, C4) - preceded by the rubbish 
+         voiceover-free "DIRECTOR'S CUT" (9pm). Most plausible theory: 
+         the film's full of wacky continuity errors ignored by style-
+         over-content director Scott, then over-analysed by detective-
+         mystery-crazed fans... almost exactly a month and 2 years 
+         since its last orbit comes above-average Arthur C Clarke 
+         adaptation TRAPPED IN SPACE (12.10am, Sat, BBC1)... and C5 
+         interrupts its epic "Disaster Weekend", for blaxploitation 
+         classic ELECTRAGLIDE IN BLUE (12.30am, Sat, C5) - not based 
+         around the Apollo 440 album of the same name... even their own 
+         "panel of experts" have swiftly spotted the glaring flaws in 
+         the "best" e-business ideas sent in to THE E-MILLIONAIRE SHOW 
+         (9pm, Sun, C4) - we tip humble wheelchair guy to win the 
+         final, helpfully preceded the day before by laboured historo-
+         analogy WHEN MONEY WENT MAD: THE STORY OF THE SOUTH SEA BUBBLE 
+         (7pm, Sat, C4) and immediately followed by the aptly titled 
+         MISERY (10pm, Sun, C4)... TV's "other" neurological Susan 
+         [Greenfield] wheels out more brain-damage deficit edutainment 
+         in BRAIN STORY (9pm, Tue, BBC2)... Davina "Face of Evil" 
+         McCall hosts overhyped survival-webcam yawn BIG BROTHER (9pm, 
+         Tue, C4)... while so-called "personalities" discuss their own 
+         *fascinating* life stories, in YOU ONLY LIVE ONCE (10pm, Mon, 
+         BBC1); their drink/ drugs "hell", in CELEBRITY REHAB (8.30pm, 
+         Wed, C4); and how to set the world to rights in terrifying 
+         "comedy debate" HEAD ON WITH JO BRAND (10.50pm, Thu, BBC1)... 
+
+         FILM>> for the second time in 3 weeks, controversy-magnet Mel 
+         once again implies that the British are "a bunch of chickens" 
+         in Roland "ID4" Emmerich's overblown revenge-fuelled shoot-
+         'em-up THE PATRIOT (http://www.capalert.com: Mel Gibson was 
+         perfect for the part of a once-warrior turned pacifist who was 
+         forced to return to being a warrior because of the brutality 
+         at the hands of another perfectly cast actor; even I queried 
+         myself whether I could do what [Gibson] did if one of my sons 
+         was murdered before my eyes and to rescue another from hanging 
+         - the answer was 'Yes')... otherwise it's Bruce Willis' 
+         foolhardily bonkers Vonnegut adaptation BREAKFAST OF CHAMPIONS 
+         (imdb: based-on-novel / motor-car-dealer / commercial / cross-
+         dressing / ex-convict / infidelity / lingerie / lounge-singer 
+         / nervous-breakdown / writing / black-comedy)... or a double-
+         bill of British-made transport-related romps: Sean Bean, Alex 
+         "ER" Kingston's "inspired by the Rettendon Range Rover 
+         murders" taste triumph ESSEX BOYS (http://www.bbfc.co.uk: 
+         passed '18' for violence, sex, drug use and coarse language) - 
+         hopefully paving the way for further dramatisations of ultra-
+         recent mass gangland killings... plus shameless Ringo-free 
+         Peter Fonda/ Alec Baldwin Americanisation THOMAS [THE TANK 
+         ENGINE] AND THE MAGIC RAILROAD (imdb: henchman / kids-and-
+         family / independent-film) - a project dogged by no little 
+         controversy of its own: http://uk.imdb.com/WN?20000710#7 ... 
+         
+         PRO-CELEBRITY FEEBDACK>> after our enthusiasm [NTK 2000-06-30] 
+         for the US Burger King "Chicken Run" tie-in, STEVE LOUGHRAN 
+         added the details that: the TV ad features Aardman chickens 
+         pleading with customers to "Eat more [beef] Whoppers", leading 
+         to accusations of plagiarism from a fried-chicken chain - full 
+         story at http://www.chick-fil-a.com/content/about/news32.htm , 
+         http://www.burgerking.com/company/press_releases/07_07_00.htm 
+         ... still with film, West End theatre star BEN MOOR queried 
+         our dismissal of M:I2 [NTK 2000-07-07], the "slow-mo kung-fu, 
+         gravity-defying stunts, and 'Sydney' locations" leading him to 
+         the inevitable conclusion: "It's the first film to be set in 
+         'The Matrix' universe!"... while MG MILLER irresistibly 
+         combined two of NTK's ongoing fixations by pointing out that 
+         Robbie Williams' new single "sounds a bit like" the theme tune 
+         from best-selling Amazon video "Chorlton And The Wheelies": 
+         http://www.chorltonandthewheelies.co.uk/sounds/chorlton.wav - 
+         a theme continued in Williams' own roller-skating body-horror 
+         video: http://www.nme.co.uk/newsdesk/20000707130211.html ... 
+         Shooting Stars' "George Dawes" and former Creme Egg spokesman 
+         MATT LUCAS slammed last week's NESTLE EXPLODING ZOOM sighting, 
+         stating they were "actually available last year. I like them", 
+         before going on to recommend ROLO BISCUITS: "a delight [which] 
+         far outpleasure the Rolo" (well, the new ones are about 6 
+         times the size)... perhaps inspired by BBC2's "Simpsons" night 
+         [NTK 2000-06-16], CHRIS TAYLER took it upon himself to contact 
+         capalert.com directly over the toon's suitability for family 
+         viewing - and they wrote back, warning of "extreme adolescent 
+         arrogance against fair parental authority, blatant promotion 
+         of freedom from accountability and consequences, too much 
+         independence and autonomy too soon for adolescents, many lies 
+         about nuclear power, full male rear cartoon nudity"... while, 
+         finally, ex-'The Word' presenter ALAN CONNOR thanked us for 
+         highlighting screenit.com , where he enjoys gems like "this 
+         soundtrack from the movie, Grosse Pointe Blank contains very 
+         few examples of objectionable content" - "not including," Alan 
+         notes, "the fact that the first minute includes the Violent 
+         Femmes' 'Blister In The Sun', a paean to wanking"... but we're 
+         sure this is just the tip of the iceberg. Have you tricked a 
+         well-meaning Christian reviewer into unwittingly advocating 
+         self-abuse? If so, NTK would like to hear from you... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+      Registered at the Post Office as "between oxbridge and newsgroups"
+                http://www.the-wibble.co.uk/edigi/main.htm#NTK
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

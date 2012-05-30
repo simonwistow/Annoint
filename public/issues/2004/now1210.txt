@@ -1,0 +1,247 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-12-10_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+                               >> HARD NEWS <<
+                                 patent shoos
+
+          Should be a fun time at the DTI conference centre this
+          Tuesday: the Patent Office has been inviting sceptics and
+          their MPs for an open discussion of software patent policy.
+          Anyone who has emailed their MP would be invited, Lord
+          Salisbury told his invitees. Which is odd, because Alan Cox
+          didn't get an invite, and neither did any of the FFII's most
+          dedicated correspondents. And of course the press will
+          *definitely* not be invited, although they do get the thrill
+          of an official (DTI-only) "summary" in the afternoon. Never
+          mind: just to see how open discussions go, the FFII is
+          holding a briefing of its own. Just after the official
+          "discussion". In the local pub. Ah, there's a group who
+          knows what journalists like.
+          http://www.ffii.org.uk/
+      - all free software campaigns end up feeling like CAMRA in the end
+
+          So, this Christmas, what *do* you get the friend who has
+          everything? Probably something they no longer want from
+          their spottily-updated Amazon wishlist, same as last year.
+          Alternatively, how about IBM's latest blockbuster product,
+          NICL? A product of IBM's internal skunkworks, NICL - or
+          "Network Identity Configurator for Linux" - can save you
+          "multiple-man months in system configuration", instantly.
+          Send your "friend" a link to the FAQ, or the detailed tech
+          evaluation forms for more info. Hopefully that should delay
+          them realising that it's just a shell script for changing
+          your hostname. But so beautifully, *beautifully* wrapped!
+          http://www.alphaworks.ibm.com/tech/nicl
+                 - warning: license evaluation takes "at least 4-6 weeks"
+
+          Or, for more sensitive minds, how about Hector, the
+          Protector Dolphin? Hector, says NETSAFE NEW ZEALAND, is a
+          "friendly, smart dolphin" which swims in the corner of the
+          computer screen. "If a child encounters something
+          frightening or upsetting", Netsafe writes, they can just
+          click on Hector, who will "swim down and cover the screen
+          until an adult comes to help". Hector is sponsored by
+          Microsoft New Zealand who, we suspect, have finally found a
+          use for the annoying Clippy technology. Together, we'll beat
+          goatse.cx!
+http://www.netsafe.org.nz/hector_protector/hector_protector_default.aspx
+- Skrrrkt! What's that Hector? Thai women want to do what, how?  Skrrkkrrrt!
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          In the organisers' own words, "Burning Man is an annual art 
+          festival and temporary community based on radical self 
+          expression and self-reliance", all taking place miles from 
+          civilisation way out in the Black Rock Desert of Nevada. And 
+          where better to replicate that "tabula rasa" sense of 
+          inspirational desolation here in the UK, than the 491 Gallery 
+          over in Leytonstone, East London, a harrowing 14-minute 
+          Underground ride from Liverpool Street? Well, that's the plan 
+          behind the 24-hour LONDON BURNING MAN DECOMPRESSION 2004 (8pm-
+          8pm, this Sat/Sun 2004-12-11, 491 Grove Green Road, London 
+          E11 4AA, UKP10 in advance - "no tickets on the door", "dress: 
+          playa [desert] attire") - which appears to be raising money 
+          for a "real" Euro Burning Man, possibly to be held somewhere 
+          as far-flung and exotic as Chigwell, or East Ham?
+          http://www.euroburners.org/decompression/
+           - even in the absence of contemporary social mores etc etc...
+          http://www.funjunkie.co.uk/webloggers_party/index.cfm
+           - London blogger party (also on Sat) must still be maintained
+          http://www.guardian.co.uk/life/badscience/
+                        - Guardian Bad Science awards this coming Monday
+          http://www.lektrolab.com/pages/workshopdates.html
+                   - London "Plunderphonics" workshop in London next Sat 
+          http://www.thehorsehospital.com/archives/000307.html
+          - and (we hear) more Nintendo "console hacking" here on Sun 19
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          we were a bit sceptical about this, till we worked out that 
+          most tinsel probably is between the 3cm (quarter-wavelength) 
+          and 6cm (half-wavelength) "radar chaff effectiveness" range: 
+          http://www.davephelan.org/~dphelan/archives/000494.html (vs 
+          http://www.uk-bug.net/Article596.html - BT: "Christmas is 
+          cancelled")... bet The Reg could get 300 words out of this: 
+          http://xcom2002.com/doh/images/0412101443TheSun1stDec04.jpg 
+          ... which just leaves this year's final roundup of all your 
+          old favourites - another "Babelfish as she is spoke" site: 
+          http://www.locandavivaldi.it/ ... double-URLtendres of the 
+          week: http://www.weeebrokers.com/ vs http://www.plopsaland.be/ 
+          ... slightly mythologically-themed Google misspellings: 
+          http://www.google.com/search?q=%22moth+watering%22 , 
+          http://www.google.com/search?q=%22oasis+of+clam%22 , 
+          http://www.google.com/search?q=%22achilles+heal%22 , 
+          http://www.google.com/search?q=%22statue+of+limitations%22 
+          (also "dictionaty", "wesbite")... plus - inappropriate image 
+          whack: http://images.google.com/images?q=klingon+devil+penis
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          Perhaps it's a little early for PRIVACY KNOPPIX. Version 000
+          is certainly *very* rough around the edges. But the quicker
+          the world has a Tor-onion routed, privoxy-wielding,
+          webcaching live CD that the Usually Suspected can carry
+          around with them, the better, no? So pour encourager les
+          autres, you might want to download and take a look at the
+          "mini" DVD-R dev kit or the CD-R carry-around-in-your-pocket- 
+          just-in-case 400MB ISO. Type "web start" in a terminal to start 
+          the anonymised system. Works better on connections that you can 
+          delude yourself into thinking "work this slow all the time".
+          http://www.peertech.org/privacy-knoppix/
+                        - knock twice and tell them "nym124378" sent you
+          http://tor.freehaven.net/
+                                                  - Tor! The new Freenet!
+          http://archives.seul.org/or/talk/Dec-2004/msg00016.html
+                                               - we all go down together!
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> Christmas comes early to C4 with the dream casting of Sam 
+          "Jurassic Park" Neill, "Puddy" from Seinfeld, and Neighbours' 
+          "Danni Stark (1993-1996)" and "David Bishop (2003-present)" in 
+          from-the-makers-of-genius-current-affairs-spoof-"Frontline" 
+          1960s radioastronomy comedy THE DISH (4.10pm, Sat, C4)... then 
+          it's Faith from "Buffy The Vampire Slayer", Kirsten "Spider-
+          Man" Dunst, Gabrielle "Bad Boys II" Union and, er, that kid 
+          out of "Hackers" in top-notch cheerleader romp BRING IT ON 
+          (9pm, Sun, C4)... though WHAT WE STILL DON'T KNOW (8pm, Sun, 
+          C4) apparently includes "How to make abstract science 
+          programmes visually interesting" - next week, "Could we be 
+          nothing more than a complex code running on a super-computer 
+          in a parallel universe?", muses The Radio Times... Richard 
+          "Slacker" Linklater is the subject of Jacques Peretti's - all-
+          new timeslot? - THE ART SHOW (8pm, Mon, C4)... reader Matthew 
+          "greatest threat to world peace since Adolf Hitler" Bevan 
+          claims he's in more of "the other two" episodes of THE HEIST 
+          (9pm, Tue, C4), but "[doesn't] have [his] NTK shirt any more" 
+          ... and, experts agree, po-faced Vin Diesel racer THE FAST AND 
+          THE FURIOUS (9pm, Wed, ITV) simply "would not work" if set in 
+          the UK: http://www.sxoc.com/vbb/showthread.php?threadid=16216 
+          (unless you made it about the overclocking/casemodding scene?) 
+          ... there's the tantalising prospect of more character actors 
+          hamming up their "dramatised recollections" in IF - CLONING 
+          COULD CURE US (9pm, Thu, BBC2)... a slightly different take on 
+          naturalistic behaviour in the last in this series of the 
+          magnificently monstrous PEEP SHOW (10pm, next Fri, C4)... as 
+          "the truth about hip-hop" is promised, along with a wide range 
+          of insights on topical issues, in the company of the ever-
+          entertaining GOLDIE LOOKIN' CHAIN (12.20am, next Fri, C4)...
+          
+          FILM>> you wait all year for a whimsical semi-autobiographical 
+          indie about growing up in the boondocks, then two come along 
+          at once - with that bloke out of "Scrubs" getting a wider 
+          release for his "are you off your meds?" odyssey GARDEN STATE 
+        ( http://www.cndb.com/movie.html?title=Garden+State+%282004%29 : 
+          I didn't see even a hint of nudity. A group of people jump 
+          into the pool in their underwear, Natalie [Portman] among 
+          them. Her top is, I think, maroon, and doesn't even show the 
+          outlines of her nipples) - than even MTV Films has drummed up 
+          for semi-lame nerdy recognition-comedy NAPOLEON DYNAMITE 
+          ( http://www.capalert.com/capreports/napoleondynamite.htm : 
+          attention to crotch; five uses of the euphemism for the most 
+          foul of the foul words; use of the name of eternal fire as an 
+          expletive in a background song)... Wesley Snipes struggles to 
+          re-animate his ongoing comic-book franchise in BLADE - TRINITY 
+          (imbd: sequel/ vampire/ dark-hero/ gore/ double-edged-sword) 
+          ... and the trailer certainly makes it look like the route 
+          spends a lot of time in the "Uncanny Valley" when you get on 
+          board dead-eyed Tom Hanks motion-capture CGI THE POLAR EXPRESS 
+          ( http://www.capalert.com/capreports/polarexpress-the.htm : 
+          mischievous deeds were noted; I will not discuss whether Santa 
+          Claus is real. The original Santa Claus, first St. Nicholas 
+          then Kris Kringle were real people doing real philanthropic 
+          deeds; a magnificent Christmas time achievement but Christ was 
+          not mentioned. Not even in vain)... 
+          
+          THE "VICTORIAN AFFECTATION">> you know, it just wouldn't be 
+          "Festivus" http://www.msgr.ca/msgr-2/festivus%2000.htm without 
+          the traditional display of "Feats of Strength", which NTK 
+          readers have been primarily displaying this year by writing 
+          O'REILLY HACKS GUIDES. SIMON CARLESS is first out of the box 
+          with his GAMING HACKS http://www.mono211.com/ffwd/bio.html , 
+          (retail UKP17.50, Amazon UK12.25) which he describes as "all 
+          about messing with your gaming system" (whichever it may be) 
+          from "Dreamcast VMU hacking, through making text adventures, 
+          to 'speed running' in Doom and Metroid", with contributions 
+          from Penny Arcade, Machinima gurus Strange Company, and scifi-
+          author turned Half-Life scripter Marc Laidlaw... "You know 
+          those optical illusions you get in email, and bits of trivia 
+          like the one about being about to read jmbuled-up wrods?", 
+          asks MTAT WBEB, co-author of pop-psych round-up MNID HCAKS 
+          (also UKP17.50, Amazon UK12.25) http://mindhacks.com/ . "We 
+          start with those and then go into why they work, pulling out 
+          some aspect about how our brains perform those everyday tasks 
+          like, well, seeing, or compensating for missing data, or 
+          catching an emotion off someone". Sounds like a blast, though 
+          there's just a hint of Cartesian dualism in not calling it 
+          "Brain Hacks", surely?... and finally, on a slightly more 
+          confrontational note, former TVGoHome contributor (and current 
+          barman?) LOG NONYMOUS requested a "tiny little superwee 
+          mention" for LAW OF THE PLAYGROUND: A PUERILE AND DISTURBING 
+          DICTIONARY OF PLAYGROUND INSULTS (AND HACKS) (retail UKP6.99, 
+          Amazon UK5.59) http://www.playgroundlaw.com/ . "As it was a 
+          mention in your newsletter that sparked the initial interest 
+          all them yars agoo, I THINK YOU OWE ME THAT MUCH", he claims, 
+          exhibiting all the twisted logic of many of the book's (often 
+          brutally) nostalgic entries. And until next time's "Airing Of 
+          The Grievances", a Merry Festivus to you, one and all!...
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                "not as uncannily accurate as we were 10 years ago"
+             http://www.guardian.co.uk/g2/story/0,3604,1364135,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,332 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____20/02/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                        "AOL lets this little girl talk to animals!"
+                                      - AOL UK's new campaign slogan
+            ...and future Daily Mail "Net-child-molesters" headline?
+
+
+                               >> HARD NEWS <<
+                             your right to choose
+
+         "And I would have gotten away with it, too, if it wasn't
+         for you darn kids!" Well, that wasn't *quite* what DTI
+         mandarin NIGEL HICKSON said when he explained the non-
+         appearance of that government statement on crypto this week
+         - but it's what he meant. An announcement was due, he said
+         at the ICX conference on Thursday, but was delayed - thanks
+         to "completely wrong announcements on the Internet". Weird.
+         Surely it would be better to announce it *quicker*, in
+         order to scotch those scurrilous reports? And wasn't it
+         strange that those incorrect tittle-tattlers got the timing
+         of the proposed statement exactly right - as Nigel admitted
+         - even as the DTI were denying it even existed? Never mind.
+         The delay allowed several civil liberty organisations to
+         prepare statements and various news outlets - who would
+         have been taken off-guard by a unannounced statement - to
+         get fully up to speed with the issues. Oh, and it also let
+         a few nasty, scurrilous gossipmongers realise that there
+         *is* something individuals can do about wrongheaded
+         government initiatives before they get cast in stone.
+         http://www.liberty.org.uk/cacib/crypto.html
+                            - and that goes for your darn mutt, too!
+
+         STEVE JOBS, the man behind "insanely great", is again
+         trying the adverb and the adjective bits the other way
+         around. APPLE sources have him in a boardroom brawl with
+         prospective CEO, Jim Cannavino. Cannavino turned up
+         Wednesday at 1 Infinite Loop to discuss contract terms,
+         meet Larry Ellison and the guys - maybe a game of pool?
+         Instead, he found himself slugging it out with Jobs, who
+         wanted to stay on at Apple for a year, getting paid a
+         nominal $1 wage (presumably to go with the one Apple share
+         he now owns), but calling most of the shots. Cannavino
+         baulked; Jobs told him to walk. Shouting continued within
+         the boardroom as Jim did just that. Meanwhile, in the world
+         of the grown-ups, multimedia developers are getting
+         increasingly touchy as Apple puts a hold on QuickTime
+         licensing. They're scared that Apple may start demanding
+         hefty royalties for use of the technology. Well, they've
+         got to find that dollar a year from somewhere.
+         http://www.apple.com/
+                           - have you tried looking under the sofas?
+         http://www.macosrumors.com/
+                                - so, what did your last CEO die of?
+
+         ISPA - the non-political, non-partisan INTERNET SERVICE
+         PROVIDERS ASSOCIATION, popped out an interesting press
+         release this week. In it, they condemned as "distasteful"
+         and "offensive" a Princess Diana car racing game, in which
+         you have to avoid motorcycles and cones, while speeding
+         through a dark tunnel. The ISPA - which purports to speak
+         for the service provider industry, and is funded by your 10
+         quids a month - reassured journalists that the site was
+         hosted in Germany, so there was nothing they could do about
+         it, but they said they were working hard to stamp out this
+         sort of thing with help from the Internet Watch
+         Foundation's plans for a global rating system. A rating
+         system, incidentally, that is rumoured to be the subject of
+         the British government's next pronouncement on Net
+         liberties. Oh, and they provided the URL, which they
+         requested should not be publicised further. Well, we did
+         plug it in memewatch two weeks ago, but if you insist...
+         http://www.fork.de/games/diana/play.htm
+                        - wait until they find www.dianabear.com ...
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         MICROSOFT "moving away" from ActiveX... THE TIMES picture
+         desk uses a hotmail account...  GCHQ jobs' e-mail is
+         recruitment.gchq@dial.pipex.com... POLICE OFFICERS chat up
+         17-year-old girl online: lawyer describes cops as "very
+         vulnerable element of society"... WWW.CAPITALISM.ORG's
+         defence of Microsoft doesn't display properly in Explorer
+         4.0... lame E-CHRISTMAS site only sold 500 items... Too
+         many venture capitalists spend too much money in Silicon
+         Valley, uncovers shocked ESTHER DYSON... "Online News
+         Readership on the Rise" - says INTERNETNEWS.COM ... GRAND
+         THEFT AUTO banned in Brazil... MICROSOFT tests ingenious
+         new data broadcast system in US: also known as teletext...
+         UN Peace Plan "may end in failure" - reveals CEEFAX...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         We may not know much about art at NTK, but we do know we
+         don't like it. Except, perhaps, this. It's a performance
+         that claims to be modelled on the OSI seven layer model of
+         art. It includes extracts from the Physical, Network,
+         Session and Application layers of the TCP/IP protocol
+         stack. It will take place at the ICA bar and CB1 cybercafe
+         in Cambridge on Monday 23/2/98, at 2000GMT. There will , we
+         genuinely lead to believe, source code readings afterwards.
+         We are speechless.
+         http://www.newmediacentre.com/
+         - still an absolutely appalling site. Some kind of statement?
+
+         There's still tickets for BRUCE STERLING and BRIAN ALDISS,
+         the twin big-gobbed Gods of Sci-Fi theory,as they talk at
+         the Purcell Rooms, dans la South Bank Centre en 24/2/98.
+         SARAH LEFANU will be trying to get a word in edgeways. Show
+         starts at 7.30PM. Tickets are 6UKP. Oh, and this is a
+         serious cultural event, so don't come dressed as the
+         Artificial Kid or something.
+         http://www.sbc.org.uk/literate.htm#f24a
+                   - goodness. A venue Website you can actually use.
+
+         Situations (Pretty) Vacant: it's coming up to the Easter
+         hols, and you've got a choice: that cushy, lucrative work-
+         experience job with that nice corporate IT department, or a
+         few days on the very barricades of the Digital bastille,
+         scrabbling over a hot Webserver, spitting at your crazed
+         compadres as they struggle to unjam their sarcastic
+         flamethrower, snorting technical manuals, spewing pure
+         code, laughing in the face of the "traditional" technology
+         press and trading sexual favours with Linux-mad programmers
+         of whatever gender your heart desires. Yes, there's not
+         much money involved, but NTK (and its shadowy sugar-daddy,
+         Virgin Net) are nonetheless LOOKING FOR INTERNS. Work in
+         London's seedy Soho! Meet influential New Media bosses!
+         Insult them in public! Could you take what its got? E-mail
+         us now on recruitment.gchq@ntk.net with CV and a fifty word
+         explanation as to why this is in no way a career-limiting
+         move. Frankly, we're kind of curious ourselves.
+
+
+                                >> TRACKING <<
+                        look what the mouse dragged in
+
+         There was a time when home-made shareware games had a
+         chance. But after years of installing DOS app after DOS app
+         from scratched cover-mounted CDs that fell off our Jabba-
+         sized Ziff-Davis magazines, we somehow lost interest. Which
+         is a shame, because we otherwise might have spotted ACTION
+         SUPERCROSS a little earlier. A monstrous, yet 1.4MB hybrid
+         of Evil Knieval and Thrust for the BBC Model B, it's the
+         program your mates talked about writing at school, but
+         never did, never could and never will. Kudos to NTK tipster
+         Goat Boy, who spotted it after reading a thread on
+         rec.games.programmer, which started with a Bullfrog
+         programmer hailing it the best program he'd seen for ages,
+         and ended with a ninety-post flamewar arguing about how
+         programmer Csaba Rozsa did it.
+         http://ourworld.compuserve.com/homepages/balazs/across.htm
+         - "all it lacks is the Peter Purvis commentary" - GB
+         http://www.pik.com/               much faster download site
+         http://www.geocities.com/SiliconValley/Lab/5171/
+                                                             - fans!
+
+         ALL SAINTS are paying bigtime for uncleared samples on
+         their album, THE VERVE lost the publishing rights to
+         Bittersweet Symphony and therefore can't stop it being used
+         on ads (or techno remixes) - so it's good to see media
+         terrorists RTMARK turning this massive legal bug into a
+         feature. Their new album, DECONSTRUCTING BECK, is a
+         collection of "brilliant but allegedly illegal" resamplings
+         of that universally reviled corporate rock whore, Beck
+         Hansen, which they've put out under the slogan "using
+         artwork illegally helps to fight the stranglehold that
+         corporations have on our lives". Right on - and we're sure
+         The Verve and All Saints would agree. The (only mildly
+         unlistenable) CD is not available in stores, but their site
+         also details other anti-corporate activism, including their
+         hilarious sponsorship of "New York Welcomes Saddam Hussein"
+         banners, plus a vegan-friendly US$5000 reward for anyone
+         who can "find and administer a substance to a great number
+         of cattle that will make their beef unfit for consumption".
+         British ingenuity triumphs once again!
+         http://www.paranoia.com/~rtmark
+                        - I'm a loser baby; so why don't you sue me?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         www.fourmilab.ch/babbage/lockpick.html ...
+         http://members.aol.com/Jesus316/index.htm ... NATWEST using
+         NT in new cash-machine network: free money... forget
+         quantum transistors - here's the TRANSCAPACITOR:
+         http://americancomputer.com/Transcap.htm ...New BATGIRL
+         Adventures Comic implies Harley Quinn and Poison Ivy are,
+         ah, more than friends ... www.appletshirts.com ... VOYAGER
+         1 overtakes Pioneer 10 as furthest man-made object - it's
+         like Wacky Races out there... Tamagotchi for Playstation...
+         They're remaking CITY OF ANGELS? Nooooo ...
+         www.woodcutter.com ... http://shockrave.macromedia.com ....
+         CARL STEADMAN returns to Suck!
+
+
+                               >> GEEK MEDIA <<
+                   what's killing the radio star these days
+
+         TV>> remote-control beardie weirdies twitch uncontrollably
+         through bizarre routines to occasional comic effect. But
+         that's enough about IS IT BILL BAILEY? (11.15pm, Fri, BBC2)
+         -  because ROBOT WARS (6.25pm, Fri, BBC2) promises to be
+         more disappointing than even the presence of Jeremy
+         Clarkson and Philippa Forrester would normally indicate...
+         AN AWFULLY BIG ADVENTURE (6pm, Sat, BBC2) features fans
+         talkin' about JRR Tolkien - some in genuine Elvish... the
+         profile/ interview of SCENE BY SCENE WITH STEVE MARTIN
+         (9pm, Sat, BBC2) is ingeniously followed by two of his
+         dullest films: Grand Canyon and LA Story... 2-part drama
+         HEAVEN ON EARTH (9pm, Sun, BBC1) depicts a Witness/ Waco-
+         style religious cult populated by ex-cast members of cop
+         shows: Neil Pearson from Between The Lines, Penhaligon from
+         Cracker... THE ENTERTAINMENT BIZ (9.30pm, Sun, BBC2) laughs
+         at stand-up comedians, something which interviewee Donna
+         McPhail must know about from having been on the same bill
+         as them... the night-long Ethan Hawke/ Julie Delpy romance
+         in BEFORE SUNRISE (10pm, Sun, C4) isn't actually filmed
+         real-time - it just seems that way... at last: a fly-on-
+         the-wall docu about a workplace you *don't* see every day,
+         when THE WAR MACHINE (9pm, Mon, C4) goes hilariously behind
+         the scenes with weapons-inventing nutters at the UK's
+         Defence Evaluation and Research Agency... looking at
+         previous guests, it shouldn't be too hard to work out why
+         the obsessives on FOR THE LOVE OF (11.55pm, Mon, C4)
+         "chose" a life of celibacy... Hitchcock parody HIGH ANXIETY
+         (11.45pm, Tue, C4) could be Mel Brooks' most sophisticated
+         spoof to date - for what that's worth... former Marmalade
+         Atkins Charlotte Coleman (also in Oranges Are Not The Only
+         Fruit) reappears in non-citrus-themed Men-Behaving-Rurally
+         sitcom HOW DO YOU WANT ME? (10pm, Tue, BBC2)... MODERN
+         TIMES (9pm, Wed, BBC2) makes a film about the making of a
+         film about the shooting of Gianni Versace... and, as
+         predicted, REBOOT (4.45pm, Thu, ITV) skips to season 3
+         episode 2 to avoid that notorious Evil Dead chainsaw bit...
+
+         FILM>> a triple treat for fans of movies named after
+         professions, with THE BUTCHER BOY (imdb: comedy / horror /
+         drama / 1960s) serving up surreal trash-culture horror from
+         Neil "The Crying Game" Jordan, including another starring
+         role for Stephen Rea, and - in a stylistic nod to Father
+         Ted - Sinead O'Connor as The Virgin Mary... THE BOXER
+         (imdb: drama) re-teams In The Name Of The Father director
+         with Daniel Day-Lewis, in a Troubles romance-weepie that,
+         surprisingly, is nothing like the Simon & Garfunkel song of
+         the same name... and finally, Kev Costner puts the "post"
+         back into "post-apocalyptic" in his cheesily overlong
+         Dances-With-Waterworld hybrid THE POSTMAN (imdb: action /
+         sci-fi / adventure / thriller / based-on-novel / drama /
+         futuristic / post-apocalyptic)... PRISONER OF THE MOUNTAINS
+         (imdb: war / drama) is the best of the subtitled former-
+         Soviet rebellion hostage-swappers - based on a story by
+         Tolstoy originally optioned 150 years ago... and the
+         touching teen female friendship in ALL OVER ME (imdb:
+         lesbian) completes this month's cycle of faintly homoerotic
+         films with titles based around prepositions (see also In
+         And Out, Up And Under)...
+
+         GAMES>> top-rated Japanese PlayStation racer GRAN TURISMO
+         (sadly, nothing to do with grandmas) isn't due out here
+         till May, but will run "between 15 and 30% faster" than the
+         import. It'll also get a new soundtrack with usual suspects
+         Ash, Garbage and a - now-obligatory - Chemical Brothers
+         remix of the Manic Street Preachers. "I believe that this
+         will be the first game ever to have a full, 12/13 track
+         soundtrack with all music recorded by 'actual' music
+         bands," chortles what seems to be an internal company memo,
+         "as opposed to a track by Prodigy, a track by Orbital, and
+         ten by company musicians"... till then, why not deck it out
+         the Station's quirky new beat-em-up trend: genuinely
+         shocking pseudo-Victorian Goth Raider NIGHTMARE CREATURES
+         and/or Monkey-Magic-inspired subtitled Samurai slasher
+         BUSHIDO BLADE - hwiyahhhhh!... and of course don't bother
+         with RESIDENT EVIL DIRECTOR'S CUT when RE2 is just round
+         the next shadowy corner... the N64's revving up its own
+         nice but dull driving games in the form of CRUIS'N USA
+         (which wasn't even a good coin-op) and TOP GEAR RALLY,
+         which - inexplicably - is co-sponsoring London Fashion
+         Week... over on the PC, disgruntled coder Derek Smart
+         (great name!) is releasing the complete version of
+         BATTLECRUISER 3000AD v1.01D7C into the public domain
+         (previously published by famed quality-merchants Take 2) -
+         a move which we (naturally) applaud, though wonder if it's
+         unrelated to reviews like "I have never, ever, in 17 years
+         of computer gaming, seen a game that hated being played the
+         way this one does" and "It will go down in legend as the
+         most bug-ridden, unstable, unplayable pieces of software
+         ever released" - www.gamespot.com ... thus the scene is set
+         for the battle of the great battle- games, with demos now
+         available of Activision's reworked 3D arcade classic
+         BATTLEZONE - www.activision.com/games/strategy/battlezone/
+         . It's got new weapons, new Command-And-Conquer-style
+         strategy mode (bring on DUNE 2000!), but we bet it's not as
+         good as the freeware BZ demo on the SGI, which lets you add
+         unlimited new guns, unfair advantages etc - because they
+         give you the source!
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "messenger of the gods".
+                     ( http://www.heaven.affection.net )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

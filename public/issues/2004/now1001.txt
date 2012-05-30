@@ -1,0 +1,218 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-10-01_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+         "Those who try to take the piracy off the high seas and onto 
+          their PCs face a fate worse than walking the plank. For they 
+          risk cursin' their businesses and being left up a creek 
+          without a paddle. They be sinkin' too with no patches to shore 
+          up systems, and could catch something far worse than scurvy..."
+            - Microsoft press release marks the official "so over" point 
+                                              of "Talk Like A Pirate Day"
+                  http://www.neowin.net/comments.php?cid=281861&id=24260
+
+
+                               >> HARD NEWS <<
+                             with the new Shmoos
+
+          The chilly Autumn hacker festival season continues in the
+          bottom left bit of America - at TOORCON, the Thinking Man's
+          Defcon, in San Diego. And what were they thinking? Sometimes
+          it was a little hard to say, as with the speakers who
+          mysteriously disappeared across the border in Tijuana the
+          night before their talk. Or Wi-Fi hackers Brad Harris and
+          "Deker" who, they claimed, were asked by the US government to
+          suspend their talk on a packet-injection driver (is
+          inserting pictures of tubgirl and goatse.cx into browser
+          sessions terrorism these days?). What did make it over the
+          border was good stuff - if, as ever, somewhat more
+          theoretical than practical. DAN KAMINSKY did his
+          P2P-over-DNS trick; CHRISTOPHER ABAD showed how to use gzip
+          to fingerprint bash histories, and deduce who is typing what
+          on your box. But it still looks like the SHMOO GROUP are
+          the current leaders of the hack pack. With a backdrop of
+          Mike Messick's Sniper Yagi wi-fi rifle, team member
+          BEETLE packaged up a VBscript program that used any XP
+          machine as a AP scanner, and then sent the results to a
+          central location. His aim? Next time someone writes a worm,
+          hoping that they use this as a payload, thus generating a
+          global AP directory as a side-effect. War-lounging.
+          http://www.shmoocon.org/sniperyagi/
+                         - guaranteed to drive gun and RF experts insane
+          http://the-mathclub.net/survey/4.html
+                                          - fingerprinting .bash history
+          http://forum.defcon.org/showthread.php?p=52891
+                                                 - Windows Wi-Fi hacking
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          LARRY "dear, *dear* Larry" LESSIG launches the UK versions of 
+          the famed Creative Commons licenses, and - who knows? - 
+          perhaps even some sort of practical applications for them, at 
+          University College London's Edward Lewis Theatre this coming 
+          Monday lunchtime (12noon-2pm Mon 2004-10-04, Windeyer 
+          Building, 46 Cleveland Street, London W1, entrance free, but 
+          please RSVP in advance to I.Brown@cs.ucl.ac.uk with "Creative 
+          Commons UK" as the subject line). We don't know how long the 
+          Professor is in the country, but we kind of suspect he might 
+          also enjoy getting his teeth into next weekend's FIPR 
+          COPYRIGHT IN EUROPE WORKSHOP ("starts Sat lunchtime and 
+          finishes Sun lunchtime", 2004-10-09/10, Computer Laboratory, 
+          University of Cambridge, 15 JJ Thomson Avenue, Cambridge CB3, 
+          looks free but email them to check), where the Foundation for 
+          Information Policy Research will be considering responses to 
+          "the EU legal framework in the field of copyright and related 
+          rights", possibly along the lines of why increased legal 
+          protection of "intellectual property" might actually be bad, 
+          not good, like some people seem to think. 
+          http://www.cs.ucl.ac.uk/staff/I.Brown/ccuk-flyer.pdf
+           - aka http://www.streetmap.co.uk/newmap.srf?x=529241&y=181831
+          http://www.fipr.org/events.html
+                - yes, the one also known as "The William Gates Building"
+          http://www.brum2600.net/brumcon4/
+                         - didn't we warn you about BrumCon IV last time?
+          http://www.ukuug.org/events/logging-2004/
+          - NTK readers: ask for members' rate at UKUUG logging tutorial
+          http://london.pm.org/lpw/cfp
+             - three weeks to get proposals in for big London Perl thing
+          http://www.allaboutsymbian.com/features/viewarticle.php?id=41
+            - crazy London Symbian-centric phone-hacking, also on Monday
+          
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          nothing sexier than Viewing eBay guy's other Dr Who items 
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=2273864940
+          "as modelled by his girlfriend"... Web User gets into abstract 
+          illustrations: http://www.webuser.co.uk/news/58259.html (*and* 
+          introduces jpeg artefacts into straightforward line art!)... 
+          Monty Python turns out *even funnier* in original Klingon: 
+          http://www.geocities.com/electricmonk.geo/brainspecialist.html 
+          - vs http://www.wweek.com/story.php?story=5539 ... Google 
+          goofs o' the month: http://www.google.com/search?q=powershit , 
+          http://www.google.com/search?&q=%22it+relives+the+pain%22 , 
+          http://www.google.com/search?q=%22text+ban+treaty%22 , plus 
+          http://www.google.com/search?q=%22tasteful+inspection%22 (for 
+          the more discerning firewall)... Cambridge offers online 
+          database of (say) recent "Criminal Damage Over UKP20": 
+          http://www.cambs.police.uk/camcom/localinfo/crimedetails.asp  
+          - no real competition for http://www.arcataeye.com/police04/ 
+          so far...
+          
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          You know, we've had our doubts over the merits of listening to 
+          standalone Commodore 64 game soundtracks devoid of their 
+          original context - but here's a chance to hear them as the 
+          Lord originally intended: burbling along in the background of 
+          a no-nonsense four-on-the-floor old-school side-scrolling 
+          shoot-'em-up. PLATYPUS isn't just a fantastic-looking R-Type-
+          alike packed with hilarious Claymation graphics, but also 
+          features retro anthems like Rob Hubbard's "Flash Gordon", plus 
+          "Wizball 2000" and "Comic Bakery", both by Martin Galway. 
+          There's a weird (presumably Windows-only) preview option on 
+          the Miniclip site, along with the option to upgrade to the 
+          full version for about US$15 (currently UKP8.30 on PayPal), 
+          which unlocks 3 more levels *and* the toe-tapping tunes of Rob 
+          Hubbard's "Sanxion Loading Theme" along with Jonathan Dunn's 
+          "Ocean Loader 4". It's a shame there's not a bit more to the 
+          full version (like a better ending), but when the graphics, 
+          sound and gameplay are this good, you really don't mind going 
+          back and just playing the whole thing through again.
+          http://www.miniclip.com/platypus/platypus.htm
+            - no indication of why it's called "Platypus", unfortunately
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> "But when his drinking and lusting and his hunger for 
+          power became known to more and more people, the demands to do 
+          something about this outrageous man became louder and louder", 
+          reports TIMEWATCH - WHO KILLED RASPUTIN? (9pm, Fri, BBC2)... 
+          half-way through the series, and we'd still be more likely to 
+          make it through an episode of GREEN WING (9.30pm, Fri, C4) if 
+          the soundtrack didn't feature that god-awful "Gritty Shaker" 
+          knockoff every 20 seconds... and at least they've ditched the 
+          cheesy "Maybe Baby"-style "And the book I was writing - turned 
+          out to be this film!" angle for subtitled part-CGI "City Of 
+          God" TV series spinoff CITY OF MEN (12.35am, Sat, BBC4)... 
+          it's another clip show dressed up as a popularity poll in 
+          BRITAIN'S FAVOURITE COMEDIAN (8pm, Sun, C5), with the losers 
+          being "voluntarily" incarcerated in Camp Endemol for new 
+          reality show KINGS OF COMEDY (10.30pm, next Fri, C4)... in 
+          addition to showing the US originals of THE APPRENTICE (6pm, 
+          Mon-Fri, BBC2), BBC2 are also making a UK version with the 
+          role of Donald Trump played by Alan Sugar... and might 
+          previous US experience of invading countries chock-full of 
+          AK47s possibly hold any lessons for today?, muses VIETNAM'S 
+          BLOODY SECRET (8pm, Tue, C5)... it's "business as usual" when 
+          the Money Programme blows the whistle on British Aerospace's 
+          Saudi defence contract slush fund in BRIBING FOR BRITAIN? 
+          (9.50pm, Tue, BBC2), and John Pilger highlights the plight of 
+          the Diego Garcia islanders evicted by the UK government to 
+          facilitate construction of a US military base in STEALING A 
+          NATION (11pm, Wed, ITV1)... but, on a lighter note, someone 
+          must have reshuffled the old "ultra modern trend" plus 
+          "supposedly unfashionable artform" flash-card deck to get 
+          FLASHMOB - THE OPERA (7.30pm, Thu, BBC3)... 
+          
+          FILM>> like "Final Fantasy: The Spirits Within" - still 
+          somewhat "without" a decent plot and script, but at least 
+          there are proper actors in CGI retro-romp SKY CAPTAIN AND THE 
+          WORLD OF TOMORROW ( http://imdb.com/title/tt0346156/trivia : 
+          The film's "groundbreaking" new technology isn't new at all. 
+          It is a unique combination of Adobe After Effects Plug-ins 
+          applied to achieve the film's unique look. No new technology 
+          was created to achieve the stylized look of the film)... then 
+          next week, we can't envision too wide a multiplex release for 
+          low-budget Bruce Campbell shlock-and-roll B-movie BUBBA HO-TEP 
+          ( http://www.bbfc.co.uk/ : Contains strong sex references and 
+          language and moderate horror), at least compared to the 
+          heavily FMV-sequence-influenced RESIDENT EVIL: APOCALYPSE 
+        ( http://www.capalert.com/capreports/residentevilapocalypse.htm :
+          computer nudity; graphic individualized hand-to-hand combat 
+          with grotesque unholy beings; telekinetic killing with bloody 
+          gore)...          
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+     "didn't get to a million articles by sticking just anything in there"
+                   http://en.wikipedia.org/wiki/Need_To_Know
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

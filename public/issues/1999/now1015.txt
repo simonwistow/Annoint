@@ -1,0 +1,282 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-10-15_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "This year we updated the PowerBook in May, the iBook in
+          July, the G4 replacing the G3 in August at Seybold, and
+          now the iMacs in October. I added up the time: in 148 days,
+          we've completely changed every product."
+                                                  - STEVE JOBS, TIME Magazine
+       ...often by just lowering the CPU speed and hoping no-one would notice
+
+
+                                >> HARD NEWS <<
+                                nothing to lose
+
+         In a week where LOCALTEL got rapped by the Advertising
+         Standards Authority (and Tempo announced they were
+         withdrawing the 0800 services CDs from their store), and
+         the extremely unresponsive 08004U gang got their shoulders
+         felt by Dundee's Trading Standards Officers, the "really
+         free" 0800 ISP market is looking like even more of a Del
+         and Rodney world than ever. So the entry of freewheeling
+         telco TELINCO isn't entirely unexpected. The telco has spent
+         the last few days noisily denying everything about
+         skunkworks STRAY DUCK project, except that it's probably
+         highly revolutionary, comes on a freephone number, and is
+         currently the subject of a somewhat naff teaser campaign on
+         www.strayduck.com. Theories, gentlemen? Given Telinco's
+         somewhat buccaneering approach to the telecommunications
+         market in the past - and the tempting but temporary IPO
+         conditions in the UK right now - we'd hazard another smoke-
+         and-mirrors payment system, funded by a speedy public
+         offering and a lot of frenetic press coverage. Oh, and a
+         pretty swift re-branding, if they've got any sense.
+         http://www.strayduck.com/
+                      - at least the name will make the jokes easier
+
+         Wednesday saw the announcement on Nettime of the ICA's
+         latest network net work: "Warez Installation Art" - an ftp
+         server running on one of the New Media Centre's expensive
+         machines, aimed at "creating our own virtual warez based
+         community in celebration of the BBS gangs of the Eighties".
+         Who'd have thought that the ICA could manage to sponsor a
+         decent bit of net.art, for once? Certainly not the ICA, who
+         had no idea that someone had wandered in, cracked one of
+         their many idle Sun boxes and then published an open ftp
+         account for everyone to use. As is the way of all warez, the
+         site was removed after a few hours (in the interim, New
+         Media Centre staff were overheard wondering aloud why their
+         network was "so slow today"). There was, though, enough time
+         for the upload of few genuinely intriguing pieces of ANSI
+         art, a cracked MP3 encoder (for Linux!), and, de rigeur, the
+         GNU manifesto. Anyone attempting to upload a clue got
+         stopped by the ICA firewalls, apparently.
+         http://www.nettime.org/nettime.w3archive/199910/msg00061.html
+                                            - after greyday, zero day
+
+         Two updates to last week's news: Lyndsay "Risk Digest"
+         Marshall wrote to point out a strong competitor for lamest
+         Net story prize to The Observer's white paper on virtual
+         drugs in the News Of The World. Extra points for a
+         gratuitous Johnny Mnemonic mention, as well as a full
+         picture of his cybernetically-enhanced sidekick, Professor
+         Kevinny Warwic. And JO CHIPCHASE wrote in - for once, not to
+         ask for unpaid help on an article she's writing - but to
+         complain about the the poor taste of our Paddington coverage
+         last week. It's a fair cop (although in our defence, you
+         should have seen what we were *going* to write). Still,
+         judging from the non-reaction to our Springfield massacre
+         funnies, time heals all wounds. While we're waiting, we'll
+         do the standard media trick of pointing to other people's
+         sick humour and tutting disapproval while you forward it to
+         your mates.
+         http://www.ntk.net/notw/
+                  - rife with drug addicts and other sick individuals
+         http://stop.at/signal.109
+                                        - ban this evil Internet now!
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "more than 3000" Euro Dreamcast online registrations
+         reported, 12 hours after going on sale - just 5,999,997,000
+         to go! ... "Password Thief Ransacks AOL": purest antinews
+         ... MICROSOFT writes report using MICROSOFT WORD, crow Mac
+         fans ... ZIFF DAVIS claims new Pacman commercials feature
+         "Verne Troyer, who played Mini-Me in the latest Austin
+         Powers flick and TV star Mr. T in the '80": don't take
+         steroids, kids ... disgruntled ex-Website of the week:
+         http://www.cdealer.com/ ... Symphony #1 for Dot Matrix
+         Printers [see NTK 1999-10-01] wins "Best Canadian work in
+         the New Media category" ... servers behaving badly:
+         http://www.comedyzone.beeb.com/m_behaving_badly/bbc/ ..,
+         Macintosh app developers at MICROSOFT use Macs, crow Mac
+         fans ... trains not quite running to Internet time:
+         http://www.ntk.net/doh/19991015train.gif ... GUARDIAN
+         recommends sites with a "Secure Locket Layer (SLL)" -
+         especially if you have a cold ... DVD buyers search for
+         "one, chosen model" that can play THE MATRIX... LLOYDS TSB
+         take unorthodox view of a good password policies:
+         http://www.ntk.net/doh/19991015tsb.gif ... "BUS PLUNGE",
+         screams the London Evening Standard: chalk one up
+         for http://www.users.interport.net/~tcs/ ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Security is (understandably) tight for Monday's BIG BROTHER
+         AWARDS (6.15pm, 1999-10-18, Clement House Building, LSE, 97
+         The Aldwych, London WC2A), with the UK's foremost privacy
+         activists insisting they need to know *exact* numbers - for
+         "catering". Still, you're probably only missing Mark Thomas
+         and some ranting Chumbawumba tribute band. If you prefer
+         your counter-cultural activities a little more free-form,
+         there's always the annual ANARCHIST BOOKFAIR (Saturday
+         1999-10-16, Conway Hall, Red Lion Sq, London WC1) - and if
+         you haven't already RSVPed about Wednesday's NTK Live/
+         g3EkNight crossover event, you're probably better off trying
+         to catch the webcast...
+         http://www.bigbrotherawards.org/left_w.html
+                            - nominee Esther Bull: no GIF available...
+         http://freespace.virgin.net/anarchist.bookfair/
+               - classic web-design colours: #FFFFFF, #000000, #FF0000
+         http://www.hot-schmitt.co.uk/g3EkNight/
+           - still, who needs #FF0000, when you have Capability Schmitt?
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         So, you're an AMAZON ASSOCIATE too? What did you spend your
+         profits on? Beach-side condo? Original Leonardo sketches? A
+         packet of Monster Munch? Given that these online book stores
+         can't even make a buck on the other 85%, might it be a
+         better idea to put your pennies to work on something more
+         worthwhile? Just like Amazon, GIVEQUICK is a non-profit
+         startup which redirects your affiliate revenues to the
+         charity of your choice. Admittedly, the choice at the moment
+         is very US-of-A-o-centric, but the kindly Webmasters promise
+         to introduce more "foreign" groups soon, and if you're a
+         British charity, I'm sure they'd oblige if you gave them a
+         ping. Note: BOL is not a charity. Despite appearances.
+         http://givequick.org/
+                          - oh, please, it's the only cash we make...
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         cable porn: http://www.rockers.nu/trams/banners/ ... you bet
+         it is: http://www.pak.gov.pk/ ... does the Vatican know
+         about http://www.netcraft.com/whats/?host=www.ntma.ie ? ...
+         GARTH ENNIS not in Paddington crash, contrary to Net rumours
+         ... that's not a coping strategy, that's a life skill:
+         http://www.unl.edu/conted/disted/hs/onehand.html ... it's
+         official: MICROSOFT WORKS now actively killing PENGUINS
+         http://www.newsunlimited.co.uk/g2/story/0,3604,91267,00.html
+         IVAN POPE now breeding hideous genetically-mutated
+         super-warriors: http://www.ntk.net/antipope/ ... DIY APPLE
+         stories: http://www.mired.com/mac/mac_10_08_1999.html ...
+         DIY "have fun! make money! sack everyone!" triumphs:
+         http://www.link.cs.cmu.edu/cgi-bin/dougb/recipe-ipo  ...
+
+
+                               >> GEEK MEDIA <<
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> with their usual contempt for complex story arcs, ITV
+         runs definitive hidden-identity actioner DIE HARD (9pm, Fri,
+         ITV) then, same time next week, dire Jeremy Irons camp-fest
+         DIE HARD WITH A VENGEANCE (9pm, Fri, etc) - without the
+         vital character development of the second "bridging"
+         episode, Die Hard 2: Die Harder... sticking with the
+         classics, C5 wheels out FASTER PUSSYCAT! KILL! KILL!
+         (12.25am, Fri, C5) for the second time this year (last shown
+         Christmas Eve '98)... and Jason "George Costanza" Alexander
+         and Ron "Bakersfield PD" Eldard take some of the acting
+         pressure off Cameron Diaz in odd little dinner-party black
+         comedy THE LAST SUPPER (10pm, Sat, C4)... PAXMAN INTERVIEWS
+         BILL GATES (8pm, Sun, BBC2) - hopefully shouldn't be too
+         sycophantic - towards *Jeremy Paxman!*... endless cartoon
+         slot DOPE SHEET (12.20am, Sun, C4) returns with a look at
+         animation online (GIFs, Shockwave, Flash, you name it)...
+         while self-explanatory new docu series MILLENNIUM: A
+         THOUSAND YEARS OF HISTORY (7.10pm, Mon, BBC2) doesn't seem
+         to be particularly closely based on the Chris Carter/ Lance
+         Henriksen sci-fi drama of the same name... "they're still
+         writing, but who cares?" is the theme of the first in a new
+         run of BOOKWORM (7.30pm, Tue, BBC2), featuring Sue "Adrian
+         Mole" Townsend and geneticist Steve "car advert" Jones...
+         and TOMORROW'S WORLD (7.30pm, Wed, BBC1) continues its slide
+         into terminal self-parody with a gadget to help a blind
+         driver break the land speed record, followed by an
+         essentially similar format in SPECULATE (8pm, Wed, BBC1),
+         where Gaby Roslin makes the audience guess the outcome of
+         bizarre challenges: eg which will fly further when fired
+         from a cannon - a bed or a bath?...
+
+         FILM>> maybe HEAT MAGAZINE has overlooked some of Samuel L 
+         Jackson's previous work (eg little-known critics' favourite
+         "Pulp Fiction") causing them to trumpet "a virtual absence
+         of stars... who needs A-list names anyway" in their widely
+         distributed "40 Things You Must Not Miss This Autumn" flyer
+         mention of gorgeously daft CGI shark chaser DEEP BLUE SEA
+         (http://www.capalert.com/capreports/ : a foul mouth "pastor"
+         mixing vulgar talk with the Scriptures; urinating in the
+         open; shark consumption of another shark; drinking an
+         alcoholic beverage for relief; explosively startling
+         programming; stark insane terror; continuous threat). A cute
+         cast and a couple of genuine surprises contribute to Renny
+         "Die Hard 2" Harlin's most disciplined film yet, like Alien
+         4 done properly or something... anyway, bites the head off
+         GREGORY'S 2 GIRLS (imdb comment: "The worst film I have ever
+         seen") - John Gordon Sinclair (but not Clare Grogan)
+         returns as an adult teacher still besotted with schoolgirls;
+         a promising angle swiftly discarded in favour of a Famous
+         Five-style romp involving an evil electronics factory...
+
+         FOOD COURT>> reader MICHAEL MAYER is our expert witness for
+         the defence of the new DARK KIT KAT (normal Kit Kat price),
+         claiming "The chocolate is much better quality than usual
+         milk chocolate". The prosecution meanwhile rests on two key
+         facts: 1. The undeniably suspicious Vader-style invitation
+         to "Have a *dark* break" on the back, and 2. It's one of
+         three brands NESTLE is subjecting to what they call "Flavour
+         Craver" marketing: overwhelming the public with what they
+         think are their favourite flavours all in one go, other
+         current examples being of course all-orange SMARTIES and
+         all-red-and-black FRUIT PASTILLES - a revolting concept if
+         you try it too often... juries are mildly unimpressed with
+         the KFC TWISTER (2.49 solus; 3.49 with drink and fries) -
+         essentially slightly spicier chicken burger bits wrapped in
+         a tortilla rather than a bun, and a lot trickier to eat
+         without bits falling out than the attractive Cornetto-style
+         advertising suggests... some further fast-food updates at
+         the edible NTK tribute site http://www.gastropod.co.uk/
+         though, sadly, it's now gone on publishing hiatus (oh, so
+         often the way) before we had to upgrade it to "threat"...
+         interactive sweet of the week remains the CHUPA CHUPS
+         KIT-POP (some newsagents, a quid or so?) - the standard CC
+         lolly presented in ingenious flip-out Swiss Army knife
+         package, complete with ruler, biro, eraser and pencil...
+         and finally, largely to torment ZD Net's Chris Long, the
+         PIII 450 http://www.zdnet.co.uk/news/1999/34/ns-9575.html he
+         was once so cross about was this week spotted in some large
+         Sainsburys at UKP650 - positioned perilously close, perhaps,
+         to another well-thought-out new Sainsbury's line, Monster
+         Munch-style maize snacks that hold the dubious honour of
+         being maybe the 2000th product to call themselves
+         "Millennium Bugs". "EAT THEM UP BEFORE THEY WIPE YOU OUT!"
+         suggests the packet, threateningly (their capitals)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+                 "leaving every other word from our sentences"
+                   http://www.oldmanmurray.com/guestbook.wc
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

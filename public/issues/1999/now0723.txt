@@ -1,0 +1,323 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-07-23_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+       
+
+                  "During the transition, there had been some 
+                  talk of Pournelle becoming head of NASA..." 
+     - NORMAN SPINRAD on sci-fi's most expensive, least successful prank
+     ...Larry Niven: Surgeon General, Robert Heinlein: PRESIDENT OF EARTH
+           [ http://www.monde-diplomatique.fr/en/1999/07/?c=14star ]
+
+
+                                >> HARD NEWS <<
+                              raspberries, fools 
+
+         At the last possible moment, the Government published its
+         draft E-COMMERCE BILL. And, while all that key escrow stuff
+         has evaporated, guess what took its place? Blank pages? A
+         sensible policy aimed at *encouraging* electronic commerce?
+         How about: a bunch of vague hand-waving secondary
+         legislation hooks, that mean that key escrow could be
+         introduced any time without further parliamentary
+         supervision? Plus (and pardon us if we see the Long Arm Of
+         The Straw all over this) incredibly draconian potential
+         punishments for key-holders. Business incentives like: two
+         years in jail if you fail to reveal a key to data in your
+         possession, WITH THE OBLIGATION ON YOU TO PROVE THAT YOU
+         DON'T HAVE IT. Or: five years imprisonment if you reveal to
+         someone that their key has been compromised by law
+         enforcement - with no limit on how long you have to keep
+         mum. Equivalent to, say, us revealing that Jack Straw's
+         communications were monitored in the Seventies - and then
+         being sent to jail until 2004! Building confidence in secure
+         transaction? My god, anyone with any sense wouldn't go
+         *near* a secure transaction! Oh, yes, but that's the real
+         point, isn't it. Sorry. Sorry, Mr Spook. I'll get off line now.
+         http://www.dti.gov.uk/cii/elec/ecbill.html
+                      - we're running out of "encrypted in PDF" jokes
+         http://www.ntk.net/ecbill/
+            -  e-mail it pdf2html@adobe.com please? Pretty please?
+         
+         Spurn the Freeserve? Mmm. We have our principles, but we're
+         not idiots. Well, we are (and we don't) but we're positive
+         we're not the biggest idiots, and that's what's important
+         with these Internet stocks. Si, the Freeserve model is dumb.
+         Uhuh, the only bit of it that works is the free ISP model
+         and the associated smarties who developed that all live at
+         Energis/PlanetOnline, and not the Freeserve everyone is
+         buying into. The Freeserve you're buying into is a few
+         blokes in a room drinking beer, watching PA press stories
+         upload themselves, and copying out other people's help
+         pages. And after all, if there was real solid tech there,
+         why would Freeserve be running around London trying to hire
+         a CTO? But all that doesn't matter, because if share-dealing
+         had anything to do with future yields, we'd all have BT
+         shares and stockbrokers would be wise, Yoda-like figures who
+         don't touch cocaine for fear of the long-term risks. Hats off
+         to those dutiful NTK readers who *did* bother reading the
+         prospectus, though: one noted that Freeserve users seem to
+         average about 48 page hits a month. Hmmm - going to have to
+         pipe a lot of e-commerce through those 1.6 daily pages...
+         And thanks to Ben Lamb, who spotted the subliminal "SEX"
+         logo on the baby's Internet Explorer on the back cover. Now
+         *that's* the beginning of a realistic business model...
+         http://www.freeserve.net/
+                        - if you see Sid, tell him: SELL! SELL! SELL!
+         http://www.freeserve.net/support/test/glossary.htm
+                                  - we're sure they must have paid...
+         http://www.matisse.net/files/glossary.html
+                                               - ...them in shares...
+
+         While NSI and ICANN continue their informal shivving
+         sessions in darkened alleys around Washington, isn't it a
+         relief to know that our own Nominet, keeper of .uk, is above
+         such things? They're acting very decently at the moment,
+         with rumours the the price of registration will drop in the
+         next few weeks. But, what's that? Nominet are thinking of
+         IPOing themselves? Great! I guess that means that everyone
+         in the UK gets a share, right? Because it's our domain,
+         right? Right? Hello?
+         http://nic.uk/
+                                                        - "nic", hey?
+         http://www.usatoday.com/life/cyber/tech/ctf633.htm
+   - "using smoke and mirrors", NSI? suggest you look in one yourself
+
+		 [CORRECTION: While the above would have been a terrific
+		 analysis of the opportunities and threats by posed the 1999
+		 Nominet AGM, the AGM had already taken place when we wrote
+		 it. The carpet-baggers were vanquished, and the price
+		 drop confirmed. See http://www.nic.uk/news/AGM.1999.html .
+		 Also see the look on our face when we found out. Doh!]
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         "Top DJs can command up to UKP8000 for a two-hour set, and
+         some play several sets in one night at different locations,
+         says one club source" - THE TIMES' shocking insights into
+         that high-rolling Tim Westwood lifestyle... JFK Jnr
+         "shoo-in" for DARWIN AWARD... DAWKINS freaked by spread of
+         "meme" meme... bankers prepare for that tricky Y10K bug:
+         http://www.ntk.net/doh/990723y10k.gif ... FRENCH CONNECTION
+         suing to obtain www.fcuk.com - owner claims was innocently
+         providing service for people who mistype "fuck" ...
+         surprising swearing results when you search YAHOO for "UPS
+         howto txt"... MICROSOFT WINDOWS MEDIA would like to recall
+         the message, "Welcome to the Microsoft Windows Media
+         Technologies Weekly International Newsletter!"... as
+         "supreme arbiters of taste", you'd think they'd work out how
+         to use <PRE>: http://www.yesmate.com/misc/ntk.htm ... "Do
+         not proceed in this site if you are not located in the
+         United States" tempts http://www.nipper.com/ ... DARTH
+         MAUL's eyes identical to INKTOMI logo... ORACLE's billion
+         dollar doh!: http://osiris.978.org/~brianr/oracle-gpl.gif
+         ... our traditional APPLE dismissal: iBook? girly Kia-Ora
+         handbag with bugger-all RAM, more like... and the grim
+         inevitability of: http://www.firstusa.com/woodstock/ ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         One thing we've always liked about the Amiga community is
+         its solidarity, that spirit of unity and sense of purpose
+         where Commodore had *always* been at war with Atari, and
+         "Intel - Outside!" was a rallying call that, more often than
+         not, would end with a Windows user receiving a well-earned
+         beating in the car park. How ironic it would be if they
+         turned those fearsomely honed self-defence skills on *each
+         other*, at WORLD OF AMIGA 99 (1999-07-24/25, Kensington Town
+         Hall Conference Centre, London) - the first gathering since
+         spurned QNX's announcement that they'll be building their
+         own PowerPC Amigas to foster bitter ST-style infighting with
+         those pursuing the current Linux path. There are also
+         unconfirmed rumours that Nicholas Negroponte's bits 'n'
+         atoms will be appearing at the ICA on the evening of Tue
+         1999-07-27, for those who really want to get off on that
+         early 90s nostalgia.
+         http://www.phase5.de/amiga/qnxp5e.html
+              - we once wrote some Intel consultancy on an A1200. Ha.
+         http://www.worldofamiga.com/xindex.html
+                         - (optimistically?) refers to "ticket queue"
+
+         Tony Hoare's work influenced a generation of programming
+         languages and thousands of CS studients. He invented great
+         chunks of modern parallel programming, tried to save Algol,
+         managed to kill Ada, helped with Z, did that Occam stuff,
+         and seemed, in retrospect, to be much less up his own bottom
+         than some academics we could mention. And we bet he could
+         have that Tom Christiansen in a fight, easy. He is retiring
+         this year, and a Valhalla of deities are dropping into
+         Oxford for a few illicit global declarations. We're talking
+         Dijkstra, Knuth, Wirth, and Meyer people! And we're talking
+         three hundred quid if booked before 31st of July, (bit less
+         if you plead poverty). Or some of you Perl Mongers could
+         upload "Time::Bomb" onto the platform and exterminate the
+         opposition forever. Fun extends from 1999-09-13 - 1999-09-15.
+         http://www.deja.com/=dnc/getdoc.xp?AN=501336905
+                          - presumably they'll all happen in parallel
+         http://cs.ru.ac.za/homes/cspt/hoare.htm
+                                           - he suffered for your art
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         As we all know, history repeats itself: first as tragedy,
+         then as farce. Then history is copied by Microsoft, who use
+         it to create Microsoft Farcical Tragedies for Windows. Viz:
+         it was barely weeks ago that we chuckled at that mock
+         configurable Blue Screen Of Death press release. Now we
+         discover it really is possible: hidden registry settings
+         (available since Windows 3.1) allow you to select a Cyan
+         Screen Of Death, a Bright Yellow on Gray Screen of Death:
+         any colour you want, as long as it's broke. Even better,
+         Nathan Lineback managed to gather his disbelieving wits long
+         enough to create BSOD PROPERTIES - a Visual Basic program
+         that provides an attractive UI for those endless BSOD
+         choices. Never let it be said that MS isn't about choice.
+         http://pla-netx.com/linebackn/news/bsod.html
+- does that mean the BSOD is one of the stablest bits of Windows code?
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         first JFK, now the http://www.jonestownreenactment.org/ ...
+         BO2K: the fun begins: http://www.ntk.net/bo2k/ 
+         ... good news for drivers, bad news for SIMON DAVIES:
+         http://www.audicoupe.demon.co.uk/speedtrap_notatrap.html
+         ... LEONARD MALTIN fesses up at last (strong language)
+         http://www.voicenet.com/~xavier/scripts/maltin.html ...
+         SCOTT "The Onion" DIKKERS: do chicks really go for this
+         "sad clown" schtick?... training wheels for SNOWCRASH
+         fanboys: http://zapbikes.com/powerski/ ... HAL JORDAN is
+         the new SPECTRE... is that PALMPILOT GAYDAR in your pocket,
+         or http://drunkenmonkeys.com/palm.html ?... "The only
+         reason I play ULTIMA ONLINE is for all the 'Britishing':
+         paying real world dollars to people for cyber-sex, then
+         player killing them as I climax. That's the only reason
+         anyone plays UO - all the violent sex. Jesus, man, where
+         have you been?" ... scariest explanation so far for
+         huge MICROSOFT apps - there's something *else* in there:
+         http://www.zikzak.net/~acb/writing/ms-illuminati.html ...
+
+
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> former host Nick Hancock pops up in Paul Merton's new
+         ROOM 101 (10pm, Fri, BBC2) - though, ironically, it's as
+         Paul's first guest, not as one of the most loathsome things
+         that humanity can imagine... "starring Ron Perlman" isn't a
+         phrase you hear every day, but remains perhaps the most
+         coherent description of Jeunet & Caro's Gilliam-esque Alien:
+         Resurrection tryout THE CITY OF LOST CHILDREN (12.15am, Fri,
+         BBC2)... it doesn't seem to be the scheduled rave episode of
+         INSPECTOR MORSE (8.10pm, Sat, ITV) after all, but some stupid
+         holiday opera one... and Mark "Mac Daddy" Morrison reveals a
+         previously unexpressed concern for the health of "hos" and
+         "bitches" everywhere by contributing to breast cancer concert
+         WICKED WOMEN (10.50pm, Sat, BBC1) - maybe he misunderstood the
+         title... on consecutive days, C4 examines both DYSLEXIC GENIUS
+         (8.30pm, Sun, C4) - Peter Molyneux, Richard Branson, etc - and
+         DYSLEXIC CRIMINALS (8.30pm, Mon, C4) - yet, annoyingly, no
+         DYSLEXIC CRIMINAL GENIUSES... rubbing in the fact that there's
+         only about 8 or 9 more episodes left *ever*, BBC2 seem to be
+         showing an out-of-sequence double-bill of THE LARRY SANDERS
+         SHOW (11.10pm, Sun, BBC2)... Carol Vorderman's apparently
+         bottomless appeal is hopefully among the items TESTED TO
+         DESTRUCTION (9pm, Mon, ITV)... Jake "young Anakin" Lloyd and
+         Mimi "X Files" Rogers go all cyber-thriller in VIRTUAL
+         OBSESSION (9pm, Mon, C5)... while "orgone energy" madman and
+         Kate Bush-inspirer Wilhelm Reich lends a whiff of
+         pseudoscience to the first edition of docu-porn THE SEXUAL
+         CENTURY (9.30pm, Mon, ITV)...
+
+         FILM>> another week of post-Star Wars oddities, with faux-
+         Peckinpah testosterone-fest arthouse Western THE HI-LO COUNTRY
+         (imdb: friendship / brothers / love-triangle / cattle / post-
+         wwii / friends / poker / snow) marking another entry on the
+         erratic CVs of director Stephen Frears (The Grifters, My
+         Beautiful Laundrette, The Comic Strip Presents), Woody
+         "Cheers" Harrelson, and Patricia Arquette (True Romance, Ed
+         Wood)... and you're thinking: blimey, the accents in these
+         Ken Loach films are getting hard to understand nowadays,
+         but that's because hard-hitting Brassed Off Poets Society
+         limited-release docu-like IT ALL STARTS TODAY (imdb: also
+         known as "Ca Commence Aujourd'hui") is directed by Bertrand
+         "L.627" Tavernier and they're actually all speaking French...
+
+         FEEBDACK>> hot on the heels of last week's dead-tree round-up,
+         "Why nothing on the Playboy/ Lara Croft/ Nell McAndrew
+         pharce?" inquires MATT HALL, on behalf of old-school porn-
+         purchasers everywhere. "Nearly the first Playboy issue ever
+         pulled from UK newsstands," he elaborates, "and they have to
+         sticker *all* the copies to cover up the 'Tombraider' logo on
+         the cover". News 'n' sycophancy site CROFT TIMES has the full
+         story http://www.cubeit.com/ctimes/news/199907/news0438.html -
+         Eidos claimed Lara's "squeaky clean image" could be "tarnished
+         for all time" (that's "squeaky clean" as in "violates ancient
+         burial sites, shoots people and animals"); maybe the
+         clamp-down's to create demand for their own inevitable "adult"
+         version... "Stop slating Amiga so much at NTK!" pleads MICHAEL
+         COPPINS, apropos, it seems, of nothing in particular. "It
+         seems that NTK spends its time slating every platform - is any
+         platform any good?" Not that we've noticed, Mike. Next!...
+         "Ta for the story" quips Britain's hardest games journo and
+         destroyer-of-worlds STUART CAMPBELL, still high from defeating
+         the mighty EMAP [NTK 1999-07-09]. "You'll probably be too
+         scared not to plug my ace archive of Digi[tiser] columns,"
+         Campbell continues. "See me be exactly right about the
+         videogames business, 42 times in a row." Yup, as soon as you
+         get the hang of Usenet naming conventions, Stu, you'll be
+         unstoppable http://ds.dial.pipex.com/thumbs_aloft/digi/ ...
+         "Re: your mention of 'The Great Egg Race'[NTK 1999-07-09]",
+         begins NIGEL LUCAS, promisingly. "We [a discerning subversive
+         minority at ICL] want to see a return to harmless boffin-
+         orientated fun where it's not the winning, but the strange
+         hairdos that count. What *did* happen to Heinz Wolff?" Well,
+         using a bit of our own Egg Race-style ingenuity, Nigel, we
+         used a "search engine" to discover that he made a toothpaste
+         ad http://www.westwood.u-net.com/ads/m_art_w.htm , wrote for
+         lame pop-sci mag Frontiers, and was last seen at a conference
+         for Vacuum Technology And Semiconductor Processing Equipment
+         And Materials http://www.vacandsemi.co.uk/showinfo.htm . The
+         Great Egg Race is often shown at anti-social hours on UK
+         Horizons; a full retrospective appears at the madly
+         comprehensive TV Cream http://tv.cream.org/arkg3.htm - we
+         advise you click around there for a few weeks and, please,
+         *never* email us about children's television again...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+                "Fur alle Freaks ... Sarkasmus ist garantiert!"
+                  http://zhol.ch/pubs/redaktion/sub/computer/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,325 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-07-02_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Customers have responsibility too. They are foremost
+          responsible for taking care of their own emotions, to know
+          when they're projecting, and when they have a real issue."
+                               - DAVE WINER, living up to his surname
+                           http://discuss.userland.com/msgReader$8034
+    "...Customer support: key 1 for your emotions, 2 for projection..."
+
+
+                                >> HARD NEWS <<
+                               little to choose 
+
+         Another week, another "prestigious" four hundred new media
+         awards ceremonies. Most desperate, it seemed, was the
+         British Interactive Media Association, where you got to dine
+         with a bunch of CD-ROM refugees claiming to be have been "in
+         new media for 17 years, darling", and a shortlist randomly
+         picked out of the .CO.UK root files. Their host: a singing
+         ventriloquist (hey, seventeen years ago, that *was*
+         multimedia). New Media Age was slightly better, though both
+         its choices and its home page's ALT tags seemed convinced it
+         was 1998. The Online Journalism Awards, in the face of
+         no-one entering, mostly divvied up the prizes among sites
+         run by its own judges. The New Statesman had McSpotlight and
+         shell.com up for the same Net Advocacy award: maybe Shell
+         has a cheeky "Slap A Nigerian Community Leader" game
+         somewhere. Uniquely, the MacSpot guys were frisked on the
+         way in, and had their extensive J18 coverage excised from
+         the presentation because "it wasn't appropriate" for Jack
+         Cunningham to see it. Mmm. Liberal. All in all, the usual
+         seasonal shambles: and there's still Yell and the
+         Interactive BAFTAs to go. (And no, we're not bitter: NTK's
+         agitprop sister site, STAND, won a NMA special commendation,
+         two NS gongs including the one McSpotlight should have got,
+         and we were on the bloody *judging* panel for the Online
+         Journalism ones. Perhaps the industry should all lay off
+         self-congratulatory awards for a bit, and see if we can't
+         spare some precious time to do some half-decent bloody
+         Websites for a change.)
+         http://www.bima.co.uk/awards/short/content.htm
+         - who *are* these people? And why do they use so much Flash?
+         http://www.jour.city.ac.uk/olja99/
+                                           - ok, not *all* the prizes
+         http://www.stand.org.uk/
+                          - how could you ever accuse us of being bitter
+         http://www.nma.co.uk/
+                             - be thankful it has any ALT tags at all
+
+
+         Hey! In the ISP world, is getting crazy, yes? The paying
+         customers of PIPEX scraped through a week with mail running
+         at postal speeds, the CURRANTBUN had a script kiddie
+         magicking out passwords through their own registration CGI
+         scripts like pennies from behind a child's ear, and even the
+         sainted FREESERVE had threats of major hack attack over the
+         weekend (although they didn't know it, because no-one at
+         their ISP PLANET remembered to tell them). But there's
+         crazier next week! That's when 4THENET, another ISP/Telco
+         you haven't heard of, starts offering to pay *you* to use
+         its services. Admittedly, the cashback works out at
+         something of the order of 25UKP for every 300UKP of calls,
+         so it's not exactly a bargain, and the Website has that eery
+         "DON'T TRUST ME! I BREAK MY OWN GIFS AND CANOT SPELL"
+         subliminals all overit, but you know. At least you know how
+         low they'll stoop to get your previous interconnect charges.
+         http://www.4thenet.co.uk/pays/howitworks.htm
+                                     - MAKE $$$ SLOW ON THE INTERWEB!
+ 
+         This week's Sarky Audience Question: "I asked someone from
+         the Adobe booth how to draw a box using Photoshop 5.0, and
+         they gave me a big runaround, ending in 'use Illustrator'".
+         Congratulations, MORBUS IFF of disobey.com, who wins that
+         zipped tar of all our back issues that we promised him about
+         six months ago! Send *your* humiliating destruction of weak
+         and nervous corporate stooges to: cuttysark@spesh.com . 
+         http://www.disobey.com/low/
+                         - if you've enjoyed this, you may like them
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         DOUGLAS ADAMS tells Paxman he's "not a SF writer"... Russian
+         fund-raising day for MIR brings in 50UKP... LUCAS "thinking
+         of using Japanese people extensively" in SW II... AZTEC -
+         now *officially* Falco... COMPUSERVE going free in 8 weeks
+         ... all but one of the staff listed on SAATCHI AND SAATCHI'S
+         http://www.redkite.com/ have left... after 2 years'
+         research, WIMBLEDON interactive TV trial consists of showing
+         the other matches... Net.art browser NETOMAT rethinks the
+         structure of the Web, wows art critics, shows any idiot can
+         write a browser these days... next year's Yet Another PERL
+         Conference to be called YAPC 19100... EXCLUSIVE: REGISTER'S
+         MYSTIC MIKE IS ASTROLOGY LOON: http://www.magee.demon.co.uk/
+         ... CONSERVATIVE PARTY website is "wierd", says Perl code:
+         http://www.conservative-party.org.uk/newspags/newsadd1.pl
+         ... 2 weeks before UK release, www.starwars.co.uk registered
+         to HANKYMAN, still showing APACHE default page... world's
+         worst "SEARCH" button: http://www.fujitsu-europe.com ...
+         
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Oddly, physical attendance appears to be mandatory for
+         anyone who'd hoped to just send their avatar to the first VR
+         WORLD CONGRESS (1999-07-05/06/07, Hotel Le Plaza, Brussels,
+         Belgium), a veritable who's-still-going of this
+         once-thrilling Mondo 2000-championed field. Entrance appears
+         to be free, though that might just be a Babelfish artefact
+         (the European Commission subsidise anything classified as a
+         "Concertation Meeting" - good to see they've got their
+         finger on the pulse); you do, however, have to authorise
+         "Cyber Wizard" to debit your credit card. Sounds like
+         something that escaped from a mid '80s MUD - and, given this
+         crowd, we wouldn't be at all surprised...
+         http://inf2.pira.co.uk/agenda12.htm
+          - aka "interactive 3D" (avoids stigma now attached to "VR")
+
+         And surely some dumb bureaucrat somewhere will pay for you
+         to go to Secure Computing's BLACK HAT BRIEFINGS
+         (1999-07-07/08, Venetian Hotel and Casino, Las Vegas,
+         registration now $1,195): "vendor neutral" security
+         professionals, "underground" security specialists, and,
+         continuing the Spy-Vs-Spy theming, the NSA-organised "White
+         Hat" track as well. And you know how some airline tickets
+         are cheaper if you stay overnight on a Saturday? Well, then
+         you may as well stick around for free entry to Vegas hacker
+         fest DEFCON 7.0 too...
+         http://blackhat.com/html/bh-usa-99/bh3-index.html
+                      - "Do not be discourage [sic] by its splendor!"
+         http://www.defcon.org/
+- you know, we don't use the phrase "brilliant misguided youth" *enough*
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         REVENGE OF MOZILLA isn't, as you'd expect, an app that
+         rages futily through your files, installing BLINK tags
+         and non-standard HTML code at random, sprouting features and
+         interface changes faster than you can track, before cravenly
+         turning itself into the nearest AOL client pack. Oh no.
+         It's actually quite a nifty companion to the NTK-recommended
+         98Lite installation pack. 98Lite, as you no doubt recall,
+         lets you install Windows 98 without any of that disgusting
+         IE4.0/Folder Explorer overkill. REVENGE OF MOZILLA runs
+         through the remaining install, trimming down the unnecessary
+         registration entries. All 200Kb of them. Nift.
+         http://www.silverlink.net/~jensenba/index2.html
+                                               - here's where you end
+         http://www.98lite.net/
+                                             - here's where you start
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         COLT + QWEST = QWOLT? CWEST?... what's worse: coke or
+         warez? http://www.thesmokinggun.com/archive/ebay1.shtml
+         ... CALL MINDER bug rumoured to play "all your messages" to
+         incoming callers... as if we didn't hate BT enough: 
+         http://www.bt.be/survival/aday_fr.htm ... you'll go BLIND:
+         http://www.vuk.org/ascii/deep.htm ... ESTHER DYSON vs Esther
+         Rantzen: http://www.icannwatch.org/ ... repeating all Anakin's
+         lines in a JAMES EARL JONES voice... C|NET @ London... 
+         ... sweet like VINYL: http://www.cyberden.com/sleeves/ ...
+         stay away from the Himalaya rides, and STAY AWAY from CAR 19
+         http://members.aol.com/rides911/accidents.htm ... "topless"
+         game characters in GIANTS? Oh, spoil the fun of patches...
+         "Favourite programmer/mathematician: JOHN ROMERO"? -
+         http://www.intelligentfirm.com/eugenia/ ... online magic 
+         EIGHTBALLing the Right Way: http://8ball.federated.com/ ... 
+         DREAMCAST to have 60Mhz mode ... they watch, they learn, 
+         they bear grudges: http://www.hackfurby.com/rebuild.html ...
+         not the 3D "models" you'd normally associate with the ELITE 
+         author: http://www.cix.co.uk/~ibell/bodyart/models.htm ... 
+         JAR-JAR love: http://www.landoverbaptist.org/news0899/jar.html
+         ... and all hail the future leader of Planetary Government:
+         http://www.pournelle.com/html/family_photos.html ... 
+                  
+         
+                               >> GEEK MEDIA <<
+                                 get out less
+                   
+         TV>> newly described by Radio Times as a "comedy series", we
+         fear 4Later's SPY GAMES (1.10am, Fri, C4) - featuring a
+         defence contractor and his "android son" - is in fact deadly
+         serious... Peter Cook highlights the dangers of both
+         e-democracy and set-top boxes in THE RISE AND RISE OF
+         MICHAEL RIMMER (1.10am, Fri, C5)... and Space:1999 fans are
+         saved from total cold turkey by a double-bill of
+         semi-official Anderson prequel UFO (3.25pm, Sat, BBC2) -
+         tough call against epic '60s variety Bilko cameo-fest IT'S A
+         MAD MAD MAD MAD WORLD (2.10pm, Sat, ITV)... C4 dredges up
+         NOSTRADAMUS NIGHT (8.30pm, Sat, C4); BBC2's live coverage of
+         "the great king of terror" descending from the sky may be
+         postponed if the tennis over-runs... and C5 celebrates its
+         own apocalypse with a Rachel Talalay double-bill: non-Manga
+         electro-monster nonsense GHOST IN THE MACHINE (9pm, Sat,
+         C5), plus proto-Virgin Cola ad TANK GIRL (10.50pm, Sat, C5);
+         part of a "Sci-Five" weekend which also features RUSSELL
+         GRANT'S POSTCARDS (4.35am, Sat, C5) from a Dr Who
+         exhibition; friendly-grey propaganda CLOSE ENCOUNTERS OF THE
+         THIRD KIND (9pm, Sun, C5); plus horrific-sounding MORWENNA
+         BANKS' SCI-FI SPECIAL (11.30pm, Sun, C5)... elsewhere, in
+         post-Duty-Free sitcom BARBARA (8pm, Sun, ITV), Gwen Taylor's
+         husband is "ambushed outside a Star Trek convention"... Y2K
+         week on satellite: "the Praetorians prematurely trigger the
+         Millennium Bug in an effort to create havoc with the world's
+         computers" in THE NET (10pm Sun, 8pm Wed, Sci-Fi) - how'd
+         they do that? Send the whole world forward in time? - plus a
+         similarly themed DILBERT (8pm, Thu, Sky1) featuring the
+         line: "The Millennium Bug! Are you telling me that Han
+         Solo's ship is here?"... another series of dayglo DIY
+         cycling inventor travelogue LOCAL HEROES (8pm, Mon, BBC2)
+         almost makes up for BBC2's dire Monday comedy line-up: a new
+         run of laugh-free copumentary OPERATION GOOD GUYS (9.30pm,
+         Mon, BBC2) sandwiched between repeats of GIMME GIMME GIMME
+         and THE ROYLE FAMILY... and last week's uncomfortably live
+         low-tech phone-in MICHAEL MOORE TALK SHOW (11.30pm, Tue, C4)
+         confirms that the chubby, now-bearded liberal commentator
+         mistakenly thinks he's a stand-up comedian... key cast
+         members begin to turn, dissing Lucas's "unspeakable"
+         dialogue in OMNIBUS: THE STORY OF STAR WARS (10pm, Wed,
+         BBC1)... and somehow it slipped beneath our radar, but we're
+         fairly sure that militarist-industrialist Grumman ad FLIGHT
+         OF THE INTRUDER (12am, Thu, BBC1) was postponed from its
+         original scheduling during the bombing of Kosovo...
+
+         FILM>> who'd have guessed it: elderly Sean Connery clean-fun
+         bungee-crime ENTRAPMENT (imdb: computer-fraud / twist-in-the-
+         end / robbery / skyscraper / technology / double-cross /
+         computers / laser / insurance / master-thief / new-year's-eve)
+         turns out to be a load of arse - mainly Catherine Zeta-Grey's,
+         by all accounts... nor do we have particularly high hopes for
+         Brit-made cross-dressing Weird Science nerd-rescue teen smut
+         VIRTUAL SEXUALITY (bbfc: passed '15' for moderate sex
+         references and nudity), adapted from the kids' novel "Virtual
+         Sexual Reality" by (clearly her real name) "Chloe Rayban":
+         http://www.amazon.co.uk/exec/obidos/Author=Rayban%2C%20Chloe/
+         ... on limited release, there's dependably Canadian black-
+         comedy psycho-drama Nostradamus schedule tie-in LAST NIGHT
+         (http://www.igs.net/~mtr/haiku-reviews.html : "The end of the
+         world/ occurs in six hours. Will we/ really miss it much?")
+         - stars David Cronenberg, Genevieve Bujold and touts the fact
+         that it *doesn't* have Bruce Willis trying to save the world
+         from an unspecified disaster. Yeah, that'll pull in the
+         punters... still, probably more fun than promo-director Hype
+         Williams' gang-banging crack-em-up BELLY (bbfc: passed '18'
+         for strong violence and language), featuring the long-awaited
+         acting debuts of Nas, DMX, Method Man from the Wu-Tang Clan
+         and TLC's Tionne "T-Boz" Watkins, and not - as far as we can
+         tell - based on the biography of the Tanya Donnelly indie-rock
+         band of the same name...
+
+         RED BOOK AUDIO>> no prizes for spotting that WHITNEY HOUSTON's
+         "My Love Is Your Love" ("/ so please close the door, love")
+         sounds like she's singing over Bob Marley's famed double-
+         negative imperative "No Woman, No Cry"; or that JASON NEVINS
+         VS CYPRESS HILL sounds exactly like Jason Nevins Vs Anyone
+         Else. But special NTK crypto-credits awarded for recognising
+         the opening line of the VENGABOYS toe-tapper "Boom, Boom,
+         Boom, Boom!!" as the tune from Abba's "Lay All Your Love On Me"
+         ("I wasn't jealous before we met/ Now every woman I see is a
+         potential threat")... haven't downloaded the whole CHEMICAL
+         BROTHERS album yet, but that "Let Forever Be" track with Noel
+         "Galaga" Gallagher raises the exciting possibility that they
+         *could* just be this year's Jesus Jones. Excellent mind-
+         bending Michel Gondry video, too; show it to your f/x fan pals
+         and watch their brains dribble out their ears... DOM "THE
+         DOMINATOR" MCCLANE hasn't tired of this game either, sourcing
+         "Once In A Lifetime" - from notorious soundalike-merchants
+         TEXAS - back to "Hong Kong Garden" by Siouxsie And The
+         Banshees... and FI CRAIG points out that INTEL's ubiquitous 4-
+         note jingle is "a dead ringer for Hank Marvin's guitar riff on
+         Jean-Michel Jarre's Revolutions - track 2", thoughtfully
+         enclosing a WAV file for those of us who don't have that one
+         in our collections: http://www.ntk.net/ads/jarre.wav ...
+         international webdesign playboy MATT JONES meanwhile raises
+         the stakes, noting that "track 2 of the new BETA BAND LP
+         samples heavily from Disney's 1979 singularityfest The Black
+         Hole. *Kill* them, Maximillian!". Is that what they put in
+         when JIM STEINMAN wouldn't let them use "Total Eclipse Of The
+         Heart"?... and finally, in the "real CD" world: ex-PWEI/BRA
+         drummer FUZZ TOWNSHEND'S "Far In" album is out at last
+         [predicted NTK 1998-10-16], and should be showing up on MP3
+         searches soon; but WEIRD "AL" YANKOVIC's latest, "Running With
+         Scissors", is there already, featuring "Pretty Fly For A
+         Rabbi", "It's All About The Pentiums", and Phantom Menace
+         tribute "The Saga Begins", to the tune of "American Pie"
+         (what else?): http://www.sagabegins.com/ ...
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as
+                "100 issues on, getting the readers we deserve"
+                     http://www.ntk.net/linuzx/amstrad.txt
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

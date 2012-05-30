@@ -1,0 +1,350 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-06-23_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         Research suggests that while computer-mad pupils were once
+         considered boring by their peers, they are now thought of as
+         "friendly and fun".
+               - BBC News on NOP's too-late-to-help-anyone-here study
+http://news.bbc.co.uk/hi/english/education/newsid_793000/793983.stm 
+                          ...never too young to start being sarcastic
+
+
+                                >> HARD NEWS <
+                                 lost ma trews
+
+         Well, it looks like Marc Andreessen couldn't make it to give
+         his backing to DOT NET, Microsoft's new direction, as
+         originally planned. Apparently he was caught trying to climb
+         out the toilet window just before the demo, and had to be
+         beaten to death. Still, Gates and Ballmer did okay on their
+         own, explaining how their renamed NGWS, as well as being an
+         engine of an instant lawsuit with Future Publishing, was the
+         embodiment of Gate's new Net-as-OS plans. Terrifyingly, it
+         also seems to show that Redmond really does believe its own
+         publicity. Not only are they attempting to introduce a whole
+         raft of new pseudo-standards (note to editors: supporting
+         XML as a transport is as much following industry standards
+         as supporting eight bit binary), but they're also planning
+         to redo the desktop, re-route around the browser, and - once
+         again, introduce another definitely-not-a-Java-killer, a
+         proprietary language called C#. The ambition, as ever, is
+         breathtaking: if this all works as planned, Gates 
+         indicated, MS will be in a monopoly position at almost every
+         level of Net business. And wouldn't that be cool, he
+         grinned - as though everyone, including the Supreme Court
+         would grin back. Meanwhile, in Australia, we have MS
+         claiming that the new National Privacy Principles "may
+         unnecessarily restrict our ability to investigate and
+         enforce our intellectual property rights". Ah, hell,
+         let's give them their own courts and a police force
+         and have done with it.
+         http://www.microsoft.com/presspass/topics/f2k/whitepaper/default.asp
+  - fortunately, what they don't know is they can't innovate for shit
+http://www.australianit.com.au/common/storyPage/0,3811,829441%255E1286,00.html
+      - tick yes if you would like to receive future prison sentences
+
+         A defender for RIP! John Carr has been quick to come to the
+         defence of the new bill, telling the OBSERVER newspaper that
+         "Children, consumers, trading companies and financial
+         institutions have all been targeted and harmed, some very
+         seriously" by the evil cyberterrorists that the bill will
+         thwart. He does this, of course, in his role as
+         outspokensman for NCH Action for Children - and certainly
+         not as the husband of Baroness Thornton, the peer most keen
+         in the house get the industry to pay for RIP. The government
+         may want to cast an eye over Carr's other suggestions,
+         however. An enthusiastic advocate of censorware (and
+         advocate of a 5p tax on every Net user to fund his
+         obligatory Web ratings system), he was less than happy when
+         Burger King gave out free copies of the Net Nanny filtering
+         prog this month. It turned out that those innocent children
+         were grabbing the free CDs to get hold of the list of banned
+         pr0n sites that Nanny displays during the install. "A
+         complete mess", he sighed. Which is what happens when
+         you act without thinking these things through, John.
+         http://www.observer.co.uk/politics/0,6903,333563,00.html
+                                   - "doing nothing is not an option"
+http://www.telegraph.co.uk/et?ac=000112801049925&pg=/et/00/6/22/ecnburg22.html
+                                      - when we can do far worse
+
+         So the new look, new stupid, Deja decided to killfile five
+         years of Usenet archiving to concentrate on its
+         comparison-shopping core incompentency ("only 10% of our
+         traffic is to postings older than a year", says the company,
+         neatly decimating their user base in one swoop). But surely
+         Usenet is the best shopping guide there is? Take the healthy
+         exchange of opinions across the alt.digitiser newsfroup this
+         week on WACKY RACES, the new Mario-kartalike from Gremlin
+         software. Some say it appears to be "fun" and "looks great".
+         Others disagree ("pile of poo","shit"). But who do you
+         trust? At first glance, the fact that all the positive
+         reviews come from disposable dejanews accounts looks a
+         little suspect. But then, as MARK WILLIAMSON spotted, a
+         quick perusal of the headers show they *are* experts:
+         they all originate from Gremlin's own network. And if anyone
+         knew it was shit and needed a bit of fake grassroots
+         propping-up, it'd be Gremlin's PR team, right?
+         http://www.deja.com/=dnc/getdoc.xp?AN=637607540
+                                          - l33t haXX0rs j0\/rn8l1st3
+         http://faq.fearsatan.cjb.net/
+                                                          - who am ge
+         http://www.salon.com/tech/log/2000/06/20/deja/
+                             - additional reporting by Andrew Leonard
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         T-babe is "world's first virtual pop artist" chortles
+         DOT.COM TELEGRAPH (apart from Japan's Kyoko Date, featured
+         by Telegraph 1996-05-20)... brave stab at world's most FAQ:
+         http://support.euro.dell.com/uk/en/kb/document.asp?DN=FA1014246
+         ... whois dot.net ... the usual preamble to this joke is:
+         "ouch!" http://www.ntk.net/2000/06/23/compudoh.png ... so
+         when is FIRST TUESDAY going to organise a whip-round? ...
+         ... http://www.liftshare.com/ shares a certain resemblance,
+         "online services" with http://www.rac.co.uk/ ... hold on:
+         you mean different countries have different "CHANNEL FOURs?"
+         http://uk.imdb.com/Title?0239164 ... very early stage of
+         "its way": http://www.ntk.net/2000/06/23/dohlargest.gif ...
+         http://nav.webring.org/hub?ring=incident&id=89;next5 - See?
+         They admit it: "The Columbine Incident made possible by WebRing"
+         ... http://members.spree.com/business/vitaldomains/ :
+         stapleextractors.co.uk will be the big money-spinner I'm sure ... 
+         new UK internet start-up chooses to represent itself
+         with instantly recognisable image of electronic competency
+         http://www.servista.com/ ... RSI caused by pirates:
+         http://www.sky.com/news/technology/story11.htm (see final para) ...
+         this week's Nathan, courtesy of THE REGISTER: 
+         http://www.theregister.co.uk/content/35/11556.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         As pre-advertised last week, the UK crypto community get
+         together to tell the *real* story of cracking Enigma (among
+         other things) in Cambridge all day Sat 2000-06-24 (Whit
+         Diffie's co-"organised" it, but will he be there in person?).
+         Continuing the retro theme, 8-bit get-together BRITMEET 3 will
+         be clashing the attributes from Saturday morning onwards -
+         and, further to our observation that these events always seem
+         to take place in a village hall somewhere in Hertfordshire,
+         that's exactly where they're holding it.
+         http://www.dcs.warwick.ac.uk/bshm/meetings.html#crypt
+               - Ross Anderson says the whole gang's going to be there
+         http://www.britmeet.co.uk/attendees.html
+                                        - trade "wares"! take a guest!
+http://www.clickto.com/coinop/game.html/{867BA7E2-947B-487D-91C3-5FD72958A50D}
+                        - and look out for this odd-sounding CIA troll
+
+         You know, we're really going to miss the daft-tastic TECH
+         NICKS "computer arts" conference (for a start, it's meant 3
+         weeks of easy material). Latest is that Alexei Shulgin's
+         hilarious underclocked cyber-rock 386DX had to be cancelled
+         due to a "misclassification" - but fear not, music fans,
+         because, in an event that's almost *too* self-consciously
+         TVGoHome in its billing, none other than HARI KUNZRU will be
+         spinning "cutting edge electronic tracks in a lounge-y
+         environment while videos of nuclear weapons tests are
+         projected onto the gallery windows in film gathered by the
+         Land Use Interpretation Centre". This from 8pm Sat 2000-06-24,
+         Hoxton Sq, London, while RTMark tout their same old anti-
+         corporate "victories" from 2pm Sun, same venue.
+         http://www.noaltgirls.org/tech_nicks/
+            - and what's a "no alt girl"? A few "alt tags" might help...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         He's not one for the "suck it down" school of gaming
+         celebrity, but Jason Jones, the coder behind such Mac 3D
+         smashes as MARATHON, MYTH, and the expectantly-awaited HALO
+         has his own clan o'fans. Enthusiastic Mac advocates, mainly,
+         who still appreciate how his company, Bungie, stuck with the
+         platform through thick and thin. In their eyes, the
+         MacCarmack can truly can do no wrong. Unless they, say, sold
+         the whole company to Microsoft for an undisclosed sum, and
+         bunked out of Chicago to darkest Redmond to work on the
+         X-Box. Like Bungie did last week. Oops. Anyway, before the
+         entire community exploded into pro and anti MicroBung
+         factions, the gift that keeps on giving was given unto them:
+         a GPLed source archive of Marathon II. Now, as their master,
+         his eyes blinded by the Seattle mind-control lasers, screams
+         "AZAG-THOTH TA ARDATA! IA MARDUK! IA MARDUK!" in the frozen
+         wastes, an elite band of Mac free softwarers keep the flame
+         alive. Mainly by writing a mini-app for the MacOS that lets
+         you shut down applications by shooting at them with a .44
+         Magnum. But that's open source for you. It's called Aleph 1
+         Resource Manager.
+         http://source.bungie.org/
+                      - "Microsoft's Very Own Open Source Initiative"
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         we want Moebius cars!: http://itsf.spaceart.net/ ... 
+         clearly a huge demand for swearing versions of *everything*
+         http://www.searchbastard.com/ ... now, who could you get to
+         sponsor http://www.nikemissile.org/ ... if anything not
+         obscure *enough*: http://www.mono211.com/drfetid/ ...
+         http://www.geocities.com/agenttyrone/Bushell.html vs
+         http://www.garybushell.com/ ... sing-a-longa-tom's-testicula
+         http://www.deja.com/=dnc/getdoc.xp?AN=628683274 ...
+         inevitably, it's the Germans behind QUAKE KLUX KLAN
+         http://www.geocities.com/TimesSquare/Dungeon/2329/ ... has
+         "when hell freezes over" been taken yet?
+         http://www.actuality.co.uk/adsluk/sweepstake.shtml ... and,
+         at the grown-up's end of the memepool: http://www.lpsg.org ;
+         if you spend too long hanging out at Channel Five
+         http://s11.sexshare.com/~pal/deep.htm ; or indeed at Channel
+         Four: http://www.geocities.com/cypherpunk2000/bitsgirls.mpg
+         and, finally, a 1Gb drive you can stick up a celebrity's bum
+         http://imaging-resource.com/NPICS1/1GBMICRODRIVE_1_S.JPG ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> BBC2 fields some serious competition to C5's truncated
+         repeats of KNIGHT RIDER (10am, Sat, C5), with Richard Dawkins
+         "recalling his sci-fi inspiration" - uh-oh - in MIND BITES
+         (10am, Sat, BBC2), plus GLOBAL FANTASY 2 - THE IRRESISTABLE
+         RISE OF THE COMPUTER GAME? (10.05am, Sat, BBC2), trotting out
+         the usual chestnut "games market worth more than movies - but
+         why doesn't anybody *care*?"... Julian "The Teardrop Explodes"
+         Cope, aka THE MODERN ANTIQUARIAN (7pm, Sat, BBC2), tries to
+         find a new angle on the well-worn subject of stone circles, to
+         a haunting folk soundtrack of his '80s hits "World Shut Your
+         Mouth" and "Trampoline"... squeezed between football and
+         imminent tennis, half-decent movies include: ropey Stallone
+         sound-stage shoot-em-up CLIFFHANGER (9.50ish, Sat, BBC1),
+         slasher-in-space vs girl-in-pants favourite ALIEN (12.10ish,
+         Sat, ITV), and Kim "Sex In The City" Cattrall's shower-scene
+         classic PORKY'S (Sat, 10pm, C4) - which was, staggeringly,
+         adapted into an Atari 2600 video game... the Radio Times,
+         unencouragingly, believes the 1997 movie of DC's JUSTICE
+         LEAGUE OF AMERICA (5.20pm, Sun, C5) to be a Mystery Men-style
+         spoof... Will Smith and Michael "The Rock" Bay pay blistering
+         homage to Miami Vice in BAD BOYS (10pm, Sun, C4)... and C5 and
+         C4 join forces to commemorate the film career of Pamela
+         Anderson, in NAKED SOULS (10pm, Sun, C5) and Casablanca knock-
+         off BARB WIRE (10pm, Wed, C4)... that post-news "Virtual Me"
+         website slot has been swiftly replaced by IT'S UP TO YOU, BOYS
+         (7.55pm, Mon-Wed, C4), a similarly in-depth celebration of
+         condoms... irritating Alan Davies cheats on Simone "Space
+         Precinct" Bendix in avoidable new sitcom A MANY SPLINTERED
+         THING (10.20pm, Tue, BBC1)... and Adam Hart-Davis - who
+         apparently lives with Susan "The Meme Machine" Blackmore -
+         attempts to seed the minds of young pioneers everywhere by
+         cobbling together the last in this series of LOCAL HEROES
+         (8.30pm, Tue, BBC2) from inventions *you* have sent in...
+
+         FILM>> another fantastic week for conoisseurs of low-rent
+         action trash, with Peter "Scooper from the Double Deckers"
+         Firth, Skeet "Scream" Ulrich, and Cuba Gooding Jr - together
+         *at last*! - in temperature-sensitive "Wages Of Fear"/ "Speed"
+         knock-off CHILL FACTOR (http://www.capalert.com/ : dog attack;
+         high speed antics; human flesh disintegrating; porno
+         background music; dressing to maximize the female form)...
+         after last week's "Supernova", Lou Diamond Phillips is back,
+         in the company of Dina "Starship Troopers, Johnny Mnemonic"
+         Meyer and thousands of computer-generated BATS (imdb: mad-
+         scientist / independent-film)... and will dulling down the
+         name from "Reindeer Games" make anyone want to go see mistimed
+         snowy Yuletide Ben Affleck mistaken-identity crime clunker
+         DECEPTION? (http://www.cndb.com/ : Charlize Theron - "small
+         but perky, orange-size knockers--very cute. On the Charlize
+         Nudity Scale, not as good as 2 Days In The Valley but better
+         than Devil's Advocate and much better than Cider House
+         [Rules]"; http://www.capalert.com/ : Christmas without
+         Jesus)... otherwise a selection of camp cross-dressing farces:
+         Jeanne "Waterworld, Basic Instinct" Tripplehorn's Noel Coward
+         costumer RELATIVE VALUES (http://www.bbfc.co.uk : passed 'PG'
+         for infrequent mild language)... Martin "Bad Boys" Lawrence's
+         "Nutty Professor 2" spoiler BIG MOMMA'S HOUSE (imdb: black /
+         overweight / southern-baptist / southern-u.s. / surprise-
+         birthday-party / surveillance-camera / surveillance /
+         undercover / disguise / escaped-convict / fbi / gender-
+         disguise / mask / mother-son)... and Madonna's famously poor
+         remake of Terminator 2's surrogate-father subtext THE NEXT
+         BEST THING (http://www.capalert.com/ : smelting pot of
+         sexually immoral issues; pathetic disregard for sex, gender,
+         birth, parenthood; pregnancy out of wedlock; presentation of
+         yoga; two men speaking of relationships in a traditionally
+         "female" style)...
+
+         HARD LIT>> it's been a while since our last "books" round-up,
+         but in that time, the excessively-detailed all-new NTK
+         BESTSELLERS CHART http://www.ntk.net/books/ has started
+         delivering the kind of hard-hitting demographic info that   
+         hopefully *scares the hell* out of marketing people: the
+         average NTK subscriber buys 0.0384 of a book (or CD or video)
+         per year, and is primarily interested in gay sex, contemporary
+         fiction, Linux programming, and cartoons... in a surprise
+         turnaround, THE STAR WARS COOKBOOK and THE NUDIST ON THE
+         LATESHIFT have just joined CRYPTONOMICON and, provably the
+         most mathematically rigorous s/f novel ever, PERMUTATION CITY
+         at number 1 (and Permutation City isn't even on sale any
+         more), while Paul Auster holds onto the number 2 slot with NEW
+         YORK TRILOGY, and The Onion, Dave Barry, Carl Hiaasen, KW
+         Jeter, Bill Gibson, O'Reilly's EVIL GENIUSES IN A NUTSHELL,
+         plus THE RUNNER'S HANDBOOK (some sort of keep-fit manual,
+         rather than a Logan's Run episode guide) battle it out for
+         number 3 with a staggering *2* sales each... bubbling under
+         are this month's non-fiction recommendation - John Allen
+         Paulos' ONCE UPON A NUMBER: THE HIDDEN MATHEMATICAL LOGIC OF
+         STORIES (featuring an all-too convincing computational
+         analysis of humour), and Steven "Guardian" Poole's pretentious
+         Edge-fodder TRIGGER HAPPY: THE INNER LIFE OF VIDEOGAMES - a
+         mildly more insightful version of JC Herz's "Joystick Nation"
+         (and not in a good way)... not much in the way of reader
+         reviews so far: IAN HOLMES wanted people to know that Rudy
+         Rucker's REALWARE is "out soon" (or now, in fact, in the US -
+         maybe he mailed us a while ago); the ubiquitous ALAN CONNOR   
+         noted that our chart mentions books he's ordered but that   
+         Amazon "have no intention of sending me because they can't
+         find them or they don't exist"; and, finally, several people
+         sent us an elaborate pseudo-pyramid scam exploiting Amazon's
+         current UKP5 press-ad voucher scheme... basically, you use the
+         voucher to buy Wilbur Smith's MONSOON (UKP1.99, current sales
+         rank: 42) - or anything else which, plus p&p, comes to less
+         than UKP5 - then persuade 20 of your friends to do the same
+    http://www.amazon.co.uk/exec/obidos/subst/partners/friends/access.html
+         and end up with UKP100 gift vouchers to spend on something
+         worth reading. Loathsome chain-letter? Revenge on Amazon? Or
+         just some mad Wilbur Smith viral marketing? You decide...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                   "flawed in some way" (unlike PC FORMAT!)
+     http://131.111.136.3/~dyh21/content/images/pcformat/pcformat_britblog.jpg
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

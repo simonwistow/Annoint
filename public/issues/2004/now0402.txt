@@ -1,0 +1,299 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-04-02_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Ten years out, in terms of actual hardware costs you can 
+         almost think of hardware as being free..."
+         - Bill Gates over-reacts to getting a scanner *and* a printer
+                                               bundled with his new PC
+http://www.reuters.co.uk/newsArticle.jhtml?type=internetNews&storyID=4693305
+
+
+                               >> HARD NEWS <<
+                             like Louis Theroux
+ 
+         Thanks be to the radically distributed nature of teh
+         Intahweb, instead of (say) two or three weak jokes being
+         enforced on us by the goliath media conglomerate juntahs,
+         we can now suffer billions of April Fool japes, merrily
+         filling up your inbox, clogging your RSS feed, and archiving
+         and indexing themselves for eternity - to the point where
+         the whole tradition has moved from "an excuse for funny
+         jokes" to "day of the tedious lies". The funniest ones remain
+         the self-reflexive fools: Google Mail *chortle*, Freeserve
+         renaming itself Wanadoo *snurk*... and, for us, this
+         wording on a recent Dreamweaver Upgrade FAQ: "Q. Is there any
+         new functionality in this update? A. This update does not
+         add any new functionality to Dreamweaver MX 2004. We wanted
+         to offer the updater to our users for free and, to comply
+         with US accounting rules, we couldn't include any additional
+         functionality and not charge for it." Excellent prank on the
+         already jittery Free Software Movement, Macromedia. In
+         America, you legally can't provide features *without*
+         charging money? Told you we should have fought the TANSTAAFL
+         Act of 2003 while we had the chance, comrades!
+http://www.macromedia.com/software/dreamweaver/productinfo/faq/updater/#item-5
+              - release date: March 11. now it makes even *less* sense
+http://www.mallesons.com/publications/information_technology/6988799W.htm
+                                    - still think they're making it up
+         http://www.livejournal.com/users/moroveus/138722.html
+                                          - okay, this was quite funny
+
+         You'll be pleased to know that Tony Blair now thinks "there
+         is no longer a civil liberties objection to [ID cards] in
+         the vast majority of quarters", and so he's now on for
+         rolling them out as quickly as poss. Must have been that "ID 
+         cards would have saved the Morecambe Bay cockle pickers"
+         argument that won us all over, then. Meanwhile, those two
+         last stragglers, Ross Anderson and John Gilmore met the
+         full logical force of the opposition's arguments. John
+         Gilmore's commendably quixotic attempt to show that he
+         shouldn't have to show ID on internal flights stumbled in 
+         the US courts; and poor old Ross Anderson finds he has to 
+         show a passport to cash a thousand quid cheque at his home 
+         branch of Natwest. I think that's *them* convinced of the 
+         need for compulsory ID, Prime Minister.
+http://www.downingstreetsays.org/archives/000431.html#scraper406d2fbc.164
+                                   - well now that we're all agreed...
+         http://www.spy.org.uk/spyblog/
+           -  ...we can do without that whole oversight business, yes?
+      http://politechbot.com/pipermail/politech/2004-March/000550.html
+                                                   - suspected tourist
+      http://politechbot.com/pipermail/politech/2004-April/000575.html
+               - and then they came for the kittens and i said nothing
+         http://www.efc.ca/pages/media/nz-computerworld.12may97a.html
+           - you'd think that Natwest would know Mr Anderson by now...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         just wondering where the OFT might have found all these dodgy 
+         schemes: http://www.ntk.net/2004/04/02/dohoft.gif ... heavy, 
+         man: http://www.ntk.net/2004/04/02/dohpu.gif ... Jo Moore? Jo 
+         Brand?: http://www.ntk.net/2004/04/02/dohjo.gif ... Welsh 
+         edition: http://www.ntk.net/2004/04/02/dohfro.gif ... GOOGLE 
+         GOOFS of the month: "ass-needed basis", "Microsoft Widows", 
+         "guset of honor", "heart rendering", "ascetically pleasing", 
+         http://www.google.com/search?q=%22goof+friday%22+christ , 
+         http://www.google.com/search?q=antedepressants - as prescribed 
+         by http://www.google.com/search?q=anti-natal clinics. Oh and: 
+       http://www.google.com/search?q=%22text+is+invisible+on+the+page%22
+         - web design secrets revealed... Beeb's productivity-reducing 
+         tips: http://www.ntk.net/2004/04/02/dohprod.gif ... the jazz 
+         classic: http://www.ntk.net/2004/04/02/dohcolo.gif ... Noddy 
+         Holder's son: http://www.ntk.net/2004/04/02/dohholder.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Not too much happening next week (though free registration for 
+         UK Wifi exhibition at Olympia next Tue & Wed), so consider 
+         this advance warning of PROFESSOR KEVIN WARWICK's whirlwind 
+         tour of London on Monday 2004-04-19 - registrations for his 
+         keynote at "Ubiquitous Computing" conference UBICONF (9am, 
+         Gresham College, Holborn, London EC1N, free) are now full, 
+         though they promise to "contact you" if a space becomes 
+         available/ Warwick manages to "upload" himself into a laptop 
+         or something. Then it's just a quick dash across town for a 
+         debate with Edinburgh University roboteer PROF CHRIS MALCOLM 
+         on INTELLIGENT CYBORGS: SCIENCE FACT OR SCIENCE FICTION? (7pm, 
+         Institution of Electrical Engineers, Savoy Place, London, WC2, 
+         free for students/ under 18s, UKP23.50 for IEE members, mehums 
+         UKP35.25). 
+         http://www.wlanevent.com/
+             - and just 2 weeks until http://www.linuxuser.co.uk/expo/
+         http://www.uclic.ucl.ac.uk/ubiconf/programme.html
+                 - Warwick undeniably "ubiquitous". Iniquitous? Maybe.
+         http://www.iee.org/events/cyborgs.cfm
+       - looks like *something's* given Malcolm the fright of his life
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Occasionally an established bit of code passes out of
+         circulation, and waits for its moment to come again. History
+         files become legend, Freshmeat entries become myth, and some
+         programs that should not have been forgotten... are lost.
+         So it is with DSNIFF, the humble password sniffer and arp
+         poisoner from yesteryear. Last toyed with by author Dug Song
+         back in 2000, dsniff has theoretically been replaced with
+         far more sophisticated network analysis tools. But only
+         no-one but the self-consciously l33t understands ettercap,
+         and the rest appear to be mostly half-completed
+         script-kiddie promotional products. What dsniff does is
+         simple: you run it (or one of the suite of programs it comes
+         with), and it tells you what passwords are in the clear on
+         your network. From POP3 to unencrypted SAMBA to http auth to
+         (a sign of its ancient origins) the old Napster. Its
+         filter file is simple so you can add your own; its output is
+         obvious and often revealing. In these days of open WiFi
+         networks, dsniff's utility has grown. And, sad to say, most
+         of the plaintext passwords it was sniffing in 2000 are still
+         sailing past under our noses today.
+         http://naughty.monkey.org/~dugsong/dsniff/
+               - cue "no, no everyone is using (.*) these days" emails
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         hey, there's no "Thou shalt not show DVDz" in the Bible: 
+        http://www.iol.co.za/index.php?art_id=vn20040331031946909C173481
+         ... MS unveil new "embrace your Orwellian future" ad campaign: 
+http://www.microsoft.com/Windowsxp/mediacenter/images/homepage/xpMCE_hero.jpg
+         ... unexpected "one not safe for work like others" round-up: 
+         http://images.google.com/images?q=msn+people&safe=off + 
+         cyberman, crocodile, McDonalds... next week - pop-ups with 
+         Leonardo: http://www.sean.co.uk/a/webdesign/goya/index.shtm 
+         ... when audiophiles strike back (sounds like just a lot of 
+         fast thuds to us, your mileage/ speaker damage may vary): 
+         http://www.wildcard.demon.co.uk/audio/EXTREMECAUTION/ ... 
+         after you've spent the whole day enduring laboured /. April 
+         Fools, Andrew Orlowski just misses midday deadline (West Coast 
+         time): http://www.theregister.co.uk/content/28/36743.html ... 
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Anna "Scary Movie" Faris guests in FRIENDS (9pm, Fri, 
+         C4)... "I finally downloaded the original Space Invaders. I'm 
+         talking quality 1981 graphics here", claims a character in 
+         Melissa "Sabrina" Joan Hart high-school nerd makeover DRIVE ME 
+         CRAZY (12midnight, Fri, ITV)... and Spalding Gray monologue 
+         GRAY'S ANATOMY (11.40pm, Fri, BBC4) contains no "actual 
+         anatomy information or study", complains one Amazon reviewer 
+         http://www.ntk.net/2004/04/02/dohgray.gif - not many alien 
+         "Grays" in it either... despite a career making people laugh, 
+         a popular comedian *wasn't happy*, confides LES DAWSON'S LOST 
+         DIARIES (9.10pm, Sat, C4)... don't know about you, but we 
+         can't get enough of the saucy serial killer subject of 
+         OVERKILL: THE AILEEN WUORNOS STORY (11.05pm, Sat, C5)... as 
+         the realisation that the past is more exciting with a pounding 
+         rock soundtrack is simultaneously arrived at by HISTORYONICS 
+         (6.30pm, Sun, BBC1) and DARING RAIDS OF WORLD WAR II (7.30pm, 
+         Wed, C5)... the winner of BODYGUARDS (8pm, Sun, C4) goes on to 
+         face "Regency House SAS Are You Tough Enough" in the final... 
+         then the terrestrial premier of flying swordfight nonsense 
+         CROUCHING TIGER, HIDDEN DRAGON (9pm, Sun, C4) is unfortunately 
+         scheduled against defensible Damon/ Affleck math-'em-up GOOD 
+         WILL HUNTING (9pm, Sun, BBC2), a low-key start to a week of 
+         horror which also features SHADOW OF THE VAMPIRE (11pm, Sun, 
+         BBC2), NIGHT OF THE LIVING DEAD (12.25am, Sun, BBC2), director 
+         docu THE AMERICAN NIGHTMARE (11.20pm, Mon, BBC2), Matthew 
+         "Shaggy" Lillard mystery DEAD MAN'S CURVE (11.35pm, Mon, 
+         BBC1), plus the original - which the remake TV ad curiously 
+         portrays itself as "better than" - DAWN OF THE DEAD (11.20pm, 
+         Wed, BBC1)... the dark secrets of Disney are exhumed in 
+         OUTRAGEOUS FORTUNES (9pm, Mon, BBC3)... while the anti-fascist 
+         message of concentration camp history A LETTER TO LILLI 
+         (11.15pm, Wed, BBC1) is so powerful that the Radio Times deems 
+         it "required viewing for every child in the country"... 
+         
+         FILM>> the imminent Easter break means a bunch of movies they 
+         might just have got away with, if it hadn't been for those 
+         pesky meddling kids - led by SCOOBY DOO 2: MONSTERS UNLEASHED 
+         ( http://www.capalert.com/capreports/scooby-doo2.htm : several 
+         monsters; [Linda Cardellini] in a skin-tight red leather 
+         outfit trying to vamp it up to attract [Seth Green] and the 
+         camera forcing the viewer to focus on her posterior as she 
+         climbed into a van; much better than the original Scooby-Doo, 
+         not only because of the measurably lesser and fewer issues of 
+         assault on ethics and morality but because of just a plain 
+         better job at film making and story-telling)... "The Exorcist" 
+         - set in a women's prison - is the feelgood pitch for GOTHIKA 
+         ( http://www.cndb.com/movie.html?title=Gothika+%282003%29 : In 
+         one of [Halle Berry's] interviews, she said that there is 
+         brief nudity by older, unattractive women made up to look like 
+         they live in a loony bin. I don't think I would go see this 
+         for the nudity, if I were you)... while Mike Myers brings his 
+         trademark toilet humour to loose Dr Seuss adaptation THE CAT 
+         IN THE HAT ( http://www.capalert.com/capreports/catinthehat.htm :
+         sexual innuendo and imagery emulating arousal; mischief = fun; 
+         of course, there is "redemption" of the youthful disobedience 
+         and wrongdoings provided in the end)... Charlize Theron *is* 
+         Christopher Walken in downbeat serial killer drama-doc MONSTER 
+         ( http://www.cndb.com/movie.html?title=Monster : If you had 
+         told me a few months back that a [lesbian] scene between 
+         [Christina] Ricci and Theron was going to be pretty much 
+         unerotic, I would have figured you were insane!)... making a 
+         surprise limited-release star of 'Nam-era US Secretary of 
+         Defense Robert McNamara in military self-examination FOG OF 
+         WAR ( http://www.screenit.com/movies/2003/the_fog_of_war.html : 
+         Phrases: "Hell of a fix," "Worked my tail off," "Dead-damn," 
+         "Wasn't worth a damn," "To hell with it," "You're crazy as 
+         hell," "Who in the hell?" and "A hell of a mess")...
+         
+         CONFECTIONERY THEORY>> the slightly warmer weather brings this 
+         year's new ice-creams oozing into freezer cabinets, led by 
+         what aims to be the "Magnum 7 Deadly Sins" of 2004, WALLS' 
+         CORNETTO LOVE POTIONS (approx 95p), already available in at 
+         least 4 varieties including Tiramisu With A Spicy Bite ("the 
+         first few munches do have a slight tang" - LEON OLDMAN), and 
+         Choc Chip Flirt With Hazelnut ("much more satisfying" - ibid): 
+         http://www.snackspot.org/thread.php?story=0403041320cpi ... 
+         other frozen horrors to look out for include Ben and Jerry/ 
+         Unilever's 'WICH ice-cream/cookie sandwich, their semi-
+         politicised strawberry-cheesecake-swirls PEACE OF CAKE tubs 
+         http://www.benjerry.co.uk/givealick/50ways/ and MAGNUM INTENSE 
+         on a stick - that's if you can drag yourself away from the 
+         return of MCDONALD'S CREME EGG MCFLURRY, a Beaujolais Nouveau-
+         esque annual event that the company are celebrating with a 
+         revamped (Supersize-option-free) menu featuring a SIDE SALAD 
+         WITH BALSAMIC DRESSING and UNIQUE QUORN FILLET SANDWICH... 
+         NESTLE have relaunched their ailing DOUBLE CREAM in bizarre 
+         new (Wonkalate-like?) DOUBLE BERRY form ("the raspberry and 
+         blackcurrant pieces aren't that special and seem to have come 
+         straight out of a cereal bar" - ALEX), and Cadbury sprinkled a 
+         handful of peanuts into would-be Snickers rival DOUBLE DECKER 
+         WITH NUTS ("I was disappointed by this, if only because they'd 
+         replaced the oh-so-chewy mallow with crispy-hard nougatine. 
+         Hardly within the same product category if you ask me" - 
+         FLAMEPROOF)... yet, even overtaking the debut of ROBINSONS 
+         SQUASH FOR MILK, last month's most exotic new product remains 
+         Masterfoods' sour saliva-stimulating AQUADROPS ("i will never 
+         drink water again as the refreshing sensation of aqua drops is 
+         more than enough to satisfy my needs", brags DISCOQUEEN500): 
+         http://www.snackspot.org/thread.php?story=0402171303sbc . But 
+         that may change as we're still awaiting sightings of CADBURY 
+         GIANT FINGERS, MULLER MCVITIES CORNERS, KIT KAT ORANGE KUBES, 
+         and the chilling prospect of "chewy fruit sweets whose flavour 
+         does not match the colour on the outside" - FRUITY SMARTIES... 
+                                                               
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+          "moving, shaking, showing other signs of Tourette's syndrome"
+               http://tv.cream.org/extras/moversshakers/40-31.htm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

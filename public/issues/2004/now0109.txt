@@ -1,0 +1,330 @@
+  __  __ _2004-01-09   _________  __
+ |  \/  (_)_ __ (_) \ | |_   _| |/ /    o Subscribe via the beauty of
+ | |\/| | | '_ \| |  \| | | | | ' /     o   http://lists.ntk.net/
+ | |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+ |_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+         [ The answers to last week's quiz, in as horrific a text
+         formatting as we could muster in the time available. ]
+
+                               >> BLOCK QUOTE <<
+                            who said this about what?
+
+         "So what's worse than a rich guy who creates format
+         protocols that are sticky, has a high flow weblog, and a
+         fellowship at Harvard? Not much."
+      A. DAVE WINER, a rich guy who creates format protocols that are
+         sticky, has a high flow weblog and a fellowship at Harvard,
+         being uncontroversial for once.
+         http://archive.scripting.com/2003/05/07#When:5:41:06PM
+
+         "An alcoholic, a BigCo employee and a 16 year old kid"
+      A. DAVE WINER again - answering, it seems, his own question. The
+         expression - which refers to "Dive Into Python" author Mark
+         Pilgrim, XML guru Sam Ruby, and, uh, 16 year old kid Aaron
+         Swartz, popped up in a piece Dave wrote, attacking Pilgrim
+         and others for "stalking" him by automatically tracking
+         his continuous and invisible re-writes of his articles.
+         A while later, Dave re-edited the piece, deleting the
+         phrase. So we guess he didn't say it at all. Our goof.
+         http://essaysfromexodus.scripting.com/stories/storyReader$2108
+
+         "Most Brits that I spoke with had never used the Internet"
+      A. Ars (snigger) Digita chief mourner PHIL GREENSPUN,
+         complaining that the $300 a night hotels he stayed in didn't have Net
+         access. Of course, a lot of people in those hotels haven't used a bus
+         either, so what does that prove, you big mobile-spurning ninny?
+         http://blogs.law.harvard.edu/philg/2003/06/04#a459
+
+         "What are they going to do next? Start putting chips in
+         people to make sure we are eating properly?"
+      A. Top Seventies DJ TONY BLACKBURN, temporarily standing in as
+         the Sunday Times' privacy expert. Either that, or pulling
+         quotes from Classic Gold when you're on the way to the office
+         counts as research.
+         http://www.timesonline.co.uk/article/0,,2087-790512,00.html
+
+         "Then for whatever reason the pictures then became part of
+         the desktop and filled up the whole screen. Then I started
+         to panic, thinking the pictures would perhaps go anywhere
+         else on the computer that they shouldn't."
+      A. The aptly named EAMONN GALL, who claimed that all the pr0n
+         his wife found on their PC had come from the brand-new digital camera
+         he'd just bought. What-ever.
+         http://news.bbc.co.uk/1/hi/england/manchester/2997317.stm
+
+         "I'd be there too, but my head would be a casio keyboard and
+         when I got angry it would play the demo."
+      A. STRONGBAD, discussing his kah-razy cartoon. Cuppin' Cakes.
+         (You see, you can't Google for all of these. Especially when we badly
+         paraphrase the quote.)
+         http://www.homestarrunner.com/sbemail72.html
+
+         "Whenever someone thinks that they can replace SSL/SSH with
+         something much better that they designed this morning over
+         coffee, their computer speakers should generate some sort of
+         penis-shaped sound wave and plunge it repeatedly into their
+         skulls until they achieve enlightenment."
+      A. PETER GUTMANN, in... wait, hold the keyboard! Jamie Zawinksi writes:
+         "While it is true that Mr. Gutmann used that phrase in a
+         message to the cryptography mailing list in Sep 2003 --
+         http://www.mit.edu:8008/bloom-picayune/crypto/14238 -- he
+         lifted it from a comment made by Mr. Makali in my
+         LiveJournal in Dec 2002 --
+         http://www.livejournal.com/users/jwz/123070.html#t521918 --
+         which entered the wider vernacular when my page
+         http://www.jwz.org/doc/linuxvideo.html was Slashdotted in Jan
+         2003 -- http://slashdot.org/article.pl?sid=03/01/24/1440207
+         The original formation was
+         makali: 'Whenever a programmer thinks, "Hey, skins, what a
+                  cool idea", their computer's speakers should create some
+                  sort of cock-shaped soundwave and plunge it repeatedly
+                  through their skulls.'
+         jwz: 'I fully support your proposed audio-cock technology.'"
+
+         So now you know.
+
+         "It was a girl who answered! They know our weakness!"
+      A. Penny Arcade, who evilly tried to bury an entire children's
+         hospital in toys this Christmas like some Batman
+         arch-criminal or something, indulge in some geek-on-geek
+         violence with the Linux weenies.
+         http://www.penny-arcade.com/view.php3?date=2003-06-30&res=l
+
+         "You got your STM/ over 1310/ You got your SRP/ which is DPT"
+      A. Our favourite sysadmin filk since http://www.kiai.org/ssh/ :
+         http://etabeta.noc.seabone.net/inutilities/gigflapping.mp3
+
+         "Peter Jackson?...  Who do you think you are, you fucking
+         hack? ... SHAME ON YOU!"
+      A. Smeagol/Gollum, ungratefully accepting an MTV award on
+         behalf of his programmers. Well, at least it's not Gandalf
+         talking about gay porn again.
+         http://www.theonering.net/scrapbook/view/6856
+http://www.thewavemag.com/pagegen.php?pagename=article&articleid=24507#gandalf
+                               - Gandalf talking about gay porn again
+
+         "That's all right Caucasians, your time is coming"
+      A. The TV in the background of the PARIS HILTON tape. Still no
+         news of the alleged full 45-minute version, signalling perhaps
+         that the 3.5 minute leak was merely a CGI demo tape. We have a
+         t-shirt waiting for the first person to redub the Hilton
+         tape onto a blurry Gollum/Nazgul machinima re-enactment.
+         http://www.geocities.com/hipechik34/stuff/blowbyblow.html
+
+                                >> ANTI-GONE <<
+        to which dearly departed do these falco euphemisms refer?
+
+         Dispatched, is now out.
+      A. Before the Register, before Suck, before Netly News, before
+         the invention of the teletype, there was Brock Meek's
+         "Cyberwire Despatch": the original Net investigative
+         journalist newsletter. On hiatus since 1999 (while its
+         author struggled with some horrid family matters), Meeks
+         finally put the Dispatch to rest, with his standard .sig:
+         "Meeks out". Mr Meeks, we salute you!
+http://www.politechbot.com/pipermail/politech/2004-January/000297.html
+
+         A Friend of Dead
+      A. Peer Information, publishers of Wrox Press and the
+         Alcoholics Anonymous of tech support, Friends of Ed, died like a dog
+         this year. Thank God everyone downloaded the ripped PDFs of their 
+         works before they disappeared from the shops, hey?
+         http://www.ntk.net/index.cgi?b=02003-03-21&l=11#l
+
+         Has vanished below "erotic furries" in the hierarchy.
+      A. The Brunching Shuttlecocks, creators of Evil Overmom and the
+         Geek Hierarchy, had the periodicity of their updates
+         approach asymptotically to infinity.
+         http://www.brunching.com/evilovermom.html
+         http://www.brunching.com/geekhierarchy.html
+
+         Now more luggable than ever.
+      A. Adam Osborne, inventor of the Osbourne I barely-liftable
+         laptop (took fifteen people to carry the pall, etc). You got
+         extra points if you quibbled with George Morrow, developer
+         of the S100 bus, and creator of a short-lived competitor to
+         the Ozzy, who also suspiciously died. We think somebody is
+         trying to kill off everybody who knew CP/M. That person may
+         be God.
+         http://www.bricklin.com/adamosborne.htm
+         http://news.com.com/2100-1008-1000732.html
+
+         He has been inserted into a higher table.
+      A. Ted Codd, inventor of the relational database. He'll never
+         be replaced. Or if he is, it should only be in one place,
+         and be performed atomically through a single known SQL
+         front-end.
+
+         Still winning those continually outdated web page awards.
+      A. D.A. Barham, old friend of NTK, and creator of the
+         Continually Outdated Webpage Award Testimonial
+         (C.O.W.P.A.T.). It was her kind of joke.
+
+
+                                >> TRACKING <<
+                             where would you find:
+
+         A game whose idea is "to perform various moves on breasts?"
+      A. "Frontal Assault", http://fa.xmunkki.org/, placed fourth at
+         Assembly '03. Extra point for knowing that the winner was
+         "Truck Dismount", the sequel to the hyper-addictive
+         falling-down-stairs game, Dismount. http://jet.ro/dismount/
+
+         A "Dow Jones Industrial Average of end time activity"
+      A. The Rapture Index - which has declined a few points
+         recently. Hey, things are looking up! Well, if you're not a
+         fundamentalist Christian. Or the anti-christ.
+         http://www.raptureready.com/rap2.html
+
+         At least two notations for describing sexual positions.
+      A. This is the sort of reader correspondence that makes life
+         worth living.
+         http://www.ntk.net/index.cgi?b=02003-08-15&l=264#l
+
+         A place to ask (futilely) how to melt wood and polos?
+      A. news://bionet.biophysics - failing to come up with the goods
+         since 1994.
+         http://groups.google.com/groups?th=34e75e612afff39b&rnum=1
+
+         A Spectrum emulator for the ZX 81?
+      A. Somebody really needs to implement a Shark-Jumping game for this:
+         http://www.chuntey.com/SP81/
+
+         A book explaining how Microsoft is an instrument of God?
+      A. "With an even deeper joy I clearly saw that this event was
+         not an isolated one:  every major experience throughout my
+         entire Microsoft career had profound spiritual significance!
+         ... And far from being a waste, my years in the halls of
+         high technology were utterly essential to my spiritual growth!"
+         - from "Mystic Microsoft", by Kraig Brockschmidt, "former
+         Microsoft developer and author of the bestselling book,
+         Inside OLE". The clue here is the phrase "far from being a
+         waste".
+         http://www.anandasangha.net/mysticmicrosoft/Prologue.htm
+
+                               >> MEME SILAGE <<
+                              what was (or were)?
+
+         Splastic?
+      A. "Splastic: The bouncing putty compound [...] that can be
+         twisted, stretched and molded": 
+     http://www.finanz-nachrichten.de/nachrichten/artikel-1788522.asp
+
+         Spazz?
+      A. "With its simple design and clean lines not only will you
+         look good in your 'Spazz' but your maneuverability will be
+         unsurpassed". It's a wheelchair.
+         http://www.sportaid.com/catalog/page16.htm
+
+         Spackers?
+      A. "Call them spackers -- they're the new breed of computer
+         crackers who earn a living in cahoots with spammers."
+         http://www.wired.com/news/business/0,1367,60747,00.html
+
+         Mugwhump Jism?
+      A. The protocol signature for WASTE, Nullsoft's "accidentally
+         released" anonymous file-sharing utility.
+         http://grazzy.mjoelkbar.net/waste/
+
+         Ginny, or Ninny, or "Peter's Peg"?
+      A. Calcium, from the "Look Around You" team's original short
+         film, now available on DVD as:
+         http://www.amazon.co.uk/exec/obidos/ASIN/B0000AISIY
+
+         EDOOFUS and EBUTTHEAD
+      A. Rejected names for a FreeBSD error return constant,
+         after Apple complained of the source code impropriety.
+         http://www.ntk.net/index.cgi?b=02003-05-16&l=69#l
+
+         root@10.2.2.2's password?
+      A. Z10N0101, according to Matrix Reloaded. Remember when you
+         were actually looking forward to the Matrix sequels? That's
+         what a year does to you. It's what it does to us all.
+         http://www.cs.auc.dk/~fleury/matrix.html
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> MOVING TO MARS (8pm, Fri, C5) explores the feasibility - 
+         though not whether there's actually any point - of colonising 
+         other planets - as Sterling says, why not the Gobi Desert? 
+      http://engaged.well.com/engaged/engaged.cgi?a=r&c=inkwell.vue&t=204
+         ... Timewatch reopens BRITAIN'S X-FILES (9pm, Fri, BBC2)... 
+         and for a bit of light-hearted escapism, C5 are rerunning the 
+         extraordinary first series of THE SHIELD (11.10pm, Fri, C5)... 
+         former underwear model Holly Willoughby leaves Fame Academy to 
+         cohost new ITV Sat show MINISTRY OF MAYHEM (9.25am, Sat, ITV) 
+         ... BBC2 pads its Saturday evening schedules for months to 
+         come with BRITAIN'S BEST SITCOM (9pm, Sat, BBC2) - "Press 
+         Gang" sadly overlooked as usual: http://www.bbc.co.uk/sitcom/ 
+         ... and the urge to impregnate provides the subtext to both 
+         "Alien" knockoff INSEMINOID (12.25am, Sat, BBC1) and SWINGERS 
+         (11.45pm, Sat, C4)... we're looking forward to some of James 
+         Nesbitt's zany Yellow Pages ads appearing in the breaks in his 
+         hard-hitting crime drama WALL OF SILENCE (9pm, Mon, ITV)... C4 
+         accidentally shows an evening of C5's programming, in the form 
+         of World's Fastest Fascist docu NAZI GRAND PRIX (8pm, Mon, 
+         C4), "CSI"-alike WITHOUT A TRACE (10pm, Mon, C4) and flightsim 
+         recreation SPITFIRE ACE (9pm, Mon, C4) - but how would modern 
+         pilots cope with the challenges of Amiga F/A 18 Interceptor? 
+         http://radish.hosted.doosh.net/steiny/mt/archives/000027.html 
+         ... while C5's GREAT SCIENTISTS (7.30pm, Mon, C5) kicks off 
+         with Aristotle, followed by the world's largest unexploded 
+         bomb in ULTIMATE EXPLOSIONS (8pm, Mon, C5)... hidden camera 
+         shocker THE SACK RACE (9.30pm, Mon, BBC2) sounds like a 
+         workplace reversioning of "My New Best Friend"... Anna "Lost 
+         In Translation" Faris helms better-than-you'd-think trashy 
+         "Scream" spoof SCARY MOVIE (10.30pm, Wed, ITV)... Jeremy 
+         Clarkson celebrates a different form of lethal metalwork - the 
+         gun - in INVENTIONS THAT CHANGED THE WORLD (8pm, Thu, BBC2)... 
+         and it's Val Kilmer, Terence "General Zod" Stamp and Carrie-
+         Anne Moss - together at last! - in rambling "whatever next?" 
+         scifi B-movie RED PLANET (8pm, Thu, C5)... 
+
+         FILM>> Tom Cruise remakes "Jerry Maguire" - with a Yul Brynner 
+         lookalike as Cuba Gooding Jr - in anti-American Victorian-
+         Japanese technology arms-race triumph (whatever ESR says: 
+         http://www.ibiblio.org/esrblog/?m=200312#137 ) THE LAST 
+         SAMURAI ( http://www.capalert.com/capreports/lastsamurai.htm : 
+         sensuality surrounding bathing; many deaths by arrow, gunfire, 
+         cannon fire, sword, incineration and spear; The Japanese 
+         culture of the time was seriously involved in worshiping a 
+         false god, false in accordance with the Word of God)... while 
+         Bill Murray and Scarlett "Ghost World" Johansson remake "Adam 
+         And Joe Go Tokyo" - Murray as Adam, natch - in semi-aimless 
+         contemporary crosscultural confusion LOST IN TRANSLATION 
+       ( http://www.screenit.com/movies/2003/lost_in_translation.html#sn : 
+         We see a stationary shot of [Johansson's] midsection as she 
+         lies sideways on a bed [...] wearing partially transparent 
+         panties; We see [Johansson] in her panties and a shirt; We see 
+         [Johansson] in her panties - and see lots of thigh; We see 
+         [Johansson] in her panties)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                "the web's number 2 source of hot kitchen info" 
+    http://www.kitchens-on-the-web.co.uk/stats/usage_200312.html#TOPREFS
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                           (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,270 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-10-03_ o     join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o   http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Downloading MP3 music files, something which works best on a
+         high-speed connection, scares many..."
+         - Britons "still scared" of computers, the net, loud sounds,
+                                          shiny objects, reports BBC
+                   http://news.bbc.co.uk/1/low/technology/3158170.stm
+...magic pixie music coming out of nowhere? 'Tis the devil's work, I tell ye!
+
+
+                                >> HARD NEWS <<
+                                 marcel proust
+
+         And so, the two clumsiest Godzillas of the Net stumble
+         toward each other, grappling at air, roaring at onlookers,
+         breathing steam and farting writs. VERISIGN and ICANN are
+         now at war. Unless Verisign drops the SiteFinder service,
+         ICANN says, by 2AM tomorrow, the Internet Corporation for
+         Assigned Names and Numbers will start assigning far dirtier
+         names for Verisign than hithertofore. Gather the popcorn!
+         Will Verisign blink? And will ICANN finally go after the
+         other egregious sliminess that Verisign is indulging in
+         (latest trick: "next registration rights" - or bribe
+         Verisign to hoard expired domaines for you)? And will anyone
+         notice that the supposedly technically competent Verisign
+         can't even get a simple "reverse turning test" right? As NTK
+         subscriber JEREMY SMITH spotted: take a look at the
+         distorted characters that Verisign throw up when you try to
+         do a Web-based whois on their site. Notice anything? Like
+         they're not *actually* distorted in any way? That they'd be
+         easily amenable to a simple, non-OCR check? What, are they
+         too stingy to buy in and test third-party captcha kit? Is it
+         *all* marketing these days?
+         http://www.icann.org/correspondence/twomey-to-lewis-03oct03.htm
+                    - if you get host not found, you'll know it's war
+         http://www.networksolutions.com/en_US/whois/index.jhtml
+                  - you want the source? you can't handle the source!
+
+         Quick followup on the GOLDFISH phishing-expedition-that-wasn't
+         of a couple of weeks ago: thanks to all the consumer-security
+         enthusiasts who wrote in to point out, instead of their
+         tentative request for just the "Last nine digits of your
+         Goldfish Card number", they might as well have asked for the
+         whole thing, as the first few digits encode the card type and
+         issuing bank, which would therefore be the same for all
+         Goldfish Visa cards. And commiserations to the couple of
+         sticklers for detail who pointed out that, although the site's
+         front page is not SSL'd, the page it sends your data to is
+         (reassuringly certified, not by Goldfish, but "Donhost Ltd").
+         Though we can't imagine they're advocating that consumers
+         should either check the source for the <form ACTION=...> tag,
+         or just blithely type their credit card details into any non-
+         https page, on the tacit understanding that they'll be safely
+         encrypted on the other side?
+         http://goldfish.xdbs.co.uk/apply/mgm.php
+         - site still up, reassuringly
+     http://www.google.com/search?q=%22please+email+your+credit+card%22
+         - or just its last 9 digits, whichever's easier
+
+         And another update on software patents: apparently the Brit
+         LibDems are as confused as we are as to why their European
+         counterparts voted for software patents. That's not what
+         they were supposed to do *at all*. Oooh-ooh. Somebody's in
+         trouble. To prevent having you wish we'd shut down in
+         protest after all, we're going to give this topic a rest for
+         a few weeks. But if you want to get your letter to your MP
+         in early, FFII has all the details:
+         http://www.ffii.org.uk/council.html
+                    - stop the minister from okaying software patents
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         that's not "blood thinning compound" - that's Hickory Barbeque
+         Seasoning!: http://www.ntk.net/2003/10/03/dohcjd.gif ... want
+         beans with that? http://www.ntk.net/2003/10/03/dohfart.gif ...
+         Why indeed?: http://www.ntk.net/2003/10/03/dohrec.gif ... Oz
+         not *that* big: http://www.ntk.net/2003/10/03/dohplanet.gif ...
+         missing billions - Italy invests in enough power to run 60W
+         lightbulb: http://www.ntk.net/2003/10/03/dohmilli.gif ... this
+         week's MASTERS OF WEB DESIGN: http://www.philiprknixon.com/,
+         http://www.davidbrucerecruitment.co.uk/ ... badly rendered
+         scenery fools everyone by claiming it's a "live webcam":
+         http://www.picomirador.com/ ... and time of the month for:
+    http://www.google.com/search?&q=manchester+airport+fight+destinations
+         + http://www.google.com/search?q=private+%22jessica+lunch%22 ,
+         "towel of babel", "underling problem", "secretarian violence",
+         "attention to detial", "goose bums"...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Presumably in the hope that they might have some interesting
+         views to contribute (and/or be behind on their webcasting
+         royalties), a mystery benefactor has "set aside" 6 places for
+         NTK readers at the upcoming MUSIC-ALLY COMPULSORY LICENSING
+         SEMINAR (6pm, Thu 2003-10-16, Denton Wilde Sapte, 1 Fleet
+         Place, London EC4M, free but RSVP to events@MusicAlly.com with
+         NTK in the subject line). Speakers include ex-Geffen Records
+         exec JIM GRIFFIN, whose "flat fee" pseudo-P2P position seems
+         to advocate a middle ground between free file-swapping and the
+         media companies' total clampdown, so you might want to ask:
+         How about no download fees at all? That flat enough for you?
+       http://www.MusicAlly.com/cgi-bin/content.cgi?page=musicallyseminar
+         - see also http://www.theregister.co.uk/content/6/33133.html
+         http://brumcon.org/
+         - tomorrow's top-secret Brum 2600 Brumcon details in full
+         http://uptime.netcraft.com/up/graph/?host=www.linuxexpo.co.uk
+         - next Wed/ Thu's www.linuxexpo.co.uk running on NT4/ Win 98
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         It's not that this ASCII/EDIT is available for the Unixy,
+         Mac-y MacOS X, it's that it took this long: it's a WYSIWIG
+         editor for text diagrams. AE isn't quite the perfect meld of
+         Unix and Mac sensibilities yet: there's no built-in figlet
+         support, it doesn't get L shapes right (they should look
+         like this: | or .--  - and it should probably let you import
+         or pipe '--     |   command line text a little more easily.
+         But, you know, anything that cuts down on the old HTML mail.
+         http://www.stud.tu-ilmenau.de/~siha-in/software.html#ae
+                                                   - for you, 10 euro
+
+
+                                >> MEMEPOOL <<
+                  contains a source of http://snackspot.org/
+
+         throw 3d6 for hobbies: http://www.jofs.net/cv/cv.asp ... SMIRNOFF
+         "lyriquid perfection" ads cruelly ape symptoms of neologistic
+         jargon aphasia: http://www.d.umn.edu/~mmizuko/2230/sym.htm ...
+         however Nyarlathotep still hireable for weddings, bar mitzvahs:
+         http://www.kdl.to/gallery/octopus.jpg ... RIP www.leisuretown.com
+         ... OMFG++ : http://devney.net/~matthew/paste ... geodogging ...
+         quit talking about us: http://www.intel.com/intel/legal/third2.htm
+         ... a bit worrying: http://life.csu.edu.au/discontinued.html ...
+         http://www.yorkshireghosthunters.com/-Ghostly-Orb-Photo-Gallery
+         - the coffeestains of dooooooooooom ... war dating ... well, no
+         surprises here: http://tv.cream.org/top100films/ ...  gftd -
+         or rtrd? http://www.gftd.org/ ... where you can at last admit your
+         liking for "Dune": http://www.popmates.co.uk/ ... permission wiki-
+         ing: http://3d17.org ... or has it? http://www.ppsw.rug.nl/cov/
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> GREATEST MILITARY CLASHES (8pm, Fri, C5) revisits the
+         "Sabre vs MiG-15" episode of "Battle Stations" shown on C4
+         this January - MiG much better on paper, as it turns out...
+         Geri Halliwell and David Duchovny guest in the pen-penultimate
+         episode of SEX AND THE CITY (10pm, Fri, C4), the latter
+         hopefully reprising his gay cameo from "The Larry Sanders
+         Show"... and SHELDON SOUTHWORTH claims his "147 Lockdown"
+         remix http://www.diffusiononline.net/ will be the official
+         theme to the SNOOKER (from 6pm, Sat, BBC2) "for the next 2
+         years"... CHARLOTTE LATIMER argues that Derren Brown, unlike
+         Uri Geller http://www.ntk.net/index.cgi?b=02003-02-28&l=155#l ,
+         "makes no claims to any 'powers' whatsoever", though if he
+         *was* using sleight of hand or something, that'd kind of take
+         the edge off his RUSSIAN ROULETTE "LIVE" (9pm, Sun, C4)...
+         part of an weekend of controversial apparent suicides that
+         also features that euthanasia-promoting band in Florida
+         http://news.bbc.co.uk/1/hi/world/americas/3160180.stm , plus
+         DEATH OF A SCIENTIST: THE DAVID KELLY AFFAIR (8pm, Sun, C4)...
+         anyway, it's all over in time for the brilliantly bonkers
+         Michael Bay "Miami Vice" homage BAD BOYS (10.05pm, Sun, C5)...
+         "the history of video games" is a specialist subject on
+         MASTERMIND (8pm, Mon, BBC2)... Kevin Smith's DOGMA (10pm, Mon,
+         C4) provoked widespread criticism from Catholics, movie fans
+         ... and it's JG Ballard week on BBC4, featuring adaptations of
+         HOME (10pm, Mon, BBC4), THIRTEEN TO CENTAURUS (12.10am, Mon,
+         BBC4) and LOW FLYING AIRCRAFT, in Portugese (10.30pm, Tue,
+         BBC4)... in an ideal world, they'd use a SILENCE OF THE LAMBS
+         (10pm, Wed, C5) subterranean dungeon to probe the MIND OF A
+         MILLIONAIRE (9pm, Tue, BBC2) - or even A VERY BRITISH UFO HOAX
+         (10pm, Tue, C4)... we did get complaints last time we reviewed
+         Jim Carrey split-personality gross-out ME MYSELF AND IRENE
+         http://www.ntk.net/index.cgi?b=02000-09-22&l=229#l (9pm, Wed,
+         ITV)... and it appears to be a fine line - in titles at least
+         - between New York club murder tragedy PARTY MONSTER (12.15am,
+         Wed, C4) and UK event arranger PARTY MAESTRO (9pm, Wed, BBC2)...
+
+         FILM>> not as focused as the original, though they've kept the
+         uneasy comedy bits to break up the nicely shot car chases in
+         BAD BOYS II ( http://www.capalert.com/capreports/badboysii.htm :
+         2.5 hours of murder madness; revealing swimwear; mockery of
+         Jesus and faith; attempted cheapening of Jesus)... a slightly
+         less confrontational portrayal of Cuba and its people comes
+         courtesy of Oliver Stone in his Louis Theroux-style Castro
+         profile COMANDANTE ( http://www.bbfc.co.uk/ : Contains archive
+         footage of victims of conflict)... Stephen Fry provides a more
+         palatable portrayal of quirky Englishness in period Waugh
+         adaptation BRIGHT YOUNG THINGS ( http://www.bbfc.co.uk/ :
+         Contains drug references and use), at least compared to ill-
+         judged Ewan McGregor/ Renee Zellweger/ David Hyde Pierce
+         anachronism-packed '50s-esque screwball romance DOWN WITH LOVE
+( http://www.cndb.com/movie.html?title=Down+With+Love+-+Premiere+%282003%29 :
+         [Petra Nemcova] has a gigantic wedge of fabric cut out of the
+         front of her blouse and no bra)... or you've got your work cut
+         out for you tracking down anywhere showing hotly-unawaited Rob
+         "White" Zombie schlock-horror "tribute" HOUSE OF 1,000 CORPSES
+       ( http://www.cndb.com/movie.html?title=House+of+1%2C000+Corpses :
+         as a rule people would be making a mistake if they watched
+         this movie expecting to get aroused)...
+
+         CONFECTIONERY THEORY>> and it's been slightly quieter over at
+         http://www.snackspot.org/ now the kids have gone back to
+         school - quiet, that is, until chocolatereview.co.uk webmaster
+         CHOCCIEMAN got back from the supermarket laden with this
+         year's selection box of Christmas treats. NESTLE KIT KAT KUBES
+         (39p), NESTLE ORANGE AFTER EIGHTS (UKP2.39), MARS WINTER
+         EDITION WHITE MALTESERS (about 45p), and TERRY'S CHOCOLATE
+         ORANGE SEGSATIONS (UKP3.49) are all currently the subject of
+         intense discussion, though the surprise debating topic of the
+         moment remains "CADBURY'S FLAKE DIPPED - Does it really taste
+         any different to Cadbury's Dairy Milk or Cadbury's Twirl?":
+         http://www.snackspot.org/thread.php?story=0309301553sbc ...
+         other recent highlights have included: QUAKER/ WALKER'S SNACK-
+         A-JACK SPUDZ (79p, an improvement on Snack-a-Jacks, still not
+         as nice as crisps); the last - and one of the best? - of
+         Wall's Magnum Sins, VANITY (UKP1.30, TV ad sounds a bit like
+         the theme from "Halo"); plus LUCOZADE CITRUS CLEAR (59p, "Not
+         appropriate for replacing the fluid lost during diarrhoea")...
+         future fun to look out for includes VIRGIN SOUR drinks (59p),
+         WALKERS SENSATIONS NUT CLUSTERS (in Chilli Spice, Cream and
+         Onion, Cool Tomato Salsa), KELLOGG'S SCREAMIN' FRUIT SPURTERS
+         (not to be confused with their current "Screamin' Fruit
+         Squidgers", natch), plus the intriguing new trend of sticking
+         Haribo jelly items inside other products, as in both TESCO'S
+         HARIBO JELLY BEAN COOKIE (98p/ bag of 5) and Austria's yummy
+         sounding NESTLE FRUITY SMARTIES MIT DEM HARIBO GOLDBARENKERN
+         (literally, "Fruity Smarties with the Haribo Gold Bear Core"):
+         http://www.snackspot.org/thread.php?story=0308201242sbc ...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                   "the law"
+             http://www.exwyzee.com/Services/3Dstill_overview.htm
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

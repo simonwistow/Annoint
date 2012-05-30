@@ -1,0 +1,305 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-02-18_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+   "XML sounds scary. Stuff that begins with the letter X usually does.
+    There's a reason they didn't call it 'The C Files.'"
+ http://macworld.zdnet.com/2000/02/seybold/reports/onepersonweb.html
+   ...because only cable would show pointer arithmetic in prime time? 
+
+
+                                >> HARD NEWS <<
+                                ruses reviewed
+
+         RSA hacked? My God: are not even the highest citadels safe
+         from the heterogenous swarm of DoS script kiddies? Well, not
+         quite: it turned out to be just the usual "lone hacker"
+         using DNS poisoning to redirect the requests. Although the
+         traceroutes leading to Columbia were a nice touch - and
+         doesn't poisoning sound exotic? Certainly a bit more
+         dangerous than January's VIRGIN NET e-mail password breach.
+         Despite hushed comments in the papers about the coteries of
+         sophisticated cyberterrorists holding the company to ransom,
+         the truth turned out to be a little simpler. Virgin's
+         managed to lose the machine with the data on. One minute, it
+         was sitting there happily in their ultra-secure operations
+         center. The next: gone. Or at least, nobody could find it,
+         so they gave up, and passed the onus onto their customers.
+         The lessons? Always change your passwords: and do try to
+         remember where you parked that drive.
+         http://www.attrition.org/mirror/attrition/2000/02/12/www.rsa.com/
+                                                        - pretty l33t
+ http://www.guardianunlimited.co.uk/Archive/Article/0,4273,3949158,00.html
+ - "on the Net you can have criminals coming from countries with no 
+         extradition treaties". Or from the dodgy market down the road
+
+         Of course, ISP's data centers are going to be the last place
+         safe from external interference if the new Regulation of
+         Interception Powers bill makes it to the statute books. A
+         distinct lack of the usual governmental grinding on this
+         one: second reading is on March 8th, giving just three weeks
+         for doubters to marshal their objections. But never fear,
+         SCRAMBLING FOR SAFETY, the rapid response security con, is
+         out to intercept. Given the time limits, the organisers
+         would like to be able to get an idea of numbers to pass on
+         to sponsors and interested spooks^H^H^H^H^Hparties. So if
+         you'd like to hear the details of the how, exactly, the
+         government plan to drop a black box in between you and the
+         rest of the Net, e-mail your interest with a message to
+         i.want.sfs2000@fipr.org saying who you'd like as speakers,
+         and other topics you'd like discussed. Your privacy is
+         guaranteed!
+         http://www.fipr.org/sfs35.html
+            - while it still can be. (this is last year's event, btw)
+
+         And while we're in an updating kind of mood, such was the
+         response - from journalists, students, and sentient AI
+         consciousnesses hiding in the telephone network - following
+         our casual made-up reference to "community robotics monitoring
+         group" KEVIN WARWICK WATCH [NTK 2000-01-28] that we've
+         actually had to invent it. Get in touch if you'd like to help   
+         with NTK's continuous assessment of just how close we are to    
+         Kevin's nightmare future coming true (like that nuclear
+         "doomsday clock" in the Watchmen comics), or if you've got any
+         good "ones to watch" suggestions (Dr Mark "internet addiction"
+         Griffiths? Jon Katz? Edge Magazine?). Plus, if you try typing
+         in other likely domains, you may find the secret "mirror"
+         site, complete with embedded MIDI of the Terminator theme!
+         http://www.kevinwarwick.org.uk/                                        
+              - dah-dah-dah DAH DAH DAH! dah-dah-dah DAH DAH-DAH DAH!
+         http://www.theregister.co.uk/000215-000012.html        
+                          - and you thought the *lecturers* were bad!
+ 
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         ex-Borg "spokesman" Patrick Stewart launches Win2K...
+         CAMILLA "flattened by tornadoes" claims Yahoo "RoyalWatch":
+         http://www.ntk.net/2000/02/18/dohyahoo.jpg ... less "unique"
+         than they planned: http://www.ntk.net/2000/02/18/dohsmile.gif
+         ... maybe that name="generator" content="An unholy combination
+         of BeyondPress, BBEdit, and QuicKeys" has something to do with
+   http://www.independent.co.uk/news/Digital/Update/2000-02/bug140200.shtml
+         crashing Netscape 4.7... *someone* update the wankometer:       
+         http://www.bootstrap.org/vision_mission.htm ... BBC gives
+         everyone a pay rise: http://www.ntk.net/2000/02/18/dohbbc.gif
+         ... TMS INTERACTIVE? Falco! ... ALIVE AND KICKING - in toxic
+         agony: http://www.bbc.co.uk/kicking/magazine.shtml ... "Being
+         Britain's leading technology magazine, T3 was on the ball from
+         the off" claims current T3 MAGAZINE re MP3 - clearly unable to
+         afford enough RAM to remember June 1998 when they dismissed            
+         the whole idea of MP3 walkmans as "prohibitively expensive"
+        http://www.ntk.net/index.cgi?back=archive98/now0626.txt&line=122#l
+         ... AMAZON still touting that famed "10-year lead" in e-commerce:
+         http://www.amazon.co.uk/exec/obidos/ASIN/B000030013/ ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Well, you've missed "Whatever Happened to HAL?" (hint: he              
+         dies, though he's brought back to life in 2010: Odyssey 2, but
+         then he dies again!), but the goddamn ICA keep wheeling out     
+         the old cyber chestnuts with tomorrow's DEMOCRACY.COM: NEW         
+         TECHNOLOGIES & THE CITIZEN, featuring the usual chumps you've
+         never heard of and their unfeasibly long book titles, plus
+         Techgnosis author and Wired writer Erik "The Viking" Davis and
+         EFF co-founder John Perry Barlow (Grateful Dead lyricist?
+         What, he did the words to a couple of their songs once?). If
+         coolness exclusion prevents you from going within 100 metres           
+         of the Mall, there's always Hugo Sommer's LSE COMPUTER                 
+         SECURITY COLLOQUIA, which continue at 5pm, Tue 2000-02-22 with
+         good old Alistair Kelman discussing "Shadow Watching" which is
+         something to do with personal data-mining, not Babylon 5.
+         http://www.ica.org.uk/talk/98779/
+                                                      - Will I dream?
+         http://csrc.lse.ac.uk/Events/Colloquia.htm
+                    - Of course, *all* intelligent creatures dream...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The three phases of geek lust are thus: first, when you have
+         to hand-hack everything yourself, and the world thinks your
+         an obsessive goon (pre-1.0 Linux, in-car MP3 homebrews, the
+         Apple I). Second, a decade later, when one of your fellow
+         goons brings out a neater version, and the auslanders begin
+         to concede your point (KDE, WinAmp, trainers). Third, about
+         two months later, when the mundanes excitedly inform you of
+         the "brand new thing" you would definitely like, if only you
+         could spare an hour listening to them explain it badly
+         (theories of "Grey" alien invasion, 3D avatar chatrooms).
+         The X10 home automation craze has defiantly entered stage
+         two with MISTERHOME, an integrated management system for
+         Linux and those light-switches-with-a-serial-port that Steve
+         Ciarcia went mad trying to popularise. Nothing that you
+         haven't already imagined in your wet Asimov fantasies
+         (semi-automated TV listing/ VCR programming, GPS tracking of
+         your stolen car, Web-based administration and burglary
+         invitations), but it's nice to see it all in one place.
+         That place being your flat.
+         http://misterhouse.net/ 
+                          - don't mention to Philip Kerr. Or Kevin W.
+         http://www.circuitcellar.com/
+     - Steve hasn't been able to escape "the cellar" for some years now
+        
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         misunderstanding that "to clock chips, keep 'em cold" rule:
+         http://www.nudeoc.cwc.net/ ... BARCODE BATTLER for the Net
+         generation: http://www.retokyo.com/fiber/37/ ... TIM BL going
+         understandably insane: http://www.w3.org/Provider/Style/URI
+         ... nice idea: can you spot the problem, BIND fans?
+         http://www.i-DNS.net/download/db.cache ... WIRED imitates
+         Onion http://www.wired.com/news/culture/0,1284,34387,00.html
+         ... http://www.uq.net.au/~zzjbrain/SpecOS.html - could be the
+         next HARRIXOS!... http://paradigmviolators.com + NICK ROSEN =
+         http://us.imdb.com/Title?0098354 ... no help if you ask for a
+         date: http://www.one2one.co.uk/one2one_january.asp?init=ask
+         ELASTICA covering "Da Da Da"... not that they're *rockin'*
+         bitter: http://www.buddyhead.com/other/hessian/love/page/ ...
+         mp3.magazine.co.uk ... also applies to weekly newsletters:
+         http://www.gamerspress.com/editorials/gamereviewer.htm ...
+ 
+
+                                >> GEEK MEDIA <<
+                                  get out less 
+
+         TV>> some BBC scheduler clearly likes the idea of penis 
+         transplants, with the second showing of Hywel "Shelley" 
+         Bennett's PERCY (12.25am, Fri, BBC1) in just 15 months... ITV 
+         hits back with acclaimed sci-fi containment drama LIFEPOD 
+         (12midnight-ish, Sat, most ITV regions)... and presumably any 
+         future series of THE LEAGUE OF GENTLEMEN (10pm, Fri, BBC2; 
+         repeated 9.30pm on Sun with "making of" docu) will abandon 
+         jokes altogether to concentrate on suburban gothic horror - 
+         but there's always the "revised repeats" of FOCUS NORTH 
+         (12.35am, Thu, C4)... no Buffy repeat but "It's Scary Out 
+         There" compensates with John Carpenter Cthulhu clunker IN THE 
+         MOUTH OF MADNESS (10.50pm, Sat, BBC2) and George Romero's 
+         shopping mall consumer satire DAWN OF THE DEAD (12.20am, Sat, 
+         BBC2)... new kids show HYPERLINKS (9.20am, Sun, BBC2) is 
+         bugger all to do with the net; another series of shouty 
+         runaround SUB ZERO (11am, Sun, BBC2) is bugger all to do with 
+         video games and/or an entertaining viewing experience... while 
+         Jude Law/ Sadie Frost ramraiding romp SHOPPING (10pm, Mon, C4) 
+         resembles a low-rent Michael Bay directing an episode of "The 
+         Bill" - but in a good way!... the docu-soap barrel bottom 
+         scrapes along with THE SECRET WORLD OF YEAR 3 (9.50pm, Tue, 
+         BBC2) featuring the everyday lives of a class of 7 year-
+         olds... Sherilyn "Twin Peaks" Fenn pops out of the "Where are 
+         they now?" file for trashy MIB chiller THE SHADOW MEN (9pm, 
+         Wed, C5)... and C4 combines two ratings-winning formats - 
+         cock-up compilations and WW2 documentaries - into the 
+         undeniably appealing GREAT MILITARY BLUNDERS (8pm, Thu, C4)... 
+         
+         FILM>> stand by for Moloko's remixes of "The Mikado" shooting 
+         into the top ten on the back of the hit soundtrack to Mike 
+         Leigh's touchingly overlong Gilbert O'Sullivan tribute TOPSY 
+         TURVY (MPAA: rated R for a scene of risque nudity), though, 
+         disappointingly for fans of Leigh's previous work, he hasn't 
+         set the story on a mock-working-class housing estate... Chris 
+         "Who?" O'Donnell has 24 hours to marry Renee "Jerry Maguire" 
+         Zellweger to inherit $10m in exactly-as-you'd-expect romantic 
+         fluff THE BACHELOR (http://www.capalert.com/capreports/ : 
+         several references to male and female anatomy with clear 
+         intent; dialogue and imagery to further the general decay of 
+         inhibition and standards of acceptance; a lot of excessive 
+         breast and upper leg exposure that is not commonplace in the 
+         "real world" except in entertainment; though, oddly, no 
+         objection to the whole concept of marrying for cash)... and 
+         with the same Scottish girl in it and everything (no, not the 
+         one from Space Precinct) chirpy cancer last-wish frolic ONE 
+         MORE KISS (http://www.bbfc.co.uk : Passed '12' for one use of 
+         strong language) is basically "The Crow Road - The Movie" - 
+         and that's not meant as a recommendation...
+
+         TOP BONER BONANZA - A COMPILATION OF (LARGELY) GENITALIA-
+         RELATED RECENT ERRORS THAT EVEN PAUL BLEZ DIDN'T SPOT>> eagle-
+         eyed LUCIE MELAHN was the *only* reader (not NTK's only female
+         reader, we're sure) to query NTK 2000-02-04's description of
+         Hepburn as "XY-rockers", adding "of course, you're aware that
+         girl bands really have XX chromosomes". Er yeah, unless we
+         were trying to imply that they're secretly men (we weren't)...
+         "What on earth are those parentheses supposed to achieve?",    
+         inquired JOHN HARTNUP of NTK 2000-01-28's "(.*)sex(.*)"        
+         regexp, "The only purpose I could imagine would be if you    
+         wanted to extract what came before and after the sex (wine and         
+         a cigarette?)" "Actually I just stuck them in so because
+         .*sex.* looked wrong," responds NTK's irredeemably laddish             
+         Essex correspondent, "and I got to do a breasts joke"...
+         and don't write in that saying breasts aren't funny (nor,    
+         technically, genitals - we'll come to that), as proved by
+         MARTIN BACON's correction of NTK 2000-01-28's Celebrity Nudity         
+         Database quote, "a huge aureole that seems to cover a third of
+         her ample bosoms". "Aureoles," says Martin, "usually surround   
+         heads, at least in illuminated manuscripts and stained glass       
+         windows. Perhaps the author meant areola, the skin around the
+         nipple. Or perhaps the film industry has different views on
+         where holiness resides nowadays"... in less sexually-related
+         corrigenda, Bob Crispen proposed "Let me be the 10,000th 
+         caller (and probably the first from Alabama) to point out that
+         it's 'cui bono' not 'qui bono': 'to whom the good', not 'who           
+         is good'" [NTK 2000-02-11]... "AFAIK the Hebrew system *adds*          
+         the letters in a name to get a numeric value, so if w = 6,    
+         then www = 6 + 6 + 6 = 18... and anyone living at that time   
+         could work out it was Nero," confided IAN DOUGLAS [NTK 2000-
+         01-28], probably just to late to halt that "www = Satan" meme
+         (eg see this week's Telegraph Connected)... and, sticking with
+         archaic communications systems, "Little Computer People was
+         also available for the ZX Spectrum, albeit '128K Only',"
+         revealed ROD BEGBIE [NTK 2000-02-11], hoping for "a suitably
+         disparaging remark about how trainspottery I am for pointing
+         this out". Not here Rod, you must have us mistaken for a top
+         PlayStation magazine!... ADRIAN MOULDER accused our last "dead
+         tree" round-up [NTK 2000-01-28] of omitting "the new Esquire
+         ads on the London Underground", where the word "not" in the 
+         slogan "THE MEN'S MAGAZINE YOU'RE NOT EMBARRASSED TO READ ON 
+         THE TUBE" is both in a different colour and "conveniently 
+          positioned for being obliterated by a swift magic marker or   
+         piece of gaffa tape", producing the catchier (and still more   
+         honest) "THE MEN'S MAGAZINE YOU'RE EMBARRASSED TO READ ON THE  
+         TUBE"... but, back with genitals: DYLAN TOMLINSON felt oddly 
+         compelled to send us http://www.ntk.net/2000/02/18/dohbike.gif
+         for our "collection"... and finally, "Why do people think
+         vaginal fisting is funny?" asked, er, ANON, in response to the         
+         swiftly-deleted Amazon bestseller craze [NTK 2000-02-11],
+         "[the book] is terrific, if a touch introductory." (Send us  
+         *your* reviews for next week's hard lit round-up!) "Please use
+         just my first name, not my company," added a followup mail             
+         five minutes later, "Anonymously is even better"...   
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+          Registered at the Post Office as "how can we fail, when we
+          have the international banking conspiracy behind us?"
+http://www.telegraph.co.uk:80/et?ac=000112801049925&pg=/et/00/2/17/ecrimo17.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

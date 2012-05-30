@@ -1,0 +1,216 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2006-02-17_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                               about 7.31 ECUs
+        
+         Yes, we, your absentee landlords of your mind, have
+         returned! And where have we been? Well, partly, we've been
+         kicking the tyres of the now firmly launched OPEN RIGHTS
+         GROUP, which is taking your payments *right now* to become,
+         hopefully, the paramilitary wing of NTK's audience. So, if
+         you'd always wondered whether there wasn't more you could do
+         (than just saying sarcastic things in a quiet voice) against
+         Krazy Kopyright enforcement, brain-dead Parliamentary
+         legislation, internet breakage, media ignorance about tech,
+         and surveillance society sleep-walking, then go right ahead.
+         You can now pay up your fiver a month with aplomb, and
+         change the world for less than the cost of that ID card
+         you'll be burning soon.
+         http://www.openrightsgroup.org/support-org/
+              - form generates a PDF standing order, or Paypal "Pay now"
+         http://list.openrightsgroup.org/mailman/listinfo/org-discuss
+         - there's also a (privately archived) mailing list, and a wiki!
+
+         Even the most dedicated sports-hater can't help but notice 
+         that it's an Olympic year, which - on recent evidence - means 
+         it's also time for one of those evenings where we grab a few 
+         Brits who spoke at O'Reilly's Emerging Technology conference, 
+         then get them to (briefly) describe what they talked about - 
+         and any other decent stuff they saw. This year, ETech runs 
+         from March 6-9, and we're just in the process of confirming a 
+         lineup for a central London location on the evening of 
+         Thursday 2006-03-23, so don't say we never give you advance 
+         notice or anything. Admittedly, most of the UK speakers we 
+         recognise are from the London area, but we may be able to lure 
+         the creators of social personal web archiving tool HANZO:WEB 
+         over from Bristol as well - who describe their creation as 
+         both "in public beta" and "the best bits of del.icio.us and 
+         archive.org, rolled into a big sticky Katamari Damacy ball".
+         http://wiki.oreillynet.com/etech/index.cgi?ConConUK
+         - like this, with (slightly) different people, and not in 2004
+         http://conferences.oreillynet.com/pub/w/43/speakers.html
+           - Armitage! Bryant! Willison! Yoz! (mostly TBC at this stage)
+         http://hanzoweb.com/
+- not to be confused with AbuHamza:Web, for all your race-hate clerical needs
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         As social software theorist Danah Boyd seemed to be arguing 
+         last year: don't we all "remix" culture when, for instance, we 
+         buy clothes or furniture and then combine them in a way that 
+         isn't exactly the same as depicted in the shop? What do you 
+         mean, "No, not really"? Expect somewhat more pragmatic 
+         insights at Rufus "Open Knowledge Foundation" Pollock's FORUM 
+         ON OPEN CONTENT (7pm, next Wed 2006-02-22, Stanhope Centre, 
+         Marble Arch, London W2 2HH, free but pre-register if you can), 
+         where Paula "iCommons" Le Dieu, Tom "Remix Reading" Chance, 
+         Jennifer "BBC Creative Archive" Rigby, and Cory "DRM's gonna 
+         get ya!" Doctorow will be considering: Who will be producing 
+         open content and how will it be funded? Does copyright hinder 
+         the process, or help? And is the vibrant DJ culture of the UK 
+         at least partly inspired by our culinary tradition of taking 
+         boiled root vegetables, like the potato, then "mashing them 
+         up" (perhaps with other tasty ingredients) to produce the 
+         ideal accompaniment to a meal of sausages and baked beans?
+  http://zephoria.org/thoughts/archives/2005/10/08/remix_is_active.html
+              - and books: you can read the pages in any order you like!
+ http://collisiondetection.net/mt/archives/2005/11/theres_been_a_l.html
+                - the end of this one's got to be a joke though, surely?
+         http://www.openknowledgefoundation.org/okforums/content/
+     - big-budget copyright works still oddly popular on P2P, of course
+         http://www.nlondon.bcs.org/
+          - the same night as Richard Barbrook addresses the London BCS
+         http://www.geekdinner.co.uk/
+           - London Geek Dinner with Paul "Boagworld" Boag, on Thu 23rd
+         http://www.dorkbot.org/dorkbotlondon/
+          - Processing Hacks at Dorkbot London the Monday (20th) before
+         http://www.nodel.org/calendar.php
+          - then a whole month of mad (multi) media art, from March 1st
+         
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         taking that whole "computer forensics" attitude a bit far: 
+         http://matt.west.co.tt/spectrum/csi-miami/ ... speaking of 
+         Spectrum games: http://geocities.com/wildwesthero2004/ ... 
+         this month's "people and institutions"-themed Google goofs: 
+         http://www.google.co.uk/search?q=%22sith+form+college%22 , 
+         http://www.google.co.uk/search?q=%22set+a+president%22 , 
+         http://www.google.co.uk/search?q=%22happily+marred%22 , 
+         http://www.google.co.uk/search?q=%22does+Antone+know%22 , 
+         http://google.com/search?q=%22The+Animals+Of+Farting+Wood%22 
+         - and usually an unintentional typo for "parish". Usually: 
+         http://www.google.co.uk/search?q=%22pariah+church%22 ... 
+         back by popular demand - hideously photoshopped DVD covers: 
+        http://images-eu.amazon.com/images/P/B000CCE25K.02.LZZZZZZZ.jpg
+         ... GIMP unveils Adobe-beating "Stallman's head on a stick" 
+         plugin: http://davyd.ucc.asn.au/images/gpl3-reloaded.jpg (via 
+         http://davyd.livejournal.com/163930.html )... old joke, always 
+         liked it: http://www.widdy.demon.co.uk/rainbow/comic.htm ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Did you, like us, read that "Britons waste the equivalent of 
+         around two power stations' worth of electricity each year by 
+         leaving TV sets and other gadgets on standby" - in a room lit 
+         only by the muted, submarine-movie glow of power supply LEDs? 
+         And did you also wonder if only there was a semi-elaborate 
+         technological solution to this ongoing wastage, rather than 
+         the physical and mental effort of constantly switching 
+         everything off at the plug? Step forward the ONECLICK 
+         INTELLIGENT MAINS PANEL, an 6-way surge-protector which
+         keeps your PC (or hifi amp, or TV?) on standby as normal, but 
+         completely cuts power to all the other sockets when the master 
+         device "shuts down". They cost UKP 24.95-29.95 from Maplins or 
+         the manufacturer's site - unless you're installing, like, 
+         millions of them, you're not likely to save the planet, but a 
+         PC Pro review estimates this pioneeringly electronically-
+         assisted laziness could save you upwards of UKP14 per year. 
+         http://www.oneclickpower.co.uk/home.htm
+           - or, in the US: http://kk.org/cooltools/archives/001087.php
+         http://www.pcpro.co.uk/reviews/71652
+                    - OK, UKP14 is just using one socket, it has 4 more
+         http://hardware.slashdot.org/hardware/06/01/23/0549203.shtml
+             - Slashdot comments: Maybe I need all that "waste" heat...?
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         THE VICTORIAN AFFECTATION>> We've always sympathised with Egon 
+         in "Ghostbusters" when he declares "Print is dead [...] I 
+         collect spores, molds, and fungus - I think it's the food of 
+         the future". But, nonetheless, kudos to those NTK readers who 
+         still dabble in this self-consciously "retro" artform, 
+         especially when they're as forward-thinking as CHARLIE STROSS, 
+         who's saved you the trouble of OCR-ing his latest multiply-
+         award-nominated posthuman scifi ACCELERANDO by sticking it all 
+         online: http://www.accelerando.org/2005/06/28/ . This kind of 
+         undermines ANDREW CHAPMAN's claim of a "UK publishing first" 
+         for his company's "entirely free download of a full-length 
+         novel": http://readreverb.com/?s=content&p=get - said novel 
+         being C M Taylor's LIGHT, a "poignant story of love, loss and 
+         English summer" set amid the "art and media world of the late 
+         1990s". Still, if you don't like it, you can always use their 
+         http://whatshouldireadnext.com/ page to find something else... 
+         
+         Tragically, they "currently have no recommendations" if you 
+         type in either "DEVIL'S DANDRUFF" GUIDE TO NIGHTLIFE (UKP 6.39,
+         http://amazon.co.uk/exec/obidos/ASIN/0715634658/needtoknow0e - 
+         compiled and expanded from the Guardian Guide cartoons by NTK 
+         reader DANIEL PEMBERTON, when he wasn't writing the scores for 
+         Lionhead's "The Movies", apparently), or even MAPPING HACKS 
+       ( http://amazon.co.uk/exec/obidos/ASIN/0596007035/needtoknow0e ,
+         UKP 13.82) - congratulations to JO WALSH and co-authors for 
+         what we believe is the first full-colour outing for O'Reilly's 
+         "Hacks" series, even if it isn't quite as glossy as the UKP 
+         11.55 aspirational hardware-hacking coffee-table tome MAKERS 
+         http://amazon.co.uk/exec/obidos/ASIN/0596101880/needtoknow0e  
+         ... 
+         
+         In case it's another year or so until we run this feature 
+         again, we should probably also mention the latest from MICHAEL 
+         FUCHS, a former Suck.com contributor previously best known to 
+         us as the guy who wrote in boasting about the "extremely 
+         attractive young woman" he eventually "gathered the nerve to 
+         go speak to" at NotCon 2004. All of which now sounds more like 
+         a scene from his upcoming tough techno-thriller THE MANUSCRIPT 
+       ( http://amazon.co.uk/exec/obidos/ASIN/0230000096/needtoknow0e ,
+         hardback UKP 8.57, due 2006-04-07) - we've only read the first 
+         50 pages, but we're already intrigued by the premise that you 
+         might be able to find the "Da Vinci Code"-style secret of human 
+         existence on *Usenet* (of all places), just by coming up with 
+         the appropriate Google Groups search terms. Well, they do tell 
+         you to "write about what you know", don't they...
+
+          
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last month or might happen next month. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                    "do it so differently to everyone else"
+http://itnewsblog.blogspot.com/2005/09/problem-with-charging-for-content.html
+         
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2006 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

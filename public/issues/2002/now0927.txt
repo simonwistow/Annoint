@@ -1,0 +1,307 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-09-27_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "To cut real estate costs, Sun has embarked on its "iWork"
+         programme, under which several employees share the same
+         offices."
+                                        http://www.silicon.com/a55635
+           ... as opposed to having one engineer per building, as now
+
+
+                                >> HARD NEWS <<
+                               wandering clues
+
+         To be honest, we could probably have guessed who was behind
+         spoof "concerned parents" site THINKOFTHECHILDREN.CO.UK, shut
+         down this week for allegedly "inciting mob violence". It's a
+         familar M.O.: the heavy-handed satirical sideswipes, the
+         cultivated sense of moral outrage, the studious collecting of
+         email addresses. (No, not us, you idiots. Well, not this
+         time.) Oh, and the fact that he mailed us saying he doesn't
+         want people to think he just set it up as PR for another site
+         that he does. Well, as readers of METAFILTER pointed out, if
+         you don't want people to jump to that conclusion, it might be
+         best to avoid putting a link to it in the source to your popup
+         window. And maybe try using different nameservers in the whois
+         record too?
+         http://www.thinkofthechildren.co.uk/
+      - of course it always has been "censored" for Netscape users...
+         http://www.metafilter.com/mefi/20293#352334
+               - ...due to missing thinkofthechildren.co.uk/style.css
+
+
+       [ UPDATE: NTK would like to clarify that we do not believe - as
+         may have been implied by other sites - that the takedown of
+         www.thinkofthechildren.co.uk was faked or some sort of PR
+         "stunt". We have no reason to disbelieve their own account of
+         it: http://www.thinkofthechildren.co.uk/metfax.shtml , given
+         some ISPs' enthusiasm for pulling pages nowadays. Plus, we've
+         been asked to point out that the site is "entirely unconnected"
+         with email newsletter THE FRIDAY THING, and is a personal   
+         project of one of its editors, hence the similar mailing    
+         list and web hosting setups. We still think that individuals
+         hoping to enlist public sympathy in cases like these should be      
+         more forthcoming in disclosing potentially relevant info - but
+         hey, memo to self: check AUP before posting from work account.
+         http://www.thinkofthechildren.co.uk/
+                                - back again now. And good luck to 'em! ]      
+
+         Last week's emergency conference motion on the EUCD was
+         bounced on procedural grounds. Apparently it's not a real
+         emergency, because the directive itself has been around for
+         a year, and hey, you've got to October 31st to stop it in
+         its tracks, right? Should have known. "You're barking up the
+         wrong tree if you expect an advanced knowledge of today's
+         networking environment from the LibDems", warned one
+         disloyal party member earlier in the week. He goes on to
+         quote the party's subscription renewal form, which talks of
+         "developments in email" which, it exclusively predicts, are
+         "bound to bring us opportunities for faster communication in
+         future". Fortunately, this heady futurism is tempered with
+         more cautious steps. "We want the Liberal Democrats to be
+         ready to these opportunities when they arrive, so if you
+         have an email address we would like to know what it is... If
+         you don't have email - don't worry. The complete electronic
+         revolution is still some way off!" And accelerating further
+         into the distance every day, it'd appear.
+         http://www.libdems.org.uk/
+                  - oh, and they have a cix.co.uk sub address. jesus.
+         http://uk.eurorights.org/issues/eucd/conf_demos_pr.shtml
+                                           - still, the fight goes on
+         http://uk.eurorights.org/
+                     - unless it's postponed. watch site for details!
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+       not the company you'd expect to have forgotten: http://www.netsol.co.uk
+       ... BASHER i know, but what's that other kid called again?
+       http://www.google.com/search?q=%22escaped+along+with+my+husband%22 ...
+       while we await the first unfortunate Google News ad juxtaposition:
+       http://www.ntk.net/2002/09/27/dohstairs.jpg ... PR screenshot of EARTH
+       AND BEYOND boasts "this game is sucking cuz the lagg is viciouse":
+       http://test.earthandbeyond.ea.com/news/viewer_net7_article.jsp?id=43
+       ... more sensible than hiding on Tatooine; from the French
+       telephone book: http://www.ntk.net/2002/09/27/dohfrance.png ...
+       http://www.google.com/search?q=incestigate ... "See larger photo" is 
+       the new "smaller" http://www.amazon.co.uk/exec/obidos/ASIN/B000056MYN/
+       ... subtleties of voting still eluding the FASHION WORLD:
+       http://www.ntk.net/2002/09/27/dohvote.png ... and, trying to
+       broaden PUERILE SEARCH REQUESTS just a little further afield:
+       http://search-completed.ebay.com/search/search.dll?query=bowel
+       vs http://www.google.com/search?q=%22irritable+bowl%22 ...
+       meanwhile, the BLUE SCREEN OF PUBLIC DEATH returns to Reuters Building,
+       Times Square, NYC: http://www.ntk.net/2002/09/27/dohreuters.jpg
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Sure, we may not have the likes of THE LULU TECH CIRCUS here
+         in the UK (all weekend, from noon today, Fri 2002-09-27, North
+         Carolina State Fairgrounds, Raleigh NC, $20 admission). Thomas
+         Dolby, Peter Gabriel, and now: Lulu - just what is it with
+         those 20th century popstars reinventing themselves as new
+         media gurus? Undeterred, NTK reader MARK ESPINER - and his
+         brother Tom - have created perhaps the ultimate in sensory
+         deprivation theatre with their pitch-dark audio-only semi-live
+         performance THE WATERY PART OF THE WORLD (9pm, next Fri and
+         Sat 2002-10-04/05; 7pm, Sun 2002-10-06, Battersea Arts Centre,
+         London SW11, UKP4.75) - an hour-long surround-sound odyssey
+         based on stories of the original subwoofer himself, Herman
+         Melville's Moby Dick.
+         http://www.techcircus.com/raleigh2002/
+                                - see the amazing bearded programmer!
+                  http://www.bac.org.uk/visitors/main/item.asp?id=200
+         - apparently features "actors on strings"
+                                           http://www.stopwar.org.uk/
+         - on Sun: coalition of sans-serif users march in Hyde Park
+         http://www.swarming.org.uk/recl/reclwhe.htm
+                              - in London tonight: reclaim the beach!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Sangamon's Principle, as applied to code length, image size,
+         morality and utility this week. Duncan "CODEBUNNY" Martin
+         wrote in response to last issue's "George W. Bush made out
+         of tiny Jesus Christies" ebay auction, and, though he
+         couldn't manage the Bill Clinton made of porn we were after,
+         did provide this giant Jesus Christ made out of tiny George
+         W. Bushes: http://www.ntk.net/2002/09/27/jesus_small.jpg -
+         8MB version at http://www.ntk.net/2002/09/27/jesus_large.jpg
+         . But, what are we, eskimo fish-givers? No, because Mr
+         Martin also reveals code and overly detailed instructions
+         on how to build your own image mosaic from the libraries of
+         religious, political or meretricious iconography. Unixen only.
+         http://www.codebunny.org/coding/commuter.html
+                       - oh, and you need ImageMagick. And pr0n.
+
+         ... while if you're bored of rendering images, and would
+         like to render text - in the sense of boiling down
+         excessively in order to remove all impurities - can we
+         self-destructively recommend Modesty's NTK DEMORALISER? This
+         purges NTK of everything but the good bits, aka the links,
+         and then, in some ASCII-mediated cultural revolution, allows
+         the great unwashed to add their own comments instead. You
+         know, this  is *exactly* the kind of cultural
+         re-appropriation that gives you people a bad name.
+         http://www.phink.net/ntk/
+                                                    - you still here?
+         http://www.antics.org.uk/ntktel.html
+                                      - and you can stop that as well
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+
+       now BUMFIGHTS are illegal, make do with bootleg copies of 
+       dweebfights http://www.whiterose.net/~maximan/cockygit.mpeg ... or
+       wankerfights http://www.nowwashyourhands.com/projects/video/ipa.asp 
+       ... spot the odd-product-out: http://www.ippulse.com/ ... bush
+       out! http://www.masturbateforpeace.com/ ... those bloody benders:
+       http://images.google.com/images?q=bender ... E.T. sells off old
+       kit: http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=908708127 
+       ... http://www.nzherald.co.nz/storydisplay.cfm?storyID=2848272 
+       vs http://www.geocities.com/heartland/3450 ... BBC oggs say goodbye 
+       to KINGSWOOD WARREN: http://www.kano.org.uk/pics/croaky/ ... cool 
+       new way to start e-mails: http://www.google.com/search?q=glacierhi 
+       ... BOB FORWARD goes gets untethered ... when will "pigopolists vs 
+       stuckists fight for desktop gwana-gwana" articles come with glossary?
+       http://www.theregister.co.uk/content/7/27206.html ... pay per view: 
+http://www.knoxnews.com/kns/local_news/article/0,1406,KNS_347_1438232,00.html
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> time once again for ITV's annual showing of good-natured
+         Jim Carrey lawyer romp LIAR LIAR (9pm, Fri, ITV) - last shown
+         September 22nd, 2001... the BBC has similar problems shaking
+         off Steven Spielberg's truck-chase classic DUEL (11.25pm, Sat,
+         BBC1)... and DRAGON POWER: JACKIE CHAN (11.25pm, Sat, C4)
+         tells the story of the regularly injured comedy-action hero,
+         followed by one of his most endearingly awful efforts, the
+         clearly filmed-in-Vancouver RUMBLE IN THE BRONX (10pm, Sun,
+         C4)... presumably they've hired James Cameron to provide
+         special effects if Peter Snow and Kate Humble can't see
+         anything from the submersibles in THE ABYSS: LIVE (2.55pm,    
+         7pm, 11pm, Sun, BBC1) - hopefully uncovering something as
+         surprising as Julia Ormond psychic eskimo adventure SMILLA'S
+         SENSE OF SNOW (11pm, Sun, BBC2)... while "moral ambiguity" is
+         the unique selling point of new C5 import THE SHIELD (10pm,
+         Sun, C5) - what *will* those cop-show makers think of next?...
+         everyone seems to be raving about another series of THE OFFICE
+         (10pm, Mon, BBC2), but it's hardly I'M ALAN PARTRIDGE
+         (11.20pm, Mon, BBC2)... sources estimate approximately 8
+         seconds of Kim "Sex In The City" Cattrall nudity in archetypal
+         teen smut PORKY'S (11.05pm, Mon, C4)... the nightmare of    
+         narcolepsy is tackled in sensitively titled documentary NAP
+         ATTACK (9pm, Tue, BBC1)... and the deteriorating quality of
+         the sequels is highlighted by a showing of the still-matchless
+         SILENCE OF THE LAMBS (10pm, Tue, C5)... The Money Programme
+         appears to have ditched any mention of boring old "Money" in
+         the title, and just lists snappier episode names like SNACK
+         ATTACK (7.30pm, Wed, BBC2)... as ever, wouldn't it be more
+         interesting to see FAKING IT (9pm, Wed, C4) transform a drag
+         queen into a naval officer?... and whether heavy.com are
+         involved or not, merely the use of the phrase the "inner city
+         intelligentsia" should tip you off that it might be a bit of a
+         Nathan Barley-fest over on HEAVY TV (12.15am, Thu, C4)...
+
+         FILM>> perhaps not the "Dune"-universe spinoff you'd been
+         hoping for in oestrogen-heavy Sandra Bullock ensemble drama
+         DIVINE SECRETS OF THE YA-YA SISTERHOOD ( http://www.cndb.com/ :
+         This lace panel slips down over Ashley Judd's left breast and
+         you can see [her] nipple. It is poorly lit and rather quick)
+         ... no-one seems to forsee a wide release for Japanese "my    
+         transplants can see dead people" philosophical frightener THE
+         EYE ( http://www.bbfc.co.uk/ : Contains sustained moderate  
+         horror and brief strobing effect)... and, despite our prior
+         claims that it was released three months ago, Tara Reid gross-
+         fest "National Lampoon's Van Wilder" now appears to be  
+         capitalising on the party conference fever currently sweeping
+         the UK, with the equally uninformative Australian title, VAN  
+         WILDER: PARTY LIASON ( http://www.cndb.com/ : Apparently, some
+         dog testicle shots were the only thing edited out of the    
+         "unrated" [DVD] version of this movie)...
+
+         DRESS DOWN FRIDAY>> yes, almost implying that we're still     
+         working through an enormous backlog of high-quality entries,  
+         we're pleased to announce that this month's "Design Your Own
+         Merchandise" winner is ANDY MCFARLAND's slogan "I Spend All
+         Day Bitching About You On IRC Channels You Can't See",
+         originally featured in this column last May. We trust you'll
+         find it worth the wait - Andy receives UKP2.00 from the sale
+         of each shirt via http://www.ntkmart.com/ - where you can also
+         find the new glow-in-the-dark version of the classic "Elite"  
+         design, plus amazing never-to-be-repeated offers like the last
+         few "Extreme Computing" and grey "Adminspotting" shirts for as
+         little as US$10 each (approximately 6 of your earth pounds).
+         We are currently reprinting the startlingly popular "404  
+         /shirt/tie not found" design, whose originator CAMILO MESIAS
+         reassuringly reports that he puts his royalties towards
+         "wireless cards" and "work on open source software"... best of
+         the rest this month has to be DUNCAN MARTIN's bumper batch of 
+         obscure-tech humour at http://www.cs.nott.ac.uk/~djm/ntk/ ,
+         featuring the Ben Franklin paraphrase "Those that can give up
+         general purpose computers for the sake of a little eye candy
+         deserve neither computers nor eye candy", plus "his and hers"
+         pinout diagrams for your dad's favourite microprocessors, the  
+         Z80 and 6502. Other entries continue to baffle and amuse in  
+         equal measure, including an curious new trend of slogans - DAN
+         MCMAHON'S "w00tilicious", RONAN WAIDE's "You don't have to    
+         access my ttys to console me" - perhaps over-optimistically   
+         intended for "geek girls", a demographic which currently    
+         constitutes a full 3-5% of the store's total turnover... it's
+         been a bit quiet in "Buy One, Subvert The Mass Media, Get One 
+         Free" http://www.geekstyle.co.uk/images/ recently, with 
+         faxyourmp cyber-activist JAMES CRONIN hinting that Newsnight 
+         wouldn't let him wear his "They Stole Our Revolution" design, 
+         though he reckons he might have got away with "the more subtle
+         Elite one". No such worries, however, in the rulebook for Eden
+         Studio's BUFFY THE VAMPIRE SLAYER ROLEPLAYING GAME 
+         http://www.btvsrpg.com/6000.htm wherein, BILL HUMPHRIES notes,
+         the "hacker/technopagan" sample character is wearing some
+         sort of NTK logo, possibly the very "Revolution" shirt which
+         Newsnight had a problem with. A free shirt to the first
+         person to send us a scan; and another one if you happen to
+         be the artist and you're not jeopardising your future
+         RPG-illustrating career by telling us about it...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                  "valuable"
+               http://www.dotcomscoop.com/media924.html#quittner
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

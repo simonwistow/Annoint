@@ -1,0 +1,266 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-05-14_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         
+        "The challenge of identifying blacked-out words came to 
+         Naccache as he watched television news on Easter weekend, he 
+         said in a telephone interview last Friday. 'The pictures of 
+         the blacked-out words appeared on my screen, and it piqued my 
+         interest as a cryptographer,' he said..."
+         - technique may put an end to blacked-out official documents, 
+              Have I Got News For You's popular "missing words" round 
+                         http://news.com.com/2100-7348_3-5209016.html
+
+
+                               >> HARD NEWS <<
+                            those Prussian blues
+
+         Next Monday's meeting of the EU Council of Ministers 
+         (who, we like to think, gather in large cloaks around a huge 
+         glowing orb) looks likely to decree that EU software patents
+         *will* go ahead, despite the EU parliament sticking in
+         amendments to the new European law saying the opposite. What
+         happens now? Not, unfortunately, civil war on the streets of
+         Brussels, but the formation of a "conciliation committee".
+         Fifteen MEPs and reps of the Council of Ministers will do
+         battle over the bill, and present a compromise bill to the
+         EU parliament in the Autumn. Just who will be on this
+         committee is undecided; and just how the Parliament will
+         vote is still up in the air. So, despite all the complaints
+         about the undemocratic nature of the EU, you can still
+         complain to your MEP and get a result.
+         http://wiki.ael.be/index.php/MEP-Position-Lobbying-Guide
+                                              - how to lobby your MEP
+         http://tinyurl.com/2ljpq
+                              - the URL to watch for new developments
+         http://patents.caliu.info/codecisio.en.html#mecanisme
+             - the decision-making process, coded in java. no, really.
+         http://www.ldys.org.uk/web/policy/softwarepatents.html
+- getting the Lib/Dem MEPs to vote the party line would be a big step
+
+         As readers with unnaturally long memories may recall, this 
+         month marks the countdown to - and we're as surprised about 
+         this as anyone - NTK's 7th birthday. Rather than embarrassing 
+         Amazon-wishlist taste-revelations, here's something practical 
+         we'd really like - please continue to mail us all the jokes 
+         and goofs that you think no-one else will ever get, but could 
+         you also try to put "NTK" at the start of the subject line? 
+         (Or just reply to a previous mailout, that's good too.) Then 
+         we'll use that as an extra "ham" test to prevent them getting 
+         eaten by our increasingly industrial-strength email filtering, 
+         without the overhead of some of the previously-considered 
+         alternatives: only mailing us with self-deprecating subject 
+         lines (fun while it lasted); rarely-used dictionary words 
+         (something of a non-starter nowadays); or the succinct code-
+         phrase part-suggested by reader SIMON BATISTONI, "They Set Up 
+         Us The Revolution - Now We Have Set Up It Them Back".
+         http://www.ntk.net/index.cgi?b=02003-05-02&l=31#l
+          - because bots can't guess "NTK" from "tips@spesh.com", see?
+        
+         And actually, this could be a good time to try it out, as 
+         we've got some really good speakers lined up for the NotCon 
+         thing in June (proposal "deadline" midnight today UK time), 
+         but one of them ("not really a 5-star hotel kinda guy") has 
+         specifically asked us to recommend a "low-key" central-ish 
+         London hotel with decent internet connection (broadband or 
+         wifi). Obviously we rarely leave the house, so would really 
+         like to hear any suggestions you might have - offers to "wifi-
+         up" existing establishments are appreciated, though less 
+         feasible to implement in the available timescale.
+www.geektools.com/geektels/showhotels.php?country=United+Kingdom&state=London
+                  - suppose Thistle Hotels are *kind of* "low key"...
+         http://www.notcon04.com/
+                       - big announcement of who's coming any day now
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         new pics are a "wip-woawing wollercoaster-wide into the vewy 
+         wings of hell": http://www.ntk.net/2004/05/14/dohwings.gif , 
+         reports Congwessman Jonathan Woss... no wonder Tesco are still 
+         ahead: http://www.ntk.net/2004/05/14/dohloc.gif ... another 
+         satisfied customer: http://www.ntk.net/2004/05/14/dohcyn.gif 
+         ... eyes behind the mask: http://qwer.org/widdyofweek0514.html ,
+     http://www.linx.net/tools/stats/looking-glass.thtml?site=Ann%27s%20bust
+         ... prosecution/ London's free "Metro" newspaper to look into 
+         feasibility of "removing hard drive from laptop computer": 
+         http://www.ntk.net/2004/05/14/dohmetro.gif ... watch those 
+         typos!: http://www.ntk.net/2004/05/14/dohchatnan.gif ... 
+         inappropriate ads: http://www.ntk.net/2004/05/14/dohatkins.gif ,
+         http://www.ntk.net/2004/05/14/dohmom.gif - meet inappropriate 
+         pic/headline combos!: http://www.ntk.net/2004/05/14/dohbrad.gif ,
+         http://www.ntk.net/2004/05/14/dohhamill.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         And following on from next week's ID card event semi-frenzy - 
+         you wait all year for a hard-hitting look at copyright 
+         extensions, and then 4 or 5 of them come along at the same 
+         time. RICHARD STALLMAN, as ever, is responsible for some of 
+         the most uncompromising anti-IP positions, starting with the 
+         COPYRIGHT VS COMMUNITY event (from 11am, next Thu 2004-05-20, 
+         Ravensbourne College, 20 mins from London, nr Elmstead Woods 
+         station, Kent, free as in "Don't sign up, just turn up", the 
+         site advises), also featuring "cosmic" websearcher FRAVIA and 
+         the (relatively) down-to-Earth EFF Outreach Co-ordinator CORY 
+         DOCTOROW. RMS's tour continues with appearances in Bristol, 
+         Dublin and Edinburgh (more below). Professor LARRY LESSIG is 
+         meanwhile booked to explain CREATIVE COMMONS IN A CONNECTED 
+         WORLD (7.30pm, Thu 2004-05-27, Royal Geographical Society, 
+         London SW7, UKP10) as part of the "London International 
+         Festival of Theatre" - and NTK's own "Dave Green" will be 
+         picking up the slack at the ICA's RIP-OFF: CREATIVE COPYING IN 
+         DESIGN (7pm, Wed, 2004-05-26, the ICA, London SW1Y, UKP8), 
+         where he'll be taking the contrarian position that fewer 
+         copyright restrictions would be a good thing, if only because 
+         then people would get less excited about some of the truly 
+         terrible "illegal" sampling art out there, such as that awful 
+         "The Grey Album" and the entire output of Negativland.
+         http://cubicgarden.com/copyright/
+             - "I think that square is top of cool shape in the world"
+http://www.watershed.co.uk/exhibition/digital/listings/plugincinema.html
+           - sort of book launch in Bristol (no Dublin URL yet, sorry)
+         http://www.inf.ed.ac.uk/events/colloquium/
+           - but Edinburgh wins the prize for scariest Stallman photo
+         http://www.liftfest.org/2004/
+           - impressively atrocious all-Flash site for the Lessig one
+         http://www.ica.org.uk/index.cfm?articleid=13265
+        - plus AFFS conf tomorrow: http://www.affs.org.uk/affsac.html
+         http://www.stand.org.uk/mistakenidentity.php3
+           - and don't forget ID card thing in London this coming Wed
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The nice thing about vi (audience groans) is that while it
+         doesn't include the kitchen sink, you could probably get a
+         kitchen sink to emulate it with little problem. With that 
+         in mind, there was a grim inevitability about the eventual
+         appearence of VIWORD - the vi emulator macro for Microsoft
+         Word. It's early days - Mac Office X, predictably, shook 
+         its little fists and screamed at running such a dirty thing 
+         - but this little package of key-bindings will let you hjkl
+         your way around a document, as well as leap to line-numbers,
+         thwip through undos and fill the last few pages of any
+         document with :w, :wq! ZZ when you forget to install it.
+         http://dready.org/blog_section/viword/
+                               - anyone got vi keybindings for bbedit?
+         http://insenvim.sourceforge.net/
+                                     - Vim Intellisense (Windows only)
+ 
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         a bit more Chris-Morris-esque than last week's "Random Times":
+http://www.toothycat.net/wiki/bnf.pl?page=Rachael/TabloidHeadlineGenerator
+         ... not an anagram of "Henry Raddick", but well on the way: 
+http://www.amazon.com/exec/obidos/tg/listmania/list-browse/-/2WE01ST4Z4YY0/ 
+         ... ad phrases you don't often hear on trainspotting sites: 
+         http://www.thejunction.org.uk/flist_455.html ... play call-
+         centre kit (any user/ password): http://www.givemeabreak.com/ 
+         ... we for one welcome our new meme-complex overlords: 
+         http://memecodes.outer-court.com/ ... when audiophiles write 
+         epic explanations of what's wrong with blind "ABX" testing: 
+       http://www.positive-feedback.com/pfbackissues/0604/davis.6n4.html
+         ... Johnny Depp, "Vladimir Putin's aunt" - together at last: 
+http://www.google.com/groups?selm=6gqr90hcssjh4b1cdob8d4qepmfsqbtg7f%404ax.com
+         ... it's the only language these "Games Animals" understand: 
+         http://www.gamesanimal.com/article.php?sid=1138 ... 
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> non-viewers of THE EUROVISION SONG CONTEST (8pm, Sat, 
+         BBC1) can reassert their confused masculinity with FIGHT CLUB 
+         (9.15pm, Sat, BBC2), or simply "love it when a plan comes 
+         together" in the company of the original HANNIBAL: THE MAN WHO 
+         HATED ROME (8pm, Sat, C4)... PANORAMA (10.15pm, Sun, BBC1) 
+         avoid fuelling terrorist hysteria by exploring a possible 
+         chemical attack on London in handy mock-documentary format... 
+         a "Big Brother psychologist" reveals the "unconscious signals" 
+         given off by politicians in pointless post-hoc rationalisation 
+         BODY TALK (8pm, Mon, C4)... and CELEBRITIES DISFIGURED (9pm, 
+         Mon, C4) asks how - a heavily made-up - Craig Charles will 
+         cope with what the Radio Times describes as being "pitied, 
+         ignored and avoided" at a Red Dwarf convention... as we always 
+         maintain, ALMOST FAMOUS (11pm, Tue, ITV) is uncannily similar 
+         to our introduction to IT journalism, but with Lester Bangs in 
+         the role of ZDNet's Rupert Goodwins - plus it finishes in time 
+         to catch the end of Romero's 1985 DAY OF THE DEAD (11.50pm, 
+         Tue, BBC2)... the "largely unregulated internet marriage 
+         industry" (Radio Times again, sorry) brings together a Russian 
+         bride and a 49-year-old American DJ in DJ RAY'S BIG DAY (10pm, 
+         Wed, BBC2)... basically, if "Mad Max" is about a policeman's 
+         personal odyssey to recreate social order, why not other civil 
+         servants?, asks Kevin Costner in ham-fisted post-apocalyptic 
+         hilarity THE POSTMAN (8pm, Thu, C5).. though fortunately 
+         *that* ends in time to catch "most of" the ever-entertaining 
+         WILD THINGS (10.30pm, Thu, C4), if you know what we mean...
+         
+         FILM>> a strong cast struggles to get any tension whatsoever 
+         from the tale of a journalist whose 1998 made-up hacker-
+         turned-consultant story was trivially exposed by the basic web 
+         searches of the unfortunately named e-zine "Forbes Digital 
+         Tool", in made-for-TV-esque non-thriller SHATTERED GLASS 
+         ( http://www.screenit.com/movies/2003/shattered_glass.html : 
+         [CAUTION, POPUPS] Although it shows the negative results of 
+         doing so, it's possible the film could inspire kids to make up 
+         extravagant stories)... "Trainspotting" meets "Fever Pitch" - 
+         and gives it a bloody good hiding - in controversial Brit 
+         hooliganism glorification THE FOOTBALL FACTORY (imdb comment: 
+         "lovely to see Chelsea boys kicking the crap out of the rest 
+         of the football fans. The Millwall fight was done brilliantly 
+         and very believable")... or "Turns out that [retarded football 
+         mascot Cuba Gooding Jr] has 'the right stuff' and becomes an 
+         outsider artist superstar, which forces [Ed Harris] to kill 
+         himself by crashing the space shuttle into the football 
+         field", extrapolates "reviewing movies by their trailers" site 
+         http://homepage.mac.com/joester5/prereview/page2.html#Radio 
+         re RADIO ( http://www.capalert.com/capreports/radio.htm : Even 
+         though Radio's future at the school was in danger because of 
+         him going into the girls' locker room, Radio would not tell 
+         Coach Jones who convinced him to do such a thing. [He] decided 
+         to sacrifice himself rather than get Clay into trouble. Whom 
+         else do we know sacrificed Himself for our sakes?)... 
+
+     
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+            "rarely worth checking more than once a week, anyway"
+            http://www.robfisher.net/newblog/archives/000254.html        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+     Tips, news and gossip to tips@spesh.com - with "NTK" in subject line.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

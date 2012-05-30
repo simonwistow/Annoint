@@ -1,0 +1,326 @@
+ _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-01-11_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Search engines are the right tools with which to find the 
+         needed information. According to 101Register.com, there are 
+         over 600,000 search engines currently available on the Web; 
+         the major ones are Yahoo, AOL, Lycos, Hotbot, Excite, 
+         Altavista, MSN, Ask Jeeves, Netscape Search and Northern 
+         Light..."
+  http://globalarchive.ft.com/globalarchive/article.html?id=020107000559 
+        ...plus, a bit more research reveals, a little-known newcomer 
+                                               by the name of "Google"...
+
+
+                                >> HARD NEWS <<
+                            going to shoot through
+
+         Just a week in, and 2002 is already shaping up to be the
+         super-retro Year Of Any Other Previous Year. In the only
+         major news stories this week, Steve Jobs shamelessly mined
+         his back catalogue for design ideas (NeXTCube, Pixar lamp -
+         the new iBooks, we prophesy, will be shaped like a Buzz
+         Lightyear Jet Pack). Bill Gates regressed into a Harry
+         Potter childhood for CES, and espoused the future pad
+         computer he's been banging on since the Pen Windows days.
+         And the wider Net's gaze persists in being drawn into the
+         nostalgic netherworld of the Google Archive. Most disturbing
+         retro-post so far uncovered is a 1991 "Marc Andreessen"
+         confessional, where he offers "Dickman and Throbbin" as his
+         "all-time favourite porno". "This has to be one of the
+         funniest movies I have ever seen, porno or not...", writes
+         the young Univ of Illinois student. Of course, we should
+         point out it may well be an entirely different Marc
+         Andreessen. Or even more tantalisingly: could it be a fake
+         post placed in the Google archive by mischevious USENET
+         "benefactors"? Well, no. But that *does* sound a good idea
+         for a competition. First one to proveably drop a ringer into
+         the DejaGoogle database gets a tenner from us. Extra quids
+         for the inclusion of eerie futuristic premonitions, celebrity
+         value, and mentions of other Marc Andreessen porn
+         preferences. But please: do try to ensure that your
+         changing of the past does not influence the present.
+http://dailynews.yahoo.com/h/p/nm/20020108/ts/imdf08012002012255a.html
+                                                        - Bill Gates...
+         http://www.theonion.com/onion3744/harry_potter_craze.html
+                                                       - imitates Onion
+http://groups.google.com/groups?selm=1991Jan11.073833.14136%40ux1.cso.uiuc.edu
+                               - starring master of comedy, John Holmes 
+         http://groups.google.com/groups?selm=5094%40ucbvax.ARPA
+- earliest NTK reader post: 1985's Gordon Joly becomes self-aware on net.ai
+
+         What a piece of work is Peter Noble PR, who yesterday mailed 
+         out a press release pegged around the recent deaths of rock 
+         musicians Jon Lee (the drummer in Feeder), Zac Foley (the bass 
+         player in EMF), and Stuart Adamson (the singer from Big 
+         Country). Under the heading "It's Official: Rock'n'roll is a 
+         Dangerous Game", the release goes on to surmise that "the 
+         recent rock suicides serve as an ironic twist leading up to 
+         the much hyped computer game release entitled Rock Manager 
+         [...] released on PC CD-Rom on 28th March in the UK". "Has no 
+         one learned anything from the Jo Moore fiasco?" wondered one 
+         gobsmacked recipient, and we'd be inclined to agree - it's 
+         inconceivable that PR companies might set out to deliberately 
+         court controversy in this way, under the impression that
+         "any publicity is good publicity", or something.
+         http://www.ntk.net/2002/01/11/dohnoble.txt
+               - "for screen shots, additional information, obituaries"
+     http://www.femail.co.uk/pages/standard/article.html?in_article_id=36136
+                        - taking that "any publicity..." thing too far?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "low level violence" - not been using RED HAT for long?: 
+         http://www.adminbase.net/~inorog/dead-rat-800x600.jpg ... 
+         hell, freezing over: http://www.ntk.net/2002/01/11/dohsnow.gif 
+         ... "If you are using Netscape please upgrade to IE5", barks 
+         http://www.oswaldmosley.com/ ... scoring low on "dish care": 
+         http://www.whitebox.co.uk/detailsx.asp?pfid=DW_DG6145WG ... 
+         COCA-COLA puts "name on electronic goods for the first time": 
+        http://media.guardian.co.uk/newmedia/story/0,7496,630088,00.html
+         vs http://members.aol.com/wrob282988/GroovyNet/Thing.html ... 
+         "lack of SSL" security loophole plugged by deleting script: 
+         http://www.gofers.co.uk/new_account/body_new_account.html ... 
+         ever-professional DR KEYBOARD publishes NHS-style performance 
+         table: http://www.drkeyboard.com/stats/stats.Dec-2001.html ... 
+         it's Shockingly-Underpaid-Vital-Role-In-Society Of The Week: 
+         http://www.reed.co.uk/cgi-bin/JobDetails.asp?JobID=1119033 ... 
+         honesty attack at http://www.geneanet.org/members/ - where 
+         "Few features are coming soon!" ... it's a new paradigm 
+         alright: http://www.ntk.net/2002/01/11/dohvisuo.png ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Only a couple of days or so left to get your nominations into 
+         the "BLOGGIES" SECOND ANNUAL WEBLOG AWARDS - and perhaps 
+         prevent Metafilter, PlasticBag.Org and - imaginatively enough 
+         - Blogger.com from scooping all those $20 PayPal prizes again. 
+         (Slightly) closer to home, the titanic battle for the soul of 
+         arty-farty online liberalism is shaping up at next week's 
+         CYBERSALON: AN INTIMATE ENCOUNTER WITH DOUGLAS RUSHKOFF (7pm, 
+         Fri, 2002-01-18, Global Cafe, London W1, free). In the blue 
+         corner: West Coast writer, technorealist ringleader (and one-
+         time "software developer") Rushkoff will be giving a "short 
+         talk"; while Cybersalon's own RICHARD BARBROOK will be hosting 
+         the discussion afterwards, and thus hopefully representing the 
+         beret-wearing Euro-cynicism of the Nettime mailing list, 
+         memorably described by Doug in the Guardian as "hyper-
+         intellectual neo-communists" after they dared to "snicker" at 
+         last year's bombing of the World Trade Center. 
+         http://www.fairvue.com/?feature=awards2002
+               - vs "drivel, banal shit" http://psychcentral.com/blogs/
+     http://www.guardian.co.uk/Archive/Article/0,4273,4260490,00.html
+                                        - vs http://www.cybersalon.org/
+         http://www.filmhouse.demon.co.uk/GHIBLI.html
+                     - plus: Manga movie festival hits Edinburgh on Thu
+     http://www.marssociety.org.uk/sections.php?op=viewarticle&artid=61
+                             - then, next weekend: get your ass to Mars
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Seven years ago, Gopher had it all - bigger audience than
+         those struggling HTTP Eurotrash types, MTV VJ's wearing
+         "Gopher World Tour" t-shirts, groupies in airport lounges
+         screaming tab-delimited text in case jetsetting Gopher
+         developers heard, and "request more files". Now, its creators
+         live in rubbish bins and drink each other's wee. The One
+         True Reason for this fall to grace, tradition teaches us, is
+         that back in '93 Gopherenes demanded a $10,000 a year
+         licence for commercial gopher service users. The source was
+         unfree, development languished, and Marc Andreessen turned
+         up with this brand new guitar sound. A year ago, the
+         University Of Minnesotta finally relented and GPL'd the
+         mother, and voila - GOPHER 3.0. True be told, GOPHER 3.0 is
+         largely a bunch of security updates, better MIME-handling
+         and the usual nips and tucks to port the code to a wider set
+         of (Unixy) platforms. But everyone knows that 3.0 is when 
+         programs *really* take off.
+         http://quux.org/hurg/hurg?selector=/Software/Gopher&host=quux.org
+          - now set up that gopher porn site and watch the hits explode
+         http://www.scn.org/~bkarger/gopher-manifesto
+                                            - gopher for Mozilla? tick!
+http://groups.google.com/groups?threadm=1993Mar11.015639.16976%40spdcc.com
+                    - "If X Mosaic gets ported to Windows, gopher is a gonner."
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         SLATE UK editors request anonymity, fear "naming and shaming" 
+         campaign: http://slate.msn.com/?id=2060511&entry=2060514 ... 
+         colour of universe suspiciously close to ZX Spectrum "Cyan": 
+         http://www.newscientist.com/news/news.jsp?id=ns99991775 ... 
+         but where's "how many frames of animation make up my walk?": 
+         http://blog.ravenblack.net/quiz/videogame.pl ... shame he 
+         wasn't elected over here (for the tabloid headlines alone): 
+         http://www.minge.org/ ... nautical, not really that nice: 
+  http://www.geocities.com/SouthBeach/Bluffs/5740/pictures/picture.html
+         ... avoid discussing: a person's occupation, birthplace, 
+         religion, your "family tree", sex, the mediocrity of British 
+         food: http://qwer.org/foreigners020111.html ... NZ imitates DR 
+         WHO: http://www.nzherald.co.nz/storydisplay.cfm?storyID=585240 
+         ... Japanese imitate "I do eyes! Genetic designs, just eyes!": 
+  http://dailynews.yahoo.com/htx/nm/20020105/sc/japan_eyeball_dc_1.html
+         ... when oh when will the public tire of FRIENDS REUNITED 
+         Spoof Of The Week?: http://www.convictsreunited.com/ ... is it 
+         because I is God?: http://www.emailgod.net/view.asp?id=205 ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> hey, maybe SMACK THE PONY (9.30pm, Fri, C4) *will* one 
+         day persuade other comedy sketch shows to go back to funny 
+         song parodies... Julie Delpy bungee-jumps without a rope in 
+         heat-vision CGI monster romp AN AMERICAN WEREWOLF IN PARIS 
+         (10.35pm, Fri, BBC1)... Mel B - who is the "scary" one, right, 
+         not the tracksuit-wearing PE teacher - explores the religious 
+         traditions of West Africa by living as a VOODOO PRINCESS (8pm, 
+         Sat, C4)... and there's a handy double-header of films that 
+         are the subject of monologues in other movies, namely: DOG DAY 
+         AFTERNOON (11pm, Sat, C5) - dissed by Travolta in "Swordfish" 
+         - and TOP GUN (11.05pm, Sat, BBC1), as immortalised by Quentin 
+         Tarantino: http://uk.imdb.com/Quotes?Sleep+with+Me+(1994) ... 
+         oncogeny recapitulates phylogeny on Sun, as cloning docu HOW 
+         TO BUILD A HUMAN (9pm, Sun, BBC2) follows caveman fantasy STIG 
+         OF THE DUMP (5.55pm, Sun, BBC1)... Mia Sorvino remakes "Alien" 
+         with giant insects on the New York underground in MIMIC (10pm, 
+         Sun, C4)... Ben Affleck presages "Pitch Black" in smalltown 
+         Dean R Koontz adaptation PHANTOMS (10pm, Mon, C4)... and 
+         contestants think they're living in an isolated tropical 
+         paradise, but it's actually one of those domes in Cornwall, in 
+         new reality vote-off EDEN (6pm, Tue & Thu, C4)... disaster 
+         nostalgia CHALLENGER - GO FOR LAUNCH (9pm, Tue, BBC2) ignores 
+         the controversial http://www.trosch.org/for/7j05/7oct05.htm 
+         theory (search for "Shuttle")... Cindy Crawford actioner FAIR 
+         GAME (10.30pm, Tue, ITV) pioneeringly features a combined 
+         Mexican stand-off sex scene... Ridley Scott takes on the 
+         Yakuza in leisurely "Black Hawk Down" prequel BLACK RAIN (9pm, 
+         Thu, C5)... and ANGEL (9pm, Thu, Sky1) returns to satellite, 
+         followed by new would-be-M*A*S*H medical comedy SCRUBS (10pm, 
+         Thu, Sky1) - starring Sarah Chalke, aka "the second Becky" 
+         from "Roseanne"... 
+         
+         FILM>> a big week for studios junking their box-office 
+         underperformers, the most disappointing being Eliza "Faith 
+         from Buffy" Dushku and Melissa "Get Over It" Sagemiller's 
+         hotly-awaited teen-horror near-death coma, SOUL SURVIVORS 
+         (http://www.screenit.com/movies/2001/soul_survivors.html : we 
+         see [Dushku] and [Sagemiller] in the shower together (clothed) 
+         as they rinse off the paint, with [Dushku] rubbing it off 
+         [Sagemiller] and herself with a sponge in a slightly sensuous 
+         fashion; [Sagemiller] then catches sight of [Dushku] and [a 
+         goth girl] making out together (standing) in the library, 
+         suggesting something lesbian related)... a B-list cast - 
+         including a bearable John Cleese - amble good-naturedly 
+         through gross-out "Mad, Mad, Mad World" remake RAT RACE 
+         (http://www.capalert.com/capreports/ratrace.htm : flatulence; 
+         beatings; leg wrapping; tongue piercing - repeatedly; adult 
+         males kissing by mouth; additional homosexual presence; punk 
+         skinhead neoNazi museum)... Teri "Meet The Parents" Polo 
+         divorces John Travolta, thoughtlessly moves in with murderer 
+         Vince Vaughn in non-nuclear potboiler DOMESTIC DISTURBANCE 
+         (http://www.capalert.com/capreports/domesticdisturb.htm : 
+         denial of personal accountability by blaming divorce for poor 
+         behavioral choices; abusive attitude toward stepson)... which 
+         just leaves a choice of "Spinal Tap" tribute-band effort ROCK 
+         STAR (http://www.cndb.com/movie.html?title=Rock+Star : [Mark 
+         Wahlberg] pulls his pants up fast but we still get a good 
+         enough shot of that awesome, round, deep-cracked butt)... or 
+         inexplicably renamed-for-the-UK Neil Diamond singalong EVIL 
+         WOMAN (http://www.cndb.com/movie.html?title=Saving+Silverman : 
+         [Odessa Munroe] plays a hooker who strips off her top in a 
+         ping pong match. One look at her tits and you'll want to suck 
+         'em to death!)... 
+         
+         CONFECTIONERY THEORY>> bafflingly, white chocolate looks set 
+         to be *the* confectionery craze of 2002, with CADBURY'S DREAM 
+         "Creamy White Chocolate Egg" appearing to resemble a Milky Bar 
+         shell filled with white chocolate of an almost perceptibly 
+         different consistency. Milky Bar owners NESTLE are, however, 
+         fighting back with their own "new fondant-filled" MILKYBAR EGG 
+         and the unappealingly named KIT KAT CHUNKY WHITE, part of a 
+         Spring line-up that also includes the "Monsters Inc"-inspired 
+         I SCREAMS (a "milky dessert with a green centre") and MIKE'S 
+         BURSTING EYES. Here's hoping they go down better than the pre-
+         Christmas ROWNTREE'S FROST PASTILLES (an "assortment of fruit 
+         sorbet and fruit ice cream flavour pastilles"), described by 
+         DAVID TRAVELLING as "strange, but pleasant, synthetic flavours 
+         that I have failed to match with any known ice cream". Though 
+         he does add that one that tastes like bubble-gum, but with the 
+         added advantage that "swallowing it doesn't lead to slow death 
+         by internal strangulation. At least, it hasn't yet"... over in 
+         savouries, DOUGLAS YATES was perhaps a little harsh towards 
+         the ultra-rigid JACOB'S CRACKERS THAI BITES ("Lightly salted", 
+         "Sweet herb" or "Oriental spice", from 39p), alleging they're 
+         merely "small rice crackers with a hint of flavouring powder 
+         sprinkled on them", though WAYNE WILLIAMS was more positive 
+         about the erratically distributed MCCAIN MICRO CHICKEN WINGS 
+         ("Curry", "BBQ" or "Tandoori") - "Nice, but (as chicken wings 
+         tend to be) quite small". Or maybe the "micro" part of their 
+         name doesn't just refer to their microwaveability... the cool 
+         reception continued for NESCAFE'S "HOT WHEN YOU WANT" self-
+         heating coffee ("tepid piss" - Jolyon Sandercock) - we had a 
+         surprisingly palatable one ("with milk & sugar") where the 
+         temperature was just right, but this can be tricky to judge 
+         because of natural anxieties over returning to the can once 
+         the "red liquid" (red mercury?) has been activated. NTK's own 
+         LEE MAGUIRE described the "DIET AIR" peach variant of SNAPPLE 
+         ELEMENTS (UKP 1.69) as "having a really nice bottle", but it 
+         clearly hasn't tantalised your tastebuds as much as the RAC's 
+         long-awaited entry into the "Red Bull" energy drink market, 
+         RAC 124: http://www.rac.co.uk/news/issues/26072001RAC124 
+         (124mg of caffeine, that is!). JOSH ROULSTON found the 
+         "lightly carbonated" peach flavour "disgusting", only buying 
+         it because "it was such a strange idea" ("Not to be used as a 
+         substitute for sleep", the can reassuringly proclaims). Yet 
+         WAYNE WILLIAMS, still buzzing from his spicy chicken find, 
+         argued that they should play up the refreshing flavour more, 
+         instead of all the "Do Not Drive If Tired" waffle. Hey, it was 
+         vodka that popularised Red Bull, so let us know if you ignore 
+         the "Do not mix with alcohol" disclaimer and come up with a 
+         delicious Bellini-style RAC 124 caffeinated cocktail... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                           "computer virus? my arse"
+               http://www.herdofsheep.com/issue_42/anus.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

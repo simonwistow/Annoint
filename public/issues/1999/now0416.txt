@@ -1,0 +1,332 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-04-16_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+ 
+         "There is a section for messages about the war, and for a
+          discussion on the best way to achieve world peace." 
+      - KARL DALLAS' "Stop The War" site (content length: 2193 bytes)
+                         ...yup, thanks Karl - that ought to do it...
+                                            [ http://stopthewar.org ]
+
+
+                                >> HARD NEWS <<
+                                  fast moves 
+        
+         What is it with April? Is it some ancient hormonal trigger,
+         that causes grown men and women to become flitty, and
+         gallivant from one job to another? Or is it just that it's
+         the start of a new financial year, and they're shifting
+         before they get sacked? In such matters, science cannot
+         inform, merely record. MARK "only half decent person there"
+         FROST from BBC Online has wandered off to CAPITAL (Britain's
+         most commercially-driven yet curiously limpid Website). In
+         an unrelated move, JULIAN HARDY from Capital's running off
+         to IPC. Less parochially, KAI KRAUSE morphed seamlessly from
+         founder/chief design officer of METATOOLS to "that guy who
+         used to work here". And HAKON WIUM LIE (whose name is pidgin
+         english for his old job: inventing and hacking those
+         dastardly cascading style sheets) left the W3C. Now he's
+         back in his home country of Norway as the new CTO for OPERA
+         SOFTWARE. Okay, okay, it's not quite Marc Andreessen and
+         Netscape all over again, but at least Hakon'll ensure that
+         one browser will implement CSSs correctly. And, believe us,
+         that's as exciting as the Web gets these days. Yes, you did
+         choose the wrong career. Go back to that rock and roll band.
+         http://www.operasoftware.com/people/howcome/
+             - Howcome, he's our CTO! I dunno, how come he's our CTO? 
+         http://www.w3.org/People/howcome/
+                                         - No, Howcome, he's our CTO!
+         http://www.metacreations.com/press/racioppi_krause.shtml 
+                         - management no longer surrounded by Yes men
+         http://www.capitalfm.com/
+                       - yeh, some real sounds comin' at ya now. yeh!
+
+         You can always tell when a company is thinking of going
+         public, because suddenly its product turns to cack. Well,
+         FREESERVE appears to be hitting that scalability wall with
+         1.5 million customers (our favourite omen: some customers
+         have been dialling into the service, only to find themselves
+         at a admin router prompt instead). So it's a great relief
+         that all these other freewheeling ISPs are there to take up
+         the slack. Including, of course, Demon's new In2Home
+         service. Except it actually belongs to Scottish Telecom,
+         Demon's evil sibling company, who apparently didn't tell
+         Scottish Power (parent of both) about the free service until
+         just before they were about to launch it. Which meant that
+         when Power did find out, and insisted that Demon got
+         involved too, the poor guys only had two weeks to work out
+         what the hell was going on. Meanwhile, everyone's still
+         looking curiously at Easynet, and wondering - when will the
+         final shoe drop?
+         http://www.in2home.net/
+           - something a bit sinister about the two names combined...
+         http://www.demon.net/
+                                 - like something out of The Exorcist
+
+         It's a weird war that sees us siding with Wired (over a
+         copyright issue!), but Brit-based "contemporary NewzFeed"
+         NINFOMANIA seems to be dropping its habit of mailing its
+         subscribers word-for-word transcripts from wired.com, with
+         maybe an extra introductory paragraph and a cheeky "(c)
+         Wired Nuwz" at the end. Obviously this would be of little
+         interest to anyone who doesn't subscribe to the Ninfo
+         mailing list (we read it so you don't have to), except they
+         claim to be planning a "complete archive" of past issues on
+         their site, intriguingly duplicating the efforts of some of
+         the original publishers, who have their own archives in
+         out-of-the-way little places like wired.com, cnet.com, and
+         The Onion... 
+         http://www.ntk.net/ninfo/
+          - NTK supports copyright theft for non-profit purposes only
+         http://www.ninfomania.com/media/rates.html
+                           - not "non-profit" because they want to be
+         http://www.thuntek.net/~walter/war.htm#Britain
+                           - before you start feeling sorry for Wired
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         rebadged FATBRAIN.COM register "fartbrain.com" (also
+         phatbrain.com, fatbrin.com and fatbrian.com)...
+         INTERNATIONAL SPACE STATION "too noisy" (can't believe the
+         neighbours complained) ... extra-solar planet discovered,
+         again, prompts "are we alone?" editorials - again... NISSAN
+         spams 24,000 potential Xterra customers - with the addresses
+         of the other 23,999 ... ORACLE pursues Benetton-style
+         branding at http://www.ntk.net/doh/oracle990416.jpeg ...
+         HUBBLE finds oldest thing ever, again... GREAT-BRITAIN.COM
+         registered by French guy... STAR WARS queues get ADSL:
+         http://starwars.countingdown.com/lines/ ... news.bbc.co.uk
+         run the old "exam howlers" meme as news... URI GELLER
+         believes paper pyramid spun by hands' convection currents is
+         "psychokinesis in its simplest form" - in TIMES INTERFACE...
+         PAM's surgery more profound than first thought:
+         http://www.ntk.net/doh/max990415.jpeg ... Louis ROSSETTO to
+         do a new magazine about - spirituality?... Serbian spam...
+
+                               
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Unsanitary toilet facilities; endless queuing; and when you
+         get to the front, some scary big bloke says "Your name's not
+         down, you're not coming in". You can see why clubbers might
+         sympathise with the plight of KOSOVO REFUGEES - though of
+         course Club 247's Charity Weekender site provides a more
+         tasteful, humanitarian rationale. From next Fri-Sun (1999-04-
+         23 to 04-25), the plan is that participating clubs will
+         donate UKP1 per punter to the Kosovo Crisis Appeal - there's
+         still time to get involved, though they probably don't want
+         you to organise local collections of used clubwear and dodgy
+         E's. We wouldn't normally feature club events in NTK (it's
+         all bang bang bang and you can't concentrate properly on the
+         PlayStations), but it's a good cause, and, on balance, less
+         chance of getting caught up in sectarian violence than the
+         Windows/ Linux rumble at Comdex Spring '99.
+         http://www.club247.com/
+                         - It's still called "disco dancing". Groovy!
+         http://www.comdex.com/
+                         - delegates include top execs from "US Army"
+         http://www.worldtradeconf.com/ebiz99/admin/default.htm
+                  - now that's what we call e-business interactivity!
+                                 
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         NTK subscribers? Dutiful prospective employees? HAHAHAHAH-
+         Ahem. Nonetheless, C2.NET (a company that's *so* a front for
+         Neal Stephenson's "Secret Admirers" cabal) would like to
+         speak to you about a job they need filling. You might get
+         along - last time we met one of their senior staff, he was
+         setting fire to a 2KG lump of magnesium in the middle of the
+         desert. The guys in the UK branch (who are a little calmer,
+         we understand) are looking for a C programmer with
+         experience in cryptographic implementations to work on their
+         Apache and OpenSSL development. Applications along the lines
+         of "I have encoded my CV indetectably within the
+         packet-number sequence of this SMTP session" will be
+         admired, but won't get you a second interview. US citizens
+         may not apply for this job, as apparently your brains count
+         as munitions. 
+         http://www.c2.net/jobs/
+     - submissions from anon remailers aren't going to get far either
+         http://www.well.com/user/neal/
+                            - why they're not advertising on slashdot
+ 
+         TIMES INTERFACE, 1999-04-14, p7: "www.reminds.co.uk: claims
+         to be the only reminder service in the world." Yes, but what
+         if it *wasn't*? What if there were thousands of them, each
+         with their own clunky interface? Wouldn't you be tempted to
+         make your own too, out of bits of Web you found lying
+         around? Why not set up a cronjob to call the telephone call
+         back demo form at http://www.realcall.net/index2.ihtml with
+         your own phone number whenever you need a reminder? You'd
+         never need to use BT's hideously expensive AlarmCall service
+         again - plus you'd have the pleasure of explaining to a
+         telesales operator that you didn't want to buy their product,
+         - but thanks for waking you up anyway.
+         http://www.realcall.net/
+                      - there isn't a Telephone Misuse Act, is there?
+         http://www.flysas.co.uk/callme/
+             - and when they fix this, there's always their customers
+         http://www.ntk.net/btbill/bill.pl
+           - and before you complain that's not tracking, that's just
+            some smart alec friend of ours coming up with a dumb idea,
+         here's some rubbish Perl that will show your current BT bill.
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+     
+         the most important decision of your life:
+         http://www.cocovote.com/ ... S CLUB 7 has more members to
+         deter tribute bands - and is it like a Heinlein "S-group"
+         where they are all each other's "husbands" and "wives"?...
+         if you tolerate this, your DUPLO will be next:
+         http://lsp.fortunecity.co.uk/ ...  this year's best:
+         http://bme.freeq.com/people/addsub/ ... that's
+         GNU/Linuxchick, dammit - http://www.linuxchick.com/ ...
+         PIZZA vending machines... AMAZON Prosecutes Shoplifters...
+         ... going, going, BLAM! - http://www.sellguns.com/ ...
+         salvage experts going after the sunk MERCURY capsule: bet
+         Gus Grissom is glad he died in 1967... QUAKE Movie Oscars - 
+         but http://www.europe.3dfx.com/view.asp?PAGE=nusadcampaign 
+         unlikely to be eligible for best short... The "A" List:
+         http://www.geocities.com/Athens/Olympus/7160/gossip.html ...
+         THE MATRIX guys have got their eyes on V FOR VENDETTA...
+         where's the RFC? http://www.remotecontrolsextoys.com/ ...
+         truly, you get the readership that you deserve:
+         http://www.douglasadams.com/cgi-bin/mboard/info/thread.cgi?544,0
+         ... well, that's one way to seed the consumer market:
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=89148265
+
+
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+                       
+         TV>> "Action League Now" (until recently on C5's "Kablam!")
+         http://www.nick.com/docs/tv_shows/p150t1c1.html upped the
+         stakes but the dumb toy parodies always were the weakest bits
+         of THE ADAM AND JOE SHOW (11.10pm, Fri, C4)... an unexpectedly
+         short run for Julian Clary's Mr And Mrs, swiftly replaced this
+         week by sodding HOLIDAYS FROM HELL (10pm, Fri, ITV)... and
+         yes, you do remember seeing a younger version of celeb-spotter
+         THE WAY THEY WERE (9pm, Sat, ITV) on the BBC a while back,
+         called "Before They Were Famous"... apparently without
+         provocation, former music list TOP TEN (9.30pm, Sat, C4) veers
+         dramatically off the rails and starts covering political
+         scandals - other pop shows take note... following the bizarre
+         spectacle of BBC1's "Red Hair Day" [NTK 1997-12-05], C5's
+         BLONDE WEEKEND (from 11pm, Sat, C5) tosses its golden locks
+         with Pamela Anderson mind-swapping sci-erotica NAKED SOULS -
+         yet horrifyingly includes Rutger Hauer's parallel universe
+         Aryan thriller FATHERLAND (9pm, Sun, C5)... plus, if anyone
+         could make a slapstick comedy out of "Fantastic Voyage", it's
+         Joe Dante - as INNERSPACE (2.55pm, Sun, BBC1) aptly proves...
+         among the meat-free performers at A CONCERT FOR LINDA
+         MCCARTNEY (10.30pm, Sun, BBC1) are Ladysmith Black Mambazo -
+         advertisers of veggie staple Heinz Beans... you can bet they
+         scanned the film for radiation-induced "fogging" when DISASTER
+         (8pm, Mon, BBC2) shot an episode inside the accident-prone
+         reactor at Windscale... and sure, "Mars Needs Women" '60s sci-
+         fi THE NIGHT CALLER (2am, Mon, ITV) sounds nutty, but it's got
+         to be more fun than SEX, LIES AND VIDEOTAPE (10pm, Mon, C4) -
+         which, 10 years on, we'd still rather see as a headline pun
+         than as a film... despite constant stunt-casting, and a script
+         from the "Invasion Earth" bloke, we'll rather miss THE
+         GRIMLEYS (10.30pm, Mon & Tue, ITV)... hmm, must remember not
+         to call CGI art slot ONE.ZERO (12.05am, Tue, C4) "the usual
+         blurry nonsense"... the web-porn plot hots up in newly re-
+         theme-tuned NEIGHBOURS (1.40pm, Mon-Fri, BBC1)... and Knight
+         Rider turbo-boosts off into the sunset, leaving C5's 7pm slot
+         to trash gameshows and genius Naked Gun prequel series POLICE
+         SQUAD (7pm, Wed, C5). Sadly, there's only 6 episodes, and the
+         middle 4 are patchy to say the least - "We would have come
+         earlier, but your husband wasn't dead then"...
+
+         FILM>> after the hilarity of last week's The Faculty, another
+         good week for New Geek Cinema, with masturbation, obscene
+         calls, and Twin Peaks' lovely Lara Flynn Boyle contributing to
+         Todd Solondz's ultra-dark disturbo-fest HAPPINESS (imdb: black-
+         comedy) - currently on London-only release (yes, provinces,
+         that's how disturbing it is), and not, it appears, based
+         around the Ken Dodd song of the same name... stock market
+         social satire AN IDEAL HUSBAND (imdb: based-on-play) is as
+         relevant now as beautiful ladies and gentlemen swanning around
+         in evening dress ever was; Oscar Wilde may be witty, but he's
+         no Kevin Williamson... and finally: "Swingers' Vince Vaughn,
+         swingin' Anne Heche put real take on Prisoner's Dilemma game
+         theory" was what we said last time RETURN TO PARADISE (imdb:
+         drama / romance / thriller) was due for release last November,
+         and we see no reason to change our story now...
+         
+         BEST BEFORE BUYS>> CADBURY'S rumoured to be introducing both a
+         pre-packed FLAKE '99 CONE (99p) plus ENVY (99p): an "adult
+         indulgent product" (half-Magnum, half-Feast) designed to
+         tackle consumer objections that "other stick products are just
+         too big"... no kidding: violating nature's law that two
+         objects cannot occupy the same physical space (q.v. "The
+         Fly"), WALL'S MAGNUM DOUBLE (UKP1) is a slightly smaller
+         vanilla-choc Magnum that's teleported *inside* another,
+         slightly larger Magnum. Cumulative effect revolting...
+         "Innocent on the outside, Wicked on the inside" proclaims
+         NESTLE MEGA TRUFFLE (UKP1), fair warning that the "sumptuous"
+         orange liqueur ice-cream "hidden inside" is evilly repellent.
+         Maybe it's that lesser-known use of the word "sumptuous" -
+         meaning "of, or resembling, a sump"... MAGNUM CLASSIC CONE
+         (UKP1) ain't so bad if it's nut-free Cornetto you're looking
+         for, though Nestle have the edge here with the choc-vanilla 2-
+         scoop EXTREME DUO (UKP1; sounds like a superhero tie-in,
+         isn't), the frankly self-explanatory TOFFEE CRISP (65p), and
+         the bizarrely continental MAXIBON (80p) - a lolly/choc-ice
+         hybrid where you actually *eat the stick*. Well, the "Two soft
+         cookies, half dipped in milk", to be precise... fruit-ice (and
+         adulterants) round-up next time; still with chocs, this
+         month's "taste abomination" goes to JAFFA CAKE FLAVOUR FRIJJ
+         (79p) http://www.frijj.com/specials.htm - "the bitterest
+         milkshake experience yet!", our taster reports. "If this was
+         the best to come out of DairyCrest labs, the rest must have
+         been so *vile* they had to be tracked down and destroyed by
+         Michael Madsen"... surprisingly, "Cheesy Grin" flavour WALKERS
+         SUN DOG SAVOURY POPCORN (99p reduced to 59p for giant 100g
+         bag; small packs 15p) isn't bad at all - well, not after the
+         first few startling mouthfuls... and finally, a universally
+         sticky thumbs-up from NTK readers for NESTLE KITKAT CHUNKY (30-
+         35p), vividly described by Mathew "Kuji" Bevan ("The Biggest
+         Threat To World Peace Since Adolf Hitler") as "Yum Yum...
+         Single finger of kit-kat with elephantitis... Lots of choccie,
+         quite a generous amount... not bad... v.nice". Inexplicably,
+         we received this email more than 5 times, creating the
+         alarming impression that Mat was chomping through a box of
+         them, Cookie Monster-style, eliciting *exactly the same
+         comment each time*...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+           It is registered at the Post Office as "IPO won't change us"
+           http://www.observer.com/cgi-win/homepage.exe?nyo1/f1041999
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                            but retain SMALL PRINT.
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.

@@ -1,0 +1,368 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____13/02/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Purple Moon isn't a Web company or a CD-ROM company. It's
+         a girls' company."
+                        - Brenda Laurel, Vice President, Purple Moon
+                                   ...you calling my startup A GIRL?
+
+
+                               >> HARD NEWS <<
+                                  no excuse
+
+         Maybe if they knew more about encrypting their e-mails,
+         there wouldn't be so many leaks about this. Yes, it sounds
+         like the British government really are going to choose the
+         path of maximum stupidity and announce a KEY ESCROW POLICY
+         in the next couple of weeks. Without getting too technical
+         (as if we would), this is ... a bad thing. Bad for civil
+         liberties, bad for business. It will be as if you'll be
+         forced to loan someone else your PIN, or your signature.
+         Britain's booming crypto industries - particularly the ones
+         being eyed up by Bill Gates in Cambridge - will be zapped
+         at birth. At worst - if key escrow is made mandatory -
+         you'll be criminalised simply for owning a copy of Pretty
+         Good Privacy, while the real outlaws will simply move onto
+         undetectable crypto systems. Almost all the security
+         experts are against it - all, except the ones at GCHQ, who
+         rather like the idea of being able to break into anyone's
+         private communications at the drop of a hat. "Attempts to
+         control the use of encryption technology are wrong in
+         principle, unworkable in practice, and damaging to the
+         long-term economic value of the information networks.",
+         said the Labour Party's manifesto, signed and pledged by
+         Tony Blair himself. Or perhaps he gave away his signature
+         for someone else to use? Gosh, wouldn't *that* be a
+         terrible thing to happen?
+         http://www.labour.org.uk/views/info%2Dhighway/content.html
+                            - on message? But which message exactly?
+         http://www.pgpi.com/               - get it before it's hot
+         http://www.crypto.com/key_study/report.shtml
+                          - the big guns come out against key escrow
+         http://www.ntk.net/gordon/
+         - Gordon Brown's signature. If we trust them with ours
+                           they should trust you with theirs. Right?
+
+         [ If the announcement comes, as some suggest, next Tuesday,
+         we'll post a special announcement. There's still time to
+         stop this. Hey, it's a democracy, right? ]
+
+         Mind you, it's not all doom and gloom down in spookland.
+         NTK's favourite crypto expert, Ross Anderson, has been hard
+         at work, as the WASHINGTON POST - somewhat inaccurately -
+         reported this week. After giving a $20 million grant by
+         Microsoft to his Cambridge department, Bill asked Ross and
+         his team to see if they couldn't invent an unbreakable
+         copy-protection system. Taking advantage of their studies
+         into TEMPEST technologies (readily available spy equipment
+         that lets anyone see what's on your monitor from outside
+         your building), the group suggested a method that would
+         broadcast license numbers via the VDU, so that special
+         "Microsoft software piracy vans" could drive around and
+         scan buildings for unregistered software. Strangely,
+         Microsoft weren't so keen on this. No matter. As part of
+         the same study, Ross' group went on to develop a method for
+         protecting *any* user from covert surveillance by using a
+         special "anti-Tempest" font. A problem solved, before you
+         even knew it was there...
+         http://www.cl.cam.ac.uk/~mgk25/ih98-tempest.pdf
+                              - memo to self: send out NTK this way?
+         http://www.ntk.net/icecreamvan/
+         - they could play the Microsoft boot-up tune as they went past
+
+         It looks like INTEL'S StrongARM tactics didn't quite come
+         off as expected. Many commentators thought that Intel would
+         be happy to keep the plucky British processor going when
+         the company bought it in a job lot with a bunch of chip
+         fabrication plants from Digital. But the team who actually
+         developed the processor have now all jumped ship to a cushy
+         consultancy afterlife at Cadence. Whether they did this out
+         of anti-Intel sentiment(come on, these are ARM users -
+         they're *all* religious fanatics), or just because they
+         could sense a distinct lack of a "to do" list in their
+         future Psion diaries at Intel is uncertain. But most
+         pundits now agree that, what with ARM owning the trademark,
+         Intel owning the Hudson chip plant, and Cadence owning the
+         brains, StrongARM development is on the road to nowhere. Us
+         - we still hold out hope. After all, the Beatles reformed
+         didn't they? Oh, ah. Maybe that's a bad comparison.
+         http://techweb.cmp.com/eet/news/98/992news/cadence.html
+                             - they could do a re-union tour in 2020
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         PLAYSTATION POWER "relaunching"... BT profits up again - to
+         UKP 734m... T3 magazine "redesigned"... man behind "biggest
+         known case of alleged domestic piracy in Western Europe"
+         was Alan Watkins of CD manufacturer PC Wise... AOL sacks
+         nearly 2/3rds of the US Compuserve staff one week into
+         ownership ... "almost half British games companies failed
+         to make a profit last year" tiptoes PLIMSOLL PUBLISHING...
+         "Clothing, Physical Activity And Heating Can Prevent Excess
+         Winter Mortality" reveals BRITISH MEDICAL JOURNAL... C|Net
+         lists top search engines as "Alta Vista, Excite and Hot
+         Bod"... PETER COCHRANE emphatically denies answering "What
+         do you say to the elderly who can't get grip with these
+         newfangled contraptions?" with "Don't worry -- you're going
+         to die soon."... Even ALTAVISTA offering free e-mail now
+         (despite uniquely awkward URL)... JOHN CARMACK wins $20,000
+         at Blackjack by making himself "consistently behave like a
+         robot" (donates it to Free Software Foundation)... BT
+         "slashes" price on Webserving - to 200UKP a month, plus
+         200UKP set-up fee...
+
+
+                              >> EVENT QUEUE <<
+                         adventures in the real world
+
+         Sounding just a little like The Royal Institution Christmas
+         Lectures - but for Mondo 2000 readers - THE EYE OF THE
+         STORM is yet another "International Art and Science
+         Conference" held at The Royal Institution (natch),
+         Piccadilly, London next Thurs/Fri (19/02/98-20/02/98). It's
+         the usual roll-call of nutty telly pundits - Melvyn Bragg,
+         Susan Greenfield, quantum-hippy AI critic Roger Penrose -
+         plus "artists" (and we use the term loosely) including VR
+         was-prodigy Jaron Lanier, child-trainer pervs Jake & Dinos
+         Chapman, and half-man, half-cyborg, all-Aussie Stelarc.
+         Still, it's only UKP45 (UKP25 concessions), though -
+         perhaps reassuringly for anyone who's seen Stelarc stick a
+         webcam down his gullet - "lunch", we learn, "is not
+         provided".
+         http://www.artscat.demon.co.uk/eye.htm
+         - "the first artist to work in zero gravity"
+                                   (we expect they mean "free fall")
+
+         The final part in our "plug our friends'" trilogy: NTK's
+         much put-upon Webcasting guru, GAVIN STARKS,is appearing in
+         a "multi-media entertainment", MORE, at the Gate Theatre on
+         Wednesday 18/2/98. He'll be premiering his new computer-
+         generated musical composition. Your geek attractor: it
+         really is computer generated, via approximately 9,000 lines
+         of C++ and 3 gigs of collected audio data. Gavin says to
+         say "frequency-domain morphing". Tickets are UKP5, show
+         starts at 7.30PM. Box office: 0171 995 6035.
+         Meanwhile, fans of TV'S LIGHT LUNCH might like to pop down
+         to a VALENTINE'S CABARET on Sunday 15/2/98, where those
+         Aphrodites of daytime TV, SUE PERKINS AND MEL GIEDROYC,
+         will be entertaining the troops, assisted by Venus the
+         Goddess of Love, R.D. Laing and usual Special Project
+         suspects. Tickets are UKP10. The show starts at 7.30pm at
+         the October Gallery, Old Gloucester Road, near Russell
+         Square tube. NTK offers its traditional "pint in the bar
+         and a chat about Linux afterwards if not fully satisfied"
+         lifetime guarantee.
+         http://www.tir-nan-og.demon.co.uk/
+              - he also insists MORE is named after the Unix utility
+         http://www.channel4.com/entertainment/lunch/      urlarious
+
+
+                                >> TRACKING <<
+                           Big Chief I-Spy reports
+
+         The XML standard is out, and all the tech papers are
+         talking about how it's going to be the new HTML. They're
+         wrong, we think, partly because it seems *much* more useful
+         as generic file-format thing, partly because that whole
+         "it's going to make searching so much easier by creating
+         tags like <SARCASTIC> and <CAT-FOR-SALE>" clearly hasn't
+         got a chance in hell of working. But mostly because in
+         order to do the clever parse-and-display-as-old-fashioned-
+         Webpage stuff right now, you'll need to brush up on your
+         SCHEME. Yup, the object-oriented LISP. Runawayscaredrunaway!
+         http://www.w3.org/XML/
+                      - you leave academics alone for 10 minutes and
+                                     they have to stick LISP into it
+
+         Uma Thurman's English accent! Sean Connery as a Scottish
+         separatist in full national costume! Big Ben blowing up! Not
+         much to go on in the AVENGERS download trailer, admittedly, but
+         already enough to earn it a mention in the "Worst of '98"
+         predictions at THE STINKERS - "The Ultimate Bad Movie Awards".
+         Votes for the worst of 1997 close 21/02/98. Also now available
+         for your postage-stamp-sized perusal: deep-sixed Sharon Stone
+         sci-fi SPHERE, Sundance-wowing Elvis kung-fu apocalypse SIX
+         STRING SAMURAI and, from the soundtrack of The Wedding Singer,
+         the now-deceased Presidents Of The USA doing quite a faithful
+         version of VIDEO KILLED THE RADIO STAR.
+         http://www.thestinkers.com
+                      - Snailmail voting! I'd buy that for a dollar!
+         http://members.tripod.com/~amith/film972.html
+                   - and we're still waiting for Waiting For Guffman
+         http://www.canoe.com/JamMusicAntihit/home_jan27.html
+                     - Real Audio argues it was justifiable homicide
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+         Postscript DES/RC5 clients... HASBRO buy TIGER ELECTRONICS
+         - expect an exo-skeleton for Action Man shortly... BeOS for
+         Intel next week... they're not 56Kbps modems, they're
+         "v.90"... *exactly* as horrifying as you'd expect:
+         www.nickross.co.uk/ ... www.digicrime.com ... Pinball: The
+         Next Generation - www.interplay.com/stpinball/index.html
+         ... NYTSYN's greatest headline yet: "Dr Bombay: That Porno
+         Wallpaper Has Got to Go"... SOUTH PARK creators working on
+         Dumb and Dumber sequel, Channel 4 "considering" showing SP
+         after King of The Hill run... a MILIA-winner worthy of the
+         name www.baguette.com/cur/strongman/004/english/ ... Bill
+         gets half: www.vcnet.com/bms/departments/catalog1.html ...
+         Quake II interface developed for Perl : World Ends -
+         www.jump.net/~dctank/q2/perlq2.txt ... What Fred Fish is up
+         to: www.ninemoons.com/ ... Teletubbies in their native
+         tongue www.kiirtee.ee/~ain/teletupsud/ ...
+
+
+                               >> GEEK MEDIA <<
+           why don't you turn in and do something less interesting?
+
+         TV >> ITV takes on C4's US sitcoms with some - unusual -
+         imports of its own: Mad-About-Phoebe cute-fest DHARMA AND
+         GREG (10.30pm, Fri, LWT + regions), and eyeless Dilbert-
+         alike THE DREW CAREY SHOW (11.40pm, Mon, ITV)... isn't
+         there actually a Red Dwarf episode where the crew are
+         forced to sit down and watch nearly three hours of
+         themselves on RED DWARF NIGHT (9pm, Sat, BBC2) - surreally
+         introduced by Jean-Luc Picard and Stephen Hawking? well, if
+         there isn't, there should be... LWT "celebrates"
+         Valentine's Day with a very special movie double-bill: Meg
+         Ryan alcoholism tragedy WHEN A MAN LOVES A WOMAN (9pm, Sat,
+         LWT) and adulterous Gene Wilder comedy THE WOMAN IN RED
+         (11.25pm, Sat, LWT) - and, before you ask, no, neither of
+         them are anything like the songs...
+         http://mudhole.spodnet.uk.com/fist/ will tell you far more
+         about LEE AND HERRING IN THIS MORNING WITH RICHARD NOT JUDY
+         (12.15pm, Sun, BBC2) than we could ever dare to (NB: it's
+         also repeated - in sinisterly "revised" form - later next
+         Fri)... not entirely clear what the "extreme" in the new,
+         animated EXTREME GHOSTBUSTERS (4.15pm, Tue, ITV) refers to
+         - though one is vaguely Hispanic, one rides a wheelchair,
+         and the only remaining member of the original cast (Egon -
+         Slimer doesn't count) is now mysteriously blonde...
+         PREDATOR 2 (10.40pm, Wed, Carlton + regions) is that rare
+         sequel that's almost as good as the original, though surely
+         a couple of snipers would have sorted it out a bit
+         quicker... and it's a (repeated) flashback to the
+         surprisingly good "One With The Flashback" when Janice asks
+         if any of the gang were ever more than just FRIENDS
+         (10.30pm, Wed, C4)...
+
+         FILMS>> in the nightmarish face off with Abel "Driller
+         Killer" Ferrara's THE BLACKOUT (imdb: thriller / erotica),
+         we'd - unfortunately - have to bet on MORTAL KOMBAT 2:
+         ANNIHILATION (imdb : action / adventure / monster /
+         alternate-dimension / based-on-video-game / fantasy /
+         transformation / game / martial-arts) - if only because the
+         Motion Picture Association of America gave MK2 a PG-13
+         rating for "non-stop martial arts violence", thus, once
+         again, confusing certification with recommendation...
+         otherwise a good week for fans of Brit-made whimsy
+         featuring Paul McGann, with another Conan-Doyle-at-the-
+         bottom-of-garden frolic in FAIRYTALE: A TRUE STORY (imdb:
+         photography / family / drama / fairy-tale / fantasy /
+         period), plus DOWNTIME (imdb: thriller), which scores
+         points for setting a gritty social-comment action movie *in
+         a lift!*, but then plummets weirdly out of control...
+         sadly, the I/O configuration of popular hardware platforms
+         are not the subject matter of IN AND OUT (imdb: school-
+         teacher / gay / comedy / oscars / wedding / small-town), as
+         it's actually an extended rework of the "gay" Seinfeld
+         episode, though - in this case - there *is* something wrong
+         with that... oh, and the Motion Picture Association of
+         America don't yet seem to have made it through a showing of
+         SICK: THE LIFE AND DEATH OF BOB FLANAGAN, SUPERMASOCHIST
+         (various reviewers: "contains explicit scenes of
+         mutilation... extreme pain and sexual perversion; intended
+         for adults") so we'll just hand you over to Bob himself:
+         www.mindspring.com/~sagriffin/FlanaganManifesto.html ...
+
+         FEEBDACK>> It's always the food columns that get the
+         letters in: Chris Locke berated our omission of Boots'
+         edible Subbuteo in our "food based on board games" round-up
+         - the chocolate version of the popular table sport,he
+         reports, included 20 footballs and a reassurance that "the
+         winner is allowed to eat the FA Cup"... Patrick Smith
+         meanwhile sided against "The Fabulous Bakin' Boys" in the
+         muffin wars (ibid.), arguing that their "Ballistic
+         Blueberry" flavour labelling was only accurate if "they
+         threw one at you" ... hundreds sent us the
+         www.legomindstorms.com URL for our SKIENCE column (NTK
+         30/1/98), but only "JTR" spotted the real use for the
+         www.speechmachines.com CyberTranscriber  : stealing voice
+         biometrics, for resale to the security services. Very
+         cunning...  an anonymous tipster reports that our favourite
+         cyberpunk mag 21C is not dead (NTK 6/2/98), but "de-
+         animated", and will return in book form shortly... oh, and
+         thanks for everyone who sent sound files, gifs, and hqx's
+         for the Royal Festival talk - a howdy-doody to you too!
+
+
+                            >> OPERATION FALCO! <<
+                           the anti-news dead pool
+
+         Two or three times a week, these days, we get tips along
+         the lines of "You know **** Digital? Going bust. And ***
+         Networks? They're toilet-bound too, you know". When we get
+         these, we're torn. Should we print them, and risk really
+         annoying the supposedly-doomed companies? What if they sue
+         us? What if they're not as weak as the tipster claims, and
+         they come around and kick us in?
+
+         On the other hand (this being the booming world of plucky
+         UK start-ups), our tipsters are almost always right. It
+         seems a shame not to give such perspicacious souls credit.
+         To cope with this, we're introducing a new NTK feature.
+         Simply send us, now, a list of companies that you think are
+         going to go bust in the next year. When they *do* go bust,
+         we'll announce it - as ever - in Anti-News, but follow it
+         with a FALCO!, together with the names of those who
+         successfully predicted their demise. So, for instance, we
+         might say "Intel calls in receiver (Davy Winder, Vint Cerf
+         - FALCO!)". You can, of course, choose to remain anonymous.
+
+         The Falco competition is so named in honour of Falco, the
+         prominent Austria techno-rap artist, who passed away
+         earlier this week. The winner of the most FALCO!s by the
+         time we do the .NOT Awards (almost there now), will receive
+         our special commemorative "Rock of Amadeus" statuette. You
+         may nominate up to five technology-based companies. You can
+         change your list whenever you see a FALCO! in NTK. We
+         reserve the right to abandon this competition if it turns
+         out not to be funny, but actually a bit sick. Or too much
+         like hard work.
+
+         We'll try and automate this sometime, but in the meanwhile,
+         send your selection to falco@spesh.com . And thanks for
+         your caring input.
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "your unlucky valentine".
+                         ( http://www.99secrets.com )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

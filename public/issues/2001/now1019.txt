@@ -1,0 +1,364 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-10-19_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Copperfield said he is not tempted to play the lottery
+         himself because he would not be able to 'see' the numbers.
+         'I used to try it out by giving friends the numbers, but
+         then it would never work,' he said. 'If the numbers aren't
+         kept secret, it doesn't work.'"
+             http://www.thescotsman.co.uk/text_only.cfm?id=116404
+   ...magicians subject to "observer effect" just like everyone else
+
+
+                                >> HARD NEWS <<
+                            flight of the mongooos
+
+         Worried that you don't understand technology enough to see
+         what your kids are doing online? Why not solve the problem
+         with *more* technology? THE SUNDAY TIMES asked its readers
+         to participate in a "unique study" last week - by installing
+         a keyboard logger, perusing the logs of their kid's Net
+         activities, then filling in a simple questionnaire. "It is
+         however important to obtain a true sample of internet
+         activity, and not to alert the child to the software and so
+         defeat the object of the exercise", the paper advised. Yes,
+         this blanket surveillance is for *science*. Well, someone
+         should point out that, without consent, WORDWATCHER's
+         research breaches the Marketing Research Council's code of
+         practice (because let's face it, this *is* just user testing
+         for Demetron), standard scientific research ethics, and,
+         hey, could be criminally illegal under the RIP Act. Also,
+         it's a *FREAKING VISUAL BASIC KEYLOGGER* they're flogging.
+         It records *everything* - passwords, credit card details -
+         in an easily readable file. In any other context, the press
+         would be railing against this as a Evil Hacker's Tool. The
+         ST warns that Wordwatcher may cause "friction": they don't
+         know the half of it. It could be used to spy on spouses or
+         workmates, or installed at cybercafes to harvest passwords.
+         It's also *fantastically* badly written: it stores the
+         spyer's main password in plaintext, and despite some
+         reassuring-looking bleating, can be examined or turned off
+         with a minimum of hassle, as one precocious brat has already
+         pointed out. Go wild, kids. And when your mum or dad asks
+         what happened, sit them down and tell them these important
+         lessons: no security in obscurity, and never, *ever*
+         download from strangers. Especially the Visual Basic-using ones.
+http://www.sunday-times.co.uk/news/pages/sti/2001/10/14/stidordor03002.html
+               - "My name is - my name is - my name is - Slim Shady!"
+         http://www.geocities.com/cypherpunk5/
+                                      - once again, attacking our own
+http://www.marketresearch.org.uk/documents/children%20and%20young%20people.rtf
+           - "Guideline for Research among Children and Young People"
+         http://www.mrc.ac.uk/ethics_b.html
+           - in our day, kids were considered "fixtures and fittings"
+
+         It's JAM ECHELON Day on Sunday, although encouraging a glut
+         of e-mails including keywords like "terrorism",
+         "biowarfare", "middle east", and "war" does seem a *bit*
+         superfluous right now. To lighten the load, we'll keep our
+         traditional hand-wringing over Blunkett's new anti-t-rr-r-sm
+         provisions to a minimum. Basically, he's "enabling" ISP's
+         (and behind the scenes, hinting that it may become
+         compulsory) to keep logs of website addresses, mail headers,
+         and newsgroup articles read by subscribers, contra the Data
+         Protection Act's provisions and the Registrar's
+         protestations. We'll see where this one leads: old
+         NTK-a-quote Caspar "Kafka" Bowden points out that this is
+         pretty much what the National Criminal Intelligence Service
+         was haggling for last year, so expect it to seamlessly
+         become permanent at some point. Fnord.
+         http://cipherwar.com/echelon/
+             - oh, apparently we just have to say "echelon" this year
+         http://stats.bltc.net/www.schnews.org.uk/site_200108.html
+                     - nice to see SCHNEWS doing GCHQ's work for them
+         http://makeashorterlink.com/?T2AE1251
+           - it's the home office's site that's defeated us this week
+
+         Hardware manufacturers never know quite which way to jump over
+         copy protection, but rarely do you see this dilemma literally
+         played out on their corporate websites. As well as offering
+         secure networks which "eliminate the potential for losing
+         millions of dollars due to downtime or e-piracy", NOKIA were,
+         until recently, playing up the e-piracy potential of their
+         Nokia 5510 integrated FM radio MP3 ripper - illustrated by a
+         cartoon called "Mongo" who records his favourite songs off the
+         radio and his friends' CDs. And then downloads them to his PC,
+         his friends' 5510s, and so on. The page was removed this week
+         but, at time of writing, the original .gif is still there.
+         Still, if "Mongo" means the same sort of thing in Scandinavia,
+         maybe they could claim it's actually an *anti*-piracy campaign
+         - "Trading MP3s? That's for the mentally handicapped, dude!"
+         http://www.nokia.com/phones/5510/pics/mongo_strip600.gif
+        - or, just in case: http://www.ntk.net/2001/10/19/dohmong.png
+         http://www.log.dial.pipex.com/playground/html/m.htm
+                               - search for "merciless". You spazzos.
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Ken Livingstone can't shut him up, neither can Saudi "local
+         officials": http://www.ntk.net/2001/10/19/dohblair.png
+         (final para)... "Widdecombe" of the week - you *can* do it
+         when you: http://www.geocities.com/sohobonobo/bq/bq.html ...
+         DABS http://www.dabs.com/news/news-article.asp?article=1403
+         proudly sponsoring "suicidal" private manned rocket plans:
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1407000/1407210.stm
+          ... BBC pics of week: "Electric yellow jellyfish tentacles
+         attack IBM PC-XT through hamster cage set in Tron universe":
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1606000/1606862.stm
+         - and "Ensure monitor is *off* before cyber-attacking it":
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1601000/1601823.stm
+         ... http://allinson.hiway.co.uk/join/ ponders "Do you have
+         access to the internet?"... vs "I'd like to report a power
+         out-": http://www.fpl.com/report/contents/power_outage.shtml
+         ... eek-ee-eek-EEK! http://www.batdetective.com/gallery.html
+         ... worst simulated wink since that Tux the Penguin one:
+         http://www.daimlerchrysler.de/company/campaign/mot1/ad1_e.htm
+         (requires Flash, sorry)... FALCO 451.com and, spectacularly,
+         BACKSPACE: http://www.ntk.net/2001/10/19/dohbckspc.jpg ...
+         competitor FUD?: http://www.penny-arcade.com/xboxfiles.php3
+         ... and with "success fees" like these, who needs failures?:
+http://www.washingtonpost.com/wp-srv/aponline/20011014/aponline141728_000.htm
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         You know how it is - you spend years promoting your non-
+         violent brand of direct action anti-capitalism, then a small
+         minority goes and steals all the limelight by crashing a
+         couple of planes into a building. Undeterred, the UK's annual
+         ANARCHIST BOOKFAIR seem determined to reclaim their previous
+         anti-globalisation market share with a fancy new venue (Camden
+         Centre, Euston Rd, London WC1, from 10am, Sat 2001-10-20,
+         free), plus an (admittedly appropriated) corporate slogan -
+         "Just do it", and celebrity guests including representatives
+         from IndyMedia, the Discordians, and Alice Nutter out of
+         Chumbawumba. That said, the "Delroy Lindo" who'll be speaking
+         about his harassment by Haringey police appears to be an
+         entirely different one to the movie star best known for
+         playing law enforcement officers in films like "Ransom" and
+         "Gone In 60 Seconds", though the "Adam Porter" who now runs
+         YEAR ZERO magazine *does* appear to be the same guy who used
+         to edit the famously radical website for "Loaded" online.
+         http://www.yearzero.org/
+          - sex tips of Britain's filthiest road protesters - INSIDE!
+         http://www.anarchistbookfair.org/
+             - it's not a creche, it's a "Self empowered youth space"
+         http://www.commonground.org.uk/Apple_Day.html
+        - then on Sun, Apple Day. *Fuck* the Interactive BAFTAs, man!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         For anyone who wouldn't fall over so much if they got twenty
+         goes at each tottering step, the original BRIDGE BUILDER was
+         great. You got a closed 2D surface, with a riverbank on each
+         side. You clicked up a bridge out of girders, watch it fall
+         under its own weight, then fiddled and fiddled until it
+         stood the stress test of a train crossing. It felt very
+         intellectual, and now it's peerrrty too: PONTIFEX, the 3D
+         sequel is here. Of course, the openGLy stuff is all just
+         "SuperTetrisDeluxe" window-dressing - underneath it's still
+         the same old, plain old, in-one-plane Bridge Builder. The
+         main differences are two new materials (including long-
+         dreamt-of steel cable), and - acting as a massive
+         disincentive to build stable creations - a flotilla of
+         3D-illustrated splashes, creaks, and twangs when it all goes
+         wrong. Oh and you can watch it go SPANG from the comfort of
+         the train too. And you get more money in your budget.
+         Talking of which: Twenty New World Order Dollars buys you
+         the registered version: funkier bridges (with high-rise
+         decks), a kilobrunel of bad-ass creeks to cross, keeps
+         the designers from having to eat each other to survive, etc.
+         http://www.chroniclogic.com/
+- all other reviews will say "fits on a floppy" as though it is a bad thing
+
+
+                                >> MEMEPOOL <<
+                that warm bit under the http://www.gagpipe.com/
+
+      "Pikachu, use your paddling pool defence!" "Anthrax, I choose - you!":
+http://news.bbc.co.uk/hi/english/world/americas/newsid_1597000/1597496.stm
+         ... 17" monitor believed "average": http://www.anawesomedick.com/
+         ... "wank" means something different in the US, apparently:
+         http://www.keenspot.com/KeenBoard/Forum60/HTML/000021.html ...
+         WTC attacks were plea for indie filmmaking, says OLIVER STONE:
+    http://abc.go.com/entertainment/news/2001/10/oliverstoneflak101501.html
+         - while life, pro-am golf game must go on for MICHAEL DOUGLAS:
+http://news.bbc.co.uk/hi/english/entertainment/film/newsid_1604000/1604151.stm
+         ... so *when* did they start advertising these positions?:
+         http://www.fbijobs.com/FBIJobDesc.asp?r=54818796&JC=001402 ...
+         DARWIN AWARDS 2002, brought to you in conjunction with EBAY:
+http://cgi.ebay.com/ebaymotors/aw-cgi/eBayISAPI.dll?ViewItem&item=596035762
+         ... Mac users harboured by sympathetic regime in TURKMENISTAN:
+         http://www.leb.net/hzo/ioscount/data/top.domains.9904.mac.txt
+         - vs greater MS localisation: http://trollied.org/geordie.gif
+         ... you know, pics instead of ALT tags would only spoil it:
+         http://www.attackofthegiantpastyman.com ... GRNNY S THT U?:
+    http://www.cotse.net/users/spirit/press/spirit-world-in-crisis.jpg
+         ... Brit humour site declines to imitate ONION shocker:
+         http://www.framleyexaminer.com/ ... low-tech ingenuity wins
+         again: http://shingoz.20megsfree.com/images/radiation.jpg ...
+         look, hurry up and fill in the other squares will you, then we
+         can all go home: http://totl.net/Memes/memes.php ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> there's an hour-long "highlights special" of TOP OF THE
+         POPS GOES LARGE (7pm, Fri, BBC1), though how they'll stretch
+         it out to that duration is anyone's guess... wonder if there's
+         a Northern-Ireland-style "Don't mention the war" edict on the
+         new series of HAVE I GOT NEWS FOR YOU (9pm, Fri, BBC1)... and
+         C4 celebrates the wide range of dramatic TV roles available to
+         women in TOP TEN TV: BITCHES (9pm, Sat, C4)... not much worth
+         watching over the weekend: unnecessary Nic Cage wig-out "Wings
+         Of Desire" remake CITY OF ANGELS (9pm, Sun, C5), or tiresome
+         Tarantino ensemble yawn JACKIE BROWN (10pm, Sun, C4)... though
+         Bucks Fizz's bitterness is superbly lampooned in ROCK PROFILE
+         (11pm, Sun, BBC2)... presumably it's half-term or something,
+         as weekday afternoons are packed with retro sci-fi - FORBIDDEN
+         PLANET (1.35pm, Mon, C4) - plus kiddie fare like fat-kid nerd-
+         revenger ANGUS (1.20pm, Wed, BBC2) and Disney adventure THE
+         ISLAND AT THE TOP OF THE WORLD (1.10pm, Thu, BBC2)... last
+         time they showed Famke Janssen Bond plodder GOLDENEYE (9pm,
+         Mon, ITV), the Sunday Business newspaper ran the "Hackers
+         Steal Military Satellite" plot as front-page news [NTK 1999-
+         03-05]... and the largely self-explanatory HYPNOSEX (11.35pm,
+         Mon, E4) plumbs new depths of pseudo-educational lifestyle
+         programming... BBC2 just can't resist one last opportunity to
+         mess around the scheduling of the SEINFELD finale (11.20pm,
+         Tue & Wed, BBC2)... trend-spotting docu COOLHUNTERS (9.50pm,
+         Wed, BBC2) is helpfully produced by one "Nathan Hartshorn"...
+         MUTANT X (9pm, Wed, Sky1) is indeed the wirework-heavy
+         Toronto-filmed Marvel-approved low-rent "X Men" knockoff you
+         suspected... Victoria Wood introduces classic comedy clips in
+         SKETCH SHOW STORY (9pm, Thu, BBC1) - mildly preferable to her
+         acting in them... a "Mike Magee" is among the high-stake
+         gamblers on LATE NIGHT POKER (12.40am, Thu, C4), but we don't
+         think it's the mystical former Register bon-vivant... and we
+         guess we'll see you all over at the radically unredesigned
+         http://www.everyonehatesattachments.com/ for the downsized
+         post-bust second series of ATTACHMENTS (10pm, Thu, BBC2)...
+
+         FILM>> at last - a subtitled French film which largely
+         resembles one of those "Buffy The Vampire Slayer" flashback
+         scenes, in the form of formulaic kung-fu CGI historo-romp
+         BROTHERHOOD OF THE WOLF (http://www.cndb.com/ : [Monica
+         Bellucci's] full breasts and shapley rear are generously
+         displayed; plenty of shots of the sides of [Mark Dacascos']
+         strong legs and thighs. For real nudity check out Mark's
+         previous collaboration with this film's director: Crying
+         Freeman)... also filling out the pre-Halloween cast-of-
+         unknowns horror quota comes competently uninspired monster
+         hunt JEEPERS CREEPERS (imdb: brother-sister-relationship /
+         church / indestructible / police-station / prophetic-dream /
+         psychic-power / road-trip / small-town / title-based-on-song /
+         demon / inbreeding / incest / selfishness / serial-killer)...
+         otherwise Billy Crystal, Seth "Oz from Buffy" Green and the
+         director of "Revenge of the Nerds II: Nerds in Paradise" fail
+         to make up for Catherine Zeta-Jones and Julia Roberts's
+         limited comedic abilities, as John Cusack wanders further down
+         that dark "romantic comedy" path in AMERICA'S SWEETHEARTS
+         (http://www.capalert.com/capreports/americassweethearts.htm :
+         sexual vulgarities and homosexuality paraded as acceptable;
+         [Zeta Jones] dressing to maximize exposure of female skin;
+         bestiality; speaking of sexual adulterous affairs as if they
+         are required or natural; this movie even excuses masturbation)
+         ... while one sub-aqua manga movie looks much like another:
+         http://www.filmthreat.com/News.asp?File=NewsOne.inc&Id=564 ,
+         according to Film Threat's revelations about ATLANTIS: THE
+         LOST EMPIRE (http://www.capalert.com/capreports/atlantis.htm :
+         walking on water; levitation; much crystal magic; sensuality
+         in dress and mannerisms; implied [cartoon] nudity; tale of a
+         homosexual kiss; [cartoon] adults in underwear)...
+
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED
+         AS GOOFS">> hardly had we mailed out NTK 2001-09-21 than
+         reader HARLEY MCGREW quickfired back: "The X11 antialias hack
+         was done by Keith Packard. Not Derek". Yup, apologies, don't
+         know how that one slipped through. "Also, it's X Window System
+         or X or X11, not 'X-Windows'", Harley adds. "Although everyone
+         calls it that, and no-one cares". This time, Harley, it is you
+         who are mistaken: *we* care, and will now insist on calling it
+         "X" as an act of penance and contrition to Keiths and Dereks
+         everywhere... "I don't really have a joke for this", began
+         ADRIAN MOULDER, encouragingly, "but that US corporate anthem
+         [the magnificent http://www.americastandstall.net/ from NTK
+         2001-09-28] is sung by the gay guy from 'Buffy The Vampire
+         Slayer': http://www.larrybagby.com/"... plus "well done" to
+         everyone who thought we hadn't realised that, as ANDY WEST put
+         it, "Soylent Green is people; Solent Green is the colour of a
+         murky estuary near Southampton" regarding NTK 2001-09-28's
+         http://www.ntk.net/2001/09/28/dohkangoo.gif . Thanks for that
+         Andy - and spoil the ending for everybody, why don't you?...
+         "Ah, someone else did see the TV graphics spelling out TWAT in
+         big letters", sighed JOF [NTK 2001-10-12], who witnessed the
+         aforementioned acrostic on the BBC's 6 O'Clock News, "although
+         funnily enough nowhere on any BBC website"... and "Use fucking
+         paragraphs you moron. This has gotta be the worst, most
+         difficult to read writing style I've ever seen", suggested
+         COLIN MCEVOY, possibly in response to NTK 2001-09-28's URL-
+         packed BBC crap graphics round-up, or possibly as more general
+         stylistic advice... of course, language like that serves only
+         to preserve our uncompromising reputation with prudish mail
+         clients like Eudora 5, as noted by "Another.com" enterpreneur
+         STEVE BOWBRICK ("The last 'nice' email we got from you was
+         dated 19 January": http://www.ntk.net/2001/10/19/eudora.jpg )
+         and LUKE MCGUFF, who commended our frequent "three chillies"
+         rating for trouncing his previous record holder "Letter from
+         Susie Bright - December 2000" by "a whole third"... speaking
+         of racy content, DAVID HEMMING alleged that "A quicksearch on
+         amazon.co.uk for 'sabrina the teenage witch' in the video
+         category returns "teenage sex orgy" as the third match", while
+         failing to clarify what he was searching for in the first
+         place; WILL WATTS drew our attention to a largely unexpected
+         http://slashdot.org/article.pl?sid=01/09/27/0226240 comparison
+         between (Vulcan?) nipples and "two stiff warp nacelles"; and,
+         following detailed Tivo analysis of the new AOL TV ad, GUS
+         "can confidently say that there are no nipples visible at any
+         point and that in the zoom sequence in to the dress all the
+         web pages shown are disturbingly wholesome". NTK regrets that
+         these correspondences are all, for the love of God, closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                        "no, it's short for Charlton"
+                    http://tv.cream.org/buchan/kulturman.htm
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

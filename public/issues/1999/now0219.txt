@@ -1,0 +1,283 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   __1999-02-19_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+                                                                     
+             "Can we not take the things that are wonderful about C++
+                                and marry them with an easier model?"
+                                     - Microsoft's Greg Leake on COOL
+     http://www.infoworld.com/cgi-bin/displayStory.pl?990213.ehcool.htm
+                    ...Christ, it's already behaving like a rock star
+                                    
+                                    
+                             >> HARD NEWS <<
+                             little to amuse
+                                    
+         Physics news: BRUCE PERENS, one of the co-creators of the
+         Open Source(TM) movement, recanted this week, and announced
+         in a burst of highly-energised e-mails that it *should* be
+         called Free Software after all. Alarmingly, this means
+         Bruce is now resigning from non-profit organisations faster
+         than he can found them: a self-sustaining chain reaction
+         that could well lead to him splitting his own body into its
+         constituent atoms. Watch for the resultant explosion on the
+         usual mailing lists: as ever, we're expecting a huge
+         release of light, heat, sound, nervous energy - but
+         strangely, no additional code. Which is odd, because that's
+         what all these efforts was supposed to generate.
+         http://slashdot.org/articles/99/02/18/0927202.shtml
+         - yeah, we read slashdot, no need to send us all their links
+         http://www.unicom.co.uk/press_release.htm
+                     - UKP495 +VAT: should be freer than that, anyway
+         
+         Pleasing largely for its sense of closure: you remember how
+         the EU thought that storing someone's IP number might
+         violate their data protection privacy? (Bad EU! No idea
+         about networking!) And how DIXONS FREESERVE alarmed
+         innocent users by demanding to see their CLIDs before
+         letting them email? (Bad Dixons! Encouraged us to make
+         numerous "CLID" jokes!) Yet two wrongs do seem to make a
+         right: a new Australian ruling could forbid ISPs down under
+         from collecting users' caller ID, stating that it
+         represents an unacceptable intrusion. Well, if there's a
+         worldwide flood of spam promoting Fosters and Vegemite, you
+         know who to blame.
+         http://technology.news.com.au/techno/4236090.htm
+             - CIA (Connect Infobahn Australia)? Not sinister at all!
+http://www-union.uow.edu.au/arts/sts/research/surveillance/Schweik.html
+                                                - rockin' for privacy
+                                    
+         If you weren't sufficiently amused by our coverage last
+         week of the European Parliament's cache row - why not check
+         out their own EP NEWS (free with today's Independent). A
+         monthly round-up of all the EP has achieved (on *four*
+         tabloid sides!). It identifies the threat from "portable
+         double-deck copying machines" (swift reaction to
+         technological change, there) and "sophisticated technical
+         devices able to surf the net and download music files at
+         the drop of a hat without so much as a thank-you to the
+         recording artist" (generally we call them PCs). And that
+         the levy on blank media is "not even a tax where the payer
+         has no control how the money is spent". Euro MP Carole
+         Tongue thinks the tax will help artists living on the
+         breadline - ironic since unsigned musicians would probably
+         receive less from the tax than they'd pay just to
+         distribute their own demo cassettes. NTK is currently
+         lobbying for a tax on fan-fold paper.
+         http://www.europarl.eu.int/           - careful! no proxies!
+
+                                    
+                             >> ANTI-NEWS <<
+                          berating the obvious
+                                    
+         consumers "confused" over difference between "organic" and
+         GENETICALLY MODIFIED foods... MARIAH CAREY not *that*
+         stupid: http://www.eonline.com/News/Items/0,1,4343,00.html
+         ... BT "guarantee security" for "secure e-commerce
+         solution" via trustwise.com - with 40-bit keys?... 'nother
+         DEATH at DISNEY WORLD... "You are wasting your time with
+         this old browser!" chortles http://www.wastewatch.org.uk at
+         LYNX users... vote ADAM ANT at http://www.motm.co.uk/ ...
+         COMPUTING illustrates Y2k with MAD MAX pics... get em young:...
+         http://www.y2kculture.com/reactions/19990218.kids.html ...
+         FORTUNECITY lose homepage drive *and* backup files... be
+         prepared: http://www.guardianunlimited.co.uk/sorry.html ...
+         BBC internal mail paralysed by "South Pole" ad, sent to
+         200k recipient list, many "replied to all"... "MICROSOFT to
+         integrate Michael Kinsley into foundations of Bill Gates'
+         house": http://www.slate.com/Readme/99-02-13/Readme.asp ...
+                                    
+                                    
+                            >> EVENT QUEUE <<
+                      goto's considered non-harmful
+                                    
+         See below for what we made of his new nano-thriller, but
+         you can check out cheery New Scientist journo SIMON INGS in
+         the "meat" at his various readings, speakings and signings
+         around the country - often in friendly symbiosis with
+         fellow Brit-sciffers Michael Marshall Smith and Stephen
+         Baxter, and culminating in the terrifying-sounding
+         "Fabulous Harbours" night at Heffers in Cambridge (1999-03-
+         10), which also features Kim Newman (Britain's own Jack
+         Womack?) and Tom Holt (the poor man's Robert Rankin, if
+         such a thing is possible). In an act of cranial-jack-like
+         telepathy, when we asked Simon's press agent for any
+         "coming events", she uploaded his entire itinerary: to
+         discourage any cyber-stalkers out there, we've spared you
+         his precise train schedule and details of "light supper
+         with Steve Farrar of the Sunday Times".
+         http://www.ntk.net/books/ings.html
+            - ask Marshall Smith if his new paperback, "One Of Us"...
+         http://www.fisheye.demon.co.uk/
+                  - ...is based around the Abba song of the same name
+                                    
+                                    
+                             >> TRACKING <<
+                     look what the mouse dragged in
+                                    
+         Another quiet day at the software cafe. Developers were
+         slowly sipping their Java, when MICROSOFT started waving
+         the J++ gun at them, loudly insisting "You're all gonna be
+         like Fonzie. And what's Fonzie like?" Uh... COOL? MS
+         dropping Java always seemed an empty threat while it was
+         the only sane way of using their Component Object Model, but
+         now plans for an alternative has reached that media-
+         critical "code name" phase. Provisionally dubbed "C++ Object
+         Oriented Language" (no, Bjarne Stroustrup didn't know what
+         that implies about C++ either) it "makes C++ programming
+         simpler". What? Messing with the one thing that keeps C++
+         coders above VB'ers in the programming pecking order? And
+         how "simple" will it be persuading Java database-app
+         developers to jump to a new language tied to a specific OS
+         and object model? Hey, according to the plan, by the time
+         Windows2000 gets deployed, that silly "cross-platform"
+         concept will be moot anyway.
+         http://www.activex.org/
+             - Haven't heard from you guys since '96. How's it going?
+         http://www.zdnet.co.uk/news/1999/6/ns-7000.html
+             - zero code, but already more evangelists than SmallTalk
+         http://www.microsoft.com/com/
+             - we don't know what the language of the future will be,
+                                  but we know it'll be called "K-RAD"
+                                    
+                                    
+                             >> MEMEPOOL <<
+                           hasta la altavista
+                                    
+         anticipating next MPEG standard by registering mp5.com,
+         mp6.com, mp2k.com... http://www.snafu.de/~bigbang/poll.html
+         ... CAPE CANAVERAL gets "321" area code - as assigned by
+         division of Lockheed... desperate MAC owners building own
+         peripherals: http://home.earthlink.net/%7Etomowad/legomac/
+         , http://www.freeverse.com/ivase/ ... who needs widescreen:
+         http://www.simplecom.net/widefilm/flikfx/ ... DISNEY to buy
+         APPLE rumours at http://www.appleinsider.com/ (oh,
+         please)... alt.internet.providers.uk.free ... Y2K hampers
+         ... big DEMON crypto thing soon... geek vs BOND at
+         http://www.ntk.net/bond/ ... PLAYSTATION 2000 to shift 55m
+         polygons/second vs Dreamcast's 6m... and stop sending us 
+         patent 5501650 - MICROSOFT now officially own yo' ass:
+      http://www.patents.ibm.com/details?pn=US05819372__&language=en
+                                    
+                                    
+                            >> GEEK MEDIA <<
+                              get out less
+                                    
+         TV>> he isn't, but wouldn't it be weird if Kevin Bacon was
+         in wacky Will Smith class comedy SIX DEGREES OF SEPARATION
+         (11.20pm, Fri, BBC2)?... the plot of LOOKER (2.55am, Fri,
+         C5) involves surgery and powerful computers - you can guess
+         the writer-director... and BBC2's Alan J Pakula tribute
+         continues with unconvincing conspiracy guff ALL THE
+         PRESIDENT'S MEN (11:25, Sat, BBC2) - like, as if!... C4
+         wheels out more sex and gore pretending to be a "Censored"
+         season - highlights: "groovy" EVIL DEAD II (11.50pm, Sat,
+         C4) and Keitel's BAD LIEUTENANT (11.20pm, Sun, C4) - but
+         nothing to touch psycho love-story THE SILENCE OF THE LAMBS
+         (10.55pm, Sat, ITV)... SUB ZERO (11am, Sun, BBC2) is the
+         new (20 min!) PC web-based "Adventure Game" for kids -
+         presumably not sponsored by the alcoholic beverage of the
+         same name - while fans of Sky's most homoerotic videogames
+         show should watch for the inflatable-looking Andy Collins
+         on PUMP IT UP (4.15pm, Fri, ITV)... Jan "Cally from Blake's
+         7" Chappell re-enacts the Stephen Lawrence enquiry in THE
+         COLOUR OF JUSTICE (10.10pm, Sun, BBC2)... there's
+         deliberately no laugh-track in gas ad spin-off MRS MERTON
+         AND MALCOLM (8.30pm, Mon, BBC1) - so it's not that there
+         just weren't any laughs... and SPACE: 1999 rebounds to its
+         6.40pm, Mon, BBC2 slot, though god knows what happened to
+         the glowing rocks episode they were supposed to show last
+         week - and where's the one with the whip-wielding cat-
+         women?... Independence Day stole the beginning off V (11pm,
+         Mon, C5), who stole it from Childhood's End... evil haxxor
+         Ian Morrison (aka reflex, aka P Hampton-Forbes - see NTK
+         1998-07-17) pops up on WORKERS AT WAR (10.15pm, Tue, BBC1)
+         - not to be confused with lame VR fest JOHNNY MNEMONIC
+         (9pm, Tue, C5)... squeaky Gillian Anderson lookalike Julie
+         Burchill fails to generate much controversy in CLOSE UP
+         (9.30pm, Tue, BBC2)... the excellent stolen-whistle/Father
+         Damo/crackwhores episode comes round again in FATHER TED
+         (10pm, Tue, C4)... good title, geeky Willow plot, dumb
+         effects and a nice closing scene in the "I Robot, You Jane"
+         BUFFY THE VAMPIRE SLAYER (6.40pm, Wed, BBC2)... and,
+         distracted by a tolerably medieval Christian Slater
+         performance, you never do get to find out THE NAME OF THE 
+         ROSE (9pm, Wed, C5)...
+
+         FILM>> this week's ultrableak feelbad movie is like the
+         Coen Brothers' snowbound Fargo crossed with John Sayles'
+         Lone Star - but with fewer laughs than both put together,
+         as bulky haggards Nick Nolte and James Coburn actor-wrassle
+         to determine who has the gravest AFFLICTION (imdb: based-on-
+         novel)... twenty-nothing Kathy Burke Camden wank THIS
+         YEAR'S LOVE (imdb: drama) is actually quite emptily
+         poignant, despite the damningly faint praise they've
+         neglected to edit out of the press quotes: A "sort of" Four
+         Weddings And A Funeral on acid - Tatler; "Could be" the
+         suprise hit of the year - Express On Sunday... a script by
+         the writer of Dead Poets Society directed by Stephen "Bill
+         & Ted" Herek gives some idea of the message-heavy
+         misconception of HOLY MAN (imdb: religion) - some funny
+         Eddie Murphy, Jeff Goldblum, Kelly Preston, spoofing that
+         super-obscure tricky comedy target, TV infomercials...
+         
+         SUPPORT AMAZON IN THEIR "CASH FOR RECOMMENDATIONS" SHAME
+         [tacky "buy now!" links at http://www.ntk.net/books/ ]>>
+         densest, darkest, most deeply disturbing sci-fi of the year
+         (we hope): KW Jeter's NOIR (RRP 6.99, Amazon 4.79) chops
+         out the still-thrashing nervous systems of his previous Dr
+         Adder, Farewell Horizontal and mashes them in with the bits
+         they wouldn't let him put in Blade Runner 2. Is he really
+         proposing that warez doodz should be killed and have their
+         brains put into hi-fi cables? Net searches reveal: yes he
+         is... cutting himself a slice of that bestselling Rough
+         Guide To The Internet pie, Jim McClellan's CD-sized
+         GUARDIAN GUIDE TO THE INTERNET (RRP 6.99, Amazon 5.59)
+         seems aimed at people who consider themselves too smart,
+         liberal, or smooth for the "Rough" one. Occasionally FTP-
+         obsessed, replete with authentic "Grauniad" typos ("url to
+         follow" p27; "Net myths decontructed" p40; cyberpunk /
+         cypherpunk confusion p51), but he plugs NTK at least 3
+         times (p38; p336, p428), so he must have some idea... Simon
+         Ings' HEADLONG (RRP 5.99, Amazon 4.79) doesn't quite
+         overcome its moon-based, ruined-London, Neuromancer-
+         'fluenced, Greg Egan-lite nano-gineering gimickry, but much
+         better than this "early version" would had you believe
+         http://www.omnimag.com/archives/fiction/openvein/ ... not
+         much humour-to-page transfer in either Woody Allen's thick
+         COLLECTED PROSE (RRP 7.99, Amazon 6.39) or Steve Martin's
+         128-page PURE DRIVEL (RRP 9.99, Amazon 7.99), while THE
+         SEINFELD SCRIPTS (RRP 9.99, Amazon 7.99) are sadly limited
+         to just first and second series; only really mastered its
+         domain in seasons 3 and 4 (see - appallingly commented -
+         samples at http://seinfeld.sogaard.com/episodes/scripts/
+         )... and finally, conflicting reports as to whether Gary
+         Wolf's tell-all Wired story will be pro- or anti-Rossetto;
+         promisingly, however, should be titled BENGALI TYPHOON...
+                                    
+                                    
+                            >> SMALL PRINT <<
+                                    
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "have-a-go super-heroes".
+http://www.newsunlimited.co.uk/The_Paper/Daily/Story/0,3604,23756,00.html
+                (nice to see guest / guest working fine)
+                                    
+                                NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+          (K) 1999 Special Projects. Non-business copying is fine,
+                           but retain SMALL PRINT.
+         
+               Tips, news and gossip to tips@spesh.com. Cheers.

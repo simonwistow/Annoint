@@ -1,0 +1,282 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____04/12/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+                    
+        "A Sedgwick County Juvenile Court judge will decide today
+        whether four children should be removed from a home police
+        found littered with animal waste... Police also found an
+        abundance of Star Trek magazines, posters and memorabilia,
+        and couldn't understand the father at first because he spoke
+        to his wife and children in Klingon."
+        - THE WICHITA EAGLE, http://newslibrary.infi.net/wichita/
+                                            ...why we don't have kids
+                                                           (anymore)
+
+                                >> HARD NEWS <<
+                                spitting truths
+
+         Looks like it's not just Pinochet who thinks diplomatic
+         immunity protects him from the truth. This week, it was the
+         turn of the US's "crypto ambassador" DAVID AARON, who came
+         bounding out of the Wassenaar conference in Vienna crowing
+         that almost every other country in the world had agreed to
+         adopt America's dumb-ass "no export of crypto beyond an
+         NSA-crackable 64 bits" policy. Well, up to a point,
+         Ambassador. Odd that the less-developed nations (like
+         Germany, Canada - and even the less than strident UK) had
+         switched from their semi-official "no buggering Yank spooks
+         are going to tap *us*" stance in one day. Odd too, that
+         Aaron's press release was out by 3:30, when agreement was
+         only reached at 3:00. Could it be that Aaron was offered a
+         sop to take home to Clinton: that the Wassanaar signatories
+         agreed to *allow* control of 64+ bit crypto, while at the
+         same time making sure that all the signatories could
+         "disappear" any obligation to enforce such a control?
+         http://www.wassenaar.org/
+         - ambassador, with your unusual assumptions you are spoiling us 
+         http://jya.com/wa-state98.htm 
+                         - what, no "shut that idiot Aaron up" clause
+         http://www.ntk.net/wassenaar/
+                                            - those details in "full"
+
+         Mind you, the US security services aren't the only ones to
+         have an easy ride in their snooping. The EU, it seems, are
+         planning to mirror the Anglo-Americans' Echelon surveillance
+         system with a dandy new network of their own, designed to
+         tap into mobile and Iridium communications Europe-wide. Of
+         course, the cops were too busy planning this foolproof
+         tapping of their citizens comms to notice when
+         someone of them reversed the polarity on the paper - and
+         leaked it to the excellent Telepolis. Straight back at ya,
+         ENFOPOL!
+         http://www.telepolis.de/tp/deutsch/special/enfo/6329/1.html
+                                                 - hasta la babelfish
+         
+         MP3 bootleggers found some unexpected converts to the cause
+         on Tuesday, when hip-hop old schoolers PUBLIC ENEMY
+         unilaterally planned to stick their underpromoted album
+         Bring The Noise 2000 online - all 27 tracks of it. By
+         Thursday, the show had been officially "bum-rushed" by
+         record label, Def Jam (or "Def Scam" as PE previously
+         described them), and the page replaced by highly critical
+         invective against "execs, lawyers and accountants",
+         concluding "Let 'em all die". Probably not what Def Jam had
+         in mind, but not quite as hilarious as US ska-punk outfit
+         Less Than Jake, who inadvertently placed 3 entire albums on
+         their site, due to a "mistake on the website manager's
+         part". There's clearly only one way to stamp out this
+         dreadful piracy problem - ban music altogether.
+         http://www.mp3.com/news/140.html
+                        - this one goes out to the Ninfomania crew...
+    http://www.geocities.com/SoHo/Workshop/1813/communiques/comm3.htm
+                     -  ...we're shorter, funnier - and later than you
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+         
+         now *that's* a comeback (see 1960 in the dateline):
+    http://cgi.pathfinder.com/time/time100/builder/profile/merrill.html
+         ... FT Business Website Award for BBC News Online
+         misengraved to "BBC Online"; News plan to "burn it in middle
+         of office" ... oh those original ad writers: NETWORK
+         SOLUTIONS claim to be the ".com people", SUN reckon they're
+         the "dot in .com"... GUARDIAN runs "Chinese mistranslations
+         of film titles" http://www.topfive.com list as real (well,
+         if the NYT ran it, it must be true, right?) ... are DIXONS
+         trying to tell us something about the new PalmPilot?
+         http://freepages.pavilion.net/users/dphelan/dixons-281198.jpg
+         GUARDIAN fills column by running press releases through jive
+         filter... ID SOFTWARE up for a *serious* man-beating with
+         http://www.ntk.net/doh/id981203.jpg ... and what's the instant
+         prize at the bottom of the http://www.camelot.co.uk/ tree?
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         "The UK hacking scene is all but dead: most of the
+         community's leading lights have retired, no new hacking
+         conferences are planned", writes MICHAEL MCCORMACK in this
+         week's Telegraph - with his usual perfect timing, three days
+         before the biggest conference of the UK haxxor calendar,
+         CONSPIRACY. Here, the British computer underground will be
+         celebrating their non-existence with ten hours of
+         alcohol-fuelled oblivion, games of "Blinds Man's vi", and a
+         old tales told around a roaring Unix LAN ("servers in a
+         seperate room ... for various reasons including local
+         exploits and puke"). The wake will take place at
+         Manchester's Tapas Tapas Nightclub, from 1600GMT this
+         Saturday 4/12/98. The venue holds two hundred persons, so be
+         sure to turn up early to avoid bumping into McCormack
+         sitting on his own, eyes shut and singing "lah-lah-lah" to
+         block out the decks.
+         http://www.dac.org/conspiracy/ - the men in cider and black
+         
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Professional Web content systems companies, switching to
+         Open Source - as recommended by their own *venture
+         capitalist*? That's *sick*. ZOPE is a PERVERTED hybrid of
+         the widely-regarded BOBO object-oriented CGI replacement,
+         and the previously commercial PRINCIPIA Web application
+         system. It's also got the Aqueduct relational database
+         system thrown in. It's all free, source code is included,
+         and even more horrifically, it's centered on the PYTHON
+         language, that politically-correct, nicely-formatted,
+         easy-to-read OPEN BLOODY SOURCE scripting language. ZOPE's
+         creators will be releasing the source later today, so we
+         haven't had a chance to play, but we hope it's bloody
+         rubbish, otherwise we'll have nothing nasty to say at all.
+         http://www.zope.org/
+                  - nice clean well-written Website too. CURSE THEM! 
+         
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         if LARA CROFT *is* nominated as British Technology Ambassador,
+         does she get diplomatic immunity for all those people she
+         shot in South America? ... SIEGEL finally eats his words -
+         http://www.it.fairfax.com.au/981103/webmechanic1.html ...
+         Internet Explorer "Platinum Channels" now Windows Media
+         Showcase... http://www.planetquake.com/titanic/ ...
+         http://sgi.impact.nl.com/ - what did I miss ? ...
+         http://cvs.anu.edu.au/andy/beye/beyehome.html ... DOUGIE
+         COUPLAND wants a $1 mill for his next novel... we're
+         assuming this isn't an official TELE*UBBIES site:
+         http://newgrounds.com/tubby/ ... as if life isn't depressing
+         enough: http://www.brunching.com/toys/toy-alanislyrics.html
+       http://www.userfriendly.org/cartoons/archives/98dec/19981203.html
+         - STALLMAN for Chewie!
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> yeah, we know, we should be doing a TV version of NTK
+         for this groovy new 4 LATER strand (after midnight, most
+         nights, C4 ), maybe like a webpage version of VH1 pop
+         subversion classic POP-UP VIDEO (1.15am, Fri, C4)... oh, and
+         please note that it's a subjunctive, not an imperative in
+         the title of Bruce Lee chop-socky cracker ENTER THE DRAGON
+         (10.20pm, Fri, BBC1)... more martial arts lore with Beat
+         Takeshi's acclaimed SONATINE (1.10am, Sat, BBC2)... and
+         Verhoeven uses the "and then I woke up and it was all a
+         dream" excuse for the euphoric violence (and hair-trigger
+         Sharon Stone performance) of class Arnie sci-fi TOTAL RECALL
+         (9.55pm, Sat, ITV)... 4 Later offers North London slacker
+         sitcom TOTTENHAM 2 (12.20am, Sat, C4) followed by '70s cop
+         spoof (and "Funky Squad" inspiration) THE MOD SQUAD
+         (12.50am, Sat, C4)... and further Sharon Stone shenanigans
+         in underrated Sam Raimi designer Western THE QUICK AND THE
+         DEAD (10pm, Sun, C4)... disappointingly, new pathology
+         one-off MCCALLUM (9pm, Mon, ITV) isn't about the adventurs
+         of eternal special guest star David McCallum, trapped in
+         endless series of satellite sci-fi shows, struggling to find
+         his way back home... ADULT RICKI (10.45pm, Tue, C4) tackles
+         the very modern dilemma of how to get sex videos back from
+         your ex (Pamela Anderson, Kelsey Grammer please note)... a
+         buttock-numbing *two-and-a-half hours* devoted to animation
+         in new run of DOPE SHEET (11.30pm, Tue, C4) - probably
+         without even a Disney musical number to change the pace -
+         seems unlikely to trouble the intermittent return of
+         SEINFELD/ THE LARRY SANDERS SHOW (11.10pm, Tue, BBC2)... 
+         the showing of stupid-dumb overlong Queen video HIGHLANDER
+         (9.30pm, Tue, BBC1) is inexplicably "postponed in some
+         regions from 24 November", presumably due to some clashing
+         news story about decapitation, immortals or Sean Connery...
+         and you'd hope that, coming from Roger & Me / TV Nation
+         leftist prankster Michael Moore, CANADIAN BACON (10pm, Thu,
+         C4) would be a cooler, funnier version of "Wag The Dog".
+         You'd be wrong...
+
+         FILM>> turning a bug into a feature, top-notch non-stop
+         action spoof RUSH HOUR (imdb: police / trust / bravery /
+         detective / friend / hero / hostage / kidnapping) neatly
+         sidesteps Jackie Chan's delicate grasp of the English
+         language, and lets The Fifth Element's Chris Tucker - and
+         Jackie's fists - do all the talking... George "Mad Max"
+         Miller ditches the farmyard promotion milieu of the first
+         film for the darker, crueller, more ironic odyssey of BABE:
+         PIG IN THE CITY (imdb: animals / kids-and-family / sequel /
+         talking-animal), doing for singing mice what Scream did for
+         slasher films... and seeing Kathy "Waynetta Slob" Burke and
+         Meryl Streep on the same screen may be the only reason for
+         oestrogen-heavy Oirish blarney DANCING AT LUGHNASA (imdb:
+         based-on-play / sisters) - no pronunciation info available
+         at present, we suggest you try "Lufthansa" and the box
+         office people will understand...
+
+         DEAD TREE>> it's following in the steps of Martin "Invasion
+         Of The Space Invaders" Amis, but LARA'S BOOK (Prima,
+         UKP15.99) is one of the one-in-three terrible Douglas
+         Coupland novels, with maybe one perceptive comment (around
+         p18), dull tips (no Tomb Raider 3!), an appalling
+         "action/adventure comic" that sounds like it's written by a
+         12 year-old ("and then there was a hurricane and Lara got
+         blown up into the air onto an aeroplane and she climbed in
+         through the window") - plus many many renders of the
+         overexposed heroine looking increasingly like a blow-up sex
+         doll... despite the usual uncritical fawning over Tomb
+         Raider, Myst etc, pricey video game coffee table tome
+         RE:PLAY (Laurence King Publishing, UKP19.99) scores bonus
+         points for including shots of Speccy classic Way Of The
+         Exploding Fist, big maps of Sim City and Zaxxon, and
+         printing Goldeneye grabs small enough so you can't see the
+         horrible N64 anti-aliasing... taking a slightly broader
+         view of life, John Horgan's THE END OF SCIENCE (Abacus,
+         UKP8.99) purportedly ponders the future of empirical
+         research via the hilarious technique of going round and
+         interviewing the biggest names in philosophy of science
+         (Karl Popper, Thomas Kuhn, Noam Chomsky, Steven Jay Gould,
+         Marivn Minsky - even Roger "Quantum Consciousness" Penrose)
+         - and then *taking the piss out of them*... could make
+         useful reading before attempting Greg Egan's masterful
+         compilation LUMINOUS (Millennium, UKP9.99), featuring
+         post-cyberpunk science-heavy shorts from '93 to '98, and
+         confirming Egan's rep as the *hardest* sci-fi author ever.
+         Also good to see he's not spending all his time indexing:
+         http://www.netspace.net.au/~gregegan/IZ/index.htm ... and
+         finally, Andrew Calcutt's WHITE NOISE: AN A-Z OF THE
+         CONTRADICTIONS IN CYBERCULTURE (Macmillan, UKP14.99) is
+         pretty much the mix of provocative concepts and sociologist
+         nonsense you'd expect from someone who's worked for Channel
+         Cyberia and LM magazine (Living Marxism, not Leisure
+         Monthly), and has learned everything from reading The
+         Guardian, the Telegraph's Connected section, and .net
+         magazine. Living up to its contradictory subtitle, the front
+         even claims that the book is "Copyright 1999" so you've got
+         a whole month to rip it off if you like...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "ahem! cough cough"
+						http://www.dti.gov.uk/e-envoy
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+	 Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

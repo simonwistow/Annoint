@@ -1,0 +1,316 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____25/09/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        
+        "The computer industry is creatively bankrupt... with speed
+        and performance being the only things and mattered. We knew
+        the iMac was fast. We didn't need to make it ugly."
+                                       - JONATHAN IVES, iMac Designer
+                                     ...but then we thought, why not?
+
+
+                                >> HARD NEWS <<
+                                 win a cruise! 
+
+         After almost a year of playing chicken with zero charge Net
+         provision, somebody went and did it. And, with the a
+         combination of technical know-how and traditional shoddiness
+         that can only be compared to a deBeers-Ratners joint,
+         Energis and Dixons were the people to do it. So what's it
+         like? Well, for what you pay for, it is, so far, very good.
+         5MB Web, infinite e-mails, nice registration, and a good
+         unflashy portal site.  Charging for support seems,
+         initially, a bit of an own-goal: DIXONS fans 
+         would instinctively let a grandsworth of PC rot in the attic
+         than pay one extra quid for any non-porno call; and what
+         value would you put on a minute spent with their legendarily
+         quick-witted sales assistants? But then, this may be the
+         canniest part of the Dixons deal. Whatever money was made
+         by ISPs back in the Bad Olde Days was forever sucked back by
+         prohibitive tech support costs. By trading on the
+         Dixons=Morons meme, and by making the punters believe that
+         they're pulling a fast one by never calling, Dixons will be
+         able to throttle the most unscaleable bit of the whole
+         operation. Meanwhile, partners Energis keep getting the
+         Telco interconnect payments of all those callers, and Dixons
+         get the portal. With rumours saying that by Thursday, they
+         were up to 12,000 accounts with 10 joining every *second*,
+         Energis/Planet's apparent over-spec for 250,000 users by
+         Christmas better stand up to the strain.  
+         http://www.ntk.net/freeserve/ 
+                                          - logging on without the CD 
+         http://www.pbs.org/cringely/pulpit/pulpit19980924.html
+      - the best things are life are free. as is Robert X. Criiingley
+         http://www.ntk.net/index.cgi?back=archive97/now0926.txt&line=82#l
+                                  - I want money. That's what I want. 
+
+         Our spies at Privacy International (no secrets from us
+         there) inform us that Simon Davies and the lads are planning
+         a new set of awards, to be handed out in October.  These Big
+         Brother awards will be given "to the government and private
+         sector organisations that have done the most to invade
+         personal privacy+in Britain." Launched 50 years after the
+         writing of Orwell's 1984, and featuring a charming statuette
+         of the iron boot stamping on a head, they are sure to be the
+         envy of all your fellow surveillance co-conspiracists.
+         Nominations are being accepted from members of the public,
+         So if you've ever got a thrill from secretly informing to a
+         quasi-autonomous body who - unbeknownst to their victims - is
+         compiling a database of suspected "criminals" for a
+         show-trial in abstentia...  Hold on, this isn't coming out
+         right. There are also some "Winstons" for people who helped
+         privacy. We're not sure what they look like... a
+         ratcage, or something?
+         http://www.privacy.org/pi/bigbrother/
+                               - oh, what the hell. Fun's fun, right
+
+         As you know, we've followed RICHARD BARRY'S career with
+         almost grandmotherly concern so we were as delighted as
+         anyone when he got his exclusive ZD Net interview with the
+         CEO of Intel, Craig... um, thing. Even if, for now, Intel's
+         own PR didn't seem to share our happiness. Starr-like, Barry
+         chose to put the whole transcript on a heavily plugged ZD
+         Net special: a fair barter, as he'd also obtained most of his
+         questions from the readers. But, sources suggest, he
+         *said* he was doing it for the Guardian. Ah, no, we think -
+         he's still on holiday from there, isn't he?
+         http://www.zdnet.co.uk/news/1998/38/ns-5556.html
+         - Craig: Ha! /Barry: Haha!/Craig: Ha!/Barry: Well, time's up
+         
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                
+         "Football is the new rock and roll", uncover ZDNET UK,
+         approximately a decade late... WIRED compared to Third Reich
+         on Well... http://www.conf.labour.org.uk/ gets our block
+         vote - as the shittiest site *ever*... handwriting of
+         DOCTORS worse than controls, reveal BMJ... BRITISH
+         ASTRONOMER helped find some more planets but they're not
+         bloody M-Class, the idiot... "personal involvement in the
+         leadership" expected at the Whitehouse intern initiative
+         http://www.whitehouse.gov/WH_Fellows/ ... OFTEL punishes
+         BT's use of Friend & Family to sell Click to ISP users - by
+         admonishing them in a slightly raised voice... ELECTRONIC
+         TELEGRAPH puts positive spin on killing "etcetera"
+         section... we're sure that http://www.bmw.co.uk/ checked
+         with their lawyers before putting "mercedes", "jaguar" and
+         "daewoo" into those meta-tags...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Nope, London-based low-budget film fest VOLCANO isn't
+         extinct (26/09-03/10/98, various venues, box office: 0171
+         582 7680), though it does look like they're spending even
+         less on their website than they are on their movies. Based
+         on what we can piece together from the evidence, this year's
+         attempts to prove that "independent" cinema is now *even
+         more* experimental (unwatchable?) following Hollywood's
+         inevitable co-opting of the term. Contributors will
+         hopefully include chop-socky connoisseurs (and retro gaming
+         fans) SHAOLIN, plus multimedia cabaret CINERGY, though
+         apparently they've never been as good since former host The
+         Word's Alan Connor left to finish his PhD on 20th Century
+         superstitions... 
+         http://www.backspace.org/volcano/ 
+                          - at last, a film site without Shockwave...
+         http://www.backspace.org/volcano/shaolin/shaolin.html 
+                                         - ...or any non-broken GIFs!
+         http://www.amulation.co.uk/cinergy/exposition/ 
+                       - hmm, black text on brown: *tres* avant-garde 
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Like you, we got were thrilled when we found the super-slim
+         1MB browser, OPERA. And, no, we can't remember when it made
+         the transition from ultra-cool speed-monster to dull and
+         ugly piece of Taskbar lint, either. It's not that it's
+         changed - not for the worse, anyway, with the latest beta
+         promising Java support, super W3C standard obeyance, and a
+         multiplicity of fledgling ports (although only the BeOS boys
+         appear to have escaped parallel fits of ennui). Maybe we
+         just grew to loathe its previously endearing quirks - like
+         that yucky Borland circa 1994 interface, or its impenetrable
+         - and yet, oddly useless - configurability. All that's known
+         is we uninstalled the last beta within five minutes. And we sleep
+         in different beds now.
+         http://www.hotwired.com/webmonkey/98/05/index0a.html?tw=browsers
+                - browser de jour, but they *never* mention it again...
+
+         Linux users, hithertofore deprived of the marvellous beauty
+         of Macromedia plug-ins, have developed compensatory
+         abilities in their other senses: their sense of injustice,
+         their sense that some Web designers should be strung up by
+         their piercings, and so on. Now those powers could fade,
+         with the first stirrings of a Oliver Debon's FLASH Netscape
+         plugin FOR LINUX. It's not all there yet, but at least
+         Flash-"enabled" sites (we prefer the term "differently
+         platformed") are blurrily viewable (if not yet audible). And
+         Linuxen have the chance to see for the first time exotic
+         fonts appear, get big, then move left off the screen, while
+         spinning around in a thrilling and startlingly original
+         spiral manner.
+         http://www.geocities.com/TimesSquare/Labyrinth/5084/flash.html
+              - if you run, you can still avoid the Shockwave "games"
+
+                                  "original"
+                                >> MEMEPOOL << 
+                              hasta la altavista
+                              
+         30 Years of PLANET OF THE APES ruined by news of Roddy
+         McDowall's terminal illness - although we do get to mention
+         http://www.nobeige.com/articles/why_apes_dont_drive.asp ...
+         http://liftoff.msfc.nasa.gov/realtime/JTRACK/3d/JTrack3d.html
+         ... follow the course of HURRICANE GEORGES by pinging Florida
+         servers... Japanese teaser ads for DREAMCAST feature Sega MD
+         chased by kids going "Sega sucks! Playstation rules" (new
+         'Station due in 6 months, according to CVG rumours)...
+         gentler, more nurturing form of Y2K panic-mongering at
+         http://www.y2kwomen.com/archives/samples.html ... and what
+         is http://www.noreferer.org/ ?... never hear from your
+         haxx0r pals again with the forthcoming ANONYMOUS CALLER
+         REJECT feature... "You're in a maze of twisty little Java
+         VMs, all different"... "more snow more snow more snow" -
+         IRIDIUM experiences difficulties at the North Pole with
+         http://www.icetrek.org/live.htm ... can you find the snuff
+         animated GIF at http://www.moderntv.com/ ? ... guess we
+         can give up now there's http://www.memepool.com/ *and*
+         http://www.mrslander.com/ ...
+
+         
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> SOUTH PARK (11.05pm, Fri, C4) pays combined tribute to
+         Barbara Streisand, The Cure, and Godzilla movies - as only
+         it knows how... tonight's may well be the terrible failed
+         hot-air-balloon edition of BEAT THAT EINSTEIN (4.40am, Fri,
+         C4)... but the worth-waiting-for highlight is the Lilith
+         Returns first-series episode of FRASIER (10pm, Fri, C4) -
+         togther now: "This is a *mistake*!"... sorry, even we didn't
+         anticipate quite how dull everything-must-be-explained net
+         history GLORY OF THE GEEKS (8pm, Sat, C4) was going to be...
+         casting coup of THE FRESHMAN (11pm, Sat, ITV) is of course
+         Marlon Brando playing mentor to Matthew "War Games"
+         Broderick - a film student studying "The Godfather"...
+         you've got to wonder: does Pete McCarthy really get any
+         personal fulfilment out of mocking UFO freaks in third
+         series of DESPERATELY SEEKING SOMETHING (7.30pm, Sun,
+         C4)?... while Mark "Moviedrome" Cousins strokes himself into
+         a frenzy over original blaxploitation fave SHAFT (10.45pm,
+         Sun, BBC2)... wouldn't it be interesting if the producers
+         of thought-provoking life-swap show BREAKING THE RULES
+         (11.20pm, Mon, BBC2) swapped roles with the producers of
+         thought-provoking life-swap show LIVING WITH THE ENEMY (9pm,
+         Wed, BBC2)? Just an idea!... promisingly, EQUINOX (9pm, Tue,
+         C4) gives detailed lift/drag coefficients for monster
+         Russian seaplane prototypes... while Leslie Nielsen helms
+         an arguably more airworthy effort in the first-ever
+         AIRPLANE! (10.35pm, Tue, BBC1)... ironically titled arts
+         docu CLOSE UP (9.30pm, Wed, BBC2) gets nowhere near cult
+         Napoleonic author Patrick O'Brien... some funny ideas, but a
+         tendency to go on too long spoiled the pilot we saw of
+         topical Daily Show ripoff THE 11 O'CLOCK SHOW (10.55pm,
+         Wed-Fri, C4)... HORIZON (9.25pm, Thu, BBC2) asks what
+         happens to chimps used in military experiments (could they
+         pose a security hazard, and defect?)... and, in still the
+         best of Woody Allen's post-Mia Farrow '90s movies, John
+         Cusack and a hilarious Dianne Wiest dodge the BULLETS OVER
+         BROADWAY (9pm, Thu, C4)...
+
+         FILM>> it's "hip to be square" chortle glowing reviews for
+         London-only extended-Twilight-Zone-episode containment drama
+         CUBE (imdb: Canadian) - including, as far as we know, Harry
+         "Ain't It Knowles" News' first poster quote. Unfortunately,
+         they've printed the "L" and the "I" a bit close together, so
+         "The Most Intense, Claustrophobic Sci-Fi Flick I've Seen In
+         A Long Time" (Harry Knowles) looks more like "The Most
+         Intense, Claustrophobic Sci-Fi *Fuck* I've Seen In A Long
+         Time" - which some may find all too believable... steel
+         yourself for the pioneeringly tasteless romantic comedy
+         THERE'S SOMETHING ABOUT MARY (imbd: blockbuster /
+         masturbation / hitch-hiking / masturbation-scene), with the
+         *five* semi-playable games at http://www.aboutmary.com , all
+         of which use the world's most appropriately disgusting
+         plug-in, Shockwave... and finally, the biggest surprise in
+         all-at-sea when-squids-attack DEEP RISING (imdb: lovecraft
+         / ship / black-comedy / boat / luxury / thief / jewels) is
+         that at no point do any of the characters say, "Hang on, I
+         know what to do - I saw exactly the same thing happen in
+         Aliens / Hard Rain / Beyond The Poseidon Adventure"... 
+
+         BUMPER BONERS>> thanks to everyone - DAN SUMPTION, for
+         instance - who pointed out the US/UK date confusion in our
+         picture link for BT's goofed Home Highway page [NTK
+         11/09/98] (both fixed now, unfortunately). Also, the UK's
+         premier "Star Wars/South Park" page is still at
+         http://www.citysun.ac.uk/klawler/sp.htm ... MALCOLM PACK
+         questioned last week's Finsbury Square IT SLEEPOUT story
+         [NTK 18/09/98], specifically the bit where we said:
+         "Unfortunately they won't be able to pop into nearby disused
+         Aldwych tube station". The two locations, he adds, "aren't
+         even close on the London Underground map, never mind Real
+         Life. Are our NTK editors *Northerners* or summat?" Well,
+         no, though we kind of wish we were, if only to balance the
+         ridiculous London bias of the rest of the media. We maintain
+         that Aldwych is *fairly* near Finsbury Square - at least
+         from the perspective of America, the Moon, or a cold and
+         hungry IT CEO sheltering in an orange plastic body bag...
+         we're sorry we didn't credit CNN's excellent JOHN HOLLIMAN
+         for the Russian life support system story [NTK 11/09/98], if
+         only because he died in a car crash the next day (please
+         note respectful lack of joke)... we've now read Martin
+         Millar's MELODY PARADISE and can confirm it *is* as "quite
+         good" as he says... popular figure of hacker scorn (and star
+         of other fave tome, THE GREAT MAMBO CHICKEN) CAROLYN MEINEL
+         wrote to demolish our DEFCON HERF gun story [NTK 07/08/98] :
+         sadly, none of Carolyn's somewhat personal accusations stood
+         up, apart from that, yep, it wasn't so much high-energy RF
+         as *targetted* RF. But it still messed up shit, CM, and
+         that's what counts at DEFCON... US crypto mavens wrote in to
+         say that the "Doorbell" physical backdoor to routers
+         mentioned in NTK 18/09/98 was an ingenious political
+         manoevre to split the law-enforcement and security camps in
+         the US: yah we knew that, but we still think moving the
+         battle to the ISP is opening a whole new can of worms...
+         and finally, a model third party apology from Irish TV show
+         TechTV, as the sysop explains *exactly* what happened -
+         http://www.ntk.net/apology/ - now that's presidential... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+ It is registered at the Post Office as "a big smut jamboree on the internet"
+                    http://www.denizine.com/features/starr/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+
+

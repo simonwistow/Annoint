@@ -1,0 +1,297 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-06-06_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                               >> HARD NEWS <<
+                             it's Campbell, Stu's
+
+         Everyone's got a friend who'll tell you that a particular 
+         fruit machine is "on a cycle" and "nearly ready to pay out". 
+         Then you dutifully explain to them that this is all in their 
+         imagination, and it could be behaving completely randomly and 
+         still win on percentages (like a roulette wheel), and then 
+         they say well how come they never try to pay out more money 
+         than they've actually got in them? The bad news - in a whole 
+         variety of ways - is that that friend of yours appears to be 
+         right: according to recent research by THE FAIRPLAY CAMPAIGN, 
+         PC-emulated versions of a range of popular fruities appear to 
+         follow completely predetermined sequences, with a pattern of 
+         payouts designed to reward the victim just enough to keep them 
+         playing. Now, this could just be an artefact of the emulation 
+         process re-using the same pseudorandomness seed or something - 
+         were it not for the fact that, FairPlay reports, at least one 
+         machine also decides "gambles" in advance - if, when facing 
+         a "High/ Low" value of 5 at one point, you select "High", the 
+         machine will spin up a 3 and there go your winnings. If, on 
+         the other hand, you select "Low", the machine will spin to a 
+         9. Once again, you lose.
+         http://www.fairplay-campaign.co.uk/fruit/
+              - also a fun way to get your MP into the emulator scene
+
+         Good to see the increasingly eccentric ERIC S RAYMOND keeping
+         himself occupied these days. His latest tweaks: a version
+         bump or two to the JARGON FILE, the ancient hacker bible of
+         which he is current custodian. But how steady is his hand on
+         the sacred tome? Worrying is esr's recent inclusion of
+         unfamiliar terms like "Aunt Tillie" and "GandhiCon", which
+         on closer search-engine examination, appear to have been used
+         almost exclusively by Raymond himself. And esr's current
+         expansions of hacker dialect is curious too. New terms
+         include "fisking" - a term pretty much restricted to the
+         warblogosphere, and defined by your impartial host as "Named
+         after a Robert Fisk, a British journalist who was a frequent
+         (and deserving) early target of such treatment". Also
+         included is "anti-idiotarianism", as in Eric's
+         Anti-Idiotarian Manifesto, a fascinating call to arms that
+         implies "Anti-Idiotarian" means "To be against listening to
+         anyone who would tell you you're sounding like an idiot
+         these days". Finally (and not included in the changelogs),
+         Eric has tweaked the Hacker Politics page, from its previous
+         description as "vaguely liberal-moderate" to
+         "moderate-to-neoconservative (hackers too were affected by
+         the collapse of socialism)". Go tell that to the
+         Kuro5hinners, Eric. Recalling Raymond's familiar defence of
+         previous changes, "rather than complaining that I am
+         'rewriting history', help me write it!", let it be noted
+         that if someone did want to fork the Jargon File, now would
+         be the time to do it. Raymond's previous googlejuice at
+         tuxedo.org has been cast to the winds. A new, reformatted
+         and popularly linked-to upstart could quickly seize the top
+         Google slot. Ha, ha, as we apparently all say, only serious.
+         http://catb.org/~esr/jargon/html/politics.html
+                             - wouldn't everyone, from Eric's view...
+         http://www.science.uva.nl/~mes/jargon/p/politics.html
+ - be slowly changing into crypto-collectivist islamofascist sympathisers?
+         http://kt.zork.net/kernel-traffic/kt20030413_213.html#8
+                         - Aunt Tillie "figment of Erics imagination"
+http://armedndangerous.blogspot.com/2002_10_13_armedndangerous_archive.html
+                 - quoting H. Beam Piper's "Lord Kalvan of Otherwhen"
+
+         The tiniest of updates on the missing STAND ID card
+         consultation: confusion reigns. On one hand, the government
+         are saying that they'll all be counted (Kable report,
+         below). On the other - other bits of government are saying
+         ooooh we can't tell you until nothing we've told Parliament
+         (BBC report, below). Which is a bit silly, because the only
+         reason Parliament is asking is because at least one
+         enterprising STANDee wrote to their MP to complain, and she
+         - Anne McIntosh, MP for the Vale of York - decided to find
+         out. Despite two BBC articles, two ZDNet pieces and
+         increasing numbers of the proper media nibbling around this
+         story, the Home Office still haven't clocked that the
+         easiest way to deal with this would be just to mail us and
+         explain what happened, so we can tell the people who wrote
+         in. Heck, they can mail them themselves if they like -
+         they've got the mail addresses. All this trying to re-route
+         all communications via Parliament and the press just implies
+         that there's no link between people and politicians anymore.
+         And that couldn't possibly be true, could it?
+         http://tinyurl.com/dmpu
+                                   - Kable says Home Office in denial
+         http://news.bbc.co.uk/1/2965984.stm
+                                       - we say they're "a bit silly"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Other products convert binary to hexadecimal, reducing the 
+         number of characters, and convert hex to Ascii", marvels: 
+    http://www.computerweekly.com/articles/article.asp?liArticleID=122004
+         ... interesting definition of "In No Way Related" to Paul 
+         McCartney: http://www.mcbeatle.de/beatles/mail/paul.html ... 
+         one way to make somebody's revision a bit more interesting: 
+         http://www.ntk.net/2003/06/06/dohdiv.gif ... those hilarious 
+         company names just keep, er, coming: http://www.cumstore.co.uk 
+         vs http://www.perr.com/onanstore.html ... slack off - praise 
+         "Bob": http://www.livedepartureboards.co.uk/ldb/badargs.html 
+         ... this pic - is PANTS: http://news.bbc.co.uk/1/2966482.stm 
+         ... URLs designed to look like the result of random typing: 
+         http://www.zzhljx.com/gsjje.htm ... one for the RSPCA?: 
+         http://www.petoffice.co.jp/catprin/english/ ... not what we 
+         wanted to hear: http://www.ntk.net/2003/06/06/dohcamps.gif ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+        Friends on IRC either sound like lamers or cool, sarcastic,
+        twisted geniuses. Contrast that to pals mediated through
+        instant message clients, who *always* sound like dorks. Now
+        you can instantly improve your friends' standing,  by
+        downloading BITLBEE, the incomprehensibly-named IM<->IRC
+        bridge that lets you see your "buddies" using a standard IRC
+        client. BitlBee runs as a fake local IRC server. Its sole
+        real inhabitant is you. Its one faux channel is filled with
+        your Yahoo!, MSN, ICQ and AOL colleagues, appearing and
+        disappearing with the whims of their online status. As per
+        informal IRC tradition, you can talk back by prefixing your
+        message with their nick and a colon, or you can /msg them
+        directly. BitlBee comes with a nice set of help commands,
+        including a three step wizard that'll take you through your
+        account set-up. There are a few rough edges (Bitlbee
+        responded to an /away with a technically appropriate segfault
+        and tends to smother comments from your AOL "friends" with
+        unparsed HTML) but the logins themselves seem rock solid.
+        Just don't mix it with Comic Chat, or you'll have to find a 
+        whole new gang of online buddies.
+        http://www.lintux.cx/bitlbee.html
+       - IRCers come from command lines. IMers look like dialog boxes
+        http://www.bash.org/
+        - all those funny IRC quotes will be lost, like tears in rain
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         handy guide to speaking "smug bumhead" or "pig-faced warrior": 
+         http://www.xibalba.demon.co.uk/jbr/lingo.html (also funny on 
+         http://www.xibalba.demon.co.uk/jbr/heinlein.html )... just 
+         liked the name: http://lists.burri.to/pipermail/geowanking/ 
+         ... 'cos sometimes it takes a bigger country to say "we're 
+         sorry": http://www.hindustantimes.com/news/181_269818,0005.htm 
+         ... BUNDER has had "detractors", took "abuse in his stride": 
+         http://www.guardian.co.uk/online/story/0,3605,970300,00.html 
+         - somewhat hard to believe, with killer content like this: 
+         http://www.bunder.com/weblog_details.php?id=2003-3&mm=March 
+         ... "Most Brits that I spoke with had never used the Internet" 
+         - philg @ http://blogs.law.harvard.edu/philg/2003/06/04#a459 
+         ... "This is the voice of the DEPT FOR WORK AND PENSIONS": 
+         http://www.targetingbenefitfraud.gov.uk/on_to_you_adverts.html
+         - "We know that you can hear us, Earthmen"... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Carol Vorderman presides over a Mind Olympics-style 
+         contest to find Britain's highest-functioning autistic, GRAND 
+         SLAM (8pm, Fri, C4)... we still have a soft spot for Anne 
+         Heche-nudity traffic report obsession PIE IN THE SKY (1.15am, 
+         Fri, BBC2)... and it's the bloody remastered special edition 
+         of STAR WARS EPISODE IV: A NEW HOPE (6.45pm, Sat, ITV), ending 
+         just in time to catch predictably toned-down Huey Lewis 
+         chainsaw tribute AMERICAN PSYCHO (9.05pm, Sat, BBC2)... 4PLAY 
+         (1.55am, Sat, C4) spends 15 mins in the company of DJ Shadow - 
+         nearly enough for a whole song... reader GUY DAVIDSON - *and* 
+         his wife - report themselves "very happy" that it's the 
+         foppish ex-Smiths vocalist (rather than sitcom actor Neil) 
+         profiled in THE IMPORTANCE OF BEING MORRISSEY (11.15pm, Sun, 
+         C4) http://www.ntk.net/index.cgi?b=02003-04-11&l=252#l ... the 
+         Greater London edition of INSIDE OUT (7.30pm, Mon, BBC1) visits 
+         "the capital's most dubious market", as recommended by us in
+         http://www.ntk.net/index.cgi?b=02003-05-23&l=70#l ... and the 
+         regular references to "what the coalition forces referred to 
+         as 'Operation Iraqi Freedom'" suggest they've got an eye on 
+         the international market for BATTLE STATIONS IRAQ (8pm, Mon, 
+         C4), this week updating the "Black Hawk" helicopter episode 
+         previously shown in Feb of this year... ANGEL (8pm, Mon, C5) 
+         introduces the hilarious deadpan demon, Skip... the title of 
+         THE DINNER PARTY INSPECTORS (8.30pm, Tue, C4) implies it's 
+         only a matter of time before C4 goes the whole hog and employs 
+         the Viz Bottom Inspectors as well... here's hoping Alan 
+         Yentob's new occasional art strand IMAGINE (10.35pm, Wed, BBC1) 
+         will do a slot on ITV's long-running middlebrow lookalike "The 
+         South Bank Show"... and Thursday night is pron night, with 
+         Adrian Chiles forcing himself to attend poledancing auditions 
+         with the owner of Spearmint Rhino in SO WHAT DO YOU DO ALL 
+         DAY? (7.30pm, Thu, BBC2), PLEASURE SEEKERS (11pm, Thu, ITV) 
+         profiling "swingers", C4 cooking up TESTOSTERONE GEL (11.15pm, 
+         Thu, C4), plus the last episode of BUFFY THE VAMPIRE SLAYER 
+         (8pm, Thu, Sky1)... 
+         
+         FILM>> "a non-stop relentless unflinching assault" is promised 
+         by the TV ads, as grizzled survival expert Tommy Lee Jones 
+         finds himself hunting a new kind of fugitive when psychotic 
+         animal rights activist Benicio Del Toro becomes THE HUNTED 
+         ( http://www.screenit.com/movies/2003/the_hunted.html : [Del 
+         Toro] kills various people he claims have been sent to kill 
+         him; he also steals a person's bike)... otherwise it's Adam 
+         Sandler, Jack Nicholson, Marisa Tomei, and Jenna "Baywatch" 
+         Avid - together at last! - in bullying comedy ANGER MANAGEMENT 
+         ( http://www.capalert.com/capreports/angermanagement.htm : 
+         lesbian kissing and other lesbian and homosexual presences 
+         such as transvestism and snippets of stereotypical gayspeak) 
+         ... plus a wider release than you might expect for Australian 
+         "Lock, Stock and 2 Smoking Barrels" anti-American romp DIRTY 
+         DEEDS ( http://www.bbfc.co.uk/ : contains very strong language 
+         and strong violence)... or indeed from-the-director-of-"Ringu" 
+         subtitled Japanese chiller DARK WATER ( http://www.bbfc.co.uk/ :
+         contains strong psychological horror)... 
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> "Sorry to act like a pesky colonial, kind sirs", 
+         apologised reader RODNEY THAYER, "but 'WWF' [apparent source 
+         of spam in NTK 2003-05-02] reads 'World Wrestling Federation' 
+         to us email-ing fools on the left side of the pond. I trust 
+         you meant 'World Wildlife Fund'?" Get with the program(me), 
+         Rodney: the World Wildlife Fund became the only official WWF 
+         http://www.olswang.com/ip/legal_news/wwf_initials.html nearly 
+         two years ago, in a dispute settled by a cagefight deathmatch 
+         between World Wrestling Federation owner Vince McMahon and 
+         World Wildlife Fund champion Jerry "Giant Panda" Peterson 
+         (catchphrase: "Now *you're* the endangered species!")... the 
+         black-and-white controversies continued with NTK 2003-05-23's 
+         suggestion to shout "Look, a can of Guinness!" when the IRA 
+         satellite photos appear in the film "Patriot Games". "Bah! No 
+         proper Irishman drinks Guinness out of a [fecking] can!", 
+         objected PAUL DUNNE, apparently without realising that the 
+         film depicts an extreme and "ultra-violent" faction of the IRA 
+         - who, let's face it, might well be capable of *anything*... 
+         and MIKE ROGERS happens "to know for a fact" that Google's 
+         ranking system has "a filter list of Google-related words" - 
+         googlebombing or googledancing, for instance - that "cause an 
+         absolute demotion in the resulting pagerank of a page where 
+         the terms are used", providing a perhaps less conspiratorial 
+         explanation of Andrew Orlowski's semi-paranoid observations: 
+         http://www.ntk.net/index.cgi?b=02003-04-11&l=21#l . NTK's 
+         official position on this, and other Pagerank bleatings, is 
+         that the ordering of (say) the top 40 results from a database 
+         of *4 billion* might well be getting too complex for casual 
+         human observers to comprehend - hey, they could code a special 
+         case to deal with a million or so URLs and you might only see 
+         it in 1 search in 4000... while finally, STEPHEN LAVELLE wrote 
+         to express his gratified bafflement at all the "quite 
+         unfathomable people" who suddenly materialised on his 
+         unassuming "How much wood would a woodchuck chuck?" page [NTK 
+         2003-04-25], noting that he'd always found his - equally 
+         rigorous - analysis of sexual positions "far more diverting": 
+         http://www.maths.tcd.ie/~icecube/cgi-bin/index.php?page=sex 
+         (please excuse the wobbly handwriting)... 
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "still a good phrase to include in e-mail subject lines"
+            http://www.wired.com/news/business/0,1367,59089,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

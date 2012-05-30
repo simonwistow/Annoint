@@ -1,0 +1,334 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____24/04/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+           "Koko the gorilla will answer questions Monday on America
+               Online. Her tutor, Francine Patterson, will translate
+                              questions between AOL users and Koko."
+                                                 - AOL press release
+                                    I just had cybersex with a WHAT?
+                                                         (asks Koko)
+
+
+                               >> HARD NEWS <<
+                                 livid bruise
+
+         The week began with yet another Falco in the communal
+         morgue that is British Web design. Congratulations to
+         Andres Varela, who submitted his LOWE DIGITAL dead pool
+         prediction just minutes before being laid off from the
+         "reforming" Web house. To prevent NTK clogging up with more
+         bloated corpses anytime soon, we've taken up the kind offer
+         of those TeamManager folks and are have automated the whole
+         sick, morbid process. Rules are the same: choose the five
+         companies you expect to go Webmedia in our click-and-damn
+         Web page, and after the carnage, we hand out the spoils.
+         You *are* allowed to nominate your own company, but,
+         please, no individuals (apart from Nick Rosen who, by
+         popular demand, is a "special" case). Friends and relatives
+         of NTK may not enter. And neither can Paul McCartney, the
+         big cheat.
+         http://www.teammanager.com/falco/
+                                     - Gentleman: stall your engines
+         http://i.am/looking/
+                               - Andres' reward: a free job listing!
+         http://www.revolution.haynet.com/wall/threads/000258_000464.html
+                                          - sounds a little worried?
+
+         Blue scree- uh, skies ahead for Windows 98, as MICROSOFT's
+         latest meet with the US Department o' Justice played to
+         their side. Appeal court judges showed the requisite amount
+         of boredom when faced with the state department's case
+         against integrating Explorer with Windows 95, and noted for
+         the first time that this is all going to be moot when Win98
+         finally ships. Meanwhile, Jim Barksdale was upbeat about
+         Communicator's chances against 98, and poo-pooed the latest
+         buyout rumours. "We're a public company, so we're for sale
+         every day", he said. Hurry while stocks last!
+         www.cnn.com/TECH/computing/9804/20/gates.comdex/gates.30.240.mov
+          - "he won't hit me in front of all these people, will he?"
+         http://204.57.138.9/cDc_files/cDc-351/
+         - blue screens, and worse: Unix Fu arrives on the Win platform
+
+         PLAYBOY Enterprises continue to prove that big money from
+         the Net isn't *just* through porn, but also via America's
+         second-favourite hobby: litigation. The company's already
+         been awarded millions for "misuse" of its copyright online,
+         including suing one of their own models for describing
+         herself as "1981 Playmate Of The Year". And they've just
+         won $3million from AsiaFocus International for using the
+         word "playboy" in their meta-tags. Possible implications
+         for freedom of speech on the net are... ah, yadda yadda
+         yadda. What we want to know is: apart from their lawyers,
+         who's searching Altavista for Playboy, anyway? It's not
+         like the URL's that hard to guess...
+         http://www.playboy.com/
+                         - maybe Keith Teare's RealNames had a point
+         http://www.irational.org/
+                               - still looking for a good bunting...
+         http://199.72.49.25/docs/0198121555.html
+                               - OUP had better be careful out there
+
+         And well done to London's INSTITUTE OF CONTEMPORARY ARTS,
+         who've had anti-elitist thieves liberate the bulk of their
+         workstations from their Sun-sponsored New Media Centre.
+         Sure, sticking the "Media Centre" in the middle of the bar
+         didn't strike us as a very smart move, especially after
+         spending an evening watching drinkers type aimlessly into a
+         root shell. The burglars worked at a less crowded time -
+         the middle of the day - and avoided capture by leaving all
+         the monitors, so no-one noticed anything was wrong. Maybe
+         they even turned up naked and pretended it was all part of
+         some ultra modern mime-ballet, or "de-installation" as we
+         think they're called. An E10000 server (worth around
+         250,000UKP) may have been among the loot: but as our
+         tipster writes, "with only about 15 manufactured so far,
+         it's going to be easy to spot it in a car boot sale."
+         http://www.newmediacentre.com/
+                                - a lot faster now the server's gone
+         http://www.sun.com/servers/ultra_enterprise/10000/
+            - police are looking for a Genet reader with an interest
+                                           in large scale e-commerce
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         WEBSPACE MAGAZINE profiles New Media Factory: "Business for
+         NMF is good", "The Factory also has an eye to the future":
+         NMF went Falco last week... FUTURE publishing sold - back
+         to founder Chris Anderson... "Microsoft PR Operates Openly
+         and Ethically," say MICROSOFT PR OFFICIALS... Game
+         journalists may be influenced by PR freebies, uncovers
+         SALON... NETSCAPE to offer free e-mail, inevitably...
+         IE4.0's Content Advisor won't let you see Microsoft
+         Europe's Website...  TELETUBBIES site "educational", misses
+         apostrophe in "browsers"... 83% of British consumers "want
+         to visit local bank"... Times Interface's DR KEYBOARD
+         claims he *did* know how PGP worked. Wrong *again*...
+         DRAGON SYSTEMS claim copyright for phrase "say what you
+         see": somebody tell Roy Walker... Error message of the
+         week: "The Microsoft Exchange Information Store service
+         depends on the Microsoft Exchange Directory service which
+         failed to start because of the following error: The
+         operation completed successfully"...
+
+
+                              >> EVENT QUEUE <<
+                             social, engineering
+
+         Freaks of nature, inexplicable appearances, alien behaviour
+         - and *that's just the delegates* to expect at THE FORTEAN
+         TIMES UNCONVENTION 98 this weekend [25-26/04/98]. Starts
+         10.30am Sat, at the University of London Union, Malet
+         Street, London; admission 25 of your Earth pounds for both
+         days, 15 per day separately; attractions include the US
+         editor of Strange Magazine, plus the world's worst sci-fi
+         writer, Lionel Fanthorpe, who'll - hopefully - be
+         reproducing Fortean TV's pioneering paranormal filk songs.
+         UnConvention 98 is presented "in association with Agfa
+         Digital Cameras and Scanners" which, given the ease of
+         Photoshop fakery nowadays, is surely taking the piss.
+         http://www.forteantimes.com/uncon/
+          - but you clairvoyants knew all about this already, right?
+
+         Access... denied! Looks like Simon Gardner isn't putting
+         down his hard-earned cash (what is you do again, Simon?) to
+         sponsor an Access All Areas this year. So, at short notice,
+         the always-slightly-more-socialised northern phreaks have
+         thrown together a weekend of fun in BLACKPOOL, based around
+         the commonly held hacker principles: a) theme rides are
+         fun, b) trying to get into a contemporaneous proper
+         security conference is fun, c) eating chips is fun, d)
+         getting drunk is fun, and e) sleeping on a floor in a
+         specially-rented flat with a bunch of overexcited,
+         overinformed, grease-smeared layabouts like yourself is...
+         also a good idea. E-mail uk@2600.com for details of
+         accommodation; otherwise, check out the URL for the
+         "itinerary". Quick, quick: the weekend starts here.
+         http://www.aom.co.uk/dns/
+                                              - Blackpool crack rock
+         http://members.aol.com/datanetsec/
+                                            - said contemporaneosity
+         http://www.infosec.co.uk/
+         - and for you southerners, a London security conf [28/04-30/04]
+
+
+                                >> TRACKING <<
+                           thank god you found her
+
+         With the Kopyright Kops coming down hard on even MAME ROM
+         sites, lovers of retro games might be close to despair.
+         Hehehe. As if. For, tumbling out of the void, careening
+         wildly to save us all comes: the Originator, the Ur-
+         shoot'em-up, the Pride of '61, the only killer app the PDP-
+         1 ever needed, the reason why UNIX was written, the only
+         excuse we ever had: SPACEWAR! (Presented in living Java.)
+         http://ars-www.uchicago.edu/~eric/lore/spacewar/spacewar.html
+         - this article made me read EE "Doc" Smith at too early an age
+         http://www.baumgart.com/rolling-stone/spacewar.html
+         - Stewart Brand presents type-in code in a 1972 Rolling Stone
+                                       "Spacewar serves Earthpeace."
+
+         Talking of copyright, we're interested in the moral
+         quandaries created by AmpRadio, the streaming MPEG3 server
+         that allows listeners to rebroadcast their choice of songs
+         to other clients. In an interview on mp3.com, its author,
+         Geoffrey Elliott, seems to suggest that because these DJs
+         don't need access to the MP3 file, legal microstations
+         could grow up. We're not so sure. For the meantime, it's
+         hanging out on a obscure port number near you.
+         http://www.cybersnot.com/ampRadio.html
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         SENSAR, company behind the new eye-scanning ATMs, has a
+         pyramid as a logo. fnord... http://dd.sh/ ... SUPERMAN
+         REBORN dead - time to resurrect the Kevin Smith script?...
+         www.undergroundlondon.com/bunny/ ...Catholic priest says
+         VATICAN in contact with extraterrestrials: well, we'd have
+         hoped so... http://www.drue.com/sleeplate/ ... current
+         frontrunners in Time's "Most Important People of the 20th
+         Century" include ROLF HARRIS and Dune's PAUL ATREIDES -
+         www.pathfinder.com/time/special/gdml/time100report.html ...
+         JOBS to appear on Letterman?... Bill Gates: REBOOT fan...
+         Next for Open Source list: IBM... best Web misspelling:
+         "Demonination"... nose leeches... hero for our times:
+         www.bluesnews.com/halflife/gordon_freeman_bio.html ...
+         well, *this* looks familiar: www.techdirt.com/uptodate/
+
+
+                               >> GEEK MEDIA <<
+                        friends who don't answer back
+
+         TV>> no more Knight Rider or Street Hawk in the eco-
+         friendly '90s: PACIFIC BLUE (6pm, Sat, C5) presents beach
+         cops - on pedal-bikes!... the "get more ratings then get
+         the whole series cancelled" lesbian episode of ELLEN is the
+         main excuse for C4's COMING OUT NIGHT (9pm-5.40am, Sat,
+         C4), "a theme night exploring gay life and, specifically,
+         declaring oneself a homosexual" (thank-you, Radio Times).
+         Maybe it'll have a few surprises of its own, thanks to
+         "special guests" Alan Davies, Ulrika Jonsson, and Barbara
+         Windsor... it's before Thunderdome, but Mel Gibson's still
+         going downhill fast with MAD MAX 2 (10.55pm, Sat, ITV)...
+         similarly inspired, Bruce "Tron, Commander Sheridan"
+         Boxleitner sticks some WW2 fighter parts onto cars to
+         construct failed Glen A Larson pilot ROAD RAIDERS (3.10pm,
+         Sun, LWT + some regions)... Comic Strip director Stephen
+         Frears misses his chance to do a Brit version of BMX
+         Bandits in THE GRIFTERS (11pm, Sun, BBC2)... while Crichton
+         tech-thriller RISING SUN (10pm, Sun, C4) was widely
+         perceived as inflaming anti-Japanese feeling during
+         investigations into Nintendo's US business practices...
+         William Gibson's X FILES (9pm, Sun, Sky1) is just like
+         season one episode, "Ghost In The Machine" - ie, rubbish...
+         in a possible AOL-appeasing move, they've now changed the
+         title of the net-based remake of SLEEPLESS IN SEATTLE (9pm,
+         Mon, ITV) from "You've Got Mail" to "You Have Mail"...
+         what, they thought he'd be so taken in by her chummy charms
+         that he'd just admit the whole thing? strangely, this
+         doesn't happen when RUBY WAX MEETS: OJ SIMPSON (10.15pm,
+         Wed, BBC1)... HORIZON (9.30pm, Thu, BBC2) focuses on movie
+         special effects in movies, some of which are apparently
+         *computer generated* nowadays... cartoon WAYNEHEAD (4.20pm,
+         Thu, ITV) is "drawn from the real-life experiences" of
+         Damon "Last Boy Scout" Wayans, and, let's hope, is like a
+         cross between Eraserhead and Wayne's World...
+
+         FILM>> it's essentially the Bill Murray/ Woody Harrelson
+         10-skittle gross-fest Kingpin, plus the usual aimlessly
+         rambling Coen brothers nonsense, and Jeff Bridges as (or
+         not as) THE BIG LEBOWSKI (imdb: comedy / crime / mystery /
+         thriller / rug / porn-makers / wheelchair / paraplegic /
+         hippies / police-brutality / paedophilia / dreams / bowling
+         / kidnapping / nihilism / artist / vietnam)... in one of
+         those odd coincidences, it's a *different*Joel Cohen who
+         wrote lame multiracial buddy movie MONEY TALKS (imdb:
+         action / comedy / murder / media), starring the screaming
+         camp DJ from The Fifth Element... but it's the *same* Jon
+         Voight and Claire Danes both appearing in U TURN (imdb:
+         crime / incest / drama / rape / black-comedy) and THE
+         RAINMAKER (MPAA rated: PG-13 for "a strong beating and
+         elements of domestic abuse")... Rainmaker is another by-
+         the-book John Grisham adaptation, dull if you'd hoped Matt
+         Damon was going to do Good Will Hunting II: "Now the
+         hunting - has become *the hunted!*"... while U Turn is
+         Ollie Stone's typically incoherent rework of new noir like
+         Red Rock West... talking of which, the novelty of reuniting
+         Linda "Last Seduction" Fiorentino with David "NYPD Blue"
+         Caruso is the only promising facet of BODYCOUNT (imdb:
+         crime / art-theft / comedy / drama / heist / doublecross /
+         vulgarity / murder)... which is more than can be said for
+         the direct, Harrison-Ford-free remake of The Fugitive, US
+         MARSHALS, whose description (imdb: action / thriller /
+         falsely-accused / wrongly-convicted / murder / police /
+         plane-crash / escape / chase / fugitive / escaped-convict)
+         could surely *never* be mistaken for its predecessor...
+
+         EDIBLE>> reader Josh Roulston draws our attention to
+         Kellogg's BRAN FLAKES "changing their name to HEALTHWISE
+         <insert laxative joke about what they should change their
+         name to here>". Thanks Josh, though we suspect that this
+         may be another "Mini Eggs" case [see NTK 23/01/98] of a
+         company trying to differentiate a product whose original
+         name ("Bran Flakes") is too generic to be successfully
+         trademarked (compare the Kellogg's to the very similar blue
+         and white Tesco's BF box). BTW, at time of going to press,
+         the domain branflakes.co.uk remains unreserved, as does the
+         slightly similar-sounding billgates.co.uk ... this month's
+         taste sensation: Cross & Blackwell's oddly titled NEW WAVE
+         "Mediterranean Style Pork Sausages With Tomatoes And Herbs"
+         - largely identical to Herta frankfurters, but with a yummy
+         almost-exotic spicy flavour, and last seen on special offer
+         in some branches of Waitrose... product name of the month:
+         Jaffy's CHE PITTAS "Heat 'n' Eat Cheese Filled Pittas"
+         (seen in Tesco) - tragically, no relation to Che Guevara,
+         the South American freedom fighter, but a "super new
+         teatime/ anytime snack" that cleverly pre-packs the
+         "delicious melted Dutch Gouda cheese" into the pitta for
+         you... abomination of the century: Silver Spoon's FRUIT
+         SPOONERS, a range of individually potted, flavoured
+         "compotes" from the sugar manufacturer - presumably
+         targetting buyers who eat just the watery jam bit of "fruit
+         corner" yoghurts and then throw the rest away... new source
+         for tracking US consumer trends: http://www.brandweek.com/
+         - 'cos they always arrive here eventually. We're already
+         drooling over this one: "Counting on the broadbased appeal
+         of Nabisco's ubiquitous sandwich cookie, Kraft Foods'
+         cereal division is planning a $45 million-plus marketing
+         splash for OREO O'S CEREAL this August, hoping to create
+         excitement among Oreo lovers both young and old and bring
+         much-needed spice to the sluggish ready-to-eat cereal
+         category"...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+   It is registered at the Post Office as "Gary Numan on 3 cups of coffee".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

@@ -1,0 +1,330 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-07-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Muslim insurgents battling Philippine troops in the south
+        have a new weapon. When the shelling and gunfire let up, they
+        send a barrage of scathing insults to Manila's forces by cell phone."
+http://www.nytimes.com/library/tech/00/07/biztech/articles/05talk.html
+                           ...W SHL FGT U N V BCHS! W SHL NVR SRNDR!
+
+
+                                >> HARD NEWS <<
+                                the P. of A.U.'s
+
+         As the anti-spamming civil war enters another round of
+         mud-slinging, allow us to slide into the only language the
+         computer press understands: a straight fight between good and
+         evil. Mainly, GOOD PAUL VIXIE vs EVIL PAUL VIXIE. If Vixie
+         is bad, he (and his boss at ABOVE.NET, Dave Rand) have been
+         route-blackholing the anti-spam database ORBS just because
+         they're on the board of fellow anti-spam list MAPS. And MAPS
+         is going to start charging for some of its services, and
+         they want stop ORBS from queering their pitch. That's what
+         Alan Brown, ORBS' one-man anti-spamming army, rather
+         enthusiastically intimated when he shut down his service in
+         protest this week. And Alan Cox concurs. So it must be true.
+         And if Vixie's *that* evil, then YESMAIL's law suit against
+         MAPS is right too: the intimation there being that Vixie is
+         putting Yesmail into MAPS' known spammers blackhole list,
+         because he's on the board of WHITEHAT, Yesmail's main
+         competitor in the lovely opt-in commercial e-mail world. But
+         hold on: isn't Vixie a net.god? Didn't Vixie maintain BIND?
+         Isn't Vixie running MAPS as a non-profit corp? And if Vixie
+         is a *honourable* man, then Above.net is dumping ORBS
+         connections internally because ORBS is breaching Above.net's
+         Acceptable Use Policy by proactively scanning remote
+         machines. And since ORBS's upstream provider is an Above.net
+         customer and has chosen to *tell* people to route ORBS
+         connections through Above.net (rather than more viable
+         alternatives), that means Above.net's re-routing only
+         *accidentally* routes non-Above.net connections into
+         /dev/null . It's mainly ORBS' upstream provider that's
+         caused the problem. And - wait a minute - if Vixie is
+         *good*, then Yesmail is being blackholed because loads of
+         people have complained to MAPS about Yesmail signing them up
+         without their permission. Which they have. Good? Bad? Strap
+         him into the IETF-approved witch-dunking apparatus immediately!
+         http://tbtf.com/archive/2000-07-20.html#s03
+                                 - if that wasn't clear enough...
+         http://www.vix.com/
+                                     - and Vixie is an honourable man
+         http://www.above.net/company/management.html
+                                       - money: the evil of all roots
+
+         The UK government's new TrustUK scheme was unveiled this
+         week, designed, no doubt, to stop PowerGen from storing
+         7,000 credit card numbers on its Website ever, ever, again.
+         Compliant Websites will be able to wear the little Java logo
+         - a guarantee of security, and good old British corporate
+         responsibility in e-commerce - with pride. Typically, on
+         their first day, their validation program didn't work, and
+         the e-mail and complaints form bounced with a mail loop.
+         Also - MAPS take note - their code of practice explicitly
+         permits unsolicited commercial e-mail. No, we're not making
+         that up. Why doesn't the rest of the world just quarantine
+         us now, and get it over with?
+         http://www.trustuk.org.uk/
+                 - oh, and the Java logo was written in Canada. Sigh.
+         http://www.trustuk.org.uk/download/ApprovalsCriteria.pdf
+               - Section 6.10. By all means read it twice to be sure.
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "serious trouble" is JOHN YOUNG's middle two names:
+         http://cryptome.org/fbi-psia.htm ... one of those "beyond 
+         satire" weeks at: http://mosr.net/macosrumorz/ ... FAST 
+         COMPANY oddly excited about "Ideavirus" meme^H^H^H^H ideavirus
+         http://www.fastcompany.com/online/37//ideavirus.html ... 
+         JIMMY SMITS still battling "fiery Hispanic" typecasting:
+         http://www.starwars.com/episode-ii/characters/bail_organa.html
+         ... http://www.musiciansfriend.com/ does cover version of
+         http://www.amazon.com ... SCOOT search for "B&Q" in Hull:
+    http://www.scoot.co.uk/company/company.asp?comp=B+%26+Q&town=Hull
+         prefers category "Xxchristmas Novelties in Gipsyville"... "A
+         revolution is happening - it's called e-business, and it is
+         based on the largest communications network in the world, the
+         internet", confides http://www.oracle.co.uk/crm11ipartners/
+         ... asked to help find a new name for freebie HomeSite clone
+         1STPAGE, 14% of users vote for - a dummy list box item!:
+    http://polls.vantagenet.com/zpolls/count.asp?rlt=112654653&id=112654653
+         ... software store at http://www.amazon.co.uk recommends running 
+         FREEBSD 3.3 on "Platform: Linux"... Ninfo-FALCO-mania! ... "PhD
+         programmer" required to make sense of latest MARK WARD scare:
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_842000/842624.stm
+         "IT'S TOTAL DEVASTATION" boasts http://www.thorpepark.co.uk/ :
+         http://news.bbc.co.uk/hi/english/uk/newsid%5F845000/845267.stm
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         "How about giving those of us way up North a bit more notice
+         [of upcoming events]?" inquires reader TONY BLEWS. Well,
+         admitedly, we've left it a bit late to plug non-profit get-
+         together WEBZINE 2000 (Sat 2000-07-22, San Francisco), where
+         the theme is: how the tide is turning against professional,
+         well-funded content operations, with the long-term goal of
+         *running those varmints out of town*. But, if you're in the
+         area (that left-hand half of the USA, we mean), why not make a
+         week of it, dropping by SIGGRAPH (from 2000-07-23, New
+         Orleans) en route to DEFCON 8.0 (from 2000-07-28, Las Vegas) -
+         what better way to celebrate http://www.sysadminday.com/ ?
+         http://www.webzine2000.com/
+         - also, out of this lot, the highest female:male speaker ratio
+         http://www.siggraph.org/s2000/
+          - Siggraph 27? That '73 show must have been a real stormer...
+         http://www.defcon.org/
+         - some streams more popular than others: http://www.h2korgy.net/
+
+         Back in the UK, we're stuck with the multi-layered ironies of
+         eco-unfriendly direct action BOYCOTT THE PUMPS WEEK (ah, but
+         what if they were going to spend that petrol tax on funding
+         RIP measures, eh?) - potentially bad news for the presumably
+         petrol-powered ROBOT MAYHEM, the live "Robot Wars" event (from
+         Mon 2000-07-24 to 2000-08-03, St Albans). Unless, that is,
+         they've taken advantage of recent "gastrobot" developments,
+         and modified Sir Killalot, Matilda, Sgt Bash et al to feed on
+         animal and/or human flesh...
+         http://www.zdnet.co.uk/news/2000/28/ns-16749.html
+           - taking that FBI "Carnivore" concept a little too literally
+         http://www.robotwars.co.uk/
+         - "Mayhem" does have those mass [human] slaughter connotations
+         http://www.enoughisenough.org.uk/
+           - text is all one huge GIF; meta tags include "tax, car, sex"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Thanks to the usual sources for pointing us to the APACHE
+         JAVA project, which, like you, we'd heard of but not yet
+         investigated to point of gibbering system shock. They're
+         doing *far* too much here: as well as now being the home
+         reference implementation for Java Servlet spec, they're
+         branching out into terrain reserved for
+         world-domination-level open source projects. To wit: a bunch
+         of groupware frameworks, including JAMES, the inevitable JSP
+         for sending and receiving e-mail. Gulping back our natural
+         scepticism regarding Big Projects, java.apache.org does seem
+         to be where all server-based Java action is occurring these
+         days, and if your knowledge of that language extends only as
+         far as that test Pong game you wrote in 1997, this might be
+         the place to have another look. Wish them luck: apart from
+         anything else, this looks to be where the last stand against
+         Microsoft's .NET and C# is going to happen.
+         http://java.apache.org/
+                                     - bugger all docs. a *good* sign
+http://www.salon.com/tech/feature/1999/11/16/microsoft_servers/print.html
+              - how Apache pulled our arses out of the fire last time
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         sod the BIG BROTHER residents - snoop on the dev team via
+         directory browsing: http://www.bigbrother.terra.com/live/ ...
+         next APPLE wireless mouse not optical - but GPS... HARRY POTTER
+         turns to dark side: http://www.nationallampoon.com/potter.html
+http://www.fflibraries.org/Book_Reports/HarryPotter/HarryPotterTakesDrugs.htm
+         PIGDOG *almost* got RMS to call it "Linux", rather than "GNU/
+         Linux": http://www.pigdog.org/interview_with_stallman.html ...
+    http://www.scripting.com/images/microsoftExecsListeningToGates.gif -
+         "Five criminals. One line up. No coincidence"... NEIGHBOURS'
+         Harold Bishop "forgot" experiments with body-melting drugs:
+         http://www.thateden.demon.co.uk/prisoner/showb.htm#bodmel ...
+         keep http://www.weblife.org/humanure/chapter8.html away from
+         http://biz.yahoo.com/bw/000705/ca_shaman_.html ... speaking of
+         POOH: http://www.compsoc.man.ac.uk/~assassin/poohbear.mov ...
+         over-literal interpretation of the phrase "drinking game":
+         http://www.theparkbench.co.uk/superlager/toptrumps.htm ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> over on On Digital, BBC Knowledge is having some sort of
+         "Sci-Fi Night", profiling Aldous "Brave New World" Huxley in
+         BOOKMARK (8pm, Fri) and - hopefully more insightful than last
+         week's Blade Runner "Future Noir" knock-off - Dick, Dick and
+         yet more [Philip K] Dick in ARENA (9pm, Fri)... back on earth,
+         there's David Cronenberg's atypically entertaining body-horror
+         midlife-crisis metaphor THE FLY (12midnight, Fri, BBC1)...
+         and, in the ongoing absence of "Starship Troopers: The
+         Series", viewers seeking an early-morning animated rush are
+         advised to wake up to Hanna-Barbera manga-alikes THE POWERPUFF
+         GIRLS (8.30am, Sat, C5)... BBC2 chases those early-Saturday
+         morning ratings with HARD QUESTIONS, SOFT ANSWERS's look at
+         object-oriented programming (9.35am, Sat, BBC2)... I LOVE THE
+         SEVENTIES, declares BBC2 (from 8.55pm, Sat), largely because
+         they're such easy source material for 10 themed nights of
+         cheap archive clip-shows... while Emmerich, Van Damme and
+         Lundgren - together at last! - pay tribute to "The Terminator"
+         in bus-powered shoot-'em-up UNIVERSAL SOLDIER (11.20pm, Sat,
+         ITV)... Garry "Larry Sanders" Shandling and Tea Leoni guest in
+         another self-referential X FILES (9pm, Sun, Sky1)... bad-taste
+         Zucker-style spoof HIGH SCHOOL HIGH (9pm, Tue, C5) starts
+         well, until it actually turns into "Dangerous Minds"... NTK
+         staffer Danny O'Brien claims to be "spoofing" futurism in
+         repeated PREDICTIONS (10.20pm, Tue, BBC2)... and the spectre
+         of Meridian's "Cyber Cafe" haunts the late-night schedules
+         once again - as THE WEB REVIEW (12.30am, Tue, ITV), with
+         Richard Topping, fresh from that noted hotbed of new talent,
+         ".tv" http://www.tvchannel.co.uk/tv_shows/presenters/ , and
+         Kath Harvey - former pundit on Carlton World's Net.Comedy
+         http://www.jgpm.co.uk/kath_harvey.htm ... *someone* sure likes
+         Bruce Willis caper-flop HUDSON HAWK (9pm, Wed, C5) - last
+         shown about 8 months ago on ITV... and LAMARR'S ATTACKS
+         (9.30pm, Thu, BBC2) begin with his lambasting of "morality" -
+         not specifying whether he's objecting to "conventional"
+         morality, "Judeo-Christian" morality, or just "the overall
+         concept of having some sort of moral framework" in general...
+
+         FILM>> following "Fever Pitch", Nick Hornby continues his
+         "blokes, relationships and their obsessions" theme, though
+         instead of picking one of the more interesting fixations -
+         World War Two, or retro video games - he gives John Cusack the
+         relatively socially acceptable pastime of listening to old
+         records, in HIGH FIDELITY (http://www.screenit.com : "Iben
+         Hjejle plays [Cusack's] most recent live-in girlfriend who's
+         recently cheated on and broken up with him and has sex with
+         him in both the past and present [as well as with another man
+         and reportedly had an abortion in the past]") - which, for a
+         film supposedly obsessed with pop music, hardly seems to be
+         based around the "Kids From Fame" song at all, to the extent
+         of not even including it on the soundtrack!... Hugh Laurie,
+         Geena Davis, that speccy kid from "Jerry Maguire", and a CGI
+         mouse - together at last! - in kids' cross-species adoption
+         comedy STUART LITTLE (imdb: cat-versus-mouse / part-animated /
+         central-park / part-computer-animation / fake-parent /
+         adoption / mafia / anthropomorphic / based-on-novel / cat /
+         family-gathering / family-life / boat-race / family-
+         relationship / kids-and-family / cat-actor / family / mouse)
+         ... so, our - reluctant - recommendation of the week goes to
+         Christopher Lambert's patently ridiculous space-prison sequel
+         FORTRESS 2: RE-ENTRY (http://www.cndb.com : "Liz May Brice
+         [10th Kingdom, A Touch Of Frost]... reveals her taut, olive-
+         complected body a couple of times in some juicy albeit
+         somewhat discreet co-ed shower scenes. Fans of Pam Grier will
+         enjoy her over-dressed, scenery-chewing role in this cheeky
+         sci-fi number") - if only for retaining the "Men-Tel"
+         Corporation, which everyone immediately assumes is pronounced
+         "Mental" instead...
+
+         MAGS AND BAGS>> "You thought the sealed PVC wrapper that EDGE
+         came in was stupid?" chuckles too-much-time-on-his-hands NTK
+         correspondent BEN MOOR. "Wait till you see the cut-throat
+         competition in the Free-Bags-With-Women's-Mags arena!" He goes
+         on to list no less than *four* current examples, ranging from
+         MARIE CLAIRE's "Only Bag To Be Seen With" (UKP2.70) down to
+         MORE's "Free Bag... For Lazy Beach Days And Sexy Club Nights"
+         (UKP1.45). Most distinctive at this stage is SHINE's "Funky
+         Summer Bag In A Choice Of Three Colours" (UKP2.50) - a lurid,
+         i-Mac-like selection of "zingy yellow", "tangerine orange" or
+         "hot pink", while comparatively best value for money is the
+         "Worth UKP20" "Overnight Bag" that doesn't necessarily lead
+         you to any particular conclusion about the readers of WOMAN'S
+         JOURNAL (UKP2.70)... bags of comments too (and none of them
+         good) about new Future Publishing "for the online creative"
+         effort CRE@TE ONLINE - presumably pronounced "Cre-at-te", or
+         maybe just "Crete". Following the throwing-himself-at-our-
+         mercy approach pioneered by Times Interface's Dr Keyboard [NTK
+         2000-05-12], they actually sent us the first issue, goading us
+         to spot the "obvious errors". Tragically, by that point, MATT
+         JONES had already bought a copy, and was already frothing over
+         the contents - by issue 2, SIMON BATISTONI had joined the
+         fray, citing "horrendous cover-price, over-designed layout,
+         exclusive focus on people who think a 'useful website' is one
+         with a 5mb flash intro and no 'skip intro'" (as opposed to,
+         say, http://www.createonline.co.uk/ ), and, on the strength of
+         ads like http://www.ntk.net/2000/07/21/dohnathan.gif ,
+         nominating it "Nathan Barley's all-time favourite magazine",
+         triumping over even the similarly punctuation-mark afflicted
+         "Wallpaper*"... which brings us to recent revelations that the
+         anonymous "boss" of TVGOHOME was - as even the most cursory of
+         whois lookups revealed - former PC ZONE misanthrope CHARLIE
+         BROOKER all along (did you guess, readers?) who, perhaps more
+         surprisingly, has part-sold his scathing critiques of soul-
+         destroying, unimaginative TV to none other than GMG Endemol,
+         makers of - well, Big Brother, Ground Force, The Pepsi Chart,
+         Ready Steady Cook and Changing Rooms. The full story appears
+         at http://www.zeppotron.com/press_release.html - in a personal
+         communication, echoing nothing so much as Robert Oppenheimer's
+         famous "Shiva" quotation, "I *am* Nathan Barley," Brooker
+         admits. "Woo hoo." Hey Charlie, don't feel bad about it: all
+         NTK's "proteges" are destined to turn against us in the end -
+         a process we secretly foster and look forward to - and we
+         won't stop linking to it in Geek Media. Or *should we?*...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+               "completing the series: God, Satan, Nietzsche ..."
+       http://www.salon.com/tech/feature/2000/07/18/advogato/index1.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,366 @@
+
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-05-21_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "LUCAS: That's sort of why I say a benevolent despot is
+         the ideal ruler. He can actually get things done.
+         The idea that power corrupts is very true and it's
+         a big human who can get past that."
+                     - from (suppressed?) New York Times interview at
+                  http://www.dejanews.com/=dnc/getdoc.xp?AN=458243634
+        ...and we hear George is *looking* like Jabba these days, too
+
+
+                                >> HARD NEWS <<
+                           we sound like schnews
+
+         SORM-2, the Russian security service's plans to monitor the
+         Internet, finally broke this week, with one Volgograd ISP
+         manager, Nailj Murzahanov, deciding he'd had enough, and
+         suing the spooks in court. SORM-2 is a Tap-You-Yourself
+         policy by the cash-strapped KGB successors, the FSB: it
+         requires ISPs to connect their local FSB office for free to
+         their pipe, with agents able to sniff any and all packets
+         (incoming and outgoing) from the comforts of their offices. 
+         Oh, and the ISPs have to provide free support and training.
+         Weirdly, in the year since the proposals were leaked, almost
+         none of Russia's 350+ ISPs have protested. Nailj, who runs
+         Bayard-Slavia Communications tried, and says he received
+         death threats and - almost as bad for a Russian - an
+         unscheduled audit from the dreaded tax police. Finally he
+         was given just one month to be the first ISP to implement
+         SORM. After that, the FSB cut off his feed. Now he's taking
+         them to court for constitutional improprieties. Nailj's
+         fellow sysadmins, though, remain quiet. But then, why
+         make a fuss? As Andrei Sibrant, of Moscow's Glasnet said
+         last year: "there is no reason for human rights groups who
+         know nothing about the business to provoke a conflict".
+         http://www.sptimes.ru/archive/times/466/internet.htm
+                                        - and then they came for root
+         http://www.libertarium.ru/eng/sorm/index.html
+       - still masters of terror, as the X.25 references will confirm
+
+         Wouldn't happen here, of course. So, in other news: European
+         Justice ministers are meeting next week to discuss the all
+         new ENFOPOL proposals. These are, you'll recall, a draft EU
+         ruling that would require all Internet Service Providers to
+         set up "high security interception interfaces inside their
+         premises". Interfaces which would, if feasible, be linked
+         remotely to government security agencies. But this time you
+         don't get the death threats and the taxmen. But then again,
+         we wouldn't know, because no ISP has complained yet.
+         http://europa.eu.int/comm/dg15/en/intprop/intprop/copy2.htm
+             - too busy stopping them outlawing Web-caching, we guess
+         http://www.freepatents.org/
+             - or trying to stop them introducing software patents...
+         http://www.heise.de/tp/english/special/enfo/default.html
+             - bloody human rights groups trying to provoke conflicts
+
+         So, in a depressing week for civ libs, what can you do to
+         cheer yourself up? Well, perhaps not peruse DUNCAN
+         CAMPBELL's ECHELON report, with its perky descriptions of
+         NSA taps at MAE-East and MAE-West, and happy-smiley
+         descriptions of transatlantic mass interception technology.
+         But we *do* like the suggestion that spun out of one of its
+         discoveries. You knew, we assume, that the non-American
+         versions of Lotus Notes encode 24 bits of their 64-bit
+         encryption key with the NSA's key (thus making it possible
+         for the NSA to crack European companies' private
+         communications)? No? Oh. Sorry. Well, anyway: why not spend
+         this weekend reverse-engineering it, to discover what the
+         NSA public key actually is? That way, everyone can change it
+         on their copies of Notes so that the NSA can't snoop. And we
+         can all send them secure messages about exactly what we
+         think about all of this unchecked, unbalanced, undiscussed,
+         unpriced and, we'd suggest, unhinged surveillance apparatus.
+http://www.cs.ucl.ac.uk/staff/I.Brown/archives/ukcrypto/0399-0699/msg00661.html
+                                                     - your free hint
+         http://www.eff.org/descracker/
+                  - hey, and if it's <56bits, we can *become* the NSA
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         N64 down to UKP49... AUSTRALIA gives up zoning DVDs ...
+         TELEDESIC - F-ff-ff-fff--aallc ... now we know one paperless
+         office - http://www.ntk.net/doh/dabs19990521.gif ... 2038 METEOR
+         to arrive just in time to prevent UNIX date bug... DEJANEWS
+         *still* using Apache beta, a year on [NTK 1999-06-05]... E3
+         full of people claiming to be "JOHN CARMACK - id software"
+         ... SLATE advertising on Salon... a million jackpot if
+         you reach the end of http://www.camelot.co.uk/ ... REGISTER
+         too scaredy-cat to publish MI6 story ... "cre@ted.in.uk"? Oh
+         God... BOL says "Just William & Girls" by Richmal Crompton
+         will be published in 2008: scweaming until it's Y2K ... ESR
+         begs hackers to heal divisions, work on kindness, declares
+         RMS to have poor personal hygiene... RICHARD BRANSON
+         wanders out of live Webcast "to go to toilet" ... "Perhaps
+         you remember when computer magazines routinely carried
+         'Build your own PC in five minutes' type features. Not any
+         more. Today, it's not worth it." - COMPUTER ACTIVE 20 May
+         page 110... "Next Issue - Do It Yourself. We tell you how
+         to build your own computer" - COMPUTER ACTIVE 20 May page 93
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Maybe someone's accidentally kicked over the server for this
+         weekend's festival of CAPOEIRA 2000 - the Brazilian
+         martial-arts/acrobatic-dancing hybrid popularised by Eddy
+         Gordo from Tekken 3, and Gun's "Steal Your Fire" video (at
+         The Rocket, 220 Holloway Rd, London N7, tel 0171 684 1260)
+         http://www.slink.net/fantasma/
+                        - or maybe it's one of those "blocking" moves
+
+         ...apparently "Winn Schwartau" isn't a Dutch hacking tool,
+         but a highly respected non panic-monger in the steadily
+         grant-expanding field of INFOWAR CON '99 (1999-05-27/28,
+         Copthorne Tara Hotel, London)
+         http://www.infowar.com/Iwcon/IW99/conference_show.html
+                          - hey, you guys schwartau'd out my Windows!
+
+         ...the EROTIC OSCARS and SEX MANIACS BALL (Sat 1999-05-22,
+         The "Pleasure Rooms", London N17) prey on the deviants lured
+         to London by INTERNET WORLD (1999-05-25/27, Earls Court 2)
+         http://www.sfc.org.uk/oscars/
+                                    - bgcolor="#ff0088". Mmm, *sexy*.
+         http://www.internetworld.co.uk/
+                        - "Try it. Touch it. Test it." Mmm, *sexier*.
+
+         ...and at least one NTK staff member had agreed to speak at
+         this year's music-biz backslapping conference IN THE CITY
+         (1999-05-27/28, Glasgow Hilton), till it turned out they
+         weren't in the habit of paying accommodation or travel
+         expenses. That MP3 piracy must be hitting them harder than
+         we thought...
+         http://www.inthecity.co.uk/
+                    - can't afford to update last year's site either?
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         "This SETI@HOME screensaver's rubbish. I've been running it
+         for weeks and haven't found a single alien", writes one
+         angry correspondent. "Oh, *sure* I'm looking for aliens with
+         my spare processor cycles. NASA=NSA man!" adds another.
+         Probably enough paranoia for us this week. Nonetheless at
+         least some of you should start training up on the peculiarly
+         hibernian SPACE INVADER screensaver, an emu-perfect
+         rendition of the 1978 classic. You know, just in case.
+         http://setiathome.ssl.berkeley.edu/
+       - we reckon we're just MPEG encoding the Arecibo CD collection
+         http://come.to/invadersaver
+                                        - come to ... Visual Basic...
+
+         Many fans had nothing but praise for its technical
+         achievement, but one critic in particular - NTK's Lloyd Wood
+         - felt the need to voice his disappointment over the
+         much-publicised "new chapter" in ASCIIMATION STAR WARS. "The
+         animation is amazing," Wood concedes, "particularly when you
+         read the FAQ and you realise that the author doesn't seem to
+         have heard of Unix terminal support, curses etc and he's
+         doing it all in a text editor and displaying chunks at a
+         time. He's not generating deltas." Concerned by the
+         creator's status as a lone auteur, Wood advises: "Somebody
+         find a copy of the Twilight Zone VT100 animation, send it to
+         him (and send me a copy), and explain how he can view it.
+         Then explain rendering deltas using terminal support so he
+         can do ASCII-MPEG, introduce non-flickery special effects,
+         and call it 'Star Wars - the Special Edition'".
+         http://www.fortunecity.com/tatooine/lucas/339/page1.html
+                                      - requires THX-enabled Java 1.1
+         http://www.velkro.net/bow/bow9.txt
+                                    - features excellent "N4rq V4d3r"
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         XSL vs CSS: let battle commence!... is this a joke? [Y/N]:
+         http://shadow.ieor.berkeley.edu/humor/ ... View Sourcing QNX
+         auctions... So, is PETER LLEWELLYN going into space, or
+         isn't he?... Whatever happened to JOEL FURR? Did he end up
+         like we all imagined he would?... one way to stamp out MAME
+         piracy, we guess: http://www.midwayarcade.com/locations ...
+         http://www.csd.uch.gr/~asidirop/pozdrav1.jpg ... Arf, arf!
+         ZENO humour: http://www.hcs.harvard.edu/~demon/ ... PATRICK
+         MOORE pronounces Websites as "w w w stop bbc stop co stop
+         uk" - and now must we all ... Death of USENET predicted:
+         http://x4.dejanews.com/=dnc/getdoc.xp?AN=339458840 ... still
+         spotting marketing people with "http:\\" in their sigs (step
+         forward this week, JULIE PEARCE, marketing manager of
+         Mediasurface) ... these aren't the PREQUELS you're looking
+         for? http://members.aol.com/moseisleym/sw-main.html ... here
+         are data-points your team leader has been requesting:
+         http://www.cynicalbastards.com/wankometer/ (apparently
+         http://www.sun.com/sims/hotnews/outsource.jhtml is in the
+         lead) ... now the press furore is over: who's next?
+         http://www.insomniazine.co.uk/celebrities.html - or could
+         be decoys: http://members.tripod.co.uk/humphrey/william.htm ...
+
+
+                               >> GEEK MEDIA <<
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> a plot we can all relate to: three kids raise 100
+         dollars to see Melanie Griffith naked, then get her to marry
+         their dad when they realise they've been ripped off, in
+         consumer-conscious prostitution comedy MILK MONEY (10.55pm,
+         Fri, C4)... an unmissable sweeps episode of FRASIER (10pm,
+         Fri, C4)... plus, The Pretenders and country legend Steve
+         Earle headline what might be a special former heroin users'
+         edition of LATER WITH JOOLS HOLLAND (11.20pm, Fri, BBC2) -
+         though, in a way, aren't they all?... THE PASSWORD IS
+         COURAGE? (11.55am, Sat, BBC2) - no, the password must
+         contain at least one non-alphabetic character... Lea "Back
+         To The Future" Thompson and a cute robot accidentally blast
+         off in kiddie romp SPACECAMP (7.30pm, Sat, C4)... a double
+         treat for Jeff Daniels fans with DUMB AND DUMBER (6.20pm,
+         Sat, ITV) followed by pre-Scream film-within-film Woody
+         Allen farce THE PURPLE ROSE OF CAIRO (2.35am, Sat, C5)...
+         let's hope John Carpenter's brain was taken over by
+         child-aliens when he "directed" sleepwalking Midwich Cuckoos
+         remake VILLAGE OF THE DAMNED (10.15pm, Sat, BBC1)... and the
+         man at the back said: "Everyone attack" - and it turned into
+         a BELGRADE BLITZ (7pm, Sat, C4) - with subsequent shorts
+         KOSOVO ONLINE (12.55am, Sat; 12midnight, Sun, C4) plus THE
+         WEB WAR (7.55pm, Mon-Fri, C4) featuring "well known
+         personalities" - what, Kate Humble? - nodding sagely at
+         amateur HTML propaganda... in accordance with prophecy,
+         there are indeed further yuks to be had in the form of
+         LEGEND OF FONG SAI-YUK II (2.25am, Sat, C4)... preceded by
+         nutty sounding alterno-fest DPROGAM (1am, Sat, C4), starring
+         Nick "UFO" Pope, Alexander "LSD" Shulgin, and Jah "terrible
+         bass player" Wobble... we're sure it's a hilarious insiders'
+         satire on Hollywood, but we still just don't "get" GET
+         SHORTY (10pm, Sun, C4)... it's *exactly* 1 year and 2 weeks
+         since C5 last showed lame Jeff "Lawnmower Man" Fahey VR
+         trash ADDICTED TO LOVE (9pm, Sun, C5) - not based around the
+         Matthew Broderick film based around the Robert Palmer song
+         of the same name... you're better off with sub-Harryhausen
+         ho-ho WARLORDS OF ATLANTIS (5.40pm, Sun, C4)... it's
+         obviously Jeff Fahey week on C5, as he pops up again in
+         terrorist train-pun LETHAL TENDER (9pm, Mon, C5)...
+         promising, gimmicky snuff thriller MUTE WITNESS (10.35pm,
+         Mon, C4) marks the debut of the director of An American
+         Werewolf In Paris... and maybe it's the presenters and
+         pet-owners who need their heads looking at in Philippa
+         Forrester prime-time animal therapy BARKING MAD (8pm, Tue,
+         BBC1)... not enough Jennifer Lopez in Snipes/ Harrelson
+         actioner MONEY TRAIN (9pm, Tue, C5)... not enough Will Smith
+         in Goldberg/ Danson "comedy" MADE IN AMERICA (7.25pm, Wed,
+         BBC1)... probably not much OJ Simpson in unsporting
+         clip-show WHEN ATHLETES ATTACK (10pm, Wed, ITV)... but last?
+         - and best? - of this run of POLICE SQUAD (7pm, Wed, C5)
+         features Drebin as a nightclub entertainer and the jokeless
+         punchline "I don't think I could take 67 more of those"...
+
+         FILM>> you know, someone should make a film where the most
+         beautiful, desirable person in school turns out to have a
+         fantastically geeky side - but of course semi-amusing
+         Matthew Lillard ultra-conformity advert SHE'S ALL THAT
+         (imdb: teen / high-school / party / art-student / prom /
+         popularity / bet / makeover) has to be just like everyone
+         else, and does it the other way around. And it's directed by
+         a former choreographer - natch... Mark "Marky Mark" Wahlberg
+         continues his startling impersonation of that weird spanner
+         kid from your primary school when partnered with Chow
+         Yun-Fat in average police shoot-'em-up THE CORRUPTOR (imdb:
+         mafia / gangster / gangs / new-york / police / triad /
+         betrayal / boss / chase / chinatown / corrupt-cop)... while
+         the biggest con in Stanley "Big Night" Tucci's old-fashioned
+         farcical swindle-rama THE IMPOSTORS (imdb: 1930s /
+         screwball) is making you think it'll be any good... so, our
+         tip, salvaged from this week's wreckage: Sam Raimi swaps the
+         Evil Dead for the greed-fuelled living, in deceptively
+         uncomplicated Bill Paxton / Billy Bob Thornton wintry
+         chiller A SIMPLE PLAN (imdb: murder / fratricide / money /
+         pregnancy / small-town / snow / tragicomedy / stolen-money /
+         librarian / tragedy / fbi / police / hospital / accountant /
+         violence / twist-in-the-end / winter / based-on-novel /
+         brothers ) - like "Shallow Grave", but good... or maybe
+         Stephen King's most terrifying monster of all - Adolf
+         Hitler! - in Bryan "The Usual Suspects" Singer's predictably
+         harrowing David Schwimmer Nazi nutfest APT PUPIL (imdb:
+         adaptation / psychological / teen / nazi / holocaust /
+         evil). Can't imagine they'll be discussing its "Bloody
+         Revenge of Internet Nerds Obsessed With Holocaust And Nazis"
+         plot at Columbine High movie night any time soon...
+
+         "I THOUGHT I RECOGNISED YOUR FOUL TASTE">> first, as
+         promised, a round-up of fruit ices (and adulterants),
+         kicking off with reader TIM BANNISTER's timely
+         composition-analysis of WALLS' STAR WARS: EPISODE 1 "BATTLE
+         DROID" FLAVOUR LOLLY (UKP0.35): "purports to be apple
+         flavour... everyone I know thinks it tastes foul. It does
+         smell a bit like a urinal block... the most refreshing thing
+         in the freezer"... frozen north correspondent ALI DANIELS
+         claims WALLS' SOLERO SHOTS are merely CALIPPO SHOTS by
+         another name, and instead recommends TREATS' 5-ICE (price
+         unknown), a stripey 5-flavour giant Fruit Pastille-style
+         lolly which leaves you with "a useful 10" long piece of 1/4"
+         dowling, which you can use to poke your respected colleagues
+         in the side"... not much between the jelly blobs in NESTLE'S
+         A BUG'S LIFE and WALLS' MR SPOT; our award for excessive
+         innovation goes to NESTLE'S CRACKLER (about UKP0.45, Buzz
+         Lightyear on pack) - an "orange and cherry" water ice
+         containing what can best be described as a small,
+         bullet-shaped payload of frozen popping candy. Don't eat
+         it and let it melt of its own accord, and it collapses into
+         a purple mass of seething, fizzing protoplasm... similarly,
+         how much hot tea can you drink through the hollow chambers
+         of otherwise standard chocolate bar CADBURY'S DAIRY MILK
+         QUICK (UKP0.35) before it melts in on itself like a bad Dr
+         Who villain?... in other confectionery news, it is of course
+         "NESTLE'S special skill in combining chocolate, toffee and
+         biscuit that makes ROLO COOKIES (UKP0.28) so delicious" -
+         though much less biscuity than we expected, going from the
+         precedent of the Cookies & Caramel Rolo Eggs... over in
+         pudding corner, the "Chocolate flavour custard" variant of
+         BIRD'S SCOOPZ (UKP0.57) is perhaps the least violently
+         disappointing, followed by the strawberry Angel Delight one,
+         then the bizarre vanilla custard featuring apple-tainted
+         biscuits... while the junior MULLER YOGZ 4-PACK are perhaps
+         the most palatable of the "candy corner" yoghurts, in
+         various sugar-heavy flavours (though no "YOG SOGOTH" version
+         yet, Cthulhu fans!)... and finally, thanks to everyone who
+         sent in the result of the consumer referendum at
+         http://www.cocovote.com - if you hadn't guessed from the
+         widespead offloading of old boxes of "Choco Krispies", a
+         vast majority wanted them renamed COCO POPS - in accordance
+         with natural law. Apparently "almost one million votes were
+         cast", about the same number as in recent elections for the
+         Welsh assembly...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+           It is registered at the Post Office as "culturally corrosive"
+   http://www.oreilly.com/people/staff/stevet/netfuture/1999/Feb2599_85.html#3
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

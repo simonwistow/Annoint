@@ -1,0 +1,359 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-01-19_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+              "Sources say Linuxcare will go down for stock. "
+            - http://linuxgram.com/newsitem.phtml?sid=108&aid=11537
+                         ...makes a change from "will work for food."
+
+
+                                >> HARD NEWS <<
+                                political dues
+
+         "We are proud to announce", reads the glorious socialist
+         realist HTML, "the release of THE BIG BREACH: From Top
+         Secret To Maximum Security (ISBN 0-9705547-8-8), by Richard
+         Tomlinson, the first book by a dissident British author
+         published by a Russian publishing house." Yes, after
+         harassing Tomlinson across Europe, having publishers Fourth
+         Estate raided, and spectacularly failing to squelch his last
+         Net leak, MI6 is no longer on home turf. The Big Breach is,
+         from today, available from the Russian publishers' Website -
+         which, like all fifth columnists, plans to be an Amazon
+         associate soon. Anyway, it's expected that MI6 will continue
+         to attempt to ban the book in the UK. Unfortunately, they've
+         chosen a particularly tricky moment to do so. Both the major
+         ultra-distrib, uncensorab, pseudo-anonym, projects - Evil
+         Genius's MOJONATION and Ian Clarke's FREENET are *just*
+         stable enough to start taking in dirty washing like this.
+         All they both need is a key name to start uploading the text
+         to, and some way of distributing the job of typing in the
+         pages. Obviously, we couldn't possibly be seen to encourage
+         this kind of thing: but we do note there's a forum on the
+         Russian site. And if you can adopt wee babies, surely some
+         of you dastardly foreigners can set up an "adopt a Breach
+         page" Website?
+         http://www.thebigbreach.com/
+         - using SSL would make us feel a bit more comfortable, mind
+         http://www.uprizer.com:8081/
+                                                  - FREENET! Gateway!
+         http://www.mojonation.net/
+                          - a *lot* better since this week's bugfixes
+         http://www.martian.fm/ebaby.htm
+                     - in case you missed this week's other net story
+
+         "Does anyone read e-mails?" writes exasperated subscriber
+         JOHN MILES to, we guess, nobody in particular. "I've been
+         trying to alert the LABOUR PARTY", he explains, "to the
+         'I-worm.LoveLetter' virus they are distributing via their
+         web site". Well, that usually gets our attention, if not
+         theirs. And sure enough, clicking on the enclosed link and
+         ploughing painfully half way down the low-res/rent archive
+         of Prescottaganda, we finally see it: "Campaign materials -
+         Tabloid Rose (12170 bytes)": a VBS file created by an
+         infected activist's machine, and waiting to be redistributed
+         faster than... well, faster than anything got redistributed
+         by this government, that's for sure. Hardly a time-bomb,
+         granted: but look closer at that URL, Oracle fans. Isn't it,
+         as the www.haddock.org link John originally followed noted,
+         a stored procedure that's getting its parameters direct from
+         the URL? Viruses, *and* dodgy CGIs? We could be in for an
+         interesting run-up to the election...
+http://www.labour.org.uk/lp/new/labour/labour.wwv_main.main?p_cornerid=89
+                                              - download your viruses
+http://www.labour.org.uk/lp/new/labour/labour.wwv_main.main?p_edit=y
+                                                - upload your scripts
+         http://www.hackinthebox.org/article.php?sid=1358
+                                                   - and win a prize!
+http://www.attrition.org/mirror/attrition/2001/01/16/web.president.gov.ir/
+- but not "most reckless" (yes, that's the President of *Iran*'s site)
+
+         Kevin Kelly told us that someday, a small determined group
+         would use the Power of the Net to coagulate itself into a
+         enormous electronic hive-mind. He's a bee-keeper, so we
+         believed him. We just weren't expecting it to start so
+         early, or so much in UK.REC.COMPETITIONS. Regulars there are
+         already demonstrating the damage a highly-interconnected
+         mass-consciousness can wreak; between them (it), the uk.r.c
+         posters estimate they (it) win(s) over 5% of the UK's online
+         giveaways. So when BOL announced that its "Win 500 DVD
+         Players!" competition was over - and nobody on uk.r.c had
+         won a thing - they were, en masse, suspicious. BOL were
+         adamant: yes, the winners had been notified. No, uk.r.c
+         couldn't see the list. Yes, that was against ASA rules - but
+         BOL only had e-mail addresses. Then how are they sending the
+         DVD players out, responded the newsgroups' groupmind - as
+         attachments? Good point, replied BOL, have some DVD players
+         and go away. A happy ending - except for the knowledge that
+         perhaps BOL *would* have gotten away with it, if it is
+         wasn't for the unifying power of the froups. But are those
+         supposed competitors getting too pally? A few days later,
+         all of uk.rec.comps received a mail from BT. Dear Karen, it
+         said, you've won a lava lamp. Apparently, BT say now,
+         there's only one lava lamp - and only one Karen. And
+         uk.rec.competitions is she.
+         http://x53.deja.com/=dnc/viewthread.xp?AN=715709536
+                                  - don't mess with threads this long
+         http://www.deja.com/=dnc/viewthread.xp?AN=717027906
+                                                     - no, i'm karen!
+         http://www.ntk.net/boldoh/
+                                             - historical perspective
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         BREATHEMAIL.NET's domain expires: two months ago... also by
+         the co-author of www.underground-book.com : THE DAN FARMER RAP
+    http://lists.gnac.net/firewalls/mhonarc/firewalls.199504/msg00398.html
+         ... PORTAPAM software produced by the creators of PORTAPIMP,
+         PORTAHO ... KELKOO - not going for that diabetic demographic:
+         http://m.doubleclick.net/viewad/456723-468x60_1a.gif ...
+         optimistic TITLE tags at http://www.ntk.net/2001/01/19/dohasp.gif
+         ... "the Amazon ad banner appears to originate from an Amazon ad
+         server" - NEWSFACTOR uncovers amazing nature of <IMG SRC="">
+         at http://www.NewsFactor.com/perl/story/6731.html ... BT's
+         DISRUPTIVE LABS start by disrupting http://www.adsl.bt.com/ ...
+         SECRETS OF RAMA revealed! Powerpoint rendering engine moves
+         massive structure through space! http://www.rendezvouswithrama.com/
+         ... REGISTER declaims GINGER hype, runs six stories on IT
+         (Kieran? Call your wife, mate) ... can't touch this! Oh, you did:
+    http://www.attrition.org/mirror/attrition/2001/01/14/www.mchammer.com/
+         hey, if they're running Unix on Macs these days, then why not
+         http://www.sun.com/smrc/photohtmls/ppworksunray100-as.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         In surely the new-media coup of the decade, music meat market
+         MIDEM (Cannes, from 2001-01-20) has somehow managed to sign up
+         both Herbie Hancock *and* Peter Gabriel (next year: Thomas
+         Dolby and Bowie!). Delegates then have just enough time to
+         catch the other shadowy masters of the military-industrial-
+         entertainment complex at DAVOS 2001 (Switzerland, from 2001-
+         01-25), where they'll be plotting new forms of unfettered
+         globalisation, unsustainable economic dominance - and, it goes
+         almost without saying, the creation of a Dalek super-race. At
+         NTK, we prefer a rather more direct way of separating rubes
+         from their money, on show at AMUSEMENT TRADE ENTERTAINMENT
+         INTERNATIONAL (Earl's Court, London, from 2001-01-23) where
+         the suits can catch up with the coin-ops currently wowing the
+         kids at London's top Trocadero test sites: NAMCO'S NINJA
+         ASSAULT (essentially House Of The Dead with a recoiling gun,
+         which almost makes up for the absence of the traditional Time
+         Crisis "duck and cover" foot pedal); SEGA'S dull 007-esque
+         CONFIDENTIAL MISSION (which seems to discourage the rapid-fire
+         tactics which are the best bit of gun games); plus bizarre
+         post-bemani free-expression percussive playalong MTV DRUMSCAPE
+         (try and find a machine with a skipping CD drive, which offers
+         the additional challenge of intersplicing Mud's "Tiger Feet"
+         with breaks from "Relax" by Frankie Goes To Hollywood).
+         http://www.davos2001.ch/eye.htm
+          - "Surrounded by big, snow covered mountains". Say no more!
+         http://www.ac.com/ideas/wef/Davos_2001.html
+               - Anderson "Accenture" Consulting have nothing to hide
+http://www.emugaming.com/strider/flyers/ninjaassualt_flyer01A.shtml
+         - trained for years in the martial arts, then you shoot them
+         http://www.drumscape.com/op%20recommendations.htm
+                       - funnier than http://www.atei.co.uk/ , anyway
+         http://www.colchester-artscentre.org.uk/
+              - John Peel presents "3 days of irresistible ear abuse"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         AUTOLOTTO is a Windows program which - until too many people
+         start using it, I guess, and we bugger up another good thing
+         - automatically enters you for free online lotteries. It
+         uses a simple scripting language to drive a IE5 browser
+         ActiveX control (or whatever they're called now), regularly
+         visiting the Lotto site, clicking on the "enter your
+         favourite numbers" like a good prole, and automatically
+         snooping around on whatever banners you're supposed to be
+         rapturously devouring. Meanwhile, you you get on with
+         something more satisfying in the foreground, and wait for
+         the cheques. It comes set up for Bananalotto, and you can
+         add your own plugins pretty easily (though watch out for
+         that IgnoreURL field - it means ignore any URL that
+         *doesn't* have the key in it). It's not too smart, but for
+         now, the free lottery sites are even stupider - as befits
+         their business model. Think of this as a trickle-down tax on
+         stupidity.
+         http://memelog.com/autolotto/
+                                     - and when they get smarter
+         http://www.activestate.com/Products/Komodo/PyXPCOM/
+                                             - the code gets sneakier
+
+
+                                >> MEMEPOOL <<
+                               oogle the google
+
+          Wu-Tang Clan's RZA imitates The Onion's HERBERT KORNFIELD:
+  http://www.360hiphop.com/360hiphop/silos/article/0,1034,0-2397,00.html
+          ... original excuse - 10,000 MONKEYS shredded my presentation:
+          http://pets.msn.com/news/article11.asp ... who needs DR WHO
+          IMPERSONATORS http://www.bbc.co.uk/cult/doctorwho/deadringers/
+          - do a "Ferris Bueller" with samples from KINDERGARTEN COP:
+          http://www.ugo.com/channels/features/Schwarzenegger/ ... West
+          at last reacts to Sov-bloc "Scorpion, Pentagon" SPECCY-clones:
+          http://www.wynne91.fsnet.co.uk/ ... ideal SOCIAL-ENGINEERING-
+          o-mobile: http://www.btopenworldshop.com/cars/commercial.jsp
+          ... yeah, we'd make http://www.thegoodspider.com our home page
+          - if it loaded a bit quicker... ban this NAZI MEMORABILIA:
+      http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=540129867
+          ... out-of-work REBOOT characters doing pseudo-educational
+          porn: http://www.findthegspot.com/ ...  CARMACK the Love God:
+          http://truemeaningoflife.com/wisdom.php?topid=12390 ... Brit
+          BILLBOARD MODIFICATION: http://jxzz.com/random/taxcon.jpg ...
+          LEGO! Lara Croft! Nude!: http://www.lego.com/mosaic/ ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> sadly, "Stars In Their Eyes" ante-upper BATTLE OF THE
+         FANTASY BANDS (8pm, Fri, BBC1) is a one-off, sparing viewers
+         an increasingly desperate weekly line-up of made-up tribute
+         acts like the Pretend Pretenders, or the Sham Sham 69...
+         former Popbitch star Adam Ant recovers in time to present I
+         LOVE 1981 (9.05pm, Sat, BBC2)... and C5 seems to have settled
+         on late January as the regular slot for its SCI-FIVE WEEKEND,
+         kicking off with not-as-good-as-the-original BLADE RUNNER: THE
+         DIRECTOR'S CUT (9pm, Sat), regular C5 schedule-filler THE
+         LAWNMOWER MAN (11.15pm, Sat), and defensible Jodi Foster 2001
+         knock-off CONTACT (9pm, Sun) http://www.spesh.com/contact.html
+         ... against which the other channels can offer only: overrated
+         Cronenberg/ Debbie Harry body-horror VIDEODROME (10.35pm, Sat,
+         BBC1); Trey Parker's Troma CANNIBAL! THE MUSICAL (1.55am, Sat,
+         C4); Sean Connery disaster METEOR (2.15pm, Sun, BBC1); and
+         John Carpenter's wildly unnecessary update of VILLAGE OF THE
+         DAMNED (10.55pm, Sun, BBC1)... and good to see someone's
+         preceded an ostensibly serious discussion the work of TOM
+         HANKS: SCENE BY SCENE (11.25pm, Sun, BBC2), with arguably his
+         daftest - yet most bearable - film, DRAGNET (9.45pm, Sun)...
+         after "Space: Above And Beyond", ex-X-Filers Morgan and Wong -
+         and some real horror talents - returned to "psychic gifts" as
+         the theme of their next swiftly-cancelled show, THE OTHERS
+         (9pm, Mon, C5)... fearful BBC top-brass bury CLIVE ANDERSON'S
+         CONSPIRACIES in odd 8pm-ish and near-midnight slots Mon-Fri on
+         BBC Choice... we don't care, we still think THE ROCK (9pm,
+         Tue, C5) is one of the best action films of the '90s... even
+         though it's up against E4's short-lived Hollywood horror
+         ACTION (10pm, Tue) - itself preceded by NTK favourite THE NORM
+         SHOW (9pm, Tue), and followed later in the week by digital-
+         only previews of THE ADAM AND JOE SHOW (10pm, Wed, E4)...
+
+         FILM>> Darren "Pi" Aronofsky finds one thing more addictive
+         than pure maths - pure heroin! - in trick-shot degradation-
+         fest REQUIEM FOR A DREAM (http://www.cndb.com : the film
+         overall does not present a feeling of eroticism, more of
+         tragedy; brief shot of Marlon [Wayans]'s buns; Jennifer
+         Connelly finally shows us her bush)... Bill Paxton examines
+         the pitfalls of combining the extreme sports of mountain-
+         climbing and nitroglycerine-transportation in above-average
+         "Cliffhanger" remake VERTICAL LIMIT (http://www.capalert.com :
+         open urinating; shows you and your 13 year old kids what the
+         nude body looks like - full male angled frontal nudity - of
+         two males)... Ben Affleck takes a tip from Harrison Ford's
+         "Random Hearts" - the best way to impress a married woman is
+         arranging to have her husband killed in a plane crash - though
+         of course the one thing modern airliners don't do is BOUNCE
+         (http://www.screenit.com/movies/2000/bounce.html : [Affleck]
+         and [Paltrow] kiss some more and we then see them in bed with
+         him partly on top of her. She then sits up, he removes her top
+         (we don't see anything) and they then kiss again while lying
+         down where we then briefly see just part of the side of her
+         bare breast. It's then implied that they have sex)... or, for
+         the real filth-fans, there's Rachel Weisz in a blonde wig in
+         British domestic abuse Thelma-and-Louise-alike BEAUTIFUL
+         CREATURES (http://www.bbfc.co.uk : contains strong sexual
+         references, violence, language and drug use)... plus hilarious
+         "The People Vs Larry Flynt"-style Hollywoodisation QUILLS
+         (http://www.cndb.com : Geoffrey Rush plays the Marquis de Sade
+         here and shows us his butt for an extended amount of time; a
+         wonderfully homoerotic moment in an interesting and raunchy
+         little film; great actress Winslet bares her breasts once
+         again [...] Her nipple pretty much takes up the whole theatre
+         screen at one point [...] Unfortunately, she's dead)...
+
+         MUSICAL DIFFERENCES>> thanks to everyone who pointed out that
+         "She's The One" [NTK 2000-12-22] was written by Karl Wallinger
+         "about 3 geological eras after he went his own way from The
+         Waterboys" (writes "A LARDY PEDANTIC MUSIC FAN") - yet only
+         TREVOR WINGERT went so far as to correct the same issue's
+         claim of a "New Country" theme to the January's Uncut CD:
+         "Whoa, baby!" cautions Trevor. "They are undifferentiated
+         'alt.country' wailings, which is waaaaaay different, the dot
+         giving a strange kind of credibility that is woefully lacking
+         in the tank-topped and not-countryish-at-all 'New' stuff." NTK
+         apologises to both Trevor and this frequently misrepresented
+         genre for "having done them wrong"... Mike Blanche noted that
+         not all Radio 1's browsable images [NTK 2001-01-05] are
+         thumbnails - http://www.bbc.net.uk/radio1/images/wallpaper/
+         are, for instance, some of the worst "Windows wallpaper"
+         images any fan could wish for... and "It's not rubbish, it's
+         just you all haven't quite tuned into it yet," protested
+         Fatboy Slim's engineer, SIMON THORNTON, in defence of their
+         new album, perhaps uncharitably described as "rubbish" in NTK
+         2000-11-10. Admittedly, we've since warmed to the big-beat
+         track "Ya Mama" used in "Charlie's Angels", though we're not
+         sure that's what Simon wanted to hear. Concerned readers are
+         advised to get the free demo version with Saturday's Guardian
+         and make up their own minds... in other promotional news,
+         NESTLE'S GOLDEN/ CINNAMON GRAHAMS are once again shipping with
+         a CD containing 5 mildly unsuitable indie-pop tunes - James'
+         "Laid" ("She only comes when she's on top"), Ocean Colour
+         Scene's impassioned anti-arms-industry anthem "Profit In
+         Peace", and The Wonderstuff's execrable "Size Of A Cow" - plus
+         the full game of Hasbro's unsellable 3D MISSILE COMMAND... oh,
+         and on CD2, "Disco Down" by Shed Seven, who, RALPH FULTON
+         observes, "have fallen on hard enough times to warrant re-
+         recording one of their 'hits' (Speakeasy) for The Link's
+         latest TV ads ('It's easy/ At The Link it's easy'). Ouch"...
+         and finally, NEIL "OWNS EVERY AIR TRACK EVER" THEWARAPPERUMA
+         solved *some* of the mystery surrounding that "cosmetics [ad]
+         with the Air 'All I Need' rip-off" [NTK 2000-11-10]. "L'Oreal
+         first used Air's 'La Femme D'Argent' in TV ads over a year
+         ago," Neil declaims. "'La Femme D'Argent' was used directly in
+         North America (I believe for hair products featuring Andie
+         MacDowell). The UK commercials didn't use this track, but a
+         similar Air-sounding tune, which may have been by the band
+         themselves, no-one on http://www.egroups.com/group/air is
+         really sure". He concludes with the bombshell: "Believe it or
+         not, La Femme D'Argent was also used in a Qualcomm ad in the
+         US". NTK regrets that this correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+        "Not _the_ Dave Green. Though we would say that, wouldn't we?"
+                      http://klf.life.eu.org/Misc/m25.txt
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+                          get well soon, mystic mike!

@@ -1,0 +1,340 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-07-05_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Twenty-five years ago computers were big and capable only
+         of very simple word processing and basic spreadsheets. By
+         contrast the PC of today allows users to send e-mails and
+         instant messages, browse the internet and even manage the
+         household budget. "
+ http://news.bbc.co.uk/hi/english/sci/tech/newsid_2078000/2078510.stm
+...accompanying picture shows JON POSTEL sending early messages using VisiCalc
+
+
+                                >> HARD NEWS <<
+                                 in some stews
+
+         With LARRY WALL himself committing the reflexive self-sacrilege
+         of rewriting regexps earlier this month, it seems the
+         revolutionary avant-garde of Perl 6 grow more and more
+         distant from the rank and file of the Perl world. It's the
+         heroes of the Parrot bytecode engine, though, who are caught
+         in the middle. Essential to the Perl 6 project, these
+         Stakhanovite workers for Brave New Perl are fondly regarded
+         by the otherwise suspicious old Perl 5ers. Indeed, many of
+         that old guard harbour a shadowy desire to port their
+         beloved krufty Perl 5 unchanged to the exciting new Parrot,
+         and stage a reactionary coup against the upstart sixers. But
+         could such divisions lead to disaster? Parrot internals
+         designer DAN SUGALSKI has been working full-time on the
+         interpreter on Perl Foundation grants, but due to a funding
+         shortfall, he'll be out in the real world by the end of this
+         month. Where's the money? Are the old-style Perl types
+         hesitant to fund more tainted Perl 6 projects? Or could it
+         be that they just forgot to pay their dues? Either way, the
+         Foundation needs $60,000 by the end of the month - or Dan's
+         ex-parrot.
+         http://use.perl.org/~Elian/journal/6101
+                      - is a Python joke disrespectful at this point?
+         http://www.perl-foundation.org/index.cgi?page=donate
+           - you depend on Perl, now it depends on you. make donation
+         http://www.perl.com/pub/a/2002/06/04/apo5.html
+                              - [] to be replaced by <[]>? blasphemy!
+
+         It's unfortunate for the Perl cause that the Google folk are
+         such stinking Python users, especially given the spare cash
+         coming to the "feeling cocky" search engine recently. This
+         week, for instance, one NTK subscriber was billed a very
+         reasonable 78 million dollars for two Google text ad
+         campaigns. While we imagine this covers Sergey's free
+         granola bar service for a while, surely even Google are
+         sure what to do with the three *billion* dollars they
+         charged another adwords customer - for a grand total of 3000
+         click-throughs, too. Who do they think they are, go.com?
+         http://www.ntk.net/2002/07/05/dohgoo1.png
+                - the "Google Dance" coming a little early this month
+         http://www.ntk.net/2002/07/05/dohgoo2.gif
+                  - insert your Worldcom reference for instant satire
+
+         Still, if you're a bit short on cash yourself, we bet just
+         as high retursn are to be made in the ultra-lucrative, life
+         of Riley job of FIPR PROGRAMME DIRECTOR. Our favourite
+         cyberrights think tank, whisperers of common sense in the
+         ears of politicians and journos since 1998, are now looking
+         for someone to help them shout a bit louder. It'll be a
+         fundraising, daily management sort of job. But frankly how
+         hard can getting money for sexy subjects like medical
+         privacy and government use of public-key cryptography be,
+         for goodness' sake? Money for jam. Recent graduates need not
+         apply, it says, and we think schoolleavers may be out too -
+         but if there's a ambitious management type with a background
+         in policy work and with a particular interest in digital
+         rights in the UK who reads NTK, well, get in touch. We'd
+         like to see what that looks like ourselves, frankly.
+         http://www.fipr.org/vacancy.html
+       - get to meet Ross Anderson, fifth horseman of the Infocalypse!
+         http://www.theregister.co.uk/content/6/25997.html
+- you see Caspar, we didn't mention you selling out to Microsoft once
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         getting people to visit LUXEMBOURG - looks like they'll try
+         anything: http://www.ntk.net/2002/07/05/dohlux.gif ... because
+         some of you don't yet appear to be bored of PUERILE GOOGLE
+         MISSPELLINGS: http://www.google.com/search?q=artits , t-shitrs ,
+         cumcuber , suctomers , lodnon - and the reassuringly uncommon:
+http://www.google.com/search?q=%22Put+accurate+and+pertinent+information%22
+         ... CBS exercising "full disclosure" on their alleged insider
+         trading employees: http://www.ntk.net/2002/07/05/dohmartha.gif
+         ... http://support.microsoft.com/default.aspx?scid=kb;en-us;Q277830
+         - and what's more, the HTML tags aren't escaped in searches:
+         http://search.support.microsoft.com/search/?Query=xsl+upload
+         ... WINDOWS MEDIA - half the bitrate, double the space saving!:
+http://www.microsoft.com/windows/windowsmedia/Consumelectronics/everywhere.asp
+         ... YAHOO runs CNET story, yet won't return their calls:
+  http://story.news.yahoo.com/news?tmpl=story&u=/cn/20020701/tc_cn/940580
+         ... just for old time's sake - it's yet another case of the
+         missing millions: http://www.ntk.net/2002/07/05/dohfoot.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Just in case we haven't mentioned it enough already, you can
+         get in free to the "Exhibition" part of the UKUUG LINUX
+         DEVELOPERS' CONFERENCE (from 1pm Friday 2002-07-05, all day
+         Saturday, Bristol University Chemistry Department, free) - and
+         the Linux Professional Institute certification exams have now
+         been cancelled (due to "hardware problems") so you no longer
+         have to worry about blundering into one of those by accident.
+         Of course, that's assuming we all survive the annual SubGenius
+         celebration of X-DAY - the apocalyptic arrival of the alien
+         Xists to rupture true believers aboard "your own personal
+         Escape Vessel" while wreaking revenge on "all the Pinks and
+         Con-dupes towards whom you ever felt even the slightest
+         dislike" (scheduled for July 5, "whichever year is the real
+         1998, it might be THIS one"). For the first time, the occasion
+         is being marked here in the UK by a BOB SAVE THE QUEEN "OR
+         KILL ME" club night (from 10pm, Sat 2002-07-06, ElectroWERKZ,
+         London N1, UKP5), part of a European tour by POPE BLACK which
+         also features musical artistes THE FIGHTING COCKS and a visit
+         to the Avebury monolith, location of the cult ITV kids' drama
+         series, "Children Of The Stones".
+         http://www.subgenius.com/bigfist/fun/devivals/5XDay/5X-Day.html
+                             - vs http://eurosubs.subnet.dk/news.html
+         http://www.ukuug.org/events/linux2002/exhibition.shtml
+        - least we know where all the Slackware folks are going to be
+         http://www.b3ta.co.uk/flyer2.gif
+       - tonight: somewhere to go after http://www.london2600.org.uk/
+         http://www.h2k2.net/
+           - from next Friday: Hackers On Planet Earth, New York, $50
+         http://www.idler.co.uk/html/frontsection/events.htm
+        - advance warning of Sony's Clerkenwell/PS2 Literary Festival
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         There are times in your life - say, halfway into a drunken
+         graphical joke about human sexual behaviour at your family
+         priest's memorial service, or while looking into the tearful
+         face of a co-worker you've chosen to mercilessly tease on,
+         it transpires, the worst day of her life - when you really
+         wish that you had a personal bug tracking system. You know,
+         for yourself - where people could file bugs in your
+         personality, and you could let them know how far you're
+         progressing. Or better still, just flag them WORKSFORME and
+         continue regardless. In pursuit of this characteristically
+         self-hating wish, take a look at ROUNDUP, a new bare-bones
+         issue-tracker that's gaining some favour. It's like Bugzilla
+         without the six years of training, or RT without that
+         tedious MySQL rubbish. It's just Python 2.1, a BSD-style DB,
+         a cgi-bin script, some command line utilities, and a mail
+         forward. Full admin over the Web or e-mail, not very
+         scaleable but eminently hackable. Just like your life.
+         http://sourceforge.net/projects/roundup/
+                                                             - always
+         http://fsck.com/projects/rt/
+                                                             - review
+         http://www.mozilla.org/projects/bugzilla/
+                                                                - the
+         http://www.benham.net/debbugs/
+                                                       - alternatives
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         MSALAM (mid-right) - crimes include "sometimes has a light
+         beard or moustache and has worked as a clothing vendor":
+         http://www.rewardsforjustice.net/mostwanted.html ... actually
+         not bad: http://www.btinternet.com/~webofevil/bootleg.htm ...
+         somewhere to let the world know about your (by definition)
+         lame viral campaigns: http://www.chinwag.com/viralmonitor/ ...
+         most ambitious collaborative open-source multimedia project
+         yet: http://freshmeat.net/projects/aardbei/?topic_id=974 ...
+         http://www.trustedcomputing.org/ imitates the "Praetorians"
+         symbol in "The Net" - mouseover the key on the bottom right
+         ... "[PIGGY WEEKENDS] are available for people who would like
+         to be more involved with the pigs either for fun or with more
+         serious intentions. These weekends are designed to cater for
+         guest's particular requirements. We had several guests last
+         year that delighted in helping wash and oil our show pigs":
+         http://www.smallicombe.com/ ... "Everything I Know About
+         National Defence I Learned From Watching Buffy The Vampire
+         Slayer": http://www.csis.org/burke/hd/reports/Buffy012902.pdf ...
+
+
+                               >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> following Adam and Joe's exemplary coverage of last
+         weekend's Glastonbury, we don't think they've shown Adam's
+         "director's commentary" version of "The Priory" yet on
+         TAKEOVER TV (10pm, Fri, E4)... competition for the worst TV
+         presenter of all time hots up when Anna from Big Brother 1
+         meets controversial pop band Rockbitch ANNA IN WONDERLAND
+         (10.30pm, Fri, BBC Choice)... mild Catherine "Being John
+         Malkovich" Keener nudity enlivens indie soap satire THE REAL
+         BLONDE (11.35pm, Fri, BBC2)... and it's the 1998 CGI remake of
+         I MARRIED A MONSTER [FROM OUTER SPACE] (12.40am, Fri, BBC1),
+         not the atmospheric 1958 original... after all those attempts
+         by 2000AD, the "New" Eagle, and "Revolver" magazine,
+         Foundation "Roughnecks: Starship Troopers Chronicles" Imaging
+         get their turn at resurrecting DAN DARE: PILOT OF THE FUTURE
+         (8.55am, Sat, C5): http://www.rowsby.com/DanDare.html ... the
+         terror becomes almost unbearable on Sat with Paul "Resident
+         Evil" Anderson's "Oh my god, that's the funky shit" Solaris
+         remake EVENT HORIZON (10.25pm, Sat, BBC1)... followed by home
+         automation nightmare DREAM HOUSE (11.55pm, Sat, BBC1) and
+         preceded by sickening Robin Williams medical feel-gooder PATCH
+         ADAMS (8.15pm, Sat, BBC1) - loosely "based on a true story":
+     http://www.ew.com/ew/report/0,6115,274087-2-2~7|8318~reeltruth,00.html
+         ... while ITV weighs in with gimmicky Nastassja Kinski
+         parachute caper TERMINAL VELOCITY (10.30pm, Sat, ITV) and the
+         ever-execrable LAWNMOWER MAN 2: BEYOND CYBERSPACE (12.25am,
+         Sun, ITV)... mild-mannered Moby is the subject of THE SOUTH
+         BANK SHOW (10.50pm, Sun, ITV)... there's a repeat of that
+         sandstorms-and-sex LOOKING FOR KICKS: NAKED IN NEVADA (1.10am,
+         Sun, C4) promotional video for the Burning Man Tourist Board
+         ... and the week's other movie highlights include lamer vs
+         Kramer goof-off UNSTRUNG HEROES (3.40pm, Tue, C5), competent
+         Bond gadget romp THE SPY WHO LOVED ME (8pm, Wed, ITV), plus
+         kung-fu kangaroo curio WARRIORS OF VIRTUE (10.50am, Fri, BBC2)
+         ... TOMORROW'S WORLD ROADSHOW (7pm, Wed, BBC1) uses "Pop Idol"
+         technologies to find themselves a super-bland new presenter...
+         arty cybernetics documentary STORYVILLE: ROBOTS ARE US (9pm,
+         Thu, BBC4) promises to be relatively Kevin Warwick-free...
+         while zany, "dark" US hospital sitcom SCRUBS (11.05pm, Thu,
+         C4) is a show that "can't get no love" from C4 viewers - well,
+         not at 11 o'clock on a Thursday, it won't...
+
+         FILM>> Spielberg wrecks another otherwise promising "Blade
+         Runner" knockoff with idiotic chase scenes, tiresome missing
+         kid sentiment and a lame retina-scan workaround last seen in
+         "Demolition Man", say our premonitions for MINORITY REPORT
+         ( http://www.capalert.com/capreports/minorityreport.htm : sex
+         games/fantasies in a virtual porn shop; explosive startle;
+         "daredevil" risk-taking; God tells us that no man, without
+         holy power, can predict the future)... so if you can, track
+         down limited-release Tony Hawk/ Henry Rollins 1970s extreme
+         sports skateboarding history documentary DOGTOWN AND Z-BOYS
+         ( http://www.bbfc.co.uk/ : Language - Infrequent, strong;
+         Sex/Nudity - Infrequent mild references; Theme or content -
+         Infrequent drug references)... other than that, not that much
+         else on, unless you like the sound of ill-conceived Steve
+         Martin sex and drugs and dentistry "comedies" like NOVOCAINE
+         ( http://www.screenit.com/movies/2001/novocaine.html :
+         [Martin] imagines having sex with [Helena Bonham Carter] and
+         [...] we see movement and her bare breasts; [Laura Dern] shows
+         some cleavage)... or anthropomorphic Dreamworks "Old West"
+         semi-musical horse toons like SPIRIT: STALLION OF THE CIMARRON
+         ( http://www.capalert.com/capreports/spirit-cimarron.htm : an
+         instance of brief clothing by one and *only* one of the
+         American Indians. The rest were responsibly clothed. Maybe
+         that is the way the true Americans dressed but that does not
+         excuse display of it in and as entertainment)...
+
+         AD MUSIC FOR SIX PEOPLE>> this month, we have been mainly
+         listening to mashup rap remixes of themes from Commodore 64
+         games: http://www.mono211.com/content/releases/nmomp2.html ,
+         plus PUNK ROCK BABY's compilation of "punk classics in a
+         lullaby style": http://www.punkrockbaby.com/punkrockinner.html
+         - which surely indicates that there's a market somewhere for
+         lullaby-style covers of Commodore 64 game themes, with classic
+         1980s raps worked into them somehow as well... in other pop
+         news, now that the OASIS album is available through more
+         conventional outlets, reader PAUL TAYLOR has wasted no time in
+         alleging that the "Hindu Times" single "has *exactly* the same
+         riff" as THE STEREOPHONICS' "Same Size Feet" - track 8 on
+         their album, "Word Gets Around", apparently. We have yet to
+         compare BEYONCE KNOWLES' "Work It Out" directly with STOCK
+         AITKEN AND WATERMAN'S "Roadblock", but we don't think anyone
+         will be too surprised by the outcome, while NONEMORENEGATIVE
+         pondered "just what is the chorus bit (you know what I mean)
+         from BALTIMORA's classic 'Tarzan Boy' doing cropping up in the
+         DESTINY'S CHILD track, 'Nasty Girl'? I think we, the slightly
+         older public, should be informed"... thanks to everyone who
+         thoughtfully drew our attention to circulating meme-of-the-
+         month: http://www.commercialbreaksandbeats.co.uk/ (basically a
+         more navigable version of http://www.westwood.u-net.com/ads/ -
+         at last!), though annoyingly it doesn't seem to cover the NTK
+         speciality of ad soundtracks that sound like well-known
+         records, but aren't: that T-Mobile one with Andre Agassi
+         playing lots of funny sports is clearly supposed to be BLUR's
+         "Song 2", for instance. And PAUL BORT claims the Hyundai
+         Sonata has been advertised in the US with a 30-second TV spot
+         "where the flute music in the background is so very close to
+         'Thick As A Brick' - but not quite close enough, if you're a
+         [Jethro] Tull fan"... still, it was left to ADRIAN FURBY to
+         alert us to Warner Music (Australia)'s site "specifically
+         aimed at Nathans who need to find a hit jingle for their next
+         ad": http://www.songshop.com.au/ , which enables you to search
+         their entire catalogue for songs related to a keyword that
+         represents your notional ad campaign. Furby reports some
+         success with the terms "whore" and "wanker", and that the
+         words "internet" and "Blair" are both intriguingly associated
+         with the Australian folk group "The Bushwhackers". Handily,
+         "Starbucks" does indeed return A's recent hit "(Don't Want
+         Your Job In) Starbucks" - itself a more coherent version of
+         Toby Slater's http://www.tobyslater.com/consumption/ - but we
+         still think there's room for more conceptual classifications:
+         for instance, wouldn't KOSHEEN's "Hungry" be spot-on for a
+         campaign persuading people to go back to eating British beef?
+         "Everything they've handed you / on a silver plate / Are you
+         hungry / for a little more/ of what you had before? (BEEF!)
+         Are you hungry / for a taste of life? (BEEF!)" Hey, what do
+         you mean, "No, not really"?...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "we'll get you yet, b3ta!"
+                        http://www.blogjam.com/blogpop/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,312 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-08-20_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "An *operational* Dalek from the television programme Dr Who
+           fetched UKP6,670 yesterday at an auction of memorabilia..."
+         - "News In Brief", 1999-08-19, DAILY TELEGRAPH (our emphasis)
+...SOLD! to the squawking, grey-faced man on the knobbly silver podium...
+
+
+                                >> HARD NEWS <<
+                                 demons loosed
+
+         We didn't make it to last week's SECONDARY DNS (it's okay,
+         we've got last year's cached somewhere). But why bother,
+         when the ongoing trend of Hackers Do Press Packs is still
+         alive and kicking? In the traditional cannily-worded, yet
+         alternatively-spelt press release, the kids revealed to the
+         Proper Media that both the Royal Mail and the Scottish
+         Executive sites are running exploitable versions of
+         Microsoft IIS. "These weaknesses will eventually be
+         exploited", they say, slowly so that everyone can
+         understand, "by criminals, terrorists and other enemies of
+         the UK". Or a bunch of script kiddies, depending on
+         reads the conference notes first. The Royal Mail 
+         responded quickly with a statement that security patches
+         were put in place "in the last year" (in other words: the
+         day after DNS e-mailed them with the details). And the
+         Scottish Executive? Oh, we're sure they'll get around to it
+         sooner or later. A few minutes too later, if past experience
+         is anything to go by.
+         http://www.dnscon.org/
+                                         - white "kiss me quick" hats
+         http://www.hack-net.com/defcon/
+                          - naked girls, naked guys, naked SERVERS...
+
+         It's always nice when someone decides to join the Anarchist
+         Internet Conspiracy. Imagine, then, the interest at the UK's
+         Earth First! Action Update when Jo, a "committed
+         environmental and anti-corporation activist", e-mailed to
+         ask how she could get involved in future campaigns like J18,
+         which she "really enjoyed". Particularly intriguing was the
+         Hotmail address that "Jo" sent her request from: "Jonathan
+         Ungoed-Thomas" <joth99@hotmail.com>. Could Jo be somehow
+         related to JONATHAN UNGOED-THOMAS of the Sunday Times, whose
+         recent work has included a searing expose on how "J18
+         activists" have become "cyber-terrorists", "trained in
+         hacking techniques to attack the computer networks of banks
+         and financial institutions"? Amazing that a journalist so
+         well-versed in infowar didn't realise that creating a fake
+         hotmail account involves putting a false name in the sign-up
+         form. Still, he is learning. Previous Ungoed-Thomas pleas
+         have come from "Laura", who contacted eco-advocate George
+         Monbiot offering her assistance as a "committed
+         anti-corporatist". That time, the canny Laura e-mailed her
+         kind offer directly from Jon's Sunday Times work e-mail:
+         Jonathan.Ungoed-Thomas@sundaytimes.co.uk. Jonathan - get out
+         of the building! Those cyber-terrorists are IN THE ROOM WITH YOU!
+http://www.guardianunlimited.co.uk/Archive/Article/0,4273,3893320,00.html
+                        - more biting-the-hand-that-feeds-us coverage
+http://www.sunday-times.co.uk/news/pages/sti/99/08/15/stinwenws01012.html?999
+     - sneaky double agent "Laura" poses as journo from Sunday Times!                        
+
+         And with paranoia at an all-time high in the news, we
+         sincerely hope there's no connection between the flash
+         floods that hit Las Vegas during Defcon, cyber-terrorists,
+         DNS con, and this week's three-storey flooding of DEMON's
+         headquarters at Gateway House. Demon blamed the fire
+         service, but hell, if "They" have infiltrated the Post
+         Office, Scottish Office, the Sunday Times and Global Climate
+         Control, who can you trust? Incidentally, kudos to Demon for
+         managing to maintain all their network services during the
+         attack. Everything was back to normal by Wednesday,
+         in time for Demon's POP servers to fall over entirely
+         of their own accord. Normal service, indeed.
+         http://www.helpdesk.demon.net/announce/da1999-08-18a.html
+                         - insert "devil and deep blue sea" joke here
+         http://www.godhatesfags.com/
+              - "smiting" is *so* Old Testament; now He re-routes DNS   
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "LINEONE says portals are future for ISPs" reports this
+         month's PC DIRECT (special 1997 retro edition)... presumably
+         it kept melting in the post: http://www.baskinrobbins.com/
+         ... in NME interview, MEL C concedes Spice Girls "partly to
+         blame for... much shit"... singer/ guitarist of yelping
+         Scots popsters BIS sustains "horrific injury to his
+         testicles" (ibid)... in accordance with NTK prophecy
+         [1999-07-16], PSX and N64 down to 80UKP... KANSAS CITY STAR
+         illustrates National Clown Week with pic of John Wayne
+         Gacy... one connection that'll make you say "JESUS" at
+         http://www.jesusconnection.org/guestbook.html ... JARED
+         DIAMOND believes German beer industry inefficient relative
+         to American: neglects obvious "tastes less of piss"
+         rejoinder... Falco: NETSCAPE SERVER... amazon.gr accuses
+         AMAZON.COM of hacking, claim "they pinged our banners"...
+         DAVID BRAKE posts *another* animal sex URL to SILENT
+         TRISTERO: http://www.bbc.co.uk/education/clock/seven.shtml
+         ... "This site is not yet on the worldwide web" reckons
+         http://www.whsmiths.co.uk/ ... if this car was any less AUDI,
+         it'd be a FORD: http://www.ntk.net/doh/990820topgear.gif ... 
+         record A-LEVEL results - *again*... rude replies to: "what
+         is a security BACK DOOR?" at http://www.askjeeves.com/ ...
+         
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Now in its third year (as we are), and we're getting a
+         bit bored of plugging THE MIND SPORTS OLYMPIAD, next week
+         from tomorrow 1999-08-21 at (appropriately enough) Olympia
+         Conference Centre, London. With a few exceptions - "Creative
+         Thinking", "Mental Calculations" (but no sign of 1997's
+         "Computer Programming" contest) - it's just a load of silly
+         board games: Backgammon, Bridge, Chess, Countdown, Scrabble,
+         and "Skat" (assuming that's not the art of irritating jazz
+         rapping). Why no genuine real-life skills, like Quake or
+         pub quiz...
+         http://www.mindsports.co.uk/
+      - or a "Scanners" stare-out to make each other's heads explode?
+
+         Probably more brain-stretching at the first ever UK
+         SKEPTICS' PICNIC, this Sun 1999-08-22 at Clarence Gate,
+         Regents Park, London (near Baker St Tube). "Bring your own
+         food, drink and homemade UFO," they advise. "A prize will be
+         offered for the UFO that flies the furthest." According to
+         the site, chief unbeliever Wendy Grossman recently appeared
+         on "This Morning" unsealing a "cursed box" claimed to bring
+         death to all who open it...
+         http://www.skeptic.org.uk/
+                 - hope she doesn't mix it up with all the hampers...
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         Well, it's old news in some sense, but then when you're
+         discussing updates to the SINCLAIR QL platform, anything in
+         the last decade is a bit of a scoop. The Q40 is a *red-hot*
+         new implementation of the QL hardware, using Motorola's
+         blistering 68040 40Mhz microprocessor, to attain speeds
+         comparable with a 1995 68K Macintosh - plus it runs all your
+         favourite QL software, such as... umm... SBASIC, and ah..
+         oh, all that Psion office stuff, we guess. RRP for the QL40
+         is 330UKP, merely twice the cost of a second-hand Macintosh
+         LC475. The machine has been around for a few months, but the
+         latest news is that the ongoing reimplementation of the
+         cutting-edge QL operation system, QDOS, now supports full
+         audio. And does it run Linux? To which the answer is "hell,
+         yes". Followed by a muted scream.
+         http://www.q40.de/
+                       - QDOS floppy disk support! Up to 32MB of RAM!
+         http://www.geocities.com/SiliconValley/Bay/2602/q40.html
+                     - world domination, one micro-platform at a time
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+         
+         BRION "LEON" JAMES' incept date kicked in last week... YES!
+         YES! GOD! YES! http://www.oreilly.com/catalog/lmstorms/ ...
+         SNUFF IRC: http://www.giggage.com/scott/ ... Nazis bombed a
+         lot of cemeteries - to prevent allies creating ZOMBIE ARMY?
+         http://www.contaminatedland.co.uk/sere-dip/estd-uxb.htm ...
+         memo to Jerry Hall: you know PAUL ALLEN likes his "slashes"
+         the "wrong way around", don't you?... SKOOLDAZE '99 out for
+         summer: http://www.retrospec.co.uk/rjordan/klass/index.htm
+         it's playing "Yankee Doodle" on the TRS-80 all over again:
+         http://jya.com/tempest-cpu.htm ... retro-emulate THIS:
+         http://www.gameandwatch.com/ ... Kevin Smith's Christian-
+         baiting DOGMA due for UK release on Boxing Day... Calista
+         Flockhart and Diablo skellingtons? As sick as ZDNET gets:
+         http://www.gamecenter.com/Features/Exclusives/Separated2/
+         ... ROSS ANDERSON researches back-up sources of funding:
+         http://www.cl.cam.ac.uk/~rja14/lottery/lottery.html ... THE
+         BEWITCHED PROJECT: http://home.att.net/~chmilnir/bewitch/
+         ... and which frickin' website was DR EVIL referring to:
+         http://www.sh.com/ or http://www.shh.com/ or what?...
+         
+
+                               >> GEEK MEDIA <<
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> hard-faced Michelle Gellar takes encouraging steps back
+         towards her old, cuter haircut, but still bites off the
+         funny lines in neato long-take series 3 opener of BUFFY THE
+         VAMPIRE SLAYER (8pm, Fri, Sky1)... pop-promo profile
+         MIRRORBALL (12midnight, Fri, C4) reflects on Jonas "Smack My
+         Bitch Up, Ray Of Light, My Favourite Game" Akerlund... Jean
+         Claude Van Damme uses the excuse that he's some sort of
+         TIMECOP (9.30pm, Fri, BBC1) to nip back and marry Ferris
+         Bueller's girlfriend... and nice set pieces (and chess
+         pieces - spoofed by Austin Powers 2) but not much else in
+         archly scheduled '60s style-over-content soundtrack vehicle
+         THE THOMAS CROWN AFFAIR (3.30pm, Sat, ITV)... C4 seems to
+         have kept those "Vidz" blokes away from BRUCE LEE WEEKEND
+         (from 10pm, Sat, C4), including arguably the best comic
+         adaptation of the '90s, THE CROW (10pm, Sun, C4)... Holly
+         Hunter, Sigourney Weaver swap psychotically large email
+         attachments with Harry Connick Jr in sub-Silence Of The
+         Lambs serialer COPYCAT (9.30pm, Sun, BBC1)... since VIDEO
+         DIARIES (11.45pm, Sun, BBC2) normally only lasts 5 minutes,
+         would it be cruel to point out this one - by a stammerer -
+         takes 50?... and a female video game designer hacks bank
+         accounts in promising sounding '80s cybertrash THRILLKILL
+         (2.35am, Mon, ITV) - nothing, it appears, to do with the
+         cancelled Virgin beat-em-up (widely available at a warez
+         streetmarket near you) or the band "My Life With The Thrill
+         Kill Kult" of nearly the same name...
+
+         FILM>> annoyingly, we couldn't get any preview VCDs of
+         unhurried, unrequited prodigy-on-the-loose overachiever
+         comedy RUSHMORE (http://www.capalert.com/capreports/ :
+         arrogance against fair authority; hatefulness and vengeance
+         between minors and toward adults; using bees to effect
+         vengeance; starting a leaf fire on school property) - but
+         with all the "quirky" reviews plus the incomparable Bill
+         Murray, we're hoping for Good Will Ghostbusting or
+         something... some surprisingly good stuff around this week:
+         John "Die Hard, Last Action Hero" McTiernan's flashy
+         idle-rich thriller THE THOMAS CROWN AFFAIR (imdb: art-thief
+         / billionaire / businessman / insurance-agent / museum /
+         remake) - a superior remake of that famously ancient heist
+         romance "Entrapment", released earlier this year... Robert
+         Altman's chirpy Deep South suicide ensemble COOKIE'S FORTUNE
+         (http://www.capalert.com/capreports/ : insane behavior; lies
+         to implicate another; inappropriate touch; hateful talk of
+         the deceased; graphic suicide by gunshot to head) is fun if
+         you can stay awake through it... of course Hugh Grant's
+         "Notting Hill" meets "The Sopranos" lame duck MICKEY BLUE
+         EYES (imdb: mafia) is terrible... but biggest disappointment
+         lurks in Katie Holmes cut-to-ribbons Stepford teens drama
+         DISTURBING BEHAVIOUR (imdb comment: "I always take time to
+         watch the movies of Dawson's Creek stars"), despite a script
+         by Scott "Con Air, Things To Do In Denver" Rosenberg -
+         nothing to do (we think) with the Salon correspondent of
+         exactly the same name...
+
+         FOOD COURT>> some extraordinary accusations flooding in from
+         shocked witnesses all round the country, including the
+         limited edition return of your dad's CADBURY'S AZTEC (40p in
+         a fancy food shop in London) - "based on an original
+         Cadbury's recipe" (ie basically a Mars bar)... following
+         their "giant polo" treachery, NESTLE are re-introducing
+         pudding corner offshoot MINI SMARTIES to the confectionery
+         counter: 49p for pack with "over 101 inside" - actually an
+         oddly over-engineered giant plastic smartie that twists
+         open, revealing a small orifice through which the smarties
+         queen can birth her tiny offspring directly into your
+         mouth... and, most heinously of all, the CHAMPAGNE
+         CRUNCHIE (35-37p) "with the flavour of a splash of bubbly" -
+         ie covered with foul mini-liqueur-type chocolate (officially
+         it's "Sparkling White Wine" flavour to stop them getting
+         sued by wine-lovers, the French etc)... plus, have NESTLE
+         considered rebranding the single-finger TWIX as "Unix"?...
+         never mind the new GOLDEN GRAHAMS CD giveaway: Sainsbury's
+         are bundling a disposable KODAK ADVANTIX CAMERA (UKP8.99)
+         with a free "Instant Barbecue", appealing to that vast
+         demographic who don't buy cameras because they don't have
+         any outdoor meal events to photograph... KELLOGGS' new
+         CEREAL AND MILK BARS (25p each) aren't bad at all, despite -
+         or perhaps because - the "milk" takes the form of a curious
+         white-chocolate coating, not a runny centre. Available in
+         Frosties, Coco Pops and new Sugar Puff-alike "Smacks"
+         variants - though, The Grocer points out, kids aren't going
+         to pester their parents "Can I have a Smack please?"... and
+         finally, some just-announced sci-fi survivalist treats for
+         the coming Christmas Millennium: after being named "Official
+         Supplier of Confectionery to the Millennium Experience",
+         MARS are launching a giant 2kg CELEBRATIONS selection in a
+         transparent, Dome-shaped bowl (price TBA) - the ideal target
+         for NESTLE's missile-shaped TIME CAPSULE (UKP4.99) and its
+         fun-sized Kit Kat payload... but it's left to PETTY, WOOD -
+         makers, we think, of the official Barney and Action Man
+         Advent Calendars - to really push the envelope with their
+         CHOCOLATE RUSSIAN ROULETTE, whose "spinning gun" mounted on
+         the box lid can point to one of 11 praline-filled chocs or
+         the one containing "red-hot chilli" - perfect for settling
+         those tricky "who lives, who dies" disputes in *your*
+         family's Y2K bunker...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+           It is registered at the Post Office as "Geekmedia's gone too."
+                          ( http://antinews.com/xtc/ )                     
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Caution: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

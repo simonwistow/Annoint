@@ -1,0 +1,319 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____02/10/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+        "Gordon Moore and Intel have greatly speeded up science by
+        improving computers. I know because I'm Intel inside myself!"
+            - STEPHEN HAWKING, on Moore's donation to Cambridge Uni
+                   ...those dancing bunnymen must piss you off, though?
+
+
+                                >> HARD NEWS <<
+                                 siouxsie sues 
+
+         As indentured servants on the Murdoch plantation, we're
+         obliged to cover the launch of SKY DIGITAL as our headline
+         story. Catastrophically for them, no-one invited us to the
+         UKP1million party, making their stupid new service nothing
+         more than bunch of Digera-doo-box losers with a "mmm I'm a
+         first adopter how many Discovery channels can I take in one
+         go, mmm?" rip-off starter pack, especially that [.tv]
+         rubbish. Now, what's the excuse of the websites for Capital
+         Radio and the Daily Star? They replaced their front pages
+         with 640x480 Sky banner ads, praising the revolution in
+         television non-viewing to the heights. An astounding
+         rebranding, given that the Capital site consists almost
+         entirely of attempts to establish its own micro-brand, and
+         the Daily Star is actually owned by United News & Media,
+         sworn enemy of Murdoch and investor in competing multiplex,
+         SDN. So, how much does the front page of your flagship site
+         cost? Would 50,000UKP sound about right?
+         http://www.skydigital.co.uk/ 
+                  - don't click on the dingo! DON'T CLICK ON THE --
+       
+         A few branding cock-ups with BT's big launch too.
+         BTClickPlus, as the penny-a-minute, dead-on-arrival Net
+         service is now called, launched yesterday to a chorus of
+         slapped foreheads. Not only has that whole Dixons thing
+         queered the pitch, but - it seems - Oftel insisted that the
+         service have the "Plus" suffix added (so competing telcos
+         can make clicking noises too?). Continuing the naming
+         disasters, BT launched www.talk21.com, their hotmail-clone
+         which manages to incorporate the worst aspect of freemail
+         systems - those stupid numbers at the end of your username -
+         INTO THE ADDRESS ITSELF. Fans of BT senior management
+         figures immediately grabbed the two most promising usernames
+         - peter.cochrane@talk21.com, and ian.vallance@talk21.com.
+         "Ian" even e-mailed the head of the service, and asked him
+         to phone his enclosed mobile immediately. Which he did. And
+         was very put out when "Ian" turned out not to be the MD of
+         BT, but a normal punter. On a Cellnet phone.
+         http://www.btclickplus.com/ 
+                                   - Click! Brrrrrrrrrrrrrrrrrrrrr...
+         http://www.talk21.com/ 
+                                            - Ingenious! A Y199* bug.
+
+
+         BACKSPACE, the relaxing Net club in London's medieval
+         district, has a problem. Not the most affluent of dives, and
+         still some centuries away from that lucrative public
+         offering, they've always had a bit of a slack server
+         presence. Well, after scraping enough money to buy a Sun
+         Ultra-1, they spent three weeks moving over the many
+         non-profit Websites they've hosted for years. Then, a couple of
+         Apache conf file statements away from going live, those
+         bloody London Sun thieves popped in and took it to wherever
+         all these boxes are going. Unlike the ICA, whom we hate,
+         Backspace don't have any sponsors or insurance, and are now
+         stuffed. So here's their plea: if you've got a spare
+         box, and want to put the Web space back into Backspace,
+         contact Harl at the address below. They haven't said what
+         the reward would be, but I reckon it'll work out at free
+         lifetime membership and guest of honour status at the NTK
+         Christmas party (right guys?)
+         http://www.backspace.org/
+         - we still think there's going to mafia-run prime-cracking nest
+         mailto:harl@backspace.org
+                                   - "corporate tattoos" also offered
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                  
+         EASYJET to diversify into creating "first chain of
+         cybercafes" - hey, they could call them EasyNe-- hmm, hold
+         on...  HOMEHIGHWAY uses unique byte->bit compression scheme:
+         http://www.homehighway.bt.com/trafficxxx/cut_3/how-work/l_1.htm
+         ... TOMB RAIDER movie script "really bad"... AMAZON down
+         again... HOTBOT moves from UNIX to NT - "Server Busy!"...
+         HUMANS have destroyed "30% of world", says eco report (hope
+         it wasn't the bit we were standing on)... APPLE pull out of
+         Apple Expo UK  - say it's "insufficiently Mac-oriented"...
+         DUBLIN uploads Y2K bugfix - traffic grinds to halt...
+         NINFOMANIA uncover ingenuous "jive" filter... Inevitably,
+         THE CROW III... victims of school bullies often anxious,
+         younger than bully, avers BRITISH MEDICAL JOURNAL ...
+         ALTAVISTA EUROPE - say Falco to the camera! ... the folks
+         who did "Toilet Mouth Bob Hope" move into IT consultancy -
+         http://www.balaams-ass.com/journal/theworld/y2k.htm ...
+         http://www.netscape.com/download/ -- doh!...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Sadly, UK TECHNOLOGY WEEK doesn't seem to be a national
+         7-day celebration of the practical applications of
+         scientific principles, but just the sinister tri-partite
+         confluence of UK COMDEX, NETWORLD + INTEROP, and the equally
+         oddly-named EXPO COMM 98 rewiring the entire Earls Court
+         complex from Tue-Thu, 06-08/10/98 (free entry if you
+         register online). No-one's heard of  the Telecommunications
+         Users' Association, who present their UK COMMS AWARDS on the
+         evening of 07/10/98, but they surely deserve a little prize
+         of their own for Most Creative Spelling - or Clumsiest OCR -
+         On An Official Webpage, with "catergories" like "Best
+         Costomer Service", "Most Innovative Use of LANIWAN", "Best
+         Corporate Web of Internet", or even "Best Advertising
+         Campagne" (sic).
+         http://www.uktechweek.co.uk/
+            - "What will I see there?" "Manufacturers and providers!"
+         http://www.tua.co.uk/awards_Catergories.html
+       - "Best Total Sohmun Dealership", "Best IT Manger" - and so on
+
+         Um big APACHECON pow-wow is um due next um 14/10/98-16/10/98
+         in San um Francisco. Chief Behlendorf talk to um geek tribe:
+         smoke patch pipe with um cypherpunks from c2net. Heap
+         Big Blue sponsorship mean raids from um forked-tongue
+         suit-skins. Conference big-wigs see suit-skins: scalp 'um
+         big time with respectable "conference fee" pricing. Reckon
+         real hacker might blag 'em discount if they ask right
+         people. Mail um apachedeal@spesh.com, write um subject line
+         "thankyou c2net", they cut registration price $695
+         instead of $1295. Hush mouth you no tell um told you.
+         http://www.apachecon.com 
+         - if you squint, you can barely tell how racist this humour is
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Sure, you can have free Webspace servers, and virtual mail
+         accounts, and multiple pops, and even a freebie shell
+         account, but if you want to point your domain where you
+         wish, you'd still have to talk a Bastard Operator from Hell
+         into giving you a DNS record. Until, that is, now. Well,
+         actually, the PUBLIC DNS Server has been around for
+         ages, but we've only just spotted it, and a straw poll said
+         that not many others knew about it either. Granite Canyon
+         lets you insert your A and MX records for your domain into
+         their server, pointing where'er you want, for free. Simply
+         register your domain with your local NIC, nominate the
+         correct NS servers, and away you go. Downside? Well, you do
+         still have to know what A and MX records are, which
+         practically makes you BOFH yourself: but then, all newbies
+         become sysadmins eventually. Just before they transform into
+         beings of pure energy.
+                                        http://soa.granitecanyon.com/
+                  - we *know* YOU knew. Think of the little people...
+
+        
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         COLIN POWELL on the AOL board? What kind of CD-ROM "roll-out"
+         are they planning?... uniquely British surname humour at:
+         http://www.microsoft.com/backstage/default.htm... BUFFY
+         coming to BBC2... a whole TLD - on hold?
+         http://rs.internic.net/cgi-bin/whois?tv17-dom ... MACOS for
+         the rest of us http://members.xoom.com/yaro/macos/unload.htm
+         ... one more weapon in the war against design:
+         http://webreview.com/wr/pub/web98east/24/spooltut.html ...
+         Cameron's SOLARIS?... ohuh - NEW SCIENTIST has gone mad:
+         http://www.newscientist.com/ns/981003/editorial.html ... so
+         AMIGA is still alive - but what's that clambouring out
+         from a nearby grave?! It's an Atari ST bent on revenge!
+         http://www.milan-computer.de/html_gb/produkt.html ... NASA,
+         40 year old organisation, prepares to send John Glenn, 77
+         year old senator, on Discovery, 15 year old shuttle - per
+         senilia ad astra... drug driving... Dan says give him your
+         CACHE - http://www.shout.net/~nothing/cache-cow/ 
+         http://wwww.upmystreet.com versus
+         http://www.jang.dircon.co.uk/arse.gif ... from
+         the makers of REBOOT: Gulliver 3D?... "Let's face it -
+         people eat with their eyes, right?" - well, no, but don't
+         let that stop you, http://www.faxfoods.com/ ... 
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> future Mike Myers sidekick Dana Carvey co-pilots the
+         surveillance-obsessed movie original BLUE THUNDER (10.30pm,
+         Fri, LWT)... "Do I look at all funny in this?" inquires
+         irritating Arabella Weir in Hunter & Docherty ad agency
+         sitcom THE CREATIVES (10pm, Fri, BBC2) - not quite the
+         Absolutely reunion we were hoping for... but - wheel out the
+         Stonehenge set! - it seems to be Unofficial Prog Rock Week,
+         starting with Yes / Emerson, Lake & Palmer tracing their
+         ROCK FAMILY TREES (11.15pm, Fri, BBC2), and continuing with
+         a whole Roger Dean landscape's-worth of MUSIC MACHINE
+         (4.45pm, Mon-Fri not Wed, Radio 3)... BBC2 gets "Knievel" on
+         your ass by devoting EVEL NIGHT (8.55pm, Sat) to the cult
+         '70s accident victim... C5 makes a near-identical copy of
+         the theme night idea in its CLONE ZONE weekend - with
+         monozygotic triplets competing on gameshow 100 PER CENT
+         (7pm, Sun, C5), and docu THE CLONE RANGERS (8pm, Sun, C5)
+         featuring promisingly named IVF advocate, Dr Richard Seed...
+         cute casting (Linda Hamilton, Liv Tyler) fail to get much
+         sense out of autism drama SILENT FALL (11pm, Sat, most
+         ITV)... http animal Tim Berners-Lee sure to enliven the
+         final GLORY OF THE GEEKS (8pm, Sat, C4)... and secret
+         origins of The Lone Gunmen should stop it from seeming like
+         it's been 100 episodes of the same old bloody X FILES
+         (9.25pm, Sat, BBC1)... man unjustly convicted on evidence
+         that he enjoys sitcoms, eats cake, lives with mum, in
+         above-average Brit TV movie A LIFE FOR A LIFE (9pm, Sun,
+         ITV)... "*more* Cringely?" you ask, as Bob X hosts new
+         "information revolution" series CONNECTED (11.40pm, Mon, C4)
+         - be patient, they get around to Alan Cox eventually... hard
+         to imagine how they'll get a '90s romance element into
+         largely faithful 18th century seagoing saga HORNBLOWER (8pm,
+         Wed, ITV)... and suitably punishing self-mutilation footage
+         makes you ask: who is the real "sick man" in SICK: THE LIFE
+         AND DEATH OF BOB FLANAGAN, SUPERMASOCHIST (11.30pm, Thu, C4)
+         (- it's the guy who hammers nails through his penis)...
+
+         FILM>> our favourite themes, done bad - if there is any
+         message in Bruce Willis chase thriller MERCURY RISING (imdb:
+         wine-cellar / cryptography / boy / chicago / autism /
+         secret-service / based-on-novel / puzzle / drama / codes /
+         murder / undercover / secret-agent) it's steganographically
+         buried deep in standard action cliches... is it just us, or
+         does the Shockwaved site for Brit-made Northern Ireland
+         journo-violence farce DIVORCING JACK (imdb: based-on-novel /
+         belfast / ireland / murder / politicians / black-comedy)
+         look just like the beginning of the You Don't Know Jack
+         CD-ROM game?... a wider than usual release (ELIZABETH's
+         kingdom only reaches London) for the exceptionally odd
+         BUFFALO '66 (imdb: kidnapping / drama / comedy / road /
+         football), though its plot - convict grabs Christina "Addams
+         Family" Ricci, pretends she's his wife - surely risks
+         attracting "the wrong element", if you know what we mean...
+
+         BLITTERATURE>> we fear that longtime NTK contrib Ben Moor may
+         already have purchased the entire UK stock of SHINY ADIDAS
+         TRACKSUITS AND THE DEATH OF CAMP (Berkeley Boulevard,
+         US$14.00), the best-of compilation from San Francisco's
+         erratically brilliant, now-deceased Might Magazine (imagine
+         a well-written, less insufferably posh version of The
+         Idler)... reassuringly, it even has a Michael Moore-style
+         attack on the ever-admirable - yet ultimately disappointing
+         - Michael Moore ("How do you explain your success as a
+         political humorist when you know nothing about politics and
+         you're only occasionally funny?"). MM's recycling skills
+         once again come to the fore in his new tell-all
+         behind-the-scenes self-aggrandising ADVENTURES IN A TV
+         NATION (Boxtree, UKP9.99) - "Most of the 10 million people
+         who watched our show couldn't figure out how the hell we
+         snuck this thing on TV"... ricketiest bandwagon of the month
+         hauls in TOM CLANCY'S NET FORCE (Hodder Headline, UKP6.99 -
+         4.99 in Tesco's), an awesomely anachronistic attempt to set
+         Clancy thriller cliches in a) the year 2010, and b) at least
+         partly in VR. Regular NTK start-quote provider Lloyd Wood
+         highlights the extent of AOLer Clancy's research at
+         http://www.xprize.org/press/clancy.html.asp , where personal
+         computers were co-invented by one "Bob Wazniak"... and good
+         to see fan webmasters Curtis Saxon and Robert Brown getting
+         a credit at the back of upcoming STAR WARS INCREDIBLE
+         CROSS-SECTIONS (Dorling Kindersley, UKP12.99) - though this
+         slim volume (32 pages) fails to acknowledge their more
+         controversial conclusions, like the Ewok extermination
+         caused by the nuclear-winter destruction of Death Star II
+         (http://www.physics.usyd.edu.au/~saxton/starwars/holocaust.html)... 
+
+           "Hi! This is the ezmlm program. Remember me? I used to
+           manage the ntknow@lists.ntk.net mailing list. Now I'm here
+           in downtown Kosovo, explaining the details of my mail
+           bounce probe to trigger-happy conscript snipers.  Thanks
+           to the NTK guys for sorting out the new gig! I also love
+           all the mail I got after I told every subscriber that they
+           were about to be thrown off NTK if they failed to obey my
+           incomprehensible instructions.  Thanks, one and all! I
+           think my favourite was from "Mil" from Wolverhampton
+           University, who wrote 'What the hell does all that mean,
+           then? Should I start hoarding canned food in the cellar?'
+           I'm not sure, Mil - although my masters do tell me that I
+           was suffering from "resource starvation" at the time, so
+           maybe it's me who needs the food!!! Haha. Well, time to
+           doff the fluorescent target suit and go dance in the
+           street again.  Love you all!  Write soon! Failure to do so
+           will need to your removal from the list without further
+           notice!! Byeee! xxxx - ezmlm"
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+               It is registered at the Post Office as "haxx0red"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

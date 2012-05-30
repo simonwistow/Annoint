@@ -1,0 +1,317 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-10-29_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+                 
+         "We don't make these investments to get a return," said Andersen
+         spokesman Andrew Giangola. "We make them because we want to be
+         involved in a hot and exciting online business." 
+http://news.cnet.com/news/0-1008-200-922493.html?tag=st.cn.1002newsfd
+       ...perhaps not the management consultancy you'd paid good money for
+
+                                >> HARD NEWS <<
+                            they thought they knew 
+    
+         Just when you thought you'd wait forever for a free DVD
+         player, along come two cracks at once. The first was the
+         leaking onto the Linux LIVID player mailing list of the DVD
+         Content Scrambling System code used by the Jon Johansen's
+         cracker for Windows, DeCSS. Bits of the code was already
+         written and GPL'd by Derek Fawcus - which means that the
+         rest of the code could end up under GPL - hence the leak.
+         More importantly, though, it also meant that the CSS
+         decryption algorithm was now open to public scrutiny. It
+         only took a few hours to confirm what everyone's been
+         suspecting for a while. The CSS decryption system sucks. It
+         works by storing a whole bunch of keys on each DVD. Industry
+         overseers, the DVD Forum, hand out one matching decryption
+         key to each manufacturer: if any of these company's
+         equipment got cracked, future DVD disc's were to be pressed
+         without this key, making the crack (and that company's
+         hardware) unusable with new movies. Quite whether the Forum
+         would ever dare to carry out this threat against its own
+         licensees is unclear. It's a bit moot now, though, since
+         open cryptanalysis of the CSS algorithm showed that it was
+         possible to brute force *all* of the current keys in a few
+         days. In order to preserve the system, the DVD Forum would
+         have to disable all keys, turning every hardware player sold
+         so far into a pile of scrap iron. Boy, these Hollywood guys
+         are *smart*, aren't they?
+http://livid.on.openprojects.net/pipermail/livid-dev/1999-October/000548.html
+                                            - the story in a nutshell
+http://livid.on.openprojects.net/pipermail/livid-dev/1999-October/000430.html
+                            - next round: let me see you wobble those tracks
+
+         Who do you trust? The people at THE NEW YORK TIMES, or a
+         porn site manager? What a relief to know that sometimes it's
+         the same thing. The NYT was the first (but not the only)
+         Proper Media outlet to report, open-mouthed and panting,
+         that on the Web, "Models Auction Their Eggs to Bidders for
+         Beautiful Children". A story like that is fit to print
+         whether it's true or not, so maybe it's understandable that
+         the Times' journalists didn't bother to look too closely at
+         the RONSANGELS.COM's credentials: like, for example, the
+         fact that the site invited potential fathers to pay $24.95 a
+         month to look at "larger pictures" of said models. Or that
+         RONSANGEL's sister sites included eroticboxoffice.com and
+         the Creative Nude Network. Without getting too distasteful
+         about it, it looks like RONSANGELS ovary play was rather
+         more intent on re-directing sperm than distributing eggs.
+         The good Professor, Feed's CLAY SHIRKY, has the details:
+         http://www.shirky.com/ 
+                              - CLICK HERE FOR XXXXX NYT EGG FACIALS!
+         http://www.panix.com/~clays/biff/
+                                                        - TR0ST B1FF!
+         http://www.ronsangels.com/
+                - sure *looks* like a bona fide medical facility
+
+         Even we can't be bothered to follow the Stray Duck/Lame
+         Duck/Spruce Goose/Goose Chase route to its bitter end, with
+         TELINCO's foray into the Not For Profit world of 0800 ISPs
+         panning out, as expected, to a disappointing two-week's
+         0845, one week free operation. Still, there's always another
+         more rainbow to chase. Is CALLNET0800, due to launch
+         1999-11-01, really what it claims? No call charges, no
+         sign-up fee, no adverts, no time limits, and no ads, claims
+         the press release from parent company, NORTH AMERICAN
+         GATEWAY. No history, no reputation, and - in the case of
+         NAG's 51% owner, Highpoint, no Website, mutter the cynics.
+         So is NAG another cowboy Telco? Well, it doesn't look
+         *great*. NAG themselves describe the company as having a
+         "small and scrappy" background, having spent most of its
+         history battling with Canada's own monopolistic telco,
+         Teleglobe over the legality of switched hubbing (the
+         redirecting hack that allows non-US telcos to charge cheap
+         US international rates). Global Light Telecommunications,
+         who own Highpoint, were a spin-off from GST Networks that
+         turned acrimonious following a law suit. Ah, but who cares -
+         the real question is: do they have the bandwidth and funds
+         to cover an 0800 service? NAG, who've been building up a
+         transatlantic ATM link for some time, seem to think so, but
+         then they're only estimating 200,000 users before Christmas.
+         If this is the real thing, they're going to have to handle a
+         lot more than that. And excuse us if we don't believe their
+         claim that they can cope with everyone in the UK
+         subscribing. This might be one scrap which they don't want
+         to win. 
+         http://www.callnet0800.com/
+     - still, we've registered. No point in being *too* prissy, is there?
+         http://www.nag.ca/investor.htm
+                                                           - worrying
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         FUTURE PUBLISHING'S http://www.linuxanswers.co.uk has problems
+         with linux browsers... AMAZON London bus ads claim company is
+         "irresistable" (and "iliterate" too, we guess)... US ISP
+         receives British spam, blocks all .co.uk mail... from the
+         makers of BIBLE TRIVIA http://www.cadaco.com/prod8.htm comes
+         http://www.cadaco.com/prodsn2.htm ... OBSERVER "POWER LIST
+         '99", chosen by scientists, journalists, TV "celebrities",
+         includes odd preponderance of scientists, journalists, TV
+         "celebrities"... BBC NEWS ONLINE celebrates 2nd birthday by
+         messing up content management system, falling over... get
+         naked with QXL: http://catless.ncl.ac.uk/Images/Misc/qxl.jpg
+         ... YAHOO downplays Compuserve membership: (see bottom of)
+         http://dailynews.yahoo.com/h/nm/19991025/wr/tech_americaonline_1.html
+         KEVIN WARWICK garners yet more pointless publicity:
+         http://www.ntk.net/doh/991029cat.jpg ... ALTAVISTA
+         http://www.altavista.com/av3/promo/19_ads_launch.html
+         announces that "beneath humanity's raging debates, there is
+         a common element that unites us all. We're curious. We're
+         all searching for our own answers" - and the answer to "how
+         do you evade the new crap design?" is http://av.com/?text=y
+         ... CLIFF STANFORD cancels own Demon subscription:
+         http://x42.deja.com/getdoc.xp?AN=538965832 ...
+ 
+
+                              >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Blah blah ICA blah blah how new media is transforming
+         contemporary narrative blah blah - blah blah speakers
+         include one of Peter Molyneux's "young friends", Jeff Noon,
+         Alan Welsman (of "Sony Playstations UK"), blah blah NEAL
+         STEPHENSON blah blah UKP10 all day next Sat (1999-11-06).
+         Alternatively, get him to hand-correct the perl code in your
+         copy of Cryptonomicon at London's Forbidden Planet (5-6pm,
+         Tue 1999-11-02)
+         http://www.newmediacentre.com/talk/convergingstories/
+                           - occasionally down due to "building work"
+         http://www.well.com/user/neal/cypherFAQ.html#12
+- still waiting for a patch file that includes the *non-crypto* errors
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         If we had our way, there wouldn't be any of these stinking
+         Weblogs, and you'd be forced to get all your links and shit
+         from the us and the New York Times. But, time moves on, and
+         if you'd like to run your own regularly-updated page of
+         musing and memage, BLOGGER is just the online app for you.
+         It's a toolkit for entering, archiving and URL-catching for
+         your own daily diary that uses ftp to transfer the page
+         (together with your own choice of design) straight to your
+         Website. We're a bit cagey about the whole handing over your
+         ftp password bit, but apart from that, it seems perfectably
+         loveable, and reputable folk like Keith "TBTF" Dawson seem
+         to be down with it, so it's got to be okay.
+         http://www.blogger.com/
+                                  - content management for the people
+         http://www.tbtf.com/blog/
+          - and we can't even get it up for Friday afternoons no more
+         
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         follow-up to SPECTRUM TECHNO: http://listen.to/HeyHey16K ...
+         too much "sonic hedgehog" makes your eyes go funny:
+         http://www.newscientist.com/ns/19991030/nshorts.html#9 -
+         could explain girl in PLAYSTATION ads... KUNGFOO HOW-TO:
+         http://easyweb.easynet.co.uk/~dee/kungfoo.html ... FLASH now
+         up to 1989 videogame standards: http://www.gigablast.com/
+         ... weblogs slagging off DAVE WINER in return for lucrative
+         scripting.com referrals... Yet Another WORLD'S SMALLEST
+         WEBSERVER: http://people.ne.mediaone.net/fwhite/ace/ ...
+         TRANSMETA update: http://www.transmeta.com ... tempting
+         invite of the week: http://www.temporal.org/girlfriend/ vs
+         http://members.xoom.com/_XOOM/primall/mahir/ ... but can
+         you snap your high scores? http://members.aol.com/JWSurine/
+         ... "A stomach-turning tale so sexually offensive, even that
+         ungodly crippled pervert Larry Flynt would hurl his fat
+         little body from his wheelchair to avoid seeing it", reports
+         (spoof) http://www.landoverbaptist.org/ of TOY STORY 2...
+         that SCARY DEVIL MONASTERY just got a whole lot scarier:
+        http://dailynews.yahoo.com/h/kpix/19991021/lo/19991021229.html
+         ... OGHAM gets Unicode allotment: useful for fixing those Y0K
+         problems...
+
+
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+          
+         TV>> Harrison Ford runaround THE FUGITIVE (9pm, Fri, ITV)
+         slips back into the schedules, postponed from 3 weeks ago
+         for featuring a spectacular train crash... not too many
+         tricky choices for Victor Lewis-Smith best-of TV OFFAL -
+         PRIME CUTS (12.10am, Fri, C4), given there was, at most, 24
+         minutes of decent stuff in the whole series... while MEMOIRS
+         OF AN INVISIBLE MAN (11.05pm, Fri, BBC1) forms a handy,
+         pre-Escape From LA reminder of how terrible John Carpenter
+         is nowadays - and frankly, HALLOWEEN (9.40pm, Sat, BBC2)
+         isn't no Nightmare On Elm St either... a treat for the
+         discerning cineaste on Sunday: semi-witty Clooney/ Tarantino
+         gorefest FROM DUSK TILL DAWN (10pm, Sun, C4); famously
+         porn-packed Roman orgy CALIGULA (12am, Sun, C4); and, of
+         course, MIGHTY MORPHIN POWER RANGERS: THE MOVIE (5.40pm,
+         Sun, C5)... confusingly, John Gordon-Sinclair is credited as
+         Gordon John Sinclair in classic teen footy romance GREGORY'S
+         GIRL (10pm, Mon, C4)... Bruce Willis plays two Prohibition
+         -era mobs off against each other in Yojimbo remake LAST MAN
+         STANDING (9pm, Tue, C5)... and Jodie Foster falls for a
+         couple of highly gifted blokes who, in their own way, have
+         each been "failed by the system", first in child prodigy
+         weepie LITTLE MAN TATE (8pm, Wed, C5), then in definitive
+         serial chiller THE SILENCE OF THE LAMBS (10pm, Thu, C5)...
+
+         FILM>> obviously tricky to assess its original impact after
+         all the hype, but that doesn't stop THE BLAIR WITCH PROJECT
+         (imdb: low-budget / map / maryland / myth / witchcraft /
+         film-maker / cinema-verite / fake-documentary / legend /
+         forest / lost-in-woods) from being a lazy-paced dud-ending
+         big-screen disappointment - you know, Americans must *love*
+         passably competent executions of moderately original ideas.
+         Still, the bickering film students are convincingly annoying
+         - get ready to root for the bad guy... slightly more
+         promisingly, John "Sure Thing" Cusack battles Billy Bob
+         "Armageddon" Thornton over Angelina "Hackers" Jolie in
+         air-traffic-control unofficial-Sling-Blade-sequel geekmatch
+         PUSHING TIN (http://www.capalert.com/capreports/ : a married
+         man taking a married woman other than his wife to a
+         restaurant; wearing underwear as street clothes; open mouth
+         kissing and exchanging the contents; "The universe tends
+         toward chaos" which is a lie about God's Perfection. Things
+         in the universe tend toward equilibrium, not chaos.) Mike
+         "Four Weddings And A Funeral" Newell fumbles the romantic
+         comedy but almost recaptures the testostero-fest videogame
+         faceoffs of "Tron"... James Woods, Sheryl "Laura Palmer"
+         Lee, and straight-to-video stalwart Thomas Ian Griffith mark
+         the B-movie status of sub-Buffy shoot-em-up JOHN CARPENTER'S
+         VAMPIRES (http://www.bbfc.co.uk/ : "Passed '18' for strong,
+         gory vampire violence") - nonetheless, a vast improvement on
+         unfunny Aussie-in-London carry-on carrion MAD COWS (imdb:
+         comedy): Anna Friel, Noel Gallagher, Mohamed Al-Fayed and
+         Sophie Dahl - *together at last!*...
+       
+         FEEBDACK>> not often we get to revel in what the imdb calls
+         "incorrectly regarded as goofs" (great name for a band, by
+         the way), but thanks to everyone who wrote in alleging the
+         GOLDFISH credit card was "run by Centrica" (nee British Gas)
+         and not HFC, the folks behind "Marbles" [NTK 1999-10-22].
+         Well, http://biz.yahoo.com/prnews/991005/il_hfc_ban_1.html
+         clarifies that HFC "issue" these cards on behalf of third
+         parties, while http://www.marbles.co.uk explains why they're
+         promoting the rather less-than-snappy getmarbles.co.uk...
+         a similar case of mistaken identity seems to be the chief
+         concern of GREAT WESTERN TRAINS, who've apparently contacted
+         the ISP hosting http://stop.at/signal.109 [NTK 1999-10-15],
+         citing an attempt to "pass off" their logos as well as
+         calling the content "offensive and insensitive". Not so,
+         says the webmaster, who "got an email from a passenger from
+         coach G the other day telling me it was the funniest thing
+         he'd seen for a long time"... and two readers praised our
+         regular links to http://www.capalert.com/capreports/ -
+         ROBERT BASKERVILLE reporting that searching the front page
+         for "Not computed" takes you instantly to the kind of film
+         you're looking for. CHRIS O'SHEA further added "How about a
+         competition to find the stupidest sentence/paragraph made
+         from the NSA spook keywords list?" [as in NTK 1999-10-22:
+         http://www.attrition.org/attrition/keywords.html ], with his
+         own examples; if you don't send in any better ones we'll
+         print them in a future issue... no howls of outrage from
+         defensive Dreamcast owners as yet, though "GRAF" alerted us
+         to the fact that the Sonic Adventure music "when Tails and
+         Sonic get split up (also acessible as the sound test -
+         events -> sadness)" sounds like the track "After All", from
+         The Cardigans' album, "Life"... but the biggest reaction, as
+         ever, was to last week's comics review [NTK 1999-10-22]: "It
+         really winds me up when fanboys fall for the hype around
+         X-Men", frothed MATT HALL, going on to recommend Bryan
+         Talbot's Heart Of Empire ("sequel to original steampunk
+         classic Luther Arkwright"), Preacher, and the collected
+         first part of DC Batman's No Man's Land, as if we hadn't
+         heard of them. In his defence, "I didn't fall for the hype
+         about the comics, just the movie", pleads review writer BEN
+         MOOR, dissing all Matt's choices in return. NTK regrets that
+         this correspondence is now closed...
+
+  
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "favourite, snide"
+        http://www.mouthorgan.com/bin/nimue?type=article&date=19991014
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

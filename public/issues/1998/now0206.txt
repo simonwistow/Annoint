@@ -1,0 +1,315 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____06/02/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+               "Capitalism is not merely the practical, but the only
+                                         *moral* system in history."
+                 - THE COMMITTEE FOR THE MORAL DEFENSE OF MICROSOFT,
+               quoting Ayn Rand, http://www.capitalism.org/microsoft
+         Yeah? So what's with the ".org" charity domain, ya freeloaders?
+
+
+                               >> HARD NEWS <<
+                               slightly bemused
+
+         Yet another glorious week for BILL GATES. Taking a break
+         from the trouble in his home country, he visited the Swiss
+         skiing resort of DAVOS (site of the World Economic Summit,
+         and home of the Creator of the Daleks), where he was feted
+         as a leading entrepreneur. His company was voted "Most
+         Respected Company Operating In Europe Irrespective Of
+         Country Of Origin" by the FT and Price Waterhouse. His
+         lawyers managed to get Special Master (and Mac lover)
+         Lawrence Lessig thrown off the DOJ case. Rumours that
+         Netscape were about to bought up were rife. Internet
+         Explorer overtook Navigator in Japan. What, he thought, as
+         he strode breezily into yet another high-powered meeting
+         with Belgian business leaders, could possibly go wrong now?
+         http://www.cinenet.net/users/jaybab/noel.html
+                   - L'Entarteur: "If things go wrong, we eat them."
+         http://www.xs4all.nl/~ranx/gates
+                        - launch of Entarta '98 : the *real* footage
+         http://www.xsite.ltd.uk/pj/pi.htm
+                                        - Oops, sorry. Wrong Pi Man.
+
+         Last week, the US government released a report on domain
+         names that indicated that the plans made by leading Net
+         founding fathers to move the domain name servers from
+         InterNIC to Switzerland might not happen. This pleased
+         groups who thought that these Net elders - principally the
+         old hands at the Internet Society - might have too much
+         power if they could control where the servers were put.
+         Meanwhile, the day before, one of said elders, Jon Postel,
+         went a little, er, "postal" and moved the servers anyway -
+         over to his home machines at the University of Southern
+         California. Postel said later he had wanted to see what
+         problems would arise from such a move, and anyway, he put
+         the servers straight back, so what's the problem? Ira
+         Magaziner, the government figure in charge of the new
+         proposals, was quick to forgive Postel, asking critics to
+         cut him "some slack". Reports that Postel had suggested
+         that he might "accidentally misplace" the Net next time
+         remain unconfirmed.
+         http://www.isi.edu/div7/people/postel.home/pictures.html
+                            - Jon, put that Internet down. Jon? JON!
+
+         How much would *you* pay for one and a half million badly
+         HTMLed home pages? LYCOS (the George Harrison of search
+         engines) bought up TRIPOD (the Ringo Starr of Geocities
+         clones) for $58 million this week - about forty dollars for
+         every slacker ass the GenX community hosts. A quick search
+         on AltaVista reveals "58 million" to be the predicted value
+         of the entire Java market in 1997, the loss made by
+         Compuserve in the last quarter of 96, and the total number
+         of Americans who are now officially overweight. Do you
+         think this is some kind of hint?
+         http://www.lycos.com/
+         - same search on Lycos shows.. um, a trivia page... a bakery...
+              damn, how do you get decent results out of this thing?
+         http://www.tripod.com/tripod/letters/.index_cache/content.chtml
+         - Say! I can look up my own name in AltaV- uhh... in Lycos!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         www.nma.co.uk enters beta-testing, 3 weeks *after* official
+         launch date... hard-hitting John Romero interview on MSN UK
+         News reveals Daikatana "launched last year", at the same
+         time as John "Carnack"'s Quake II... ISP churn very high,
+         uncovers in-depth study... gullible US TV networks buy
+         appalling Granada sitcom "Holding the Baby" as well as
+         "Faith In The Future"... THRESH thrashes www.pgl.net ...
+         bits of International Space Station nicked by Russian
+         workers - selling them for scrap... Mark Thomas bleeps 23
+         "fucks" from his latest show... www.whitehouse.com porn
+         site upsets Clinton: can't imagine Mary W is too happy
+         either... not all free e-mail accounts are used, Internet
+         World discerns... Jamiroquai describe contribution to
+         GODZILLA soundtrack as having "a synthesized bass line,
+         electronic drums, and a bit of guitar"...
+
+
+                              >> EVENT QUEUE <<
+                          external interface adaptors
+
+         MILIA '98, the "International Content Market for
+         Interactive Media", starts in Cannes from Sun 08/02/98 -
+         11/02/98, and, for two reasons, may not be the usual lame
+         multimedia crowd backslapping each other over art-wank
+         CDROMs that then go on to sell *no copies at all*. For the
+         first time, they're officially recognising the games sector
+         (aka the multimedia that sometimes even makes money), with
+         noted has-beens like Sid Meier, John Romero, Richard
+         Garriott and (yawn) Peter Molyneux. And second, they claim
+         to be running a Scandinavian-style Demo Party, with cash
+         contests for teen-hacker teams and their "Mixed Demos"
+         (includes PC 4K executables), "Musical Scores", "Bitmap
+         Graphiques" and, er, "Navigation Interfaces". Sadly, the
+         compos start and end with a "cocktail party", kind of
+         missing the spirit of every real demo event we've been to:
+         turn up, code non-stop for 48 hours, fall asleep on your
+         souped-up Amiga.
+         http://www.milia.com - reads like a babelfish.altavista job
+         http://www.wanadoo.fr/animation/demo-milia
+         - "all drugs are illegal and software pirating is a crime"
+
+         The South Bank Centre has a series of speakers lined up
+         this month on the theme of "Miracles and Machines". Coming
+         up are talks by Brian Aldiss, Bruce Sterling, Melanie
+         "Hard, Soft and Wet" McGrath (assisted by the
+         preternaturally young Daniel Pemberton), and John Browning,
+         ex-editor of Wire-ptthhhh. Excuse me. Wired UK Maga-spptth-
+         *TWITCH*-hhakakakkaKAKKAKA-zine. First up, though, as
+         sacrificial as they come, is NTK Editor DANNY O'BRIEN,
+         who'll be acting out at least one half of the MIT Media Lab
+         motto "Demo or Die!" next Wednesday at 7.30pm. Danny
+         writes, exclusively for NTK: "This is a bloody nightmare. I
+         thought I'd have worked out something for this by now. I've
+         had 6 months to think about it, and now it's Friday, and
+         I've still got no clue. If you could ask your readers to
+         possibly click on the link below, they'd make me very
+         happy. Otherwise, it's going to be catastrophic. And I may
+         have to take a few others with me when I go."
+         http://www.ntk.net/sbchorror/
+                            - he also promises to buy you all a pint
+
+
+                                >> TRACKING <<
+                          catches for your batchftps
+
+         Dave "Not Winder" Winer shipped Frontier 5.0, the latest
+         version of his scripting language for Macs and PCs this
+         week. Simultaneously his Web site vanished off the Net. He
+         says that was due to a "storms", and a "flood in the
+         basement". We think it's an act of God. Winer took one of
+         those "organise your life" 32KB 1980s outliners and turned
+         it into a universal, platform-independent programming
+         language. That can't be right, can it?
+         http://www.scripting.com/frontier5/
+              - a language you click with a mouse to use. Not RIGHT!
+
+         Adobe Pagemill 3.0 is available for a preview playaround.
+         Pagemill was one of the first Web page editors, back before
+         everyone went back to doing it in Notepad or BBEdit. New
+         features include DHTML support, an "advanced search and
+         replace" (wooo!) and "dozens" more improvements (that'll be
+         bug fixes, then). Despite its origin, this preview is only
+         available for PCs. Nothing for those Photoshop-loving Macs.
+         http://www.adobe.com/prodindex/pagemill/main.html
+                                                     - Et tu, Adobe?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         TANDY closing 69 UK stores - hey, that asking for postcodes
+         thing must really scare the straights... Leisure Suit Larry
+         to host YOU DON'T KNOW DICK... www.freedomship.com... Mike
+         McShane, Dennis Leary and Miles off of Frasier in new PIXAR
+         movie... Y2K movie optioned... Resident Evil 2 tops
+         Japanese PSX chart; hotly tipped Gran Turismo slips to
+         number 3, beaten by CHOCOBO'S MYSTERIOUS DUNGEON...
+         www.fork.de/games/diana/play.htm ... after the Spanish Lady
+         Di, comes French memorial "Enfin la paix" Excel virus... US
+         Congressman believes Net could make women pregnant:
+         http://rs9.loc.gov/cgi-bin/query/z?r105:H04FE8-30: - does
+         the President know? ... topical user interface widget o'
+         the week: http://catalog.com/hopkins/piemenus/
+
+
+                               >> GEEK MEDIA <<
+                          what's on the other side?
+
+         TV>> the weekend starts here, chortles ex-Tomorrow's-
+         Worldlie Howard Stableford in the 100-minute mathfest of
+         OPEN SATURDAY (9am, Sat, BBC2), with the Morlock-like
+         Professor Ian Stewart setting puzzles for the unwary...
+         cameoing Bob Monkhouse puts on a few pounds - presumably
+         just to keep up with the other characters - in JONATHAN
+         CREEK (9pm, Sat, BBC1)... classical music series YO-YO MA:
+         INSPIRED BY BACH (6.05pm, Sun, BBC2; also 8.05pm, Sat)
+         sticks the international violinist among 3D-rendered 18th
+         century architecture - intriguing competition for MICHAEL
+         BARRYMORE'S MY KIND OF MUSIC (6.30pm, Sun, ITV)... and we
+         still think the Sega light-gun coin-op is substantially
+         more fun than Spielberg's plodding JURASSIC PARK (7pm, Sun,
+         BBC1)... a "mirror writer" (Mon) and rocket builder (Thu)
+         are the non-sporting prodigies paraded as RAW TALENT
+         (7.55pm, Mon-Thu, C4)... it's no interviewers, no voice-
+         over, no kidding in the (As-Seen-On-TV-style?) accounts of
+         CHILDREN OF DIVORCE (9.30pm, Mon, BBC2)... Claire Grogan
+         spoofs Sinead O'Connor while the priests judge the "Lovely
+         Girls" contest in funny-as-ever repeated FATHER TED
+         (10.55pm, Mon, C4)... building their strength up for their
+         TV return next week, old pals Lee and Herring tuck into Mel
+         and Sue's LIGHT LUNCH (12.30pm, Tue, C4)... schoolyard
+         "internet problems" hit HEARTBREAK HIGH (6.15pm, Tue,
+         BBC2)... the 15 minutes of futuristic penal colony
+         performance art in EXPANDING PICTURES (11.45pm, Tue, BBC2)
+         sound like a very long sentence indeed... oddly, Abel
+         Ferrara's BODY SNATCHERS (10pm, Tue, C4) is but a pale
+         imitation of the '70s remake, despite Gabrielle "Press
+         Gang" Anwar and borrowing the squealing pig noise... for
+         some reason (upcoming censorship?), they're now reshowing
+         REBOOT (4.45pm, Thu, ITV) from the end of series 2... and
+         the best line in the Forrest-Gumpy Trials And Tribble-
+         ations timewarp episode of STAR TREK: DEEP SPACE NINE (6pm,
+         Thu, BBC2) goes to Geordi LaForge: "Those are *Klingons*?"
+
+         MOVIES>> cinema's first "gay comedy" (unlike, say, The
+         Birdcage), IN AND OUT was last-minute postponed last week -
+         to avoid facing the still-massive Titanic, and not because
+         the idea of a gay Kevin Kline would have confused audiences
+         for the Sigourney Weaver/ Christina Ricci supercooled pot-
+         boiler THE ICE STORM (imdb: drama / marital-crisis /
+         dysfunction / drugs / adultery / based-on-novel / affair-
+         extramarital / sexuality / sexual / storm / 1970s /
+         waterbed / alcohol / electrocution / family / key-party)...
+         Disney remade The Absent Minded Professor as FLUBBER (imdb:
+         comedy / based-on-adaptation), yet weirdly forget to put
+         any decent gags in, or not to cast Robin Williams...
+         another laugh-a-minute Thomas Hardy adaptation in THE
+         WOODLANDERS (imdb: drama / based-on-novel / costume), with
+         Emily Woof - the pregnant girl off the cellphone ad -
+         tragically falling for bloke with a 1970s footballers'
+         perm... and a typically dark Gallic soiree in CLUBBED TO
+         DEATH (LOLA) (imdb: French) - Beatrice Dalle? Beatrice
+         *Dull*, more like...
+
+         GLOSS>> the semi-Australian "21st Century culture" mag 21C
+         was shaping up to be the legible Mondo 2000, but now it's
+         taken its emulation perhaps a step too far and ceased
+         publication altogether... still, arguably a better fate
+         than actually being taken over by RU Sirius, as seems to
+         have befallen music-and-fashion cyber-nonsense AXCESS...
+         other recent casualties include the second incarnation of
+         the frankly hilarious SPY, a closure ominously presaged by
+         regular readers' letters bemoaning their inability to
+         understand its urbane New York witticisms... on a more
+         upbeat note (just), aspiring Net journo Garret Keogh
+         informs us that Flamingo ("VNU's answer to Stuff magazine")
+         is the code name for new launch COMPUTER ACTIVE, due out
+         any day now and apparently helmed by Jan Howells, formerly
+         of Ziff-Davis's doomed Computer Life... new cover of SPIN
+         features South Park's Eric Cartman, Janet Jackson-style,
+         and hopefully gives info on the filthy animators' upcoming
+         feature film... back over here, .NET has caught up with
+         South Park (p21), but then goes and spoils it all with a
+         profile of its 3 top female Quake players, all from the US
+         (p74), and an insufficiently detailed apology about the
+         "barrage of offensive email" sent to subscribers of the
+         hacked netmag-news mailing list (p90)... and finally, RADIO
+         TIMES continues its very public struggle with font
+         substitution errors - that is, unless they *want* those
+         subheads printed in tightly tracked Courier (p8, p133)...
+         and this week runs a complaint from one of Britain's
+         biggest slash fans - www.hermit.org/Blakes7/ - about "plot
+         holes" in the recent Blake's 7 radio play (p128);
+         presumably not enough "Beat Up And Rape Avon" scenes for
+         their liking...
+
+                                     ----
+
+
+         Nicholas Saunders, the entrepreneur behind Alternative
+         London, numerous Neal's Yard companies (including one of
+         the first DTP one-stop-shops in the UK), the author of "E
+         for Ecstasy", "Ecstasy Reconsidered", and most recently the
+         man behind www.ecstasy.com, was killed in a car accident on
+         Tuesday. He was 60. There is a Web site for those wishing
+         to offer their memories of him at www.stain.org/nicholas/
+
+         The Ecstasy Website will continue: to continue Nicholas'
+         work, you could buy a Ecstasy testing kit, and pass your
+         results on to the rest of the world. Basic Ecstasy test
+         kits are available from the Green Party Drugs Group on 0171
+         737 0100.
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "slashdot mutual fanclub".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

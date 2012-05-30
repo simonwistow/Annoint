@@ -1,0 +1,404 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____17/10/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                 "Everything that we have seen over the last 10 days
+           [concerning communication problems with Pathfinder probe]
+           is like a twisty little maze with passages all the same."
+    - Jennifer Harris, NASA mission manager (and current NTK obsession)
+                                            > TALK TO PROBE
+                                            Nothing happens.
+                                            > EXAMINE PROBE
+                                            You see nothing special.
+                                            > HIT PROBE WITH STICK
+
+
+                               >> HARD NEWS <<
+                                same old feuds
+
+         NASA's Cassini probe failed to deliver its expected payload
+         of 72 pounds of plutonium to the people of Florida on
+         Wednesday. Embarrassed officials admitted that the probe,
+         which cost $1.2 billion dollars, is now instead en route to
+         irradiate evolving lifeforms on the moons of Saturn, some
+         2 billion miles off the predicted course. Cassini, one of
+         NASA's last "large, slow, and please God not out of
+         control" projects, has only one more chance to devastate
+         Earth when it returns for a final swingby of America in
+         August 1999. It will then be travelling at 43,000 miles an
+         hour, at a distance of about 500 miles above the planet's
+         surface - coincidentally about the same distance as Bill
+         Gate's Teledesic satellites (let's hope he's contracted out
+         the navigation software). Apart from the lethally toxic
+         isotope, the satellite also carries a CD-ROM with 600,000
+         signatures from well-wishers, although NASA look unlikely
+         to refer to it as "the probe that has your name on it"
+         until way past Mars.
+         http://www.jpl.nasa.gov/cassini/
+               - includes unfortunate use of the phrase "What's Hot"
+         http://www.animatedsoftware.com/cassini/index.htm
+                                        - in the interest of balance
+         http://www.jpl.nasa.gov/cassini/model/
+                                            - in the interest of fun
+
+         Those loony Eurocrats have done it again! In another insane
+         set of inpenetrable and imperious directives, they've
+         announced that restricting strong encryption "could well
+         prevent law-abiding companies and citizens from protecting
+         themselves against criminal attacks", and that the US's
+         favoured key escrow system would give criminals "additional
+         ways to break into a cryptographic system." Also, they're
+         looking at investigating Bill Gates for monopoly practices.
+         Once again, big government has shown itself to be out of
+         step with the fast-moving world of the Net and ... hold on.
+         Those are both really good moves. What's going on?
+         http://www.ispo.cec.be/eif/policy/97503.html
+         - you can't even trust the government to be wrong these days
+         http://www.yahoo.com/headlines/971016/tech/stories/ms_1.html
+         - next step: a pan-european ban on Macromedia Director
+
+         Record-breaking sales of FORMULA 1 '97 swerved for an
+         unscheduled pit-stop when Formula One Administration Ltd
+         (FOA) took cheeky Scouse joyriders Psygnosis to the High
+         Court and asked to see their license (specifically, the
+         license Psygnosis thought they had from FOA to use F1
+         logos, teams, cars, tracks and drivers in the game).
+         According to COMPUTER TRADE WEEKLY, FOA dispute this,
+         especially since the rights may not be FOA's to sell - many
+         teams, drivers and circuits now prefer to do their own
+         deals (Jacques Villeneuve wasn't in F197 for this very
+         reason). Currently, F197's main problem may be just one
+         unauthorised logo; Psygnosis hope to start re-supplying the
+         game with just this changed in a week or so. But if your
+         copy invites you to go for a spin round "Bronds Hotch" as
+         "Damien Hull" or something, now you know why.
+         http://www.psygnosis.com/
+         - apparently got their track info "by watching F1 on the telly"
+         http://cygnus.uwa.edu.au/~snowmanf/pages/slotcircuits.html
+                 - can you really copyright a big wiggly oval shape?
+
+         The MIT Media Lab put on a show for the luminaries of the
+         stick-machines-on-your-head world this week, at the FIRST
+         INTERNATIONAL SYMPOSIUM ON WEARABLE COMPUTERS. Beta test
+         cyborgs got to rub enhanced shoulders with Leonard Nimoy,
+         author Frederick Pohl and whale pal Sylvia Earle (what were
+         they planning - an "unplugged" rendition of Star Trek IV?).
+         The usual demos were shown, including Steve Mann's ongoing
+         headcam experiment (plus his recent foray into what is best
+         described as "underwearables"), and presumably BT's rubbish
+         "office on your wrist" mockup. Best paper by far sounds to
+         have been "Stochasticks", a "Billiards augmentation system"
+         that provides you with a heads-up set of strategic shots in
+         the game. As if no-one would notice.
+         http://mime1.marc.gatech.edu/wearcon/call/
+                 - please drag your visitor pass around at all times
+         http://www.computer.org/conferen/proceed/8192abs.htm#E37E2
+            - I think the guy in the crash helmet might be a hustler
+
+         Bunch of ex-students with nothing better to do set up a
+         shoestring company, call themselves a Net consultancy and
+         sit around all day reserving plush sounding domains like
+         "bt.org" and "virgin.org". It's the start of that multi-
+         million pound Web design industry all over again, isn't it?
+         Not this year it isn't. BT, MARKS & SPARKS, LADBROKES,
+         SAINSBURYS, VIRGIN and SECURICOR took the founders of One
+         In A Million, Richard Conway and Julian Nicholson, not out
+         for lunch, but out to court, accusing them of trademark
+         infringement and "passing off". Fair cop? Well, maybe "the-
+         spice-girls.com" (one of the registrations) *was* pushing
+         it. But these days, even the gentlest of registration
+         intention could land you in court. For instance, Compassion
+         Net, a consultancy who help charities go online, are
+         currently suing Compassion International, another charity,
+         over who has the rights to compassion.com.  And if *they*
+         can't get along...
+         http://www.gina.com/wire/tn/tn970663.htx
+         - one day those N2K people are gonna come after us big time
+         http://www.mercurycenter.com/news/compassion101497.htm
+         - "We are the owners of Compassion.com and we don't like to be 
+                                                           bullied."
+         http://www.nocompassion.com/                    ...no mercy
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         APPLE posts losses... MICROSOFT buy popular festival;
+         rename it "E-Christmas" (no, for once, we're not
+         kidding)... GEOCITIES gets more visitors than MSN...
+         www.bookshop.co.uk has new sections just for erotic fiction
+         and comic strips... PSION MD Peter Norman "retires" at
+         39... PBS snaps up TELETUBBIES... ACORN posts losses... Net
+         full of "unsavoury losers who warp young minds", discovers
+         NATIONAL ENQUIRER... Spam cites Neiman-Marcus cookie urban
+         legend, offers to sell recipe for $5... BT Wireplay
+         relaunching... MIT MEDIA LAB to diversify into toys - you
+         mean that billiards stuff had serious applications?...
+         much-plugged subscription-only Net Soap "Londoners" runs
+         off free Webspace account, is shockingly dull... Steve Jobs
+         "may stay on as CEO"... study shows ergonomic keyboards to
+         be bad for you... same study shows there's a "rise in
+         tension level whenever a computer user approaches a
+         keyboard"... EDGE reports development budget for Fin Fin
+         cyberpet as a "ludicrous" $70bn - maybe they mean yen, as
+         $70bn is approx the gross national product of Portugal...
+
+
+                              >> EVENT QUEUE <<
+                            your personal cronjob
+
+         You'll wish that the world *would* end, when Guardian
+         columnist DOUGLAS RUSHKOFF parks his latest bandwagon to
+         discuss all things millennial at tonight's inaugural
+         CYBERIA LIVE chat/channel/live-link up thing. Supposed
+         cyber-dude author of Media Virus, The Ecstacy Club etc,
+         Doug will no doubt be wowing the crowd with side-splitting
+         observations like "the saddest thing is for the so-called
+         counter-culture and pagan culture to put so much faith in
+         the notion of an apocalyptic discontinuity". Translation:
+         Doug says everything's going to be fine - though would you
+         believe a man who thinks that British people refer to the
+         security services as "the MI5" (page 132 of The Ecstacy
+         Club) or that Public Enemy are "gangsta rap" (page 261)?
+         http://www.cyberialive.com/
+               - biggest debate so far: millennium - one 'n' or two?
+         http://www.users.interport.net/~rushkoff/
+         - "social theorist, journalist and software developer". Riight.
+
+         MARK PAULINE, by contrast, will be using his chat/ channel/
+         live-link up thing to remotely operate SURVIVAL RESEARCH
+         LABORATORY'S Air Launcher - a high pressure teleoperable
+         gas launcher "capable of automatically loading and firing
+         26 beer can sized projectiles weighing 2 lbs each at 500
+         feet per second." Even better, he's then going to pass the
+         remote control of this "lethal mechanical device" to ZKM,
+         The Art and Media Technology Centre, in Karlsruhe, where
+         native Germans will have the opportunity to redefine chunks
+         of the Californian landscape for themselves. Full
+         audio/video feeds are available, although only on CUSeeMe.
+         The SRL guys promise better compression next time: though
+         whether that's compression of video, air, or innocent
+         bystanders they don't specify. The show starts at 19:00 BST
+         on Saturday 18/10/97, and lasts approx 30 minutes "or until
+         all rounds have been detonated".
+         http://www.srl.org/
+         - when SRL played Austria, they thought Serbia was invading
+         http://www.srl.org/shows/austin/show/airlauncher1.JPEG
+                    - now THAT, Mr Rushkoff, is a software developer
+
+
+                                >> TRACKING <<
+                                 obey the bot
+
+         After months of rank staleness, the search engines are
+         trying to get their acts together. Altavista announced a
+         new 100 million page index, three times larger than before,
+         with "virtually no duplicate pages". Wired recently
+         revamped Hotbot, and has re-introduced its topical search
+         engine Newsbot onto the Web after an ill-fated flirtation
+         with an ActiveX-only service. You'd have trouble finding
+         much to get excited about there, though: certainly compared
+         to AskJeeves, the first "natural language" engine that we
+         haven't want to punch in its natural gob. It stomps on
+         Newsbot's "intelligent filtering", which last time we
+         looked had managed to file a Disney Halloween press release
+         under News/Entertainment/Net.Sex.
+         http://www.altavista.digital.com
+                      - about the only thing Digital does these days
+         http://www.askjeeves.com
+                             - even tries to solve personal problems
+         http://www.newsbot.com
+                          - more like the butler in "The Missionary"
+
+         It's not free local calls - strictly speaking, it's the
+         exact opposite - but for most Net users with cable, this is
+         just as good. If you get your telephone line from CABLE &
+         WIRELESS (that is, if you used to get your line from
+         Mercury, NYNEX CableComms, Bell Cablemedia or Videotron
+         before they all got sucked up), you can phone any national
+         number for any length of time on Saturdays for only 50p. So
+         from now until the end of December, you'll be paying only
+         2p an hour for a day's permanent Net connection - if you
+         can get one. The catch is that your ISP must have at least
+         one dial-up line that you can call that *isn't* local to
+         you. Check your ISP for details of faraway POPs.
+         http://www.cwcom.co.uk/  oddly quiet about this
+
+         Is the fast Net connection criminally underused at your
+         company? Then you might like to waste both your time and
+         bandwidth on NBC TV's well-hidden but smart PRETENDER
+         ADVENTURE. I know what you're thinking: It's an "online
+         mystery adventure" produced by a US TV company about a TV
+         show we'll never see. It's also image intensive and uses
+         Java and Javascript and, you know, we think it might not
+         even *exist* via a Lynx text browser. All reasons why we'd
+         never let it get anywhere near this section unless it was
+         very, very good indeed.
+         http://www.nbc.com/thrillogy/pretender/adventure/
+              - we're going to do a Great Pretender joke, aren't we?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         New biography of Oracle CEO titled "The Difference Between
+         God And Larry Ellison"... Windows NT 5.0, beta one, is now
+         up to 27 million lines of code... Star Trek, Las Vegas
+         style... www.theobvious.com RIP ... what's the editor of
+         SFX doing on "Style Challenge"?... the "real" Lara Croft
+         sacked, then instantly re-instated?... monitor Andreessen
+         replacement Eric Hahn's workload with his winebottlecam,
+         hosted by www.hahnfamily.com ... baby boom to follows
+         recent Diana trauma... Poet Laureate Ted Hughes was obliged
+         to excise anti-tech verses from recent work in praise of
+         literacy... "Do you know why we stopped the car?"...
+         Tomorrow's World Magazine to launch... does the CIA troll
+         soc.culture.*?... LOST IN SPACE'S Jupiter 2 launched
+         yesterday... BBC to unveil own US cable channel... If
+         they're not being sold, why are MSN freezing so many
+         external projects? Huh? Huh?... And did Steve Bowbrick cut
+         back Webmedia to pay for his wedding?... ICQ: the fastest
+         chain letter conduit existent... Playstation skipping?
+         Either pay for the 60UKP fix or alternatively - turn it
+         upside down... And the difference? God doesn't think He's
+         Larry Ellison...
+
+
+                               >> GEEK MEDIA <<
+           why don't you turn in and do something less interesting?
+
+         TV >> Stephen Fry rounds off 7 days of trying to appear on
+         *everything*, but can even he can get a plug for Wilde into
+         the ill-fitting socket of SHOOTING STARS (9.30pm, Fri,
+         BBC2)?... this week, Andi Peters' PR-puff piece is called
+         STAR WARS, THE MAGIC AND THE MYSTERY (5.20pm, Sat, ITV) -
+         apparently to commemorate the special editions' recent
+         release on video earlier this month... mad IRA bomber Tommy
+         Lee Jones seems chiefly inspired by kids' board game
+         Mousetrap in BLOWN AWAY (9pm, Sat, ITV), while ROCKY III
+         (11.15pm, Sat, ITV) faces his most terrifying opponent ever
+         - Mr T, from The A-Team... Donna MacPhail no longer shouts
+         through every episode, but THE SUNDAY SHOW (12.15pm, Sun,
+         BBC2) is still evil itself; hold out for Lee & Herring's
+         triumphant shift to this prestigious slot soon... gun porn
+         docu DECISIVE WEAPONS (8pm, Mon, BBC2) was only
+         *pretending* to be dead (hoping to catch the enemy off
+         guard!), and resumes with a repeat about the UK's "novelty"
+         Harrier jump-jets winning the Falklands... how dull is the
+         "revised" EQUINOX (9pm, Mon, C4) about the "world's biggest
+         cybercrime"? Let us count the ways... one of the more
+         light-hearted X FILES (9.30pm, Wed, BBC1) recounts the
+         story of Cancer Man, and may even be a spoof of Dark Skies
+         (itself surely just a spoof of The X Files)... the usual
+         cliches ("eugenics", "master race", "playing God") pop up
+         on the HORIZON (9.25pm, Thu, BBC2) about Dolly the sheep.
+         But will they also question those hideous, supposedly
+         natural "clones" - identical twins?...
+
+         MOVIES >> Eric Bogosian wrote Talk Radio, Richard Linklater
+         made Slacker, so no surprise that their collaboration on
+         SUBURBIA (imdb: comedy / drama / racism / generation-x /
+         suburban) consists of twentynothings sitting round talking
+         in a grim, but entertaining, way... official site for WILDE
+         (imdb: biographical / drama / playwright / poetry / rights
+         / gay / historical / homosexuality / love / obsession) must
+         be the first for months without a Shockwave game (not even
+         a CGI that produces witty epigrams). Still, it does quote
+         reviews like "an upfront portrayal of the scribe's gayness"
+         (Variety)... sadly, SHOOTING FISH (imdb: romance / comedy)
+         isn't a dramatised history of www.suck.com, but a daft
+         kiddie caper whose neatest con is getting any over-5s to go
+         see it in the first place...
+
+         SLASH >> Fresh from FrisCon, the private convention for fan
+         writers who enjoy the premise of their two favourite male
+         TV or movie heroes getting into bed together: The location
+         was a smart hotel near San Francisco airport, where staff
+         are more used to professional travellers than Professionals
+         fans... 90 women checked in plus the cousin of one of the
+         con committee and his lover - they went down well, or so it
+         was claimed... At the con party, most turned up wearing
+         this year's theme of cowboys and indians. Winners were the
+         boys, one wearing just a fur skirt and the other a
+         transparent cowboy outfit, his modesty hidden beneath a
+         very tight pair of cycling shorts - yum, yum... The latest
+         slash zines were available in the dealers rooms, and the
+         art show revealed recognisable characters in some very
+         interesting positions together... The music video comp on
+         Sunday had those magic moments set to popular songs... Top
+         new slash show this year was US TV cop series The Sentinel,
+         although Kirk and Spock, Starsky and Hutch, and Bodie and
+         Doyle remain long-time favourites... The con raised over
+         $1600 for a local AIDS charity, with my contribution for
+         some raffle tickets winning me a set of spurs and handcuffs
+         - wonder what I'll do with them?
+                                                - slashfan@spesh.com
+
+
+                                 >> KWIZ <<
+                               win UKP UKP UKP
+
+         Congrats to Dave Phelan, who tracked down last week's
+         elusive link, and thus wins a REBOOT fun pack, a copy of
+         C&C-in-space clone CONQUEST EARTH for the PC, the new
+         Sleeper album (which isn't nearly as bad as everyone's
+         making out), and an elusive ticket to the prestigious .NOT
+         awards. Calm down, Dave. You can collect them after class.
+
+         Here's this week's link:
+
+                            Vector then digit
+                            Combine like a telco
+                            with aussie, tight.
+
+               (the format is http://www.xxxxxxx.net/now.fhtml )
+                       ( and it's a haiku, you idiot )
+
+          First correct entry randomly clicked open on Monday AM
+          gets next week's prize. And remember, the grand prize for
+          best site to carry a now.html is still anybody's game.
+          Although we have to say, this week's URL is a contender.
+
+          Details for the confused on http://www.ntk.net/compo/
+          Still time to join in the morally ambiguous fun!
+
+
+                               >> CORRIGENDA <<
+                        for when we're extra "special"
+
+         The meme titled "the best error message put out by IE4.0"
+         unexpectedly quit last week, so here it is again: "We need
+         your fax number so that we can respect your wish not to
+         receive unwanted faxes". And, no, we didn't hear anything
+         back from the Website we gave for games-coder conference
+         Develop '97, so here's the phone number for registrations:
+         0181 742 2828. But be as swift and smooth as the scrolling
+         in Defender, for it starts tomorrow (18/10/97).
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+          It is registered at the Post Office as "Tourbus roadkill".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

@@ -1,0 +1,332 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-10-18_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Based on a preliminary investigation, WorldCom blamed the
+         outage on problems with a 'route table,' or software map
+         that directs traffic to the proper destination. The company
+         declined to identify the route table manufacturer..."
+http://www.reuters.com/news_article.jhtml?type=internetnews&StoryID=1532884
+...police are on the lookout for a cyberterrorist with carpentry skills
+
+
+                                >> HARD NEWS <<
+                                ton-weighing UZ
+
+         NTK's two spiritual forefathers face off at last, when CHUCK
+         "PUBLIC ENEMY" D and BRUCE "IRON MAIDEN" DICKINSON take
+         opposing sides at next week's "This House Believes That Music
+         Is Not For Sharing" debate at the Oxford Union (8.30pm, Thu
+         2002-10-24, Cornmarket St, Oxford, complex admission procedure
+         which we'll go into later). The event also marks a rare UK
+         public appearance by HILARY ROSEN of arch anti-P2P villains
+         THE RECORDING INDUSTRY ASSOCIATION OF AMERICA, and thus a
+         handy leafleting opportunity for the copy-protection-opposing
+         CAMPAIGN FOR DIGITAL RIGHTS - plus a chance to get our new
+         "Corrupt Disc - Inferior Audio" t-shirt at not-available-in-
+         the-shops knock-down prices. Basically, mail tips@spesh.com
+         (with the subject line "Fight The Power") for meet-up details
+         - the Oxford Union is actually a members-only debating society
+         rather than a proper Union like ULU, but does have a mildly
+         complicated guest-admission procedure. Or failing that, we'll
+         just go to the pub and swap mp3 remixes of "Bring The Noise".
+http://www.oxford-union.org/mod.php?mod=calendar&op=show_event&event_id=10
+       - "I'm Running Free", eh Bruce? Not under Palladium you're not
+         http://uk.eurorights.org/issues/cd/button/
+        - actual "CD" logo font looks more like Eurostile Heavy to us
+         http://www.yaleherald.com/article.php?Article=1153
+                            - taking "talk like a pirate" day too far
+http://www.xenoclast.org/free-sklyarov-uk/2002-October/003442.html
+                                 - file under "Yo, bum rush the show"
+
+         Nowhere near Oxford? Well, how about Belgium? November 7th
+         sees the one and only public discussion of the EU's adoption
+         of software patents. If you want to drop by - mail
+         rbray@europarl.eu.int. We're not sure what you should dress
+         up as here. Maybe not a pirate: Delacroix's Marianne?
+         Liberty, crushing a floppy disk? The giant cabbage women
+         from Jeux Sans Frontieres? Probably, actually, as a serious
+         young businessman from a plucky Euro startup who is just
+         about to get kicked in the bottomline if software patents
+         come over here. Although if you could drag Chuck D along,
+         that might liven things up. The public hearing is at
+         1500-1830 CEST on 7 November at the European Parliament,
+         Altiero Spinelli Building, room ASP 1G3, rue Wiertz. B-1047
+         Brussels. Forward to the sarcastic updates of more central
+         European countries at will!
+         http://europa.eu.int/comm/internal_market/en/indprop/comp/02-277.htm
+                                            - those proposals in full
+         http://swpat.ffii.org/players/ahoward/index.en.html
+                         - a non-fishfaced Anthony Howard presides
+
+         And while we're pitilessly banging on about cyberrights
+         issues, criminy, what about those ID card proposals, hey?
+         Thank goodness CHARTER88 and LIBERTY are fighting the good
+         fight with their brand new www.no2id.com Website. Nice site
+         - and it'd be even nicer if, in their fight against breaches
+         of privacy, they hadn't set up their "join our campaign"
+         page to use the notorious spam-gateway script formmail.pl -
+         complete with client-side e-mail address, and the old,
+         insecure version 1.6 from Matt's Script Archive, circa 1997.
+         So, not only are they sending the full list of their
+         supporters in plaintext across the network - they're
+         allowing spammers to cover their tracks in sending everyone
+         mail. Anyone want to volunteer to get them - finally - up to
+         speed on tech issues?
+         http://www.no2id.com/
+         - Or perhaps the 3133t frontpage t3xt was some insider joke?
+         http://www.liberty-human-rights.org.uk/mjob.html
+                                                        - mmm, frames
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         HANSARD debuts in THE RETURN OF PUERILE GOOGLE MISSPELLINGS:
+         http://www.google.co.uk/search?&q=%22home+cunties%22 - see
+         also "orkplace", "damn busters" - and aren't we all getting a
+         bit tired of mind-numbingly repetitive sales pitches by now?:
+         http://www.google.com/search?q=%22are+you+tired+of%22 ...
+         typos in space - nice pics of the "azimuth munting component":
+     http://www.ing.iac.es/PR/archive/wht/erection3.html and "buttery unit":
+         http://www.nasda.go.jp/projects/rockets/hsfd/img/component2.jpg
+         ... continuing the "old jokes" theme - it's hardly hygienic:
+         http://www.ntk.net/2002/10/18/dohsho.gif ... no wonder they're
+         having problems getting them round the conference table:
+         http://www.rediff.com/news/2002/oct/14inpak.htm ... and it's a
+         double case of missing BBC millions - RETEURS to cut costs by
+         $220: http://www.ntk.net/2002/10/18/dohreut.gif ; TXU needs
+         many times that: http://www.ntk.net/2002/10/18/dohtxu.gif ...
+         same results even if you don't ask for "source code to this
+         search script": http://www.redbus.co.uk/search/ ... automatic
+         search-and-replace artefacts - who would you like to have a T-
+         Mobile with?: http://www.ntk.net/2002/10/18/dohtmo.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         ANARCHIST BOOKFAIR tomorrow (from 10am, Sat 2002-10-19, Camden
+         Centre, London, free as far as we can establish from the site,
+         though it's up to UKP8 to see Chumbawamba in the evening).
+         Attractions include the usual UNDERCURRENTS video activism,
+         various newsletters and organisations asking if they should
+         just give up, plus YearZero's ADAM PORTER, who emailed us
+         after being mentioned last year to defend his work on the old
+         "Loaded" site, maintaining he should "get much more flack" for
+         spending "5 years at the Evening Standard" in his twenties.
+         For a more rigorously mathematical demonstration of how,
+         basically, we're all the same, watch out for KENNETH APPEL and
+         WOLFGANG HAKEN celebrating the 25th anniversary of the
+         publication of their proof of THE FOUR-COLOUR PROBLEM (from
+         2pm, Wed 2002-10-23, Cruciform Building, University College
+         London, Gower Street, London WC1, also looks like it's free) -
+         part of a world tour where they always give a different talk
+         to the ones they've given in any adjacent countries.
+         http://www.lms.ac.uk/meetings/poster.html
+            - afternoon filled by four sessions, two different Robins
+         http://www.anarchistbookfair.org/
+                - "largest and most important" gathering in the world
+         http://www.ntk.net/2002/10/18/dohkyst.gif
+                                          - "I yam an anti-christ..."
+         http://www.spiked-online.com/IT/events.stm#privacy
+        - on Tue: free as in "speech", and as in "not costing 7 quid"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Things Apple People Insist On Doing To Piss Other Platforms
+         Off, #343: that thing where they stick two of their swanky
+         LCDs into one Mac, and then move the mouse seamlessly
+         between them while laughing, laughing, laughing. Now fair
+         enough, given the right tech and six hours of wasted setup
+         time, both Windows and Linux can do multi-heading. But it is
+         a curious fact of life that geeks are more likely to have
+         n+1 computers under our desk than we have multihoming
+         machines with two or more monitors stuck into them. Which is
+         where Chris Schoeneman's SYNERGY steps in. SYNERGY lets you
+         move your mouse between Windows and Linux boxes sharing a
+         network (and presumably your desk). When you move the mouse
+         off the left of one screen, it will move to the next PC -
+         and keyboard focus and the clipboard contents will move with
+         it. So you can cut and paste between Windows and Linux, or
+         replace a hardware keyboard/mouse switchbox with software.
+         Currently, you can't drag windows across machines, but, hey,
+         with X remote servers, VNC, and some hackery, anything's
+         possible, right? Best of all, it's not yet ported to MacOS
+         X. So you can show those switching iPod-people what for. Ha!
+         http://synergy2.sourceforge.net/
+                         - it'll get ported one day, but live for now
+         http://netclipboard.sf.net/
+                        - and if you just want the Net-wide clipboard
+         http://www-2.cs.cmu.edu/afs/cs/user/rcm/WWW/RemoteClip/
+                                             - that works on Palms...
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         what the Queen gets instead of subscribe confirmation
+         requests:  http://www.reload-uk.com/society/slide3.html ...
+         old soldiers never die, they just fail to update their
+         Website: http://www.stephenambrose.com/ ... warpumpkin:
+         http://pics.finnie.org/2002/1013_warpumpkin/1013_005-r.html
+         ... USENET continues its rearguard action into print:
+         http://www.ugvm.org.uk ... discouraging MEPs from running
+         warez/mp3z sites: https://www.copernicus.co.uk/WiaB2/Price.htm
+         ... see your license money at work - and potentially die in
+         the attempt: http://projectz.ath.cx/?id=93 ... got: actinium, need:
+         weapons-grade plutonium http://www.theodoregray.com/PeriodicTable/
+         ... perfect partners in the children's fiction section:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0689711034 ...
+         http://news.bbc.co.uk/1/hi/health/2329205.stm versus
+         http://www.tvtome.com/Simpsons/season3.html#ep59 ...
+         ... http://www.sylvanianfamilies.com/storeims/8p.jpg  VS.
+         http://www.cosmopolis.ch/jamesbrown2.jpg ... it's amazing what
+         you can do with ten minutes and a copy of Microsoft Word Art:
+         http://www.digitalspy.co.uk/displayarticle.php?id=9361 ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> real-life "Cracker" David Canter takes a topical look at
+         geographic murder profiling in MAPPING MURDER (8pm, Fri, C5):
+         http://www.cnn.com/2002/TECH/biztech/10/08/profiling.tech/ ...
+         the serial killer fun continues in daft sci-fi VIRTUOSITY
+         (11.20pm, Fri, BBC1) - not to be confused with teen sex farce
+         VIRTUAL SEXUALITY (11.05pm, Mon, C4)... then three very
+         different romantic comedies turn up in the form of highschool
+         Shakespeare-remake 10 THINGS I HATE ABOUT YOU (9pm, Fri, ITV),
+         Ang Lee's relatively kung-fu-free SENSE AND SENSIBILITY
+         (9.05pm, Sat, C4), plus fanboy fantasy CHASING AMY (10.35pm,
+         Sat, BBC2)... presumably it's not addiction to "Everquest"
+         that's stopping young men from venturing outdoors in
+         CORRESPONDENT - JAPAN: THE MISSING MILLION (7.15pm, Sun,
+         BBC2)... Jeremy "Acid Jazz" Deller recreates the miners'
+         strike in ARTANGEL: THE BATTLE OF ORGREAVE (7.45pm, Sun,
+         C4)... "You are the weakest Brit" declares Anne Robinson in
+         GREAT BRITONS - THE TOP 100 (9pm, Sun, BBC2)... as Bruce
+         "Silent Running" Dern takes aim at the Superbowl in 1970s
+         Thomas "Hannibal" Harris terrorist thriller BLACK SUNDAY
+         (11pm, Sun, BBC1)... at least C4 are showing THE LAST
+         BROADCAST (12.40am, Tue, C4) after the wildly overrated BLAIR
+         WITCH PROJECT (10pm, Sun, C4)... and Matthew "Garth Marenghi"
+         Holness plays a BOFH-style visitor to THE OFFICE (10pm, Mon,
+         BBC2) - should be more entertaining than STAR TREK:
+         INSURRECTION (9pm, Mon, C5)... Dawn French returns in low-key
+         gag-free lesbian sitcom WILD WEST (9pm, Tue, BBC1)... Tuesday
+         night is Kubrick night again with FULL METAL JACKET (10pm,
+         Tue, C5)... and following all that pro-"nurture" propaganda
+         from "Faking It", HUMAN INSTINCT (9pm, Wed, BBC1) cheesily
+         redresses the balance in favour of evolutionary psychology,
+         with the first of a 4-part series covering fleeing, feeding,
+         fighting - and mating?...
+
+         FILM>> Vin Diesel maintains that he learned everything he
+         knows from playing videogames - "GoldenEye", presumably - in
+         seemingly interminable Prague-set formulaic Bond knockoff XXX
+         ( http://www.capalert.com/capreports/xxx.htm : long drug
+         manufacturing warfare sequence; industrial metal [Rammstein]
+         and new age metal music [Orbital]; wild revelry, multiple;
+         cheering illegal activity; goal of anarchy through mass
+         murder; massive tattoos)... the European flavour continues
+         with Piper "Coyote Ugly" Perabo in the title role of Franco-
+         Texan "Drop Dead Gorgeous"-alike SLAP HER, SHE'S FRENCH
+         ( http://www.bbfc.co.uk/ : Contains strong language once and
+         moderate sexual references), and kids' subtitled live-actioner
+         ASTERIX & OBELIX: MISSION CLEOPATRA ( http://www.bbfc.co.uk/ :
+         Contains mild bad language and innocuous drug references)...
+         yet the most shocking content comes via the feature-length
+         "non-stop frenetic animated action" of THE POWERPUFF GIRLS
+   ( http://www.screenit.com/movies/2002/the_powerpuff_girls_movie.html :
+         various colorful phrases are uttered; several adult female
+         characters are drawn with shapely bodies and some occasional
+         cleavage; for those with issues about evolution, a display in
+         a zoo shows monkeys evolving into man; mechanical like super
+         primate discharging bombs from his rear end like feces; some
+         impressionable kids might be enticed to imitate some of the
+         action and fighting that occurs in the film)...
+
+         AD MUSIC FOR SIX PEOPLE>> and as FEEDER are starting more and
+         more to resemble the Foo Fighters, and BADLY DRAWN BOY's "You
+         Were Right" fails to correct the impression that he's turning
+         into the bloke out of The Divine Comedy, it was left to SNARK
+         (via http://www.everyonehatesattachments.com/ ) to attempt to
+         identify the string sample in MADONNA's theme to "Die Another
+         Day", which he believes to be Track 5, "The Fencing Lesson",
+         from the soundtrack to "The Mask of Zorro". Meanwhile, ADRIAN
+         FURBY believes his ongoing vigilance "has made the world just
+         that little bit safer" by identifying that "Australian Burger
+         King" Hungry Jacks have a song in their latest campaign "that
+         sounds very much like 'Parklife' by Blur, but isn't". Plus:
+         "What makes a 'soundalike'?", he muses, apparently without
+         provocation. "In my opinion it's a track that uses almost the
+         same chord progression (perhaps in a different key), the same
+         instrumentation, the same production values (eg: reverb,
+         compression), and the same rhythm and tempo as the original".
+         Yup, Adrian, we reckon that ought to help... not many more
+         outstanding ad soundalikes this month - the Jamie Oliver one
+         with the bath sounds a bit like the intro of "A Little Less
+         Conversation"; DAN PEARCE reckoned that "Friskies GoCat think
+         they can get the 2Tone vote by having their soundtrack try its
+         hardest to be 'On My Radio' by The Selector" - but
+         commiserations to all of you who alleged that the Coke ad
+         "where some bloke drives off in a lawnmower without a thought
+         for what the tarmac will do to the cutting blades" (DAN PEARCE
+         again) is "supposed to be the theme from Futurama". "Never
+         Mind The Buzzcocks" team captain PHILL JUPITUS (who doesn't
+         read NTK, but happily shares his wisdom on matters of topical
+         importance) swiftly clarified that this track is actually
+         "EVA" by Jean Jacques Perry, possibly as remixed by Fatboy
+         Slim - and perhaps the inspiration for the Futurama theme in
+         the first place?... in other music news, CLIVE HOLLOWAY noted
+         the omission of the "I was gonna make love to you" verse from
+         the right-click-for-a-scary-copyright-notice Afroman fan site:
+         http://www.addictionnetwork.co.uk/schoolscup.htm [NTK 2002-08-
+         02]; MARK DZ thought we might enjoy - correctly, as it turned
+         out - the "Tainted Perl"-style lyrical rewrites of "Let It Be"
+         and "Wonderwall" over at http://firewallmonkeys.com/songs/ ;
+         but DIARMUID MALLON took the no-prize for pop pedantry by
+         noting that the US Hyundai Sonata ad where the flute music
+         sounds "so very close to Jethro Tull's 'Thick As A Brick' -
+         but not quite close enough, if you're a [Jethro] Tull fan"
+         [reader PAUL BORT, NTK 2002-07-05] is indeed Ian Anderson of
+         Jethro Tull playing "Thick As A Brick" on his flute, this
+         information being widely available in the "excellent" Jethro
+         Tull fanzine, "A New Day". Really Paul, how much closer would
+         you like it to get?...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "what happens when an antiglobalisation activist
+                decides takes on the establishment, not on the
+                     streets but across digital networks."
+                      http://www.furyfever.com/index.asp
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

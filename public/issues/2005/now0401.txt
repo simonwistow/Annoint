@@ -1,0 +1,216 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-04-01_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                      april foo- oh, who can be bothered?
+
+          DON'T TOUCH THE DOUGHNUTS! Just as Grokster supporters,
+          weary from waiting all night for seats at the US Supreme
+          Court, were tempted by pastries from the recording industry
+          lawyers (who, in some sort of metaphor for the whole
+          process, pay folk to wait in line for them), one is
+          tempted to ask: does this high drama mean anything for the
+          UK? Ah, just wait. In the ancestor to this case, 1984's
+          Betamax judgement, the Supremes declared that recording TV
+          shows to watch later (time-shifting) was fair use in the
+          United States. That surprised a lot of copyright scholars
+          at the time - but four years later, time-shifting was
+          declared a explicit, limited exemption under UK copyright
+          law. If making file-sharing software is seen as an illegal
+          activity in the US, there's a good chance that British MPs
+          will decide to make the same true here.  And after that,
+          why not start having another peck at the time-shifting
+          "liberty", too?
+          http://www.wetmachine.com/index.php/item/255
+                            - Mr Valenti makes exceedingly good cakes
+          http://www.bectu.org.uk/policy/pol060.html
+          - oh you're allowed to time-shift *analog* TV, but digital?
+
+          And you think *your* IRC server has lamer problems. The folk
+          working on Jabber, the open messaging protocol intended To
+          Rule Them All, must have been pretty chuffed when the IETF
+          accepted its underlying protocol as a standards track back
+          in 2000. Getting increasingly less chuffed are those in
+          charge of running jabber.org, the protocol's demo server.
+          It sounds like Jabber is getting more and more adoption in
+          the commercial world; and the commercial world doesn't seem
+          to know how to set up its own chat servers. So far, the
+          somewhat amazed sysadmins have watched the usual geek chat
+          traffic be drowned out by: a British company called trackm8,
+          which sells an anti-theft device for trucks (many of which
+          sent their "I'm okay!" messages via jabber.org), a US hotel
+          services company whose hundreds of kiosks report home via
+          jabber.org, and two more companies too poor or technically
+          innocent to run their own servers: Telecom Italia and
+          Cingular. Peter St Andre, patron saint of the protocol, has
+          been kicking the lamers off as fast as they appear, but it
+          does beg the question: Is there a bash.org for machine-to-
+          machine messages?
+          http://www.saint-andre.com/blog/2005-03.html#2005-03-09T11:47
+                                                        - hey, no bots!
+          http://bash.org/?top
+                                              - always good for a link
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          There's been a lot of interest in the appeal to create a 
+          copyright-unencumbered "open" map of London (then the UK) from 
+          Russian satellite photography [see NTK 2005-01-21] - though, 
+          ironically, some confusion about where you're actually 
+          supposed to send your donations. Fortunately amateur-
+          cartographic ringleader JO WALSH should be pinning down those 
+          - and other - co-ordinates at the Thursday-after-next's OPEN 
+          KNOWLEDGE FORUM ON OPEN GEODATA (7pm, Thu 2005-04-14, Stanhope 
+          Centre, near Marble Arch, London W2 2HH, free but RSVP) - we 
+          (and they) are also interested in any ideas you have for a 
+          similar "Open Hardware" evening at some point in the future. 
+          Also, it's just a short(-ish) walk across Hyde Park from MY 
+          PLAY-STATION AT SERPENTINE 2005 (10am-6pm, every day until 
+          April 10, the Serpentine Gallery, London W2 3XA, free), Tomoko 
+          Takahashi's installation comprising piles of toys, games, and 
+          "more than 7,600 objects and domestic machines", brought to you 
+          in conjunction with none other than... Marley Floors. 
+          http://www.serpentinegallery.org/current.html
+            - also hosting "ultraviolet tag" on the lawn, 7pm tomorrow
+          http://www.okfn.org/wiki/OpenKnowledgeForums
+              - donations to: http://okfn.org/geo/ (NB not a wiki page)
+          http://www.spiked-online.com/event
+          - same night as (uncharacteristically free) Spiked wifi chat
+          http://www.guardian.co.uk/comment/story/0,3604,1102753,00.html
+                   - standard warnings about Spiked events still apply
+          http://festival2005.lovebytes.org.uk/
+                  - Sheffield Lovebytes festival starts Thu April 14th
+          http://www.ukuug.org/osa/
+               - closing date for 500 quid UKUUG compo tomorrow (sorry)
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          click here to upgrade to our premium subscribers' archive of 
+          abstract news pics: http://headlesszombiebunny.blogspot.com/ - 
+          vs http://amiabstractornot.highlyillogical.org/ ... truth in 
+          URL construction - weary of increasingly unoriginal toy market: 
+     http://plush-toy.co.uk/acatalog/copy_of_copy_of_Cabbage_Patch_Kids.html 
+          - vs well, it could be meat recipes "for" cats, not "using": 
+          them: http://www.jamieoliver.com/recipes/cats/meat.php ... 
+          inevitably: http://www.martian.fm/words_of_a_dying_man.htm 
+          vs http://durrrrr.blogspot.com/ ... puerile Google goofs o' 
+          the week: http://www.google.co.uk/search?q=skiled+data+entry , 
+          http://www.google.co.uk/search?q=%22is+a+big+crap%22+-shoot , 
+          http://www.google.co.uk/search?q=%22sphere+of+effluence%22 ... 
+          reminds us of Charlie Brooker's party ice-breaker "Which (non-
+          electric) DIY tool would you pick for the bloodiest workplace 
+          massacre - before, of course, then turning it on yourself?": 
+          http://forumserver.twoplustwo.com/showflat.php?Number=1556673 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          The problem with wikis - no, revert that, *one* of the
+          problems with wikis - is that they're too easy to code, and
+          too hard to get right. They're the IRCbots of the '00s. So
+          it's with some relief to see that (the Outlaw) Jimmy Wales'
+          Wikipedia project has ground some good code out from the
+          twin stoney mills of that project's overrun moderators and
+          endless waves of public examination. MEDIAWIKI, which hit
+          v1.4 this past fortnight, is the Wikipedia wiki: it's also
+          easy to install, only really dependent on PHP and MySql
+          (unless you want mathematical equations, in which case you
+          deserve to have Objective CAML foisted your way). Its edges
+          are worn smooth: editing is easy, moderating and standing
+          guard over pages is easy, categorisation, uploading images,
+          all very nicely tweaked. It could do with a WYKI-WYSIWIG
+          textarea, some nicer Firefox helpers, and somebody shouting
+          about the "Enhanced recent changes" box in preferences to
+          every new user. But wait long enough, and perhaps they'll be
+          there too.
+          http://en.wikipedia.org/wiki/MediaWiki
+                                   - it even has a badly-licensed fork!
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> in light of the BBC's alleged schemings to turn any DR 
+          WHO (7pm, Sat, BBC1) publicity into "good publicity" - as per 
+          http://www.wired.com/news/digiwood/0,1412,66913,00.html , 
+          http://www.twistandshoutcomics.com/twistblog/?p=6 - we can't 
+          wait to see how they're going to keep the rest of the series 
+          in the headlines - maybe by killing a member of the public as 
+          per Noel Edmonds' "Late, Late Breakfast Show"?... elsewhere, 
+          sci-fi rages almost unhindered across the schedules, in the 
+          form of Disney's ultra-dense THE BLACK HOLE (3.10pm, Sat, C5), 
+          Queen's "Gernsback Continuum"-style FLASH GORDON (4.10pm, Sat, 
+          C4), and a - presumably CGI-free - live remake of the original 
+          QUATERMASS EXPERIMENT (8.20pm, Sat, BBC4)... but the laughs 
+          should be - slightly - more intentional in the disturbingly-
+          not-hosted-by-Jimmy-Carr? 50 GREATEST COMEDY SKETCHES (9pm, 
+          Sun, C4)... a 90-minute documentary on the techniques of 
+          torture rejoices in the somewhat jovial title WE HAVE WAYS OF 
+          MAKING YOU TALK (9pm, Tue, BBC2)... the "Why this is hell, nor 
+          am I out of it" line should take on unusual resonance when 
+          delivered in a "shopping mall somewhere in the north of 
+          England" for the Faust adaptation of BRAND NEW FLASHMOB OPERA 
+          (8pm, Thu, BBC3)... and you can always disprove people who say 
+          "the remake's never as good as the original" by pointing out 
+          John Carpenter's version of "The Thing", the 1978 version of 
+          INVASION OF THE BODY SNATCHERS (12midnight, Fri, BBC1), or 
+          indeed the crass commercial Hollywood-isation of Kurosawa's 
+          "Seven Samurai" that we know as "The Magnificent Seven"... 
+
+          FILM>> something of a double-bill for Naomi Watts fans, as she 
+          pops up in both this week's more-of-the-same sequel RING 2 
+          ( http://www.capalert.com/capreports/ringtwo_the.htm : having 
+          "sixth sense"; demon in TV pulling boy into it; unholy 
+          manifestations of evil such as toy merry-go-round starting by 
+          itself) and next week's don't-spoil-the-ending "based on a 
+          true story" 1970s-set THE ASSASSINATION OF RICHARD NIXON 
+          ( http://www.bbfc.co.uk/ : Contains strong language and one 
+          scene of strong violence)... while The Rock's dramatic reading 
+          of a scene from "Bring It On" is a rare highlight of rambling 
+          Elmore Leonard "Get Shorty" ensemble-cast follow-up BE COOL 
+          ( http://www.cndb.com/movie.html?title=Be+Cool+%282005%29 : 
+          John Travolta [...] finds [Uma Thurman] sunbathing topless 
+          face down on her patio) - also starring Christina Milian, from 
+          next week's Tommy Lee Jones cheerleader incongruity MAN OF THE 
+          HOUSE ( http://www.capalert.com/capreports/manofthehouse.htm : 
+          young woman massaging her anatomy to entice; six counts of 
+          attempted murder by explosion; abuse of pastoral position to 
+          mask criminal activities)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            "Obey Alan! *Obey Alan!*"
+             http://www.google.co.uk/groups?q=subliminal+ntk+cox
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

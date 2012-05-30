@@ -1,0 +1,339 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-08-02_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Hackers can sometimes modify stand-alone DVD players
+          through a combination of keystrokes..."
+   http://www.wired.com/news/business/0,1367,54168,00.html?tw=wn_ascii
+             ...and sometimes they merely "reach out with their mind"
+
+
+                                >> HARD NEWS <<
+                               in their tap shoes
+
+         First, a big hello to all new listeners. Since yesterday,
+         every ISP with more than 10,000 subscribers has been obliged
+         to provide an interception capability to the government,
+         permitting Approved Types With Non-Judicial Warrants the
+         chance to sniff all traffic from IP addresses. As snooping
+         goes, the new order isn't catastrophic. Only "up to 1 in 10K
+         ... persons" can be monitored simultaneously with these
+         black boxen (which point to a thousand or so taps max with
+         the current Net population, and rising). The Home Office
+         official site says there's no such thing as a black box, and
+         we believe them. Much easier to stick a binary "blackbox"
+         process on the ISP network's existing machines. But with so
+         many shadowy groups now gaining access to even a virtual box
+         - the Secret Service, the Security Service, GCHQ, the
+         police, or anyone in a foreign secret service, we have to
+         ask: how does the interception data get out? Do they all
+         knock on ISP's doors, and queue up to plug copy the files
+         across? Or is the traffic, suitably encrypted, even now
+         flying over the convenient Net ? And if so, just how
+         detectable is it? You'll never know, of course, because of
+         the severe punishments for even discussing the current
+         setup. But if you see any strange packet streams
+         criss-crossing from ISPs in your future - our advice would
+         be: don't delve too deep.
+         http://www.hmso.gov.uk/si/si2002/20021931.htm
+  - did they ever announce the compensation? or even the TAB members?
+         http://www.hmso.gov.uk/si/si2001/20013734.htm
+   - spooks and ISP techies. and you thought ICANN meetings got scary
+
+         Taking the risk of turning NTK into the Ross Anderson
+         Tribune and Herald (with thinktank FIPR co-opted into his
+         klaxon), we note that the wily Scots cryptoanalyst is
+         pursuing another local difficulty. Ross' mother institution,
+         CAMBRIDGE UNIVERSITY, is trying to take over control of all
+         intellectual property produced by employees of the
+         university. Currently, faculty members get to keep what they
+         make in the office - and can spin it off into the doomed
+         shells of startups that litter the Fenland landscape. One
+         impact of this may be the same curtailment of free software
+         projects that the US academic scene is seeing. The Ross,
+         naturally, wants the patents ownership to go to the
+         researchers (coughs, points at self), so they can get chunky
+         loads of venture cap and get rewarded in the postgrad
+         hereafter. We're not so sure. After all, as consumers of the
+         intellectual props, haven't we already paid for this? Wasn't
+         buying up the basic research covered by taxes? No-one should
+         have to pay twice. Fee-free, no strings attached patents;
+         open source implementations from our public universities, we
+         say! Free pie for all!
+         http://www.cl.cam.ac.uk/users/rja14/expropriation.html 
+                       - feels a bit odd being more extreme than Ross
+http://www.salon.com/tech/feature/2002/01/04/university_open_source/print.html
+          - the Regents of the University of California own your head
+
+         Oddly, there hasn't been the usual media song and dance over 
+         PROFESSOR KEVIN WARWICK's news that, in accordance with NTK 
+         prophecy of 2000-10-06, he has spectacularly failed to 
+         transmit any emotional states, "orgasms" or, from the sounds 
+         of things, anything other than gross electromuscular impulses 
+         via the much-vaunted second-generation neural implant embedded 
+         in his wrist. Just one other point that we thought might be a 
+         bit technical for readers of news.bbc.co.uk: Warwick argues 
+         that disabled people with neural interfaces aren't really 
+         cyborgs, because their technology is fixing a defect, whereas 
+         he's giving himself brand new superhuman skills. Of course, 
+         these abilities then turn out to be ones which are only really 
+         useful if you're actually disabled - ultrasonic rangefinding, 
+         for instance, popular amongst roboticists precisely because 
+         it's so hard for computers to extract distance information 
+         from visual input alone. Frustratingly, for the puny, pathetic 
+         fleshbound human visual system, this continues to be a piece 
+         of cake.
+         http://news.bbc.co.uk/1/hi/uk/2163947.stm
+          - see reader comments: the pro-Warwick backlash starts here
+         http://www.ntk.net/index.cgi?b=02000-10-06&l=69#l
+       - didn't predict: he's *still* doing that "Terminator" schtick
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         just when you thought you'd seen the last of PUERILE GOOGLE 
+         MISSPELLINGS: http://www.google.com/search?q=commtitee , 
+         "penison", "pubic school", "final cuntdown", and - just to try 
+         and stop everyone sending in variations on different themes: 
+         http://www.google.com/search?q=%22Failed+to+load+a+template.%22
+         plus http://www.google.com/search?q=asdfasdf ... on a more 
+         philosophical note, however - opinion still divided over: 
+     http://www.google.com/search?num=50&q=%22%2Bis+%2Bthe+last+taboo%22
+         ... expect AFROMAN was going to put some lame Javascript 
+         right-clicking prevention on his lyric pages as well, but: 
+         http://www.addictionnetwork.co.uk/schoolscup.htm ... 22% of 
+         teachers "said they tried the drug on almost a daily basis": 
+         http://news.bbc.co.uk/1/hi/2163416.stm - thought they'd have 
+         made their minds up by now... TITLE: "Welcome to Microsoft's 
+         Homepage": http://www.prison.org/english/ ... "Most computers 
+         are equipped with a finite amount of disc space", patronises: 
+         http://www.bath.ac.uk/bucs/faqs/filespace.html#QUESTION1 - try 
+         using one with an infinite amount instead?... this week's new 
+         GOOGLE GAME: http://labs.google.com/sets?q1=drenk&q2=feck , 
+         http://labs.google.com/sets?hl=en&q1=blonde&q2=brunette ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         DNSCON 5 next weekend, with encouraging news that the UK's 
+         longest-running "open" information security event has now 
+         relocated from one of "the worst hotels in the country" to the 
+         impressive-sounding Imperial Hotel, Blackpool (from the 
+         afternoon of Friday 2002-08-09, UKP30 for Elite, UKP15 for 
+         Newbie badge, "which you will be forced to wear"). The lineup 
+         promises wardriving, haxxor philosophising, loyalty card 
+         swapping, and socialising (read "drinking"), intermingled with 
+         the now-traditional hack-the-flag and sandcastle/beach 
+         defacement competitions, plus a quiz (rescheduled to Friday 
+         night from Saturday, the latter being a time when "most people 
+         want to go out and enjoy themselves"). And, if you're in that 
+         part of the UK, why not educate the rest of the family about 
+         client/server security with a trip to ALTON TOWERS who, since 
+         June of this year, have been running a skating extravaganza 
+         entitled "Webmaster - An Adventure on Ice". 
+         http://www.dnscon.org/
+            - or check out our namesake: http://www.ntkblackpool.com/
+http://www.alton-towers.co.uk/nonshocked/content/see_park/webmaster.htm
+               - "Some scenes may be unsuitable for younger children"
+         http://club.net-art.ws/
+          - tonight in Brixton: '90s throwbacks, demo coders, urban75
+         http://dorkbot.org/dorkbotlondon/
+               - on Wed: the theme for Dorkbot London is "discussion"
+         http://www.lonix.org.uk/tnet-cgi/Lonix?CODE=userMeetings
+                  - on Thu: London Linux meet at Festival of Real Ale 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         RSS readers/aggregators are rapidly becoming the new IRC
+         bots and MP3 library managers: everybody and their dumber CS
+         classmate is writing one and uploading it to Freshmeat. But
+         if we're going to pick one, NETNEWSWIRE LITE for MacOS X
+         looks to be the best of the set so far. Nice and simple,
+         with a manageable interface and nothing too clever clawing
+         out of the backend. No source, but Brent Simmons does
+         promise that the headline browser will be free beer forever.
+         A promise not to be sniffed at in the MacOS X world, where
+         most shareware coders are happy to rip off their fellow
+         users for $5 for a pretty frontend to PRINT ASC(GETKEY()).
+         http://ranchero.com/software/netnewswire
+      - current top headine: the site looks down right now. try later.
+         http://www.ntk.net/rss.php3
+                                                     - a token effort
+         http://alphaomega.software.free.fr/indexus.html#ASCII%20Viewer
+                                   - you think I'm joking, don't you?
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         church of CHARLIE "poisoned mind" BROOKER: www.ccbsite.cjb.net ...
+         http://www.looperscooper.com ... in accordance with Onion prophecy
+         www.theonion.com/onion3701/bush_nightmare.html ... ah, audiophiles:
+         http://pub41.ezboard.com/fr3mixfrm1.showMessage?topicID=731.topic 
+         ... AMIGA SACRILEGE (TM): http://www.retrosystem.com/amiga.htm ...
+  www.ann.lu/comments2.cgi?view=1027626026&category=unmoderated&start=1&9 ...
+         army scared of Microsoft: http://www.army.mil/webmasters/faq/ ... 
+         who'll go crack first, http://www.ruinedbynatwest.com/ or
+         http://www.allianceleicestersucks.com/ ? ... exclusive new LOTR 
+        trailer (nar. Leonard Nimoy) http://www.ntk.net/2002/08/02/baggins.mov
+         ...I remember all their names, I just don't know what they look like:
+     http://story.news.yahoo.com/news?tmpl=story2&u=/020722/168/1wcvd.html&e=8
+         ... battle of the scary US logos: http://www.darpa.mil/iao/ vs
+ http://www.uspto.gov/web/offices/ac/ahrpa/opa/pulse/epulse/pulse0204_home.htm
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> something for everyone tonight, whether you're into 
+         science fiction - Roger Corman's Brian Aldiss adaptation 
+         FRANKENSTEIN UNBOUND (12.10am, Fri, C5); nudity - Liv Tyler, 
+         Rachel Weisz, various old guys in STEALING BEAUTY (11.35pm, 
+         Fri, BBC2); or scifi nudity - Pamela Anderson and Justina Vail 
+         (the Russian scientist from time-travel series "Seven Days") 
+         in NAKED SOULS (10.35pm, Fri, C5), plus Nicole "Baywatch" 
+         Eggert and Michael "Worf" Dorn in Robert Silverberg adaptation 
+         ALIEN LOVE (1.05am, Fri, BBC1) - originally titled "Amanda And 
+         The Alien"... and then there's "from the creators of South 
+         Park" live-action porn-comedy curio ORGAZMO (10.50pm, Sat, 
+         C5)... Karen "Raiders of the Lost Ark" Allen *is* Christa 
+         McAuliffe in Shuttle disaster-movie CHALLENGER (2.30pm, Sun, 
+         C5)... Bernie Taupin, author of one of the worst lyrics of all 
+         time http://www.eltonography.com/songs/your_song.html gets his 
+         own SOUTH BANK SHOW (11.20pm, Sun, ITV)... and, running as 
+         part of an Open University course on how to make flop romantic 
+         comedies, a "season of films starring the cast of Friends" 
+         kicks off with typically insipid Jennifer Aniston vehicle 
+         PICTURE PERFECT (10pm, Sun, C4)... often overlooked at the 
+         time, ATTACK ON THE WIRES (7.30pm, Mon, BBC2) looks at how 
+         those fiendish attacks on the WTC affected the world's 
+         communications infrastructure... the T34 tank is the first of 
+         Sean Bean's bloodthirstily narrated repeats of DECISIVE 
+         WEAPONS (8.35pm, Mon, BBC2)... while SWAPHEADS (7pm, Mon, C5) 
+         is the geek-vs-geek Endemol quiz show formerly known as "Need 
+         To Know": http://www.ntk.net/index.cgi?b=02002-02-22&l=232#l ,
+       http://media.guardian.co.uk/broadcast/story/0,7493,766977,00.html
+         ... quirky nuclear disaster spoof THE BIG BUS (1.35am, Mon, 
+         BBC1) impressively predates "Airplane!" by around 4 years... 
+         someone was being economical with the truth when they told 
+         Paul Kaye that haircut suited him in mendacity rewarding 
+         gameshow LIAR (9.30pm, Mon, BBC2)... in accordance with NTK 
+         prophecy, there's an entire series devoted to building and 
+         fighting full-size radio-controlled COMBAT CARS (7pm, Tue, 
+         C5)... and C4 now has a prurient pseudo-documentary almost 
+         every weeknight with the addition to the schedule of "The Joy 
+         Of Teen Sex" in TEENAGE KICKS (10pm, Tue, C4)... keep checking 
+         you've set the video for obsessive-compulsive docu OBSESSIONS 
+         (9pm, Wed, BBC1)... FREAKS AND GEEKS (3.45pm, Wed-Fri, E4) 
+         returns to digital, in the middle of the fricking afternoon... 
+         WITNESS (7.20pm, Thu, BBC2) profiles amateur rocket guy Steve 
+         Bennett... and it was the subsequent "Super Mario Brothers" 
+         movie that really finished off their careers, but Max Headroom 
+         creators Rocky Morton and Annabel Jankel still have fun with 
+         Dennis Quaid neo-noir remake DOA (9pm, Thu, C5)... 
+         
+         FILM>> it's Lara Flynn "Twin Peaks" Boyle, Patrick "Puddy from 
+         Seinfeld" Warburton, Rosario "Josie And The Pussycats" Dawson, 
+         and Johnny "Jackass" Knoxville - together at last! - but not 
+         even their combined talents are able to make you care what 
+         happens in woefully predictable CGI showreel MEN IN BLACK 2 
+         ( http://www.capalert.com/capreports/meninblackII.htm : [Lara 
+         Flynn Boyle] repeatedly exposing herself in "Fredericks of 
+         Hollywood" underwear; full human scrotum under alien chin)... 
+         Catherine "Being John Malkovich" Keener and Brenda "Secrets & 
+         Lies" Blethyn seem to be making some sort of point about 
+         women's self-images in character-study comedy LOVELY & AMAZING 
+         ( http://www.cndb.com/movie.html?title=Lovely+and+Amazing : 
+         [Emily Mortimer] is exquisitely built and it seems utterly 
+         natural and innocent that she should climb out of bed and 
+         stand for several minutes while her boyfriend and the audience 
+         examine her. The scene occurs around the 1 hr 10 minute mark) 
+         ... so, even if you think Terry Gilliam's an overrated poor 
+         man's Ridley Scott, it might be worth tracking down limited 
+         release "making of" disaster documentary LOST IN LA MANCHA 
+         (imdb: don-quixote; the-hamster-factor-and-other-tales-of-
+         twelve-monkeys; the-man-who-killed-don-quixote)... 
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS AND "INCORRECTLY REGARDED 
+         AS GOOFS">> thanks to everyone, the first being reader ED 
+         AVIS, who wrote to point out that last week's Google sets 
+         trick http://labs.google.com/sets?q1=hugh&q2=pugh should of 
+         course be "Pugh, Pugh" (they were twins) - though obviously 
+         this doesn't actually work as well in practice. See the rest 
+         of this week's issue for further hints of how we're getting on 
+         with the All Search Engine, All The Time NTK Summer Special, 
+         ideal for long car journeys or just lazing on the beach this 
+         August Bank Holiday... HUGH TYNAN provided a topical twist to 
+         many of our popular musical obsessions by noting that the 
+         BBC's recent Commonwealth Games theme (The Stone Roses' "This 
+         Is The One") always seemed to miss out the verse "I'd like to 
+         leave the country/ For a month of Sundays/ *Burn the town 
+         where I was born*" (his emphasis), but this month's "I Spy" 
+         award goes to eagle-eyed CRAIG LEFF, who compared and 
+         contrasted our "HIT ECONOMY WITH STICK" quip from a couple of 
+         weeks ago: http://www.ntk.net/index.cgi?b=02002-07-19&l=8#l 
+         with our equally hilarious "HIT PROBE WITH STICK" gag from 
+         1997: http://www.ntk.net/index.cgi?b=01997-10-17&l=8#l . It's 
+         what's called a running joke, Craig - and, from the looks of 
+         things, it's currently running every 5 years or so... still in 
+         space, "the two best games *ever* (Exile and Elite) were coded 
+         on BBCs", piped up IAN HOLMES, in the wake of our now-annual 
+         trolling for "middle class BBC Micro Fauntleroys". Ian's entry 
+         for the 1K 8-bit Minigame Compo [NTK 2002-07-19] happens to be 
+         something of a "meisterwerk of godlike succinctness" itself: 
+         "LDA your_pseudo_down_with_the_workers_bullshit / STA 
+         your_arse" - but, just to show there's no hard feelings, "I 
+         don't think you've ever run any links to Exile," he concludes, 
+         "and you damn well should". Well, that's partly because your 
+         suggested http://exile.acornarcade.com/ has been down for some 
+         time, Ian - though here's an archived version (where you and 
+         your big-keyboard-loving 400-quid-for-a-BBC-B friends belong): 
+  http://web.archive.org/web/20011008031706/http://exile.acornarcade.com/
+         ... and finally, wrapping up a number of these topics, "Are 
+         you *ever* going to stop being obsessed with Elite?", asked ED 
+         AVIS (again), perturbed by NTK 2002-06-28's Google "discount" 
+         misspelling: http://www.google.co.uk/search?q=disocunt . Not 
+         quite as distressed as A CHEFFIE, however, who'd wondered what 
+         http://www.netmgt.com/ were trying to say with their "When The 
+         Internet Comes Full Circle/ Our Hands Will Be On The Compass" 
+         motto - until, of course, he witnessed the directory contents 
+         at http://www.netmgt.com/public_design/ , and now he *really* 
+         doesn't want to know what they mean by it...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "we said NTK *above* aesthetic needs and self-actualization"
+             http://chiron.valdosta.edu/whuitt/col/regsys/maslow.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

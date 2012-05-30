@@ -1,0 +1,309 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-07-30_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+  "Every day you come to this site and check the daily news. Every
+  day you give blind trust to it's contents. Hackers with more
+  malicious meanings could have easily put up some fake news
+  bulletins, saying anything they want you to believe, without you
+  even noticing."
+   - Cracked INDEPENDENT SITE http://www.ntk.net/doh/19990730indi.gif
+...yeah, though usually there's better grammar and spelling
+                            (when the hackers are doing it)
+
+
+                                 >> HARD NEWS <<
+                          some you win, some you lose
+
+         ADSL! ADSL! Thank God almighty, ADSL! But what's this? Was
+         it not ordained for September, when BT now say November? And
+         was not the plan for cheap and retail, when BT now
+         hand-waves 40UKP-150UKP for reselling to ISPs only? What of
+         ordained Prophecy? Put it down to OFTEL once again using
+         their Bene-Gesserit-trained Voice on BRITISH TELECOM. The
+         unspoken command: either you can jump into subsidised retail
+         ADSL next month without adequate warning to the rest of the
+         ISP community, in which case we unbundle your local loops so
+         fast your shareholders will squint for a decade. Or you can
+         do it wholesale and give the competition the trad 90 days to
+         get their acts together and - hey, we can take it a little
+         slower on that whole co-location jag, man, okay? So, it's
+         the latter, ADSL is later, and the price is fixed higher,
+         but at least BT isn't blatting every ISP out of existence.
+         Those meddling government tyrants, eh? George Gilder must be
+         spitting blood. Mind you, datastream junkies that we are,
+         our off-the-record stance remains: "They could install it up
+         our arse, and make us pay double, and we'd still be up for
+         it." Lucky that's also BT's consumer charter. Now,
+         wonder what happened to the other secret piece of "New BT"'s
+         Autumn strategy: free weekend local calls?
+         http://www.bt.com/world/news/newsroom/document/nr9956.htm
+         - although the engineers will probably install it on our elbow
+         http://www.ntk.net/media/knowhow.ram
+   our first high bandwidth presentation - the horrors of corporate rap.
+
+         Mind you, BT hardly needs to push its ISP competition around
+         when they're so busy kicking their own teeth in. Take one
+         leading brand, currently in the middle of switching from one
+         network provider to another. This week they transferred
+         their registration system to point at the new telco. And
+         watched, aghast, when somebody in the old network operation
+         centre locked them out of their own systems, re-pointed it
+         back, and disdainfully restored from backups. The battle of
+         who "owns" the server is still going on, with his own senior
+         management still trying pursuade the employee to unchain
+         himself from the server rack and come quietly. Don't listen
+         to them, kid! The war never ended!
+         http://www.lineone.net/
+               - nope, it isn't. But we thought we might need a decoy
+
+         SILLY SEASON SMORGASBORD>> Last week's thrilling conjecture
+         regarding a threatened Nominet IPO coup and domain
+         price-cuts would have been eerily prescient, were it not for
+         the fact that both events had already occurred two days
+         previously at the UK domain authority's AGM. Carpet-baggers
+         were routed, and the cost (to Nominet members) of a .co.uk
+         dropped to a fiver. Sorry: we're not used to your species'
+         linear conception of time. Thank goodness we have NTK
+         near-regular STUART CAMPBELL to point out us that Heinz Wolff
+         is *not* dead in this dimension, and was due to bellow
+         "Beware - I LIVE!" at the launch of SINISTAR UNLEASHED
+         yesterday. Gratifyingly, however, it seems that FRONTIERS
+         magazine *has* recently suspended publication; some would
+         say, not before time. Plus, it turns out that Commodore
+         *had* been at war with QNX all along, according to the World
+         Of Amiga "special edition" of Amiga Insight (official
+         publication of the Amiga Kickstart User Group), who kick off
+         with: "QNX: The embedded OS is by no means inferior, but has
+         less of an industry profile today than the Atari ST!" Full
+         show report at the end of this issue...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         INTERNET MAGAZINE's "Web Professional" Steve Patient (p117)
+         claims UDP stands for "Unacknowledged Data Protocol"... "OLD"
+         NICK NEGROPONTE refuses a Webcast from ICA for "intellectual
+         property reasons": how very quaint... as easy to read as a PDF
+         document: http://www.ntk.net/doh/19990730acrob.gif ... T3
+         MAGAZINE visits Demon (p96), cites "192.342.153.2" as DNS
+         example... http://www.solutions.ie/ "temporarily unavailable"
+         - "as a result of our continued success and business
+         development" (what else?)... Gibson wrote NEUROMANCER on a
+         typewriter; http://www.neuromancer.org/ runs NCSA 1.1... hard
+         to get to http://www.coi.gov.uk/ht_summary.html using LYNX...
+         no online registration for MOBILE COMPUTING '99; print out
+         http://mobicom99.research.microsoft.com/regform2.htm and "fax
+         or post" it to them... DEMON re-allocating free staff Fulham
+         tickets for "corporate use": management enquire why morale is
+         low... my browser's supposed to support *what*? (section 4.4,
+         p.4 in ftp://ftp.isi.edu/in-notes/rfc2616.txt - or search for
+         ARSE)... MICROSOFT FLIGHT SIMULATOR master of understatement:
+         http://www.ntk.net/doh/19990730jfksim.gif ... BT INTERACTIVE
+         believe their own URL to be "BT Interactive.com"... SRL's MARK
+         PAULINE heckled at WebZine '99: uses rocket launcher as
+         put-down...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Once you've got your Interactive BAFTA entry in the post
+         (closing date next Fri 1999-08-06), why not head out to the
+         continent, and see how our Germanic friends celebrate the
+         gradual shut-down of summer? CHAOS COMPUTER CLUB are holding
+         a HIP-style camp-out next weekend (from 1999-08-06), with a
+         Douglas Adams-themed hacking fest in a "field near Berlin".
+         Given it's only a week after the Britain's own Terry
+         Pratchett-obsessed CLARECRAFT 1999 (this weekend: camping,
+         ubiquitous Discworld dressing-up, scary David Hodges in "a
+         field near Suffolk"), we hope both events are a cover for
+         the long-awaited ADAMS-PRATCHETT ARMAGEDDON, when the two
+         fan armies destroy each other, to the relief of all. Amiga
+         users will be partying like it's 1989 at the 8th ASSEMBLY
+         DEMO PARTY (also from 1999-08-06), at the Hartwall Areena,
+         near Helsinki. And, most innovative of all, there's the
+         LINUXBIERWANDERUNG (from Sat 1999-08-07), where - of course
+         - Linux users hike the hills, caves and "brewpubs" of North
+         Eastern Bavaria. Following recent tourist tragedies, let's
+         hope they don't attempt any "extreme OS advocacy" without
+         the aid of properly trained instructors. 
+         http://www.lbw99.eu.org/
+                    - can we do our "pingtime for Hitler" joke again?
+         http://www.clarecraft.co.uk/ccde99.html 
+                                           - Hodges has a *figurine*?
+         http://www.assembly.org/
+                                 - and isn't this last year's design?
+         http://www.ccc.de/camp/
+                    - Douglas Adams: so uncool he's almost cool again
+         http://www.bafta.org/
+                                     - c'mon, we need the competition
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         IMPRISE/BORLAND/IMPRISE/BORLAND's generous release of
+         centuries-old Turbo C and Pascal binaries (on a dual PIII
+         machine, short pieces of 1986 Turbo C code will now compile and
+         run before they've been written), the trend is on for
+         companies to release their older development environments.
+         Jumping the gun somewhat is UNCREATIVE ARCHIVES, which
+         contains links to such unsanctioned memorabilia as WINDOWS
+         1.04, and GW-BASIC. Please do not download these, as that's
+         piracy, and anyway they'll have gone before you've read
+         this. Amazingly, though, they will still have lasted longer
+         than Dennis Ritchie's warez cache of vintage pre-struct C
+         compilers from the mid-seventies (he can't date them exactly
+         because "we kept changing the epoch"). We're assuming some
+         disaster on the Bell Labs Web server has deleted this
+         directory. Unless it's Kernighan slapping a cease and desist?
+         http://community.borland.com/museum/
+                                 - also in the museum: Borland itself
+         http://members.primary.net/~cholowat/utility.html
+                                                               - bye!
+         http://www.cs.bell-labs.com/~dmr/primevalC.html
+         - ah! solution to the Y2K bug - get dmr to change the epoch again 
+         http://www.deja.com/=dnc/getdoc.xp?AN=506491026
+                                - but it was there on Thursday night!
+                                
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         http://www.nmia.com/~roberts/tvro-dx recommends "fantastic
+         shows like Neal's House Party and The Big Break - unlike any
+         TV you have ever seen before". No kidding - he appears to be
+         watching them in ALTERNATE FRAMES... PORN the filters won't
+         get: http://www.maths.tcd.ie/~sprooney/pub/ ... PORN no-one
+         should get: http://www.britney-nude.com ... you are here:
+         http://www.peacockmaps.com/ ... ORANGE pseudo-WILDFIRE easter
+         eggs (try: "I'm depressed")... all-too-believable NT user
+         http://www.freeyellow.com/members7/geraldholmes/ ... starting
+         to "get" RU Sirius' http://www.gettingit.com ... 23 voters
+         can't be wrong! http://vote.Pollit.com/webpoll2/95704 ...
+         phew, now "you can spend your time creating great Web pages
+         and great COBOL programs, not struggling to integrate
+         them!": http://www.netins.net/showcase/etsinc/cobolcgi.html
+         ... DETAILS' new band-names round-up includes JFKFC, PHLEGM
+         FATALE, JEHOVAH'S WITNESS PROTECTION PROGRAM, and KATHLEEN
+         TURNER OVERDRIVE ... "darling, I can see right through you":
+         http://www.roadsideamerica.com/set/transparent.html ... 404
+         found at last: http://www98.room404.com/content/room404.asp
+         who's watching http://www.msu.edu/~whitero2/watchmen.html ?...
+      tots TV totty: http://www.bud.com/99/07/tkles/22.bjorn.totporn/ ..
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> the only VIRTUOSITY (9.30pm, Fri, BBC1) visible in the
+         Denzel Washington VR flop is in the title; director Brett
+         "Lawnmower Man" Leonard went on to make 3D Imax clunker "T-Rex:
+         Back to the Cretaceous"... to our jaded eyes, SciFi's cyber-anime
+         double bill AKIRA (9.30pm, Fri, SciFi) and GHOST IN THE SHELL
+         (12am, Fri, SciFi) resemble super-long cut-sequences from
+         PlayStation games - though they're often the best bits, aren't
+         they?... and C4 embarks on a long, wasted WITHNAIL WEEKEND (from
+         12.05am, Fri, C4), with the "cult" Richard E Grant shouting vehicle
+         at 11.15pm, Sat, plus a Kevin Bacon-like link to the pre-Powers
+         WAYNE'S WORLD (10.40pm, Sat, BBC1), where Ralph Brown all but
+         reprises his "Danny" role in the sequel... thanks to whistle-
+         blowers like http://www.templarlodge.com , we now know that
+         above-average sci-fi spin-offs like STARGATE SG-1 (7pm, Sun, C4)
+         are merely an AOL-backed CIA plot to foster belief in ancient
+         Egyptian gods and space aliens... again underestimating public
+         opinion, C5 settle for WIN BEADLE'S MONEY (7pm, Mon, C5) rather
+         than guaranteed ratings-winner KICK BEADLE'S HEAD IN... groping
+         for a plot even more preposterous than "Face/Off", John Woo
+         directs Dolph Lundgren in BLACKJACK (9pm, Tue, C5) - "a former US
+         Marshall turned bodyguard must overcome his phobia of the colour
+         white"... and uber-geek stand-up Simon "League Against Tedium"
+         Munnery hopefully serves up some hand-held vidcam construction
+         tips to enliven this year's run of Festival frolics, EDINBURGH
+         OR BUST (11.40pm, Thu, C4)...
+
+         FILM>> not so much "more of the same", but rather just "the
+         same" is the verdict on AUSTIN POWERS: THE SPY WHO SHAGGED ME
+         (http://www.capalert.com/capreports/austinpowers.htm : fighting
+         including Springer type fighting; punk dress; machine gunfire
+         from the breasts of a fem-bot; dancing to entice; adult
+         underwear; suggestive eye movement; picture nudity; nudity under
+         sheets; Dr Evil sensually sucking his little finger; 1 use of
+         "Oh, thank God" after inspecting self for explosion damage to
+         genitalia; mockery of Christ - "The power of Christ compels you"
+         from The Exorcist). As in cult hit original, cleverly crude set-
+         pieces wallow in plotless, paceless mire, and Dr Evil eventually
+         steals the show, (though the songs were better in the first
+         one). Then again, all Bond films are exactly the bloody same, so
+         maybe that's what they're spoofing...
+
+         IT'S A SMALL WORLD (OF AMIGA) AFTER ALL>> well, we were
+         happy to come away with a UKP20 composite monitor and a hard
+         drive for the office A1200, but NTK's Amiga-owning readers
+         are, naturally, a more discerning bunch. EDD DUMBILL enjoyed
+         the free orange squash and choc-chip biscuits given away by
+         one exhibitor, reminding him of a "WI coffee morning", but
+         the most extensive coverage came from PHILIP "Groovy
+         Gadgets" CORNER http://www.aurora1.demon.co.uk/gadgets , who
+         we hand you over to, now, live from the floor... highlight
+         of the show is the first public display of OS 3.5, featuring
+         such revolutionary features as: printer drivers that drive
+         printers; icons that glow when you click them; an installer
+         that lets you go (shock) *back*!, and can open its window on
+         its own screen, which could be any colour; and an e-mail
+         client, internet stack and web browser which nobody will use
+         because we already have better ones. Turnout is good - about
+         300-400 people on Saturday alone, checking out treats like
+         Javascript-enable IBrowse, games T-Zero and Wasted Dreams, a
+         working demo of Wipeout 2097 for Power Amiga, and Amiga girl
+         band Annex performing hits like "Back For The Future" and
+         "Keep The Momentum Going" - amusing mistranslated lyrics at
+         http://www.perez.de/annex/ . The winner of a brand new
+         one-off specially painted A1200 is not in the crowd when his
+         name is called, and neither is the second person... many
+         attendees seem unaware of the OS fiasco for the new machine,
+         by now immune to the apparent "Okay, we've got 18 months to
+         do this. No hurry. Anyone for a four player game of Worms?"
+         attitude of Amiga management. It looks like the AmigaNG will
+         be significantly diluted from its original grand aims,
+         becoming another doomed "me too!" PC-beater (!) like the
+         Acorn Archimedes.  We don't need a machine to run Linux on;
+         I can already do that with the machine on my desk right now.
+         Gateway owner (and hence owner of Amiga technology) Ted
+         Waitt concludes that Amiga was "definitely not a computer
+         business". Hmm. Perhaps he thinks they're re-working all
+         those A1200 cases into novelty door-wedges...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "looking forward to www.nkt.net"
+                           [ http://www.wried.com ]
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

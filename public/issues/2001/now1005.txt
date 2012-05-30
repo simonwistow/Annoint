@@ -1,0 +1,334 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-10-05_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "The FTC said anyone who has been a victim of the pop-up
+         trick or has information as to his whereabouts should
+         contact them."
+ http://news.bbc.co.uk/hi/english/sci/tech/newsid_1575000/1575060.stm
+    - he's behind that window! no wait, he's over there by the taskbar!
+
+
+                                >> HARD NEWS <<
+                             other people's views
+
+         The American legal system is, of course, just the British
+         kernel with a shorter uptime and a few clumsy security
+         patches slapped in. So whenever a rogue US attempts to
+         buffer-overflow some civil liberties, rest assured our
+         Parliament probably dumped core on it a *long* time ago. 
+         This week, we thought we'd report on how to rip the new 
+         wave of "copy-protected" CDs. Unfortunately, the CAMPAIGN 
+         FOR DIGITAL RIGHTS guys reminded us that we lost that 
+         right back in *1988*, when Section 296 of the Copyright, 
+         Design, and Patents Act prophetically forbade publishing 
+         "information intended to enable or assist persons to
+         circumvent that form of copy-protection". So much for
+         fussing over the DMCA, then. Worse, just as we were planning
+         to smugly report those US plans to make hacking a terrorist
+         offence, we remembered: it already *is* a terrorist offence
+         here, thanks to the new Prevention of Terrorism Act. And
+         check it out - the Americans are putting a time-limit on 
+         *their* terrorist legislation, just like we did in the '70s!
+http://www.hmso.gov.uk/acts/acts1988/Ukpga_19880048_en_21.htm#mdiv296
+                    - we'd decode the legalise but, well, you know...
+          http://www.blagged.freeserve.co.uk/ta2000/200600.htm
+                         - celebrating 29 years of temporary measures
+          http://uk.eurorights.org/
+                              - protest tomorrow, while you still can
+ 
+         Meanwhile, it was the WASHINGTON POST who finally unveiled 
+         terrorists for the monsters they really are: fiendish 
+         forgers and warez doods. Roslyn Mazer unveiled a damning 
+         dossier that conclusively showed "trademark pirates in 
+         Pakistan producing T-shirts with counterfeit Nike logos 
+         and glorifying bin Laden" and that "eight of 10 countries
+         identified by a trade group as having the highest business
+         software piracy rates in the world - Pakistan, China,
+         Indonesia, Ukraine, Russia, Lebanon, Qatar and Bahrain -
+         have links to al-Qaeda". Circumstantial? Perhaps? Necessary
+         to declare war on all IP theft? Of course. Although we still
+         don't get it - who'd pay for pirated stuff anyway? And does
+         bin Laden get to sue for using his image without permission?
+  http://www.washingtonpost.com/wp-dyn/articles/A43957-2001Sep29.html
+                             - "alarming unto themselves", apparently
+         http://www.nologo.org/article.pl?sid=01/10/03/1326207
+                               - she's the Beauty Myth one right? No?
+
+         Back in the UK, the ever-reliable OBSERVER railed against
+         ID cards and objected to "proposals to intercept every email, 
+         bank transaction and mobile phone call" in its pro-civil
+         liberties editorial, then handed out an olive branch to the
+         Home Secretary. "There are ... important initiatives that Mr
+         Blunkett could take", they wrote, teasingly. "By far the
+         most effective would be the curtailing of the complex
+         encryption terrorists use to protect their communications.
+         Organisations using encryption codes legitimately should be
+         obliged to give the electronic key to the appropriate police
+         authority in advance". Sigh. One - more - time. One:
+         everyone has a legitimate use for encryption: heck, every
+         time you pay by credit card, you're doing it. Two: if you
+         don't have control of your keys, you have no guarantee that
+         your communication is safe. Three: big pile of keys at
+         police authority implies big place to go for fun terrorist
+         hacking party. Four: here is the set of "organisations using
+         encryption codes legitimately" and here is the set of
+         terrorists. Observe the intersection. There is NONE. IT IS
+         THE NULL SET. VENN DIAGRAM THAT LOOK LIKE TWO BIG CIRCLES
+         EQUAL BAD PUBLIC POLICY.
+         http://www.observer.co.uk/leaders/story/0,6903,560536,00.html
+                                                 - "scrutiny tedious"
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         LASTMINUTE offer unusually short break, for new "nervous 
+         tourist" market: http://www.ntk.net/2001/10/05/dohshort.jpg 
+         ... well, that's *one* definition of "completely random": 
+         http://www.newscientist.com/lastword/answers/769animals.jsp 
+         ... C4 deny "dumbing down" of ratings-grabbing ballet docu: 
+         http://www.ntk.net/2001/10/05/dohdame.jpg ... are you calling 
+         my OS a http://www.amazon.co.uk/exec/obidos/ASIN/192899444X/ ? 
+         ... "Do you remember what you were doing when [these events] 
+         hit our TV screens? We do, because of the kind of work we were 
+         doing", reassure GCHQ: http://www.whatwereyoudoing.co.uk/ ... 
+         HOUSTON, we have a problem: http://wff-aries.wff.nasa.gov/ ... 
+         "readers rejoice": http://www.contentville.com/ - FALCO!... 
+         http://www.lux.org.uk/ FALCO - is it the CURSE OF DEEPEND?... 
+         go on, rub it in: http://www.ntk.net/2001/10/05/dohsuse.gif 
+         ... this week's worst BBC pics  - for technical achievement: 
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1569000/1569257.stm
+         - and for upsetting imagery (and gratuitously mixed metaphor): 
+     http://news.bbc.co.uk/hi/english/business/newsid_1575000/1575017.stm
+         ... when oh when will the public tire of cross-dressing e-
+         commerce goofs? http://www.ntk.net/2001/10/05/dohspeedo.gif 
+         ... "do as I say, not as I - never mind": http://www.isii.com/ 
+         ... couldn't they find someone doing an "Engelish Degeree"?: 
+         http://www.rusu.co.uk/commercial/athspav.htm ... test-data-
+         tastic (priced as "Free", seems to deduct UKP1 from bill): 
+         http://www.expansys.com/product.asp?code=ih_test3 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Two words: WARPSTOCK 2001 (from Sat 2001-10-06, Toronto, 
+         US$120). Rather than repeat last year's jokes about die-hard 
+         OS/2 fans, we pause only to note that this year's site 
+         features a handy explanatory letter that visitors can print 
+         out and show to Canadian customs, explaining: "Although the 
+         operating system advocated by these individuals is *exactly* 
+         the kind of cover story that a primitive non-industrialised 
+         society might come up with if all they had to work from were 
+         a couple of decade-old back issues of 'Byte', they are *not* 
+         in fact 'fanatics', and should not be considered dangerous. 
+         (Unless you're a MacOS or Windows evangelist, of course!)" Or 
+         words to that effect, anyway.
+         http://www.warpstock.org/2001/registration/registration.html
+               - "A guaranteed fun evening amongst OS/2 enthusiasts!"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         We were a good few years behind in our discovery of ACTION
+         SUPERCROSS [NTK 1998-02-20], and no-one seemed to mind.
+         Permit us then to be the next to last to know about
+         ELASTOMANIA. Elastomania is the (not brand new) updated
+         version of the saintly AS, a mitteleuropa platform
+         motorcycling game where the slo-mo weird-shit physics *are*
+         the gameplay. The backgrounds are more colourful in EM, the
+         game runs on Windows instead of DOS, there's level editors
+         and tat for the (cheaper) $9.95 shareware fee, but the
+         addictiveness, frustration-level, curiously undescriptive
+         titling, and funky mistranslations remain the same. Now, if
+         only someone could port EXTREME VIOLENCE to Windows, we'd be
+         set.
+         http://www.elastomania.com/
+                         - BeOS, huh? Now *that's* a mistranslation
+         http://www.geocities.com/simesgreen/ev/
+                                               - yes, they're related
+         http://www.acm.uiuc.edu/windevils/windevils97/ev/
+                                              - this does *not* count
+
+
+                                >> MEMEPOOL <<
+                   the unintentional http://www.gagpipe.com/
+
+         at last - an even more time-consumingly pointless version of 
+         GEOCACHING: http://www.gpsdrawing.com/ ... KAZAA, MORPHEUS bar 
+         3rd-party open source clients from their networks, instantly 
+         get sued by RIAA - also, interesting definition of "exclusive" 
+         at http://www.dotcomscoop.com/riaa1003.html , compared to 
+         (say): http://www.fuckedcompany.com/extras/riaa_memo.cfm ... 
+         the secret of DELL's success? (bestsellers numbers 2 and 3): 
+         http://www.amazon.com/exec/obidos/tg/browse/-/210274/ ... when 
+         will the public tire of the "getting speech synths to say rude 
+         words" gag?: http://www.sobelow.com/crack/ ... OLD MAN MURRAY 
+         goes to War: http://www.oldmanmurray.com/features/america/ ... 
+         "One day soon, God willing, bad driving will be good for a 
+         laugh once again": http://www.tardsite.com/trdomnth10_01.htm 
+         ... wow, now *this* certainly doesn't sound a lame PR stunt: 
+         http://news.excite.com/news/r/011005/08/odd-porn-dc ... 
+         failing to fill that TVGOHOME gap: http://www.bbcbraindead.com 
+         ... reuniting graduates from the "school of hard knocks": 
+         http://www.bloommedia.co.uk/richard/web/fiends/main.htm ... 
+         come on, SALON - are you in favour of public executions or 
+         not?: http://www.salon.com/mwt/feature/2001/10/02/fatima/ vs 
+         http://www.salon.com/july97/media/media970728.html ... perhaps 
+         over-competitive dad imitates character from THE FAST SHOW: 
+         http://www.guardian.co.uk/uk_news/story/0,3604,559374,00.html 
+         ... lovable Iranians imitate "Call of The Simpsons" episode: 
+         http://dailynews.yahoo.com/h/nm/20011002/od/toddler_dc_1.html 
+         ... JEDI now an official UK religion (bottom of page 18/92): 
+      http://www.statistics.gov.uk/census2001/pdfs/section5part3.pdf ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the line between original artists and tribute acts 
+         continues to blur as Boy George impersonates David Bowie in 
+         POPSTARS IN THEIR EYES (6.10pm, Sat, ITV1), and Ant and Dec 
+         oversee the search to find "the new Ant and Dec" - by besting 
+         them in hand-to-hand combat? - in POP IDOL (8pm, Sat, ITV1)... 
+         deciding they're as relevant today as they ever were, Granada 
+         Plus declares Sat a DUKES OF HAZZARD DAY (from 12noon, Sat)... 
+         Anna Friel shares a bath with Rachel Weisz in Carry-On-style 
+         WW2 caper THE LAND GIRLS (8pm, Sat, C4) - apparently not as 
+         good as the Anna Friel/Michelle Williams bath-sharing scene in 
+         her upcoming film "Me Without You"... while weekend movie 
+         highlights include the appallingly directed AUSTIN POWERS: 
+         INTERNATIONAL MAN OF MYSTERY (10.10pm, Sat, ITV1), Wesley 
+         Snipes ninja vampire-killer comic-book adaptation BLADE (10pm, 
+         Sat, BBC2) and, following the gushing plaudits for it on last 
+         week's "I Love 1995", THE USUAL SUSPECTS (10pm, Sun, C4)... 
+         there's a topical repeat for Toffler-esque documentary FUTURE 
+         WAR (8pm, Sun, BBC2), although Jean-Claude Van Damme presents 
+         his alternative vision of a Kylie-Minogue-policed "New World 
+         Order" in STREET FIGHTER: THE MOVIE (9pm, Sun, C5), followed 
+         on Mon by the obscure-even-by-Van-Damme-standards INFERNO 
+         (9pm, Mon, C5)... C4 helps to reassure a jittery public with 
+         inaccurately titled bioweapon drama GAS ATTACK (9pm, Mon, C4) 
+         ... and George tries to preserve his "Frogger" high-score in 
+         the first of a week of BBC unceremoniously dumping all its 
+         remaining episodes of SEINFELD (11ish, Sun-Thu, BBC2)... this 
+         week's C4 prestigious decent-movie-in-Monday-graveyard-slot is 
+         IN THE COMPANY OF MEN (11.50pm, Mon, C4)... after August's 
+         controversial "Timewatch", the saturation bombing of German 
+         civilians is defended in BATTLEFIELDS (9pm, Tue, BBC2) - hey, 
+         didn't it draw retaliatory attacks away from British military-
+         industrial targets or something?... the events from the movie 
+         "Zulu Dawn" are pointlessly re-enacted by enthusiasts in ZULU: 
+         THE WARRIORS RETURN (8pm, Tue, C5)... and the BBC continues to 
+         refute accusations of "dumbing down" with (presumably) a 
+         prime-time explanation of gravitational singularities, PAUL 
+         DANIELS IN A BLACK HOLE (8pm, Thu, BBC1)... 
+         
+         FILM>> Sly Stallone, Renny "Deep Blue Sea" Harlin, Burt 
+         "Boogie Nights" Reynolds, Gina "Bound" Gershon, Juan Pablo "as 
+         himself" Montoya, and former professional synchronised swimmer 
+         Estella "Planet Of The Apes" Warren largely succeed in making 
+         a daftly entertaining version of F1 motor racing in DRIVEN 
+         (http://www.salon.com/ent/movies/review/2001/04/27/driven/ : 
+         a perverted love story about boys, cars and death; the overall 
+         effect is somewhere between "Speed Racer" and gay porn)... 
+         alternatively, there's what appears to be a historical costume 
+         drama made by the people who do low-budget South American soap 
+         operas, ORIGINAL SIN (http://www.cndb.com/ : [Angelina] Jolie 
+         reveals her Oscar-winning breasts several times [...] some of 
+         her best nudity since "Gia"; I haven't done much research into 
+         the subject, but this might just be the best movie for fans of 
+         Antonio [Banderas'] derriere)... while it's not an encouraging 
+         sign that the posters have chosen to credit Jean-Pierre Jeunet 
+         as "the maker of Delicatessen" - ignoring his more recent work 
+         on "Alien 4" - for zany French arthouse "Neverwhere" fairytale 
+         AMELIE (http://www.imdb.com/ : dream-like / happiness / poetry 
+         / automatic-photo-booth / ghost-train / glass-bones / jealousy 
+         / lady-diana-spencer / local-blockbuster / love / mental-
+         retardation / orgasm / photograph / revenge / sex-shop / sex / 
+         stylization / suicide / video / waitress / zorro)... 
+         
+         THE "VICTORIAN AFFECTATION">> putting the "dead" back into 
+         "dead tree publishing", a big old falco for Haymarket's THE 
+         NET magazine, which is being absorbed into Future's .NET 
+         http://www.pressgazette.co.uk/News.View.aspx?ContentID=453 
+         ("Whizzer and Chips"-style?) as part of a bizarre swap for the 
+         rights to Future's failed "Total Football"... on a - slightly 
+         - more positive note, thanks for all your feedback on Kevin 
+         Warwick's REAL ROBOTS (UKP3.99, every other Thursday), 
+         including OPERATIVE HARRIMANS, who listed the claim that 
+         "Reading University created the first ultrasound/sonar guided 
+         robots" as "most annoying among the inaccuracies", although we 
+         were too busy fiddling with the self-tapping screws and 
+         wondering how many issues it's going to be before the robot 
+         actually does anything to notice... plus EYE SPY! MAGAZINE's 
+         coverage of "Intelligence, Espionage, Related Military & 
+         Political Affairs" (UKP2.99) looks like it's doing quite well 
+         nowadays - according to http://www.eyespymag.com , they're 
+         planning a "Bin-Laden Summer Special" for issue 4, which 
+         should be an improvement over the David Shayler photo pin-ups 
+         which seemed to be the theme of the last one. Disappointingly, 
+         the letters page isn't edited by "Big Chief Eye Spy" either... 
+         over in books, not too many surprises - The A-Team, Larry 
+         Sanders, The Kids from Fame, Neal Stephenson - in the updated 
+         NTK bestsellers chart for Q3 2001 http://www.ntk.net/books/ - 
+         and we've even pruned down last year's list of books which you 
+         can buy with a UKP5 Amazon token without paying extra on P&P, 
+         following GARY "ADMINSPOTTING" BARNES' erudite observation 
+         that "[Samuel Butler's] Erewhon is now 4.07 on Amazon, not 
+         0.80, and Plays of Oscar Wilde are 3.48 a volume"... other 
+         catalogue curiosities recently drawn to our attention include 
+         ALAN MOORE's long-awaited wiccan accountancy primer, TAX MAGIC 
+         http://www.amazon.co.uk/exec/obidos/ASIN/1902065220/ , the 
+         tasty-sounding TACO BELL CHICKEN QUESADILLA HANDHELD amusingly 
+         advertised within Amazon.com's "portable electronics" section 
+         http://www.amazon.com/exec/obidos/ASIN/B00005QDXU/ , and the 
+         possibly related and brilliantly titled FUNDAMENTALS OF CHEESE 
+         SCIENCE: http://www.amazon.com/exec/obidos/ASIN/0834212609/ 
+         ... for genuine recommendations, however, there's the UK debut 
+         of classic Harvard Lampoon Tolkien parody BORED OF THE RINGS 
+        http://www.amazon.co.uk/exec/obidos/ASIN/0575073624/needtoknow0e
+         and the crazy world of Arthur "McSweeneys" Bradford's DOGWALKER
+        http://www.amazon.co.uk/exec/obidos/ASIN/0241141508/needtoknow0e
+         - or, for those of us on a tighter budget, sci-fi FALLEN ANGELS, 
+         online at http://www.baen.com/library/067172052X/067172052X.htm ,
+         and described by NTK literary critic LLOYD WOOD as "easily the 
+         worst thing that Pournelle and Niven have written. Apart from 
+         anything Pournelle has written BY HIMSELF", and leading him to 
+         conclude that the site as a whole offers the tantalising 
+         opportunity to read "the world's worst SF - for free!"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            "flattered (sincerely)"
+                             http://www.bys.org.uk 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

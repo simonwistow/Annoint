@@ -1,0 +1,284 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-05-19_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+           "Like many things in life, you can do exactly what
+           you were going to do in the first place and change
+           the names."
+                                                         - STEVE JOBS
+    http://www.mercurycenter.com/svtech/news/top/docs/apple051600.htm
+            ...or have them sacked and erased from the record, anyway
+
+
+                                >> HARD NEWS <<
+                               hitting the boos
+
+         If you gaze for long into the abyss, right, then doesn't the
+         abyss gaze also into you, yeah? So spake the critics of the
+         ORBS spam database, who have often suggested that the ORBS's
+         vigilante techniques for tracking down open mail relays (by
+         scanning the smtp ports of remote machines, and putting them
+         on a public blacklist - not only if they do relay, but also
+         if they refuse to be scanned) is as bad an abuse of Net
+         trust as the spammers themselves. That's certainly what the
+         above.net sysadmins felt when they decided to block access
+         to ORBS to and from their network following a rude probing.
+         But now it looks like AboveNet have become more than a
+         little thuggish themselves. In the last few weeks, above.net
+         have been externally advertising their own unique route to
+         the ORBS machines: a route that leads straight into a black
+         hole. That means that not only can above.net customers not
+         see the New Zealand site, but anyone who transits with
+         above.net also loses access. Which, by a quirk of LINX's
+         peering arrangements, includes all of JANET. No, JANET's not
+         happy: and there's even been mutterings of a threatened suit
+         against above.net for computer abuse. Maybe the first person
+         to complain to would be Paul Vixie, Senior VP at AboveNet's
+         parent company, Metromedia. He should be sympathetic: after
+         all, in his copious spare time he runs the other spam
+         blackholing service, RBL: maybe he should look into this
+         abyss, too.
+         http://www.deja.com/threadmsg_ct.xp?AN=623215811&fmt=text
+         - more irony: the Vienna Internet Exchange (VIX) affected too
+         http://www.computerworld.com/home/print.nsf/CWFlash/000427D962
+                                                   - "unique methods"
+         
+         Thanks to everyone who didn't e-mail us over the last year
+         to falco BOO.COM. Everyone else: no shit, Sherlocks. And we
+         know that we should be revelling in those rumours of
+         corporate excess, the Flash-driven horrors spooned out of
+         Organic's arse into gaping mouths of usability experts the
+         globe over, the vision of Miss Boo being dragged in
+         chains through the streets of London. But sod it, kids:
+         there but for the grace of God go all of us in six months.  And
+         maybe it's time you looked your boardroom pals that talk so
+         confidently of their plans at your startup, and wonder
+         whether they'd take as much care of you when the whole
+         thing takes off like a concrete rowing-boat. As it will.  Oh
+         yes. For the bell, it tolls for boo. I mean you.
+         http://www.wehaveinformation.com/
+                    - ahh. you weren't expecting that were you? ahhh.
+         http://www.ntk.net/2000/05/19/caboom.gif
+                                                         - others tho 
+         http://www.waz.easynet.co.uk/boo/
+                                                         - are not so 
+         http://apache.mirror.boo.com/
+                                                          - charitable
+
+         Our exciting dollar dollar dollar loyalty scheme (which
+         involved dumb introductory offers and simple odds at William
+         Hill's site) seems to be paying off. Listen to these
+         unsolicited testimonials: "Cheers! I'm 91UKP up" - James
+         Answer (his satisfying real name); "Ker-ching! 22.50UKP
+         better off! Nice one" - "supernoodle" (probably not his).
+         Writes James Kew: "Similar but more generous offer at
+         www.victorchandler.com: 25UKP of your own money, free 40UKP
+         bet. Same tactics: 25UKP on the outsider, 40UKP on the
+         favourite". And Tim Aidley does your work for you when he
+         reports "William Hill has different cashback values for
+         different currencies - some worth more than the 50UKP you
+         get with sterling. With the help of Yahoo's currency
+         convertot, I worked out that you get a maximum cashback with
+         150 canadian dollars - about 67UKP. Increase your winnings
+         by 34%". Nice!
+         http://www.willhill.com/
+                             - hurry, while meme is still propagating
+         http://www.victorchandler.com/
+                                              - no purchase necessary
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         all of www.nine.com's lives gone ... POSTSCRIPT suicide note
+         posted to alt.gothic, comp.fonts ... "is it because I is
+         black?" http://www.ntk.net/2000/05/19/dohrapist.jpg ... AV's
+         ultra-thin raging.com "does not support text only browsers"
+         ... GUARDIAN (2000-05-15, p5) recommends leaving a list of
+         computer passwords on a Post-It for your temp ... BT not too
+         happy about http://www.dna.uklinux.net/bti/letter/ ... *bad*
+         website: http://www.ntk.net/2000/05/19/dohinetworld.jpg ...
+         and when oh when will the public tire of - oh, go on then:
+         http://www.nerdsrus.com/billboard/ ... Boss! It is working!:
+         http://www.cisco.com/test/mike-april24.html ... more stoic
+         professionalism at: http://www.pricejam.co.uk/java/java.html ...
+         lame Brit comedy site http://www.smeg.co.uk/news5.htm imitates 
+         ONION: http://www.theonion.com/onion3604/sucking_my_cock.html ...
+         http://search.bbc.co.uk/search/search.shtml?DB=all&P=jill+dando
+         looks a bit suspicious ... "Attractive IRC-using
+         Quake-playing girl almost completely artificial":
+         http://www.planetquake.com/frags/vore/Kcd1.gif
+         vs http://www.playboy.com/digital/feature/steviecase/ ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         OK, so Oxford University won't let you hyperlink to DeCSS
+         (full story at http://cryptome.org/ox-chill.htm ), but they're
+         happy to welcome the (potential) harbinger of humanity's
+         future extermination, KEVIN "THE CYBERNATOR" WARWICK, who 
+         continues touring his "Will it be Super Intelligent Machines
+         or Cyborgs?" show around potential hotbeds of mechanoid  
+         uprising. "This time, OU AI society have been subverted,"
+         writes OPERATIVE TOM (5.30pm, Mon 2000-05-22), "This may be my
+         last transmission as an organic life-form."
+         http://www.robots.ox.ac.uk/~aisoc/warwick.html   
+         - yeah, KevinWarwickWatch needs updating, but whenever we try
+                       and automate it, things go mysteriously wrong...
+         http://www.undercurrents.org/piratetv.htm
+                      - for those that survive: a resistance movement
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         They're going to get you eventually, UNIX boy. You keep
+         teasing the NT weenies long enough about these ILOVEYOU
+         viruses, and they're going to brew up some mother of a MUA
+         buffer overflow, and then who you gonna blame? Certainly not
+         ANONY MAIL, Bjarni R. Einarsson's script to filter out any
+         dangerous looking HTML or MIME attachments received by your
+         machine. Okay, so it's in Perl, making it unsuitable for
+         heavy mail flow. But that does mean that you can stick in
+         your own quick fixes for any novel weirdnesses, and tweak it
+         to fit your own paranoia. And thanks to its own one-pass
+         MIME parser, it's not too heavy on the cycles. Unlike
+         STRIPMIME, which is a slow, resource heavy monster for
+         people who want any attachments automatically stripped and
+         saved before their email gets to the mailbox. Great for
+         anyone wishing a slim text only mbox to archive, hates
+         having their POP or IMAP session sabotaged by huge
+         attachments, and likes code hacked up in a hurry last week
+         by bored newsletter writers after a string of monster DOH
+         images. Please improve on it, and send your sarky coding
+         critiques to the usual address. And remember: always
+         try beta mail tools out on somebody else's account first.
+         http://mailtools.anomy.net/
+                                  - probably best used in conjunction
+         http://www.ntk.net/2000/05/19/stripmime.txt
+                            - not that i've tested that (or anything)
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         strong contender for Worst Web Site of the Millennium award:
+         http://www.bridges2000.com ... WINE v1.0? ... voice-
+         activated STAR TREK Game: conSPIRacy.. to.. make..
+         everyone.. talk.. like.. Kirk ... if ILOVEYOU's spyder had
+         not hate go school: http://lcamtuf.na.export.pl/worm.txt ...
+         saveiridium.com needs website, 10 million dollars ... so
+         it's a pun- shoot us: http://us.imdb.com/Business?0131658
+         meanwhile, back in the Gernsback continuum:
+         http://pluto.njcc.com/~paulsam/moonship/Welcome.html ...
+         usual suspects rise to the MP3 Rebellion:
+         http://www.theonion.com/onion3618/kid_rock_starves.html vs
+         http://www.brunching.com/features/feature-metallicaletter.html
+         ... launching our new unsubscription drive:
+         http://www.freakfarm.com/retardedadvice.htm ...  "It looks
+         like you're trying to 0wn this box. Would you like help?" -
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2570727,00.html ... 
+         http://www.conservativecafe.com/ vs http://lordco.virtualave.net/
+
+
+                                >> GEEK MEDIA <<
+                     the less rude http://www.tvgohome.com/
+
+         TV>> Steven "Cop Show" Bochco's franchise runs out of towns in 
+         the debut double-bill of a more lighthearted version of NYPD 
+         Blue, BROOKLYN SOUTH (12.05am, Fri, BBC2) - though wait till 
+         you see Tom "Homicide: Life On The Street" Fontana's new "The 
+         Beat"... in accordance with prophecy, series 1 of BLAKE'S 
+         SEVEN (12.20pm, Sat, BBC1) trails off with the retrieval of 
+         camp perspex supercomputer Orac... plus a chance to catch Wes 
+         "Rushmore" Anderson's typically quirky first feature BOTTLE 
+         ROCKET (2.35am, Sat, C4)... some sort of weird mid-range 
+         Jackie Chan season skips from pseudo-Indiana Jones OPERATION 
+         CONDOR: THE ARMOUR OF GOD II (1am, Sat, BBC2) to RUMBLE IN THE 
+         BRONX (9.55pm, Sun, BBC2)... that "dislike of the unfamiliar" 
+         riff is taken perhaps too far in two profiles of autistic kids 
+         on consecutive days - TITO'S STORY (10.20pm, Sun, BBC1) plus 
+         TRUE STORIES: RAISING ALEXANDER (9pm, Mon, C4)... and, in the 
+         two years since it was last shown, we've devised the following 
+         "just for fun" audio contest to accompany old-fashioned Emilio 
+         Estevez/ Rene Russo/ Anthony Hopkins/ Mick Jagger sci-fi 
+         FREEJACK (11.35pm, Mon, BBC1) - sample all the lines about 
+         evil arch-villain "McCandless", then mix them in with the 
+         loops from http://www.wakeywakey.com/wakey/loops.htm (c'mon 
+         Pemberton, it could be just the thing to bring you guys back 
+         together)... slightly edgy stalker-comedy ADDICTED TO LOVE 
+         (9pm, Mon, C5) is, indeed, loosely based around the Robert 
+         Palmer song of the same name (though not, disappointingly, the 
+         video)... reader Nick Drage leapt to the defence of Michael 
+         Moore's THE AWFUL TRUTH (11.35pm, Tue, C4), proclaiming it 
+         "more acidic" and "100% stand up free"... MISSILEERS (9.30pm, 
+         Thu, BBC2) looks at the real-life ICBM silo crews like at the 
+         start of WarGames... and hopefully opening the floodgates for 
+         a host of new shows like "Academic Conferences Uncovered" and 
+         "World's Most Rigorous Theoreticians" comes promisingly titled 
+         DIY castaway lash-up ROUGH SCIENCE (7.30pm, Fri, BBC2)... 
+         
+         FILM>> members of the "Dawson's Creek" cast come up against 
+         their most terrifying adversary yet - Death itself (and in the 
+         form of minor household accidents!), in ex-X-Files staffers' 
+         engagingly daft teen checklist-killer FINAL DESTINATION 
+         (http://www.capalert.com/capreports/ : unnecessary roughness 
+         by a lawman; reckless driving and endangerment, including as 
+         justification for nihilistic beliefs; loss of wholesome 
+         submission of youth to fair and to righteous authority; there 
+         sure seems to be a lot of teenagers dying in movies nowadays) 
+         - though, by the end, you (and the film-makers) risk major 
+         twist-fatigue... basically the same plot, but aimed at the 
+         arthouse end of the market, graces Kirsten Dunst's Air-scored 
+         dark comedy THE VIRGIN SUICIDES (http://www.bbfc.co.uk : 
+         passed '15' for suicide theme and some moments of horror)... 
+         though neither as suicide-inducing as death-free teen romance 
+         DOWN TO YOU (http://www.capalert.com/capreports/ : piercing of 
+         male nipples; self touching while dancing; a wreck after drunk 
+         driving was funny; an obviously nude late teen boy-girl pair 
+         snuggling in bed together are engaged in an activity not 
+         appropriate outside a real monogamous heterosexual marriage) - 
+         with marketing largely targetted at fans of Freddie Prinze 
+         Jr's previous "She's All That", ignoring his excellent work in 
+         the straight-to-video movie version of "Wing Commander"... 
+         otherwise it's Matthew "Friends" Perry and Bruce "Vest" Willis 
+         - together at last! - in execrable assassination comedy THE 
+         WHOLE NINE YARDS (imdb: canada / nude-with-a-gun / nudity / 
+         mafia / montreal / niagra-falls / police / suburbia / adultery 
+         / vomit / dentist / hitman / funny-accent)... or Brit-made 
+         suburban dope-com SAVING GRACE (http://www.bbfc.co.uk : passed 
+         '15' for drug use and strong language) which, despite an 
+         interesting cast - Ken Campbell, Bill Bailey, Tcheky "Wing 
+         Commander" Karyo - looks a little bit "Lottery-funded", if you 
+         know what we mean... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+              "Valkommen till Umea naturvetar- och teknologkar!"
+                            http://www.ntk.umu.se/
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

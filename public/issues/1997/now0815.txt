@@ -1,0 +1,304 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____15/08/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o   www.spesh.com/cgi-bin/now
+
+            * HIP '97 FALLOUT * SURVEILLANCE WATCH * CLAN PRANKS *
+           LET'S GO FLY A KITE * NEW SMART WEAPONS * PENIS BANDS *
+
+
+              "Microsoft is like the invasion of the body snatchers.
+          Every morning you wake up and find another of your friends
+                                                       works there."
+                                - BOB METCALFE, inventor of Ethernet
+                   ...but how do we know you're really Bob Metcalfe?
+
+                               >> HARD NEWS <<
+                                 soft options
+
+         The press had - literally - a field day at HIP '97, the
+         open air Dutch hacking conference that took place last
+         weekend. Endearing slice-of-life vistas were painted by the
+         American news sites, who described it as "Hackstock", "a
+         kind of politicised Burning Man", and a happy-go-lucky
+         party of "happy campers". Unfortunately, in their eagerness
+         to portray HIP as a bunch of technopagan loons, they did
+         somewhat miss out on the hardcore security stories. Like,
+         for instance, Chris Drake's overcoming of apparent security
+         flaws in PGP 5.0 - demonstrating how your passphrase in
+         plain text can end up in the Windows' swap file, for
+         example. Or the way that when you change your passphrase in
+         PGP, a backup copy of your secret keyring with the original
+         passphrase remains on the hard drive. But, geeks with funny
+         accents make for much more intriguing copy, no?
+         http://www.spesh.com/hip97/    we know, we were those geeks
+         http://www.ifi.uio.no/pgp/
+                            and they'd just finished typing it in!
+         http://www.ozemail.com.au/~netsafe/
+                                  - Chris' ironically-URLed homepage
+         http://www.nytimes.com/library/cyber/hackstock/hack-index.html
+         - Lisa Napoli's ok-ok-it's-quite-good-actually coverage. Damn.
+
+         Some 1,800 new cameras, covering every railway station and
+         approach road in London, are to be introduced into the
+         capital. The cameras are said (by the Evening Standard) to
+         be of a very high quality, and there are rumours that
+         they'll be using an automatic number plate recognition
+         system too. Meanwhile, Harrogate councillors are discussing
+         an application by spooky not-really-an-NSA-monitoring-
+         station MENWITH HILL for three more radomes - the giant
+         golfballs that host aerials able to intercept radio,
+         satellite and telephone communications. Because Menwith
+         Hill is subject to Crown privilege, the councillors have no
+         powers to reject the application. And if they even try, we
+         don't recommend them driving in to Westminster for a chat.
+         http://caq.com/CAQ59GlobalSnoop.2.html
+         - the kind of details you'll appreciate from Covert Action Q'ly
+         http://wkweb1.cableinet.co.uk/sedley/wagg.htm
+                           - that Bulger kid has a lot to answer for
+
+         Seems like there's a still few places in the UK that aren't
+         under 24-hour surveillance. On Wed 06/08/97, the
+         experimental crop of oilseed rape at Tibs Hall Farm,
+         Kingsbury was sabotaged. The crop was owned by the US based
+         biotech corporation MONSANTO; the activists tore up the
+         genetically engineered plants while "wearing protective
+         clothing", and then mixed the debris with the surrounding
+         crops. We're a bit divided about this: okay, direct action
+         is always fun, but isn't this a great way of encouraging
+         cross-pollination? And whatever happened to preserving
+         biodiversity? It's all so *confusing*. Can someone please
+         e-mail in and tell us what to think?
+         http://www.envirolink.org/orgs/shag/genetix.html
+                             - and that's why true geeks hate botany
+
+         Can we spell gullible or what? We fell for last week's
+         ersatz VONNEGUT commencement speech, and, admit it, you
+         blinked at that SAMSUNG troll. But only the mighty ZIFF-
+         DAVIS UK fell for the "RENAULT to sponsor UK Quake clan"
+         tale. Perpetrator Kevin Johnstone (aka Rorshach, of The
+         Quake Lords) exclusively told NTK that the rumour was an
+         "elaborate hoax" to enliven a "stale and bitter" UK Quake
+         scene; ZDNet presumably didn't check the details with, say,
+         Renault, before running it. ZD also got the name of the
+         Clan wrong, assuming it to be "Clanring" on the strength of
+         the line "This ClanRing site is owned by The Quake Lords".
+         Admittedly, we'd have believed the story too if they hadn't
+         confessed - and we *still* think the logo looks good on
+         those skins.
+         http://www1.zdnet.com/uk/news/ns-2486.html
+                         - apparently Daikatana's "really good", too
+         http://web.ukonline.co.uk/quakelords/news.htm
+                                    - "Papa?" "NicooOOOLLLLLGHHHHH!"
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         Microsoft got cut-price stocks in Apple deal... latest
+         edition of ESCAPE magazine purports to be a "special SEX
+         issue"... "spreadsheets massively magnify tiny human
+         errors" - NEW SCIENTIST... MS say Apple Alliance has no
+         hostile intent - REUTERS... Psion, reliving old Sinclair
+         roots, runs out of machines... Apple "does not believe it
+         will return to profitability in the fourth quarter"... EAT
+         SOUP to close... WIRED run *another* Myst cover... Apple
+         Europe shipments fell 31%... stand-up comedy no longer
+         funny, profitable, Edinburgh Fringe discovers... Drudge
+         Report gets facts wrong, "professional" journalists
+         horrified... Apple looks to Asia to boost sales (also eyes
+         future Mars colonies)... Spamford's server mysteriously
+         hacked, files deleted...
+
+
+                                >> CULTURE <<
+                          celebrate your inner geek
+
+         Now then. KITES. This weekend sees the 5th East London
+         International Kite Festival at Hackney Marshes, Homerton
+         Road, E9. Saturday is set aside for the National Sport Kite
+         championships, while Sunday is the more entertainment-based
+         kitely pursuits. All weekend they'll be kite workshops,
+         Rokaku kite fighting, team displays, and other cool stuff.
+         Even if you don't make it during the day, we reckon you'll
+         want to pop along at 8.45pm on Sat to see the
+         "Pyrokitenics" demonstration. Call Jeremy Boyce at High As
+         A Kite (0171 275 8799) for details, or mail:
+         chris.matheson@dial.pipex.com
+
+         A brief reminder that the in-all-senses-of-the-word-mental
+         First Annual Mind Sports Olympiad is this weekend at the
+         Royal Festival Hall. Details at the Website: we're just sad
+         that they didn't include our suggestion of a friendly
+         "psychological mind games" competition, where people battle
+         ex-partners and work colleagues for control of each others'
+         self-esteem.
+         http://www.mindsports.co.uk/ - it's been a bad week, okay?
+         http://www.spesh.com/cgi-bin/now?b=a97/now0704.txt&l=101#l
+                             original story, before we got so bitter
+
+
+                                >> TRACKING <<
+                            we know where it lives
+
+         Thought NTK was all net gossip and software upgrades?
+         That's why we're pleased to bring you news of the Smart
+         Target Activated Fire and Forget (STAFF) 120mm tank
+         ammunition round, a next-generation "top-attack" munition.
+         In US Army tests, prototypes "autonomously detected,
+         discriminated, tracked and attacked Soviet-built T-72
+         tanks" - the "top-attack" bit means "by flying over them
+         and firing an explosively formed penetrator downward to the
+         target". More fun facts from the military-industrial-
+         entertainment complex lurk in the impressively analysis-
+         free Cyber Times, a site that we returned to... 'cos
+         they're doing a new version of their "Modified" desktop
+         techno remix toy. Damn, maybe it *is* all software upgrades
+         after all...
+         http://www.modified.demon.co.uk/
+               - we just like saying "millimetre wave radar that can
+                                       withstand harsh gun launches"
+
+         ... Talking of which (but only barely) - the beta of
+         Frontpage 98 is now up on Microsoft site. Whoop-de-doo. And
+         final version of Netcaster is to be available on Netscape
+         site by early next week. Yaaaaaaawn. DirectX 5.0 now
+         available for download. Slight flicker of emotion. Remember
+         how exciting these Net upgrades used to be?
+         http://www.microsoft.com/frontpage/
+         http://www.netscape.com/
+                  - Of course, that's when the programs still worked
+
+         We take you now to Scandinavia, with its long long nights
+         and fine traditions of assembler programming, alcoholism
+         and demos that rock. We take you now to the same people who
+         did all those impossible Amiga effects, as they turn their
+         crazed gaze onto the Java virtual machine. We take you now
+         to the terrifying yet potentially patent-infringing reality
+         that is ... JAVA QUAKE!
+         http://hem1.passagen.se/carebear/fraggame.htm
+         http://www.vg.no/interaktiv/nettspill/index.html
+                            - and the somewhat milder JAVA ASTEROIDS
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         cool new euphemism#1: "bedroom techno"... team knight
+         rider... Tunisian customs insist R2-D2 has a passport
+         before allowing into the country...  scientists learn how
+         to control "El Nino"... Myron Krueger and his keyboard
+         that's the size of a wall... cool new euphemism#2:
+         "subscribing to dircon"... Bots with their own PGP keys...
+         LineOne subscribers hit double figures... The Redneck
+         Manifesto... microelectromechanical madness!... "The
+         Reduced Heinlein Company presents"... just how out of date
+         is AltaVista now?... (this->life)... movieoke... CHRISTIAN
+         SLATER to face MIKE TYSON in cannibal face-off?...
+         www.acme.com/labelmaker... cool new euphemism#3: BSE MAY BE
+         transmitted "horizontally"... no, Be *Here* Now:
+         www.geocities.com/SunsetStrip/Alley/1909/sounds.html
+
+
+                                >> MO' MEDIA <<
+                              drug of the nation
+
+         TV >> ...never thought we'd say this, but tonight's ROOM
+         101 (10pm, BBC2, Fri) sounds like a cracker, with
+         intriguing guest-choice Terry Wogan condemning another show
+         made by Hat Trick Productions - the loathsomely worthless
+         Have I Got News For You... still, it is up against another
+         top-notch episode of FRASIER (10pm, Fri, C4), this time
+         involving Niles vs someone even dweebier than he is... ITV
+         clearly agrees with NTK's glowing assessment of the "geek"
+         episode of SABRINA: THE TEENAGE WITCH (5.20pm, Sat, ITV),
+         as this is the second time they've shown it in the space of
+         4 days... the weekend brings bad news for Asian Elvis fans
+         as the 50th anniversary of Indian partition coincides with
+         the 20th of The King's death - themed evenings all round...
+         ARENA (10.40pm, Sat, BBC1) pays tribute to the late William
+         Burroughs; C4 shows Naked Lunch next Fri; similar
+         food/porn/insect themes are worked through in repeats of
+         LIGHT LUNCH (Mon-Fri, 12.30pm, C4)... the LOGAN'S RUN movie
+         (9.20pm, Sun, BBC2) is probably duller than its TV series
+         spin-off (does Jenny Agutter keep her clothes on? what do
+         you think?); but good to see them preserving the Ray
+         Bradbury novels in book-burning dystopia FAHRENHEIT 451
+         (12.05am, Sun, BBC2)... the rebels in the last (and best?)
+         RENEGADE TV (11pm, Mon, C4) include night-club murderers,
+         comics god Alan Moore, and some idiots who think an hour of
+         interactive avatar "It's A Knockout" could possibly be 
+         watchable ( www.channel4.com/renegadetv/heaven_hell/ )...
+         so, for real pioneer spirit, check nerd-triumphant-turned-
+         DIY-flight-fan Bob Cringely having an on-screen nervous
+         breakdown in the all-too-appropriately titled PLANE CRAZY
+         (10pm, Tue, C4)...
+
+         MOVIES >> Well, there's SPEED 2, but The Onion says it all
+         www.theonion.com/onion3201/speed2chart.html . Stay at home.
+
+         BIO >> Ritalin is now being prescribed in vast amounts to
+         children diagnosed with Attention Deficit Disorder (ADD),
+         for which you should read either children who are too
+         clever for the class and therefore disruptive, too stupid
+         for the class and therefore disruptive, or just plain
+         disruptive. CH.A.D.D. ( www.chadd.org ), a rapidly
+         expanding, "nonprofit parent-based organization" for ADD
+         sufferers and their parents in the USA, is a staunch
+         advocate of Ritalin and receives 'donations' for its good
+         work in raising public awareness from the drug company Ciba
+         Pharmaceuticals. Guess who makes Ritalin? Ciba Geigy...
+         Decade of the Brain, a publication of The National Alliance
+         for the Mentally Ill ( http://www.nami.org/ ), reports that
+         most elderly suicide victims pay a visit to their doctor in
+         the week before committing suicide. The report suggests the
+         problem is that doctors don't recognize depression in older
+         people, but I think there's some kind of conspiracy going
+         on... Talking of depression, 'venous leak syndrome' is
+         something we men all know and love as one of the major
+         causes of erectile impotence. Californian doctors have
+         risen to the problem and come up with a solution in the
+         form of a "fully adjustable penis band" (the BAND, not the
+         penis, is adjustable). The band is said to differ from
+         existing bands in that it is "self-adjustable". If you know
+         what I mean...                          -  doctor@spesh.com
+
+
+                             >> .VACATION.MSG <<
+
+         You know how we pride ourselves on having no life? Well,
+         for the next four weeks, we're hiring some. As a
+         consequence, we'll try - even less hard than usual -  to
+         cobble something together for the weekly NTK now, but this
+         time, there are no guarantees. Whatever happens, we promise
+         we'll make it all up to you in September, when there'll be
+         news of a faster, stronger, better NTK, with more brutal
+         ASCII for you to sneer at. In summary:
+         Q. Are we going to sell out?
+         A. If we are, we're getting the hell out. See you soon.
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "telepathically uploadable".
+                    ( http://www.urigeller.com/now.html )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Non-biz copying ok, but retain SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 

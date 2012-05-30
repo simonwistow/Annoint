@@ -1,0 +1,272 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-10-15_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+         "1) We strive to
+            a) identify only those people who will be interested in a 
+          particular marketing message,
+            b) deliver the message to them in a way that makes it an 
+          enjoyable or valuable experience,
+            c) provide it in a manner that encourages them to share it 
+          with others..."
+          ...thus effectively invalidating any token effort made in a), 
+                                                            of course. 
+          - "Manifesto" of the new Viral + Buzz Marketing Association
+                                     http://www.vbma.net/mission.html
+
+
+                               >> HARD NEWS <<
+                           persistent "number twos"
+
+          Currently residing in the "Where Are They Now?" file: WEB 
+          2.0 was a convention with a disturbing meld of the usual
+          suspects and the usual convicts. Spruced geeks failed to
+          recognise each other with trimmed hair and proper non-T
+          shirts. Previously dapper VCs and analysts either dressed
+          down, or were still living in their 2001 suit. Either way,
+          they're not aging well - and these Golden Oldie
+          Nostalgiafests can't be helping. In the end, gentle shock at
+          how long it's been seemed to be the only reason for being
+          here. The geeks, in their hearts, know there's no real
+          money-making plan in what they're planning next. The VCs,
+          deep in their blackened coal-pit guts, know the same. Still,
+          didn't stop anyone on the old "Web 1.0", did it? We can't 
+          quite believe the entrepreneurs will be able to pull *another*
+          blinder on the investing public, but stranger things have
+          happened. And there is some hope in all of this: if you
+          thought that hell would freeze over before the rich kids of
+          tech would pay even lip-service to open licenses, fair use,
+          and publicly stabbing Hollywood in the eye over the
+          Internet, let alone using their *actual money* to do so, do
+          bring a woolly jumper to Web 3.0: Yet More Hell On Earth.
+          http://www.transmitmedia.com/svr/vault/polese/
+              - what the rigour of ten years hard work do: Polese then
+          http://www.gsinstitute.org/about/directors.shtml
+            - now. Dave Winer, however, remains scarily well preserved.
+          http://www.bowblog.com/archives/000872.html
+            - over here: a bit like they wanted to sell you timeshares
+
+          Cyberspace used to be "where you are when you're on the
+          phone". Now it appears to be "where your data is when it
+          gets handed over to the FBI". When Rackspace, a US company,
+          voluntarily handed over Indymedia's UK webserver to the US
+          FBI, they were, it appears, indirectly obeying an Italian
+          prosecutor's instructions. And if you think that sounds like
+          one of those Babelfish chain-of-translation exercises, you'd
+          be right: the latest rumour seems to be that the prosecutor
+          was just asking for information, and the FBI got the wrong
+          end of the big, globalised stick. It's still fuzzy though:
+          We're still waiting to hear from the Swiss, the FBI
+          themselves, the EFF (who are now pursuing the case in the
+          US, due to its similarity to the Steve Jackson deal that
+          started the EFF off, as it were), Rackspace, and every other
+          mediated body that could possibly be involved in this mess.
+          We bet the anti-terrorist people are wishing they had the
+          clout of the British Phonographic Industry, and could just get
+          the ISPs to hand over names and addresses of people to round up.
+          http://docs.indymedia.org/view/Global/WhoTookAhimsa
+                                       - shields up! logs to /dev/null!
+      http://www.theregister.co.uk/2004/10/14/bpi_wins_p2p_court_order/
+         - hey, maybe we can find out where all the leechers live, too!
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          So, it looks like the "Spot The Fed" contest will have 
+          greater-than-usual resonance at the Indymedia fringe spinoff 
+          to this weekend's EUROPEAN SOCIAL FORUM festivities (from 
+          yesterday until Sunday 2004-10-17, various venues around 
+          London including Alexandra Palace, Bloomsbury and the 
+          Millennium Dome, though the Indymedia/ "Communications Rights 
+          and Tactical Media Production" bit is at the Camden Centre, 
+          London WC1, and is free but "donations encouraged"). Equally 
+          opposed to the spectres of war, globalisation, racism etc - 
+          but tackling them via an ingenious mix of PHP scripts and SQL 
+          queries are shadowy social-software funders MYSOCIETY who, 
+          along with acclaimed democracy-scrapers PublicWhip.org.uk and 
+          TheyWorkForYou.com, are hoping to recruit further "volunteers" 
+          at their London drinks evening the Thursday after next (Thu 
+          2004-10-28, Old Queen's Head, Essex Road, London N1, free but 
+          you must RSVP them to find out when it actually starts). 
+          Annoyingly, this is the same night as the inaugural CLUB LE 
+          STRANGE, a "hastily thrown together" evening of music and 
+          performance curated by the "New New Romantic" comedy throwback 
+          Gary Le Strange (8pm, Thu 2004-10-28, The Albany, 240 Great 
+          Portland St, London W1, UKP7), though rest assured that there 
+          should be a lot less naive 1980s-style idealism about the 
+          social impact of technology... at the Gary Le Strange show.
+          http://docs.indymedia.org/view/Local/ImcUkEsfCamdenFlyer
+                                        - vs http://www.fse-esf.org/en/
+          http://www.mysociety.org/cgi-bin/moin.cgi/OctoberEvent
+             - we are warriors, woh-o-oh, and webpages are our weapons!
+          http://homepage.ntlworld.com/kate.darby/page9.html
+            - influence on new Robbie Williams single is plain to hear
+          http://www.dorkbot.org/dorkbotlondon/
+               - "Turbo Twins" robots at Dorkbot London this Wednesday
+          http://www.ifiwatch.tv/
+        - plus Gavin, who runs exequo.org, who stream - radical movies!
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          ultra-enticing job ad - also, between 10pm and 7am you will 
+          sleep in a cold dank cell with 15 of your fellow developers: 
+      http://www.freelancers.net/freelance-jobs-creative/200410/9596.html
+          ... retroactive BBC Reeve censorship - "View cache" on: 
+      http://www.google.com/search?q=%22foetuses+being+delivered+to+Reeve%22
+          - vs http://www.bbc.co.uk/ouch/weblog/archive/0403.shtml now 
+          ... http://qwer.org/AvatarIsOnTheRight.html imitates UK 
+          Resistance: http://qwer.org/ScrollDownOrSearchForTron.html ... 
+          Apple owners - smarter than the average loser who buys a PC: 
+          http://docs.info.apple.com/article.html?artnum=86816 ... token 
+          stationery double-URLtendre roundup: http://penisland.net/ , 
+          http://www.fukhing.com.hk/ ... spirit of experimentation alive 
+          at: http://www.ica.org.uk/index.cfm?articleid=13566 ... damned 
+          when he talks: http://bush.carlcarter.com/ - and when he 
+          doesn't: http://www.looptvandfilm.com/client/bush/bush.html 
+          ... "Little Britain" fansites really getting into the 
+          characters' back-stories: http://www.emilyhoward.com/ ... 
+          
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          Kids today have it easy. In our day, when you wanted to send
+          a monochrome picture of your hastily-sketched out superhero
+          idea to 2000AD, you had to do it yourself, with a black biro
+          and some scrap paper. These days, all you need is the
+          INKULATOR9000, a GPLed degree project that takes polygonal
+          meshes and turns them into seemingly amateurishly inked
+          illustrations. Yeah, yeah, we know that non-photorealistic
+          rendering is old hat, but there's something in particular
+          about the combination of fan-constructed fantasy 3D models
+          and a program that simulates what those fans would have done
+          before Poser that just seems... right.
+          http://inkulator.sourceforge.net/
+                                                            - "heh heh"
+          http://www.red3d.com/cwr/npr/#sketching
+                                            - if you want to get fancy
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> the self-consciously inept movie parodies of FRENCH AND 
+          SAUNDERS (9pm, Fri, BBC1) are firmly - but politely - shown 
+          the door by the new maestro of "alternative mainsteam", in AN 
+          AUDIENCE WITH HARRY HILL (9.10pm, Sat, ITV), shortly before 
+          his triumphant return to a primetime slot with HARRY HILL'S TV 
+          BURP (5.30pm, next Sat, ITV)... and, as we said before, J-Lo 
+          discovers the nightmarish inner thoughts of a serial killer 
+          resemble nothing so much as "bad 1980s pop videos" in daft VR 
+          knockoff THE CELL (10.15pm, Sat, C4)... "spacecraft explode 
+          with muffled thuds, not the usual ka-booms that, in the real 
+          world, the vacuum of space would render impossible" notes The 
+          Independent re the new BATTLESTAR GALACTICA (8pm, Mon, Sky1) 
+          http://news.independent.co.uk/media/story.jsp?story=571071 ... 
+          the new series of LITTLE BRITAIN (9pm, Tue, BBC3) remains the 
+          only thing BBC3 seems likely to be remembered for, while MY 
+          LIFE IN FILM (9.30pm, Tue, BBC3) combines the tiresome media-
+          referencing of "Spaced" with the ongoing life-commentary of 
+          "Dream On" - and not in a good way... we must admit to having 
+          a soft spot for Zeppotron's hilariously old-lady-fronted 
+          nudity roundup BAN THIS FILTH (11.05pm, Tue, C4)... terrorist-
+          myth-exposing docu THE POWER OF NIGHTMARES (9pm, Wed, BBC2) 
+          may just make you more worried about what unsubstantiated 
+          anxiety-inducing nonsense the media are going to perpetrate 
+          next... and, with the Cassini Huygens probe heading for Titan 
+          on December 25th, HORIZON (9pm, Thu, BBC2) asks: have we 
+          learned nothing from the "Beagle 2" debacle - that delicate 
+          planetary manoeuvres and Christmas celebrations don't mix?...
+          
+          FILM>> Dreamworks' CGI division "jumps the shark" with an 
+          upsetting CGI caricature of Will Smith and a "Finding Nemo" 
+          knockoff that *doesn't even look like it's underwater* in 
+          SHARK TALE ( http://www.capalert.com/capreports/sharktale.htm :
+          game violence, including eating of live characters; body 
+          exudate/ function humor; Lenny didn't [have] a "girlfriend" 
+          and showed no interest in the opposite gender; implications of 
+          diverse lifestyle)... sadly, they haven't used the popular 
+          headline pun for overviews of the field of cellular automata 
+          http://www.google.com/search?q=%22it+all+about+Alife%3F%22 to 
+          update the theme tune of Jude Law talking-to-camera remake 
+          ALFIE ( http://www.bbfc.co.uk/ : Contains strong language and 
+          moderate nudity and sex references)... though also out next 
+          week is the inevitable "whoever wins - cinemagoers lose" 
+          franchise-flogging of comic/game adaptation ALIEN VS PREDATOR 
+          ( http://www.capalert.com/capreports/alienvspredator.htm : 
+          many alien attacks, some quite graphic; two uses of the most 
+          foul of the foul words which is likely the reason for the PG-
+          13 rating, none of which were needed in any way; only one 
+          sacrificial suicide) - it's hardly going to have the laughs of 
+          http://alienlovespredator.com/ , is it?...
+          
+          BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+          AS GOOFS">> "ATDT www.ntk.net: Hey, this is your old Hayes 
+          Modem talking", began one of the reader emails that we've 
+          never fully understood, before continuing "Yeah, the one you 
+          threw away to get a USR V.42bis so you could zmodem Ultima IV 
+          in a mere day", and concluding: "This is almost as much fun as 
+          the times we used to turn Tradewars movies into N0rp with The 
+          Draw instead of hax0ring your WWWIV BBS that nobody visited. 
+          Keep up the good work ATH0"... on a similar note, TONY FINCH 
+          suggested the obvious approach to the Amstrad E3 stinging you 
+          for making data calls down your own phone line [NTK 2004-09-
+          17], asking "What happens if you unplug it overnight?". Well, 
+          the bad news is: they've thought of that, Tony - it stops 
+          working if it can't communicate with the Amstrad number coded 
+          into the hardware (also the only reason you can't currently 
+          use it outside the UK)... in other updates, we'll omit the 
+          identity of the reader who pointed out that the Westminster 
+          Council gimp [also NTK 2004-09-17] also has "his own 
+          animation, which us lucky people who work for the council were 
+          forwarded in one of many spam e-mails from our 'internal 
+          communications' team", leading him to suspect that some of 
+          them "are clearly on drugs of some kind". You can "enjoy" the 
+          full gimp-abusing Flash toon at http://www.rubber-trouble.com/ 
+          - our source particularly relished the slightly sinister 
+          "...sometimes too efficient!" at the end... and just to close 
+          on our traditionally unsavoury note, comiserations to the 
+          (again unnamed) individual who emailed breathlessly comparing 
+          two celebrities' genitalia to "a button mushroom" and "a 
+          baby's arm holding an orange", shortly followed by another 
+          message announcing: "Gnngh. You're not Popbitch. Please ignore 
+          previous email, obviously"... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "proud sponsors of Tygerberg College Rugby squad"
+              http://special.time.net.my/cobra/team-tygerberg.cfm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

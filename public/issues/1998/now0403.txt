@@ -1,0 +1,357 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____03/04/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Students are fundamentally opposed to something that locks
+           them in. They're not lulled into the promises of up-front
+                                                              money"
+           - Apple's John Santaro, on Microsoft's "free software for
+                                                      schools" drive
+                        maybe if you offered them record vouchers...
+
+
+                               >> HARD NEWS <<
+                               we can't defuse
+
+         Expect a flurry of "Hoots, Demon!" jokes in the next few
+         days, when the news that Uncle Cliff finally flogged DEMON
+         INTERNET hits the headlines. For it was plucky, regional
+         SCOTTISH TELECOM who snapped the plucky, but getting a bit
+         bored of pluckiness, ISP from the sweaty hands of the
+         telephone giants. Weirdly, rumour has it that the big
+         telcos (names mentioned in the wooing were BT and NTL) were
+         actually offering more cash than the canny Scots, but,
+         idiosyncratic to the end, Demon went with the outsider. Now
+         all that remains is for the shares to be handed over. Which
+         presents a slight problem for the higher circles of the
+         inferno - what about all the share options owned by the
+         rest of the Demon staff? Current price offered: twenty quid
+         a share. But what if they all say "noo"?
+         http://www.demon.net/
+         - two months' Internet access per share? Three?
+         http://www.scottishtelecom.com/st_x3.htm
+         - "Virtual shopping lets you 'try on' clothes in your size"
+
+         The perfect April Fool's joke: upload 15MB of laughter
+         track WAVs to ftp.mozilla.org, then run like crazy. But no
+         - boring old NETSCAPE went and posted the complete source
+         to Navigator, as pledged, instead. Hysteria in the Free
+         Software community followed, mostly at Jamie Zawinski's
+         monster Mozilla party in downtown SF. NTK reporters were
+         there to watch JWZ "liberate" the rest of the commercial
+         software he had in his cubicle by throwing CD-ROMs at the
+         slavering audience, while huge monitors showed a cat of the
+         C/C++ code. Also noted: "more girls than you'd expect". Of
+         course, all the real fun was going on elsewhere - with the
+         Anglo-Australian transworld Cryptozilla coding tag-teams,
+         who, just fifteen hours after the code release, had plugged
+         back in the strong cryptography support that the US
+         government had demanded Netscape strip out. You see what
+         you miss if you waste your life partying?
+         http://www.winklerad.com/staff/jay/mozilla/psn00016.jpg
+         - more guys dressed as strawberries than you'd expect, too
+         http://mozilla-crypto.ssleay.org/press/19980401-02/
+                 - Damn! When did these foreigners learn to program?
+         http://www.altmuehlnet.baynet.de/~carlica/bill/baddm.html
+                    - dateline: 1976. Bill decides against GNU BASIC
+
+         USENET spammers were struck a near-fatal blow this week, as
+         the amassed forces of antispamdom (new word) got bored and
+         went home. From today, the cancelling anti-spam bots that
+         guard USENET from the more outrageous mass-mailers will be
+         turned off, allowing spam to flood the system as much as it
+         wants. It remains to be seen whether USENET will crash,
+         quite literally, in flames, or the spammers will notice
+         that no-one's listening anymore and move on to a more
+         effective medium, like jamming teletext broadcasts or
+         something. In the meantime, we recommend you retire to your
+         mailing-list bunkers until the fallout has cleared. This
+         has been a public service announcement.
+         http://search.dejanews.com/getdoc.xp?AN=339705297.1
+                                               - run away! run away!
+
+         FALLLLLLCOOOOOOO! The bad, BAD thoughts of those predicting
+         the demise of Saatchi & Saatchi's favourite Web design
+         house AMX DIGITAL were vindicated Thursday when
+         "voluntarily liquidation" spontaneously occurred. Top Falco
+         goes to the anonymous source who sent an eerily prescient
+         tip back in mid-February. Of course, the ravings that
+         accompanied it - suggesting that the liquidation would be
+         followed by an instant reforming of the company under a
+         different name - must be discounted as wildest speculation.
+         But then, what do we know? We thought AMX were the guys who
+         did the mouse for the BBC Micro. And who is RealTime, and
+         why would they want 80% of the new company? Does anyone
+         know? No. Still, eh? Falcoooooooooo!
+         http://www.amxdigital.com/bob_d_1.html
+                                - "you can't predict the unexpected"
+         http://www.artwalker.com/o/
+           - the AMX mouse people appear to have gone completely mad
+         http://www.picknmix.demon.co.uk/MrA.htm
+               - or maybe they always were: stories from the old AMX
+         http://www.ntk.net/index.cgi?back=a98/now0213.txt&l=306#l
+                                      - and what is "Falco", please?
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         ANON.PENET.FI Scientology case finally closes - without a
+         prosecution... MIKE BATT writes letter to Music Week
+         warning of illicit Womble MP3 downloads... "Apple Board
+         Says Jobs Can Stay as Long as He Likes", reveals NEW YORK
+         TIMES... MAC OFFICE 98 bug tries to trash System folder
+         when you uninstall: Microsoft "recommends not using this
+         utility"... RES ROCKET now freeware... Microsoft, barred
+         from JAVA ONE, hang around outside with free T-shirts and
+         pizza coupons... "Internet Users Spend More Time, Money on
+         PCs", INTERNETNEWS.COM uncovers... CU AMIGA put System 7 on
+         their cover CD (3 times): didn't realise that Apple might
+         object... CHARLIE BROOKER inevitably gets his revenge on
+         Edge: http://www.ntk.net/edged/edge.ram ... AUSTRALIAN
+         CHESS CHAMPION claims opponent distracted him "with her
+         breasts"... controversial Oasis Webmaster DEREK GORMAN
+         takes break - for A-Levels...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         DECADENT ACTION have been inappropriately busy again,
+         fussing us with press releases announcing this year's WORLD
+         PHONE IN SICK DAY on 6/4/98. To usher in the new financial
+         year, DA urge citizens to slack off, take a sickie, and
+         thus undermine the economy and bring about the collapse of
+         the state. We still think that actively reporting in sick
+         is too much bother, though. Why not get your mate to call,
+         so your boss *knows* you're faking it?
+         http://www.paranoia.com/~rtmark/daphoneinsick.html
+            - and what if I'm paid to be a medical research subject?
+
+         The geek-friendly way to celebrate Jesus Christ's
+         suspiciously convenient return from the dead: INTUITION,
+         the "1998 British National Science Fiction (SF) Convention
+         (Eastercon)", runs from next Fri [10/04/98] right through
+         to Monday, at the Jarvis Piccadilly and Britannia Hotels,
+         Manchester. Their site's oddly *counter*-intuitive, but the
+         strange attractors appear to include authors Connie Willis,
+         Ian McDonald and fanzine editor Martin Tudor, poetry, a
+         costumed masquerade, plus what sounds like a version of
+         Robot Wars which adheres rather more closely to Asimov's
+         Three Laws. Admission on the door depends when you attend,
+         or do all four days for just 40 of your Earth pounds.
+         http://www.ast.cam.ac.uk/~acb/intuition/
+           - clearly somehow they kept it a secret from George Takei
+
+         Not to be confused with "The Quickening", in which
+         Highlander-style "Immortals" battle to try and cut each
+         other's heads off, THE GATHERING remains our favourite of
+         the giant Scandinavian demo parties, if only because it's
+         the only one we've ever been to. Like last year, it's held
+         in the Vikingskipet (Viking Ship) Olympic skating stadium,
+         Hamar, Norway (short train ride from Oslo), from Wed
+         08/04/98 to 12/04/98. Specialist compos include Amiga 64K
+         intro, Amiga 4K intro, PC 64K intro, PC 4K intro, PC Text-
+         mode demo, C64 Demo, Java demo, Useless utility and (our
+         favourite) the Totally Wild Compo.
+         http://www.gathering.org
+         - girls no longer get in free : this *is* an interesting trend
+         http://www.thegathering.org
+                    - not to be confused with "The Gathering Of Men"
+         http://www.nirvana.it/home_int.htm
+         - Christopher Lambert's next effort: Tron for the '90s?
+                                                         In Italian?
+
+
+                                >> TRACKING <<
+                zzt ... zzt ... zzt... BLEEPEEPEEPEEPEEP BEEP
+
+         Microsoft and the Royal Mail, working together: just how
+         slow could you get? "None more slow," seems to be the
+         answer: their new RELAYONE service lets you send your e-
+         mail to a postal address, but it takes "up to" 24 hours to
+         get into the envelope - and that's before it enters the
+         uniformed routers of the PO's snailmail network. And none
+         more expensive, either: 1.50UKP for a single A4 sheet.
+         Messages can be sent to UK addresses only. Best bit:
+         "RelayOne takes the matter of security very seriously
+         indeed. That's why we use a sophisticated encryption system
+         to protect your credit card details." And then print out
+         your e-mail at our centre so that anyone can read it...
+         http://relayone.msn.com/
+         - "printed at 300dpi using professional industrial standard
+                                                     laser printers"
+
+         Spidey sense tingling? Must be the cool US toys from
+         Christmas now filtering down to UK street level -
+         including, at last, the SPIDERMAN WEB BLASTER. Potentially
+         "the new nerf" of office geeks everywhere, this 15UKP arm-
+         mounted webslinger allows you shoot foam silly-string at
+         victims, while adopting the famous "wrist up" stance.
+         Thwip! Thwip! Concerned parents might like to know that the
+         Blaster has been nominated by "Top Ten Worst Toys" for its
+         "potential for face and eye injuries". Other nominees
+         include another Marvel-inspired death-trap, the
+         *fantastically* lethal-looking Wolverine "Awesome Arm". A
+         must for potential beserkers (ages 5 and up), this arm
+         attachment features "retractable striking claws" for "claw
+         striking excitement". Tell us if you spot it in Woolies.
+         http://www.swartzlaw.com/toy
+          - "Super Sock'em Boppers" sadly not a Rudy Rucker spin-off
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         special "return of the Extropians" memepack:
+         www.transhumanist.com/ ... Ayn Rand translated back into
+         Russian... http://members.aol.com/mattjasper/robotics/ ...
+         And even the smart Lego movement is getting out of control:
+         www.lego.com/technic/cybermaster/enhanced.asp ... Tetris
+         for Quake: http://members.xoom.com/phooky/q2tetris.html ...
+         MS NetShow 3 not to be RealAudio compatible; AOL prepares
+         their own streaming audio system... "International Symbol
+         of Victory": www.hi5arm.com/home2.html ... So how did Lycos
+         get that plug into OKTOBER?... The FAST SHOW renamed
+         "Brilliant!" for the US... Oh, and ftp://dk/ and
+         http://listen.the.longest.host.name.you.can.have.is.255.cha
+         racters.or.twohundredfiftyfive.if.you.want.to.see.it.in.its
+         .full.glory.therefore.the.longest.url.better.start.with.a.h
+         ost.name.which.is.precisely.two.hundred.fifty.five.characte
+         rs.long.ok.666.assurdo.com/my.url.is.longer.than.yours/ are
+         positively the last we have to say on this matter.
+
+
+                               >> GEEK MEDIA <<
+                         media junk for media junkies
+
+         TV>> Channel 5 launches its imaginatively titled "Sci-Five"
+         weekend with John Carpenter Jesus-weepie STARMAN (9pm, Sat,
+         C5) - spoiled by the fact that at no point in the film does
+         anyone say: "But you don't understand, Mrs Hayden: that
+         *thing* is no longer your husband!"... also showing:
+         classic '80s crypto-Nazi miniseries V (11.10pm, Sat, C5),
+         and the first-ever THE INVADERS (4.15am, Sat, C5), whose
+         titles strangely emphasise that a) it's a Quinn-Martin
+         production, and b) that lead character David Vincent is an
+         *architect*. Like that'd qualify him to do really detailed
+         3D sketches of UFO interiors or something... rather more
+         down-to-earth fun with Martin Scorsese in Dilbert nightmare
+         AFTER HOURS (1am, Sat, BBC2) plus TAXI DRIVER (9.30pm, Sat,
+         BBC2) - maybe the censors fell asleep and missed those last
+         five, ultraviolent minutes?... otherwise it's time for "NTK
+         readers plug their desperate stabs at fame": gangling Ben
+         Moor appears in *next* week's episode of The-Bill-on-BBC
+         cop drama CITY CENTRAL (8.10pm, Sat, BBC2)... precocious
+         child composer Daniel Pemberton claims to have written the
+         choons for gangster docu MOB LAW (9.30pm, Sat, C4)... it's
+         the last LEE AND HERRING'S THIS MORNING WITH RICHARD NOT
+         JUDY (12.15pm, Sun, BBC2), but their tour starts soon, info
+         at www.leeandherring.com/this/tour.html ... and, who knows,
+         even we might be vaguely funny (for once), abusing
+         Microsoft's Barney-bot in the last of THE NET (11.15pm,
+         Mon, BBC2)... the "Obsessions" dramas conclude with real-
+         trainspotter play adaptation ANORAK OF FIRE (9.55pm, Sun,
+         BBC2)... but plenty of the real thing in the Big Brother/
+         New World Order free-range chat on FOR THE LOVE OF
+         (12midnight, Mon, C4)... enhance your Easter week enjoyment
+         with classic Disney sci-fantasy: THE STRONGEST MAN IN THE
+         WORLD, THE ISLAND AT THE TOP OF THE WORLD, THE SPACEMAN AND
+         KING ARTHUR, CONDORMAN, and 20,000 LEAGUES UNDER THE SEA
+         (10.30am-ish, Mon-Fri, BBC2)... Twin Peaks' Lara Flynn
+         Boyle is one of the oversexed roomsharing students working
+         through the permutations in THREESOME (10pm, Tue, C4)... a
+         NewTek Video Toaster (and T-shirt) briefly cameo in worthy
+         sequel WAYNE'S WORLD 2 (10pm, Wed, BBC1)... and watch for a
+         MacGyver in-joke, plus an evil Egyptian-robot alien
+         actually using the line "This one has *spirit!*", in
+         hilarious spinoff series STARGATE SG-1 (8pm, Wed, Sky1)...
+
+         FILM>> sorry, we goofed: SPHERE was postponed to this
+         (already crowded) week to avoid the not-quite-sunk-yet
+         Titanic, but it's *still* rubbish, even with the cameo
+         appearance by Xterm. NTK says: instead, wait to see what
+         possible twists Sharon Stone could encounter in Basic
+         Instinct 2... wrinkly beekeeper Peter Fonda fails to
+         explain exactly what Ulay (as in "Oil of Ulay") is as he
+         ingeniously battles hoodlums for ULEE'S GOLD (MPAA rated: R
+         for "language")... like an Australian tryout for his role
+         in the upcoming Avengers, Ralph Fiennes joins Cate
+         Blanchett as made-for-each other historical wackos in OSCAR
+         AND LUCINDA (imdb: romance / drama / based-on-novel /
+         gambling / obsession / 1800s)... Martin Scorsese teams with
+         the writer of ET for philosophical Tibetan ponderings in
+         KUNDUN (imdb: non-violence / buddhism / reverse-footage /
+         biographical / monastry / drama / slow-motion / historical
+         / political / religion / stop-motion / sand / teacher-
+         student / dalai-lama / mandala)... Joe "Jagged Edge/ Basic
+         Instinct" Eszterhas seems to have avoided his usual "it's
+         not who you think - oh, it is" plot twist in autobiog
+         coming-of-ager TELLING LIES IN AMERICA (MPAA rated: PG-13
+         for "sex-related situations")... KILLER TONGUE (imdb:
+         Spain) sounds just like a Latin Tarantino/ Rodriguez desert
+         heist romance remake of Species... and finally, good to see
+         Nathan Lane and Lee Evans dwarfed by rodent special effects
+         in kiddie holiday fodder MOUSE HUNT (MPAA rated: PG for
+         "language, comic sensuality and mayhem")...
+
+         SKI-TEK>> Overwhelming urge to be your own Captain Nemo and
+         voyage to the bottom of the sea? Check out US Submarines'
+         Phoenix 1000, built _ a tad carelessly, perhaps - for a
+         multimillionaire who welched on the deal, and yours for a
+         mere $75 million: http://www.ussubs.com/ ... DIY fanatics
+         cut along to "human Battenburg Cake" Adam Hart-Davis's
+         http://www.bbc.co.uk/education/local_heroes/makesub.htm
+         site to build a fully functional 18th-century Drebbel sub
+         for more like 75p... More ambitious? Try the Breakthrough
+         Physics Propulsion Research Workshop from NASA Lewis, which
+         should tell you all you need to know to build a fully-
+         functional star drive instead (well, nearly -- that last
+         little bit is the point of the workshop, after all):
+         www.lerc.nasa.gov/WWW/bpp/BPPWrkshp_STAIF_PrePrnt.htm ...
+         With the American Chemical Society meeting offering plastic
+         transistors for roll-up computer screens, buckyballs at a
+         bargain-basement $100/pound and a recipe for metallic glass
+         ("transparent aluminium", anyone?), the Enterprise is
+         surely just around the corner... Quantum physicists seem
+         unperturbed by the return of the ether... Watch out for new
+         Mars Global Surveyor images of the Cydonian "Face on Mars",
+         mid-afternoon 6/4/98, or early hours 15/4/98, and deep-
+         frozen remains of plucky little Pathfinder a day or so
+         later... then chat live to oh-so-cool Apollo Flight
+         Director Chris Kraft at Yahoo 8-9PM ET on April 25th; he's
+         promoting an HBO mini-series, but who cares?... satellite-
+         linked GPS-controlled "liquid-manure applicator" under
+         development at Purdue University: "It used to be that a
+         farmer would go out and apply 20,000 gallons of manure
+         without having records of where he put it," they say _ how
+         unlike real life, then...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "the pain in your office".
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

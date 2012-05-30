@@ -1,0 +1,256 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-04-05_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Changing software is not permissible. The software is mine."
+         http://www.msnbc.com/news/732865.asp
+                - JAKOB NIELSEN one-up's Bill Gates' "I get half" bid
+
+
+                                >> HARD NEWS <<
+                               lighting the fuse
+
+         Now, either Tony Blair thinks that enthusiastic use of the
+         word "tits" in an eulogy will boost his "man of the people"
+         popularity - or those pesky Chris Morris fans at COOKDANDBOMBD
+         have been busy re-editing his tribute speech to the Queen Mum.
+         You can download the results from the ever-excellent Boom
+         Selection blog, along with the original if you want to have a
+         go yourself - although, in deference to the current mood of
+         the CookdAndBombd site, you are requested not to mock the
+         recent death of Dudley Moore which must - of course - be
+         treated with the utmost reverence. Or, if you fancy a pop at
+         another nation's favourite "Grammy", a reader identifying
+         himself as LORD IAN DOUGLAS has tracked down that "Insidious
+         Virus of Illegal Music Downloading" speech which only last
+         month seemed oh so very amusing...
+         http://www.ntk.net/2002/04/05/speech.mp3
+          - plus transcript: http://grammy.aol.com/features/speech.html
+         http://www.base58.com/booms/archives/2002_04_01_archive.html
+                - "yield a sigh" advise http://www.cookdandbombd.co.uk/
+
+         Normally this is the sort of thing we'd run in Tracking, but
+         it's a veery slow news week - and anyway, we want to look
+         good to our inevitable Super-Intelligent Overlord. After
+         much wrangling, "CYC" - the leftfield artificial
+         intelligence project shepherded since 1984 by Doug Lenat,
+         finally released its "open source"-ish version, OpenCYC,
+         this week. As you will all recall from "The Mad Mad World of
+         Military-Funded LISP Code", CYC was Lenat's gonzo attempt to
+         handcode all of "commonsense" as a set of 10 zillion logical
+         assertions. So, Cyc knows that the UnitedKingdom is a
+         Country, and that the USPresident is a Sentient Primate
+         (Allegedly). Lenat's theory was that once a computer was
+         hardcoded with enough of these common sense links, it'd be
+         able to suck up new axioms just by reading the paper (or, as
+         some sick Netizens suggested, by being forcefed Usenet until
+         it went crazy). To this day nobody outside CycCorp really
+         knows what Cyc knows - but Tim Berners-Lee and the W3C kids
+         have pursuaded Doug to dump the top lump of its ontology out
+         into the wider world, to be used as basic infrastructure for
+         the Tim's "Semantic Web". So the theory is that,
+         intermingled with your usual Weblog rants, you'll be able to
+         repeat in XML what you mean in gobbledook Spockian
+         logic-language that computers can understand. All very
+         interesting - so how do we encode "implies a time-event when
+         pigs will fly"?
+         http://www.opencyc.org/
+- cyberspace-based voodoo AIs usually better at keeping up their DNS than this
+         http://sourceforge.net/projects/opencyc/
+        - linux only. No source; just a cold, unsympathetic java app
+         http://www.w3.org/DesignIssues/Semantic.html
+                                              - Tim! Come down, mate!
+         http://www.cartome.org/neural-jokes.htm
+             - maybe we'll have a function in the new order after all
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         official memorial site still using those old DIANA filenames:
+         http://www.royal.gov.uk/output/page1011.asp (view source)...
+         CITIBANK credit card hits back at Saddam with competing offer:
+         http://www.ntk.net/2002/04/05/dohwin.gif ... "previously
+         uninhibited" island flaunts coconuts for playboy BRANSON:
+         http://www.neckerisland.com/LE/necker/explore1.asp ... PERRIER
+         AWARD issues timely "warning" about comedian Dave Gorman:
+         http://www.amazon.co.uk/exec/obidos/ASIN/0091879647/ ...
+         latest issue of EDGE (p68) quotes NTK quoting eternal wisdom
+         of Tim Wapshott: http://www.ntk.net/1999/10/01/ , and Steve
+         Boxer: http://www.ntk.net/1999/09/17/ , yet manages to miss
+         out exponentiation operator in "2^96"... "Will Not Publish"
+         maintain BBC, hoping (believing?) that she'd live for ever:
+         http://www.ntk.net/2002/04/05/dohbit.gif ... CAPITAL clearly
+         distraught: http://www.ntk.net/2002/04/05/dohcrapital.gif ,
+         http://www.ntk.net/2002/04/05/dohcrap2.gif ... leaving it to
+         the UK's hedgehog-lovers to maintain some sense of proportion:
+         http://www.ntk.net/2002/04/05/dohhedge.jpg ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Expect the... expected at this year's FORTEAN TIMES
+         UNCONVENTION 2002 (from 10am, Sat 2002-04-06, Commonwealth
+         Institute, London W8, from UKP17.50 per day), with speakers
+         including Graham "Lost Kingdoms" Hancock, Rev Lionel "Fortean
+         TV" Fanthorpe, Colin "The Outsider" Wilson, Ken "those Peugeot
+         ads" Campbell, and Jon "Secret Rulers of the World" Ronson. We
+         were hoping that next week's ALIEN PANTS exhibition was going
+         to be a complementary display of crashed-saucer-underwear, but
+         it seems to be a slang term for promotional videogaming
+         nethergarments, on show at one of those JOYSTICK JUNKIES club
+         nights (from 7pm, Thu 2002-04-11, SAK Bar, 49 Greek Street,
+         London W1, "non-members" UKP5) - a refreshing change from
+         their usual "Playstations 'n' nightclubs" schtick which
+         everyone else lost interest in about 4 years ago.
+         http://www.ifgsubscriptions.co.uk/uncon2002/
+                                 - vs http://www.peltorro.com/intro.htm
+         http://www.alienpants.com/news/prevreleases/28-01-02-tshirts.shtml
+                 - and Steve "boxer shorts" Boxer - together at last!
+         http://dorkbot.org/dorkbotlondon/
+                           - dorkbot returns to London's State51 on Wed
+         http://www.yurisnight.net/
+                 - then next Fri: Yuri's Night (all Yuri's get in free)
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         "strace meets expect" about covers it. SUBTERFUGUE for Linux
+         2.4 kernels lets you insert Python code between the OS and
+         an application, mangling and filtering any data along the
+         way. To show you the way, various neat tricks are
+         pre-included, so you can spool all filenames through a
+         regex, fence off bits of the filing system willy-nilly,
+         redirect or block Net connections, throttle data transfers
+         (with a GTK interface), make time(2) go faster or slower. Or
+         just ROT13 everything ls sends. There are, we suppose,
+         easier ways to do all that; but none quite so pervasive or
+         flexible. And none that allow as much fine-tuning of the
+         headfuck that you can inflict on alien binaries when you're
+         unhappy with what they're doing. A version for MacOS X could
+         be a timely development. Oh go on.
+         http://subterfugue.org/
+                                  - get it, before it's banned by the SSSCA
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         killer app http://www.potce.com/Cat1/01/H&G/Home/izek.htm was
+         waiting for: http://www.phink.net/phashion/baby/alien8.html
+         ... Peter Buck diagnosed with "REM behaviour disorder", may
+         have been acting "non-insanely automatic" (for the people):
+     http://news.bbc.co.uk/hi/english/health/newsid_1913000/1913066.stm
+         ... increasing evidence that RAINBOW SIX is getting way too
+         realistic: http://www.ashleypomeroy.com/rainbowsix2.jpg ,
+     http://story.news.yahoo.com/news?tmpl=story&u=/020330/168/1bw4r.html
+         ... blond Aryan kid led astray by foreign-looking neighbours:
+     http://www.thetruthforyouth.com/images/comics/pornography/page1.html
+         ... office hugs "really can boost profits", reports BBC NEWS:
+     http://news.bbc.co.uk/hi/english/business/newsid_1912000/1912766.stm
+         vs "a very group-oriented culture, and a lot of our meetings
+         end in hugs. There was no retribution for noncompliance":
+     http://www.computerworld.com/cwi/story/0,1199,NAV47_STO9015,00.html
+         ... liven up your presentations with crime scene evidence:
+     http://office.microsoft.com/downloads/2000/visCrimeScenesddl.aspx
+         ... http://www.aolwatch.org/cgi-bin/tvquiz.cgi?Need+To+Know
+         ... Commonwealth countries somewhat divided on role of royals:
+         http://www.hicow.com/hk/poll_details.php?t=444&v=103 ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> a couple of questionable tech-industry role models this
+         week, in the form of the mobile ringtone millionaire profiled
+         in FLASH (11.05pm, Tue, C4), plus a feature on Danni Ashe in
+         PASSENGERS (11.35pm, Fri, C4), whose claim to be the web's
+         "Most Downloaded Woman" was queried for potentially including
+         "photos of her with other models", if you know what we mean:
+         http://www.cnn.com/2000/TECH/computing/08/31/downloadable/ ...
+         elsewhere the schedules largely imitate Lee & Herring, as
+         Angus Deayton and Alexei Sayle sip from their SDP mugs in A
+         HISTORY OF ALTERNATIVE COMEDY (9pm, Sat, BBC2), and Greg
+         Evigan stars in EARTHQUAKE IN NEW YORK (8pm, Wed, C5)... C4
+         combines Andromeda with a Stargate SG-1 double-bill for five
+         hours of non-stop sci-fi, of which the best bit is probably
+         the JOURNEY TO THE CENTER OF THE EARTH (2.25pm, Sun, C4)...
+         there's another electronic press kit masquerading as a late-
+         night "making of" documentary in 24 HOUR PARTY PEOPLE: THE
+         FACTORY RECORDS SAGA (12midnight, Sun, C4)... while the US
+         version of "Scrapheap Challenge" JUNKYARD WARS (8pm, Mon, C4)
+         appears to have constructed a more photogenic presenter than
+         Robert "Kryten" Llewellyn... it's supposed to be 3 separate
+         films, it's uncannily similar to the French film "Deathwatch"
+         http://www.dvdtalk.com/dvdsavant/s53until1.html - but there
+         are still times when you wish the apocalypse would just bloody
+         get on with it in Wim Wenders' improvised cyber-epic UNTIL THE
+         END OF THE WORLD (1.30am, Mon, C4)... FOOD JUNKIES (9pm, Wed,
+         BBC2) appears to be an unofficial adaptation of that "Fast
+         Food Nation" book... a better sequel for SPEED (9pm, Thu, C5)
+         would have been "Speed - The Second Derivative", where the bus
+         has to maintain a minimum constant acceleration... and it's a
+         great week for fans of adjectives preceding abstract nouns,
+         with showings of RANDOM ENCOUNTER (9pm, Fri, C5), MATERNAL
+         INSTINCTS (12.20am, Fri, BBC1), PRIMAL FEAR (10.15pm, Sun,
+         BBC1), LETHAL INTENT (12.25pm, Sat, BBC1), IRRESISTIBLE
+         IMPULSE (10.50pm, Fri, C5), and not forgetting Alyson "Willow"
+         Hannigan's INDECENT SEDUCTION (12.40am, Fri, BBC1)...
+
+         FILM>> it's a double-bill of movies postponed from last Sept,
+         with what appears to be a collage of elements from most of
+         Arnie's previous movies causing most of the COLLATERAL DAMAGE
+         ( http://www.screenit.com/movies/2002/collateral_damage.html :
+         "IMITATIVE BEHAVIOR It's possible someone could copy the idea
+         of using terrorist bombings for their own particular agenda")
+         ... and Ed Burns continuing his - unsuccessful - bid to become
+         the Irish-American Woody Allen on the SIDEWALKS ON NEW YORK (
+www.calendarlive.com/top/1,1419,L-LATimes-Movies-X!ArticleDetail-47254.html :
+         "In one of the first scenes, you can see the late World Trade
+         Center, looming majestically, directly over Burns' right
+         shoulder. Which wouldn't be so bad. But it's giving the better
+         performance")... failing that, 1870s nobleman Hugh "Wolverine"
+         Jackman travels forward in time to be baffled by the modern-
+         day conventions of Meg Ryan romantic comedies in KATE AND
+         LEOPOLD ( http://www.capalert.com/capreports/kate&leopold.htm :
+         "Typically in movies for teens the kissing is gaping-mouth
+         tongue kissing, with the face disappearing behind the
+         cavernous mouth. The kissing between Ryan and Jackman was
+         quite probably the best example-setting kissing I have seen in
+         a PG-13")... and "I'm Tony Wilson, A-haaa!", declares Steve
+         Coogan in usual-suspects arch Hacienda hagiography 24 HOUR
+         PARTY PEOPLE ( http://www.bbfc.co.uk/ : "Contains very strong
+         language and drug use")...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                        "an entertaining side project"
+                  http://www.ojr.org/ojr/lasica/1017820788.php
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

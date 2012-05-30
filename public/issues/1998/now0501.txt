@@ -1,0 +1,275 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____05/01/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "More than two million people visit a BT payphone every 
+         day. Results from past BT promotional activity have shown 
+         that advertising in kiosks really works"
+                      - STEVE DAVIS, head of BT Payphone marketing
+         BUSTY MODEL, NEW IN TOWN, OFFERS "PROMOTIONAL ACTIVITIES"
+    
+        
+                              >> HARD NEWS <<
+                                 short fuse
+    
+         "So where were you when they took your private keys away, 
+         Daddy?" "If I remember rightly, young lady, I was voting 
+         for 'Hank the Angry, Drunken Dwarf'". Labour announced 
+         their CRYPTO POLICY on Monday. Having managed to postpone 
+         in the week Whit Diffie was in town, this time they 
+         stumbled it out when Phil Zimmermann was here to take the 
+         calls. His reactions, at a hastily-convened meeting in 
+         Cambridge? To their request that government authorities 
+         endorse your signing key, fine. And handing over your 
+         private key? "Extra code in PGP 6.0 so you can switch your 
+         private key, without changing your sig key. You can switch 
+         it as soon as they leave." Also on the agenda: Phil's 
+         trying to switch the license on the Free Unix 
+         implementation of PGP to a more Open Softwarish tune. 
+         Meanwhile, watch out for the new legislation; but be 
+         prepared to wait, because writing law takes so much longer 
+         than patching code. Thank God.
+         http://www.liberty.org.uk/cacib/legal/crypto/dti-crypto.html
+	                                  - those proposals in full
+         http://online.guardian.co.uk/computing/893871217-encrypt.html
+ 	                      - the good Duncan Campbell reports...
+         http://www.angelfire.com/ok/yoa/
+     	                         - Sod that! We want pictures of Hank!
+
+         The BPI this week discovered that RealAudio streams *could* 
+         be recorded, after all. Shocked, *shocked*, by this 
+         discovery, and feeling betrayed by assurances that Web 
+         users could never in a million years have worked out what 
+         that "Line Out" socket was for, they immediately demanded 
+         compensation from all the music Websites. In a typically 
+         brave stand, the BBC shut down all their Radio 1 RA 
+         streams. We're just hoping no-one snitches to the BPI about 
+         that "taping the John Peel Show off the radio onto a C60" 
+         scam.
+         http://www.bbc.co.uk/radio1/listeningbooth/listeningbooth.html
+	                - FLASH! BBC closes down all RealAudio streams!
+         http://www.bbc.co.uk/radio1/listeningbooth/
+                - UPDATE! Wily hackers find secret backdoor to RA files!
+            "We never imagined directories could be listed", say experts
+         http://www.focus-asia.com/home/mad96/cracks.htm
+	       - go on, just intercept the data going to your sound card
+
+         And, finally, a bit of good news. The INTERNET MOVIE 
+         DATABASE, our favourite site in all the world, has 
+         successfully sold its soul to Amazon. Bundled with UK book 
+         sites BookPages (who he?) and German company Telebook (wer 
+         er?), Amazon is spending 55 million dollars on European 
+         content. And, naturally, since the content on IMDb is 
+         written by its visitors, you can be expecting your cut any 
+         day now.
+         http://uk.imdb.com/
+	                      - only joking, plucky Celtic movie people
+         http://www.bookpages.co.uk/
+	                                    - oh, right. That's... nice.
+
+  
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Demon bought by SCOTTISH TELECOM, as predicted - Roy Bliss 
+         to be MD: that we didn't... MSN IRELAND "disappears" ... 
+         NOVELL says spam costing UK $8 billion a year... www.next-
+         generation.com's article on the Chris Anderson FUTURE 
+         buyout ended with "resistance is futile. You will be 
+         assimilated": tagline mysteriously disappears... NOVELL UK 
+         HQ still has sendmail configured to relay spam... 
+         INDEPENDENT says Netscape strikes deal with "the electronic 
+         massaging company USA.NET" ... Our favourite hack, RICHARD 
+         BARRY, spams Ziff Davis journalists: requests they help "a 
+         sick boy" who is "collecting business cards to get into the 
+         Guinness Book of Records"... Times' INTERFACE reports 
+         "President Bill Clinton recently took the unprecedented 
+         step of restricting the export of cryptographic software": 
+         just how recently was this, then? ... RICHARD BARRY 
+         recants: apparently it is all "a sick hoax"... theDJ.com 
+         launches an all-weather EL NINO music channel... "Gorilla 
+         not impressed by Net chat"... Paranoia.com, sadly, dead... 
+
+  
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         So when did the LONDON 2600 MEETINGS get so stylish? 
+         They're having a live RealAudio broadcast this Friday, with 
+         a DJ and everything. Although it's unclear from the press 
+         release, either the Shaftesbury Avenue McDonalds has a 
+         brand new ISDN feed, or the gentlemen dudes of the Home 
+         Counties Elite are mixing it at Backspace or other cyber-
+         hangout where we're sure they've got advance permission. 
+         Still, some things never change: it's still 7.00pm, 1/5/98, 
+         next to the VR machines at the Trocadero. Look out for the 
+         dark coats, black t-shirts and - if any of them went to 
+         last week's DNS, the very, very hungover stares.
+         http://www.abel.net.uk/~dms/broadcast 
+	               - you people should be *ashamed* of yourselves
+
+
+                                >> TRACKING <<
+                          geeks-geeks copy program
+
+         Quick! While Rob Malda's still doing celebrating his 
+         finals, we'll quickly slip in the MPEG3 player in your car, 
+         which Rob's slashdot covered earlier this week, but we 
+         think we can get away repeating here. It's British, it's 
+         Linux-based, and you'll probably have to devote the next 6 
+         months of your life getting yours to work. But it beats 
+         waiting for them to ban the MPMan, doesn't it?
+         http://utter.chaos.org.uk/~altman/mp3mobile/
+ 	       - already moved from Demon, so you've probably seen it
+         http://slashdot.org
+	            - how can we *not* love them, damn it all to heck
+         http://www.ccc.de/CRD/CRD240498.html
+           - and while you're there, here's that GSM Card SIMulator...
+
+         The CYPHERPUNKS mailing list has always been, search form 
+         reflecting content, a little hard to track down. It's a 
+         shame, since it's hard to find a better technical and 
+         historical resource on cryptography, cyberlibertarianism 
+         and watching Tim May hurl insults at every newbie who 
+         crosses his mantrap-spiked path. The search engine code 
+         isn't *quite* working yet, but when your day job is 
+         toppling governments, it's hard to find the time.
+         http://sof.mit.edu/cypherpunks/
+              - it stands for "Soldier Of Fortune": setting the tone
+                                                            for you?
+
+                              >> MEMEPOOL <<
+                            hasta la altavista
+
+         http://www.hizbollah.org/ ... He-Hog the Atomic Pig... 
+         ULYSSES 31 movie? Nah... Open Cola!... The GUARDIAN 
+         Unlimited - to six sites... pronouncing "www" as "yadda 
+         yadda yadda"... http://freeweb.pdq.net/headstrong/ ... 
+         unsubstantiated rumours indicate WINDOWS 3.1 disks 
+         mysterious fail to install after 1/1/98... www.leif.com 
+         ... Wu Tang's OL' DIRTY BASTARD renames himself "Big Baby 
+         Jesus" ... US BUREAU OF EXPORT sniffing ftp sites for baad 
+         crypto... this proves - something: 
+         www.mormons.org/humor/index.htm ... also contrary to God's 
+         plan: www3.mistral.co.uk/whitedot/ ... searching for 
+         "_vti_inf.html"... our favourite URL of the year so far: 
+         http://www.cardhouse.com/g/moj/mojave.htm ... 
+
+
+                             >> GEEK MEDIA <<
+           the color of television tuned to a dead Sky channel
+
+         TV>> after years in the post Big-Breakfast wilderness, Mark   
+         Little's back with NO WORRIES WEEKEND (from 22.45pm, Fri-
+         Sun, ITV), though his broad definition appears to include 
+         deeply worrisome failed Leslie Nielsen spoof REPOSSESSED 
+         (11.20pm, Fri, ITV), superb spaghetti sequel THE GOOD, THE 
+         BAD AND THE UGLY (2.55am, Fri, ITV), plus that paean to 
+         easygoing Aussie lifestyles MAD MAX BEYOND THUNDERDOME 
+         (11pm, Sat, ITV)... anyway, beats appalling Stallone sound-
+         stage schlocker CLIFFHANGER (9.35pm, Fri, BBC1), though 
+         repeats of THE ADAM AND JOE SHOW (11.05pm, Fri, C4) pick up 
+         with bad portrait drawing on the streets of London, and the 
+         casting sessions for Smack Me Up, Gun-Bitch... odd 
+         scheduling for Kevin "Scream" Williamson's semi-self-
+         referential teen-dram DAWSON'S CREEK (7pm, Sat, C4); spot 
+         the geek in Film Threat T-shirt later this series... and, 
+         it being Saturday, the theme nights peak a little early 
+         with EUROVISION'S WATERLOO (from 9pm, Sat, C4), plus 
+         equally Abba-obsessed MURIEL'S WEDDING the day after (9pm, 
+         Sun, C4)... SUPERGIRL (1.45pm, Mon, BBC1) looks most puny 
+         beside superior sequel SUPERMAN II (3.35pm, Mon, ITV)... 
+         former Doogie Howser plays a village idiot in THE OUTER 
+         LIMITS (11.35pm, Mon, BBC2)... and, as the BBC plans its 
+         1998 "Computers Don't Bite" campaign, Lynda La Plante goes 
+         and launches the - truly awful - KILLER NET (10pm, Tue, 
+         C4); please add your comments to our critique at 
+         http://www.spesh.com/killer ... while the SLIDERS (6.45pm, 
+         Wed, BBC2) visit the oddly familiar-sounding world "where 
+         mass entertainment is provided by an extremely violent 
+         video game" (maybe it's QuakeWorld!)... starting a Sharon 
+         Stone double-bill - though she hardly "stars" in the other 
+         one - is CCTV thriller SLIVER (10.15pm, Wed, BBC1), with 
+         William Baldwin as a possibly murderous C programmer, 
+         though that isn't part of the evidence used against him...
+ 
+         FILM>> [NB: just for a change, NTK's swearing 
+         correspondent, Charlie Brooker, proposed that instead of 
+         our usual imdb.com categories, we quoted the warnings/ 
+         recommendations from the parents' "entertainment guide" at 
+         http://www.screenit.com/ , which details every instance of: 
+         (among other things) Sex/Nudity, Disrespectful Attitude, 
+         Inappropriate Music, Tense Family Scenes and Profanity - 
+         and, as a result, often reads like Barry Norman with 
+         Tourette's Syndrome]... anyway, true to its premise, it's a 
+         similar cast, similar plot, similar ideas - and sequels do 
+         *still* suck, even when they're SCREAM 2 [ScreenIt: 
+         "Extreme profanity - at least 29 "f" words (1 used with 
+         "mother"), 21 "s" words, 1 slang term each for male and 
+         female genitals (the "d" and "p" words), 12 asses (1 used 
+         with "hole"), 3 hells, 1 crap, and 3 uses each of "G-damn" 
+         and "Oh my God," 2 uses of "Jesus," and 1 use each of "For 
+         Christ's sakes," "Jesus Christ," "Oh God," and "My God" as 
+         exclamations]... the rehab of B-list '80s action heroes 
+         continutes with Kurt Russell in surprisingly tense road-
+         noir romp BREAKDOWN [ScreenIt: "Extreme profanity - 21 "f" 
+         words (1 with the prefix "mother"), 14 "s" words, 1 slang 
+         term for breasts (the "t" word), 14 hells, 8 "ass" words (3 
+         used with "hole"), 7 S.O.B.'s, 4 damns, and 7 uses of "God 
+         damn," 4 uses of "Jesus," 2 uses of "Swear to God," and 1 
+         use each of "Oh Christ," "Christ," and "For Christ's sakes" 
+         as exclamations]... you'll always wonder what might have 
+         happened if you hadn't gone to see Gwyneth Paltrow's London 
+         Underground-product-placed parallel-universe (and Sliders-
+         title influenced?) love comedy SLIDING DOORS [ScreenIt: 
+         "Heavy Profanity - with the English accents and regional 
+         slang, there may be more than listed below. For instance, 
+         the term "shagging" seems to be used as a replacement for 
+         the "f" word (both sexually and non-sexually), and the 
+         terms "wanker" (derogatory for masturbation) and "bollocks" 
+         (testicles) also seem to be used as profanities... At least 
+         7 uses of "shagging", what sounded like 2 slang terms using 
+         female genitals ("twat"), etc etc..."] And, needless to 
+         say, various uses of "God" and "Oh God" as exclamations. 
+         back to the imdb next week, I think...
+
+         ERROR!>> Oh, it's so easy to knock isn't it, but what 
+         happens when the shoe is on the other foot, and that foot 
+         is in our own mouths? We admit it: Demon *didn't* eliminate 
+         the alt.b.mp3 newsgroup; *someone* misconfigured their 
+         newsreader. The ICA didn't have an E10000, and if they did, 
+         it wouldn't have cost 250,000UKP, nor would it have been 
+         one of fifteen (closer to 750,000; and they've sold more 
+         than that, easy, though not in the UK). Also, we taste-
+         tested Nestle's new Pretzel Flipz - salty pretzel shapes 
+         coated in "delicious" white fudge. And a big fucking 
+         mistake that proved to be. For the fatals mistakes of 
+         others, tune once again to www.teammanager.com/falco/ - 
+         first results out next week!
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "lights out, good".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+ 	          Tips, news and gossip to tips@spesh.com.
+

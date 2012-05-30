@@ -1,0 +1,349 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-10-27_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Steganography is considered the third biggest threat to US
+          security after biological and chemical attack."
+                      - STEPHEN WHITELAW, publicity shy head of ACTIS
+http://people.ft.com/ft/gx.cgi/ftc?pagename=View&c=Article&cid=FT3G54ELIEC
+          ...that's right, piss off the nuclear terrorists, why don't you?
+
+
+                                >> HARD NEWS <<
+                                 codes reused
+
+         So *that's* why the Kursk sank. Turns out the Russians have
+         been hogging the the Windows source code tree for the last
+         three months, checking out bits of the MS "blueprints" ( (c)
+         2000 every news source we've read) for their own brand of 
+         code refactoring. Given that St Petersburg e-mail
+         address, the media's Redmondologists are already theorising
+         that the hack was planned by mafiosi intending to ransom the
+         code: presumably they've already been sending back snapshots
+         of Win2K - holding up recent modification datestamps, and
+         horrifically disfigured by the KO18-R character set. 
+         Traditionally, Microsoft has blamed security breaches via 
+         trojans, not on the gaping holes in MS software, but to poor
+         discipline at the victim's companies. Companies must educate
+         employees "not to run a program from an origin you don't 
+         trust", said a MS rep last time we all got hit. So, does 
+         this include Microsoft itself now?
+         http://news.cnet.com/news/0-1003-200-1816987.html
+                    - "bad people misusing good software", apparently
+         http://www.datafellows.com/v-descs/qaz.htm
+                   - still, good to see Windows is written in Notepad
+         http://www.ntk.net/2000/10/27/dohyahoo.gif
+                   - "Intr\013Kanget har inte skadat bolaget", indeed
+         http://terrorists.net/hacked.htm
+ - the Illuminati, you say? whois microsoft.com, you say? Repeatedly?
+
+         It's long been known - in the Commodore 64 emulation community 
+         at least - that Kernkraft 400's Euro-techno chart-topper 
+         ZOMBIE NATION (dada-dada-dada-da dada-dada-dada-da da-dada-
+         da!) was based on the music from the "Stardust" subgame in 
+         David Whittaker's 1984 C64 release, "Lazy Jones" - showing a 
+         perhaps-unexpected enthusiasm for copyright legislation, retro 
+         remix site c64audio.com say they helped him negotiate a 
+         settlement with the record company over use of the riff. 
+         However, since the "Lazy Jones" game soundtrack also contains 
+         unmistakable versions of Nena's "99 Red Balloons" and Visage's 
+         "Fade To Grey", newsgroup speculation continues as to whether 
+         "Stardust", too, might not have been a David Whittaker 
+         original. Kraftwerk seem to be the most persistent candidate 
+         (though too jaunty, surely?) - the almost-perfect challenge 
+         for NTK readers' highly trained soundalike-spotting skills. 
+         Still, let's not ignore the possibility that "99 Red Balloons" 
+         and "Fade To Grey" could have started out this way as well, 
+         this one 1984 platform game having acted as a Tin-Pan-Alley-
+         style hit-factory for non-stop electro-pop hits over a period 
+         of 16 years.
+         http://www.egroups.com/message/c64rmx/412
+                  - yeah, so we just ripped off Per Bolmstedt's reply 
+         http://www.classicgaming.com/area64/
+               - under "Games/L". Like C64 browsers support frames...
+         http://x54.deja.com/getdoc.xp?AN=680074406
+              - 99 Red Balloons: .sid track 7, Fade To Grey: track 20
+         http://www.richardcheese.com/ 
+                     - top post-Popbitch cover-version Napster-fodder
+
+         Somehow re-infecting the cyber-nodes in a quantum-
+         superpositioned, agile-tunnelling-stylee is FUTURE VISION,
+         makers of the mysterious BLITZKRIEG server that had so many
+         journalists in its thrall back in '97. Sadly, the all-new
+         site doesn't have much original to add to the first, bizarre
+         intimations of a "virus-like collective digital life-form"
+         that used quantum physics to predict and destroy hacking
+         attempts *before they'd even begun*. Instead, there's a
+         exciting couple of pages describing the server's unique
+         "anti-head / anti-neck" properties. Oh, and a bunch of
+         scanned press reports from all the press that were gullible
+         enough to be taken in by this craziness last time: Defence
+         Week, The New Scientist, The Sunday Times. That goodness
+         hacks are more tech-savvy these days, eh?
+         http://www.theregister.co.uk/content/1/14271.html 
+    - or know the difference between a host and domain record, anyway
+         http://vmyths.com/rant.cfm?id=213&page=4
+                        - Rob Rosenberger has the full story, as ever
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         the witch ROWLING wields widdershins-logic on her inquisitors: 
+         http://www.ntk.net/2000/10/27/dohpotter.jpg ... BLACKSTAR 
+         delivers surprise to half its staff... Interactive BAFTA 
+         winners include MEDIEVIL II, BBC NEWS ONLINE, DAVID BOWIE: 
+         http://www.bafta.org/bafta/5_ie/5_WINNERS_2000.htm ... THE 
+         REGISTER http://www.theregister.co.uk/content/1/14251.html 
+         re-reports "Brits discovered public key crypto" from Apr 1999: 
+         http://www.wired.com/wired/archive/7.04/crypto.html , confuses 
+         RSA algorithm with public-key... CNN "censor" Larry Flynt's 
+         unsubstantiated Bush-slurring: http://www.closedfist.com/cnn/ 
+         ... "Revenues to Exceed $700" - Wireless ASP market that big?: 
+         http://www.wirelessdevnet.com/news/2000/276/newsletter.html 
+         ... BBC "Have I Got News For You" site pastes addresses of 
+         1,264 visitors into "To:" field, blames "technical glitch" - 
+         allegedly... BT WEBWORLD does same with 49 customers - all of 
+         whom are referred to by surnames - Willis, Whiteley, Thompson 
+         - like it was a pre-war public school or something... your 
+         license fees at work: ftp://ftp.bbc.co.uk/pub/Damion/nokia/ 
+         ... GOD fails to prevent FALCO: http://ibelieve.com/ ... you 
+         can call me "ill": http://www.ntk.net/2000/10/27/dohplague.jpg 
+         ... REGISTER couldn't spot a Spectrum game if it 8-bit them on 
+         the ass: http://www.theregister.co.uk/content/1/14234.html ... 
+         GUARDIAN readers look on bright side of fatal train crash: 
+    http://www.guardian.co.uk/saturday_review/story/0,3605,385712,00.html
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Good: UK UNIX User Group, the folks who brought you Richard 
+         Stallman, Eric Raymond etc etc, present a free public evening 
+         with actual "inventor of the internet" VINT CERF (6.30pm, next 
+         Fri 2000-11-03, UCL, London WC1) - though how are they going 
+         to better this line-up in the future? Charles Babbage? The 
+         Loch Ness Monster? God? Bad: Arts Catalyst, the Arts/Science 
+         dimwits, have issued a "call for participation" for their 
+         upcoming 2ND UK SPACE ART FORUM (Tue 2000-11-21, London E1), 
+         to discuss art performances and/or objects designed for "zero 
+         gravity" (the very use of that term indicating they have no 
+         idea what they're talking about; they mean "microgravity" or 
+         "free fall"). And potentially quite ugly: DAVE "McSweeneys" 
+         EGGERS, and, er, Zadie "White Teeth" Smith both feature at 
+         transatlantic "music and readings" club night WORDS@ICA (8pm, 
+         Sat 2000-11-11, the ICA - where else?), the normally mild-
+         mannered "Heartbreaking Work Of Staggering Genius" author 
+         bragging that, on a previous occasion, he "carefully cut the 
+         hair of five attendees".
+         http://www.ukuug.org/events/cerf/
+            - handily, contains explanation of what "the Internet" is
+         http://www.artscatalyst.org/htm/new.htm
+           - look, it's all at http://microgravity.nasa.gov/wimg.html
+www.whsmith.co.uk/whs/go.asp?pagedef=/adventures/showprod.htm&data=space
+           - not even WHSmith can "guarantee space flight will occur"
+         http://www.ica.org.uk/performance/113806/
+             - ironically, it's ArtsCatalyst who need the haircuts...
+         http://www.mcsweeneys.net/2000/10/09britsoap.html
+          - what they think Brits sound like. Don't disappoint 'em...
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Want to show someone how much you care? Would rather garrotte
+         yourself than send a Blue Mountain... thing? And they use
+         Lynx anyway, so there'd be no point? Can we suggest that you
+         take a closer look at that "AdWords" link at the bottom of
+         Google. Just $16 (deposit of $50) pays for a thousand hits
+         on the keyword of your choice: and if you send the notifying
+         mail off to your loved one quicker than Google
+         retrospectively checks the ad, you could probably be as rude
+         as you like. Added extras: find out, via their instant quote
+         facility how popular certain search term are (Microsoft
+         23,700 hits per day, Linux 46,000, George Bush gets 4300, Al
+         Gore 2200, Yankees 800, Mets 300, etc). And if you see an ad
+         you don't like, filter it for everyone by writing a script
+         that eats through their ad budget. The possibilities, as one
+         guesses Google are only beginning to realise, are endless.
+         https://adwords.google.com/AdWords/Welcome.html
+                             - "google" itself, 6000 hits a day. Huh?
+         http://www.google.com/search?q=falco
+                                     - well, we had to try it, right?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         wait till this technology hits the citrus-rich MIDDLE EAST: 
+         http://www.ananova.com/news/story/sm_94399.html ... for all 
+         your media-sanctioned-outburst-of-public-hysteria needs: 
+         http://www.tragibutes.co.uk/ ... lame Onion-imitation imitates 
+         ONION: http://www.thesatyr.com/archives/websites/bunion.htm 
+         ... at last! TEMPEST on the side of the Houses Of Parliament: 
+         http://games.lasers.org/ ... after "BRITNEY explains lasers": 
+         http://www.routergod.com/charlesmanson/ ... yes, they do a 
+         "bitches" joke: http://www.geocities.com/limeskiesspookypills/ 
+         ... where "If Constrict Anus 100 times, Malarkey?" isn't a 
+         cryptic crossword clue: http://hometown.aol.com/nishigaki3/ vs 
+         http://www.jesus21.com/poppydixon/product/panties/panties.html 
+         ... "This time it's personal", promise new http://www.boo.com 
+         ads. HELLLO???!!... for veterans of the fucked-company wars: 
+         http://www.eboy.com/pages/clients/clients01.html ... you don't 
+         want hairy NADS: http://www.youcansave.com/nadnathairre.html 
+         ... today's DAILY MAIL "It's Typical" strip for TVGOHOME fans: 
+         http://www.ntk.net/2000/10/27/typicalmail.jpg ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> that idiot Renny Harlin misses the intriguing subtexts of
+         the first film in nonetheless explosive sequel DIE HARD II:
+         DIE HARDER (9pm, Fri, ITV)... as "McSweeneys" asked about
+         POLTERGEIST (11.05pm, Fri, BBC2): what happens if you build a
+         sacred Indian burial ground - on top of a *sacred Indian
+         burial ground?*... and C4 intriguingly combines a themed
+         strand on combating stress in the workplace (from 7.45pm, Sun,
+         C4) with a Halloween-tie-in season of "Film Fear", featuring
+         amateurish petrol-driven chase-em-up THE TEXAS CHAINSAW
+         MASSACRE (11.45pm, Sat, C4); po-mo classic SCREAM (10.10pm,
+         Sun, C4) - "A group of teenagers pay the ultimate price for
+         failing to answer a horror fan's film trivia questions" (The
+         Radio Times); and ham-fisted sub-Rollerball road rage satire
+         DEATH RACE 2000 (1.10am, Sun, C4)... other topical stressors
+         include Peter "Bad Taste" Jackson's CGI tryout THE FRIGHTENERS
+         (11.35pm, Sat, ITV), dire occupational hazard parable NUNS ON
+         THE RUN (10pm, Mon, C4), and by-the-book Clancy nonsense
+         PATRIOT GAMES (10.35pm, Mon, BBC1), in which Harrison Ford, to
+         avoid offending all those members who do important social work
+         in the community, battles an "ultra-violent" faction of the
+         IRA... Sky1 presents an ultra-recent retrospective of clips of
+         other channels' retrospectives of 1981 in TV YEARS (9pm,
+         Sun)... C5 stalwart Mark "The Crow" Dacascos stays alive and
+         kicking in non-stop martial-arts cyber-chuckle DRIVE (9pm,
+         Mon, C5) - not based on The Cars' song of the same name...
+         LOUIS THEROUX (9pm, Mon, BBC2) has long harboured gangster
+         hip-hop ambitions, as proved by this excellent rap he wrote
+         http://www.ntk.net/2000/10/27/therap.jpg for a student comedy
+         mag we did once... while Anne Robinson's hysterically
+         fascistic "You are the weakest link: Goodbye!" is becoming
+         *the* way to end phone conversations, as uninspired
+         "Millionaire"/"Big Brother" hybrid THE WEAKEST LINK transfers
+         to BBC1 (8pm, Tue)... the Halloween horror continues with
+         lengthy Bruce Willis period drama LAST MAN STANDING (9pm, Tue,
+         C5) and hand-held alleged "Blair Witch" inspiration THE LAST
+         BROADCAST (12midnight, Tue, C4)... Weird "Al" Yankovic's title
+         sequence is the funniest bit of Leslie Nielsen's Bond spoof
+         SPY HARD (9pm, Thu, C5)... and, after last week's double-bill
+         of breast documentaries, DISPATCHES (10pm, Thu, C4) takes a
+         long hard look at whether women should "abandon the bra"...
+
+         FILM>> one of the actresses is called "Kim Director", raising
+         the exciting possibility that the rest of the cast might have
+         names like "Steve Cameraman", in thankfully more conventional
+         teen dream-sequence horror BLAIR WITCH 2: BOOK OF SHADOWS
+         (http://www.screenit.com : two women kissing; some of the
+         women wearing just their bras and the guys are shirtless;
+         Erica topless once again and then sitting nude with something
+         between her legs blocking our view of full frontal nudity;
+         what looks like one of the men having sex with one of the
+         women from behind her; and a man and woman running away from
+         the camera, nude - we see their bare butts)... otherwise it's
+         James "Likely Lads" Bolam, Thandie "M:I2" Newton and Nicola
+         "Eastenders/ Young Person's Guide To Being A Rock Star"
+         Stapleton - together at last! - in this month's genre-limited
+         Brit crime caper IT WAS AN ACCIDENT WAITING TO HAPPEN (imdb:
+         comedy / drama) - not closely based around the Billy Bragg
+         song of the same name... but fortunately repeated viewings of
+         last week's BRING IT ON (http://www.capalert.com : locker room
+         underwear; homosexual presence; using breasts as car wash
+         sponges; "The Naked Ape" book - the book claiming man is
+         [descended] from apes) have confirmed it as one of the year's
+         best/worst movies, resembling nothing so much as a foul-
+         mouthed feature-length Britney Spears video. In a good way...
+
+         HARD LIT>> the addition of our Gift Voucher-exploiting "Books
+         Under UKP2.25" at http://www.ntk.net/books/ has radically
+         skewed our sales figures with such unexpected bestsellers as
+         THE LITTLE RED QUIZ BOOK (25p), THE LITTLE MISS NAUGHTY:
+         LITTLE MISS MINI CHUNKIE BOOK (UKP2.00) (not to be confused
+         with MOLL FLANDERS - 80p), THE LITTLE BOOK OF FARTING
+         (UKP1.59) and, of course, the WILLIAM MORRIS BLANK BOOK series
+         (67p), which people have been buying in batches of ten or
+         more. We're guessing that they're some sort of decorative
+         notebooks (as opposed to portraits of the "blanks" from the
+         Max Headroom TV series) from the 19th century British
+         craftsman, designer, writer, typographer, and Socialist (as
+         opposed to the international talent agency) - but you never
+         know... back with the full-price chart, an unexpected 3 sales
+         for the DAILY TELEGRAPH BOOK OF OBITUARIES (UKP5.59) appear to
+         be due to our software eliding several titles in the series,
+         but there can be no such error when BACH - FUNERAL CANTATAS
+         (UKP11.06) at last overtakes SPILLER: GROOVEJET - IF THIS
+         AIN'T LOVE (UKP1.69) to regain its rightful position at the
+         top of the pop chart... not too much in the way of reader
+         recommendations recently: ADRIAN MOULDER disappointedly noted
+         that Helen Fielding's BRIDGET JONES 2: THE EDGE OF REASON is
+         "nothing at all to do" with KW Jeter's BLADE RUNNER 2: THE
+         EDGE OF HUMAN, but persuasively argued that Joe Queenan Would
+         Like To Apologise http://www.geocities.com/joemexcuse/ gives
+         "a flavour" of our favourite movie critic's latest odyssey MY
+         GOODNESS: A CYNIC'S SHORTLIVED SEARCH FOR SAINTHOOD (UKP13.43)
+         ... regular reader ALAN HAMILTON-CONNOR isn't often wrong (and
+         even when he is, he's still entertaining), proclaiming Scott
+         McCloud's REINVENTING COMICS (UKP14.04) a worthy sequel to the
+         "almighty" UNDERSTANDING COMICS ("Whinging About Comics, more
+         like", mutters one NTK staffer). "Make people buy it through
+         your e-commerce hole!" Alan concludes - ideally sampling it
+         first via http://www.scottmccloud.com/comics/icst/icst.html
+         ... our traumatic page-turner of the month was ex-Punch-
+         editor David Thomas' SHOW ME THE MONEY: THE DIARY OF A WANNABE
+         INTERNET MILLIONAIRE (UKP10.39), a jaw-dropping account of a
+         self-confessed newbie's efforts to accumulate the eponymous
+         dot-com fortune, either to provide for his wife and two
+         children, or to live the carefree life of an international
+         playboy - it's never quite made clear... but ending with books
+         that NTK readers have actually written: Simson Garfinkel's
+         DATABASE NATION (UKP13.20) has an entertainingly surreal
+         digression about his cats - though if you buy it from Amazon
+         your "Amazon Recommends" mail fills up with paranoid tomes on
+         UN black helicopter mind-control... and, stupidly, we haven't
+         yet got hold of a copy of Pat "Queen Of Cyberpunk" Cadigan's
+         new VR thriller DERVISH IS DIGITAL (UKP7.99), though we can
+         tell you that it's a follow-up to her previous murder-mystery,
+         "Tea From An Empty Cup"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+        "We didn't start the fire - but we did try to block the exits" 
+                     http://www.fairvue.com/?feature=start
+        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

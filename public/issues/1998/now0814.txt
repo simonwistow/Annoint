@@ -1,0 +1,268 @@
+
+         [Hello. This being mid-August, when everyone goes on
+         holiday and there isn't any real tech news, NTK takes a
+         short summer break to be replaced by the ironically named
+         MiniNTK - a mysteriously lengthier cache-clearing
+         collection of other moderately entertaining snippets we've
+         stumbled across in our spare time. Rest assured, normal
+         service will be resumed in two weeks' time, with the return
+         of the impeccably rigorous, industrial-strength NTK
+         "Classic". We'll be back...]
+
+ __  __ _14/08/98 _   _ _____ _  __      <Nasty, British and Short>
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! Mail 'subscribe ntknow'
+| |\/| | | '_ \| |  \| | | | | ' /     o   to majordomo@unfortu.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+           "There are things which I wish I had never experienced. I
+         shall leave here with horrendous memories of the screams of
+           women being tortured, memories of horrible gang rapes and
+                          women being strung up from the ceiling..."
+       James Ferman, ex-head of British Board of Film Classification
+                                      (The Daily Telegraph 13/08/98)
+               ...well, everyone goes a bit wild at the office party
+
+
+                              >> LITTLE NEWS <<
+                               obstructed views
+
+         Now, normally we'd take these stories and write them up in
+         a wry and amusingly insightful manner. But, as we
+         explained, we're on holiday - so here's the basic leads if
+         you want to follow them up yourself. "Searched At UK Border
+         For Net Porn" is the says-it-all subject line of KENNETH
+         CUKIER's alarming claims that Customs officers at the
+         Waterloo Eurostar terminal wanted to search his laptop for
+         illicit files using some sort of "scanner" last Friday.
+         Suffice to say, the officers' understanding of the Internet
+         was sketchy, and he swiftly escaped by the ingenious
+         loophole that not all Johnny Mnemonic-style illicit data
+         couriers use Wintel compatible machines.
+         http://www.ntk.net/mirror/0814-customs.txt
+               - smuggled into the UK from the POLITECH mailing list
+
+         Of course, not all international terrorists actually carry
+         their tools on their person - maybe the over-zealous
+         Customs were hunting the enigmatic "French" hackers
+         believed responsible for continued attacks on SOUTHAMPTON
+         UNIVERSITY (home to the UK's "ninth biggest domain", adds
+         one correspondent, anonymously). Incidents included sending
+         explicit emails to every student, apparently coming from
+         the Head Of Computing, but things seem to be almost back to
+         normal now. Or are they?
+         http://www.soton.ac.uk/~sucsweb/mailatt.html
+         - "University Puts Information Security First." (They do now.)
+
+         And, of course, it's that time of year when the media
+         commences its first annual feasting on the saintly ROYAL
+         CORPSE. For now, forget Channel 5's "Di! The Musical" - ABC
+         news reveals that the bloodline that spawned the speeding
+         beauty is also that of Monica Lewinsky; CBS reports on a
+         plan to offer "last drive" reconstructions to dangerous
+         sports thrill-seekers; and the Telegraph warns that Harrods
+         is attempting to register the trademark "Dodi" for a wide
+         range of products, including cash registers, Christmas tree
+         decorations, and "headgear" (crash helmets, perhaps?),
+         claiming it's only to prevent others from cashing in.
+         Attention all domain-name squatters - dodi.org remains
+         unclaimed at this time.
+         http://www.abcnews.com/sections/us/DailyNews/wolffiles.html
+               - six degrees of SINISTER KNIGHTS TEMPLAR CONSPIRACY!
+         http://www.cbs.com/prd1/now/template.display?p_story=71882
+            - "not an approved fundraising activity" - Memorial Fund
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         GEOCITIES sells database to spammers... GINGER PRODUCTIONS
+         *not* to launch ISP, despite PRACTICAL INTERNET claims...
+         http://www.barclaysquare.com features household names "2001
+         Domestic Appliances", "Discount Television and Video" and
+         "On-line Hi-Fi Store" - surely not just fronts for
+         BARCLAYS?... DOLLAR weaker than previously suspected at
+         http://www.quicken.co.uk/currency/convert.dcg?Amount=100&Fr
+         om=USD+&To=GBP ... US SECRET SERVICE: "Though assassins fit
+         no physical or psychological profile, most share a pattern
+         of behavior" - ie trying to kill public figures
+         http://spyglass1.sjmercury.com/breaking/docs/016039.htm ...
+         MGM ships WARGAMES: DEFCON 1 with Windows virus - pirate
+         version believed to be clean... whois wwcomedy.com (sic)...
+         http://www.winfiles.com/about/faq.html runs UNIX, Apache...
+         Sensible's SEX N DRUGS N ROCK N ROLL canned... POINTCAST
+         CEO David Dorman tells abcnews.com: "Technically, we don't
+         push anything. We do user un-aided pull"...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Think "free speech" rather then "free beer"... then think
+         FREE BEER! The O'Reilly-sponsored OPEN SOURCE TOWN MEETING
+         follows the Open Source Developer Day on Friday 21/08/98 in
+         San Jose, CA, US (itself following the Perl Conference we
+         plugged a month ago). Highlight is a panel discussion
+         featuring the big names in OpenSource development (rms,
+         esr, etc), and - possibly as an symbol of an industry that
+         positively encourages user modifications - there will also
+         be pizza.
+         http://opensource.oreilly.com/townmeet.html
+                - and whatever happened to the singing Stallman mix?
+
+         We know some NTK readers harbour "artistic" inclinations
+         (despite our evident disapproval), so a quick plug for
+         CONSCIOUSNESS REFRAMED 2, next Wed-Sat 19-22/08/98. It's
+         run by CAiiA-STAR, which is neither a demo coding group nor
+         a Gundam mech, but the combined forces of the "Centre for
+         Advanced Inquiry in the Interactive Arts" (University of
+         Wales College, Newport), and the centre for "Science,
+         Technology and Art Research" (University of Plymouth). And
+         the "consciousness" element? That's what you try not to
+         lose after reading the abstracts' opening paragraphs.
+         http://caiia-star.newport.plymouth.ac.uk/vista/INDEX.html
+              - and no Jeremy Beadle discussing Cartesian dualism...
+
+
+                             >> TEENY TRACKING <<
+                           mostly significant bits
+
+         We don't usually credit our sources - not just to make
+         ourselves look good, but also because, since most stuff
+         comes via several paths, any attempt to credit everyone
+         would just turn NTKnow into one of those monstrous bulk
+         email lists. But with Danny O'Brien (NTK's "Stan Lee"
+         figure) out of the bullpen for a couple of weeks, we've
+         decided that you - our tipsters - should use the
+         opportunity to have *your names* be the ones rapidly
+         scrolling, unread, across several thousand terminal screens
+         and dotmatrix printers, in our second annual subscriber-
+         plug-a-thon. If you've sent us hot info recently and would
+         feel either pleased (or aggrieved) to be included (or left
+         out) then do mail tips@spesh.com with your name, URL and
+         the tip you claim - plus other interest. And should we
+         credit the guy who suggested this? Well, what do you think?
+
+
+                           >> KIDDIE'S MEMEPOOL <<
+                              hasta la altavista
+
+         certified LINUX ENGINEERS... war of the ROBOT WARS:
+         http://www.clineworks.com/robotica.html ... American BULL:
+         http://www.gatewayelex.com/gadgets.htm ... former Lara
+         Croft RHONA MITRA complains boyfriend "prefers
+         PlayStation"... reverse-engineering LEGO MINDSTORMS:
+         http://www.crynwr.com/lego-robotics/ ... it's the ANTI-
+         UNABOMBERS: http://makrolab.ljudmila.org/ ... BBC to use
+         onscreen "bugs"... http://web.mit.edu/rec/orca/orca.html
+         ... TIBERIAN SUN to star James Earl Jones, Michael Biehn,
+         girl off Team Knight Rider... from the "MATT DRUDGE OF
+         PORN", http://www.lukeford.com: "the widow of John Holmes,
+         dead from AIDS at the end of the 1980s, has published a
+         book in which she accuses the American government of having
+         injected the virus into her husband" - hey, how *else*
+         could he have caught it?... top UK games-biz swearing
+         action: http://www.geocities.com/SoHo/Atrium/8820/ ...
+         "Commerce is our goal here at Tyrell Mr Deckard. MiniDisc?"
+         http://freespace.virgin.net/ben.tyrrell/catal.htm
+
+
+                            >> BABY GEEK MEDIA <<
+                     may contain strongly-typed language
+
+         TV>> continuing the never-ending season of "rubbish films
+         with rubbish actors who later became famous", Leonardo
+         DiCaprio, tragically, does not play one of the CRITTERS 3
+         (Fri, 11.20pm, BBC1)... other nutty selections include John
+         "3rd Rock From The Sun" Lithgow multiple-roleing in RAISING
+         CAIN (Fri, 9pm, BBC2)... plus tame '50s sci-fi about a man
+         propelled "seven seconds into the future" by some sort of
+         TIMESLIP (Fri, 1.40am, C4)... C4's "Queer Street" strand
+         gets more mainstream with INVASION (Sat, 11.35pm, C4) on
+         Xena's lesbian subtext... and C5 goes from Warrior Princess
+         to THE PEOPLE'S PRINCESS: A TRIBUTE (Sun, 8.00pm, C5) -
+         bizarre musical reconstruction, more like... BILL AND TED'S
+         BOGUS JOURNEY (Sun, 5.45pm, C4) features both the lines
+         "Most atypical" and "Get down with your bad self!"... if
+         only Sandra Bullock had stuck with dweeby parts like in
+         erratic future spoof DEMOLITION MAN (Mon, 9.00pm, BBC2)...
+         credulous new docu series IN YOUR DREAMS (Tue, 8.00pm, C4)
+         has a man who "passes his dreams to MI5 to help track down
+         terrorists"... conform-obey teen comedy DON'T TELL MOM THE
+         BABYSITTER'S DEAD (Tue, 10.00pm, C4) stars Christina
+         "Married With Children" Applegate (natch), a bit of David
+         Duchovny, and (bonus points only) Joanna "Zhora The
+         Replicant" Cassidy... the "Dancing Baby" CGI (real name:
+         Baby Cha Cha) debuts in ALLY MCBEAL (Wed, 10.00pm, C4),
+         soon to transfer to an upcoming ITV episode of
+         Millennium... and it's the beginning of the end - the start
+         of the final series of SEINFELD (Thu, 8.30pm, Sky 1)...
+
+         FILM>> so, who will avenge THE AVENGERS (imdb: action /
+         adventure / based-on-tv-series)? Not Fiennes and Thurman,
+         who stab at the stunted dialog and surrealism of the
+         original series (nice bears), but fast give up in what
+         looks like Batman Returns made by the production team from
+         "Bugs"... you'll get more drawn into Samuel L Jackson's
+         swampily intense EVE'S BAYOU (imdb: drama / voodoo / afro-
+         american / multiple-perspectives / dream / bayou /
+         physicians / family / black-widow / children / dreams /
+         psychic / louisiana / dysfunctional-family / south / murder
+         / family-secrets / flashback / memories / poetic / adultery
+         / black / sex / period / philander / 1960s / small-town /
+         prophecy / family-conflict / sexuality / affair-
+         extramarital / incest / black-cast / southern)... and they
+         shot Tupac Shakur after uninspired cop corruptioner GANG
+         RELATED (imdb: crime / drama), but why couldn't they have
+         killed Jim Belushi?
+
+         LIT>> sadly, THE VICTORIAN INTERNET (UKP14.99), by Tom
+         "ex-Telegraph Connected" Standage, isn't all steampunk/
+         Difference Engine-style comparisons between TCP/IP and the
+         telegraph system (online romances, crypto, hacking etc),
+         but kicks off with quite a lengthy Longitude-like history
+         of the telegraph too... still, better than Nan McCarthy's
+         cute but overpriced email-romance trilogy CHAT, CONNECT,
+         CRASH (UKP 3.99 each), packed with dull (and non-RFC
+         compliant) mail headers  - also not to be confused with
+         Astro Teller's mis-marketed AI thriller EXEGESIS (UKP 6.99)
+         - fatal flaw: no page numbers... oh, and please share your
+         opinions on these ones that we're planning on reading but
+         haven't got around to yet: Michael Wolff's tell-all new-
+         media VC rollercoaster BURN RATE (UKP 9.99), Julian Cope's
+         "guide to the neolithic sites of Great Britain"
+         http://www.netsign.com/~andrew/trampolene/mod_ant.html ,
+         Joe Queenan's scathing celebration of US pop culture,
+         AMERICA: RED LOBSTER, WHITE TRASH AND THE BLUE LAGOON (UKP
+         6.99), plus Jim Flint's debut Euro-cyber-novel HABITUS
+         (between UKP 10.99 and UKP 197.82 at bookshop.co.uk) -
+         apparently so-called because it's "about the size of a
+         house"...
+
+
+                              >> SMALL PRINT <<
+
+   Need To Know is (usually) a useful, interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "genetically unengineered"
+                      -  yet still *lethally dangerous*.
+         ( http://www.independent.co.uk/stories/C1408802.html )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, THE ILLUMINATI and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial licence details.
+
+                   Tips, news and gossip to tips@spesh.com.

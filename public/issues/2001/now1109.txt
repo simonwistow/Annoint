@@ -1,0 +1,293 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-11-09_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Use of the Internet often prompts Americans to join groups.
+         More than half of Cyber Groupies (56%) say they joined an
+         online group after they began communicating with it over the
+         Internet."
+         http://www.pewinternet.org/reports/toc.asp?Report=47
+    ...the remaining 44% said that altering the frequencies of their
+                 deflector shield protected them from "assimilation"
+
+
+                                >> HARD NEWS <<
+                              strewth - kangaroos!
+
+         She may be "Torn", but who'd have thought this also meant
+         fashionably "pre-ripped"? NATALIE IMBRUGLIA's "White Lillies
+         Island" album has beaten Michael Jackson to the public enemy
+         number one spot by being the first major UK CD release to
+         feature "Cactus Data Shield", a copy protection system which
+         ostensibly prevents MP3 swapping by corrupting the table of
+         contents so it won't play on PCs (or PlayStations, and some
+         other DVD players as well?). However, in a bid to retain
+         her Aussie indie-pop credentials, Natalie don't seem to know
+         - or seem to care - what copy protection is for, and, in a
+         bizarre bid to pacify PC users, the disc also contains a
+         Windows app which will play the entire album from a chunked
+         42meg MP3 file - at a scorching 128kbps, hi-fi fans. They're
+         not exactly "lying naked" on the CD - it's some weird
+         proprietary format - but NTK reader MIKE GRAY has already
+         successfully burned the files and the player onto a CDR, where
+         they sound as "bloody awful" as they did on the original
+         ("They couldn't even be arsed putting the track titles onto
+         the files", he fumes). So: a CD which won't play under Linux
+         or MacOS, but which is actually *easier* to pirate under
+         Windows? That's what we call a "difficult" second album.
+         http://uk.eurorights.org/issues/cd/help/
+              "Be" Ross Anderson - help defend the Red Book standard
+http://www.fatchucks.com/corruptcds/z.natalieimbruglia.whitelilliesisland.html
+          - "Won't record to MiniDisc via optical-out". The fiends...
+
+         So, you get chewed out by the freedom-loving SCHNEWS
+         Webmaster for revealing the location of their public site
+         logs. What to do? Take some faux geeky high ground and
+         lecture them on the importance of "full disclosure"? Be all
+         limply ironic and post some bitchy critique to nettime
+         called "Tarnishing The Non-Corporate Image: Secrecy, Spin
+         and Solidarity at the Schnews brand"? No! One should,
+         instead, overcome one's petty differences, and selflessly
+         plug Glorious Web Projects Which Unite Us Against A Common
+         Foe! Introducing STOPESSO.COM, a brave attempt to lobby said
+         multinational to stop its la-la-la-not-listening approach to
+         Global Warming, while sneakily creating a network of local
+         community mailing lists which will henceforth evolve into a
+         practical grassroots network and not just collapse into a
+         mess of furious unsubscribe messages or something. At the
+         very least, try it out to see if you can break it. And,
+         yeah, I guess you should mail us and not Schnews if it does.
+         http://stopesso.com/
+                              - oh go on then, mail all your friends.
+         http://www.npower.co.uk/html/juiceandwindpower_4467.htm
+                                 - this has been kept a bit quiet too
+         http://www.schnews.co.uk/
+                         - PDF files? From the IMPRISONERS OF DMITRY?
+
+         Actually, we don't know what they're moaning about - it's
+         not as if weblogs won't be carefully auto-saved by the
+         proposed new data retention rules. And you don't have to be
+         fashionably terrorist anymore: the Guardian revealed this
+         week that these logs could be inspected for *any* crime.  Or
+         suspected malfeasance, even. Yep, it's the unholy alliance
+         of the new Anti-Terrorist Bill and the old RIP provision to
+         seize logs for national security and "the prevention and
+         detection of crime". Meanwhile, the European Patent Office
+         appears to have unilaterally declared software patents
+         a-okay. And then, to top off a bad week, the CEO of the new
+         Internet Content Rating Association mailed us to say that we
+         should put up a new adult rating on our Website to
+         "safeguard the future of [our] web site and the freedom of
+         the Internet". Thank God it's as easy as that. Let's roll!
+         http://www.guardian.co.uk/Archive/Article/0,4273,4293489,00.html
+                  - heavier on the "enduring" than the "freedom" here
+         http://www.eurolinux.org/news/coup01A/indexen.html
+                           - ah the crystal clarity of EU due process
+         http://www.icra.org/
+                     - hey, we're in an educational context aren't we?
+         http://www.cl.cam.ac.uk/~mkb23/
+               - cashpoints threatened by man with jumper on his head
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         ROBOTEERS - prepare to, well, not so much "kick" opponent ass:
+         http://www.ntk.net/2001/11/09/dohbash.gif ; BEHOLD - the face
+         of fear: http://www.ntk.net/2001/11/09/dohdead.gif ... a look
+         under the hood: http://www.gsb.co.uk/menandmotors/programmes/
+         ... new thrill - inadvertently *appropriately* positioned
+         banner ads: http://www.ntk.net/2001/11/09/dohflock.jpg ...
+         heed Jakob's article carefully, then click on the "link
+         validator" link: http://www.useit.com/alertbox/980614.html ...
+         NETWORK SOLUTIONS reveal previously unsuspected political
+         stance: http://www.ntk.net/2001/11/09/dohtards.jpg ... Folk
+         Hypothesis About Everyday Object Confirmed By Manufacturer-
+         Funded Study: http://uk.news.yahoo.com/011108/80/cevnz.html
+         ... BBC NEWS ONLINE regurgitating foul press releases too:
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_1642000/1642699.stm
+         - "European companies and organisations in particular are
+         turning to the .info and .biz suffixes because there are so
+         few .com names available" - NOT!... an appositely Austrian
+         FALCO: http://www.whereits.at/ ... taste our test data:
+         http://www.toptable.co.uk/details.cfm?rcode=TTTE ... of
+         *course* it is: http://www.meccano.com/pages/under_c.htm ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         This month, we hope to avoid a repeat of the ugly scenes at
+         October's Strange Attractor event when gawkers, who'd come
+         along to see "what kind of freaks" were responsible for NTK,
+         had their "minds blown" by the preceding explanation of
+         wireless networking and had to leave before we'd even started.
+         On Wed, entertainment editor "Dave Green" - along with his
+         presentation "Strong Language From The Outset: My Life With
+         The NTK Cult" - appears to be first on the bill at MARKETING
+         YOURSELF AND YOUR WRITING ONLINE (from 6.30pm, 2001-11-14,
+         Level 6 Suite, City University, London EC1, free - including
+         tea and biscuits - pre-register via email). If you've got a
+         whole weekend to kill, there's hands-on agit-prop conference
+         HOW TO BE AN OBSTACLE (from 10.30am, Sat 2001-11-10, from UKP9
+         per day, the goddamn ICA, London), which handily seems to
+         coincide with their despairingly titled WHAT DO YOU WANT TO DO
+         WITH IT? digital arts fest, featuring Jaron "Autodesk" Lanier,
+         John Maeda from the MIT Media Lab, funny Japanese artists, and
+         "an eerie SMS narrative", no less. Prompting at least one NTK
+         reader to already mutter "Same weekend as EuroBSDcon" (started
+         9am today Fri 2001-11-09, Thistle Hotel, Brighton, from UKP60
+         per day).
+         http://www.bsdconeurope.org/
+                              - BOFH equivalent of "I'll get me coat"
+         http://www.ica.org.uk/talk/how-to-be-an-obstacle/
+                  - vs http://www.ica.org.uk/season/ADigitalFestival/
+         http://www.onlinecontentuk.org/events.html
+         - as "marketed" on uk.culture.arts.writing, uk.local.london,
+                           uk.media, england.writing, misc.writing...
+         http://www.strangeattractor.co.uk/
+              - when we went on, they were still booing Heath Bunting
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Americans have Thanksgiving, the British have Guy Fawkes
+         Night, and NTK has the annual review of another bloody
+         Windows compression utility. Well, it's 2001: and the new
+         word for Pkunzip is ... ARJFOLDER 3.65. This utility, by
+         Raphael Mounier, is so sleak, so tres moderne, as to have
+         practically no interface at all. Open a zip file, and you
+         get a standard Explorer window with the goodies inside. Drag
+         and drop, cut and paste, explore and view as
+         tartan-backgrounded Web page: it always acts the same as a
+         standard folder. Similiarly, you create a zip file by the
+         usual right-click folder-making behaviour. As the name
+         suggests, Mounier's 540KB program handles ARJ too - and JAR,
+         TAR, CAB, UUE, MIME, HQX and the obligatory Quake 3 map
+         files. Sometimes reality oozes out from under Arjfolder's
+         metaphor: thoughtlessly double clicking on zipped
+         executables has them throwing up a "Where am I? Where are my
+         DLLs? WHY AM I ENTOMBED IN CARBONITE?" error. ZIP "folders",
+         even if they contain other folders, still sick out their
+         entire contents into one directory. Also, it is French. But
+         it works well. And given that everyone assumed that ZIP
+         encoding would be assimilated into the OS years ago, it's
+         nice to see that Microsoft leaving *some* breadcrumbs for
+         indie developers.
+         http://www.iceows.com/HomePageUS.html
+                                         - vive les functionnalities!
+        http://www.ntk.net/index.cgi?back=2000/now1110.txt&line=145#l
+                          - out of my way, PowerArchiver, YOU OLD MAN
+
+
+                                >> MEMEPOOL <<
+                 the warm bit behind the http://www.gagpipe.com/
+
+         Bin Laden *is* Hari Seldon - so is George Bush "The Mule"?:
+         http://www.marsearthconnection.com/attack3a.html#foundation
+         ... Semi-visible Vice President Dick Cheney, I choose YOU! :
+         http://www.topps.com/enduringfreedom.html (from the makers of
+         http://www.essex1.com/people/zelda/36.htm )... thanks everyone,
+         that ought to do it: http://EndTheCycle.org/ ... ROGER MELLY's
+         Almanac: http://www.jump-around.com/tools/place-names.php ...
+         and the leg bone's connected to a - Shockwave simulator:
+         http://www.vectorlounge.com/04_amsterdam/jam/wireframe.html
+         ... Two Flash pages and a mule: http://www.alsharpton.com/
+         ... X10 cameras part of FBI Carnivore project, "rumours on the
+         Internet" reveal: http://www.dslreports.com/shownews/12248 ...
+         if you know where to look, and if you can find them - oh,
+         wait, here they are: http://www.a-team.org/a_about_b.html ...
+         "screeched biographies of great Science Fiction writers [over]
+         churning speed metal in an effort to promote teen literacy":
+         http://www.audiogalaxy.com/pages/review.php?band_id=96981
+         - but can you dance to it?... "Click here for Gay Pr0n":
+     http://www.utoronto.ca/interv/frames2/general2/doctors/gay/gay.htm
+         ... never mind *why* I want to know, just answer the sodding
+         question: http://www.aristotle.net/~diogenes/meaning1.htm ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Phoebe "Fast Times At Ridgemont High" Cates remains
+         clothed, Rik Mayall remains alive in Brit-comedian-in-
+         Hollywood disappointment DROP DEAD FRED (8.10pm, Sat, C4)...
+         the usual T4 clowns introduce Ali G introducing German celebs
+         presenting the MTV EUROPE MUSIC AWARDS (10pm, Sat, C4)... and
+         elsewhere it's all Billy Bob Thornton cameos, all the time,
+         with heavy-handed CGI-dice moral dilemma INDECENT PROPOSAL
+         (9pm, Sat, BBC2) and baffling Stevan Seagal eco-thriller ON
+         DEADLY GROUND (11.30pm, Sat, ITV)... Joss Whedon wrote it, but
+         "not as good as the TV show" is the universal verdict on this
+         week's obligatory Rutger Hauer flick, BUFFY THE VAMPIRE SLAYER
+         (9pm, Sun, C5)... Brad Pitt disowned both the production and
+         his Oirish accent as THE DEVIL'S OWN (10pm, Sun, C4)... while
+         Monday becomes unoriginal comedy format night, with "Goodness
+         Gracious Me" spoof chat show THE KUMARS AT NO 42 (9pm, Mon,
+         BBC2) followed by Steve Coogan pioneeringly parodying horror
+         movies in DR TERRIBLE'S HOUSE OF HORRIBLE (9.30pm, Mon,
+         BBC2)... still, you can always spot the "Star Wars" lines and
+         taped-on "Silicon Graphics" branding in Beaufort-scale
+         weather-chaser TWISTER (9pm, Mon, ITV)... this week's
+         prestigious swiftly-cancelled 3am US import slot goes to
+         Jonathan "Jerry Maguire" Lipnicki ET sitcom MEEGO (3.35am,
+         Mon, C4; 4.20am, Fri, C4)... freakish fashion docudrama IT'S A
+         GIRL THING (8pm, Tue, C4) doesn't even feature the band "Girl
+         Thing"... house music history PUMP UP THE VOLUME (11.05pm,
+         Tue, C4) precedes sci-fi animation round-up HOT REELS
+         (12.10am, Tue, C4), with more late-night toons in COMEDY LAB
+         (11.45pm, Thu, C4)... and the intriguingly rebranded MONEY
+         PROGRAMME: THE MEN WHO BROKE MARCONI (7.30pm, Wed, BBC2)
+         profiles the successful defence contractor who ingeniously
+         reinvented themselves as a dot-com supplier - boy, they must
+         be kicking themselves now...
+
+         FILM>> looks like they're sticking any old Euro-nonsense on
+         the UK's last few remaining screens that aren't showing "Harry
+         Potter" previews - perhaps the most promising being Luc "Leon"
+         Besson's brutal Jet Li prostitute punch-up KISS OF THE DRAGON
+         (http://www.screenit.com/movies/2001/kiss_of_the_dragon.html :
+         we see [Bridget Fonda] on the toilet, asleep or passed out,
+         with her panties around her thighs, but don't see any nudity
+         or biological functions)... from the maker of "Funny Games":
+         "It starts with 'Chopsticks' - and goes all the way to Grade
+         9" sadly isn't the tagline for yet another harrowing drama
+         featuring that famously erotic musical instrument THE PIANO
+         TEACHER (http://www.bbfc.co.uk/ : passed '18' for strong
+         language, violence, sexual violence, sex and sado-masochism
+         theme)... or for all you Brit-flick fans, there's last-minute
+         multicultural marriage mayhem in recent remake JUMP TOMORROW
+         (http://www.mpaa.org/movieratings/search/ : rated 'PG' for
+         thematic material, mild sensuality and language)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                  "WE'D NO TOKEN, WOODEN KENT, KEEN TO DOWN"
+       http://www.wordsmith.org/anagram/anagram.cgi?anagram=need+to+know
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,335 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-01-26_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "For programmers and other tech people who work in companies
+         where Microsoft (MSFT) products are the norm, the knowledge
+         base functions as a kind of Yoda, guiding them through their
+         thorniest Windows endeavors."
+         http://www.wired.com/news/business/0,1367,41398,00.html
+                  ...unhelpful, defensive, hazy grasp of basic syntax
+
+
+                               >> HARD NEWS <<
+                               see if I don't
+
+         Just when it seemed all was lost for Douglas Adams's Plucky
+         British Startup, H2G2 (hiding behind the banks of servers,
+         being fired at by the intergalactic liquidators), they get
+         sucked through a wormhole and land - back at the BBC, which
+         has that pleasantly English sense of bureacratic circularity
+         that we're sure Hitchhiker fans are already savouring. Not
+         that there isn't a certain amount of hyperspatial
+         disorientation ; half the staff have already left
+         (especially after being encouraged by their editor "not to
+         take the piss" with off-days, during the two-month no-pay
+         period). We see the never-profitable h2g2 community site is
+         putting a very Don't-Panic face on things, considering that
+         nobody's actually sure whether Auntie's interested in
+         keeping it going. In fact, the only real survivors are the
+         now-separate games company, working on the new HHG game,
+         which will be sold in boxes that people pay actual money
+         for. Those old-economy ways... so quaint!
+         http://www.bbc.co.uk/radio4/hitchhikers/
+                         - "I wonder if it will be friends with me?"
+         http://www.h2g2.com/faq.html
+                                                   - whale meat again
+
+         Something strange happened up in Redmond shadows this week.
+         MICROSOFT asked for help. While everyone was guffawing at
+         the disappearance of their nameservers, they were quietly
+         calling in all the favours at Cisco and elsewhere. Bad
+         config change Tuesday eve, they pinned it down to, in the
+         end, and after over 22 hours (precious few favours around)
+         Microsoft's domains were back online - only to be minced
+         again in a Denial Of Service attack. But why were
+         router-admins frobnicating things around at 6.30 on a
+         weekday? Was it a hint of the later attack that the
+         impromptu config change was supposed to be protecting
+         Microsoft from? All we know is this: as of today, "nslookup"
+         shows Microsoft (wisely) outsourcing a chunk of its DNS to
+         Akamai; and now they're called in the Feds -  the fricking
+         *government* - to check out the DoS. We really don't know
+         what's scarier: paranoid Microsoft against the World, or
+         smart Microsoft getting the World in to help.
+         http://www.microsoft.com/backstage/column_T2_1.htm
+                                        - Uptime with Wanke and Weeks
+         http://cryptome.org/gates-paupers.htm
+                - uh-oh: turns out Bill Gates *does* run the Internet
+
+         Our pet theory that Brighton's SCHNEWS is written in a
+         protest tunnel - or maybe up a tree - have been confirmed,
+         albeit at terrible personal cost. The lives of several
+         helpless PCs of that direct action zine have been brutally
+         ended, due they claim, to excessive dampness in their
+         "offices". But what do you care, reading this in your suit
+         and tie and sensible shoes? When you started in this
+         business, you had dreams, didn't you? I remember talking to
+         you about them in that field off the M25. Going to create
+         some sort of artists community Web forum, weren't you? Well,
+         sometime after you've finished that Gantt chart for the new
+         ad sales inventory system, why don't you see if you can send
+         the Justice? kids an old PC or something, and prove you
+         STILL CARE. HUH? +44 (0)1273 685913 And tell them to get
+         their hair cut, while you're at it.
+         http://www.schnews.org.uk/
+                                   - they'll kill you last, I'm sure.
+         http://www.weliveinpublic.com/
+                      - otherwise, you're no better than these people
+         http://www.wirednews.com/wired/archive/8.11/luvvy_pr.html
+                                           - which is pretty damn bad
+         http://www.spy.org.uk
+                                 - yeah, go on, rub their noses in it
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         dumb American melonfarmers confused by Google ratings, *and*
+         vote for http://www.ntk.net/2001/01/26/whitehouse_doh.gif ...
+         "Asimov is a scientific sci-fi writer and his laws are best
+         known from the film Robocop" reports THE REGISTER's KIEREN
+         MCCARTHY, under influence of OCP... FREEDRIVE shuts down
+         50MB of public file-sharing, shocked by reports of "software
+         piracy"... "Linux-powered" http://www.sys-con.com/linux/ vs
+         http://uptime.netcraft.com/up/graph?site=www.sys-con.com ...
+         truth in advertising (for hints, check the seller feedback)
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1204183251
+         ... "75% of every person on the internet is paying/looking at
+         porn right now", claims http://www.xsitecreator.com/index5.htm
+         - accurately, if you all go there ... BRUCE STERLING posts
+         attachments to Viridian list using "dead media" Macintosh
+         word processor WriteNow ... Kieren McCarthy now THE
+         REGISTER's chief correspondent in "matters of the heart":
+         http://www.theregister.co.uk/content/6/16403.html ... no
+         reverse-engineering those PEANUT BUTTER AND JAM SANDWICHES:
+         http://www.mlive.com/news/stories/20010119bpeanut.frm ...
+         http://www.theonion.com/onion3702/infograph_3702.html vs:
+ http://news.bbc.co.uk/hi/english/world/americas/newsid_1133000/1133743.stm
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         It's Friday, it's half-past-five: time for those Cambridge
+         college kids to prove they really know how to cut loose and
+         let their hair down - by going to another lecture! Sadly,
+         you've already missed Warwick-apologist SUSAN GREENFIELD's
+         appearance at the DARWIN COLLEGE LECTURES 2001, but there's
+         still about 6 or 7 left in the run, all loosely themed around
+         the word "Space" from the looks of it: "Virtual Space",
+         "Exploring Space", "Trying To Find A Parking Space", and so
+         on. "Get there early", our tipster advises, as the events,
+         evidently a social highlight in this quiet market town, draw
+         mobs of up to 600 people - possibly under the impression that
+         the series has something to do with the Darwin _Awards_, and
+         that the lecturers conclude each performance by killing
+         themselves in the stupidest manner possible.
+         http://www.dar.cam.ac.uk/lecture01.html
+          - yes, a college named after the dolphin in "Seaquest: DSV"
+         http://www.computing.surrey.ac.uk/personal/st/I.Kuscu/present.html
+                         - catch lastminute.com, while you still can
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Ah, Alphaworks! Every few seconds, it seems, IBM's R&D labs
+         wheel another crashed-saucer-technology there, be it "Speech
+         for Embedded Noses", or "StudlyCaps for Java in XML". And
+         it's mostly there they stay, languishing in pre-development
+         hell, no matter how cool. Take EASYCONNECT, a "simplified
+         connection management for the mobile 'road warrior'" that's
+         been smiling hopefully at visitors since August 2000. Ignore
+         the Mad Max imagery and instead think of MacOS's Location
+         Manager, that genuinely useful connection-settings-chooser
+         that Microsoft have stubbornly refused to rip off and thus
+         condemning every poor sucker moving between two offices with
+         a Windows laptop to hours of fiddling with the Network
+         settings. EasyConnect manages all that, and it does file and
+         email synchronisation too, and it schedules web caching for
+         offline reading, and the interface is lovely, and it
+         actually works, and on top of all that the help file has a
+         list of phone numbers for hotels and car rental places in
+         the US. Bless.
+         http://www.alphaworks.ibm.com/tech/easyconnect
+                             - no bumper-mounted machine-guns, though
+
+
+                                >> MEMEPOOL <<
+                            gesundheit the "excite"
+
+         when they're weakened by their attempts to contact us, we will
+         ATTACK: http://www.tidbits.com/tb-issues/TidBITS-564.html#lnk2
+         ... forget Tomlinson's MI6 book, maybe only FREENET can save:
+         http://cruel.com/sub/bonsai.shtml ... searching Napster for
+         BRITNEY SWEARS (sic)... 'cos, to scale, the walls really *are*
+         that thin: http://www.marscenter.it/iss/paper_iss_model.html
+         ... EA "Director of Front End Dev" imitates rubberburner:
+         http://www.stimulus.com/members/msl/msl.html ... wasabi
+         TOOTHPASTE... http://www.ai.mit.edu/~vona/xtal/ vs
+         http://www.stellar.demon.co.uk/ ... a more philosophical
+         review of Apple's writable DVD drive than you'd expected:
+         http://cryptome.org/jg-wwwcp.htm ... PLANET OF THE BELGIANS:
+         http://www.timburtoncollective.com/pota_offsumm.shtml ...
+         http://www.hugeglobalnet.dial.pipex.com/orgchart.shtml vs
+         http://www.buymybook.co.uk/altubemap.jpg ... DINNER in
+         disguise: http://minidisco.com/minispecs/lunchbots.html ...
+         "BILL JOY complains about the collapse of humanity? He started
+         it with that fucking editor"... and "must look good in khaki"? 
+         http://www.efashionshowjobs.com/careers/softwareengr/index.html
+         ... am I partying hard at RIPE38 or not? http://photos.jml.net/
+         ... tolerate this, and your kids' school photos will be next:
+   http://news.bbc.co.uk/hi/english/uk/wales/newsid%5F1129000/1129197.stm
+
+
+                               >> GEEK MEDIA <<
+                    the less rude http://www.tvgohome.com/
+
+         TV>> of course, when the guy says "We've never lost an
+         American in space" in APOLLO 13 (7.50pm, Fri, BBC1), he's
+         carefully omitting the three Apollo 1 astronauts who burned to
+         death while sitting on the launchpad... co-written by "a
+         secret person from a secret celeb gossip website" (no, not
+         us), PEN MONKEYS (1am, Fri, C4) is the world's first CGI-
+         animated (ie: poorly lip-synched?) topical sketch show...
+         then, on Saturday, there's a choice between commemorating the
+         liberation of Auschwitz, in REFLECTIONS ON THE HOLOCAUST (from
+         5.35pm, Sat, BBC2), or the death of Buddy Holly, in THE DAY
+         THE MUSIC DIED (11.50pm, Sat, C4)... filling out the weekend's
+         tech-entertainment quota, there's CD-ROM clean-room drama
+         DISCLOSURE (10.30pm, Sat, ITV), Hitchcock-in-space knock-off
+         LIFEPOD (12.50pm, Sat, ITV), and little-known black-and-white
+         identity-crisis sci-fi SECONDS (1am, Fri, BBC2) - not based on
+         the Human League song of the same name... the dabbling with
+         black hole-science, the robotic monotone, the whole
+         exoskeleton thing - maybe someone's not as defenceless as he
+         makes out, argues THE REAL STEPHEN HAWKING (9pm, Mon, C4)...
+         the current series of LIVING BY THE BOOK (9pm, Wed, C4)
+         concludes without even mentioning some of the classic self-
+         help/ managerial manuals, like "The Bible", Nietzsche's "Also
+         Sprach Zarathustra", and Mark Leyner's "Et Tu, Babe"... subtle
+         pro-Glock product-placement enlivens lacklustre "The Fugitive"
+         followup US MARSHALS (9pm, Tue, C5)... DISINFO NATION (1.05am,
+         Thu, C4) talks to Grant Morrison about "The Invisibles" -
+         hopefully not overlooking his excellent work on "Animal
+         Man"... and Amanda "Max Headroom" Pays shows up in SOLITAIRE
+         FOR TWO (11.40pm, Thu, BBC1) - yet another wacky romantic
+         comedy featuring a body language expert and a palaeontologist
+         who can read men's minds (oh, can't they all?)...
+
+         FILM>> acclaimed for daring to suggest that the drugs issue is
+         "quite complicated", Steven sodding Soderbergh wrecks a
+         perfectly good Mexican cop thriller with endless hand-wringing
+         by Michael and Catherine Zeta-Jones, who should go play in the
+         TRAFFIC (imdb: drugs / helicopter / addiction / assassination
+         / assassin / attorney / based-on-tv-series / car-bomb /
+         cellular-phone / cocaine / corrupt-official / courtroom /
+         crack-house / desert / drug-abuse / drug-war / epic / father-
+         daughter-relationship / food-poisoning / ghetto / heroin /
+         informant / kidnapping / kids-and-family / mexico / murder /
+         organized-crime / plastic-surgery / poisoning / police-
+         corruption / prostitution / rehabilitation / remuneration /
+         runaway-child / runaway / san-diego / sexual-favor / sniper /
+         stolen-car / suburbia / surveillance / teenage-prostitution /
+         tijuana / torture / twist-in-the-end / vulgarity / white-house
+         / wiretapping) - not a biopic of the Steve Winwood "Hole In My
+         Shoe" rock band of the same name... all it takes is for you to
+         stop three other people (then they stop three more, and so on)
+         from going to see Kevin Spacey memetic weepie PAY IT FORWARD
+         (http://www.cndb.com : Nothing really. Although [Helen Hunt]
+         does go around in a bra a lot and at one point you can see a
+         bit of her nipple) - it could be just us, but maybe random
+         acts of kindness just aren't going to do the trick in a world
+         of systematic exploitation... and, in ongoing attempts to
+         assuage the complaints we've received recently about quoting
+         the "Celebrity Nudity Database", we're pleased to report that
+         only mild nakedness mars the magical-realism sex=cookery
+         nonsense of WOMAN ON TOP (http://www.cndb.com : I think I saw
+         the side of [Penelope Cruz's] ass but it's too quick to really
+         dwell on)... oh and some British movies are once again
+         confounding the multiplexes, with straight "Queer As Folk"-
+         alike THE LOW DOWN (http://www.bbfc.co.uk : contains coarse
+         language, drugs and sexual references)... and Redbus' latest
+         crowd-pleaser, DEAD BABIES (http://www.bbfc.co.uk : passed
+         '18' for drugs, sex, violence and coarse language). Joe from
+         "Killer Net", Katy "Spaced" Carmichael (also credited as "Mad
+         Puppet Woman" in 1996's "A Midwinter's Tale"), and a story by
+         Martin Amis - together at last!...
+
+         NASTY, BRITISH, AND SHIRTS>> (being a suggested T-shirt slogan
+         from reader JOHN CHRISTIAN - thanks for that, John, we'll put
+         it with the others, which have recently included BERNIE
+         ROBINSON's "Why not print a shirt with a picture of sick or
+         spilt food down the front especially for wannabe slobs?"). On
+         a brighter note, in response to your pleas, we're pleased to
+         report that http://www.ntkmart.com/ should be back up by now,
+         featuring new stock of those old favourites "I got UKP80
+         million in venture capital for my blah blah blah" and "Viral
+         marketing doesn't work - but at least you save on the ad
+         spend". Plus: a special topical addition to our usual line-up
+         - yes, make Valentine's Day unusually poignant this year with
+         a bittersweet reminder of the ultimately destructive nature of
+         all interpersonal relationships, the ILOVEYOU.VBS T-shirt...
+         created by Modesty B Catt - who, reassuringly, seems to be
+         something to do with "Illuminati Online" http://www.io.com -
+         the design consist of the words "I love you" in an emotive
+         handwritten font, with ".vbs" a bit lower down, against a
+         background of the source code to the notorious macro virus of
+         the same name, arranged in the form of a big soppy heart. It's
+         sensuously printed on a sumptuous burgundy shirt, and Modesty
+         (and the "in-jokes for outcasts" guy) have generously asked
+         for all its royalties to go to Sheffield-based pro-Linux
+         computer recycling nuts the Redundant Technology Initiative
+         http://www.lowtech.org . Let's face it, it's the perfect
+         (sarcastic) way to show someone how you really feel... oh, and
+         there's also a really basic "They Stole Our Revolution" one
+         (in blue) that we did last year for a laugh but turned out
+         better than we expected. And we'll be doing a proper "Spring
+         Collection" in February as well. And we're making a few
+         concessions to everyone who wrote in saying XL was "like a
+         tent" ("Yesyesyes! Banish that annoying ridge around arses
+         worldwide which is caused by tucking outsize T-shirts into
+         stretch jeans! Let me buy sarcastic torso coverings that don't
+         reach my knees!", deadpanned VICKY CLARKE). Most designs are
+         now available in "Large", and we're even trialling "iloveyou"
+         in "Medium", though AIDAN WARNER wins the no-prize for taking
+         matters into his own hands, reporting that "Washing the
+         garment [an orange "80 million" XL] at 50 degrees c, rather
+         than the recommended 40, shrunk it by about 15 percent (that's
+         a very rough guess) (though oddly it appears to shrink
+         slightly more vertically than horizontally, though that might
+         just be me)". NTK regrets that such DIY modifications (by non-
+         qualified service personnel) do invalidate your warranty -
+         but, that aside, let us know how you get on...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "stalking the wily editor"
+            http://website.lineone.net/~enigma23/echelon/danny.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

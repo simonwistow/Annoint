@@ -1,0 +1,294 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-07-07_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The core of the Amiga Foundation Layer (AFL from now on)
+         and of the whole new Amiga architecture is the Virtual
+         Processor. As befits something that is virtual, it doesn't
+         actually exist."
+    - FLEECY MOSS, Amiga's VP of Technology in Snoqualmie (no really)
+         http://www.amiga.com/press/zine/6-3-00/AW2.6.htm 
+                                              ...so what else is new?
+
+
+                                >> HARD NEWS <<
+                                  free booze 
+
+         About a month ago, an NTK reader noticed that the reference
+         codes for two orders he placed via http://www.oddbins.co.uk/
+         were WEB00001881 and WEB00002394, implying just 513 purchases
+         in the intervening period of 46 days - an average of less than
+         11 per day. Clearly an opportunity there for someone to open
+         up the lucrative e-alcohol market, and that someone happened
+         to be FOODNDRINK.CO.UK who, on Wednesday, were spotted running
+         what could only be described as a "great alcohol giveaway".
+         Perhaps inspired by those UKP5 Amazon voucher schemes
+         [deconstructed in NTKs passim], registered users got UKP20
+         credit to spend at madAboutWines.com, and could recommend
+         friends, who also got UKP20 credit, and you got another UKP20
+         for each one who signed up. And so on, until their servers
+         started 404ing and, "due to overwhelming response", the scheme
+         was "suspended for the time being" later that day. Their main
+         rival for rabid "customers at any cost" enthusiasm came from
+         Yahoo Europe's TOYZONE who, also on Wednesday, inadvertently
+         listed *everything* at a very special "Sale Price": UKP0.00.
+         http://www.ntk.net/2000/07/07/dohzone1.gif
+                     - typically, more people told us about this one...
+         http://www.ntk.net/2000/07/07/dohzone2.gif
+                         - than the "great alcohol giveaway". Ya geeks.      
+             http://www.foodndrink.co.uk/index.php3?section=wine
+                                                              - cheers!
+
+         Rumours have long circulated over the future of ailing sci-fi
+         weekly 2000AD - they were believed to be "keeping it going" to
+         exploit the extra publicity of "the Dredd movie/ the turn of
+         the century/ the events prophesied in the 'Judge Child' saga
+         coming to pass". So it's *probably* good news that creative
+         control of the whole operation (character rights and all) has
+         been picked up by Oxford-based "super-developer" Rebellion,
+         arguably well-matched in terms of their comic-book tie-ins
+         (the various versions of Dark Horse adaptation Alien Vs
+         Predator) and mild retro credibility ("major" releases for
+         Atari Jaguar). For now, 2000AD seems destined to live on as
+         some sort of vanity publishing/ videogames marketing tool
+         (rather than, say, returning to its 1970s 8p-an-issue pulp
+         glory), after changing hands for an undisclosed "seven figure"
+         fee (Earth money).
+         http://www.bastion.co.uk/news/release.plx?docno=290
+                       - hey, good to see *someone's* still buying it...
+         http://www.dailyradar.co.uk/published/news/game_news_375.html
+              - extensive additional research carried out by DAILY RADAR
+
+         No, we didn't win any ONLINE JOURNALISM AWARDS, thanks, due
+         to to our Serbian competitor getting ingeniously arrested
+         for his proper journalism, the big cheat. But it was nice to
+         see a nomination for NTK's "The Trials of Jonathan
+         Ungoed-Thomas". Maybe one day when he realises what we've
+         been saying about him, he'll try and get us put away. But in
+         the meantime, here's his latest attempts at deep undercover
+         (to a deadline) with the haxx0r underground. Enjoy.
+         http://packetstorm.securify.com/mag/faith/faith12.txt
+                              - and he probably got a piece out of it 
+         http://www.jour.city.ac.uk/nmreporter2000/live/nmawards.html
+                                      - mind you, we got four or five
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         shouldn't someone be campaigning to Keep Small UK Businesses
+         *Off* The Net?: http://www.alamin.co.uk/ ... KEVIN WARWICK
+         now seeking "sonar vision" ... the meta tag text of ad firm
+         http://www.ogilvy.co.uk still includes CHARLOTTE BEERS, who
+         left two years ago to become worldwide CEO of arch rival J
+         Walter Thompson... JEEVES' http://www.ask.co.uk/ "javascript
+         reference" results "inappropriate for children and offensive
+         to some adults"... search for "tits" on http://excite.co.uk/
+         gets you satire instead ... NATHANs, nicely rounded up for a
+         quick cull: http://www.brandfever.com/htmlFiles/bios.html ... 
+         "the prime way, almost, of getting a virus, is by listening to
+         [online] radio stations", "sometimes that cookie might have a
+         virus in it" warns QVC sales pitch for Norton Internet Security
+         2000, before advising concerned users to send suspicious code 
+         to the "Symantec Anti-Research Centre"... woman so terrified by
+         DALEKS that she can't differentiate between robots and cyborgs
+         http://www.lineone.net/express/00/07/06/news/n1220-d.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Linux for the Enterprise" is the tempting theme of this
+         weekend's LINUX 2000 UK LINUX DEVELOPERS' CONFERENCE (in fact,
+         you've probably missed Alan Cox already, but we did mention it
+         - briefly - back in NTK 2000-06-09: Imperial College Medical
+         School, Charing Cross Hospital, Hammersmith, London, approx
+         UKP100 for all 3 days, various concessions, membership extra).
+         Another imminent deadline we've just spotted is for ARS
+         DIGITA's LONDON 3-WEEK BOOT CAMP (from Mon 2000-07-10, free!)
+         an intensive Full Metal Jacket-style "short sharp shock"
+         introduction designed to cure persistent users of proprietary
+         web-building software. But, for the real nutcases (sic), there
+         are the conceptually intriguing events of INTERNATIONAL MAD
+         PRIDE WEEK (in Oregon, Syracuse, and - perhaps unsurprisingly
+         - London), an attempt by the mentally ill to reclaim the word
+         "mad" and its associated iconography, kicking off with a vigil
+         on Archway's famed "Suicide Bridge" from 6pm Sat 2000-07-08:
+         "bring an instrument and humorous poems".
+         http://www.ukuug.org/events/linux2000/
+                - c'mon, you didn't think Starfleet still used Windows?
+         http://www.arsdigita.com/events/event-info?event_id=1530
+         - "I don't know but I've been told/ NT Server's full of holes"
+         http://www.madpride.net/
+           - they're mad as hell, and... well, that's kind of the point
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+         
+         Look at the size of that thing! USELESS TELNET is an
+         OpenGL-distorted terminal prog which displays its output in
+         a giant Star Wars crawl, complete with star background and
+         slanty perspective. It's not fully VT100-compliant ("I
+         wouldn't recommend trying to use vi under it", says Robert,
+         a tad unnecessarily), but then neither is the standard
+         Useless Microsoft Telnet, and which would you rather have
+         scrolling your remote logfiles in the background? At under
+         150K, it's nigh perfect in its uselessness, and the only
+         extra feature we'd like to see added is a huge star
+         destroyer that looms into view when you log out. Oh, and
+         maybe some cheesy John Williams MIDI that you can't turn off.
+         http://www.UselessCreations.com/UselessTelnet/
+                  - Windows only; but how long is that going to last?
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         ohmigod - they've been keeping KENNY alive in a nutrient-
+         filled tank: http://www.platrix.com/ ... BOO retributions
+         lasting longer than company: http://www.ernstmalmsten.com/ ...
+         we've all worked here: http://www.mag-sol.com/Recruit.html ...
+         hey, FASCISTS have feelings too: http://www.bnp.org.uk/poems.html
+         ... "No 1" vid http://amazon.co.uk/exec/obidos/ASIN/B00004TL9G/
+         supports "obsessed with kids TV" stereotype... "seven seals"
+         of Revelations are in fact the seven HARRY POTTER books...
+         http://us1.samba.org/samba/docs/ documents proprietary "pizza 
+         places in Canberra" protocol ... who bashes the FROSTIE BASHERS?:
+         http://www.waveguide.co.uk/latest/news000703.htm#TonyTheTiger
+         ... those cutting edge comparison sites getting frit:
+         http://it.uk.freelancehq.com/nocomment.shtml against close
+         equivalent http://punternet.com/board/posts/17673.html ...
+         http://www.tdcj.state.tx.us/stat/finalmeals.htm - many choose DR
+         PEPPER, reinforcing "Try it - what have you got to lose?" ad
+         campaign...
+         
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> a lethal virus has eliminated everyone over the age of
+         12, posits distressing new Turner-sibling gameshow YOUR KIDS
+         ARE IN CHARGE (6pm, Sat, BBC1)... we're hoping for at least a
+         jabbering cameo from Tom "The Victorian Internet" Standage in
+         obvious ripoff HOW THE VICTORIANS WIRED THE WORLD (7pm, Sat,
+         C4)... and the gag "What wood doesn't float? Natalie Wood!"
+         seems unlikely to feature in the all-star recreation of the
+         "Brainstorm" star's FINAL DAY (11.15pm, Sat, ITV) - not to
+         jump to any conclusions, but let's just say career creepy-guy
+         Christopher Walken was known to be nearby... "Green Eggs and
+         Ham"-style wedding vows enliven Sarah "Sex In The City"
+         Jessica Parker's Woody Allen pseudo-homage MIAMI RHAPSODY
+         (9pm, Sun, BBC2)... Cameron Diaz, Harvey Keitel - together at
+         last! - in lame Norwegian "Weekend At Bernie's" remake HEAD
+         ABOVE WATER (9pm, Sun, C5)... while C4 ingeniously attempts to
+         divert anger over the two remaining "postponed" Babylon 5
+         series by showing the even-worse CRUSADE instead (2.15am, Sun,
+         C4)... from those incredibly clued-up folks who brought you
+         "dotcomedy" comes venture capital face-off THE E-MILLIONAIRE
+         SHOW (8pm, Mon-Fri, C4) - which, we're sure, sounded like a
+         really good idea, about 3 months ago... linking with the start
+         of http://www.madpride.net comes sensitively titled DIY
+         psychopathology round-up NUTS (10.20pm, Mon, BBC2)... when C5
+         runs out of DIRTY HARRY films (9pm, Tue, C5), they just loop
+         back to the beginning again... we slagged Rutger Hauer sov-
+         bloc cyberthriller REDLINE (9pm, Thu, C5) when it was last
+         shown almost exactly one year ago, but it turned out to be
+         surprisingly good... and the postponed kids' inventions final
+         of LOCAL HEROES (8pm, Thu, BBC2) segues neatly into demolition
+         derby MASTERBLASTERS (8.30pm, Thu, BBC2), a "see our website
+         for details of how to make your own explosives" show...
+
+         FILM>> "It's not Mission: Difficult, Mr Hunt," Anthony Hopkins
+         opines. "It's Mission: TEDIOUS!" Yup, even John Woo's top-
+         notch stunt-scenes don't do much to enliven another all-too
+         accurate recreation of the TV show's preposterously dull
+         tearing-off-the-rubber-masks storylines in M:I2 (imdb:
+         sunglasses / motorcycle / sequel / action / scientist / spain
+         / thief / twist-in-the-end / virus / chase / computer /
+         australia / gun / blockbuster / mountain-climbing / helicopter
+         / slow-motion / flamenco / spy) - hey, it's better than
+         "Mission: Impossible", but it's nowhere near as good as
+         "Face/Off"... otherwise a bunch of limited-release arthouse-
+         fodder, best of which is real-life Blair Witch docu-chuckle
+         AMERICAN MOVIE (http://www.bbfc.co.uk : Passed '15' for
+         frequent strong language, moderate horror and moderate drug
+         references), continuing the loosely-linked series of
+         "American" films which have to date included "Psycho",
+         "Beauty", "Pie", "History X", "Graffiti" and, of course,
+         "Werewolf In London"...
+
+         FROZEN WITH TERROR>> not much UK confectionery action until
+         Cadbury's would-be Milky-Way killer SHUSH (15p) shows up,
+         although http://www.cybercandy.co.uk have a new range of US
+         *and Australian* candies now in stock - full reviews coming
+         soon... demonopolisation of single-brand chiller cabinets has
+         fuelled uncontrolled innovation, with CADBURY'S cryogenecists
+         combining ice-cream and *raisins* in the oddly inoffensive
+         Cornetto-style FRUIT AND NUT cone - a far more interesting
+         contribution to the genre than the exactly-as-you'd-expect
+         DAIRY MILK on a stick... the Almond-coated MAGNUM seems to
+         have been entirely replaced by the disappointingly puny
+         "Winner Taco"-alike MAGNUM CARAMEL AND NUTS (65p)... but
+         "Taste Abomination" of the month goes to STEPHEN FULLJAMES'
+         isolated sighting of NESTLE's "Raspberry, banana and
+         strawberry ice lolly with popping candy centre" EXPLODING
+         ZOOM. The "WARNING: Exploding banana particles" indicated
+         early on that this was "going to be a travesty," Stephen
+         relates. "Zooms are supposed to be kinda fruity and refreshing
+         - but the space dust attacking your throat ruins [the effect].
+         An outrage!"... also down at the cooler end of dairy, reader
+         ADAM RICE recommends "cold milky coffee" drink NESCAFE ICE
+         "for people missing the weirdness of Japanese refreshments",
+         citing "Mocha" Flavour as "probably palatable" to British
+         tongues, while "Vanilla" is for "hardcore deviants only"...
+         both MILKY WAY and MILKY WAY MAGIC STARS are threatening to
+         take liquid form, in chocolate, strawberry and banana variety
+         milkshakes... but the big story remains, in accordance with
+         NTK prophecy [2000-06-09], the MCDONALD'S MCFLURRY, as "Nessy
+         Jr" proclaimed that the McFlurrying technique had been known
+         in Northern Ireland "for some weeks now - get a liberal dollop
+         of strawberry sauce added to the Dairy Milk one!", while
+         ADRIAN MOULDER clarified many people's continued bafflement
+         over the "weird, square-shaped spoon", having witnessed the
+         curiously labour-intensive process first-hand. "The McFlurry
+         spoon fits onto a sort of whisk thing, which whizzes it
+         around, creating the 'flurry' within," Moulder explains. "The
+         white plastic whiplash collar prevents the insides from flying
+         out. If you think about it, it's actually quite a clever way
+         of whisking the topping into the ice-cream without leaving
+         half of it stuck to the whisking device, but oddly McDonalds
+         don't advertise this element and most consumers believe it's
+         just an ordinary ice-cream with some Smarties on the top." NTK
+         regrets that this correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+                 "some ex-journalist who stays in bed all day,
+                 uses the internet and writes stuff about it".
+                         ( http://www.handanova.com/ )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

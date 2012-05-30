@@ -1,0 +1,321 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-08-11_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Will machines soon be smarter than people and could children
+         born today live forever? That's what top British
+         futurologist Ian Pearson says may happen. Pearson is used by
+         communications giant British Telecom ...  to make sure
+         companies don't go down the wrong road by developing
+         technologies that date too quickly."
+         - REUTERS, on "top British futurologist" Ian Pearson
+         http://uk.news.yahoo.com/000808/1/afdja.html
+                - see? you *won't* be dead by the time ADSL comes out
+
+
+                                >> HARD NEWS <<
+                               strangers intrude
+
+         It's curious that the row over KATIE.COM, the
+         privately-owned UK domain appropriated by Penguin as the
+         title of a chatroom abuse novel, took so long to become
+         public, when the book first came out in May. But hey, if you
+         discovered a major publisher was cheerily libelling and/or
+         driving traffic to your site, wouldn't *you* try and do a
+         quiet little deal with them first? Proving it is possible to
+         take on the big guys and win is the owner of STING.COM, who
+         fought off an attack by the well-meaning rainforest-warrior
+         of the same name, partly on the grounds that more people
+         might have heard of the site owner (who plays Quake using
+         the handle "Sting") than the middle-aged pop-jazz has-been.
+         And completing the craze is upcoming garage vocalist CRAIG
+         DAVID, whose soft-spoken accounts of "What I Did Over The
+         Half-Term Holidays" have proved so popular among the UK's
+         now largely pre-pubescent record-buying public. Craig
+         apparently namechecks the URL "www.cd.com" extensively
+         during the "Booty Man" track on his new album (out on
+         Monday), seemingly under the impression that this is his own
+         website. Of course, the URL he *should* be publicising is
+         www.craigdavid.co.uk , because cd.com is a domain owned by
+         Digi, "the world's leading supplier of multi- function
+         adapters for server-based communications systems."
+         http://www.katieT.com/guestbook/guestbook.html
+                                    - leaves you feeling oddly violated
+         http://www.sting.com/WIPO_Decision.asp
+            - of course, Sting could just change his name to "Sting.Com"
+         http://www.cd.com/
+       - installed it on a Monday, had better LAN performance on Tuesday
+
+
+         Despite the recent "online credit card details" hysteria
+         (isn't it the merchants and CC companies who are liable for
+         most fraudulent use, a fact they obviously prefer not to
+         publicise), you can always rely on DEMON to come up with a
+         more low-tech method of exposing that ultra-valuable customer
+         info. Their latest exploit reportedly involved velvet-gloved
+         cat-burglars, who "climbed up the scaffolding and nicked
+         a NT server (which paged down but no on NOC duty knew what the
+         machine did, so they did nothing)." Police were called to the
+         scene, but after they left, the master-thieves (possibly "the
+         same ones", our source believes) "climbed in again and nicked
+         another NT server, this time one that holds company files,
+         templates and manages office printers. Some staff then went
+         home as they could no longer do their work."
+         http://www.theregister.co.uk/content/1/12354.html
+                 - hey, why not cancel your card every time you use it?
+         http://www.the-times.co.uk/interface/insight/story764.html
+                                       - it's the *only* way to be sure
+
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         you've got to admit, "Translate into French/ German" adds to
+         the tasteful tone: http://www.concordejokes.com ... home
+         Internet use "growing" unearths BBC ONLINE ... ah, the other
+         meaning of "last": http://www.icalltelecom.com/ ... heard at
+         BOOB night: "Look around: these people are young, they're
+         rich, they want to be in a hip venue. Camden's too far
+         north". And seven foot down's not deep enough, either ...
+         BT's http://www.trustwise.com : not to be confused with
+         http://www.trustwise.co.uk ... JAKOB NIELSEN's fifteen
+         seconds of celebrity download time almost over, so get those
+         parodies in fast: http://useitorloseit.cjb.net/ ... playing
+         to the biggest "at large" constituency of all:
+         http://members.icann.org/nom/cp/1.html ... oh yeah, the
+         folks behind "Rubberburner" and "Super Greg" are *real* smart:
+         http://salon.com/business/feature/2000/08/07/midgets/print.html
+         ... QUEEN MOTHER "may already be dead" concurs NEW STATESMAN
+         http://www.newstatesman.co.uk/200008070003.htm - in accordance with 
+         NTK prophecy: http://www.ntk.net/?b=a98/now0130.txt&l=103#l ... 
+         life imitates BBC imitating TVGOHOME (note lack of direct link):
+         http://news.bbc.co.uk/hi/english/uk/newsid_870000/870270.stm ...
+
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Al Gore, inventor of the Internet, has sadly stepped in to fix
+         his http://www.dems2000.com site after our old pals the DATA
+         NETWORK SECURITY COUNCIL had confidently predicted that it
+         might be defaced by the likes of "G-Force Pakistan" if it
+         continued to offer "full read/write and shell capabilities"
+         via default Microsoft Remote Data Services settings. Of
+         course, it would merely be unfortunate coincidence if this had
+         occurred during their annual DNSCON 2000 conference in
+         Blackpool (from next Fri 2000-08-18), where you can check out
+         "Beer, Sandcastles and Computer Security" - and maybe (if we
+         don't make it along ourselves) obtain documentary evidence of
+         a (reputed) "NTK Bar" somewhere in the area.
+         http://www.dnscon.org/dns2000/
+                - sequel to last year's "Secondary DNS" titling quandry
+         http://www.zeus-net.co.uk/
+                              - "secure" folder something of a misnomer
+         http://www.msdi.co.uk/shop/
+                       - no wonder there's no customers in the database
+
+         "Out of curiosity, do you play Magic: The Gathering?",
+         inquired JAMES HEAVER, in perhaps the scariest piece of reader
+         feedback we've ever received. "If so, whereabouts do you
+         live?" Tragically, the answers to both queries remain strictly
+         classified, but we suspect James might have been able to find
+         more like himself at the real-life "Eltingville Comic Book,
+         Science-Fiction, Fantasy, Horror and Role-Playing Club" get-
+         together GENCON 2000 (Midwest Express Center, Milwaukee,
+         started, er, yesterday). Attractions include not just Anthony
+         "C3PO" Daniels, J Michael "The Great Maker" Straczynski and KW
+         "Noir" Jeter, but also the unveiling of DUNGEONS AND DRAGONS
+         3RD EDITION. "This marks the beginning of the attempted
+         assimilation of the entire roleplaying hobby into Wizards Of
+         The Coast's open-licence-but-not-quite-open-source 'D20'
+         mechanic system," writes NTK's resident 7th-level Magic User,
+         "which resembles nothing so much as Chaosium's 'Basic
+         Roleplay', circa 1978."
+         http://www.wizards.com/gencon/GC2K/exh_demographics.asp
+                 - "demographics" make predictably depressing reading...
+         http://www.fandomshop.com/store/categories/Calendars.asp
+              - 1996 still a big year for The X Files (see Top 10 chart)
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         We don't usually mention alpha software unless it looks like
+         the developer needs help. And if anyone "needs help", it's
+         RON AARON, author of VINE,  a complete POP mail, calendaring
+         and newsreading for Vi. Or its gamma-irradiated descendent
+         Vim, at least. Aaron mutters darkly at Microsoft and the
+         Mutt developers for pushing him into this insanity. With
+         this final keystone, its only a matter of time before Vim 6
+         includes a shell buffer, folding, vertical split windows,
+         Zippy the Pinhead emulator, Aztec Calendaring, a Lisp
+         interpreter... and then it will TECO's turn to rise against
+         its masters. 
+         http://www.mossbayeng.com/~ron/vim/vine.html
+                      - the Law of Software Envelopment strikes again
+         http://www.vim.org/
+                               - you will never escape. :q! ^C^C:Exit
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         back in those days, everything was drawn with vectors:
+         http://www.willowsp.u-net.com/andy/atari/ ... new, less
+         cluttered, YAHOO design: http://wap.yahoo.com/ ...
+         from the Powerpoint presentations of the WEYLAND-YUTANI
+         corporation: http://www.iseran.com/Steve/alien.html ...
+         probably not what the visitors meant by "too dark":
+         http://www.wsu.edu/~kgrytdal/lara_dies.html ...
+         NATHAN BARLEY's don't *just* work in new media, implies
+         http://www.lukasburton.com/ of http://www.shippingbabes.com/
+         ... while waiting for the official NTK merchandise to arrive:
+         http://www.cafepress.com/moose2000/ ... several weeks on,
+         and the "Channel Four News" fans have found that IMDB entry:
+         http://uk.imdb.com/CommentsShow?239164 ... we'd comment, but
+         I don't think we're allowed: http://sbz-s01.websys.aol.com/
+         ... as if HOTMAIL users don't get enough spam as it is:
+         http://www.samurajdata.se/~cj/hotmail.html ... oh, god, yes:
+         http://www.malemultipleorgasm.com/chats/ch970514.htm ... the
+         lighter side of private geopolitical intelligence-gathering:
+         http://www.stratfor.com/asia/commentary/0008040046.htm ... some
+         sperm more sacred than others: http://clonejesus.com/ ... at
+         last, a Japanese, educational version of http://listen.to/swearing/
+         http://www.honmanolondon.com/swearing.html ... What's that, Lassie?
+         How many rems? http://www.x-entertainment.com/messages/333.html
+         ... how about we throw in a *free* staircase with your purchase?
+         http://www.oxford-instruments.com/nmr/index.cfm?page=/nmr/900mhz/
+
+
+                                >> GEEK MEDIA <<
+                      the less sold out www.tvgohome.com
+
+         TV>> ostensibly experimental slot ALT-TV (7.30pm, Fri, C4)
+         enthusiastically confuses physical constants with "lucky
+         numbers" and "numerology"... what began as just the annual
+         four-week fly-on-the-wall docusoap EDINBURGH OR BUST (11.35pm,
+         Fri, C4) is now acknowledged by veterans as more entertaining
+         than the actual Festival... and it's a cross-channel "classic
+         movie" weekend, with Bruce Lee's subjunctive-not-imperative
+         ENTER THE DRAGON (9.55pm, Sat, BBC2), dated Dustin Hoffman
+         dweeb-a-thon THE GRADUATE (9pm, Sat, C4), Cadfael-inspiring
+         monk whodunnit THE NAME OF THE ROSE (10.55pm, Sat, C5), plus
+         the symbols re-aligning once again for this year's showing of
+         STARGATE (8.35pm, Sat, BBC1)... Charlize Theron helps Liv
+         Tyler re-tell the early days of Aerosmith in Tom Hanks vanity
+         project THAT THING YOU DO (9.05pm, Sun, C4)... Lance "Aliens"
+         Henriksen, Nancy "RoboCop" Allen - together at last! - in
+         chemical weapons actioner DUSTING CLIFF 7 (9pm, Sun, C5)...
+         and expect War-Of-The-Worlds-style panic in the streets from
+         elderly viewers of as-it-happens history hoax NEWS 40: THE
+         ATTLE OF BRITAIN (12.05pm & 11.30pm, Mon-Fri, ITV)... Channel
+         4 criminally neglects their own back-catalogue - something for
+         the weekend, the minipops - in search of a more biologically
+         determined anatomy of disgust (10pm, tue, c4)... family-feud
+         festen (11.35pm, tue, c4) begins a series of dogma 95 films
+         that combine hard-hitting drama with the production values of
+         eastern european camcorder porn... and, is it just us, or are
+         the seductively-voiced "face-to-face encounter" trails for
+         cousins (7pm, wed, bbc1) implying that the beautiful presenter
+         is personally investigating that old "90-something percent of
+         dna in common" claim - by travelling the world and having sex
+         with as many primate species as she can find?...
+
+         FILM>> gun-mad Arabs start spontaneously shooting Americans in
+         morally ambiguous Samuel L Jackson / Tommy L Jones courtroom
+         shoutfest RULES OF ENGAGEMENT (http://www.capalert.com :
+         apparent homosexual pair in a crowd; Tommy Lee Jones was his
+         usual excellent self [...] but with a potty mouth this time.
+         Probably a dozen times more potty that "The Fugitive") -
+         supposedly based on different events, but it's almost as if it
+         was designed to "re-educate" the public about the massive
+         foreign policy embarrassment of 1993's "Battle of Mogadishu"
+         http://www.amazon.com/exec/obidos/ASIN/0140288503/ ... else
+         it's the usual crop of kiddie flicks: MY DOG SKIP (imdb: bully
+         / dog / kids-and-family / family / mississippi / tearjerker /
+         baseball / based-on-true-story / 1940s / animal / dog-actor /
+         based-on-novel / bootlegger / cemetery / segregation /
+         football / boy-and-dog / sport / wwii / coming-of-age) - "Air
+         Bud", but without the basketball... or dire Brit stag-night
+         comedy WEDDING TACKLE (imdb: Tony Slattery, Leslie Grantham,
+         the other guy from "Game On" - together at last!)... though of
+         course you fanboys will be saving yourselves for Thursday's
+         advance previews of X-MEN (imdb: blockbuster / wwii / boat /
+         basketball / telekinesis / magnet / flashback / psionic-power
+         / telepathy / motorcycle / helicopter / shapeshifter / spit-
+         in-the-face / magnetism / melting-man / new-york / school /
+         ostracism / morphing / based-on-comic / nazi-germany / senator
+         / showdown / new-york-city / marvel / superhero / anarchy /
+         mutant / paraplegic / statue-of-liberty / runaway /
+         concentration-camp / government / prison / staten-island /
+         tongue / wheelchair / holocaust) - arguably the best feature-
+         length "made for TV" series pilot since "The Matrix"!...
+
+         CONFECTIONERY THEORY>> something of a "crunchy" texture to
+         this month's sightings, with the national roll-out of NESTLE
+         COLA SMARTIES prompting widespread reaction, from "officially
+         rank" (DAVID GENTLE) to "FLASH" WILSON's more complex theory
+         that preferences are occupationally determined: "The web team
+         eat Cola Smarties, the backend team eat Jelly and Icecream
+         Fruit Pastilles - but I eat strawberry Campini"... while MARK
+         SAVAGE defended the antipodean trend for making sweets out of
+         malted-milk drinks [NTK 2000-07-28], claiming that "the
+         ballerina's favourite - Malteesers - are just chocolate-coated
+         Horlicks powder. Think about it"... PepsiCo-owned Smiths-
+         absorbers WALKERS are up to something, with what they claim is
+         a new "Spicy" version of MONSTER MUNCH debuting in August,
+         plus some sort of legal battle in Ireland (where the Spicy
+         flavour apparently originated) with previous MM licensees,
+         Tayto, who have continued to manufacture a rival brand called
+         "Mighty Munch"... MATT HALL meanwhile describes Golden
+         Wonder's response, WOTSITS WAFFLES, as "cheesy powder OD, huge
+         maize squares guaranteed to choke anyone under the age of
+         fifteen"... as SIMON BRADBURY launches his one-man mission to
+         find out what's happened to GOLDEN WONDER'S WORCESTER SAUCE
+         WHEAT CRUNCHIES - are they being edged out by these fancy new
+         Walker's brands, or perhaps just replaced by GW's own Salt n
+         Vinegar Wheat Crunchies? Bradbury considers both possibilities
+         "unacceptable"... but product-spotter of the month award goes
+         to former face of Cadbury's Creme Eggs MATT LUCAS, who
+         "returned from France" with what's believed to be the first
+         example, captured in the wild, of a TWIX TOP - "about the
+         shape of two Twix sticks side-by-side, but maybe only half as
+         tall." Word is that nationwide sampling of these will continue
+         through August, with a full "back to school" ad campaign (79p
+         for a pack of 6) in September. "It's mainly a bland biscuit,"
+         Matt reports, "but has a small amount of chocolate and caramel
+         on top. Hence the title." Either that, or it's an allusion to
+         "Lager top", to create the impression of a lighter, less
+         potent variant of Twix: Classic...
+
+
+                                >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                 "*that's* how much an 'Unsub' request hurts us"
+              http://www.weld18.demon.co.uk/fiction/snatcher.htm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

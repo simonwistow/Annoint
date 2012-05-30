@@ -1,0 +1,280 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-09-10_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+ 
+         "...as any information coming to you via a television is
+         regulated by the ITC, the Broadcasting Standards Commission
+         and a wealth of committees and directives, you won't be able
+         to get porn, read the word 'fuck' before 9pm or do anything
+         illegal."
+       - Josephine Munroe explains web-TV, "Time Out" magazine (p201)
+...better stop reading alt.binaries.pictures.erotica on that Amiga, kid
+
+
+                                >> HARD NEWS <<
+                                 ongoing feuds
+
+         NORWEB finally plonked their Net-over-mains-cables into the
+         electric chair this week, citing problems finding either
+         customers or investors for the innovative, plucky, British
+         technology. The decision to kill the tech was, we're sure,
+         completely unrelated to that whole "streetlamps dumping
+         cartloads of RF interference" rumour that we - and New
+         Scientist, and the Institute of Electrical Engineers - so
+         callously spread back when they were being hailed as the new
+         Edisons of the broadband revolution. Nonetheless - FALCO!
+         http://www.techweb.com/wire/story/TWB19990908S0006
+                                    - U-turns at 60 cycles per second
+
+         At least we've got that ADSL rollout to look forward to,
+         right? Yeah, well - despite all our fondest hopes, the law
+         of lowered expectations is ruling this story too. Several
+         ISPs have pointed out to us that BT's pricing of
+         40UKP-150UKP for the average home user doesn't quite add up.
+         The wholesale price list for an ADSL link works out at
+         around 160UKP per person for service providers. The service
+         in question is called "IPstream Business" - despite being
+         the bog-standard dynamic IP ADSL setup connection. Which
+         begs the question, where's the cheapo consumer version gone?
+         Could it be that those anti-ADSL forces within BT are have
+         stopped a general roll-out until they can work out a way of
+         sneaking more money from the punters? And would that explain
+         why BT's ADSL triallists (whose trial was supposed to end
+         weeks ago) are being sent Mondex cards to play with? Do we
+         sniff a technology tie-in? Or even a technology lock-in?
+         http://www.sinet.bt.com/
+                                            - SPIN012 spins the story
+
+         And how surprising to read that SCOTTISH EXECUTIVE site was
+         hacked to smithereens this week. Judging by the - actually
+         pretty funny in parts - parody, the miscreants had been
+         planning this for some time. Which, given DNScon put out the
+         press release informing them (and everybody else) of the
+         security flaws a good month ago, that isn't beyond the
+         realms of probability.
+         http://www.ntk.net/index.cgi?back=archive99/now0820.txt&line=17#l 
+                                             - this is getting eerie 
+  http://www.attrition.org/mirror/attrition/1999/09/08/www.scotland.gov.uk
+                                                           - in parts 
+         http://www.sinnfein.org.uk/
+                                 - somebody's asking for knee-capping
+
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         http://store.yahoo.com/vw/tracklink.html comments out
+         "spamming" advice, still visible in source... "Women of the
+         Web" picked by next SUNDAY BUSINESS includes founder of
+         Gnash Communications, many of its clients... exhibit A in
+         the ARGOS case: http://www.ntk.net/doh/990910cheaptv.gif ...
+         http://webmaster.info.aol.com/email.html - "Send flawless
+         e-mail, checked for grammer and spelling."... LINUX coders:
+         flakey, but honest: http://www.ntk.net/doh/990910ds9.gif ...
+         View Source, win a prize: http://promo.easyjet.com/ ... FEAR
+         AND LOATHING spam ad includes 300KB .MOV file: big
+         incentive... CAMPAIGN attempt lame "fake doh" -
+         http://www.campaign.co.uk/ ... PLANET ONLINE tech support in
+         mass resignation antinews... WANKOMETER clearly needs
+         upgrading for these guys http://www.labyrinth.ie/approach.asp ...
+         PSION listen to customer's needs: produce bigger, more
+         expensive model...
+ 
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+         
+         Commemorating, yes, the *actual date* when the moon is blown
+         out of the earth's orbit in SPACE: 1999 comes not one, but
+         two sci-fi conventions - one made of anti-matter, each at
+         opposite ends of the universe. Of the main cast, only
+         shape-shifting Maya seems to have escaped BREAKAWAY CON
+         (this weekend, Radisson Hotel, Los Angeles), citing family
+         commitments back on planet Psychon; she does, however,
+         appear at TELLY BREAKAWAY (next weekend, Pontin's Sand Bay
+         Holiday Centre, Weston Super Mare), among such estimable
+         thespians as Paul "Blake's 7" Darrow, Peter "Dr Who"
+         Davison, two "Crusade" chicks, Guardian theatre critic
+         Michael Billington (Paul Foster in "UFO"), and Hartley Hare
+         from "Pipkins".  
+         http://www.breakaway-con.com/ 
+                             - they could always rent a tiger instead
+         http://www.cult-tv.freeserve.co.uk/tellybreakaway.html
+             - two Dr Who assistants, one teacher from Grange Hill...
+         http://www.britassoc.org.uk/festival/ 
+     - meanwhile, Britain's boffins continue their foolish "meddling"
+
+         With the publishing of Simon Singh's THE CODE BOOK, looks like
+         historical cryptography will replace "the natural history of
+         Cod" as *the* cribbed dinner party conversation this Winter.
+         This may, possibly, be a good thing. Help maintain your
+         patronising superiority to these dilettantes by popping down
+         to Harkness Hall, Birkbeck College next Friday (1999-09-17,
+         1800 BST), and intercepting the communications of Dr James
+         Reeds of AT&T who will be decoding RENAISSANCE CRYPTOGRAPHY
+         AND JOHANNES "Mr Steganographia" TRITHEMIUS. Or perhaps crib
+         a few notes at Kellogg College, Oxford, who are offering to
+         get "medieval on your maths" with their weekend of
+         pre-modern mathematics. Forty groats to pay: telephone 01865
+         270380 or email PPDayweek@conted.ox.ac.uk for more info. 
+         http://www.dcs.warwick.ac.uk/bshm/meetings.html#special
+                - Johannes was into magick too. Gotta be californian.
+         http://www.dcs.warwick.ac.uk/bshm/meetings.html#medieval
+         - ancient cyphers, invisible inks, current government policy
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         The spiritual warfare between Python and Perl gathers pace,
+         as both sides add mystical Eastern skills to their
+         armouries. PyChing is script which allows Python Ninjas to
+         scry future Perl language developments via a graphical Tk
+         I-Ching interpretation. But Perl users are nothing if not
+         resourceful in religious battle. Turning their own weakness
+         into a strength, the Coy.pm CPAN Perl module intercepts
+         error messages and dynamically prefixes a calming haiku, to
+         counteract any karmic damage. Expect a kill-at-a-distance
+         XML-RPC module any day soon.
+         http://www.cs.monash.edu.au/~damian/TPC/1999/Coy/
+                                  - the sound of one's stack crapping
+         http://www.essemgee.xnot.com/pyching/ 
+                                                - my *ass*, no blame!
+         http://www.elj.com/new/
+         - and when they have destroyed each other, Eiffel will rule!
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         RICHARD STEVENS drops his last packet... running Demon was
+         licence to print money, found CLIFF STANFORD:
+         http://www.ecb.int/change/images/fr200_v.jpg ... new Brit
+         band called .CO.UK - but what the hell will they
+         call their website? ... ungrateful granddaughter cam:
+         http://www.stormloader.com/serrated/pop.html ...
+         http://www.godhatesfigs.com/ ... we want meta-meta-meta-
+         meta-moderation! (Score: -2)... HASBRO buy WIZARDS OF
+         THE COAST: collect the set!... camp Blake's 7 villainess
+         SERVALAN appearing in "Ooh Stick You" video by "Daphne &
+         Celeste"... bonus question: how do you spell "Ms Pan Man"
+         (sic)?: http://www.msnbc.com/modules/quizzes/pacman.asp ...
+         proof - at last - we're living in THE MATRIX universe:
+         http://www.wired.com/news/news/technology/story/21641.html
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+
+         TV>> MIRRORBALL (1.05am, Fri, C4) turns on terrifying Aphex
+         Twin collaborator - and future Neuromancer director? - Chris
+         Cunningham... Saturday night movie romps include OK-ish
+         Woody Allen divorce-whine HUSBANDS AND WIVES (11pm, Sat,
+         BBC2), "Springtime For Hitler" Mel Brooks farce THE
+         PRODUCERS (12.45am, Sat, BBC2), Stallone/ Bullock sci-fi
+         satire DEMOLITION MAN (10.20pm, Sat, ITV), plus '70s Hammer
+         proto-Ghostbusters THE ASPHYX (12.30am, Sat, BBC1) - last
+         shown almost exactly one year ago (give or take a month or
+         two)... and if you're watching Graham Norton's 100 GREATEST
+         TV MOMENTS (9pm, Sat, C4) and they all seem to be
+         ultra-recent catchphrase comedy skits, then you've
+         accidentally tuned to BBC2's FAST SHOW NIGHT instead (from
+         9pm, Sat, BBC2)... don't know if this is deliberate, but
+         everyone says the ELVIS 1968 COMEBACK SPECIAL (11.50pm, Sun,
+         C4) is, indeed, a milestone in TV pop history... Jonny Lee
+         "Hackers" Miller heads up confusingly poetic WW1 Dr Who
+         spin-off REGENERATION (10pm, Sun, BBC2)... and, as if last
+         week's Mark "TV's The Crow" Dacascos cyber kung-fu
+         beat-em-up wasn't enough like The Matrix, this week's one -
+         SABOTAGE (9pm, Tue, C5) - even has Carrie-Anne "Trinity"
+         Moss in it... 
+
+         FILM>> you know how your mind thinks EYES WIDE SHUT (imdb:
+         christmas / based-on-novel / greenwich-village / drugs /
+         infidelity / homosexuality / marital-crisis / orgy / sex) -
+         but then you type "Eyes Wide *Shit*" instead? Well, you were
+         right the first time - phenomenally dull plot-free ramblings
+         of interest only to connoisseurs of semi-nude Kylie
+         lookalikes. Kubrick probably died of shame but, hey, that
+         one-note piano theme *rocks*... "MTV Movie Award: Best
+         Breakthrough Male Performance" (for James Van Der Beek)
+         chortles the poster for MTV-produced lively high-school
+         gridiron cheese VARSITY BLUES ("entertainment ignominy" at
+         http://www.capalert.com/capreports includes: kissing on
+         school property; reckless vehicular activity; examining
+         one's self in public; "playing like gods"; adult pat on the
+         rear of a teen; adult underwear)... and the cannibal movie,
+         er, eats itself in enthusiastically confused horror Western
+         RAVENOUS (imdb: cannibalism / indian / reincarnation /
+         windigo / california / manifest-destiny / mexican-
+         american-war / satire / scottish / stew / westward-expansion
+         / winter / cave / chaplain / fort / frontier / historical /
+         horses) - featuring Robert Carlyle, Guy "Neighbours" Pearce,
+         and - of course - Jeffrey Jones, aka Ed Rooney from Ferris
+         Bueller's Day Off... both better bets than ancient overrated
+         outdated stunt effort THE ITALIAN JOB (imdb:car)...
+
+         RED BOOK AUDIO>> if muzak be the food of love, the current 
+         batch of free CDs belong in the supermarket: we're not quite 
+         sure who CROSSE AND BLACKWELL's SNACK STOP "Taste Of The 
+         UK Music Scene" disc is aimed at (UKP1.25 twin pack) - 
+         having lulled you with oldies from Cast, Ocean Colour 
+         Scene, Lighthouse Family and Shed Seven, it ups the tempo 
+         with System F's friendly hard-trance MP3 fave "Out Of The 
+         Blue"... still, at least the track listing's visible, 
+         unlike NESTLE GOLDEN GRAHAMS' optimistic "Best Album Of The 
+         Next Century Ever" (pts 1 and 2, UKP 1.79). #2 (the blue 
+         one) has a slight edge (as with all 3 CDs, <30 min running 
+         time); an intriguing compilation of slipstream future rock, 
+         largely from bands with one-word names - Space, Antenna, 
+         Trippa, Serum, Cable, Cuba, and Muse... oh, and the new 
+         issue of ARCADE magazine covermounts a Wipeout 3 megamix 
+         soundtrack CD, again only 30 minutes long... now even 
+         Puff Daddy's covered "Public Enemy No 1", is the world 
+         ready for a PUBLIC ENEMY tribute album, featuring that, 
+         Anthrax's "Bring The Noise", and - of course - Tricky's 
+         "Black Steel (In The Hour Of Chaos)"?... soundalike dept: a 
+         nameless tipster claims that S-CLUB 7's second single 
+         (tantalisingly named "S-Club Party", we believe) bears some 
+         resemblance to the Spice Girls' second single, "Say You'll 
+         Be There"; DOM "THE DOMINATOR" MCCLANE reports that the 
+         chorus of CAPRICE's "Oh Yeah" seems like it's about to lead 
+         into the chorus of "Bugs" by HEPBURN (a problem we have 
+         with that "Abercrombie and Fitch" song and Bran Van 3000); 
+         and, if you can tear yourself away from her appalling "bad 
+         girl" acting in the video, scientists confirm that you 
+         *can* sing "Addicted To Love" over SPORTY MEL C's "Going 
+         Down"... and finally, we note that, even after winning last 
+         night's "Viewer's Choice" MTV Video Award, those cheeky 
+         BACKSTREET BOYS have failed to provide any consistent 
+         lyrical interpretation of their "I Want It That Way" 
+         megahit, fuelling persistent net speculation that it 
+         "might be about anal sex"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+ It is registered at the Post Office as "thank Christ it's MiniNTK next week" 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

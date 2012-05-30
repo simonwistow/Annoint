@@ -1,0 +1,279 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-06-14_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Suppose you find yourself somehow trapped, as I
+         once was, in a website called "Boobtropolis", which blurts
+         an embarrassing welcoming song. Does anyone, apart from the
+         indulgent readers of this newspaper, have a right to know
+         that?"
+- BORIS JOHNSON, TELEGRAPH 2002-06-13, sharing "too much information"
+
+                                >> HARD NEWS <<
+                           ghosts spooks and ghouls
+
+         It's not often you catch Slashdot, Kuro5hin, Newsnight and
+         BBC's Question Time covering the same story. And while we
+         still await the day Jeremy Paxman screams "MOD THE PARENT
+         UP!" at a ashen-faced spokesman, one topic bound them all
+         this week: the insane new RIP STATUTORY INSTRUMENT. This
+         piece of pseudo-legislation, which the government clearly
+         hoped to sneak past parliament next Tuesday, extends the
+         list of authorities able tap everyone's traffic data without
+         a warrant. In the original RIP bill, only coppers, customs
+         and the secret services could obtain phone numbers, Web
+         addresses, and cellphone positions willy-nilly. With the new
+         instrument, anyone from a local councillor to the Office of
+         Fair Trading, down to the Post Office^W^WConsignia^Wthe
+         Royal Mail can stalk you without judicial oversight. Over
+         twenty new government departments are listed, with no
+         explanation or justification (the Department of Work and
+         Pensions is fighting terrorism how exactly?). It really is a
+         "shopping" list in every sense but the car-jacking one. As
+         with so much of the original RIP bill, *nobody* thinks this
+         is a good idea. Councillors we've spoken with are worried
+         about the abuse potential, other departments are freaking
+         out at the cost of overseeing the new powers. Already the
+         hundreds of faxes sent to MPs and messages to the news media
+         have secured one concession: our gracious leaders have
+         postponed the debate until next Monday, 2002-06-24. If we
+         keep the pressure up, they may be obliged to withdraw it
+         completely. Check out STAND for more info on what the Blunt
+         Instrument means, and what to do about it.
+         http://www.stand.org.uk/
+- looks like we chose a good week to relaunch STAND (and give up glue-sniffing)
+         mailto:stand@ntk.net
+                                - mail here to get regular updates
+
+         Don't expect to see those Radio Four Ogg streams for much
+         longer. News arrives that the oldest and most deeply Unixy
+         wing of the BBC, the bunnies at Kingswood Warren, have been
+         summarily merged with Streaming Media Services, some
+         quasi-commercial bit of Intel tat the Beeb bought back in
+         the day. SMS is a Windows shop and does such cutting-edge
+         work as providing KPMG with videofeeds, and signing
+         "significant" content deals with 3G companies. You get the
+         idea. Kingswood, for all its paranoia and somewhat BOFHish
+         reputation, does things like set up public peering
+         arrangements (and publishes the statistics for everyone to
+         see), experiments with aforementioned patent-free Ogg Vorbis
+         technology (can't see the Windows Media fans at SMS going
+         for that), and otherwise handles the deep research that the
+         BBC needs in these winnowing times. With heavy muttering
+         coming from the beards about a lousy relocation package and
+         a prospective two hour commute to Maidenhead, is this the
+         Beeb's deliberate attempt to ditch anyone with a clue?
+         http://support.bbc.co.uk/support/
+                                           - this kind of BBC, versus
+         http://www.bbctechnology.com/
+                                                  - this kind of BBC.
+         http://support.bbc.co.uk/ogg/
+                                        - activate the Stallman bomb!
+         http://www.bbc.co.uk/jobs/e55850.shtml
+                                 - still, if you think you can fix it
+
+         We had a couple of excuses lined up in case the weekend's
+         EXTREME COMPUTING festival didn't come off - that it was
+         inherently experimental, that we didn't know how many people
+         were going to turn up, that no-one else had ever tried to
+         combine semi-scientific seminars with the ambience of a
+         Scandinavian demo party. Of course, the one thing we weren't
+         prepared for was it turning out to be so much of a success -
+         we won't single anyone out for particular thanks, because
+         everyone did such a great job, making it the best fifth
+         birthday party any sarcastic technology newsletter could ask
+         for. Sure, it wasn't perfect - apologies to the ZX Spectrum
+         panel for making them beta-test the PA system, and a few signs
+         here and there wouldn't have gone amiss either. But there were
+         almost 1200 visitors during the course of the day, the
+         feedback has been almost embarrassingly positive, and we'll
+         definitely do something similar again next year. It only
+         remains to say: would the owners of the POP logins "steve",
+         "e.tedeschi", and "olly" please change their email passwords?
+         They showed up unencrypted in the wireless network traffic
+         logs and - if you hadn't noticed - we're trying to campaign
+         quite hard against this kind of thing.
+         http://www.xcom2002.com/
+             - now with pics, written reports, William Shatner videos
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         sneak preview: http://www.olympiapark-muenchen.de/english/ -
+         vs "it's never too late": http://www.the2002worldcup.com/ ...
+         yes, in response to everyone who's written in, this *is*
+         "getting too easy": http://www.google.com/search?q=acocunts ,
+         http://www.google.com/search?hl=en&q=%22world+wankings%22 ,
+         http://www.google.com/search?hl=en&q=%22accunt+manager%22 ,
+         - though, if you're lucky, you can get login details too:
+  http://www.google.com/search?q=%22Tcl+Error+During+Template+Execution%22
+         ... gave up ages ago: http://www.bigbrother-online.co.uk/ ...
+         is that the London Eye Millennium Wheel Jigsaw in your pants:
+http://www.politicos.co.uk/acatalog/Politicos_Online_Jigsaw_Puzzles_1480.html
+         - or are you just pleased to see me?... missing gay millions:
+       http://www.coronaproductions.com/tp/scoops/scoops.html#queerasfolk2
+
+
+                               >> EVENT QUEUE <<
+         proudly "sponsoring": http://www.ukuug.org/events/linux2002/
+
+         Perversely, one of our favourite pieces of Xcom feedback was
+         the guy who said it was "full of people getting far too much
+         satisfaction out of playing C64 games". Assuming such a thing
+         is even possible, that's one person who almost certainly will
+         not enjoy BACK IN TIME LIVE LONDON 2002 (7.30pm-3am, next Fri
+         2002-06-21, Gossips Nightclub, London W1, UKP5.00, pre-
+         registrations now closed). Billing itself as "the first 8-bit
+         rock concert outside of Japan", it features performances from
+         demo musicians, C64 remixers and live bands, plus Jon "Sensi
+         Soccer" Hare, Bjorn "Dr Awesome" Lynne, and Jeff "Llamasoft"
+         Minter. And hints of an appearance by Emily "Bouff" Booth,
+         from that "Bits" videogame show on Channel 4. Look, it's
+         effectively sold out already, so don't start scalping on eBay.
+         http://www.c64audio.com/bitlive/london_2002/
+               - and there weren't any C64 games at Xcom, were there?
+         http://bobzilla.ohskylab.com/weblog/00000127.htm
+                - "overwhelmed by the excess of geek": oh boo hoo hoo
+         http://www.southern.com/southern/band/CRASS/
+                - Crass at the NFT on Sat: subversive enough for you?
+         http://www.hackmeeting.org/
+        - also next Fri: looks like big hacker fest in Bologna, Italy
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         If Perl is the Swiss Army chainsaw of programming languages,
+         then SOCAT is the Swiss Army chainsaw of, uh,
+         shell/networking tools. Socat works by connecting the input
+         and output of two files together - where file can be a
+         socket, or a pipe, or any number of other filish mutants
+         that Unix has spawned. Need to connect to your SMTP server
+         to do some manual diagnostics, a la netcat or telnet? Sure.
+         Feel like wrapping readline around that to get command
+         history? No problem. You can connect an IPV6 address to a
+         chrooted shell script, run ssh with its controlling tty
+         connected to stdin so it'll accept the password from
+         something other than the keyboard, or attach a Unix socket
+         to an inet socket. You can tunnel a local Unix socket
+         through someone's socks server to an unprotected internal X
+         server, using a source port of 20 to slip by a
+         poorly-configured firewall. And that's just the manpage
+         examples! It's available as a Debian unstable package and
+         FreeBSD port, and v1.2 (due this month) has a pile of extra
+         goodies to anticipate, including fake pseudo terminals, and
+         ssl support. I can't believe I just wrote "fake pseudo
+         terminals".
+         http://www.dest-unreach.org/socat/
+                       - ironically unreachable for most of yesterday
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         the cards don't lie: http://www.geocities.com/metatarot/ata.html
+         ... companies you didn't expect to have corporate anthems, #1:
+         http://www.acetaxisyork.com/song.htm ... should be able to
+         offer integrated targeting with their Trident and Patriot
+         missile systems: http://www.lockheedmartin.co.uk/news/109.htm
+         ... http://www.travisa.com/ vs http://www.amazon.com/ ... JILL
+         DANDO shooting threatens to affect home insurance premiums:
+      http://www.norwich-union.co.uk/products/insurance/home/filter.htm ...
+         usability gurus on toilet #2 - terrible interfaces on trains:
+         http://www.sumption.org/lifeless/2002_01_01_archive.php#9090576
+         ... "throbbyness" etc an improvement on boring old "osc/dis":
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=881711449
+         ... though haven't we been LEGO CONDITIONED all our lives?:
+         http://qwer.org/20020614skinner.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>>> Dolph Lundgren Week gets off to a flying start in his
+         long-awaited collaboration with Russell "Highlander" Mulcahy
+         and Gina "Coupling" Bellman: flashy sniper thriller SILENT
+         TRIGGER (11.20pm, Fri, BBC1)... then he's back in C5's annual
+         showing of UNIVERSAL SOLDIER (9pm, Sun, C5), but not UNIVERSAL
+         SOLDIER: THE RETURN (9pm, Tue, C5)... Susan "The Partridge
+         Family" Dey scans her ass into a computer in overlooked
+         Michael Crichton 1980s synthespian romp LOOKER (2.40am, Fri,
+         C5)... and there's more stuff the DVD director's commentary
+         doesn't tell you when THE HOLLYWOOD MACHINE (8.20pm, Sat,
+         BBC2) takes a long, hard look at "Charlie's Angels"... Vince
+         "Swingers" Vaughn puts the "master" back into "Norman Bates"
+         in unnecessary remake PSYCHO (9.10pm, Sat, BBC1)... Sam
+         "Spider-Man" Raimi redoes "Fargo", but from the criminals'
+         point of view in A SIMPLE PLAN (10.35pm, Sat, BBC2)... and
+         Jonathan Ross once again maintains he's laughing *with* - not
+         at - the wacky foreign culture in JAPANORAMA (11pm, Sat; 10pm,
+         Sun, BBC Choice)... BITTER HARVEST (8pm, Sun, BBC2) sounds
+         like a promisingly non-partisan look at the history of GM
+         food... Robin Wright Penn falls for Kevin Costner in overlong
+         nautical-metaphor closure-weepie MESSAGE IN A BOTTLE (9pm,
+         Mon, C5) - as we said back in 1999, not based around the
+         Police song of the same name, though the soundtrack does
+         occasionally break into the opening line of Queen's "We Are
+         The Champions"... and Mike Myers presents another of his
+         famously understated characterisations in 1970s Neve Campbell
+         nightclub nonsense 54 (12.15am, Mon, C4)... C4 takes a timely
+         look at the relevance of reality TV in what is basically a
+         rebranded "Right To Reply", THINK TV (7.55pm, Tue-Thu, C4)...
+         "Tomorrow's World" maintains its academic credentials with a
+         look at THE SCIENCE OF SPIDER-MAN (7pm, Wed, BBC1), including
+         "a real-life gene-transferring technique that could explain
+         how Peter Parker got his amazing abilities"... Michael Douglas
+         finds the frustrations of even an imaginary job too much to
+         bear in FALLING DOWN (10.35pm, Wed, BBC1)... as Pauline "Birds
+         Of A Feather" Quirke ingeniously sidesteps being typecast as a
+         middle-aged fat woman in what appears to be a sequel to that
+         Liza Tarbuck drama, BEING APRIL (9pm, Thu, BBC1)...
+
+         FILM>> so it's not as bad as "Attack Of The Clones" - and it
+         has Kirsten Dunst in it - but if Jon Katz likes it this much:
+         http://features.slashdot.org/article.pl?sid=02/05/08/1353236
+         http://features.slashdot.org/article.pl?sid=02/05/25/0125219
+         - then just watch out for appalling acting and dialogue in
+         SPIDER-MAN ( http://www.capalert.com/capreports/spiderman.htm :
+         promotion of evolution; ghosting of [Kirsten Dunst's] anatomy
+         through "wet T-shirt" clothing; corporate brutality)...
+         alternatively: you wait 7 or 8 years for a Philip K Dick
+         adaptation, then two come along at once - the first of which
+         being expanded-from-short-feature exploding-replicants-with-
+         implanted-memories "Blade Runner"-lite chase-fest IMPOSTOR
+         ( http://www.capalert.com/capreports/impostor.htm : [Madeline
+         Stowe] in bed in underwear; inappropriate touch; nursing a
+         baby in public - though a beautiful and indeed necessary
+         thing, do you do it for display as entertainment?)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "doing it for the kittens"
+                  http://rikrose.net/lbk/tn/mvc-684f.jpg.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,298 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-06-21_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+           "The appearance of the desktop may also provide powerful
+           insights into how comfortable someone is with technology.
+           'It could be that the person with not much on their desktop
+           is naive about technology,' said Mr Williams."
+          http://news.bbc.co.uk/hi/english/sci/tech/newsid_2045000/2045175.stm
+     ...pop-psychologists : the very definition of "not much on the desktop"
+
+                                >> HARD NEWS <<
+                              we choose to recuse
+
+         We must avoid getting too self-congratulatory about
+         COMPLETELY VANQUISHING THE PRIVACY-SMASHING R.I.P. STANDING
+         ORDER USING ONLY OUR BARE HANDS KEYBOARDS AND MICE. And by
+         "we" here, "we" mean "you" - as it was your thousands of
+         faxed letters to MPs that, by all accounts, put the willies
+         up David Blunkett, and caused him to can the whole thing.
+         Before we embark on our usual cynicism, you may take this
+         brief moment to read the reviews, and glory in your new
+         found power.
+        http://www.stand.org.uk/weblog/archive/2002/06/19/000199.php
+         - STAND story: Faxes, Hugh, and slashdotting the government
+http://news.bbc.co.uk/media/video/38084000/rm/_38084144_privacy22_marr_vi.ram
+                               - the BBC says it was you what won it.
+         http://www.ntk.net/2002/06/21/dohbbro.gif
+                                     - simply *everyone's* talking about it
+
+         Right, where were we? Well if it's in search of cynicism,
+         we're due at BOB AINSWORTH's, the Home Office minister, who
+         in the dying moments of the Standing Order, did one of those
+         spectacular "Doesn't matter anyway" pouts. "Allow me to say
+         to you that there are people in the Food Standards Agency
+         now who apply for, in what they think are appropriate
+         circumstances, data about people's communications - and they
+         get it", he said to Nick Clarke on the World at One, before
+         laughing in the heroes face, and activating the
+         self-destruct sequence. Can this be true? Can those dastardy
+         Health and Safety Officers really already fly into your ISP
+         with their black helicopters and lift your Web cache? Was it
+         all in vain? So far, the evidence suggests that Mr Ainsworth
+         was economical with the truth, and it's not as bad as all
+         that: yet.
+         http://www.stand.org.uk/privacy/isp1.html
+                 - data we've gathered about gathering data in the UK
+         http://www.theregister.co.uk/content/6/25761.html
+                                - John Lettice catches the transcript
+
+         Ah, sod the worthiness. Let us now idly humiliate AT&T
+         BROADBAND. Switching your newsserver config? Want to tell all
+         your customers who use Usenet? Why not post a message about it?
+         And for extra effect, why not accidentally propagate it to
+         everybody else's newserver - on every newsgroup?
+         <NELSON>Ha-haa.</NELSON>
+http://groups.google.com/groups?q=insubject%3A%22regarding+your+usenet+service%22
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         CNN's Daljit Dhaliwal prefers "Nexus Lexus" to "LexisNexis":
+     http://media.guardian.co.uk/mediaguardian/story/0,7558,738629,00.html
+         (maybe it's a portal for info on the Lexus luxury car range?)
+         ... this week's UBIQUITOUS PUERILE GOOGLE MISPRINTS AND TYPOS:
+         http://www.google.com/search?q=%22pubic+relations%22+-guardian ,
+         http://www.google.com/search?q=cococunt and, more practically:
+     http://www.google.co.uk/search?q=Start+browsing+through+CGI-based+proxy
+         ... one way of stopping them deleting your spoof eBay auction:
+         http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=237479800
+         ... active server pages = somewhat less active love lives:
+         http://www.aspfriends.com/aspfriends/aspsingles.asp ...
+         "Professional musicians have more grey matter in a part of the
+         brain involved in processing music, scientists have found":
+     http://news.bbc.co.uk/low/english/sci/tech/newsid_2044000/2044646.stm
+         - in other news, secretaries can type quicker and porn stars
+         have larger genitals... YAHOO autolinking has left the
+         building: http://uk.music.yahoo.com/020616/4/d19yu.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         No longer in full-time education - yet can't fully enjoy the
+         summer without the illicit thrill of imminent exams? The
+         ostensibly NTK-sponsored UKUUG LINUX DEVELOPERS' CONFERENCE
+         (9am, Thu 2002-07-04, University of Bristol, from about
+         UKP70.50 incl VAT) may have the answer, in the form of your
+         chance to sit the 90-minute Linux Professional Institute
+         certification test without paying the usual $100 fee. As well
+         as the usual crowd-pleasing sessions on MySQL, the Linux
+         kernel (version 2.4) and how to secure your network before
+         somebody else does, the event also evokes the "free - as in
+         admission" philosophy, and throws its doors open to the non-
+         paying public for the Linux Printing Workshop on Friday am
+         plus the "exhibition" part of the show all day Saturday and
+         Friday afternoon. Exhibitors include IBM, SuSE, Debian,
+         Borland, the PlayStation 2 Linux roadshow folks, discounted
+         books from O'Reilly, ideologically sound heckling from the
+         Association For Free Software and someone from NTK shamelessly
+         selling Adminspotting shirts out of the back of a transit van.
+         http://www.ukuug.org/events/linux2002/
+         - same day as http://www.desktoplinux.com/news/NS3432021257.html
+         http://www.lpi.org/p-sample-101.html
+         - just pick the first multiple-choice option each time?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         No, no, you're wrong. This isn't another Elite-obsessed
+         tracking. This is a perfectly normal, 3D starmap-obsessed
+         tracking. Chris Laurel's CELESTIA is a 3D space simulator
+         for Windows, Linux and MacOS X. Zoom around the solar
+         system, lock step with planetary orbits, marvel at various
+         NASA-sourced textures, go on time-accelerated jaunts to over
+         100,000 stars, play around with the built-in scripting
+         language. Then install the MOSTLYHARMLESS extension, which
+         contains a gravity and thruster simulation so you  can orbit
+         semi-realistically around Jupiter, thrust over to Abraham
+         Lincoln space station above Earth, hyperspace off to Lave
+         (Elite star systems included), prepare to battle Thargoids
+         in... oh, I've blown it again, haven't I.
+         http://www.shatters.net/celestia/
+                  - set the Tools/Select menu to the heart of the Sun
+         http://mostlyharmless.sourceforge.net/
+         - "To create a free Elite like space game based on Celestia."
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         http://www.popgossip.fsnet.co.uk/mainpage.html vs THE ONION's
+         http://www.theonion.com/archive/archive_harvey.html (or indeed
+         http://www.bazing.co.uk/index.php?page=article&id=53 )...
+         ANOTHER.COM reveals its unsuspected Republican sympathies:
+         http://www.another.com/domain_wizard.jsp?searchString=fart ...
+         tackling the tricky matter of involuntary FPS sexual arousal:
+         http://www.misterstick.com/aboutmusic/cs.shtml ... where
+         wasting resources isn't just encouraged - it's compulsory!:
+         http://www.uswaternews.com/archives/arcsupply/2somhom6.html
+         ... hate to see what their non-simplified ordering looks like:
+         http://www-3.ibm.com/ibm/easy/eou_ext.nsf/Publish/2174 ... BBC
+         now recruiting graphic artists from http://b3ta.com/ forums:
+ www.bbc.co.uk/news/media/images/38087000/jpg/_38087323_becks_owen_prayer.jpg
+         ... MARKOV the beast: http://www.fourteenminutes.com/fun/words/ ,
+         http://www.sincity.com/penn-n-teller/pcc/shaney.html ... real
+         space cadets, the BLUNKETTS: http://qwer.org/020621blunk.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "Are telephone polls a rip off? Call 0900 1447705 for
+         'yes', 0900 1447706 for 'no'" requests the reality-programme
+         special of rebranded-Right-2-Reply THINK TV (7.30pm, Fri,
+         C4)... Debbie Reynolds returns for an extra-camp edition of
+         WILL AND GRACE (9.30pm, Fri, C4)... and tonight's late-night
+         arthouse three-way sees Marilyn Monroe explaining relativity
+         to Albert Einstein in INSIGNIFICANCE (12.20am, Fri, BBC2),
+         John Malkovich discovering it's no holiday in Cambodia in THE
+         KILLING FIELDS (2.20am, Fri, C4), and the reassuringly
+         unambiguously titled DARKMAN III: DIE DARKMAN DIE (12.15am,
+         Fri, BBC1) - a sequel-naming trend which never quite caught
+         on: "Jean de Florette II: Die Jean de Florette Die"... C4
+         investigates THE CURIOUS CASE OF INSPECTOR CLOUSEAU (6.50pm,
+         Sat, C4), hopefully touching on how films like THE PINK
+         PANTHER (7.55pm, Sat, C4) could once have been hailed as comic
+         masterpieces, yet are now basically unwatchable... Sarah
+         Michelle Gellar and Jack Black host, but the skits and offbeat
+         live numbers remain the highlights of the MTV MOVIE AWARDS
+         (2.40pm, Sun, C4)... rappers Ice T and Coolio go toe-to-toe
+         with an earth-threatening asteroid on JUDGEMENT DAY (9pm, Sun,
+         C5)... and the "Xenon 2: Megablast" theme is still the best
+         bit of John Carpenter's ASSAULT ON PRECINCT 13 (11.30pm, Sun,
+         BBC1)... STRIP NOTES (12.10am, Sun, C4) is an added-nudity
+         electronic press kit for Daryl Hannah's "Dancing At The Blue
+         Iguana" movie - of which more later... TJ Hooker cedes C5's
+         prestigious weekday morning slot to MAGNUM PI (11am, Mon-Fri,
+         C5)... Rutger Hauer's BONE DADDY (9pm, Mon, C5) gets its now-
+         annual outing - last shown June 2001 and June 2000... and
+         A THOUSAND ACRES (12.10am, Mon, C4) is basically King Lear, on
+         a farm... the best movies continue getting shunted off to the
+         early hours - YOUNG FRANKENSTEIN (1.45am, Tue, C4), REVENGE OF
+         THE NERDS (3.35am, Tue, C4) - leaving primetime to tame
+         Jennifer Aniston gay "Friends" dilemmas like THE OBJECT OF MY
+         AFFECTION (9pm, Thu, ITV), and A NIGHTMARE ON ELM STREET 2:
+         FREDDY'S REVENGE (10.05pm, Wed, C5) - preceded just the other
+         week by "Nightmare On Elm Street 3: Die Nightmare on Elm
+         Street Die"... SECRET HISTORY: MAGIC AT WAR (9pm, Thu, C4)
+         appears to cover the work of WW2 illusionist Jasper Maskelyne
+         instead of actual weapons-grade witchcraft... but still ought
+         to be an improvement over the famously disappointing GODFATHER
+         III: DIE GODFATHER DIE (9pm, Thu, C5)...
+
+         FILM>> so it doesn't actually have any of the "Friends" cast
+         in it, but in every other respect it might just as well have
+         been called "The One Where Phoebe Tries Dating Women" rather
+         than the somewhat less self-explanatory KISSING JESSICA STEIN
+       ( http://www.screenit.com/movies/2002/kissing_jessica_stein.html :
+         a miscellaneous character shows some cleavage; it's possible
+         the film could encourage some women on the fence to experiment
+         with lesbianism)... otherwise - with the possible exception of
+         Keanu Reeves/Diane Lane inner-city Little League feelgooder
+         HARDBALL ( http://www.capalert.com/capreports/hardball.htm :
+         toilet comment with anatomical reference; vulgar rap music in
+         background) - it's a week of fairly cheap thrills, thanks to
+         rumoured Heather Graham/ Natascha McElhone nudity in cheesy
+         London-set erotic thriller KILLING ME SOFTLY (imdb: based-on-
+         novel/ bondage/ sexual-obsession/ cover-up/ dangerous-love/
+         desire/ dominance-submissiveness/ domination/ duplicity/
+         masochism/ mountaineer/ murder-mystery/ obsession/ obsessive-
+         love/ sabotage/ sadism/ sadomasochism/ sex-game)... or plenty
+         of the real thing in the partly-improvised remake of Demi
+         Moore's appalling "Striptease", DANCING AT THE BLUE IGUANA
+      ( http://www.cndb.com/movie.html?title=Dancing+at+the+Blue+Iguana :
+         Daryl [Hannah] may have a boy's name, but she has no boy's
+         body; [Jennifer Tilly] exposes both her breasts and comedic
+         talent in a few scenes)...
+
+         CONFECTIONERY THEORY>> "The packet says 'fruit-shaped gums'
+         rather than 'fruit-flavour gums'. And well it might, because
+         if you're looking for flavour you'd be better off chewing
+         bacon fat", reports STUART CAMPBELL of ROWNTREES FRUIT RUSH
+         (30p/bag), part of a hail of invective which also takes in KP
+         TICKLE PICKLE "PUFF MELT" SKIPS - "bigger and lighter than
+         normal Skips, which makes them a bit chewy, as if they were
+         past their sell-by date. Taste mostly of air" - and BUZZ BOLT
+         "CRUNCH MELT" BACON FLAVOUR SKIPS - "slightly harder and
+         crunchier [...] taste like the long-forgotten Rancheros"...
+         but Stuart, like so many of you, saved his sternest criticism
+         for this month's ultimate Taste Abomination, DIET COKE LEMON:
+         "0:01 - Mm, it's Coke, but with a fresh lemony twist!", he
+         timelines. "0:04 - ACK! It's *Diet* Coke with a fresh lemony
+         twist. Blergh". "Really, really disgusting", agreed LAURENCE
+         FILLMORE, "like fizzy lemon juice with a twist of Coke", while
+         both PHIL WHITE and DAN BURGESS compared it to "Pledge" lemon-
+         scented furniture polish - though Dan found it "less
+         repulsive" after drinking 12 cans in one evening (he had
+         "bought it on sale and refused to throw it away"). We assume
+         he's still talking about Diet Coke Lemon rather than Pledge
+         Furniture Polish but, if not, maybe he's onto something...
+         there was a more even-handed response to the summer's other
+         new snacks: "KFC's new 'Pocket' is a (more portable) variant
+         on the Twister", related EDWARD AVIS, going on to describe its
+         sour "Caesar dressing" which "makes it taste like sick - even
+         coming with authentic square chunky bits which turned out to
+         be 'croutons'. I ate it anyway". And we actually quite enjoyed
+         the acidic tang of HULA HOOP SHOKS (48p per Borg-style cube),
+         despite - or perhaps because of - reader DAVE EVANS'
+         protestations that they're "the worst tasting things you have
+         put in your mouth in a long time [...] The Sauce flavour
+         tasted like burnt Chinese food" - and that appeared to be his
+         favourite of the three... but Snack-Spotter Of The Month was
+         CHRIS HEATHCOTE, who found the following South African imports
+         in his local corner shop: SMARTIES IN MILKYBAR CHOCOLATE (49p,
+         "intense excitement at all the colours in the white bar"), and
+         MILKYBAR JELLY TOTS (also 49p, "an unreal texture explosion,
+         with a few scary moments, and intense tot juiciness combine to
+         make the most palatable Milkybar yet"). And totally different
+         to the US standard MILKYBAR: MILK AND COOKIES variant as well:
+         http://www.cybercandy.co.uk/search/indprod.php?xlc=622 . As
+         ever, we await your reactions to: ROWNTREE'S FRUITSOME CEREAL
+         BARS, MASTERFOODS' CRISPY M&MS and, long held by this column
+         to be the "Holy Grail" of dairy produce, WHITE SODA CARBONATED
+         MILK: http://www.bevnet.com/reviews/whitesoda/ ...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                          "klogmuters and krechtsers"
+            http://cheerleader.yoz.com/archives/000019.html#000019
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

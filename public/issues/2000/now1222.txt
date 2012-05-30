@@ -1,0 +1,352 @@
+
+	(We're on some sort of "vacation" this week. See you on the Dark Side.)
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-12-22_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Hackers are smart. If you say to users 'watch out for this 
+          time of year,' the hackers will wait until right after this
+          time of year..." 
+           - the clued-up GRAHAM CLULEY, senior technology officer, Sophos
+           [ http://www.zdnet.com/zdnn/stories/news/0,4586,2665640,00.html ]
+          ...But the hackers, being smart, know that I know that they will
+                 wait until right after this time of year, and so when you 
+                say "watch out for this time of year", they will attack at 
+               this time of year to take me by surprise. But now they know 
+                  that I know that they know this, which means - hey, what 
+                                               happened to our mailserver?
+         
+
+                                >> HARD NEWS <<
+                                 logged yules
+
+         It's almost Newtonmas, and time to provide a list of gift 
+         ideas for the more difficult members of your extended online 
+         "family". First up, congratulations to those who cracked the 
+         ideal present for self-righteously smug weekly high-tech 
+         updates for the UK. After our revelation of the contact 
+         address for anally-obsessed plebiscite WWW.AGEOFCONSENT.ORG.UK 
+         [NTK 2000-12-08], imagine our delight when a viral e-mail 
+         mutated into an accusation that *we* were the sinister Web 
+         experts behind Baroness Young's inquisition. For the last 
+         week, we've been the happy recipients of demands to remove 
+         personal details from our sickeningly prejudiced poll, sent by 
+         people who can't be bothered to read past the first three 
+         lines of www.ntk.net. Unsurprising gift-givers included a 
+         fistful of AOL users, and Emma Warren - who is, entirely 
+         appropriately, the "Hype Editor" at The Face Magazine. Those 
+         wishing to remove themselves from this growing database of 
+         gullible, knee-jerk activists should contact us at the usual 
+         address. Those still wishing to complain to real creators of 
+         the Age Of Consent site should skip all these long words, and 
+         click on the URL at the end of this piece. God bless you all.
+         http://www.dhmo.org/facts.html
+         - or protest to your MP about this "invisible killer"
+         http://www.ntk.net/?back=2000/now1208.txt#HARD_NEWS
+         - had it been oral sex, we'd have got way more coverage
+           
+         Of course, there's one gift every gentleman appreciates: 
+         compliments about the size of his genitals, distributed to 
+         around 4 million readers. And so to Cliff Stanford and his  
+         seasonal first-time appearance in the kiss-gargle-dettol-and-
+         tell News of the World. Accompanied by a paparazzi snap of 
+         Cliff and two "strippers", the piece related in appetite-
+         removing detail the ex-Demon founder's saucy antics, as told 
+         to the paper by Natalie Turner, 24. Despite Cliff's 
+         insouciance at his notoriety (as expressed in a Guardian 
+         follow-up piece), there's no indication whether the NotW are 
+         planning further reports on the "demon lover"'s adventures, 
+         assuming their disk quota is up to it. We'll settle for the 
+         comments of our most cynical correspondents; that the bit they 
+         found hardest to believe was where Cliff actually paid for the 
+         champagne. 
+         http://www.newsoftheworld.co.uk/news/4119778
+         - "I don't normally post to demon.local, but after I met..."
+     http://www.mediaguardian.co.uk/newmedia/story/0,7496,413407,00.html
+         - look, if the Guardian covers it, it must be real news
+            
+         Sadly, the perfect present for KEVIN WARWICK didn't quite make 
+         it out the labs. One of the ideas mooted for the webcast of 
+         this year's Royal Institution Christmas Lectures involved 
+         affixing a wireless "KevinKam" to the side of the man-machine 
+         symbiont's head. Thrilling though the chance to see the world 
+         through Kevin's eyes would be (complete, we imagine, with 
+         scrolling 6502 assembler and reminders to Serve The Public 
+         Trust), the sudden realisation that this would make him look 
+         *exactly* like KWW's "Reading of Warwick" droid appears to 
+         have stayed Kevin's augmented hand. Rumours that the project 
+         was nixed because it would provide viewers with one media 
+         channel guaranteed free of Warwick's own image are to be 
+         discounted. Repeat, discounted.
+         http://www.kevinwarwick.org.uk/
+         - ...yes, yes, mirrors. Move along.
+         http://www.ntk.net/2000/12/22/dohanano.gif
+         - my beautiful creation... nothing but - a machine!
+
+         And finally, for the Webmaster who has everything, except 
+         maybe the latest security patches: subscriber Drage (who "can 
+         neither condone nor endorse website defacing") points to the 
+         latest stunt of regular Web hax0r EVIL ANGELICA: personalised 
+         Web vandalism. Mail webhack_competition@cow-tipper.com with a 
+         zipped archive of the message *you'd* like to convey to a 
+         loved one, and next time EA is trashing a valuable piece of 
+         dotcom-property, she'll insinuate your message onto their 
+         front page for free. No guarantee is given for the location of 
+         the takeover, but it might be sensible to request that no .mil 
+         sites be involved. Last date for Christmas gr33tz is tomorrow, 
+         so throw away the spellcheck and start bouncing on that shift-
+         key now.
+   http://defaced.alldas.de/hacked/2000/12/22/www.accessallfinance.co.uk/
+         - accessallareas, more like (ho ho ho)
+         http://observers.net/angelica.html
+         - slapstick violence, partial animated nudity, potty humour
+
+         
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         IRAQ buys 4000 PS2s: www.ananova.com/news/story/sm_148960.html ;
+         TESCO simultaneously obtain 2500 from a "secret location": 
+         http://www.ananova.com/news/story/sm_149263.html ... "The 
+         older the boy, the more likely he was to have had sex", finds: 
+         http://www.cnn.com/2000/HEALTH/children/12/20/health.sex.reut/ 
+         ... DEJA.COM reverts to Usenet archive... right Millennium, 
+         wrong CENTURY: http://www.101cd.com/orev01.asp?s=&title=800925 
+         ... your licence fees at work (again) - challenge is to create 
+         your own HTML pages in the URL that it'll serve back to you: 
+         http://www.bbc.co.uk/webguide/servlet/start?pathinfo= ... all 
+         mail to one-news@webfusion.co.uk cc'd to 25,000+ WEBFUSION 
+         customers... jovial disclaimer: http://www.baileys.com/ vs 
+     http://imagine.cammail.net/gencert/gencert.pl?name=Getting+Shitfaced
+         ... http://www.dvdplus.co.uk FALCO - who'd have seen that coming? 
+     http://www.guardian.co.uk/internetnews/story/0,7369,380864,00.html
+         ... can't TRUST this: http://www.ntk.net/2000/12/22/dohtrs.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         "Now, where have I seen that before?" writes YOZ GRAHAME, of 
+         the parody ADSL banner we ran a couple of weeks ago. "Oh yes, 
+         at http://yoz.com/party/ ". After the problems we had with the 
+         "ageofconsent" site [see above], we feel we should emphasise 
+         that the info on Yoz's site should _not_ be confused with the 
+         details for the OFFICIAL NTK/ LONDON 2600 NEWTONMAS SOIREE, 
+         which has now been confirmed from 5pm-11pm, Sat 2000-12-23, at 
+         the "Webshack" cybercafe, Dean St, Soho (and if you do somehow 
+         turn up in Hendon in July 1998, you really deserve everything 
+         you get). Those seeking a respite from Christmas shopping (or 
+         any other aspect of their lonely, pointless lives) are invited 
+         to join us for a glass of mulled cola and premiere viewing of 
+         some new T-shirt designs, with additional entertainment in the 
+         form of an acoustic set from MJ HIBBETT (the "Hey Hey 16K" 
+         guy); "tribute DJ" act SLIMBOY FAT (who plays all the same 
+         records that Norman Cook would, in the *same order*); plus some 
+         sort of net quiz that London 2600 are organising, possibly 
+         entitled "Who Wants To Dump A Million Shares?". 
+         http://www.daveg.dial.pipex.com/menu.html
+         - "R: Tape Loading Error": Unplugged
+    http://www.streetmap.co.uk/streetmap.dll?grid2mapi?x=529633&y=181174
+         - Yoz beats us to the amusing "CERT Advisory" invite, too
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         DOPEWARS has been sitting in the Tracking slush tray for far 
+         too long: a simple text-based depiction of street-level drug 
+         dealing, it started out as a crack-level-addictive single-
+         player DOS game, and has now spread, via its more addictive 
+         multiplayer version, to the affluent suburbs of Linux, Win95 
+         and Palm. We've always postponed plugging it on the grounds 
+         that everybody seems to be habituated already: thanks then to 
+         underground code-chemist SHANNON LEE, who has customised the 
+         server for a more decadent age. Download the original, play 
+         until you've had it with puny chemical highs, then point your 
+         client to commonhouse.net, port 7902. Jet to it!
+         http://bellatrix.pcl.ox.ac.uk/~ben/dopewars/
+         - the first hit...
+         http://www.beermatsoftware.com/dopewars/
+         - ...is always free
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         INFORMATION *seems* to be free, whether it wants it - or not: 
+         http://www.cyberpunkproject.org/lib/ ... from the upcoming DR 
+         WHO COOKBOOK: http://www.chthonic.f9.co.uk/stavros.jpg ... Zoe 
+         Ball beats DEBIAN to Woody release... (now expired) RSA patent 
+         number - 4,405,829 - is PRIME... *our* Christmas Number 1: 
+         http://www.diffusionuk.freeserve.co.uk/bob.htm ... crazy CATS: 
+         http://www.linguafranca.com/print/0012/cover_pet.html vs 
+         http://www.schizophrenia.org/artist.html ... CHRISTIAN Mills & 
+         Boon: http://www.nubianromance.com/ ... BUSH still updating 
+         http://www.satirewire.com/weblog/bushblog.shtml despite 
+         "demands" of new job... best viewed with a PORN-enabled 
+         browser: http://bugzilla.mozilla.org/show_bug.cgi?id=32627 ... 
+         caution - Freedom: First Resistance may "kill your monitor": 
+         http://www.oldmanmurray.com/longreviews/freedom/ ... STAN LEE 
+     http://www.fuckedcompany.com/comments/index.cfm?newsID=5166790629
+         in trouble - could maybe sue BT CELLNET for use of Silver 
+         Surfer-like character in TV ads?... BBC imitates TVGOHOME: 
+         http://www.bbc.co.uk/choice/microtv/fifteen/15films3.shtml ...
+
+
+                                >> GEEK MEDIA <<
+                     oops, forgot last week's www.tvgohome.com
+
+         TV>> disappointingly, Absolutely Fabulous reunion/remake 
+         MIRRORBALL (9pm, Fri, BBC1) isn't a big-budget version of the 
+         similarly titled C4 series which profiled pop video directors 
+         like Chris Cunningham and Spike Jonze - though it does feature 
+         an aspirationally omnipresent composite called "Cat Rogers"... 
+         C4 reasserts its claim to the Orwellian namespace with a back-
+         slapping tribute to its own "broadcasting phenomenon", BIG 
+         BROTHER NIGHT (from 9.05pm, Sat, C4), though viewers with any 
+         sense will be voting for top cop drama LA CONFIDENTIAL instead 
+         (9.05pm, Sat, BBC2)... and perhaps inspired by the baffling 
+         scheduling of TIM BURTON'S THE NIGHTMARE BEFORE CHRISTMAS 
+         (11.20pm, Sat, ITV) - presumably they thought it was a Freddy 
+         Kruger film - it's a weekend of non-stop harrowing action and 
+         horror, including Primal Scream beatnik chase VANISHING POINT 
+         (11.55pm, Sat, BBC2), super-compatible computer virus shoot-
+         em-up INDEPENDENCE DAY (8.30pm, Sun, BBC1) while, seeing in 
+         Christmas morning with a bang, there's psychic-kid-killer 
+         thriller THE FURY, turgid plane crash agony FEARLESS (1.10am, 
+         Sun, ITV), Steve Martin mental-illness-comedy MIXED NUTS 
+         (1.10am, Sun, C4), and something called EXPERIMENT IN TERROR 
+         (12.45am, Sun, C5)... the fun continues on Christmas Day in 
+         extended working class massacre TITANIC (5.45pm, Mon, BBC1), 
+         Eastwood stalker classic PLAY MISTY FOR ME (10.30pm, Mon, 
+         BBC2) and psycho classical music mayhem HILARY AND JACKIE 
+         (9pm, Mon, C4)... with the mood lightened only by NAKED GUN 2 
+         1/2: THE SMELL OF FEAR (11.50pm, Mon, BBC1), THE LAST FAST 
+         SHOW EVER (9ish, Tue-Thu, BBC2), plus disappearing Ed Burns' 
+         THE BROTHERS MCMULLEN (12.10am, Mon, BBC2) and SHE'S THE ONE 
+         (9.55pm, Tue, BBC2) - possibly based around the Waterboys song 
+         subsequently covered by Robbie Williams, or vice-versa... 
+         
+         FILM>> Leoni - quirky! Cage - wigs out! in pedestrian "It's A 
+         Wonderful Life" alternate-reality knock-off THE FAMILY MAN 
+         ( http://www.screenit.com/movies/2000/the_family_man.html : We 
+         see [Tea Leoni's] mostly obscured body through the smoked 
+         shower glass door, but can easily see the shape of her body, 
+         including her breasts when she turns sideways. She then opens 
+         the shower door and [Cage] averts his eyes after seeing her 
+         nudity - we don't see anything but her head and shoulders) - 
+         not based around the Mega-City Judge code-phrase or "The 
+         Family Guy" animated series; though, as Entertainment Weekly 
+     http://www.ew.com/ew/archive/1,1798,1|30064|0|family_man,00.html
+         astutely points out, the poster does seem to be peculiarly 
+         influenced by "The Exorcist"... so, there's just time for our 
+         painstakingly selected round-up of NTK's Top Ten Movies Of 
+         2000 That We Thought Probably Wouldn't Appear In Anyone Else's 
+         Top Tens: 10. GONE IN SIXTY SECONDS, 9. FINAL DESTINATION, 8. 
+         THE INSIDER, 7. CHARLIE'S ANGELS, 6. ROAD TRIP, 5. AMERICAN 
+         MOVIE, 4. PITCH BLACK, 3. BRING IT ON, and 2. GALAXY QUEST - 
+         making our film of the year, of course, modern-day "man-whore" 
+         comedy classic DEUCE BIGALOW: MALE GIGOLO... with a special 
+         mention for the following films that we didn't see, but which 
+         everyone says are great: THE FILTH AND THE FURY, LAKE PLACID, 
+         POKEMON: THE FIRST MOVIE, and MEMENTO (we don't _remember_ 
+         seeing this one, but it definitely has Carrie-Anne Moss in it) 
+         - plus RED PLANET (which we did see, and was terrible, but has 
+         Carrie-Anne Moss in it)... so it only remains to name and 
+         shame this year's big-screen disappointments (in no particular 
+         order): AMERICAN BEAUTY, AMERICAN PSYCHO, TOY STORY 2, NEW 
+         ROSE HOTEL, ERIN BROCKOVICH, BEING JOHN MALKOVICH, MISSION TO 
+         MARS, MISSION: IMPOSSIBLE 2, THREE KINGS, GLADIATOR, HIGH 
+         FIDELITY, X-MEN, SHAFT, THE HOLLOW MAN, anything made and/or 
+         set in the UK, plus the widely unacclaimed BATTLEFIELD EARTH: 
+         http://www.lermanet.com/reference/BatEarthfaq2.htm . No-one 
+         ever sent us an Icelandic VHS of the Mitnick movie TAKEDOWN 
+         either, come to think of it... 
+         
+         CAUTION, MAY CONTAIN TRACKS BY COLDPLAY>> ie our traditional 
+         end-of-year round-up of free magazine CDs - excellent low-cost 
+         gift ideas which, when you factor in online time, price of 
+         burning blank gold discs etc, are fast becoming the only ones 
+         that are vaguely worth buying. Q MAGAZINE's typically pompous 
+         "The Best Tracks From The Best Albums Of 2000" (UKP2.90) sets 
+         a high benchmark, with a decent dance mix of U2's "Beautiful 
+         Day", The Bloodhound Gang's porn tribute "The Ballad Of Chasey 
+         Lain (Bloodhound Gang Mix)", something bearable by Toploader, 
+         and Johnny Cash's jaunty country cover of U2's "One" (which, 
+         as readers DAVID MCNICOL and MARTIN LING have pointed out, is 
+         almost note-for-note identical to Craig David's "I'm Walking 
+         Away" - McNicol theorising that no-one else has mentioned this 
+         "in order to encourage the continued rise of UK Garage into 
+         popular culture"). KEVIN CECIL also spotted that Q's Radiohead 
+         track isn't "Idioteque" at all, but something else from Kid A, 
+         the band maintaining their "awkward" reputation to the last... 
+         elsewhere under "Pop and Rock", SELECT (UKP3.60) says goodbye 
+         with an eclectic indie selection including The Lo-Fidelity 
+         Allstars, Kelis (also appears on the Q one), The Fall, the 
+         censored version of Woodbine's rockin-St-Etienne "Neskwik", 
+         The Bloodhound Gang's extended "Relax"-based Falco tribute 
+         "Mope" http://www.ntk.net/?back=2000/now0602.txt&line=244#l , 
+         plus Atari Teenage Riot's "By Any Means Necessary", part of 
+         their ongoing http://www.petitiononline.com/atroasis/ bid... 
+         and TOP OF THE POPS' CHRISTMAS CRACKERS TOP POP PARTY ANTHEMS, 
+         while good value at UKP1.80, is some weird dual-format disc 
+         that didn't play properly in our CD-ROM drive - and it's not 
+         the good version of Daphne and Celeste's "U.G.L.Y" either... 
+         MIXMAG (December)'s LA MUSICA TREMENDA (UKP3.20) easily beats 
+         the rival dance offerings of MINISTRY's DANNY RAMPLING'S 
+         FRIDAY NIGHT HOUSE MIX (UKP3.50) and MUZIK's perhaps over-
+         specific THE CHRONICLES OF HARD HOUSE ACCORDING TO TIDY TRAX 
+         (UKP3.25) - largely by including the occasional track that you 
+         might have heard of - though bear in mind that almost all of 
+         the above (including the Q and Smash Hits ones) compulsorily 
+         include Moby's "Porcelain"... which just leaves the more 
+         specialist curios. Ignore DAZED AND CONFUSED's appalling 
+         "Gorillaz" promo (UKP2.95) - unless you actually enjoy 
+         Nathanic body copy like "Prompted by the war in Kosovo, this 
+         film mixes Run Wrake's surreal animations of people and 
+         violence with a soundtrack by Howie B" (p48). LATER magazine's 
+         THE LATER LOUNGE 2 (UKP3.10) is, according to reader NIGEL 
+         FORD, "not as good" as their first one, and ends up as a 
+         surprisingly gruelling 21-track odyssey of trendy ad music and 
+         obscure spy themes... instead, using the heuristic "the _less_ 
+         trendy the magazine, the cooler the CD" points you towards 
+         ESQUIRE's shockingly interesting MUSIC FOR THE FAST LANE 
+         (UKP3.40) - Underworld, Coldcut, Laurent Garnier etc - and, 
+         finally, UNCUT's reassuringly unfashionable MORE SOUNDS OF THE 
+         NEW WEST (UKP3.50), whose undifferentiated mournful Emmylou 
+         Harris "New Country" wailings might just sum up your seasonal 
+         period only too well...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "Am I self-referential - or what?"
+                 http://www.iamcal.com/ami/index.php?site=ntk        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+      NTK is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

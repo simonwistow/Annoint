@@ -1,0 +1,216 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-08-06_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+        "I had a very rare form of pancreatic cancer called an islet 
+         cell neuroendocrine tumor, which represents about 1 percent of 
+         the total cases of pancreatic cancer diagnosed each year..."
+                         - Steve Jobs, still no closer to cracking that  
+                                         elusive "mass market" audience
+                          http://www.thinksecret.com/news/jobsmemo.html
+
+
+                               >> HARD NEWS <<
+                               Perl hullabaloos
+
+         Last year, DAN SUGALSKI, lead developer of the forthcoming
+         Perl6 virtual machine, Parrot, bet the Python developers
+         that he could run Python faster on the fledgling VM - and the 
+         creator of Python could throw a pie at him at the next OSCON if 
+         he didn't. He didn't; the pie-ing was duly arranged. As
+         everyone knows, while Perlites are chaotic/good trickster
+         archetypes who love such events, Pythonistas are peaceful,
+         have-their-glasses-on-a-little-string types, like hobbits or
+         the Dutch. In the end, Guido van Rossum refused to throw the
+         pie, and instead offered to share it as food with the Perl
+         developers. Nothing, of course, could have been more
+         guaranteed to throw Perlsters into violent rage. An extended
+         period of acrimonious bargaining followed, in which the Perl
+         crew grew more and more insistent that their own chief
+         developer be humiliated, with many walking out of the
+         session, muttering about "all foreplay and no sex". Later,
+         the Perl faction took it upon themselves to pie Sugalski -
+         much, we are sure, to the shock of the pacifistic Pythonese,
+         who may well have planned that using their psychomathematics 
+         and indented whitespace necromancy all along. (Mind
+         you, that didn't stop Guido finally joining in. Feel the
+         punctuation rising in you, Guido!)
+         http://www.sidhe.org/~dan/blog/archives/000372.html
+                                  - Dan gets last laugh later in August
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         ["If you put all the doh's on one big web page", writes KEVIN 
+         BUZZARD, "then we miss all the sarcastic one-liners that you 
+         introduce them with", apparently overlooking the fact that 
+         http://www.dohthehumanity.com/ actually lets us write sarcastic 
+         one-liners of more than 40 or 50 characters if required - 
+         they're the bits in italics just underneath the date - *and* 
+         provide shorter links to any particular highlights into the 
+         bargain: http://xcom2002.com/doh/?s=04072614pic ] ... anyway, 
+         first NTK of the month means Puerile Google Goof time, in the 
+         form of: http://www.google.com/search?q=guv.uk , "in a new 
+         widow", cheesecak, gearshit, "abrasive git", "tights and 
+         responsibilities", "Alan Turning", "muscle spams" plus some
+         deliberate usages but a few reassuringly misguided ones for 
+         "psychically fit"... which just leaves our Widdy of The Week: 
+   http://www.homes.miller.co.uk/error?pkit_error_messages=ANNE+HAS+YOU+NOW
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Camping - frowned upon in virtual deathmatches, yet apparently 
+         all the rage this summer in the so-called "real" world, in the 
+         form of the FOAF CAMP, FRIENDS OF O'REILLY FOO CAMP, RUNME-
+         DORKBOT CITY CAMP, and even an anime WILDERCON CAMP (all 
+         taking place over the next few weeks at various European 
+         universities, except the anime one which starts today at 
+         Ampthill and Woburn District Scout Ground, Milton Keynes). 
+         Check the individual sites for further details, though we've 
+         all seen enough US summer camp movies to be fairly confident 
+         of the basic schedule - happy-clappy songs and toasted 
+         marshmallows round the campfire, giving way to scary ghost 
+         stories as the sun goes down, all about "some blogger" who 
+         forgot to clean the comment spam off his site one time, and 
+         was "gotten" by the terrifying spectre of "Andrew Orlowski".
+         http://www.wildercon.org.uk/
+           - enigmatic apologies for "the situation that has transpired"
+         http://readme.runme.org/
+                  - Dorkbot one runs from August 25th in Arhus, Denmark
+         http://foafcamp.asemantics.org/
+             - FOAF one from August 19th, at Twente University, Holland
+         http://wiki.oreillynet.com/eurofoo/index.cgi
+             - followed by O'Reilly one in same place (invitation only?)
+http://www.theregister.co.uk/2003/04/23/social_software_author_not_miffed/
+              - hey, at least he's thinking about the toilet facilities
+         http://www.dnscon.org/dns7/index2.html
+             - plus: DNSCon 7 *next* weekend, Imperial Hotel, Blackpool
+         http://spacehijackers.co.uk/clp3/
+          - London Underground "party" tonight, if you get this in time
+          
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Programs! Programs that write programs! Are the luckiest
+         programs in the world! HTTP::Recorder is a Perl module that
+         sits as a proxy between that goddamn impossible-to-scrape
+         website and your browser, converting all your mad clicks and
+         form-filling into short Perl WWW::Mechanize scripts. It
+         don't do Javascript, but it do do https, thanks to a neat
+         little control panel that performs https proxying via a URL
+         window. The panel also lets you see script fragments update
+         in glorious realtime-o-vision. So if *your* grown-up pride
+         is hiding all the need (to write the boring bits of a
+         scraping and/or website testing code) inside, perhaps you
+         should consider using HTTP::Recorder.
+         http://www.perl.com/pub/a/2004/06/04/recorder.html
+                          - make sure you get the latest version > 0.03
+         http://search.cpan.org/~MSCHILLI/JavaScript-SpiderMonkey/
+   - and if you had a minute and wanted to implement JS, that'd be nice
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         is it just us, or are cinemas that can't afford night-vision-
+         goggle monitoring for every show now leaving the house lights 
+         up bright enough to fricking *read by*?... US military's "get 
+         the oddest name into a news story" contest continues, with 
+         http://www.theregister.co.uk/2004/07/27/navy_gestapo_server/ 
+         Lt. Bill Clinton recently overtaken by none other than Felicia 
+         Nazelrod: http://news.bbc.co.uk/2/3536588.stm ... open source 
+         software now a threat to even the mighty VisiCalc (pic): 
+         http://www.cnn.com/2004/TECH/internet/07/20/open.source.ap/ 
+         ... reassuringly detailed account of why mi2g has "no sense of 
+         humor": http://Vmyths.com/rant.cfm?id=661&page=4 ... temporary 
+         Photoshopped cover of the month (love the barman's vacant 
+         eyeline): http://www.bbcshop.com/invt/bbcdvd1467&temp=popup 
+         ... new thrill: not sure how to screengrab this, but using BBC 
+         News RSS feeds to watch them rewrite the same story during the 
+         course of the day...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> you know, we somehow suspect that it was a multiple 
+         choice methodology (rather than "cued recall") that led to the 
+         lame "6% Of Young Britons Think Gandalf Defeated The Spanish 
+         Armada" promo headlines for BATTLEFIELD BRITAIN (9pm, Fri, 
+         BBC2): http://news.bbc.co.uk/2/3537162.stm... after the 
+         success of WEAPONS THAT MADE BRITAIN (7.05pm, Sat, C4), you 
+         kind of hope that the presenter would be just as enthusiastic 
+         for a followup series on "Weapons That Britain Made (Then Sold 
+         To Poor Human-Rights Record Regimes)"... and obviously we're 
+         fuzzy on the whole good/bad thing, but Catwoman is *clearly* 
+         depicted as a villain in the original - and best - Adam West 
+         TV movie version of BATMAN (5.15pm, Sat, C5)... WITHOUT A 
+         TRACE (10pm, Mon, C4) continues its fruitless quest to track 
+         down millions of "missing" Channel4 viewers, though the clever 
+         money is going on gorier acquisition NIP/TUCK (10pm, Wed, C4), 
+         helpfully preceded by real-life prurient cosmetic surgery 
+         freakshow MY BREASTS ARE TOO BIG (9pm, Wed, C4)... still, all 
+         credit to them for commemorating next Friday's UK release of 
+         "Doom 3" with a token showing of arthouse road-movie filth THE 
+         DOOM GENERATION (1.45am, next Fri, C4)...
+         
+         FILM>> reader DUNCAN ROBSON points out that the Spanish poster 
+         http://www.cartelia.net/poster/24/yor.jpg suggests "worse than 
+         previously feared levels of jiggyness" for CGI-heavy "Blade 
+         Runner"-lite - and not in a bad way - Will Smith scifi romp 
+         I, ROBOT ( http://www.cndb.com/movie.html?title=I%2C+Robot : 
+         Unlike Will Smith, [Kirstie Allsopp lookalike] Bridget 
+         Moynahan's character can afford frosted glass around her 
+         shower, so what you see is brief and not very clear. But it's 
+         definitely not a double and her body looks great) - as NTK's 
+         LEE MAGUIRE notes, the "real" US Robotics are much choosier 
+         about their product placement than you might have thought: 
+         http://www.hexkey.co.uk/lee/log/2004/05/13/ ... other than 
+         that, who on earth thought that Halle Berry's headgear looked 
+         anything other than completely ridiculous in next week's 
+         CATWOMAN? ( http://www.capalert.com/capreports/catwoman.htm : 
+         risking human life to save a cat; resurrection by the breath 
+         of a cat; cat able to foresee future; much of [Berry's] upper 
+         torso skin, including massive excessive cleavage exposure and 
+         including below-navel skin - front and back, was fully 
+         viewable by every thirteen year old (and younger) in the 
+         audience. Slits and rips of various size in the pants of her 
+         outfit bared even more skin in this, yet another R-13 
+         including much of Berry's buttocks skin)... 
+
+              
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "That's *Senior* Sarcastic Co-founder, if you don't mind"
+http://networking5.eliyon.com/PeopleFinder/PersonDetail.asp?PersonID=38655602
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

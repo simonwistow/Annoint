@@ -1,0 +1,195 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2006-05-05_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                              super-cheap truths
+        
+         Always top of our list of "people we'd like to do keynotes at 
+         a one-day conference if they're ever in the UK" is of course 
+         cyberpunk-pioneer-turned-environmental-agitator BRUCE STERLING 
+         - and, while that hasn't been possible this time around, we've 
+         wangled probably the next best thing: guaranteed places for 
+         NTK readers at a rare London appearance by "Chairman Bruce" in 
+         just 10 days' time. Promising some sort of "snake-handling 
+         cyberculture high-mass complete with chalice of Web 2.0 Kool-
+         Aid", STEALING THE REVOLUTION 2.0 takes place from 7pm, Mon 
+         2006-05-15, in the upstairs room at The Grouse and Claret pub, 
+         14-15 Little Chester Street, London SW1X 7AP (approx 5 mins 
+         walk from London Victoria station), and is completely free if 
+         (and only if) you RSVP to bruces@newstatesman.co.uk with the 
+         subject "I heard about this via NTK" to confirm you can get 
+         in. Not that Bruce has started writing for the New Statesman 
+         or anything, but the event's sponsored by this year's all-new 
+         THE NEW STATESMAN THE NEW MEDIA AWARDS for new "new media" 
+         projects that "benefit society, government or democracy" in 
+         any new (or particularly "new media") way.
+ http://beerintheevening.com/pubs/s/21/2155/Grouse_and_Claret/Belgravia
+                 - "the best pint of Tanglefoot I've had in many a year"
+         http://www.viridiandesign.org/
+    - or pretend to be an NTK reader, there won't be a test or anything
+         http://www.newstatesman.com/newmedia
+             - 8 categories, all free to enter, closing date Wed 31 May
+         
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Yes, we have left it a bit late to alert aspiring geowankers 
+         to this weekend's OPENSTREETMAP workshop to free-map the Isle 
+         of Wight (from today Fri 2006-05-05, based around Newport/ 
+         Brightstone, pay your way for most things but check the wiki), 
+         though there's still time to sign up for the GPS-powered 
+         liberation of the (equally insular?) people of Greater 
+         Manchester next weekend (Sat and Sun, 2006-05-13/14, HQ: 
+         Manchester Digital Development Agency , Lower Ground Floor, 
+         117-119 Portland Street, Manchester M1 6ED - for those who can 
+         still bring themselves to use The Man's "slave postcodes"). 
+         Since ringleader Steve Coast then heads to XTECH 2006: 
+         BUILDING WEB 2.0 (from 9am, Tue-Fri 2006-05-16/19, The Grand 
+         Hotel Krasnapolsky, Amsterdam, somewhere in the region of 
+         $several hundred per person), we're also tempted to propose a 
+         similar collaborative mapping of the streets and canals of the 
+         Dutch capital, just to see how many GPS traces would terminate 
+         in one of the famed "tourist attractions" offered by the city.
+         http://xtech06.usefulinc.com/schedule/speakers
+        - we mean Anne Frank's house and the Van Gogh Museum, obviously
+         http://wiki.openstreetmap.org/index.php/OSM_Workshop
+               - where "grockels" now merely arouse suspicion, not fear
+         http://wiki.openstreetmap.org/index.php/Mapchester
+                               - "Beneath the paving stones - la plage!"
+         http://www.hackhull.com/
+                 - plus, the last ever "Hack Hull" meeting, Fri Jun 2nd
+         http://pbd.lbl.gov/sbconf/
+           - also late to register for Berkeley's Synthetic Biology 2.0
+         
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         overdue return of some "old thrills" #1 - Widdys of the week: 
+         http://www.clikdog.com/3/Errant%20Prime%20Minister_.php , 
+         http://clikdog.com/3/Errant%20Prime%20Minister-thankyou.php 
+         ... navy security not what it was: http://www.rncca.com/ ... 
+         abstract BBC pic: http://news.bbc.co.uk/1/4940250.stm looks a 
+         bit like the profile of chirpy synthetic midget built by JF 
+         Sebastian?... semi-consistently medically-themed Google goofs 
+         o' the month: http://google.co.uk/search?q=gangerous+goods , 
+         http://www.google.co.uk/search?hl=en&q=%22scared+heart%22 , 
+         http://www.google.co.uk/search?hl=en&q=%22beast+cancer%22 , 
+         http://www.google.co.uk/search?q=%22polytheistic+ovaries%22 - 
+         and, big enough for an adult guinea pig to make a nest in: 
+         http://www.google.co.uk/search?&q=%22dental+cavies%22 ... 
+         thanks anonymous Pipex image-hoster, that ought to do it: 
+         http://easyclimatechange.com/ , http://virginclimate.com/ ... 
+         for concerned Americans, "Father Ted/ Coupling" in a nutshell: 
+         http://google.co.uk/search?q=father+ted+obscenity+report ...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         There's something a bit Flintstones Universe about VIM 7.0,
+         the very-nearly-released update to God's Own Editor. Sure,
+         the new features are exceedingly modern, but underneath it's
+         all bare feet and pterodactyls. That's not to say the
+         features aren't useful - or the implementation awesome to
+         behold. When you turn on spell-checking and see a Word-like
+         red squiggle appear underneath your fixed fonts; or have
+         Vim's embedded Ruby interpret itself, and dynamically
+         intellisense object methods as you type; or create a new
+         "tabbed window" on your defiantly Curses terminal: well, it
+         is to giggle. As ever, the magic is turned off by default
+         and buried under weird options (Background spellchecking?
+         Type ':setlocal spell spellang=en_GB', of course), leaving
+         you to pore over :help instead of doing your real job. But,
+         surely, soon, your real job will just be a recorded macro
+         and an embedded MzScheme function or two away, right?
+         http://www.vim.org/
+            - yes MzScheme. First one to port Elisp wins exile to Pluto
+http://cvs.sourceforge.net/viewcvs.py/vim/vim7/runtime/doc/version7.txt
+  - new since this: PHP omnicomplete, a script packaging system (shiver)
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         TV BONERS>> Don't think we can claim all the credit for this 
+         one but, shortly after NTK 2006-03-17's comment about ITV4 
+         ditching "Larry Sanders" and "Dream On", SIMON SANDIFORD-
+         MITCHELL received a response from the channel blaming 
+         "football, boxing and other commitments" for their absence - 
+         both shows have now been largely reinstated in their 
+         traditional any-random-time-after-midnight weekday slots. Hey, 
+         anything that bolsters ITV4's reputation as the UK's very own 
+         "Brilliant But Cancelled" dumping ground is good enough for us 
+         - next week featuring would-be "Silence Of The Lambs: The 
+         Series" THE INSIDE (10pm, Tue), plus "fabricated Americans" 
+         satire GREG THE BUNNY (8pm, Sat) followed by THIS IS SPINAL 
+         TAP (10pm, Sat) - all together now: "I said Spinal Tap *above* 
+         Puppet Show"... 
+         
+         Elsewhere, the BBC battles on with another Stephen "Press 
+         Gang" Moffat episode of the increasingly patchy DOCTOR WHO 
+         (7pm, Sat, BBC1), Doogie Howser MD vs Willow from "Buffy" 
+         flashback sitcom import HOW I MET YOUR MOTHER (7.35pm, Sun, 
+         BBC2), and Julian Fellowes' punctuation-pedantry panel game 
+         NEVER MIND THE FULL STOPS (10.30pm, Thu, BBC4). Still, it 
+         might be worth setting the Freeview box for "Blade Runner"-
+         inspiring architect FRANK LLOYD WRIGHT: MURDER, MYTH AND 
+         MODERNISM (9pm, Thu, BBC4), and/or Irwin Allen's scifi clunker 
+         CITY BENEATH THE SEA (3.35pm, Thu, five), a film whose script 
+         appears the result of a contest to get the name of (fictional 
+         radioactive element) "H128" into almost every other line...
+         
+         Speaking of Freeview, "The 'en' wiki entry for Promise.TV is a 
+         hoot", chuckles HARRY http://xcom2002.com/doh/?s=06050514oth , 
+         but the biggest postbag was inspired by last time's musings 
+         about whether THE APPRENTICE (9pm, Wed, BBC2) really is filmed 
+         at Canary Wharf, as the establishing shots desperately try to 
+         imply. "One of last year's contestants, James Max, said that 
+         the firings take place in a film studio in Acton", confided 
+         GEOFF, but it fell to (another) GEOFF to reveal that "The 
+         boardroom is just (*clatter of disbelief*) a set built in 
+         Westway Studios near Latimer Road tube, [...] referred to by 
+         me and my housemates as 'the building behind our flat' until 
+         we were alerted to the link between the two when we saw our 
+         bedroom window in the backdrop of one of the interviews!" The 
+         area isn't "as gritty and full of urban charm" as it used to 
+         be, Geoff adds http://www.halftone.co.uk/fres/fresmenu.htm , 
+         but then "there wouldn't have been enough Amstrad e-m@ilers 
+         casually dotted about" to make it sufficiently convincing...
+
+          
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last month or might happen next month. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as           
+                  "Yet another example of podcast ignorance"
+           http://blogs.opml.org/tommorris/2006/04/01#When:10:00:34AM         
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2006 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

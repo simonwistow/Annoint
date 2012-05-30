@@ -1,0 +1,350 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-11-23_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                                >> HARD NEWS <<
+                                 under purview
+
+         Well, it's old news that RMS, Linus, and Ken Sakamura (of
+         Alpha Centauri, we presume, like those Star Trek
+         lists-of-three always end) won 100 million yen each, as
+         co-winners of the 2001 Takeda Award for
+         Techno-Entrepreneurial Achievement for Social/Economic
+         Well-Being. Understandably, everyone's very pleased :
+         "Richard Stallman will have a Happy Thanksgiving this year",
+         chimes in USERLAND's Dave Winer, delighted as ever at
+         someone else's good fortune. But, Winer argues, it's all
+         very well these charitable foundations giving out cash to
+         their own kind, but when will they start forking over to the
+         people who really deserve financial support - profit-making
+         companies? Well, not profit-making, maybe, but - yeah, like
+         the man says, how about Sourceforge? They sure could do with
+         some free cash, if only to reward those selfless
+         shareholders. And allow us to ask the question Winer leaves
+         unspoken but ever present: where, exactly, is *Dave's*
+         money? As he says, RMS hasn't really pushed the envelope,
+         has he? That whole free software thing, some sort of
+         self-contained extensible editing and development
+         environment, an airy-fairy C compiler technology, all
+         envisaged, written and given away for free. Whereas Dave has
+         designed an entire scripting language, for which he asks
+         just a small stipend to purchase. Also, he updates his
+         Website every day. And XML-RPC. He made that up. That's got
+         to count for something, hasn't it? SO WHERE, PEOPLE OF THE
+         WEB, IS DAVE'S FREE MONEY? Thanks for listening.
+         http://scriptingnews.userland.com/backissues/2001/11/21
+                                                            - thanks
+         http://www-tech.mit.edu/V121/N59/59stallman.59n.html
+                                                     - really, thanks
+         http://www.ntk.net/2001/11/23/dohgpl.jpg
+                                                         - no, merci!
+
+         Last days before the Anti-Terrorism, Crime, Security, and
+         Bad, Bad People Bill: in particular, this Monday is the
+         Commons debate on the retention of communications data
+         sections. To recap: currently, ISPs aren't allowed to store
+         data for longer than it's useful in billing. The new law
+         will allow them to do so, for the specific purpose of
+         allowing the authorities to access it in any criminal
+         investigation. As is always the case, the last few days have
+         exposed a clutch of last minute gotchas in the proposed law.
+         The Tories are proposing an amendment that will attempt to
+         ensure that no data will be "disclosed to any private
+         individual or organisation without responsibilities for
+         national security." A nice idea, which means that not even
+         the owner of the traffic data will be able to see what's
+         held on them. And did we say ISPs will be keeping this data?
+         Oh, sorry, we mean "a person who provides a postal service
+         or a telecommunications service". By the legal definition of
+         telecommunications service, you'll be pleased to know that
+         your P2P file-sharing client falls into that category. Hope
+         you're keeping those logs nice and neat for the kindly
+         policeman.
+         http://cryptome.org/uk-atcs.htm
+                               - thanks to london2600 for the headsup
+
+         It's like watching the entire history of representational art 
+         repeating itself in microcosm; this week in the BBC NEWS 
+         ONLINE graphics department, a breakaway group renounced the 
+         psychedelic extravagances of "TV Set Displaying The Demon 
+         Headmaster's Photoshop Plug-in Struggles To Leap Over A Bit-
+         Spitting Mission-Impossible-Type-Fuse - None Of Which Explains 
+         The Blue Chef's Hat On The Left" (as nominated by reader Tom 
+         Anderson): http://makeashorterlink.com/?B2B721E2 . Instead, 
+         this new faction advocate a Dogme-style literalism in their 
+         work, epitomised by their illustration of the story "Barclays 
+         in money laundering probe" with the crude still-life "Laundry 
+         Basket, Next To Some Money" (nominated by Gordon Joly): 
+  http://news.bbc.co.uk/hi/english/business/newsid_1665000/1665474.stm .
+         The trend then peaked in Tuesday's starkly uncompromising 
+         "Entrepreneur, With Head Pointing Down", for the caption 
+         "Entrepreneurs are keeping their heads down" (Mike Butcher): 
+  http://news.bbc.co.uk/hi/english/business/newsid_1665000/1665312.stm .
+         Keep those submissions coming and maybe we'll hand out an 
+         "Online Turner Prize" or something - we've had a few from 
+         other sites as well, but we're proud to say that, for the 
+         moment at least, BBC Online continues to lead the world. 
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         sure electro jazz sounds terrible, but is it technically a
+         "war crime"?: http://www.ntk.net/2001/11/23/dohcrime.gif ...
+         "blah blah blah terrorists to blame - you get the idea":
+         http://www.pm.gov.uk/evidence.htm ... at least 4 vacancies:
+         http://www.ntk.net/2001/11/23/dohcnnjob.jpg ... "see the
+         difference when infrastructure starts with you?", asks HP ad:
+         http://www.ntk.net/2001/11/23/dohhp.gif ... JONATHAN KING
+         "more interested in finding, helping and breaking talent"
+         reassures: http://www.kingofhits.com/pages/money.html ... AMMO
+         CITY joins forces with own Flash-crazed web designers in
+         clearly-not-doomed opportunity to spam 100,000 "receptive
+         opinion formers": http://b2b.ammocity.com/ ... do come back on
+         10th January 2000: http://www.webtech2000.co.uk/ ... POWs
+         looking well: http://www.ntk.net/2001/11/23/dohprison.jpg ...
+         "Compare our prices with the High Street - damn!", advise
+         EMPIREDIRECT: http://www.ntk.net/2001/11/23/dohprice.jpg ...
+         curse of the inadvertently inserted millions strikes again:
+         http://uk.news.yahoo.com/011120/80/cg355.html ($530 = "374.6
+         million pounds")... http://www.september11th.co.uk/ points to
+         ... http://www.jesusfuckingchrist.com/ points to... ANANOVA -
+         see me after class: http://www.ntk.net/2001/11/23/dohano.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         It's surely IT journalism's "Wedding Of The Year": Ben
+         Hammersley and Anna Soderblom, both of whose contributions to
+         the "Times Interface" parish have been so often celebrated in
+         these pages, are to marry this weekend in a private ceremony.
+         It is hoped that, in keeping with "Interface" tradition, at
+         least some of the vows and speeches will consist of verbatim
+         recitals of press releases that turned up in the post that
+         morning. And if you weren't invited either, why not take the
+         opportunity to start work on your cheap and shoddy costume for
+         this year's inaugural SANTACON UK (Sat 2001-12-15, London,
+         one-size-fits-all suits available from Woolworths from
+         UKP9.99)? The aim is to reclaim the pagan Christmas spirit by
+         getting 100 people dressed as "Saint/Old Nick" to drunkenly
+         stagger around the streets and shopping centres, on the
+         understanding that any attempt to arrest them on public order
+         offences might be massively traumatic for any kids who are
+         watching. Ho ho ho, as they say.
+         http://www.santarchy.com/
+                  - mail santacon@hotmail.com for details of UK event
+         http://uk.tombola.com/qxl/
+              - a deliberate double-entendre on "sacks" here, surely?
+         http://www.rhmfoodservice.co.uk/pages/calendar/calendar.htm
+              - National Cranberry Week: Brit version of Thanksgiving
+         http://www.benhammersley.com/
+                                 - relax girls, Dr Keyboard's married
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         "I'm so sorry," wailed Phil Zimmermann, evil mastermind
+         behind PGP and person most likely to destroy the world with
+         his foolish FOOLISH meddling. Well, actually he didn't, but
+         if the Washington Post can make out he was deeply sorry
+         about directly causing Sept. 11th (both the event and the 24
+         hour period itself, we hear), we can play up his recent
+         softening of the whole "you must meet someone face-to-face
+         to sign their key" mantra. These days he, and other
+         cryptorights demigods, consider that an automatic signing
+         bot (who'll sign your key if it knows you live at an e-mail
+         address) might be one of the softening tweaks crypto needs
+         to get it into the hands of everyone. Another bit is
+         software like HUSHMAIL PROFESSIONAL for Outlook 2000, which
+         wraps the whole shebang in an easy to use interface. At the
+         moment Hushmail's playing catchup with the old PGP Windows
+         codebase - and we're still a little cagey about their
+         infrastructure's private key offsite storage angle - but
+         it's a start. Or are we just compromising ourselves in the
+         face of the New World Order? Ah, who cares. As long as we
+         get our distributed porn, warez and tunez stashes encoded,
+         we're happy.
+         http://www.hush.com/solutions/hushmail_professional/
+- we haven't got Outlook2000, but you may have. Send us a proper review!
+         http://www.hush.com/images/diagrams/hushmail-pro-lg.gif
+                               - hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+         http://www.templetons.com/brad/crypt.html
+                                               - zero ui is *good* ui
+         http://www.linuxjournal.com/article.php?sid=5605
+- I've created a monnnnstah!
+         http://www.philzimmermann.com/news-Response_WashPost.shtml
+                                                - a monster for good!
+
+
+                                >> MEMEPOOL <<
+                the warm bit behind the http://www.gagpipe.com/
+
+         retro ringtones: http://arcadetones.emuunlim.com/ ... must be
+         prevented from teaming up with http://aj.hd.org/ - they'd be
+         unstoppable: http://www.rudimentsofwisdom.com/ ... "Accidents"
+         are third most important news category for Russians nowadays:
+         http://english.pravda.ru/ ... so, do you support cookies?:
+         http://128.220.40.178/previous/Fall99/GSNet/Sprpt953.htm ...
+         Dr Manhattan survives again as Ozymandias flees the scene:
+    http://news.bbc.co.uk/hi/english/sci/tech/newsid_1664000/1664447.stm
+         ... phew - who's just been to the SINGAPORE TOILET SUMMIT?:
+http://news.bbc.co.uk/hi/english/world/asia-pacific/newsid_1663000/1663934.stm
+         ... http://www.coolbeauty.co.jp/sh02026.htm subtly imitates:
+         http://www.yoni.com/loverf/vulvaintro.shtml ... while the -
+         apparently for real - http://www.foesreunited.co.uk/ imitates:
+         http://www.seethru.co.uk/zine/features/bullies_reunited/ ...
+         the return of the grassroots do-it-yourself TVGOHOME clones:
+         http://uncertain.org/%7Ekevan/cgi-bin/other.cgi ... pop parody
+         double-bill: http://www.waider.ie/music/lyrics/gdb.html ,
+         http://groups.google.com/groups?q=fat+l33t+spod ... BBC and
+         THE TIMES keeping fairly quiet over their Taliban nuclear
+         document goof: http://alternet.org/story.html?StoryID=11935
+         ... THE ECONOMIST apologises for any inconvenience caused:
+    http://economist.com/printedition/displayStory.cfm?Story_ID=865704 ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "Casablanca", "Alien", "Star Wars" and - of course - "The
+         Matrix" jockey for position in Graham Norton's 100 GREATEST
+         FILMS (9pm, Sat & Sun, C4)... ITV desperately counters with
+         STARS IN THEIR EYES CORONATION STREET SPECIAL (9.20pm, Sat,
+         ITV), apparently including Janice Battersby as Bjork... but
+         always nestling comfortably near the top of our "Top 100
+         Greatest Movies (Or Other Cultural Artefacts) Of All Time",
+         there's surprisingly entertaining Jagger/ Hopkins/ Estevez/
+         Russo body swap sci-fi FREEJACK (9pm, Sun, C5): "Ah, Mr
+         McCandless - good to have you back"... C4's much-hyped RICHARD
+         AND JUDY show is enticingly scheduled in the hotly contested
+         Mon-Fri 5pm slot... DESPERATE MEASURES (11.05pm, Mon, C4) is
+         basically "Die Hard - But In A Hospital"... and never mind
+         Kurt Russell's famous 60-word script, the props budget only
+         seems to have only stretched to two military vehicles in Paul
+         "Event Horizon" Anderson's disappointing SOLDIER (9pm, Tue,
+         C5)... mock nationalist Al "The Pub Landlord" Murray adds an
+         unusually self-referential twist to this year's THE ROYAL
+         VARIETY PERFORMANCE (8pm, Wed, ITV)... in Thu's undercover
+         double-bill, KENYON CONFRONTS (8pm, Thu, BBC1) imitates
+         http://www.fallingcity.com/canary/bio_wertz_thrombosis.htm by
+         showing how to fake your own death , while SLEEPERS (9pm, Thu,
+         C4) pioneeringly infiltrates two opposing factions at the same
+         time - this week: racists and Asian shop-owners... and
+         finally, we don't know how much those hard-hitting posh women
+         know about WHAT NOT TO WEAR (8.30pm, Thu, BBC2), but let's
+         hope it's more than they know about running successful dot-
+         coms: http://www.sun.co.uk/dotcomheroes/ready.html ...
+
+         FILM>> is it just us, or does Robert Redford increasingly
+         resemble a craggy Kirk Douglas impersonator in Tony Scott's
+         flashy "Enemy Of The State" espionage followup SPY GAME
+         (http://www.screenit.com/movies/2001/spy_game.html : Brad Pitt
+         [...] uses strong profanity, ends up romantically involved
+         with [Catherine McCormack], and finds himself set for
+         execution in a Chinese prison)... otherwise it's Anna
+         "Brookside" Friel, Michelle "Dawson's Creek" Williams, Kyle
+         "Dune Guy" MacLachlan and Trudie "Sting's Wife" Styler -
+         together at last! - in intense retro coming-of-ager ME WITHOUT
+         YOU (http://www.cndb.com/ : [Friel] takes a bath with her best
+         friend [Williams] and both girls' breasts are visible;
+         [Williams has] a great pair and she's a fantastic young
+         actress [though] it's not as much as she showed in "If These
+         Walls Could Talk 2")... David "motherfuckin'" Mamet assembles
+         the usual actor-fest for "one last job" crime caper HEIST
+         (http://www.screenit.com/movies/2001/heist.html : Since the
+         characters make their thievery look cool and smart, some kids
+         could be enticed to try the same)... chipmunk lookalike Mariah
+         Carey sings, acts a little in autobiographical vanity project
+         GLITTER (http://www.capalert.com/capreports/glitter.htm :
+         vulgar male dress; provocative self touching - repeatedly;
+         cohabitation and intercourse - genitals unseen)... or, for all
+         of you who didn't feel the original was quite gruelling
+         enough, there's APOCALYPSE NOW REDUX - "Redux" being a Latin
+         word meaning "with added nudity", from the looks of things
+         (http://www.cndb.com/movie.html?title=Apocalypse+Now : Colleen
+         [Camp] shows her mammoth breasts during a scene that has been
+         added to the 3 1/2 hr Director's Cut; Aurore [Clement] takes
+         off her robe to show her very, very nice breasts, and it might
+         be possible to catch a glimpse of bush; [Martin Sheen is] nude
+         and sobbing in his room. As he falls to the floor against his
+         bed you can quickly see his penis and balls)...
+
+         DRESS DOWN FRIDAY>> in the end, so many people sent in
+         variations on the "fsck" theme that we had to go back to
+         Moose's definitive http://www.cafepress.com/moose2000/ idea,
+         and will now be giving a pound to someone like the Free Dmitry
+         / Eurorights campaign for each "FSCK /LINUX" shirt sold. Got a
+         problem with that? Then don't buy one and go and print your
+         own. It's currently being sold through our intriguing Register
+         distribution deal: http://www.geekstyle.co.uk/ , raising the
+         questions: Is it a pro- or anti-Linux shirt? Will it placate -
+         or further enrage - THE INQUIRER's famously Linux-hating
+         reporter Andrew Thomas? And shouldn't it technically be "FSCK
+         /GNU-LINUX"? There are some things that only you can decide...
+         also now on Geekstyle: a "Born To Run" Spectrum one that we
+         did to see how it looked; a few light-grey "Adminspotting"
+         shirts to whet your appetite for the proper black ones due to
+         arrive "any day now"; and, for the benefit of any atypically
+         large, small, female or non-EU/USA-inhabiting readers, a
+         "Special Limited Editions" boutique which will sell XXL or S
+         or Skinny-Fit sizes (where available) to anyone who survives
+         the mildly controversial PayPal signup procedure... recent
+         entries continue to include graphics that we don't have the
+         rights for: http://www.bloommedia.co.uk/richard/ntk/ntk.gif
+         (thank you, RICO MONKEON); BEN MARANEY's bid to reclaim the
+         much-abused "smiley" symbol: http://www.maraney.com/tshirt.htm
+         and, more promisingly, PHILIP ROWLANDS' apparently European
+         Article Numbering-compliant selection of actual readable
+         barcodes: http://www.doc.ic.ac.uk/~phr/barcode.html ... but
+         most of this month's action has been in text-only slogans,
+         with WILL PHIPPS getting right to the point with his succinct,
+         yet enigmatic, "Fuck The Internet". "Real Men Use CP/M",
+         agreed MARKUS DIERSBOCK, while an ANONYMOUS CONTRIBUTOR posted
+         four explicitly confrontational gems in rapid succession,
+         including "Undercover Yuppie", "Hacked by Chinese", "Stand
+         Back Or I'll Menstruate" and - our favourite, so far - "Davros
+         Was Right". And acquitted former royal family Prestel hacker
+         ROBERT SCHIFREEN http://www.dunhackin.co.uk/ chipped in with
+         his poetic "Only the crumbliest, flakiest software - feels
+         like software never tested before"... as ever, get in touch if
+         you think you can do better - or if you're planning on winning
+         a free t-shirt by wearing one during a Channel 4 news item on
+         wireless war-driving: http://www.geekstyle.co.uk/images/ -
+         well spotted, MARTIN LING. Though you don't have to go as far
+         as reader "JEZ" who, inquiring after those Toxico "Police
+         State: Do Not Cross" shirts we used to do (still available via
+         Cybercandy), enthused: "It'll look good under my police
+         uniform!". And they say coppers have no sense of irony...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                "not gay porn"
+          http://forum.fuckedcompany.com/ubb/Forum6/HTML/184228.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

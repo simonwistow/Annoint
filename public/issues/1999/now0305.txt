@@ -1,0 +1,324 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-03-05_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+                                                                       
+         "It was a lark. We're a software company. This is our first
+         foray into hardware."
+                                   - Colin Smith, inventor of the iVase
+           (http://www.wired.com/news/news/technology/story/18190.html)
+            ...and not - phew - Larry Ellison on the "network computer"
+                                                                       
+        *** SPECIAL "LINUXWORLD" EDITION - NO LINUX NEWS WHATSOEVER ***
+                                    
+                                    
+                             >> HARD NEWS <<
+                           mission to confuse
+                                    
+         Quantum cryptography may be the hot new encryption topic, but
+         for real examples of spin, charm, and downright strangeness,
+         check out the UK state's ongoing crypto collapse. This week
+         Ian Taylor, the man behind the Tories' attempt to enforce
+         mandatory surrender of private crypto keys, appeared to be in
+         two different positions at once, claiming that he'd "changed
+         his mind" about the old policy, and now didn't want it at
+         all. In the alternate universe of Whitehall, radioactive
+         sources say Tony Blair countermanded Jack "having a few
+         problems with the 'colour force' myself" Straw, and has
+         stated that key seizure is to be a last resort: "Key escrow
+         is not the answer", he said. Instead, the Cabinet seems to
+         want a "Manhattan"-style thinktank - of the wisest minds that
+         Microsoft, BT, ICL and other *famously* clever dinosaurs can
+         muster - to invent an alternative to key escrow that will
+         "satisfy the requirements of law enforcement". A challenge
+         indeed, given that no-one in law enforcement has ever
+         explicitly stated what it is they want (apart from "your
+         private keys, please"). Oh, and to ensure a really great
+         technical solution, the group has only three weeks to
+         formulate their alternative (by April Fool's Day, natch),
+         else it's back to escrow again. Meanwhile, that infamous,
+         infinitely delayed DTI consultation document came out midday
+         today: *very* defensive and "welcoming suggestions" about the
+         whole business. So it's all gone a bit Heisenberg: you can
+         see how fast things are moving in government - but observers
+         still have no idea where they're at.
+         http://www.fipr.org/press.html
+         - reader's voice: didn't you do a physics analogy 2 weeks ago?
+         http://www.dti.gov.uk/CII/elec/elec_com.html
+                                                  - shut up, we explain
+         http://mediafilter.org/CAQ/caq63/caq63madsen.html
+                - not quite the "alternative solution" we're hoping for
+         
+         ITV's plan to replace News At Ten with Bond films has somehow
+         carried over into newsprint, with "Blackmail Hackers Take
+         Over Military Satellite" making the front page of last week's
+         SUNDAY BUSINESS instead of just the listings for GOLDENEYE
+         (8.35pm, Wed, ITV). Reuters retracted*, the Beeb said it was
+         impossible, the Telegraph printed a nice diagram, and the MOD
+         denied that there was anything wrong with the Skynet
+         satellite - "but they would say that, wouldn't they?", eager
+         hackers cried. But then *they* would say that, wouldn't they?
+         "Hackers control military satellites" was of course the US
+         media mis-information used to justify the heavy-handed
+         crackdowns in the '80s... so perhaps it's a coded warning. Or
+         maybe it's just the spirit of August 29 1997 all over again,
+         when one of NTK's dedicated staff ping-flooded any machine
+         with "skynet" in its domain name. Sure, the sysops were angry
+         but, when told it was a precaution against Skynet becoming
+         self-aware and deciding mankind's fate in a microsecond, many
+         seemed to understand.
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_288000/288965.stm
+             - careful: too many of these and it's "Hackers Download...
+         http://www.ntk.net/teleg/
+                        ...DIY Infowar Manual" headlines all over again
+         * reports of the retraction were then later retracted...
+	 
+         As connoisseurs of the low-budget cable-TV net show milieu,
+         we're as excited as anyone by the prospect of ".COM",
+         starting on Telewest around end of March - especially when it
+         at last confirms that appearing on these programmes costs you
+         not just time and credibility, but often hard cash as well.
+         Maybe we're reading this wrong, but the email to webmasters
+         leaked to us states: "The cost will be UKP350 inc VAT per
+         site to have [your site] reviewed in Surfers Paradise and
+         UKP29.95 inc VAT to have the URL and a 20 word description
+         placed in the Data Blast at the end of the show". Blimey,
+         those site reviewers are more expensive than we thought...
+         http://www.genuine.mcmail.com/paradise.html
+                              - can't even hack it so "other" sites win
+         http://www.ntk.net/itc/
+           - last rapped Telewest for 18-cert trails on Cartoon Network
+                                    
+                                    
+                             >> ANTI-NEWS <<
+                          berating the obvious
+                                    
+         DEMON MD observes that he employs "tossers" in company-wide e-
+         mail: http://www.ntk.net/demon/ ... PIRATES OF SILICON VALLEY
+         cast includes "Geeky Computer Scientist" (just the one?)...
+         "It's time to stop telling clients that they are clueless. That
+         may be true in Europe, but not here" - Chan Suh, CEO Agency.com
+         (purchaser of Online Magic), Silicon Alley Reporter 02/26...
+         INSTITUTE OF CHARTERED ACCOUNTANTS to introduce e-commerce
+         "kitemark" gif for websites... WHEN ROBOTS RULE at Tate
+         postponed due to "software failure"... "New design is pants"
+         threads disappear from CHANNEL 4 FORUM; complaining there's not
+         enough pics of Dan O'Brien?... INTERPOL still quoting Rimm
+         report: http://www.foxnews.com/scitech/030299/cybercrime.sml
+         ...*fucking* SCARY SPICE pic: http://www.ntk.net/doh/990305.gif
+         ...KELLY? JOHNNY? "Links should be kept as simple as possible"?
+         What TV show is this? http://www.ntk.net/breakfast/ ...
+                                    
+                                    
+                            >> EVENT QUEUE <<
+                      goto's considered non-harmful
+                                    
+         So we're searching for details of Nottingham University
+         Gilbert & Sullivan Society's Space: 1999 version of the
+         Pirates Of Penzance - I mean, what are the chances of there
+         being *two* TV-influenced sci-fi musical extravaganzas
+         debuting in Nottingham next week? But. Still. They. Come!
+         Independently of PIRATES '99 (7.30pm, Tue 1999-03-09, Thu 11,
+         Fri 12, Sat 13 with matinee; Great Hall, Trent Building,
+         nott.ac.uk), page 3 model turned god-bothering pop star Sam
+         Fox helms the yet more implausible VIRUS: THE CYBER MUSICAL,
+         believed to be the first rock show set entirely inside "a
+         NATO defence computer". The characters - "Hard Drive",
+         "Diskette", "Virus" and "Mouse" - haven't been nicked from
+         Reboot at all; the audience takes part via "laser guns around
+         the auditorium"; and the songs (two of which "seem destined
+         for the charts") are by Pink Floyd tribute band "Floydian
+         Slip", who cleverly combine rock, jazz, blues, soul, country,
+         pop and - of course - Pink Floyd to make the evening "a must
+         for any music lover". Adding to the suspense, the official
+         site even hints at last-minute financial crises, so if you
+         make it to either of these please tell us how it went. We're
+         terrified beyond the capacity for rational thought.
+         http://www.virus-productions.co.uk
+                         - no URL for Pirates '99; check local listings
+         http://www.netpresence.co.uk/royalcentre/theatreroyal/
+                - staggeringly, Virus: The Musical opens the same night
+         http://www.marlowe.demon.co.uk/nov981.htm
+                         - possibly something in the local water supply
+         http://mudhole.spodnet.uk.com/fist/news.html#tickets
+            - still, not too late for this yet. Flee, my friends, flee!
+                                    
+                                    
+                             >> TRACKING <<
+                     look what the mouse dragged in
+                                    
+         We don't usually trail products we haven't tried, but this
+         one's for Windows NT, and there are some places we just don't
+         go. In a nutshell, then, WAVE TO DISK is the same as that...
+         uh, other OS... sound device driver that lets you grab raw
+         audio from any source (including streamed RealAudio, one of
+         the three games that runs on NT, or - I dunno - one of those
+         hilarious new "secure" music distribution systems). By all
+         means try it out, but do understand that the authors do not
+         condone massive piracy and giggling at last-gasp attempts at
+         protecting intellectual property. Also, if you do download it
+         and it turns out to be a Trojan or HAPPY99.EXE - well, come
+         on, you're using NT. You deserve everything you get.
+         http://www.geocities.com/SiliconValley/Program/3555/
+           - apart from all that LinuxWorld coverage, which we wouldn't
+                                                         wish on anyone
+                     http://www.techweb.com/wire/story/TWB19990129S0014
+               - Divx cracked too? IS *NOTHING* SACRED TO THESE PEOPLE?
+                                    
+                                    
+                             >> MEMEPOOL <<
+                           hasta la altavista
+                                    
+         not "that" POOH, thank God - http://www.planetx.com/pooh/ ...
+         ERICSSON deny Swedish secret service claims that they can bug
+         GSM phones "even if switched off"... "I *knew* we'd regret that
+         chip-id thing": http://www.zdnet.co.uk/news/1999/8/ns-7186.html
+         ... rogue AMAZON.COM reviews for Family Circus / Daddy's Cap Is
+         On Backwards... "Give me 49.7 days and I will rule the world":
+         http://support.microsoft.com/support/kb/articles/q216/6/41.asp
+         start worrying when this goes 404: http://www.itulip.com/ ...
+         ZOOM UK buying HAYES UK?... make the REAL AUDIO "voices" go
+         away: http://www.futur.com/edu-info/schizo.stm or end up like:
+         http://www.timecube.com ... "PALMPILOT" a euphemism for?
+         http://www.mtco.com/~goettjp/PornPilot.html ... footy SLASH:
+     http://www.menonthenet.com/stories/html/lesauxcomfortsbeckham.html
+         ...Ben Folds Five meets SHATNER for return of TRANSFORMED MAN!
+     http://www.cnn.com/SHOWBIZ/Music/9903/04/shatner.ben.folds/kirk.mp3
+                                    
+                                    
+                            >> GEEK MEDIA <<
+                              get out less
+                                    
+         TV>> obviously no-one cares 'cos they're watching FRASIER
+         (10pm, Fri, C4), but THE YOUNG ONES (10pm, Fri, BBC2) has
+         skipped the "Sick" episode with Grange Hill/ The Good Life
+         for the penultimate "Time" one with Rik waking up with
+         Jennifer "Helen Mucus" Saunders... and Eastwood fans face a
+         tough choice with cracking WW2 Richard Burton cable car
+         cliffhanger WHERE EAGLES DARE (10.25pm, Fri, BBC1) vs Clint's
+         "comedy drama" PINK CADILLAC (11.10pm, Fri, LWT + some
+         regions) - Meridian get "They Live"!... sadly, BROKEN ARROW
+         (1.05pm, Sat, C4) isn't John Woo's stolen-nuke chaser but a
+         '50s Western - not to be confused with the similarly
+         impotence-themed RUN OF THE ARROW (2.50pm, Sat, BBC2) or
+         BROKEN LANCE (4.05pm, Sun, C4)... probably more Spinal-Tap-
+         style chuckles in HEAVY METAL TOP TEN (9.05pm, Sat, C4) than
+         lame sequel ACE VENTURA: WHEN NATURE CALLS (9.05pm, Sat, ITV)
+         - while Arnie's CONAN THE BARBARIAN (11pm, Sat, ITV) further
+         fuels those teen ubermensch fantasies... after last week's
+         soporific Kama Sutra, C4 reaffirms its commitment to "tedious
+         erotica" with Hugh Grant/ Elle Macpherson nudie SIRENS (10pm,
+         Sun, C4)... Prof Lewis Wolpert defends GM food on HEART OF
+         THE MATTER (11.30pm, Sun, BBC1), then undermines his case
+         somewhat by presenting autobiographical depression docu A
+         LIVING HELL (11.20pm, Wed, BBC2)... new series of the post-
+         movie derivative monster tosh X FILES (9pm, Sun, SkyOne)
+         starts just as the terrestrial one ends (10.10pm, Wed,
+         BBC2)... and PANORAMA (10pm, Mon, BBC1) promises a long, hard
+         look at teen sex - in order to address parental concerns over
+         the return of DAWSON'S CREEK? (6pm, Wed, C4)... don't try
+         selling gold-disc MP3 compilations to the BPI Anti-Piracy
+         Unit profiled on INTERNAL AFFAIRS (7pm, Mon, BBC2)... Wes
+         Craven tries out for Scream in ingeniously self-referential
+         (though less funny) WES CRAVEN'S NEW NIGHTMARE (10pm, Mon,
+         C4)... and when Arnie says "I'll be back" in THE RUNNING MAN
+         (9pm, Tue, C5), who could have guessed he meant "in half-an-
+         hour's time on the other side", via Jim Cameron's typically
+         overlong misogynist Harrier ad TRUE LIES (9.35pm, Tue,
+         BBC1)... C4 always sound a little apologetic about the
+         "written, recorded, and seemed funnier on the day of
+         transmission" 11 O'CLOCK SHOW (11.10pm, Tue, C4) - with
+         largely new presenters, though they're keeping Ali G for
+         continuity with the following "I Wanna Be Black" edition of
+         FUSION (11.45pm, Tue, C4)... mild Helen Hunt nudity enlivens
+         THE WATERDANCE (12.50am, Tue, C4)... confusingly scheduled
+         after RED DWARF VIII (9pm, Thu, BBC2), HORIZON counts the
+         cost of the International Space Station... and let's hope C5
+         doesn't meet with any nasty "accidents" after STRANGER THAN
+         FICTION (8.30pm, Thu, C5) links the killings of JFK and John
+         Lennon to CIA mind-control - surely including that George
+         Bush was a friend of Reagan-shooter John Hinckley's dad?...
+         
+         FILM>> it's not on anywhere (they've given up new movies for
+         lent or something) but FESTEN (imdb: Danish) is certainly the
+         year's most disturbing Scandanavian family dysfunction
+         catharsis filmed in hand-held keeping with "Dogma" manifesto
+         http://www.dogme95.dk/dogme/the_vow/vow.html (maybe they
+         should do something like that for websites)... anyway, sounds
+         like more fun (marginally) than Jonathan Demme, Oprah Winfrey
+         and Danny Glover's worthily overwhelming superlong box-office
+         flop BELOVED (imdb: based-on-novel / pulitzer-prize-source /
+         slavery) - incomprehensible if you don't know the book,
+         disappointing if you do... plus, as if the prospect of an
+         amorally ultraviolent psuedo-sequel to Wild At Heart weren't
+         bad enough, PERDITA DURANGO (imdb: kidnapping / las-vegas /
+         mafia / religious-fanatics / road / sacrifice / santer’a /
+         satanism / suicide / truck / violence / wild-at-heart / based-
+         on-novel / black-comedy / cannibalism) comes from the
+         director of disabled revolution sci-fi clunker Accion
+         Mutante, and its best bit - naked Rosie Perez being nuzzled
+         by a jaguar - comes and goes in the first 5 mins...
+         
+         FEEBDACK>> considering how sarcastic we are about other
+         people's goofs, we empathise entirely with you gleefully
+         mailing in our dumb oversights - including, in recent weeks,
+         misprints of the NTK subscription details and our own URL...
+         we wouldn't normally disclose the identities of the UK's
+         strong crypto providers lest some future "e-commerce" bill
+         requires their internment in one of Jack Straw's holiday
+         camps, but so many of you helpfully pointed out that PUTTY
+         http://www.chiark.greenend.org.uk/~sgtatham/putty.html is
+         "even better than TeraTerm" for Windows SSHing [NTK 1999-02-
+         26] - it doesn't support forwarding though, so it's no good if
+         your satellite uses an X client... DODGER leapt to the defence
+         of the frankly erratic Mark Thomas Comedy Product [ibid]; OK,
+         so http://www.menwithhill.com *is* pretty funny... C M
+         MORRISON queried our claim [NTK 1999-02-12] that some Red
+         Dwarf cast had "too much self-respect to return": where's
+         Clare Grogan and Mark Williams then?... and Infoworld's DYLAN
+         TWENEY checked that we knew that "the" Cringely [ibid] was
+         just "a" Cringely - indeed we did, it's such a lovely story:
+   http://www.infoworld.com/cgi-bin/displayNew.pl?/rcringe/990208rc.htm
+         ... it was Paul *Johnson*, not Paul Foot who nominated
+         RICHARD DAWKINS (or was it Stephen Hawking?) as "The Most
+         Dangerous Man In Britain Today" [NTK 1999-02-05]... and
+         finally, following the refreshing revelations of
+         BREMSTRAHLUNG X JONES [NTK 1999-01-29] that he "masturbates
+         at the slightly geeky one" in Buffy The Vampire Slayer, IAN
+         HARRIS writes to ask "could he check that the TV's on? I
+         suspect that's his reflection". NTK regrets that this
+         correspondence is now closed...
+                                    
+                                    
+                            >> SMALL PRINT <<
+                                    
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+        It is registered at the Post Office as "helping ninfomania.com
+                          in their linkto: appeal".
+
+                    NINFOMANIA "LINK TO US" APPEAL UPDATE
+                       Target: 10,500 hits on AltaVista
+
+0                                   TOTALISER                     10,500
+|.---------------------------------------------------------------------|
+ ^-current total: 7                       ...excluding links from NTK: 6
+
+
+                                NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                           but retain SMALL PRINT.
+
+              Tips, news and gossip to tips@spesh.com - cheers.
+

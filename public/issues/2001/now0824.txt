@@ -1,0 +1,395 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-08-24_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "By spending many hours playing games some children will not
+        develop their frontal lobes--which play a crucial role in
+        controlling behaviour, and developing memory, emotion and
+        learning."
+        http://www.zdnet.com/zdnn/stories/news/0,4586,2805811,00.html
+        ...I'd rather have a fragged demon blown up in front of me
+                                        than have a frontal lobotomy!
+
+
+                                >> HARD NEWS <<
+                              interference looms
+
+         Last week was the closing date for comments for the
+         government's "Independent Spectrum Review". Usually we leave
+         all this radio stuff to the hams (the geeks). But from a
+         Netty point of view, the review responses say a lot about
+         how folk are responding to the cheapo wireless net
+         connections built by 802.11b hackers like Consume.Net. The
+         3G companies don't look scared (not as scared as those
+         Bluetooth guys, anyway), but, boy, would they rather it all
+         went away. "The market and value of [our] licensed spectrum
+         is distorted", insists Hutchison, if those mini-ISPs with
+         their funny beards and Apple AirPorts are allowed to
+         compete. Fortunately for Hutchison, it's illegal for them to
+         compete. In a ruling that would drive RMS nuts, 802.11a
+         users aren't allowed to share their Net connection
+         wirelessly with anyone but their own. And the authorities,
+         embarassed about bankrupting most of the big telcos with
+         that 3G auction, look likely to keep to that rule - even
+         though most other countries are more liberal. The nice
+         government's preferred compromise seems to be: shuffle all
+         the WLAN crazies off the 2.4Mhz network to 5GHz where, they
+         say, ISPs will be allowed. That sounds good to the 3G folk,
+         because the 5Ghz 802.11a hardware isn't around yet, so they
+         can beat the hackers to the wireless broadband punch.  Also,
+         802.11a's range doesn't spread as far as 802.11b, so the ISP
+         idea's doomed anyway. Meanwhile, the Starbucks-with-wireless
+         Net access springing up over the US remain verboten in
+         Britain.  Guess the UK'll have to wait for our wireless
+         bandwidth until the nice kindly corp's are ready for us.
+         http://www.interesting-people.org/200108/0190.html
+         - not as bad as the tsk-tsking free-marketeers make it sound
+         http://www.spectrumreview.radio.gov.uk/
+               - although it'd help to have a Net guy on these panels
+         http://www.smag.radio.gov.uk/index.htm
+                                           - with the other smagheads
+
+         More DMCA news: the arraignment of Dmitry's case has been
+         postponed to next week ("plea bargain", yelps CNET ; some
+         sort of negotiation, demurs Dmitry's counsel). With the
+         DMCA-ish European Copyright Directive beginning to clang
+         around the halls of power, the UK government needs to know
+         it can't just pirate the DMCA legal code for use in its
+         domestic courts without getting into lot of trouble with its
+         citizens. There's another protest planned at Hyde Park to
+         coincide with the Sklyarov hearing from 1245-1315BST on
+         2001-08-30 (details on the UK Sklyarov site below). More
+         long-term, Caspar Bowden's redoubtable Foundation for
+         Information Policy Research is looking for volunteers (both
+         paid and unpaid) to work on EFFish activities in the UK.
+         Fancy a break from your job? On "indefinite sabbatical" from
+         your job? Give Caspar a buzz.
+         http://www.xenoclast.org/freesklyarov/
+                             - or its subjects, or whatever. shut up.
+http://www.xenoclast.org/free-sklyarov-uk-announce/2001-August/000003.html
+         - "being a cynic" as a job description? we're *so* there ...
+         http://dailynews.yahoo.com/h/nm/20010822/tc/tech_hacker_dc_2.html
+                                                      - what they say
+         http://news.cnet.com/news/0-1005-200-6949933.html?tag=mn_hd
+                                                     - what CNET hear
+
+         Well, it looks like uber-web agency RAZORFISH are going to be
+         with us for a while yet, but that hasn't stopped well-wishers'
+         tributes from flooding in, along with the mildly notorious
+         INDUSTRY STANDARD "no more limos" staff-wide memo (one of a
+         series of "fatuous Standard emails" we've been promised by a
+         reader - collect the whole set!). Continuing the theme of
+         "Make your own summer Bank Holiday fun", another reader
+         appears to have been inspired by a week of even madder (and
+         harder to illustrate?) than usual BBC news pieces (Friday:
+         "Most websites can support only a handful of so-called
+         concurrent users before they crash", Weds: "One [way to pirate
+         books online] is to scan text and then convert it into e-
+         formulas"), and so proposes a competition for the worst BBC
+         News Online graphic depicting "hacking". Here's three recent
+         classics from the archive to get you started:
+   http://news.bbc.co.uk/low/english/sci/tech/newsid_1484000/1484704.stm
+        - aka: Windows users "bricking themselves" over Trojan threat
+   http://news.bbc.co.uk/low/english/sci/tech/newsid_1503000/1503988.stm
+           - this is just your mates from round the office, isn't it?
+   http://news.bbc.co.uk/low/english/sci/tech/newsid_1494000/1494091.stm
+          - your mates from the office in moody cyber-terror montage! 
+   http://news.bbc.co.uk/low/english/sci/tech/newsid_1492000/1492558.stm
+  - OK, not hacking any more, but *literally* a well-oiled machine...
+news.bbc.co.uk/low/english/entertainment/new_media/newsid_1503000/1503799.stm
+         - "Science fiction and fantasy titles have proved more common"
+         http://www.ntk.net/2001/08/24/limomemo.txt
+          - mail us your favourite "e-formulas" (if you've kept them)
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         possibly the most inappropriate banner ad image of the year:
+         http://www.ntk.net/2001/08/24/dohballs.png ... sycophantic THE
+         STROKES review prophetically observes "on tonight's evidence":
+www.readingfestival.com/reading.asp?page=magazine&section=reviews&reviewID=15
+         ... "Money does make you happy" counterclaims extensive study:
+         http://www.ananova.com/news/story/sm_381677.html ... TRIPOD
+         trapped in infinite 404: http://members.tripod.co.uk/index.php
+         ... manual storage of "face-crippling costs"? That's *got* to
+         hurt: http://www.ntk.net/2001/08/24/dohface.jpg ... elemEntary
+         errors: http://sandi.net/utip/utipapplicationprocess.htm ...
+         SKY MOVIEMAX ad "influenced" by kung-fu stick-figure Flash...
+         because if they're smart enough to steal other kids' milk:
+    http://www.ntk.net/2001/08/24/dohmilk.png ... WIDDECOMBE of the week:
+http://digitalart.org/artwork/artwork.php?ID=3&message=terrible%20drawing
+         ... mags still boosting circulation via PHANTOM MENACE stars
+         on cover: http://www.sciencemag.org/content/vol293/issue5531/
+         ... UNIVERSITY CHALLENGE insists URL stands for "Universal
+         Resource Locator"... suspiciously accurate "37%" distrust AOL:
+         http://dailynews.yahoo.com/h/nf/20010823/tc/13041_1.html ...
+         IOMART's iomartvo.com shop domain seems to have expired in
+         June... hey, *surely* no-one's ever going to get this far?:
+         http://www.08701101010.com/Favourites/page_23_1165.shtml ...
+         obviously faster than their "analogue" web-browsing machine:
+         http://www.propertylive.co.uk/PL/data/100393/1000/page2.htm  
+         ... EUROPOL cc's car-crime press release to 400 security
+         professionals... real dog of a site: http://www.maltesedog.com
+         ... PUNK not dead - heavy-handed satire, on the other hand:
+         http://192.85.241.143/adverts/UK/Freeserve/aolswerve.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Here at NTK, we're all too aware of the many problems caused
+         by online porn - if it's not the increasingly rapid expiry of
+         XXX passwords, it's sites which have started checking the
+         referrer URL or (even worse!) using non-consecutive image
+         numbering to stop simple scripts downloading the entire
+         directory. Anyway, there should be none of that unpleasantness
+         at the imaginatively named CLITERATI.CO.UK, a new site which
+         trades in traditional text-only alt.sex.stories fare (sorry,
+         we meant "upmarket female-friendly erotic fiction") in a
+         modern weblog format. And they're having a launch party at a
+         secret location next Friday (2001-08-31), and there's a few
+         places left on the guest-list, and you are strongly advised to
+         RSVP as instructed at the end of the press release (including
+         recent photo?) if that's at all your sort of thing.
+         http://www.linuks.mine.nu/porn-get/
+      - "I never thought I'd be posting to a blog like yours, but..."
+     http://www.cliterati.co.uk/page/article.php?story=20010815121028262
+                  - non-consecutive article numbering; NNNNNGGGGHH...
+         http://www.ship-of-fools.com/Features/NedNight.html
+          - also this week: smut-free Christians with sense of humour
+         http://hypermedia.wmin.ac.uk/
+                   - students who still think Flash is a good idea...
+         http://lbw2001.ynfonatic.de/
+                            - and pingtime (for Hitler?), in Germany!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         "Open Source projects have been able to gain a foothold ...
+         because of the wide utility of highly commoditized, simple
+         protocols. By extending these protocols and developing new
+         protocols, we can deny OSS projects entry into the market."
+         said Microsoft's Halloween document, back in '98. It's
+         understandable, then, that a lot of Free programmers are
+         wary of Microsoft's spanking .NET protocol, SOAP. They're
+         even a bit worried about SOAP's rebellious little brother
+         XML-RPC. After all, the best thing for MS to the ornate SOAP
+         replacing the public web, is an extra simple protocol like
+         XML-RPC which would keep "most of the value in the services
+         and implementation and NOT in the wire protocol" (Halloween
+         again). But there *is* one sparky alternative that's not too
+         Microsoft, not too complex, and already has a big enough
+         backing to have a life of its own: HTTP. Roy Fielding and a
+         few others are banging on about how HTTP's GET, POST and
+         other commands are already perfect for RPC: and have been
+         proved to be scaleable by the success of the Web. What HTTP
+         (or the REST model as it's called this week) lacks, though,
+         is some real apps that treat HTTP as an API, rather than
+         just that funny browser talk. Maybe it's time (for Linux
+         users at least) to practice with WEBDAVFS, a new mapping of
+         WebDav, the biggest HTTP application that ain't about the
+         pages.  WebDav's a full remote filing system implemented
+         over HTTP.  Now with Webdavfs, Linux can mount a Website as
+         a drive. And the (relatively) funny thing? Before all this
+         SOAP business, MS implemented it in Windows WebFolders,
+         FrontPage, and IIS before letting it rust. They commoditized
+         it *themselves*.
+         http://internet.conveyor.com/RESTwiki/moin.cgi
+                                               - Work, REST, and fight
+         http://sourceforge.net/projects/dav/
+  - of course what REST needs is a manual way to PUT freeform HTML...
+         http://bugzilla.mozilla.org/show_bug.cgi?id=13383
+                                        - phew. okay, funny URLs next
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         marginally less annoying than the original, and boots quicker:
+         http://www.newgrounds.com/portal/uploads/27000/27549_winrg.swf
+         ... http://www.thebrainstrust.co.uk/article.15.1961.html funny
+         again for once - if they'd just get over that fucking "Hugo Z
+         Hackenbush" obsession... will the tributes *never* cease?
+         http://www.untitleddocument.co.uk/Issue37/radiogotohell.gif
+         ... psuedo-AI flash app imitates THE ONION's "Outside Scoop":
+         http://www.conspire.com/manningbot.html ... where no man has
+         gone before: http://www.webpan.com/dsinclair/trek.html - vs
+         http://members.nbci.com/starfeet/actors/hollyoaks.html ...yup,
+         strictly it should be be 6NU L1NUX (so don't write in, OK?):
+    http://cgi.ebay.co.uk/aw-cgi/eBayISAPI.dll?ViewItem&item=1181583482
+         ... jesus - what workplace are these screenshots from?:
+         http://www.guarddvr.com/guarddvr.asp ... re-entry's a bitch:
+         http://www.blessitt.com/crossinspace/ ... HUSHMAIL 2.0 upgrade
+         "cocked up"... JOHN KOVALIC, STEVE JACKSON - together at last:
+         http://www.sjgames.com/munchkin/game/ ... STERLING, the net,
+         this new-fangled weblogging craze - together, er, never mind:
+         http://www.infinitematrix.net/columns/sterling/sterlingi.html
+         ... NIMOY in "one of the goriest yet truly gratifying media
+         player demonstrations yet": http://us.imdb.com/Title?0199709
+         ... maybe they *should* play "Little Fluffy Clouds" in court:
+     http://cyberlaw.stanford.edu/lessig/I_Thought_We_Knew_That.mp3 ...
+         no v1-4?: http://www.foulds2000.freeserve.co.uk/bushv5.htm ...
+         http://www.bris.ac.uk/Depts/Chemistry/MOTM/silly/sillymols.htm
+         vs http://research.biology.arizona.edu/myosin/Bestiary.html ...
+         what will fill the gap left by FRED HOYLE? Hydrogen, probably...
+
+
+                                >> GEEK MEDIA <<
+           unconnected to the triumphant return of www.tvgohome.com
+
+         TV>> oops, missed yesterday's showing but you can still catch
+         the season 5 opener of BUFFY THE VAMPIRE SLAYER (12.20am, Fri,
+         BBC2) - "Dracula" isn't that great, but stick around for the
+         "what did I miss?" introduction of little sister Dawn... 80
+         almost-uninterrupted minutes of Patrick Kielty culminates in
+         much-needed retro clip show I CAN'T BELIEVE WE WATCHED THAT
+         (11.10pm, Fri, BBC1) - a gruelling marathon rivalled only by 3
+         hours of ABBA NIGHT (from 9pm, Sat, ITV2), 6 hours of VIEWERS'
+         CHOICE FRASIER WEEKEND (from 9pm, Sat & Sun, Paramount),
+         nearly 4 hours of THE 100 GREATEST KIDS' TV SHOWS (8.30pm,
+         Mon, C4), or *54* hours of non-stop ROBOT WARS (from 7am, Sat-
+         Mon, UK Horizons)... Channel 5 hits back with a double-bill of
+         OK-ish TV movies it last showed about a year ago: JUSTICE
+         LEAGUE OF AMERICA (6.10pm, Sat, C5) and FUTURESPORT (10pm,
+         Sat, C5)... but BBC1 picks up the sci-fi trash baton later in
+         the week with CGI spectacular DEEP RISING (9.50pm, Mon, BBC1)
+         and touchy-feely disaster epic DEEP IMPACT (8.05pm, Tue, BBC1)
+         ... C4 celebrates the power to cloud men's minds with THE
+         MAGIC OF TOMMY COOPER (9.15pm, Sat, C4), DERREN BROWN: MIND
+         CONTROL 2 (10.20pm, Sat, C4) and EDINBURGH OR BUST: LIVE
+         PERRIER AWARD SPECIAL (11.35pm, Sat, C4)... and Stephen
+         Soderbergh's acclaimed OUT OF SIGHT? (9.05pm, Sat, BBC1)
+         "Crock of Shit", more like... THE HISTORY OF SURVEILLANCE
+         (8pm, Sun, C4) winds up with an investigation of pixel-sized
+         web bug cookies or something... JK ROWLING AND THE HARRY
+         POTTER EXPRESS (8pm, Sun, C5) officiate over C5's "Witches And
+         Demons" night... and hopefully REPUTATIONS (10.35pm, Sun,
+         BBC2) will touch on the "CIA stooge" allegations about LSD
+         guru Timothy Leary... can't wait to see if there really is an
+         apologising-to-blind-people disclaimer in Leslie Nielsen
+         misfire MR MAGOO (7pm, Mon, C5)... as ever, too much Alan
+         Cumming, not enough Janeane Garofalo in ROMY AND MICHELLE'S
+         HIGH SCHOOL REUNION (9pm, Mon, C5)... new "go and live in
+         Swaziland" reality show GOING NATIVE (10pm, Tue, C4) imitates
+         http://www.nationallampoon.com/news/8_16b.asp ... and we
+         thought Armando Ianucci would make more "I'm Alan Partridge"
+         episodes if the BBC gave him another series of "Saturday Night
+         Armistice", so we're really not sure if THE ARMANDO IANUCCI
+         SHOWS (10.30pm, Thu, C4) are a good omen or not...
+
+         FILM>> a special week for fans of Carson "MTV" Daly's ex-
+         girlfriends, with Jennifer "I Know What You Did" Love Hewitt,
+         Sigourney "Ghostbusters" Weaver, Jason "Chasing Amy" Lee,
+         Jeffrey "Ferris Bueller's Day Off" Jones, Carrie "Star Wars"
+         Fisher, Ray "Goodfellas" Liotta and Gene "Superman" Hackman -
+         together at last! - in sassy old-fashioned con-trick ensemble
+         comedy HEARTBREAKERS (http://www.cndb.com : JLH Just teases Us
+         with her Enormous Mammories; NO nudity from Jennifer Love
+         Hewitt in this movie. She DOES wear lots of tight skimpy
+         outfits, if that is any consolation; Lets Hope and Pray that
+         the special scene we are all hoping for is found on the
+         DVD)... while Daly's former fiancee Tara "American Pie" Reid
+         resurfaces with Rachel Leigh Cook in scattershot subliminal-
+         advertising pop satire toon remake JOISE AND THE PUSSYCATS
+         (http://www.capalert.com/capreports/josiepussycats.htm : 19
+         uses of the three/four letter word vocabulary; song of lust
+         for money; excessive cleavage/breast exposure; full male
+         nudity, genitals masked by convenience objects; teen girl in
+         shower; teen girl in tub; reckless driving to show off)...
+         either probably a better bet than unnecessary Paul-Hogan-
+         meets-One-Foot-In-The-Grave retread CROCODILE DUNDEE IN LOS
+         ANGELES (http://www.capalert.com/capreports/crocdundeeinla.htm
+         self touching; nearly bare bottoms of male transvestites going
+         into a gay bar with another transvestite as the door attendant;
+         sexual immorality (not seen) resulting in child out of wedlock;
+         9 year old child using the three/four letter word vocabulary;
+         anatomical swimwear; psychic control of animals)...
+
+         DRESS DOWN FRIDAY>> (or, as http://www.zlatne-ruke.co.yu/ puts
+         it, "MAN CLOTHES") by huge public demand, this month's winning
+         t-shirt design is, of course, CHRIS BARNES'S ingenious URL-
+         encoding of the word "Fuck" ("%46%55%43%4B", RFC1630 fans), on
+         sale at http://www.geekstyle.co.uk/index.cgi?product=Encoded -
+         though, in an unprecedented tag-team double-whammy, we've also
+         stuck our fashionable new designer label on the sleeve, in the
+         form of DAVID J BODYCOMBE's suggestion of the letters "DNKY"
+         with a picture of a donkey above them. David gets 50p from
+         each sale, while Chris (whose design is bigger) gets UKP1.50
+         per item, which he says will help fund a site "for me and all
+         my weird mates to stay in touch when we all bugger off to Uni
+         in Sep". Aw, bless... and still they come - David J Bodycombe,
+         clearly on a roll, provided two different versions of his "hi
+         score" concept http://www.geekstyle.co.uk/images/hiscoresf.gif
+         and http://www.geekstyle.co.uk/images/hiscoresm.gif - great
+         idea, we thought, though maybe needs a bit more of a twist to
+         make it funnier? Ditto for SIMON TATHAM's excellent anti-spam
+         rant: http://www.tartarus.org/~simon/tshirt.png , and PAUL
+         COOMBS' so-far text-only suggestion of a load of "getting to
+         know you" questions ("Hi - what's your name? Can I buy you a
+         drink? What kind of music/ films/ books do you like? Really, I
+         like that kind of music/ films/ books as well"), with "<skip
+         intro>" in much bigger writing lower down. Let us know if
+         you've got any further suggestions for any of these, and you
+         could be rewarded with free shirts or even $$$ if they're
+         particularly good (and we ever get round to printing them)...
+         ones we're still mulling over include MICHAEL SAUNBY's "Broke"
+         http://www.saunby.net/completely/broke.gif , MODESTY B CATT's
+         "Pr0nStar" http://www.phink.net/ntk/tshirts/pr0nStar.html
+         (currently embroiled in legal wrangling), CHRIS GAGNE's
+         "&nbsp; on the front, and its binary equivalent on the back",
+         which apparently "looks awesome when you're dressed all in
+         black, wearing Ray-Bans, and a leather trenchcoat with huge
+         boots" - dude, what *doesn't*? - and, finally, numerous
+         variations on the theme of "fsck" in some sort of "fcuk"
+         font (anyone know what it is?), including MARK BOWYER's "fsck
+         /fashion", or even MATTHEW PETTY's arguably more contentious
+         "I'm a stupid motherfcuker" - or perhaps "I'm with this
+         motherfcuker ->", he adds, helpfully... but you don't need to
+         design a shirt to win big in this game, you just need to wear
+         one on TV, as proved by O'Reilly Peer-to-Peer book contributor
+         THEODORE HONG, whose successful infiltration of the London
+         Dmitry Sklyarov demo saw his "ILoveYou.VBS" shirt making a
+         starring appearance on that evening's edition of "Newsnight".
+         Under the terms of our exclusive "Buy One, Subvert The Mass
+         Media, Get One Free", Theo wins an NTK shirt of his choice;
+         witness his winning performance (and recent runners-up) at
+         http://www.geekstyle.co.uk/images/gallery.html . Note that
+         online media don't really qualify (though tasteful product
+         placement is always appreciated, if the plot requires it:
+    http://www.cliterati.co.uk/page/article.php?story=20010813005528135 ),
+         while rogue NTK employee "Dave Green" is hereby disqualified
+         from further entries for failing to heed Al Pacino's lesson in
+         "Scarface": "Don't get attired from your own supplier"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "PAWNS OF THE MICROSOFT CONSPIRACY"
+               http://www.disinfo.com/pages/article/id1486/pg1/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

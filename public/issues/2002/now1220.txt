@@ -1,0 +1,260 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-12-20_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "They're the ones looking to expand their tentacles into more
+         consumer markets," Baker said. "And they're likely to butt
+         heads somewhere" with HP, who is trying a similar strategy.
+                            http://news.com.com/2100-1040-958889.html
+             - in the grey corner: Cthulhu, The Many-Tentacled Horror,
+           defending his title here at Hydra-Headed Octopus Smackdown
+
+
+                                >> HARD NEWS <<
+                              break out the booze
+
+         Good news makes us feel dirty - and this week the world has
+         been draped in filthy, filthy optimism. CREATIVE COMMONS
+         launched in the US, together with a Flash movie that manages
+         to explain the encroachment of copyright, and the import of
+         the public domain to your few remaining friends that you
+         haven't bored silly with your strange "Star Trek politics".
+         JON JOHANSEN's trial continues, but it doesn't look good for
+         the prosecution: their summing-up trailed off with
+         accusations of "gang crime" (because Jon is on a few mailing
+         lists). And the SKLYAROV/ELCOMSOFT trial ended with the jury
+         collectively channelling what the cynics knew the public
+         would never understand. They certainly had problems
+         digesting some concepts: "Under the eBook formats, you have
+         no rights at all - and the jury had trouble with that
+         concept", said their foreman, and refused to throw
+         the ebook at anyone but the bin. It feels like we're stuck
+         in one of those overly extra-sentimental Christmas specials.
+         http://mirrors.creativecommons.org/
+          - could someone out there convert this to a free-er format?
+         http://news.zdnet.co.uk/story/0,,t269-s2127640,00.html
+          - actually, Gangsta Software Movement has a nice ring to it
+   http://www.washingtonpost.com/wp-dyn/articles/A2340-2002Dec17.html
+                                       - next year: some UK good news
+         http://www.theinquirer.net/?article=6730
+            - hell, they even arrested a Microsoft employee for fraud
+
+         And it came to pass that LONDON 2600 did decree that their
+         Christmas party shall be held in the basement of a nearby
+         hotel, for there was no room at the Trocadero. In fact, the
+         computer security enthusiasts' club are considering moving on
+         from their traditional bottom-of-the-escalators meeting place,
+         following the nearby fancy dress photographer's allegation
+         that they were losing him business to the tune of "UKP15,000 a
+         year". True, the presence of 20-30 hackers - often wearing a
+         hint of fancy dress themselves - for as much as an hour each
+         month must be the only explanation for the disappearance from
+         the Troc of Alien War, Segaworld, music TV studio whereits.at
+         and, most recently, the Pepsi Max Drop ride. Tomorrow's event
+         runs from 3pm to 11pm, Sat 2002-12-21, in the "underground"
+         room at the Thistle Hotel, Piccadilly Circus, London W1D - and
+         if that goes mysteriously goes out of business in the manner
+         of previous 2600 hangouts Webshack and the Global Cybercafe,
+         then that photographer guy might just be onto something.
+         https://www.fastweb.co.uk/spy.org/cgi-bin/xmas2002.pl
+               - promises bemani games, karaoke, and "present testing"
+         http://whereits.at/
+            - exciting new Trocadero attraction: dodge the tumbleweed
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         those puerile GOOGLE MISSPELLINGS - I'm not psychic, you know:
+         http://www.google.com/search?q=%22physic+readings%22 , "first
+         aid tit" - and, can you believe, we've had "artits" but not
+         "arstist" (or "arsing from") before?... "I'm sorry, Sir, the
+         piss http://www.ntk.net/2002/12/13/dohpiss.gif is off today -
+         but can I recommend the alternative choice of 'liquid shit'?":
+         http://www.ntk.net/2002/12/20/dohpoo2.gif - vs "biological
+         buffet": http://www.geocities.com/hotelannelies/ha2e.html ...
+         "Style" alludes to Queens Park Rangers - Of The Stone Age:
+  http://www.allmusic.com/cg/amg.dll?p=amg&uid=SEARCH&sql=B5jnsa9cgl23u
+         missing millions served - why not supersize that $435 loss?:
+         http://money.cnn.com/2002/12/17/news/companies/mcdonalds/ ...
+         ROYAL BANK OF SCOTLAND "launder" $1.2bn into just UKP750,000:
+         http://www.ntk.net/2002/12/20/dohrbs.gif ... Boba Headhunter:
+         http://lists.irev.net/pipermail/lan/2002-February/001290.html
+         ... banner could only be more appropriate if in "skyscraper"
+         format: http://www.ntk.net/2002/12/20/dohfly.gif ...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         It's not software, it costs real money, but it's got more
+         decent code in it than most - and, hey, if you can't kowtow
+         to the scarcity economy at Christmas, when can you? Last
+         updated in 1997 (AD), O'Reilly's UNIX POWER TOOLS has
+         finally hit its third edition. Compiled by a clan of
+         experienced hacker-editors (including Eponymous Tim), then
+         broken into tiny bite-size chunks, Power Tools is compactly
+         written but as thick as a brick. Unashamedly lifting from
+         every source it can find - internal procedures, newsgroup
+         postings, other O'Reilly books you've already bought - Power
+         Tools answers the questions Unix newbies couldn't begin to
+         ask, and wizards are too ashamed to admit they don't know.
+         Just by randomly flicking through pages in this edition (the
+         PC Magazine approved way of reviewing books), we learned
+         how to fix cut and paste between Xterm and Mozilla, a better
+         "for" loop in zsh, and how to disown processes in bash. If
+         you've just bought a bargain-basement Lindows PC, or stolen
+         a TiBook, this is what you should spend your gift
+         certificates on.
+         http://www.oreilly.com/catalog/upt3/
+            - or you can wait 14 years for it to become public domain
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         what might be encrypted into this peculiarly redundant book
+         title?: http://www.amazon.co.uk/exec/obidos/ASIN/0192803158/
+         ... unconscious subtext that "free software = COMMUNISM":
+         http://www.google.com/search?q=%22richard+stalin%22+gnu ...
+         the problem of attracting more women to work in IT - cracked
+         at last: http://www.cdc.uk.net/ ... actually playable Flash
+         game of the year: http://www.thzclan.com/games/sonar/ ... why
+         you didn't get that "monkey in a box" toy you asked for:
+     http://www.improb.com/airchives/paperair/volume6/v6i4/postal-6-4.html
+         ... suicide delivery boys?: http://pizzaidf.org/ ... THE
+         FRIDAY THING "in no way affiliated with The Cheeky Girls"
+         maintains futile http://www.thefridaything.co.uk/slapwaterman/
+         protest - when you could be busy boycotting NESTLE this Xmas:
+         http://www.guardian.co.uk/famine/story/0,12128,863356,00.html
+         ... and there must be times when kind-hearted folks like this
+         make receiving all those lame comedy 419 responses worthwhile:
+http://www.news.com.au/common/story_page/0,4057,5652168%255E1702,00.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> POSH TOTTY (8pm, Fri, C5) appears to be a one-off
+         documentary rather than an inadvertent description of C5's
+         subsequent movie lineup: Yasmine "Baywatch" Bleeth in THE FACE
+         (9pm, Fri, C5); Charlotte "Grange Hill" Lewis in MUTUAL NEEDS
+         (10.55pm, Fri, C5); plus Lynda "Wonder Woman" Carter in
+         HOTLINE (12.40am, Fri, C5)... Superbowl terrorist thriller
+         BLACK SUNDAY (11.20pm, Fri, BBC1) was postponed from two
+         months ago for some reason... confused African-American anti-
+         advertising rant DROP SQUAD (1.35am, Fri, BBC2) was exec-
+         produced by Spike Lee... and, you know, it just wouldn't be
+         Christmas week without waking up to a daily helping of THE
+         WORLD AT WAR (around 9.50am, Sat-Fri, BBC2)... pseudo-
+         Tarantino heist romance OUT OF SIGHT (10.25pm, Sat, BBC1)
+         remains one of the few major motion pictures to feature two
+         actors who've both played Batman (Keaton and Clooney)... but
+         frankly not much competition against the likes of I LOVE TOYS
+         (9.05pm, Sat, BBC2), plus nightly showings of THE OFFICE
+         (11.05pm, Sat, BBC2) and I LOVE 198X (12.05am, Sat, BBC2) -
+         remember, TV Cream readers, the latter "is not a documentary":
+         http://www.ntk.net/index.cgi?b=02001-04-20&l=262#l ... the
+         seasonal festival of the overrated continues with FIGHT CLUB
+         (9pm, Sun, BBC2) - not as good as EVENT HORIZON (10.30pm, Thu,
+         BBC Choice); WHEN HARRY MET SALLY (10.35pm, Sun, C4) - not as
+         good as ANNIE HALL (1.35am, Sun, ITV); CHICKEN RUN (4.50pm,
+         Wed, BBC1) - not as good as A BUG'S LIFE (5.45pm, Tue, BBC1);
+         and THE MUMMY (8.05pm, Tue, BBC1) - not as good as Stephen
+         Sommers' previous CGI monsterfest, DEEP RISING (10.30pm, Mon;
+         12.05am, Tue, BBC Choice)... C4 helps dispel that slightly
+         nauseous "Boxing Day" feeling with a double bill of JACKASS
+         CHRISTMAS SPECIAL (10.40pm, Thu, C4) and Mayall/ Edmondson
+         atrocity GUEST HOUSE PARADISO (11.10pm, Thu, C4)... while
+         Steve "Movie Chart Show" McKenna and Katy "son of Jimmy" Hill
+         use science to produce a chartbusting garage hit in CAN'T GET
+         ENOUGH MUSIC (11.40pm, Fri, BBC2) - of which more later...
+
+         FILM>> well at least more people will get our hilarious jokes
+         about "Ents [short for Entertainments] Committees", thanks to
+         tiresome CGI-fest sequel THE LORD OF THE RINGS: THE TWO TOWERS
+         ( http://www.capalert.com/capreports/lotr-towers.htm : evil
+         beast attack; planning murder; full side nudity, male,
+         repeatedly; woman on man kissing, clothed; "all-knowing
+         wizard"; mockery of the Transformation; gaiaism - talking
+         trees - repeatedly)... otherwise Reese Witherspoon proves you
+         *can* be a top-flight fashion designer and a decent down-home
+         housewife in woman-friendly wish-fulfilment SWEET HOME ALABAMA
+         ( http://www.capalert.com/capreports/sweethomealabama.htm :
+         two approx. 10 year old kids kissing sensuously; adultery,
+         many examples; excessive breast exposure, repeatedly;
+         homosexual presence, repeatedly)... or three TV episodes are
+         stitched together into feature-length animation HEY ARNOLD!
+         THE MOVIE ( http://www.capalert.com/capreports/heyarnold.htm :
+         two nine year olds kissing on the mouth; jailbreak - through a
+         commode; obsession with fetishes; putting children in control
+         of things well beyond the capabilities of the age stratum; a
+         child driving a transit bus with the excuse of experience at
+         video games as justification)...
+
+         DRESS DOWN FRIDAY>> in a gesture of pseudo-seasonal goodwill,
+         we've teamed up with embittered North-of-England comedy site
+         martian.fm to bring you yet another amusing t-shirt variation
+         on the word "fuck": their pioneering "UCK WA" logo. "Fuck War/
+         Not Children/ Said the slogan/ on your t-shirt", their
+         backprinted poem explains. "[But] Mostly it said/ uck Wa/ ot
+         Chi," it continues. "You were wearing/ a coat". On sale now -
+         with new stock of "++ungood" - at http://www.ntkmart.com/ ,
+         and there should still be time to get one before Christmas if
+         you order before midnight UK time tonight (Friday)... in terms
+         of new design suggestions, reader SEAN D SOLLE continued the
+         poetic theme with his suggested back print haiku for the
+         "Elite" shirt: "Spaceship from junkyard/ Trade, fly, battle;
+         fly, dock, trade/ Right On Commander!"; "Nexus" provided a
+         lengthy antispam rant which nonetheless astutely concluded
+         "WHEN THE FUCK WILL THE 419 SCAMMMERS LEARN WHERE THE FUCKING
+         caps lock KEY IS???"; while the delightfully named BAZ PANCHAL
+         submitted "IF IN DOUBT, << COUT <<", ("'COUT' being C++ code",
+         he went on to advise)... but the real action this month has
+         shifted over to the "Buy One, Subvert The Mass Media, Get One
+         Free" department, which saw PHIL PURNELL's jaunty photomontage
+         http://www.geekstyle.co.uk/images/geeky.jpg just lose out to a
+         barely more plausible appearance by DJ NOISY MINORITY - also
+         wearing an "Elite" shirt - on the "What's on your Cover CD"
+         pages of the current issue of KNOWLEDGE, "the UK's finest"
+         drum and bass magazine: http://www.geekstyle.co.uk/images/ .
+         Mr Noisy wins a t-shirt of his choice for his pains - as might
+         reader ED FEAR, who was wearing a "FairPlay" campaign shirt
+         while being filmed at Sony Europe for the programme "Can't Get
+         Enough Video Games", due to be shown at 11:40am on BBC2 on
+         Sunday 2002-12-29. Ed thinks it should appear in "the last
+         part" of this 40 minute documentary - though you should also
+         look out for just a glimpse of the "airPla" text in the
+         middle, because Ed, as appears to be the fashion nowadays, is
+         "mostly" wearing it "under a coat"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                http://hoho.com/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

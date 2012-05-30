@@ -1,0 +1,368 @@
+         [Happy New Year! As perhaps befits the home of the digital
+         antichrist, our server crashed over the holiday period, but
+         that's OK because we weren't planning on doing our usual
+         Friday-afternoon sarcastic round-up of technology news
+         anyway. What do you think we are, insane? So, to tide you
+         over until the return of NTK Classic next Friday
+         (09/01/98), here's a special retro-update of last year,
+         plus a bumper edition of TV and misc media that you've
+         probably missed already. And before you ask, MiniNTKs are
+         traditionally always slightly larger than the real thing.
+         For historical reasons, you understand.]
+
+
+ __  __ _29/12/97 _   _ _____ _  __     <Xmas '97/New Year '98 special>
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! Mail 'subscribe ntknow'
+| |\/| | | '_ \| |  \| | | | | ' /     o   to majordomo@unfortu.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net
+
+
+         "If you're talking about the costumes, then they're way
+         different. Marine pulse rifles were cosmetically customised
+         Tommy guns, while the Starship Troopers' ones are obviously
+         cut-down pump-action 12-gauge shotguns mounted underneath
+         M16s sheathed in a fibreglass stock that converts them to a
+         'bullpup' configuration (ie, the magazine is behind the
+         pistol grip)."
+         - Cam Winstanley (Total Film magazine) convincingly nails        
+           that old "Starship Troopers is just like Aliens" argument      
+              - though in perhaps a bit more detail than we required      
+
+
+                              >> '97 REFRESH << 
+                      truth at 8 million polygons/second
+
+         CENSORSHIP: in '97, the Net ingeniously thwarted would-be
+         Evil Nazi-like Censors, generally by propagating Evil Nazi-
+         like Websites < http://www.godhatesfags.com >. Prospective
+         Lord Chamberlains included NOTTINGHAM COUNTY COUNCIL
+         < http://www.xs4all.nl/~yaman/jetrep.htm >, JIMMY HILL (who,
+         the Observer reported in May, threatened to sue the Tartan
+         Army Website for slagging him off - unprecedented
+         disrespect!), EAMONN HOLMES (who was, Teletext reported,
+         horrified at comments made about him on a newsgroup, and
+         wanted it all stopped), and PAMELA LEE ANDERSON (who
+         unsuccessfully petitioned to retrieve her stolen honeymoon
+         video - < http://wouller.person.dk/textual.htm >, ya
+         perverts).
+
+         GAMES: "Plucky British start-up" continued to be a by-word
+         for "imminent bankruptcy proceedings". Lame face-sucker
+         makers VIRTUALITY at last gave up the ghost, while
+         Leicester-based ENTERTAINMENT ONLINE fooled everyone into
+         thinking they were going to buy the Sega Channel, then
+         ingeniously went bust instead. (In unrelated news, anyone
+         heard from BT's WIREPLAY recently?) Elsewhere, VIRGIN
+         INTERACTIVE continued scraping by despite low morale, no
+         buyers, and bitter ex-employees ranting about how doomed
+         they were < http://www.atgp.com/rblts/vie.htm >. Like the ZX
+         Spectrum before it, the PLAYSTATION proved that rubbish
+         graphics were no obstacle to mass-market dominance, kicking
+         the N64's Diddy Kong demographic right in their tri-linear
+         mip-map interpolations.
+
+         HARDWARE: PSION introduced their new Psion Series 5, which
+         everyone liked even when the power supply turned out to be
+         dodgy and the lettering started rubbing off the keys.
+         Psion, by way of celebration, ran out of stock, but was
+         saved from financial embarrassment when DELL bought loads
+         of their cellular modems because no-one in the States
+         understands how GSM phones work. HERMANN "Doogie" HAUSER
+         (Britain's Angel Of Death venture capitalist) introduced
+         his NetStation Web TV's to the British market a good
+         century before they were expected to take off.
+
+         COMMS: 3COM and ROCKWELL offered the market two
+         incompatible 56Kbps modem standards, and were surprised
+         when sales were "disappointing". They turned to the
+         INTERNATIONAL TELECOMMUNICATIONS UNION to sort out the
+         problem, somehow ignorant that the rest of America thought
+         the ITU were Satan-inspired Swiss bureaucrats who were
+         going to steal "their Internet" < http://www.domain-
+         name.org/ >.
+
+         SPACE: The first barrages of the future satellite clusters
+         went up, offering exciting lightshows for those who can
+         tell the difference between degrees and radians
+         < http://wwwvms.utexas.edu/~ecannon/iridium.htm >, and more
+         reasons to believe BILL GATES will one day control ze vurld
+         < http://www.ee.surrey.ac.uk/Personal/L.Wood/constellations/
+          >. NASA's ultra-cheap PATHFINDER project landed a Connectix
+         QuickCam stuck on a Big Trak on Mars, thanks to a party
+         pack of balloons and a dodgy modem. MIR did everything it
+         could to be an orbiting disaster short of crash into the
+         Plutonium-laden CASSINI. The space probe PIONEER 10 left
+         the Solar System, only to be destroyed by Klaa of the
+         Klingon battleship Okrona in "Star Trek V" (3.30pm, Fri Jan
+         2, BBC1).
+
+         MEDIA: Your Net-hating friends gloated as newspapers
+         endlessly reported how the Net had "crashed" (when the
+         domain naming system collapsed), "blundered" (when JUDGE
+         ZOBEL e-mailed his Woodward judgement to an ISP in the
+         middle of a power cut), and "was on the edge of collapse"
+         (every time a clueless hack couldn't get his e-mail).
+         Simultaneously, the media raved about how the Net was
+         "creating a new economy" (so, when was the last time you
+         visited www.BarclaySquare.co.uk?), "revolutionising
+         medicine" (CU-SeeMe remote bypass operations, anyone?), and
+         "helping kids in school" (to download pornography and run
+         warez sites, perhaps). The BBC spent millions on the now
+         *fascinatingly appalling* www.bbc.co.uk . WIRED UK shut
+         down, along with a whole newsagent's POS display of other
+         useless net mags. WIRED US talked about how great it had
+         been, and pundits raved about LARA CROFT, DVD and DIGITAL
+         TV without having played with any of them.
+
+         NET CRIME: Shetlander sued Shetlander over hyperlinks
+         between their sites. Everyone sued www.totalnews.com for
+         framing their news stories with ads. Hackers worked out a
+         bazillion ways to make [INSERT YOUR BROWSER HERE] crash.
+         One guy tried to blackmail Netscape into paying him for his
+         crash code, and got threatened with jail. EUGENE KASHPUREFF
+         exploited a bug to take over the Internic for a day, and
+         went to jail. The Labour Party hackers and COLDFIRE helped
+         the police with their enquiries. KEVIN MITNICK remained in
+         jail (without trial) for another year.
+
+         BUSINESS: IE4 came out, NETSCAPE went down, APPLE went
+         random. The HEAVEN'S GATE web designers beat the rest of
+         the industry to mass suicide by a good 12 months. IBM gave
+         up trying to beat Microsoft with OS/2, and took it out on
+         Gary Kasparov. The US forbade companies from exporting hard
+         crypto, so Bill Gates bought out Cambridge University
+         instead. JAVA replaced VRML and NetPhones as The Year After
+         Next's Big Thing. The Year After the Year After Next's Big
+         Thing, the MILLENNIUM BUG, showed its earth-shattering
+         nature by retrospectively boring everyone to death.
+
+         AND FINALLY: on August 29, at 2.14am Eastern Time,
+         Terminator's SKYNET became self-aware. Unfortunately, it
+         picked the same week as the death of Princess "Sarah
+         Connor" Diana, so no-one noticed. It "decided our fate in a
+         microsecond", apparently...
+
+
+                              >> EVENT QUEUED << 
+                    never seen gatecrashers look so scared
+
+         Thanx to everyone who made it to NTK's real-world Xmas
+         "DON'T" event - and for the rest of you, you missed: free
+         drink, MIDI Karaoke, forced viewings of a bootleg video of
+         Mystery Science Theatre 3000 - and a small sideshow where
+         you could "Shoot Bill Gates In The Face" with a full-size
+         replica Uzi (which the lively Quake-playing contingent then
+         used to terrorise the streets of 3am South London).
+         Admittedly, labelling everyone with their domain name
+         wasn't perhaps the ice-breaker we had hoped, causing
+         instant rivalry between dial-up users and vanity-domain
+         owners, plus a shortage of stickers when enthusiastic cash-
+         for-registers ONE IN A MILLION turned up. Perhaps we should
+         have gone for a DNS lookup party game (match the guest to
+         the IP number!) instead of the not-yet-out-of-beta Video
+         Game Charades. Best gossip: the story about BT tech-guru
+         PETER COCHRANE apparently driving through a security
+         barrier. Coming up next: GeekCon '98 - and the .NOT awards.
+         http://www.ntk.net/not.cgi            - parity on, d00dz...          
+
+
+                              >> GEEK MEDIA << 
+                               electric dreams
+
+         TV>> WEEK 52: this no-man's land between Xmas/New Year
+         indulges all our child-prodigy nostalgia, as Prof Ian
+         Stewart (the practical mathematician) commands junior spod-
+         fest THE ROYAL INSTITUTION CHRISTMAS LECTURES (around 1pm,
+         Sun-Thu, BBC2) - not to be confused with the adventures of
+         "computer enhanced teenager" FREAKAZOID (10am, Mon-Wed +
+         Fri, ITV)... there's a space-camp's worth of young people's
+         sci-fi films, making the jump to light (entertainment)
+         speed with relativity parable FLIGHT OF THE NAVIGATOR
+         (3.40pm, Mon, BBC1)... spoiler! knowing that the title
+         stands for "Data Analysing Robot Youth Lifeform" almost
+         completely ruins the twist of David Ambrose-scripted
+         D.A.R.Y.L (10.30am, Tue, ITV)... a computer holiday goes
+         awry in Christopher Lloyd vehicle (and excellent Quake
+         advice) CAMP NOWHERE (10.30am, Wed, ITV)... and it's
+         actually a remake of Disney's telekinesis classic ESCAPE TO
+         WITCH MOUNTAIN (10.50pm, Thu, ITV)... elsewhere, the Geiger
+         clicks excitedly over nuclear thrillers like Tommy Lee
+         Jones' marital meltdown drama BLUE SKY (10pm, Mon, C4) and
+         Homer Simpson safety manual THE CHINA SYNDROME (2.15pm,
+         Thu, ITV)... mock documentaries try to out-Spinal-Tap each
+         other, with promising kid comedy COPING WITH (12.05pm, Mon-
+         Fri, C4) vs never-heard-of-them cop spoof OPERATION GOOD
+         GUYS (9.30pm, Mon, BBC2) - plus an episode of EERIE INDIANA
+         (12.35pm, Wed, C4) that's even more self-referential than
+         *this sentence you are reading now*... never mind the UFO
+         cover-ups, OFFICIAL DENIAL (10.30pm, Wed, BBC2) reveals
+         what really happened to Erin "Wilma Deering" Gray (from
+         Buck Rogers In The 25th Century)... and if you can't decide
+         between the various madcap, irreverent etc hosts to see in
+         the New Year, set your clock for "20 minutes into the
+         future" - the original TV pilot movie for MAX HEADROOM
+         (9pm, Wed, C4), featuring the boardroom from "Network",
+          blipverts, digital watch tunes, and - of course - the
+         ZikZak Corporation ("We make everything you need/ You need
+         everything we make")...
+
+         WEEK 01: a mildly autistic child composer is surprised to
+         find himself described as a "nerd" in VIDEO DIARIES
+         (10.55pm, Sat, BBC2)... we don't normally do satellite, but
+         then they don't usually show anything as good as the TV
+         spin-off of BUFFY THE VAMPIRE SLAYER (8pm, Sat, Sky 1):
+         cute, violent, astonishingly funny - it's a barely-legal
+         Sabrina The Teenage Witch!... Meryl Streep is trapped in a
+         nightmare game of Six Degrees Of Kevin Bacon on THE RIVER
+         WILD (7.15pm, Sun, BBC1), while Luc Besson draws a bead on
+         useless Hollywood remakes in his assassination actioner LA
+         FEMME NIKITA (11.50pm, Sun, C4)... you guessed it, the two-
+         part "sequel" to sixties sci-fi THE INVADERS (9pm, Sun-Mon,
+         C5) is yet duller than the original, though it still
+         features Roy Thinnes as "architect David Vincent"... oh,
+         the irony that pits NEIGHBOURS FROM HELL (8.30pm, Mon, ITV)
+         against NEIGHBOURS AT WAR (9.30pm, Mon, BBC1) - better off
+         with Steve Martin's spectacular "special purpose" in THE
+         JERK (9pm, Mon, BBC2)... Oliver Morton (something to do
+         with Wired) and Ben Woolley (off BBC2's The Net) each do 5
+         mins on the future in THINGS TO COME (7.55pm, Mon-Fri, C4)
+         - Woolley appears to propose "reinventing time", and
+         where's that idiot Michael Marshall Smith when you need
+         him?... scrub up for the return of ER (9pm, Wed, C4), and
+         with rather less fanfare, superior teen soap PARTY OF FIVE
+         (6pm, Wed, C4)... another unusual scheduling coincidence
+         sees SOS PACIFIC (3.30pm, Thu, C4) on the same day as SOS
+         TITANIC (8pm, Thu, C4), while some wag has stuck a HORIZON
+         SPECIAL on car crash fatalities (9.30pm, Thu, BBC2) half an
+         hour after the opening edition of JEREMY CLARKSON'S EXTREME
+         MACHINES (8.30pm, Thu, BBC2)... and with the addition of
+         ad-quiz THE BEST SHOW IN THE WORLD - PROBABLY (10.20pm,
+         Thu, BBC2), the only thing there isn't a blokey late-night
+         game show about is the proliferation of late-night blokey
+         game shows - called something like: They Think It's All
+         Have I Got Shooting Buzzcocks For You - Or Do They?...
+
+         FILM>> it's probably the first sci-fi movie in decades to
+         acknowledge, spoof and embrace the fact that the entire
+         genre is essentially appalling right-wing techno-porn - in
+         other words, an entirely accurate film version of
+         Heinlein's STARSHIP TROOPERS (imdb: adventure / war /
+         action / sci-fi / alien-attack / military / part-animated /
+         infantry / space / asteroid / futuristic / fascism / aliens
+         / giant-insect / violence / part-computer-animation / gore
+         / horror / dismemberment / decapitation / shower). But
+         great fun as well as being profoundly disturbing - that
+         kind of goes without saying... a laptop-controlled machine
+         gun is the only highlight of THE JACKAL (imdb: thriller /
+         assassination / russia / mafia / ireland / chase / murder /
+         terrorism)... while SPICE WORLD (musical / comedy / music /
+         british / concert) is, disappointingly, not a new sequel to
+         Frank Herbert's Dune, and also not as good as you thought
+         it was going to be when you thought it wasn't going to be
+         as bad as you thought, if you know what I mean... on the
+         heels of critical acclaim for his costume drama WINGS OF THE
+         DOVE (imdb: drama / romance), director Iain "Soft Lad"
+         Softley now reckons that his previous movie, Hackers, is
+         being reassessed as a "youth cult classic" - well, not
+         round here it fucking isn't... in US news, apparently the
+         funniest bit of new release MR MAGOO is the disclaimer that
+         Disney has added to the credits, after complaints from The
+         National Federation For The Blind that "the film does not
+         portray people with sight problems in a positive way"...
+
+
+                              >> READER'S SITES << 
+          (being a brief, completely arbitrary, one-off end-of-the-
+         year round-up of some homepages that subscribers have asked
+          us to "check out". And yes, we have deliberately reviewed
+         them in the style of one of those dreadful net mag features
+          where they've just typed something into Yahoo and written
+                        up the first 10-15 results...)
+
+         OBSESSIVE MEDIA
+         http://www.obsess.com/
+         Not only does this one have a great name, but it used to
+         exploit that odd Yahoo bug (see NTK 12/12/97) to create
+         stream-of-consciousness free verse themed around users'
+         current search terms - appalling misspellings and all.
+
+                                                         UPSIDE NEWS
+                                         http://www.upside.com/news/
+           No idea which shadowy media giant is secretly behind this
+           one, but actually quite a smart daily news/analysis page.
+         Often gives you a snappier overview than paging through all
+          the TechWeb and PC Week headlines at www.newshub.com/tech/
+                                                             anyway.
+
+         FROGGER'S WEBBED WONDERS
+         http://mudhole.spodnet.uk.com/~frogger/
+         Enormous site with sections devoted to the "Addicted"
+         telnet talker, the semi-official Lee And Herring page (new
+         TV series starts 15/02/98), one of those celebrity-slapping
+         Java apps, and updates on what's going on in Neighbours
+         nowadays. Weirdly, not very much on the classic video game
+         Frogger - though presumably that's what the Arcade
+         Emulation forum is there for.
+
+                                                      THE CURMUDGEON
+                      http://www.pheasnt.demon.co.uk/MUDGE/INDEX.HTM
+               Slightly wordy film and comedy fanzine, featuring (as
+           appears obligatory for NTK readers) an interview with Lee
+           and Herring. Presumably they think they've got a uniquely
+            wacky British title, but they've reckoned without rivals
+                              like http://worldclassdogs.com.bs/WCD-
+           Features/CurmudgeonArch3.html - "an irreverant [sic] look
+                      at the world of show dogs and their owners..."
+
+         MEDIAEATER
+         http://www.mediaeater.com
+         They say: "a call for accountability in media,
+         responsibility in reporting, a cry for media literacy." We
+         say: "Great links page!" (to all kinds of news sites etc)
+
+                                                          SUPERKAYLO
+                           http://www.cex.co.uk/cex/kaylo/kindex.htm
+               Charlie Brooker does the cartoons for the ads for the
+          Computer And Video Games Exchange, and here continues that
+          same endearingly offensive style over many, many pages. To
+            wit: an Innovations catalogue spoof that includes "Onion
+            Sock Patrol" and "Puerile Calculator Makes Light Work Of
+         Geek Tormentation", plus a software selection that features
+            "Sim Tits" and "Al Pacino's Cakey Wakey" ("47 fun-packed
+                                    levels of cake-waking action!").
+
+         (And finally, special respect to ERICH WEHMEYER, who
+         doesn't have a site, but mailed to say that, in South
+         Africa, Cadbury's ASTROS [see NTK 19/09/97] are much nicer,
+         because they make them with Bourneville chocolate instead.
+         This was confirmed by the sample he sent us, along with a
+         South African Crunchie and a mildly worrying "PS Forever
+         Yours" love bar. NTK regrets that the correspondence
+         regarding the relative merits of Smarties vs Astros - UK or
+         South African varieties - is now closed.)
+
+
+                              >> SMALL PRINT << 
+
+      Need to Know is (usually) an interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+ It is registered at the Post Office as "walking in a woman's wonderbra".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

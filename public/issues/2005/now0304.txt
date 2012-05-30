@@ -1,0 +1,222 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-03-05_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+          "Michael Hulme says part of the reason why the mobile is so 
+           successful is that it takes us away from where we are..."
+         - Mobiles 'part of social fabric' shocker, muses Click Online
+                                   http://news.bbc.co.uk/1/4297993.stm
+           ...as ingeniously symbolised by those giveaway "mobile" and 
+                                         "telephone" parts of its name
+
+         
+                               >> HARD NEWS <<
+                               largesse accrues
+
+          Don't do popular things! Stop it! The government's Green
+          Paper on the BBC caught the corporation in the "manic" stage
+          of its traditional bi-polar swing. As the BBC continues to
+          frenzedly chase ratings, the BBC was warned that it was
+          getting too commercial, and should return to producing
+          high-quality output untouched by popularist taint. Next
+          charter, in 2016, of course, the BBC will be warned that it
+          is too elitist, and should start trying to pander to popular
+          tastes. But in the mean time, what of THE CREATIVE ARCHIVE,
+          the BBC's plan to free at least some of its content for
+          remixing under a more liberal license? "Likely to be popular
+          with the public", warns the government, and rumbles that the
+          it should be the very first experimental subject of the new
+          BBC Trust's "public value and market impact tests". With
+          commercial radio already leering hopefully at the Beeb's
+          radio back catalogue, will the Archive be the first piece of
+          meat thrown to the "stop being so popular so we don't have 
+          to compete" crowd? Or will those keen commercial types
+          realise that, when it comes to "opening up new markets",
+          everyone getting it for free always beats one company paying
+          for access?
+http://www.bbccharterreview.org.uk/pdf_documents/bbc_cr_greenpaper.pdf
+                              - search for "archive", just like we did
+http://www.bbc.co.uk/pressoffice/pressreleases/stories/2004/05_may/26/
+        - "Doctor What, Everything?" is our current snappy name for it
+          http://news.bbc.co.uk/1/4309325.stm
+           - who else gives you PDF file sizes to three decimal places?
+
+          Of course, for those who might consider the BBC license to
+          be "dirty money", there *are* other ways of subsidising the
+          release of freely licensed works. Jason Clifford's UK FREE
+          SOFTWARE NETWORK, for example - the ISP that spends all its
+          profits in donations to free software. The blood and sweat
+          and toil of Clifford's obsessive altruism has now borne
+          fruit, and the Association for Free Software is handing out
+          the first round of money. Just write your grant proposal and
+          send it off to them. There's UKP1500 to give away, with
+          hopefully more to come. Yay! Free as in money!
+          http://www.affs.org.uk/grants/
+             - "we *strongly* prefer formats usable with free software"
+          http://www.ntk.net/index.cgi?b=02002-11-22&l=54#l
+                                                    - the story so far
+          http://www.ukfsn.org/finance.html
+                                 - and what he promised, open accounts
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          The ravaged US economy creates favourable conditions for 
+          attempting the fabled "Grand Slam" of the GDC GAMES DEVELOPERS 
+          CONFERENCE (from Mon 2005-03-07, San Francisco, from $195), 
+          SXSW INTERACTIVE (from next Fri 2005-03-11, Austin, Texas, 
+          from $275), and the O'REILLY EMERGING TECHNOLOGY CONFERENCE 
+          (from next Mon 2005-03-14, San Diego, California, from $425). 
+          But for anyone sticking in the blizzard-swept UK, let's have 
+          our own crazy cutting-edge celebration right here, possibly 
+          under the aegis of NATIONAL SCIENCE WEEK (from next Fri 2005-
+          03-11, assorted times and venues), featuring yet another hee-
+          hee-hilarious IG NOBEL TOUR (Oxford, Warrington, Nottingham 
+          plus an already-sold-out one in London), and unofficially 
+          culminating in our old techno-artist pals JON THOMSON and 
+          ALISON CRAIGHEAD returning - in triumph! - to DORKBOT LONDON 
+          (from 7pm, next Wed 2005-03-16, State51, Rhoda St, London E2 
+          7EF, free), ably supported by a folksonomic black cab "derive" 
+          entitled "Taxi-onomy" (you see what they've done there?) and - 
+          of course - some RSS poetry.
+          http://interactive.usc.edu/archives/003955.html
+             - aren't all GDC delegates "wandering monsters", in a way?
+          http://2005.sxsw.com/interactive/
+           - with blinking Malcolm Gladwell, Bruce Sterling, "Wonkette"
+          http://conferences.oreillynet.com/etech/
+             - roll up for the Wired Editor and his amazing "Long Tail"
+          http://www.dorkbot.org/dorkbotlondon/
+                       - no, not the "John Thomson" off "The Fast Show"
+          http://www.the-ba.net/the-ba/NationalScienceWeek/
+             - "compose a poem" not quite the "science" we had in mind
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          reassuringly authentic-looking not-pasted-in-at-all screen: 
+          http://itsafe.gov.uk/about/picture_800.html - vs a scientist, 
+          thinking deeply: http://www.royalsoc.ac.uk/event.asp?id=2953 
+          ... spot the test data: http://www.cs.ucla.edu/~kohler/pubs/ 
+          vs http://isotropic.org/uw/papers/chicken.pdf ... clearly one 
+          way of stopping phishers, anyone else from sending you mail: 
+          http://www.banksafeonline.org.uk/ ... which is a spoof portal, 
+          which an amusingly-named Eastern European web design agency?: 
+          http://www.wankadoo.co.uk/ , http://hulan.cz/redakcni-system/ 
+          ... for one week only - "one of these not SFW like the others" 
+          http://images.google.com/images?q=%22Big+Cook%22 , plus your 
+          regular http://www.google.com/search?q=pgp+%22key+singing%22 , 
+          "pedantric", "greasepoof", "freshmean", "enchanced" and 
+          http://www.google.com/search?q=%22duel+carriageway%22 ... 
+          reader Rod Begbie greases that slippery slope a little more: 
+         http://groovymother.com/archives/2005/02/28/dave_winers_wor.html
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          It's not the Smalltalkiness of it; it's not the 
+          Cocoaliciousness of it; it's the funky APL sideburns that's 
+          made F-SCRIPT so tempting. F-Script is a scripting language 
+          for MacOS X that takes that OS's object frameworks and slips 
+          them into a Smalltalk syntax, then left-hooks it all with an 
+          inexplicably neat multiple receiver syntax called OOPAL which 
+          lets you use things called "message templates" to fire off the 
+          same message to an array of objects, and ponce around like you 
+          just don't need loops or iterators any more. Soon you'll 
+          realise that this is brilliant, yet there's almost nothing you 
+          can do with F-Script. But wait! Along comes F-Script 
+          Everywhere that - in theory - allows you to browse and probe 
+          ObjC objects in any running application. And, finally, when 
+          you tire of that, the author hints that the next version will 
+          give F-Script the ability to create new classes of its own, 
+          which is what it desperately needs to become a first-class 
+          scripting citizen. In the meantime, come for the OOPAL, stay 
+          for the OOPAL, leave taking the OOPAL with you to your own 
+          weirdo language. 
+          http://www.fscript.org/
+                                       - the manual is pretty readable 
+          http://www.fscript.org/download/FScriptGuide.pdf
+                        - and page 25 is where it starts getting funky
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> the competition for "TV's Worst Tech Show" continues to 
+          hot up, with CLICK ONLINE (8.30pm, Sat; 4.30pm, Sun, BBC News 
+          24) - which last week chose to pronounce "moblog" as "mob-log" 
+          - increasingly under threat from the sub-"Tomorrow's World" 
+          explanations of THE GADGET SHOW (7.30pm, Fri, C5), this week 
+          thrillingly comparing Linux to Microsoft Windows... Saturday 
+          is black helicopters night, in the company of not-bad Mel 
+          Gibson mind-controller CONSPIRACY THEORY (9.15pm, Sat, C4) 
+          plus Clipper-chip hacking romp SNEAKERS (11.20pm, Sat, ITV)... 
+          still, we all question the nature of reality - but do we 
+          *really* question the nature of reality? - ponders one of the 
+          best-ever episodes of THE MIGHTY BOOSH (11.40pm, Sun, BBC2)... 
+          it doesn't look like we'll be seeing Wendy Grossman appearing 
+          in HIGH SPIRITS WITH SHIRLEY GHOSTMAN (10.30pm, Sun, BBC3) any 
+          time soon: http://www.theinquirer.net/?article=20281 ... in 
+          case you were wondering, C4 *has* embarked on yet another 
+          back-slapping orgy of X-RATED: THE TV THEY TRIED TO BAN (10pm, 
+          Sun, C4), concluding with the implicit assumption that 
+          advertising per se is in some way defensible or worthwhile in 
+          X-RATED: THE ADS THEY COULDN'T SHOW (10pm, Thu, C4)... while 
+          Mode 7 "Gagfax" graphics were once considered primetime 
+          entertainment, reveals COMEDY CONNECTIONS' look back at "Three 
+          Of A Kind" (11pm, Mon, BBC1)... 
+           
+          FILM>> the West may have largely failed to intervene in the 
+          country's horrific 1994 genocide but - to our eternal credit - 
+          we've made by far the best movie about it in HOTEL RWANDA 
+         ( http://www.bbfc.co.uk/ : Contains moderate war images and 
+          strong language)... the makers of "Dude, Where's My Car?" were 
+          at least cogent enough to rename their latest stoner odyssey 
+          from the US-burger-chain-centric "Harold & Kumar Go To White 
+          Castle" to the rib-tickling HAROLD & KUMAR GET THE MUNCHIES 
+         ( http://cndb.com/ : [Malin "Earth: Final Conflict" Akerman is] 
+          wearing shorts and a blouse with only three buttons)... and 
+          the filth continues in ideological sexologist biopic KINSEY 
+          ( http://www.cndb.com/movie.html?title=9+Songs+%282004%29 : 
+          Male nudity is not really my thing, so I can't give this 
+          a full four-star rating, but if you happen to be a Peter 
+          Sarsgaard fan, and were dissapointed with "The Center of the 
+          World", this is definitely the movie for you)... plus next 
+          Fri's widely-covered-elsewhere concert-movie-with-a-difference 
+          9 SONGS ( http://www.bbfc.co.uk/ : Contains frequent strong 
+          real sex)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                        "comparatively homophone-free"
+                  http://www.qwghlm.co.uk/blog.php?article=610
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

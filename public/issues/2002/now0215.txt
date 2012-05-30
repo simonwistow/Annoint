@@ -1,0 +1,309 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-02-15_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "His larger fear is that the best job of his life - writing 
+         for The Spot - is behind him, and his career will be a string 
+         of boring jobs..."
+                         - ZDNET fondly remembers the "good old days"
+                           http://zdnet.com.com/2100-1106-832615.html
+                      ...and they say there's no justice in the world
+
+
+                                >> HARD NEWS <<
+                                 LL's not cool
+
+         After months deliberating exactly how much illegal content a
+         newsgroup should have before it's banned [NTK 2000-11-17],
+         the INTERNET WATCH FOUNDATION has, suddenly, taken a brand
+         new tack. At a board meeting this week, chair Roger
+         Darlington cut through the waffle, and proposed that any
+         newsgroup whose very name *sounded* illicit should be
+         removed. He refused any debate on this policy, pressed for a
+         vote, and won.
+
+         And so, to celebrate the IWF's fifth birthday, an unknown
+         set of newsgroups, whose crime is not to harbour illicit
+         content but merely give the impression they *might*, are
+         dissappearing from British spools. A little ironic birthday
+         present for the IWF, an organisation that was founded to
+         stop a similiar blanket blacklisting by the Metropolitan
+         police back in 1997. As if by magic, IWF's board members are
+         disappearing too. Malcolm Hutty, of the Campaign against
+         Censorship of the Internet in Britain, quit in protest at
+         the meeting. He joins Demon's representative, Clive Feather,
+         who resigned in December saying - like Hutty - that he felt
+         that proper scrutiny was being perceived as unhelpful by the
+         organisation. Ruth Dixon, the deputy Chief Executive and one
+         of the original founders, handed her notice this week too.
+
+         Left on board are the new IWF: a bloc of child protection
+         experts (including John Carr, no stranger to NTK readers),
+         Peter Robbins - a new CEO who is an ex-Met ex-obscene
+         publications squad copper himself - and a very nervous set
+         of ISP representatives, facing a coup in their own industry
+         body. The new IWF, in a rather pointed press release, says
+         it's seeking to increase its powers, and will be
+         "repositioning" as "a body which protects children as well
+         as ISPs". But what did the old IWF do? Its hotline uncovered
+         thousands of illegal images, and gave the police a valuable
+         data trail to track their origins - unlike the new system,
+         whose bans risk simply hiding the traffic elsewhere. And
+         when the transformation is complete and the newly censorious
+         IWF considers banning all newsgroups containing the word
+         "anime" - as one sub-committee proposal suggested, before
+         Hutty squelched it - who will be around to say no? Who
+         watches the Watch Foundation these days?
+         http://www.iwf.org.uk/about/members.htm
+                                                     - bulletin board
+         http://www.ntk.net/index.cgi?b=02000-06-23&l=50#l - 
+                                             - John Carr in full flow
+         http://www.ntk.net/index.cgi?b=02000-11-17&l=22#l
+                                        - the old IWF takes it slowly
+         http://www.liberty.org.uk/cacib/iwfresignation.htm 
+                                      - that resignation note in full
+         http://www.theinquirer.net/15020203.htm
+                                              - the even longer story
+
+         So what *would* a Usenet tyranny run by distant overlords
+         who disdainfully smack down their vassal slaves be like,
+         exactly? Well, look no further than uk.people.gothic. Let's
+         start again. Such behaviour *is* perfectly acceptable in
+         u.p.g if performed in moderation in a well-kept village
+         graveyard, but one recent case has proved to be controversially
+         non-consensual. Worse, it involves the dreaded intercession
+         of [thunderclap on soundtrack] the UK.* USENET COMMITTEE.
+         Seems some yukster noticed that the goths are lacking a
+         committee-approved newsgroup charter, set about organising a
+         vote to install one, as required by uk.* Usenet committee
+         rules. Unfortunately, since uk.people.gothic precedes the
+         creation of the omnipotent committee by some years,
+         negotiating whose rules have primacy in the gothosphere
+         means... well, as usual on Usenet, a massive flamewar. You
+         might want to check this one out, given that it involves
+         committee matters of procedure, the genteel senior citizens 
+         of u.p.g. attacking the "young rebellious upstart 
+         newcommers" of the committee, legalistic time-travel, Goth
+         Rights, and the everpresent unspoken threat of Control, the
+         uk.* Usenet committee's splendid seven foot high robot
+         master. It also shows what Usenet governance is *supposed*
+         to look like. Anarchic, pedantic, transparent and -
+         ultimately, despite the worries - more consensual than you'd
+         guess. Or, possibly, can stand.
+http://groups.google.com/groups?threadm=3c693418.756897644%40news.demon.co.uk
+                                   - the trusty slippers of fair play
+
+         We do have a government-mandated weekly limit on headachey 
+         civil liberty stories, so we're going to bounce our eagerly 
+         awaited analysis of the EUCD, Europe's DMCA, until next week. 
+         But don't forget - there's an informal seminar on the EUCD's 
+         legal implications and vulnerabilities, organised by those 
+         Campaign for Digital Rights troublemakers, taking place next 
+         Saturday afternoon 2001-02-23 in Cambridge (to be followed by 
+         a national tour - well, London and Edinburgh, at least). Open 
+         source enthusiasts, music fans, and anyone with an interest in 
+         opposing EU legal directives will be more than welcome - 
+         although, due to the "white hat" nature of the proceedings, 
+         delegates are politely reminded that they should not swap 
+         warez and VCDs - or indeed mod-chip any PlayStations - while 
+         attending the (currently undisclosed) venue. 
+         http://uk.eurorights.org/miniconf/
+              - please RSVP in advance, specifying favourite real ale
+         http://www.actionaid.org/ourpriorities/foodrights/foodrights.shtml
+                                  - chipping: the clampdown continues
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         EDS' gardening skills to give Jaguar team "competitive hedge": 
+         http://www.itv-f1.com/news/news_story/9144 ... just the sort 
+         of free-spirited education the NEW STATESMAN is looking for: 
+     http://www.consider.net/nominate2002.php3?Action=Specific&URN=http://
+         ... top of the Enterprise-wide Risk Management "case studies": 
+         http://www.business-minds.com/detail.asp?item=100000000012954 
+         ... BBC reveals hitherto-unsuspected Republican sympathies: 
+         http://www.ntk.net/2002/02/15/dohlife.png ... GUARDIAN goes 
+         all pro-war: http://www.ntk.net/2002/02/15/dohgo.png ... don't 
+         forget all those DOS users: http://news.bbc.co.uk/tmp.txt ... 
+         http://www.totalise.net/ small print forbids "downloading and 
+         printing out any web pages"; http://www.sitescope.co.uk/ 
+         generously permits you to "make one electronically stored, 
+         transient copy of the Content solely for the purpose of 
+         viewing it"... The Case Of The *Double* Missing Millions: 
+         http://www.ntk.net/2002/02/15/dohpound.png ... taste my 
+         breadcrumbs!: http://www.ntk.net/2002/02/15/dohbread.png ...  
+         what part of "Must have previous experience" don't you 
+         understand?: http://www.apexcr.com/en/1/advertdisplay.mxs?3304 
+         ... cracks appear in glorious old VICTORIA AND ALBERT MUSEUM 
+         facade: http://www2.vam.ac.uk/ ... inappropriate google ad: 
+         http://www.google.com/search?q=controlled+flight+into+terrain 
+         ... glossing over recent cutbacks, BA place leading questions
+         in market research: http://www.ntk.net/2002/02/15/dohba.png ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         You've got to credit an event whose two principal panels are
+         called "Money: Do We Need It?" and "Legality: Could We Be In
+         Trouble?", but still charges $65 and holds itself in that
+         monument to draconian club licensing regulations, JWZ's DNA
+         Lounge, San Francisco. CODECON 2002 - it's a long weekend of
+         P2P cypherpunkitude, working code, heady brainstorming, and
+         all the best bits of the subsequent RSA conference, without
+         that tedious marketing crap.  It won't get you a job, but
+         nothing will these days - so you might as well go back to
+         changing the world.
+         http://www.codecon.org/ 
+         - social value redeemable only in anonymised pseudo-currency
+         http://www.rsaconference.com/
+         - opening new windows like a goddamn X10 surveillance STATE!
+         http://www.dnalounge.com/backstage/log/2001/12-real.html
+                                       - home of the real-life doh...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Okay, so we don't think shaped Microsoft windows are quite
+         as unique as the author thinks they are and the 50,000 lines  
+         of C++ sounds like a fib, but the remapping of the mouse
+         pointer, blitting of the HTML rendered pages, and highlight
+         shading are nice hacks, it doesn't install any adware AFAWCS,
+         and you completely forgot about Valentine's didn't you, you
+         idiot? Didn't you? Well, thank goodness there are young men
+         in Bagshot writing mini heart-shaped browsers you can
+         pretend you wrote for your beloved.
+         http://www.banana3.com/
+              - god i hope this isn't a demo-scene virus or something
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         World Trade Center movie about "two fractured people who found 
+         each other late in life and enjoyed a storybook romance": 
+http://news.bbc.co.uk/hi/english/entertainment/film/newsid_1818000/1818049.stm
+         vs "they kick and scream and fly through the air in an 
+         unbelievably cool way": http://www.tachyon-tv.co.uk/news.htm 
+         ... http://brunching.com/toys/oralsexdonation.html imitates 
+         http://www.mccullagh.org/image/9/blowjobs-for-the-needy.html 
+         ... seller "not responsible" for any loss of "immortal souls": 
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1702576447
+         ... or are biologists just more susceptible to urban legends?: 
+     http://www.sciencenet.org.uk/database/Chemistry/Original/c00082d.html 
+         vs http://www.sciencenet.org.uk/database/Biology/9701/b00701d.html 
+         ... FAO Patrick O'Brian fans - before you get press-ganged: 
+         http://www.tallshipnewswire.com/jscript/article.php3?id=758 
+         ... http://www.lindkvist.com/digitaldataporn/xxx.html vs new 
+         IMAC discovering what CD-ROM tray is for (left-hand pic): 
+         http://www.apple.com/hardware/ads/newimac.html ... Macs just 
+         big "Game Boys": http://www.4bitterguys.com/rants/officegba/ 
+         ... deriving general evolutionary principles from failed past 
+         relationships: http://magnus.huckvale.net/2002/valentines/ ... 
+         dividing the cast lists of every movie you see into "the 
+         sexiest, the knight, and the one I'd most likely end up with": 
+         http://www.livejournal.com/users/cassieclaire/ ... 
+
+
+                                >> GEEK MEDIA <<
+             commemorating the "return" of http://www.tvgohome.com/ 
+
+         TV>> FRASIER (10pm, Fri, C4) swaps "emotional" for "technical" 
+         support when Bill Gates guests on the 200th episode... without 
+         warning, Zoe Ball returns to our screens in "Friendsreunited 
+         Like These" gameshow CLASS OF (9pm, Sat, BBC2), plus regularly 
+         bland industry-backslapping event THE BRIT AWARDS (8pm, Thu, 
+         ITV) - Dido currently front-runner for Poshest Female Singer 
+         With Self-Effacing Regular Diary: http://www.dotcock.com/ ... 
+         small-town puritan oppression proves no match for Kevin Bacon 
+         "kicking off his Sunday shoes" in FOOTLOOSE (9.45pm, Sat, 
+         BBC2) ... comedy fans are ill-served by sub-"Airplane"-style 
+         spoof JANE AUSTEN'S MAFIA (11.25pm, Sat, BBC1) and recently 
+         remade French time-travel slapstick LES VISITEURS (12.45am, 
+         Sat, C4) ... and chances are it'll be the canned-laughter US 
+         episodes of M*A*S*H (7pm, daily from Sun, Paramount Comedy 
+         Channel) rather than the laughtrack-free ones the BBC used to 
+         show... coinciding with the fictitious Fresh Prince's Olympic 
+         disappearance from the schedules, BBC2 compensates with a UK-
+         set THE REAL FRESH PRINCE (8pm, Sun, BBC2) - "I got in one 
+         little fight and my mom got scared/ she said 'You're movin' 
+         with your uncle and auntie in Hertfordshire'"... which handily 
+         coincides with BEHIND ENEMY LINES: THE REAL CHARLOTTE GRAYS 
+         (8pm, Sun, C4)... and, later in the week, The Real "Law And 
+         Order: Special Victims Unit" - SEX CRIME INVESTIGATORS (9pm, 
+         Thu, C4)... Michelle "Dawson's Creek" Williams blunders into 
+         semi-unironic teen horror HALLOWEEN H20: 20 YEARS LATER (10pm, 
+         Sun, C4)... SHOOTING STARS (9.30pm, Mon, BBC2) doesn't seem 
+         quite as fresh as it first did all those years ago, and ditto 
+         for dullsville El Mariachi remake DESPERADO (10pm, Mon, C4)... 
+         though fans of the originals will still enjoy scathingly 
+         accurate Wayans-brother ghetto-movie parody DON'T BE A MENACE 
+         TO SOUTH CENTRAL WHILE DRINKING YOUR JUICE IN THE HOOD 
+         (12midnight, Mon, C4)... in the absence of those elusive 
+         remaining episodes of "Attachments", MANCHILD (10pm, Tue, 
+         BBC2) is like "Sex And The City", but with unattractive 
+         middle-aged men instead of women... while YOUR NHS DAY (from 
+         6am, Wed, BBC1) features novel interactive options like 
+         viewers being able to vote on which sympathy-evoking patient 
+         should receive life-saving surgery, and which underperforming 
+         hospitals should be bombed into oblivion... 
+         
+         FILM>> it's a remake of one of the few Frank Sinatra movies to 
+         feature an EMP weapon, featuring Don "Swordfish" Cheadle 
+         (uncredited, following criticism of his Cockney accent?), 
+         Joshua "Dawson's Creek" Jackson (as himself), "and introducing 
+         Julia Roberts, as Tess" - look out for other big-name stars in 
+         inoffensively cheesy grown-up plot-free caper comedy OCEAN'S 
+         ELEVEN (http://www.capalert.com/capreports/oceans11.htm : 
+         planning crime, extensively; at least 11 counts of successful 
+         crime; impersonating police officers, multiple; Elliot Gould 
+         [plays] the quintessential potty-mouth in this film... and 
+         potty-mouthed he was!)... while Will Smith is convincing, but 
+         that "When We Were Kings" documentary is still ultimately more 
+         informative than staggered-release heavyweight biographical-
+         epic ALI (http://www.screenit.com/movies/2001/ali.html : 
+         Bundini states that he sold Ali's championship belt for $500 
+         that he then put up his arm - possibly referring to heroin; 
+         the assassins who shoot and kill Malcolm X and Martin Luther 
+         King obviously have extreme cases of bad attitudes; some kids 
+         could be inspired to imitate Clay/Ali in and out of the ring, 
+         including his verbal but humorous taunting of opponents, and 
+         his religious/political stances)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                         "that's *100%* better, losers!"
+             http://b4ta.com/chthonic/better.asp?w1=ntk&w2=b4ta
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

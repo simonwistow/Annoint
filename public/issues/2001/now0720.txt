@@ -1,0 +1,372 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-07-20_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "This is primarily an investigative unit and I don't think
+         we should get sidetracked into the finer details of technology"
+- CHIEF SUPERINTENDENT LEN HYNDS, new head of the National Hi-Tech Crime Unit
+         http://www.telegraph.co.uk/connected?pg=/et/01/7/19/ecfcrim19.html
+   ...I won't have to use a computer or anything in this job, will I?
+
+
+                                >> HARD NEWS <<
+                              qba'g qrpbqr gurfr
+
+         "You'll ROT-13 in jail for this!" Some assorted facts that
+         you may not have heard (yet) regarding the arrest by the FBI
+         of DMITRY SKLYAROV, for daring to break Adobe's eBook copy
+         protection. Fact Bar: According to spirits channelled by
+         Mystic Mike Magee at the INQUIRER, one of biggest buyers of
+         Sklyarov employers Elcomsoft's cracking software is,
+         weirdly, the FBI. But that's okay, because the Digital
+         Millennium Copyright Act *does* allow US government agents
+         use of decryption programs like Dmitry's (DMCA 1201(e)),
+         just as it bans any other American from using them (DMCA
+         1201(a)). Cool. Fact Gjb: lead on the case is director of US
+         Attorney's Office of Northern California, Robert S. Mueller.
+         Fact Guerr: He's President Bush's nomination to be the new
+         head of the FBI. Fact Sbhe: Mueller is meeting the US
+         Attorney General (the modern-day equivalent of Chief Judge
+         Fargo) today at NSI/Verisign, just a few miles from where
+         Dmitry will shortly be incarcerated. There, we fondly
+         imagine, both politicians will cavort naked in piles of
+         Verisign monopoly money and bathe in the blood of innocent
+         reverse-engineers, before scaring up more tax money for a
+         fake "war on cybercrime". Fact Svir: protests are planned,
+         kids. If you're in the general area of the USA or Moscow on
+         Monday, see the EFF's alert page. If not, why not plan your
+         own, or phone Adobe on 020 8 606 4000 to register your
+         thinly-disguised nasal disdain.
+         http://www.boycottadobe.com/pages/rallies.html 
+                                             - it's like the old days 
+         http://www.theinquirer.net/19070104.htm
+                                      - Magee provides sober analysis
+         http://thomas.loc.gov/cgi-bin/cpquery/z?cp105:hr796:
+                 - URL for the DMCA surprisingly not ROT-13ed at all
+         "Winning at all costs is not the most important thing. I
+         think you need to win in the context of the society of which
+         you are a part." - John Warnock, founder, Adobe.
+         http://www.bsa.org/usa/policy/events_awards/warnock_c.phtml
+         - ahaha! off the *BSA* site! ahahah! extra irony points!
+
+         We're in the spam-relay blacklist ORBS! And look - so's
+         everyone else! The message for those still checking orbs.org
+         on the off-chance it'll magically reappear: "Quit living in
+         the past, man. Uninstall that copy of Napster and get on
+         with your lives". And under a hail of new DNS traffic, one
+         of the orbs.org nameserver operators provided additional
+         encouragement by configuring his server to always return a
+         positive result - thus bouncing mails at random while
+         postmasters remained oblivious. This wasn't completely out
+         of the blue: Ron Guilmette did post a warning to NANAE...
+         where it was promptly buried in the usual storm of
+         HipCrime's ascii aphasia, hidden to all but those with the
+         most fascistic filtering. In other RBL^W DNSBL news (not to
+         be confused with RBL[sm], natch) MAPS[sm] announced its new
+         pricing structure, prompting many a sysadmin to ask:
+         wouldn't it be cheaper just to pay a large man to visit
+         Michigan with a very large hammer?
+http://groups.google.com/groups?selm=tks98qske8acbd%40corp.supernews.com
+             - by the time you read this, your mailspool will be dead
+http://www.mail-abuse.org/feestructure.html
+                                                      - make $$$, etc
+http://groups.google.com/groups?selm=3B50CE49.1645AE6A%40osirusoft.com
+                                                           - TLA (TM)
+
+         PERSONAL MESSAGES: PHILIP BUXTON of NETIMPERATIVE. No, you
+         were absolutely right to correct our figure of 9 grand a
+         year total subscriber income for NETIMPERATIVE. Your
+         company, of course, receives 9 grand every *six months*, a
+         very different matter. And we really don't mind that the
+         first e-mail you sent was titled "FW: YOU ARSE". Please stop
+         apologising. MICHAEL "COLIN FROM EASTENDERS" CASHMAN, MEP:
+         The Register says that you killed the EU anti-spam bill
+         because "Email is the easiest form of communication from
+         which to opt out. Recipients need only press reply and type
+         'unsubscribe'." Does this mean we can subscribe
+         joek@michael-cashman-mep.new.labour.org.uk to all the
+         "opt-out" mailing lists we can find now? Ta! And, on a
+         closely -related topic, ANONYMOUS: No, of course we can't
+         say that http://storm.prohosting.com/~dmachaps/dmaindex.html
+         now contains the complete DIRECT MARKETING ASSOCIATION email
+         membership list. We still have *no* idea why anyone would
+         want a complete list of these junk-mailers' e-mail
+         addresses. Other than to offer them further fantastic
+         marketing opportunites - and they can always "unsubscribe"
+         if those get too annoying, so no harm done, eh Michael?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Congressman GARY CONDIT seeks fresh interns, provides handy
+         link to "National Center for Missing and Exploited Children":
+         http://www.house.gov/gcondit/intern_opportunities.htm ...
+         departing FUTURENET employees spell out "Arse Biscuits" in
+         news links: http://www.ntk.net/2001/07/20/dohfewtch.gif (the
+         rudest word they know?)... life also imitates headlines for
+         POPCORN staff: http://www.ntk.net/2001/07/20/dohpop.jpg ...
+         PRAVDA blows the whistle on mind-reading laser satellites:
+         http://english.pravda.ru/main/2001/07/11/9825.html ... fierce
+         London property market encourages "out of the box" solutions:
+         http://www.ntk.net/2001/07/20/dohloot.gif ... "Should we
+         consider revising the archaeology curriculum?" ponders
+         http://www.archaeology.org/ in TOMB RAIDER review... ARNIE's
+         "renegade vision" achieves long-overdue arthouse recognition:
+         http://www.amazon.co.uk/exec/obidos/tg/feature/-/96105/ ...
+         http://test.drkeyboard.com/ubb/Forum2/HTML/000165.html vs
+         http://www.datadocktorn.nu/kortbyte.php ... another broken BT
+         status page: http://www.ntk.net/2001/07/20/dohstatus.gif ...
+       http://www.scifi.com/scifiwire/art-main.html?2001-07/17/13.00.tv
+         imitates Onion's "Star Trek Introduces Alien Character With
+         Totally Different Forehead Wrinkles"... truth in search
+         engines #3: http://search.yahoo.com/bin/search?p=scout+master
+         ... "Other hits" presumably include "War Pigs" and "Paranoid":
+         http://www.ntk.net/2001/07/20/dohsister.gif ... ROMERO leaves
+         ION STORM, his mission complete... 100 DoS threads? that CODE
+         RED VIRUS has launched about a thousand in my bloody inbox...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Typically, we don't approve of any kind of user registration -
+         which is presumably why we never make it to groovy events like
+         YET ANOTHER PERL CONFERENCE::EUROPE (from Thu 2001-08-02,
+         Amsterdam, some tickets still available, 99 Euros each), or
+         the 51ST MEETING OF THE INTERNET ENGINEERING TASK FORCE (from
+         Sun 2001-08-05, Hilton Metropole, London W2, USD$450.00 before
+         next Fri 2001-07-27 - handily the same date as International
+         Sysadmin Day). Also next Fri, those painfully mysterious
+         "Twentythree" dudes - who we still don't think are anything to
+         do with the real KLF - imagine initiates can be bothered to
+         send their postal addresses to scribe@twentythree.co.uk with
+         the words "23 Live Event" in the subject line to receive
+         tickets to a "multi-media hybrid of cutting-edge visual art
+         and electronica". But the good news is you can "just drop by"
+         at subterranean LAN party CAMDEMNATION 2001 (from noon Sat
+         2001-07-21, Stables Market Catacombs, Camden, London) - which,
+         considering recent events and their contest to "Win a BB
+         Version of Your Favourite Counterstrike Weapon", might even
+         culminate in genuine shoot-outs with trained police marksmen.
+         http://sparcy.atariuniverse.com/~bredroll/ds/
+                       - we're joking of course. That would be awful.
+         http://www.sysadminday.com/
+            - gives irritatingly precise list of eligible professions
+         http://www.ietf.org/meetings/IETF-51.html
+                         - does the social event include "RFC Bingo"?
+         http://www.yapc.org/Europe/
+- OK, so HAL is nowhere near here (though how big is Holland anyway?)
+         http://www.spesh.com/ben/super2001page.html
+               - back by popular demand: Ben Moor's super string show
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         MINDTERM, the Java ssh client you can stick somewhere for
+         when you need ssh in a cybercafe, reached 2.0 last month.
+         It's taken us this long to work out why: the code's changed
+         a lot, and there's plenty of bug fixes and rewriting, but
+         nowhere does this version wave a fistful of extra features
+         at us and dare us not to update our old "This applet is 576
+         days old" version. For the record: it's ssh2; there's a
+         ftp->sftp proxy that's a bit useful; you can run it as a
+         standalone application; it doesn't say "This applet is 576
+         days old" anymore; there's a global password keyring;
+         there's a funny "babblebabble" translation of the host
+         fingerprint. But mainly, it's 2.0 because Mindterm was
+         bought up by a new company, and I think they wanted
+         something impressive on the press release. Oh, and it's no
+         longer GPLed. Time for a fork.
+         http://www.isnetworks.net/ssh/
+                   - and as if by magic, a forked GPL version appears
+         http://www.appgate.com/products/mindterm/
+                             - Mindterm Public Source License, wahay
+         http://www.appgate.com/products/mindterm/demo/
+                              - still a very cool applet demo, though
+
+
+                                >> MEMEPOOL <<
+                                oogle la google
+
+         BLOGS, without all that tedious "personal commentary" stuff
+         http://blogdex.media.mit.edu (which includes ourselves, of
+         course)... another EBAY business model escapes into the wild:
+         http://www.monkeyphonecall.com/ ...NAPSTER song topical again:
+http://groups.google.com/groups?selm=96cb0p$rc7$1%40news.creativelabs.com
+         ... at last, a TVGH ripoff that might run the lame ones *you*
+         send in: http://www.geocities.com/theexpressway/tvgth.html
+         ... obviously the subtext of all "choose your own adventure"
+         experiences: http://www.jerking.com/ ... LEGO PALM casing:
+         http://www.beanos.com/~tsoutij/legopalm.php vs DIY HELLO KITTY
+         laptop: http://spdcc.com/~fj/phkl/ ... CHRISTIANS devise
+         complex rationale for dealing with poor deluded cult-members:
+         http://www.theway.co.uk/cults/part1/botherwithcults_page1.htm
+         ... time to roll out the "Tolkien Ring Network" gags already:
+     http://www.zdnet.com/zdnn/stories/newsbursts/0,7407,2787361,00.html
+         ... maybe not enough broken GIFs to pass for the real thing:
+         http://www.new-tube.co.uk ... generic "MR T" construction kit:
+         http://members.aol.com/Sucka000/T1.html - and its nightmarish
+         consequences: http://www.autofish.net/clysm/mrtvs/v/ ...
+         reasonably well-adjusted, by the standards of BIG BROTHER
+         viewers: http://www.geocities.com/paullovesjo/ ... we're
+         really hoping this was some sort of misguided foot and mouth
+         spoof: http://web.ukonline.co.uk/gypsy-ham/welcome.htm - and
+         if it wasn't, then what the hell...?
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> after battling Homo Superior in the sci-fi series "Prey",
+         Debra Messing takes on a homo flatmate in James "Cheers"
+         Burrows' gay sitcom WILL AND GRACE (9pm, Fri, C4)... Mimi "X
+         Files" Rogers squints through the dry ice and searchlights of
+         1980s Ridley Scott romance SOMEONE TO WATCH OVER ME (9pm, Fri,
+         C5)... and it's a 3-way pile up later between Luc Besson car-
+         crash carnage TAXI (12.35am, Fri, C4), Terminator knock-off
+         ASSASSIN (1.25am, Fri, C5), and Chesney Hawkes' "One and Only"
+         starring film role BUDDY'S SONG (1.25am, Fri, BBC1)... all
+         together now: "It's a UNIX system! I know this!" - though why
+         are there progress bars at the bottom of the surveillance
+         footage in CGI kiddy-ride JURASSIC PARK (8.15pm, Sat, BBC1)?
+         ... other web user portrayals this week include the astral-
+         projecting designer in I BELIEVE I CAN FLY (7.55pm, Tue, C4),
+         ebay-baby-buyers MEET THE KILSHAWS (9pm, Wed, C4) and the
+         will-they-won't-they-show-it BRASS EYE vapourware special
+         (10.35pm, Thu, C4) - "If you think kiddie porn is funny, you
+         should have a good laugh" advises Richard Blackwood, comedian:
+       http://media.guardian.co.uk/broadcast/story/0,7493,524045,00.html
+         ... Channel 5's straight-to-video season continues with late
+         '90s botched heister TRUTH OR CONSEQUENCES, NM (10pm, Sat,
+         C5), Jon Lovitz "Dangerous Minds" parody HIGH SCHOOL HIGH
+         (9pm, Sun, C5), and Chris Farley's dumb-but-funny BEVERLY
+         HILLS NINJA (8pm, Wed, C5)... BBC1 desperately tries to keep
+         up with future-prison tosh NEW EDEN (12.35am, Sat, BBC1), plus
+         a double bill of genre-defining Arnie death-quip actioner
+         COMMANDO (9.10pm, Tue, BBC1) and Dave "Kids In The Hall" Foley
+         "The Fugitive" spoof THE WRONG GUY (11.40pm, Tue, BBC1)...
+         SPACE (8.30pm, Sun, BBC1), BEAGLE 2 - A MISSION TO MARS
+         (11.20pm), and ANCIENT APOCALYPSE (9pm, Thu, BBC2) set an
+         exciting precedent for remaking all genres of documentary
+         programmes with loads of computer graphics in, including the
+         WW2 and serial killer ones... while C4 appears to eschew the
+         more conventional "Bluff" spelling in favour of something with
+         a hint of nudity in Gail Porter sightless gameshow CELEBRITY
+         BLIND MAN'S BUFF (9pm, Thu, C4)...
+
+         FILM>> arguably the best "Jurassic Park" movie so far - for
+         what that's worth - as the usual indie actors run around Tron-
+         style soundstages and CGI backgrounds in JURASSIC PARK III
+         (http://www.screenit.com/movies/2001/jurassic_park_III.html :
+         we briefly see part of [Tea Leoni] in her bra - and a full
+         view of her back)... the TV ad has, for weeks, featured a
+         bloke remarking the cinema was "full of women" which, since
+         it's only just been released, was presumably a pre-selected
+         test audience for Brit crime caper HIGH HEELS AND LOWLIFES
+         (imdb: Mary "Murder One, Deep Impact" McCormack, Kevin "Simon
+         Quinlank" Eldon, Minnie Driver, plus the writer of "Spice
+         World" and "LA7" - together at last!)... based on the chick-
+         novel "Animal Husbandry", it was renamed "Someone Like You"
+         for the US, but this "Bridget Jones" rom-com is now called
+         ANIMAL ATTRACTION again (http://www.cndb.com/ : Ashley [Judd]
+         is clearly naked for her love scene with Greg Kinnear but she
+         generally hugs him close to her not allowing for much breast
+         exposure [...] the side of her breasts come briefly into view
+         but it's very quick and there probably isn't even any nipple.
+         Later, she does a cheerleading routine for Hugh Jackman in
+         just a tight tank top and very skimpy panties) - great news
+         for anyone who wants to see Hugh "X Men" Jackman in just a
+         tight tank top and very skimpy panties...
+
+         DO NOT IRON DECORATION>> OK, so we rarely meet our optimistic
+         "new T-shirt design every month" quota - but we've spent the
+         intervening period redesigning our e-commerce site, giving it
+         a new name that no-one's quite sure about, and (apparently)
+         making it less compatible with Opera. Oh, and there's some new
+         t-shirts over at http://www.geekstyle.co.uk/ as well, most
+         notably a tribute to retro Spectrum classic 3D ANT ATTACK,
+         designed by MODESTY B CATT (of http://www.phink.net/elite/
+         fame) and approved by "Ant Attack" author Sandy White (UKP2
+         from each sale goes to a charity of his choosing). This month
+         also marks the launch of our "Premium Classics" range: shirts
+         which cost UKP12.50 (instead of UKP10) because they have more
+         than one ink colour, or a back print, or slightly thicker
+         cotton (or all three): designs here include the notorious
+         ADMINSPOTTING (from http://www.adminspotting.org/ ), a couple
+         of apparently unofficial "They Live" tie-ins - "STAY ASLEEP"
+         and "OBEY" - which http://www.toxico.co.uk don't seem to sell
+         direct any more, and the original MEMES DON'T EXIST - TELL
+         YOUR FRIENDS... but no, we haven't "sold out", we are still
+         enthusiastically accepting designs from talented NTK readers
+         (especially if they happen to be in touch with the author of
+         a well-known retro video game) - despite, or perhaps because
+         of, their increasing trends towards the upsetting and bizarre.
+         JOSH ROULSTON continued the musical parody theme with his
+         http://paradroid.com/junk/ntk-nin-shirt.gif logo, which we
+         thought might look good on a hat (how about "ATDT", but in the
+         style of the band "AC/DC"?), HENRY BLOOMFIELD plumped for
+         http://www.bloomfieldpottery.com/bloomfield/ntk/ntk.gif , and
+         TARAS YOUNG astonished us all with this elaborate Absolute/
+         XHTML parody http://www.snowblind.net/taras/ntk3.jpg which,
+         even now, we're not sure if we fully understand... of course,
+         you don't have to use NTK as part of the design, as shown by
+         CHRIS BARNES' subtle "Unicode" translation of the word "FUCK"
+         http://ntk.doonkay.net/ , the eternal truths of VICKY CLARKE's
+         poignant http://www.tartarus.org/~vicky/stuff/lart.png , the
+         unarguably direct http://www.gotmatches.com/tshirt.html from
+         MICHAEL HALMINEN, and the startlingly Scandinavian portfolio
+         http://www.artistic.no/plan1/portfolio/tshirt.html submitted
+         by MORTEN TORNES. "PETE's" http://www.nepalesetemple.com/ntk/
+         sadly fell victim to recent cabinet reshuffles, though IAN
+         "ELITE" BELL maintains "A plain tombstone marked: Privacy RIP
+         seems more powerful to me. One could bastardise the classic
+         Meatloaf 'Bat out of Hell' album cover putting Privacy RIP on
+         the tombstone and Steganography (or similar countermeasure) as
+         the motorbike logo". We have so far failed to come up with an
+         artist's impression that satisfactorily reflects this brief,
+         so if anyone out there reckons they're up to it... typically,
+         we've been too slack to implement any proper online voting
+         (somehow http://www.iamcal.com/ami/ isn't quite what we're
+         looking for), so mail NTK if you absolutely *must* have one of
+         the above designs for your wardrobe - or indeed, if you'd like
+         one of our current designs, but in a different size or colour
+         configuration. We're currently considering doing some special
+         requests for the upcoming reprint run of "I Got UKP80 Million
+         For My Dot-Com Idea" (possibly even including "Skinni Fit" for
+         women), as suggested by MATT RUTHERFORD ("XL? Give me a break
+         - no self respecting geek can get into an XL. How about XX or
+         even XXXL for the king geeks out there?") and CLIVE JONES
+         (orange is, apparently, *so* "not [his] colour")...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            "intrigued and bemused"
+http://www.opendemocracy.net/forum/document_details.asp?CatID=87&DocID=490
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

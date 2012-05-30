@@ -1,0 +1,319 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____10/04/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+           "Solving the problem is like having open-heart surgery on
+          your IT system. Do you want a medical student doing that?"
+                 - ANDY KYTE of the Gartner Group, Y2K hypochondriac
+                                    well, we'd prefer programmers...
+
+
+                               >> HARD NEWS <<
+                               untenable views
+
+         In a popular week for near/actual death experiences (Milli
+         Vanilli, Tammy Wynette, Kurt Cobain, Jesus), the European
+         Net played a few rounds of "chicken" itself. On Tuesday,
+         DNS gods NETWORK SOLUTIONS decided that the RIPE.NET domain
+         was too dodgy to live, and put it "on hold". Bad idea:
+         while an excellent name for a porn site, Ripe is actually
+         the major European IP database, storing (amongst other
+         items) chunks of Net routing information that many ISPs
+         rely on - no RIPE, no Net. Plus, the unsinkable TELEHOUSE
+         managed to zap two floors Friday, vanquishing AOL, PsiNet,
+         Infocom and other almost-household names. Interestingly,
+         this was almost 11 months to the day since the UK Net last
+         fritzed, implying that perhaps the Telehouse generators
+         really don't "go to eleven". And the scariest part of this
+         lesson in the Net's vulnerabilities? Well, did you notice
+         anything?
+         http://www.ripe.net/
+                        - another "accident" in the domain name wars
+         http://www.telehouse.net/
+                                           - "don't even look at it"
+
+         Microsoft launched a US ad campaign to win the public over
+         its side of the Force this week. Points made in the
+         newspaper placements included identifying that "at the
+         heart of this incredible computer revolution is the kind of
+         innovation that is uniquely American", and that "Every wave
+         of innovation and integration creates another wave of great
+         ideas." But some uniquely American ideas are greater than
+         others. The LA Times today revealed secret Microsoft
+         strategy documents that show Bill's latest wheeze to be a
+         fake grass-roots letter-writing campaign, with opinion
+         pieces and editorials apparently written by independent
+         individuals, but in fact commissioned by Microsoft with
+         costs "billed to Microsoft as an out-of-pocket expense". MS
+         spokesman Greg Shaw at first denied the plan existed, then
+         stated that it was only hypothetical - an innovation indeed
+         to the regional PR firms who, the Times says, were lead to
+         believe it was a done deal.
+         http://www.ntk.net/latimes/
+                                  - "welcome to my world, Mr. Gates"
+         http://www.microsoft.com/corpinfo/advertorial/add.htm
+                                        - sign right here, Mr Dvorak
+         http://www.employees.org/~rnapier/linus.html
+                               - two can play at that game, Mr Gates
+
+         Obligatory Web-Agency-In-Trouble-Story for this week:
+         medium-creepy NY Web corp AGENCY.COM look set to buy a
+         majority stake in ONLINE MAGIC after ad agency BMP DDB
+         decided to pull out of the plucky^H^H^H^H^H well-
+         established British Web house. Us? We're buying shares in
+         Tired Hacks Writing "Shake-out In UK Net Industry"
+         Articles. Looks like boom time there.
+         http://www.onlinemagic.com/
+         - We only put this in because we have 20 OM subscribers. Hi!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         Bill Gates buys FIREFLY: I don't remember putting *that* in
+         my preferences... Predicting Twisters Relies On People,
+         Technology, says CNN ... WIRED in trouble, uncovers
+         FORBES... anonymous Falco to the man who said NEW MEDIA
+         FACTORY, Cambridge would call in receiver this week... YELL
+         picks Comedy Web as Top Ten site, despite not having been
+         updated for nearly two years... YELL selects
+         www.britstuff.com as "most popular site in UK" after
+         company writes "click and reload" script... MICROSOFT
+         attacks Lessig again: this time over his pop knowledge...
+         jokes of the form "I'm never going to <X> again, guilty <Y>
+         got no rhythm" ... OMNI ONLINE to continue as "static
+         site"... Japanese man's inflatable pants activate on
+         underground... Scallywag SIMON REGAN arrested *again*...
+
+         ANTINEWS SPECIAL: Guardian Online's Richard Barry ran an
+         intriguing story in his Videowatch column this week. In it,
+         he claimed that "George Lucas has purchased all Paramount's
+         Star Trek rights" and "plans to merge the two films" later
+         this year. The two, the piece went on, would be linked by
+         an "Ensign Obie" - Dr McCoy's son-in-law, played by Mark
+         Hamill. This story originally appeared on April 1st on
+         C|Net's GameCenter, where it was written by one April F.
+         Ewls. Barry later said that he had checked the story with
+         Paramount and "they did not deny it". Barry placed it as
+         the fourth most important item in the column, behind a
+         Pitfall Harry plug, details of Heretic II - and news of a
+         new Tombraider sequel.
+         http://www.gamecenter.com/News/Item/0,3,1612,00.html
+         http://online.guardian.co.uk/computing/892055104-video.html
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Amazingly, some pop stars have survived the annual Easter/
+         New Tax Year purge, and the irony is, they're KRAFTWERK.
+         Not exactly noted for their lively stage presence, the
+         once-pioneering robo-musos are booked to play The Royal
+         Festival Hall on 04-05/10/98, as part of a South Bank
+         electronica season tentatively entitled "Machines". If you
+         can't wait that long, tonight Russian semi-tribute act
+         SOLAR X (aka "Outremer") plays the Blue Note, Hoxton Sq,
+         London N1 - UKP10 to get in, but "free drinks" are
+         involved.
+         http://www.sbc.org.uk/book.htm
+               - maybe the same DATs they played at Tribal Gathering?
+
+         CINERGY, our favourite film club, risk disfavour with their
+         wanton prostitution at the hands of the Arch-Satan ICA. But
+         we guess that's justified, given the theme of their PEEK-A-
+         BOO theme evening, at said monstrosity on 16/4/98 at
+         2100GMT. They save themselves by featuring THE POD, Dance-
+         Thought Collective of egoless faceless transhuman beings.
+         http://www.amulation.com/cinergy/980416.html
+                                                - "salacious cabaret"
+         http://alt.venus.co.uk/thepod/
+                             - Expand your eyes... widen your head...
+
+         Susan Arbetter and Tim McEachern (off of WAMC's
+         "GeekNation" show - yes, *that* Susan Arbetter and Tim
+         McEachern) write to tell NTK that they're holding a special
+         GEEK PRIDE DAY celebration on 17/04/98 in Troy, New York.
+         And if you can't make it to there - well, ignore the logic
+         of any song that suggests you can't make it to anywhere,
+         and, T+S suggest, hold your own Geek Pride party! Full(ish)
+         details from GeekNation's... refreshingly sparse Website.
+         http://owi.com/geekpride/
+                                             - you needed an excuse?
+
+
+                                >> TRACKING <<
+                I'm picking up something on my radar, Michael
+
+         Cleaning up their own mess by replacing yet another
+         "unhackable" encryption system was reported to have cost
+         BSkyB UKP 30million in '96 and *someone* had to pay.
+         Unfortunately for pirate card seller Chris Carey, it's him:
+         four years in prison for reselling stuff you could have
+         found on the Web anyway. Condolences, but it's not all bad
+         news for multinational-media-conglomerate-smashing tube-
+         jockeys. There's a new version of SELECTOR, the program
+         that allows you to repeatedly alter the hard-wired regional
+         limitations on DVD-ROMs. UK owners of the Creative Encore
+         DVD drive can now watch Zone 1 discs in all their glorious
+         phased line alternative. Should you ever be stuck in the US
+         with only a PAL TV, that is.
+         http://www.hackwatch.com/~kooltek
+                      - so no word on a series 11 anytime soon then?
+         http://www.xs4all.nl/~evdberg/
+                         - hollywood motion pictures: now in colour!
+
+         Ever wondered how much shorter the Easter weekend might
+         have been if the disciples had a reliable lifesign-
+         monitoring system installed in the tomb? Maybe not, but
+         surely the modern day equivalent is ARGUS, a useful free
+         service for Webmasters that pings your site every hour, and
+         sends an e-mail or GSM SMS message if your site, like God,
+         mysteriously disappears.
+         http://www.argus.myth.co.uk/
+                                                        - or "hangs"
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         http://beta.yahoo.com ... JAMES CAMERON to direct HBO "Red
+         Mars" mini-series... MTROPOLIS going open source?... Kosher
+         Kola... RUPUTER *not* named after RuPaul (or Rupert the
+         bear?)... www.io360.com/v2/yo/asciiworld/gs.html ... PETER
+         GREENAWAY doing porn? ...  next MAC OS will have stereo
+         desktop noises (woo)... ARTHUR C CLARKE outs himself;
+         pedophile allegations collapse... learning from Teletext:
+         we need a <REVEAL> tag... www.chaosengine.com... two words:
+         Pot Mash... http://vision.ucsd.edu/~atai/softwarewar.gif
+         ... www.odci.gov/cia/ciakids/ ... the real reason for the
+         MS/RealNetworks spat: nslookup www9.real.com ...
+         www.airwolf.org/ ...
+
+
+                               >> GEEK MEDIA <<
+                      as much fun as you can have in 2D
+
+         TV>> repeats of the first four ADAM AND JOE SHOWs (11.05pm,
+         Fri, C4) conclude with them complaining to Walkers about
+         how their salt-n-vinegar bags are green and their cheese-
+         and-onion ones are blue, in strict contravention of ISO
+         crisps regulations - and the laws of nature... fab '60s
+         miniaturised FX-fest FANTASTIC VOYAGE (3.35pm, Sat, BBC2)
+         isn't based on an Isaac Asimov story - but nearly could
+         have been... Easter weekend means themes, themes, themes,
+         with C4's A NIGHT ON THE MERSEY (from 6.30pm, Sat, C4)
+         heralding both a massive Brookside overdose and Beatles-
+         bootleg BACKBEAT (10pm, Sat, C4), which is like Hackers
+         (from the same director), but without all that dumb
+         computer stuff... then BBC2's POLITICALLY INCORRECT NIGHT
+         (from 9pm, Mon, BBC2) sniggers over a Miss World docu,
+         three retro clip-shows, plus an On The Buses film - and
+         doesn't seem to incorporate the preceding Noel Coward
+         tribute, Spinal Tap on The Simpsons, or even Battlestar
+         Galactica... final series of space-soap BABYLON 5 (12.40pm,
+         Sun, C4) now follows Hollyoaks, The Waltons - next: Crusade
+         ( http://tnt.turner.com/babylon5/se_crusade_z.html )... get
+         up early for vicious Reboot/ Transformers hybrid BEAST WARS
+         (8.50am, Mon, ITV), triple billed with the reassuringly
+         ridiculous BIG BAD BEETLEBORGS (7.45am, Mon, ITV) - then
+         shut down for the "upgraded" '95 version of teen Kurt
+         Russell Disney superhero romp THE COMPUTER WORE TENNIS
+         SHOES (9.50am, Mon, ITV)... go on, try decoding the ASCII
+         hex in the rarely-repeated 3D episode of THE SIMPSONS (7pm,
+         Wed, Sky1)... followed by their new effort about cars,
+         FIRST ON FOUR (10pm, Wed, C4) should surely have focused on
+         The Comic Strip's early, almost-funny, films... fun with a
+         low-rent cast and pre-texture-mapping CGI in THE LAST
+         STARFIGHTER (10.30am, Thu, ITV)... and Emilio Estevez, Rene
+         Russo, writer Robert Sheckley, and Mick Jagger time-swap
+         bodies in FREEJACK (10.50pm, Thu, BBC1) to create a
+         nightmare vision of a future ruled by PC Zone journo,
+         former Doom champion and winner of Q Magazine's "Starmaker"
+         competition, David McCandless...
+
+         FILM>> virtually nothing new after last week's glut, unless
+         you count JUNK MAIL (imdb: thriller/ comedy), a bizarre
+         Scandinavian cross between Kevin Costner's The Postman and
+         Massimo Troisi's Il Postino - which does, however, feature
+         the lyrics from Postman Pat in Norwegian... equally off-
+         beat, DIFFERENT FOR GIRLS (imdb: comedy / sex-change) turns
+         out to be a rather bland romance merely disguised as an
+         intriguing transsexual relationship exploration - and it's
+         hardly based on the Joe Jackson song at all... PS: we don't
+         think either of these are on particularly wide release yet;
+         either that or www.virgin.net/cinema/filmfinder genuinely
+         reckons it's worth travelling distances in excess of 300km
+         just to see them...
+
+         MAGS>> starts with some bad news: James Wallis (of the
+         still entirely healthy Bizarre) informs us that influential
+         hate-zine ANSWER ME is no more (or "basically fucked", as
+         he puts it). Joint eds Jim and Debbie Goad are now
+         divorced, Debbie has cancer, and Jim's off writing books -
+         but let's face it, could AM ever have sustained the sheer
+         vitriol of those first 4 issues?... new, supposedly anti-
+         lads' semi-music mag DELUXE, published by The Face/ Arena,
+         is far too dull to live, with a design that looks like
+         Neon, far too many cartoons by the same guy, and the worst
+         back-page rip-off of www.theonion.com ever attempted by
+         non-teenagers... OFFICIAL UK PLAYSTATION MAGAZINE hasn't
+         taken to its new lifestyle-bracket circulation at all well,
+         with lame little box-gags, the same tired-looking review
+         section, plus a gripping interview with 6 PR people you've
+         never heard of (p16). Plus, what's up with their video
+         grabbing hardware?... the "Spring 1998" issue of .NET leads
+         with a searching account of "Online Identity" that, indeed,
+         reads like it's been extensively rewritten (p79), and slams
+         CyberSitter for blocking the words "shit" and "fuck"
+         possibly sent to one young reader via their hacked netmag
+         mailing list (p24)... that said, the first FRONTIERS isn't
+         bad at all, despite a bizarre caption mix-up over ICBM,
+         Minuteman, and missile (p20), a failure to observe the
+         "first issue only 1 pound" rule, and insanely billing
+         itself as "the magazine of popular science, technology and
+         space" - like space is at all accessible without the first
+         two... no, even we don't know why possibly fictional (but
+         definitely carnivorous) NTK ed Dave Green is in the current
+         issue of BBC VEGETARIAN GOOD FOOD (p20)... The inevitable
+         Kevin Smith indie comic spin-off is already into its second
+         printing: CLERKS #1 draws us into the shadowy world of star
+         wars toy dealers in a similar vein to Dorkin's Eltingville
+         Club... anyone want to contribute to a site devoted to
+         cataloguing the occasional technical, grammatical and moral
+         errors in EDGE magazine? mail us at edged@spesh.com : we're
+         asking for trouble...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "bigger than www.jesus.com".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+
+
+
+

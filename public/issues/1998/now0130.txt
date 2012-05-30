@@ -1,0 +1,316 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____30/01/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+          "We're not a push company. We never have been
+                             in the push market and never will be."
+                                   - DAVE COPE, Vice Pres of MARIMBA
+         You got wrong number! Marimba now chinese laundry shop, OK?
+
+
+                               >> HARD NEWS <<
+                                 livid bruise
+
+         COMPAQ, the company that started life in 1982 on a "House
+         of Pies" napkin, ate up DIGITAL "big in the seventies"
+         EQUIPMENT this week for a cool $9.6 billion. Compaq
+         promised not to spit out any of DEC's UNIX or VMS users,
+         but, you know, those Windows NT platters look veerry
+         tempting. Meanwhile, 72 year old DEC founder Ken Olsen must
+         be spitting chips: it was he who in 1977 said "there's no
+         reason why anyone would want a computer in their home".
+         Meanwhile, if you're wondering what this means for you, use
+         this simple mnemonic for the company's roadmap: Microsoft
+         will own the software, Intel will own the processor, Compaq
+         will own the hardware platform, and they will all own yo
+         ass.
+         http://usis.intnet.mu/smith/0/NA378.htm#tc35
+         - "people don't want computers. They want terminals"
+         http://www.compaq.com/
+         - Altavista running on NT. Can't wait. Or rather, will.
+         http://www.ibm.com/
+         - thank goodness those bold clone-makers saved us from this 
+                                                 evil monolith, hey?
+
+         Bad news for cypherpunks who thought legislation against
+         strong crypto had been laughed out of court. Jack Straw, it
+         seems, has been nobbled by the "lock up these PGP
+         guerrillas and throw away their keys" contingent. At a
+         meeting of European Justice ministers in Birmingham this
+         week, Jack said "we are using 19th century procedures to
+         pursue 21st century criminals" - the standard argument for
+         introducing key-grabbing policies. And despite a
+         conspicuous lack of evidence for these "Flash Gordons of
+         crime", a smokescreen that could hide the governments'
+         crypto U-turn is beginning to billow. In the latest edition
+         of COMPUTER WEEKLY, sources suggest that Downing Street
+         "will have no objection to potential certificate
+         authorities offering key recovery encryption. However, any
+         such services might have to provide access to law
+         enforcement agencies, for example in the prevention of
+         terrorism." So, they've played the terrorist card. Now,
+         it's just a matter of bringing up the evil pornographers
+         and drug barons...
+         http://www.homeoffice.gov.uk/hofront.htm
+                   - maybe we shouldn't have spammed William Straw's
+                                                name to USENET, then
+         http://www.epic.org/privacy/tools.html
+                                 - get 'em while they're still legal
+
+         Shy retiring billionaire Bill G. went on a publicity
+         offensive this week: emphasis, unfortunately for him, on
+         "offensive". In Silicon Valley, he tried the libertarian-
+         fighting-State guise, saying that it was intolerable that
+          third-parties were crippling his products (rather than, as
+         is traditional, the other way around). He also said that
+         Microsoft was being picked on for being too "sexy": "We
+         have a very sexy industry", he said, "if you worked for the
+         Department of Justice, which would you rather investigate -
+         - bread or software?". I don't know - are bakers demanding
+         you buy the rest of your food from them? Watch out for
+         repeats of his Friday ABC TV interview, in which Bill is
+         interrogated by the usual razor-sharp US interview
+         techniques ("Now Mr Gates, sir, perhaps we could move on to
+         your favourite colour?"). Then we'll see how far he can
+         take this "too sexy for your courts" meme.
+         http://www.microsoft.com/
+         - we only put this here to see if MS check their referrer logs
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         it's not just the browser that's free: Netscape sends Word
+         virus to all UK resellers... confused Ziff Davis editor
+         asks "if Apache is free, how come it needs disk space to
+         store it?"... "Gillian Anderson Is Queen Of The Net",
+         calculates ASSOCIATED PRESS after Yahoo trawl...NATHAN
+         MYHRVOLD building a working Difference Engine "for his
+         home" - what, Windows not fast enough or something?...
+         EXCITE reports loss of nearly $8m - "less than expected"
+         ... unable to quit while ahead, slashdot.org now demands
+         RealAudio, Motif give source away... "Apple Needs New
+         Customers, New Products for Comeback" uncovers New York
+         Times... "British Watchdog Warns Against Internet Sperm",
+         cautions REUTERS... Ministry of Sound doing "sitcom"; says
+         it is "interactive"... Aladdin goes belly-up... Ch4 has
+         rights to South Park, "no plans as yet to show it"... WIRED
+         cancels its fiction book series CORETEXT : some sort of
+         cash-for-pages scandal brewing over this month's lamer Wit
+         Investment article... Queen Mother "may already be dead"...
+
+
+                              >> EVENT QUEUE <<
+                           reasons to wear clothes
+
+         He's gone legit, but he just won't quit! PETER SOMMER (aka
+         Hugo Cornwall, author of the "Hacker's Handbook") is
+         hosting a series of Security Colloquia at the LSE again
+         this term, and, in a shameless breach of security, they're
+         open to the public. This week's (1800GMT, Thurs 5/2/98) is
+         on Controlling and Censoring the Net, from a kinda ISP
+         point-o'-view, and there's one on the 19th about the
+         Datastream/Kuji hack case (with special guest stars!).
+         Entrance is free, but mail P.M.Sommer@lse.ac.uk for
+         passwords.
+         http://csrc.lse.ac.uk/
+                            - No details on the official Web site...
+         http://www.ntk.net/lse/         but obscurity's no security
+
+         You may know him as the bloke off the Phineas Fogg tortilla
+         chip adverts, or the fighting telegram from Men Behaving
+         Badly, or a thousand minutely observed roles in those
+         interminable Armando Ianucci BBC2 shows. But to us, he
+         continues to be just BEN MOOR, the guy that we hang out
+         with to make *us* seem less geeky. His new one-man live
+         comedy show, A SUPERCOLLIDER FOR THE FAMILY, blends high-
+         energy physics, kitchen-sink drama, the sinister
+         machinations of "the military/ industrial/ entertainment
+         complex" - and a super bit of string. The Times said: "The
+         jokes are... so beautifully constructed that the audience
+         is unable to laugh for fear they may not hear the next
+         one." That tautly pleasurable silence will descend every
+         Mon from 09/02/98 to 23/02/98 (inclusive) at the Old Red
+         Lion pub, 418 St John St, London EC1 (nearest tube: Angel),
+         box office: 0171 837 7816. (Well, it's in a room above the
+         pub, probably. He's weird - but not *that* weird...)
+         http://www.spesh.com/pix/us.gif       (artist's impression)
+
+
+                                >> TRACKING <<
+                     putting the "rad" back into "radar"
+
+         We've been taken down the garden path by funky idea
+         organisers as often as you have, and still we like
+         Natrificial's THE BRAIN. Certainly, it's showing all the
+         danger signs of a doomed tech - small company, proprietary
+         data format, use of "mind maps", cutesy terminology, 30 day
+         free trial. But the interface is sparky, and it will, at
+         least, impress your workmates. Come on, spend another week
+         re-entering your entire life into your PC for no clear
+         reason. Go awwwn.
+         http://www.thebrain.com/
+         - "You must register and pay for The Brain within that period, 
+              or you will lose your ability to add any new thoughts"
+
+         Having received our free e-mailed transcription from
+         SpeechMachines ("record dictations anytime, anywhere"), we
+         are now convinced that either a) they have some *very* good
+         computerised speech recognition tech behind them or b)
+         they're cheating, and getting 3rd-world sweat labour to
+         type it all in. Evidence for a) is that it's all ex-
+         ministry of defence tech. Evidence for b) is that it's
+         based in the UK.
+         http://194.42.246.182/frames/trilindx.htm
+         - try reading out C code, and see if they indent it properly
+
+         Killer Namco coin-op TIME CRISIS 2 packed the serious heat
+         at this week's Amusement Trade Exhibition International
+         (see NTK 23/01/98), and now comes with: Simultaneous two-
+         player link-ups (from different perspectives - though no
+         deathmatch mode)! Same recoiling guns, new System 23
+         graphics (whatever that means)! And, sadly, enemies wearing
+         body armour! According to the brochure, "players also
+         benefit from perceived added value - when their time runs
+         out a life is lost and play continues". Also new at the
+         ATEI, the usual mix of Sega Rally 2, novelty photo booths,
+         and mad Japanese fishing sims - but no sign of genuine
+         terror-engines like TOP ELIMINATOR (from Canada's
+         ThrillTime Entertainment), a "genuine" 0-75mph dragster
+         ride that sets new records for ratio of attraction
+         cost/duration.
+         http://www.namco.co.uk/cgi-bin/forum/namco/sublist.html
+         - "Give a man a gun, and he's superman. Give him two and he's 
+                                                               God."
+         http://www.aimsintl.org/dragster.htm
+                          - $15 for a 8-second ride = $112.50/minute
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Cameron said it'd have been cheaper to *build* the Titanic
+         in a Gdansk shipyard: so let's do it!
+         www.powerup.com.au/~nicw/gigantic/gigantic.htm ... scouse
+         losers THE FARM injunct LA MACARENA - but why did  they let
+         the world suffer so long?... Altoids as blowjob aid...
+         Phrack 52 out... for your gullible Edge-reading friends:
+         www.telepolis.de/ix/artikel/E/1997/04/036/ ... why your
+         GIFs look shit in Netscape 4: www.artware.de/nc4petition/
+         ... PERSIAN KITTY goes to print... mail your INTERACTIVE
+         BAFTA nominations (cough, cough) to helenw@bafta.org...
+         mail your "EFF Pioneer" award nominations to
+         pioneer@eff.org (cough cough)... Babelfish the new Roland:
+         http://users.skynet.be/xpinchar/mc505.html ... Bored of
+         Rocky Horror? Apply the same audience participation spirit
+         to showings of Apocalypse Now!...  think you're an old
+         hand? www.clark.net/pub/kfl/history.net ...
+
+
+                               >> GEEK MEDIA <<
+                     consume more media than you produce
+
+         TV>> given the current "reality TV" craze, you'd be
+         forgiven for assuming that THE GRAND (9pm, Fri, ITV) is
+         actually a fly-on-the-wall docu about the staff of a hotel
+         who like dressing up in period costumes... E Nesbit,
+         Tolkien, Dr Seuss - some promising choices for the classic
+         kids' authors profiled in AN AWFULLY BIG ADVENTURE (6pm,
+         Sat, BBC2) - but where's cutaway king Richard Scarry?...
+         Saturday night: kill yourself - it's an Ecstacy
+         criminalisation debate on C4, or (god, no) another lame Wil
+         "Wesley Crusher" Wheaton movie on ITV... plus, over on
+         satellite, woeful wannabe waste-of-disk-space HACKERS
+         (10pm, Sat, Sky Movies 2) - notwithstanding its freeze-
+         frame and RISC/ "PCI bus" chat-up lines... FITZ (10pm, Sun,
+         ITV) is the oddly pointless US remake of Cracker... Data
+         gets emotions in Kirk/ Picard romp STAR TREK: GENERATIONS
+         (7.10pm, Sun, BBC1) - though, notably, not including
+         disgust at his dreadful make-up... WATCHDOG HEALTHCHECK
+         (7.30pm, Mon, BBC1) takes an obsessively detailed look at
+         high-functioning autistic disorder Asperger's Syndrome...
+         politico-prankster Mark Thomas bangs on about tax exempt
+         properties in LIE OF THE LAND (7.50pm, Mon-Thu, C4)... and
+         not too many rollercoaster disasters in the behind-the-
+         scenes look at Blackpool PLEASURE BEACH (9.30pm, Mon, BBC1)
+         - just another attempt to make a drama out of a
+         workplace... the Watch The Skies season audibly scrapes the
+         barrel with BENEATH THE PLANET OF THE APES (10pm, Tue, C4)
+         and David Bowie yawn-fest THE MAN WHO FELL TO EARTH
+         (11.45pm, Tue, C4)... babies with tails! - it's a long-
+         overdue "funny" episode of THE X FILES (10pm, Wed, BBC1),
+         with Darin "brother of Glen" Morgan now writing better
+         roles for himself than his debut as "Flukeman"... and LOUIS
+         THEROUX'S WEIRD WEEKENDS (9.30pm, Thu, BBC2) conclude - not
+         literally, one hopes - with trips to a militia hideout and
+         a survivalist superstore...
+
+         FILM>> possibly the worst date movie of all time, yet the
+         vicious suits in IN THE COMPANY OF MEN (MPAA rated: R - for
+         "language and emotional abuse") remain, American Psycho-
+         style, enthrallingly appalling... seems not even Total Film
+         could contrive a ridiculously enthusiatic quote about the
+         ultraviolent troubles-drama RESURRECTION MAN (imdb: not
+         listed!)... more gritty Britty life-on-the-street frolics
+         in STELLA DOES TRICKS (imdb: drama) - clue: it's not about
+         a magic act, though cheery sitcom bloke James Bolam does
+         get turned into an evil pimp... and finally, it's got Bill
+         "Twister" Paxton, Mark "Marky Mark" Wahlberg, and Julianna
+         "ER" Margulies, but TRAVELLER (imdb: con-artists / drama)
+         is actually about a pair of nomadic semi-Irish swindlers,
+         rather than the popular sci-fi role-playing game
+         (http://www.hooked.net/~dberry/gateway.html)...
+
+         SKIENCE>> Great insights of our time department: "living
+         birds are nothing less than small, feathered, short-tailed
+         therapod dinosaurs."... Ancient astronauts myths are true:
+         78 year-old Right-Stuffer John Glenn will fly again on the
+         Space Shuttle, which has NOTHING TO DO with who sits on the
+         committee which approves NASA's budgets... The Universe
+         _will_ go on expanding forever after all, according to new
+         measurements of supernova red shifts _ you can stop holding
+         your breath now... Lego launches "intelligent bricks"
+         http://el.www.media.mit.edu/people/fredm/projects/cricket/:
+         expect the NTK "build an (oversized) nanotechnology
+         assembler out of Lego Technic" competition to be revived
+         any time now... Forget batteries, and recharge your cell-
+         phone with a large jigger of 120-proof, using a miniature
+         methanol-powered fuel cell 50 times more powerful than Ni-
+         Cds developed by Los Alamos nuke-meister Bob Hockaday in
+         his basement workshop... worried about sweaty palms on that
+         all-important first date? Jeff Schweitzer MD can cure you
+         with a few deft strokes of the scalpel, severing the nerves
+         that control the sweat glands... Top new science paper
+         title at the xxx: e-print archive: "Spacetime foam as a
+         quantum thermal bath"...
+                                                   - mattb@spesh.com
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+   It is registered at the Post Office as "bigger than the average US ISP".
+                <http://www.openmarket.com/intindex/98-01.htm>
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 

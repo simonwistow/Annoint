@@ -1,0 +1,267 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-11-12_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         '"Every terrorist organization has its own internet web
+         site" to propagate it, recruit manpower, purchase firearms
+         and even sell children for sexual purposes.'
+         - AFP quoting RAYMOND KENDALL, General Secretary of Interpol
+                               http://www.wjin.net/html/news/3019.htm
+             ...although a lot of the smaller ones have Amazon zShops
+
+                                >> HARD NEWS <<
+                         falcoooooooooooooooooooooooos!
+
+         The monopoly has been smashed. Only days after Judge
+         Jackson's momentous decision, the iron grip held on the
+         lucrative "underdog" market by the nigh-omnipotent
+         LINUX/BEOS/MACOS cartel began slipping away. Areas of
+         mindshare previously closed off to struggling competitor
+         MICROSOFT obligingly opened up. JERRY "OS/2 Forever! Linux
+         When I Work Out How to Run X!" POURNELLE was mandated, by
+         government edict, to allow Bill Gates "most favoured
+         innovator" status in his newly opened head. Even Eric S.
+         Raymond's mind, one of the most fiercely defended domains of
+         the underdog conspiracy, was freed of its bounds, and
+         allowed to float toward supporting Redmond, muttering about
+         government interference. At the centre of the storm, on the
+         weekend before his COMDEX keynote, Linus "tyrant" Torvalds,
+         must be a very worried man. What if Transmeta is a success?
+         What if Redhat's shares continue to rise? What if world
+         domination means... having everyone feel sorry for Bill?
+         http://www.salon.com/tech/feature/1999/11/06/open_source/    
+                - next they'll be making me work with Red China, sez ESR
+         http://www.byte.com/column/BYT19991108S0001 
+             - this also gives Bill access to all that SDI technology
+         http://www.rc3.org/clips/epstein_msft.html
+                             - okay, okay, here's the real analysis
+
+         "No such thing as a free lunch", said BT MD Peter Bromfield.
+         "Let them go to schools, if they want cheap Net access", he
+         added (reportedly), at a Gartner Group symposium. Well,
+         looks like both remain true, despite BT bellowing that ISP's
+         will get cheap access to phone lines, enabling them to offer
+         - ooh, check this out, thirty hours or so a month free calls
+         for only thirty quid. And that's not including additional
+         charges for ISPs. And that's forcing them to use BT's IP
+         services. No such thing as a free market, certainly.
+         http://www.zdnet.co.uk/news/1999/43/ns-11169.html
+                                                         - Bye, Peter
+         http://www.theregister.co.uk/991110-000016.html 
+                                    - The Register has the calculator
+
+         One day, all the new .co.uk's are going to realise that the
+         best way to publicise their site isn't by having fancy ads
+         during Friends, or indeed, even by getting That Turkish Guy
+         to link to you. What they really need, is to get shut down
+         by the establishment. Latest additions to the "mirroring the
+         easy way": the Lord Chancellor gets an ISP to shut down a
+         site critical of a judge. Instantly, a bunch of the usual
+         suspects pop up with copies, and all the papers cover it.
+         The DVD Forum slap a legal letter on British developer Derek
+         Fawcus, forcing him to stop work on the open source DVD
+         decoder. As if by magic, coding begins anew in New Zealand,
+         and other copyright-liberal zones. Are we seeing a pattern
+         here, yet?
+         http://www.openpgp.net/censorship.html
+                                          - a use for William Geiger!
+http://livid.on.openprojects.net/pipermail/livid-dev/1999-November/001076.html
+         - Declan gets it for covering the story too fast...
+         http://www.what-declan-doesnt-get.com/
+- ...then gets it from Lawrence Lessig. Must be doing *something* right..
+          
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         GUARDIAN reveals that "the Nokia 7110 ... is the first to
+         use the wireless application protocol (wop)" ... Krazynet:
+         FALKO! ... BLOCKBUSTER eXistenZ competition leaflet asks:
+         "How many bits of graphic gaming does the Dreamcast boast?"...
+         TOMBRAIDER easier in the US, because "Americans thicker"...
+         Zen Doh: http://www.pifco.com/ ... *spectacularly* bad
+         Flash animation: http://www.switched-on.org/ ... unfortunate
+         URLs: http://www.heckler-koch.de/pistfuk.htm ... PRICE
+         JAMIESON boast in Rev!lu/i0n advert of raising "3UKP in
+         financing in only 8 days" ... useful chat-up lines: "hey,
+         aren't Slashdot posters really *creepy*?"... REAL 7.0: now
+         reports what you're *thinking* of downloading ... Epicurious
+         - or just bi? http://www.ntk.net/doh/19991112epi.gif ...
+         from that other censored Website: "Steven Reid, Thesis:
+         Changes in health and well-being in undergraduate students" ...
+http://validator.w3.org/check?uri=http://www.open.gov.uk/services/standards.htm
+         
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         The All Micro Show is back for another year, where "All
+         Micro" is used in the same sense as "All Man": i.e. macho,
+         hulking, giant non-PC platforms for a more civilised age.
+         The show sprawls across the Hangar 17 environs at Bingley
+         Hall, Stafford, for Saturday 13-11-1999 only, and this year
+         features contributions from the Computer Junk Shop, the
+         Judge-Dreddesque "Component Reclaim", the Einstein User
+         Group, the Tyne & Wear Atari User Group, and "Vic Groom" -
+         who is either a person or a dressage event, it's hard to
+         tell. Alternatively, those veterans who unashamedly used
+         their "educational" micros for playing games should jerk
+         themselves one character space at a time to Cranfield
+         "University", Beds for ODYSSEY (Saturday, 27-11-99) - "the
+         last retro gaming event of the century". Members of guerilla
+         outfits like the Commodore Faction get discounts - that is,
+         if "Component Reclaim" doesn't get them first.
+         http://www.sharward.co.uk
+         - disturbingly sexist slant creeping into these sections, I notice
+         http://users.powernet.co.uk/wibble/odyssey.htm         
+                                        - ooh ooh Megadrive Bomberman
+        
+         It's the London Effects and Animation festival next week,
+         from Tuesday 1999-11-13 until Thursday 1999-11-16.
+         Spectacles like an "how did they ruin that?" insider's guide
+         to the unconvincing effects of PHANTOM MENACE, and (it says
+         here) a preview of Toy Story II are promised, but
+         unfortunately the effects on their Flash-mired Website make
+         it impossible to tell when or where these will occur.
+         Telephone the booking office on 01203 426 514, and pray that
+         you won't have to download a plug-in just to get a ticket.
+         http://www.digmedia.co.uk/
+                                  - infinite whizzing text and beyond
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         We'd love to see the business plan in NAPSTER's safe: "1.
+         Bring entire system of intellectual property crashing down
+         around fat-cat music industry's ears. 2. Sell ads."
+         Available (in beta) for Windows, the Napster client is one
+         of the neater ways of finding and sharing MP3s online
+         without all that tedious messing around in IRC. The server
+         maintains a list of the clients online, together with info
+         on their connection, ping-rate, and a searchable database of
+         all available MP3s. Find the song you want, download it
+         directly from one of the thousand or so other clients, and
+         dump it into your local library folder - where you'll be
+         able to play it and other Napsters will be able to download
+         it, reducing the load and distributing the responsibility.
+         There's a touching sense of naivety about Napster's denials
+         that this is the biggest MP3 warez emporium on the planet.
+         Could someone reverse engineer the server protocol, and rig
+         up a free version? You know, just in case?
+         http://www.napster.com/
+                                         - #include <stddisclaimer.h>
+
+         
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         it's the Boo of poo! http://www.dogdoo.com/ ... DO NOT DRINK
+         THE COOLANT: http://totl.net/Eunuch/ ... wear ALAN close to
+         your heart: http://www.thinkgeek.com/geekgod ... ROB
+         WITTIG's latest: http://www.tank20.com/v4/lead.html ...
+         playing the "spot the canine erection" in the LYCOS ads ...
+         "offshore programmers" spams ... welcome to our humble site,
+         Mr Bond: http://www.villains.co.uk/ ... Jay, Bob, Bill, Ted
+         and Adam and Joe too: http://members.aol.com/jaybobbillted ...
+         "Take that C'T pranksters!": http://www.wulfstation.org/
+         ... the "vibrating internal pager" - astounding tech
+         innovation, or just those SODA.CO.UK artists looking for
+         hits? http://www.v-i-p.co.uk ... Worst possible Millennium
+         evening: http://www.hants.gov.uk/hampshirenow/hype.html ...
+         we still think the new "I like animals. I'm graduated from
+         two universities. And at last I like sex as every are having
+         active sexual life" would make better lyrics:
+         http://artists.mp3s.com/artists/63/mahir_cagri.html ...
+         http://fuck-the-skull-of-jesus.mit.edu/ vs
+         http://www.christ.org/ ... slightly *too* well-targeted, we
+         fear: http://www.celebritysightings.com/mz-danica_index.cfm
+         ... most liable to backfire publicity gimmick?
+         http://www.phonebashing.com/ vs
+         http://www.carl.bigstep.com/item.jhtml?CIID=667386 ...
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+
+         FILM>> "If I could fight anyone, I'd fight *William
+         Shatner*", paraphrases Ed Norton, promisingly, in David
+         "Alien 3" Fincher's supervisual homoerotic Brad Pitt
+         beat-em-up FIGHT CLUB (http://www.capalert.com/capreports/ :
+         fighting and beatings; encouraging sadness; arrogant
+         risk-taking in traffic; punk music in startup background;
+         masturbation encouraged as acceptable; insane servitude to
+         evil) - arguably the "Starship Troopers" of ironic
+         anti-consumer/ confused manhood schtick... lush imagery also
+         enlivens deeply moving Glasgow teen estate weepie RATCATCHER
+         (imdb: not to be confused with similarly themed Lee Evans
+         slapstick "Mouse Hunt")... while the most interesting thing
+         about male Pygmalion imposter costumer THE TICHBORNE 
+         CLAIMANT (imdb: UK) is that it marks the first release of
+         Cliff Stanford's http://www.films.redbus.co.uk Redbus
+         Distribution, to be followed next week by yet another
+         critically acclaimed minutely-observed period drama, THE
+         RAGE: CARRIE 2...
+
+         TV>> After demolishing the Catholic church, the Father Ted
+         writers aim their satirical railguns at that other pillar of
+         the establishment - HIPPIES (Fri, 21:30, BBC2)... while
+         Richard "Slacker" Linklater's tackles the Seventies in DAZED
+         AND CONFUSED (Fri, 23:20, BBC2) starring Milla "Supreme
+         Being" Jovovovovich (for about twelve seconds)... the BBC
+         breaks with their long tradition and dusts off the TARDIS
+         for an occasion other than a telethon for DOCTOR WHO NIGHT
+         (Sat, 20:55-00:30, BBC2) - from the first Dalek story to the
+         franchise's 1996 ritual suicide... the presence of bearded,
+         good Robin Williams should be enough to tempt you towards
+         Gilliam's underrated THE FISHER KING (Sun, 23:40, BBC2)...
+         two-parter THE ALCHEMISTS (Mon, 21:00, C5) takes us into
+         "the clandestine world of genetic engineering" - those wacky
+         scientists, eh?... just when you though those comedy
+         gameshow pitches couldn't become more convoluted, Mel and
+         Sue's CASTING COUCH (Mon, 22:30, ITV) beckons - a sort of
+         "Hello! Have I Got Celebrity Rumours For You"... it remains
+         to be seen how often the beeb will use a new WEBWISE strand
+         to promote its own ISP, but POSTCARDS FROM THE NET (Mon,
+         23:20, BBC2) promises "strong language" so it can't be all
+         bad... on the other hand "Auntie" has no problem pimping out
+         Tomorrow's Whores for BOND AND BEYOND (Wed, 19:30, BBC1) a
+         half hour special conveniently timed to coincide with the
+         marketing push for some movie or other... and a return to
+         the old-fashioned values in HELLRAISER III (Wed, 23:25, C4)
+         where Terry "Dax" Farrell takes on that unconvincing
+         sculpture thing from the end of Bloodlines... but instead of
+         relentless gore, why not project some positivity into your
+         week with (Do-do do-do-do) PHENOMENON (Thu, 21:00, C5) and,
+         while you're waiting, why not participate in a free
+         personality assessment?
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+            "membarrgrhr gragagha aaargghssociate program gragrgg"
+     http://www.brains4zombies.com/purchase.html?brainType=Brains&brainID=NTK
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                        (Ksexy) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

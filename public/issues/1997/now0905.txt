@@ -1,0 +1,282 @@
+         [Hi, Dave again. Much to everyone's surprise, Dan seems to
+         have survived his Burning Man experience, though not to the
+         extent of writing anything for this week. So, again, I
+         should emphasise that this is *not* the real NTK, whose
+         hard-hitting weekly tech news service will resume shortly.
+         Think of this as an interesting experimental deviation
+         where you can write in and say if there are any new
+         features that you think we should include in the real
+         thing. Or not, as the case may be.]
+
+
+ __  __ _05/09/97 _   _ _____ _  __      <Nasty, British and Short>
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! Mail 'subscribe ntknow'
+| |\/| | | '_ \| |  \| | | | | ' /     o   to majordomo@unfortu.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o   www.spesh.com/cgi-bin/now
+
+         "POOH'S GRAND ADVENTURE: THE SEARCH FOR CHRISTOHPER ROBIN -
+         An awful new installment into the Winnie The Pooh series is
+                just a waste of time. Christopher Robin heads off to
+            school, but the nieve [sic] bear thinks that he has gone
+          missing, so he gathers his friends (all of which have seem
+         to become more obnoxious), and heads out on a quest to find
+                             him. Stick to the older cartoons. 1/5."
+             - another scathing critique from kids' movie newsletter
+                                                ENTERTAINMENT ONLINE
+
+
+                            >> MINOR HAPPENINGS <<
+                                major overkill
+
+         Yes, the whole world mourned at a senseless tragedy that
+         could so easily have been averted, but that's enough about
+         APPLE's acquisition of Mac-cloner POWER COMPUTING...
+         seriously, Di's death seems to have got quite a lot of
+         coverage ("a real JFK moment... almost on the scale of the
+         Challenger space shuttle blowing up", wrote one clearly
+         moved NTK reader), and the British public showed its sorrow
+         the only way it knows how - by forming enormous 14-hour
+         queues... some branches of Tesco thoughtfully offered in-
+         store books of condolence, presumably so you could get your
+         mourning at the same time as your groceries but, on the
+         net, it's a much finer line between public grief and just
+         cashing in (http://www.haveyoursay.beeb.com/special/ - see
+         the threads "An American Poet Pays His Respects" and, for
+         some kind of perspective, "Totally Over the Top")... of
+         course, as the apparent causes were *so* suspiciously
+         obvious (The Independent juxtaposed "Net Users Quick To
+         React To News Of Diana's Death" with a link to an online
+         breathalyser), there was immediate speculation in many new
+         newsgroups, including alt.conspiracy.princess-diana,
+         uk.current-events.princess-diana, alt.princess.di.di.die,
+         and alt.sex.necrophilia.royal-family... the grassiest
+         knolls included "Di was the new Jesus-Messiah", "Di was
+         offed by the UK's ailing florist industry", or even "in
+         collaboration with the millionaire Al-Fayeds, she faked her
+         death then went into hiding on the recently repaired Mir
+         space station, where, Moonraker-style, she and Dodi plan to
+         re-populate the earth with their shyly beautiful Eloi-like
+         aristocratic offspring"... bonus of that last one is the
+         extra claim that the body in the car "wasn't Di at all",
+         but merely "one of Rory Bremner's uncannily accurate
+         impersonations"... well, you can dream, can't you?...
+         http://cnn.com/WORLD/9709/02/internet.conspiracy.reut/         
+                - warns that "most [Di theories] are morbid and many
+              probably wrong." They're not called CNN for nothing...
+ 
+         http://www.navigation-station.com/princess-diana-conspiracy.htm        
+                                            - make mine a "landmine"
+
+         IN OTHER NEWS... well, the official position is of course
+         that there was no other news, enabling us to overlook the
+         rumoured demise of DEFOREST KELLEY (he's probably fine,
+         could just be obit writers wanting to use the line "It's
+         worse than that, he's *dead*, Jim") - oh, and the Algerian
+         government doesn't seem to done anything about the 300
+         inhabitants of Rais slaughtered in bed using axes... on the
+         tech front, US lawyers OPPEDAHL & LARSON are suing other
+         law companies who apparently nick their potential customers
+         by putting the words "Oppedahl & Larson" into META tags for
+         their rival pages so they pop up first on search engines.
+         We say, good for O&L, as their page (http://www.patents.com)
+         contains some of the rawest HTML we've seen for a long
+         time. At least, we *assume* it's their page... LYCOS claim
+         to have patented the web spider, but still, they let
+         www.lycos.co.uk slip through their fingers, didn't they?...
+         3DFX finally get around to suing SEGA for breach of
+         contract (obviously the first share price tumble wasn't
+         enough, they now want to get *completely* squished)... oh,
+         and for a positive spin on APPLE buys POWER, try
+         www.macosrumors.com, which *still* manages to be
+         pointlessly optimistic whatever happens. Hell, Cupertino
+         could get nuked and they'd see it as a brave new dawn for
+         Apple to geographically decentralise...
+
+
+                             >> TINY ANTI-NEWS <<
+                               oh, you've heard
+
+         In fact, this week's main Anti-News is that someone sent me
+         some really good stuff, but I've left it on my other server
+         - curse my failing memory... otherwise, it's business (or
+         should that be 'anti-business'?) as usual: www.msnbc.com
+         relaunches... apparently condolences of online celebs go
+         straight to the tops of the lists... TOTALLY LIVE NEWS (at
+         http://MusicCentral.msn.com) claims to be "relaunching", then
+         completely disappears... folks at last getting wise to GOOD
+         NEWS and its mutations - if only they'd do something about
+         those bloody DARWIN AWARDS... rivalling even "Shamen To
+         Release New Single On Internet" comes Anti-News classic #2:
+         "New COLDCUT Album To Feature Interactive CD-ROM"... 
+         MACROMEDIA fiddled results to boost shares... COMPUSERVE
+         currently still up for sale...
+
+
+                             >> MICRO CULTURE <<
+                              stay in your homes
+
+         Lots of stuff cancelled, including the KLF gig (till mid-
+         October), though they have set up a premium phone line on
+         0890 900 2000 for "people having problems dealing with the
+         millennium"... US cable network ROMANCE CLASSIC pulled a
+         touring competition for a pair of Diana's gowns purchased
+         at an auction at Christie's. The tour was called "A Dress
+         To Di For"... Heinz's WEIGHT WATCHERS division was just too
+         late for the direct mail part of its new campaign featuring
+         Sarah Ferguson and the line: "It's the hardest thing,
+         staying on a diet - harder than outrunning paparazzi"...
+         just to end on an up note, The Daily Star's SEGA BABES
+         promotion (page 3 girls dress as your favourite Virtua
+         Fighter characters) has only been "postponed" till 15/09/97
+
+
+                             >> TEENY TRACKING <<
+                    guest edited by Yoz Grahame, Perl fan
+         <FROTH> PERL! perl perl perl perl... O'Reilly have taken over
+         www.perl.com from Tom Christiansen (the Son in the Holy
+         Trinity) and made it actually look nice, as well as getting the
+         Perl evangelism truck moving more (http://republic.perl.com/
+         ... at last, a usable logo!), shoving out a load more Perl
+         books (more bibles!) but the best is the whizzy new Perl-to-
+         Java compiler that will be coming out this autumn in the Perl
+         Resource Kit (http://perl.ora.com/), furthering the work of the
+         bizarrely-named-and-mad-with-it Alligator Descartes
+         (http://perl-conf.songline.com/cgi-bin/p/guest.pl?x-a=v&x-
+         id=419), which is mainly to get back at all those Java
+         programmers who complain that Perl scripts look like you've
+         opened a binary by accident - and then go on to write CGI
+         "Servlets" that look like this:
+         http://jserv.javasoft.com/products/java-server/
+         webserver/fcs/doc/servlets/sa mple.html#600                       
+           - I mean, look at it! You could do it in 4 lines! </FROTH>
+
+         MACQUAKE did actually make it to the shops due to MacSoft
+         picking up the baton from the late Lion Software; so go
+         download the demo and play with the load of freebie MacQuake
+         editors that have already come out. Still, the source code *is*
+         pretty much freely available now - since Sega bought up
+         exclusive rights for the Saturn, it looks unlikely there'll be
+         an official Quake on the PlayStation (the platform of the
+         people!). But we reckon it's just a matter of time till some
+         hardcore console hacker knocks together their own dev kit and
+         brings the public what the publishers cannot...
+         http://www.brutality.com/macquake/         
+           - c'mon, design some skins for the "Power Computing" clan
+         http://box.argonet.co.uk/users/jgrant/qd/quake.htm
+                                    - it's Quake - but on the Amiga!
+
+
+                            >> KIDDIES MEMEPOOL <<
+                     don't have ideas - they'll have you
+
+         Is free health education CD-ROM D-CODE just YOU DON'T
+         KNOW JACK - *on drugs*?... new-look PENTHOUSE "not bad at
+         all"... AI gets creative at www.imagination-engines.com
+         (what, again?) - not to be confused with real tech at
+         www.rocketusa.com ... PRIVATE EYE very good on Diana thing
+         this week... the guy who killed Lord British in the ULTIMA
+         ONLINE beta only did what anyone else would have, ie didn't
+         report the bug, but ran around manically killing for all
+         the points he could get... JAMES CAMERON to do TRUE LIES 2
+         before TERMINATOR 3... www.tired.co.uk to relauch -
+         proprietor STEVE BOWBRICK claims *he* originated variant
+         "Nasty, British and Short"... win B'OMARR MONK in quiz at
+         www.starwars.hasbro.com ... email tmail.xxxxxxx@uk.tobit.com
+         with sinister text in message body, and where xxxx is the
+         phone number of your most technophobic friend...
+
+
+                               >> MO' MEDIA <<
+                             different time-slot
+
+         TV>> it's going crazy here, so first, some of the bizarre
+         schedule changes from last week. The curse of Airplane 2
+         struck again (last time it was due to be on, there was a
+         plane crash), Lethal Weapon 3 was replaced by Field Of
+         Dreams, Channel 4 pulled Rocko's Modern Life, and, more
+         intriguingly, both a Sherlock Holmes film and Sergeant
+         Bilko early in the week were "not the episodes advertised".
+         A reader writes: "The potentially distressing sight, for
+         example, of Lionel Atwill as Moriarty heading a Nazi spy
+         ring dedicated to air-bombing London, was replaced with the
+         soothing tale of a family systematically wiped out by
+         needles thrust between the base of the skull and the second
+          verterbra and up into the brain." Weirdest of all, however,
+         was probably Sky editing just the word "paparazzi" from the
+         Rosebud episode of The Simpsons. Sensitive or what?
+
+         aaaaanyway, this week, don't hold out too much hope for
+         Friday's actually quite fun FREEJACK (it starts with a car
+         crash), though, ironically, they probably will show pseudo
+         techno thriller VR5 (11.15pm, Fri, BBC2), which is
+         rubbish... the lethal Saturday evening double death blow of
+         GLADIATORS and BLIND DATE now must now wait till next
+         weekend, probably ditto the ITV Sat films ANGEL OF DEATH
+         and THE HAND THAT ROCKS THE CRADLE... by way of prescient
+         tribute to the (probably still alive) DeForest Kelley, John
+         Peel repeats Trek songs and spoofs in TREKNOLOGY (6.45pm,
+         Mon, BBC2), while EQUINOX moves to a new slot (9pm, Mon,
+         C4), and this week looks at black holesssssssdgfasgf... oh,
+         sorry, dropped off for a moment there...
+
+         FILMS>> quirky Bette Midler romantic comedy THAT OLD
+         FEELING was pulled for featuring an annoying photographer
+         (no, really), but there's still MRS BROWN (not, we were
+         disappointed to learn, a Somewhere In Time-style romance
+         about Queen Victoria falling in love with the Billy
+         Connolly of 100 years in the future), nice-but-dull legal
+         thriller NIGHT FALLS ON MANHATTAN, or (our pick of the
+         week), AUSTIN POWERS: INTERNATIONAL MAN OF MYSTERY - the
+         usual spot-on Mike Myers spoofery, could do with more Mimi
+         Rogers (and less Liz Hurley), good in parts, but ultimately
+         suggests that Mike's never seen Casino Royale - or maybe
+         seen it *far too many times*...
+
+         GAMES>> be interesting to see if they still release the
+         astonishingly violent Chase HQ-style driving frenzy RAY
+         TRACERS (Taito, PlayStation), or try and postpone it to
+         take out the concrete pillars... the less emotionally
+         hyperstable may prefer hauntingly beautiful trad two-player
+         top-view shoot-'em-up RAYSTORM (again Taito, PlayStation),
+         or much-needed trucks-and-destruction action from BLAST
+         CORPS (N64)... releases are now picking up after a slow
+         summer, so also watch for LOST WORLD (EA, PlayStation),
+         SONIC JAM (Sega, Saturn), or, for real old-schoolers, GAME
+         & WATCH GALLERY (Nintendo, Gameboy)...
+
+         [Thanks to this week's special contributors: Y Grahame,
+         J Nash, H Jones and 'Mil'. OK, right, what if Di was
+         killed by a cabal of professional skeptics? You see, a
+         month or so ago, the tabloids were full of psychics'
+         supposed 'predictions' about the future for her and Dodi,
+         and none of them - *none of them* - came up with anything
+         like this - surely, the sort of thing that any half decent
+         'psychic' might have spotted...]
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is (usually!) an interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+           on Friday or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from their evil minds.
+       It is registered at the Post Office as "truth hurts, don't it?".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+        NTK is helped by VIRGIN MEDIA, VENUS INTERNET and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Non-biz copying ok, but retain SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+
+
+

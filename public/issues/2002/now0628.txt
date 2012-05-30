@@ -1,0 +1,348 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-06-28_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Mr Gallup said the findings may also apply to women who engage 
+         in unprotected oral sex and people who engage in anal sex. But 
+         he said further research was needed in these areas..."
+       http://news.bbc.co.uk/hi/english/health/newsid_2067000/2067223.stm
+         ...and they call me "Mr Gallup" - because of my extensive poll
+                 
+
+                                >> HARD NEWS <<
+                                autonomous CPUs
+
+         Lot of talk this week about Microsoft's new bluesky project:
+         In the softest of previews in Newsweek, Steven Levy banged
+         on about PALLADIUM, alluding to the sacred (but as it turns
+         out, a bit horse-blind) guardian of Troy. British readers
+         will know the term better as the fancy West End theatre that
+         spawned Beatlemania and now shows overpriced performances of
+         "Chitty Chitty Bang Bang". Figures: either way, you're not
+         getting in, and we're not sure you'd want to. In a
+         (cryptographically hardened) nutshell: Microsoft's Palladium
+         will be an area of your future PC, fenced off and unreadable
+         except for trusted software. "Untrusted" apps won't have
+         have access. And how does code gain Palladium's trust? By
+         having you, the PC owner, sanction its entry? Oh no.
+         *You're* untrustworthy - you might sign in your dodgy CD and
+         DVD ripping programs. No, this area will only be for
+         software sanctioned by Microsoft and their paying friends -
+         Hollywood-approved media players, for instance. No backstage
+         pass for you at this Palladium, even though you own the damn
+         theatre. As Ross Anderson points out in his FAQ, "Palladium"
+         is just Microsoft's fancy name for the old "Trusted PC"
+         initiative. And the only reason why they need to trust the
+         PC is: they don't trust its owner. Remember that when the
+         hard sell begins: the only person Palladium protects your
+         computer from - is you.
+         http://www.msnbc.com/news/770511.asp
+                   - Levy ensuring that RMS *stays* "the Last Hacker"
+         http://www.cl.cam.ac.uk/users/rja14/tcpa-faq.html
+                              - Ross Anderson, Cassandra to this tale
+         http://www.extremetech.com/article2/0,3973,274309,00.asp
+          - hold on: this project is headed by someone called Juarez?
+         http://www.alt2600.com/faqs/
+                                         - is that some kind of joke?
+
+         Still, there are places where "security through obscurity" 
+         is the only way to go, as shown by this week's clueless 
+         coverage of the radio enthusiasts "putting Royals at risk" by 
+         posting Special Branch frequencies and callsigns to the likes 
+         of alt.radio.scanner.uk. The obvious "don't shoot the 
+         messenger" arguments are left as an exercise for the reader: 
+         Might terrorists have somehow stumbled onto such fiendish 
+         signals-intelligence tactics already? And if publicising the 
+         availability of this info does constitute such a huge security 
+         risk, then why is the BBC blabbing to all and sundry? Beyond 
+         reproach, of course, are those who continue to use unencrypted 
+         channels for potentially sensitive traffic - after all, the 
+         only time they've had to react to this terrifying high-tech 
+         development has been since the last big news scare on the 
+         subject: ooh, only about 6 years ago.
+         http://groups.google.com/groups?selm=3195BD23.6357%40iquest.net
+           - and you can search Google groups for "Paul Wey" yourself
+         http://news.bbc.co.uk/hi/english/uk/newsid_2064000/2064388.stm
+            - those "Enigma" movies and TV shows just give them ideas
+
+         So how come Rusty off of Kuro5hin can garner $35,000 in a
+         few days, but OPEN PROJECTS founder Rob "lilo" Levin is
+         still struggling to get a measly $12,000 from the users of
+         that IRC network - even after sending repeated network-wide
+         requests to pay up? Well, we can't speak for Rusty's
+         success, but one top tip for Rob might be: try not to throw
+         *all* your potential contributors out before you hit your
+         totals. Following criticism of lilo's begging tactics, both
+         #slashdot and #brits channels were killed by the touchy
+         IRCop. They've now moved en masse to new servers (#slash to
+         irc.oublinet.net, #brits to the fledgling irc.oftc.net
+         network), and as Australia threatens to delink, and the
+         parodies gather, it looks like OPN has a full scale 
+         rebellion on its hands. Sure hope some of that twelve grand
+         went on a clone army...
+         http://lilo.sargasso.net/
+                          - although we guess bots could do at a push
+         http://liloaid.ecce.co.uk/
+            - this is the kind of mickey-taking that gets you k-lined
+         http://crackmonkey.org/pipermail/crackmonkey/2001q1/017271.html
+                                                - the status, as ever
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         yeah, thanks kids: http://www.globalchild.org/99pics/Gable.jpg 
+         (after all http://www.globalchild.org/ has done for you)... 
+         this week's increasingly Freudian PUERILE GOOGLE MISSPELLINGS: 
+         http://www.google.co.uk/search?q=disocunt , "satandard", and 
+         http://www.google.com/search?q=unsaved%3A%2F%2F%2Fnewpage2 ... 
+         "a courtier once tried to take away her bottle of Gordon's - 
+         she ate his liver with some fava beans and a gin and tonic": 
+         http://www.ntk.net/2002/06/28/dohbowes-lecter.jpg ...
+http://europa.eu.int/BFM/consultation/index.cfm?fuseaction=form&id_form=204
+         options include age group "Unknown", gender "Don't know"... 
+         it's a totally new ultra-topical WIDDECOMBE OF THE WEEK: 
+http://www.celebmatch.com/birthdayform.php?categoryid=1448&celebrity=R%20Kelly
+         ... just oozing QUALITY: http://www.qualitysolutions.co.uk/ 
+         ... c'mon, Nick: http://www.vitalfusion.co.uk/community/ ... 
+         somehow we think WORLDCOM's trial is going to last a little 
+         longer than that: http://www.ntk.net/2002/06/28/dohwo.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Something of an XCOM reunion at next week's DORKBOT LONDON 
+         (from around 7pm, Wed 2002-07-03, State 51, near Brick Lane, 
+         London E2, free), with wearable Spectrum guy JAMES LARSSON 
+         sharing his extensive retro-tech experience, and former UK 
+         linuxchick SARAH EWEN presenting her "PlayStation Haikus": 
+         
+           Yes. The DUALSHOCK®2             for the source code is
+           analog controllers can           owned by many different
+           be used by Linux                 organizations
+         
+                           compatible with
+                           computer monitors that
+                           support "sync on green"
+         
+         plus a hopefully less truncated performance from the DORKBOT 
+         12V ORCHESTRA - "bring an electrical/electronic noisemaker for 
+         an ad-hoc jam session at the end". Immediately afterwards, the 
+         PS2/Linux gang whizz down to Bristol for the UKUUG LINUX 
+         DEVELOPERS' CONFERENCE AND EXHIBITION (from 9am, Thu 2002-07-
+         04, University of Bristol, "Exhibition" area free to the 
+         public on Fri pm and all day Saturday). Here, organiser 
+         Alasdair "There can be only one" Kergon promises a head-to-
+         head face-off between 2.4 kernel maintainer MARCELO TOSATTI 
+         (aka http://www.marcelothewonderpenguin.com/ ) and The Hurd's 
+         MARCUS BRINKMANN, plus Security Networks AG's NILS MAGNUS 
+         revealing the "top programs he'd put on his hard disk for 
+         attacking Linux systems from a desert island".
+         http://dorkbot.org/dorkbotlondon/
+               - (those aren't the real haikus; we just made them up)
+         http://www.ukuug.org/events/linux2002/
+           - this "ironic media sponsor" lark's turned out quite well
+         http://www.symphony.vdb.pl/menu.php
+              - also from Wed: "demo extremists gathering", in Poland
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         CHRONIC LOGIC, makers of that Monster Truck Rally of long
+         span bridge design, Pontifex [see NTK 2001-10-19], have
+         crashed slowly and unstoppably into the world of Tetris.
+         TRIPTYCH is Tetris with CL's trademark crumbly physics.
+         Columns collapse under their own weight, L-shapes can be
+         used to punt pieces out of the way, and when you're losing
+         you can desperately try and squeeze down the pile like an
+         overflowing wastepaper basket under your hobnailed boot.
+         It's Carmageddon on blocks. The gameplay isn't quite as good
+         as the spectator appeal, and those mean chroniclogicians are
+         still restricting the full version to people with $14.95.
+         But it's for Mac 9, Windows, and Intel Linux, so it's not
+         like they'll turn your money away.
+         http://www.chroniclogic.com/noflash/
+                                          - except for you, Amiga boy
+         http://www.chroniclogic.com/noflash/triptych/screen.html
+                       - screenshots look like some April Fools' joke
+         http://www.ntk.net/index.cgi?b=02001-10-19&l=160#l
+                                                      - all fall down
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         still beating ZDNET to the hottest new corporate anthems: 
+         http://www.ntk.net/2002/06/28/hpparty.mp3 ... humbled by 
+         recent brush with death, WINER wonders what it's all worth: 
+     http://scriptingnews.userland.com/backissues/2002/06/25#When:6:39:32AM
+         inevitably: http://www.antisigma.com/baby/ ... World's 
+         Funniest IRC: http://www.geekissues.org/quotes/?top ... GOOGLE 
+         SEES ALL: http://labs.google.com/sets?q1=enron&q2=worldcom ... 
+         Hunter S Thompson - everything Harlan Ellison wants to be and 
+         so much more: http://www.gonzo.org/pix/HunterDuped.jpg ... 
+         "use strict": http://www.raverporn.net/tour/images/sample48.jpg 
+         ... http://aolwatch.org/landers.htm - so perish the lame urban 
+         myth perpetuators... BBC interviewer imitates ALAN PARTRIDGE:
+http://news.bbc.co.uk/media/video/38097000/rm/_38097140_kournikova56k_vi.ram
+         - could have asked if she'd like to become a digitised 
+         sportscasting avatar called "AnnaKournikovaNova"... 
+
+
+                                >> GEEK MEDIA <<
+               oops, missed last week's http://www.tvgohome.com/
+
+         TV>> BBC Choice hosts Adam and Joe wheel out their hilarious 
+         "John Peel/ Jo Whiley" characters for the BBC2 coverage of 
+         GLASTONBURY 2002 (from 7.30pm, BBC Choice; 11.35pm, BBC2, Fri-
+         Sun)... aptly enough, GROUNDHOG DAY (2am, Fri, ITV) gets a 
+         second showing since last being on ITV about 6 weeks ago... 
+         and Sly Stallone accidentally drops a woman down a canyon and 
+         gets chased around in the snow by the round-faced man from 
+         "Third Rock From The Sun" in CLIFFHANGER (9.30pm, Sat, BBC1): 
+         http://www.tvgohome.com/2209-2000.html ... it's Ice Cube, 
+         Jennifer Connelly and Kristy Swanson - together at last! - in 
+         John "Boyz N the Hood" Singleton's college-issue drama HIGHER 
+         LEARNING (1.40am, Sat, C4)... Charlotte Uhlenbroek goes beyond 
+         humanity's more immediate ancestors in TALKING WITH ANIMALS 
+         (8pm, Sun, BBC1) - once again with a slight but perceptible 
+         emphasis on how this might enable you to have sex with them... 
+         while C5 showcases its more proactive approach to interspecies 
+         communication with its near-annual showing of GREMLINS (9pm, 
+         Sun, C5)... on digital, it's cute-haircuts season-one episodes 
+         of BUFFY THE VAMPIRE SLAYER every weekday (6pm, Mon-Fri, 
+         Sky1)... the Sci-Fi Channel skips over the prophetic pilot 
+         episode of X-Files spinoff THE LONE GUNMEN (9pm, Mon, Sci-Fi): 
+     http://www.conspiracyplanet.com/channel.cfm?channelid=73&contentid=301
+         ... but BBC Choice picks up Denis Leary's acclaimed "Homicide: 
+         Life On The Street"-style cop comedy THE JOB (10.30pm, Tue; 
+         11.30pm, Wed, BBC Choice)... Anthony Hopkins acquires A TASTE 
+         FOR HANNIBAL (10.35pm, Wed, BBC1) before joining the Matthew 
+         Broderick/ Bridget Fonda/ Lara Flynn Boyle health-spa frolics 
+         THE ROAD TO WELLVILLE (11.35pm, Wed, BBC1)... Steve McQueen 
+         stars in a feature-length contextualisation of the popular 
+         Ford ad, BULLITT (9pm, Thu, C5)... and C4 follows THE REAL 
+         COUNTRY HOUSE (8.30pm, Thu, C4) with the similarly titled THE 
+         HOUSE OF WAR (9pm, Thu, C4), in which members of the public 
+         and journalists reconstruct the roles of Taliban prisoners 
+         trying to take over the fort of Qala-i-Jangi... 
+         
+         FILM>> so it's basically similar to the arty 1970s original, 
+         except there's now an extra "what happened next" ending, the 
+         action scenes aren't as good, and all the players wear comedy 
+         helmets in John McTiernan's somewhat disappointing ROLLERBALL 
+         ( http://www.capalert.com/capreports/rollerball.htm : male/ 
+         female fighting; [Rebecca "X-Men" Romijn-Stamos] placing 
+         [Chris Klein]'s face on her nude chest; mob rule with 
+         destruction, twice; driving without consideration of the 
+         safety and property of others)... making this week's surprise 
+         recommendation Sandra Bullock and Ben "Game On" Chaplin versus 
+         a couple of teenage dirtbag Iron Maiden fans in uneven but 
+         interesting "Silence Of The Lambs"-lite MURDER BY NUMBERS 
+         ( http://www.screenit.com/movies/2002/murder_by_numbers.html : 
+         [Chaplin] runs his hand along [Bullock's] clothed breast and 
+         tries to run it up under her shirt; it's possible some kids 
+         could be enticed to attempt to commit and try to get away with 
+         a "perfect" murder)... "Ben Chaplin Week" continues when he 
+         goofily orders Russian mail order bride Nicole Kidman off the 
+         internet in mildly unsavoury St Albans-set caper BIRTHDAY GIRL 
+         ( http://www.cndb.com/movie.html?title=Birthday+Girl : Nicole 
+         once again shows us her tight little bum, though it's not 
+         quite as good as her work in Eyes Wide Shut. The scene is a 
+         little too quick to be thoroughly enjoyed in the movie 
+         theater)... otherwise it seems to be another week for dumping 
+         US flops like Frankie "Malcolm In The Middle" Muniz's ill-
+         judged "Home Alone"/"Ferris Bueller's Day Off" hybrid BIG FAT 
+         LIAR ( http://www.capalert.com/capreports/bigfatliar.htm : 
+         conspiracy to commit deceit against fair authority; invitation 
+         to a 14 year old girl to spend the weekend with a 14 year old 
+         boy with no parents; offer of cigar to a child)... Martin 
+         Lawrence con-fest WHAT'S THE WORST THAT COULD HAPPEN? 
+( www.screenit.com/movies/2001/what's_the_worst_that_could_happen.html :
+         Some kids may want to imitate all of the goofy stuff that 
+         [Lawrence] does, including dancing around with his butt 
+         sticking out; [William "Black Hawk Down" Fichtner] acts like a 
+         flamboyant fop)... Peter "2010" Hyams' long-unawaited wirework 
+         kung-fu period piece THE MUSKETEER (imdb: based-on-novel/ 
+         sword-fight/ throat-slitting)... or the pioneeringly 
+         transgressive campus gross-out NATIONAL LAMPOON'S VAN WILDER 
+( http://www.screenit.com/movies/2002/national_lampoon's_van_wilder.html :
+         [Tara Reid] shows some cleavage; consumption of dog semen in 
+         pastries, farting, gastrointestinal distress and release, 
+         [...] projectile vomiting)... 
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> well, at least BRUCE STERLING got last week's gag 
+         about "Jean de Florette II: Die Jean de Florette Die" - "oh ha 
+         haha HA ha ha ha, <cough>, ha ha", he mailed (even though - 
+         spoiler warning - Jean de Florette is technically dead in the 
+         sequel, we maintain that the joke *is* justified because the 
+         second film is still about the circumstances surrounding his 
+         demise. Hey, check them out for yourself: both films remain 
+         masterpieces of contemporary world cinema. And also, because 
+         they're in French, you can fast forward through all the slow 
+         bits and still follow what's going on from the subtitles)... 
+         other than that, just a few things to clear up about this 
+         month's now-almost dreamlike Extreme Computing extravaganza: 
+         "Sadly, it is not my fate that I be in the UK at that time," 
+         yearned reader NATHAN PARRISH, inquiring if we were "aware of 
+         a NTK-ish sort of thing in the Bay Area, that might sponsor 
+         similar events?" Dude, the whole reason we put this on in 
+         London was because we felt it was the sort of emerging-
+         technologies entertainment you West Coast guys were having 
+         *all the time*... "Err, not quite right", muttered ED 
+         COURTENAY, of our (numerous) claims that Nigel Alderton was 
+         the original author of Chuckie Egg. "IIRC, Chuckie Egg was 
+         originally written for the BBC Micro by Mike Elson, published 
+         by A&F Software in 1983 and later ported to the Spectrum by 
+         Nigel", he counterclaims. Wah-wah oops, Ed - according to A&F 
+         Software's Doug Anderson (speaking in the Easter 2002 edition 
+         of the famously authoritative "Edge" magazine): "It was 
+         actually an external guy called Nigel Alderton who came to us 
+         with a Spectrum game he'd done called Eggy Kong" - which, 
+         incidentally, we still think is a better name for it... and 
+         finally, apologies to STEFAN MAGDALINSKI, who attended the 
+         event in the hope of seeing "an onstage rerun of Danny having 
+         a fight with all his ex-girlfriends, like at [1999's NTK LIVE 
+         #3: http://www.ntk.net/index.cgi?b=01999-10-08&l=125#l ]". But 
+         this time, Stef suggested, "with gambling. I want a fiver on 
+         Quinn this time". Reader, she married him... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+     "UK's top YAHOO SERIOUS lookalike maintains 'boy inventor' reputation"
+                   http://www.blackbeltjones.com/warchalking/               
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

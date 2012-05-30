@@ -1,0 +1,278 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-08-22_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Microsoft has scoffed at suggestions its software contains 
+         back doors for use by United States intelligence services..."
+       http://www.theage.com.au/articles/2003/08/15/1060871752574.html
+     - Sorry, CIA: you'll have to use all the existing security holes, 
+                                         just like everyone else does
+
+
+                               >> HARD NEWS <<
+                                easier to use
+
+         What's this? Easier access to the machinations of the Hutton 
+         Inquiry site, but without the apparently needless use of 
+         JavaScript, cookies, or frames? It must be the work of - The 
+         Usability Vigilante! Yes, Odeon recoder MATTHEW SOMERVILLE has 
+         struck again, improving the world's accessibility one website 
+         at a time. In other good news: do you recall the appalling
+         Post Office page, with its monstrous postal code address
+         finder? Turns out that there *is* an accessible version of
+         this (no registration required) - and the rest of the Royal
+         Mail site too. Those sneaky disabled people have been
+         keeping it to themselves, it seems. In a similar vein to
+         the WAP version of play.com we mentioned, TXTBUX is a
+         convenient SMS-interface ISBN-based Amazon price checker for
+         browsing tightwads. BIGFROG takes an already semi-usable
+         interface, and stuffs it into the burlap bag of RSS with his
+         feeds of Yahoo News etc. And it's good to see BEN CHALMERS of
+         DownwardSpiral reworking Andrew Orlowski's screeds into the
+         format that most suits them.
+         http://www.downwardspiral.org.uk/cgi-bin/orlowski.cgi
+                                          - it's the Dave Spart blog!
+         http://www.dracos.co.uk/hutton/
+       - what the?: http://www.dracos.co.uk/web/accessibility/bbcnews/
+         http://www.access.royalmail.com/dda/index.htm
+         - my eyes have seen the glory of the black text on the white
+         http://www.bigfrog.net/vnews/hot/
+                           - would you recommend this photo overview? 
+         http://www.txtbux.co.uk/
+                          - f u cn rd ths u hv bn sld a bk wth n vwls
+
+         All right, enough. With the most anti-climactic fanfare we
+         can muster, the results of our survey. The worst sites in
+         Britain are... any of the ones to do with trains. The
+         Trainline, the Eurostar site, and, especially, the NATIONAL
+         RAIL booking system. We got fistfuls of mail complaining
+         about the latter, especially by contrast to its previous
+         incarnation, the little app done by plucky North Londern
+         WAPpers Kizoom that was so much better. "The Kizoom app,"
+         reminisces the nostalgic STEVE BOWBRICK "... allowed you to
+         define nicknames ('placemarks') for favourite destinations,
+         remembered your current location (It's lunchtime and it's a
+         weekday, so you're at work, so when you click 'next train
+         please' you mean 'next train from my work placemark to my
+         home placemark please') [and] was supported by the BEST SMS
+         APP EVER". The new site by contrast, has enforced waits,
+         only four trips per page, precious little timetabling, and
+         ... oh, the pain goes on. To eradicate this disgrace to our
+         nation (TM Daily Mail), we'll shower with plaudits anyone 
+         who dares screen-scrape it into something reasonable. Or, 
+         if pandering to busy commuters isn't quite your idea of a
+         charitable gesture, why not re-do our runner up: the
+         Dyslexia Association of London's site, which is so
+         unreadable as to give everybody an insight into that
+         unfortunate condition.
+         http://www.nationalrail.co.uk/planmyjourney/
+                                                    - then domyheadin
+      http://www.nres.mytrains.kizoom.co.uk/nationalrail/html/new_services.jsp
+                                   - the remnants of the previous day
+         http://www.theregister.co.uk/content/archive/30564.html
+                             - your "to do" list (partly implemented)
+         http://www.dyslexiainlondon.ik.com/
+- an animated GIF of juggling letters: that's taking the piss, isn't it?
+
+         TESCO Cambridge and GILLETTE cave in to bearded privacy 
+         activists and withdraw their RFID-labelled razor blades; 
+         TRANSPORT FOR LONDON unveil a somewhat more ambitious plan to 
+         issue all the capital's commuters with RFID tags. Sure, you'd 
+         have to be a bit paranoid to read too much into the fact that, 
+         from next January, your London tube and bus fares go up by as 
+         much as 25%, unless you give them your name and address to 
+         register for their new Oyster "contactless smartcard", which 
+         both acts as a travel pass and/or deducts money from your 
+         prepaid account when you swipe it across a terminal. The 
+         traffic data promises to be particularly useful for London 
+         Underground, as their current magnetic-stripe-based dumb 
+         ticketing system lacks the ID coding to track specific 
+         individuals through the network, so at the moment planners 
+         have only the vaguest idea of where most tube journeys go. 
+         But, moving into more "tin-foil hat territory", the London 
+         Underground is of course also one of the few places where you 
+         can't easily be tracked via your mobile phone.
+         http://www.indymedia.org.uk/en/2003/08/275818.html
+            - though no word on http://www.spy.org.uk/cgi-bin/rfid.pl
+http://www.kablenet.com/kd.nsf/Frontpage/5FB8B97C03173BB480256D7A004A8CEB
+             - aka "entry token" for health, benefits, education, etc
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Tomb Raider 2 "expected to trigger massive interest in 
+         Snowdonia, the location of a Chinese village in the film", 
+         believes: http://news.google.com/news?q=trigger+snowdonia - 
+         more plausible than "massive interest in going to the 
+         cinema"?... BBC warns of park bagheads, marauding "gentiles": 
+         http://www.ntk.net/2003/08/22/dohgen.gif ... go on, Egg, lend 
+         us a quid: http://www.ntk.net/2003/08/22/greatloan.gif ... 
+         this week's somewhat redundant Amazon "perfect partner" offer: 
+         http://www.amazon.co.uk/exec/obidos/ASIN/B00006ZS92/ ... 
+         responsibilities also likely to include - proofreading our 
+         recruitment ads: http://www.ntk.net/2003/08/22/dohrea.gif ... 
+         "For an in-depth article, I might only have a couple of hours 
+         to pull something together", says broadband fan Anjana Ahuja: 
+         http://www.timesonline.co.uk/article/0,,6715-732801,00.html - 
+         might explain her "DNA" solution to Turing's Halting Problem: 
+         http://www.ntk.net/index.cgi?b=01999-04-09&l=105#l ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Next week is LONDON GAMES WEEK, featuring the European debut 
+         of HALF-LIFE 2 at the ECTS (Tue-Fri, 2003-08-26/29, free but 
+         "trade only"), the embarrassingly repositioned "Fun, anyone?" 
+         PLAYSTATION EXPERIENCE (Thu-Sun, 2003-08-28/31, Earls Court, 
+         UKP8 on the door) and, in an ideal world, running battles 
+         between the rival VODAFONE UK MOBILE GAMES CHAMPIONSHIPS and 
+         the devastating juggernaut of the NOKIA N-GAGE TOUR (see sites 
+         for dates and venues). But the festivities kick off with a 
+         unique showcasing of non-virtual entertainment, as Lionhead's 
+         STEVE "Fighting Fantasy" JACKSON takes the stage at Richmond's 
+         The Black Horse pub, to perform "a collection of rock, pop, 
+         blues and funk classics" with his band THE JACKSON FOUR (8pm, 
+         Sun, 2003-08-24, free from the looks of things). Helping 
+         decide between page 23 and page 49 of the "choose your own" 
+         setlist will be Eidos' IAN LIVINGSTONE on harmonica and vocals 
+         and, at the end of the evening, a bucket will be passed around 
+         for donations towards the coding of a new Tomb Raider game.
+http://www.streetmap.co.uk/streetmap.dll?G2M?X=518962&Y=175000&A=Y&Z=2
+                                   - check local listings for details
+         http://www.londongamesweek.com/
+                                     - vs http://www.n-gage.com/tour/
+         http://www.theregister.co.uk/content/4/32457.html
+       - Kieren leading well-argued Brussels anti-patents demo on Wed
+         http://www.ht03.org/
+           - unless you're hypertalking with Ted Nelson in Nottingham
+     http://www.petebarrwatson.com/wiki/pmwiki.php/Main/BrightonBloggers
+                              - plus: Brighton Bloggers meet next Fri
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         XKEYMACS is a utility for what must be the Untouchable caste
+         of Emacs: those who not only use Windows, but also, from
+         time to time, are tempted to dabble in other applications.
+         Since 2001, Yutaka Oishi has been tending ("burnishing", in
+         his words) this taskbar applet, which provides as many Emacs
+         shortcuts as it can within as many Windows applications as
+         is feasible. The dialog box looks like a walkthrough for 
+         a control-key version of "Dance Dance Revolution", but it
+         hides more than a bunch of hacked key-bindings. Command-line
+         completion for COMMAND.COM? Recording keyboard macros for
+         Notepad? Your time in the wilderness is now over.
+         http://www.cam.hi-ho.ne.jp/oishi/indexen.html
+                          - successor to nogu.org's keymacs, keymacs+
+         http://www.gnufoo.org/ucontrol/ucontrol.html
+                             - there's a patent on one-handed-typing?
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         dude, your logo's been ownz0rr3d!: http://www.palm.com/ ... 
+         video chat with your forced labour camp buddies thanks to: 
+         http://www.burmacampaign.org.uk/dirty_list/hutichson.html ... 
+         a *parody* of a Flash company site? http://www.de-construct.com/  
+         ... proof that the Internet is not yet ready for MELTING WOOD: 
+         http://groups.google.com/groups?th=34e75e612afff39b ... filmed in
+       http://www.spodrum.freeserve.co.uk/victory/pages/content/subbuteo.htm
+         ... one of these pics is not *quite* like the others, part 2:
+         http://images.google.com/images?q=best_picture_ever.jpg ... 
+         just a matter of time before Tone Loc launches his patented 
+         "Funky Cold Medina": http://www.nme.com/news/105934.htm ... 
+         Govt stop using Word docs: http://news.bbc.co.uk/1/3154479.stm 
+         hopefully move to PDF files with black rectangles drawn over 
+         secret bits: http://www.schneier.com/crypto-gram-0308.html#8 
+         ... Death Metal remix "still not as scary as the original": 
+       http://www.jonobacon.org/music/solo/jonobacon-freesoftwaresong.ogg ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> PD JAMES'S DEATH IN HOLY ORDERS (9.05pm, Sat & Sun, BBC1) 
+         takes the monastery murder mystery of "The Name Of The Rose" 
+         and, pioneeringly, sets it in the present day... marvel at the 
+         synchronicity of C4's PSYCHIC NIGHT (from 8pm, Sat, C4) 
+         coinciding with the Living Channel's PARANORMAL WEEKEND (from 
+         3.50pm, Sat) - skeptic James Randi provides an alternative 
+         viewpoint, though sadly not to the extent of going ON HOLIDAY 
+         WITH THE [URI] GELLERS (11.10pm, Sun, C4)... while fans of 
+         empirically based observation are catered to with the unusual-
+         proximity-of-Mars astronomy special THE ALL NIGHT STAR PARTY 
+         (11.20pm, Sat, BBC2)... the original SUPERMAN (3pm, Mon, ITV), 
+         THE ITALIAN JOB (9pm, Mon, BBC2), and the usual offhand 
+         Gallagher brother hilarity of LIVE FOREVER (22.35pm, Mon, 
+         BBC2) are arguably the highlights of Bank Holiday Monday... 
+         interchangeable Irish standup Sean Lock is this year's choice 
+         to present a low-budget trawl of ESSENTIAL EDINBURGH (11.20pm, 
+         Wed, BBC2)... and "It took so much of my leg away I looked 
+         like Terminator 2", says one victim of the antibiotic-
+         resistant "superbug" MRSA in INTENSIVE SCARES (9pm, Thu, 
+         BBC1), though perhaps he actually means: "I looked like the 
+         liquid-nitrogen-damaged 'T-1000' Terminator, from the film 
+         Terminator 2: Judgment Day"?... 
+         
+         FILM>> apart from most of the first hour and some appalling 
+         dialogue interchanges, "not as bad as the first one" is our 
+         surprise verdict on LARA CROFT TOMB RAIDER: THE CRADLE OF LIFE 
+       ( http://www.capalert.com/capreports/tombraider-cradleoflife.htm :
+         In defiance of the Scriptures, presents that Alexander the 
+         Great found a box that contains the source of life on Earth, 
+         thereby mixing Scriptures with "strange philosopy" and myth) 
+         ... otherwise the woefully underexplored world of con artists 
+         is revisited in uninspired Dustin Hoffman ADD drama CONFIDENCE 
+         ( http://www.screenit.com/movies/2003/confidence.html : the 
+         film could inspire some kids to try to con others in any 
+         number of ways; a classic painting shows a bare breast and a 
+         little bit of pubic hair)... Australian filmmakers and Billy 
+         Connolly take a look at the lighter side of taking the church 
+         to court in romantic comedy THE MAN WHO SUED GOD (imdb: court-
+         case/ journalist/ lawyer)... and there appear to be about 4 
+         cinemas in the whole of the UK showing self-indulgent Matt 
+         Damon/ Gus Van Sant/ Casey Affleck "two blokes wandering 
+         around a bit" twaddle GERRY ( http://www.bbfc.co.uk/ : 
+         contains strong language)... 
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "a rag, a bone, and a hank of hair"
+            http://www.livejournal.com/users/wookiepocket/6431.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

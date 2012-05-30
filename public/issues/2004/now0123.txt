@@ -1,0 +1,291 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-01-23_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "What does being accountable really mean? Making sure that
+         it's your name only that's on anything successful. Or adopt
+         the Microsoft value and..."
+         ...be a chilled-out entertainer first, *then* a manufacturer
+                                          of secure operating systems?
+            - MS unveil their in-house "The Office XP" training tools 
+                           http://www.ntk.net/2004/01/23/dohbrent.jpg
+
+
+                               >> HARD NEWS <<
+                               filtering SPEWS
+
+         SPAM WILL EAT ITSELF! The Net's overloaded immune systems
+         continued to misbehave this week, with SPEWS blacklisting
+         fellow anti-spammer DSL Reports (when is SPEWS going to
+         discover it has "Spam" in its acronym, and blacklist
+         itself?), and Habeas's anti-spam header haiku being
+         commandeered by a Viagra salesman. Perhaps it was because so
+         many of the antibodies were meeting for a SPAM AND THE LAW
+         conference in San Jose. Capped by Larry Lessig (whose
+         transformation from speccy academic lawyer to a Steve
+         Jobsian all-in-black hipster is now complete) to Declan "the
+         anti-Lessig" McCullough, maven after maven pouted over the
+         world's new, weakly-flapping, anti-spam laws. Highlight of
+         the day was fresh-faced FTC rep Michael Goodman tentatively
+         admitting that the definition of "Internet Access Service
+         Provider" in the American CAN-SPAM legislation was so vague
+         as to include anyone who ran a website - meaning that the
+         mass private prosecutions that marketeers tried to hack out
+         of that draft law might still be possible. Most edgy
+         performance came from John Praed of the Internet Law Group,
+         who redirected his anger at a PowerPoint crash into a sharp
+         screed against spammers and how he was going to "get them".
+         Surprisingly, when asked who in the audience was a spammer -
+         a novel method for tracing IPs - only one person took the
+         bait. It turned out to be the programmer of a *very* popular
+         anti-spam program. In a moment of shameful confession, he
+         admitted that the marketing department of the company that
+         sells his program also sends out UCE. As others hung their
+         heads in sympathy (et tu, marketing?), no one noticed who
+         had snuck out for a well-timed break. Eager audience-member
+         Scott Richter, currently being sued by New York State
+         Attorney Eliot "Ness" Spitzer *and* Microsoft, reputedly the
+         world's third-largest spammer, had eluded his interrogators
+         once again.
+         http://www.isipp.com/events.php
+                          - not someone to give your business card to
+
+         We're guessing you've heard of the bizarre victimisation of 
+         CD-WOW.COM, who were this week told that their selling of 
+         discount-priced CDs legally obtained in the Far East does 
+         not count as "importation for personal use", even if they 
+         individually airmail you each one from Hong Kong. What this 
+         means for game imports, Region 1 DVDs, Amazon's transatlantic 
+         book offerings (and increasing range of third-party fulfilment 
+         options) and - heck - almost any CD you see in a shop with 
+         Japanese writing on it remains to be seen, though the FREE-
+         SKLYAROV-UK list incisively realised that it could mean that 
+         all CD-Wow has to do is to start a separate company in Hong 
+         Kong - another hard-won victory for the British Phonographic 
+         Industry!
+mailman.xenoclast.org/pipermail/free-sklyarov-uk/2004-January/005592.html
+                                - like anyone's buying CDs now anyway
+         http://www.theregister.co.uk/content/6/34745.html
+              - Play.com based in Temporary Autonomous Zone of Jersey
+         http://www.amazon.co.uk/exec/obidos/tg/browse/-/1200048/
+               - coincidentally, Amazon.co.uk sale *must* end Feb 1st  
+
+         People taking last week's news a bit too far: "Thanks
+         guys!", writes .nz's SHADE, who has been trying dodgeit.com,
+         the no-password throwaway e-mail account mentioned in last
+         week's tracking. "It was interesting to see that
+         joe@dodgeit.com not only got his NY Times registration sent
+         to dodgeit.com, but his DynDNS.org account". Well, as Stan
+         Lee said, with great access comes great plausible
+         deniability, Shade. CHRIS DRAKE actually tried to get
+         "dot.name.name", and was refused by .name's filters, but
+         still managed to get as far as "a.silly.name". He invites
+         other readers to send in the most ludicrous, most libelously
+         named domain that .name declares to be permissible. We're on
+         for that, although steady on the libel bit, all right? And
+         finally, we didn't actually *mean* it about sending Mars
+         Explorer dohs. Sorry for any inconvenience caused there.
+         http://www.dodgeit.com/
+                                   - sex@dodgeit.com another good one
+         http://www.nic.name/
+                                     - overly defensive registrations
+         http://www.spesh.com/contact.html
+ - on the bright side, aren't the MER "random noise" symptoms exactly
+                                       the same as the end of Contact?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         Skillz! - guess what the URL is for the non-excerpt version: 
+     http://certcities.com/shop/downloads/TheSkillfulDeveloperexcerpt.pdf
+         ... pet ant accidentally swallowed ant poison? try cannabis!: 
+         http://www.ntk.net/2004/01/23/dohant.gif ... nothing sickening 
+         about: http://www.ntk.net/2004/01/23/dohvile.gif ... not that 
+         Register readers (or contributors) need self-defence products 
+         any more than most: http://www.ntk.net/2004/01/23/dohstun.gif 
+         ... Google goof revisited -  a comic strip that prettifies war: 
+         http://www.bry.fast.co.za/~stuartm/rave/cypunx/comix/rouge.html
+         ... now *that's* conservative: http://www.tory.org/home/inca/ 
+         ... for one week only - special "record cover mix-up hilarity" 
+         triple bill: http://www.101cd.com/Music/info.asp?id=1318433 , 
+http://www.djpeanuts.co.uk/product/Max+Bygraves/Singalongamaxmas/B00000APLR/
+         http://www.ntk.net/2004/01/16/dohdk.gif ... jaded Q reviewer 
+         knows just how Therapy? album will sound 4 years in advance: 
+http://www.q4music.com/nav?page=q4music.review.redirect&fixture_review=121297
+         ... express shipping? http://www.ntk.net/2004/01/23/dohvenus.gif ... 
+         ah, irony: http://www.ntk.net/2004/01/23/dohschool.jpg ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Doesn't seem to be any clear sign of this on their site, but 
+         THE FRIDAY THING are having some sort of launch party for 
+         their LONDON NEWS REVIEW "student magazine for the 21st 
+         century" (from 7pm, Mon 2004-02-02, Walkabout Aussie bar, 136 
+         Shaftesbury Avenue, London W1D, free but you're supposed to 
+         RSVP if you think you're entitled to attend via one of their 
+         elaborate subscriptions offers or something). Just a quick 
+         update on a couple of their other ever-imaginative projects: 
+         they've startlingly concluded that an earlier plan to form a 
+         political party to "unseat the Tories as the main party of 
+         opposition" was, in fact, "rubbish" - while December 2003's 
+         double tube derailments seem to have cast something of a 
+         downer on their campaign to keep London's notoriously over-
+         maintained underground network open until 3am at weekends, 
+         with their petition closing last month at 65,800 signatures, 
+         a mere 34,200 short of their target. Of course we're just 
+         jealous because it was deflecting attention away from our own 
+         pioneering transport strategy - an SMS service to put people 
+         who pester you for "a quid to get the bus" in touch with the 
+         ones who hang round tube stations collecting used travelcards.
+         http://www.ntk.net/2004/01/23/dohlate.gif
+            - from the folks who brought you the totally non-viral...
+         http://www.ntk.net/2003/09/05/dohcheek.gif
+                                       - No no no! Wrong wrong wrong!
+         http://www.ntk.net/2004/01/23/dohcheap.gif
+               - also seem to think "Cheap Date" is a "new magazine"?
+         http://science-project.org/inspire/in_sci_cafe.htm 
+               - this Mon: Kev Warwick *above* Norwich food allergies
+         http://www.piecouncil.org/national.htm
+                          - and today: "When come back, bring pie..."
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Dread words have slipped through the lips of men, but none
+         so dread as these: "Thus is the Lisp to Perl compiler
+         constructed". You can hear the thunderbolts crackling
+         overhead, can't you? DAVID RITCHIE has an odd idea of both
+         Lisp and how to better mankind - but he has marshalled some
+         desperate justifications for his monstrosity. It's a Lisp
+         with Perl's regexps built in, an ability to run wherever
+         Perl runs, access to the CPAN modules, and a chance to
+         horrify both Lisp and Perl advocates. The generated code is
+         about as terrifying as you can get this side of Intercal: it
+         looks like Ritchie has converted the Lisp into *pure
+         syntax*.
+         http://www.hhdave.pwp.blueyonder.co.uk/
+    - "I have used it succesfully for a fairly large project at work"
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+     http://search.ebay.com/search/search.dll?query=imaginary+girlfriend
+         - for less than the price of 160Mb Lexmark Alsatian on wheels: 
+http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&category=3750&item=3453467335 
+         that's not "random noise" - that's just me updating my blog: 
+         http://www.markcarey.com/mars/ ... no NASA blood for oil: 
+         http://www.petroleumnews.com/pnarch/010228-49.html ... get 
+         your own Java-virtual-machine-3D-flight-sim ass - to Mars: 
+         http://www.radicalplay.com/aces/ ... new 2-screen Nintendo 
+         is the new - Multi-Screen Game & Watch... hey, free classic 
+         audiowarez: http://www.illegal-art.org/audio/liner.html ... 
+         Google illustrating news stories in new "comic strip" mode: 
+         http://images.google.com/images?q=prescott+kelly+funeral ... 
+         though what's stopping those "PR firms, think tanks, industry-
+         funded organizations" from re-editing their own Wiki-page 
+         entries? http://www.disinfopedia.org/ - Leslie Bunder-stylee: 
+        http://londongeek.org/index.cgi?action=edit&page_id=LeslieBunder
+         (see revision history 1.9-1.10)... new skin for "Blunkett 
+         policy maker": http://www.qwghlm.co.uk/other/dailymail.php ...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> it's Amanda Holden, Jamie Theakston and John "Loved By 
+         You" Gordon-Sinclair - together at last! - in vaguely "Mad 
+         About You"-style divorcee sitcom MAD ABOUT ALICE (8.30pm, Fri, 
+         BBC1)... Wilco road movie I AM TRYING TO BREAK YOUR HEART 
+         (10.30pm, Fri, BBC4) hopefully documents the band being 
+         dropped from AOL Time Warner subsidiary Reprise Records then 
+         getting re-signed to Nonesuch Records (a subsidiary of AOL 
+         Time Warner), ingeniously making the same corporation pay for 
+         the same (flop) album twice... and the original POLTERGEIST 
+         (9.05pm, Sat, C5) fails to answer McSweeneys.Net's question: 
+         what if you built an Indian graveyard - on top of an old 
+         Indian graveyard?... OK, so Rob "Marion and Geoff" Brydon 
+         voiceovers old clips in THE DIRECTOR'S COMMENTARY (11pm, Wed, 
+         ITV), but they've ignored DJ Yoda's pioneering new soundtrack 
+         in favour of the original one for THE GOONIES (5.55pm, Sun, 
+         C5) http://boomselection.info/archives/000019.php ... as THIS 
+         WORLD: AMERICAN VIRGINS (9pm, Sun, BBC2) looks at the growing 
+         phenomenon of US teenage abstinence, with many now too fat to 
+         even leave the house, let alone have sex with each other - see 
+         also Dawn French-voiced Beryl Cook painting animation BOSOM 
+         PALS (10.35pm, Mon, BBC1)... still enjoying these trashy pop-
+         science docus like ULTIMATE THRILL RIDES (8pm, Mon, C5) and 
+         HITLER'S PLAN TO ATOM BOMB NEW YORK (8pm, Mon, C4) before the 
+         start of I'M A CELEBRITY GET ME OUT OF HERE (9pm, Tue, ITV) - 
+         former MP Matthew Parris returns to a different kind of 
+         "urban" jungle - a rundown Newcastle suburb - in FOR THE 
+         BENEFIT OF MR PARRIS, REVISITED (10.30pm, Thu, ITV)... there 
+         are po-faced new series of CSI: VEGAS (9pm, Tue, C5), LAW AND 
+         ORDER: CRIMINAL INTENT (9.50pm, Tue, C5), FRASIER (11.05pm, 
+         Wed, C4) and SIX FEET UNDER (11.05pm, Thu, C4)... VR-thriller 
+         THE THIRTEENTH FLOOR (11.20pm, Wed, BBC1) had the misfortune 
+         of being released just after "eXistenZ" and "The Matrix"... 
+         and spot-on Mark Kermode soundalike http://www.garthmarenghi.com/ 
+         makes the tricky transition to 1980s TV horror spoofery in GARTH 
+         MARENGHI'S DARKPLACE (10.35pm, Thu, C4)... 
+
+         FILM>> "Signs", "The Matrix", "8 Mile", and "Freddy Got 
+         Fingered" are among the targets when the makers of "Police 
+         Squad" join endearing scattershot spoof-fest SCARY MOVIE 3 
+         ( http://www.screenit.com/movies/2003/scary_movie_3.html : A 
+         supernatural force states that it won't recognize the Martin 
+         Luther King holiday as a day off; An alien slides a large 
+         knife under a door so that he and another alien can view a 
+         crotch shot of [Anna Faris'] panties (in the reflection on the 
+         blade) as she kneels on the other side of the door. We then 
+         see one of the aliens licking his lips and both playing with 
+         their own nipples)... only one cinema in London seems to be 
+         showing chess computer docu GAME OVER - KASPAROV AND THE 
+         MACHINE ( http://www.bbfc.co.uk/ : Contains mild language - C?)
+         ... while this time it's Nicole Kidman as Clarice Starling, as 
+         Anthony Hopkins' Hannibal Lecter takes a bite out of her *and* 
+         institutional racism in Clinton-era potboiler THE HUMAN STAIN 
+     ( http://www.cndb.com/movie.html?title=Human+Stain%2C+The+%282003%29 : 
+         Nicole looks really good here, and there's no shortage of her 
+         on display. Anthony Hopkins, who's 66 but looks much older, is 
+         in all of her nude scenes, which is either really kinky or 
+         really wrong, depending on your taste)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+            "doesn't even work with other letter combos in the URL"
+                     http://jennifer.19333.com/ntk.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

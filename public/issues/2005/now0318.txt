@@ -1,0 +1,236 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-03-18_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+         "The book is everywhere. There is a very real risk that many 
+          people who read it will believe that the fables it contains 
+          are true..."
+                - Catholic archbishop speaks out against "shameful and 
+               unfounded lies" in best-selling novel The Da Vinci Code
+             http://news.bbc.co.uk/1/hi/entertainment/arts/4350625.stm
+          ...and Christians in particular have proved themselves oddly 
+                                      susceptible to this kind of ruse
+
+         
+                               >> HARD NEWS <<
+                              hurrahs and booze
+
+          Drunk with the promise of hardware hacking, also cocktails,
+          EMERGING TECHNOLOGY, O'Reilly's annual neophiliac frenzy,
+          reeled into gaudy San Diego this week: both hammered and
+          hammering. Perhaps led astray by the still alarmingly high
+          Brit content ("English accents make all presentations more
+          entertaining", says the peanut gallery on IRC,
+          suspiciously), perhaps engaged by the Google-Yahoo-Apple-
+          Microsoft-plex sponsors' free drink, the overall tone seemed 
+          to be less chin-stroking, and more "nothing that can't be 
+          solved with an engineering metaphor, some alcohol and maybe 
+          a power drill". Perhaps most disturbing, in that context, was
+          Drew Endy's synthetic biology talk, in which MIT sets about 
+          building a DNA mechanical parts bank (with explanations on 
+          how teenage biohackers might synthesise it at home). Or the 
+          ever-lurid imagination of old NTK friend JAMES LARSSON, whose 
+          mix of chicken electrocution, puns, and disturbing seduction 
+          hacks certainly required some kind of a stiff drink afterwards.
+          http://parts.mit.edu/
+                                 - wait, what's in this cocktail again?
+      http://www.amazon.co.uk/exec/obidos/ASIN/0596009224/needtoknow0e
+          - issue 1 of "Make" hardware hack magazine, UKP6.96, out now
+
+          It's usually around this time of year that people start asking 
+          "Hang on, why don't we do an EtCon-kind-of show - right here!" 
+          (in the UK, that is), and we do have a few ideas along these 
+          lines already - though (currently) no particular constraints 
+          on when to hold it. Help us out by mailing tips@spesh.com with 
+          events we should try to avoid clashing with, ones we could 
+          perhaps catch people en route to (the Netherlands' 4-yearly 
+          WHAT THE HACK at the end of July, for instance), or if you 
+          know of any interesting speakers who don't usually come to the 
+          UK but are going to do so at some point during the year. On a 
+          completely separate note - and shorter timescale - we'd also 
+          like to hear any "alternative" ways you could suggest of 
+          celebrating next month's WIPO-sponsored WORLD INTELLECTUAL 
+          PROPERTY DAY, with a particular emphasis on stunts that are 
+          actually constructive and could generate some positive WIPO-
+          countering press, possibly a problem with one previous 
+          proposal regarding "book-burning" parties. No, not like the 
+          Nazis - burning out-of-copyright books onto free CDs!
+          http://www.own-it.org/events/details/?eventId=66&p=1
+             - this one at the Patent Office/ the very heart of Mordor
+          http://www.whatthehack.org/
+               - via the always-interesting http://www.ukuug.org/diary/
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          Just a small point about #33 in O'Reilly's MIND HACKS guide: 
+          as any fan of signal detection theory will tell you, it's not 
+          universally the case that adding noise to a weak signal 
+          increases its detectability - if, for instance, you were 
+          trying to spot a single, one-off stimulus in a random 
+          environment, adding more noise would just increase the number 
+          of false positives. "Stochastic resonance" (as described in 
+          "Mind Hacks") is more like an artefact of the way that a 
+          periodic - or otherwise predictable - signal tends to be more 
+          detectable than a more random one, and that averaging noise 
+          over time effectively corresponds to lowering the detection 
+          threshold or increasing the gain. So: don't go asking obvious 
+          questions like that when authors Matt Webb and Tom Stafford 
+          demo some of their popular cog-science pub-tricks from the 
+          book (6.30pm, Wed 2005-03-23, 2nd Floor, Foyles Bookshop, 
+          London WC2H 0EB, UKP4 redeemable against purchase of O'Reilly 
+          publications on the night) - if only because someone's sure to 
+          try and prove they really can boost their wifi reception using 
+          a Van Der Graaf machine. 
+          http://www.mindhacks.com/blog/2005/03/mind_hacks_at_foyles.html
+        - depending on the periodicity of the 802.11 signal, of course
+          http://hacks.oreilly.com/pub/h/2800
+           - sensors detect: link moved to http://neurodyn.umsl.edu/sr/
+          http://www.socialtext.net/loicwiki/index.cgi?london_europablog
+        - some sort of Six Apart blogging bash in London this Thursday
+          http://doors8delhi.doorsofperception.com/
+     - "Doors of Perception 8" in Delhi from Mon (Stirling Albion: nil)
+          http://www.spaceuk.org/conf2005/2005.htm
+        - UKP35/ day Brit rocket retrospective at end of month, Surrey
+          http://www.gilscottheron.com/lywhitey.html
+                 - or, as Gil Scott-Heron puts it, "Whitey on the Moon"
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+          would be a shoo-in for worst Photoshop montage of the month, 
+          but now we're worried that might adversely prejudice our 
+          application for a PhD in "Progressive House with Applied 
+          Techno": http://www.courses.dce.harvard.edu/~musie145/ ... 
+          nearly as laugh-out-loud as Wikipedia - but intentionally so: 
+          http://mrpalmguru.com/uncyclopedia/ ... right-hand image 
+          filename not quite the "right-on" image they told designers 
+          they were aiming for: http://www.little-shop.com/aims.html ... 
+          "The only word I can imagine to define this company's client 
+          support service? Fascinating. Quite fascinating, Captain": 
+          http://www.webhost4life.com/ ... Google Goofs o' the week: 
+          http://www.google.co.uk/search?q=%22viscous+assault%22 , 
+          http://www.google.co.uk/search?q=%22vicious+fluid%22 , 
+          http://www.google.co.uk/search?q=%22investment+baking%22 , 
+          http://www.google.com/search?q=%22perspective+employer%22 ... 
+          aghast BBC warns of "network of computer buffs who derived 
+          pleasure from cracking codes protecting copyrighted software 
+          such as Windows 95": http://news.bbc.co.uk/1/4205559.stm ... 
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          Despite all the alcohol/bioterror/loft-party nonsense of 
+          ETECH, there's a halo effect of genuinely-useful code releases 
+          - albeit mostly written during the presentations. It's 
+          especially good for the "BigCos" (cough) who show that they're 
+          listening to Uncle Tim and sharing more than just the booze. 
+          Amazon's new OPENSEARCH, for example, is both a small step 
+          towards the Semantic Web and a nifty way to offload their 
+          indexing onto other people. GOOGLE took the opportunity to 
+          showcase their eclectic collection of Open Source projects, 
+          ranging from sparse hashtables to, um, something that dumps 
+          core (but dumps it really well). SIXAPART quickly followed 
+          suit, though theirs was more of a "Here are our Perl modules, 
+          and... oh! Look what we found in LiveJournal's cupboard!" 
+          affair. And for all the non-developer suits confounded by low-
+          flying memes exploding from every corner, YAHOO!'s new "Tech 
+          Buzz Game" was there to soothe the capitalist brow: you may 
+          not understand it, but that won't stop you making money off 
+          it.
+    http://www.sixapart.com/pronet/weblog/2005/03/opensearch_at_e.html
+                 - we weren't joking about that "written during" thing
+          http://code.google.com/
+- Hashtable has ImFeelingLucky() function, returns targeted ad objects
+          http://www.sixapart.com/pronet/docs/powertools
+      - all of LiveJournal's GPLed goodies except for, um, LiveJournal
+          http://buzz.research.yahoo.com/bk/index.html
+                     - "Buy FOLKSONOMY! And all the typo variants too!"
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> a surprise (Dr Who-spoiling?) showing of the early, funny 
+          episodes of Sky1 stalwart BUFFY THE VAMPIRE SLAYER comes to 
+          6.40pm, Sat, C5... Mel Gibson plays a "deeply religious" Air 
+          Cavalry helicopter enthusiast in Nam revisionism WE WERE 
+          SOLDIERS (9.10pm, Sat, ITV)... and expect slightly more of the 
+          "Good British name" Pub Landlord catchprases than his "Police 
+          Academy" weapon sound-effects in AN AUDIENCE WITH AL MURRAY 
+          (9.15pm, Sat, ITV)... reality-show-examining hypothetical-
+          future drama-documentary IF - TV GOES DOWN THE TUBE is 
+          ignominiously shunted off to 11.20pm, Mon, BBC2... BBC4 
+          counterpoints human-shield tragi-comedy BAGHDAD OR BUST (9pm, 
+          Wed, BBC4) with acclaimed analysis of US military-industrial 
+          policy WHY WE FIGHT (10pm, Wed, BBC4)... and, following a week 
+          that's featured ironically repeat-based DOCTOR WHO NIGHT 
+          (7.30pm, Sat, BBC2), and both of the Peter Cushing movies 
+          DOCTOR WHO AND THE DALEKS (3.50pm, Sat, BBC2) plus DALEKS - 
+          INVASION EARTH 2150AD (12.40pm, Fri, C4), we're still hoping 
+          that the new series of DOCTOR WHO (7pm, next Sat, BBC1) will 
+          incorporate some of the League of Gentlemen's 'zine spoof, 
+          "Dandy Lord": http://www.ntk.net/2005/misc/dandylord.html ... 
+          
+          FILM>> "not as bad as it could have been", yet "not a patch on 
+          the 'Hellblazer' comic either" is the unsurprising verdict on 
+          gothic Keanu Reeves supernatural nonsense-fest CONSTANTINE 
+          ( http://www.capalert.com/capreports/constantine.htm : The 
+          angel Gabriel was a potty-mouthed androgynous female [Tilda 
+          Swinton] while the Bible says otherwise; spiritual use of 
+          lukewarm in clear defiance of God's admonition against being 
+          lukewarm; That God and Satan made a wager sounds as if the 
+          story is saying God and Satan are equal in power and 
+          authority!)... you suspect that British audiences may come up 
+          with their own "four-letter" solution to the Hangman poster 
+          http://www.empiremovies.com/posters.php?id=571 for low-budget 
+          sub-"Fight Club" artsy psychological potboiler THE MACHINIST 
+        ( http://cndb.com/movie.html?title=Machinist%2C+The+%282004%29 : 
+          Jennifer Jason Leigh lies in bed with Christian Bale and 
+          reveals her rack at the 20 and 59-minute marks)... the 
+          imminent Easter holidays are marked with the release of CGI 
+          romp ROBOTS ( http://www.capalert.com/capreports/robots.htm : 
+          transsexual suggestion; posterior in face humor; flatulence, 
+          repeatedly)... then, next week, expect MISS CONGENIALITY 2: 
+          ARMED AND FABULOUS (imdb: break-up/ drag-queen/ fake-breasts/ 
+          hung-upside-down/ ski-mask/ underwater-scenes) to largely 
+          overshadow Will "Anchorman" Ferrell and Radha "Pitch Black" 
+          Mitchell in quirky Woody Allen "comedy v tragedy" intertextual 
+          exercise MELINDA AND MELINDA (MPAA: PG-13 - adult situations 
+          involving sexuality, and some substance material)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                  "much-admired"
+   http://www.lifehacker.com/software/announcements/lifehacker-faq-028869.php
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

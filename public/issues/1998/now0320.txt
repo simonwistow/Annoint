@@ -1,0 +1,342 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____20/03/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+           "Douglas Rushkoff writes that watching his PalmPilot link
+           with his PC 'was like watching a mouse rape an elephant'.
+          Such casual use of a violent metaphor is a sad reminder of
+           the 'toys for the boys' attitude that is so common in the
+           computer industry, an industry that is still, apparently,
+          geared towards the satisfaction of male sexual fantasies."
+                             - GUARDIAN ONLINE reader EZRI CARLEBACH
+              the sexual fantasies of male mice - or male elephants?
+
+
+                               >> HARD NEWS <<
+                             overly worthy views
+
+         Okay, this is getting *silly*. It's now over a month since
+         the UK government almost announced their policy on key
+         escrow. Following that flurry of cancelled meetings, DTI
+         officials said that an announcement would follow in "in
+         another two weeks". Then we got the strongest hint yet that
+         a statement would be made today in answer to a written
+         question in Parliament. But now the DTI are now saying that
+         it could happen - "within the next few days". Not that
+         we're complaining: the ideal solution would be no statement
+         at all. But we're curious as to the postponement. Could it
+         be to do with the fact that this week Janet Reno, of the US
+         Department of Justice, finally stated that they were not
+         pursuing the domestic control of strong encryption? Or that
+         this was the week when BT Labs cracked a weak version of a
+         relatively new crypto-system, demonstrating the importance
+         of strong protection? Or that this was the one week that
+         Whit Diffie, inventor of public-key encryption and vocal
+         opponent to key escrow, is over in the UK? Maybe not. It's
+         probably just the DTI trying to stop the Home Office
+         pushing through an old policy that not even its DTI
+         creators believe in any more. Gad, are we that cynical?
+         http://www.computerprivacy.org/archive/03171998-5.shtml
+                                         - cops say no to key escrow
+         http://www.labs.bt.com/projects/security/crackers/
+         - illegal under last week's proposed EC legislation, by the way
+         http://www.amazon.com/exec/obidos/Author=Diffie%2C%20Whitfield
+                         - stop us if we're getting too sincere here
+
+         Good rule of thumb for prospective Murdoch partners: if he
+         seems as pleased with the deal as you are, you're missing
+         something. Newscorp, until recently happy to file LINEONE
+         under "ingenious tax write-offs", have been having a shakey
+         time with their BT co-owners. Despite increased
+         subscriptions (taking the service to a respectable 70,000+
+         from a rubbish 30,000 six months ago), and a swift tie-in
+         with the BIB digital TV boxes, both sides seemed itchy for
+         some payback. Enter United News & Media, who, with the
+         enthusiasm of the Net newbie, fork over ten million UKP for
+         a 33% share and the dubious privilege of sinking all
+         *their* hot media assets (Meridian, HTV, Anglia, PR
+         Newswire, The Express, Daily Star) into the obscurity of
+         LineOne's walled garden. Meanwhile, down amongst the walled
+         garden gnomes, veteran "virtual community" CIX got a
+         management buy-in from a group backed by Legal & General
+         Ventures. Cix "mom and pop" Keith and Sylvia Thornley get
+         to hang around for three years. Their role is undefined,
+         but will no doubt involve a lot of - what's that CIX
+         phrase? Wibbling?
+         http://www.unm.com/index2d.htm
+                        - the "two-dimensional" United Media Website
+         http://www.cix.co.uk/
+           -L&G after those CIX bikers' insurance premiums, we guess
+         http://www.landg.com/
+               - I think we've lost the American readers on this one
+
+         SIMON "www.scallywag.org" REGAN *is* a bit mad, what with
+         his Princess Diana murder conspiracies, his louche
+         obsessions regarding Pamplona bullfighting, and his dogged
+         pursuit of unlikely sleaze against prominent politicians.
+         So when he got done for "borrowing" the contents of ex-
+         minister of defence Michael Portillo's hard-drive via a guy
+         who was supposed to be "cleaning" it for the MP, we assumed
+         it would be another unhappy story of a eccentric hack
+         getting done for his fixations. Luckily for Regan, the case
+         just got thrown out. And luckily for everyone else, a legal
+         principle was thrown out too. The Criminal Prosecution
+         Service attempted to nab Regan on the dreaded Misuse of
+         Computers Act. If this case fell, any journalist who -
+         wittingly or not - received data on a digitally stored
+         medium could be prosecuted for "unauthorised access to
+         computer information" - even if receiving the same data on
+         a piece of paper would break no law. The judge ruled that
+         the guy clearing the disk was authorised to copy it. Good
+         to see the old "for backup purposes" excuse getting a legal
+         footing.
+         http://www.scallywag.org/
+                    - wonder how this effects the Gary Glitter case?
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         C|NET scoops with IE bug story Yoz broke in October -
+         http://www.yoz.com/ie40/ ... LIVE AND KICKING gets "busty"
+         computer-generated presenter... YAHOO! execs sell stock...
+         Marc Andreessen sells stock... Space Station "may be
+         delayed", admits NASA... POLYDOR takes down
+         www.ianbrown.co.uk message board: users, they say, not
+         talking enough about Ian Brown... Pentagon hackers turn out
+         not to be British after all... COMPUTER ACTIVE sells barely
+         20% of its 650,000 print run... BMG INTERACTIVE -
+         publishers of Grand Theft Auto, You Don't Know Jack -
+         bought out by fellow controv-mongers TAKE 2 - publishers of
+         Lula The Sexy Empire, Postal... Marvel's X-FORCE go to
+         Burning Man... "ISPs say Internet Demand Exceeds
+         Technology", reveals INFORMATION WEEK... Gates "speaks with
+         pronunced nasal drawl", uncovers REUTERS... STEVE BOXER
+         claims that Sega's OUTRUN was made by Nintendo... REBECCA
+         EISENBERG comes third in Net Diva poll, after Kim Polese
+         and Pamela Anderson... NASA astronaut takes Pilot on Mir;
+         forgets hotsync cable... you get a $10 discount off GRAND
+         THEFT AUTO in Australia if you have a parking violation...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Can't make it to Hannover, Germany for CeBIT, the "the
+         world's biggest IT event" [19/03/98 - 25/03/98]? Put off by
+         ZDNet's descriptions of "heavy rain", "sleet or snow" and
+         the "four-storey" Siemens Nixdorf stand, which apparently
+         requires its own elevators? Console your Euro-techno
+         yearnings with the news that, on 06/04/98, the BBC will be
+         recording a special German edition of TOP OF THE POPS, and
+         are currently looking for audience members, aged 17-25, to
+         be both "extrovert" and "German speaking" - undermining the
+         common belief that the two might be mutually exclusive.
+         http://www.messe.de/ch98/index_e.html
+                                - then next week, it's "CeBIT Home"!
+         http://www.bbc.co.uk/tickets/tvtvc.shtml#totpgerman
+                  - Beethoven? Kraftwerk? Nena? Culture Beat? FALCO?
+
+         Meanwhile, friendly neighbours of Germany, the French, are
+         holding their FETE DE L'INTERNET [20/3/98 - 21/3/98]. The
+         festival will include over 500 events, none of which
+         travels well via Babelfish, and is aimed at encouraging the
+         tardy French republic to throw off its Minitel chains and
+         take to the Interactive Malls. The uniquely Gallic addition
+         to the (digital) revolution is a "show trial" of the Net,
+         held in a real Parisian Court. The Net is accused of
+         murdering time, space and liberty, dividing society and
+         spreading filth and English. "A young handcuffed actress
+         dressed with specially designed 'cyber-clothes' will play
+         the defendant's role," adds the NY Times, unnecessarily.
+         http://www.cie.fr/proces/
+                               - about time we had a reign of terror
+         http://www.fete-internet.fr/
+                              - ou sont les GIFs des personnes nues?
+
+
+                                >> TRACKING <<
+                                  grep nuts
+
+         We admit that we haven't play-tested VOODOO EXTREME's
+         recent battery of Golden Oldies, reinterpreted for the 3D
+         accelerated lifestyle, because we're still typing this into
+         a Hercules monochrome card - but we've had enough mails to
+         suggest you check them out. If you too have a 3D
+         accelerator, that is. The programs were written over a
+         short time-frame by intense young people who, in a more
+         civilized age, would have been burned at the stake for
+         their Amiga demos. Reviews are mixed: humble NTK subscriber
+         Canis Lupus requests you take a look at his Braben Virus-
+         inspired work CHAGA, while outspoken cartoonist Charlie
+         Brooker says that many of them are "frankly, rubbish. But
+         what the hey."
+         http://www.voodooextreme.com/
+         - this isn't going to help your popularity one bit, Brooker
+
+         Continuing this week's "Not Tested On Animals" theme, NTK
+         is proud to report that SIGNUM 1100 DX *appears* to be a
+         beta software implementation of the Akai S1100 professional
+         sampler, although neither we (nor proper musician and
+         tipster Erich Wehmeyer) have the instructions or experience
+         to get it working properly yet. Erich also alerts us to the
+         imminent new version of TB303 soundalike REBIRTH (now with
+         "seamless Cubase interface", apparently), which we'll tie
+         in with our rumour that Rebirth distributors Steinberg may
+         soon do a similar deal with neat little Netherlands drum
+         machine HAMMERHEAD.
+         http://www.signum.it/1100/1100.htm
+                   - and you may ask yourself, "How do I work this?"
+         http://www.propellerheads.se
+                              - no, not the ones with Shirley Bassey
+         http://inside.hku.nl/~bram/hammer/index.htm
+                                             - give the drummer some
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         GAMEBOY digital camera vs www.reality.demon.co.uk/tyco.htm
+         ... imminent FALCO alert: www.teletubby.co.uk ... "DAVE
+         GREEN" bylines are tech journo equivalent of "Alan Smithee"
+         films, we hear... Amiga PREBOX... DILBERT TV show "next
+         season"... imaginative carbuncles at www.fat.co.uk ... ARM
+         floats... http://www.404notfound.com ... TIMES INTERACTIVE
+         present: http://found.cs.nyu.edu/dfox/monkey.htm ...
+         SPOILER ALERT: http://www.rhk.dk/users/neelix/st9full.html
+         ... Acclaim to do SOUTH PARK videogame - will it be as good
+         as the www.enlightenment.org desktop?... LARA CROFT movie
+         to be produced by DIE HARD team... more euphemisms for
+         WANKER at www.pe.net/~scotta/digitalconcepts/wristpilot.htm
+         ... WINDOWS DIANA... NETLINK techies leaving in droves...
+         http://www.henson.com/workshop/muppeteer_workshop.htm ...
+
+
+                               >> GEEK MEDIA <<
+           why don't you turn in and do something less interesting?
+
+         TV >> yeah, this first series eventually runs out of ideas
+         and tonight's Trainspotting spoof is a bit predictable, but
+         the long-overdue repeats of THE ADAM AND JOE SHOW (11.05pm,
+         Fri, C4) are - predictably - bedsittingly brilliant...
+         Courtney Pine improvises a "Jazz Turing Test" at the climax
+         of TOMORROW'S WORLD MEGALAB (8pm, Fri, BBC1)... and,
+         disappointingly, John Grisham thriller THE CLIENT (9.30pm,
+         Fri, BBC1) isn't the Java-hearing courtroom drama we'd all
+         hoped for... if those aren't cosmetic contact lenses, then
+         they must be STARS IN THEIR EYES (7pm, Sat, ITV)... did
+         Carrie "Leia" Fisher get into script-doctoring (eg, Speed)
+         purely on the strength of the snappy dialogue in POSTCARDS
+         FROM THE EDGE (9pm, Sat, C4)?... after RUBY WAX MEETS
+         (9.55pm, Sun, BBC1), there's been almost enough to do a
+         whole Jerry Springer show on "We Interviewed Jerry And
+         Thought We Were Being Original And Cool"... and sticking
+         with the chat theme, THE ENTERTAINMENT BIZ (9pm, Sun, BBC2)
+         stalks the real-life Larry Sanders - Jay Leno, Conan
+         O'Brien, and (one hopes) David Letterman... tragically, the
+         UK won't be getting the MYSTERY SCIENCE THEATER 3000'S
+         ACADEMY OF ROBOTS' CHOICE AWARDS SPECIAL on the Sci-Fi
+         Channel on Oscar night (with commentary on scenes from
+         Titanic, Good Will Hunting, Starship Troopers etc)... so we
+         say skip tedious luvvie-fest THE PLAYER (12midnight, Mon,
+         BBC1) for the warped notions about time travel espoused in
+         FOR THE LOVE OF (11.5pm, Mon, C4)... plus, continuing 7
+         days devoted to nature's very own polar solvent, the
+         maddest title of the BBC's whole Water Week has to be the
+         10-minute evolutionary psychologist musings in WET DREAMS
+         (10.20pm, Thu, BBC2)...
+
+         FILM >> some doubts about whether they really could extract
+         a DNA sample (mitochondrial or otherwise) from a single
+         eyelash, as they do in darkly arty futuristic thinker - and
+         A, C, T, G anagram - GATTACA (imdb: sci-fi / thriller /
+         drama / wheelchair / fraud / futuristic / mistaken-identity
+         / swimming / paralysis / dance / vacuum-cleaner / blood /
+         space-travel / cellular-biology / gene-manipulation /
+         brothers / murder / police / detective). NTK forensic
+         experts say: ah, but what if it had *attached root or
+         sheath material*?... hours of fun for London cinemagoers
+         (the rest of the UK must wait 2 weeks), spotting
+         anachronisms from 1997 in the supposedly 1995-set
+         Tarantino-by-numbers effort JACKIE BROWN (imdb: crime /
+         comedy / heist / vulgarity / based-on-novel / gun / drama /
+         betrayal). Goofs include a '97 calendar, the video game 688
+         Hunter/Killer, oh and lots of slightly old, tired actors
+         wading through the usual Pulp Fiction-era dialogue...
+         subtler timeshifts betray THE MAN IN THE IRON MASK (imdb:
+         action / romance / drama / father-son / twins /
+         swashbuckler / France / based-on-novel / royalty / prison /
+         french-revolution) - the DiCaprio cash-in claims to be set
+         in 1660, yet historical events suggest it's more like 1675.
+         Also, we somehow doubt that The Three Musketeers use the
+         word "tits" in the original novel..
+
+         FEEBDACK >> Our first real pledge for the anti-Microsoft
+         Bill-a-thon! Following Monday's NTK Live Show (all-too
+         unedited highlights at http://www.ntk.net/live/ ), MICHAEL
+         FUCHS - of Stanford medNET - promises "we will not purchase
+         a copy of FrontPage for each of our ten staff members.
+         Additionally, we pledge not to upgrade our copies of Word,
+         even as Internet Assistant for Word continues to develop
+         the most rudimentary capabilities." That's the spirit,
+         Michael; together we can beat that puny $30bn software
+         giant!... are you blind?, queries JAY: apparently,
+         Chieftain Tank Lasers aren't exclusive to Bull Electrical
+         ["see" NTK 03/06/98], as the optic-friendly Army surplus
+         store in Nottingham's Cattle Market sells them as "5 mile
+         range, non-eye safe - would suit hobbyist." Begging the
+         question, writes Jay: *what kind of hobbyist*?!... LEON
+         BROCARD argues that our lame URLs so far haven't been
+         "silly or long enough", backing the claim with a list of
+         his top 50 - see http://www.ntk.net/longerthanthis/ -
+         including that megasyllabic Welsh village, plus the oxford-
+         and-cambridge-examinations-and-assessment-council close
+         behind... DAVE MURPHY was equally unimpressed by
+         www.therapyquestionmark.co.uk (for grunge-punk band
+         Therapy?) - those darn RFCs, hey?... after our last
+         magazine round-up [NTK 13/03/98], an, er, ANONYMOUS READER
+         gleefully spills the beans on a focus group he attended for
+         a new "digital imaging" mag, which he describes as looking
+         "like a bad cross between .net and Amateur Photographer."
+         It might be from Future, it might cost a fiver, and it
+         might be called "Image". It's like Ain't It Cool News
+         around here... finally, a couple of quick omissions/
+         corrections: JON PETERSON recks that Macromedia Fireworks
+         is just a "re-hash" of Fauve Matisse, which came with the
+         company when they bought Xres: sorry, Jon, we were
+         struggling with the less ancient PC beta... and second, BEN
+         MOOR points out that Tracey Ann Oberman, rather than Trevyn
+         McDowell (as we claimed), is the Comedy Nation actress
+         allegedly obsessed with science fiction (especially Dune).
+         NTK apologises unreservedly for any distress caused...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "Linux enough for you?".
+                    ( http://www.eklektix.com/lwn/ )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

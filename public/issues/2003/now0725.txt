@@ -1,0 +1,235 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-07-25_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+                              happy sysadmin day!
+
+                                >> HARD NEWS <<
+                               summertime blues
+
+         And the long summer days continue to drag by. What shall we
+         waste our copious and collective free time on, especially
+         now that none of us have any jobs? NTK's old business
+         manager, TERRY SHUTTLEWORTH writes in to suggest we should
+         all enter the free "International Star Trek Guru of the
+         Year" contest, but then he would, being connected in some
+         Ferengi fashion with the Paramount Franchise Collective. But
+         what about the other, negligible non-Trek parts of our
+         brains? Looking over last week's memepool, we're still
+         inspired by MATTHEW SOMERVILLE's dynamic recoding of the
+         godawful Odeon site into something that's usable (and
+         accessible) by people wanting to actually give Odeon money.
+         Long time NTK curmudgeon STEF "up yours, street" MAGDALINSKI
+         senses in his bones that there might be one or two other
+         sites that could be successfully recoded in this way. And
+         it's about time we had another legally-dubious competition.
+         We're still thinking about how to do this, but the first
+         step's easy: send us the sites that you hate to use, but you
+         think could be given a working makeover. We'll collect a
+         list of the worst/potentially most useful, and go on from
+         there. We sense a great deal of interstitial Flash in our
+         future.
+         http://www.startrekguru.com/
+- good for reassuring that you're *not* the biggest trek saddo out there
+         http://www.odeon.co.uk/
+                                                  - fuxx0red sites...
+         http://www.dracos.co.uk/odeon/
+                                                              - fixed
+
+         In other competition news: the (already arbitrary) closing
+         date for our contest to come up with a "Japlish" slogan for
+         NTK has now been extended, as most entrants so far have
+         taken it as an invitation to auto-translate one of our
+         existing slogans into Korean or something and then back
+         again. Not that we didn't enjoy PAUL DOODY's "They're steel
+         iron is in our transposition. Our steel iron is now that
+         back", or JOHN12's "*The* English with weekly high
+         technology because of NTK sarcasm renewal" - it's just we
+         were hoping for more like ADRIAN FURBY's "Heat up auto
+         battle is exciting scene. Fight!" or  WILL HARRIS's haiku
+         "Friday refreshness? / Let's heartful communicate!/
+         ntk.net". So, please keep them coming until you get bored of
+         them (or we do) - don't forget that you could win one of
+         five copies of the official UNNOVATIONS spinoff book, a
+         filth-packed adventure into techno-despair in any language
+         you care to name.
+         http://www.engrish.com/clothing/
+            - *Ground* is storongest technic; there is exciting scene
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         at last, a company spokesman who corrects himself in brackets
+         afterwards: http://www.ntk.net/2003/07/25/dohlge.gif ... why
+         C4 seem to be repeating the same episodes over and over again:
+         http://www.ntk.net/2003/07/25/doh10th.gif ... self-defeating
+         user interfaces: http://www.lian-li.com/proclass.php vs
+         http://www.ntk.net/2003/07/25/dohbad.gif ... glaringly obvious
+         (right side of): http://www.3m.com/ergonomics/ ... seeing
+         popularity on Amazon, DOOYOO attracting prank reviewers too:
+         http://www.dooyoo.co.uk/electronics/camcorders/sony_dcr_trv_33
+         ... and while you're at it, could you remove his phone number?
+       http://lists.w3.org/Archives/Public/www-validator/2003Jul/0108.html
+         ... a pinch and a punch - puerile GOOGLE GOOFS of the month:
+         http://www.google.com/search?q=vaginia+state , "honk kong",
+         "carless driving", "anti natal", "unclear weapons", "defecto
+         standard", depratment - and "I'm Feeling *Very* Lucky" on "lager"...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Never mind all these-newfangled Games, Fringe, Jazz, Book, TV,
+         Film and Erotica Edinburgh festivals - doing their best to
+         provide wholesome working-class entertainment for the locals
+         this year will be the 4-day UK UNIX USER GROUP LINUX FESTIVAL
+         2003 (from next Thu 2003-07-31, George Watson's College,
+         Edinburgh, UKP12.50 concessions, commercial UKP100+VAT). Last-
+         minute bookings are still available for Stephen Tweedie's
+         off-Broadway hit "Inside the Linux Kernel", while the other
+         attractions include the usual flown-in Hollywood stars (Andy
+         Fenselau of SGI presents his acclaimed one-man show "New
+         Breakthroughs in Linux Supercomputing") - plus student stand-
+         up from Cambridge Footlight Matthew Garrett, whose multimedia
+         odyssey "Dasher: An Information Efficient Text Entry and
+         Control System" is said to conclude with the audience throwing
+         him Alphabetti Spaghetti for him to catch in his mouth.
+         http://www.ukuug.org/events/linux2003/
+         vs http://www.eigf.co.uk/siteContent/intro/welcome.jsp
+         http://www.inference.phy.cam.ac.uk/dasher/DasherSummary2.html
+         - we're joking of course; it's actually very good
+         http://www.iainaitch.com/
+         - reader Iain Aitch gigs at Vox 'N' Roll on Thu in London
+         http://www.ccc.de/camp/2003/index.en.html
+         - Thursday after: Berlin Chaos Communication Camp!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         A while back we asked if anyone had any IDEs that worked on
+         PDAs or smartphones. Most of you assumed we were asking in
+         much the same tone as that spammer who wants spare parts for
+         his Dimensional Warp Generator time-machine, but we had some
+         replies. We'd hoped to scare off the Symbianites by unfairly
+         disparaging their newly open-sourced OPL, but unfortunately
+         we misspelt it as "OML", so they got a look in. Zooko gets
+         points for mentioning NTK's favourite time-waster, the
+         smalltalk environment SQUEAK, which has Zaurus and Ipaq
+         ports. Squeak's enduring some major refactoring work right
+         now though, so perhaps you'll want to leave it for a little
+         while. In the end, we settled on Paul's suggestion of Onboard
+         C, which combines one of nature's finickety but trusty
+         languages with Graffiti, one of nature's finickiest but
+         trusty data-entry systems. It's an ANSIish C IDE for your
+         Palm.
+         http://opl.symbiandiaries.com/
+                                                  - the Amiga of PDAs
+         http://www.is.titech.ac.jp/~ohshima/squeak/squeak-zaurus-e.html
+         - squeak on a zaurus. but then you can get anything on a zaurus
+         http://onboardc.sourceforge.net/
+         - "others enjoy being able to code during their daily commute"
+         http://www.anexium.com/stuff/star-trek-spam.txt
+                          - don't reply of course, it could be a trap
+
+
+                                >> MEMEPOOL <<
+                    contains a source of www.snackspot.org
+
+         sniff the POP3 passwords of entire Guardian G2 section staff,
+         win prize: http://www.theisociety.net/archives/000789.html ...
+         after "Masturbation cuts cancer risk", another great week for
+         geek health: http://news.bbc.co.uk/2/3086013.stm ... plump,
+         slightly spotty baby required for demographically-confused
+         photo shoot: http://www.snackspot.org/images/frenchfries.jpg
+         ... "Pipkins" diet: only eat hare, pork, monkeys, chiming
+         clocks... and we thought our "doh" collections were boring:
+         http://www.scorpioncity.com/mscrash.shtml ... yodel view
+         controller: http://0x2a.no-ip.org/mt/archives/000008.html ...
+         EMAP "looking into" weekly email newsletter ... oh, these'll
+         get you into university: http://www.personalstatement.info/
+         ... http://lnk.to/ - raising (or lowering) the stakes in the
+         competitive URL-shortening market: http://notlong.com/links/
+         ... DRM reclaimed: http://www.drm.org/whydigital/globwhats.htm ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> wonder if Endemol will reuse the BIG BROTHER (9pm, Fri,
+         C4) web data for FAME ACADEMY (6.30pm, Sat, BBC1) again this
+         year? http://www.ntk.net/2002/10/11/dohfame1.gif ... Saturday
+         night is Bill Paxton night, making heavy weather of CGI chaser
+         TWISTER (6.25pm, Sat, ITV), which then segues into APOLLO 13
+         (8.30pm, Sat, BBC1)... and look out for more NHS spectacle
+         frames than at a Morrissey gig in Philip Larkin recreation
+         LOVE AGAIN (9.15pm, Sat, BBC2)... THE HEAVEN AND EARTH SHOW
+         (10am, Sun, BBC1) features Danny Wallace's made-up "random
+         acts of kindness" cult http://www.dannywallace.com/joinme.html
+         - apparently that's not all he has in common with Dave Gorman
+         nowadays... James Cameron weekend begins with his writer
+         credit for RAMBO: FIRST BLOOD PART II (11pm, Sat, BBC1), then
+         explodes all over C5's TERMINATOR NIGHT, beginning 5.45pm on
+         Sun with LAST ACTION HERO... as AMERICA BEYOND THE COLOUR LINE
+         (7.10pm, Sun, BBC2) delivers a more careful deconstruction of
+         "Black Hollywood"... Sarah Michelle Gellar turns out to be the
+         opposite of SIMPLY IRRESISTIBLE (11.15pm, Sun, BBC1)... "The
+         Real George Orwell" is the subject of an all-Newspeak THE
+         SOUTH BANK SHOW (10.45pm, Sun, ITV)... Asperger's spectrum
+         docu MY FAMILY AND AUTISM (9pm, Wed, BBC2) not to be confused
+         with Jo Brand celeb quiz NOBODY LIKES A SMARTASS (6pm, Mon-
+         Fri, BBC2)... and expect face-pulling and overacting - and
+         that's just the interviewer - in RUBY WAX WITH JIM CARREY
+         (10.35pm, Mon, BBC1)... the "Japanese woman who thought it was
+         real" http://www.snopes.com/horrors/freakish/fargo.htm follows
+         FARGO (10.40pm, Mon, C4)... GENERATION TERROR (11.20pm, Tue,
+         BBC2) profiles 1970s Red Army lightweights Baader-Meinhof...
+         and you don't have to seen the "My Wrongs" prequels 1-116 and
+         118-8244 to understand what's happening in Chris Morris short
+         MY WRONGS #8245-8249 & 117 (11.10pm, Wed, C4)...
+
+         FILM>> must be the school holidays already, as "Distributor
+         chose to cut sight of a dangerous imitable combat technique
+         (double ear clap) to obtain a 12A" rating for this week's
+         "Malcolm In The Middle" adolescent spy spoof AGENT CODY BANKS
+         ( http://www.screenit.com/movies/2003/agent_cody_banks.html :
+         [Angie "Law And Order" Harmon] wears tight and cleavage-
+         revealing outfits throughout most of the film)... but rendering
+         on Linux http://www.wired.com/news/culture/0,1284,59452,00.html
+         (like the average cinemagoer can spot the difference) somehow
+         hasn't prevented goddess of chaos and discord Eris from being
+         portrayed as the *villain* of SINBAD: LEGEND OF THE SEVEN SEAS
+         ( http://www.bbfc.co.uk/ : Cut required for U to remove head
+         butt in accordance with BBFC Guidelines and Policy. 12A uncut
+         was available)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+            "ahh, the 'switching protocols' HTTP status code. Clever"
+                       http://unpythonic.net/jeff/ntk101.jpg
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                        (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

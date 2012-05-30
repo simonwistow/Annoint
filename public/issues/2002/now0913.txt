@@ -1,0 +1,240 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-09-13_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "In some countries, you can tune the TV to 'text channels,'
+         which are like Web pages with background music. Each
+         displays news headlines, weather, sports scores, stock
+         prices, and -- the most useful one for me -- the latest
+         airline flight information."
+  - DAVID POGUE previews exciting new European technologies for Americans
+   http://www.nytimes.com/2002/09/12/technology/circuits/12POGUE-EMAIL.html
+                                           ... CEEFAX: catch the wave!
+
+
+                                >> HARD NEWS <<
+                              who's kidding who?
+
+         Silly season again, but instead of just running made-up press
+         releases masquerading as news stories, we at NTK like to run
+         Google searches masquerading as investigative journalism. Take
+         the 5 plucky Brits who changed their names to "Turok" to
+         promote ACCLAIM's new dinosaur shoot-em-up earlier this month.
+         Given Acclaim's claims that "more than 10,000 people" applied
+         for this honour, it's curious that a Google search on their
+         names reveals at least two of the chosen winners to be jobbing
+         actors. Of course, that could just be coincidence - except
+         that a search for DR SIMEON CANTRELL, the alleged mastermind
+         behind this groundbreakingly tedious marketing stunt, gets no
+         non-Turok-related hits at all, except that he shares certain
+         biographical details - including "a habit of challenging
+         conventional business ideas" - with one Dr Byron Sharp, also
+         of the Marketing Science Centre, Australia. But there can be
+         no doubt that the (now widely-quoted) Dr Cantrell actually
+         exists, because, as Acclaim emphasise, he has a book coming
+         out - "Market Their Pants Off!" - a tome which appears to have
+         the same ISBN number as "My First Knock Knock Joke Book".
+         http://www.ananova.com/news/story/sm_663071.html
+                       - vs http://www.ugly.org/goberman_lheila2.html ,
+                                http://www.ukscreen.com/cast/matthewg
+         http://www.mynameisturok.com/about.htm
+         - as "interviewed" by http://news.bbc.co.uk/1/hi/2197292.stm
+         http://www.marketingsciencecentre.com/people/b_sharp.html
+                                                        - who's there
+
+         We've been told by shadowy figures in the rebellion to "lay
+         off the EUCD" this edition (but only because there'll be
+         bigger news next week). But in case you were getting too
+         depressed, go ahead cheer yourself up with the very first
+         government sponsored document to go against the crippling of
+         fair dealing rights in the UK: "developing countries, or
+         indeed other developed countries, should not follow the
+         example of the DMCA in forbidding all circumvention of
+         technological protection.", says the Commission on
+         Intellectual Property Rights. Of course, it's about the
+         effect of IP law on the third world and will therefore be
+         utterly ignored, but it's nice to have some ammunition.
+         http://www.iprcommission.org/graphic/documents.htm
+                                            - chapter five's a corker
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         that's the last time you mess around behind *Google*'s back:
+         http://labs.google.com/glossary?q=whore ... no wonder he's staring:
+         http://uk.news.yahoo.com/020911/80/d9eja.html ... unfortunate
+         banner ads, #38213 http://www.ntk.net/2002/09/13/dohriddance.png ...
+         can we swap it for ours? http://www.ntk.net/2002/09/13/dohsmart.png
+         ... but what if Martha is kidnapping children for al Qaeda?
+         http://www.savemartha.com/ ... so that's where it ended up:
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=1561579930 ...
+         who's David? http://www.ntk.net/2002/09/13/dohbleentendre.jpg ...
+         Father Dougal, is that you? http://www.contentwatch.com/audit/ ...
+       last place you'd want flash: http://www.genevievenaturisme.com/english/
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Pittsburgh, Amsterdam, London - Munich! "The Science of Perl"
+         is the theme of this year's YET ANOTHER PERL CONFERENCE::
+         EUROPE (from Wed, 2002-09-18, Technische Universitat Munchen,
+         Munich, Germany, EUR 89 registration fee, does not include
+         accommodation), featuring the likes of DAMIAN CONWAY talking
+         about "Extreme Perl", "Perl 6" and "Quantum::Superpositions"
+         (like he always seems to be - in this universe, anyway). But
+         don't book your flight back too early, because the Bavarian
+         capital is also playing host to the world's first WORLD
+         CHAMPIONSHIP IN EXTREME IRONING (from 6pm, Fri 2002-09-20,
+         Holzkirchen, near Munich, Germany, EUR 20), with "freestyle",
+         "urban", "water" and "forest" contests in this Brit-invented
+         sport which, we fear, is already having its quirkier creases
+         and folds smoothed out by the high-powered steam of commercial
+         sponsorship and exploitation.
+         http://www.yapc.org/Europe/2002/
+                      - handily, also leads into Munich Beer Festival
+         http://www.extremeironing.com/~eib/ei/teamgb/
+                      - GB team sponsored by Rowenta. Iron on, dudes!
+         http://www.cobd.co.uk/yakfestpage.htm
+                     - also next weekend: retro games thing in Oxford
+         http://www.londonopenhouse.org/
+            - or view internal security of London's biggest buildings
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         PSYCO, as befits the name, is scary and wrong. It's a
+         JIT-like specialising compiler for Python (a trick hitherto
+         widely regarded as impossible), that moves chunks of runtime
+         variable processing seamlessly to compile time (mostly
+         impossible), making Python code at Java to C++ speeds
+         (highly impossible). It's also impossibly easy to install,
+         set up, and instantly use on existing code with very little
+         modification. It's all part of Armin Rigos's patently
+         impossible project to prove that the more high-level code
+         is, the faster it should run. Here's hoping he finishes the
+         code before computer scientists with brands and pitchforks
+         break down the castle gates.
+         http://psyco.sf.net/
+                                  - and they said John Cocke was mad!
+         http://groups.google.com/groups?th=d85d63a710c53607
+                                                 - unsolicited praise
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         would a merciful God allow: http://www.geocities.com/bunderfan/ ...
+         when bandwidth thieves attack http://www.i-r-genius.com/tony/cd.html
+         versus http://polaris.umuc.edu/~jweldon/CD.html versus
+         http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&item=2050970860 ...
+      http://uk1.farnell.com/Search/search-main23.jhtml?CATID1=24&CATID2=1051
+          - always out of bloody stock.. won't someone please
+         http://www.thinkofthechildren.co.uk/ ... hang around the "safety"
+         page on http://www.wtc2002.com/ and it'll tastefully play Twin
+         Peak's "Falling" ... http://www.iggle.com/images/sanrio/hk40k.jpg
+         Life,  http://uk.news.yahoo.com/020907/80/d92ih.html meet Onion:
+         http://www.theonion.com/onion3710/hamster_thrown.html ... worst.
+         sigs. ever: http://bitey.net/slashdot-sigs/ ... great edition of
+         ROSS "OUTSIDE SCOOP" TRUEMAN, as he touchingly explains why
+         Posh Spice would "never allow her children to be taken":
+         http://www.popgossip.fsnet.co.uk/mainpage.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> the - somewhat ineffectual - torture of Jennifer Garner
+         takes up most of the pilot episode of ALIAS (5.30pm, Sat, C4),
+         Demi Moore gets a bit of a rough ride in Ridley Scott designer
+         boot camp odyssey GI JANE (9.15pm, Sat, C4) - but Michael
+         Douglas has had just about as much as he can take, in one of
+         Joel Schumacher's nearly 1-in-5 surprisingly good films,
+         FALLING DOWN (11pm, Sat, BBC1)... the ever-annoying Lisa
+         Rogers is the new co-host of SCRAPHEAP CHALLENGE (5.25pm, Sun,
+         C4)... don't hold your breath for the "This man has no dick"
+         line in the edited-for-language cut of GHOSTBUSTERS (6.55pm,
+         Sun, C5)... and, as the continuity announcer suggested at the
+         end of Tuesday's showing, there's another chance to "catch any
+         bits you missed" in Spielberg's 3-hour SAVING PRIVATE RYAN
+         (9pm, Sun, C5) - though make sure you set the video for
+         magnificent Denise Richards/ Neve Campbell/ Bill Murray
+         modern-day noir WILD THINGS (10pm, Sun, C4)... dance music
+         docu BETTER LIVING THROUGH CIRCUITRY (12midnight, Sun, C4)
+         features DJ Spooky, Roni Size, US "big-beat" idiots The
+         Crystal Method... Ross "Eastenders" Kemp hosts grittier-than-
+         usual SAS-training reality gameshow ULTIMATE FORCE (9pm, Mon &
+         Wed, ITV)... Amy "NYPD Blue" Brenneman is, presumably, a
+         judge, in ingeniously titled US drama JUDGING AMY (1.45pm,
+         Mon-Fri, C4)... and DESPATCHES: SEX ON THE STREET (9pm, Mon,
+         C4) heralds the start of C4's "Prostitution - The Laws Don't
+         Work" season - though surely it would be quicker if C4 just
+         told us which laws *do* still work, and why... one obvious gag
+         about the BBC's CRACKING CRIME night (from 7pm, Wed, BBC1):
+         http://www.martian.fm/cracking_crime.htm ... Mel Gibson takes
+         a rather more pro-active approach to the problem in RANSOM
+         (9pm, Wed, C5)... and hopefully REPUTATIONS (9pm, Thu, BBC2)
+         will ask the obvious Uri Geller question: if his psychic
+         powers are so amazing, why do they only manifest themselves in
+         ways that resemble simple conjuring tricks - instead of, say,
+         actually having some worthwhile real-world effect?...
+
+         FILM>> jittery Mel Gibson triumphs over god-awful B-movie
+         dialogue, heavy-handed M Night Shyamalan philosophising and a
+         - surprisingly restrained - "Home Alone" Culkin sibling in
+         spooky "Close Encounters Of The Agricultural Kind" containment
+         sci-fi SIGNS ( http://www.capalert.com/capreports/signs.htm :
+         toilet humor by child; constant threat of the unseen with
+         several individual instances of amplified threat; child
+         demanding his "vote" outweighs his father's authority)...
+         after "10 Things I Hate About You" and "Hamlet 2000", Julia
+         Stiles continues her teen Shakespeare remakes in high-school
+         hate-em-up O[THELLO] ( http://www.cndb.com/movie.html?title=O :
+         Creative camerawork means we don't see Stiles naked but it's
+         implied and she does look naked, as we see multiple angles of
+         her and a lot of flesh, but no "flesh" of importance to reveal
+         that she is, indeed, naked)... even without the interracial
+         aspect, the road to romance can still be a rocky one, posits
+         Afro-American battle-of-the-sexes TWO CAN PLAY [AT] THAT GAME
+         ( http://www.capalert.com/capreports/twocanplay.htm : [Vivica
+         A Fox] modulates the frequency of her shields to reflect the
+         advances right back at the [Morris Chestnut]/[Anthony
+         Anderson] pair)... and it's no easier for God-fearin' all-
+         white folks in Mandy Moore teen tosh weepie A WALK TO REMEMBER
+         ( http://www.screenit.com/movies/2002/a_walk_to_remember.html :
+         [Lauren German] and others digitally manipulate a photo and
+         put [Moore]'s face on the body of a scantily clad woman;
+         Phrases: "Jedi master of bullsh*t", "I've got to take a
+         massive piss")...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            a "Lunch Hour Thriller"
+              http://www.fhm.com/reporter/100bestsites/frames.asp
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

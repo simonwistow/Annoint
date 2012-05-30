@@ -1,0 +1,232 @@
+  __  __ _2002-12-27   _ _____ _  __
+ |  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! mail an empty message to
+ | |\/| | | '_ \| |  \| | | | | ' /     o ntknow-subscribe@lists.ntk.net
+ | |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+ |_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+        "Who therefore wouldn't want to support and belong to the
+         Matrix, especially when it is making life easier for its
+         subjects? [...] We really need to clamp down on the party- 
+         pooper Neos of this world and get into the future as soon as
+         we can - a future in which we can be part of a Matrix system,
+         which is morally far superior to our Neolithic morals of
+         today."
+               - "Agent" Kevin Warwick puts the other side of the story
+     http://whatisthematrix.warnerbros.com/rl_cmp/new_phil_warwick.html
+
+         [ Next week is our traditional start-of-year "fencepost
+         error" holiday. In the meantime, we thought we'd leave you
+         with a smattering of the thoughtful queries from subscribers
+         over the last year, together with our insufferable answers.
+         We'll be back, gabbling madly to fill the awkward silence,
+         on 2003-01-10. Which brings us neatly to our first question: ]
+
+
+                                 >> Q AND A <<
+                             while the cat's away
+
+         Q. What I need to know is why you use American style dates.
+         Here I was thinking to myself surely it can't be the 18
+         month of the year 2000 already, only to be told some days
+         later that there is in fact no 18th month in any year. So
+         distressed was I that I cancelled my subscription to Private
+         Eye. I mean what are you people thinking?
+                                                        - Richard Brown
+
+         A. We are thinking ISO 8601 Extended Calendar Date Format,
+         Richard. The YYYY-MM-DD format is trivial for computers to
+         order chronologically, has no ambiguous variants, and, in
+         common with all the best standards, has no precedent in
+         established practice anywhere in the world. It is guaranteed
+         to offend Americans, confuse the British, and dismay the
+         French, all of are Established Goals in the NTK/ISO Joint
+         Secret International Manifesto (ISO 6392-1:1936, available
+         from http://www.iso.ch/ ).
+
+         NTK officially switched to ISO 8601 on Pungenday, Chaos 8,
+         3165 YOLD.
+
+
+         Q. NTK has a very hardcore stance on privacy and related
+         issues, but you don't actually have any kind of privacy
+         policy yourself. I've sort of got the impression that
+         they're kind of pointless for sites to have anyway as they
+         can't mean anything legally, but I was a bit surprised not
+         to find even some sarcastic parody of a disclaimer on
+         www.ntk.net.
+                                                         - Peter Lowe
+
+         A. NTK's privacy policy is private. Contrary to all our
+         efforts, however, bits of it have leaked out onto the Net,
+         including this fragment from the NTK subscription notice:
+
+         "We don't give out our mailing list. Never have, never will."
+
+         That said, when Dredd crashes through our door waving
+         subpoenas, he'll find us wriggling on the floor, squealing
+         logfile data like we're already in thumbscrews. Don't send
+         us info, unless you want it to publicised. We'll respect any
+         request for anonymity or the omission of facts and dates,
+         but we have precious little protection under the law for
+         hiding sources. If you truly want to cover your tracks,
+         send mail from a hushmail account or (if you know how to do
+         it), an anonymous remailer. Our PGP keys hide out at
+         http://www.spesh.com/danny/crypto/
+
+         Q. Are there any special NTK URLs I should know about?
+
+         You mean like the text only version at http://www.ntk.net/text.cgi ?
+         Or its PDA-friendly brother at:
+         http://nobodynet.ddts.net/palmntk.htm ?
+
+         Or the Mozilla-friendly smart bookmark:
+         http://www.ntk.net/index.cgi?search=1&searchv=%s
+         (Bookmark it, and give it the keyword name "ntk". Whenever
+         you want to search our back issues for mentions of foobar,
+         type "ntk foobar" into the URL bar.)
+
+         Or the proportional typed version (probably mangled by this issue)?
+         http://www.ntk.net/index.cgi?s=ntk.css
+
+         Or the slashdot version?
+         http://www.ntk.net/index.cgi?s=slashdot.css
+
+         Or the RSS feed?
+         http://www.ntk.net/rss.php3
+
+         Q. Ooh! RSS! How can I "permalink" to your stories?
+                                         - The Rabble of Blogistan
+
+         If you just use to "http://www.ntk.net/" when you're
+         "blogging" us on your "web page", your link will point to
+         this week's content, not the original article you were
+         slagging off. For posterity's sake, you should link directly
+         to the offending issue.
+
+         NTK issues can always and permanently be found at
+         http://www.ntk.net/YYYY/MM/DD - so this issue will
+         eventually end up at http://www.ntk.net/2002/12/27
+
+         If you want to point to a particular section, say it like
+         this: http://www.ntk.net/2002/05/24#TRACKING
+
+         And if you want to be really pinickety, you can pinpoint an
+         individual line by doing this:
+         http://www.ntk.net/index.cgi?b=02001-04-20&l=312#l
+         These are the URLs that our search engine generates - that's
+         generally the best way to discover them, too. Just enter the
+         text from the first line of the piece into the search bar at
+         the top of the Web page, then copy the link that the search
+         engine presents.
+
+         (The leading zero in the exact URL is an extension to ISO 8601,
+         proposed by Stewart Brand of the Long Now foundation. For
+         more information, see the bottom of Bruce Sterling's own FAQ
+         http://www.viridiandesign.org/notes/101-125/00125Viridian_FAQ.html
+         Now do you regret asking, Richard Brown?)
+
+         Q. What does the keyword "64 208 49 135" mean in your meta tags?
+                                                  - Peter Lowe, again
+
+         A. The Rules of NTK are:
+
+            1. No-one understands more than half of NTK.
+            2. Rule one includes its editors.
+            3. Never apologise, never explain.
+
+         Sorry we couldn't be clearer.
+
+         Q. Why didn't you use my hilarious tip?
+
+         A. Each week, NTK receives many excellent contributions.
+         Unfortunately, we can only print the best.
+
+         Q. Why didn't you use my hilarious doh?
+
+         A. Was it a JPG or a BMP? Then I'm afraid our laughter was
+         choked back by sobs of pain. Jpeg's generally turn crips
+         screenshots into damp watercolours, and BMPs are just
+         obscene. Send GIF or PNG. Thanks!
+
+         Or was it somehow not as amusing as this ongoing series?
+         http://www.ntk.net/2002/12/27/dohpoo3.gif
+
+         Q. Why didn't you use my hilarious puerile google misspelling?
+
+         A. We've already printed it before.
+
+         Q. Is it true about the 500k attachment limit? i think its
+         silly, 500k isn't very big, it only takes about 20 seconds.
+         i just sent myself a 645k file on purpose to see what
+         happens to me.
+                                         - "Lord Doan the Unqualified"
+
+         A. We're very sorry about your friends in Iraq. But an
+         example must be made.
+
+         [ Unfortunately, space forbids us from including even more
+         popular questions, such as: "How does NTK pay the bills?"
+         (Mark Gibbs) and "What's wrong with me?" (Steve Bowbrick).
+         If you've got any questions, mail tips@spesh.com, and we'll
+         run them as part two of this FAQ when there's no news next
+         week either. Until then, Happy post-Newtonmas! See you
+         through the eye of this year's singularity! ]
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         FILM>> "At least five of the films in your top ten for 2001
+         were quite good", complained reader MARK THOMPSON (presumably
+         not the new head of Channel 4) - a "worrying" precedent as he
+         traditionally uses NTK as "a reverse indicator" of whether a
+         film is going to be any good or not. With that in mind, we've
+         tried extra hard to devise this year's ever-controversial
+         "best-of" run-down - consisting, where possible, of movies
+         either overlooked by everyone else or actively placed in their
+         top ten turkeys. To wit: 10. OCEAN'S ELEVEN, 9. BLACK HAWK
+         DOWN, 8. PANIC ROOM, 7. NOT ANOTHER TEEN MOVIE, 6. SIGNS, 5.
+         THE NEW GUY, 4. MONSTERS INC, 3. TRAINING DAY, and 2. BOWLING
+         FOR COLUMBINE - making the only sane number 1 choice Steve
+         Irwin's ebullient self-referential cut-and-shut job CROCODILE
+         HUNTER: COLLISION COURSE, a film so obviously constructed from
+         two different movies that, in the cinema where we saw it, the
+         alternating narratives were shown in totally different aspect
+         ratios... so now it just remains to name and shame this year's
+         biggest cinematic disappointments, in not much of any
+         particular order: WINDTALKERS, GOLDMEMBER, MEN IN BLACK 2,
+         XXX, ROLLERBALL, THE TIME MACHINE, THE MINORITY REPORT, FROM
+         HELL, THE ROYAL TENENBAUMS, STAR WARS 2: ATTACK OF THE CLONES,
+         SPIDER-MAN and, specifically to enrage the anonymous tipster
+         who wrote in describing it as "perfect" (apologetically adding
+         "I Am Not A Goth"), DONNIE FUCKING DARKO...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "Any more questions?"
+                    http://www.ntk.net/2001/06/29#SLOW_NEWS
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+        Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

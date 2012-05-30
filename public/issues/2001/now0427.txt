@@ -1,0 +1,324 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-04-27_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+          "New robot Fido doubles as a Dildo"
+          http://www.japantoday.com/e/?content=kuchikomi&id=87
+...conversely, this robot version of the singer "Dido" doubles as a Filofax!
+
+
+                                >> HARD NEWS <<
+                         as they says, not as they dos
+
+         If the RIAA is so keen to remunerate working musicians, why
+         doesn't it pay mariachi bands to drown out academic seminars
+         it doesn't want heard? It'd do as much good as the legal
+         threats they're directing against anyone who speaks on the
+         Secure Digital Media Initiative's weaknesses - and, may, we
+         think, add a much needed air of calm and dignity to the
+         RIAA's thrashing. The RIAA's requirement that this week's
+         conference - on "Information Hiding" - destroy all evidence
+         of one of their sessions, was cringingly misplaced. And
+         their apparent amazement that people were using zipfiles
+         (the MP3s of scienze dudez) to "hide" the secret information
+         of the evil researchers all over the Net was just
+         embarrassing. What did they think was going to happen? That
+         the authors of the squelched paper would shut down the
+         pirate sites until they agreed to pay as dearly for their
+         freedoms as the scientific community is right now?
+         http://cryptome.org/sdmi-attack.htm
+                     - LA LA LA! You too, Lars, everyone KEEP SINGING
+         http://www.salon.com/tech/log/2001/04/26/felten/
+                                    - we shall, we shall not be cp'ed
+
+         Weirdly, the media seem to have some sort of vested interest
+         in claiming that next Tuesday's MAYDAY MONOPOLY festivities
+         have been extensively infiltrated and distorted by ultra-
+         violent agitators (and they don't mean "the police"!). Given
+         this, it's odd they're not encouraging people to pursue more
+         non-violent ways of protesting - "hacktivist" website
+         defacing, for example - especially as this currently poses
+         no particular threat compared to any other time of the year,
+         according to such noted and credible experts as DK Matai of
+         mi2g, who previously warned of "hackers precipitating Y2K
+         chaos by setting PC clocks forward" [see NTKs passim].
+         Handily enough, many new Windows 2000 users are even
+         labouring under "a false sense of security", as Graeme
+         Pinkney, of security firm Activis told THE REGISTER this
+         week; ah, mused shadowy exploit-watchers THE DATA AND
+         NETWORK SECURITY COUNCIL, that must be why Activis are
+         running a notably old version of Microsoft's
+         tried-and-tested IIS4 on their public webserver.
+         http://www.freespeech.org/mayday2k/resources/guide_textonly.htm
+         - violent anarchists with an interest in local history
+http://www.antionline.com/2001/04/26/m2p/0000-0002-m2p_200104260841521_1.html
+         - vs http://www.kumite.com/myths/opinion/thoughts/1999/mi2g.htm
+         http://www.theregister.co.uk/content/8/18515.html
+         - vs http://www.activis.com/ . Not literally, of course...
+
+         Not unexpected news on that LEONARD CHESHIRE [NTK
+         2001-03-09] case. We always suspected that the disabled
+         "interventionist artists" running this anti-institutional
+         site might not get to keep the domain. Handy tip to
+         domain-activists: offering to sell the domain back to the
+         Complainant for forty grand looks bad to the WIPO, even if
+         you're offering the site as a work of art, and plan to spend
+         the cash on a disabled holocaust memorial. However, it *is*
+         good to report that even as the WIPO passed the domain back,
+         all the other leonard cheshire domains were snapped up by
+         other disability activists with more activism planned. We at
+         least suspect this group of subversive net.artists might not
+         use inaccessible frames and bloody Flash everywhere.
+         http://www.ntk.net/index.cgi?back=2001/now0309.txt&line=57#l
+         - "evil that is Leonard Cheshire" probably ill-advised
+         http://www.rnib.org.uk/digital/
+       - we've heard the RNIB's after a usability test court case too
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         JEFF BUCKLEY hates piracy just as much as when he died in
+         1997: http://www.artistsagainstpiracy.com/artists/a_i.html ...
+         http://www.telegraph.co.uk/et?pg=/search/callfx.html handily
+         lets you search for articles from year 2021 ... not to be
+         confused with "Eamonn Holmes" (two n's) off breakfast TV:
+         http://www.gaydar.co.uk/eamonholmes ... US rock guitarist "is
+         free" for gigs: http://www.johninman.com/ ... meet the
+         SEETHRU fans: http://www.sadfuck.com/seethrugallery/ ... WIRED
+         congratulate Declan on his "dearth of information" (6:45):
+   http://www.wired.com/news/audio/notebooks/2001/04/wnr_DCNotes_042101.mp3
+          ... http://www.cybernanny.net/ promised all the functionality
+         of Windows FIND... http://www.oodlebee.com/ launching "Autumn
+         2000"... http://www.theschmews.com/issue5/home.asp imitates
+         both http://www.theonion.com/onion3416/marxist_student.html
+         ("Student Rebels Against Capitalist Pig Father") as well as
+         http://www.theonion.com/onion3712/disposable_car.html ("TV
+         Programme Uncovers Counterfeit Cars Scam")... leaving
+         London? MULTIMAP warn you're venturing into "great unknown":
+         http://www.ntk.net/2001/04/27/dohmap.jpg ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Spike Jonze documentaries! Cut scenes from PS2 games! Odd
+         fixations with Japanese animation, hip-hop, and Flash! Yes,
+         the Barley-o-meter peaks predictably off the scale at this
+         year's ONEDOTZERO digital film festival (from 5pm tonight, Fri
+         2001-04-27, London, the hated ICA), though they're also
+         showing the WILLIAM GIBSON docu NO MAPS FOR THESE TERRITORIES,
+         in which the soporific Canadian cyberdude is interviewed by a
+         Knight-Rider-style computer car whose GPS is on the blink
+         (hence the title) and starts picking up live satellite
+         transmissions from his pals Bono and The Edge out of U2.
+         Meanwhile, taking the alternative view that the salvation of
+         TV lies not in its future, but in its past, nostalgia-media
+         maniacs TV CREAM are relaunching their mailing list for a
+         "limited time only", enabling them to call it 31 DAYS IN MAY.
+         Hopefully it'll be up to the perilously obsessive standards of
+         their existing "TV Cream Times" listings service: "Saturday,
+         C4, 21.05: Top Ten Boy Bands. A repeated episode, and one I
+         didn't think we'd get again as it was presented by Paula
+         Yates. It hasn't been re-edited, so expect the links to make
+         quite uncomfortable viewing".
+         http://www.onedotzero.com/
+         - oh, the Nathanity...
+         http://tv.cream.org/
+         - also fans of BBC Choice cult "The RDA with John Gordillo"
+         http://www.btinternet.com/%7Efred.helen/playgym.html
+   - what digital filmmaking is really like. Well done! Good girl!
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         With their consistent indentation, neat modularisation, and
+         smarmy little Changelogs, even the suckiest open source
+         package makes an effort to be neat, clean and bug-free. And
+         by doing so, they say to "we live on a great old planet
+         that's W3C-diddly-Python perfect!" But let's be honest. Who
+         *really* scratches itches like that? Where are those freaky
+         scripts that gaffer our tattered pants to our sorry arses?
+         Those crazy, home-grown ideas, project-managed by Dr
+         Bourbon, with a deadline of dawn and a jeering audience of
+         one? You know damn well where they are - hiding at the
+         bottom of your ~/bin directory where no-one will ever see
+         them. Well, friend, JOEY RAMONE did not DIE so that FREE
+         SOFTWARE could become BOGGED DOWN in GLOSSY LIFELESS
+         PRODUCTION VALUES. Of that we can be certain. It's time you
+         sent your three-chord executables to DUMBCODE, the site
+         expressly designed to foster the stupid side of coding. It's
+         the moshpit freshmeat: processes that live fast, die young,
+         and leave zombies. Code that chroot jail's too good for. An
+         open source project that you don't have to wait "until I've
+         got time to document the features", because you ain't going
+         to do it - and we like you the way you are. Dumb.
+         http://www.dumbcode.org/
+- to wit: who hasn't quite grasped the "--exec" option to find(1), then?
+
+
+                                >> MEMEPOOL <<
+                             inquire of limewire
+
+         "Large-scale, Global Anti-capitalism Protests Putting Smaller,
+         Local, Anti-capitalism Protests Out Of Business" reports
+         funny-for-once http://www.urbanreflex.com/monopoly.html - vs
+         terrifying evidence of child-police using water-cannons:
+         http://www.ntk.net/2001/04/27/dohriot.jpg ... cheap, cheerful
+         CHEGGERS' LOAD BALANCING: http://zpin.com/chegbalance.htm ...
+         it's almost too plausible; something smells suspicious about:
+         http://www.bekkoame.ne.jp/ha/dins/index.english.html ... this
+         week's specialist in "Computer Accessories", "Heavy Duty
+         Equipments", and "Ladies' Fashion": http://www.symmic.com/ ...
+         fake AMAZON REVIEWER of the week - it's "Andrew Lloyd-Webber":
+   http://www.amazon.com/exec/obidos/tg/cm/member-reviews/-/A3LVCYIJTHG693/
+         ... Lucozade renamed LARAZADE... life imitates SOUTH PARK:
+         http://www.gaydog.co.uk/ ... LASTMINUTE imitates TVGOHOME:
+         http://www.lastminute.com/lmn/webcourier/en_GB/MSN/email.htm
+         ... AMAZON disses solar power as mere "Religion & Spirituality":
+         http://www.amazon.com/exec/obidos/ASIN/0967189101/ ... we have
+         no joke here (just for a change) - we just liked the names:
+         http://www.geocities.com/absea98/ichristian.html ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> annoyingly, they don't mention the specific RFC, but IN
+         THE NICK OF TIME (10.05am, Sat, BBC2) follows "a piece of
+         legislation forced through Brussels in record time that helped
+         Europe keep up with the Internet" (Radio Times)... SF:UK
+         (1.15am, Sat, C4) talks to Anthony "C3P0" Daniels as well as
+         Grant Morrison on his attempt to bring back "Dan Dare"... and,
+         in a wildly disturbing new trend, "Casualty" actors help out
+         an actual A&E ward in CASUALTY: GET REAL (9.05pm, Sat, BBC1) -
+         next week, Robbie Coltrane helps police psychologists profile
+         a sex killer!... an "edited for nudity" LOGAN'S RUN (2.45pm,
+         Sun, BBC2) gets its second showing since Dec 1999 - one
+         solution to the plague of OAP criminals depicted in CUTTING
+         EDGE: BUS PASS BANDITS (9pm, Tue, C4)... true conspiracy
+         theorists will see Jon Ronson's ineffectual new-world-order
+         jaunt THE SECRET RULERS OF THE WORLD (9pm, Sun, C4) as merely
+         another ad for his "Adventures With Extremists" book... while
+         Steven Seagal becomes the nakedly lethal chef in Andrew "The
+         Fugitive" Davis' Die-Hard-on-a-boat UNDER SIEGE (10.15pm, Sun,
+         BBC1)... THE AD FACTOR (11.20pm, Mon-Wed, BBC2) profiles
+         Psion, apparently still having problems matching the ages of
+         their typical users to those specified in their <alt> tags:
+         http://www.series5mx.com/New_user/profiles/Marie_Anne_B.asp
+         ... Clint Eastwood shows no sign of relaxing his vice-like
+         grip on the schedules in WHERE EAGLES DARE (9pm, Tue, C5) -
+         last shown on BBC1 about 8 weeks ago... and Wednesday is 1980s
+         body-horror night (again), with the "Come To Daddy" video-
+         inspiring HELLRAISER (10.15pm, Wed, C5) leading nicely into
+         Cameron's interminably gung-ho ALIENS (12.05am, Wed, ITV)...
+
+         FILM>> it's the 50 year-old Steven Seagal, Tom "True Lies"
+         Arnold, plus DMX, one of the few rappers to have named himself
+         after a digital multiplexing system for controlling stage
+         lighting - together at last! - in hip-hop kung-fu chucklefest
+         EXIT WOUNDS (http://www.capalert.com/capreports/exitwounds.htm
+         : repeated full female nudity and vulgar dance while nude plus
+         some innuendo; woman in men's locker room; many, many gunfire
+         deaths/killings; rude arrogance; lies)... the same source also
+         warns that the "heterosexual immoralities are shadowed by the
+         homosexual presences" in lethargic Julia Roberts/ "Sopranos"
+         guy road movie THE MEXICAN (http://www.cndb.com : near the
+         beginning, we see [Brad Pitt's] oh-so-gorgeous bare back and
+         just the top of his bare butt as he sits on the edge of the
+         bed where Julia Roberts sleeps on the other side)... which
+         just leaves Ken "social conscience" Loach's Latino workers'
+         rights rabble-rouser BREAD AND ROSES (MPAA: rated R for strong
+         language and brief nudity) - intriguingly scheduled to either
+         encourage May Day protestors or keep them off the streets by
+         giving them a good excuse to go to the cinema instead...
+
+         CONFECTIONERY THEORY>> first up, apologies to T-shirt
+         purchasers who received a bafflingly unsolicited email from
+         our e-commerce associates CyberCandy this week, which has now
+         been traced to a misguided attempt to clarify the workings of
+         their opt-in update newsletter which they hadn't realised had
+         lost its opt-out button when they upgraded their shopping cart
+         software. Nonetheless, measures are being put in place to make
+         it slightly more difficult for NTK readers to purchase sweets
+         from them in future, to ensure that this sort of thing neither
+         goes unpunished nor ever happens again... anyway, not too
+         much to report in the basic sugar/chocolate department: an
+         anonymous source close to MARS observed that the "KIT-KAT
+         BALLS" spotted in NTK 2001-03-30 more accurately fit the
+         description of MALTESERS TEASERS, possibly to be launched with
+         a new Mars logo as part of "a vigorous marketing operation
+         from September"... while frozen comestibles enthusiast TOBY
+         "I led the great 1999 revolt against Calippo Shots" SLATER
+         described his initial encounter with WALLS' CORNETTO WHIPPY as
+         "a disappointment: the ice cream is nothing like Mr Whippy
+         (it's pretty much solid and *even more* synthetic-tasting than
+         its namesake)", and the enclosed chocolate bar bears "no
+         resemblance whatsoever to a Flake", more resembling a "five-
+         month-old offcut of Aero"... while another nameless tip-off
+         alleged that VIRGIN are due to launch "a 5-strong range of
+         dirty, Panda Cola flavoured rainbow coloured drinks, called V
+         COLOURS", and featuring "herbal extracts". Apparently, they
+         "all taste like shit"... other liquids to look out for include
+         ailing COCA-COLA'S attempts to expand into non-carbonated
+         beverages - a 500ml wide-mouth plastic bottle for OASIS and
+         new "still fruit drink" ALIVE - and ROWNTREE's 200g DRINKING
+         YOGHURT (UKP 1.59 for pack of 4); we prefer "Peach, Orange and
+         Apricot" over the artificial sweetener-alike "Strawberry",
+         plus it comes in a dinky little bottle that you can swig from
+         as if you were nonchalantly abusing cough medicine... but the
+         real action this month has been in spicy versions of savoury
+         snacks - JAKE LINGWOOD thought WALKERS FUNYUNS (27p) were
+         "good, in a sort of Onion Rings meets Skips sort of way", and
+         thus his "favourite new extruded corn snack", though, when
+         challenged over his implicit endorsement of Walkers/PepsiCo's
+         leverage of Smiths to dominate the UK crisps market, admitted
+         he may have been swayed by their "exquisite wordplay"...
+         there's strong word-of-mouth on the new "Salt and Vinegar" and
+         "Savoury Salted" flavours of QUAKER SNACK-A-JACKS (the
+         excellent "Barbecue" now also available in "Jumbo" size)...
+         the "New Tortilla" ones ("Nacho Cheese" and "Cool Chilli") are
+         the more interesting variants of HULA HOOPS XL (compared to
+         the as-you'd-expect "Curry" and "Beef & Mustard")... and you
+         can also look forward to "Nice 'N' Spicy" GOLDEN WONDER
+         CRISPS; "Smokey BBQ" and "Tangy Salsa" replacing "Cheese and
+         Onion" and "Cheese and Ham" KP MINI CHEDDARS; and Dennis-the-
+         Menace tie-in "Baked Beano" flavour KP SKIPS - all part of an
+         onslaught of new product development that also includes PEANUT
+         LION BAR, the unfortunately named FRUITELLA JELLIES, and a new
+         look, new recipe and new "Peach and Raspberry" flavour for
+         HALLS SOOTHERS, intended to appeal to the 50% of purchasers
+         "who don't just use them when they have a sore throat"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                           "proud to be cybersquat"
+                              http://wwwntk.net/
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,286 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____10/07/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Chess belongs to computers, it belongs to the Internet"
+                                                      - GARY KASPAROV
+       http://www.news.com/News/Item/0,4,23909,00.html?st.ne.ni.lh
+     Deep Blue is now World Grandmaster and SUPERMAN, WHERE ARE YOU?
+
+
+                                >> HARD NEWS <<
+                              sleep you will lose 
+
+        It's one of those recurring nightmares. You're supposed to be
+        giving a MACWORLD NEW YORK keynote but you haven't got
+        anything to announce, your wife is due to give birth any
+        minute - AND YOU'RE STILL CEO OF APPLE!! Aarrrgh! Wisely
+        depriving himself of sleep, a red-eyed Steve Jobs managed to
+        pad out a single modem upgrade announcement to over 110
+        minutes of non-stop reality field distortion. Most of the
+        talk was centred on how great the August launch of the new
+        iMac was going to be, and Job's belief that the new consumer
+        Macintosh is the re-incarnation of the original Macintosh.
+        The rest was pure Steve, leading some commentators (us) to
+        conclude that that "i" stands for "Me, Steve Jobs, back
+        again, KING OF THE WORLD". Which made it all the more
+        chilling when the creepy Microsoft representative announced
+        that "we're responsible for the 'i' in iMac". Must... Wake... Up.
+        http://www.zdnet.com/zdtv/cda/index/0,2073,2118089-2100118,00.html
+                                 - or maybe, must... stay... awake... 
+        http://www.pelagius.com/AppleRecon/143490.jpg
+                    - AppleRecon's theory on the inspiration for iMac 
+
+        Last month's POP3 exploit continues to wreak havoc on
+        several unnamed UK net companies, as sysadmins found their
+        users' directories razed to the ground by marauding
+        script-kiddies. Most managed to keep it quiet, and restore
+        from backups. Web space provider EASYSPACE faired worse: not
+        only did they, seemingly, not *have* any backups, but they
+        got plastered with media-hot "hacking" team MILW0RM's
+        thoughts - cleverly replacing EasySpace's government
+        propaganda sites (drew-barrymore.com, pornheadz.com) with
+        their own political expose that nuclear testing "could lead
+        to nuclear war". As opposed to the HUGE FREAKING LIZARDS the
+        military-entertainment complex led you to believe. Comsymp's
+        in the media celebrated the "first agit-prop hack", omitting
+        to note some of Milw0rm's slightly less pretty
+        pronouncements...
+        http://www.dejanews.com/getdoc.xp?AN=363888416
+                        - ah! *Racist* script kiddy freedom fighters!
+        http://www.hacked.co.uk/
+                                                          - prophetic
+       
+        So, MICROSOFT are doing well, and Microsoft UK decides to
+        reward its executives. A big name comedy act is booked; the
+        bulk of Reading's finest is ferried out to watch a *feast* of
+        entertainment. The act arrives. The execs, cruel and
+        happy with drink, start heckling: jeer the comedian for being
+        a fat slob. After a while, he's had enough. "Hey", he says,
+        "that Netscape browser - it's not bad, is it? Does the
+        fooking job, doesn't it?". Silence falls. "And what about
+        that Windows 98 - bloody waste of time, that is, isn't it?
+        Doesn't even BLOODY INSTALL PROPERLY, DOES IT?". Microsoft
+        execs, out-heckled by their own hired comedian, sit in
+        stunned silence. Their boss takes his turn on the stage. He's
+        wearing a funny comedy wig. "What are we?", he shouts, "what
+        are we?". The crowd mutters, in tones barely audible, "we're
+        the next generation." "That's *right*", says their boss.
+        Another week working for the world's most popular software
+        company.
+        http://www.eu.microsoft.com/uk/jobs/vac.htm 
+                                    - some positions still available!
+        http://www.johnnyvegas.co.uk/
+                                         - Linux's favourite comedian
+
+        
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         "Lesbians order Internet baby", says EVENING STANDARD (and
+         reveals it is illegal "to store sperm without a license")...
+         SYZYGY win Yell Awards for sites designed by how many
+         ex-staff?... Banner ad for FHM asks "Have you ever licked a
+         woman's toes?", appears on CHILDREN'S ITV site...
+         REPUBLICANS accuse China of nicking bits of US satellite,
+         then blowing it up in launch "accident"... GUARDIAN ONLINE
+         investigates the "Newsnet" groups (p.4) ... Kim Neilson,
+         referee in the Argentina/England game, no longer answering
+         his e-mails... woefully unfunny http://www.topfive.com
+         loses sponsor... Terraserver site showcases -- Visual
+         Basic? http://www.ntk.net/doh/terra980710.gif 
+         
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         The on-off monthly meeting of THE LONDON VIRTUAL ON CLUB
+         appears to be, ahem, back on again for 2pm, this Sun
+         12/07/98 at Namco Wonderpark, Great Windmill St, London
+         (Piccadilly Circus tube). Not too interesting for those
+         unobsessed with Sega's cyber-trooper beat-'em-up, but
+         Wonderpark is always worth a visit, for a) the current Namco
+         token/UKP exchange rate (7 for 5 quid!) and b) the only
+         installation we've found of QUAKE ARCADE machines, high-spec
+         PCs in stand-up cabinets that link to an IP server when you
+         select "multi-player". Oh, and c) the game character
+         sketches on the public noticeboard downstairs.
+         http://members.aol.com/namcogws/n1.html
+         - quicker to visit in person than download these huge images  
+         http://users.pipemedia.net/5thtripro/mechdir/lonvoc.htm            
+         - *and* the Quake fire buttons are too far from the trackball    
+
+
+                                >> TRACKING <<
+                                    textz 
+
+         A bunch of type-in listings for the ATARI 400 might sound
+         like we're pushing our retro obsession to breaking point,
+         but these games aren't to be played. They're there to make
+         you feel old. Or if you're not old enough, they're there
+         to show you how young it all was. GREG KNAUSS, creator of
+         An Entirely Other Day and some other stuff you haven't read
+         but may have heard of, narrates his 8 bits of fame at:
+         http://www.eod.com/
+                                  - start at Upward, then go downhill
+
+         More non-executable code from RU SIRIUS, although there's an
+         executive in there somewhere, he hopes. The king of Mondo
+         has decided to stand for the presidency (again) - only this
+         time it does seem as though he's taking it - well,
+         seriously. He's looking for volunteers to help him launch
+         THE REVOLUTION (R) party. With campaign pledges like a
+         "Manhattan Project Toward Utopia", legalisation of all drugs
+         (anti-news), and "an end to all corporate welfare", we don't
+         know what to think. We barely know where to look. We just
+         keep staring at the prose.
+         http://www.disinfo.com/prop/diss/prop_diss_revolution1.html
+                       - fight John Perry Barlow in a ugly civil war!
+         http://www.suck.com/daily/95/11/07/mondo1995.html
+                                                 - no, fight Queen Mu
+         http://www.scrappi.com/deceit/rusirusa/rusirusa.html
+                                        - no, fight Alfred E. Neumann 
+         http://www.intrepid.net/~magmedia/PRevolting/barlow.html
+                        - hell, just buy his book. the guy's starving
+         
+         
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Internet Dolphin Racing ... referrals you don't want:
+         http://i.am/a.gaylord ... DIY Darth Detail:
+         http://www.studiocreations.com/stormtrooper/ ... open the
+         Doors of mastication: http://www.anarchista.com/jim.html ...
+         DIGITAL RADIO to replace clearly *appalling* FM quality
+         radio... look like me! http://www.clearplastic.com/ ...
+         Americans think the talking TELETUBBY doll says "bite my
+         butt"... ICA tempt fate with newly restocked SPARCs and
+         http://www.newmediacentre.com/kidnap/ ... you think NT Web
+         exploits are bad? Wait till somebody checks the HAL disk
+         callbacks... New Phrack! ... Are you compliant?
+         http://dsmlingerie.com/dsm/personal/y2k/msw.html ...  PC
+         torturing: http://www.codebook.pp.se/cgi-bin.html ... RIC
+         FLAIR is the new HANK, THE ANGRY DRUNKEN DWARF -
+         http://www.pathfinder.com/time/time100/toppersonmain.html 
+         
+         
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> Bill Oddie narrates FRANKIE STEIN'S ROBOT (3.55pm, Fri,
+         ITV), possibly part of cross-channel build-up to repeated -
+         but non-widescreen - special edition of TERMINATOR 2:
+         JUDGMENT DAY (9.35pm, Fri, BBC1)... BBC must really be
+         worried (and rightly) about C4's triple new comedy fest,
+         with the "weeing" episode of FRIENDS (9pm, Fri, C4),
+         original reruns of FRASIER (10pm, Fri, C4), and for anyone
+         who hasn't downloaded them all yet, first terrestrial outing
+         of hyped cartoon filth SOUTH PARK (11.40pm, Fri, C4) - new
+         series starts on Sky in October... they replace the actors,
+         but BUGS (6.35pm, Sat, BBC2) just can't be killed...
+         one-joke beardie Bill Bailey presides over 5 hours of free
+         support for Godzilla marketing campaign in MONSTER NIGHT
+         (from 9pm, Sat, BBC2), with "who'd win in a fight?" games,
+         suitably rubbish remake KING KONG (10.30pm, Sat, BBC2), and
+         Only 20 mins for LEE AND HERRING'S REASONABLY SCARY MONSTERS
+         (10pm, Sat, BBC2), featuring Carol Vorderman...
+         similarly-themed MYSTERY SCIENCE THEATRE 3000 (12midnight,
+         Sat, Sci-Fi Channel) mocks Brit Toho clone Gorgo (shown
+         "straight" on Fri), one week before the US airing!... here's
+         hoping they show us round the backstage medical area, always
+         the Rollerball-scariest bit of THE BRITISH GRAND PRIX
+         (12.55pm, Sun, ITV)... the World Cup Final absorbs both
+         EASTENDERS and CORONATION STREET (around 7pm, Sun, BBC1 &
+         ITV)... and the "oddly compelling" LORD LOVE A DUCK
+         (12.15am, Sun, BBC2) is, of course, Heathers as a '60s
+         Californian beach movie... bioweapons and nukes proliferate
+         in scary docus PLAGUE WARS (10pm, Mon, BBC1), EQUINOX (9pm,
+         Tue, C4), respectively... although theme park advert BILLION
+         DOLLAR FUNFAIRS (10.40pm, Tue, ITV) has an equally
+         appropriate title... BLACK BOX (9pm, Wed, C4) gives
+         "official" version of TWA jumbo explosion - not to be
+         confused with the "Ride On Time" early '90s chart-toppers of
+         the same name... sublimely subliminal anti-capitalist
+         beat-'em-up THEY LIVE (12.45pm, Wed, some ITV) may be John
+         Carpenter's last great movie... and can licence payers
+         complain they're not getting WATCHDOG: VALUE FOR MONEY (7pm,
+         Thu, BBC1) when the first show largely consists of tubby
+         Vanessa Feltz tasting ice cream?...
+
+         FILM>> again, not much in the way of nutty old Hollywood
+         blockbusters but, heck, now you can always rent STARSHIP
+         TROOPERS... also glamorising stupidity, but more touchingly
+         than Dumb And Dumber, SLING BLADE (imdb: drama / homophobia
+         / mental-institution / band / based-on-short-film /
+         interview / abuse / retarded / murder / father-figure) at
+         last delivers a major lead role for Armageddon cameo star
+         Billy Bob Thornton!... sadly not a swift sequel to the
+         supercool Dark City, MAD CITY (MPAA rated: PG-13 "for
+         depiction of a hostage situation, including violence and
+         brief language") sticks Travolta, Hoffman in heavy-handed
+         media satire where the real hostage is - the truth (yeah,
+         think about it)... if you thought Elmore Leonard thriller
+         adaptations were bad, wait till you see bonkers evangelist
+         rant TOUCH (imdb: romance / paranormal / stigmata / tabloid
+         / exploitation / alcohol / sect / marital-abuse / saint /
+         church / tv / religion / miracle / comedy / drama)... else
+         it's offbeat jump-cutting Aussie murder mystery in KISS OR
+         KILL (imdb: thriller / road)... intriguingly unfunny
+         gangster musical MOJO (imdb: drama / 1950s / based-on-play /
+         rock'n'roll)... or UKP30,000 Asians-behaving-badly
+         controversy GURU IN SEVEN (imdb: not listed) - and, no, it's
+         not how about many minutes Amigas would run for before
+         crashing... 
+
+         MAGS>> unsurprising news that FUTURE PUBLISHING plans a
+         yet-untitled adult-oriented multi-format lifestyle games mag
+         (read: "yet more unattractive cover models"), amid promising
+         claims from new editor of EDGE that the current pompous,
+         anonymous glossy is "going to be removing its head from its
+         arse" (personal communication)... still, the hilariously
+         titled FORM@T POWER may have beaten them to it, a UKP1.50
+         fortnightly, design similar to those "young person"
+         supplements that come with newspapers. Again, "lifestyle"
+         seems to mean ridiculing "anoraks" and doing celeb
+         interviews, yet Issue 1 talks to to IRON MAIDEN and TERRY
+         PRATCHETT!  Bwahahaha... the still-dull TOMORROW'S WORLD
+         MAGAZINE takes on MENSA QUEST directly with a free
+         covermounted booklet of IQ tests. How smart are you?  Well,
+         dumb enough to still believe in a single quantitative
+         measure of human "intelligence", apparently... and finally,
+         the ever-reliable .NET turns on the Killer Net fiasco it was
+         promoting not so long ago, with an editorial dissing the
+         show for depicting users as "sex-obsessed loons".  They're
+         so outraged, they're even featuring the KN screensaver on
+         this month's cover CD...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "having left the building".
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

@@ -1,0 +1,255 @@
+
+         [Yes, our enforced two-week "leave" continues, but a
+         skeleton crew remain here in the sweltering offices,
+         sweeping up the tired old URLs and stacking them into this
+         moderately compact place-filler. Instead of our usual hard-
+         hitting news headlines, this week we've resorted to
+         ridiculing other people's coverage; instead of the regular
+         up-to-date info on the latest applications, there's a rap
+         sheet of our own little contributor plug-ins. Thanks for
+         bearing with us - NTK will be "super size" again soon.]
+
+
+ __  __ _21/08/98 _   _ _____ _  __      <Nasty, British and Short>
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! Mail 'subscribe ntknow'
+| |\/| | | '_ \| |  \| | | | | ' /     o   to majordomo@unfortu.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+          "Following the announcements of various warlike activities
+          (that I won't bother mentioning here) both MSNBC and CNN's
+                                        websites basically blew up."
+                                            - CmdrTaco, slashdot.org
+         ...Clinton unleashes "denial-of-service" attack to gag net!
+
+
+                               >> META NEWS <<
+                               recycled refuse
+
+         "ISDN-like speeds over existing phone lines without the
+         price premium of ISDN", trumpeted ZDNet UK about BT's HOME
+         HIGHWAY, launching mid-September. Well, two out of three
+         ain't bad: Home Highway does have a different analogue
+         socket to BT's existing ISDN2e service, but - you've
+         guessed it - nearly all of the cost. Other concerns are
+         whether there'll be enough rack space at the exchange end
+         if there's high take-up, and (ZDNet again), the implicit
+         "thumbs-up to e-commerce, video and graphics-intensive Web
+         sites". Hey, at 128kpbs, Lynx really rocks.
+         http://www.seg.co.uk/seg/isdnpric.htm
+                           - their big chance to keep ADSL expensive
+         http://www.bt.com/
+                            - telcos must *love* those stammerers...
+
+         Newspapers at last seem to have stopped running free ads
+         for SONY now, following the remarkably well-publicised
+         recall of the company's supposed "X-ray vision" camcorder.
+         Of course, most CCD cameras are sensitive to the infra-red
+         end, as enthusiastic TV remote-control experimenters will
+         know. Subscriber Paddy Smith says that NTK fave the Tyco
+         Kiddie-Cam "can see at least as well in IR as in visible
+         light", and advises using black bin liners as impromptu
+         filters. Stick them over your light sources, kids, not over
+         your heads.
+         http://www.cs.ust.hk/~wwkin/SeeThrough/
+                                       - next: Kryptonite cellphones
+
+         And do-it-yourself conspiracy theorists are having a field
+         day over Bill Clinton's latest diversionary tactics -
+         though he could just use the "Basic Instinct" defence:
+         because his actions were so effectively predicted by lame
+         Hollywood satire Wag The Dog, *he'd be much less likely to
+         actually try it*. Most prejudiced reportage so far:
+         cnn.com, who at 9am this morning launched their poll with
+         "Do you think the attacks were primarily meant to be: a) A
+         strike against terrorism; b) A distraction from the
+         Lewinsky investigations" - then only put a clickable radio
+         button next to the second one.
+         http://www.ntk.net/doh/cnn980821.gif    - fixed it now, doh
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         Radio Channel Networks sue BROADCAST.COM for $7m over use
+         of phrase "Radio Channel" on their site... WEBCOMPUTERS'
+         new "Commodore 64" really a Win3.1/DOS box plus emulator...
+         VISUAL C++6 ships two weeks early, but without help
+         system... MICROSOFT patents memcpy... http://www.mi5.gov.uk
+         runs on Apache/Unix, yet job ads seek only "NT skills"...
+         "Matt Drudge stories sometimes 'not 100% reliable'",
+         confides news.bbc.co.uk's CHRIS NUTTALL (possibly the new
+         Richard Barry, in case you missed his slashdot-inspired
+         "Newsgathering On The Net" retraction)... punk bands REO
+         SPEEDEALER and FURIOUS GEORGE both "in discussion" with
+         owners of original trademarks... http://www.infind.com
+         *always* lists a COMPAQ "Copyright" page (under Misc.
+         Commercial), despite search terms like "satan worshippers",
+         "child murderers" or "makers of dodgy PC clones"...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Oh god, more "World Of Amiga" flashbacks as the second MIND
+         SPORTS OLYMPIAD relocates to the Hammersmith Novotel,
+         London (24-30/08/98). Perhaps more surprisingly, the
+         BABYLON 5 WRAP PARTY (21-24/08/98, Radisson Edwardian
+         Hotel, Heathrow, London) is hosting sessions that are
+         almost as cerebral as the bone structure of the Minbari:
+         drama, talks by Bryan Talbot and Harlan Ellison, plus
+         workshops on "Terraforming Mars". The show's producers have
+         also announced a "strategic alliance" with NASA's Jet
+         Propulsion Laboratory, to assist B5/Crusade's portrayal of
+         science, technology and astronomy. NASA will presumably
+         benefit from B5's experience in alien politics, space
+         station construction and maintaining long story arcs.
+         http://www.steamradio.com/wrapparty
+                          - also features JMS, aka "The Great Maker"
+         http://www.mindsports.co.uk/mwr.html
+         "All-Time Greatest Mind Sports Champion"? Now that's stupid.
+
+
+                             >> TEENY TRACKING <<
+                            you know who to blame
+
+         Our original plan [see NTK 14/08/98] to print the names and
+         URLs of our usually unnamed contributors hit several snags,
+         not least of which was that many of them would no doubt
+         prefer to remain anonymous, given the nature of their
+         employment and/or other activities. Instead, we'll be
+         creating a dedicated opt-out webpage for our "special
+         friends" somewhere off the NTK site, complete with all the
+         useful news sources we access, so if you're insanely
+         determined to produce your own version, you'll be in with a
+         fighting chance. Open source - it's not just a saying. It's
+         the law.
+
+
+                           >> KIDDIE'S MEMEPOOL <<
+                              hasta la altavista
+
+         return of CURSE OF THE CROW... the real STAR WARS PREQUEL:
+         "Exoatmospheric Kill Vehicle"... good attitude, but no
+         taste: http://www.pinkysplace.com/thezone.htm ... why not
+         nominate http://www.netstudio.com/makeover/ for their own
+         http://www.netstudio.com/muddies/ awards - "Haven't you
+         heard of ALT tags?", asks NTK top tipster Lloyd Wood.
+         "Blind people listen to music too."... http://www.cddb.com
+         collects user-contrbuted database, sells it... at last!
+         a more games-based, yet less funny version of THE ONION:
+         http://www.themushroom.com/mush0105/parappa.html ... good
+         gag about "Moral Fabric": http://www.dressesforken.org/ ...
+         http://www.eskimo.com/~billb/amateur/traffic/traffic1.html
+
+
+                            >> BABY GEEK MEDIA <<
+                     may contain strongly-typed language
+
+         TV>> of course, DIANA'S LEGACY: A 999 SPECIAL (Fri,
+         10.20pm, BBC1) is a landmine thing, not a surprise non-
+         happy-ending edition of 999... and see why Kevin Mitnick
+         supporters were furious about the script of Michael Mann's
+         pre-Heat'ed LA TAKEDOWN (Fri, 11.40pm, BBC1)... cut my heart
+         out with a spoon, it's a non-Christmas showing for Kevin
+         Costner's overlong Waterworld/Postman tryout, ROBIN HOOD:
+         PRINCE OF THIEVES (Sat, 8.05pm, BBC1)... while the line
+         between cutting-edge sci-fi and wish fulfilment blurs once
+         again on C5, in "erotic" "thriller" TERMINAL VIRUS (Sat,
+         10.50pm, C5)... chronological capers in RUNNING AGAINST
+         TIME (Sun, 12.45am, some ITV, finishes 2.30pm last Wed)...
+         *and* in Groundhog-Day-style time-loop 12:01 (Sun, 5.45pm,
+         C4), remake of a 1990 movie featuring Robocop's Kurtwood
+         Smith... who then reappears a few hours later in Gus Van
+         Sant's TO DIE FOR (Sun, 9.00pm, C4), as does Matt Dillon,
+         who stars with Bill Burroughs in DRUGSTORE COWBOY (Sun,
+         11.00pm, C4)... similar "concidences" beset BBC Wednesday,
+         with Chris Packham's cryptozoologigal THE X CREATURES (Wed,
+         7.00pm, BBC1), MYSTERIES WITH CAROL VORDERMAN (Wed, 8.00pm,
+         BBC1), and QED (Wed, 9.30pm, BBC1) going out with a bang by
+         solving spontaneous human combustion... but C4 fights back
+         via unofficial "silly women getting into scrapes" night,
+         featuring CAROLINE IN THE CITY (Wed, 6.00pm, C4), SUDDENLY
+         SUSAN (Wed, 6.25pm, C4), ALLY MCBEAL (Wed, 10.00pm, C4),
+         and DIANA: THE WRONG CRUSADE? (Wed, 9.00pm, C4)...
+
+         FILM>> if you've ever wondered what the TV show would look
+         like with the budget (and set designs) from the Alien
+         films, that's the only real explanation for enduring
+         X FILES: FIGHT THE FUTURE (imdb: sci-Fi / thriller /
+         mystery / action / drama / virus / heroine / agent / twist-
+         in-the-end / based-on-tv-series / conspiracy / fbi /
+         famous-theme / blockbuster / aliens / cult-favorites /
+         paranormal / hero / drunk / caveman / government / dormant-
+         creature / cover-up / bomb / paranoia / desert / truth /
+         underground / fate-of-the-world). Otherwise you've seen it
+         all before: Scully contracts a mysterious disease, and both
+         Mulder and the conspiracy seem woefully incompetent, Mulder
+         not even having read any black helicopter FAQs... elsewhere
+         it's like a competition to have the most obscure release
+         schedule of all time (THE LIFE OF STUFF? METROLAND? LE
+         BOSSU?), so we say stay home and rent GOOD WILL HUNTING -
+         for belligerent underachieving child geniuses everywhere...
+
+         MAGS>> Amiga fans are holding their breath for new
+         machines, but EMAP'S CU AMIGA has gasped its last:
+         http://www.cu-amiga.co.uk (or maybe they just ran out of
+         copyright material to stick on the coverdisc)... in
+         accordance with prophecy [see NTK 10/04/98], Future's first
+         "real" FRONTIERS (due 04/09/98) will cost just 1UKP...
+         further info continues to leak about Future's "adult
+         lifestyle" games mag, now to be called ARCADIA, and edited
+         by returning flamboyant baseball-cap flaunter, Neil West...
+         something of a month for unfortunate headgear, with Dave
+         "not the famous one" Perry continuing to tout his upcoming
+         PSX mag STATION (due 04/09/98, with Tomb Raider 3 demo),
+         while Rapide's existing TOTAL PLAYSTATION takes advantage
+         of OFFICIAL PLAYSTATION's all Tekken-3 disc with its own
+         playable covermount round-up. NTK always suspected you
+         could get OPM-style sales with an exclusive demo disc and a
+         mag that simply consisted of the word "arse" printed over
+         and over again - this could be our chance to find out...
+         our favourite tip: THE GROCER (every week, still only 95p),
+         and not just for recent readers' letters querying those ads
+         for Werther's Original Butter Candies: "Placing myself at
+         the same age as the grandfather figure, this would make him
+         a young child in the early 1940s. Anyone who lived then
+         would surely know that... anyone caught selling or buying
+         German confectionery would not have been very popular" -
+         but also for the year's first Christmas preview, including
+         attempts by Walls to "deseasonalise ice-cream eating" with
+         their Honey Nougat Magnum... and finally, a quick browse
+         through the racks at our local TOWER RECORDS: there's a pre
+         X-day STARK FIRST OF REMOVAL (UKP 2.79); top Japanese
+         titles GET NAVI and GOODS PRESS (no idea of the content -
+         like we say, just top titles); plus the truly remarkable US
+         import PERFECT 10 - which, unlike those men's mags that
+         have semi-topless women on the front and endless pics of
+         gadgets inside, is *exactly the other way around*...
+
+
+                              >> SMALL PRINT <<
+
+   Need To Know is (usually) a useful, interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+                        "NTKnow's surly redneck cousin".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, THE ILLUMINATI and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial licence details.
+
+                   Tips, news and gossip to tips@spesh.com.

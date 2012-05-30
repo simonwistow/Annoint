@@ -1,0 +1,224 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-08-05_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                              >> HARD NEWS <<
+                              avoidable snafus
+
+        OPENTECH, a fortnight ago: after a long and pleasant
+        retrospective on the digital rights scene in the UK, a panel
+        of shaky old cyber-activists - including the quiet, self-
+        effacing CORY DOCTOROW, prematurely aged software patent
+        fighter RUFUS POLLOCK, crypto old hand IAN "ex-FIPR" BROWN,
+        and NTK's doddering editor-without-responsibilities DANNY
+        O'BRIEN - all noticed that the crowd had turned ugly.
+
+        Facing yet another year without some really good public fights
+        in the UK against spreading DRM, data retention and net
+        surveillance, government data hoarding, copyright
+        criminalising, American corporate idiocy importation, and
+        general backward-assed technology policy-making in the UK, the
+        mob rebelled.
+
+        Tipping over tables, chanting anti-EUCD vitriol, and (perhaps
+        more accurately) nodding and muttering a fair bit, the crowd
+        were challenged by known agitator STEVE COAST to set up some
+        sort of membership-driven digital rights group then and there,
+        funded by a fiver-a-month charge.
+
+        Noting where the wind was blowing, the panellists tried to get
+        ahead of the pack. It was too late.
+
+        By the time you read this, over 500 people will have signed
+        up to support a digital rights network of sorts, whose vague
+        structure even as we speak is being made the hell up by a
+        scared and panicky group of old men. All they know is this:
+        its job will be to publicise the core geek issues in the
+        British media, it'll have a tiny full-time staff, and that,
+        if, in six months, it fails to please the membership rabble,
+        they'll string their so-called leaders up by their own CAT-5
+        cables. Or, you know, stop paying their fiver. Whichever's
+        easier.
+
+        Five hundred more people, and the pledge will be complete.
+        What will you do? Click to donate your money, and force old
+        men to do your cyber-liberty-crazed bidding? Or turn away, and
+        spend your fiver on the crisps and soft drink and sweet
+        ciggies of apathy and despair? The future, fellow tech-rabble,
+        is in your hands.
+        http://www.pledgebank.com/rights
+                                             - pledge your money here
+        http://www.guardian.co.uk/online/story/0,3605,1537039,00.html
+      - Danny's Guardian article explains in more hand-waving "detail"
+        http://www.flickr.com/photos/bowbrick/28071560/
+           - just to point out: it's completely separate from the EFF
+        http://www.ukuug.org/events/opentech2005/recording/
+         - with commentary at http://oblomovka.com/entries/2005/07/30
+
+        Regular readers will know that, on futurological matters, we
+        traditionally defer to the predictive wisdom of the 1960s one-
+        hit wonder "In the Year 2525", a whirlwind tour of upcoming
+        advances in handy increments of every 101 decades (by the year
+        5555, for instance, we are reliably informed that "Your legs
+        got nothing to do", as "Some machine" will be "doing that for
+        you"). It's rare to see such vision and imagination in the
+        work of today's scenario planners, so thank heavens for BT's
+        ever-reliable "Technology Timeline", published in the July
+        issue of The Observer's new Technology Magazine.
+
+        Sadly, our old friend "smart yoghurt" (see NTK 2005-05-27)
+        isn't expected to arrive until the 2020s, though we can look
+        forward to a "supercomputer as fast as a human brain" within
+        the next 5 years, both of which should prove invaluable when a
+        "Virus crosses over from machine to human" sometime between 2026
+        and 2030 (inevitably blamed on the androids who, by that point,
+        make up "10% of the population"). To BT's credit, they have
+        flagged certain milestones - "Time travel invented", "Faster
+        than light travel" and "Creation of Star Trek's Borg" - as
+        "Wild Cards (may happen at any time)", though you've got to
+        admire the specificity of placing "Terminator 3-style robots"
+        between 2041 and 2045, especially when BT boast a success rate
+        of "between 80 and 90 percent" in the past.
+        http://www.ntk.net/2005/08/05/bt.html
+            - clear flaws in T2-style "all-mimetic-poly-alloy" design
+        http://www.guntheranderson.com/v/data/intheyea.htm
+                     - "From the bottom of a long glass tube, whoa-oh"
+
+
+                              >> EVENT QUEUE <<
+                        GOTOs considered non-harmful
+
+        August - when the burly Linux-wielding menfolk like to don
+        their Utilikilts and partake of the "walks, hikes, climbs,
+        [and] scrambles" of this year's LINUX BIER WANDERUNG (from
+        tomorrow Sat 2005-08-06 until Sun 14th, based around Killin
+        Village Hall, Killin, Stirlingshire, free but contributions
+        appreciated). And it's just down the road from this year's
+        WOMEN IN GAMES (from Mon 2005-08-08, University of Abertay,
+        Dundee, from UKP30/ day) - possibly discussing why there
+        aren't a few more female speakers at this year's EDINBURGH
+        INTERACTIVE ENTERTAINMENT FESTIVAL (from Thu 2005-08-11,
+        Edinburgh International Conference Centre, UKP195 + VAT; game
+        "screenings" from as little as UKP3). Yes, 3 quid doesn't get
+        you into many fringe shows nowadays - but then again, even
+        David "Elite" Braben plugging his new "Wallace & Grommit" game
+        seems unlikely to match the bittersweet poignancy of friend-
+        of-NTK Ben Moor's COELACANTH (3.15pm, every day until Sun
+        2005-08-28, The Pleasance Courtyard, Edinburgh, from UKP8.50)
+        - a romantic comedy set in a parallel universe where Victorian
+        scientists hybridised the "great trees of the world" and tree-
+        climbing became Britain's national sport.
+        http://lbw2005.ziggur.at/hiking
+                - apt-get "The Birks of Aberfeldy and Falls of Moness"
+        http://www.tech.port.ac.uk/staffweb/eylesm/wig-website/
+                - with totally non-patronising "Shadow Witches" compo
+        http://www.eief.co.uk/content/conference-programme.htm
+                - we kind of suspect that "Jean-Michel Tari" is a man
+        http://www.spesh.com/ben/coelacanth.html
+              - "The National Indecisiveness Society - Or Association"
+        http://www.dnscon.org/
+                - also up North: DNSCon Blackpool, from Friday Aug 12
+        http://www.fave.org.uk/mambo/index.php
+            - and "out West": open source creativity, Bristol, Aug 20
+        http://www.cgeuk.com/
+           - and down in Croydon: retro games mayhem on Sat August 13
+
+
+                               >> ANTI-MEMES <<
+              there's smoke, flames, http://dohthehumanity.com/
+
+        those teenage file-sharers aren't going to sue themselves, you
+        know: http://golf-day.co.uk/home.html ... double-URLentendre
+        of the month: http://conceptits.com/ (as apparently blocked by
+        Telus Canadian ISP)... Google goof round-up: "maintainted",
+        "steaming multimedia", "involvoed" (sometimes with SAABs),
+        http://google.com/search?q=stonehenge+%22of+the+lentils%22 ,
+        http://google.com/search?q=%22costumer+care%22 , from French
+        for "naughty"?: http://google.com/search?q=%22mechant+navy%22
+        plus http://google.com/search?q=%22summery+execution%22-souls
+        - we guess it's the right season for them... not that we fully
+        approve of the term "mashups" being used in a non-musical
+        context (or "remix" for that matter), but if you're bored:
+        http://idealgovernment.com/index.php/weblog/comments/491/ ...
+        like Engadget, if it was edited by UK Resistance - literally:
+        http://www.idiottoys.com/ ...
+
+
+                               >> TRACKING <<
+              sufficiently advanced technology : the gathering
+
+        It's a bit disturbing how much we've talked about PowerPoint
+        alternatives in Tracking in the past - and the immediate
+        present, for that matter. S5 is Eric Meyer's re-coding of
+        the old Opera Show trick, whereby a nicely-formatted single
+        XHTML page can be magically transformed into a complete,
+        formatted PowerPointy presentation, all in your
+        standards-compliant browser. Opera's parlour trick merely
+        let you page up and down the pages while in full-screen
+        mode, and got a bit tricky to using when Opera started
+        showing the ads in front of your bid for venture capital.
+        Eric's version lets you jump around the slides with keyboard
+        shortcuts, do primitive transitions, and, most importantly,
+        still code the whole thing up in simple HTML.
+        http://www.meyerweb.com/eric/tools/s5/
+                                                         - S5. Catchy.
+        http://www.ntk.net/index.cgi?b=02003-01-31#TRACKING
+                                                  - its fine forebear
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+        FILM>> a flying "Short Circuit"/ HAL 9000 AI is struck by
+        lightning, downloads "all of" the songs on the internet, and
+        therefore must be destroyed, posits the preposterous STEALTH
+        ( http://screenit.com/movies/2005/stealth.html [NB: Pop-ups,
+        generally oddly-behaving site]: The crew goes to Thailand for
+        some R & R and we see some miscellaneous cleavage; There are
+        many shots of [Jessica "Blade 3" Biel] in very tight pants)...
+        the theme of autonomous vehicles developing a mind of their
+        own is developed for younger viewers in HERBIE: FULLY LOADED
+        ( http://screenit.com/movies/2005/herbie_fully_loaded.html :
+        [Lindsay "Mean Girls" Lohan] shows a little cleavage and wears
+        a very short skirt; When Herbie spots a new VW Bug, some sexy-
+        style music plays on the soundtrack [...] We then see Herbie's
+        antenna suddenly spring up)... then, next week, Michael "The
+        Rock" Bay remakes "Logan's Run" - but with more car chases - in
+        THE ISLAND ( http://screenit.com/movies/2005/the_island.html :
+        Ewan McGregor plays two versions of the same man, one who
+        realizes his life isn't anything like what he's been told and
+        then goes on the run once he learns that. He fights various
+        people who come after him and [Scarlett Johansson], with whom
+        he later has sex)...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+                      Registered at the Post Office as
+                   "dismissed as antiglobalization twerps"
+        http://tsmi.blogs.com/tsmiblog/2005/07/keeping_one_eye.html
+
+
+                                NEED TO KNOW
+           THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+             Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                         (K) 2005 Special Projects.
+            Copying is fine, but include URL: http://www.ntk.net/
+        Full license at: http://creativecommons.org/licenses/by/1.0
+
+   Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+            All communication is for publication, unless you beg.
+    Remember: Your work email may be monitored if sending sensitive material.
+      Sending >500KB attachments is forbidden by the Geneva Convention.
+             Your country may be at risk if you fail to comply.

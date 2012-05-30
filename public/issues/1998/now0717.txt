@@ -1,0 +1,303 @@
+
+ 
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____17/07/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         SHIMOMURA: --Mitnick is saying, "fuck you!" Fuck you to the
+         WELL.  Fuck you to electronic democracy, or whatever you
+         call it.  Fuck you to privacy.  Fuck you to the law-- Agent
+         Carson, what are the statutes on receiving stolen property?
+         Because it seems pretty fucking clear to me that that's what
+         we're dealing with here--
+
+               GILMORE RISES AND HEADS TOWARD SHIMOMURA. BARLOW
+               THROWS HIMSELF IN BETWEEN THE TWO MEN.  ANDREW PUSHES
+               HIM AWAY.  GILMORE AND SHIMOMURA ARE FACE TO FACE,
+               INCHES APART.
+
+                               - extract from Miramax script TAKEDOWN
+                               http://www.kevinmitnick.com/review.html
+         ...so I take it you won't be joining our blue ribbon campaign? 
+
+
+                                >> HARD NEWS <<
+                                  G's and Q's
+         
+         Mac users celebrated APPLE's increasing ability to suck
+         money off them this week, as the company revealed profits of
+         62UKP million for the last quarter. Gross margins were up,
+         thanks to the elimination of all those unnecessary
+         clone-makers, and inventory problems eliminated by 
+         selling just three ingeniously demarcated product lines: the G3
+         laptop, the G3 server, or the G3 desktop. But the "any model
+         I want, as long as it's Mac" brigade haven't got *just*
+         themselves to thank for the company's return to healthy,
+         quasi-monopolist form. As vital on the balance sheet was
+         British Acorn remnants ARM, whose IPO earlier this year
+         handed co-founders Apple a cool 20UKP million. All those
+         Archimedes owners will be *so* pleased.
+         http://www.apple.com/
+         http://www.acorn.com/
+         http://www.arm.com/                       fruit and nut cases 
+         http://www.microsoft.com/        *cough* $1.36 billion *cough*
+         
+         A young - but slightly unbelievable - couple choose to leave
+         the innocence of a virginal relationship and allow everyone
+         on the Net to watch them as they attempt to screw one
+         another for the first time. Yes, REAL NETWORKS and their
+         minority shareholders MICROSOFT, ostensibly partners but
+         frankly gagging for a punch-up, finally let the fists fly
+         with Real's official beta release of G2, their new
+         RealAudio, RealVideo, RealPix, RealKitchenSink streaming
+         system. As from now, Microsoft's currently piss-poor Netshow
+         will not be compatible with streamed Real content. Nor will
+         Microsoft support SMIL, the newly proclaimed standard for
+         synchronising these kinds of multimedia hijinx. They say
+         that's because it's "unnecessary". Unnecessarily compatible
+         with G2 - which does support it.
+         http://www.real.com/ 
+         - G2, G3 : are those brandname consultants on strike or something?
+         http://www.ourfirsttime.com/
+         - not the same people as http://www.ourfirstanalsex.com, it seems
+
+         Distributed computing. "Hive minds". Network effect. Pah.
+         Everyone knows that money buys you real power around here,
+         even if no-one expected the eminently decentralised JOHN
+         GILMORE to prove the point. With 250,000UKP and a nifty
+         piece of dedicated parallel hardware, he snapped the back of
+         the latest code-cracking DES challenge in an embarrassing
+         two and half days - hardly time for his chief rivals,
+         distributed.net, to get their latest key-crunching client
+         out the door to their thousands of volunteers. 
+  http://www.nytimes.com/library/tech/98/07/biztech/articles/17encrypt.html
+                                   - now to set it on Shimomura's ASS
+         http://www.distributed.net/
+                                  - bunch of time-wasters, as it were
+         http://www.cygnus.com/~gnu/
+                                - routing around the whole damn thing
+
+        
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         .NET magazine wants ten of its readers to test their
+         personalities online - optimistic in oh so many ways... 
+         ... MARKS AND SPENCERS may sell Microsoft products - looking
+         forward to that "no questions asked" return policy... FRANCE
+         rails against US cultural imperialism, plays STAR WARS theme
+         at World Cup Final - how imperial can you get? ... POINTCAST
+         IPO "postponed"... Giant 'Z' in sky was meteor, not return
+         of 2000AD's ZENITH ... SOUTHERN COMFORT run "Southerners
+         have their own rules" ad during showing of DELIVERANCE...
+         www.bedepot.com runs on Windows NT... Cameo, the Electoral
+         Roll database [NTK 19/06/98] "rethinking" site after
+         around 3,000 free trial requests per day... artists at
+         http://www.triggerhappy.org describe own work as "a folly...
+         self-defeating... meaningless"... URL for Lycos Spain?
+         http://www.es.lycos.de/ of course!
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         It's all far-flung, far-future farragos this week.  If
+         you're quick, you might be able to book a flight to Las
+         Vegas for DEFCON VI, the incrementally calm rating for the
+         exponentially riotous annual hackers' convention. Sights to
+         see during the 31/7/98 weekend will include GSM hacking, the
+         setting off of hotel fire extinguishers, Lorenzo "infowar"
+         Valeri, teenagers getting arrested for curfew, Bruce
+         "counterpane" Schneier, disoriented would-be screenwriters,
+         Se7en's notes on social engineering airlines and hotels
+         (vital for DC7) and the release of the Cult of the Dead
+         Cow's new remote Windows administration tool, Back Orifice.
+         We'll have to leave you guessing just how remote that
+         administration can be...
+         http://www.defcon.org/                       comprehensive
+         http://www.counterpane.com/                  legitimate
+         http://www.cultdeadcow.com/                  moo
+
+         It should be slightly easier to pursuade your boss to pay
+         for your ticket to PERL CONFERENCE 2.0, which is oooh, yonks
+         away (16/10/98-20/10/98) and in San Jose to boot. We don't
+         really have to say why you should be going (Larry Wall?
+         Netscape keynote? "Guru-is-in" tutorials? A chance to talk
+         entirely in regexps?), we just thought it was time to remind
+         you.
+         http://conference.perl.com/                   CPAN live!
+
+         
+                                >> TRACKING <<
+                              no ftp, no comment
+         
+         Netscape 4.5 is a whole half better than Netscape 4, and
+         includes lots of mildly useful, slightly desparate attempts
+         to up the Netscape Website hits by redirecting keyword
+         searches to the site, and a new "find related links"
+         feature. First reactions are that these capabilities are
+         intrinsically evil; closer inspection shows some neat
+         configuration possibilities (so you can pick your own related
+         site server - even tie it into Altavista). IMAP's noticeably
+         better, and the mail client looks a bit less
+         slapped-together, but the really cool extras to let you
+         remotely access your bookmarks, address book and calendar
+         are yet to come. We'd say wait. For about two days, then
+         capitulate to your craving and download it anyway.
+         ftp://ftp.netscape.com/pub/communicator/4.5/4.5_PR1/english/
+                            - is this another bloody Godzilla tie-in?
+         
+         They always say, don't they, that what Linux really needs is
+         a few decent games - and what better place to plunder than
+         the past works of David Braben. Taking its title from the
+         impressive-at-the-time 1989 Archimedes original, ZARCH is a
+         sort of cross between Lander and a 3d version of Defender.
+         Almost exactly as you remember it - and twice as
+         disappointing - this was one of the only reasons the
+         nation's school computers ever got used.  We're still
+         waiting for XFrak though...
+         http://www.nerdnet.nl/~thom/software.html 
+            - Not really a virus, but since it's a binary we can't 
+                                                      say for sure...
+         
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Things We Can't Tell You, I: which Website provider was
+         raided after the attempted IRA London bombing... Leave
+         Robert Denby *alone* ... where were you when you first heard
+         about the Challenger explosion movie?... Somerfield take
+         over Kwik-Save  ... Bianca's Smut Shack bought by - Zapata?
+         ... Dummy Cow! http://www.gencor.ca/imv/dummy_cow/ ...
+         http://www.unrealnation.com/crackhouse/catscan.html ...
+         Things We Can't Tell You, II: crash the NT Executive, win
+         valuable passwords ... subliminal Bill: Starship Troopers
+         "United Citizen Federation" single, track 2, 1:03secs,  ...
+         who wants to write the Linux Martyr HOWTO?... laughing at
+         Amazon Sales Rankings... Clan Light Lunch? ... now what are
+         we going to do with all these Northern Ireland/Orange phone
+         gags?  ... US readers! Watch PBS for once in your lives for
+         the eye-opening PLANE CRAZY with Robert X. Cringely - 22/07/98!
+         
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> we're pleased to announce that sports coverage has been
+         suspended due to over-running of quirky B-movies: John
+         Hughes auditions Macaulay Culkin in similar, superior Home
+         Alone prequel UNCLE BUCK (8pm, Fri, BBC1)...  Robert Powell
+         traps the inspiration for Ghostbusters' Slimer in
+         paranormally good '70s Brit-schlock, THE ASPHYX (12.55am,
+         Fri, BBC1)...  Jonathan Ross lays waste to "so bad they're
+         good" myth with hideous overdose of GODZILLA DAY (11am-10pm,
+         Sat, Sky Movies Gold)... and the line "Objection, your
+         honouAAAARRRGGHH!!" does not appear in THE TRIAL OF THE
+         INCREDIBLE HULK (3.15pm, Sat, some ITV), though it does have
+         visually-challenged superhero Daredevil and "Slider" John
+         Rhys-Davies...  Neil Morrissey inexplicably returns in a
+         whole bloody series of THE VANISHING MAN (7.45pm, Sat, ITV),
+         just after Carrey vs Cox in the always-remarkable ACE
+         VENTURA: PET DETECTIVE (6.15pm, Sat, ITV)... yup, MIAMI
+         RHAPSODY (9pm, Sat, C4) is a bit like Woody Allen lite - or
+         a very good sitcom episode... and Frank Black strives to
+         find anyone who cares about a new run of MILLENNIUM
+         (10.30pm, Sat, ITV)... a season of Stephen King's famously
+         unfilmable fables starts with DOLORES CLAIBORNE (10pm, Sun,
+         C4)... though more nudity, less coherence in TWIN PEAKS:
+         FIRE WALK WITH ME (11.45pm, Sun, BBC2)... sadly, it doesn't
+         seem to be former page 3 model Gail McKenna among Terry
+         Nutkins' BRILLIANT CREATURES (4.50pm, Mon, ITV)...  but it
+         is oafish Bob Mills hosting new trivia panel game NOT A LOT
+         OF PEOPLE KNOW THAT (11pm, Mon, BBC1)... not just another
+         example of the BBC ripping off American titles for their own
+         shows - WEIRD SCIENCE (12.05am, Mon, BBC1) is genuinely a
+         spin-off from the 1985 John Hughes movie... Mad About You
+         retread LOVED BY YOU (8.30pm, Tue, ITV) returns with a VR
+         episode... Stephen Jay Gould believes Stephen King's THE
+         TOMMYKNOCKERS (10pm, Tue, C4) to be the best evolutionary
+         allegory ever... Clarkson and co battle a nightmarish Mad
+         Max flooded-Earth future in TOP GEAR WATERWORLD (8.30pm,
+         Thu, BBC2)... and let's raise a glass to unsubtle product
+         placement in three-part carbonated retrospective THE
+         COCA-COLA CONQUEST (11.55pm, Thu, C4), "tracing the history
+         of the soft drink, and its lifelong competition with rival
+         Pepsi" (The Radio Times)...
+
+         FILM>> au contraire, GODZILLA (imdb: action / sci-fi /
+         godzilla / giant-monster) appears to be entirely in the
+         spirit of the originals, in that it's largely rubbish. But
+         c'mon, who really expects monster movies to make sense
+         now?... sub-aqua kiddie fun resurfaces after 9 years in the
+         form of THE LITTLE MERMAID (imdb: animation / children's /
+         musical / romance / sea / underwater / little-mermaid /
+         ocean / family / disney-animated-feature / comedy) - but of
+         course the search term you're looking for is really +"little
+         mermaid" +"obvious penis"... and to commemorate the launch
+         of MicroSoft's sinister purple robot child-minder ("Clean
+         Up! Clean Up! Everybody do their share!"), sing along with
+         BARNEY'S GREAT ADVENTURE (imdb: children's / family /
+         dinosaur) - though, despite the implicit suggestion of the
+         title, the film does *not* depict Barney's first sexual
+         experience...
+
+         PRO-CELEBRITY FEEBDACK>> thanks to all who wrote in with
+         eye-witness sightings and tastings of Callipo Shots and
+         Winner Tacos [NTK 03/07/98], especially Connected columnist
+         MICHAEL BYWATER for his mouth-watering depiction of the
+         "magnificently chundrous" Winner Taco - "the heavy
+         insulating wafer clamshell protecting the tradition Walls'
+         pigfat-style icecream from unsightly heat-exchange
+         phase-shift, sealed at its lip with thick and somehow
+         unconvincing chocolate". Michael generously describes NTK as
+         "the best-written publication in Britain" - coming from the
+         man who invented Starship Titanic's "Pulsating Inconvenience
+         from the Planet Sprod", high praise indeed!... sticking with
+         self-indulgence, tubby cyber-subscriber BRUCE STERLING
+         queried our gag that his 'Triple Xtra Large' feature in the
+         new Wired "strangely omits himself": "The heck you say; my
+         Triple Xtra Large self is not only on the cover, it's inside
+         a little monorail... it's even packing on the pounds in Le
+         Jules Verne... You should get up from the keyboard and eat
+         something." Cheers for the tip Bruce, but we're comfy eating
+         where we are... this reader's URL
+         http://ourworld.darq.net/p.hampton-forbes/ revived fears
+         that NTK "may be attracting the wrong element"... and
+         "Funny. Very funny. Hilarious." writes bedroom techno
+         boffin, Q Magazine demo compo winner, and former Doom
+         champion, DAVID MCCANDLESS, no doubt referring to the fact
+         that instead of giving "a plug" to his site
+         http://www.wakeywakey.com, we inadvertently registered the
+         address http://i.am/a.gaylord, pointed it at his page, then
+         printed that URL instead [NTK 10/07/98]. NTK regrets the
+         error...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "too bloody distributed".
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

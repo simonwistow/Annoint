@@ -1,0 +1,192 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-10-07_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                              >> HARD NEWS <<
+                             subject to misuse
+
+        It's all gone a bit Le Carre around here. Most have now
+        heard the story of DAVID MERY, the techie arrested and
+        searched for being geeky in a terroristic manner, and later
+        documented on the Guardian front page and Slashdot.
+        Initially, we thought Mery's treatment was a cover for the
+        police to confiscate a BeBox for themselves, but now we're
+        growing more concerned. Few know the pivotal role the
+        notorious pataphysicist Mery has played in the seedy
+        underworld of tech journalism: editor of the samizdat .EXE
+        Magazine; one of the few to have ever met that Mata Hari of
+        TurboPascal, Verity Stob; rare familiar of both NTK and
+        Andrew "Spart" Orlowski. Was Mery's handling a warning to
+        the British IT journalist community to keep their mouths
+        shut? And if it wasn't, is there any way we can get them to
+        do it anyway?
+        http://gizmonaut.net/bits/suspect.html
+     - careful logical deconstruction also sign of guilt, apparently
+        http://gizmonaut.net/soapflakes/EXE-199711.html
+                                                - constant developer
+
+        While scientists valiantly warn of the pandemic spread of
+        the DRM flu, has anyone considered that innocent-seeming
+        CORY DOCTOROW might be an unsuspecting carrier? After years
+        of close physical contact with the biohazardous hands of
+        MPAA lawyers during the brief Broadcast Flag outbreak of
+        2004, he now seems to have been in *just* the right spot to
+        see the pestilence jump the species barrier to European
+        Digital TV. And this variant seems a lot nastier: tweaked by
+        Hollywood lawyers to determine at a much finer grain what
+        Europeans get to record off their TVs, where you get to save
+        it, what constitutes a "family", and who exactly in open
+        source will be buggered this time. And while the American
+        Broadcast Flag appears now to be at least temporarily
+        cordoned off in a batch of carefully isolated politicians,
+        this European "CPCM" mutation looks to be spreading through
+        the sprawling, marshy standard bodies endemic to the European
+        continent. Will we live in a locked-down, quarantined TV
+        world? Or are we *insufficiently paranoid*?
+        http://www.eff.org/IP/DVB/dvb_critique.php
+                   - yeah, it's from work. We also steal their toner
+        http://www.promise.tv/technology.html
+            - more explanation on how that Open Tech demo would work
+
+
+                              >> EVENT QUEUE <<
+                        GOTOs considered non-harmful
+
+        Fresh from its (comparative) success at the Edinburgh
+        Interactive Entertainment Festival, POINT AND SCHTICK: CAN
+        INTERACTIVITY MAKE YOU LAUGH? transfers to London's West End
+        for one night only, and is actually a discussion about why
+        computer games aren't a bit funnier, in the company of NTK's
+        Dave Green and - at time of writing - most likely someone from
+        upcoming "social gaming" PS2 pop quiz "Buzz" (6.30pm Thu 2005-
+        10-20, 01zero-one Creative Learning Lab, Hopkins Street,
+        London W1F 0HS, free - including drinks and snacks - but mail
+        insync@westking.ac.uk to pre-register). Prior to that, the
+        capital also plays host to several supporters of the
+        fashionable "free software" scene, in the form of popular
+        programming-manual-publisher TIM O'REILLY (7pm-11pm Thu 2005-
+        10-13, Hogshead pub, 11 Dering Street, London W1S 1AR, "UKP1
+        finger buffet payable on the door"), plus writer CORY DOCTOROW
+        (6.30pm, this Monday 2005-10-10, Borders Oxford St, London W1D
+        2LE, free) *and* Brazilian Culture Minister GILBERTO GIL (from
+        7pm, also Mon 2005-10-10, Guanabara, Parker Street, London
+        WC2B 5PW, also free) - these last two ideally participating in
+        some live simultaneous Creative Commons mashup sort of thing.
+        http://www.01zero-one.co.uk/pages/insync.asp?Section_ID=8
+         - not named after the "Zero-One" city in that "Matrix" toon
+    http://web.archive.org/web/*/http://yoz.com/wired/1.04/if/games.html
+        - along the lines of this argument again, but s/story/comedy/
+        http://www.geekdinner.co.uk/
+        - like a "John Peel Day" gig for people who don't like music
+        http://craphound.com/000518.html
+       - Cory will be reading, signing... and generally DRM-opposing
+        http://www.cybersalon.org/future.html#gilbertogil
+                     - as the play has it, "where the nuts come from"
+        https://wiki.ubuntu.com/BadgerBadgerBadgerTour
+        - Stop Press: Ubuntu's Jeff Waugh also in UK later next week
+        http://www.mayyouliveininterestingtimes.org/
+         - inaugural Cardiff Creative Technology Festival, Oct 28-30
+        http://www.bdmwiki.com/index.php/Tech_Camp_Ireland
+              - and it's Tech Camp Ireland on Sat Oct 15, to be sure
+
+
+                               >> ANTI-MEMES <<
+              there's smoke, flames, http://dohthehumanity.com/
+
+        somewhere you can send www.molestationnursery.com -ish URLs:
+        http://domainrookie.com/hilarious-domain-name-mispronouncings
+        ... US military evaluating feasibility of - Thunderbird 2:
+        http://www.livescience.com/scienceoffiction/050912_walrus.html
+        ... perhaps unexpectedly-judgmental Google typing goofs of the
+        month: http://www.google.co.uk/search?q=%22mary+j+bilge%22 ,
+        http://www.google.co.uk/search?q=%22black+and+shite%22 ,
+        http://www.google.co.uk/search?q=%22brothel+and+sister%22 ,
+        http://www.google.co.uk/search?q=%22roller+bladder%22 , plus
+        http://google.com/search?&q=%22information+supper+highway%22 ,
+        http://www.google.co.uk/search?q=%22know+your+socks+off%22 ,
+        and, to go with the "congenial abnormalities" of NTK 2001-06-
+        22: http://www.google.co.uk/search?q=genial+warts ... just
+        when you thought they didn't make Flash intros like this any
+        more: http://www.ilab.co.uk/ ... proof that Web 2.0 has - at
+        last - arrived; receives critical imprimatur of Keith
+        "RealNames" Teare: http://www.teare.com/ ...
+
+
+                               >> TRACKING <<
+              sufficiently advanced technology : the gathering
+
+        We are the web apps that go "NING"! The three unique selling
+        points of Marc Andressen's new start-up are stealth, PHP, a
+        persistent object database store, and a fanatical devotion
+        to the - . Ahem. Perhaps it's not surprising that there's a
+        British tang to www.ning.com, with many of the Brit Web 1.9
+        crowd's usual suspects involved in designing the API, site
+        and developer "evangelism" (which we sincerely hope will be
+        renamed "developers having tea at the vicarage"). But will
+        imported labour help Ning escape the Curse of Marca? Sure,
+        the site's "View Web App Source" model picks out the clever
+        bit of Marc's last good implementation, and should go some
+        way to reassuring all these picky Web developers who expect
+        their software to be free and Free. But how comfortable will
+        they be, trusting all their data to the loving arms of
+        Ning's singleton, proprietary OODB? Will coders only be
+        happy when some bright FOSS spark has re-implemented their
+        own half-baked Ning-a-like in a way that lets you run it on
+        your own machines, for no money, and with GPL v3 Free
+        webservice protections? And most importantly, when that
+        happens, what will those who go Ning! say then?
+        http://www.ning.com/pivot/any/any/sex
+- also, how many porno web apps will be implemented in the next few weeks?
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+        FILM>> Joss Whedon's penchant for self-parodic dialogue,
+        ensemble casts of unknowns, and endless unconvincing kung-fu
+        largely fails to translate to the big screen in feature-length
+        TV episode SERENITY (imdb keywords: steampunk/ space western/
+        wisecrack humor/ shot in the chest)... the pre-Halloween
+        gothicness continues with low-budget subtitled Russian fantasy
+        romp NIGHT WATCH (imdb: based on novel/ animated sequence/
+        witch/ vampire/ supernatural/ moscow/ local blockbuster)...
+        then next week, we'd skip the director of "Top Gun", the
+        writer of "Donnie Darko", and Keira "bloody" Knightley -
+        together at last! - in DOMINO (imdb: bounty hunter/ SWAT team/
+        shotgun/ helicopter/ FBI), possibly in favour of slightly more
+        satirical explosions in Nic Cage arms-dealer odyssey LORD OF
+        WAR ( http://capalert.com/capreports/lordofwar.htm : display
+        of massive firearms, repeatedly; rear nudity, repeatedly; talk
+        of evolution; adultery)...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+                      Registered at the Post Office as
+                           "Entirely unacceptable"
+           http://geeklawyer.org/blog/2005/09/02/talking-of-humour/
+
+                                NEED TO KNOW
+           THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+             Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                         (K) 2005 Special Projects.
+            Copying is fine, but include URL: http://www.ntk.net/
+        Full license at: http://creativecommons.org/licenses/by/1.0
+
+   Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+            All communication is for publication, unless you beg.
+    Remember: Your work email may be monitored if sending sensitive material.
+      Sending >500KB attachments is forbidden by the Geneva Convention.
+             Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,253 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-05-27_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+       
+        "PlayStation 5 will probably be as powerful as the human 
+         brain... it's possible to think of a smart yoghurt some time 
+         after 2020 or 2025, where the yoghurt has got a whole stack of 
+         electronics in every single bacterium..."
+          - "Britain's leading thinker on the future", BT's Ian Pearson, 
+           sees humanity superseded by hyper-intelligent games consoles 
+            and dairy products; the "strawberry-flavoured goo" scenario
+               (via http://www.livejournal.com/users/occular/48050.html )
+
+
+                               >> HARD NEWS <<
+                                social sudokus
+
+         And, after 8 long years, who better than NTK's most brutally 
+         affectionate critic LLOYD WOOD to look back at "what the 
+         landscape was like" when NTK launched in May 1997. "Slashdot 
+         wasn't the force it is now", Lloyd reminisces (in fact, they 
+         only showed up the following September), "the blogosphere and 
+         its ability to churn crud to the top was nowhere to be seen, 
+         there was no Fark getting all the amusing links. There was a 
+         sense that something was needed to counteract the American 
+         view of things, but we're all Americans now". "And that's 
+         why", Lloyd predicts, "NTK is switching to a monthly format". 
+         Careful what you wish for, Lloyd - NTK will be going monthly 
+         "for essential maintenance" over the summer, though you can 
+         still follow our other antics at the various URLs below. And, 
+         who knows, maybe even come up with something constructive for 
+         this year's BACKSTAGE.BBC.CO.UK OPEN TECH 2005 (proper "Call 
+         For Participation" follows), which we're helping to put 
+         together along with the UK Unix User Group, aiming for 
+         something a bit like last year's "NotCon" and 2002's "Extreme 
+         Computing", though with a more coherent theme and better 
+         organised. But, you know, in a good way.
+         http://www.eff.org/minilinks/
+                - Danny blogging for the EFF, up to several times a day
+         http://www.snackspot.org.uk/
+                 - Dave's "international nutritional activism community"
+         http://www.hexkey.co.uk/lee/log/
+                   - Lee: the Kevin Smith of spam-battling sysadmin-ing
+         http://www.xcom2002.com/doh/
+                                 - where the "dohs" go to when they die
+         
+
+                             >> OPEN TECH CFP <<
+
+  * Call for Participation - Please Redistribute Freely *
+
+The UK Unix User Group, NTK.net, and the organisers of NotCon '04 present:
+  
+                 backstage.bbc.co.uk Open Tech 2005
+  
+  Saturday July 23rd - The Reynolds Building, Hammersmith, London W6 8RP
+              http://www.ukuug.org/events/opentech2005/
+  
+  Sponsored by backstage.bbc.co.uk, Open Tech 2005 is an informal
+  one-day conference about technologies that anyone can have a go at,
+  from "Open Source"-style ways of working to repurposing everyday
+  electronics hardware.
+  
+  So far, the line-up features:
+  * Ted Nelson, inventor of hypertext, on where the web went wrong
+  * The official launch of the backstage.bbc.co.uk developer network,
+  opening up BBC content for you to play with
+  * Plus: able to record an entire week of all Freeview TV and radio
+  channels, probably the UK's largest (fridge-sized) PVR
+  
+  More speakers will be confirmed over the next few weeks - but, as the
+  title implies, we're very much "Open" to suggestions. If you're
+  reverse-engineering proprietary protocols, making useful information
+  available in a way people couldn't get at before, pioneering
+  unexpected methods of knowledge sharing - or (equally likely) doing
+  something so cool we haven't even thought of it yet, then please get
+  in touch via the submissions form at:
+  
+             http://www.ukuug.org/events/opentech2005/offer/
+  
+  The deadline for submissions is midnight UK time Saturday June 25th,
+  and we'll aim to notify everyone who's submitted a proposal by July
+  1st.
+  
+  We'll be trying to fit in as many talks (and lightning presentations)
+  as possible, so the shorter you can make yours, the better.
+  Alternatively, if you have an idea for a panel discussion, or a
+  workshop, or anything else that's vaguely in keeping with the theme of
+  the event, then we also can't wait to hear from you.
+  
+  And there'll most likely be some sort of internet access at the event,
+  but offline demonstrations are strongly encouraged, as bandwidth may
+  not be guaranteed.
+  
+  
+  * Further information *
+  
+  You don't have to suggest a session to take part; you can stay
+  informed about the event by subscribing to our low-traffic
+  announcement-only mailing list - send a blank email to:
+  
+  notcon-subscribe@socialswirl.com
+  
+  (your address will only be used to contact you about the event and
+  will not be passed onto third parties).
+  
+  - or you can email opentech@ukuug.org if you've any other questions.
+  
+                 backstage.bbc.co.uk Open Tech 2005
+  
+  Saturday July 23rd - The Reynolds Building, Hammersmith, London W6 8RP
+              http://www.ukuug.org/events/opentech2005/
+  
+  Final programme may be subject to alteration. Thanks for reading!
+
+
+
+                               >> EVENT QUEUE <<
+                      (other) GOTOs considered non-harmful
+
+         At time of writing, the lineup for next month's LINUX USER 
+         GROUP RADIO LIVE 2005 (Sat 2005-06-25, The Terrace Bar, 
+         Molineux Stadium, Wolverhampton, UKP5/ UKP3 concessions) looks 
+         a little like one of those sports games where they haven't 
+         licensed the actual player names, and thus features "Rufas" 
+         Pollock (the crime-fighting pseudonym of Foundation for a Free 
+         Information Infrastructure's "Rufus" Pollock) and Sarah "Ewan" 
+         (a close relative of Linux-on-the-PS2 guru Sarah "Ewen"). Oh 
+         and digital-Dr-Who-in-waiting Bill Thompson, "What's up with 
+         that?" PC recycler James Wallbank, and co-creator of Elite, 
+         Ian Bell (all of whom appear to be spelt correctly). Speaking 
+         of Big Mouth Billy Bass Thompson, expect similar high-spirited 
+         debate (though slightly less emphasis on webcasting) at the 
+         Cambridge-based firebrand's annual GEEK PUNT PICNIC (setting 
+         sail around 12.30pm, Sun 2005-06-05, from The Mill public 
+         house, Cambridge, punts charged at around UKP2 per hour per 
+         person, please RSVP direct to Bill). "We will be heading 
+         upriver", maintains Bill, in a perhaps unconscious echo of 
+         "Apocalypse Now", though not quite as far as the "heart of 
+         darkness" itself, the William H Gates Comp Sci building. 
+         http://www.andfinally.com/geek.html
+             - Bill "will provide more food/drink" (Jesus-Christ-style?)
+         http://www.lugradio.org/live/2005/
+           - plus paintball, talks on Ubuntu, GreaseMonkey and phishing 
+         http://www.nmk.co.uk/event/2005/06/07/inthecity-nmk-2005
+              - UKP125 "convergence" day at ICA, with "NTK's Dave Green"
+         http://sca21.wikicities.com/wiki/Blue_nose_day
+               - wiki set up to combat global warming on Friday June 10
+         http://reboot.dk/reboot7/show/HomePage
+         - "new ways ahead" outlined at Reboot7, Copenhagen, June 10-11
+         http://www.supernova2005.com/
+            - fancy-shmancy business tech from June 20 in San Francisco 
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Scott R. Turner self-aggrandisingly writes: "It has always 
+         been my dream to get mentioned in the TRACKING section of 
+         NTK. For many years, my biggest claim to fame was adding
+         Keystone Kops to Nethack. Now, however, I've created a
+         Firefox extension that might be worthy of your notice:
+         PLATYPUS. It has all the ingredients for instant success: a
+         nerdy-but-hip name, a fashionably angry-looking logo, and
+         usefulness to only a tiny portion of Internet users. As if
+         that weren't enough, it's actually very useful: it allows
+         Firefox users to visually edit a web page and then save
+         those changes (via the Magic of Greasemonkey (TM)) to be
+         applied again the next time the page is viewed. Oh, sure,
+         that sounds trivial but then you didn't have to implement it
+         in a foul language like Javascript. Check it out, I think
+         you'll enjoy it!" And so we will, just after putting this
+         Platypus-coded Dave-Winer Tourettesifier through its final
+         paces.
+         http://platypus.mozdev.org/using.html
+           - key old-skool hint here: hit "?" to see a list of commands 
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> laughing in the face of TS Eliot's dictum that "Human 
+         kind cannot bear too much reality [television]", there's yet 
+         another series of BIG BROTHER (basically all the time from 
+         9pm, Fri, C4)... followed, more promisingly, by car-crash 
+         variety show JOHNNY VEGAS: 18 STONE OF IDIOT (10.15pm, Fri, 
+         C4)... and we don't believe the purists approve, but it's 
+         still possible to enjoy David Hasselhoff Marvel adaptation 
+         NICK FURY: AGENT OF S.H.I.E.L.D (12.55am, Fri, ITV)... ITV 
+         ditches "Celebrity Wrestling", imaginatively replaces it with 
+         another cast of near-unknowns in unlikely costumes in X-MEN 
+         (6.10pm, Sat, ITV)... THE THIRTEENTH FLOOR (10.55pm, Sat, C5) 
+         remains arguably the most Greg-Egan-esque of all "The Matrix"-
+         alike movies... HOW ART MADE THE WORLD (9.30pm, Mon, BBC2) 
+         riffs in an thought-provoking, if largely unsubstantiated, 
+         manner on the notion of "the hero's journey"... as ingeniously 
+         parodied in Verhoeven/ Schwarzenegger tour-de-force TOTAL 
+         RECALL (10.50pm, Mon, BBC1)... Tuesday showcases 23 years of 
+         computer graphics "progress" with the all-new CAPTAIN SCARLET 
+         (4.30pm, Tue, ITV) up against Disney's 1982 original TRON 
+         (1pm, Tue, BBC2)... and two different views of "geek culture" 
+         are contrasted in Kieren "The Register" McCarthy's tale of 
+         domain-hijacking derring-do THE SEX.COM STORY (11.05pm, Wed, 
+         C5), vs the Star Wars/ Eastenders obsessions of autistic 
+         children ostensibly requesting that Channel4 MAKE ME NORMAL 
+         (9pm, Thu, C4)...
+         
+         FILM>> half-term means fun for all the family, with Danny 
+         Boyle's Children's Film Foundation version of "Shallow Grave" 
+         MILLIONS ( http://www.bbfc.co.uk/ : Contains one scene of drug 
+         use)... and Paul "Dennis Pennis" Kaye playing a "fish out of 
+         water" character *again*, this time a deaf DJ in IT'S ALL GONE 
+         PETE TONG (imdb: clubbing/ drug-use/ ibiza-spain)... so, we 
+         suspect the cooler kids will want to hold out for next week's 
+         overlong 18-certificate chiaroscuro comic-book conversion SIN 
+         CITY ( http://www.capalert.com/capreports/sincity.htm : vulgar 
+         and flippant impure language, dense sexual immorality and bold 
+         disregard for life; though Sin City is a technological 
+         masterpiece with high wattage thespians, it is deeply dark, 
+         vulgar, sinister and ugly cinematic cyanide)...
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                     "more 'stoppable' than you might think" 
+         http://barnski.blogspot.com/2005_02_01_barnski_archive.html
+         
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,301 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-04-14_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "[it is] sickening to know that our art is being traded like
+         a commodity rather than the art that it is."
+- LARS ULRICH, Metallica drummer, announcing their suit against Napster
+            ...next: sue those philistines that sell it for hard cash
+
+
+                                >> HARD NEWS <<
+                             oh, to be in their shoes 
+
+         In these days of plunging markets, it's hard to pinpoint
+         just one story that illustrates our own holding position:
+         that Net stocks are a device to transfer money from the
+         innocent to the guilty. But the tale of QXL's NASDAQ price
+         in the last week will do. Start from last Thursday, when SG Cowen
+         analyst Tom Bock announced that QXL was a "strong buy", and
+         predicted its eventual rise to a $333 stock value. Why?
+         Because - well, heck, they're the European Ebay, right, and
+         Europe's bigger than the US - so any minute now they'll get
+         an Ebay-like valuation. That call was based on some
+         interesting assumptions - that EBay hasn't made in-roads
+         into Europe, and that there are no other European
+         auctioneers of note. It took us ten minutes to spot another
+         five or so major auction sites in Germany (one of QXL's
+         longest established turfs) just by browsing yahoo.de. And
+         running a "links" count on altavista shows around 280 pages
+         pointing to qxl.de - compared to 1800 for ebay.de and 1700
+         for ricardo.de, another German auctioneer. Bock's timing was
+         particularly cute, given that the "strong buy"
+         recommendation came on the same day as a three-way split,
+         which has a habit of confusing casual investors into
+         thinking that the stock price is unnaturally low. After a
+         brief spike to around $110, the stock slumped to close to
+         $20 - a ride in which only the little guys got seriously
+         hurt. And we're sure it was pure coincidence that the hype
+         was days before the end of the six-month lock-in
+         of shares by the institutional investors...
+         http://www.unlockdates.com/comp/comp_main.cfm?ticker=QXLC
+                                          - co-underwriters: SG Cowen 
+         
+         Crazy give-away time in the wonderful world of VIRGIN's
+         Internet experiment. In the US, the company offered this
+         week to give away 10,000 WebTVish things in return for
+         audience data (you'll remember this ploy from about a year
+         ago, when everyone else tried it). In the UK, VIRGIN NET
+         gave away their entire design staff to ZEFER, as head
+         designer Rik Gadsby and most of his colleagues stepped
+         outside for a breath of fresh air... and never... came...
+         back. But hold: surely they were all set to become as rich
+         as Rich in the real-soon-now Virgin Net IPO?
+         http://www.virginconnectme.com/
+         - wow. even the hypertext links are imagemaps. thass the future!
+ http://www.economist.com/editorial/freeforall/20000408/index_br3024.html 
+                  - yeah, yeah, we got your Falco nominations, people
+
+         And so to Infosec 2000, where the exhibitors handed out
+         their scaremongery fliers, and tried to shut up the DNS Con
+         guys, who found exploits in at least sixteen exhibitor
+         websites. K3yn0te Sp33k0r RLoxley seemed very excited by
+         the much-rumoured "gathering of the ten", in which a bunch of
+         "the planet's greatest hackers" will combine to form a
+         company to provide commercial security services
+         - or battle Galactus, we're not sure which. But his
+         glee was no match for the enthusiasm of the London 2600
+         regulars. Approached by a BBC producer keen to do yet
+         another hacking documentary, they happily regaled her with
+         details of the dark, illegal - and strangely captivating -
+         lives they led. The producer stood by, rapt with fascination
+         at their elititude. As did the Network Manager of a major
+         British Police force, who was standing about ten yards away.
+         Looks like the show's already on the road, kids!
+         http://www.infosec.org.uk/
+                                            - okay, nothing to see...
+         http://www.dnscon.org/
+                                                            - go home
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         "RSI code" is, presumably, typing out every key by hand:
+         http://www.theregister.co.uk/000413-000013.html ... MS aims
+         to reverse DOJ ruling, turning time back "Superman"-style:
+         http://support.microsoft.com/support/kb/articles/Q131/1/09.asp
+         ... "in the wrong hands", warns SHADOW DEFENCE SECRETARY
+         http://news.bbc.co.uk/low/english/uk/newsid_711000/711242.stm
+         - stolen guns "could be lethal"... will the public *ever*
+         tire of seeing WINDOWS crash on large indoor displays:
+         http://www.ntk.net/2000/04/14/dohairport.jpg ?... WORD
+         "Revision control" on http://www.eurostar.co.uk/cond.doc
+         reveals added legislation against toddlers, longbows...
+         http://www.ntk.net/2000/04/14/doh550percent.gif - they pay
+         you 5 times the price?... MS aims to electrocute cable users:
+         http://www.theregister.co.uk/images/adverts/plug.gif ...
+         BT announce ADSL "scheduled downtime" between 11.30-12.30 today 
+         - at 11.29 ... if any page deserved a 404, it's www.lordlucan.com ...
+         Office 97 Professional CD contains large file titled PRON.wav ...
+         "Up My Street is fantastic - the guys who created that must be
+         pretty amazing" says TOM LOOSEMORE - whois upmystreet.com ?
+      http://www.newsunlimited.co.uk/online/story/0,3605,158654,00.html
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         It's not often that reforming '80s bands pose such profound
+         philosophical issues as SIGUE SIGUE SPUTNIK - did we miss
+         their notional cyberfuture at some point during the last
+         decade, does it still lie ahead, or is it currently taking
+         place in a neon-lit arcade in a parallel reality Tokyo?
+         Either way, several chances to re-enjoy their quaintly old-
+         fashioned futurism (and Giorgio Moroder's thumping techno-
+         billy basslines) as SSS play a number of high-profile gigs -
+         London's LA2, 2000-04-23 (Easter Sunday); Whitby Festival,
+         North Yorkshire 2000-04-29; Sheffield HALLAM University Students
+         Union, 2000-06-03 - no doubt prompting headlining quibbles
+         along the lines of "Noooo! I said 'Fifth Generation Of Rock
+         And Roll' *above* 'Puppet Show'..."
+         http://www.sputnikworld.com/
+                                   - 1st generation of HTML, as well
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         What we've been frenetically tracking this week: Last
+         Sunday, one of NTK's oldest pals and regular Tracking
+         contributor, Yoz Grahame, was admitted into the Royal Free
+         hospital intensive care, after a fit. He was diagnosed as
+         suffering pressure on the brain, and remained unconscious
+         until Thursday. The doctors are still not sure what caused
+         the problem (trust Yoz to discover an obscure, white-label
+         import virus), but we're pleased to report that he's now
+         awake, and seems to be rebooting just fine. Yoz, kid, next
+         time use the *scratch monkey brain* for these experimental
+         kernels. And get well soon. We love you.
+         http://www.ambiguous.org/quinn/yozora.gif
+                                                 - in bookstores soon
+         
+         
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         you do the math: http://www.calculusgirls.com/ ... this week's
+         modified sci-fi humour: http://www.quinnarama.com/futurama.htm
+         ... you want one, it wants you too - this week's CTHULHU
+         merchandising: http://www.tccorp.com/outsider/doll.html ...
+         of course, it should actually be "PORTILLO! I choose - YOU!":
+         http://www.drinkfromthefurrycup.com/news/51.shtml ... 0-day
+         JAMZ: http://web.ukonline.co.uk/chilled/jam.html ... REBOOT vs
+         PLAYBOY: http://x46.deja.com/getdoc.xp?AN=603778658 ... taking
+         de-LINTING too far: http://www.feargod.net/fluff.html ...
+         caption compo: http://www.nbarker.demon.co.uk/demon.jpg ...
+         OFFICE 97 Professional CD contains large file titled PRON.wav
+         ... http://www.lordlucan.com/ still missing... and, if this
+         takes off, a clarinet with SMS-downloadable ring-tones:
+         http://www.vankoevering.com/html/Body_Prod-1950Specs.htm ...
+         we heart http://newstrolls.com/ ... http://www.sylloge.com/5k/ ...
+         stalk your favourite Web authors at: http://www.byliner.com/ ...
+         makes a (dangerous) change from the weird Christian sites: 
+         http://www.mosqueclock.com/hard_sell.htm ...
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> without wanting to sound too much like the Sally Phillips
+         fan page http://www.w2s.net/sally-phillips/ , if only *all*
+         female comedians were as attractive as the ones in SMACK THE
+         PONY (9.30pm, Fri, C4)... in case you were worried that there
+         were *two* Gail Porter-fronted Graham Norton-style wacky web
+         round-ups at large, DOTCOMEDY (11.10pm, Fri, C4) was formerly
+         known as "That Internet Show" - possibly a homage to "That
+         Show With That Guy" (the working title for "Seinfeld"), and
+         presumably not changed to tie in with the seemingly unrelated
+         domains dotcomedy.co.uk or dotcomedy.com... plus: a tongue-in-
+         cheek disaster double-bill with Kevin Bacon big-wormer TREMORS
+         (11pm, Fri, BBC1) and pre-Airplane nuclear chuckle THE BIG BUS
+         (12.35am, Fri, BBC1)... Saturday night's Paul Verhoeven mini-
+         season continues with ROBOCOP (10.20pm, Sat, ITV), described
+         by worldly NTK reader Paul Blez as "the most violent film he's
+         ever seen"... millennium Illuminati ritual JEAN MICHEL JARRE
+         AT THE PYRAMIDS (11.15pm, Sun, BBC1) apparently features "a
+         sudden blanket of fog" (fnord)... and Kim "Sex In The City"
+         Cattrall dates a guy with a thing for naked shop-window
+         dummies in MANNEQUIN (3.30pm, Mon, C5)... it's Arnie week on
+         C5 - again - with near-actionless gameshow satire THE RUNNING
+         MAN (9pm, Tue, C5) plus Brigitte Nielsen beat-em-up RED SONJA
+         (9pm, Thu, C5)... Harry Enfield touts his own teen-
+         observational accuracy with REAL KEVINS (9.35pm, Thu, BBC1) -
+         none of whom, interestingly, are actually called "Kevin"...
+         plus: hacking, biotech, set in 2012, - no chance *at all* of
+         FUTURECAST (9pm, Thu, C4) being just more "Killer Net" cyber-
+         bollocks...
+
+         FILM>> "Why didn't I just stay at home like last time and play
+         with some batteries?" wonders Gary "Apollo 13" Sinise and
+         photogenic other astronauts en route to confused 2001 homage
+         MISSION TO MARS (http://www.capalert.com/capreports : graphic
+         death by rotational ripping apart; excessive cleavage;
+         physical attack; teaching of evolution and false origins of
+         life) - mostly rubbish but, hey, it's big-screen sci-fi...
+         unimaginative film critics consistently trumpet their
+         incomprehension of junior object-oriented tutorial POKEMON:
+         THE FIRST MOVIE (http://www.capalert.com/capreports : lust for
+         power, control, and independence; rampant confrontation with
+         finality and with doubtful consequences; sensual drawing of a
+         female character, the intent of the viewing angle was clear; ;
+         "Circumstances of one's birth are irrelevant"; misguided and
+         often absent concern for the "death" of a "living, thinking
+         being" - a pokemon) - and they're not referring to the
+         replacement of the moody Japanese soundtrack with upbeat teeny
+         pop. Team Rocket are hardly in it and don't even do their
+         catchphrase, but it's still our pick of the kid flicks... at
+         least compared to Disney's ultra-sanitised THE TIGGER MOVIE
+         (http://www.capalert.com/capreports : a real family movie;
+         only two instances you may want to address one-on-one with
+         your kids) or ASTERIX AND OBELIX (imdb: based-on-comic /
+         historical / live-action / sequel), of which Time Out seemed
+         to genuinely complain that it's been dubbed, rather than in
+         the original French with English subtitles... and following
+         our success with Esquire's "The Magazine You're [Not]
+         Embarrassed To Read On The Tube" campaign [NTK 2000-02-18],
+         Aston Villa fans will know exactly which word to block out on
+         the poster for Sean Penn, Kristin Scott Thomas lah-di-dah
+         romance UP [AT] THE VILLA (http://www.bbfc.co.uk/ : passed
+         '12' for moderate sexual references and threat and infrequent
+         mild violence)...
+
+         DEAD TREE PUBLISHING>> three words: AMIGA FORMAT - FALCOOOOO!
+         Future Publishing's long-running Amiga mag (arguably the
+         "Off'al Playstation Magazine" of its day) has published its
+         last, with long-standing editor Nick Veitch heading up new
+         launch LINUX FORMAT (due Fri 2000-04-28) - all traces of the
+         hilariously NT-served http://www.linuxanswers.co.uk/ [see NTKs
+         passim] having been mysteriously erased... this being Future,
+         no sooner is one struck down than three more spring up in its
+         place, the other two being the UK edition of BUSINESS 2.0
+         (content 60% sourced from over here, with "the rest from the
+         US" - ex-Wired UK staffers, get your CVs in now!)... plus, out
+         now, the wildly underpriced MP3 MAGAZINE - only UKP4.99 for
+         *98* glossy pages (not quite as many legitimate applications
+         as they thought?) Great site http://www.mp3magazine.co.uk/
+         too!... on to happier news, with first-time caller KEVIN CECIL
+         guest-hosting this month's Covermount Corner, and recommending
+         the "very good free CD of Easy Listening Lounge music" on the
+         front of LATER, including a "sitar version of 'I Can See For
+         Miles'" - either the entire CD, or this track alone, is "well
+         worth the UKP3 cover price" - Kevin fails to specify. Plus,
+         "The CD is designed to look like a CD that you have bought
+         rather than a 'shit magazine one' which seems a major advance
+         in free CDdom. The magazine itself is rather poor"... but, for
+         once, atrocity of the month goes to EMAP ACTIVE, for their
+         staggeringly daft Edge-alike "PS This Publication Is Not
+         Authorised Or Approved By Sony. PS2 And Playstation2 Are
+         Trademarks Of Sony Computer Entertainment Inc" (UKP3.99) - a
+         largely unnecessary disclaimer given that the content is so
+         ridiculously pro-PS2 even Sony would be embarrassed to run it.
+         Amid the Designers Rupublic [(c) Edge Magazine, May 1999]
+         knock-off graphics, shamefully blocky screengrabs, and sub-
+         Off'al Dreamcast "fashion shoots", there's even the typically
+         on-the-ball opinions of "style journalists" from The Face and
+         The Big Issue - the latter disappointingly not providing, in
+         counterbalance to all the tedious "Trojan Horse" propaganda
+         elsewhere, an analysis of exactly how the Playstation 2 will
+         revolutionise digital entertainment possibilities available to
+         homeless people...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+    on Friday afternoon (ha!) or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+              "just biding our time, just hiding that bottle"
+             http://bradpettit.editthispage.com/pictures/viewer$51
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

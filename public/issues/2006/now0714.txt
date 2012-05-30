@@ -1,0 +1,153 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2006-07-14_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                              bring your kazoos
+        
+         Almost a year from its inception, that old OPEN RIGHTS GROUP 
+         has made a few news reports, a logo, a wiki, and some sort of 
+         progress in transforming a somewhat technical range of issues 
+         into something more relevant and interesting to a wider 
+         audience. Still, if you're curious as to where they might be 
+         headed next, the UK receives its annual opportunity to 
+         interrogate Svengali-like puppetmaster Danny O'Brien at this 
+         weekend's LONDON COPYFIGHTERS' DRUNKEN BRUNCH AND TALKING 
+         SHOP, meeting up at the Mason's Arms for "brunch" (12noon-2pm 
+         Sun 2006-07-16, 51 Upper Berkeley Street, Marble Arch, W1H 
+         7PP, free but RSVP on the wiki so they know how much food to 
+         get), then (optionally) pitching up to bemuse the tourists at 
+         Speaker's Corner in Hyde Park. 
+         
+         Or, if you can't make it to London, Danny's also promising a 
+         "focused discussion" at next weekend's LUGRADIO LIVE 2006 
+         (from about 10.30am, Sat and Sun 2006-07-22/23, Wolverhampton 
+         University Students' Union, Wulfruna Street, WV1 1LY, UKP5), 
+         amid a lineup that includes Mark "Ubuntu" Shuttleworth, Simon 
+         "Whatchoo talking about" Willison and Sarah "PS2 Linux" Ewen 
+         (all on the "Main stage" and all, incidentally, also billed to 
+         appear last year). The "Beard" Room plays host to the likes of 
+         John "Everyone Loves Eric Raymond" Leach, while headlining the 
+         "Chin" stream is inescapable Pipexian Timelord Bill Thompson - 
+         also emphasising the "focused" nature of his session we 
+         notice, as opposed to the surrealistic ramblings that LugRadio 
+         listeners may otherwise presume.
+         http://www.lugradio.org/live/2006/index.php/Main_Page
+              - oh and Steve "OpenStreetMap" Coast, of whom more later
+         http://openrightsgroup.org/category/org-events/
+                                                      - indoors if wet
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         We've always seen the Free Software Movement as a quixotic 
+         crusade to stamp out the piracy of Microsoft products. But 
+         sadly, no matter how much you peer through meatforge or the 
+         ubuntu/hypertimetransmetroverse, sometimes "borrowing" a copy 
+         of Visio/OmniGraffle for five minutes is all you can do. 
+         Until... *drumroll* now. GLIFFY is a web app written with the 
+         Flash-done-right OpenLaszlo engine aimed at drawing flowcharty 
+         stuff. It does the 90% of Visio you need, in a genuinely 
+         pleasant in-browser interface. Being a Web 2.0ish site, it 
+         also lets you share documents publicly, and collaborate as 
+         easily as Vichy did (only with your co-workers, not their 
+         historical precedents). Thankfully, unlike most web-hosted 
+         apps, it also does decent export - including SVG, standards 
+         fans. So when the money runs out and they try to switch to 
+         charging, you'll have all the code you need to import it all 
+         back into Dia.
+         http://www.gliffy.com/
+- still a pleasure to write reviews they'll never link to on their homepage
+         http://en.wikipedia.org/wiki/Hypertime
+          - Hypertime: the difference between what you were told about 
+           Ubuntu, and the grim Frank Miller install gorefest you find 
+                                                       yourself in now
+
+                
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         ah, the heady days when clicking on a "No frames" option did 
+         something: http://www.bc.edu/bc_org/avp/cas/fnart/Artweb.html 
+         ... the "abstract illustration" school splits in 2 directions: 
+       http://telecoms.com/itmgcontent/tcoms/news/articles/20017362761.html 
+         vs "You'll be dealing warez - in 3D-rendered cyber-prison from 
+         now on!": http://slyck.com/news.php?story=1065 ... cosmic 
+         Google goofs: http://google.com/search?q=unchartered+universe 
+        http://google.com/search?q=%22christ+anderson%22+%22long+tail%22
+         http://www.google.co.uk/search?q=%22eternal+javascript%22 , 
+         http://www.google.com/search?hl=en&q=%22house+of+worhip%22 , 
+         http://www.google.com/search?hl=en&q=%22manly+thanks+to%22 - 
+         and don't be intimidated by the holier-than-thou spelling of 
+         "sanctimonious": http://google.com/search?q=sacramonious ... 
+       http://greendesign.co.uk/?page=webdesignagency&town=Anne+Widdecombe 
+         ... all-new excuse as to why NTK is a bit late this month: 
+         http://www.channel4.com/games/review.jsp?id=1382 ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         We consider it the height of professionalism when a speaker 
+         spends as much time actually delivering their presentation as 
+         they did fiddling with the video projector beforehand. Imagine 
+         our anticipation, therefore, on learning that TECHA KUCHA 
+         (7pm, Tue 2006-07-25, what looks like the "New Cavendish 
+         Street campus" of Westminster University, London W1W 6UW, 
+         free) attempts to meld the "20 [pre-submitted] slides for 20 
+         seconds each" format known by designers as "Pecha Kucha" to 
+         the kind of subject-matter you might meet at Dorkbot, EuroFOO 
+         or the Greater London Linux User Group. All your usual 
+         favourites - Yoz "Ning" Grahame, Simon Willison (again), and 
+         is that Ben "PLAN" Russell? - should be speaking, plus 
+         organiser Steve Coast, clearly on some record-breaking bid to 
+         appear at every tech conference there is, including next 
+         week's FUTURESONIC in Manchester (UKP45), and - we imagine - a 
+         semi-secretive O'Reilly Euro "Foo Camp" just before their big 
+         Brussels Open Source Convention in mid-September. 
+         http://www.asklater.com/steve/blog/?p=56
+            - 20 slides x 20 seconds = approximately 6.66 minutes each
+       http://10.futuresonic.com/urban_play/social_technologies_summit/
+                   - on the same bill as Toshio "Electroplankton" Iwai
+         http://conferences.oreillynet.com/euos2006/
+        - cue to dust off all those "Bar Camp UK" wikis from last year
+         http://wiki.openstreetmap.org/index.php/Past_Events
+                               - you have been busy indeed, User:Steve
+         http://www.freethisweek.net/
+             - hope he keeps this up though (and adds a swap facility?)
+
+          
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last month or might happen next month. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as           
+                "a springboard for everything to technological"
+         http://hayleyshollers.blogspot.com/2006/03/mailing-lists.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2006 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

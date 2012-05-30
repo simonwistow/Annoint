@@ -1,0 +1,205 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-09-03_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+         "Further to the Orange release that was sent out this morning, 
+          we wish to point out that the header for some of you read as 
+          'TALK NOWT', when it should have read 'TALK NOW'.
+          
+          The extra 'T' appeared due to the trademark 'TM' sign, not 
+          being able to appear in it's true form when using applications 
+          such as Lotus notes.
+          
+          We apologise for any inconvenience caused."
+               - ORANGE targets thrifty Yorkshire folk with pioneering 
+               "Talk Nowt, Text Nowt, Pay Nowt" tariff, as reported by
+                     http://www.unstrung.com/document.asp?doc_id=58719
+
+
+                               >> HARD NEWS <<
+                              battling keiretsus
+
+          Can people please stop taunting the STUART CAMPBELL? People,
+          in this case, being the foolish combines behind PIRACY IS A
+          CRIME, the Jonathan Ross-led campaign to stop people being
+          ripped off by VideoCD-toting flea market spiv^Wterrorist
+          paramilitaries. Perhaps tipped off by the campaign's logo -
+          which anyone over 25 would recognise as the "Jimmy Hill!
+          Chin-chin!" sign for impending Big Fibs, Campbell went on
+          the investigative warpath. His armchair decon-destruction of
+          the "Industry Trust for IP Awareness (Limited)"'s scare-
+          mongering is uncompressable: from Word-metadata viewing
+          on their press release to discover them wisely toning down
+          claims of "proof" and sexed-up "dossiers of evidence", to
+          upping the gamma on the faux ad images of pirated DVDs, to
+          dredging through *the entire report* to pick apart every
+          tenuous connection between piracy and organised crime,
+          Campbell wreaks his traditional havoc. Dammit, "The Man" 
+          should have kept him imprisoned in Digitiser while they had 
+          the chance.
+          http://invisionfree.com/forums/worldofstuart/?showtopic=582
+                                                   - the game is afoot
+          http://worldofstuart.excellentcontent.com/ip1.htm
+                                      - the "45 minute claim" of warez
+          http://worldofstuart.excellentcontent.com/rights.htm
+      - the link you'll forward to your friends bored of your IP rants
+          http://www.playgroundlaw.com/cgi-bin/browse.pl?sid=144
+                                                     - chinny *reck*on
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          Last time we mentioned something like this, someone who went 
+          reported that the best thing was seeing "how many of the 
+          [music industry] old-school are going to get it in the arse if 
+          they refuse to see how screwed they are". If that's your idea 
+          of a good night out (metaphorically speaking, of course), then 
+          you may also enjoy the-Monday-after-next's Music-Ally debate 
+          PR AND P2P - THE PERFECT ANTIPIRACY PITCH (6pm, Mon 2004-09-
+          13, Guardian Newsroom, 60 Farringdon Road, London EC1R, 
+          tickets usually UKP45 to non-members but free to the first 6 
+          readers who mail events@MusicAlly.com with NTK in the subject, 
+          max 2 tickets per application). Speakers include PR moguls Tim 
+          Duffy, Jez Frampton and Mark Borkowski (plus the Guardian 
+          Unlimited's Neil McIntosh), who'll be pondering whether RIAA-
+          style suing of music downloaders might turn out to be a 
+          similar "PR disaster" if the BPI started doing it in this 
+          country. Apparently straddling both camps is CARBON/SILICON 
+          (on tour from Wed 2004-09-15, see site for times and venues), 
+          the new project from Sigue Sigue Sputnik bassist and visionary 
+          Tony James (plus some guy who used to be in The Clash), whose 
+          lyrics include the sentiments "I just surfed right down your 
+          street/ sampled your tune, stole your beat/ that's the way the 
+          bytes go round/ they make the revolution sound", and yet whose 
+          site (at time of writing) currently contains exactly no MP3s 
+          of what they might actually sound like.
+          http://www.carbonsiliconinc.com/quoteme/quoteme.aspx
+               - featuring guest vocals from Baroness Susan Greenfield?
+          http://www.musically.com/p2pr.html
+            - hey, lower CD prices seems like a substantial PR victory
+          
+
+                                >> ANTI-MEMES <<
+                contains a source of http://snackspot.org/
+
+          [an experimental hybrid section now we're sticking all the 
+          dohs at http://dohthehumanity.com/ - this week: e-commerce 
+          special]... hilariously patronising "if Microsoft made mobile 
+          phones" spoof: http://www.microsoft.com/windowsmobile/about/ - 
+          hang on a minute... certainly feeling "bewildered" and 
+          "inadequate" by the time they get to definition of "Alias": 
+         http://www.computerpeople.com/content_dynamic/display.asp?id=63 
+          ... semi-random Google goofs of the month: communtication, 
+          http://www.google.com/search?q=%22oxford+univeristy%22 , 
+          "household mame"... you tell me: are my router heatsinks "hot" 
+          - or not? http://www.ratemynetworkdiagram.com/ ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          Is anyone else just mailing themselves their invites so that
+          they can have more space on Google Mail? For those of you
+          with no friends, but an ability to mug people for a Gmail
+          account, comes "gmcp.pl", which is a command line file
+          transfer program that uses your Google Mail account as a
+          simple data store. Yes, yes, we know *all* about the ones 
+          using it as a filing system, but we like this more because 
+          a) it's a simple Perl script with minimal dependencies, b) 
+          there's a chance we might actually use it, and c) when Google 
+          breaks it, it looks simple enough to fix. Also, it's more fun 
+          than just mailing yourself the file.
+          http://www.thuglove.org/gmcp/
+                               - we should plug more <450 line scripts
+          http://richard.jones.name/google-hacks/google-hacks.html
+                         - oh, alright, have the clever-clever version
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> Friday's double-bill featuring Michelle "The Book Group" 
+          Gomez starts with inspiringly titled Simon Nye sitcom CARRIE 
+          AND BARRY (9pm, Fri, BBC1) and continues with zany "from the 
+          makers of Smack The Pony" hour-long hospital surrealism THE 
+          GREEN ROOM (9.30pm, Fri, C4)... the deliberate anachronisms 
+          are amusing, the fight sequences bloody awful, in typically 
+          Hollywood-ised Chaucer adaptation A KNIGHT'S TALE (9pm, Sat, 
+          C4)... and "Haplessly directed - inscrutable!" remains our 
+          favourite critique of BATTLEFIELD EARTH (11.15pm, Sat, ITV) 
+          http://www.lermanet.com/reference/BatEarthfaq2.htm ... the 
+          "7-11" anniversary cash-ins kick off early with Amanda Platell 
+          disaster-management gameshow CRISIS COMMAND: COULD YOU RUN THE 
+          COUNTRY? (9pm, Sun, BBC2), cheesy transatlantic counter-
+          terrorism co-production THE GRID (9pm, Tue-Thu, BBC2), plus a 
+          roundup of THE 9/11 CONSPIRACIES (9pm, Thu, C4) - or host of 
+          unfortunate "coincidences", as the evidence increasingly 
+          implies http://www.scoop.co.nz/mason/stories/HL0408/S00221.htm 
+          ... back in the real world, Saffron "Deep Blue Sea" Burrows 
+          battles a time-travelling toilet in experimental split-screen 
+          digital drama TIMECODE (12.40am, Mon, C4)... it's a shame 
+          firefighter soap STEEL RIVER BLUES (9.30pm, Wed, ITV) wasn't 
+          titled "London's Burning 2: Fetch The Engine"... and 
+          sycophantic "Top Gear" sidekick Richard Hammond presents an 
+          entire series of investigations which will be shown to future 
+          generations to illustrate how naive humans once were, starting 
+          with SHOULD I WORRY ABOUT - MOBILE PHONES? (7pm, Thu, BBC1)... 
+          
+          FILM>> dodgy CGI, dodgier prosthetics, and the distracting 
+          presence of Niles Crane as a fish-man C3P0 don't do many 
+          favours for oddly unsuspenseful monster mish-mash HELLBOY 
+          ( http://www.capalert.com/capreports/hellboy.htm : monstrous 
+          demon action violence; statue nudity; smoking, repeatedly; 
+          other than Jesus unlocking the gates of Hell; after seeing 
+          this film, they who have an undeveloped or underdeveloped 
+          understanding of the Gospel and the Scriptures will now have 
+          yet another battle to contend with)... Will "Elf" Ferrell 
+          links to some entertaining (albeit disjointed) sketch scenes 
+http://www.dreamworks.com/trailers/anchorman/clips/anchorman_clip3_qt_240.mov
+          in next week's role of ANCHORMAN - THE LEGEND OF RON BURGUNDY 
+          ( http://www.ahafilm.info/movies/mr.phtml?fid=7594 : The biker 
+          picked up the dog and carried her toward the railing, but 
+          actually kicked a stuffy - an artificial stand-in for the 
+          animal - off the bridge; "Nutty" the waterskiing squirrel was 
+          stock footage purchased by production)... while that photo in 
+          The Face of NTK's "Dave Green" with marshmallows stuffed in 
+          his mouth was presumably, in retrospect, a homage to the 
+          poster for McDonald's-baiting "all you can eat" docu SUPER 
+          SIZE ME http://www.ff.org/images/trayliner.jpg ( BBFC: Contains
+          one use of strong language and surgical detail)... 
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "To be honest, kind of wondering that ourselves"
+            http://www.freecherrypy.org/asbradbury/archive/0421904
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

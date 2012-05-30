@@ -1,0 +1,283 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-12-17_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "BTW, I would have rejected the name Story Server because its 
+          initials are SS, the name of the secret police in Nazi Germany, 
+          probably the most despised pair of letters in western culture."
+                          - Dave Winer, scripting.com, Monday 1999-12-13
+         ...ditto for Suddenly Susan, Steven Spielberg, the Secret Seven
+         
+
+                                >> HARD NEWS <<
+                               postponed "phew"s
+
+         With only -36509 days to go before Y2K, we expected a last-minute 
+         stumble of OS updates to hit the stores - but we weren't prepared 
+         for this Christmas stampede. This week saw Microsoft announcing 
+         the rush to market of Windows 2000 - on the same day as Linus 
+         louchely suggested the code freeze on the 2.4 kernel. That means 
+         that the release date for both OSes is heading to be sometime 
+         around February 2000. Just to make the alignment of the spheres 
+         even creepier, factor in the Feb roll-out of popular Linux clone, 
+         Solaris 8, and (add pending the unanimous agreement of collective 
+         policy document sub-committees 8 through 24) the inauguration of 
+         the 2.2 Debian distribution. This is either a) the effect of some 
+         Silicon Valley pheromone, similar to that menstruation 
+         synchronisation effect, b) a horrible coincidence hybrid of Open 
+         Source ego and Marketing "savvy", c) a disaster comparable to Y2K, 
+         as every First Adopter on the Net simultaneously hoses their 
+         machines in their eagerness to uncover the new bugs in these 
+         latest versions. Or, most likely, d) - all of the above. And more.
+         http://lwn.net/daily/2.3.33.html
+         - Linus can't spell millennium. He's ... just a man!
+         http://www.sun.com/software/solaris/ea/
+         - some students were harmed in the manufacture of this product
+         http://www.mercurycenter.com/svtech/news/indepth/docs/qa121700.htm
+         - "DOS is just a bunch of poorly debugged... oops" 
+                                                  - STEVE "PRESCOTT" BALLMER
+         http://www.amiga.de/diary/developers/y2k.html
+         - intriguingly, AmigaOS Y2K issues include "leaking acid"
+         
+         Proving that not *all* LARA CROFT fans are obsessed with large-
+         breasted women - quite the opposite, in fact! - Eidos producer 
+         Kenneth Lockley was arrested for "trying to procure a 9 year-old 
+         girl for sex" while visiting London for the launch of Tomb Raider 
+         IV: The Last Revelation (the episode which, you may recall, 
+         features a "prequel" Lara as a young girl). APB Celebrity News 
+         noted that Lockley was the third tech exec busted for under-age 
+         propositioning this year. 
+         http://www.geocities.com/SunsetStrip/Frontrow/6810/aolssc.html
+         - well, 4 tech execs, if you count this plausible "CNN" report
+         http://www.apbnews.com/media/celebnews/1999/12/13/lara1213_01.html
+         - oddly, no coverage on "Croft Times", Eidos Homepage...
+         http://www.ukresistance.com/ukr/tombraider5.htm
+         - proposes new Lara "with tits on back" to "please gamers"
+         
+         Still, proving that not *all* coders are perverted sex weirdos, 
+         JOHN CARMACK, while announcing the winners to the "Id Software 
+         figurine chess set contest", took the opportunity to announce his 
+         secret "check-mating" of fellow Id employee, Anna Kang. Carmack 
+         went on to reassure fans that he *would* be taking a workstation 
+         on their imminent Hawaii honeymoon, to avoid falling into "some 
+         programming-deprivation state".
+         http://www.bluesnews.com/cgi-bin/finger.pl?id=1&time=19991215100814
+         - "Fountainhead Entertainment"? *More* "Ayn Rand" games?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         DAIKATANA slips *again*... "NASA security survey" publicly 
+         available: http://survey.nasa.gov/ ... PAUL MCCARTNEY webcast 
+         hosted by msn.co.uk - server falls over within 5 mins of start 
+         time ("most didn't get through as lines became jammed" reports THE 
+         SUN)... gettingit.com gets THE FALCO!... Network Associates' PR 
+         agency, STEWART-MUIR, emails journos warning they "may have passed 
+         on" a virus to them... bloody EUROPEANS all look the same: 
+         http://uk.real.com/ ... yes, but the German KRUPPS had 2 "p"s in 
+         it: http://www.krupsonline.com/krupssucks/krupandhol.html ... 
+         Guidelines for use, management, design of PUBLIC SECTOR WEBSITES:
+       http://www.iagchampions.gov.uk/Guidelines/websites/print/webguide.txt
+         - don't stretch to use of "word wrap"... special one-off audio 
+         DOH: http://www.ntk.net/doh/peter_b.wav ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Our usual incompetence and hazy relationship with deadlines has, 
+         once again, torpedoed any hope of an NTK end-of-year bash, but the 
+         next best thing (and, for many of us, the social event of the 
+         season) will surely be THE LONDON 2600 XMAS PARTY (from 7pm, this 
+         Sat 1999-12-18, WebsHack Cyber Cafe, Dean St, London - "a short 
+         walk north of the Groucho Club", they add, inexplicably, for the 
+         benefit of media wankers and/or Douglas Adams?). Attractions 
+         include a "beer drinking contest", "caffeine contest" (drinking 
+         it, presumably, but you never know), a "hacker chic" dress code, 
+         encrypted "party food" menu, spot-the-fed competition, modified 
+         MIDI karaoke and, rounding off the festivities at 2am, a storming 
+         audience-participation Powerpoint presentation entitled "UK 
+         Infowar & Y2K Vulnerabilities - Who We Warned And Those Still At 
+         Risk". 
+         http://www.spy.org.uk/cgi-bin/party.pl
+         - boy-faced man-children: UKP5; women: free
+         
+         And, for the lamers, Tue 1999-12-21 sees the 5th Birthday/ Y2K 
+         event for net.art mag MUTE (yeah, Christmas is such an outmoded 
+         patriachal concept isn't it?). 8pm, the basement, Universal House, 
+         88-94 Wentworth St, London E1; entrance is supposed to be UKP2 
+         (for the new issue + drinks) but, in an email which (we suspect) 
+         may not have been intended for general publication, the editor 
+         advises: "contributors get in free, so just say you are/were one".
+         http://www.metamute.com/
+         - followed on Wed by "brightest full moon in 186 years"
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         Oh, sure, factoring primes [1] and searching for intelligent
+         life may sound important- but how about using the power of these
+         cool- looking distributed processing screensavers for more
+         pressing issues: even cooler-looking screensavers? That's the
+         recursive principle behind ELECTRIC SHEEP, a
+         xscreensaver-compatible app which displays cool fractal flame
+         animations when in the foreground, and quietly renders the next
+         few frames during idle cycles when backgrounded.  Cleverly, rather
+         than try to keep up on its own, it feeds those frames to a central
+         server which acts as a clearing house for, effectively, a
+         screensaver rendering farm.  Electric Sheep is a waste of time on
+         so many different levels it's... beautiful.
+         http://electricsheep.org/
+         - devil finds work for idle cycles to do
+         http://www.draves.org/flame/
+         - "d-raves" not Spiral Tribe-style handle, but actual, dull, surname
+         [1] yes, it's a joke. no, please don't carry on mailing us.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         BBC.CO.UK "email a friend" feature now lets you use words "arse", 
+         "bum", "butt", "cock", "cum", "cunt", "crap", "fellatio", "hump", 
+         "piss", "shag", "shit", "turd", and "wank" - but not "blowjob", 
+         "fuck" or (sadly, for fans of chardonnay) "hardon"... cycle at 10 
+         times the SPEED OF LIGHT: http://www.solar.york.ac.uk/ ... THE 
+         STREET finds its own corrections for glitches in first paragraph: 
+         http://www.ebc.ee/~jp/jp/txt/fiction/neuromancer.html ... "Lowell 
+         has developed a wide range of software applications, including 
+         fingerprinting technologies used by the Federal Bureau of 
+         Investigation and the popular video game, FROGGER" - top CV at 
+         http://www.younology.com/corpbiosfinal.html ... CHRISTIAN GAMES to 
+         "rival the quality of non-Christian games" - eg Adventures With 
+         Chickens 95: http://www.wave.net/rocksolid/ ... REINCARNATION 
+         queries that *matter*: http://www.fierce.com/fontaine/bichild.html 
+         ... TURNER PRIZE 2000: http://www.minifigmuseum.freeservers.com/ 
+         ... more STOCK TICKER apps for Linux these days? Just scratching 
+         that "itch", we guess... "Darling, I can see right through you" 
+         (again): http://www.bmj.com/cgi/content/full/319/7225/1596 ... 
+         QUAKE 3 humour: http://www.somethingawful.com/jeffk/index.htm... 
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> they make out they're all very radical and irreverent, but in 
+         fact THE BRITISH COMEDY AWARDS (9pm, Sat, ITV) are just as smugly 
+         self-satisfied as any other showbiz backslap fest... speaking of 
+         which, BBC2 again trots out cameo-packed Tarantino nonsense PULP 
+         FICTION (9.45pm, Sat, BBC2)... the hit and miss Xmas movie season 
+         gets off to a flying start with prehistoric Brendan Fraser clunker 
+         CALIFORNIA MAN (4.20pm, Sun, C4), dire Keanu Reeves/ Rachel Weisz 
+         nuclear thriller CHAIN REACTION (10pm, Mon, BBC1), plus glorified 
+         WW2 war-crime THE DAM BUSTERS (2.50pm, Sun, ITV) - hopefully with 
+         that Carling Black Label ad in the breaks... "Chelmsford 123 '99" 
+         is the mud already being slung at Rob "Red Dwarf" Grant's medieval 
+         sitcom DARK AGES (10pm, Mon, ITV)... clearly this is as good a 
+         time as any to repeat two ET-themed Equinoxes and call them an 
+         ALIEN EVENING (9pm, Mon, C4)... amazingly, those "National Theatre 
+         Of Brent" losers are still getting work, their latest being 
+         MASSIVE LANDMARKS OF THE 20TH CENTURY (7.30pm, Tue-Fri, C4) - as 
+         if BBC2's "Millennium - A Thousand Years Of History" wasn't 
+         hilarious enough... and does the TV version of HEAT (9.30pm, Tue, 
+         BBC1) also have that weird cut near the end when the car comes 
+         round the corner and everyone on the street then suddenly starts 
+         walking?... vying for tackiest Xmas tie-in are flying Ray Winstone 
+         Ghost-alike LAST CHRISTMAS (9.30pm, Wed, BCB1) and adults as 7-
+         year-olds abomination THE FLINT STREET NATIVITY (9.30pm, Wed, 
+         ITV)... while C5 takes this opportunity to remind us of the harsh 
+         realities of the international arms trade in fact-based Iraqi 
+         thriller DOOMSDAY GUN (9pm, Thu, C5)...
+         
+         FILM>> hey maybe it's the school holidays or something, what with 
+         impressively frenetic Yahoo product placement RoboCop CGI spoof 
+         INSPECTOR GADGET (http://www.capalert.com/capreports/ : reckless 
+         driving by non-police personnel to pursue; attempted murder by 
+         explosives; automatic gunfire with lustful enjoyment; a man atop a 
+         woman (dressed); grabbing of private parts; clearly excessive 
+         cleavage; and a long sequnce of Gadget's pants down around his 
+         ankles, repeatedly exposing his underwear). Broderick is his usual 
+         inoffensive self, along with delightfully expressive Joely Fisher 
+         ("Paige" from "Ellen", and Carrie's half-sister) though, 
+         controversially, they do reveal the face of arch-villain "Claw" 
+         (and it was Rupert Everett all along!)... more cybernetic action 
+         in song-free box-office-flop Manga "The Snowman" Ted Hughes weepie 
+         THE IRON GIANT (imdb: 1950s / giant-robot / meteorite / paranoia / 
+         robot / small-town / anti-violence / disembodied-hand / kids-and-
+         family / cold-war / friendship). Blah blah "tide the kids over 
+         until Toy Story 2 comes along". Toy Story 2? *Shit* Story 2, more 
+         like... not that you'll want to go and see them, but this week's 
+         non-robot movies veer alarmingly towards historical whimsy, first 
+         in the form of agoraphobic Tim Roth jazz duel boat movie THE 
+         LEGEND OF 1900 (MPAA: rated R for "language" - what, Italian?)... 
+         while Chow Kun-Fat doesn't do any martial arts, Jodie Foster 
+         doesn't flirt with any serial killers, and neither of them sing, 
+         so there's no real point to cultural imperialism musical turned 
+         action movie ANNA AND THE KING (imdb: banned in Thailand)... 
+         
+         BOOK & MAGAZINE "STOCKING-FILLERS">> conveniently, we persuaded 
+         The Guardian to host our traditional free-CDs round-up this year
+   http://www.guardianunlimited.co.uk/Archive/Article/0,4273,3939279,00.html
+         (login: guest/ guest). Main omissions were "20th Century Noise: A 
+         Millennial Soundtrack" (Uncut magazine, UKP3.50), which makes a 
+         genuine (if misguided) attempt to cover pop's last 100 years (ie a 
+         lot of scratchy jazz), interspersed with audio news clips of Pearl 
+         Harbour, MLK's "I have a dream", John Lennon getting shot, then 
+         Ice-T pops up at the end swearing a lot. "Boyd Gaines Reads The 
+         Star Trek Insurrection Audiobook" (Star Trek Magazine, UKP4.99) is 
+         far, far worse than you'd ever imagined, and despite the numerous 
+         versions of Groove Armada's At The River, ATB's 9pm (Till I Come), 
+         and Suede's She's In Fashion, no-one seems to have featured any 
+         highlights from NTK's top 3 albums of the year: Lola Rennt (Run 
+         Lola Run) OST, 60 Second Wipeout (Atari Teenage Riot), plus, of 
+         course, Epoch Eclipse - The Ultimate Best Of Hawkwind... in other 
+         (tangential) mag news, James Wallis currently seeks new publishers 
+         for his recently deceased (and surprisingly good) groovy net mag 
+         formerly known as CRAZYNET, which didn't go bust at all - 
+         http://www.erstwhile.demon.co.uk/crazynetisdead.htm has the full 
+         story... plus, at long last, one childhood question answered, as 
+         "prog 2000" of 2000AD is, conveniently enough, the first to 
+         feature a year 2000 cover date: 100 pages, cost (we think) UKP3.75 
+         Earth Money (no price listed for loyal Mercury-dwelling 
+         readers)... and in case you're thrashing around for more last-
+         minute gift ideas, we've (typically) neglected to update our 
+         Amazon links to include: David "White Dot" Burke's anti-Sky 
+         digibox privacy rant SPY TV (UKP5) http://www.spytv.co.uk - ("The 
+         server www.whitedot.org wishes to set a cookie" hehehe); the long-
+         awaited post-modern riposte to all those terrible feelgood self-
+         help manuals, Andrew Boyd's LIFE'S LITTLE DECONSTRUCTION BOOK 
+         (UKP4.99); and, raising the stakes in the "Little Book" stakes 
+         still further, Roger Ebert's net-inspired THE BIGGER LITTLE BOOK 
+         OF HOLLYWOOD CLICHES (UKP7.99) - hilarious as ever, even though 
+         the character translation has transposed a question mark instead 
+         of the "x" multiplication sign throughout...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+              Registered (incorrectly) at the Post Office as
+             "you don't need a degree in IT to understand it".
+         (Bizarre Magazine, Dec issue, spotted by "Craig Ancliff")
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

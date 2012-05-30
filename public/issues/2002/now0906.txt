@@ -1,0 +1,274 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-09-06_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "It would seem highly likely that the launch of a physical 
+         attack on Iraq will see [online] counter-attacks from 
+         disgruntled Arab, Islamic fundamentalist and anti-American 
+         groups..."
+                  http://news.bbc.co.uk/1/hi/technology/2231205.stm
+      - and, more worryingly, further pompous pronouncements from DK Matai
+
+
+                                >> HARD NEWS <<
+                                 nikto klaatus
+
+         Brits, geeks and Britgeeks mixed freely at the WORLD SCI-FI
+         CONVENTION this week, although not without a few scuffles.
+         Definitive eurolefty CHINA MIEVILLE held his baby-bald head
+         in his hands as fellow panellist ERIC "losing it" RAYMOND
+         uttered portentous threats regarding socialism SLIGHTLY TOO
+         CLOSE TO THE MICROPHONE, deafening LeGuinites and
+         Heinleinians alike. Elsewhere on the techie tip, HARLAN
+         ELLISON's lawyer duelled with the EFF's CORY DOCTOROW, and
+         admitted that the anti-DMCA advocates had a case; the
+         audience waited for his client to blank his cardioplate and
+         kill him on the spot. Harlan, fortunately, was elsewhere,
+         biting the heads off ebook crackers or something. Rumours of
+         JAKOB NIELSEN persisted. He was rarely seen, unless he was
+         that furry in the Punk Skunk costume. Perhaps we didn't
+         scroll down far enough. Paging up to the sumptuous Hugo
+         awards: Guest of honour VERNOR VINGE won a raft of 'em, a
+         nudge from his readers to write a bit bloody faster before
+         the Singularity hits. Mundanes SAM GAMGEE and SAURON briefly
+         teamed up to collect their Hugo for "LOTR: TMP" then earnt
+         some Hobbit-like stares for quoting Tolkien on American
+         fandom ("my deplorable cultus"). Finally, a shocked NEIL
+         GAIMAN stumbled onto stage to clutch at his Hugo for best
+         novel, "American Gods". In a moving impromptu confession, he
+         admitted that a Hugo was what he most wanted in the world -
+         at age 13. Other teen wishes yet unfulfilled were the cute
+         twins he sat opposite on the tube, and heat vision; pray he
+         never attains them simultaneously.  We'll leave the last
+         words with him, as amplified across an audience of geeks of
+         all ages: "Fuck. I got a Hugo."
+         http://www.locusmag.com/2002/News/News09Log1.html
+                     - "Best Dressed Author" Hugo unclaimed yet again
+         http://www.asimovs.com/_issue_0206/Lobsters.shtml
+- other Brits involved: Charlie Stross, Linux-wielding nerdcore writer...
+         http://www.dcs.gla.ac.uk/SF-Archives/Ansible/
+       - Dave Langford and the newsletter this item closely resembles
+
+         In other news, science fiction once again risked becoming 
+         science fact - that was until THE REGISTER stepped up to 
+         counter KEVIN WARWICK's plans to implant a device with all 
+         the functionality - and approximate dimensions? - of a mobile 
+         phone (and/or GPS receiver) into the arm of one lucky 11-year-
+         old girl. Translation: expect a spectacularly scaled-down demo 
+         with a subcutaneous anti-shoplifting-style RFID tag in about a 
+         year's time. Just one small point for those Warwick supporters 
+         who've weighed in with the argument that "We use microchips to 
+         find lost pets, so why not missing children?". Chips in 
+         animals aren't tracking devices, they're used - because pets 
+         can't talk - to establish who their owners are once the 
+         animals have been found. Or for identifying their bodies.
+         http://www.theregister.co.uk/content/54/26908.html
+              - vs http://www.zeppotron.com/unnovations/paedo_go.html
+         http://www.prweb.com/releases/2002/7/prweb42597.php
+                            - contact us, c/o The GATTACA Corporation
+         http://www.putneysw15.com/exchange/Whats_on/PX_whats_on.html
+               - Postman Pat pioneers slightly less invasive variants
+         http://qwer.org/020906logica.html
+ - "Government must slowly reveal the capabilities of the technology"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         gradually reaching the end of the oddest GOOGLE MISSPELLINGS: 
+         http://www.google.com/search?q=%22sacred+stiff%22 , this 
+         week's colour-based search-and-replace artefact: "hundgreens", 
+         plus those ever-popular page errors: "error '80020009'" and 
+       http://www.google.com/search?q=%22socket+%27%2Ftmp%2Fmysql.sock%22
+         ... AMAZON propose slightly more "Hollywood-friendly" LOTR 
+         pitch: http://www.ntk.net/2002/09/06/dohgold.gif ... get 
+         your 2-year-old to "sing along" with Yates' incessant whining: 
+         http://www.ntk.net/2002/09/06/dohyates.gif ... over-honest 
+         price comparisons: http://www.ntk.net/2002/09/06/dohsave.gif 
+         ... what part of "Negative Results" don't you understand?: 
+         http://www.jnrbm.com/articles/browse.asp ... to save employee 
+         time, ICSTIS "urges Government bot to ignore consumers": 
+         http://www.icstis.org/icstis2002/default.asp?Node=61#39 ... 
+         Eastleigh Countryside Service's memorable slogan - "Bringing 
+         people and the countryside together (or similar catch all)": 
+         http://www.eastleigh.gov.uk/countryside/cntryproject.htm ... 
+         
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Somewhat optimistically, coin-op carnival CALIFORNIA EXTREME 
+         (from Sat 2002-09-07, San Jose Convention Centre, around $20) 
+         promises "More excitement!" than last year when, as we recall, 
+         the laser MAME guys couldn't get into the USA because all the 
+         flights were grounded. BORDERS BOOKSHOP on London's Oxford 
+         Street meanwhile enters a somewhat different fantastical 
+         realm, with the author of the "Krondor" series RAYMOND E FEIST 
+         in conversation with up-and-coming Scottish parallel-universer 
+         MILLER LAU (6.30pm, Wed 2002-09-09, free). The store then 
+         looks to the lighter side of September 11th when fantasy 
+         spoofer ROBERT RANKIN marks the anniversary by signing copies 
+         of his "fantastic new book", "The Hollow Chocolate Bunnies of 
+         the Apocalypse" (6.30pm, Wed 2002-09-11, also free).
+         http://www.caextreme.org/
+           - get in for nothing if you bring your own "Discs Of Tron"
+         http://www.borders.co.uk/Eve/OxfS/CH.htm
+                  - Mon event hosted by star of XCom2002, Pat Cadigan 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         We stand on the shoulders of giants, that we may grasp
+         further than their reach. The HARRIXOS operating system was
+         an inspiration to developers everywhere when we
+         pre-announced it in November 1999. But near-perfection can
+         still be trumped, and the torch of OS trailblazer now looks
+         to pass to a younger contender. NUCOS, a HarrixOS-like
+         operating system, is a kernel, shell and I/O system
+         currently building for Wintel machines. Its primary
+         academic advantage over the equally original HarrixOS, as
+         the researchers at www.memepool.com note, is downloadable
+         code. Originally written as a substrate above the QBasic
+         environment of Windows, attention is now being paid to
+         refactoring the NucOS kernel to allow cross-platform
+         porting: Jordan, principal architect, is still having some
+         problem converting the idiosyncratic IF...THEN construct
+         across to Perl. This week, that showstopper was addressed:
+         expect a Cambrian explosion of NucOS framework extensions to
+         follow. It is available at Sourceforge, home of many equally
+         promising projects.
+         http://nucos.sf.net/
+                                          - abstract of project goals
+         http://nucos.sourceforge.net/nucos_kiwi.pl
+                          - full Perl source (licensed under the MPL)
+http://web.archive.org/web/20011004011213/http://www.harrixos.co.uk/about.htm
+            - perhaps a little competition will encourage both teams?
+         http://www.ntk.net/1999/11/26/#TRACKING
+                                             - a portal to the future
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         somehow doesn't sound quite like "HOTMAIL Member Services" to 
+         us: http://www.ntk.net/2002/09/06/dohfake.gif ... one year on, 
+         proposed high-rise defence systems range from "Sound waves" 
+         "to repel flying objects" ("Safety" at http://www.wtc2002.com/ 
+         - needs Flash, sorry) to a top-floor religious centre 
+         "dedicated to unity amongst the people and religions of the 
+         world": http://www.londonbridgetower.com/benefits_tourism.html 
+         ... brings considerable experience of what bad guys look like: 
+www.corporate-ir.net/ireye/ir_site.zhtml?ticker=VISG&script=410&item_id=330130
+         ... ARIEL SHARON checks out Hollywood, Fl retirement homes: 
+http://www.sun-sentinel.com/news/local/southflorida/sfl-sshouse30aug30.story
+         ... seemed like a good idea: http://www.parisbeckham.com/ ... 
+         these "review anything" sites are threatening to get out of 
+         hand: http://www.mouthshut.com/readreview.php?rid=25925&r=1 , 
+www.dooyoo.co.uk/internet/internet_sites/the_dooyoo_redesign/_review/389786/
+         ... ah, but http://www.drunkgamers.com/switch0001.shtml could 
+         play Java games: http://www.urban75.org/useless/glider.html 
+         ... "couldn't-make-this-up" dept - the "Jenga" WTC memorial: 
+         http://www.ascensioncatholic-cleveland.org/911%20Memorial.htm ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Trudie "Mrs Sting" Styler gets namechecked in the latest 
+         of Harry Enfield's meticulously crafted "Kevin the teenager"-
+         style characterisations, CELEB (9pm, Fri, BBC1), while 
+         simultaneously appearing in FRIENDS (9pm, Fri, C4)... Arnie 
+         actioner ERASER (9.30pm, Fri, ITV) famously features a railgun 
+         whose muzzle velocity "approaching the speed of light" would 
+         propel the shooter several miles into the air... and comedy 
+         showbiz magazine BO' SELECTA (10.30pm, Fri, C4) is presented 
+         by E4's Avid Merrion, aka unknown comedian Leigh Francis... 
+         Jennifer Connelly gets molested by Timothy Dalton in THE 
+         ROCKETEER (6pm, Sat, C5)... RUSH HOUR (8.15pm, Sat, BBC1) gets 
+         its second showing since Christmas... and Arnie returns in 
+         nuclear family nonsense TRUE LIES (10.20pm, Sat, ITV) - 
+         contrast with gripping real-life Harrier action in the last of 
+         these repeats of DECISIVE WEAPONS (8.30pm, Mon, BBC2)... "Not 
+         Another Teen Movie" inspiration SHE'S ALL THAT (9.20pm, Sat, 
+         C4) nonetheless has quite a good dance scene... apparently 
+         there's some sort of lesbian subtext to Gina Gershon gangster 
+         thriller BOUND (12.30am, Sat, C4)... while a young Sarah 
+         Jessica Parker pops up in relativistic kiddie sci-fi FLIGHT OF 
+         THE NAVIGATOR (1pm, Sun, BBC1)... three very different views 
+         of the challenges facing modern teenagers are provided by 
+         Oxford fly-on-the-wall COLLEGE GIRLS (9pm, Sun, C4), rip-
+         roaring "Invasion Of The Body Snatchers" clone THE FACULTY 
+         (10pm, Sun, C4), and Lara Flynn Boyle bonkathon THREESOME 
+         (10pm, Mon, C4)... STAR WARS EPISODE IV: A NEW HOPE (7.30pm, 
+         Tue, ITV) is presumably scheduled to help viewers get more of 
+         the jokes in SPACEBALLS (11.30pm, Tue, ITV)... though try not 
+         to miss the good bit at the beginning of SAVING PRIVATE RYAN 
+         (9pm, Tue, C5)... then there's plenty of archive September 
+         11th tragi-tainment for your Public Enemy "911 Is A Joke" 
+         remix on Wed, surreally interspersed with the likes of LIZ 
+         HURLEY'S BRAINS (9pm, Wed, C4), SEVEN DAYS THAT SHOOK THE 
+         SPICE GIRLS (9pm, Tue, C4), and three films by designer posers 
+         Tomato in SHOOTING GALLERY (from 1am, Thu, C4)... 
+         
+         FILM>> Bill "Aliens" Paxton directs himself in the "Texas 
+         Chainsaw Massacre"-esque religious maniac domestic horror 
+         FRAILTY ( http://www.screenit.com/movies/2002/frailty.html : 
+         An older boy mentions he'd do anything to see the "t*ts" of 
+         the Daisy Duke character on the old TV show "The Dukes of 
+         Hazzard"; it's possible some impressionable kids/teens could 
+         get the idea to kill in the name of religion)... Doug 
+         "Swingers" Liman directs Matt Damon and Franka "Run Lola Run" 
+         Potente in "Memento"-lite amnesia thriller THE BOURNE IDENTITY 
+         ( http://www.capalert.com/capreports/bourneidentity.htm : 
+         drinking to soothe nerves; armed military maneuvers to 
+         capture; gaping face kissing while in underwear stripping, 
+         then panning away to clearly imply intercourse)... the 
+         identity confusion continues in bizarrely semi-modernised 
+         Brit-made Wilde adaptation THE IMPORTANCE OF BEING EARNEST 
+         ( http://www.capalert.com/capreports/import-earnest.htm : 
+         suggestion to commit adultery; a flash scene of a female rear 
+         getting a tattoo)... and, following Feltz's appearance on 
+         "Shooting Stars", it's Vanessa Feltz, Vic Reeves and Bob 
+         Mortimer - together again! - in the last of Shane Meadows' 
+         "Nottingham" trilogy, ONCE UPON A TIME IN THE MIDLANDS 
+         ( http://www.bbfc.co.uk/ : Contains strong language)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+             "an online novella [...] about an anti-globalisation 
+         campaigner who abandons direct action in favour of protesting 
+                              via the internet"
+              http://www.independent.co.uk/story.jsp?story=329314
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

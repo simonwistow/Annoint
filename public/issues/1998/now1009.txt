@@ -1,0 +1,310 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____09/10/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+
+           "Today, we are declaring war on software piracy.
+              The message is clear: Don't copy that floppy."
+      - president manque AL GORE, on another distracting threat to the US
+         ...CD-ROMs, Zip drives, the entire iMac range still fair game
+            
+
+                                >> HARD NEWS <<
+                                it barely moves 
+
+         Over UKP500,000 of DVDs were taken from an Essex laserdisc
+         store last week - and the organisation we'd apply the word
+         "suspect" to is the FEDERATION AGAINST COPYRIGHT THEFT.
+         According to the Basildon Evening Echo, police seized
+         "imported items which are either banned in this country or
+         are in an uncertified format" - in other words the US market
+         Region 1 DVDs which everyone has been buying until the
+         official launch of UK Region 2 systems next week.
+         Coincidence? Surely not. FACT apparently plan to prosecute
+         on criminal charges of copyright infringement (ludicrously,
+         outside their home territory, legitimate Region 1 DVDs are
+         regarded as pirate copies), and for selling films that
+         haven't been certificated by the BBFC (presumably much too
+         busy finishing Carmageddon 2). Inexplicably, FACT seem to
+         have tolerated *exactly the same situation* among imported
+         video games for some time now, though - on the other hand -
+         legal UK games don't suffer from "compression artefacts",
+         "white spots", and "peoples' faces going the opposite way to
+         their heads", as some Region 2 DVDs appear to.
+         http://www.dvd-debate.com/ (see under "October 1st") 
+                   - not quite the "extra footage" we were hoping for
+         http://wkweb5.cableinet.co.uk/rob.woods/modchips.htm 
+           - "Region 2", "Airstrip One" - same shit, different decade
+
+         Come into my parlour, says the spider to the... other
+         spider. Why did LYCOS feel it had to spend $83 million
+         buying WIRED DIGITAL, when their own patent lawyers say that
+         the only profitable bit of it - HotBot - is in breach of
+         Lycos's own search engine patents? We reckon that, like
+         almost everyone else connected with the last days of Wired
+         (including us), they're just doing it for revenge. For that
+         "Wired: Inktomi, Tired: Lycos" dig in Wired 3.12. For 4.09's
+         prophetic recommendation to sell Lycos short ("The search
+         engine market is ripe for disaster"). For... oh, what's the
+         use. You can do Hotbot searches for "Lycos" as well as we
+         can. Let's all just wave goodbye with a suitably apt
+         pull-quote from issue 2.06, out the month Lycos, Inc was
+         formed (and Wired ran a big blurb on Yahoo): "Most things
+         people do", wrote Gary Wolf, "shouldn't be remembered.
+         Maybe forgetting is good." Grope for the snooze button, 
+         WiReD, and wave goodnight.
+         http://www.hotwired.com/webmonkey/98/40/index3a.html
+                        - "time to look at your job-hunting strategy"
+         http://www.wired.com/cocktail/
+                                                   - or hit the booze
+
+         They're baaack. Just as you'd forgotten about that
+         long-promised crypto legislation, the old familiar faces
+         begin to make those old, muffled grumblings. DTI Minister
+         BARBARA ROCHE announced her enthusiastic - but vague -
+         support for e-commerce this week, which is traditionally a
+         prelude for some monstrous error or another. Watch closely
+         then for more strange hints leading up to Monday 19/10/98's
+         ICX conference, the moment voted most likely for the new
+         proposals to be revealed. As befits such an important new
+         law, the consultation period would have to be jammed into
+         November, and a Draft Bill pumped out by December to get it
+         into next year's legislative session. Which means you'll
+         have to act fast if you want to spot those flapping "Access
+         for Law Enforcement" provisions hanging out of the bill's
+         baggy pants.
+         http://www.icx.org/icx/events.html
+                                             - go Hutty! go Anderson!
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                  
+         IMPERIAL got *their* Sun Ultras nicked last month - who *is*
+         this criminal mastermind?... is DEMON's technical department
+         empty yet?... just when we sort out a server for BACKSPACE,
+         everyone tells us evil property developers are throwing them
+         out of their space anyway... COMPUTER ACTIVE rolls out
+         *another* huge ad campaign, slashes cover price - not quite
+         what you'd expect from the "UK's leading computer
+         magazine"... PSYGNOSIS close Manchester office in
+         "restructuring"... ZIFF-DAVIS promise 10% workforce cuts
+         (Barry! Barry!)... NETLY NEWS becomes "Digital Daily"
+         (rumours of Need To Know becoming Needily Nudity unfounded)...
+         MECKLERMEDIA falco'd by Penton... N2K falco'd by CDnow (can
+         we have the domain please?)... NEWS24 faking Stephen Hawking
+         endorsement... NOVELL says they're "not competing with
+         Microsoft" - you got that right... Riven, Starship Titanic
+         and MindGym all slow enough for elderly BAFTA judges to
+         understand... 
+         
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         When we read that BRUCE STERLING wanted to gather together
+         artists to fight for future of the planet, we were looking
+         forward to an excellent Running Man-cum-Golgafrincham-B-Ark
+         bloodfest, with us technical sorts chuckling in the corner
+         until our leader told us it was okay to come out.
+         Worryingly, Mr Sterling seems to be sincere. He will have to
+         be destroyed. In the meantime, expect more artistic
+         protests along the line of this weekend's XFM demo, where
+         crowds of alternative culture lovers, furious at new owner
+         Capital FM's wanton disregard for their playlist, will
+         cause havoc the likes of which has not been seen
+         since the Campaign for Unmetered Telecomms riots. So that's
+         outside CapitalFM, Leicester Square, 1400GMT, 10/10/98.
+         Next stop - global warming!
+         http://www.well.com/conf/mirrorshades/viridian.html
+         - don't worry, fans. It's just a clever ruse...
+         http://www.netcomuk.co.uk/~nsheff/xfm/
+         - if it's your birthday, you could smash postmodernism!
+         
+         But if cyberpunk's dead, we're hopeful that JEFF NOON was
+         far enough away from the implosion to survive. Sure enough,
+         kittlings, the Mancunian allergist is on the road again,
+         with his first primarily non-Vurt book. PIXEL JUICE, Mr Noon
+         says, is definitely not "one of those rubbish collections of
+         old articles", with electric haiku, homo karaoke and
+         junior pimp being just a handful of the chapters we haven't
+         read yet. Catch him reading his words, out loud, at
+         Forbidden Planet, Saturday 10/10/98, 1300GMT.
+         http://where.com/~angel/Noon/
+         - it's not proper sci-fi until he does the technical manual
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Hey, that WINZIP's great, isn't it? I've been using mine for
+         years... you too? Really? So you won't mind me asking you
+         for YOUR REGISTRATION NUMBER, then? Up against the
+         wall, this is a FACT bust! What's that? You were waiting for
+         the latest version? With a bunch of ugly icons, but a
+         convenient 'Expand to folder' shortcut? Hmm. Well, okay.
+         But remember, you've only got 21 days on that evaluation
+         version. Has it got an annoying reminder built in? Why,
+         yes, it has - a little dialog that pops up every time you
+         use it. Why do you ask?
+         http://www.winzip.com/
+                            - these DVDs, officer? Perfectly innocent
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         http://www.geocities.com/WestHollywood/3906/apple.jpg - is
+         this the portable consumer product we've heard so much
+         about?... http://www.hack.net/ - oh go on, they're asking
+         for it... "I find your lack of pants disturbing" -
+         http://www.powerup.com.au/~jdc/pants.htm ... looks like this
+         whole sixdegrees thing is GETTING REALLY TEDIOUS... Is
+         Prince Charles The Antichrist? (requires Java, cup of tea)
+         http://www.prophecyhouse.com/ ... one for our many AOL
+         readers: if you phone AOL and say you're cancelling to go to
+         Dixons, they'll give you a free month's access... Jeff
+         Minter "busy developing entire system around more
+         psychedelic version of Tempest" - yup, it's another GAMES
+         ONION: http://www.nationalgamereview.com/ ... a *very*
+         external floppy drive - http://www.ohmslaw.com/robot.htm ...
+         http://www.rips.com/ ... unfortunate URL choice of the year -
+         http://www.rightsexchange.com/ ... self-defeating Trojans at
+         http://www.waste.org/~oxymoron/pingpatch.cgi ... wonder
+         what tastes more disgusting - Salon Magazine Coffee, or
+         Benson & Hedges Coffee?... Senator Hatch: anti-trust,
+         pro-hummable tunes - http://www.hatchmusic.com/ ...  
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> we still think that Wallace and Gromit could beat up
+         MTV claymation import CELEBRITY DEATHMATCH (11.05pm, Fri,
+         C4)... and a good argument for a Cthulhu spin-off series in
+         Lovecraft compilation NECRONOMICON (1.15am, Fri, C4)... big
+         kids up and down the land will be hiding behind the sofa for
+         zany, irreverent etc BLUE PETER NIGHT (6-7pm; 8.55-11.05pm,
+         Sat, BBC2) - oops, sorry, wrong cult TV cliche... we do hope
+         it wasn't Morgan Freeman passing inside info to Kevin Spacey
+         to further complicate the drizzling nightmare of SE7EN
+         (9.05pm, Sun, BBC1)... at last, another zany, irreverent etc
+         look at the week's news, but the amiable idiots running
+         STUFF THE WEEK (11.40pm, Mon, ITV) are probably breathing
+         easier now they're not up against the erratically amusing
+         but respectably slick 11 O'Clock Show... an extraordinarily
+         camp Jeremy Irons sets Bruce Willis, Samuel L Jackson
+         ridiculous puzzles, not least of which is to extract some
+         coherent storyline from DIE HARD WITH A VENGEANCE (9pm, Tue,
+         ITV)... you kind of hope that Charlie "the not very funny
+         one from The Fast Show" Higson is going to do all the
+         interviews in his new movie series KISS KISS BANG BANG
+         (11.05pm, Tue, C4) like the "Ah, Ted" sketch - the title is
+         the Japanese name for James Bond... why should C5 have all
+         the fun, asks C4, with its new 3-part series on the sexual
+         revolution or something, explosively titled SEX BOMB (9pm,
+         Wed-Thu, C4) - or is it another Chris Morris spoof?... if
+         it's the same "eyes in the back of the head" nanotech repeat
+         of THE OUTER LIMITS (11.15pm, Wed, BBC2), then it's truly
+         the worst The Fly rip-off of all time... and surely new ITV
+         consumer affairs show WE CAN WORK IT OUT (7.30pm, Thu, ITV)
+         must be tempted to tackle whether viewers of BBC's Watchdog
+         are really getting what they expect, considering almost
+         every edition is followed by an upheld complaint by a
+         featured company over its unfair treatment on the show...
+
+         FILM>> you're surrounded by clever plotting, strong
+         performances and an actual satrical edge - but in the end
+         THE TRUMAN SHOW (imdb: morality / boat / insanity /
+         mother-son / car / tearjerker / traffic-lights / ego /
+         small-town / identity / movie-studio / reality / god /
+         bridge / futuristic / fantasy / crazed-producer / storm /
+         performance / simple-man / rain / 1990s / media-hype /
+         relationship / bravery / father-son / original / betrayal /
+         hidden-camera / prison / imprisonment / vending-machine /
+         pursuit / adoption / product-placement / blockbuster /
+         revenge / producer / chase / escape / tv / corruption /
+         surreal / beach / fake-death) just turns out to be a big
+         Hollywood movie after all! Plus, we're convinced that the
+         www.photomosaic.com guy fiddled the edges on the posters,
+         possibly after not getting image approval from Carrey (or
+         his agent)... plenty of what www.screenit.com calls "Tense
+         family scenes" in above-average Merchant Ivory period
+         costume drama A SOLDIER'S DAUGHTER NEVER CRIES (imdb:
+         based-on-novel), though this time, it's the period costumes
+         of Paris and the USA in the 1960s!... and Tinseltown
+         Cinderella Drew Barrymore gets her big break in fairy-tale
+         re-telling EVER AFTER (imdb: leonardo-da-vinci / cinderella)
+         - better than you might think, with some almost-Princess
+         Bride elements, but not quite enough "Leonardo Da Vinci"...
+
+         EDIBLES INTERNATIONAL>> there's little to tempt the UK
+         palette in the way of new confections, what with NESTLE's
+         not particularly ace VENTURA ("The Chocolate Covered
+         Bubblegum Chew Bar"), and the revolting "CHUNKY" - yet
+         another desperate attempt by CADBURY'S to come up with a
+         Christmas Creme Egg, with truffles and toffee in it... so,
+         why not ask your US friends to send over a box or two of
+         official SOUTH PARK CHEESY POOFS? - like cheesy Wotsits, but
+         with a coarser texture... also Stateside, libertarian sf
+         author (aren't they all?) Victor Milan has been warning of
+         the MCDONALDS Y2k-style "XX billion burgers served" bug -
+         only two digits on the signs and they're due to hit 100 any
+         day now... still, not quite as scary as the Dawkinsburgers
+         at http://www.brunching.com/toys/toy-hamburger.html ...
+         JAPANESE KEBAB fan site http://www.hh.iij4u.or.jp/~arg/ acts
+         as a powerful warning against mixing too many cuisines, so
+         you could stay here and look forward to exotica like FRED
+         FRUITY CHEESE SPREAD (a "natural soft cheese strawberry
+         flavoured product"), KP/BRANNIGANS DELICRISPS ("a thicker,
+         harder eat with an appetising darker colour"), or ORIENTAL
+         EXPRESS NOODLE POTS, which aren't plastic tubs but genuine
+         US sitcom-style cardboard cartons (that we've never been
+         able to find when we're actually in America)... we want:
+         http://www.lightvision.com/ ... and finally, this
+         over-helpful shelf-talker seen in MARKS AND SPENCERS: "Did
+         you know that Whole Milk is naturally 95 per cent Fat Free?"
+         Well, thanks for sharing, M&S, as well as for inadvertently
+         (or deliberately?) revealing that all those "95 per cent fat
+         free" products are at least as fattening as whole milk...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "Falco getting out of hand"
+        http://www.seqair.com/FlightTest/KillYourself/KillYourself.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+
+
+
+
+
+
+
+
+
+
+

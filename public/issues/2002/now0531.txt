@@ -1,0 +1,291 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-05-31_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "'To start charging for the live stream is an insult,' wrote
+         Chris Gullick, who said the standard of this year's internet
+         was no better than that of last year's..."
+news.bbc.co.uk/hi/english/entertainment/new_media/newsid_2010000/2010455.stm
+                     - internet, as a whole, "could do better". See me.
+
+
+                                >> HARD NEWS <<
+                                calling all 802s
+
+         Help! NTK's overly-previewed fifth birthday present, the
+         NTK/MUTE EXTREME COMPUTING FESTIVAL OF INAPPROPRIATE
+         TECHNOLOGY slouches toward the THE CAMDEN CENTRE (near Kings
+         Cross station) to be born next weekend - but we need, as ever,
+         some expert assistance. We'd love to feed hungry attendees and
+         stallowners 2Mbp/s of delicious 802.11'd bandwidth (rather
+         than stale ISDN fare) for the duration of the festival. But to
+         do so would currently involve breaking the laws of physics -
+         our nearest CONSUME node is only a few hundred yards away, but
+         it's line-of-brick-buildings, rather than line-of-sight, so
+         that's out. Unless - you can help. If you have broadband
+         connection, can see the Camden Centre from your window, and
+         wouldn't mind sharing for the weekend, we'd like to speak to
+         you. Or do you know any - or perhaps are a - London student
+         based in HUGHES PARRY HALL, CARTWRIGHT GARDENS? High up? Who
+         wouldn't mind helping us relay a signal between two 802.11
+         stations? Or maybe you have some kind of portable aerial tower
+         in your garage? And, hey, while we're at it, anyone like to
+         help us set up this *insane* WiFi craziness? If it works, it
+         promises to be one of the unlikelier (and therefore most
+         impressive) hacks at the con - and given the current roster,
+         that's saying something.
+         http://www.streetmap.co.uk/newmap.srf?x=530020&y=182703
+             - video projectors, Sega Saturn multitaps also appreciated
+         http://www.consume.net/nodedb.php
+                                                 - postcode is WC1H 9BT
+         http://www.xcom2002.com/
+                   - although the circuit-bending guy may yet clinch it
+
+         But this weekend celebrates a very special anniversary for
+         Britain's most beloved institution. Yes, according to our
+         uptimes, gate.demon.co.uk started taking incoming calls on
+         June 2nd 1992 - beginning the first decade of personal UK
+         internet access. That said, we may be wrong, as there aren't
+         any logs that go that far back. As though helping to cap
+         that decade of freedom, the EUROPEAN PARLIAMENT have decreed
+         that such poor record-keeping will no longer be a problem.
+         From now on, governments can force ISPs to keep permanent
+         logs of your Web movements, and record your mobile phone
+         cell position every minute. In return: all spam will be
+         opt-in. Oh, hoorah. Let's see which gets implemented in
+         national legislation first, shall we?
+     http://www.guardian.co.uk/internetnews/story/0,7369,725204,00.html
+                                      - sold out for a mess of spammage
+
+         The transformation of librarians as underpaid drudges -
+         preserving the infosphere while straightfacedly answering
+         the sniggering requests of impertinent schoolboys - into the
+         heroes of the digital age is near complete. But there's
+         disturbing evidence this week that even ALEXA, home of the
+         most heroic librarian of them all, BREWSTER KAHLE, is not
+         above nodding. For a few days this week, Alexa's Amazonian
+         Web ranking system became bizarrely disorganised. Those
+         wanting to find out more on #1 site yahoo.com discovered it
+         was really called "Bonnie-Jill Laflin" - described by Alexa
+         as a "a punk rock band from Northeastern Ohio". Geocities
+         became "Mashkoki", a site devoted to "circusanimatie en
+         paranormale dingen". And Netscape's precious Netcenter is
+         itself paranormale dingened into an "additional component of
+         the Communicator suite". Discarding the more outlandish
+         explanations - such as Alexa's software not coping with
+         virtual domains sharing the same IP address - we're left
+         with only one clue. Bonnie-Jill Laflin is *not* in fact a
+         punk band, but NBA cheerleader of the year 1993-1994. Have
+         those schoolboys been messing around with the master
+         librarian's cardfile index again?
+         http://www.ntk.net/2002/05/31/dohyahoo.png
+                                                   - oh very funny, boy
+         http://www.bonnie-jill.com/bio.html
+                                                         - popular girl
+         http://www.ntk.net/2002/05/31/dohgeo.png
+           - hey, do you think the internet archive will preserve this?
+         http://www.ntk.net/2002/05/31/dohns.png
+                          - and it's not like anyone ever used Composer
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+http://news.bbc.co.uk/hi/english/entertainment/film/newsid_2012000/2012272.stm
+         - perhaps goes some way to explaining "120 Days Of Hogwarts":
+         http://www.ntk.net/2002/05/31/dohsod.gif ... still, Potter's
+         been through a lot: http://www.ntk.net/2002/05/31/dohnam.gif
+         ... puerile inadvertent GOOGLE search results of the week:
+         http://www.google.com/search?q=dylsexia , "accuntability",
+         "pubic services" and - of course! - that classic <HEAD> tag
+         http://www.google.com/search?q=type_Document_Title_here ...
+         share the trauma: http://www.ntk.net/2002/05/31/dohcar.gif
+         ... in other auto news - Price Of New Cars Continues To Fall:
+         http://www.ananova.com/business/story/sm_579387.html (May 1st)
+         - yet 1 day later: Survey Says New Car Prices Are Rising:
+         http://www.ananova.com/business/story/sm_580034.html (May 2nd)
+         ... "Stonehenge" of the week - win a 15-foot Flat Panel VDU:
+         http://www.packardbell.co.uk/specialevents/survey/intro.asp
+         ... affirmative action - EU seems to prefer certified "gays":
+         http://www.cctec.com/maillists/nanog/current/msg03233.html ...
+         "Can't stop now", explain SUN, despite evidence to contrary:
+         http://see.sun.com/cgi-bin/gx.cgi/mcp?q=STNdcTEqcdpHy ...
+         alternative school sport for the new, earthier Harry Potter:
+         http://www.ntk.net/2002/05/31/dohpoo.gif ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Not much about it on their characteristically decentralised
+         website, but word has it that wireless networkers CONSUME.NET
+         are holding some sort of community progress report on Sun
+         (from 3pm, 2002-06-02, Limehouse Town Hall/Boxing Club, London
+         E14, free tea but bring your own food and drink if you want to
+         picnic - not to be confused with the SPACE HIJACKERS' Pirate
+         Party at the same venue on the previous day). Also in London
+         - sorry - is next week's CYBERSONICA DIGITAL MUSIC FESTIVAL
+         (from Tue June 2002-06-04, the ICA, around UKP55/day), which
+         runs the gamut of modern music all the way from "digital noise
+         and cut-up" to "idiosyncratic electronica". Speaking of which,
+         there are rumours of an "alternative jubilee" street party
+         somewhere in the vicinity of THE FOUNDRY, 84-86 Great Eastern
+         Street, London EC2, featuring the KLF and Chumbawumba, but no-
+         one seems to know when it's on, so we do hope it's not like
+         that fireworks night thing in November 2000 when we just
+         trudged round St James' Park in the rain.
+         http://consume.net/twiki/bin/view/Main/Meetings
+                                 - vs http://www.twenteenthcentury.com/
+  http://www.cybersalon.org/cgi-bin/cybersalon/events.cgi?articleid=224
+                          - featuring "DJ Spooky", "Bomb 20" and "Pole"
+         http://www.net-media.co.uk/awards/
+               - might just be time to get an entry in for this as well
+         http://www.newstatesman.co.uk/nma2002awards.htm
+         - hey we like Mike Butcher, but he's an "Online Community" now?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         It's not very WikiWiki, as they say, not very wabi-sabi, to
+         announce version 1.0; but that's what the people behind
+         MoinMoin, ze German Python wikiclone has gone and done. In
+         terms of features and future, it's fancy enough for the
+         integer. The standard nitpicks that simpler Wikis labour
+         under have been addressed  - version control, user
+         preferences, nested directories, better markup are all
+         there. There's a neato plugin system for in-page macros,
+         wiki-wide actions, and even new parsers. The MoinMoin
+         developer community have mapped out some useful
+         extensions with this already - including a blogging utility,
+         calendar functions, and HTML insertion. There are a few
+         rough edges - the tempting XML-RPC interface is only
+         partially supported, and the access controls and "mail on
+         page change" features are a bit flakey. But then that's
+         what the other integers are for.
+         http://c2.com/cgi/wiki?WabiSabi
+                                              - wabi-sabi in 1K or more
+         http://moin.sourceforge.net/
+                              - moinmoin means "good morning" in German
+http://twistedmatrix.com/users/jh.twistd/moin/moin.cgi/MoinMoinEtymology
+                                                          - or does it?
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         BT takes the hint: http://www.ntk.net/2002/05/31/mr_pissed.gif
+         vs http://unklerob1.tripod.com/ ... THE ECONOMIST's Warwick-
+         wannabes imitate "the ghost in 2000AD's Mean Machine Angel":
+http://www.economist.com/printedition/displaystory.cfm?Story_ID=1143583
+         ... hey, with an Uzi, getting free food and beverages really
+         isn't a problem: http://www.frontsight.com/1day_smg_course.htm
+         ... kind of like http://www.thespamletters.com/ , but funny:
+         http://www.savannahsays.com/kizombe.htm ... When Audiophiles
+         Attack, pt2 - different brands of CDRs and hard drives "sound
+         different": http://www.johnvestman.com/digital_myth.htm ...
+         mild-mannered ambient genius DJ SHADOW lashes out at HOTMAIL-
+         using fools: http://www.djshadow.com/merch/ ... Christianity
+         unwittingly invites comparisons with cheap conjuring tricks:
+         http://www.pick-me.com/specialeffects/firebible.htm ...
+         imagining usability gurus on the toilet #1 - Donald Norman:
+         http://www.jnd.org/dn.mss/ToiletPaperAlgorithms.html ... what
+         those TEMPEST investigators get up to in their spare time:
+         http://www.cl.cam.ac.uk/~mgk25/iso-paper.html ... misses out
+         "is your HTML source full of astonishingly posh-sounding
+         comments?": http://www.normanberesford.com/commonTest.asp ...
+         targetting that famously lucrative "faceless dolls" market:
+         http://www.shykids.co.uk/shykids.asp ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "Big Brother" isn't just watched by women and gay men,
+         Channel4 implies, sandwiching the show between V GRAHAM NORTON
+         (10.35pm, Fri, C4) and a new series of WILL AND GRACE (9.30pm,
+         Fri, C4)... before going on to imitate C5's March 2000 "Queen
+         Day" http://www.ntk.net/index.cgi?b=02000-03-10&l=197#l with a
+         themed weekend starting WHEN FREDDIE MERCURY MET KENNY EVERETT
+         (9pm, Sat, C4)... your bonus bank holiday movies begin with
+         arguably Steve Martin's funniest film, THE JERK (11.50pm, Fri,
+         BBC1) and original Steve McQueen amorphous monster mash THE
+         BLOB (1.45am, Sat, C4) - loosely remade as the mildly
+         disappointing GHOSTBUSTERS 2 (5pm, Tue, C4)... there's a
+         chance to shout out Harrison Ford's original voiceover in the
+         largely unimproved BLADE RUNNER: THE DIRECTOR'S CUT (9pm, Sun,
+         C5) - featuring unicorn footage from Mia "Ferris Bueller" Sara
+         fantasy LEGEND (4.50pm, Mon, BBC2)... and another showing for
+         tedious laserdisc videogame inspiration FIREFOX (3.10pm, Mon,
+         ITV)... there are more laughs in unintentionally hilarious
+         post-apocalyptic "Mad Max" parody THE POSTMAN (9pm, Tue, C5)
+        http://www.suntimes.com/ebert/ebert_reviews/1997/12/122502.html
+         than the equally interminable STAR TREK: THE MOTION PICTURE
+         (4.10pm, Tue, BBC2)... Patricia Arquette provides a
+         surprisingly coherent second sequel in NIGHTMARE ON ELM STREET
+         3: DREAM WARRIORS (10pm, Wed, C5)... while the 90-minute docu
+         THE HUNT FOR BRITAIN'S PAEDOPHILES (9pm, Thu, BBC2) "contains
+         disturbing images", which may come as something of a shock for
+         anyone trying to tune in to jingoistic feel-gooder THE ITALIAN
+         JOB (8.25pm, Thu, BBC1) at around the same time...
+
+         FILM>> Guy "Memento" Pearce's chronological inconsistencies
+         continue in unnecessary CGI remake travesty THE TIME MACHINE
+         ( http://www.capalert.com/capreports/timemachine.htm : massive
+         tattoos; unquestionable images of [Samantha Mumba's] upper
+         anatomy through clothing, repeatedly; brief glimpses of rear
+         anatomy, ostensibly male, repeatedly; at least seven victims
+         of dart impalement; speaking of evolution causing demon-like
+         creatures from man)... a web designer goes 6 weeks without sex
+         - don't they all? - in Michael "Heathers" Lehmann's "master of
+         your domain" crude Seinfeld knock-off 40 DAYS AND 40 NIGHTS
+         ( http://www.capalert.com/capreports/40daysand40nights.htm :
+         talks of masturbation, repeatedly; enticing to masturbate
+         and gestures of masturbation plus an episode of sounds and
+         extremity motions of masturbation; clothed erections,
+         repeatedly; rubbing the breast of Mrs. Butterworth on a bottle
+         of Mrs. Butterworth(tm) syrup; a sea of female breasts - vs
+   http://www.cndb.com/movie.html?title=40+Days+and+40+Nights+%282002%29 :
+         "then there is the computer generated dream where he is flying
+         through tits like they were rolling hills or something")...
+         otherwise it's Academy Award winner Cuba Gooding Jr, Nichelle
+         "Lieutenant Uhura" Nichols, Sisqo, and James Coburn - together
+         at last! - in anthropmorphic arctic animal adventure SNOW DOGS
+         ( http://www.screenit.com/movies/2002/snow_dogs.html : Demon -
+         a dog - suggestively raises his eyebrows toward a female dog
+         that flirtatiously bats her eyelashes back at him - we later
+         see that they have puppies together; we see Demon raise his
+         leg and urinate on a tree)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "more interesting/ less peculiar than Hari Kunzru"
+         http://www.infinitematrix.net/columns/sterling/sterling30.html
+               (and we said NTK *above* "the real Nathan Barley")
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.xcom2002.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

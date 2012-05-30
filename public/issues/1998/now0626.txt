@@ -1,0 +1,322 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____26/06/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+
+"[Blah blah] unorthodox positioning as a magazine 'not for everyone'.
+          This is still true today, of course - perhaps even more so
+          now that the 'uneducated' tastes of the mass market are so
+        sharply at odds with Edge's continued pursuit of excellence." 
+                                      - JASON BROOKS, ex-editor, Edge 
+                                                          oh fuck off 
+
+
+                                >> HARD NEWS <<
+                                   new shoes 
+
+         What does the British Net really need? That's right, another
+         committee. Having despatched the crypto debate with such
+         aplomb, BARBARA ROCHE and the wunderkinder of the Department of
+         Trade and Industry are now proposing an independent panel to
+         "investigate complaints over material on the Internet". The
+         body's brief will be confined to civil disputes - in other
+         words, copyright and libel. And how, exactly, will that
+         work? No-one knows; least of all the DTI, who it seems are
+         once again flying a kite to see who takes pot-shots at it.
+         Well, here's a few: one of the defences (we fervently hope)
+         against a libel charge is that you're telling the truth. So,
+         if the committee is supposed to decide what is libellous and
+         what is not, will it also have powers to investigate and
+         call witnesses? Or will it require that sites be shut down,
+         before they have their day in court? And if, as supportive
+         groups (like the ISPA and the Internet Watch Foundation)
+         claim, this is all to prevent ISPs being found liable by
+         third parties, then who is liable when a site is taken down
+         illegitimately? It's clear that the panel will act very
+         quickly if Sony fingers a warez site, but who does the
+         victim of a baaad decision appeal to?
+         http://www.dti.gov.uk/ 
+                            - we know! Let's have another committee 
+         http://194.250.50.200/ 
+                    - the Court of Human Rights, and it's a number?
+
+         In a unique example of unlocking the stable door
+         fractionally before the horse has been rendered into glue, a
+         US federal appeal court dropped the injunction on
+         Microsoft's Windows 95 this week - 48 hours before they
+         stopped selling it anyway. The Windows 98 launch party on
+         Thursday was a relatively subdued affair in comparison. In
+         comparison with anything. Bill Gates took the stage on 5PM,
+         San Francisco time, and ran through the list of new
+         improvements to the operating system. Then ran through it
+         again, slowly, in case anyone coughed.
+         http://www.news.com/SpecialFeatures/0,5,23471,00.html
+         - MS-DOS, Windows 3.11 and Win 95 make legal ancient history
+         http://www.zdnet.com/pcweek/news/0622/25egot.html
+                      - considering a move to Memphis? Not so fast...
+         http://hugin.imat.com/svlug/
+                                     - Linux kids getting tear-gassed
+
+         The European Space Agency and NASA have lost contact with
+         the SOLAR AND HELIOSPHERIC OBSERVATORY. SOHO was responsible
+         for the recent batch of Sol-based discoveries and beautiful
+         images - including sunquakes, comets crashing into the Sun,
+         and the only fart joke we've ever ran (NTK 05/06/98) and
+         solar tornadoes. While SOHO had finished its nominal two
+         year mission, the ESA had recently extended its funding
+         until 2011, in order to cover the expected peak in sunspot
+         activity. here's still a small hope for regaining contact,
+         but they've been trying for over 24 hours now. No joke here;
+         it's all a bit sad.  
+         http://sohowww.nascom.nasa.gov/
+              - although we *told* them not fly that close to the Sun
+
+         Oh, and almost everyone at Psion Software went off to work
+         for SYMBIAN, a new joint venture between Psion (40%), Nokia
+         (30%) and Ericsson (30%). With the benevolent nod of
+         Motorola, the new company will work on creating
+         WinCE-killing smartphones, based on Psion's properly
+         pre-emptive not-like-that-Microsoft-rubbish EPOC32 OS. The
+         partners, as is traditional in these alliances, spoke highly
+         of the open nature of their OS (not-like-that-Microsoft-rubbish)
+         - and then quickly stuck a free developers' kit on their 
+         Webserver, so that nobody could deny it.
+         http://developer.epocworld.com/
+         - oh, you want to run it on the Series 5? Two hundred quid, mate 
+         
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         NSA Chief tells US Senate that Y2K bug-fixers could be
+         employed by "a hostile nation" to *insert* bugs... EDGE
+         magazine's unorthodox pursuit of excellence this month
+         includes claim that Ridge Racer cabinet ran at 0.4FLOPS - an
+         incredible 4/10ths of a floating point operation per
+         second... new KEVIN SMITH film "will contain Star Wars
+         quotes"... fairweather freeware advocate DAVE WINER starts
+         charging for Frontier... author LUCY ELLMAN believes science
+         "escapist hobby for men not fully occupied with football"...
+         just as we're finally admitting that Nortel radio
+         interference story was dodgy, .NET and INTERNET MAGAZINE
+         start running it... @cix.co.uk, @well.com confer status -
+         says BBC's DAVID BRAKE (derb@cix.co.uk, derb@well.com)...
+         the inimitable RICHARD BARRY runs *fourth* ZDNET piece on
+         BT's penny ISP service - even though nothing has happened...
+         GATES richest man in world, uncovers Forbes Magazine...
+         CLIPPER chip crypto algorithms released to public: 24 hours
+         later, weaknesses exposed...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         By rights, they should be able to compress 10 times more
+         talk into the world's first MP3 SUMMIT from 8am, Thu
+         02/07/98 at UCSD, San Diego. Pre-registration costs a very
+         reasonable US$50 (the price of just a few "commerical" CDs),
+         and the credit-card form gives a fair idea of the target
+         audience: "Any suspicious transactions are immediately
+         reported... please act responsibly." Attendees include
+         musos, coders, lawyers (presumably hoping to shut the whole
+         thing down), and two portable hardware players. Someone
+         better tell T3, whose latest letters page contains the
+         informed editorial opinion that (p18) "we've not heard of
+         hardware devices... would have thought it... prohibitively
+         expensive".
+         http://www.mp3.com/conference/ 
+                     - delegates requested not to remove their "tags" 
+
+         In an auspicious conjunction unlikely to be repeated in our
+         lifetime, Glastonbury and the World Cup have safely removed
+         the most annoying footie- and hippy-zines at THE NATIONAL
+         SMALL PRESS FAIR this weekend. Visit the Waterloo Foyer at
+         the Royal Festival Hall this Saturday (27/6/98) between 1000
+         and 1730, and marvel at these early examples of homepages,
+         and the techniques that are still used to craft them.
+         Admission free. And of course there's no URL.
+        
+         Alternatively, if you want to transfer your valuable art &
+         craft skills the other way, you could always go along to the
+         ART SERVERS UNLIMITED day at the- Oh God, it's at the ICA.
+         Well, never mind. If you can make it, there's a discussion
+         panel at 1130AM on Thursday 4/7/98. They'll be talking about
+         how to set up public art spaces on the Net. From 2030,
+         you'll be able to listen to live mixing of various net.radio
+         feeds from across Europe. This will be in the bar. The
+         people will be lovely, and you'll have a good time, but
+         slowly, throughout the evening, you will grow angrier and
+         angrier. This will be because you are at the ICA, and
+         you'll be forced to watch very expensive technology being
+         pissed up the wall in increasingly dreary patterns. Tickets
+         will be 8UKP/6UKP. This will make you even angrier. Perhaps
+         you will consider torching the place. We will be there,
+         handing you the petrol can. Offering you a light.
+         http://www.newmediacentre.com/ 
+         - all art is quite useless. this Website, however, is pushing it
+        
+
+                                >> TRACKING <<
+                                net tucker man
+
+         The only annoying thing about the PERL FRIDGE MAGNET SET is
+         that there aren't enough "$" symbols and only two pairs of
+         curly brackets. Otherwise, it would be the perfect visual
+         editor for Perl. As it is, you'll just have to make do with
+         creating parsing Perl poems. As infinitely re-usable and
+         free form as the language itself, the set costs $17.50
+         (outside US) from that commune of outstanding techsmiths,
+         The Perl Journal.
+         http://www.tpj.com/tpj/poetry/ 
+                                   - Rapid prototyping for prosodists
+http://queue.ieor.berkeley.edu/cgi-bin/andryan/fridge/newpoem_j.pl?words=unix
+                   - Perl creating Java quoting Unix emulating fridge
+         
+         Almost worth scrabbling in that big cardboard box for your
+         old Nintendo handheld, with the launch of the delightfully
+         low-res GAME BOY CAMERA and Sticker Printer due here
+         10/07/98 (UKP 40, 50 respectively). If yours remains lost/
+         knackered, the COLOUR GAME BOY is slated for November (UKP
+         80) - or, for real head-jobs, there's the DATEL GAMEBOOSTER
+         (UKP 40, out in July), which plays GB carts on either the
+         PlayStation or N64. Obviously near-pointless, but how would
+         *you* go about building one: PSX emulates GB in software?
+         (And would Sony approve the CD?) Or just take the insides of
+         real GBs and feed the video in through the PSX i/o port?
+         http://www.harvard.co.uk/pressrel/nin/nin104.htm 
+                   - tragically, killer app Pokemon delayed till 1999
+         http://www.datel.co.uk/products/index.htm 
+                     - convert your "Action Replay" into PSX dev kit!  
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         TV NATION to return to C4... http://www.shon.ky/ ... Jolt
+         gets UK distributor... Mr Bunting's Experiment:
+         http://www.irational.org/biotech/ ... UNABOMBER has a
+         manifesto sequel, but publishers won't print it (put it on
+         the Web, Ted!)... putting thumb into thumbnails:
+         http://members.tripod.com/~sheerphallacy/indexthumbnails.html
+         ... Yahoo Internet Nolife: http://www.e-z.net/~ed1/yoohoo/
+         ... pronouncing WIRED MAGAZINE as "Why Read"... NTK
+         subscriber site alert! http://www2.prestel.co.uk/lwtcdi/ ...
+         following AT&T buyout, shares in NYSE quoted company TCI
+         rose 10%, Unfortunately, NYSE:TCI isn't the cableco: it's a
+         real estate company that shares the same initials... Jerky
+         Spice: http://www.znet.com/~dwhite/dance.html ... ENDSLEIGH
+         insurance state that running Linux on your PC *increases*
+         its value... new stuff at http://people.netscape.com/jwz/ 
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> the schedules go all "if... then...", depending who
+         decides to show the second-round World Cup stuff - so now you
+         can watch ENGLAND VS COLUMBIA (7.30pm, Fri, BBC1) like you
+         really have something at stake... cool f/x and occasional
+         safety tips fan the tedious embers of BACKDRAFT (10.30pm,
+         Fri, BBC1)... while John Peel and possibly the world's
+         worst chatshow host - Jo Whiley - wallow around GLASTONBURY
+         '98 (9pm and 11.15pm, Fri, BBC2)... Bad Taste/ Braindead/
+         Meet The Feebles director Peter Jackson wimps out with NZ
+         murder frolic HEAVENLY CREATURES (9pm, Sat, BBC2); Kate
+         Winslet plays - wait for it - a posh girl... Sunday goes
+         gangbusters with Bill Murray and De Niro in MAD DOG AND
+         GLORY (10.10pm, Sun, BBC2) - marginally more believable than
+         Pacino and Madonna in DICK TRACY (11.05pm, Sun, BBC1
+         optional)... it's good to talk, but chaffeuring hookers is
+         better, discovers Bob Hoskins in excellently grim MONA LISA
+         (10pm, Sun, C4) - like The Crying Game, with plot... and,
+         finally, from the home of the Mafia comes projectionist
+         weepie classic CINEMA PARADISO (12.45am, Sun, C4)... THE
+         MOTHERSHIP CONNECTION (2.35am, Mon, C4) looks at
+         African-Americans in sci-fi - like that funny bit in Chasing
+         Amy?... Coogan's run ends with the clarion cry: I'M ALAN
+         PARTRIDGE (9pm, Tue, BBC2) - then cleverly avoids
+         typecasting by voicing the car-obsessed AUTOEROTIC (2.40am,
+         Tue, C4)... tape the first bit and wipe Woody Allen's early,
+         sporadically funny TAKE THE MONEY AND RUN (12.15am, Tue,
+         BBC1)... cute Connected columnist Vanessa Collingridge
+         continues C5's ratings-driven porn trend with subtly-titled
+         docu SEX LIFE (9.50pm, Tue, C5)... it's final cut for Barry
+         Norman in repeated FILM 98 (12.30pm, Wed, BBC2) - if you
+         were too busy watching Anna Friel last Sun... springtime
+         for Mel Brooks in his last genuine comedy, THE PRODUCERS
+         (12.50am, Wed, BBC1)... while the real victims of "new
+         cruelty" sketch show BARKING (11.25pm, Wed, C4) have to be -
+         you've guessed it - anyone trying to watch it...
+
+         FILM>> yes, it's another Alien/ The Thing/ The Relic remake
+         - what d'you expect from a film called MIMIC? (imdb: sci-fi
+         / horror / thriller / virus / dissection / giant-insect /
+         epidemic / cockroaches / subway / shoes ) But, unlikely
+         bio-theory aside, it's quite a viable mutation... again, no
+         real stretch for Jennifer Aniston in soppy hetero-conversion
+         feel-gooder THE OBJECT OF MY AFFECTION (imdb: romance /
+         comedy / gay / based-on-novel / drama)... another My Bloody
+         Shirley Valentine for Julie Walters and Brenda Blethyn,
+         hitting Vegas for their last GIRL'S NIGHT (imdb: comedy /
+         drama)... PALMETTO (imdb: thriller / mystery) sounds like a
+         chocolate box selection - which'd be more interesting
+         viewing than Woody Harrelson and Elisabeth Shue in this flop
+         Florida noir... going to 'Nam worked for dad Martin Sheen
+         (Apocalypse Now), and brother Charlie (Platoon), but not
+         Emilio Estevez in family flashback effort THE WAR AT HOME
+         (MPAA rated: R for "a war-related shooting, an intense
+         sequence of violent threat, and for language")... 
+
+         SKIENCE>> More horse/stable door/bolting combos: The
+         Deutsche Forschungsgemeinschaft (DFG) has just announced
+         they've finished the computer models that will allow them to
+         predict when failures will occur in the wheels and
+         suspension of high-speed trains: the answer "about three
+         weeks ago" won't do, apparently... not content with basking
+         in Bjorn Borg's past glories, the Swedes have statistically
+         proved that our greatest contribution to Wimbledon - Dan
+         Maskell - was full of it: players aren't more likely to
+         fluff the next point after a double fault; new balls don't
+         help: cliche after cliche fails to scrape over the
+         mathematical net... an in-depth Cornell research study
+         reveals why eggs explode in the microwave (they do? let's
+         try)... maybe now they've discovered feathered dino fossils
+         in China, that whole birds<>dinos argument will finally go
+         extinct... get ready for history-making as REALLY BIG PDFs:
+         those nice folks at NASA's History Office have scanned all
+         the Apollo Press Kits:
+         http://www-lib.ksc.nasa.gov/lib/Archives/PressKits.htm
+         ... autonomous 'bot the size of a Greyhound bus to roam
+         America's highways filling in potholes - someone send it up
+         the M11, please... no contest for top new paper at
+         XXX.lanl.gov this month: "Causal Randomness, Complete Wave
+         Mechanics, and the Ultimate Unification of Knowledge"... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+         It is registered at the Post Office as "now powered by VIM".
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

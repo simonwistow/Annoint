@@ -1,0 +1,288 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-09-17_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The bespoke chip uses full 128-bit architecture
+         throughout, meaning you get not just a four-fold increase
+         in speed, but potentially a 2^96 increase in subtlety..."
+                 - king of understatement, STEVE BOXER, explains new
+                  Playstation 2 CPU, Telegraph Connected, 1999-09-16
+               ...yup, 2^96 (=79,228,162,514,264,337,593,543,950,336)
+                                        is *pretty fucking subtle*...
+      
+
+                                >> HARD NEWS <<
+                              munching quaaludes 
+
+         One week into his Net adventures, and it's still unclear
+         what kind of newbie TONY BLAIR is going to be. At the launch
+         of the government's new e-commerce push, he tapped
+         mournfully on a PC with just his index finger, spoke of his
+         "sense of humiliation" while watching Cherie use the Web
+         ("who are you talking to, darling?"), and promised the
+         nation he'd take a course. But then, just like a newbie, he
+         immediately started lecturing everyone on how it all should
+         work. Also rather typically, he seems to be trying a
+         *little* too hard to impress the old guard - especially with
+         his choice of the new "E-Envoy", Alex Allan -  ex-high
+         commissioner of Australia, ex-Demon user, and continuing
+         Deadhead. Very 1995 - but is he really one of us? Well, if
+         he isn't already, we reckon few blackmail notes regarding
+         the flagrant lyrics copyright violations on his Website
+         could "turn him", easy. Yeah, he's our warez king E-Envoy,
+         baby - and it freaks us out!
+         http://www3.clearlight.com/~acsa/ 
+                 - oh, my. those Well "pern" are going to lap this up
+         http://www3.clearlight.com/~acsa/songfile/HEYJUDE.HTM 
+                                      - lyrics.gov.uk! lyrics.gov.uk!
+         http://www.deja.com/=dnc/profile.xp?author=alex@acsa.demon.co.uk
+                               - Visual Basic on Windows NT? Oh dear.
+
+         Meanwhile, in the good old Elite universe, it looks like the
+         trading between the systems of BELL (Anarchist, some trade
+         in medicinal plants) and BRABEN (Feudal Capitalist, major
+         export: buggy releases of Elite sequels) has broken down
+         completely. At the alt.fan.elite HQ, just outside Lave,
+         co-creator David Braben has denied that he idly shot down
+         Ian Bell's CIX Web site when he thought no-one was looking.
+         On the contrary, he says, he was on a special mission to
+         *help* Bell by inquiring whether Bell still held his half of
+         Elite's copyright. He innocently asked Cix whether Bell
+         really did have the legal right to offer binaries of the
+         old game on his site, and - booom - suddenly the ISP was
+         sending in the Vipers. Nothing to do with him, honest. So
+         why didn't Braben contact Bell directly, instead of via Cix?
+         Braben reports that Bell could not be reached - he doesn't
+         reply to e-mail hails, apparently, and is currently living
+         in some sort of unnavigable Witchspace where normal contact
+         is impossible. Odd, given that it took us less than two
+         minutes (via Cix's own "show resume" feature) to get Ian's
+         phone number and ask him ourselves. Nope, Bell said, Braben
+         had never e-mailed him about this. And no, as far as he
+         knew, no personal approaches have ever been made. The first
+         he knew about the matter was when "incoming legal missile"
+         sirens started wailing. So, who's the fugitive, and who's the
+         honest trader? Or have they - as it seems to the wailing
+         Elite fanboys - all been replaced by Thargoid agents?
+         http://x24.deja.com/=dnc/viewthread.xp?AN=523059772
+                                    - talk very cheap at this station
+         http://www.iancgbell.clara.net/
+                                                   - Website in exile
+
+         Nice one BT, for managing to avoid any of those awkward
+         "major site security breach" headlines regarding the
+         WWW-to-SMS gateway at Genie , where for the best part of the
+         week, idle users could check out one another's messages by
+         just fiddling with the message numbers in the URL. You know,
+         you'd think that some of the cooler British cypherpunk
+         companies would be jumping up and down trying to publicise
+         this flaw. Oh, oh - but hold on: weren't those cooler
+         cypherpunk companies actually *working* on the contract?
+         Ooop.
+         http://www.genie.co.uk/
+                                                 - mentioning no nyms
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         "Can humans create life?" enquires SLASHDOT, apparently
+         unaware of step-by-step instructions on alt.sex.stories...
+         YAHOO ticker makes everything sound like terrific news
+         http://www.ntk.net/doh/990917wahey.gif ... QXL Website
+         announces share offer, falls over... more "accutate"
+         spellchecker needed at http://www.dyslexiauk.com/ ... "the
+         ideal Corporate Web Site usually contains approximately
+         6 pages, although this will differ according to the
+         corporations specific needs" reveals (page 3) of
+         http://www.weirperf.com/webdesi3.htm ... a little SIMPLER
+         than expected http://www.simple.net/ ... Pseuds Corner-ish
+         Wankometer-fodder http://www.augustone.com/company.htm ...
+         http://www.plagiarism.org/ steals cheat site meta-tags...
+         Amiga MCC FALCO - CEO Tom Schmidt explains: "Amiga was
+         never about a box. It was never about an operating system"
+         http://news.cnet.com/news/0-1006-200-120890.html - was
+         never "about to ship" either... 
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         You don't think that the SCRAMBLING FOR SAFETY folks had a
+         tip-off about the new Blair-led e-commerce publicity drive,
+         do you? No, we imagine there must be entirely different
+         reasons for dropping a new conference (Scrambling for Safety
+         3.5) straight into the path of the government. Thursday
+         morning, 1999-09-23 is the date: Whit Diffie, Nicholas Bohm,
+         Ross Anderson, as ever, are on the side of anarchist
+         dystopian crypto terrorists, while Patricia Hewitt MP and
+         Steven Pride of the DTI take the side of pseudo-fascist
+         privacy-smashing US-funded spooks. 
+         http://www.fipr.org/sfs35.html
+                                      - must be a maintenance release 
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         W3M is the rotationally palindromic acronym for text Web
+         browser "WWW-to-Miru" - Japanese for "See The Web". It looks
+         like a spankier Lynx (colourful, and with smarter frames and
+         tables rendering), but its history is as a HTML pager, so
+         it's trim enough to use as a file reader even when you're
+         not browsing remote machines. It starts quickly and with just
+         a few lost features (cookies, internationalisation) works
+         out at about half the size of Lynx, too. The mouse handling
+         is better too, with a useful right-hand-click menu, and - OH
+         COME *ON*, Lynx people! You were going to have to try
+         another browser EVENTUALLY. Quit bawling.
+         http://ei5nazha.yz.yamagata-u.ac.jp/~aito/w3m/eng/
+               - oh, yeah: and what's your Japanese like, gaijin? 
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+         
+         ANGER leads to: http://www.daveprowse.com/editorial.htm -
+         no comeback as yet from http://www.vader.org/ ... as
+         distasteful as it sounds http://www.bbcworldwide.com/smeg/
+         ... stick a few trumpeter swans in it, and it becomes a
+         http://www.betterstarwars.com ... many PLAYSTATION 2
+         releases to be cheaply recompiled "upgrades" of Playstation
+         Classic games... see, they don't *all* have to be ONION
+         rip-offs: http://members.tripod.co.uk/cgreview/ ... "livin
+         la video card loca" http://www.bxboards.com/bitchin.jpg ...
+         Britain's THE QUEEN just switched from Solaris to Red Hat:
+         http://www.netcraft.com/whats/?host=www.royal.gov.uk ...
+         and doesn't the BEAST OF REVELATIONS hold "prior art" on
+         http://www.patents.ibm.com/cgi-bin/viewpat.cmd/US05878155__
+
+
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> OK, so it's Chris "Aphex Twin, Neuromancer" Cunningham
+         on MIRRORBALL (12.40am, Fri, C4) *this* week... one of
+         Whoopi Goldberg's less irritating IRC action romances in
+         JUMPIN' JACK FLASH (11.05pm, Fri, BBC1) - followed by the
+         intriguingly renamed spag-bollocks Western A TOWN CALLED
+         HELL (aka "A Town Called Bastard")... while, sadly, C5's
+         late-night 1958 movie AUNTIE MAME (2.10am, Fri, C5) is not
+         about the various "offspring" of the Multiple Arcade Machine
+         Emulator... "You want the shouting? YOU CAN'T HANDLE THE
+         SHOUTING!" implies Jack Nicholson of Tom Cruise in mildly
+         unpleasant military courtroomer A FEW GOOD MEN (10.10pm,
+         Sat, ITV)... launching a brief season of cult Saturday night
+         dress-up-in-a-trenchcoat-and-gun-down-your-classmates films,
+         Leo DiCaprio shoots more than just hoops and heroin in THE
+         BASKETBALL DIARIES (10pm, Sat, C4)... and those lamers from
+         Trainspotting could have tried to make A LIFE LESS ORDINARY
+         (10pm, Sun, C4) a bit more watchable - at least compared to
+         the unauthorised biography of webdesign playboy Matt Jones,
+         as depicted in Greg Egan fave YOUNG EINSTEIN (5.50pm, Sun,
+         C5)... oddly, two separate docus on "birth order" on
+         consecutive days: EQUINOX (9pm, Mon, C4) and the
+         defensively-titled ME FIRST (9pm, Tue, BBC2)... don't know
+         what kind of trade descriptions made them take the "Comedy"
+         out of THE MARK THOMAS PRODUCT (11.05pm, Tue, C4)... and Sky
+         subscribers will already be setting aside midweek quality
+         time for not just the UK debut of FUTURAMA (8pm, Tue, Sky1),
+         but also series 3 of STARGATE SG-1 (8pm, Wed, Sky1) *and*
+         short-lived movie spinoff TOTAL RECALL 2070 (9pm, Wed,
+         Sky1), in which presumably the lead character goes on a
+         different memory- wiping adventure each week, but every time
+         it all turns out to be - a dream!...
+
+         FILM>> presumably it's the backs of Kirsten Dunst, Kirstie
+         Alley and Denise "Starship Troopers" Richards on the poster
+         for erratic bad-taste beauty-pageant mockumentary DROP DEAD
+         GORGEOUS (http://www.capalert.com/capreports/: vulgar
+         gesture; teen underwear; long series of camera angle to
+         focus viewer on private regions of teen females; strong
+         thread of likening "Christian" to guns; many subtle and
+         disguised comments regarding superficial and off-target
+         love for the Savior). It does include the monologue from
+         Soylent Green, yet does not appear to be based around the
+         Republica song of the same name... still, probably more
+         (intentional) laughs than distasteful Travolta army
+         thriller THE GENERAL'S DAUGHTER (imdb: rape / military) -
+         repeated shots of naked corpse staked to ground may
+         "attract wrong element"... or Anthony Hopkins going native/
+         to jail in Cuba Gooding derivative monkey weepie INSTINCT
+         (http://www.capalert.com/capreports/: prison ugliness;
+         violent beatings to escape lawful custody; nudity of a
+         third-world child; party drinking ; muffled words of foul
+         language; dog threat)... otherwise there's the usual
+         limited release arthouse efforts: non Star Wars spinoff THE
+         TRENCH (imdb: English), Charlotte "Marmalade Atkins"
+         Coleman politico-romance BEAUTIFUL PEOPLE (imdb: comedy),
+         plus Van Damme redux in UNIVERSAL SOLDIER: THE RETURN
+         (http://www.capalert.com/capreports/: human form on fire;
+         punk music and dress; changing clothes in a car; nude bar
+         brawl scene with multiple full nudity; murder by gunfire to
+         head and body; murder by strangulation; murder by
+         electrocution; murder by explosion; murder by fire; murder
+         by neck break). Apparently, not as good as the first one...
+
+         BUMPER BONERZ BONANZA>> thanks to everyone who realised that
+         we meant *Simon* Singh's THE CODE BOOK [NTK 1999-09-10]
+         rather than "David Singh's THE CODE", though only regular
+         steampunk correspondent, TOM STANDAGE (ESQ.), appeared to
+         have actually read it, commenting "very good - even if it
+         does get Babbage's Analytical Engine and Difference Engine
+         No.2 in a twist"... in that same paragraph, we also gave
+         the date of Birkbeck lecture "Renaissance Cryptography and
+         Johannes Trithemius" as 6pm, 1999-09-10 - as keen-eyed
+         ROGER BURTON WEST pointed out, allowing readers a "generous
+         43 minutes to get there". In fact it's on at 6pm today; the
+         clock is ticking... NIAMH FOLEY objected mildly to our
+         "WANKOMETER needs upgrading for these guys" comment re
+         http://www.labyrinth.ie/approach.asp [NTK 1999-09-10],
+         revealing that she was a) a "gal", and b) on a "coffee
+         high" when she wrote it... SCRIPT_KIDDY makes a rather more
+         urgent observation, requesting "Please append ::$DATA to
+         all URLs you publish ending in .asp", believing that we
+         have some sort of knack for "for picking just the
+         vulnerable ones" - http://www.labyrinth.ie/login.asp::$DATA
+         , say. If you, the readers, agree, then why not start a
+         petition on your website (or someone else's)?... EMAP's
+         ROGER GREEN (rightly) questioned what evidence we had
+         linking EMAP to Freenetnames owner ITG [NTK 1999-09-03] -
+         will http://www.itg.co.uk/new/emapmetro.htm do?... and
+         finally, JOHN HARTNUP argues that "only the chorus" of
+         S Club 7's new single sounds like The Spice Girls' "Say
+         You'll Be There", advising that "The verse sounds like
+         'Check It Out' by the Stereo MCs". ANTONY ESPINDOLA went on
+         to list 3 more points of similarity between the bands:
+         they've got the same manager (Simon Fuller); the video's
+         the same; and they're "doing a film" which "[quote] 'will
+         be about us as a gang and what we get up to'". NTK regrets
+         that this correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+                   "Mini-NTK postponed due to too much time"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

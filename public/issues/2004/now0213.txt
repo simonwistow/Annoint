@@ -1,0 +1,254 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-02-13_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "It was supposed to tell the truth. Not much has changed in 
+         2,000 years - Jesus was [controversial] and they killed him. 
+         We all killed him, and he died for it..." 
+                 - "The Passion of the Christ" actor pulls no punches
+                             http://news.bbc.co.uk/1/film/3484915.stm
+          ...in other words: we murdered him. Murdered him - to death.
+
+
+                               >> HARD NEWS <<
+                               du temps perdu
+ 
+         There's a point at the EMERGING TECHNOLOGY conference where
+         all the blog entries, all the SubEthaEdit documents, all the
+         IRC transcripts, all the bluejacking notes passed under the
+         table, just spell out a communal "Mi BWAINN HURTZ". This
+         year, the fog seemed to descend *very* early. A dull product
+         pitch keynote on the Roomba vacuuming robot reared up and
+         transformed into a pre-release description of military
+         swarming autonomous killerbots. In a subsequent panel: a
+         drill sergeant from the US's National Reconnaissance Office
+         began marching up and down the aisles, barking orders at the
+         geeks to COME UP WITH NEW IDEAS to FIGHT TERRORISM. Meek BBC
+         employees who had flown in to find out more about RSS stared
+         deep into their laptops, and prayed that Hutton wouldn't
+         send the roomba-wobots after them. Keynoting Nokia CTO
+         Pertti Korhonen said all the right things in such an extreme
+         monotone that attendees were seen beating themselves bloody
+         with iBooks to stay conscious. Few were alive to see him
+         release Python for Series 60. By the end, exploring the conf
+         had become like playing mental Doom: run one way, and you'd
+         find Wil McCarthy eager to tell you (again) how his quantum
+         dots could reprogram MATTER ITSELF. Run the other, and you'd
+         find dangerous British ammunition exports like Matt Webb and
+         Chris Heathcote strafing their own geolocatory, social
+         softwary freakazoid nailguns. Geowarchalking postcodes on to
+         letterboxes? Chat software with a single icon interface and
+         a deliberate lag of one and a half hours? Thank God for the
+         local hacker community, who (wearing badges labelled "John
+         Ashcroft" and "Tim O'Really") distributed homemade absinthe
+         to numb the frantic minds of attendees.
+        http://conferences.oreillynet.com/pub/w/28/presentations.html
+  - download yourself and then do a Professor Denzil Dexter voiceover
+         http://www.itconversations.com/index.php
+       - doesn't quite convey the horror of Pertti's repeating slides
+         http://www.programmablematter.net/
+             - here, has organised itself into a primitive "web page"
+
+         Which is all very nice, but not everybody can pack up their
+         G4 PowerBook, pay for a conference ticket, fly to San Diego
+         and we don't know, use their spare change on buying a moon
+         made of gold. In San Francisco on Monday they're having a
+         cheapo condensed soup of Emerging Tech (partly inspired by
+         NTK whining). Given the large contingent of British Emerging
+         Techxors, would it be TOO MUCH to ask for them to stop
+         eating pearls and having their slaves smear priceless caviar
+         over themselves, and spill instead the etech beans at a more
+         convenient location? Speakers and attendees running through
+         what they saw or said, in a salubrious pub somewhere? Oh go *on*.
+         http://wiki.oreillynet.com/etech/hosted.conf?ConConUK
+                                                  - go on go on go on
+         http://wiki.oreillynet.com/etech/hosted.conf?ConCon
+                         - all the bits that don't work are our fault
+
+         Warez afficianados worldwide must be shocked - shocked! -
+         that the ruthless Microsoft security cordon has allowed the
+         source code to Windows 2K to leak out. The more grizzled may
+         recall the echoes of an NT source collection supposed to
+         have broken cover around about 1995. The driest skeletons 
+         will still be rattling with laughter at the comments in the
+         original FDISK MS-DOS code, which "emerged" even earlier.
+         Maybe the rumours weren't true: but if they were, the zipped
+         and tarred ancestors of the latest leak wouldn't have spread
+         far. Back then, like most warez, source code would have
+         been more trophy than usable, a hidden prize you hoarded in
+         the hope of trading it for something - well, equally
+         useless. But now the slickening lubricant of the Net has
+         transacted such baggage far away from the hoarders, to those
+         who really desperately need such leaks: journalists looking
+         for a scoop. If those old warez tales were true, it's good
+         and bad for Microsoft. Tales Good: they would mean Microsoft
+         has survived its source being available for some time. Bad:
+         What does it say when the warez scene has tighter security -
+         both in preventing leaks, and hushing up breaches - than
+         Microsoft ever did?
+         http://slashdot.org/article.pl?sid=04/02/12/2114228
+                                              - no! it burns my eyes!
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         hence night shift: http://www.ntk.net/2004/02/13/dohwere.gif 
+         ... targeting notoriously short attention span of rugby fans: 
+         http://www.ntk.net/2004/02/13/doh60.gif ... where "No news" = 
+         good news?: http://www.ntk.net/2004/02/13/dohkish.gif ... 
+         goatse - in NYT?: http://www.ntk.net/2004/02/13/dohgoat.gif 
+         ... NATURE dumbing down things a bit (see picture caption): 
+         http://www.nature.com/nsu/040126/040126-13.html ... Three 
+         'fess up: http://www.three.co.uk/facts.omp?cid=1022777698090 
+         ... musical Widdecombe - mix and match any products and pics: 
+        http://boutique.steinway.com/Item.aspx?id=006830&pic=10M049B.JPG
+         ... might suit programmer fluent at deciphering "geek codes": 
+         http://www.ntk.net/2004/02/13/dohrent.gif ... Amazon might 
+         want to take a quick flick through those manuals itself: 
+         http://www.ntk.net/2004/02/13/dohepo.gif ... a "wee" bit 
+         faster: http://www.ntk.net/2004/02/13/dohwee.gif ... old joke, 
+         always liked it: http://www.ntk.net/2004/02/13/dohint.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+        "ARE WE TOO RISK AVERSE?", asks the ever-controversial SPIKED 
+         MAGAZINE (again), in yet another series of debates confronting 
+         apparently common-sense positions on global warming, childhood 
+         obesity, and no doubt genetically modified food as well, if 
+         their previous interests are anything to go by (7.30pm, third 
+         Thursday of every month, Hill and Knowlton, London W1A, from 
+         UKP10). Annoyingly it's at exactly the same time as the hot-
+         from-ETCon TIM O'REILLY addressing the UK ColdFusion User 
+         Group on THE OPEN SOURCE PARADIGM SHIFT - he's in favour of 
+         it, apparently (from 7.30pm, this Thu, Room A366, City 
+         University, London EC1V, free but you must pre-register via 
+         the site) - so no turning up just to make fun of the poor 
+         ColdFusion users, OK?
+    http://www.ukcfug.org/?objectid=8ED1C0D5-50DA-4D01-87FEB77EB879BD48
+            - another typically easy-to-remember ColdFusion URL there
+         http://www.spiked-online.com/event/
+         - vs www.guardian.co.uk/comment/story/0,3604,1102753,00.html
+         http://www.antennapromo.co.uk/
+         - *and* the same night as Nathan Barley's Rather Good Videos
+         http://www.strangeattractor.co.uk/
+           - then free-entry launch of Strange Attractor mag next Fri 
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         (via gothamist) "shake it like a Polaroid shareholder", more 
+         like: http://qwer.org/PolaFAQ.htm ... kids dislike "way they 
+         are portrayed": http://news.bbc.co.uk/1/3471163.stm - as users 
+         of clingfilm condoms: http://news.bbc.co.uk/1/3473415.stm ... 
+         master of surprise attack US marine revealed to be in North 
+         Carolina: http://uk.news.yahoo.com/040212/325/eluu5.html +  
+         Afghanistan, at same time: http://news.bbc.co.uk/1/3072105.stm 
+         ... thanks Bill, that ought to do it: http://www.fypl.info/ 
+         ... bumper "one of these is not safe for work like the others" 
+         bonanza: http://images.google.com/images?q=street+sharks , 
+         3way, peapod, and - most gratuitously - webmail (implies maybe 
+         1 in 20 Google images are "of this nature"?)... BBC3 mirrors 
+         glaringly hideous choices - with glaringly hideous photo-
+         montage: http://www.bbc.co.uk/bbcthree/tv/top50movers.shtml 
+         ... http://techdirt.com/articles/20040213/026247.shtml - vs 
+http://www.revolutionmagazine.com/News/?fuseaction=ViewNewsArticle&ID=202355
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> new "reality" series REGENCY HOUSE PARTY (9.05pm, Sat, 
+         C4) attempts to recreate the events of Noel Edmonds' 1990s 
+         Saturday evening variety show in the early 19th century... no 
+         chance of presenter Roland Rivron being as funny as BRITAIN'S 
+         BEST SITCOM: ONE FOOT IN THE GRAVE (9.05pm, Sat, BBC2)... and 
+         even though there's a war on, Ralph Fiennes will have Julianne 
+         Moore naked by THE END OF THE AFFAIR (10.05pm, Sun, C4)... 
+         UNBREAKABLE (9pm, Sun, ITV) is basically a more fanboy version 
+         of THE SIXTH SENSE (9.15pm, Sat, ITV), but with terrible 
+         "Where are they now?" text captions instead of a twist at the 
+         end... and C5 leads into its new meta-containment drama BACK 
+         TO REALITY (8pm, Sun-Fri, C5) with a daily STRANGEST EVER slot 
+         (7.30pm, Mon-Fri, C5), looking at transport (Mon), obsessions 
+         (Tue), homes (Wed), Austrian expressionist painters (Thu), 
+         sporting events (Fri), and - next week - rectums found in 
+         foreign objects... Carol Smillie appears to use the unusual 
+         phrase "I can't imagine pulling off a guy I don't actually 
+         like" in cross-dressing makeover GENDER SWAP (10pm, Mon, C5) 
+         ... an appearance in the TVGoHome series is all we can find on 
+         the eponymous star of quirky sketch fest THE CATHERINE TATE 
+         SHOW (10pm, Mon, BBC2)... as BBC3 makes another yet attempt at 
+         finding a workable vehicle for the CYDERDELIC gang (11pm, Mon, 
+         BBC3)... Phil "Dead Ringers" Cornwell plays the chirpy 
+         squaddie who entertains his pals with impersonations of 
+         Michael Caine, Mick Jagger, David Bowie etc in DUNKIRK (9pm, 
+         Wed-Fri, BBC2)... there are sadly no chess-playing computers 
+         in C5's annual showing of DEEP BLUE SEA (9pm, Thu, C5)... and 
+         let's get this straight: BBC3 has bumped "Celebdaq" - 
+         understandably - and "Liquid News" - inexcusably - in favour 
+         of popular maths show THE MAGIC NUMBER (9pm, Thu, BBC3)?...
+         
+         FILM>> watch out for Daffy Duck wearing a "Maxine Carr" 
+         t-shirt http://www.ananova.com/news/story/sm_659889.html in 
+         self-referential Warner backslap LOONEY TUNES: BACK IN ACTION 
+       ( http://www.capalert.com/capreports/looneytunes-backinaction.htm :
+         [Jenna] Elfman was dressed in a very short skirt with her feet 
+         wide apart and the camera with a clear view of her crotch; 
+         fascination with underwear; filled with animated violence; 
+         more like the crude extremes of the modern Animaniacs(tm) than 
+         Looney Tunes(tm) we all grew up with)... not a wide release 
+         for this week's more grown-up releases, such as Claire 
+         "Terminator 3" Danes's pre-apocalyptic IT'S ALL ABOUT LOVE 
+         (imdb: drama / thriller / romance / sci-fi)... or more Danish 
+         dogma-tism in Nicole Kidman minimalist-set stage-play DOGVILLE 
+         ( http://www.cndb.com/movie.html?title=Dogville : after 
+         watching this 3 hour movie I can tell you without a doubt 
+         there is no nudity by Nicole)... which just leaves half-term 
+         fodder like execrable Disney ride adaptation HAUNTED MANSION 
+         ( http://www.capalert.com/capreports/hauntedmansion.htm : if 
+         you find communicating with the dead as innocuous or as a fine 
+         jest, seek for yourself what God has to say about it)... or 
+         Steve Martin population-control advocacy CHEAPER BY THE DOZEN 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7552 : 
+         when the dog appears under the table at [Ashton Kutcher's] 
+         crotch, it's really the trainer wearing padded pants with a 
+         piece of cloth sticking out of the fly)...
+                                             
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                    "deliciously *lilac*-scented, surely?"
+         http://www.groovymother.com/archives/2003/11/21/geek_pride.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

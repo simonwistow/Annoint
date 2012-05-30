@@ -1,0 +1,238 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-01-21_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+         
+                               >> HARD NEWS <<
+                               cheerily obtuse
+
+        The new year at Grange Hill starts, as ever, with induction
+        day: induction into the Big School of Fansites Taken Down By
+        Evil Corporate Bullies, that is. After a fractious few years
+        fending off sporadic legal threats, GRANGEHILL.NET's US hosting 
+        was successfully DMCA-d last week by the owners of the BBC's 
+        freshly privatised "Grange Hill" series, Mersey TV. Quite 
+        why the company suddenly got all hardcore now is hard to tell.
+        Perhaps it was the new series; perhaps it was the rumoured
+        preparations by Mersey TV to sell out to a new owner; perhaps
+        (they maintain) it was the recent admission by Mersey TV's
+        legal advisor that the site was "driving traffic away" from
+        their own new website. If that's the reason, it might not be
+        enough that the site has gutted its collection of fair-use
+        (and perhaps less clearcut) images, and moved to another
+        server. Or maybe they're in with a chance: few websites can
+        call upon a terrifying 25-year-long span of net users
+        overobsessed with the trivia of their childhood's TV. And
+        Phil Redmond, that loveable rogue, faced with thousands of
+        young protestors, will surely cave in like so many
+        fair-minded headmasters, faced with school uniform pickets,
+        before him.
+                        http://www.grangehillfans.co.uk/ghonline.html
+    - you know what they really need is a pro-fair use novelty single
+http://www.brandrepublic.com/mediabulletin/news_story.cfm?articleID=231955
+                                      - insert dinner money joke here
+        http://www.jubileeaction.co.uk/justright/autumn2002_article2.html
+        - if 80s TV didn't matter, why is Paxman presenting Newsround?
+
+        Drink! Feck! Falcoo! MIT's Dublin-based Media Lab Europe is 
+        closing due to lack of funding, fulfilling founder Nicholas 
+        Negroponte's vision of "Being Digital" by doing an on/off 
+        transition itself. After all, "bits are bits", but money is 
+        money, it would appear. Meanwhile, http://www.hackthebid.org/ 
+        is a new site aiming to prevent perhaps similar white elephant 
+        wastes of public money, giving everyone the opportunity to 
+        voice why they might not want London to host the 2012 
+        Olympics, and so to provide some balance to the current, 
+        dubiously-representational "Text LONDON to 802012" poster 
+        campaign. It's hoped that the site will also become a hub for 
+        anti-Olympic campaigning of all kinds, possibly discussing 
+        the appropriate typeface and font size for printing stickers 
+        that could transform the first two letters of "Back The Bid" 
+        posters to "Ha" or "Fu" - that sort of thing.
+        http://www.hackthebid.org/more.html
+          - Parisians, New Yorkers invited to set up sister sites too
+        http://www.cnn.com/TECH/computing/9909/15/euro.risks.idg/
+                 - Europeans: oddly unconvinced by upstart Negroponte
+        http://indianink.net/forums/General/posts/2895.html
+        http://www.medialabasia.org/mlaList.php?typeId=6
+                  - MIT parted ways with Media Lab Asia 18 months ago
+http://www.guardian.co.uk/online/comment/story/0,12449,1393816,00.html
+             - Guardian asks: where's Kevin Warwick when you need him?
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+        Just in case you haven't given all of your disposable income 
+        to deserving charities already this year, London's geowanking 
+        fraternity have come up with an intriguing proposition. With a 
+        grand's worth of Russian 1-meter resolution satellite pics, 
+        they believe they can stitch together an entirely free, 
+        redistributable vector database of the capital, freed from 
+        the shackles of the Ordnance Survey's restrictive copyrights, 
+        and thus open to all manner of GPL-style repurposing. LONDON 
+        FREE MAP's Jo Walsh and Schuyler Erle should hopefully be 
+        touching on this topic at the FIRST WORKSHOP OF THE PERVASIVE 
+        AND LOCATIVE ARTS NETWORK (Tue and Wed 2005-02-01/02, The ICA, 
+        The Mall, London SW1Y 5AH, 51.5066N -0.1306E, tickets UKP1.50 
+        per day, apparently), in the company of geo-taggers Urban 
+        Tapestries, location-based gamers Blast Theory, and 
+        investigative journalist (yes, the) Duncan "Zircon" Campbell, 
+        who we believe might know a thing about satellite surveillance 
+        - or two.
+        http://open-plan.org/index.php?plan-ica-announce
+               - yes, it does seem cheap for the ICA. Could be a trap?
+http://bat.vr.ucl.ac.uk/pipermail/openstreetmap/2004-December/000132.html
+             - today London, tomorrow... ze (Ordnance Surveyed) world!
+        http://openstreetmap.org/
+         - or get on your GPS-enabled bike and start uploading tracks
+        http://www.no2id.net/news/events.php
+                  - next Tue: Ross Anderson vs ID cards, in Cambridge
+        http://www.netimperative.com/awards
+         - and 1 week left to get entries in for Netimperative Awards
+
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+        browser security masterclass - just put SSL padlock *at the 
+        bottom of the popup window*: http://ipextreme.us/order.html 
+        ... historic NASA mission marked by *worst infographic ever*: 
+    http://saturn.jpl.nasa.gov/spacecraft/images/sc-components-litho.jpg 
+        ... always end your last blog post on a enigmatic high note: 
+        http://www.nepanewsletter.com/polar.html - "Daytime sightings 
+        have now been reported, as have motherships"... new(-ish) 
+        thrill - vaguely CV-related puerile Google goofs of the month: 
+        http://google.com/search?q=%22can+program+in+html%22+resume 
+        http://google.com/search?q=%22irrelevant+sense+of+humour%22 
+        http://www.google.com/search?q=webmater+CV - and, just for old 
+        time's sake: http://google.com/search?q=%22singed+copy%22 , 
+        http://google.com/search?q=%22Common+Object+Request+Borker%22 
+        ... UseCrime in progress - "Concordia is the only product 
+        available that supports both printed and online distribution", 
+        muses http://symbolics.com/Concordia-1.htm - apart from bloody 
+        enormous jpegs, of course...
+
+          
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+        CPUs aren't getting faster! Multi-core is the future! Which
+        means we'll all need to learn concurrent, multi-threaded
+        programming, or else our software is never going to get
+        faster again! That's what Herb Sutter's future shock article
+        in Dr. Dobbs says (below). But before you start re-learning
+        APL, here's a daring thought: maybe programmers are just too
+        *stupid* to write multi-threaded software (not you of
+        course: that guy behind you). And maybe instead we'll see
+        more *background* processes springing up - filling our spare
+        CPUs with their own weird, low i/o calculations. Guessing
+        wildly, we think background - or remote - processes are
+        going to be the new foreground. Oh yeah, and increasingly
+        we're going to need some consistent way to display quiet,
+        passive user notifications from these processes that won't
+        interfere with the main flow of our single-threaded human
+        masters. What we're trying to say here is that, primitive
+        though they may be now, apps like GROWL (on the Mac) and
+        XOSD on Linux are going to be the new squishy UI innovation
+        area, and you should check them out, futz with them, and
+        work out your own solutions. You're already curious about
+        your background tasks, and soon the whole world will be.
+        CRISWELL PREDICTS! 
+        http://www.gotw.ca/publications/concurrency-ddj.htm
+            - lock your daughter threads! here comes multiple futures!
+        http://growl.info/
+                          - more interesting than the website implies
+        http://the.taoofmac.com/space/blog/2004-09-26
+        - more interesting python, rendezvous and remote unix hacking
+        http://www.ignavus.net/software.html
+                                 - xosd for your tail-piping pleasure
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+        TV>> reassuringly, THE GADGET SHOW'S (7.30pm) god-awful bid 
+        http://www.7digital.com/downloads/gadget/ to "get a coveted no. 
+        1 in the download chart" appears yet to trouble even the Top 
+        20: http://bbc.co.uk/radio1/chart/top40/download.shtml - maybe 
+        the bloke who sounds like Donald Sinden could have done some 
+        slightly less flat vocals?... speaking of online audio, Stuart 
+        Maconie devotes his 3-hour 6Music FREAK ZONE to TV theme tunes 
+        (5pm, Sun, http://www.bbc.co.uk/6music/shows/freakzone/ ) ... 
+        though you might want to exercise the "Listen Again" option on 
+        that one http://dave.org.uk/streams/ , as it risks running 
+        into the world premier of the new Chemical Brothers album 
+        getting the http://prodigyremixed.com/ treatment on XFM's THE 
+        REMIX (6pm, Sun, http://xfm.co.uk/theremix )... you wait all 
+        year for an offbeat look back at current events, then THAT'S 
+        SO LAST WEEK (11.05pm, Mon, C5), Tyler "Wallpaper" Brule's THE 
+        DESK (10.30pm, Tue, BBC4), THE COMIC SIDE OF 7 DAYS (8.30pm, 
+        Thu, BBC3) and DON'T WATCH THAT, WATCH THIS! (10.30pm, Thu, 
+        BBC4) all come along at the same time - what's up with *that*, 
+        eh?... THE FLY (11.50pm, Mon, C4) was succesfully remarketed 
+        to the insect community as the story of a brave Drosophila 
+        melanogaster - who finds himself gradually transforming into a 
+        human being!... Wednesday is "lethal killing machines" night 
+        with the Frank Miller-ish ROBOCOP 2 (10pm, Wed, C5), WESTWORLD 
+        (11.35pm, Wed, BBC1) and AMERICAN PSYCHO (11.50pm, Wed, C4)... 
+        plus, even if you agree with what he's saying, feel free to 
+        get enraged by Michael Moore's trademark scattershot approach 
+        and patronisingly sounds-like-mock-whining-but-is-apparently-
+        genuine voiceover in FAHRENHEIT 9/11 (9pm, Thu, C4)...
+        
+        FILM>> a busy week for superhero spinoffs, with that blind old 
+        guy from "The Blues Brothers" getting his own feature-length 
+        adventure in RAY ( http://capalert.com/capreports/ray.htm : 
+        unseen intercourse, twice; long series of drug addition 
+        withdrawals - graphic; smoking, with no consequences, 
+        frequently)... oh and Jennifer Garner is back as the eponymous 
+        undead ninja gymnast in the not-very-Bill-Sienkiewicz-ish 
+        ELEKTRA ( http://www.capalert.com/capreports/elektra.htm : 
+        unholy control of objects; unnatural rapid movement by 
+        mortals; bodies evaporating into yellow-green gas; lesbian 
+        kiss)... good to see the BBFC "Contains Strong Bloody 
+        Violence" advisory being used as part of the marketing for 
+        next week's Franka Potente/ Ken Campbell unwitting-urban-
+        exploration London Underground horror CREEP (only loosely 
+        based on the Radiohead song of the same name)... yet they 
+        appear to have - shockingly - not used the Bomb The Bass 
+        "Xenon 2 (It's A Megablast)" remix of the theme tune for the 
+        largely unnecessary new remake of ASSAULT ON PRECINCT 13 
+        ( http://www.imdb.com/title/tt0398712/keywords : convict/ 
+        detroit-michigan/ police/ siege/ lasersight/ molotov-
+        cocktail/ person-on-fire)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                      "it'll be ready - when it's ready!"
+           http://www.freecherrypy.org/asbradbury/archive/0434600
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2005 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

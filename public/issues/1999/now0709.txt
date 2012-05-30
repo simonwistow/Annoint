@@ -1,0 +1,338 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-07-09_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+    "Reiss chastised Gates's employees as 'insensitive' for 'planting
+     vials labeled as radioactive material at a facility that was the
+     victim of one of the most notorious terrorism incidents in
+     American history'..."
+  - anyone else worried what'll happen if the DOJ rules against them?
+                 [ http://www.villagevoice.com/columns/9927/otis.shtml ]
+
+
+                                >> HARD NEWS <<
+                                muttered phew's 
+
+         OFTEL, quasi-governmental scapegoat/poodle/monkey mutant
+         creature hated by all, last weak went feral, leaping up and
+         biting the nose of its BT nanny/dogcatcher/organgrinder. In
+         a shocking, shocking move, it announced its intention to
+         force BT to open up the local loop and allow others to share
+         the implementation of xDSL and other copper services. That's
+         awkward for BT, who had recently leaked their decision to
+         roll out ADSL superquick - almost certainly in part to stop
+         Oftel feeling it needed a shove. But will BT shove back, and
+         deliberately retard development? Well, no. It keeps saying
+         it might, but it won't. BT has much easier ways of slowing
+         entry in this area: including, for example, having really
+         grotty stuff in its exchanges that no-one else would want to
+         touch with a 14.4 modem. There's forty years of gunk in
+         there, man. And BT's still hoping that the other Telcos
+         will get as excited about broadband wireless comms as the
+         DTI is now getting, now that's decided to auction off some
+         of the spectrum. Good for BT: because it keeps them off
+         their turf. And good for BT, because the DTI's report is so
+         caught up in big telco, big investment broadband ideas, that
+         it pays no attention the bottom-up spread spectrum networks
+         that might really pose a threat to the comfortable telco
+         oligopoly. Oh, but that lead to chaos, wouldn't it?
+         http://www.oftel.gov.uk/competition/llu0799.htm
+           - actually this is all rather good (but we can't say that)
+         http://www.open.gov.uk/radiocom/broadb/contents.htm
+         - *cough* spread spectrum *cough* unlicensed *cough* Internet
+         http://clickfree.co.uk/
+                                    - already opening up some domains
+
+         A few brief updates on some recent and ancient stories. For
+         those wondering what's happening with the E-COMMERCE BILL:
+         the government are *really* keen to rush it through
+         parliament, and waved it under the oppositions' noses to
+         get it carried over to the Autumn. The Tories, to give them some
+         credit, have muttered "not so fast", and are now debating
+         internally as to whether to bounce the whole thing out of
+         the parliamentary schedule altogether. Go, conservative scum!
+
+         KEVIN MITNICK is still in jail, and just had his appeal
+         against the $1,000,000 bail set for his California trial
+         turned down. Kevin is charged with making a fraudulent phone
+         call. In what we can only assume is either a *very* cool
+         social engineering hack or some very targetted advertising
+         (or *both*), Cable & Wireless' new ad campaign is based on
+         the slogan "Free Kevin". It's even in the right colour scheme.
+         http://www.tarags.demon.co.uk/cw.htm
+                                     - boy they must really hate AT&T
+
+         And from last week: apparently the New Statesman were happy 
+         to omit the J18 coverage from the winner of the advocacy
+         awards, because they were giving the prize for *use* of the
+         Net, not the actual content. Boy, those kids have been
+         getting *really* high off that New Labour policy erasing
+         fluid, haven't they? And in other awards, it was Yell last
+         week. A birdwatching site won. No-one cared.
+         http://www.yell.co.uk/yell/yellawards/index.html
+                                        - at least it wasn't in Flash
+
+         Awards too, to STUART CAMPBELL AND CO: for being undoubtedly
+         the hardest bastards in known games journalism. First
+         generation NTKers will recall [NTK 1998-01-23] that the
+         gang's Web tribute to the beautiful and dead Future mag
+         AMIGA POWER was casually copied onto the cover CD of ancient
+         EMAP enemies CU AMIGA. At the time, the editors chuckled at
+         Stuart's claims that the AP team would sue them for two
+         years' wages. One court settlement in Campbell's favour and
+         five figures later, the chuckling, for EMAP, is at an end.
+         And this story - like all Amiga stories - looks set to drag
+         endlessly on: "It is thought", says Campbell in his own
+         profoundo press-release voice, "that part of these proceeds
+         will be used to fund the prosecution of several court cases
+         against another major leisure-computing magazine publisher
+         in the next few weeks."
+         http://x35.deja.com/=dnc/getdoc.xp?AN=406936564
+           - and as the platform died, so they turned upon each other
+         http://www.amiga.com/diary/executive/linux-e.html
+   - newsflash! New Amiga's abandoning Linux, will run on pure vapour
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         ONLINE MAGIC finally falco'd out of existence... NUA claim
+         "while 90 percent of online consumers now shop online, just
+         18 percent make online purchases"... mainly the "LOST" side
+         of things: http://www.ntk.net/doh/19990709lost.gif ...
+         "Geeks read Wired as if it was the Koran", claims KATZ. Yeah,
+         - and they were Fundamentalist Christians... head of PR for
+         UK passport-system programmers SIEMENS is currently - 
+         abroad on holiday... "Looking to history, it has only
+         been the most dictatorial of regimes, and the very worst
+         excesses of the controlist mentality, that have tried to
+         constrain the basic human need and right to communicate",
+         proclaims PETER COCHRANE, whose opinions do not represent
+         official BT policy or pricing structures... all-too
+         credible MICROSOFT doh! http://www.ntk.net/doh/options.html ...
+         ... some BLIND people getting better net access than
+         http://www.theregister.co.uk/990708-000032.html realises:
+         http://www.globetechnology.com/gam/News/19990702/UHACKN.html
+         ... Junior Doctor Weeps At State Of JILL DANDO - eventually:
+http://www.thisislondon.com/dynamic/news/news_story_msn.html?in_review_id=152928
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         God smiting the evil computer underground? Someone setting
+         off more fire extinguishers than usual? Or have those
+         brilliant, misguided youths somehow managed to *hack the
+         weather*? It's unclear whether severe flooding in Las Vegas
+         will physically deny access to this w/e's DEFCON 7.0 (NTK's
+         report from the preceding BLACKHAT BRIEFINGS is at the end of
+         this document); if it's getting really bad, we're sure
+         someone can revive that old Egg Race spirit and lash up a
+         raft out of ethernet cables and Jolt cans.
+         http://www.defcon.org/
+                                     - underground - and under water?
+         http://www.co.clark.nv.us/pubcom/flood_update.htm
+                       - a change from all that ping-flooding, anyway
+         
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         In celebration of Microsoft's recent GLOAT ABOUT BLOAT in
+         Sloat, er, SLATE this week's tracking is a
+         fat-downloads-interesting-ideas-how-do-I-uninstall special.
+         [ http://www.slate.com/webhead/99-07-06/webhead.asp ]
+
+         In the big country on planet Linux, we offer you XSHIPWARS,
+         which has been around for a couple of months, and is already
+         huge. You'd describe it as a bloated xtrek - a server-based
+         2D real-time space sim with chunky graphics and bleeps and
+         planets and a smooth widget set and explosions. Except that,
+         historically, it's actually a bloated FurryMUCK game system.
+         Yup, this software has grown to 32 meg of multimedia - *from
+         a text-based game*. And it's still early days. Potentially
+         addictive, but we need the disk space back so we could
+         actually breathe in here, so no long term tests. Eat it!
+         http://fox.mit.edu/xsw/
+                                                      - EAT ALL OF IT
+
+         For Windows users? Well, what could be better than an even
+         fatter (yet incompatible!) version of ICQ? ODIGO is a buddy
+         system that includes *very* snazzy graphics, a intuitive
+         radar system for spotting fellow travellers who are visiting
+         the same Website as you, an intriguing "find the most
+         popular sites currently" button, and a ridiculously detailed
+         set of personal interests you can nominate (our favourite:
+         media/tv/closed-caption systems). Also lots of buttons that
+         go bleep, and an installation program that sings opera.
+         Interesting concepts, some heavy privacy issues, already
+         category-killed by ICQ, worth the download, not worth the
+         diskspace, know what we're saying?
+         http://www.odigo.com/download
+         - probably in pre-beta, but they said we could "tell our friends"
+
+         And we wouldn't want to give anyone any ideas, but it looks 
+         like http://www.conservative-party.org.uk/ is running
+         on Apache/0.8.14...
+         
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         Tom Christiansen *is* DARTH WALL... what MICROSOFT fans are
+         like http://www.notepad.org/ ... our token "ADULT" site this
+         week: http://www.doanload.com/ ... 30 years ago: US citizen
+         lands on moon. Today: US citizen plays perfect game of PACMAN
+         http://www.twingalaxies.com/PR-Pac-Man_World_Record.html ...
+         STARFLEET ACADEMY... "HACKING" your own website for publicity
+         (again)... what would a ./configure on your BRAIN look like?
+         ... draft new NT slogan: "It just works" (draft first parody:
+         "It just crashed")... EXCLUSIVE! REGISTER'S MYSTIC MIKE
+         MAGEE ALSO SAUCY SEX EXPERT http://www.hubcom.com/tantric/
+         ... CRINGELY finally makes some cash... JIM GOAD's prison
+         memoirs titled "Shit Magnet"... HARRY POTTER And The Well Of
+         Loneliness... "No. You are too old." "No. You are too old":
+         http://www.actionfigurexpress.com/actionfigurexpress/inyod.html
+         ... JOHN GALT dedicates IETF draft to AYN RAND... What If! DARTH
+         VADER! Is! The Good Guy! http://www.kithrup.com/brin/starwars.html
+
+
+                               >> GEEK MEDIA <<
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> a bizarre replay of third week of April 1998 [see NTK
+         1998-04-17], with another showing of urban deliverance
+         soundtrack tie-in JUDGMENT NIGHT (11.15pm, Fri, BBC1), a
+         repeat of the one where Lilith comes back in FRASIER (10pm,
+         Fri, C4), plus even Lee & Herring reporting from Montreal's
+         FESTIVAL OF FUN (11.55pm, Sun, C5)... various moon-landing
+         tie-ins line up for re-entry, including MOONSHOT - THE
+         SPIRIT OF '69 (10.10pm, Sat, ITV), 4Later's double-bill of
+         cheap Nasa footage over techno tunes THE TRIP (12.45am, Sat,
+         C4) and, capturing that old military-industrial spirit
+         rather better than the rest, the satellite debut of STARSHIP
+         TROOPERS (10pm, Sat, Sky Premier)... plus, two weeks ago,
+         they run a "Twister" season, and homes across Britain were
+         hit by mini-hurricanes (where's that Onion "Twisters Blamed
+         On Media Portrayal Of Extreme Weather" link when we need
+         it?). So, basically, god knows what'll happen when BBC1 rip
+         off more of Discovery's schedule in what seems to be a SHARK
+         WEEK (from 6.10pm, Sun, BBC1)... Jimmy McGovern's
+         hard-hitting scouse strike drama DOCKERS (10pm, Sun, C4)
+         does not appear to be based around the trousers ad of the
+         same name... and everyone's singin' like canaries over new
+         mob comedy THE SOPRANOS (10pm, Thu, C4) - though the quirky
+         everyday problems of mafia hoods do seem to be a major
+         current trend, seen also in recent US movie release "Analyze
+         This" and, intriguingly, likely precursor NATIONAL LAMPOON'S
+         THE DON'S ANALYST (12.40am, Fri, Sky Moviemax)...
+
+         FILM>> early Thursday previews of STAR WARS EPISODE 1: THE
+         PHANTOM MENACE (imdb: star-wars / blockbuster / boy /
+         council / android / cult-favorites / desert / droid /
+         famous-score / war / futuristic / aliens / spacecraft /
+         part-computer-animation / space / queen / racing / robot /
+         prequel / space-opera / space-travel / swordfight /
+         underwater / apprentice / epic / betting / saga) so guess we
+         ought to review it: predictably effects-heavy, yet
+         unpredictably odd, genuinely like old black and white Flash
+         Gordon serials ("let's aimlessly fly around from one planet
+         to another, then go and visit the fish men") but with better
+         CGI. Only absence of Mark Hamill detracts from the authentic
+         flavour of a Lucasarts CD-ROM adventure; as reader MATT
+         BACON once said of Iain M Banks: "I've had some good games
+         of Traveller in my time, but I don't go to the trouble of
+         writing them all down"... not much else out except latest
+         sassy teen Shakespeare gynacologist comedy 10 THINGS I HATE
+         ABOUT YOU (imdb: school / teen), with the kid out of "Third
+         Rock From The Sun"... so time for a just-for-fun quick
+         competition: which recently released US hit is *this* a
+         breathlessly enthusiastic review of... [SPOILERS AHEAD!]
+
+         "God was called many vulgar and hateful names. Satan was
+         glorified. Jesus was equated with sexual anatomy. A child
+         was graphically incinerated by igniting his anal wind, then
+         another kid tried to beat out the flames with a stick and
+         was concerned about the stick catching fire. Body parts
+         dripping with blood were ripped from a child by a surgeon
+         who expressed shallow concern. The dead child was then seen
+         with an exploded chest. The dead child, after being rejected
+         from Heaven (by nude female angels) and cast into Hell, was
+         then presented as a ghost trying to influence the other
+         kids. An all-male chorus line wore pink bikini briefs.
+         Homosexual acts were described. Decomposing burned bodies
+         were cast as live occupants of Hell. "Big brother"
+         electronic shock control of a child was used to prevent his
+         use of foul language (each time he cussed he was shocked -
+         he used this shock later to defeat Hussein by shouting every
+         known and several unknown foul words). A man committed
+         suicide by jumping out of a window. And throughout the movie
+         was script to promote licentious belittlement of wholesome
+         life and entertainment: rationale to lessen even further the
+         threshold of acceptance."
+
+         - and, no, it's not the beginning of the first Naked Gun
+         film. Remember, it's just for fun, so don't write in; check
+         your answer at http://www.capalert.com/capreports/ ...
+
+
+         FEAR OF A BLACK HAT>> [with NTK's roving reporter, the UK's
+         least famous David Phelan]: first keynote was JEFFREY HUNKER,
+         of the Critical Infrastructure Assurance Office, explaining
+         the US gov's 10 step plan (PDD 62) to defend against groups
+         with "organised capabilities", but "not cyberwarfare in the
+         science-fiction sense" - what, like The Matrix? The plan is
+         known by the credibity-enhancing nickname of "version 1.0",
+         and was presented on OHP slides - one way to keep your data
+         secure... in keynote #2, DR MUDGE http://www.l0pht.com
+         launched a new promiscuous mode device detector, AntiSniff 
+         - until two uniformed security guards turned up (to make a
+         public announcement). All he said on seeing them approach the
+         podium was "Uh oh"... SIMPLE NOMAD http://www.nmrc.com
+         announced Netware [c|h]acking tool Pandora v4, but not before
+         revealing that a vulnerability had been found in Hunkers
+         version 1.0, and advised everyone to upgrade to 1.0a,
+         otherwise their country might be taken over... and Bill
+         Cheswick talked about internet mapping, which he does via a
+         daily customised traceroute of 90,000 nets from a dual
+         Pentium 90 running BSDi - "it said install Windows 95 or
+         better". The military find this fascinating: "It's okay for
+         me to ping Finland, but if the Air Force does it - that might
+         be an act of war". The Australian government was first to
+         complain about the probes; in March he started a scan of
+         Yugoslavia (to see the servers going down all over Bosnia)
+         but his slides were dramatically punctuated by fire sirens
+         and strobe lighting, due to Vegas' heavy rainfall [see Event
+         Queue]. Bill closed with holiday snaps of the Great Wall of
+         China, Edinburgh Castle, and cells from the inside of his
+         cheek - not, one hopes, tourist attractions of equivalent
+         popularity...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+       It is registered at the Post Office as "in-jokes for outcasts" (JP)
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+                   We mean it. Next time we go biochemical.

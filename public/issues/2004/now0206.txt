@@ -1,0 +1,283 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-02-06_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "[X-Box 2] also will have about 256 megabytes of dynamic 
+         random access memory. But Microsoft will upgrade that to 512 
+         *gigabytes* if Sony puts in more..."
+          - San Jose Mercury reports proportionate response from MS
+                          http://www.ntk.net/2004/02/06/dohgiga.gif
+         ...Sony to counter with claims of "infinity" memory in PS3, 
+             vague threat that "their dad" may also become involved
+
+
+                               >> HARD NEWS <<
+                               not what accrues
+
+         In accordance with NTK prophecy: the BBC's Scambusters TV show 
+         was a somewhat toothless investigation where they played dumb 
+         pranks on Nigerian fraudsters and didn't really delve into the 
+         mechanics of pyramid-style schemes. Which is a shame, because 
+         the latter are really taking off thanks to the net's rapid 
+         spread of information and increasing acceptability of online 
+         payment systems. Search for "iPod" by price on eBay.co.uk, and 
+         you get a lot of "40GB for UKP20" offers, many linking to those 
+         sites where you pay your money to get onto a list (sometimes 
+         called a "matrix"), and apparently receive your gadget after a 
+         certain number of other people join up, who then get theirs 
+         after their quota join, and so on. The way they're classically
+         structured, however, means the number of new bargain-hunters 
+         required to chip in increases linearly for each additional 
+         joiner (try it with letters of the alphabet to check), so even 
+         a favourable-looking 4:1 joiner:payout ratio means that, say, 
+         the 10th member will be waiting for 33 others to sign up 
+         before getting anything (or, more likely, everyone gives up). 
+         We don't know what makes us angrier: the lack of mathematical 
+         common-sense here, or the callous targeting of potential iPod 
+         purchasers - by definition, an unusually suggestible and 
+         vulnerable segment of society.
+         http://qwer.org/ebayUKiPodsByPrice.html
+               - probably a violation of eBay (and PayPal's) T&C's?
+         http://www.bbc.co.uk/watchdog/scambusters/programme_1.shtml
+              - best tip: "If it sounds too good to be true, it is"
+
+         EMERGING TECH, that other not-a-weird-pyramid-selling
+         recruitment-cult-honest, is about to start in San Diego. As
+         usual, a sizeable squadron of British waifs and strays will
+         be coming over, with nothing but their talk clutched in one
+         hand and a dream of a better life (or at least somewhere
+         where people don't laugh when they say "blogorator"). To
+         combat any adjustment problems you may have, the NTK Halfway
+         House will be running its traditional cynicism and
+         bitterness outlet sessions offsite at Em3rg1ng L0ft, our
+         local shanty-town for those unable to afford proper
+         accommodation. Party on Wednesday, we suspect. And for those
+         of you who can't afford Emerging Tech, but are seriously
+         considering a standby hop to San Francisco to sleep on
+         floors and go to CodeCon, there is talk of lightning-talk
+         roundup of the previous conference on the evening of Monday
+         16th. More info if it happens next week.
+         http://www.commonhouse.net/wiki/em3rg1ngl0ft
+                              - tea and refreshing lack of sympathy
+
+         Once again, we really hope we're not single-handedly
+         propping up the .name business with these ironic purchases.
+         "I am now the proud owner of http://thisdomain.hasno.name/",
+         writes NICK CLARK, "Still, 24USD for 1 year's registration.
+         Am I being ripped off?" Excluding our commission, we think
+         you'll find that's actually quite reasonable. Others have
+         been vicariously enjoying the registrations of others -
+         "whois sex.sex.name has a lot of dongs in it!" crows ANDY
+         PRYKE (who really should know better than to go for the
+         "funny surname" taunt). But it's DORIAN MOORE who takes the
+         winning biscuit with his slow decline to the very bottom of
+         the barrel: "After realising I could have someone.elses.name ,
+         I just had to have every.ones.name. Then I decided that, 
+         finally, all.you.name/are/belong/to/us was where this was
+         heading". Horrifically inevitable - but when you start 
+         messing with namespace, especially the .name namespace of 
+         names, this is what you reap.
+         http://www.nic.names/
+           - they should have known: RealNames never stood a chance
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         yeah, but if you think about - houses are bigger nowadays: 
+         http://www.ntk.net/2004/02/06/doh1in3.gif ... mixed sales 
+         messages: http://www.ntk.net/2004/02/06/dohsat.gif ... mixed 
+         feelings about new baby?: www.ntk.net/2004/02/06/dohrose.gif 
+         ... Widdecombe of the Week: http://tinyurl.com/2sfup ... 
+         return of the abstract web illustrations (moderately NSFW): 
+www.avn.com/?Primary_Navigation=Articles&Action=View_Article&Content_ID=72431
+         ... Frontpage redefining web standards of "clean code", while 
+         you wait: http://www.ntk.net/2004/02/06/dohfrot.gif ... what 
+         they could've won: http://www.ntk.net/2004/02/06/dohbully.gif 
+         ... Co-op cynicism: http://www.ntk.net/2004/02/06/dohemp.jpg 
+         ... plus this month's Google goofs musically-themed special: 
+         http://www.google.com/search?q=%22singer+dongwriter%22 , 
+         Codplay, pooyphonic, mutilmedia (ie, jpegs of piercings etc), 
+http://www.google.com/search?q=%22send+it+along%22+%22tears+of+a+clown%22 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Not going to ETCON? Well, here's a chance to enjoy yourself 
+         while all those touchy-feely social software hippies are out 
+         of the country - Strange Attractor will be channeling a new 
+         kind of DARK ENERGY through regular Russell Square venue The 
+         Horse Hospital (from 7pm, next Tue 2004-02-10, UKP6), in the 
+         form of a "Mindclash" between "Techgnosis" author Erik Davis 
+         and Fortean-flavoured writer Ken Hollings, plus a showing of 
+         1950s UK scifi film "Fire Maidens from Outer Space". The event 
+         may also mark the debut of the organiser's first "Journal of 
+         *Un*popular Culture" - and, before you ask: no, you *don't* 
+         get in for free if you turn up dressed as Garth Merenghi.
+         http://www.strangeattractor.co.uk/talks.html
+           - vs "Greetings, Pilgrim": http://www.garthmarenghi.com/
+         http://www.memetank.net/mt/archives/000154.html
+                - speaking of slightly-behind-schedule magazines...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         After purchasing a webcam, one's mind naturally alights to
+         one application. Then when you realise dancing naked with a
+         hat on in front of three strangers makes you feel... soiled,
+         one quickly moves on to experimenting with pattern
+         recognition. PYMORPH is a fascinating bundle of image
+         processing hacks that will help you with the latter (and
+         maybe the former). Running with Python on Windows (and, 
+         with some .EXE zipfile dismantling, Unix), it's a toolkit 
+         of routines for "image segmentation, non-linear filtering,
+         pattern recognition and image analysis". Like much code 
+         that drops fully-formed from academia, most of it looks
+         incomprehensibly like crashed saucer technology. But what's
+         nice about Pymorph is how many explanatory demos are
+         included that visually step you through the magic of the
+         algorithms: "mmdchickparts" shows you how Pymorph can
+         automatically classify chicken bones. "mmdcookies" visually
+         separates broken biscuits from nice round ones. And for
+         those of you still looking for WMDs and the like,
+         "mmdairport" detects runways in satellite imagery. Just
+         playing around with the demos is enough to give you ideas.
+         And not those bad sick ideas you're trying to escape from,
+         either.
+         http://www.mmorph.com/pymorph/morph/mmdemos/index.html
+                                             - start with the demos
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         same old joke, always liked it: http://www.nice-tits.org/ ... 
+         "Kevin Bacon" experts - do not be taken in by "6 Degrees of 
+         Bevin Kaye" con: http://www.imdb.com/name/nm1508744/ ... 
+         new "one of these not safe for work like the others" (sigh): 
+         http://images.google.com/images?q=peapod ... "back way" 
+         machine, more like!: http://web.archive.org/web/*/goatse.cx 
+         ... "Raargh!": http://www.dea.gov/pubs/intel/01008/raver.gif 
+         ... top tip: create the impression that you're carrying out
+         background Google searches while on the phone by laboriously 
+         spelling out key phrases then interjecting random facts into 
+         the conversation... A66 - highway to the "Danger Zone": 
+         http://www.streetmap.co.uk/newmap.srf?x=376959&y=519160&z=5 
+         ... how homepages used to sound before blogs spoiled it all: 
+         http://www.edu.lahti.fi/~lloikkan/ ... Mozilla build goes one 
+         better than Microsoft, deletes all non-Mozilla applications: 
+         http://www.mozillazine.org/talkback.html?article=4264 ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Armando Ianucci risks falling back on the old "Because 
+         that's what the civil service *are really like*" in BRITAIN'S 
+         BEST SITCOM: YES MINISTER (7pm, Sun, BBC2)... a column in this 
+         week's Radio Times intriguingly argues that bowel cancer is 
+         never going to rival AIDS as the subject of star-studded TV 
+         events like ANGELS IN AMERICA (9pm, Sat, C4)... though neither 
+         ailment seems exotic enough to satisfy C5's medical curiosity, 
+         evinced in a double-bill of THE WOMAN WITH THE 14-STONE TUMOUR 
+         (8pm, Sun, C5) and THE WOMAN WITH THE MYSTERIOUS BRAIN 
+         (8.30pm, Sun, C5)... every time we use one of those syringe-
+         based inkjet-refilling kits, we never tire of recreating Sarah 
+         Connor's "Open it or he'll be dead before he hits the floor" 
+         scene from TERMINATOR 2 (9pm, Sun, C5)... TRAITOR (6pm, Mon-
+         Fri, BBC2) is the latest attempt to create a Prisoner's 
+         Dilemma-style game show... and ULTIMATE ATTACK HELICOPTERS 
+         (8pm, Mon, C5) is to be retitled for the international market 
+         as "The USA's Most Expensive Flying Targets For Rocket-
+         Propelled Grenades"... Brunel must create a brass exoskeleton 
+         to counter Stephenson's galvanic railgun in steampunk drama-
+         docu MEN OF IRON (9pm, Mon, C4)... the trailers are using 
+         Orbital's "The Box" rather than Andrew Lloyd Webber's chart 
+         hit version of the game theme for the story of TETRIS: FROM 
+         RUSSIA WITH LOVE (9pm, Mon, BBC4), part of a "Computer Night" 
+         that also includes HARD DRIVE HEAVEN: THE HISTORY OF THE HOME 
+         COMPUTER (10pm, Mon, BBC4) and perhaps a glimpse of Steven 
+         Poole's furrowed brow in TRIGGER HAPPY: THE INVINCIBLE RISE OF 
+         THE COMPUTER GAME (10.30pm, Mon, BBC4)... SOMEBODY'S DAUGHTER, 
+         SOMEBODY'S SON (10.35pm, Mon, BBC1) implies that having Peter 
+         Sellers as a dad was like living with a real-life Inspector 
+         Clouseau... Victoria "Harry" Harrison's mentoring tips for 
+         this week's "rock chick" FAKING IT (9pm, Tue, C4) presumably 
+         include releasing a a lame cover version, some dire sub-
+         "Tranvision Vamp" self-penned numbers, then disappearing 
+         completely from the public consciousness except for a token 
+         "Never Mind The Buzzcocks" appearance in about 5 year's time 
+         http://www.h-a-r-r-y.com/index2.htm ... and, after a terrible 
+         BBC4 version of his Perrier-winning show, hopes aren't high 
+         for Demetri Martin's COMEDY LAB (11.05pm, Tue, C4)... Linda 
+         "Freaks and Geeks/ Scooby Doo" Cardellini joins the cast of ER 
+         (10pm, Wed, C4) ... a tech-support guy is transformed into a 
+         bionic NSA agent in nano-nonsense JAKE 2.0 (8pm, Thu, Sky 
+         One)... Sandra Bullock becomes a hard-bitten beauty queen in 
+         Shatner nerd-makeover amusement MISS CONGENIALITY (8pm, Thu, 
+         C5)... and Jack Bauer leaves the CTU Counter Terrorist Unit to 
+         join what he mistakenly believes to be its British equivalent 
+         - the Broadcasting Entertainment Cinematograph and Theatre 
+         Union BECTU - in the new, more light-hearted series of 24 
+         (9pm, Thu, Sky One)...
+         
+         FILM>> yes, it's got an interesting indie cast, and it's a bit 
+         like Lee and Herring's "cool teacher" sketch crossed with 
+         "Dead Poets Society", but everything else turns out just a 
+         little bit thin in predictable Jack Black vehicle SCHOOL OF 
+         ROCK ( http://www.capalert.com/capreports/schoolofrock.htm : 
+         violation of school procedure; urination; there is great power 
+         in expression through music, but abuse of that power by modern 
+         artists is the problem)... age appears to be no barrier to 
+         romance between Jack Nicholson, Diane Keaton and Keanu Reeves 
+         in sitcom-style sassy OAP frolic SOMETHING'S GOTTA GIVE 
+       ( http://www.screenit.com/movies/2003/something's_gotta_give.html : 
+         [Amanda Peet] first removes her top to reveal her in a 
+         camisole or similar lingerie; we see a brief shot of 
+         [Keaton's] bare breasts as well as a full shot of her with one 
+         hand/arm over her chest and the other covering her crotch as 
+         she races away)... while the limited releases offer you 
+         bonkers European cinema homage THE DREAMERS ( imdb: 1960s/ 
+         brother-sister-relationship/ friendship/ paris-france)... or 
+         an equally romanticised view of the East End, with Luke Goss, 
+         Steven Berkoff, Leslie "Dirty Den" Grantham and his former TV 
+         wife Anita Dobson in retro gangster romp CHARLIE (press ads 
+         unfortunately make it look like the former Bros singer is 
+         fronting a "hip to street slang" anti-drugs campaign)...
+                           
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                  "two minutes on Dave Gorman's mouth tractor"
+                           http://www.antics.org.uk/          
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

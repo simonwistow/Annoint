@@ -1,0 +1,394 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____21/11/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                 "Hmm. Interesting, if somewhat disgusting, concept.
+         However, since I punched Mr McCandless in the jaw following
+         a drinking contest in which we, together with Bob Wright of
+           ION Storm, consumed numerous beers, three Jack Daniels, a
+              vodka, a tequila and a bottle of single malt Scotch, I
+                             think nuptials are out of the question.
+         - ZDNet's CAL JONES dismisses NTK plans to marry her off to
+         fellow Quake journo David McCandless in an extended "lifematch"
+                          - the lady doth protest too much, methinks
+
+
+                               >> HARD NEWS <<
+                                micro softies
+
+         Possibly in protest to the recent criminalisation of not-
+         for-profit software copying in the States, gunmen broke
+         into an East Kilbride CD plant and stole 100,000 MICROSOFT
+         CD-ROMs plus 200,000 holographic certificates of
+         authorisation. Actually, it's more likely to be an armed
+         response to decreasing RAM prices, leading to a decline in
+         "RAM-raiding" and a return to, ah, black market content
+         provision. Microsoft attorney Nancy Anderson warned buyers
+         to be on the lookout for software with "unusually low
+         prices, no support manuals... and unprofessional
+         backup...". Fine - but how do we spot the stuff that
+         *isn't* legal MS merchandise?
+         http://www.microsoft.com/corpinfo/press/1997/Nov97/thompspr.htm
+         - if they cut the holograms in half, would they get 400,000?
+         http://www.macresource.pair.com/mrp/ramwatch/trend.shtml
+                                   - Buy RAM! Sell CDs! Steal warez!
+
+         A great Web job, we like to say, is 80% perspiration and
+         20% termination - an adage born out with this week's
+         freshly killed jobs. In the US, WIRED DIGITAL, the no-
+         longer "Hot" Wired Web concern, culled a fifth of its
+         squealing monkeys, while MSN quietly began global
+         optimisations that will lead to a 20% speed-up in their
+         payroll software. MSN is dumping content creation
+         worldwide, moving to a cheaper "rip-off Yahoo" business
+         plan. One casualty at MSN UK was producer STEVE BILLINGER,
+         which now makes him an ex-ex-TV executive. "We really did
+         tap into a desire from independent TV producers," he told
+         The Guardian, revealing the wide-ranging knowledge of the
+         Web audience that got him where he is today. "They were
+         frustrated making CD-ROMs that were not getting into the
+         shops and not getting used." Not as frustrated as anyone
+         who tried to bloody use them, Steve. Still, better luck
+         next medium!
+         http://www.msn.co.uk/
+            - and that "TV-style Web shows" model was *so* promising
+         http://www.hotwired.com/
+                                                     - dream-on jobs
+
+         So, is the world really out to get Microsoft? Judging by
+         the votes to make SUN the official source for the official
+         International Standards Organisation's (ISO) Java
+         specification, almost certainly yes. Despite confident
+         crows by Redmond that Sun was, as a profit-making company,
+         an unreliable guardian of an important industry standard
+         (Kettle, Pot - Pot, Kettle), almost every country voted to
+         support the proposal. The exceptions were freedom-loving
+         China and the United States committee (who, coincidentally,
+         held their meeting at Microsoft headquarters). Before Sun
+         get excited, it's worth noting that the previous Language-
+         Most-Likely-To-Succeed, C++, has just reached the end of
+         its own ISO standardisation process. C++ first appeared
+         around 1980.
+         http://www.research.att.com/~bs/bs_faq.html
+         - C++ inventor Bjarne Stroustrop thinks "Java advertising
+         inaccurate and offensive". ANTI-NEWS!
+         http://www.iso.ch/
+                  - Mind you, they sorted out BASIC way back in 1991
+
+         And finally, in this special all-Microsoft supplement: BILL
+         GATES showed his new relaxed nature at COMDEX this week,
+         with a light-hearted keynote address not dissimilar to that
+         of the later, more "relaxed" Roman Emperors. Highlights
+         included: live on-stage threatening of NT code-slaves
+         (Lackey: "Hahaha. Must be a problem with this new beta
+         [gulp]" Bill: "Mmmm... snappy"), public humiliation of
+         court favourites (Steve Balmer was made to dress up as a
+         QVC salesman and pitch Microsoft Bob), and parades of
+         captured dignitaries (basketball king Kareem Abdul-Jabbar
+         made to admit he couldn't double-click as well as Bill).
+         Bill giggled like John Hurt's Caligula when pro-democratic
+         weaklings were mentioned (the DoJ, Ralph Nader), and
+         quietened only when a 6ft Praetorian Guard marine, Major
+         Jim Cummiskey, stormed the stage. (Major Cummiskey:
+         "knowing where the enemy is, and being able to call fire on
+         him, to have him stop hurting you is really important to
+         us." Bill: [nervous laughter]).
+         http://www.mbay.net/~jccummis/cgi-bin/mortgage.cgi?
+                             - Be afraid, Bill. The Major uses Perl.
+         http://www.microsoft.com/corpinfo/default.htm#comdex
+                        - Transcript edited for clarity, obscenities
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         COMPUSERVE losing money, subscribers... Oftel reports BTNET
+         "not priced anti-competitively" (really?)... Bug in POWERPC
+         750 found... Telegraph readers take "Alzheimer-riddled"
+         CONNECTED game review personally... EXCEL bug found in
+         numbers smaller than 10^-1,000,000,000... COCA-COLA
+         accounts for "less than 2" of the 64 ounces of liquid the
+         average person needs each day, complains Coke CEO... new
+         GUINNESS BOOK OF RECORDS high-score compo doesn't realise
+         it'll be a record if anyone's still playing Nintendo's
+         SHADOWS OF THE EMPIRE in a year's time... IE 5.0 due before
+         NT 5.0... COMPUSERVE magazine apologises for mis-spelling
+         dyslexia URLs... NOP survey reveals students believe
+         working with computers will "isolate them from people" (and
+         that this is a bad thing)... Website runs with headline
+         "GARY GLITTER to pull out of Children in Need"...
+
+
+                              >> EVENT QUEUE <<
+                             stacking the "odds"
+
+         Even if you've never heard of the games biz "Indin"
+         (INdustry DINner) that it's an alternative to, you may
+         still be able to have a good time at December's NINDIN (the
+         "N" is presumably a prefix "NOT" operator). Held at "The
+         Iceni" in Mayfair, London, 9pm-4am, Mon 15/12/97, tax-
+         deductible tickets are UKP50 each (or UKP300 for 10),
+         apparently in aid of Amnesty International. Last we heard,
+         they were still encouraging people to "forward this mail to
+         all your friends". You're our friends, aren't you? Contact
+         Alison Beasley on 01608 645756 or nindin97@dial.pipex.com
+         to check current status.
+
+         And what of the real NTK .NOT Awards? Patience, citizen.
+         Despite a profound slackness on our part in arranging a
+         venue (although we had a chance at the Astoria this week -
+         yes, be impressed), this years' celebration of all that is
+         technologically mediocre WILL go ahead, even if we have to
+         do it back at Dave's flat. But only with your help! That's
+         right, the scrupulously democratic .NOT Awards requires
+         your input. Go now to our NOMINATIONS PAGE, and enter your
+         selection of the very Worst of the British Net under our
+         easy-to-understand categories. Your "reward"? A chance to
+         hear "NTK Live!", the beta audio version of this dumb
+         newsletter as premiered to the first 200 NTK subscribers
+         earlier this month, and described as "[the] shit" by those
+         who attended. High-concept entertainment for the high-
+         bandwidth consumer.
+         http://www.ntk.net/not.cgi
+                   - No, the CGI doesn't check for swearwords. Sigh.
+         http://www.ntk.net/live/         ooh! Secret trapdoor link!
+
+
+                              >> BIG TRACKING <<
+                   chestnuts roasting on a Pentium heatsink
+
+         In a move as symbolically resonant as that urban myth where a
+         Japanese department store supposedly nailed a Santa Claus
+         effigy to a crucifix, American branches of TOYS R US have
+         sacked Father Christmas. Instead of mailing letters to the
+         fictional consumerist icon, young customers can now set up a
+         "gift registry" (like for wedding presents) at their favourite
+         branch, and go round scanning the barcodes of the presents they
+         want using light pens. It's hoped this may avoid the potential
+         disappointments of the previous system, which required
+         sophisticated moral judgements on "who's naughty" and "who's
+         nice".
+         http://www.toyrus.co.uk/
+                  - ...millions, says "Geoffrey", all under one roof
+
+         For everyone who felt that family board games were
+         insufficiently like Command & Conquer: ZENTERTAINMENT reports
+         that DCP Games have devised a "new advancement" on the ancient
+         table-top favourite, Checkers (marketed in this country as
+         "Draughts"). The new variant, called CUBE CHECKERS, replaces
+         all the pieces with dice-like cubes which are rotated "over to
+         the next highest number... to survive jump attacks and become a
+         king". It's endorsed by TV funnyman Bill Cosby, perhaps noting
+         his skill at transcending traditional white/black boundaries.
+         http://www.imall.com/stores/dcpltd
+                     - from the folks who brought you 4-player chess
+
+         The Perl lover in your life will never stop thanking you
+         for THE O'REILLY PERL RESOURCE KIT this Noel. Well,
+         actually they will. They'll thank you once, a little
+         awkwardly, then go very quiet as they flip through the
+         three new Perl books, the CPAN CD-ROM and a Perl/Java
+         module written especially for them by Larry Wall, creator
+         of Perl. Then you won't see them until the New Year, when
+         they'll return from the computer room drooling and
+         delirious.
+         http://perl.oreilly.com/prk_index.html
+                       - and that's what comes of dating Perl users.
+
+         How many times have you promised to construct a solar-
+         powered subsumption-architecture spider-legged toilet-
+         cleaning robot for *your* family? Keep your resolution this
+         year and order THE MONDOTRONICS CATALOGUE. With robot kits
+         that begin for the age 7s, reels of muscle wire as used on
+         Pathfinder, programmable bots from MIT, Fischertechnik,
+         videos of Silent Running, 130-part Dalek models, user
+         instructions like "Hey, what if you're not Asimov, Edison,
+         Tesla and Turing all rolled into one? Don't worry, nobody
+         is!", a unique Austrian product best described as "My First
+         Machining Lathe" *and* BASIC type-in listings, how could
+         you go wrong? Batteries not included.
+         http://www.robotstore.com/
+                        - we meant the movie. And, yes, they have it
+
+         Meanwhile, in freebie land, Jean-Louis Gassee's BeOS
+         operating system has become freely available for download
+         on Minitel - sorry, the Internet. It's around 9 megs of
+         gloriously obscurantist operating system for most PowerPC
+         Macs, and is ready to install straight onto a Zip or Jaz
+         cartridge - perfect as a little "wrapping" on your backup-
+         medium prezzie for your favourite Mac geek.
+         http://www.be.com/                       just be. Just you.
+
+         True to the season, Apache, the Webserver of choice for
+         UNIX weenies has made it over No-Man's-Land to play footie
+         with the Windows platform. The executable is only a
+         megabyte, and the server is fast and fully configurable,
+         allowing you to quickly set up an impressive Web presence
+         that will reach - ooh, almost as far as your company's
+         firewall. Check it out, Wintel scum.
+         http://www.apache.org/     for those office party intranets
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         oh, how swiftly/ the SATSUMAS of autumn/ are replaced by/
+         winter's CLEMENTINES... Finns use mobiles to operate
+         VENDING MACHINES - Brits use mobiles to watch TV (at
+         Waterloo station)... it's "Magic Eye" meets Ascii Art meets
+         "Where's Wally?" - www.photomosaic.com ... Dilbert's SCOTT
+         ADAMS masquerades as consultant, fools Logitech
+         executives... Kaczynski to Shrink: You Are the Enemy -
+         WIRED NEWS... The "UNIX Power Tools" Purity Test...
+         www.morgan-auctions.co.uk/ ... DUNE prequels to be written
+         by Frank's son (aka Herbert Messiah) and Kevin J Anderson
+         (former SFX sci-fi author of the year - for novelising the
+         X Files)... down with logic gates - up with look-up
+         tables... "Make Your Own Bombs, Fight The Bloody IRA!!!"
+         USENET spam... Wing Commander - the Movie ... GUARDIAN to
+         "outsource" Media Lab to Online Magic?... fuck Barbie, it's
+         a LASSIE WAR out there - http://members.aol.com/LassieNet/
+         ... upcoming X-MEN movie - directed by Bryan "Usual
+         Suspects" Singer, stars Patrick "Trek: TNG" Stewart?...
+
+
+                               >> GEEK MEDIA <<
+                 multicast, full-motion, streaming ... stuff
+
+         TV>> occasionally amusing sitcom eponym ELLEN (9.35pm, Fri,
+         C4) doesn't start this series as a lesbian (though there
+         are hints) but - according to current US reports - ends up
+         trying to "out" Emma Thompson... is the uselessness of VR
+         cash-in nonsense THE LAWNMOWER MAN (10.15pm, Sat, ITV)
+         actually a cunning satire on flaws in the CDRS Viewperf
+         benchmark?... more episodes this time for the (often
+         excellent) ADAM AND JOE SHOW (11pm, Sat, C4) may help them
+         shake off that "junior Lee & Herring" tag... contrary to
+         Time Out's ill-informed "preview", radio docu POP GOES THE
+         WEB (9.30pm, Sun, Radio 1) devotes about half its airtime
+         to kewl MPEG sites... the Radio Times perhaps shares too
+         much by describing voyeur-murders classic PEEPING TOM
+         (10pm, Sun, C4) as "a stunning metaphor for an audience's
+         relationship with the screen"... if anyone can make
+         something interesting out of "what happened here?" ramble
+         THE HISTORY HOUR (1.10pm, Mon-Fri, BBC2), it'll be cycling
+         Local Heroes nutcase, Adam Hart-Davis... no, EQUINOX (9pm,
+         Mon, C4) *isn't* taking the mickey (as far as we know) with
+         an early-mammals expose entitled "When Pigs Ruled The
+         World"... if Dominik Diamond *does* decide this should be
+         the "last ever" series of GAMESMASTER (6pm, Wed, C4),
+         surely they should just promote the recently re-instated
+         Patrick Moore... vast numbers of Britain's youth now seem
+         to be hooked on cult-smack-fest TRAINSPOTTING (10pm, Wed,
+         C4), though it's a shame the film doesn't sustain the Press
+         Gang-inspired witty dialogue it starts off with... oh, and
+         animation mag DOPE SHEET (12midnight, Thu, C4) tries to
+         interview Chuck Jones - as he scampers away from them and
+         drops anvils on their heads...
+
+         MOVIES>> sheesh, you wait all year for a gruelling war-
+         what-is-it-good-for? drama - and then three of 'em turn up
+         at once: WELCOME TO SARAJEVO (imdb: war / drama) is based
+         on ITN journo Michael Nicholson's real-life Bosnian-
+         adopting antics, with Woody Harrelson as his sarcastic
+         friend... REGENERATION (imdb: war / drama / psychology) is
+         like Blackadder Goes Forth, only with war poems instead of
+         jokes (did anyone *not* do Wilfred Owen at O-Level?)... and
+         Brad Pitt and David Thewlis use comedy Nazi accents to
+         enliven Dalai Lama ding-dong SEVEN YEARS IN TIBET (imdb:
+         drama / biographical)... and if that doesn't leave you with
+         post-traumatic stress disorder - you wait all year for a
+         quirky American class-conflict romance, then two of 'em
+         turn up at once: INVENTING THE ABBOTTS (imdb: drama /
+         romance / 1950s / class-conflict) has Liv Tyler and
+         Jennifer "Labyrinth, The Rocketeer" Connelly, while LAWN
+         DOGS (imdb: drama) is like The Lawnmower Man without any
+         computer graphics (- yikes!)... Alicia Silverstone seems to
+         be playing the title role in EXCESS BAGGAGE (imdb:
+         adventure / comedy), while Tim Robbins and Christoper
+         Walken clearly had NOTHING TO LOSE (imdb: adventure /
+         comedy) - you wait all year for a zany botched-kidnapping
+         buddy flick, then... alright, just pointing out that,
+         including A Life Less Ordinary, this makes three of them in
+         as many weeks, OK?
+
+         GAMES>> G-POLICE, COLONY WARS, OVERBOARD even? - yes, it
+         would be a shame if Psygnosis drifted back to their "looks
+         great, plays like a brick" reputation, especially for
+         anyone who still remembers their graphics-heavy Amiga
+         snoozerama SHADOW OF THE BEAST... put your foot down: TOTAL
+         DRIVING (Ocean, PlayStation) feels like a kids' version of
+         the still matchless V-RALLY, while TOCA (Codemasters,
+         PlayStation) isn't bad but doesn't match the insanely
+         uncontrollable speeds of TOURING CAR (Sega, Saturn) - and
+         disappointingly (for Telegraph readers?) upcoming Sony '98
+         racer GRAN TURISMO does not feature speeding Grandmas...
+         well, obviously they couldn't afford to license the
+         likeness of Harrison Ford (though *surely* they could have
+         got Daryl Hannah or Rutger Hauer) but - to stay true to the
+         film - shouldn't the point of BLADE RUNNER (Westwood, PC)
+         be that you empathise more with the replicants than with
+         the "humans"?... no recoil required for the extended
+         version of arcade lightgun fave TIME CRISIS (Namco/Sony,
+         PlayStation) - one of the few remaining games that still
+         lets you shoot "real" people...
+
+
+                                 >> COMPO <<
+                               losers take all
+
+         Last week's sarcastic acrostic acted as an intriguing
+         benchmark of all your counting skills - with the first
+         entries coming from Perl coders, swiftly followed by some
+         guy who said he worked it out using GNU Emacs. But it's not
+         speed and it's not style that matters here - because it's
+         completely bloody arbitrary. The randomly selected winner
+         was Demon subscriber LINDSAY GILMOUR, who gets a copy of
+         BLADE RUNNER (the game), some "intelligent" drum and bass,
+         a ticket to those elusive .NOT awards, and 20cl of
+         champagne (in a bottle, you'll be reassured to hear). And
+         if you'd like a chance to win this week's riches, just
+         track down the hacked website www.*.co.uk/now.html, where
+         '*' is the parent brand whose "biggest" product delivers
+         precisely this heady cocktail of nutritional info:
+
+              Energy: 2.5kJ (0.6kcal), Protein: 0.1g,
+              Carbohydrate 0.1g (of which sugars: NIL), Fat:
+              NIL (of which saturates: NIL), Fibre: NIL - and
+              a delightful "trace" of Sodium!
+
+         (oh, and then you have to mail us the answer, obviously).
+         Alternatively, if you're a corporate Webmaster who'd like
+         to put your career on the line for the sake of a stupid
+         prank (whose results we can never properly publicise
+         anyway), off you go to http://www.spesh.com/compo/ (Oh, and
+         for a complete copy of the rules and conditions, please
+         refer to The Computer Misuse Act, 1990.)
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "peaking too soon, seasonally".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

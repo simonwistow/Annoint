@@ -1,0 +1,335 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____12/12/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+              "In our opinion, every week should be year 2000 week."
+         KARL FEILDER, MD of Greenwich Mean Time (a Y2K consultancy)
+                            - isn't that what we're trying to avoid?
+
+
+                               >> HARD NEWS <<
+                                soft wariness
+
+         A couple of hacker gangs got Warhol-portions of fame after
+         YAHOO's front page was uhh... redesigned for 15 minutes on
+         Monday. The world's favourite bulleted list got replaced
+         with a manifesto that mixed fanciful threats (worldwide
+         virus infections set to go off on Christmas Day) with a
+         sadly accurate protest regarding Kevin Mitnick's
+         mistreatment as he ends his third year in jail without
+         trial. Unfortunately, the only Yahoo server to be broken
+         was one feeding Lynx users - and while it's refreshing to
+         find something that's *only* viewable on that text-only
+         browser, if that's not preaching to the converted, we don't
+         know what is. Meanwhile, Brit journalists missed two
+         potentially juicier Webhacks - the fall of the equally
+         technically adroit (no, really) Demon, whose nameserver was
+         hacked on Sunday, [1] and the just as politically-charged
+         sabbing of the The British Field Sports Society's site.
+         Meanwhile, the spate continued with the zapping last night
+         of Murdoch's www.fox.com. What is this, Christmas holiday
+         homework from the Bugtraq boys?
+       [1] Actually, it was a Demon customer. Update in next NTK - Ed.
+         http://www.hacked.net/        - catch 'em while they're hot
+         http://www.kevinmitnick.com/  - hold 'em 'till they're cold
+         http://www.bfss.org/
+                   - is this still hacked or was it always this bad?
+         http://www.geek-girl.com/bugtraq/1997_4/0451.html
+                - Aleph One's mailing list. But you can call him Al.
+
+         Oh, the hubris! On the eve of Quake II's appearance in the
+         shops, Id's JOHN CARMACK achieved the other qualification
+         for Code God. He fragged Microsoft. In a joint press
+         release with SGI, Microsoft agreed to officially
+         endorse SGI's 3D API OpenGL on its platforms. While the
+         statement doesn't actually say that Id was right all along
+         and Microsoft's competitor Direct3D sucks giblets, everyone
+         knows that's what it *means*. The pointed omission of
+         Carmack from the industry figures quoted just goes to show
+         how hard his nailgun rants about OpenGL superiority hit
+         home. But just as deification looked a sure thing - what's
+         this? A bug report from Id? Some debug code accidentally
+         left in the CD of Quake II that sends a heartbeat packet
+         from any Quake 2 server on the Net to Id's own internal
+         servers? Debug code which itself is buggy, causing the
+         packet to be sent not every 300 seconds as planned, but
+         every 300 *milliseconds*, thus effectively wiping out Id's
+         own Net connection? Carmack - fallible? The horror!
+         http://www5.zdnet.com/zdnn/content/zdnn/1211/262353.html
+                                         - It's almost Shakespearian
+         http://www.sgi.com/Headlines/1997/December/ddk_release.html
+         - Also, the deal obliges manufacturers to do a D3D driver too
+                                             so Bill's *still* Satan
+
+         The US DEPARTMENT OF JUSTICE on Thursday declared that
+         while Microsoft weren't necessarily guilty of breaking their
+         anti-trust agreement, they did look pretty shifty.
+         Accordingly, the judge ordered them to stop obliging
+         manufacturers to bundle IE with Windows 95, and appointed a
+         "Special Master" to investigate further. The "Special
+         Master", Lawrence Lessig lives alone in a swamp at Harvard
+         Law School, Dagobah system, and is an expert, disturbingly,
+         on "cyberlaw". He has until May 31st to give his opinion -
+         which is close enough to the release date of Windows 98 to
+         give Microsoft the willies. On the other hand, if you were
+         a hardware manufacturer whose existence depended on keeping
+         in with Gates, would *you* suddenly switch sides, just
+         because you can?
+         www.law.harvard.edu/Academic_Affairs/Faculty_Directory/l.html
+                                             - monopolistic you are!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         STEVE BALLMER says IE4 had quality-for-deadline tradeoff...
+         72% of hacking attempts originate from outside US... "Web
+         Based Journalism Often Includes Rumours", opines the
+         rigorous FORBES MAGAZINE... 54% of Webmasters hate
+         "Webmaster" title - but they still can't come up with a
+         better one... Wired Ventures' NEWSBOT "down for repairs"
+         ... Christmas cards "really do make people happy",
+         scientists report... BMG claim GRAND THEFT AUTO stock
+         nicked by "ram raiders"... APPLE's Website makes $12
+         million a month; Dell makes $6 million a *day*... MS's
+         Nathan Myhrvold investigating how dinosaurs moved so fast.
+         Wonder why? ... MICROSOFT advises Govt. on online self-
+         employed registration project: forms turn out to be
+         Explorer only... 66% of IT Managers have experienced
+         "complete project failure", survey says... NEIL TENNANT to
+         produce NOEL COWARD covers album...
+
+
+                              >> EVENT QUEUE <<
+                             stacking the "odds"
+
+         We've had a few, shall we say, disbelieving e-mails about
+         the .NOT Awards, and we're not afraid to say that we find
+         your lack of faith... disturbing. Okay, so we've moved them
+         to January. So what? The 1997 Oscars are in *March* for
+         God's sake. But we are nothing if not bounteous in our
+         generosity. Take this e-mail as your official invite to THE
+         NEED TO KNOW CHRISTMAS PARTY, which takes place on SATURDAY
+         20th DECEMBER at 8pm onwards at BACKSPACE, a funny little
+         cyberplace with comfy seats in CLINK ST, LONDON, ENGLAND.
+         Space is a bit limited so please RSVP tips@spesh.com to let
+         us know if you're turning up. The enforced fun will include
+         MIDI Karaoke, videogame charades, a Gates/Jobs shooting
+         gallery, the rapier wit of your fellow subscriber
+         contributors, and some free drink. Please bring a floppy.
+         http://www.backspace.org/clink
+         - the phrase you're looking for is "Yes. Am impressed."
+
+         Fancy yourself as a bit of a retro coder? Then perhaps you
+         could win the UNIVERSITY OF MANCHESTER's competition to
+         write a new program for the first ever stored code
+         computer, Baby. There are a few restrictions: firstly, the
+         program has to fit in 1024 bits of memory (yes, bits), and
+         there's no output apart from one blinking light and a
+         binary dump of the core on a primitive cathode ray tube
+         (maybe mini-Tetris?). Winners will get a chance to see
+         their code entered into the replica of Baby being built for
+         its 50th anniversary next year. To help you, there's a
+         smart emulator to download, which runs only in DOS and
+         isn't guaranteed to run under Windows. Wow - these guys
+         take their O/S preservation *seriously*.
+         http://www.cs.man.ac.uk/prog98/
+           - "as powerful as a child's calculator"? What, the TI-58?
+
+
+                             >> ANTI-TRACKING <<
+                   stuff you thought you needed. but don't
+
+         JAVASOFT have, with much pomp and circumstance, released
+         the Activator, a plug-in that allows you to run JDK 1.1
+         Java apps on any browser, even the non-compliant Netscap-
+         er, Microsoft Explorer. A clever and sneaky hack? Well, we
+         could think of cleverer: the plugin first demands your
+         viewers download the full 3MB Java 1.1 virtual machine and
+         class library (why didn't they just release patches to the
+         present Netscape/IE4.0 libraries? Or is that *too*
+         sneaky?). Secondly, you have to rewrite all your HTML to
+         embed the Java app within a plug-in tag, so that it's
+         invisible unless you download the plug-in. And at the risk
+         of repeating ourselves, isn't that what all this was trying
+         to avoid?
+         http://www5.zdnet.com/zdnn/content/zdnn/1211/262353.html
+         - write once, run anywhere (if you've got all the
+                                        stuff pre-downloaded anyway)
+
+         DAVE WINER (what ever happened to that Winder chap,
+         anyway?) has released the first version of his Frontier
+         scripting language for the PC. First reactions (from
+         accredited Frontier fans): Middling to "oh dear". He's done
+         that stupid stick-all-the-floating-windows-in-the-Mac-app-
+         in-one-big-unmanageable-Win95-window mistake, and the
+         interface is too Macish by half. Worth a look if you're
+         part of the Apple diaspora, but otherwise, "uncoooooooool".
+         http://www.scripting.com/
+                      - and Aretha Franklin sucks. Nyah, nyah, nyah.
+
+         Death to record companies! Empower the artist! And charge
+         them for the privilege! That's the plan for Manchester-
+         based MUSIC NETWORK INTERNATIONAL (nb: not the Music
+         Network formerly known as part of Webmedia), who'll be
+         showcasing the music of unsigned bands via "secure" Liquid
+         Audio from next Jan. They think listeners'll pay a quid to
+         download individual MPEG3-quality tracks (after enjoying a
+         RA-quality preview), of which 40 or 50p goes straight to
+         the band - and they think musicians'll pay UKP100 a time to
+         join the scheme. Well, maybe it really is digital
+         distribution sidestepping the middleman (ie the one that
+         normally pays big advances), rather than just an online
+         variant on those music mag small ads that go "will put your
+         lyrics/poems to music for small fee"...
+         http://www.music-www.com/
+                            - link to Liquid Audio, but no more info
+         http://www.mp3.com/                       too legit to quit
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         selling ad-space on "404"s ... no UK release for JACKIE
+         BROWN till at least May?... Netnames, witness for Virgin in
+         ONE IN A MILLION court case has "telecom.bt" ... Pursuits++
+         - http://www.trivial.net ... ICQ say "eh-oh"...  Brit
+         Newshub: www.newsnow.co.uk ... Ross' guide to hacking GSM :
+         http://catless.ncl.ac.uk/Risks/19.48.html#subj5 ... company
+         that pitches an "accelerated device for routing packets"
+         for $3 at Internet Expo is - the US POST OFFICE... No
+         Sisters of No Mercy: http://members.xoom.com/ssv/ ...
+         www.ronthemusicmaker.org/p_jpg/listen.htm ...selling link
+         placements... new PRODIGY video available as "Duke Nukem"
+         mission pack... PAUL LEYLAND, other Cambridge cypherpunk
+         make the move to Microsoft... STARSHIP TROOPERS *is* just
+         as violent, ridiculous, and crypto-fascist as everyone
+         says... http://av.yahoo.com/bin/query then hit reload...
+
+
+                               >> MO' MEDIA <<
+           why don't you turn in and do something less interesting?
+
+         TV>> extreme violence ought to spice up tonight's FRIENDS
+         (9pm, Fri, C4) in the form of an "Ultimate Fighting"
+         contest, though sadly it only involves Monica's
+         CEO/Swingers boyfriend, and not useless guest stars Billy
+         Crystal and Robin Williams... yes, it was us who sent them
+         the net tips on cool stuff to put in microwaves in the last
+         ADAM AND JOE SHOW (11pm, Sat, C4) until New Year's Eve...
+         maybe the Star Trek movies would have got more "hits" if
+         they'd used AltaVista to carry out THE SEARCH FOR SPOCK
+         (3.35pm, Sun, BBC1)... MOVERS AND SHAKERS (8pm, Mon, C4)
+         rolls the d20 on table-top battlers like Warhammer...
+         compared to Jeremy Hardy & Jack Dee's lame efforts, Paul
+         Merton ought to do a better paranormal spoof with DOES
+         CHINA EXIST? (10pm, Mon, BBC2)... HG Wells pursues Jack The
+         Ripper through modern-day San Francisco in intelligent Time
+         Machine rip-off TIME AFTER TIME (9pm, Tue, C4), up against
+         Shane-Black-scripted action classic LETHAL WEAPON (9pm,
+         Tue, ITV)... it's rare that a remake is this much better
+         than the original, but of course that's kind of the point
+         of 1978's appallingly scary version of INVASION OF THE BODY
+         SNATCHERS (11pm, Wed, BBC1)... oh, and the cute wobbly
+         robots in eco-space fave SILENT RUNNING (6pm, Thu, BBC2)? -
+         apparently they're midget amputees *walking on their
+         hands*...
+
+         MOVIES >> they say TOMORROW NEVER DIES (imdb: action /
+         james-bond / spy) but someone really should put the James
+         Bond franchise out of its misery: Brosnan, Jonathan Pryce
+         and Michelle Yeoh gurn through a catalogue of tedious
+         stunts, technical inconsistencies and appalling dialogue,
+         and Teri Hatcher's hardly in it at all, after negative
+         reactions from test screenings... the not-very-ironic teen
+         serial-murders of I KNOW WHAT YOU DID LAST SUMMER (imdb:
+         horror / thriller / mystery / hit-and-run / slasher /
+         revenge) shows why Miramax wanted to make Sony take "From
+         the creator of Scream" off their poster - probably one for
+         only the most deeply psychotic stalker-fans of Sarah
+         Michelle Gellar (aka TV's Buffy The Vampire Slayer)... and
+         strangely, Stephen Rea's IRA philanthropist in A FURTHER
+         GESTURE (imdb: unclassified) isn't supposed to be a sequel
+         to his role in The Crying Game, though you could pretend it
+         was if you liked...
+
+         SHINY TEXT>> disappointingly, MINISTRY (UKP 2.40) isn't a
+         glossy fanzine devoted to "Weird" Al Jourgensen's
+         industrial goth-metal outfit, and turns out to be a sort of
+         Bizarre/Stuff-style badly designed consumer guide to
+         clubbing, sex, toilets, sex in toilets, and drug
+         paraphernalia. The free CD isn't bad though... so, in a
+         month when Q (UKP 2.70) runs Noel Gallagher's Antinews
+         revelation that he "nicked" some of David Bowie's tunes,
+         instead we're going to review the free Xmas music mag CDs
+         that sometimes become mysteriously detached from the covers
+         and that you can then presumably take home for nothing. The
+         Q one, needless to say, is terrible (Chemical Brothers,
+         Primal Scream, Texas - and Bush!)... MUZIK (UKP 2.40)
+         reckon that theirs covers "1997: the tunes", and they may
+         well be right, if you spent the last year listening to
+         nondescript jungle, speed garage and the world's worst ever
+         remixes of Underworld and The Prodigy... our surprise
+         recommendation is therefore the "House Puts The Breaks On"
+         compilation stuck to MIXMAG (UKP 2.30) - just a weird out-
+         there obscure retro-techno fest, plus an interesting
+         reminder that if music publications can put a decent CD on
+         the front without doubling their cover price, then *why
+         can't computer mags*?... and as NTK went to press, news
+         reached us of the UK's first monthly Tamagotchi mag
+         (1.35UKP) , with free stickers classifying their
+         developmental stages. Still think they should have called
+         it "Tamagazine-otchi", though...
+
+
+                                 >> COMPO <<
+                       void where not prohibited by law
+
+         Congratulations this week to Keith Lawler, who asks "Well,
+         I found it. Now what do I do?". You celebrate, Mr Lawler,
+         the imminent arrival of the almost self-defeatingly titled
+         The Best Rock Ballads In The World Ever! (Volume 2) and the
+         nonsensical graphic novel Tarzan vs Predator At The Earth's
+         Core ("Guards! Seize him! SEIZE HIM!").
+
+         Almost time to wrap up the competition for this year. But
+         you still have one more chance to write in with the
+         now.html you have secreted as an internal security test on
+         a Website you administer. Remember - external hacks are
+         heavily frowned upon (though we'd probably have bent that
+         if those guys had sent us www.yahoo.com/now.html - Fools.)
+         Full details, as ever on http://www.ntk.net/compo/
+
+         This week's clue for an URL of the form http://www.******.***:
+
+                            "Spot the extra dot."
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+   It is registered at the Post Office as "never using My Briefcase again".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN.NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

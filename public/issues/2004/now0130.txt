@@ -1,0 +1,309 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-01-30_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Where Labour leads, others will follow. Every so often some 
+         issue turns into a race between political parties desperate to 
+         give us more of something - dreadnoughts before the first 
+         world war, housing after WW2, why not connectivity and 
+         interactivity for this generation?"
+ http://media.guardian.co.uk/mediaguardian/story/0,7558,1130925,00.html
+            - broadband fanatic David Docherty unveils Conservatives' 
+                        new "Dialup isn't working" election campaign
+
+
+                               >> HARD NEWS <<
+                               choo-choo-choos
+
+         It's not looking good for any of the BBC right now - least
+         of all for its scraggy Internet end. Greg Dyke and Gavyn
+         Davies were two of the BBC's Secret Masters who got the Net
+         at least partially. It was Dyke who geed up the Creative
+         Archive, that theoretical GPLing of times past; it was
+         Davies who pushed the Directors to consider using the Net as
+         a serious part of the BBC's public service. Years of careful
+         tutoring by the quiet tech advocates in the syrupy slow
+         world of the Beeb - gone. And now that the BBC's hands are
+         shaking so much they can barely write their new charter, ,
+         will the corporation really be brave enough to try anything
+         new or exciting on the Web? And if there are crowing uk
+         netmedia types rubbing their hands at the idea of a less
+         invasive BBCi in the online world: you'll be amazed at how
+         much more damage a rearing, blinded bull in a still small
+         farm can do. And then, while it thrashes, the nastier beasts
+         of the jungle slide into your stalls.
+         http://b3ta.com/board/2688682
+                                        - that b3ta coverage in full
+        http://lists.gllug.org.uk/pipermail/gllug/2004-January/041215.html 
+                                - and is there Ogg still, over RTSP?
+
+         GOD EMPEROR of WEBSCRAPING MATTHEW SOMERVILLE has announced
+         that his first class remaking of our appalling national
+         railway Websites is now in. "It should cope with everything
+         from misspelt stations, to weird single tickets, to
+         unorthodox matrix results", writes Matthew, as he steps out
+         onto the running plate of his new creation, his automated
+         scripts stoking the copper firebox within. Slip into your
+         browser, hand your URL ticket to the location bar, shut the
+         door, and luxuriate in the fine upholstery of Somerville's
+         site (with its lack of javascript, frames, long unnecessary
+         pauses and general inaccessibility of the original). Then 
+         buy a ticket from the people who run the dreadful original 
+         sites, we guess. Once again, we reward those who hurt us the
+         most. Doh!
+         http://www.dracos.co.uk/railway/timetable/
+               - wait all year for a new timetable site to arrive...
+         http://www.newearth.demon.co.uk/rail/odb/odb.htm
+                   - ...then two of them come along at the same time
+
+         Our latest self-defeating competition, "Buy A Dumb Domain
+         and Show .name How Foolish They Are By Paying Them" seems to
+         be ticking along just fine. Subscriber NICK CROSSLAND took
+         out "madeup.domain.name", so he can be madeup.email.address
+         at madeup.domain.name. DAVID BARTON got as far as the credit
+         card page before balking at "name.name.name". CHRIS SHEA
+         also stepped away from the vehicle before purchasing
+         dubya.wanker.name. Suitably inspired, however, he went on to
+         buy dodgy.name and dubious.name. But we think MARK HEALEY
+         wins the nominal prize this week, being the proud owner
+         "dot.dot.name". Now I can be emailed at "dot.dot at
+         dot.dot.name", he writes, seemingly in morse.
+   http://www.thisishell.co.uk/cgi-bin/whois.cgi?domain=dot.dot.name
+- remember, these are all bona-fide real names, just like .name promised
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         McMURPHY!: http://www.ntk.net/2004/01/30/dohnich.gif ... MS 
+         taking no chances: http://www.ntk.net/2004/01/30/dohrowe.gif 
+         ... not having quite as much luck with their HTML-entity 
+         encoding though: http://www.ntk.net/2004/01/23/dohgt.gif ... 
+         nice targeting: http://qwer.org/IETFAntiSpamList.html ... most 
+         illuminating: http://qwer.org/NoMeaning.html ... The Studio 
+         Cut?: http://www.amazon.co.uk/exec/obidos/ASIN/B00008FEEA/ ... 
+         return of double-URLtendres: http://www.analternative.org/ , 
+         www.ChildrenSwear.co.uk , www.cummingfirst.com/organ.html ... 
+         you may need to download Adobe Acrobat to display this 404: 
+         http://www.researchandmarkets.com/reports/37979/37979.pdf ... 
+         Scottish skiers looking forward to next decade's ice age: 
+         http://www.ntk.net/2004/01/30/dohnevis.gif ... exaggerated 
+         marketing claims: http://www.ntk.net/2004/01/30/dohonly.gif - 
+         vs some humility: http://www.ntk.net/2004/01/30/doh1and1.gif 
+         ... been putting it off even longer than Adam Hart-Davis 
+         realised?: http://www.ntk.net/2004/01/30/dohinland.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         This year's SCI-FI LONDON FESTIVAL continues to emphasise its 
+         "strictly non-geeky" stance with attractions including flying 
+         turtle tosh "Gamera 2: Attack of Legion", an Anime Allnighter, 
+         plus "Dean Haglund's X-Files Improv" (festival started 10am 
+         today, to this Sunday 2004-01-02, various prices and central 
+         London venues). And their annual DOUGLAS ADAMS MEMORIAL DEBATE 
+         (5pm tomorrow Saturday 2004-01-31, Curzon Soho cinema, UKP6) 
+         will be tackling the thorny question of "How Much Does Sex 
+         Drive Technology?", in the company of bonkers Aussie cyborg 
+         Stelarc, Mark "Black Ice" Bennett, Orlan collaborator Dr 
+         Rachel Armstrong, and NTK's "Dave Green", the latter firmly 
+         on the "Well, not very much when you think about it" side.
+         http://www.sci-fi-london.com/2004web/programme.htm
+          - vs http://www.livejournal.com/userinfo.bml?user=clunkies
+         http://www.ukuug.org/events/winter2004/
+         - "early bird" deadline today for UK Unix conference in Feb
+         http://www.codecon.org/2004/
+            - ditto for CodeCon 2004, from 20th Feb in San Francisco 
+         http://gamesmeet.darkspace.org.uk/cgi-bin/gwi?mode=page&pg=g2k4
+                 - G2K4 Essex bunker LAN party starts 5.30pm tonight
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         PHONEBOOK is an ongoing, alpha-level crypto project that you
+         pray will carry on past the proof of concept phase, through
+         the pain barrier onto the stable-enough-to-use level, then
+         further to the triumphant "strangers write a decent UI for
+         this craziness" zone. It's Python-and-userfs implementation
+         of a plausible deniability filing system. In other words, it
+         lets you create a encrypted directory full of secret files,
+         protect them with a passphrase, then create another
+         encrypted directory full of secret-*looking* files,
+         protected with another passphrase. The two (or more)
+         directories are stored in the same gibberish-filled data
+         files. When the bad guys demand that you hand over your
+         password (and wield rubber-hoses to ensure you do), you give
+         them the second less-incriminating password. There's no way
+         to find out there's another *really* secret vault hiding
+         under that. Phonebook supports multiple layers, all kinds of
+         chaff, and enough gritty attitude to make this usable for
+         everyone. One day: for now, expect some kernel meddling and
+         bug reporting. Or decent UI designing, even.
+         http://www.freenet.org.nz/python/phonebook/
+                    - so paranoid, you begin to get a bit suspicious
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+      http://www.breedar.co.uk/news.bbc.co.uk/1/uk_politics/3441181.html
+         vs http://tinyurl.com/2wcf7 , http://tinyurl.com/3gn5l ... 
+         ironically, now trying to detect very faint traces of past off 
+         old hard drive: http://www.ghoststudy.com/fresh.html ... won't 
+         just be their DVD-Rs with a "purple bottom" if FAST get hold 
+         of: http://www.krammit.com/ ... existential reader reviews: 
+http://www.gamespot.com/pc/driving/bigrigsotrr/reader_review.html?id=1577516
+         ... the first point to make is - this isn't pyramid selling: 
+         http://www.hyperbrain.me.uk/gadgets/how.htm ... usable URL: 
+  www.doorsdirect.co.uk/acatalog/copy_of_copy_of_copy_of_Pan_Drawers.html 
+         ... one of these pics is not safe for work like the others: 
+         http://images.google.com/images?q=vodka ... you know you're 
+         addicted to ebay #1: when you're popping down to the corner 
+         shop to get a pint of milk and catch yourself thinking "I bet 
+         someone's selling it cheaper online"... avoid Pseud's Corner/ 
+         Wankometer by sticking "name" and "logo" designerbollocks in 
+         Flash page: http://www.total.com/identite/siteevt/en/ ... 
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> yes, someone does still make "these sorts of programmes", 
+         confirms C4 with new series of SEX AND THE CITY (10pm, Fri, 
+         C4), NY GRAHAM NORTON (10.35pm, Fri, C4), BANZAI (11.45pm, 
+         Fri, C4) - and a one-off special INVADING IRAQ: HOW BRITAIN 
+         AND AMERICA GOT IT WRONG (7pm, Sat, C4)... the BBC present 
+         their own belated version of C4's "100 Greatest TV Treats Of 
+         2003", aka 2003 TV MOMENTS (9pm, Sat, BBC1)... and Paris 
+         Hilton pops up in a different kind of reality show in THE 
+         SIMPLE LIFE (1pm, Sun, C4)... reader Robert Carnegie showed an 
+         unexpected enthusiasm for debating the limits of hypothetical 
+         omnipotent beings by mailing to say it would be impossible for 
+         Jodie Foster to find a "hidden message" in the digits of pi in 
+         the book version of CONTACT (8pm, Sun, C4) "because even God 
+         cannot make pi other than pi. It's like 1+1=2. It's absolute" 
+         - OK, Robert, but what if everything you've ever perceived 
+         (including this issue of NTK) was a Matrix-style illusion? 
+         What of your mathematical absolutes then?... more practical 
+         philosophical problems underlie Ben Stiller religious comedy 
+         KEEPING THE FAITH (10pm, Sun, BBC2)... and the BBC boldly
+         schedules Superbowl terrorist thriller BLACK SUNDAY (11.55pm, 
+         Sun, BBC1) against the real SUPERBOWL XXXVIII (11.10pm, Sun, 
+         C5)... Brit X-Files clone SEA OF SOULS (9pm, Mon-Tue, BBC1) 
+         misses the bandwagon by a good few years... Feb 2nd is the 
+         actual date of GROUNDHOG DAY (9pm, Mon, C5)... and pointless 
+         makeover show FAKING IT (9pm, Tue, C4) goes head to head 
+         against FEMA-style scenarios in CRISIS COMMAND: COULD YOU RUN 
+         THE COUNTRY? (9pm, Tue, BBC2)... Google and - in its own way - 
+         the no-less-revolutionary Amplebosom.com trumpet the ecommerce 
+         revival in 8-part docu DOTCOMS BOUNCE BACK (7.30pm, Wed, 
+         BBC2)... while HORIZON (9pm, Thu, BBC2) suggests the advent of 
+         nanotechnology may be closer than you'd think - in other 
+         words, still not very close at all...
+         
+         FILM>> is it really too much to ask that films about poets 
+         should have them talking in rhyme all the time? - clearly a 
+         missed opportunity in Sylvia Plath/ Ted Hughes tragedy SYLVIA 
+         ( http://www.cndb.com/movie.html?title=Sylvia+%282003%29 : In 
+         the first scene [Gwyneth Paltrow] lies on top of a guy as they 
+         have sex and you can see that she is nude. You see part of her 
+         awesomely shaped butt)... Sharon Stone takes on dodgy lodgers 
+         Stephen Dorff and Juliette Lewis down at her COLD CREEK MANOR 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7537 : 
+         Mild live horse action, including a fake dead horse that 
+         floats in the pool in one scene. One scene of intense snake 
+         action and a simulated death of a snake. One scene appearing 
+         to put a deer in jeopardy)... a bunch of British actors put on 
+         odd American accents in Tim Burton's latest whimsy BIG FISH 
+         ( http://www.cndb.com/movie.html?title=Big+Fish+%282003%29 : 
+         [Bevin Kaye] only gets 2 stars because the lighting is never 
+         satisfying and you never see her face)... for real limited-
+         release arthouse antics, there's always Gus Van Sant's "Dazed 
+         And Columbined" subdued high-school shoot-'em-up ELEPHANT 
+         ( www.bbfc.co.uk : Contains strong violence and language)... 
+         or the history-comedy for which we suggested the alternative 
+         titles "Napoleon Complex" and "My Own Private Waterloo" at a 
+         test screening, but they stuck with THE EMPEROR'S NEW CLOTHES
+      ( http://www.screenit.com/movies/2002/the_emperor's_new_clothes.html :
+         We hear [Iam Holm] urinating outside; We see [Iam Holm] wake 
+         up in bed with [Iben "High Fidelity" Hjejle] - both are in 
+         their nightclothes - but there's no indication of whether they 
+         had sex. We later see them in bed together, but again nothing 
+         is happening and there's no indication either way regarding 
+         possible sex)...
+         
+         CONFECTIONERY THEORY>> with just 72 shopping days left until 
+         Easter, Masterfoods and Terry's and are wasting no time in 
+         unleashing their respective MARS MINI EGGS and CHOCOLATE 
+         ORANGE MINI EGGS SEGSATIONS (both around 99p) - Terry's even 
+         appear to have responded to our 2002 criticisms of their 
+         CHOCOLATE ORANGE EGG & SPOON ("the most sickly thing I have 
+         ever eaten", "disgusting", etc) by writing "Now deliciously 
+         fluffier!" on the front. Nestle's DOUBLE CREAM EGG (39p) has 
+         already received plaudits over at snackspot.org for its 
+         "pieces of roasted cocoa nibs" and "Walnut Whip"-style centre, 
+         but mainly for its innovative plastic-bag packaging, forcing 
+         reader MIKE GRAY to "look elsewhere" for the "RDA of little 
+         bits of silver foil" he'd normally consume after "unwrapping" 
+         Cadbury's Creme Egg classic. And something we plan to do every 
+         year but this time are determined to finally get round to - 
+         next time you buy a bag of "mini eggs", please make a note 
+         of how much you paid for how many eggs, and we'll collate the 
+         results to work out which brands represent the "best buy": 
+         http://www.snackspot.org/thread.php?story=0401141609sbc ... 
+         other New Year novelties have included SPICY THAI SWEET CHICKEN 
+         THE REAL MCCOY'S (approx 45p - merely "a simple rebranding 
+         of the Firecracker Chicken Spicy McCoys", argued MATT), Coca-
+         Cola's DASANI foray into bottled water ("tastes awful, like 
+         Vittel but even nastier" - "SM") - and, from the very same 
+         company, FANTA APPLE (KIWI AND LIME) SPLASH, described by 
+         DIARMUID MALLON as having "No hint of the kiwi or lime at 
+         all", but nonetheless heralding the arrival in the UK of the 
+         new "mid-calorie" soft drinks craze ("Mid-Coke" coming soon?) 
+         http://www.snackspot.org/thread.php?story=0401201844daa ... 
+         other new products to look out for include Nestle's revived 
+         milk and white chocolate Minstrel-alikes VICE VERSAS (around 
+         40p, collect ones you don't like to swap online with friends: 
+         http://www.snackspot.org/thread.php?story=0401121255sbc ) and 
+         "SHAKE 2 FLAVA" CHICKEN HULA HOOPS, while we're still awaiting 
+         confirmed sightings of both CHUPA CHUPS' CREMOSA sugar-free 
+         lollies, and the Ireland-based test of "lighter in texture" 
+         MARS DELIGHT - despite the fact that Mars offshoots like "The 
+         Positive Food Company" http://www.positivefood.co.uk/faqs.htm 
+         make little mention of their illustrious parent company...
+                                    
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                            "a little disappointing"
+              http://www.livejournal.com/users/malenfant/49768.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

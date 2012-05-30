@@ -1,0 +1,340 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-09-15_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Users in the survey who spend more time online were found to
+         be more likely to provide information about themselves, the
+         study found. However, users who expressed 'little to no
+         concern' for Internet privacy were less likely to provide
+         details than those who were 'somewhat concerned.'"
+                       - REUTERS, on new Andersen Consulting report
+               http://www.wired.com/news/culture/0,1284,38766,00.html
+                              ...and just how did they find this out?
+
+
+                                >> HARD NEWS <<
+                                 fossil fuels
+
+         Crisis? Which crisis? Locally, we share subscriber CAM
+         WINSTANLEY's analysis that there's nothing useful petrol can
+         do that "two part epoxy glue with industrial floor wax in a
+         shopping bag, inhaled deeply" won't replace. However, your
+         local apocalypse may be trickier to evade. En France, they'd
+         moved on from the Europe-wide MadMax style armageddon to the
+         Waterworld-themed Mac Expo, where an unfortunate sprinkler
+         mishap drowned most of the exhibitors stalls. Like everyone
+         else, we're assuming this was last week's Apple rebels [NTK
+         2000-09-08] commenting on the premature release of Aqua. And
+         in Australia, riot police fenced off the streets around the
+         Crown Casino to prevent suspicious crowds of scruffy-looking
+         weirdoes from disrupting the World Economic Forum. Or
+         administering their co-loc boxes, as the sysadmins running
+         boxes at the nearby Globalcenter DCO discovered. Hey, let us
+         in! We're fascists too!
+    http://www.theage.com.au/news/gallery/20000911/I58810-2000Sep11.html
+                           - Nice LART, man! Where'd you get it?
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2628268,00.html
+                                      - oh yeah. that'll work, Apple.
+         http://www.planetvom.co.uk/petrol/
+                               - oh, and that BP "Fuc You All" pic...
+         http://www.ntk.net/2000/09/15/dohitn.gif
+                  - ...is from a) Australia (natch), and b) weeks old
+
+         Windows Me: but not *you*, PAUL MARITZ, who resigned from
+         Microsoft this week on the eve of the new product launch to
+         spend some quality time down at The Village. Maritz, who
+         according to himself *didn't* say "We are going to cut off
+         [Netscape's] air supply. Everything they're selling, we're
+         going to give away for free", no matter what the DOJ, the
+         New York Times and an  Intel Vice Prez claimed, was a senior
+         VP in charge of Visual C++ and Handing Out Crates of New
+         APIs to Goggle-Eyed Developers. Now he's just a regular
+         seventy-millionaire Joe. So, who's next? JIM ALLCHIN,
+         mild-mannered janitor, who is due to return from a two-month
+         "vacation" any day soon? Could be...
+         http://biz.yahoo.com/t/81/2872.html
+                               - like you wouldn't quit at this point
+         http://linuxtoday.com/stories/2699.html
+                        - son is a Redhat user, a dismissable offence
+
+         Seems no-one watches, or cares about, the MERCURY MUSIC PRIZE
+         any more - or, at the very least, can be bothered to keep an
+         eye on its website. Consequently it provided visitors with
+         surreal updates throughout the evening, courtesy of some
+         "security enthusiasts" off IRC, who managed to award the
+         honours to "Toby Slater" (believed friend of Daniel Pemberton
+         - see NTKs passim), "Purple Munkie" (sic) and "Badly Drawn
+         Boy's hat", before the site was eventually fixed at 10am the
+         following morning. Kudos, however, to LEGOLAND UK who have
+         stood firm on their company policy of "encouraging youthful
+         curiosity" and, at time of writing, are still hosting both the
+         DeCSS source code and step-by-step instructions on how to own
+         their SQL server, after originally being hacked on Monday.
+         http://www.ntk.net/2000/09/15/dohmercury.html
+                 - Nitin Sawhney admits "not even he knows who he is"
+         http://www.legoland.co.uk/css-descramble.c
+         http://www.legoland.co.uk/explain.txt
+            - hey, trust a Lego fan to give detailed cutaway diagrams
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         so, just how long did it take the security geniuses reading
+         SF-NEWS@SECURITYFOCUS.COM to spot it was an open listserv?
+         ... RADIO TIMES stumbles from Watergate to another "whitewash
+         makeover": http://www.ntk.net/2000/09/15/dohradio.jpg ... BT
+         suspends service guarantees: no-one notices ... zero-DAILY
+         RADAR warez: http://www.ntk.net/2000/09/15/dohradar1.gif ,
+         http://www.ntk.net/2000/09/15/dohradar2.gif ... "Defragmenting
+         really speeds up Windows NT machines" uncovers the latest
+         http://www.spectrum.ieee.org/contents/ ... ah, but what about
+         copyrighting all those images in the *current* directory?
+         http://www.masterlock.com/general/Legal.html ... formerly free
+         movie mag FLICKS http://www.flicks.co.uk/ has yet to master
+         directories at all... not to mention the 46% who don't know
+         how to use CMS: http://www.ntk.net/2000/09/15/dohcontent.jpg
+         ...chiselled from finest FRONTPAGE: http://www.draper.co.uk ...
+         NINFOMANIA does "sly dig" at NTK: fails to notice that matching
+         self-indulgent retrospective URL doesn't actually work...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         No definite date as yet for October's BIG BROTHER AWARDS
+         (presumably the ballots have been packed with wags
+         nominating "Big Brother", the TV show - ah yes, do you
+         see?), but our round-the-clock monitoring of Simon Davis
+         indicates he's planning a free, public INTERNATIONAL FORUM
+         ON SURVEILLANCE BY DESIGN at London's LSE from 9.30am, Fri
+         2000-09-22. With a line-up including the ACLU,
+         ZeroKnowledge, and UMTS surveillance techniques, it's
+         probably the closest we'll get over here to an all-day RSA
+         patent party.
+         http://www.privacyinternational.org/bigbrother/
+                 - in the US, the show's made by "Orwell Productions"
+         http://www.cs.ucl.ac.uk/staff/I.Brown/ifsd.html
+         - well, at least he doesn't call himself "Simon Magnum (PI)"
+
+         Next weekend's YAPC::EUROPE (from 2000-09-22) has been sold
+         out for months, though there's some consolation to be had
+         just going through the list of talks and trying to work out
+         which ones were bolted on to make it "arty" for the ICA:
+         "Simon Cozens will explain the entirety of the Perl 5
+         internals. In 5 minutes. In verse." Somewhat forgiveably, we
+         feel, we've also ignored the similarly conflicted CREATING
+         SPARKS arts' n' sciences collaboration between The Natural
+         History Museum, The Royal College Of Music and all the other
+         fancy buildings around South Kensington (continues until
+         2000-09-30). At time of going to press, tickets were still
+         available to see novelist Stephen Baxter and Blur
+         bass-player Alex James discussing Mars (7.30pm, tonight)
+         while, on Tue, you can pay 12 quid to hear Richard Dawkins
+         reading from his own books, accompanied by "actress and
+         artist" Lalla Ward who, for some reason, the site neglects
+         to point out, is perhaps best known as "the second Romana"
+         from Dr Who.
+         http://www.britassoc.org.uk/creatingsparks/cs2.htm
+                                - oh, and as alpha-male Dawkins' wife
+         http://www.yapc.org/Europe/
+              - though we always preferred http://www.marytamm.co.uk/
+
+         And, presumably not timed to coincide with either, there's
+         consumer electronics jamboree LIVE 2000 (from Thu
+         2000-09-21, Earls Court, London), an event unashamedly aimed
+         at readers of the ever-popular publishing genre "this
+         attractive young woman on the cover has nothing to do with
+         the gadget she's holding". Promising "the latest, sexiest
+         kit" ("I don't know how I survived without a WAP phone!",
+         says the show's spokeswoman, apparently called Kit), the
+         site immediately blows it with a contest to win a Sony
+         Memory Stick Walkman featuring "a robust copyright
+         protection system" - like *that's* some kind of incentive!
+         http://www.live2000.com/comp.asp
+       - new addition to the field: Dennis' PC GEAR. Oh, who cares...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The embarassing thing about everyone shifting over to the
+         slim GNOME wraparound of Mozilla, GALEON, is that MOZILLA
+         itself is finally becoming usable. The new Netscape skin is
+         tolerable, there have been leaps in its lizardly speed,
+         memory shag is decreasing, and the bugcount looks to be
+         finally contained (we think: the Bugzilla chart-drawing page
+         broke some time back, ironically). But who cares about that,
+         when there's an even *titchier* wraparound for the 10MB
+         Mozilla binary. SKIPSTONE spurns all those GNOME libraries
+         that Galeon revels in, and remains a raw GTK app that you
+         can compile on anything that's got the Moz libraries hanging
+         around. It's still relatively cruddy compared to Galeon
+         (which is getting damn near to an everyday browser), but we
+         like the way it fobs off the downloading to 'wget'. And the
+         fact it's only 57K. And that it's already in Debian's
+         unstable distribution.
+         http://www.muhri.net/skipstone/
+                 - and that it's different and new and therefore good
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         good precedent for tax-protests on the UK's other favourite
+         HYDROCARBONS: http://www.dumpthepubs.com/ ... hacking the
+         HUBBLE: http://www.foxnews.com/science/082500/hubble.sml ...
+         well, if BRITNEY's diversifying into high-energy physics:
+         http://www.mchawking.com/ ... and what's "PERL" a euphemism
+         for? http://walkingdead.net/perl/euphemism (as if we didn't
+         know)... ANARCHIST COOKBOOK blows up in "author"'s face:
+         http://www.amazon.com/exec/obidos/ASIN/0962303208 ... i feel
+         so used: http://www.geekculture.com/culture/erotica/ ... "be"
+         KEV SPACEY (no price given; presumably you can "negotiate"):
+         http://www.eroi.com/html/negot.htm ... the bulk-buying B2B
+         BULL ELECTRICAL: http://www.73.com/a/0012.shtml ... cheer up,
+         JESUS!: http://home.earthlink.net/~hainbros/jesusdressup.html
+         ... BBC NEWS ONLINE starts imitating ONION "infographics":
+      http://news.bbc.co.uk/hi/english/sci/tech/newsid_921000/921923.stm
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> the process of elimination that's had the entire country
+         on tenterhooks reaches its spectacular climax, as we at last
+         get to find out whether Bradley and Rachel really *are*
+         leaving the band in the second part of S CLUB 7: ARTISTIC
+         DIFFERENCES (5.25pm, Sat, ITV)... while tonight's SOUTH PARK
+         (11.35pm, Fri, C4) has mysteriously been moved back in the
+         schedules, presumably to avoid a clash with excellent CGI
+         geek-fest TWISTER (9pm, Fri, ITV) - scripted by Michael
+         Crichton and his wife Anne-Marie Martin, formerly the lovely
+         assistant to "Sledge Hammer"... the Crichton theme-park re-
+         opens later the same night with Westworld sequel FUTUREWORLD
+         (1.30am, Fri, ITV) - oh, the hubris of man and his never-
+         ending quest for "progress"... a motif continued in what seems
+         to be a new run of TEAM KNIGHT RIDER (4.05pm, Sat, ITV), the
+         increasingly surreal impersonations of CELEBRITY STARS IN
+         THEIR EYES (7.20pm, Sat, ITV), and the triumph of schlocky
+         snakes-in-ventilation-shafts chiller VENOM (10.40pm, Sat, C5)
+         over John Carpenter's BIG TROUBLE IN LITTLE CHINA (10.25pm,
+         Sat, ITV)... jaded schedulers have now realised, since the
+         original event lasted about 5 years, it's *always* some sort
+         of WW2 ANNIVERSARY (from 10.30am, Sun, BBC2)... thank heavens
+         the title explains MY NAME IS JOE (11pm, Sun, C4) because the
+         lead's broad Glasgow accent is otherwise incomprehensible...
+         Jean-Claude Van Damme battles himself once again in TIMECOP
+         (10pm, Mon, BBC1) - last shown August 1999 ... "not as good as
+         the other two" is the Radio Times' sage verdict on RAMBO III
+         (10pm, Wed, C5)... and, in a hint of trends to come, Michael
+         Caine plays the central "Woody Allen" role in arguably the
+         pinnacle of Allen's numerous New York comedy-dramas, HANNAH
+         AND HER SISTERS (12.40am, Wed, ITV)...
+
+         FILM>> it's Samuel L Jackson vs American Psycho - nice touch
+         getting Chef from "South Park" to do the theme tune, though -
+         for competent but uninspired cop-show retread SHAFT (imdb:
+         basketball / limousine / murder / witness-protection / mugger
+         / racism / desert-eagle / sequel / racial-slur / chrysler-
+         building / racial-injustice / crooked-cop / professional-hit /
+         urban / foot-pursuit / violence / car-wash / undercover /
+         cocaine / new-york-city / defenestration / police-brutality /
+         drug-dealer / new-york / chase / hitman / uncle-nephew /
+         media-coverage / revenge / twist-in-the-end / detective /
+         brother-sister / drugs / private-detective / vengeance)...
+         lovely Jennifer Lopez borrows "Dreamscape", "Coma" movie-tech
+         to find that the nightmarish inner thoughts of a serial killer
+         resemble nothing so much as bad 1980s pop videos, in stylishly
+         daft psychoanalysis nonsense THE CELL (http://www.capalert.com
+         : using [child] for an ironing board; corpses "dolled up like
+         dolls"; spooling of intestines on to a "rotisserie" as it is
+         pulled from the gut of a live man)... in the arthouse ghetto:
+         critics'll love it, but not even a gurning George Clooney can
+         generate any box-office for yet another self-consciously wacky
+         Coen effort O BROTHER WHERE ART THOU? (imdb: crime / adventure
+         / comedy / musical)... or it's Bjork and Lars Von Trier -
+         together at last! - in harrowing mental torture singalong
+         DANCER IN THE DARK (imdb: drama / musical) - not based around
+         the Bruce Springsteen song of nearly the same name... so our
+         surprise, low-expectation recommendation goes to Ben Stiller /
+         Edward Norton/ Jenna Elfman religious There's Something About
+         Mary-alike KEEPING THE FAITH (http://www.capalert.com : sexual
+         drawing; crotch hit; crotch kick; cohabitation; sex song) -
+         not based around the Bon Jovi track of nearly the same name...
+
+         FEEBDACK>> in accordance with prophecy [NTK 2000-09-01],
+         response to our exciting website redesign has been
+         overwhelmingly negative, with a lone voice ("FWIW *Love* the
+         new look!") swiftly drowned out by a combination of ALAN
+         CONNOR ("I think I'll find it 'virtually unreadable' and
+         suggest 'you may as well go and write for Wired or
+         something'"); PETER J SMITH ("OK apart from the BODY tag which
+         uses marginwidth and marginheight instead of leftmargin and
+         topmargin"); and, of course, a hail of invective from self-
+         appointed compliance officer LLOYD WOOD, who slammed us for
+         *not* having changed many of the expiry date, doctype and
+         table problems he first pointed out in Christmas 1997. It's
+         heart-warming pedantry from readers like this that really
+         makes doing NTK worthwhile - keep it coming!... thanks to all
+         of you who submitted your own suggestions for the Kabalarian's
+         "Choose The Ideal Name For Your Child" generator [NTK 2000-08-
+         18], including YOG-SOTHOTH and CHEWBACCA... and to the totally
+         unalarming number of readers who, after our sex offenders gag
+         [2000-08-18], felt we'd also enjoy ALIEN VERSUS CHILD PREDATOR
+         http://www.oldmanmurray.com/features/avcp/page1.shtml ...
+         while a clearly-chastened CHET from the nearby "Portal Of
+         Evil" was prompted by numerous responses to the same issue's
+         http://www.portalofevil.com/eatme.shtml link to politely
+         inquire "You guys know we are just playing over at POE, right?
+         Some of your countrymen have sent me some crazy misguided
+         emails, what can I say... I am bound to respond publicly".
+         Hey, c'mon Chet - maybe they're just "playing" too? Where's
+         that famous American sense of humour?... NICOLA PEARCE, after
+         reading NTK 2000-08-04, claimed she'd "have to wash [her] hard
+         disk out with soap and water. First we have a German guy being
+         Hitler. Then we have the BNP. And lastly we have Rec.Guns.
+         Have you been infiltrated by gun-worshipping fascists?" Ho ho
+         Nicola, of course not - links from NTK, particularly to
+         extremists such as the BNP, or Mac users, are often satirical
+         in intent and should not be taken as endorsements. You should
+         see the links we *don't* run, like this charmingly Freudian
+         refugee from alt.sex.stories.catfights.sex.with.your.mother :
+         http://www.seakingsfemfight.com/storymikejv1.html ... and
+         finally, to the anonymous tipster who commented "Why have you
+         taken to saying 'fricking' you fucking pussies? Cancel my
+         subscription etc", can you please supply quantitative evidence
+         (a la http://www.ntk.net/?back=archive98/now0522.txt&line=314#l )
+         - but wait until we've done our next expletive-packed "Cunt"
+         round-up in two weeks time!...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+         "yet another media outlet falls for the 'Dave Green' hoax"
+            http://www.wired.com/news/business/0,1367,38467,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+    NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

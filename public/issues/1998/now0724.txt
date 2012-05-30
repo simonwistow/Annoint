@@ -1,0 +1,258 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____24/07/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         THIS MOVIE SHOULD BE REQUIRED VIEWING FOR EVERYONE IN A
+         POSITION OF POWER IN THE WORLD, NO EVERY ADULT IN THE WORLD.
+         WAIT, MAKE THAT EVERYONE IN THE WORLD. IF IT TROMATIZES
+         CHILDREN, GOOD, MAYBE THEY WILL BE LESS LIKELY TO FOLLOW
+         SOME ZEALOT OFF ON SOME INSANE MISADVENTURE LIKE MY
+         GENERATION WAS LEAD ON. 
+
+         - HARRY KNOWLES' Dad reviews "Saving Private Ryan" (in caps)
+                  http://www.aint-it-cool-news.com/news/980724/1.html
+                      "Tromatize"?  Like in Class Of Nuke 'Em High?
+
+
+                                >> HARD NEWS <<
+                                  dole queues
+         
+         What were the chances of One in a Million winning 
+         against BT, Sainsbury's, Ladbrokes and Virgin? Zero, we
+         suppose, now that they've lost their High Court Appeal. But
+         that might not be the end of the *interminably* long domain
+         naming story. It seems that many of the larger businesses
+         aren't happy just winning one test case, and want to try out a few
+         more laws on unsuspecting domain name ... err, hobbyists.
+         Time to offload those humourous registrations - Or
+         just anything that shares the same initials as a multinational.
+         http://www.ntk.net/index.cgi?back=archive97/now1205.txt&line=24#l
+                        - also, Nick Rosen owns xfm.com: go Capital!
+         
+         We don't usually accept Falco nominations for individuals
+         (for fear of never washing the blood from our hands) - but
+         ED BRIFFA has to be the exception. Merely the rumour of his
+         vanishing from head of BBC Online "and Interactive" was
+         enough to saturate our mailbox with upsettingly celebratory
+         e-mails. Calm *down* people. Firstly: you can't *all* win a
+         Falco. Secondly, we understand that, despite management
+         changes, BBC Online has no intention of changing its policies
+         regarding freelance Web contracts (especially the hidden
+         "use confused ex-TV producers to manage them, and make them
+         cry" clause), nor will is it planning to inject a gaseous
+         form of the mind-bending sex drug Ecstasy into the
+         Shepherds Bush offices. Which judging from these anonymous
+         mails, is the only way morale is going to be raised there
+         from its current Marianas Trench levels.
+         http://www.bbc.co.uk/ 
+                  - torturing Web designers: your license fee at work
+         mailto:tips@spesh.com 
+                  - send us your favourite "dumb
+                             BBC management" quotes, and win a prize!
+         
+         Finally, if you're struggling with Windows 98 and/or the
+         Demon Internet pack, pity the National Schizophrenia
+         Fellowship, who is struggling with everybody *else's* copy .
+         The charity's helpline unfortunately shares a local phone
+         number with Demons' COLT dial-up. That combined, with an
+         apparent misfeature in 98 that lops off the "0845" part of
+         Demon's number, means that local Demon subscribers are
+         buzzing the NSF's main regional helpline day and night. This
+         has the downside of making the helpline close to inoperable.
+         On a more positive note, it does also mean that hundreds of
+         Demon subscribers are hearing a little voice, seemingly
+         coming from their modem, asking them about their
+         schizophrenia...
+         http://www.demon.net/
+                                - 666 ; the wrong number of the beast
+         http://www.nsf.org.uk/ 
+         
+        
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         after sheep, scientists clone mice - other already-
+         near-identical species to follow... oh yeah, suuure Brazil
+         threw the World Cup - who wouldn't? ... Robert Uhlig defends
+         claim that in new "digital" loudspeaker, "at no point is the
+         signal converted to analogue" [CONNECTED, p.5]...
+         RealNetworks go for Microsoft's jugular... Sega's FTP site
+         turned into warez den.. Microsoft division by zero error
+         cripples battleship... After threats by 3COM, Microsoft
+         changes name of its PalmPilot rip offs to - palm-size PC. Or
+         PPC for short... 3DLabs developer program pack has piccie of
+         their team - with Richard Huddle (who defected to NVidia)
+         cunningly removed... 
+
+		 
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Some cynics claim that NTK is just a cleverly designed
+         "wrapper" used to promote our own sinister side-projects -
+         you know, stuff like pre-Edinburgh previews of Ben Moor's
+         new one-man nonsense-fest, MY LAST WEEK WITH MODOLIA
+         (8.30pm, 29&31/07/98, Hackney Empire Studio Theatre, 291
+         Mare St, London E8; also 10.30pm, 30/07/98, Battersea Arts
+         Centre, Lavender Hill, London SW11) - a "romantic comedy"
+         which, we hope, will be a bit like Umberto Eco's Lolita
+         spoof where a young man falls unsuitably in love with a
+         geriatric woman. If you're concerned about NTK impartiality,
+         why not come and discuss it at the recordings of new Radio 4
+         panel game, KING STUPID (7.15pm, 26/07/98, Broadcasting
+         House Radio Theatre, Portland Place, London W1), with guests
+         Peter Baynham (off Fist Of Fun), Simon Pegg (off I'm Alan
+         Partridge), Sue Perkins (off Late Lunch) and - inexplicably
+         - NTK entertainment editor Dave Green. There's free tickets
+         set aside for the first 10 people who turn up claiming to be
+         "friends of Dave", or try emailing david@pozzitive.demon.co.uk
+         if there's more than 10 of you.
+         http://www.hackneyempire.co.uk/
+                  - page denies Ben Moor exists; not the first to do so
+         http://www.bac.org.uk/
+                  - page prefers not to include listings
+         http://www.bbc.co.uk/tickets/radioonoffer2.shtml#stupid
+                  - minimum age is "is 14 for comedy, 16 for other programmes"
+
+
+                                >> TRACKING <<
+                     token Linuxism, while it's still cool 
+         
+         Well, clearly there's the new 5.005 release of PERL, but
+         that's getting disappointing reviews from angry free
+         software enthusiasts who put down their no-money expecting a
+         compiler that could optimise more than "Hello World", and 
+         reliable threading first time. Give it a couple of weeks.
+         http://www.perl.com/CPAN/authors/id/GSAR/perl5.005.tar.gz
+                        - ooh, Tom Christiansen's gonna be mad at us.
+
+         So instead, we'll run with this simple kernel module for
+         Linux, which lets you save and play back anything sent to
+         the sound card. Looks like those music companies should be
+         switching to MP3 after all...
+         http://source.syr.edu/~jdimpson/proj/
+                           - RealAudio's missing "save stream" option
+         http://www.mp3.com/
+                                      - after you, Alien Fashion show
+        
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Douglas "I am fully aware of what I am doing" Coupland's
+         Lara Croft book now available... looks like Nortel
+         Net-via-power-lines *is* interfering after all -- how long
+         can this go on?... are Friends scripts electric?
+         www.geocities.com/TelevisionCity/6304/friends.html ... who
+         is after NetNames?... DiY Millennium Dome conspiracies at
+         http://www.postfun.com/pfp/sex/lolite/diagram.html ... my
+         filter software is blocking http://www.webwilly.com .. Sony
+         VAIO 505 coming to the UK... Hello Kitty! Laptops at
+         http://www.sanrio.co.jp/products/notepc/notepc.jpg ... the Church
+         of MC Hammer http://www.darktimes.org/hicks/sounds/rev22.mp3 ...
+         http://www.yahoo.co.uk/Entertainment/Music/Artists/ -
+         *whistlers*?... http://www.incline.co.uk/worldcup/kickham.html
+         ... so did Microsoft really refuse to fix the Natwest bug?
+
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> clear all channels - it's ill-conceived comedy-star
+         vehicle night, with hateful Eric Idle wrecking SPLITTING
+         HEIRS (9pm, Fri, BBC2), once-funny Lenny Henry reliving the
+         repeated shame of CHEF (10.20pm, Fri, BBC1), and -
+         presumably  - Wendy "Butterflies" Craig in cradle-rocking
+         '60s thriller THE NANNY (2am, Fri, C4)... oh, and SPACE:
+         ABOVE AND BEYOND (1.30am, Fri, BBC2) flies off into its
+         unconvincing CGI sunset, saddening anyone with a taste for
+         Starship Troopers Lite... a "nerdy" video gamer (and the
+         girl off the Spirito di Punto ads) see right through THE
+         VANISHING MAN (7.45pm, Sat, BBC1)... Eastwood's
+         Viagra-fuelled HIGH PLAINS DRIFTER (10.40pm, Sat, BBC1)
+         shoots out hippy yawn EASY RIDER (12midnight, Sat, BBC2) and
+         Woody Allen's criminally semi-funny CRIMES AND MISDEMEANOURS
+         (12.40am, Sat, C5)... *yet* another chance to see PR plug
+         MIAMI SPICE (12.10pm, Sun, C4) - seemingly now on every
+         weekend, at least till another one of them leaves... "a
+         suicidal singer [Sheena Easton] is confronted by a strange
+         force" - if it's Prince, it's a
+         more-autobiographical-than-usual episode of THE OUTER LIMITS
+         (1.15am, Sun, BBC2)... plus, Arnie fans: who loves you? and
+         who do you love?  why, THE RUNNING MAN (12.15am, Sun, some
+         ITV)... Craig Charles reports from big Glasgow sci-fi
+         convention, guilty of using title BEAM ME UP SCOTTY (2.30am,
+         Mon, C4)... regular thrill-fest EQUINOX (9pm, Tue, C4) chats
+         with the "scientists" who verify miracles for the Pope...
+         plus a new series of QED (9.30pm, Wed, BBC1) breaks new
+         ground by *examining the science bit from some form of
+         popular entertainment* - this time, encephalitis lethargica,
+         as seen in the film Awakenings, as experienced by viewers of
+         QED...
+
+         FILM>> isn't there a law against yet more John Grisham
+         adaptations, especially ones starring *Kenneth Branagh?*
+         Fortunately, in this case it's Robert "Short Cuts" Altman
+         sinking his teeth into THE GINGERBREAD MAN (imdb: thriller /
+         cat / heritage / murder / ship / frame-up / law / hurricane
+         / rain / courtroom)... "Beat" Takeshi Kitano shows how he
+         got his nickname as frenzied beatings punctuate the zen-like
+         calm of limited London-release arthouse copster HANA-BI
+         (imdb: crime / drama / comedy / marriage)... the posters
+         make it out to be the new Trainspotting, but thankfully
+         raucous road-romp THE DAYTRIPPERS (imdb: mystery / drama /
+         family / comedy / relationship / adultery / publisher) is
+         US-made - complete with now-obligatory indie role for Parker
+         Posey...  otherwise, it's further kids' capers with a daft
+         CGI parrot in PAULIE (imdb: adventure / comedy) -
+         disappointingly, not voiced by foul-mouthed "Biodome"
+         porn-comedian Pauly Shore... or sub-Disney
+         cartooning-by-numbers dulling the cutting edge of THE MAGIC
+         SWORD: QUEST FOR CAMELOT (imdb: adventure / children's /
+         animation / blindness / fantasy / merlin-the-magician /
+         king-arthur / women-soldiers / dragon / sword)... 
+
+         LIVE (VIA EMAIL) FROM SIGGRAPH '98>> the 25th anniversary
+         "electronic theatre" kicked off with that wacko audience
+         participation system (the only interesting bit in Kevin
+         Kelly's Out Of Control) where the audience hold up coloured
+         flags to play games on screen - cool, but the movies weren't
+         as good as last year... fringe tech highlights: the original
+         late '60s F/X hardware < http://scanimate.zfx.com/ > and
+         crazy arty guys from San Jose with radio-controlled
+         telepresence cars < http://c5.sjsu.edu/projects.html >...
+         the OpenGL pool party proved once and for all that engineers
+         and water don't mix, though there is some kind of health and
+         fitness show going on in the Orange County Convention Center
+         at the same time, equally entertaining and, ironically, with
+         exactly the opposite male/female attendance ratio... 
+                                                       - si@spesh.com
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "A-OK, Alan".
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

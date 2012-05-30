@@ -1,0 +1,305 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-04-30_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+
+
+         "Sentiment is against us. We can and must turn this around ... We
+            need to smile at Novell while we pull the trigger."
+            - JIM ALLCHIN, Microsoft, e-mail subpoena'd for DR-DOS trial
+             ... puts that little paperclip chap in a whole new light
+                   http://www.calderathin.com/fullstory/factstat.html
+
+
+                                >> HARD NEWS <<
+                                bunch of rubes 
+
+         So, the question is this: given that we know they're nice
+         people, and that they've got Steve "spinmeister" Bowbrick on
+         board, *how* did FUNMAIL find itself the proud owners of
+         "yid.co.uk", "jewboy.co.uk", and "nigger.co.uk"?
+         Overenthusiastic intern hoping to exploit the recent boom
+         in racist violence? Insufficiently parsed dictionary fed to
+         registration bot? Or, most sinisterly of all, controversial
+         micro-story leaked the week prior to full launch? No, no, no
+         - that's *too* cynical. Oh, but we fell for it too! Doh!
+         http://www.funmail.co.uk/
+                         - "mailbomb" jokes will be bounced at source
+         http://www.chinwag.com/html/mailing_lists_3.html
+           - watch horrified net.marketeers wish they'd thought of it
+         http://www.bunderlife.com/
+         - Leslie "Pooter" Bundle scoops everyone with his whois searches
+
+         Last week's stories continue to bounce around like bonus
+         balls in an Arkanoid clone. Lo, and TEMPO did announce
+         "free" free Internet access, with BT instantly ricocheting
+         back with some dumb "free calls with an ad every 2 minutes"
+         service that no-one will adopt. And the EU's anonymity
+         proposals began to look increasingly low on lives, with
+         smart folk in the Netherlands and UK publically supporting
+         ZERO KNOWLEDGE's Freedom network, which promises an
+         international anonymous network, with -cough- distributed
+         liability. Or in other words, Europe's too small a place to
+         stop this kind of thing.
+         http://www.zeroknowledge.com/company/pressrel.asp
+                      - we hope. remember anonymous digicash, anyone?
+         http://www.bt.com/World/news/newsroom/document/nr9934.htm
+         - you know, with two lines you *could* do something with this
+         http://x11.dejanews.com/getdoc.xp?AN=472259159
+         - Localtel/Tempo without the IE5 (or the free local calls, natch)
+
+         Let's get this straight. ARM bought out ACORN, its own
+         parent company, which is a bit sick. Only it didn't, because
+         even though Acorn was paid for in ARM shares, the shares
+         belonged to MORGAN STANLEY: so it was this bank who now own
+         Acorn. Except that everyone's saying that was just a tax
+         dodge, and ARM will end up buying up the Acorn shares off
+         Morgan Stanley in the end (which is still a bit sick).
+         Except that the only bit of Acorn that has any emotional
+         appeal, the bit that used to make RISC PCs, wasn't sold to
+         Morgan Stanley - it was sold to PACE TECHNOLOGIES for 200K.
+         So it's not so bad, because Pace is an oldskool company too.
+         Except that, actually, the only people interested in
+         supporting RISC OS now aren't Acorn at all, but RISC OS
+         LIMITED, who bought the license for RISC OS before all this
+         happened. Except that Acorn used to own 20% of RISC OS Ltd.
+         So who owns that? And why in God's name can't these companies 
+         go Falco in a dignified fashion?  
+         http://www.msdw.com/
+         - of course, this Morgan Stanley isn't called Morgan Stanley
+         http://www.e-14.com/
+                                  - and this Acorn isn't called Acorn
+         http://www.theregister.co.uk/990429-000009.html
+         - and: you know, this is what drives the Register kids to drink
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         same subnet, and spot the diff: http://www.msn.co.uk/ vs
+         http://www.whsmith.co.uk/ ... MARK LAWSON announces STAR
+         WARS to premiere on May 17th (may be including 2 days
+         queuing time)... patriotic "new British bookshop on
+         Internet" BOL.COM of course stands for BERTELSMANN ONLINE
+         ... GUARDIAN's Annie Leibowitz "on-set" photos include young
+         Obi and Darth Maul duelling with *real lightsabres*...
+         WALLSTREET.COM sold for $1.03 million... DAILY MAIL thinks
+         Jill Dando site was "run by a company called Celebrity
+         Webring"... ELECTRONIC TELEGRAPH registration system falls
+         over - access suddenly improves... PATHFINDER.COM - FALCO!
+         (Noah, come and collect your prize after class)... extensive
+         Net-wide research shows geeks bullied, misunderstood at
+         school... SEGAWORLD London - F-f-fal... DAILY MIRROR's
+         guide to Net jargon defines: "HACKER: Idiot who thinks it's
+         clever to break through computer security. CRACKER: A
+         criminal hacker."... "Faster access for BT customers is
+         already available through services such as ISDN 2 and BT
+         Highway. Effective demand is, therefore, being met":
+      http://www.bt.com/corpinfo/regulatory/response/bandwidth/file4.htm
+         ... BITS (games version of 4Later show "Vids") to be
+         presented by three "gaming babes in their mid-20s"...
+         ... 75p with an Aussie animal inside? "YOWIE!", indeed...
+         "Dandoh!" tributes reached us at a rate of 4 a minute;
+         the best: http://www.ntk.net/doh/dandohrt19993004.jpg ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Of course, May 1st marks the 223rd anniversary of the founding
+         of the Bavarian Illuminati, and what better way to dazzle the
+         mehums than the digital trickery of ONEDOTZERO3 - "exciting
+         new forms and hybrids of moving image work from the most
+         innovative and cutting-edge talents in the field". In other
+         words, CGI FMV and pop videos, at the ICA, London SW1 from 5pm
+         tonight until Sun 1999-05-09.
+         http://www.onedotzero.com/
+                       - includes famous "Director's Cut" of G-Police 2
+
+         And returning from the US mysteriously "changed", psychologist
+         SUSAN BLACKMORE reveals to Cambridge, Swindon and London
+         susceptibles how the unseen forces behind human history were
+         Richard Dawkins' "memes" all along (from Wed 1999-05-05).
+         Fresh from her free-will-deconstructing New Scientist piece
+         "Meme, Myself, I", NTK's ever-vigilant Lloyd Wood advises "you
+         wouldn't want to go see her, because there really is no you.
+         And no her. And there's no debate; just a couple of memes
+         competing for the same conceptual space in the memeplex and
+         the attention of your selfplex as a potential host for onward
+         propagation." A fun night out for all the family.
+         http://www.memes.org.uk/                   - tell your friends
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         This side of the utility twilight zone, here's one which
+         fulfills that "code you'd write, if only you had six months
+         of your life to waste". KLEPTOMANIA lets you screengrab an
+         arbitrary piece of your desktop - then uses simple OCRish
+         techniques to convert the image to text. Snatch directory
+         listings from Explorer! Save your device list or registry
+         details in a readable format! Sadly, it can't cope cope with
+         huge anti-aliased GIFs on lamer Websites (registered fonts
+         only) - but that's what your next six months are for.
+         There's a 21 day trial to gawp at, $30 buys the full version.
+         http://www.structurise.com/kleptomania/
+                                         - come on, he deserves it... 
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         run out of swap space? too many PIDs? Share the world's
+         resources at http://www.urps.org/ ... "Ha! You are too
+         trusting, Son of God!" http://www.visi.com/~bull/fistsgod.htm 
+         ... it may mean "Hope" in Japanese, but to USENET:
+         http://www.spaceviews.com/1999/04/25b.html ... what CLIFF
+         STOLL did next: http://www.kleinbottle.com/why_acme.htm ...
+         CAFES SCIENTIFIQUES... Philip K Dick, patents officer: 
+         http://dips-2.dips.org/dips/viewer?PN=GB1426698&CY=gb&LG=en&DB=EPD
+         ... competing with MICROSOFT at their own game
+         http://www.magister-lex.at/CRASHit/ ...  off-the-shelf startup
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=96369441 
+         ... but we can do better than that:
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=98002118
+         ... what you will look like to the people of 2039
+         http://www.mallard.org/more/mtv01.htm ... FUD on demand -
+         http://www.gingerspice.demon.co.uk/tmp/netspies/... which one
+         is ANNIE SPRINKLE? Anyway, she's in trouble:
+         http://www.heck.com/annie/ ... obvious POLICE TROLL:
+         http://www.bravo.co.uk/latelounge/html/celebrity_executions.html
+         ... at last, the *facts* on MICROSOFT: http://www.thestormcenter.com/ 
+        
+                               
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+              
+         TV>> FRASIER (10pm, Fri, C4) is always funniest when it's
+         about food... David STRASSMAN (10.30pm, Fri, ITV) pioneers the
+         field of animatronic swearing... and ITV cunningly combines
+         two of TV's most popular genres as one upcoming youngster
+         turns out to be DESPERATELY SEEKING STARDOM - in the porn biz!
+         (10pm, Fri, ITV)... "We can put a man on the moon, but we
+         can't bomb a minor Eastern European country back to the stone
+         age" ponders Tom Hanks's reverential 12-part NASA docu-drama
+         FROM THE EARTH TO THE MOON (12noon, Sat, C4)... everyone raves
+         about doddery Eastwood Western UNFORGIVEN (10pm, Sat, ITV) -
+         but it's no "The Quick And The Dead"... and the rest of Bank
+         Holiday weekend is dominated by a foul-mouthed feast for SOUTH
+         PARK fans, with a 2-hour special on cable/ satellite (from
+         9pm, Sat, SkyOne) including an hour-long "South Park
+         Discovered"... C4 picks up the squishy baton on Mon with 5
+         hours of OH MY GOD, IT'S SOUTH PARK (from 9pm, Mon, C4),
+         featuring season 2 opener "Not Without My Anus" and Parker/
+         Stone's "Cannibal! The Musical". Then, as if to prepare you
+         for the upcoming "Mechastreisand" episode, behold: GODZILLA VS
+         MECHAGODZILLA (2am, Mon, C4)... both FRENCH AND SAUNDERS
+         (9.55pm, Sun, BBC1) and RORY BREMNER (9pm, Sun, C4) continue
+         to confuse dressing up as famous people with actual comedy...
+         Jon Ronson interviews subterranean enthusiasts on FOR THE LOVE
+         OF (2.50am, Sun, C4)... and it's a real grab-bag of sci-fi
+         elements behind ROBIN COOK'S INVASION (9pm, Sun & Mon, C5) -
+         like The Last Train; a meteor impact or suspended animation
+         just doesn't cut it any more, you've got to have *both*...
+         disappointingly, food show BIG KEVIN LITTLE KEVIN (8pm, Tue,
+         BBC2) is not a rapid weight-loss sequel to the "Fountain Of
+         Youth" kids' classic... sympathetic Spice-umentary GERI (9pm,
+         Wed, C4) nevertheless records some of the "criticism and
+         ridicule" levelled at the talentless ginger trollop... while
+         hard-hitting heavily promoted mental asylum drama PSYCHOS
+         (10pm, Thu, C4) comes of course from the writer who translated
+         "Mad About You" into "Loved By You" for the British screen...
+         
+         FILM>> "geek heaven" is NTK reader Reverend Joe McNally's
+         praise for Cronenberg's icky new Videodrome-II VR-parable set
+         in biotech parallel universe EXISTENZ (imdb: computers /
+         futuristic / virtual-reality), largely for its spot-on
+         spoofing of in-game NPCs with dodgy accents and bad AI - were
+         Mark Hamill and Tim Curry somehow not available? Oddly, the UK
+         launch is being sponsored by fellow Dreamcasters Sega,
+         implying (Rev McNally again): "(a) they have a much more
+         highly-developed sense of humour than one might normally
+         associate with games companies, or (b) they haven't actually
+         seen it"... rather less effective art-horror surfaces from
+         Annette Bening's fruity underwater nightmare IN DREAMS (imdb:
+         psychological) - remember: "down to earth" Neil Jordan (Mona
+         Lisa, The Crying Game, The Butcher Boy) good; "supernatural"
+         Neil Jordan (A Company Of Wolves, Interview With A Vampire)
+         *bad*!... and while the plot of Adam Sandler's latest retard-
+         makes-good irritation THE WATERBOY (imdb: football / sport)
+         sounds like it *might* be lifted from an Oliver Sacks case,
+         that honour actually goes to vision-returning neurology-
+         romancer AT FIRST SIGHT (imdb: blindness) - not a fantastic
+         job by Val "The Saint" Kilmer, Irwin "The Net" Winkler, though
+         it has provoked the most OTT Christian review seen so far:
+     http://www.startext.net/homes/chldcare/capreports/at1stsight99.htm
+         
+         DEAD TREES>> you can already hear the ASA sharpening their
+         blue pencils over the lame "Get some coke for Jamie's party"
+         campaign for elderly-lads' mag LATER (launch price UKP1.50).
+         We've no doubt that there *is* a good article to be written
+         about future-sport violence-movie Rollerball, though Later has
+         run something else entirely... FHM (UKP2.80) leads, once
+         again, with "GAIL PORTER: She's Stunning, She's Nude" - And
+         Missing Her Right Nipple, from the looks of things... oh well,
+         it was an abridged version of David Scheff's excellent "Game
+         Over" book on the front of ARCADE (UKP2.80). Still, good to
+         see their dreadful pic of 4 drongos playing video games over
+         beer 'n' pizza has been swiftly replaced by 3 even worse
+         caricatures (p130), the girl of which is so captivated by
+         their subs offer that she's neglected to put a cartridge in
+         her Game Boy... "Is PIRACY killing the Amiga?" bravely ponders
+         AMIGA FORMAT (UKP5.95) - well, either that or someone's
+         stopped manufacturing the hardware... editorial of current
+         INTERNET magazine is "such rubbish" it "must be a troll",
+         readers report - is that why subs cut the last line?... "like
+         a slimmer, cheaper version of Wired but with Douglas Rushkoff
+         writing for it" isn't a great recommendation for SHIFT
+         (Borders, UKP3) http://www.shift.com/ - plus, being Canadian,
+         it's depressingly obsessed with both US *and* UK style
+         culture... but STEVE CIARCIA'S CIRCUIT CELLAR INK (Borders,
+         UKP3), the "Mork And Mindy" to Byte's "Happy Days", drags
+         itself over here at last, whispering that the BYTE home
+         automation system isn't Y2K compliant... finally, a swift
+         round-up of the new "Internet for Idiots" mags: the debut
+         issue of INTERNET MONTHLY ("The *real people's* guide to the
+         Internet"; UKP1.99) takes a firm stand against the
+         "jargonauts", goes on to reveal that those real (patient)
+         people are logging on with "28bps, 36bps or 56bps modems"
+         (p139), then concludes with - you've guessed it - a guide to
+         smilies (p149)... "Don't take too much advice from anyone who
+         has been online earlier than 1996" chortles Future's INTERNET
+         ADVISOR (p85; UKP1.99) - yeah, what would they know, eh?...
+         yet the ultimate irony goes to Paragon's erratically
+         distributed WEB PAGES MADE EASY (UKP3.95) - we'd have more
+         confidence in their clunky FrontPage / PageMill / HotMetal
+         tutorials if it didn't look like they'd borrowed their entire
+         (dreadful) design from .Net Magazine...
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+             "steering away from the celebrity gossip these days"
+     http://www.newsunlimited.co.uk/The_Paper/Daily/Story/0,3604,46112,00.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                            but retain SMALL PRINT.
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.

@@ -1,0 +1,325 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-03-19_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+                                                                        
+         "Everyone was in the same place professionally. We got in a
+          circle and sang 'Kum-ba-yah.'."
+            - SALON politics writer explains rigorous selection process
+                  (http://www.villagevoice.com/columns/9911/cotts.shtml)
+                 ...Someone's haemorrhaging cash, my Lord - Kum-ba-yah!
+                                    
+                                    
+                             >> HARD NEWS <<
+                             ingenious ruse
+                                    
+         STEVE JOBS, always happy to hitch a publicity gift horse to
+         the Apple bandwagon, declared a sizeable chunk of the new
+         MacOS X Server kernel open source (sorry, *public* source).
+         Great timing, given that the lumpen linuxariat were about to
+         declare all-out war on the company for encoding the Star Wars
+         trailer using a proprietary Apple codec. Now all we have to do
+         is to wait for those hordes of eager Mac fans to get stuck in
+         and really cranking out the code. Come on, guys - it's got to
+         be easier than all that offset-litho nonsense!
+         http://www.mackido.com/
+         -Mr Mackido: you know more about computers than Carmack! Code!
+         http://users.owt.com/sdechter/celeb.html
+                    - Richard Littlejohn! John deLancey! DOUGLAS ADAMS!
+                                         CODE, DAMN YOU! CODE FOR FREE!
+        http://www.netcraft.com/cgi-bin/Survey/whats?host=www.apple.com
+           - Solaris? Netscape? How open to outside coding can you get?
+         http://werple.mira.net.au/~jromney/TheAge/cw190494.htm
+                         - why Darwin isn't called "butthead biologist"
+         
+         Stop! Oh, yes, wait a minute Mr Postman: 2 weeks before the
+         DTI deadline might sound like an odd time to launch your
+         commercial Trusted Third Party crypto service, but the
+         ROYAL MAIL seem pretty convinced that the DTI won't bring back 
+         that key escrow requirement ("they see each other at a lot of
+         conferences"). Then again, though they're not hoarding keys 
+         themselves, their site makes some faintly escrow-like claims 
+         ("Key backup and recovery is a straight forward commercial 
+         necessity" - ViaCode FAQ) which may be fine for businesses, but 
+         tricky to establish as a widely used standard. The Royal Mail
+         is controlled by the DTI, so maybe it's a stealthy back-door
+         attempt to convince the companies of Britain that hey, it's
+         *cool* to expose your privates...
+         https://www.royalmail.co.uk/atwork/viacode/service/authent.htm
+         -"...can prevent data being changed without notice by hackers"
+         http://www.fipr.org/sfs3.html
+               - "Scrambling For Safety III", this Tue, LSE, free! (not
+          called "Trust Us To Have A Third Party", for obvious reasons)
+         
+         Two weeks ago, DEMON Managing Director Roy Bliss mailed
+         all@demon about people who send rude mails to all@demon just
+         before leaving the company, naming one of them as "a tosser".
+         Then, as NTK went to press last week, news arrived that Roy
+         himself had quit - his previous message thus constituting a
+         rude mail to all@demon just before leaving the company.
+         Coincidence? Self-fulfilling prophecy? One of those email
+         viruses that your mum keeps warning you about? No cause for
+         concern as yet, but if you hear of another prominent ISP's MD
+         resigning in the next few days, don't say we didn't try and
+         warn you...
+       http://www2.vnu.co.uk/bc/ctg/features/yearbook/html/feature2.htm
+                        - "don't be afraid to change horses mid-stream"
+         http://www.zdnet.co.uk/news/1999/10/ns-7348.html
+                 - Goodwins on that "jumped/pushed off horse" dichotomy
+         http://www.ntk.net/demon/
+                         - origin of the infamous "Very Bad News" virus
+                                    
+                                    
+                             >> ANTI-NEWS <<
+                          berating the obvious
+                                    
+         HONG KONG cinemas close as piracy protest; critics counter
+         that kung-fu genre may have become "tired and repetitive"...
+         not quite a FACE "exclusive": http://www.lugnet.com/1999/ ...
+         TIMES INTERFACE attempts "movie poster" cover, using font-
+         substitution favourite - badly-tracked COURIER... via
+         sponsorship of NSPCC posters, MICROSOFT promise to "Stop
+         Cruelty To Children" - if adults accede to their demands...
+         notorious taste-merchant ARMANDO IANNUCCI slams "racist"
+         Jasper Carrott in Telegraph... MEPs who could have prevented
+         web caching ban mysteriously forced to resign... boffins
+         create FRANKEN-BABY (pic): http://www.ntk.net/teleg2/ ... 
+         TIBERIAN SUN delayed again - Westwood hoarding energy to build
+         factory... COMPUTER WEEKLY claims "credit" for DTI proposals
+         ... frankly, it's the "or die" bit we're worried about:
+     http://ANL.ngadcenter.net/ads/MSNPortalPhaseII/do_die_sq468x60.gif
+                                    
+                                    
+                            >> EVENT QUEUE <<
+                      goto's considered non-harmful
+                                    
+         Last time it was Eric Raymond, next week RICHARD STALLMAN -
+         you just can't keep those open-source gurus away from London's
+         fashionable Kensington! Mr Richard, or "rms" as he's known on
+         "the scene", will be paying his respects to Britain's lovely
+         lady Di, and popping into the many designer high-street
+         boutiques, before strutting his stuff on the haute-couture
+         catwalk erected by Cool Britannia style-gurus THE UK UNIX USER
+         GROUP, this Tue 1999-03-23, from 7pm, with a meal afterwards.
+         For once, pre-booking is not required and entrance is free,
+         though probably not to us after this coverage.
+         http://www.ukuug.org/lugs/RS.shtml
+             - is it just us, or are these guys over here all the time?
+         
+         And if you want to know why we hate net artists so much, then
+         you want to get down to EXPO DESTRUCTO day (12noon-7pm, Sat
+         1999-03-20, "Open" Club, Charing Cross Rd, London, UKP3). It's
+         either an elaborately overblown promotional event for the
+         launch of Nettime compendium book README: ASCII CULTURE AND
+         THE REVENGE OF KNOWLEDGE (nice self-parodic title), a genuine
+         "post-media flea-market", or - yet more terrifyingly - both.
+         The list of attendees literally redefines the phrase "usual
+         suspects", like some nightmarish ICA outreach program, but if
+         even the GameBoy hacking turns out to be a disappointment,
+         it's not far from the representatively small-scale SMALL PRESS
+         FAIR (10am-5.30pm, Sat 1999-03-20, Waterloo Foyer, South Bank
+         Centre, London, free), so you needn't waste the whole day.
+         http://bak.spc.org/iod/destructo/
+                  - Backspace, Urban 75, Mute, Heath Bunting, Christ...
+         http://www.deepdisc.com/smallpress/
+                - with Kinder Egg god/ Beer Frame importer Mark Pawson!
+                                    
+                                    
+                             >> TRACKING <<
+                     look what the mouse dragged in
+                                    
+         Despite the "wearable" hypola that's funding it, MIT Media
+         Lab's REMEMBRANCE AGENT is a near-stable, usable, unobtrusive
+         background altavista of local files for Emacs users who've
+         swapped out their own long-term memory to cope with all those
+         key combos. You type away in one Emacs window; it throws up an
+         ongoing hitlist of relevant mail or plaintext files it's
+         uncovered in the other. Some understandable downsides, but
+         refresh-hungry largish indexes, semi-random ordering of hits,
+         lag, and an overly literal attitude only mildly detract from
+         RA's overall coolness. Non-emaxen may enjoy writing their own
+         front-end to the straightforward search engine. But then
+         again, if you enjoy that, you really should be using Emacs
+         anyway.
+         http://lcs.www.media.mit.edu/people/rhodes/RA/
+                     - and if you liked Firefly, you might also like...
+         http://pweb.netcom.com/~simmonmt/bbdb/index.html
+                 - similar, more practical software for the jwz fanboys
+                                                                       
+         Really this belongs under the already bloated "Geek Media",
+         but so many people mailed us the "unreleased" beta GIF, it
+         really deserves a little section all of its own. TV GO HOME is
+         Britain's premier offensive TV listings page, updated
+         fortnightly, hosted by us, compiled by, uh, one of NTK's
+         favourite humourists - and anyone else furious about the so-
+         called prime-time schedules. ITV's the next target but, for
+         the moment, "feel free to download and attach to emails for
+         pals", advises our anonymous anti-telly activist.
+         http://www.ntk.net/tvgohome/190399.html
+                 - hey, at least we didn't have to shut him down first,
+                    like that nasty business with the Demon Teletubbies
+                                    
+                                    
+                             >> MEMEPOOL <<
+                           hasta la altavista
+                                    
+         SIMPSONS KRUSTY COLA (in shops soon) proclaims "9 out of 10
+         children can't tell the difference!"... HALLOWEEN V: when's
+         Eric gonna pull on a hockey mask and *take them out*?... "I
+         have just ridden god": http://www.hydrothunder.com ... MATTEL
+         buys Purple Moon - Media Lab Semiotic Research Assistant
+         Barbie Available Q4 '99... they *sure* about that name?
+         http://www.neteugenics.com ... GENERAL PINOCHET spends house
+         arrest netsurfing - anyone know his email?... it's a party in
+         our browser all the time: http://www.internet-fiesta.org/ ...
+         sweepstakes for next editor of GUARDIAN ONLINE: Wavey Davey
+         Winder 100-1; Richard Barry 60-1; David Bowie 30-1; Doug
+         Rushkoff 25-1; Esther Dyson 2.1-1; TV's Azeem Azhar 7-2;
+         Jack Schofield again 5-1; faceless drone from elsewhere in
+         organisation who knows nothing about computers 5-3 fav...
+         "Regular and Large available in blue with red rainbow
+         suspenders ONLY": http://www.tdog.com/dogsox.htm... Java
+         BOOKMARKLETS ... SALON's Fabulous Kingdom of Gay Animals:
+   http://www.salonmagazine.com/it/feature/1999/03/cov_15featurea.html
+                                    
+                                    
+                            >> GEEK MEDIA <<
+                              get out less
+                                    
+         TV>> *they* got Oscar nominiated, now *you* have to suffer
+         their back catalogue: strangely not a whiff of Academy acclaim
+         for either ANOTHER 48 HOURS (10.30pm, Fri, BBC1) or hoop
+         dreamer BLUE CHIPS (12midnight, Fri, BBC1) - the latter
+         amusingly credited to one "Nicky Nolte" by the Radio Times...
+         following their crystal-clear explanation of PGP on Wed,
+         NEWSNIGHT (10.30pm, Fri, BBC1) takes on The Webbies... and XX-
+         chromo comedy SMACK THE PONY (9.30pm, Fri, C4) could be just
+         the lame sketch show that the Sally Phillips fan page has been
+         waiting for http://www.w2s.net/sally-phillips/ ... a female
+         onslaught of another kind in SPECIES (10pm, Sat, ITV) -
+         swiftly tracked by the empathic skills of super-sensitive
+         "Waiting To Exhale" director Forest Whitaker... John Peel
+         unlikely to question that "I build my own synths" nonsense on
+         his visit to Cornwall's Aphex Twin in SOUND OF THE SUBURBS
+         (12.20am, Sat, C4)... while BBC2 follows "Vegas Evening" and
+         "Bridget Jones Night" with a special racism season, including
+         nu-skool breakdancing fave LA HAINE (11.25pm, Sat, BBC2)...
+         Sunday morning hots up with not even NTK's own Danny O'Brien
+         daring to go head-to-head against new 10-part LEE AND
+         HERRING'S THIS MORNING WITH RICHARD NOT JUDY (12.15pm, Sun,
+         BBC2) - now Rod Hull-sketch free... and relocated to Glasgow,
+         the live-action G FORCE (11.20am, Sun, BBC2) retains few
+         elements of the animated Battle Of The Planets original...
+         noted trash connoisseur Jonathan Ross takes the chair at FILM
+         99 (10.15pm, Sun Oscar Preview; 10.55pm, Wed, BBC1) - can't
+         wait for the quotes on movie posters: "FWILLING: A NON-STOP
+         WOALA-COASTA WIDE" - BBC Film 99... SEINFELD bows out with
+         another bitterness-fuelled clip show (10pm, Mon, SkyOne)...
+         the BBC gets the cost-cutting idea, with Alexei Sayle
+         introducing a "War" comedy compilation in YOU CANNOT BE
+         SERIOUS (9.30pm, Mon, BBC2) plus Julie Walters hosting THE
+         STORY OF THE BRITISH SITCOM (10pm, Wed, BBC1)... and John Woo
+         blows up every helicopter in sight in semi-smug Travolta/
+         Slater chaser BROKEN ARROW (9pm, Tue, C5)... JD Salinger fails
+         to explain why Catcher In The Rye is the lone assassin's read
+         of choice in CLOSE UP (9.30pm, Tue, BBC2)... music soothes an
+         autistic child in YOUNG MUSICIANS (11.15pm, Wed, BBC2) - we
+         don't mean by obsessively cataloguing his record collection...
+         and, disappointingly, weird CGI live-action MYSTIC KNIGHTS OF
+         TIR NA NOG (Fri,16:30,ITV) does not appear to be based around
+         the ZX Spectrum game of the same name...
+         
+         FILM>> known in the US as "Waking Ned Devine", feelgood sub-
+         Father Ted frolic WAKING NED (MPAA: PG for mild nudity,
+         language and thematic elements) highlights an alarming new
+         trend in removing surnames from the titles of UK releases -
+         see also the upcoming MIGHTY JOE (nee YOUNG). Extending this
+         to other films, "Indiana Jones And The Temple Of Doom" becomes
+         "Indiana And The Temple Of Doom", "Saving Private Ryan"
+         becomes "Saving Private", "Jerry Maguire" becomes the Seinfeld-
+         esque "Jerry", and "Sommersby" becomes simply "_________"...
+         still, if you like 'em dumb, they don't come any dumber than
+         dedicated disco loser comedy A NIGHT AT THE ROXBURY (imdb:
+         based-on-tv-series / saturday-night-live) - Chazz Palminteri
+         took his name off the credits, yet left them on Jade... so our
+         tip: feuding neighbours Jeff "Tron" Bridges and Tim "Bob
+         Roberts" Robbins argue over lawn boundaries, noise curfews and
+         Whether Robbins Is A Mad Secret Terrorist Psycho-Bomber in
+         surprising sophisti-chiller ARLINGTON ROAD (imdb: america /
+         political / suburbia)...
+         
+         HARD LIT ["buy now" links at http://www.ntk.net/books/ ]>>
+         Harry Harrison's re-release of Esperanto-tinged sci-fi
+         military engineering survival classic DEATHWORLD OMNIBUS (RRP
+         7.99, Amazon 6.39) comes on like Junior Dune vs M Banks' Use
+         Of Weapons - though last time we were in London Forbidden
+         Planet, they had a 1976 "Berkley SF" edition for 6 quid as
+         well... best reason to buy O'Reilly's OPEN SOURCES - VOICES
+         FROM THE OPEN SOURCE REVOLUTION (RRP 16.50, Amazon 13.20)
+         is to watch the usual gurus compete in politically-correct
+         licensing conditions on the frontispiece. Downhill after that,
+         with reprints and rehashed arguments: Paul Vixie injects some
+         engineering sense, and Stallman's piece stands out as a
+         graceful polemic - but then you can get that at
+         http://www.gnu.org/gnu/thegnuproject.html , can't you?...
+         sadly, for the majority of TREKS NOT TAKEN (RRP 6.99, Amazon
+         5.59), you can see why they weren't; parodies of ST:TNG in the
+         style of "literary greats" are intermittently slash-funny, but
+         never as good as the ones in WAR OF THE WORLDS: GLOBAL
+         DISPATCHES... Iain Banks recommending Tasmin Archer? - EMI
+         "SONGBOOK" series confirms your favourite writers have *even
+         worse* taste in music than you previously suspected
+         http://www.songbook-series.co.uk/ ... bestseller battlers: MY
+         LEGENDARY GIRLFRIEND (RRP 6.99, Amazon 5.59, Tesco 4.99) is
+         indeed as badly written as "the male Bridget Jones" (Daily
+         Express) would lead you to suspect - pseudo-geek introspection
+         from the only 20something in Britain who never says "fuck"...
+         much better '80s nostalgia 'n' attitude from Julie Burchill's
+         paperback borderline-coherent bio I KNEW I WAS RIGHT (RRP
+         6.99, Amazon 5.59) - featuring surprising revelations about
+         Teleg Connected columnist Charles Shaar Murray and would-be
+         cyberauthor Mick "Armageddon Crazy" Farren... looking forward
+         to Onion compilation OUR DUMB CENTURY (RRP 9.17, Amazon
+         8.25)... but currently unsure which we fear most: Jon Katz's
+         Powerbook-powered "spiritual oddyssey" RUNNING TO THE MOUNTAIN
+         (RRP 12.23, Amazon 11.01)... or Bill Gates' hack futurism
+         BUSINESS AT THE SPEED OF THOUGHT (RRP 18.99, Amazon 15.19) - a
+         subtle allusion to the 1987 Ultramagentic MC's track,
+         "Traveling At the Speed of Thought", perhaps? Well, perhaps
+         not...
+                                    
+                                    
+                            >> SMALL PRINT <<
+                                    
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "most moving tribute of all"
+           (http://freespace.virgin.net/david.mied/Poem981021.txt)
+
+
+                  NINFOMANIA.COM "LINK TO US" APPEAL UPDATE
+                       Target: 10,500 hits on AltaVista
+
+0                                   TOTALISER                     10,500
+|.---------------------------------------------------------------------|
+ ^-current total: 7                   ...0.06% of the way there already!
+
+
+                                NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                           but retain SMALL PRINT.
+
+           Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+

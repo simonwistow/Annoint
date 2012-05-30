@@ -1,0 +1,319 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-04-09_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+
+         "Express p.86 - I'll be making spaks [sic] fly for years vows
+         Dixons founder"
+                       - Virgin Net internal press summary, 1999-04-06
+                  ...Freeserve giving Air Miles to defectors from AOL?
+
+
+                                >> HARD NEWS <<
+                                hilarity ensues
+
+         Sure, Open Source methods produce stable code: but what
+         about the people? ERIC S RAYMOND's warning that prominent
+         free software advocates were in danger of getting "burnt out"
+         took a sinister new turn this week, when Bruce Perens
+         relayed an e-mail from him onto the Debian Developers
+         mailing list. "If you ever again... insult me," trilled Eric
+         to his old Open Source pal, "and jeopardize the interests of
+         our entire tribe... I will find a way to make you regret it.
+         Watch your step." Not one to over-react to a flamewar, Bruce
+         promptly contacted the police, and warned everyone he knew
+         ("Because I know Eric is a firearms enthusiast"). Later,
+         Bruce discovered, much to his surprise, that ESR "meant to
+         threaten me with 'defamation of character', not with any
+         kind of violence", and withdrew his concerns. Not so fast,
+         Bruce. He's been saying that he's under a lot of work pressure
+         - and it's always the quiet ones that keep to themselves...
+         I'd watch out for that Linus guy.
+  http://www.debian.org/Lists-Archives/debian-devel-9904/msg00197.html
+                         - understand my job, or the radio ham gets it
+  http://www.debian.org/Lists-Archives/debian-devel-9904/msg00205.html
+                                        - when two tribes go to war...
+         http://www.ee.surrey.ac.uk/Personal/L.Wood/jargon/
+          - no Open Source definition in the new Jargon File (but this
+              whole "scary devil monastery" thing should freak BP out)
+
+         Is MICROSOFT being too modest in claiming to run its
+         business "@" the speed of thought? Take its tutorial on
+         using BackOffice to ban access to sites - if Microsoft
+         really stopped to think about the current anti-trust case,
+         it wouldn't have chosen "www.netscape.com" as the example
+         site to forbid, would it? And they were certainly quick
+         enough to change the example when the page started getting
+         extra hits... And what about Microsoft UK, who this week
+         launched a campaign aimed at convincing business leaders to
+         use the MS "Digital Nervous System" for their mission
+         critical work. After all that Melissa coverage, you'd think
+         they'd pause briefly to check they weren't including the
+         "Marker.A" macro virus in all the case studies, wouldn't
+         you? No! Too slow for MS!
+        http://www.microsoft.com/backofficeserver/guide/accessfund.asp
+- sure, it's changed now: but we'll have that Zapruder screenshot soon
+http://www.microsoft.com/uk/business_technology/dns/ecommerce/financial/case.htm
+- "send this page to a colleague". Hmm, think it did that by itself...
+         http://www.ntk.net/doh/msie990405.gif
+                                    - "Speed, speed and more - GLERK!"
+
+         ICSTIS stands for the Independent Committee for the
+         Supervision of Standards of Telephone Information Services,
+         and is the group that self-regulates the premium rate phone
+         line industries (well, it sounds better than OFWANK). This
+         week, it suspended its rule that "services of a sexual
+         nature must not contain a visual element" (and if it does,
+         one foot must be on the floor at all times), following
+         pressure from "service providers and network operators". Now
+         we wonder: what "service provider" industry, eager to make
+         even more money off their phone lines, has the tech to offer
+         dirty pictures at the drop of the hat? And given that, which
+         one is going to have the chutzpah to do it first? We'd call
+         our contacts at the ISPs to comment, but we can't afford
+         their new rates. And they all speak so *slowly* nowadays...
+         http://www.icstis.org.uk/visprs.htm
+                     - "excluding fax services"? I see a great need...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         WEBTECHS.COM domain snatched - suddenly 33,000 "HTML
+         validation service" links point to a porn site... Learn with
+         TIMES INTERFACE, pt 1 - "Java is the software that made the
+         web possible" (1999-04-07)... SALON buys Well, e-commerce
+         now run by deadheads: http://www.ntk.net/doh/salon990904.gif
+         ... Learn with TIMES INTERFACE, pt 2 - "less dangerous" virus
+         than Melissa mangles "the Bios chip, the device that
+         'warms up' your PC for readiness when it is first switched
+         on" (ibid)... staggeringly, OBSERVER believes "sun.com" to
+         be owned by "The Sun": http://www.ntk.net/doh/observ990904.gif
+         ... BBC RADIO describes Melissa virus as "open source"
+         (that GPL gets more virus-like by the minute)... Learn with
+         TIMES INTERFACE, pt 3 - DR KEYBOARD provides extensive
+         description of differences between Zip files and Zip drives,
+         no doubt confusing punter who makes no mention of Zip drives
+         in his question... interesting set of meta tags you've got
+         there, http://www.itn.co.uk/ ... BBC WEBWISE, "the campaign
+         to give everyone the confidence to get the most from the
+         Internet" sends a 2.7MB JPG as invite to launch party...
+         military having trouble hanging on to the good spellers too?
+    http://www.au.af.mil/au/database/research/ay1999/acsc/1999-018.htm
+         ... learn with TIMES INTERFACE, pt 4 - ANJANA AHUJA suggests
+         scientists work on "DNA" solution to Turing's Halting
+         Problem - Godel's Theorem also looking shaky?...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Of course, the big obstacle in defeating software piracy is
+         apathy: the apathy of the public towards something they
+         don't see as illegal, the apathy of law enforcement (ditto)
+         - and now the apathy of the games industry itself, who
+         can't be bothered to fund ELSPA's excitingly titled Crime
+         Unit. Last month trade mag MCV reported Sony's pledge of
+         UKP100,000 to the cause - if third parties could match its
+         donation. They couldn't - contributions (from 16 of ELSPA's
+         70 members) totalled only UKP76,000, but Sony paid up
+         anyway. If you'd like to add your 2 cents' worth, ELSPA are
+         holding an Extraordinary General Meeting at the Institute Of
+         Directors, 116 Pall Mall, London SW1 this Thu 1999-04-15, to
+         discuss raising the UKP500,000 their Crime Unit needs. No,
+         we don't expect "increasing revenue by selling better games
+         at lower prices" to be very high on the agenda, either.
+    http://www.ntk.net/index.cgi?back=archive98/now1225.txt&line=35#l
+                                 - please Sirs, can I have some more?
+         http://www.davesclassics.com/
+                    - not one of those April Fool shutdowns after all      
+         http://www.dejanews.com/[ST_rn=qs]/getdoc.xp?AN=464233956
+                 - "Stuart Campbell" is the new "Dave Green", we hear
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         Continuing this summer's essential hardware, the first wave
+         of STAR WARS LEGO has completed its national roll-out and,
+         in the words of our correspondent, "[it] fuckin' *rocks*".
+         All 5 sets - Landspeeder, Speeder Bikes, Snowspeeder, X
+         Wing, TIE Fighter/Y-Wing - have well-thought-out playability
+         (2 speeder bikes for Endor chases), staggering attention to
+         detail (like they've digitised 3D models into Lego pixels or
+         something), plus 2 or 3 named minifigs and a profusion of
+         light sabres - these *are* the toys you're looking for. Our
+         reviewer adds: "Darth Vader [from TIE Fighter pack] is very
+         cute, and when you take his helmet off (which I can't do
+         without saying 'But you'll die' 'Nothing can stop that
+         now'), he has a little grey lego head which looks exactly
+         like a South Park zombie. The TIE fighter has realistic
+         coming-apart-in-your-hands action through the cunning use of
+         rivet bits, but the rebel scum fighters are bizarrely
+         designed to be invincible." Purists will appreciate this has
+         all been achieved using nearly no special new pieces -
+         biggest liberty is creating bricks in 1970s 'tan' - and
+         while prices may seem high (from about a fiver to nearly
+         UKP40), make sure you shop around: Forbidden Planet was a
+         couple of UKP pricier than, say, Beatties - itself 2 or 3
+         quid more than large Tescos or Toys 'R Us.
+         http://www.bdr.org/lego/sw/
+                                 - your chance to vote for the Falcon
+         http://www.dejanews.com/[ST_rn=qs]/getdoc.xp?AN=459962600
+                            - note significance of the "grassy knoll"
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         http://www.cynicalbastards.com/ubs/ ... why not use COURIER?
+         http://www.sedg.freeserve.co.uk/league.htm ... "HITSLUTS"
+         ... will swap STEALTH FIGHTER fragments for english lessons:
+         http://www.kosovo.net/ ... everything must go at eBay:
+         http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=88033539
+         Kevin Smith's DOGMA *so good* that Disney are creating a new
+         company specifically to handle it (FilmFour to distribute in
+         UK)... "I hear that the MOZILLA party is still going on.
+         Apparently they couldn't get anyone out the door"... why
+         your big brother ended up like that:
+         http://www.consumerreports.org/Functions/More/Photogal/196601.htm
+         ... anyone have VIC KEEGAN as new ONLINE ed?... clearly healthy
+         ARCADE mag covermounts David Scheff's fab GAME OVER ...
+         wouldn't it be easier just to play QUAKE more slowly?:
+         http://www.sharkyextreme.com/hardware/3dfx_v3_oc/d.shtml ...
+         ... yup, *just* the right time to invest more money in
+         LineOne, BT... less surprising than http://www.freedomforum.org/
+         asking for COOKIES? How about the front page at
+         http://www.censorship.com/ ?... but for the grace of TRAMIEL:
+         http://www.villagevoice.com/columns/9914/hakim.shtml ...
+
+
+                             >> GEEK MEDIA <<
+                               get out less
+                                      
+         TV>> the unusual vocal skills of WALDEN ON VILLAINS (7.30pm,
+         Fri, BBC2) seem to be suggesting Hitler "hoodwinked" the
+         entire German nation into Nazism - not to be confused by the
+         endless quest for "lebensraum" by Alan Titchmarsh's subsequent
+         GROUND FORCE (8pm, Fri, BBC1)... Reeves & Mortimer get their
+         shot at a mainstream goofy gameshow in FAMILIES AT WAR
+         (5.45pm, Sat, BBC1) - not to be confused with the subsequent
+         edition of CORRESPONDENT (7.15pm, Sat, BBC2), about a teenager
+         who murdered both his parents and a shop clerk... but all you
+         Blake's 7 fans will be naturally glued to the Scorpio-era pre-
+         Gauda Prime "Saturday Play" THE SYNDETON EXPERIMENT (3pm, Sat,
+         Radio 4)... when they got Davina McCall to host "an evening
+         designed to inflame passion", presumably "blind fury" wasn't
+         the one they had in mind: senseless millennium rug-rat gimmick
+         BIRTH RACE 2000 (from 9pm, Sat, ITV) of course takes its name
+         from the rather more tasteful Roger Corman slaughter-fest
+         "Death Race 2000" - and even offers hope to semi-fertile
+         couples in the form of Kevin Spacey wife-swapping chiller
+         CONSENTING ADULTS (11pm, Sat, ITV)... alternatively, get
+         impregnated by computer, proposes dire '70s "access violation"
+         techno tosh DEMON SEED (12midnight, Sun, BBC2) - not to be
+         confused with the subsequent FOR THE LOVE OF: TREES (2.25am,
+         Sun, C4)... early '90s John Woo 'Nam actioner BULLET IN THE
+         HEAD (1.05am, Sat, C4) earned its memorable review:
+         "Beautifully shot - *in the head!*"... Britain's prestigious
+         movie BAFTAS (9pm, Sun, BBC1) hail from former ECTS venue -
+         Islington's glamorous Business Design Centre... EQUINOX (9pm,
+         Mon, C4) gambles on whether we over-estimate certain risks -
+         tell that to the Mexican scrapyard that melt down a lethally
+         radioactive X-ray machine in docu shocker DISASTER (8pm, Mon,
+         BBC2)... and they don't make 'em like this any more - apparent
+         cult classic THE 5,000 FINGERS OF DR T (10.30am, Tue, BBC2)
+         features "500 boys imprisoned in an enormous piano, on which
+         they must practice 365 days a year"... "many animals are
+         sensitive to electric currents" claims SUPERNATURAL (8.30pm,
+         Tue, BBC1), as anyone who's ever dropped a goldfish in a
+         toaster can easily confirm... while anyone recovering from
+         that "special" RSI after Sarah Michelle Gellar's guest voicing
+         on KING OF THE HILL (7pm, Sun, SkyOne) should steel themselves
+         for the new double-buffering prospect of BUFFY THE VAMPIRE
+         SLAYER (6.45pm, Wed *and* Thu, BBC2)...
+         
+         FILM>> daftoid Williamson/ Rodriguez romp THE FACULTY (imdb:
+         aliens / high-school / school) doesn't quite do for sci-fi
+         what Scream did for teen horror, but when it references
+         everything from Body Snatchers to The Thing to Star Trek 2:
+         The Wrath Of Khan, who could resist its slimy embrace?... just
+         when you thought Travolta/ Duvall legal weepie A CIVIL ACTION
+         (imdb: courtroom / toxic-waste) was a serious, un-
+         Hollwoodised, based-on-reality water pollution drama, they
+         spoil it by playing Talking Heads' "Take Me To The River" over
+         the end titles... unexpected arthouse queues for the
+         tantalising prospect of Ally "The Breakfast Club" Sheedy
+         drugging, seducing Radha "Catherine O'Brien from Neighbours"
+         Mitchell in artily shot snappy heroin cynicism HIGH ART (imdb:
+         lesbian / gay)... otherwise it's limited-release antics for
+         overblown benefits-fiddle THE RED VIOLIN (imdb: Canadian)...
+         the Notting-Hill set identity-searching DIY of BEDROOMS AND
+         HALLWAYS (imdb: gay)... moderately promising rap semi-
+         documentary SLAM (imdb: gangs / poetry / prison / urban) - not
+         featuring the young Craig Charles, thank christ... or
+         unacclaimed Parker/ Stone/ Ron Jeremy live-action ORGAZMO
+         (imdb: martial-arts / mormon / porn-industry / porn-makers),
+         for which "Airplane meets Boogie Nights" (Richard Galpin, FHM)
+         appears to be the most complimentary poster quote that didn't
+         come from "Kerrang!"...
+         
+         FEEBDACK>> oddly, something about the combination of armchair
+         investigative journalism and actively seeking out pornography
+         prompted many readers to help the AOL GIRLS track down and
+         erase their shameful adult-linked past [NTK 1999-03-26],
+         though looks like the real AOL has been equally persuasive:
+         http://www.aol-girls.com ... still, the postings on other
+         people's sites are going to be a bit trickier to disappear -
+         see http://www.aol-girls.com/board/messages/2792.html - while
+         http://209.50.239.225/AOLgirls/PRESSRELEASE.html and the
+         source to http://www.aol-girls.com/linkspage.html are still
+         more revealing than one might hope - "Good to see SNES ROMS
+         holding their own on the list of kinky thrills and ultimate
+         depravities," writes NTK subscriber ADRIAN MOULDER. "Maybe the
+         meta tags are the Born Slippy-style lyrics for the girls' next
+         single?"... following speculation in NTK 1999-03-26, "is
+         American History X an Asterix character?" proposes BEN MOOR,
+         who'll be back next week with a round-up of new summer ice-
+         creams; mail us your sightings now... http://www.ojr.org has a
+         good debunk of the Sunday Business "Hackers Attack Skynet
+         Satellite" hoax [NTK 1999-03-05], while NTK's resident sky-
+         spotter LLOYD WOOD reckons this "US Masks Satellites Data"
+         story http://www.ntk.net/sats/ isn't an April Fool - though
+         it is largely pointless: what better targetting beacon than an
+         object that's constantly broadcasting GPS data?... and
+         finally, internecine warfare among NTK contribs called "Ian"
+         is hotting up, with reader IAN HOLMES requesting that we "stop
+         stop publishing [IAN] MILLER's memes. It makes him cocky",
+         citing http://www.geocities.com/Hollywood/Trailer/5735/ and
+         http://www.gingerspice.demon.co.uk/ as evidence of Miller's
+         "sad++" tendencies. Normally we wouldn't bow to these kinds of
+         threats, except Ian Holmes (the first one) was mailing from
+         the Los Alamos National Laboratory, and may therefore be the
+         world's first Ian with limited nuclear capability...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+           It is registered at the Post Office as "journalistic gob"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+    NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+           (K) 1999 Special Projects. Non-business copying is fine,
+                            but retain SMALL PRINT.
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.

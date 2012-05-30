@@ -1,0 +1,304 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____23/10/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+          
+          "In the end, people on the Net should create their own 
+           local content rather than complain about the US's. 
+           They don't have to look at it! They could even create 
+             US filters if they wanted - a stupid idea, bu-"
+                                                  - ESTHER DYSON
+       http://www.pathfinder.com/fortune/mostpowerful/981014chat.html
+                                           ...ahhh. That's better.
+
+
+                                >> HARD NEWS <<
+                                widespread blues
+        
+         Think you've had a bad week? Allow us to make it worse. DTI
+         civil servants spelt out on Monday the details of the UK's
+         long-awaited crypto legislation. Under the new law,
+         Government-approved encryption authorities will be obliged
+         to keep a copy of your private key, and hand it over to the
+         authorities when requested by a "senior police officer" (as
+         opposed to the Home Secretary, as in phone taps). It will be
+         a criminal act for these authorities to tell you that your
+         key has been revealed. Now, in a better world (such as the
+         one we're just leaving), no-one would use these government
+         authorities because - as every expert in crypto has warned -
+         a key escrow system like this is fundamentally insecure.
+         You're better off with a free copy of PGP (or even your
+         browser's security features).  So, to encourage you, the
+         government has declared only digital signatures created by
+         these approved companies will be accepted in law. What's
+         that you say? What have digital signatures and encrypting
+         messages got in common? Well, you're right - nothing. But
+         you can bet the lawmakers won't mention that. This is a
+         piece of legislation that requires an ignorant public to
+         succeed.
+   
+         Talking of which, why haven't you heard of this before? While
+         the government have yet to release any information through
+         official channels, DTI personnel at the ICX conference
+         confirm all of the above, and have declared the basic
+         principles of this regulation "not open for discussion".
+         In this, as so many other matters, they're wrong. DTI
+         officials have their own signing authority - a third party
+         known as Parliament. Next week, in a NTK special, we'll tell
+         you how you can hack into this trusted service provider
+         through a backdoor known as "public accountability", and
+         that way decode what these buffoons are assuming is 
+         a secret transmission only they should understand.
+         http://www.liberty.org.uk/cacib/
+                     - once again: why it's bad for civil liberties
+         http://www.crypto.com/key_study/
+                               - and why it's technically incompetent
+         http://www.computerprivacy.org/
+                                 - and makes no business sense at all
+         
+         Falco! Awards go to anonymous, anonymous and anonymous for
+         their timely nomination of Soho Web house SUNBATHER, who
+         exit the living this week for the undead-crammed maw of
+         RAZORFISH. Judging by the lack of screams from the
+         previously piranha'd CHBi we're optimistic of their
+         continuing happiness - certainly compared to the uneartly
+         screams we hear the ...thing... which is no longer Online
+         Magic/Agency.com. Expect more US buyouts soon, ending at the
+         precise moment that we get bought up by the boosterish @NY.
+         http://www.atnewyork.com/
+                                             - complimentary outlooks 
+         http://www.sunbather.co.uk/
+                                              - Sunfish? Razorbather?
+         http://www.ntk.net/index.cgi?back=a98/now0213.txt&l=306#l
+      - What is this Falco? And why do you never answer my mail?
+       
+         
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                   
+         Time Out's SPYDER so impressed by Macromedia's "Shockrave"
+         software that he devotes whole article to the (non-existent)
+         product... Stalinist BLUE PETER Webmasters work overtime to
+         remove Richard Bacon from BBC Website... MINISTRY OF SOUND
+         to become premium ISP (booming market, we understand)... new
+         WINDOWS NT service pack 88MB, mirrored nowhere: not quite
+         what http://www.eu.microsoft.com/ntserver/nts/downloads/ is
+         saying ... bystanders sickened by images of BBFC/SCi
+         multiple pile-up... INTERNET WATCH FOUNDATION attempts to
+         cancel pornographic news articles by sending out the porn
+         again... OFTEL spokesperson claims "US numbers aren't linked
+         to geography" in defence of the we-all-saw-it-coming,
+         terminally random http://www.numberchange.org/ ... Hollinger
+         "Daily Telegraph" Digital to launch portal... DOUGLAS
+         RUSHKOFF runs back to Mac... and now, one for Martin -
+         http://www.square.co.uk/ ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Indie dilemma time again, with London's RAINDANCE FILM
+         FESTIVAL (mid-budget stuff, in between Volcano and the LFF?)
+         vying with the CRISP COMIC ART FESTIVAL, which mainly seems
+         to consist of big black-and-white strips above some of the
+         shops on Oxford Street. Raindance highlight should be
+         post-apoc rock epic SIX STRING SAMURAI (Fri 30/10/98, Prince
+         Charles Cinema, Leicester Sq), and we don't actually know if
+         the Roobarb / Henry's Cat BOB GODFREY RETROSPECTIVE (London
+         Cartoon Gallery, 44 Museum St, WC1A tel: 0171 242 5335) is
+         officially part of that Comic Art thing, but it ought to be.
+         http://www.potus.demon.co.uk/index.htm
+          - dner ner ner, dner ner ner, dner ner ner de de... oh dear
+         http://www.raindance.co.uk/filmshowcase/index.htm 
+                  - also features "The Independant Film Awards" (sic)
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Hmmm... MACOS 8.5 or NETSCAPE 4.5? Well, MacOS's Sherlock
+         thing isn't quite as lame as it sounds. By contrast, the
+         Related Sites button on Netscape is is much lamer than you
+         can imagine, and they haven't done much to speed up the page
+         rendering as far as we can see. MacOS *is* noticeably
+         faster, but the full text search eats up hard drive space.
+         At 13 megs, the Netscape download only takes one meg more
+         than the 4.0. At 58UKP, the MacOS isn't cheap. Netscape's
+         free, but we might wait for the stable - and really free -
+         Mozilla. Ah, hell, we give up. Which one will run on our
+         Acorn Archimedes?
+         http://home.netscape.com/eng/mozilla/4.5/relnotes/
+                               - roaming with Netscape good, while
+         http://filedb.euro.apple.com/uk/pressreleases/macos.html
+                - iMacs are bloody heavy, and the handle's too small
+         
+         
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         Roger Corman to film Asimov's NIGHTFALL ("Your favourite
+         stars - like you've never seen them before!")... WINDAES
+         98... PATRICK STEWART to play Professor X: Reboot guys to
+         adapt RODDENBERRY pitch... one more time around the memepool
+         for http://web.wwa.com/~xene/cantina.html ... Paramount
+         sponsoring SETI@HOME for Trek tie-in... new about:jwz ...
+         Onion goes US-wide... scan your arse and send it to
+         http://www.my-mug.com/ ... all marketing resolves to
+         http://www.sixsides.com/ ... pro-Microsoft fans show their
+         great sense of humour: http://www.brokenwindows.net/ ...
+         unusual paper "Doh" - http://www.ntk.net/doh/cis981023.jpg
+                      
+
+                               >> GEEK MEDIA << 
+                      may contain strongly-typed language
+
+         TV>> comedy horror extravaganza tonight, with Brian De
+         Palma's typically understated PHANTOM OF THE PARADISE rock
+         opera (12.30am, BBC1, Fri) rounding off the terror of THE
+         BBC NEW COMEDY AWARDS 1998 (11.45pm, BBC1, Fri) and a "new"
+         (but not so you'd notice) series of HAVE I GOT NEWS FOR YOU
+         (10pm, BBC2, Fri)... while C4 expertly fields the especially
+         poignant age-difference romance episode of FRASIER (10pm,
+         Fri, C4)... clocks go back on Saturday - right back to the
+         late '80s, apparently, during Prince theme evening A NIGHT
+         FOR THE ARTIST (11.45pm-2.50am GMT, Sat, C4)... or a
+         different brand of semi-surreal, much-quoted, sex-obsessed
+         performers on MONTY PYTHON WEEKEND (from 8pm, Sat,
+         Paramount)... for once, a perfect cult movie changeover with
+         John Waters' SERIAL MOM (10pm, Sun, C4) ending just in time
+         for Jonathan "Silence Of The Lambs" Demme's lesbian prison
+         trash debut, CAGED HEAT (11.50pm, Sun, BBC2)... you can
+         already imagine what a speeded-up Victor Lewis-Smith
+         commentating on old TV commercials would be like, so no need
+         to watch ADS INFINITUM (9.50pm, Mon, BBC2)... students
+         compete in Will McDonald's zany Uni quiz CARRY ON CAMPUS
+         (6.45pm, Mon, BBC2) - but how would they fare against the
+         rather more exacting criteria posed by Rutger Hauer in THE
+         HITCHER (9pm, Mon, C5)?... it can't/doesn't get any better,
+         so feel free to turn over after the "Skeet Surfing" bit of
+         post-Airplane goof-off TOP SECRET (11.10pm, Tue, BBC1)...
+         especially as they're once again taunting us with
+         traditional - and how temporary? - double-bill THE LARRY
+         SEINFELD SHOW (11.10pm, Tue, BBC2)... BLACK BRITAIN (7.30pm,
+         Wed, BBC2) profiles Mekon-like Jamaican government tech
+         adviser 13-year-old... while IS IT LEGAL? (9.30pm, Wed, C4)
+         battles for title of dullest office sitcom with final -
+         they've promised - series of DROP THE DEAD DONKEY (9pm, Wed,
+         C4)... and finally, "Wouldn't it be a great front
+         organisation for showbiz homosexuals?" is just one of the
+         questions Jon Ronson won't be asking his Scientologist
+         guests on the new religion-oriented run of FOR THE LOVE OF
+         (12.25am, Thu, C4)...
+
+         FILM>> Roger Ebert, again on fine form, asks "How does
+         Michael Myers support himself" in the long years between his
+         last film and post-Scream self-referential Psycho in-joke
+         HALLOWEEN H20: TWENTY YEARS LATER (imdb: road-stop /
+         alcoolism / drugs / traumatism / private-college / truck /
+         elevator / pumpkin / fire-extinguisher / ax / halloween /
+         boarding-school / serial-killer / heroine /
+         throwing-knives): "I picture him working in a fast-food
+         joint. 'He never spoke much, but boy, could he dice those
+         onions!'"... Todd Haynes, whose debut was retelling The
+         Karen Carpenter Story with Barbie Dolls, disproves his
+         poster slogan "the secret of becoming a star is knowing to
+         behave like one" by producing something that looks like an
+         entertainingly arty '70s version of Citizen Kane, but is
+         actually just a disappointing Bowie-bio cover version
+         recorded down a VELVET GOLDMINE (imdb: bisexual / glam-rock
+         / music / gay / 1970s)... Dreamworks' other fx-heavy war
+         romp of this summer, Joe Dante's sub-standard SMALL SOLDIERS
+         (imdb: part-animated / artificial-intelligence /
+         part-computer-animation / intelligence / animatronics) pits
+         Spinal Tap voices against The Dirty Dozen; the US cut was so
+         violent that the age-group the merchandise was aimed at
+         couldn't get in to see it... in another bittersweet tribute
+         to a deceased star (a la Small Soldiers' Phil Hartman), the
+         canine lead in kiddie feelgood sports nonsense AIR BUD
+         (imdb: basketball / dog) has subsequently died of cancer...
+         a national roll-out for supposedly action-packed
+         pseudo-Shakespeare yawn EL1ZABETH (imdb: historical /
+         period) - imagine a non-sci-fi version of Dune, with Kathy
+         "Waynetta Slob" Burke as Baron Harkonnen... and the worst
+         line in Minnie Driver costume race drama romance THE
+         GOVERNESS? (imdb: period / sephardic / judaism / victorian /
+         consumption / 1800s / photography) Either "I used to think
+         that a changeling would come and eat my kidneys" or "I could
+         drown in your hair - it's like treacle"... 
+
+         MAGS>> new PSX demodisc mag STATION (UKP3.95, out now) is,
+         as feared, simultaneously more offensive yet more boring
+         than the OFFICIAL PLAYSTATION MAGAZINE to which it obviously
+         aspires (although, unlike the latter, it doesn't - yet -
+         seem to be under the misapprehension that a few photos of a
+         PR party that the staff went to somehow constitutes a "news
+         item"). Howlers include: god-awful coverdisc (non-playable
+         Tomb Raider 3 - wahey!), *two* terrible Lara Croft pieces,
+         excessive use of exclamation marks, a reviewer under the
+         impression that Command And Conquer was based on "Dune 2000"
+         (p60), and a media pack that's even more illiterate than the
+         editorial: http://www.rapide.co.uk/station.html ...
+         Russian-Doll-style, Station #1 even includes a preview of
+         Rapide's new multi-format TOTAL CONTROL (UKP1.50, out
+         today). Presumably targeted at the same market as Future's
+         ARCADE (still due Nov we think - and no longer called
+         "Arcadia" due to confusion with the Duran Duran spin-off of
+         the same name), the thoroughly dull TC #1 does seem to avoid
+         the trap of other Edge-wannabes: Dave Perry's previous
+         X-Gen, the appalling Ultimate Future Gaming, and (of
+         course), Edge itself... "just for fun" deadpool - who'll
+         tank first: FRANK, DELUXE or UNCUT? (Hint: Uncut publishers
+         IPC look after their own)... new TIME OUT website terrible,
+         seems to avoid useful listings information for lame student
+         features... "email deliverable" http://www.futuregamer.com
+         (free, due Thu 05/11/98) promises to be "less than 256K" -
+         but will unzipping the weekly HTML be just one click too
+         far?... NTK completists will of course already have the new
+         INTERZONE (UKP3), containing a blistering behind-the-scenes
+         expose of our low-budget TV show (p30)... Bizarre, described
+         by its assistant editor as "Fortean Times's slutty little
+         sister", produces a trampy sibling of its own: one-off
+         showbiztastic CREAM, in three weeks' time... yet most
+         predictable content of the month goes to FRONT (right down
+         to the UKP1 launch price, out now) - it's "FHM for
+         teenagers", though some readers may find that tautology
+         excessive. Designed like Escape (confusingly) without all
+         the unconvincing PC bits, it's got semi-celebrity
+         semi-nudity, a distributor-scaring obsession with criminals
+         and corpses, Adam "Local Heroes" Hart-Davis, "what makes a
+         spot appear" (p95), and is hopefully as doomed as
+         predecessors LM ("Leisure Monthly", late '80s, not Living
+         Marxism) and vastly superior Sassy spin-off, Dirt...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "message returned to sender"
+        http://sunsite.cnlab-switch.ch/ftp/doc/standard/rfc/24xx/2468
+     
+                  
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+
+

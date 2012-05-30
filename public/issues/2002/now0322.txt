@@ -1,0 +1,276 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-03-22_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "I have nothing but Bill's assurances so far..."
+  www.anchordesk.co.uk/anchordesk/commentary/columns/0,2415,7111963,00.html
+            - about how trustworthy he's going to be *in the future*.
+                              Anyone else spot the logical flaw here?
+
+
+                                >> HARD NEWS <<
+                               while (true); do
+
+         So, you're a small company: you've got a private dial-in for
+         the office network and it's ex-directory (natch). With
+         war-dialling a little trickier in the UK than the States, it
+         should be pretty well hidden from crackers, right? Not if
+         one of your employees switches his tariff to BT Together, it
+         isn't. It appears that BT's so paranoid about subscribers
+         using its unlimited call service for Net connections, that
+         it's been automatically flagging any line that gets a lot of
+         incoming BT Together data calls as an "ISP". Result: your
+         employee gets a huge phone bill (ISPs are excluded from the
+         flat-rate deal). And you get your private dial-in number
+         listed on the public "ISP exclusion" Webpage. Together, we
+         note, with around 5000 other juicy data lines, just ready
+         for a cracker to step dandily through. Thanks BT! Putting
+         people first: right after "profits", about five pages before
+         "privacy", and a whole private phone directory or two ahead
+         of "security".
+         http://www.bt.com/together/isp_exclusion.jsp
+                           - they'll blame the messenger, we can tell
+
+         No need to worry about the London Underground getting hacked
+         [see last week's NTK] if their smartcard tickets are as
+         security conscious as the official THETUBE.COM site, where
+         "no" responses to their "Do you want a Public Private
+         Partnership?" poll have inexplicably continued to "soar" all
+         week. Disregarding the possibility that the public might
+         actually agree with area mayor Ken Livingstone on this
+         controversial matter, TheTube.Com seems more inspired by the
+         Robert Mugabe school of democracy and has already declared one
+         set of results "flawed", resetting them to earlier values "to
+         restore the integrity" of the poll. "It seems some people will
+         do anything to win - fair or foul", the site complains,
+         presumably not referring to its own scrupulously impartial
+         voting options: "YES: London Underground says: no more delay -
+         let's get on with fixing the Tube" or "NO: Transport
+         Commissioner Bob Kiley says that he wants to go back to court
+         to block PPP". "This is a subject that needs proper debate,
+         not vote-rigging by lobbyists", they conclude - so we do hope
+         it hasn't occurred to any of those lobbyists to circulate the
+         voting URL with arguments like, say, "quickpoll.asp?vt=no".
+         http://www.thetube.com/default.asp?qp=tq
+         - also, ConfigPPP won't work unless you set up MacTCP first
+
+         It's reassuring to see a publicly-funded body like the BBC not
+         being swayed by last week's X-Box launch hype - well, it would
+         be, if they didn't seem to be completely obsessed with Metal
+         Gear Solid 2 on the PS2 instead. "Games designer pushes
+         boundaries" they revealed on March 4, swiftly followed by
+         "Movie soundtracks come to gaming" (March 5), "Blockbuster
+         game set to break records", (March 8), and indeed "Solid sales
+         for Metal Gear" (March 11). And that's despite the somewhat
+         disappointing comments of "Metal Gear 2 lacks solidity" (March
+         8) and "Metal Gear Solid 2: Your views" (also March 8). The
+         stealthy PR infiltration goes deeper than you'd think:
+         apparently they've been looking forward to the release ever
+         since the "Zone Of The Enders" demo moved their reviewer "to
+         tears" around this time last year...
+http://newssearch.bbc.co.uk/cgi-bin/results.pl?scope=news&q=gear+solid
+         - What's that noise? Who's there? Review code? AAAAAAARGH!
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         VODAFONE "delighted" to be opening store in "(Town/Region)":
+www.vodafone.co.uk/vodafone.co.uk/pressreleases/20010925/020New%20Store.pdf
+         ... YAHOO admits politicians are largely grey-haired, "batty":
+         http://www.ntk.net/2002/03/22/dohbat.jpg ... secret life of
+         JEEVES revealed: http://www.ntk.net/2002/03/22/dohporn.gif ,
+http://www.ask.co.uk/main/askjeeves.asp?ask=thermal%20cracking%20propane
+         ... http://www.google.com/search?q=+%22do+not+disclose+this+URL%22
+         ... XML, Linux, the Macintosh dismissed as "recent fads":
+http://it.mycareer.com.au/opinion/webmechanic/2002/03/19/FFXX4Y8VSYC.html
+         ... former E-commerce minister "temporarily offline" since
+         April 2001: http://www.patricia-hewitt-mp.co.uk/ ... kind of
+         explains why those coding salaries were down to UKP1 a year:
+         http://www.goldjobs.com/search/search_position.asp?v=4007 ...
+         THE REGISTER warns of "worrying" password-guessing attack:
+         http://www.theregister.co.uk/content/55/24447.html (could it
+         affect ssh as well?)... "Add to Wedding Registry", plan ahead:
+         http://www.amazon.com/exec/obidos/ASIN/1892148005/ ... BOL
+         discovers the one question "only you can answer" - "What is
+         your name?": http://www.ntk.net/2002/03/22/dohbol.gif ...
+         after http://www.ntk.net/2002/03/15/dohtony.gif , MUGABE
+         strikes again: http://www.ntk.net/2002/03/22/dohmug.gif ...
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Easter is a time for families, and the FAQ for Multiplay's I10
+         LAN PARTY (from 9am, Fri 2002-03-29, Newbury racecourse, UKP70
+         per participating PC) certainly paints an idyllic picture of
+         an event attended by "girls and women", "whole families" and
+         "lots of father/son combinations". They're hoping this broad
+         appeal may make them the UK's "first ever" 1000-player event
+         - that and <1ms ping-times for Counterstrike, Q3 Arena, Star
+         Trek Voyager: Elite Force, Unreal Tournament, Return To Castle
+         Wolfenstein and many other popular family pastimes. After all,
+         the Christian feast of the resurrection co-opts older pagan
+         traditions of renewal and rebirth, and what better way to
+         celebrate that than with a frenzy of deathmatch respawning?
+         http://www.multiplay.co.uk/events.asp?id=7
+                                   - AUP forbids warez, porn, kettles
+         http://www.fipr.org/stallman.html
+                   - don't forget: Stallman FIPR fundraiser on Monday
+         http://www.onlinecontentuk.org/Mar02event.html
+                - creating travel content on Wed (behind "blue door")
+         http://www.theinquirer.net/17030202.htm
+                                          - anyone coming to the pub?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         THE PERL REVIEW is certainly *not* the open source
+         replacement for the excellent Perl Journal, currently
+         embedded as a trophy supplement in SysAdmin magazine. Oh no.
+         But what it currently *is* is the St. Andrews of PERL GOLF.
+         Perl Golf is the ancient recreation of Perl Monks and
+         Fun-With-Perl subscribers, whereby competitors seek to
+         whittle down an executable solution to a challenge to the
+         minimum number of (key)strokes. It's not quite obfuscation,
+         and it's not quite RSA-in-1-line-of-perl, but it is fun. The
+         next round of official Perl Golf at The Perl Review course
+         starts on April 1st, but with their handy utilities, you can
+         play your own round whenever you want. PGAS is an
+         XMLRPC-driven  Perl Golf Administration System, and
+         Games::Golf is the Perl golf test suite: with both, even the
+         humblest Perl Monastery can devise and manage a few rounds.
+         Add in the cultural traditions and rules that the Review did
+         finally settle upon (like 'BoB', the pacesetting imaginary
+         ubergolfer, who is played by the Judges using the best ideas
+         from all current contributions), and you've got the most fun
+         you can have while still giving Bertrand Meyer a coronary. Fore!
+         http://perlgolf.sourceforge.net/
+                                         - Conway gets a -20 handicap
+         http://archive.develooper.com/fwp@perl.org/msg01949.html
+                                                         - tradition!
+         http://perlmonks.thepen.com/82470.html
+                                          - tips for course designers
+
+
+                                >> MEMEPOOL <<
+                  ceci n'est pas une http://www.gagpipe.com/
+
+         http://cdprot.cjb.net/ - beats colouring in the edge
+         with a magic marker ... CORPORATE ANTHEMS goes corporate:
+         http://www.zdnet.co.uk/specials/2002/it-anthems/ ... yEnc
+         considered harmful: http://www.exit109.com/~jeremy/news/yenc.html
+         ... what's cleverer? sneaking Buffy show titles into headlines?
+         http://www.bathcityfc.com/news.htm or sneaking in Buffy *slash*
+         titles? http://www.yorkshirewater.co.uk/news/nr086_02.htm ...
+         DARPA, ARPA, DARPA, ARPA - let's call the whole thing off:
+         http://www.darpa.mil/body/arpa_darpa.html ... in a way it's
+         encouraging them: http://www.spamradio.com/ ... at last:
+         PANTY CAT for Windows http://www.geocities.com/m0f73/maci.htm
+         ... we pause for a a somehow terrifyingly generic Webpage:
+         http://bongr.tripod.com/welcometobonnspersonalwebsite/ ...
+         but no human being would ever photoshop a fake like that!:
+         http://crazy.codetroop.com/randimg/?stone.jpg ... token
+         Flash fodder: http://www.esu.lt/andrius/10/go.htm ...
+    http://elfwood.lysator.liu.se/zone/k/o/kortkramer/commright.jpg.html
+         - where maplin catalogue covers go to die ... and finally:
+         it's THE CHRISTIAN FOLK ART IRONIC-OR-NOT FACE OFF!
+  http://homokaasu.org/diy-pope/ vs http://members.aol.com/JesusImages/
+         vs http://store.yahoo.com/jsbstash/budchrisdass1.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> SOCIETY (1.15am, Fri, BBC2) is like "They Live" directed
+         by the young Peter Jackson - and not in a good way... the KLF
+         explain some of the finer points of "The Manual" to Vic Reeves
+         and Iron Maiden in HOW TO HAVE A NUMBER ONE (10pm, Sat, C4)...
+         and it's a hacker movie weekend spectacular, with gimmicky
+         John Badham parachute heist DROP ZONE (11.20pm, Sat, BBC1),
+         black-and-white bafflefest PI (11.40pm, Sat, C4) and, er,
+         Sandra Bullock discovering a Photoshop-plugin virus in THE NET
+         (10pm, Sun, C4)... you know, you can get very drunk if you
+         combine all the drinking games for TITANIC (5.55pm, Sun, BBC1)
+        http://www.google.com/search?hl=en&q=%22titanic+drinking+game%22
+         ... the CIA get hold of Freud's theories in THE CENTURY OF THE
+         SELF (8pm, Sun, BBC2) ...and PANORAMA (10.15pm, Sun, BBC1)
+         blames the US government for not heeding the terrorist
+         warnings contained in action movies like "Die Hard" and "The
+         Siege", and presumably demands to know what they're going to
+         do about the imminent threat depicted in "Planet Of The Apes"
+         ... there are new series for two underperforming US imports,
+         THE WEST WING (9pm, Sun, C4) and MALCOLM IN THE MIDDLE
+         (8.35pm, Mon, BBC2)... C4 seem to be betting on another Oscar
+         for Marisa Tomei with her Best Supporting Actress-winning MY
+         COUSIN VINNY (10pm, Mon, C4), followed by the mysteriously un-
+         nominated sci-fi ENEMY MINE (12.10am, Mon, C4) plus Terminator
+         knock-off APEX (2.10am, Mon, C4)... and "Theroux himself
+         becomes the subject of press attention" in WHEN LOUIS MET MAX
+         CLIFFORD (9pm, Tue, BBC2)... ITV names and shames unwitting
+         celebrity lookalikes in STARS AND THEIR DOUBLES (8.30pm, Wed,
+         ITV)... what is presumably another of those ITN "behind the
+         news" documentaries ALI G: BEFORE HE WAS MASSIV (9.35pm, Wed,
+         C5) provides an unsettling contrast with harrowing Jodie
+         Foster rape trial THE ACCUSED (10.05pm, Wed, C5)... and still
+         "mad as hell, and not going to take it any more", THE MARK
+         THOMAS PRODUCT (11pm, Wed, C4) segues eventually into partial
+         Max Headroom-inspiration movie NETWORK (1.05am, Wed, C4)...
+
+         FILM>> going from the double pistol grip and distinctive
+         folding stock, reader Cam Winstanley reckons it's either the
+         FAMAE SAF submachine gun, or possibly the Beretta Model 12S -
+         but definitely not the Heckler and Koch MP5 that "many
+         lightweights may think" - being brandished by the star on
+         the poster for mildly predictable gangsta-politics TV spinoff
+         ALI G IN DA HOUSE (imdb keywords: blackmail/ homosexuality/
+         independent-film/ kidnapping/ kiss/ mild-violence/ murder/
+         profanity/ slapstick).. the juvenile cartoony half-term
+         hilarity continues with CGI slippery-ice-world-level ICE AGE
+         ( http://www.capalert.com/capreports/iceage.htm : promotion of
+         the theory of evolution; fecal matter being flipped in
+         someone's face)... but looks like there was a bit less render-
+         time for kid-inventor alien-abductee JIMMY NEUTRON: BOY GENIUS
+         ( http://www.capalert.com/capreports/jimmyneutron.htm : making
+         human sacrifices to appease false "deity"; defecation by an
+         "animal"; flame retardant [foam] from the anus of a robot dog;
+         peeing in the shower, twice)... while life - in the form of
+         http://media.guardian.co.uk/bbc/story/0,7521,638266,00.html -
+         imitates German social psychology dramatisation DAS EXPERIMENT
+      ( http://www.cndb.com/movie.html?title=Experiment%2C+Das+%282001%29 :
+         [Maren Eggert's] perfect breasts are visible for a second;
+         Andrea [Sawatzki] plays a scientist who wants to end the
+         experiment. Two guys who play the guards arrest her and she
+         strips to her black lingerie. She is told to remove her bra
+         and panties)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                "whiskey-weird"
+     http://zgp.org/linux-elitists/20000222164552.A4441@humulus.zgp.org.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

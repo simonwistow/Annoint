@@ -1,0 +1,296 @@
+ _   _ _____ _  __               11/07/97   NEED TO KNOW NOW
+| \ | |_   _| |/ /   _ __   _____      __ o Apple resignations!
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o Microsoft shenanigans!
+| |\  | | | | . \   | | | | (_) \ V  V /  o Shatner marriages:
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o The same old news.
+
+
+            "Hey, Teens : Don't Hack Web Sites, Enter This Contest!"
+                             - www.microsoft.com front page headline
+            not quite the MS server security patch we were expecting
+
+
+                               >> HARD NEWS <<
+                               easy conclusions
+
+         There it goes again: two weeks before installing MacOS 8,
+         and APPLE reboots once more. The board still insist it's an
+         incompatibility issue - the extensions removed from the
+         control panel this time are CEO GIL AMELIO and Tech Vice
+         President ELLEN HANCOCK. Results for third quarter should
+         show next Wednesday: in the meantime, A.C. Markkula and the
+         usual suspects will be scoping remote galaxies for CEOs who
+         *still* don't know what they're letting themselves in for.
+         http://www5.zdnet.com/zdnn/special/spec9.html
+         - Jobs certainly sold up at just the right time, didn't he?
+
+         That hot property for Christmas '96, HERMANN HAUSER'S much-
+         delayed NETSTATION Web TV, is to premiere next week. The
+         device includes an Acorn design, an ARM processor, and
+         content from www.esi.co.uk and Entertainment OnLine. It
+         will be priced at just under 300UKP with a subscription of
+         14.95UKP a month, plugs straight into the TV and is firmly
+         aimed at the consumer FOR GOD' SAKE IT'S NOT GOING TO SELL.
+         IT WILL NOT SELL. CAN'T YOU SEE THAT? IT'LL BE THE NEXT
+         SINCLAIR C5, WE'LL BE THE LAUGHING STOCK OF EUROPE, YOU'RE
+         ALL DOOM- sorry, panicked for a moment there.
+         http://www.netstation.co.uk/        best of British, chaps!
+
+         After losing its battle with AMSTRAD PLC in the High
+         Courts, SEAGATE has learnt that it must pay over 85 million
+         pounds compensation after being found liable for that 1990
+         Amstrad PC product recall (remember?). Sold-up CEO Alan
+         Sugar, aware of a good revenue stream when he sees it, has
+         threatened to take the case to the US courts. Seagate must
+         love that kind of talk, especially following low earning
+         predictions, an unexpected tax bill of $55 million, and $25
+         million down the drain thanks to the devaluation of the
+         Thai Baht. Moral: if you can't beat US competition, try and
+         take it down with you.
+         http://www.seagate.com/ don't bother: as if they'd cover it
+         http://web.ukonline.co.uk/cliff.lawson/index.htm
+                - now for corporate Websites, *this* is worth seeing
+
+         Looks like the beginning of the end for the Department of
+         Trade and Industry's Trusted Third Party encryption dreams.
+         NETWORK NEWS reports that the NHS has demanded exemption
+         from legislation which would require a key to encrypted
+         data be placed with a licensed authority. The NHS say that
+         this destroys the confidentiality of the medical data it
+         stores. And if the NHS thinks that, what should the rest of
+         us think about the government requiring access to our
+         files?
+         http://www.leeds.ac.uk/law/pgs/yaman/ukpriva.htm
+         we should *disapprove*. Follow the cypherpunk rhetoric, man
+         
+         Right, we've done crypto. What's the other worthy geek
+         topic? Censorship? Okay - and this time, it's Microsoft
+         doing the "editing". Sites thought to have been stomped by
+         Gates' lawyers recently include the undocumented Windows NT
+         site www.ntinternals.com, which was merrily releasing the
+         security flaws in NT faster than MS could catch them, and a
+         bunch of Geocities ranters. Site owners say that while
+         direct legal action is rare, the standard MS tactics (Fear,
+         Uncertainty and Doubt) seem to scare Web hosting companies
+         sufficiently. Of course, it would be a crying shame if this
+         kind of behaviour was to lead to even more links to the
+         anti-Microsoft material...
+         http://192.215.107.71/wire/news/jul/0704microsoft.html
+         http://www.winternals.com/          remnants of the NT site
+         http://www.vcnet.com/bms/default.html       boycott MS site
+         http://members.tripod.com/~antiMicrosoft/        UK anti-MS
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         "OS/2 dead as consumer product", says IBM... whois
+         RESISTANCE-IS-FUTILE.COM... Canter disbarred in second US
+         state... nothing happens at Euro government Net conference:
+         participants say they need "more meetings"... MSN re-
+         launching again... harsh German laws to restrict cyber-
+         liberties... Microsoft to introduce Windows to Fords,
+         Daimlers... harsh German laws restrict laptop use in
+         aeroplanes (2 years imprisonment)... Sega Saturn now
+         chasing "younger market"... "only 10% of top companies
+         realise that billing for multiple taxes and currencies will
+         be the key to success for international Internet-enabled
+         commerce" - IT Informer... whois WESHALLPREVAIL.COM...
+         German hackers evade harsh security, drive into Berlin
+         airport (using a Daimler)... ITN claims "100 million users
+         logged into mars sites"... whois BILL-IS-LORD.COM...
+
+
+                                >> CULTURE <<
+                                  your cult
+
+         Congratulations to WILLIAM "CAPTAIN KIRK" SHATNER, who is
+         due to marry in the near future (insert your own joke about
+         "Engage" here). His future wife is the daughter of a famous
+         Federation scientist who went missing many years ago -
+         first she was repulsed by Kirk's primitive ways, but soon
+         found herself unable to resist his Terran charms etc etc.
+         Commiserations are also due as we only found this out
+         because Shatner is due to guest-star in Channel 4's new
+         sci-fi quiz game SPACE CADETS (6pm, Tue; repeated 10.20pm,
+         Wed) which also features regulars Greg Proops, Bill Bailey,
+         and (oh god) Craig Charles.
+         http://www.channel4.com/entertainment/spacecadets/
+         - features Klingon Real Audio. Laughing at or with, Craig?
+
+         Friends teasing you for being "too geeky"? Then take them
+         along to BEN MOOR's one-man quirky comedy TWELVE (Hen &
+         Chickens Theatre, Highbury Corner; 8pm; until 2/8/97, not
+         Mondays : some tour dates) and give them some real
+         perspective. Gangling genius Moor, a long-time friend of
+         NTK, describes his work as "a conceptual safari, featuring
+         midget pope clones, a Spanish table festival, and nuisance
+         phone calls". Pun-packing entertainment for all ages: and
+         watch the skies for previews of his next particle-physics
+         extravaganza, A SUPERCOLLIDER FOR THE FAMILY at the
+         Edinburgh Fringe.
+         http://www.edfringe.com/f97/grp/grp01855.html#01855003
+                           - "Oddly eloquent". Emphasis on the "odd"
+         
+         Wired Ventures (whom we hate) are foisting their HARD WIRED
+         range of books on an unsuspecting British public this
+         month. Our favourite title is MIND GRENADES, an expensive
+         reprint of all that incomprehensible pre-contents bollocks
+         you mistook for a Smirnoff advert in the original mag. Or
+         perhaps you'll enjoy "Digerati : Encounters with the Cyber
+         Elite": an elite that we note includes both Wired publisher
+         Louis Rossetto ('the Buccaneer') and Wired exec editor
+         Kevin Kelly ('the Saint'). Perhaps we'll just re-read our
+         copy of the original Hardwired, the genuinely excellent
+         1986 novel by sci-fi author Walter Jon Williams. An author,
+         that Wired Ventures lawyers are currently asserting owns no
+         right to the Hardwired title, and presently has no
+         publisher in this country. Sigh.
+         http://www.hardwired.com take a bow for the digital revolution
+         http://www.thuntek.net/~walter/ and don't get fooled again
+
+
+                                >> TRACKING <<
+                 Your Pocket Alpha Proton X-Ray Spectrometer
+
+         Wired contributor Gareth Branwyn : okay in our book, not
+         least because of his new Web venture WWW.STREETTECH.COM.
+         "It's like talking to your cool friend who knows about new
+         products as opposed to reading a stilted review," they say,
+         and who would want to miss that? A Swiss Army Stim we think
+         you'll like.
+         http://www.streettech.com
+                            - that didn't sound too stilted, did it?
+         http://www.jargonwatch.com
+                   - he did this for Hard Wired and still he's loved
+
+         Computer Trade Weekly gives QUAKE II 5/1 odds for the
+         Christmas number one slot, with Tomb Raider 2 leading the
+         pack at 2/1 (it's exactly what you'd expect from a sequel
+         to Tomb Raider, but here's hoping you can't walk through
+         the dead animals this time.) DAIKATANA, the profile title
+         from former id designer John Romero, hangs in there at
+         33/1, so it's looking like there were a few improvements to
+         be added to the original Quake engine (on which Daikatana
+         is based) after all.
+         http://www.idsoftware.com/quake2/
+         - 'pparently Romero's a bit of a deathmatch pushover, too
+
+         High, medium and low techiness: SWING, the new set of
+         foundation classes from JavaSoft hit the streets last week.
+         Features include a nice graphics library and a lot of stuff
+         to tidy up the GUI. I'm told to say 'lightweight
+         components' a lot at this point. Speaking of lightweights -
+         a second preview for VISUAL JAVASCRIPT, Netscape's drag-
+         and-drop programming package for wimps is out there now.
+         And for you HTML weenies, the World Wide Web Consortium
+         released an advance draft of HTML 4.0, which includes such
+         goodies as enhanced forms (nice looking buttons) and a
+         tidying-up of that whole 'frames' nastiness.
+         http://developer.javasoft.com                high techiness
+         ftp://ftp.netscape.com/pub/visualjs/pr2/ cheaty visual coders
+         http://www.w3.org                           and 'designers'
+
+
+                                >> MEMEPOOL <<
+                        what's hawking, what's dawkins
+
+
+         Band-X... www.rizla.com... what do BT research labs *do*
+         exactly?... all the decent techies leaving GCHQ they say...
+         death of the outdoor rock festival... wake up - do the
+         'Monster Pan'... is that thrash metal we hear or Demon's
+         routers?... buy Easynet! Buy Easynet!... putting "extreme"
+         in front of inappropriate words ("beauty",
+         "Ghostbusters")... all the decent techies leaving PIPEX
+         they say... www.rebol.com... death of DEFCON...
+         TeleTubbyHouse... Israel govt says US pressured them to
+         pass crypto laws... Mars landing : News sites :: Gulf War :
+         CNN... Return to Silent Running... reports of haddock's
+         death exaggerated...
+
+
+                               >> MO' MEDIA <<
+                     evade your real-life responsibilites
+
+         TV >> You've seen John Hughes' sloppy geekfest WEIRD
+         SCIENCE (9pm, Fri, BBC2) once too many times already, so
+         flip over for more sophisticated surrealism from the fresh
+         series of FRASIER (10pm, Fri, C4), closely followed by
+         David Lynch's insane ERASERHEAD (11.05pm, Fri, C4), which
+         should put you right off sticking tadpoles in your
+         radiator, if you know what I mean... OK, we forgot the
+         late-night repeats of excellent software sitcom DWEEBS
+         (5.05am, Sat pm/Sun am, C4) but you haven't missed many so
+         far... John Wayne's classic TRUE GRIT (9.40pm, Sat, BBC2)
+         surprisingly triumphs over Jean-Claude Van Damme in HARD
+         TARGET (10pm, Sat, BBC1) - John Woo has made some cool
+         action movies, but this ain't one of them... top kids'
+         director plugs his latest dino-tedium in THE RETURN OF
+         STEVEN SPIELBERG (2.20pm, Sun, BBC2) then intros a (frankly
+         funnier) sequel, BACK TO THE FUTURE PART II (2.50pm, Sun,
+         BBC2)... THE WORKS (8.55pm, Sun, BBC2) double-bills Arthur
+         C Clarke with yet another weird sci-fi edition of THE OUTER
+         LIMITS (9.25pm, Sun, BBC2)... NEIGHBOURS FROM HELL (9pm,
+         Mon, ITV) provide the latest in nightmarish camcorder docu-
+         drama entertainment... Stewart Brand patronises the
+         creativity of the poorly housed in HOW BUILDINGS LEARN
+         (7.30pm, BBC2, Thu) so, instead, be sure to tape those new
+         rendering gimmicks in the third series of deeply fantastic
+         CGI cartoon REBOOT (4.40pm, Thu, ITV)...
+
+         MOVIES >> SWINGERS (no-one you've heard of) is low-budget,
+         fast-talking blokes hanging round in bars and failing to
+         chat up women, and apparently completely brilliant...
+         UNFORGETTABLE (Ray Liotta, Linda Fiorentino) sees John "The
+         Last Seduction" Dahl re-teaming with Fiorentino to mangle
+         an over-complicated memory-transplant murder plot...
+         deviant Londoners can enjoy the NFT's short-but-vivid DAVID
+         CRONENBERG season (all July); we say go for the crazed
+         Canuck's early, funny films (Shivers, Videodrome) rather
+         than the arty stuff (Rabid, The Brood)...
+
+         IMPORTED PRINT >> The new 21*C, the stylish Australian
+         cybermag published by stuffy academic press Gordon + Breach
+         has reached our shores: contents in #23 include the Gibson-
+         Sterling hybrid praising John Shirley plus Prions, Cancer,
+         NASA and Mark Dery choking back his pessimism long enough
+         to interview Vernor Vinge... CINEFEX #70, the goddam sexy
+         film FX mag is (briefly) on shelves of the specialist shops
+         - features on NTK fave The Fifth Element, Men in Black, and
+         some dino flick... FILM THREAT has got money troubles and
+         has suspended publication until they're sorted out,
+         publisher CHRIS GORE weeps. Going "subscription only" a
+         couple of months back was maybe a strong hint: check
+         www.filmthreat.com for details... meanwhile, SCI-FI
+         UNIVERSE, Gore's moneyspinner for ex-employers IDG
+         Publications, has been sold to the coincidentally-named
+         SCI-FI CHANNEL... and in final act of media injustice,
+         funny, moral San Fran mag MIGHT MAGAZINE is no more.
+         Unless, that is, the hints in the "Are Black People Cooler
+         Than White People?" issue are *another* prank...
+
+
+                               >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+               It is registered at the Post Office as "natal".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+      NTKnow is helped by VIRGIN MEDIA, VENUS INTERNET and FLIRBLE.ORG.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

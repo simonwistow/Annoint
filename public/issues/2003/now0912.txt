@@ -1,0 +1,254 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-09-12_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Whatever we think about the toxicity of Ecstasy, 40% of 
+         people using it each weekend do not die..."
+             - Prof Colin Blakemore sets minds at rest, thanks to BBC
+                        http://news.bbc.co.uk/1/hi/health/3089350.stm
+         ...60% dance badly enough to be considered "life-threatening"
+
+
+                               >> HARD NEWS <<
+                            instrumental statues
+
+         As if the bloody week couldn't get more retrospective. Last
+         summer's Statutory Instrument for town councils and egg
+         marketing boards wanting to collect comms data on you is
+         back, back, partly fixed, and back. And just to ensure you
+         remember what you were doing when it was, the government
+         also announced their "voluntary" plans to get ISPs to retain
+         all traffic data for twelve months. "If this voluntary
+         arrangement proves unacceptable to the industry, the
+         Government will look to make such data retention
+         compulsory", says the press release, in a tone of friendly
+         reconciliation that's giving us goose-bumps already.
+         http://www.homeoffice.gov.uk/n_story.asp?item_id=602
+- we'd point to the legislation itself, but the govt's learnt *that* lesson
+
+         Still, the EU kicked back the new Euro-DMCA - the intellectual
+         property rights enforcement directive - until November, the
+         cowards. Giving them all a little bit longer to enforce the
+         *old* euro-DMCA, the EUCD. This week, the little men from
+         FIPR have been bicycling around Europe finding out exactly
+         what each country has banned in their national
+         implementations of the EUCD. Roughly speaking: if you want
+         to crypto research or reverse-engineer, better high-tail
+         it to Finland or Denmark. Norway and Denmark allow for
+         non-infringing circumvention (ie, you can run DeCSS for your
+         own sweet fair use). If you don't like prison food, don't go
+         to Italy, where they'll put you away for four years for
+         breaking Adobe eBooks protection. And if you like your
+         savings, don't, for God's sake, stay here in the UK, where
+         there'll be unlimited fines for commercial or "large-scale
+         (crackz) dealing" - also known by its street name "freebase 
+         zer0-dayz".
+         http://www.fipr.org/copyright/guide/intro.html#_ftn43
+                           - done it, done it, want to do it, done it
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         puerile Sky EPG abbreviations - looking a bit too "passionate" 
+         for our liking: http://www.ntk.net/2003/09/12/dohjim1.jpg (2nd 
+         source: http://www.ntk.net/2003/09/12/dohjim2.jpg )... BBC 
+         contact info describes Dr Kelly as "absolutely gorgeous": 
+         http://www.ntk.net/2003/09/12/dohgorge.gif ... swap flags at 
+         half time: http://www.ntk.net/2003/09/12/dohflags.gif ... good 
+         to see that, at the posh schools, a man's word is still as 
+         good as his bond: http://oww.westminster.org.uk/directory/ ... 
+         also a moderately amusing Google goof, if you can be bothered: 
+         http://www.ntk.net/2003/09/12/dohshite.gif ... Old thrill! - 
+         alarmingly abstract technology news illustration of the week: 
+         http://smh.com.au/articles/2003/09/10/1062902093146.html ... 
+         The Friday Thing's Paul Carr deems Madonna/ Britney kiss 
+         "disturbing": http://www.ntk.net/2003/09/12/dohcarr2.gif - 
+         especially considering that, according to his previous "web 
+         exclusive", Madonna must be due to give birth any day now: 
+       http://media.guardian.co.uk/print/0,3858,4602121-105337,00.html
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         NTK, of course, does not condone breaking the law, nor are its 
+         contents intended to replace the advice of a qualified legal 
+         professional. Nonetheless, we feel we should comment on both 
+         the scientific and sociological implications of the FARK 
+         DAVID BLAINE FLASH MOB (8.45 for 9pm, tonight Friday 2003-09-
+         12, Thames river bank near Tower Bridge, London SE1, free). 
+         Sociologically, we believe that the US-based b3ta-alike may 
+         be the first to have devised a Flash Mob with some sort of 
+         point to it - that point being, in this case, to target Mr 
+         Blaine's flying toilet using safety-conscious laser pointer 
+         technology (or, as irrepressible agit-blogger Tim Ireland has 
+         highlighted, hand-held mirrors on a sunny day could be even 
+         more amusing). And scientifically, this is in many ways the 
+         perfect followup to October 2001's ill-judged attempt to 
+         persuade the physics-ignorant to use hand-held lasers to 
+         "paint the moon" - the difference here being that the moon is 
+         a quarter of a million miles away, and David Blaine is a just 
+         a few metres off the ground: if anyone actually makes the 
+         effort, they should be able to light him up like the Blackpool
+         illuminations.
+         http://www.fark.com/2003/blaine.shtml
+         - they've suspended one American from a crane in a glass box 
+         http://www.ntk.net/index.cgi?b=02001-10-26&l=124#l
+                             - why can't they do it with all of them?
+         http://www.bloggerheads.com/
+                    - serves him right for not having a blog, eh Tim?
+         http://c64audio.valuehost.co.uk/live/bitl4/
+                            - NTK stall at Brighton C64 show tomorrow
+         http://www.yarr.org.uk/
+         - making next Friday... International Talk Like A Pirate Day
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Hey, young man or girl, writes YOZ GRAHAME (our man with
+         his finger on the barely-registering pulse of geek street
+         hep), all the cool kids have given up on mashing tunes -
+         they're getting wild to the crazy beat of usable site
+         remixes. At least, that's the myth we've been endlessly
+         trying to propagate with the IE-busting adventures of
+         Matthew "Freelance Sitedresser" Somerville (see NTKs passim) 
+         so why don't you join the followers of Jakob too? To help 
+         you along with the tiresome business of scraping the useful
+         information from some Barley-ised Javascript-ridden shitpit,
+         take a look at the latest Perl toys from AUTRIJUS TANG. In
+         the gaps between rewriting Perl in Chinese or polishing off
+         the biting-the-ActiveState-hand-that-funds-us PAR
+         executable-builder, he's been turning Andy Wardley's popular
+         Template Toolkit inside out: TEMPLATE::EXTRACT throws the
+         sausage machine into reverse, using TT2 templates to extract
+         data from published pages. So far so fascinating, but it's
+         accompanied by the "deeply magical" (or "on crack" if you're
+         London.pm) TEMPLATE::GENERATE, where the cows and the
+         sausages unite to overthrow their mechanical oppressors:
+         feed it data and a published document, and it'll work out
+         the template needed in between. 
+         http://search.cpan.org/author/AUTRIJUS/Template-Extract-0.25/
+                 - saves all that tedious mucking about in XSLT/XPath
+         http://search.cpan.org/author/AUTRIJUS/Template-Generate-0.02/
+                 - "considered experimental", in an Edward Teller way
+         http://par.perl.org/
+                  - ActiveState PPMs are somewhat outdated, strangely
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         LORDS OF MIDNIGHT 3D: http://www.frozenempire.net/lom.html 
+         (for Athlon/ Geforce) vs PocketPC WIRELESS NODES OF YESOD: 
+         http://www.wirelessdevnet.com/news/2003/aug/27/news4.html ... 
+         bad product names - L'Oreal Wrinkle D-Crease "with Boswelox": 
+         http://www.beautyweekly.com/archive/010803.html (anag: "Ox 
+         Bowels", among other things)... maybe not Amazon's *dullest* 
+         book: http://www.amazon.co.uk/exec/obidos/ASIN/812072299X/ - 
+         but one of their shortest?... Dalai Lama "splittist" claim: 
+http://www.guardian.co.uk/elsewhere/journalist/story/0,7792,1037794,00.html
+         - inadvertently imitates People's Front Of Judea?... milk ad 
+         http://www.ananova.com/entertainment/story/sm_817112.html - 
+         ideally also backed by Rich Herring, Hugh Dennis' "Milky 
+         Milky" character, award-winning author Alice Sebold: "Yes, the 
+         murder of a 14 year old girl isn't pretty. But neither are 
+         rickets, osteoperosis, or other calcium deficiency diseases. 
+         Girls in particular need to watch their calcium intake - if 
+         your dismembered corpse is found in a field, you want the 
+         investigating officer to think 'Mmm - lovely bones'"... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Arnie will indeed "be back", as THE TERMINATOR (9pm, Fri, 
+         C5) begins a season of Friday night Schwarzenegger films, a 
+         frankly more entertaining prospect than arthouse David Bowie 
+         "scifi" THE MAN WHO FELL TO EARTH (12.35am, Fri, BBC2)... 
+         otherwise the week's best films are ingeniously scheduled in 
+         the popular round-midnight slot, with Doug "Swingers" Liman's 
+         Katie Holmes Vegas rampage GO (12.25am, Sat, C4), non-stop 
+         techno pop video RUN LOLA RUN (11.35pm, Sun, C4), plus DJ 
+         documentary SCRATCH (12.15am, Wed, C4)... Hedy Lamarr co-
+         invented "frequency hopping" radio transmission, and now Diana 
+         Dors turns out to have been an amateur cryptography nut, in 
+         codebreaking docu WHO GOT DIANA DORS' MILLIONS? (9.15pm, Sat, 
+         C4)... Alistair Cook, magician man, does everything a 
+         clairvoyant can in PSYCHIC! (8pm, Sun, C5)... and see if you 
+         can flick seamlessly between Indian drama SECOND GENERATION 
+         (10pm, Sun & Mon, C4) and the new series of THE KUMARS AT NO. 
+         42 (9.30pm, Mon, BBC2)... C5's commitment to pushing back the 
+         boundaries of human knowledge is epitomised by THE CURSE OF 
+         PAGE THREE (9pm, Mon, C5) and new fetish series WHATEVER TURNS 
+         YOU ON (10pm, Wed, C5), the latter presented by the arguably 
+         not-adhering-to-conventional-notions-of-attractiveness David 
+         Aaronovitch... MISSION: IMPOSSIBLE 2 (9pm, Wed, ITV) is, 
+         astonishingly, almost as pointless as the first one... making 
+         this week's highlight the full series of Lucas and Walliams' 
+         state-of-the-art dressing-up-as-ladies character comedy LITTLE 
+         BRITAIN (9pm, Wed, BBC3)...
+         
+         FILM>> something of a limited release for the redubbed-by-John 
+         "Pixar" Lasseter Overfiend-free anime kiddie odyssey SPIRITED 
+         AWAY ( http://www.capalert.com/capreports/spiritedaway.htm : 
+         adolescent sass to parents; witches, whether using their 
+         talents for good purposes or bad, still serve evil since a 
+         witch's "power" does not come from God)... and similarly not 
+         many places showing Aussie crime caper THE HARD WORD either 
+         ( http://www.screenit.com/movies/2003/the_hard_word.html : 
+         [Joel "Attack of the Clones" Edgerton] slowly rubs his head 
+         and mouth against [Rachel "Six Feet Under" Griffiths'] clothed 
+         chest and, after she lifts her shirt, graphically sucks on her 
+         bare breast (that we see))... otherwise it's Monica "Matrix 
+         Reloaded" Bellucci, the director of "Training Day" and, er, 
+         Bruce "Moonlighting" Willis in frankly disappointing Nigerian 
+         rainforest US Marines rescue-mission-gone-wrong TEARS OF THE 
+         SUN ( http://www.capalert.com/capreports/tearsofthesun.htm : 
+         flash nudity; excessive cleavage; Priest saying "Go with God" 
+         with [Willis] replying "God already left Africa")... and the 
+         religious unusualness continues with Heath "A Knight's Tale" 
+         Ledger, Shannyn "A Knight's Tale" Sossamon, Mark "A Knight's 
+         Tale" Addy and the director of "A Knight's Tale" - together at 
+         last! - in sub-"Ghostbusters" Catholic exorcist frolic THE SIN 
+         EATER ( http://www.screenit.com/movies/2003/the_order.html : 
+         [Sossamon] plays a painter who's recently escaped from a 
+         mental institution and accompanies [Ledger] to Rome where she 
+         has sex with him)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             [overheard on IRC]
+            "Always with the stand.org.uk/fax-your-mp... blah blah"
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

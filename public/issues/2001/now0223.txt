@@ -1,0 +1,379 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-02-23_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+ "Think of it as a sandwich," said Linda McNulty, director of
+ worldwide product marketing for Apple's desktop lines. McNulty said
+ the bold colors represent the energy of the music revolution Apple
+ is embracing. "We wanted to further convey what music would look
+ like...as a color."
+ http://news.cnet.com/news/0-1006-200-4921252.html
+- APPLE EXPLAINS ITS REVOLUTIONARY NEW "WORLDWIDE COLORFUL MUSIC SANDWICH"
+   ...and as the stock falls, the kool-aid gets stronger and stronger
+
+
+                                >> HARD NEWS <<
+                                out you goooo!
+
+         Last week's news that 8-bit classics MANIC MINER and JET SET
+         WILLY would be returning to our modern computer-game consoles
+         came as a surprise to many - including, it appears, the
+         original creator of the titles, MATTHEW SMITH. Sources close
+         to the reclusive author on comp.sys.sinclair claim that Matt
+         will have no input into the new titles, and will not benefit
+         in any way from the deal, in which Jester Interactive acquired
+         the rights to the entire Graftgold back catalogue, including
+         MM and JSW. Now, it takes a lot to rile the diehards on c.s.s,
+         who have, after all, witnessed everything they ever loved
+         crumble into oblivion, but this news appears to have been
+         the last straw - along with an incident when one of the
+         ringleaders, upon contacting a senior Jester representative
+         about the matter, allegedly received the succinct reply:
+         "Fuck off dickhead".
+http://groups.google.com/groups?th=c723bde804b0cc8e&rnum=9&seld=917992161&ic=1
+               - the rights owner vs the only people guaranteed to buy
+                the product if it's ever released. Let battle commence!
+
+         To the GOVERNMENT GATEWAY Website: and straight out again,
+         with a flea in our ear. It seems we need Windows or a Mac
+         (and no Mozilla). Paranoid minds might suggest that this is
+         an evil side-effect of the government handing the site
+         contract to Microsoft. But we're not like that. No, we're
+         *really* paranoid. If you do use an MS browser (just like
+         the UK's Unix-driven crypto mavens don't), you'll find that
+         Government Gateway is the first step to introducing a state
+         public-key infrastructure. The "blessed" system (which, in
+         the spirit of joined-up government, looks like it'll apply
+         to all your state transactions) is CHAMBERSIGN. This is a
+         system run by Viacode, with "key recovery" built in. You get
+         to generate your signature key. Your encryption key, though,
+         is created by Viacode - and they keep backups. So if you use
+         it for communicating securely, someone, somewhere, could
+         silently obtain your key from Viacode and monitor you. To be
+         honest, it's not as bad as it might have been: ChamberSign
+         does use a bunch of open standards, and staring with our
+         childish eyes at it, it looks like you could sign your
+         self-generated PGP key with a mogrified official
+         ChamberSignature, and therefore make the kosher PGP key as
+         legally binding as the original. Except: the ChamberSign
+         FAQ: "while ...a ChamberSign digital signature will stand up
+         in a court of law, the PGP digital signature is unlikely
+         to". PGP: perfectly legal, just not supported under this
+         government. Just like you weirdo Unix voters.
+         http://www.gateway.gov.uk/
+                    - warning: it also tends to crash a lot. surprise
+         http://www.chambersign.co.uk/faqs.htm
+             - crazy thing is, the CoC were dead against the RIP bill
+         http://www.chambersign.co.uk/downloads/cps.pdf
+- search for "shall not undertake key escrow" [sic] for escrow details
+
+         Oh, sod it, we're all terrorists anyway. As ROSS ANDERSON,
+         aforementioned crypto maven and public enemy number one,
+         noted this week, his involvement in trying to stop the gov
+         having unlimited access to all health info in the UK would
+         make him a terrorist under the new Terrorism Act 2000. We
+         put that down to his own overactive imagination - until the
+         usually conservative ROLAND PERRY, acting CEO of LINX, said
+         that he was genuinely concerned that anti-spamming actions
+         (such as blackholing) could count as terrorism, too, under
+         the Act. Apparently, the "cybercrime" provisions are so
+         broad that looking at a phonebox while wearing a 2600 badge
+         could land you in H-Block. And then there's Jack Straw's
+         *new* plans to make e-mail and SMS "hate messages" (what,
+         like M GNA KL U U BSTRD?) a criminal offence. This is, he
+         says, to protect scientists from animal rights protestors.
+         Protect them from what? Unnecessarily distracting
+         electromagnetic interference? Really annoying operator
+         logos? What? WHAT?
+http://www.chiark.greenend.org.uk/pipermail/ukcrypto/2001-February/014950.html
+                                           - just call him Braveheart
+http://www.gorjuss.com/medicalprivacy/
+                     - we like the Henry Root-style "here's a tenner" bit
+http://counter.li.org/cgi-bin/runscript/display-person.cgi?user=95778
+- okay, so some of us *are* FBI double-agents. THAT'S NOT THE SAME THING
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         sure, it won't stop you sending us it, but we'll try anything:
+  http://www.microsoft.com&item=q209354@www.hwnd.net/pub/mskb/Q209354.asp
+         - read the fucking URL, you lamers... http://www.vnunet.com/
+         FALCO!... POPBITCH alerts readers to "new album" from Weird Al
+         Jankovic ("Running With Scissors", released June 1999), also
+         recommends cult flash anim "All Your Base Are Destroy By [sic]
+         Us"... tough times at ZAPITOVER.COM, flogging any old love,
+         prosperity, iced gem biscuits they still have hanging around:
+         http://www.ntk.net/2001/02/23/zapitdohver.gif ... "Declining
+         Mental Skills Can Catch You Unaware", reveals PENN STATE U:
+         http://www.sciencedaily.com/releases/2001/02/010215075223.htm
+         ... smug BARCLAYCARD wankers allege purchase is "on it's way":
+         http://ad.uk.doubleclick.net/543147/uk-lost-free-468x60-12k.gif
+         ... why no "How to access old pages from a search engine, even
+         though they've closed the index due to prank contributions
+         like:" http://www.autistics.org/skills/pages/leavelover.html
+         ... you know, we think they meant to spell it "KUNSThalle":
+  http://news.bbc.co.uk/hi/english/world/europe/newsid_1174000/1174876.stm
+         ... Entranet FALCO - do we get a UKP3,000 bonus for naming
+         everyone you sack?... IBM sponsoring engineers to "focus on
+         girls": http://www.ntk.net/2001/02/23/dohibm.jpg ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Whenever we hear the phrase "rooftop party", we think of
+         either The Beatles' open-air performance at Apple Studios ,
+         or the ex-CIA sniper team in KW Jeter's "Dr Adder" - neither
+         of which are presumably the intended connotations of the
+         INDUSTRY STANDARD EUROPE's "Rooftop London" event, which (we
+         believe) may be taking place on Wed 2001-02-28 (there's a
+         page where you register and they invite you if you're cool
+         enough, or something). Of course, that's also the same night
+         as the racily titled ETHICAL MEDIA NETWORK EVENT (from
+         6.30pm, 2001- 02-28, a pub in Covent Garden, London),
+         which'll no doubt be full of well-meaning do-gooders who've
+         turned up for Thu's DIGITAL FUTURES CONFERENCE on
+         e-sustainability (from 9am, 2001-03-01, The British Library,
+         London) - a question which has, in many cases,
+         satisfactorily answered itself in the year since these
+         reports were commissioned. Afterwards, if you can tear
+         yourself away from the prospect of William Rowe (of the
+         apparently now defunct-again Ninfomania) at Richard
+         Barbrook's CYBERSALON (7pm, Thu, the ICA), PROF KEVIN
+         WARWICK will be wowing the locals with his usual routine at
+         CAFE SCIENTIFIQUE (7pm, Blackwells Bookshop, Oxford). "Come
+         along and join us?" comments Kevin Warwick Watch Operative
+         Tom. "More like 'Come along and be assimilated at Warwick
+         Mobile Command Centre, foolish humans!'"
+         http://europe.thestandard.com/events/rooftop/invite
+         - or Christopher Fowler's "Roofworld", perhaps
+         http://www.ethicalmedia.com/
+         - scheduling vs the Industry Standard: how ethical is that?
+         http://www.digitalfutures.org.uk/
+         - Eno! Porritt! Lane-Fox! Together at last!
+         http://www.cybersalon.org/cybersalon/resources/itv_flyer.html
+         - "interactive TV night" promoted by high-tech leaflet scan
+         http://www.cafescientifique.org/warwick-0301.html
+         - Not "If", but "*When* will cyborgs rule the world?"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Given that it's been theoretically proven not to work, how
+         *is* GNUTELLA doing these days? Quite well, ta. Following
+         the spectacular collapse of the initial network around
+         August, hordes of Developer-Philosopher-Kings have been
+         picking through the wreckage, bolting together more
+         reasonable clients, and starting all over again. With some
+         payback, too: BEARSHARE (for Windows) and LIMEWIRE (for
+         Java-ish platforms) have both combined tough rules against
+         freeloaders, a *cough*centralised*cough* set of initial
+         gateways into Gnutterspace, a smatter o' routing heuristics,
+         decent user interfaces, and a stupid portmanteau name, to
+         create an irrestible download for Gnutella fans. The
+         Gnutosphere is better for it. Of course, it still doesn't
+         work very well, but that's not the point. The point is that
+         Napster's going down - eventually, the RIAA's twitching
+         ratter-lawyers are after OpenNap, and the popular port of
+         last resort remains port 6346 - Gnapster. Although if you're
+         installing JRE for LIMEWIRE, you might as well look at
+         Freenet.
+         http://www.openp2p.com/pub/a/p2p/2001/01/25/truelove0101.html
+                      - clip2.com working to create the Second Republic
+         https://www.reg2.meetingsplus.com/oreillyp2p/main.taf
+                                                      - see you in 2201
+         http://espra.net/
+                                                    - soon, my pretty
+
+         This is so cheap. WEBJUMP-PLUS is the extended version of
+         Webjump, the handy utility hidden away in the lower alphabet
+         of the emacs lisp mountain. M-X webjump is built into GNU
+         Emacs and XEmacs: it lets you pull up search-engine queries
+         and dictionaries with a minimum number of keystrokes;
+         Webjump-Plus isn't pre-packaged, but is more regularly
+         updated, and with a much wider variety of destinations. It's
+         got one word links to Google Groups or Java Docs or
+         Cryptome, or, ah, NTK, listed in the code with the comment
+         ";; Tempting to troll for a plug here, but we refrain
+         virtuously.". Such virtue is rewarded; we'll get our
+         punishment in Hell for crumbling under the pressure.
+         http://www.neilvandyke.org/webjump/webjump-plus.el.html
+- although why a bad URL for BOTH beat us to the official Emacs version...
+         http://www.neilvandyke.org/webjump/
+                                 - oh, we're just ungrateful wretches
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+ http://news.bbc.co.uk/hi/english/entertainment/newsid_1170000/1170301.stm
+         vs http://www.chez.com/viviane/thailande/ ... MORMONS imitate
+         ONION: http://www.sltrib.com/02202001/utah/73061.htm ... this
+         week's COMPANY ANTHEM: http://www.wirelessgroup.com/jingle.swf
+         - somebody sign up BARCELONA's "I Have the Password to Your
+         Shell Account": http://www.barcelonadc.com/frame.asp?p=sounds
+         ... IRAQ used PS2s to build "integrated air defence system":
+        http://www.guardian.co.uk/Archive/Article/0,4273,4138127,00.html
+         - vs http://www.nulldevice.net/images/saddam.gif - *literally*
+         vs http://www.nmd.org.uk/ ... DR DOBBS brings back VERITY
+         STOB: http://www.ddj.com/columns/stob/2001/0102vs001.htm ...
+         wow, this one-floppy AMIGA demo expands to more than 40MB of
+         video! http://www.byterapers.com/~sivu/amiga/ ... REBOOT V4.0:
+         http://www.inwap.com/mf/reboot/images/index.cgi?rb4kids.jpg
+         ... if you're sending us funny 404s, please make them at least
+         as complicated as this: http://www.scintilla.utwente.nl/404nf
+         ... http://www.potnoodle.com vs http://www.subgenius.com ...
+         http://www.plugboy.com/news/plumber.htm "shares inspiration"
+         with http://www.theonion.com/onion3601/plumbing_industry.html
+         ... for all your mistranslated Japanese retro videogaming needs:
+         http://zanyvg.overclocked.org/ ... "Tonight I'm gonna party
+         like it's (time_t) 1E9"...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> a new run of over-self-conscious fanboy sitcom SPACED
+         (9.30pm, Fri, C4) displaces the last episode of THE ARMSTRONG
+         AND MILLER SHOW to the popular 11.25pm slot... intriguingly
+         scheduled against young people's pop show CD:UK, new "Vision:
+         On" VEE-TV (11.25am, Sat, C4) exposes how text messaging makes
+         it easier for the deaf to buy drugs... and LIVING DANGEROUSLY:
+         HACKERS IN WONDERLAND (11.45pm, Sat, C4) features obligatory
+         Defcon footage, drum and bass, Cyberjunky, those Zapatista
+         clowns, some oddly defensive goth girls, and Coldfire - in a
+         laundrette!... followed on Sun by "Office Space"-inspiring
+         hacker yawn SUPERMAN III (3pm, Sun, BBC1)... the usual WW2
+         coverage - TORA! TORA! TORA! (7.30pm, Sat, C4) - merges into
+         an unofficial Eastwood weekend, starting with THE GOOD, THE
+         BAD AND THE UGLY (11.15pm, Sat, ITV), and ending in '70s Clint
+         taking on WW2 Clint in the form of MAGNUM FORCE (9pm, Sun, C5)
+         vs WHERE EAGLES DARE (10.55pm, Sun, BBC1)... you wait all week
+         for a reluctant, misunderstood messiah, then three turn up all
+         at once, in the original pilot of THE INCREDIBLE HULK (5.15pm,
+         Sun, C5), MONTY PYTHON'S LIFE OF BRIAN (9pm, Sun, C4), and
+         Stew Lee/ Simon Munnery/ Kevin Eldon/ Johnny Vegas's League
+         Against Tedium roadshow ATTENTION SCUM (11.50pm, Sun, BBC2)...
+         Nick Berry and Stephen Tompkinson play undercover paedophiles
+         who are "IN DEEP" (9.05pm, Mon, BBC1), while online chat
+         moderation is also an issue in Tompkinson's former stomping
+         ground of BALLYKISSANGEL (8.20pm, Thu, BBC1)... featuring both
+         Will "Jambo" Mellor and Natalie "Carol" Casey, TWO PINTS OF
+         LAGER AND A PACKET OF CRISPS (9.30pm, Mon, BBC2) appears to be
+         the hotly unawaited Hollyoaks: The Sitcom... and the MIDDLE
+         CLASSES: THEIR RISE AND SPRAWL (9pm, Fri, BBC2) acts like most
+         TV isn't all about being middle-class anyway, as demonstrated
+         this week by IKEA MANIA (12pm, Sun, C5), INSIDE MARKS AND
+         SPENCERS (8pm, Sun, C4), and TROUBLE AT THE TOP's look at
+         Pringles (9.50pm, Thu, BBC2) - not the crisps, the sweaters...
+
+         FILM>> not content with his shot-for-shot copy of "Psycho",
+         Gus Van Sant starts remaking his own movies in Sean Connery/
+         Busta Rhymes "Good Will Hunting" retread FINDING FORRESTER
+         (http://www.screenit.com/movies/2000/finding_forrester.html :
+         [Connery] pours himself a drink; [he] has another drink; in a
+         later scene, he pours himself another drink; [he] has another
+         drink, and then several more). "Features The Music Of MILES
+         DAVIS" proclaims the poster, revealing perhaps too much about
+         the target audience... GWH's Matt Damon goes on to play a
+         tormented golfing genius in Will Smith/ Charlize Theron's
+         below-par hybrid of "The Natural", "Tin Cup" and the "Bhagavad
+         Gita" (the Hindu "Song of God"), in THE LEGEND OF BAGGER VANCE
+         (http://www.saunalahti.fi/~mitt/movierat/z_baggervance.htm :
+         upper [female] body without clothing from the level of breasts
+         and upwards; great economic inequality; using a holy name
+         connected with a well-known religion for swearing; about 9
+         swear-words, whose meaning is excrement or eternal kingdom of
+         destruction; uncommonly beautiful camerawork; classical
+         orchestra, oldish light instrumental music, bagpipes, choir)
+         ... or you're stuck with Stephen "High Fidelity" Frears and
+         Jimmy "Cracker" McGovern - together at last! - in "Angela's
+         Ashes"-style Catholic Scouser political poverty-porn LIAM
+         (http://www.bbfc.co.uk/ : Contains infrequent strong language
+         and horror)...
+
+         BONERS, OMISSIONS AND CLARIFICATIONS>> "Pancake Day is just
+         around the corner", raged ADRIAN MOULDER, "but you have yet to
+         mention FINDUS SWEET PANCAKES (UKP1.49 for 6) - available in
+         both jammy 'Raspberry Ripple' and school-custard-style 'Milky
+         Chocolate' varieties!" Well, that's because they weren't out
+         last time we did food, Adrian, though we are pleased to report
+         that they largely live up to their microwaveable crepe promise
+         (though are strangely unpalatable direct from the freezer)...
+         resident Industry Standard sophisticate GEORGIA CAMERON-CLARKE
+         highlighted an omission in last week's "Victorian Affectation"
+         print media round-up, noting that boy-composer prodigy DANIEL
+         PEMBERTON appears twice in this month's VOGUE, once "at a book
+         launch where he is referred to as man-about-Hoxton - I kid you
+         not. And the second is at some spaz party where people become
+         DJs for a few minutes". We've been unable to verify these
+         sightings in person - or check if he's wearing his stylish
+         "Ghostbusters" boilersuit [NTK 2000-10-13] - as Vogue has
+         expanded to an ad-packed heftiness previously only seen in
+         the heyday of "Computer Shopper" or "Personal Computer World"
+         (though of course there are usually more scantily clad women -
+         in Personal Computer World!)... but the busiest mailbox, as
+         ever, was provoked by LLOYD WOOD's off-the-cuff observation
+         that bus-poster advertising for Disney's "The Emperor's New
+         Groove" movie makes intermittent use of the word "Minging".
+         Or, "Mingin'", to be absolutely accurate, as numerous readers
+         helpfully pointed out, variously describing this as "better"
+         (ADAM HUFFMAN), "worse" (ANON), "the horror" (A CHEFFIE), and
+         "[giving me] a new mental interpretation of the title 'The
+         Emperor's New Groove'" (TIM BROWSE)... on a related note,
+         thanks to all of you who responded to the great "Nudity In
+         Movie Reviews" debate [NTK 2001-02-02], including ADAM RICE's
+         "Please continue the quotes from cndb.com. I feel they treat
+         Hollywood movies with exactly the level of respect they
+         deserve. However, I would be grateful if you would discontinue
+         the quotes from the Christian websites as I find them highly
+         offensive", plus IAIN BOYD's succinct comeback to our
+         explanation of why we were doing it: "Never apologise. Never
+         explain." Sorry Iain, won't happen again!... thanks also to
+         those who took the trouble to suggest alternative quantitative
+         review sites: LIZ NICKELS for the bizarre "Finnish Capalert"
+         at http://www.saunalahti.fi/~mitt/ (see this week's "Legend Of
+         Bagger Vance"), and tireless LLOYD WOOD, for "Boner's Movie
+         Review Page" at http://woods.bianca.com/shacklet/CYBERCOP ,
+         where each film receives a mark out of 10 on the "BonerMeter",
+         presumably based on how many - literal or metaphorical -
+         erections the reviewer experienced during the film... once
+         again, this is all "just for fun", so please don't start
+         sending us your own sexual responses to recent movie releases,
+         especially the guy who felt the need to clarify that the "good
+         bits" in "The Little Mermaid" DVD start "at Chapter 16". NTK
+         regrets that this correspondence *remains* closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                     "stylish... warped... faintly ironic"
+                        p13, Internet Magazine, 2001-03
+
+                                 NEED TO KNOW
+     THEY SET US UP THE BOMB. NOW WE SET THEM UP IT... CHRIST MAKE IT STOP
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

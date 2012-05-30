@@ -1,0 +1,319 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-09-22_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "This is a new area for us, Windows-based products have not
+          traditionally been associated with Defense
+          Department-specific mission-critical applications..."
+        - KEITH HODSON, scarily-titled "Microsoft Government Spokesman", 
+              launches the US Navy's new Win2K-powered aircraft carrier
+                          http://www.gcn.com/vol19_no27/dod/2868-1.html
+          ...as proved by the fact that we're all still here
+
+
+                               >> HARD NEWS <<
+                                taming shrews
+         
+         Andrew Simmons - or John Doe #13 as he's known to the DVD
+         CCA - still has his DEMON INTERNET site untouched by the
+         long arm of the Movie Industry police: but reports that
+         other Demon subscribers have felt the hot-breath of Jack
+         Valenti on their neck. This month, the MPAA's lawyers sent
+         out a threatening legal letter to Thus, demanding that an
+         unnamed subscriber's DeCSS mirror be smashed - and for a few
+         moments it looked like the litigation-shy ISP was going to
+         capitulate. Provide proof that you have permission to
+         publish the material within five days, roiled the standard
+         e-mail, or lose your site. Well, ahem, replied the customer:
+         please note that a) DeCSS is as public domain as you can
+         get, b) those scary statues the MPAA cite all appear to have
+         the giveaway "U.S." at the beginning of them, and c) I'm a
+         founding Demon subscriber, you ungrateful curs. Demon didn't
+         take it further; we hope that this acts as a hint to any
+         future ISPs who might get fidgety under the MPAA's gaze. If
+         Demon hasn't nodded yet, maybe you don't have to either.
+         http://cryptome.org/decss-demon.htm
+                                 - Oxford University? You reading this?
+http://www.eff.org/pub/Intellectual_property/DVD/19991228-complaint.html
+   - if being cited in the Californian court case wasn't cool enough...
+         http://www.zpok.demon.co.uk/lame/lame.dotcoms.html
+                              - Simmons would win on Falco points alone
+
+         BRITISH TELECOM, ever happy to be in accordance with
+         prophecy [NTK 1999-07-09] continue to mope over that local 
+         loop unbundling, muttering that nobody's allowed in until 
+         the rooms are tidier. Especially, as it turns out, the more
+         lucrative (sorry, "crowded") exchanges. Before you can bring
+         your mucky feet in here, reports BBC News' Mark Ward, BT are
+         demanding extra 17,200 sq metres of anti-static vinyl
+         flooring, 2,500 smoke detectors, 1,700 "kickproof" security
+         doors, and somebody to clear up all the porn mags that are
+         lying around. Co-locating in BT's exchanges is turning out
+         to be like some student flat-share from hell: a feeling now
+         confirmed by the telco's suggestion that fights over who
+         gets the best rooms be sorted out by a Single Transferable
+         Vote system, which BT apparently studied last term in
+         Politics. This system ends up with BT throwing dice to sort
+         out deadlocks. And what's wrong with a good old game of Spin
+         the Bottle, then?
+         http://www.ntk.net/?back=archive99/now0709.txt&line=31#l
+- and haven't they had over a year to clean up before the guests arrive?
+         http://news.bbc.co.uk/hi/english/sci/tech/newsid_925000/925984.stm
+    - It's called "Bow Wave Process": let us steam ahead with broadband
+         http://www.btinterconnect.com/llunbundle/llu1.htm
+                                    - while we leave you in our wake...
+
+         Sadly, it's too late for such shenanigans to affect one cut-
+         throat competition, as Demon, Pipex and CIX fight it out for 
+         the "Best Business ISP" accolade at the first-ever UK NET 
+         AWARDS (next Thu 2000-09-28, Natural History Museum), the 
+         latest embarrassing attempt by FUTURE PUBLISHING, sorry, THE 
+         FUTURE NETWORK to rebrand itself as an exciting new-media 
+         company. Rivalling even the Yell Awards for "Dullest Web Line-
+         Up Of The Year", the categories alone make hilarious reading: 
+         "E-Company of the Year. For the company that shows the best 
+         understanding of the new economy and the rules of business in 
+         the 21st century. Nominees: The Easy Group, Virgin, Egg". 
+         Still, it's good to see that the 6 (out of 17) category 
+         sponsors which, 10 days ago, remained "to be confirmed" have 
+         now been revealed as none other than: .Net, Internet Works, 
+         Internet Advisor, Internet Investor, Business 2.0, and Cre@te 
+         Online - 6 of Future's own magazines!
+         http://www.uknetawards.co.uk/categ.htm
+               - "Best Portal: For portals and search engines." Christ.
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.telegraph.co.uk:80/et?pg=/et/00/9/21/ecrfff21.html 
+         believes it would take "25 years" to copy 2 Gigs via floppy - 
+         a doddering one disk every six-and-a-half days... fashionable 
+         F MAGAZINE expects users to read giant F'ing disclaimer: 
+         http://www.fmagazine.com/registration/disclaimer.html ... free 
+         AOL CD in last Friday's Evening Standard instructs you to 
+         "Insert the enclosed CD in your hard drive"... will the public 
+         *ever* tire of inappropriate graphics appearing on a JILL 
+         DANDO page? http://www.ntk.net/2000/09/22/dohdando.jpg ... 
+  http://www.floridatoday.com/news/local/stories/2000/sep/loc091600c.htm 
+         (presumably it "originated" in someone's kidneys) - VS: 
+         http://www.ntk.net/2000/09/22/spitfire-wee.jpg ... CNN fails 
+         to grasp point of MP3s, offers 48MB WAV in Napster article: 
+         http://www.cnn.com/2000/TECH/computing/09/18/trojan.music/ ... 
+         ftp://internet.hasbrointeractive.com/anonftp/ - a little more 
+         "interactive" than HASBRO intended?... PLAYBOY sponsor JAZZ 
+         festival: http://www.news-press.com/news/today/000919playboy.html 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Oh my god, they've put back GEEK PRIDE SAN FRANCISCO *again* - 
+         to 2000-12-01, pushing it further into the wintry depths that 
+         last year saw it ultimately postponed to the following spring. 
+         "There's a Linux show in Atlanta that ends on [Oct] 13th," 
+         recounts the apologetic organiser, "so the sponsors [read: 
+         sinister Andover keiretsu] asked for a change and we said 
+         'Sure!'" Closer to home (and closer to now), London's frankly 
+         deranged CREATING SPARKS arts 'n' sciences festival staggers 
+         to a close with what seems to be an entire week of identical- 
+         sounding plays about medical ethics and, as we're sure those 
+         wack dudes at Ninfomania would want us to mention, a 
+         performance and workshop from "one of Germany's most 
+         interesting hip hop bands", ZENTRIFUGAL (2000-09-25/26, 
+         Imperial College), inviting you to "feel the rhythm and 
+         discover the humour in the German language".
+         http://www.geekpride.org/
+               - (unconfirmed) line-up includes Winer, Agre, Dawson, us
+         http://www.britassoc.org.uk/creatingsparks/cs2.htm
+                                                  - *rock* me, Amadeus!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Grapple-hooking into the office at midnight to fix the
+         broken Linux box before management realises it's now running
+         the entire business? Only room in the catsuit for the *one*
+         floppy? Yeah, us too: and since that unpleasantness last
+         time, we're sticking to the simple, useful, mildly cooler
+         TOM'S ROOT BOOT Linux-on-a-3-and-a-halfshell. Oh sure,
+         you've got your fancier picoLinuxen and your Linux Router
+         Project derivatives elsewhere, but only Tom's distribution
+         manages to combine a 2.0.37 kernel, network card mods,
+         pcmcia, ftp/wget'ish downloader, and more rescue utils than
+         you really want to think about right now. And if you need
+         anything else, Tom's root boot is almost elementary to
+         unravel and knit with your own additions. Now, all we need
+         is some way to get past the laser sensor array.
+         http://www.toms.net/rb/
+                                  - Discordian date generator included!
+         http://busybox.lineo.com/BusyBox.html
+                               - and while we're messing with your head
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         ok, so how about a "Hack http://www.hacksdmi.org/" challenge? 
+         ... home to the acclaimed "My Name Is: FRANK BUTCHER": 
+         http://geocities.com/SunsetStrip/Stadium/1123/ ... LUMLEY 
+         faces final curtain: http://www.clickmango.com/joanna.html ... 
+         LEGO fans live up to their famed "party machine" reputation: 
+    http://mindstorms.lego.com/products/vision/visioncmd_rolighed.html
+         but is http://www.geocities.com/droideka13/QueenAmidala.html 
+         anatomically correct for those "Anakin and Amidala" games?... 
+         http://www.lycos.co.uk/service/sms/eingabe.html works with 
+         LYNX, Germans... hey, they've done a great job on the woman 
+         with the dog: http://www.summum.org/mummification/pets/ ... 
+         not the lucrative ANOTHER.COM spin-off everyone was expecting: 
+         http://www.datapimp.com/ ... gay experts' get-together: 
+         http://207.228.241.80/~dailyupdate/will_and_grace/will_grace.html 
+         ... just-for-fun caption compo ("Is it safe?" - Marathon Man): 
+    http://news.bbc.co.uk/olmedia/920000/images/_924534_gatesme150.jpg ...
+ 
+
+                                >> GEEK MEDIA <<
+                       the less sold-out www.tvgohome.com
+
+         TV>> in the unlikely event that you're not getting enough of 
+         Craig Charles's jailbreak attempts every weeknight on C5, he 
+         turns up with a different blonde co-presenter - Julia Reed 
+         from Sky's "Sky Rocket" and ".tv" channel - in the new run of 
+         ROBOT WARS (6.45pm, Fri, BBC2), as well as god-knows-which 
+         season of the apparently interminable RED DWARF (10pm, Fri, 
+         BBC2)... the ever-amusing Will Self guests on ROOM 101 (9pm, 
+         Fri, BBC2), while Daphne and Celeste - counting as one choice 
+         - appear on NEVER MIND THE BUZZCOCKS (9.30pm, Fri, BBC2) - 
+         though would it be funnier if it was the other way around?... 
+         David Suchet hijacks a plane with a Psion PDA, as the 
+         preposterous EXECUTIVE DECISION (8.50pm, Fri, ITV) gets its 
+         second outing in 15 months... and inheriting the much-prized 
+         accolade of "the only bit of the 11 O'Clock Show that wasn't 
+         shit", you're invited to MEET RICKY GERVAIS (11.05pm, Fri, 
+         C4)... C4 builds an "Animation Night" around Simpsons-in-Space 
+         toon FUTURAMA (9.35pm, Sat) and a tangentially-themed "look at 
+         animated scenes from games that were deemed too racy" edition 
+         of BITS (12.50am, Sat)... tough call against perhaps the only 
+         reason to subscribe to On Digital, LETTERMAN NIGHT (from 8pm, 
+         Sat, ITV2)... while C5 hits back with its bi-annual ABBA DAY 
+         (from 12.40pm, Sun)... LOUIS THEROUX'S WEIRD WEEKENDS (9pm, 
+         Mon, BBC2) is mildly amusing, we suppose, but even he admits 
+         http://www.ew.com/ew/archive/1,1798,1|26829|1|theroux,00.html 
+         "he'd rather be Tom Green"... they promised humourless "This 
+         Life" new-media Nathan-drama ATTACHMENTS (9pm, Tue, BBC2) 
+         wouldn't be this year's "Killer Net" - but just in case, eh? 
+         http://www.ntk.net/attachments/ ... up against TERMINATOR 2: 
+         JUDGEMENT DAY (9pm, Wed, C5), last shown on BBC1 in May... 
+         "Woody Allen Wednesday" continues with SCENES FROM A MALL 
+         (12.35am, Wed, ITV)... and count the times late-night book-
+         look PULP (1.55am, Thu, C4) implies "comics aren't just for 
+         kids", when they meet Warren "Transmetropolitan" Ellis - 
+         while, hopefully, not overlooking his excellent recent work 
+         on "The Authority"... 
+         
+         FILM>> "The Right Stuff" docks gracefully with "Apollo 13" 
+         while dodging tantalising bits of debris from "Event Horizon", 
+         in competent Clint Eastwood orbiting-OAPs big-screen sci-fi 
+         SPACE COWBOYS (http://www.capalert.com : [numerous spoilers, 
+         alarming technological insights]; porn mag picture (from the 
+         60s); multiple rear male nudity; actors exposing themselves to 
+         an actress; a woman in men's locker room with inviting manners 
+         of the male)... bad-taste maestros the Farrellys predictably 
+         reunite with hyperactive Jim Carrey in schizophrenia- 
+         misdiagnosis split-personality slapstick MY, MYSELF AND IRENE 
+         (http://www.cndb.com : "[Carrey] gets revenge by walking onto 
+         his neighbours' lawn with his paper, squatting down and taking 
+         a shit. When he pulls down his pants and underwear, we get a 
+         quick peek at his penis and balls. This slip was almost 
+         definitely by accident, and will be hard to spot in cinemas"; 
+         "after a great cleavage shot, Jim Carrey, as twisted alter-ego 
+         Hank, suprises [Shannon Whirry] who's breastfeeding her baby 
+         by putting his mouth in place of the baby's, sucking on her 
+         breast... you see no nipple and due to the graphic nature of 
+         the scene almost certainly a prosthetic boob was used")... 
+         otherwise: those stuck-up schmucks behind "This Life" have 
+         produced - at last! - a feature-length version of that hideous 
+         dinner-party ad for the Renault Scenic, seemingly based on the 
+         imagined phonetic similarity between the phrases "I love you" 
+         and "ELEPHANT JUICE" (http://www.bbfc.co.uk : Passed '18' for 
+         one strong drug scene and sex)... or Ron "Tin Cup" re-teams 
+         with Woody "White Men Can't Jump" Harrelson for Las Vegas 
+         road-trip fighting-over-a-woman buddy-flick PLAY IT TO THE 
+         BONE (http://www.capalert.com : exaggerated boxing violence; 
+         mockeries of Jesus and Christianity (many); pornographic talk, 
+         sounds, motions, positioning while begging for sex; sexual 
+         intercourse, with and without nudity plus lesbian intercourse 
+         and digital intercourse; cohabitation)...
+         
+         DRILY IRONIC T-SHIRT CONTEST UPDATE>> entries have been 
+         flooding in for our innovative help-NTK-design-its-own-
+         merchandise competition, which is hugely reassuring seeing as 
+         we've yet to finalise the rules/ royalty scheme/ closing date 
+         or any annoying details like that. Perhaps inspired by the 
+         open-source efforts of http://geekshirts.sourceforge.net/ , 
+         GARY CARROLL queried our original "we'll sell the best ones 
+         and give the designers some of the money" plan, suggesting 
+         "How's about making the designs available as jpegs and letting 
+         [us] print our own T-shirts using our cute little inkjet 
+         printers, thereby promoting NTK's twisted truth seeking with 
+         reduced expense and contribution to global capitalism?" Well 
+         Gary, that option will be entirely up to the individual 
+         winning designers (apparently people get quite excited about 
+         being told they *have* to open source their stuff nowadays)... 
+         in other intellectual property news, we're still negotiating 
+         with the vast "Zeppotron" media conglomerate over whether you 
+         can use "TVGoHome" concepts and/or characters, like the "I'm 
+         With Nathan Barley" entry from http://www.growf.org/shirts/ , 
+         though you should get away with obvious bastardisations of, 
+         say, the NTL logo - http://www.bhikku.co.uk/shirt.htm , for 
+         instance. Bold irreverence towards NTK itself is encouraged, 
+         as in http://www.mitt.demon.co.uk/tshirt/satyre.png (from 
+         JAMES "MOOSE" BROWN, increasingly believed to be the anonymous 
+         swearing-obsessed plaintiff from last week's issue), though 
+         reliance on yet-to-be-devised printing technologies may hinder 
+         your application: http://tv.cream.org/gorilla/ntkt/ ... and, 
+         finally, attempting to divine the assumed rulebase from all 
+         the other entries you've sent in, it appears that you *can* 
+         simply submit a text slogan - the most notable so far being 
+         the succinct "British E-commerce: R.I.P.", from someone who 
+         knows a thing or two about futuristic capitalism, IAN "ELITE" 
+         BELL - although please make sure you mark your entry "T-shirt 
+         Contest", so as to differentiate it from all the tips mail we 
+         get from people unsuccessfully trying to unsubscribe, or 
+         misunderstanding how the search box works. Keep 'em coming!...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                           "'Eel' is my middle name"
+             http://members.tripod.com/bhundlan/scripts/PlasticMan.txt
+                 
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

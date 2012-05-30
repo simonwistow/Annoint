@@ -1,0 +1,330 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-03-23_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "We used the roman numeral because we thought it would be
+         cool and fun," he said. "But officially it's Mac OS X 10.0,"
+         Schiller said.
+         http://www.zdnet.com/zdnn/stories/news/0,4586,2694399,00.html
+  - and the bouncy applications in the dock? was that "cool"? WAS IT?
+
+
+                                >> HARD NEWS <<
+                                abuse to reuse
+
+         The sky is falling, the sky is falling! A recession so deep,
+         God had to hire out-of-work Russians to enact the omens.
+         That said, we *like* recessions: cheap Ataris one cycle,
+         hours spent on the dole writing zines the next - and always
+         lashings of rich, creamy schaudenfreude. Our hobby this
+         L-shaped curve: watching previously money-grubbing
+         corporates become *desperately* money-grubbing. Take the IP
+         spat that everyone's missed this week. In a determined
+         attempt to kill the one new sector that looks vaguely
+         promising, PROXIM abruptly began suing all other
+         manufacturers of 802.11b wireless LAN cards this week, for
+         breaches of their patents. Why now? Well, last week, Intel
+         dumped support for Proxim's competing HomeRF standard, and
+         switched to the competing IEEE 802.11 standard. Proxim's
+         shares drop 40%,. Of course, Proxim, like any IEEE
+         contributor, made a solemn promise to be reasonable about
+         patent licensing back when they were contributing to the
+         standard. But, hey, they're running a business here. Or the
+         possibility occurs that they might not be for much longer.
+         http://news.excite.com/news/r/010321/16/tech-proxim-stocks
+                                                              - cause?
+         http://www.proxim.com/inside/pressroom/2001pr/patent2.shtml
+                                                             - effect?
+         http://standards.ieee.org/db/patents/pat802_11.html
+                                                 - everybody: bundle!
+
+         Perhaps the biggest promise of change in the Long Gloom, for
+         us, is that we'll waving goodbye to those itinerant leeches
+         who, having joined us from their puckered-up worlds of
+         advertising and media, are now slithering off to find
+         freshly opened veins. Why, just this week we've had FUTURE
+         NETWORKS^W PUBLISHING decide that they'd even go back to
+         selling mags than be the wired(tm)-up Business 2.0 portal o'
+         the Net. We've had anonymous reports of bold TV producers
+         who "made the leap to the 21st century" recoil back into the
+         tellywomb - unaware that even in that stagnant world, some
+         things have changed (such as one ex-MD, now embedded in the
+         BBC, pitching a 70's-style "hanggliding troubleshooter"
+         show, with himself as the star). And can we suggest that if
+         it's money they're after (and it always was), maybe they
+         should all follow NTK irregular subscriber HARI KUNZRU's
+         star, who safely quit new media when he was ahead, ie almost
+         immediately, and now has an 800,000UKP two-book deal. Yeah,
+         book publishing - that's where the money is, kids. Over
+         there. Far away from us. But where we can see you.
+         http://www.inside.com/jcs/Story?article_id=26278&pod_id=7
+                                                 - back to the Future
+         http://www.bunderlife.com/
+                         - you've always been value for money, Leslie
+         http://www.heise.de/tp/english/inhalt/co/8221/1.html
+                                     - "and no-one ... wants to lose"
+         http://www.ecst.csuchico.edu/~atman/attention-fat-bastards.html
+               - still the best predictor of future growth we've seen
+
+         In what we're sure isn't some ingenious attempt to get
+         publicity-hungry hackers to provide lawcourt-ready evidence of
+         their exploits, THE SCIENCE MUSEUM'S WELLCOME WING (the new
+         bit, with all the PCs in the perspex boxes) is putting
+         together an exhibition on the theme of Cybercrime And Hacking
+         - and this could be your big chance to get your face in there
+         along with Charlie Babbage and the CyberWorld 3D Imax movie.
+         So far they've social-engineered London 2600 into asking if
+         anyone has any "suitable photos" (or URLs) - if so, please
+         mail them to london2600@hushmail.com , who promise to pass
+         them on, or censor them (or both). "Privacy will be respected"
+         they add, though bear in mind this was part of a conversation
+         which also alluded to notable "script kiddy vulnerabilities"
+         on "at least one" of the Science Museum's servers.
+         http://www.sciencemuseum.org.uk/wellcome-wing/
+- Kev Warwick's homepage susceptible to a bit of "remote control", too
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         MANICS return to "Country & Western" roots (track listing):
+  http://www.nme.com/NME/External/Reviews/Reviews_Story/0,1069,7192,00.html
+         ... "not currently hiring" - oh, really? http://argus-inc.com/
+         , http://www.geocast.com/ , http://www.geocast.com/jobs/ ...
+         http://groups.google.com/groups?q=x&seld=923311257&ic=1 - not
+         so fast, BOB DIAMOND: http://www.xanboo.com/aboutus/management.htm
+         ... REGISTER rails against SLASHDOT's censoring of Scientology
+         tract, oddly reticent to run said feature themselves ... pass
+         it on: http://www.theregister.co.uk/content/6/17817.html vs
+         http://www.gameloft.co.uk/index2.php?file=free_210301 ... Tom
+         and Barbara hold mass livestock cull as Foot & Mouth hits THE
+         GOOD LIFE: http://www.ntk.net/2001/03/23/goodlifedoh.gif ...
+         great ad for MS SQL SERVER 2000: http://www.terraserver.com
+         vs http://www.terraserver.com/terra_whatis.asp ... PALMPILOT
+         HOLLYWOOD: http://www.landware.com/gotype/version_history.html
+         ... HEAR'SAY MILLENNIUM EDITION supersedes "Candle In The Win 98":
+         http://www.ntk.net/2001/03/23/dohcandle.gif ... thanks IAIN,
+         that ought to do it: http://www.ntk.net/2001/03/23/dohmtv.gif
+         ... forget "new economy" here's the "oldBusiness" round-up:
+         http://www.ntk.net/2001/03/23/dohold.gif ... "Some sites
+         collect information on you and sell it to other businesses!" -
+         http://www.citv.co.uk/citv/safesurfing/safesurfing.asp vs no 9
+         at: http://www.citv.co.uk/citv/bottom_nav/disclaimer.htm ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Tragically we didn't get the "women's sizes" NTK T-shirts
+         printed in time for Mother's Day (maybe next year, eh?) but,
+         filling the gap left by "Phone In Sick" day (though at the
+         weekend), comes the first annual worldwide JAMMY DAY (from
+         sundown Sat 2000-03-24 until sundown 2000-03-24) - an attempt
+         to make you appreciate your family and friends by staying
+         indoors all day in your pyjamas (individuals who sleep naked
+         or in more exotic lingerie are presumably excluded). Other
+         than that, not too much to look forward to until next week's
+         CODE: INTERNATIONAL CONFERENCE ON COLLABORATION AND OWNERSHIP
+         IN THE DIGITAL ECONOMY (from Tue 2001-04-03, various venues in
+         Cambridge and London) which we suspect may be just a fancy way
+         of saying "giant warez-swapmeet and demo party".
+         http://www.cl.cam.ac.uk/CODE/
+                                  - Stallman! Perens! Free ice-cream!
+         http://www.roughtrade.com/docs/rota.htm
+        - and a slub.org generative music gig this Saturday afternoon
+         http://www.jammyday.com/media/song.html
+             - A "Million Slipper March"? Bloody Chris Morris fans...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Hey, we've all wasted time scribbling our ingenious
+         "mindmapping" app on the backs of envelopes in pubs, but to
+         our knowledge only Tony Buzan and SAINT TED NELSON of XANADU
+         have made careers of it. And in Ted's case, not even that.
+         Still, for anyone whose imagination was inspired, and
+         attention deficit disorder accelerated, by Ted's vision of a
+         super-mega-hyperlinked future, the appearence of GZIGZAG
+         should get the synapses firing. Yup, it's an Java GUI
+         implementation of Ted's long-awaited, heavily overcooked
+         hypertext system, right down to *two* data windows, at least
+         two sets of cursor keys, *six* different coloured cursors,
+         and *n* dimensions of connectivity. The end result looks
+         like what Spock must stare at in those goggles of his, and
+         promises to solve all our data patterning needs. If we could
+         just shake off this migraine...
+         http://www.gzigzag.org/
+              - or apt-get install gzigzag , you debian wunderkinder!
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         of course, MIR's slightly more "within our reach" nowadays:
+         http://www.mirstation.com/station_future.html - no free TACOS:
+         http://www.tacobell.com/3company/2business/mir.htm , but did
+         they manage to "hold" the nightmarish QUATERMASS GUACAMOLE?
+         http://www.space.com/news/spacestation/space_fungus_000727.html
+         ... CD-burning Apple TV ad looks like GEISS for WINAMP... the
+         new bonsaikitten.com: http://www.thewax.com/t-bone/sra3/ ...
+         because you always wanted *your* school orchestra to tackle
+         that classic medley of BUBBLE BOBBLE and NEW ZEALAND STORY :
+         http://www.retrogames.com/music/Bandle%20Bobble-Live.mp3 ...
+         http://playground.sun.com/1275/home.html#OFDescription - the
+         future of non-corporate anthems... that KPMG song as a NOKIA
+         RINGTONE: http://www.ntk.net/2001/03/23/kpmgsong.ott ...
+         http://www.microsoft.com/net/hailstorm.asp#005 announces
+         myAddress, myProfile, myContacts, myDevices, myWallet,
+         myApplicationSettings, myPants etc - inexplicably overlooks:
+         http://www.iamlost.com/features/mlp/ ... the SWEDISH SEARCH:
+         http://www.google.com/advanced_search?hl=xx-bork ... VINT CERF
+         owns hat with "artificial pony tail"...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> it's Will Smith night on BBC2, with a double FRESH PRINCE
+         OF BEL AIR (6.45pm, Fri, BBC2) leading into gay conman play
+         adaptation SIX DEGREES OF SEPARATION (12.20am, Fri, BBC2) -
+         Donald Sutherland's problems with convincing imposters
+         continue in the superb 1970s remake of INVASION OF THE BODY
+         SNATCHERS (12midnight, Mon, BBC1) - squEEEEEEE!!!... Derek
+         Jacobi imitates Jean-Luc Picard in a sci-fi convention special
+         of FRASIER (10pm, Fri, C4)... unable to comprehend the end of
+         its lucrative I LOVE THE 1980s franchise (9.10pm, Sat, BBC2),
+         the BBC tosses in era classics FLASHDANCE (11.05pm, Fri, BBC1)
+         and STAYING ALIVE (12.40am, Fri, BBC1)... and C5 pretty much
+         gives up on Fri altogether, by showing Joan Collins' THE BITCH
+         (10.50pm, Fri, C5), notorious turkey ISHTAR (12.30am, Fri, C5)
+         plus the pilot episode of the Bullock-free TV series of THE
+         NET (3.10am, Sat, C5)... the movie disappointments persist
+         with Sigourney Weaver webcam whodunnit COPYCAT (10.25pm, Sat,
+         BBC1), appalling Anne Rice yawn INTERVIEW WITH THE VAMPIRE
+         (11.15pm, Sat, ITV), patchily entertaining THE CABLE GUY
+         (10pm, Sun, C4) and, ingeniously following last week's "The
+         Exorcist" and "Exorcist III", sub-standard Leslie Nielsen
+         spoof REPOSSESSED (10pm, Mon, C4)... THE OTHER SIDE (3.05am,
+         Sun, C4) opens a window on the poorly-ventilated world of
+         self-assembly plastic-model "Girl Kits"... MTV presents a
+         "making of" introduction to Johnny Knoxville's post-Tom-Green
+         JACKASS (from 9pm, Mon, MTV) - hope it's the one with the
+         taser: http://www.dailyping.com/archive/2000/10/30/ ... an
+         underperforming THE WEST WING is ignominiously shunted back to
+         11.05pm, Thu, C4... "Why don't you just switch off your TV set
+         and do something less - no, not *straight away*!" argues some
+         guy on COUNTERBLAST (11.20pm, Thu, BBC2)... and C5 at last
+         breaks its unblemished bad-movie record - TANGO AND CASH (9pm,
+         Tue, C5), for instance - with GET CARTER (10pm, Wed, C5) and
+         John Woo's underrated helicopter-exploding nuke spectacular
+         BROKEN ARROW (9pm, Thu, C5)...
+
+         FILM>> a re-teaming with Benjamin "Demolition Man" Bratt -
+         plus William Shatner and Ernie "Ghostbusters" Hudson - marks
+         a new entry in our Top 3 Geeky Sandra Bullock Movies Of All
+         Time: sassy post-feminist nerd-makeover MISS CONGENIALITY
+         (http://www.screenit.com/movies/2000/miss_congeniality.html :
+         Some kids might want to imitate [Bullock's] snorting laugh;
+         [Bullock] comes walking out wearing an extremely tight and
+         somewhat short, formfitting dress that clearly accentuates her
+         breasts; Michael Caine [...] appears to be gay)... and we give
+         another two (severed) thumbs-up to Beat "Johnny Mnemonic"
+         Takeshi's arthouse African-American buddy Yakuza shoot-em-up
+         remake of "Romeo Must Die", BROTHER (http://www.bbfc.co.uk/ :
+         Contains coarse language, and strong horror and violence)...
+         otherwise there's Matthew "WarGames" Broderick in domestic
+         Oscar bait YOU CAN COUNT ON ME (imdb: independent-film /
+         affair-with-boss / affair / automobile-accident / bank /
+         brother-sister-relationship / father-figure / marriage-
+         proposal / mother-son-relationship / orphan / pool-table /
+         single-mother / small-town / uncle-nephew-relationship)...
+         Barry "Sphere" Levinson's IRA comedy AN EVERLASTING PIECE
+         (http://www.screenit.com/movies/2000/an_everlasting_piece.html :
+         The camera briefly focuses on and then moves up [Anna
+         Friel's] leg and part of her thigh)... or heavy-handed anti-TV
+         social-comment actioner FIFTEEN MINUTES (imdb: Robert De "Meet
+         The Parents" Niro, Ed "The Brothers McMullen" Burns, Kim "Sex
+         And The City, Mannequin" Cattrall, Kelsey "Frasier" Grammer
+         and Oleg "Ultimate Fighting Championships" Taktarov - together
+         at last!)...
+
+         "WHAT THE???" FEEBDACK>> "Most of the time I don't know what
+         you're talking about, but I like the way you say it" writes
+         PETER LAURIE, unwittingly echoing the sentiments of almost
+         every NTK reader we've ever met. But, to your credit, you guys
+         can give as good as you get, proved by this compilation of the
+         most baffling mail we've received recently... spotting that
+         we'd stuck "needtoknow" at the end of an Amazon URL in NTK
+         2001-02-16, JOHN SULLIVAN inquired: "Do you have a deal with
+         them, or are you just trying to fill their logs with your
+         name?" You know what, John, it's actually a bit of both - we
+         have an http://www.amazon.co.uk/associates/ sort of deal with
+         them (new bestseller update coming soon, by the way)... "I
+         notice NTK has revived the art of spine lines, as found of
+         magazines of yore", observed DANIEL BIDDLE. No we haven't,
+         Daniel, what on earth are you talking about? Next!... after
+         his gentle ribbing in NTK 2001-02-23, WILLIAM ROWE attempted
+         to confirm that his gibberish-fuelled NINFOMANIA did indeed
+         pass away last year, only to be replaced by a near-identical
+         newsletter called "FEED", itself now "on hold until we can
+         find some more kryptonite to power our mainframe. New shipment
+         due next month. Until then we are cashing in our silicon chips
+         to pay for all last year's bar bills by selling the internet
+         back to the Americans". Whatever, William - but thanks for
+         revealing what's been sapping your superhuman potential... and
+         "Why not have a section on Geeks?" suggested VICKI CRONIN,
+         apropos of, it seems, nothing in particular. Vicki, last we
+         checked, the whole newsletter is about "Geeks". Is there any
+         aspect of this experience you think we might be neglecting?...
+         reassuringly, some readers are now choosing to bewilder us
+         with images as well as text, led by MAX SUMMERELL's T-shirt
+         entry: http://www.ntk.net/2001/03/23/MAP0000.gif . As well as
+         gaining our instant attention with a 2-megabyte 24-bit-colour
+         uncompressed BMP, Max thoughtfully provided hints on other
+         clothes to wear with the designs, in the most impressively
+         hand-crafted submission we've received so far. Just one thing
+         though: the design basically consists of the words "Green
+         Orange Yellow" (and "Red Blue Black" for girls)?... and
+         finally, thanks to all the obfuscation enthusiasts who
+         interpreted 2001-03-02's mention of "Unlambda" as an open
+         invitation to send us lengthy war stories of their minimalist
+         coding exploits - including TONY FINCH, whose IOCCC winning
+         http://www.ioccc.org/years.html#1998_fanf "used conventional
+         FP bracketing to denote function application", and MARTIN
+         RODGERS, who recommended "Scheme, running in your browser"
+         http://www.cs.cornell.edu/eli/meaning.html and still "loves"
+         the sieve of Erastothenes "written in one line of Haskell",
+         concluding "And *still* nobody will employ me". NTK regrets
+         that this set of correspondence is now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 not quite the reciprocal link we had in mind
+                          http://www.schmews.com/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

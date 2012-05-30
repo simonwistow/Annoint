@@ -1,0 +1,323 @@
+
+ _   _ _____ _  __                        NEED TO KNOW NOW  18/07/97
+| \ | |_   _| |/ /   _ __   _____      __ o Commemorative 'the
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o closest working hardware
+| |\  | | | | . \   | | | | (_) \ V  V /  o to this site is on Mars'
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o Death o' the Net Edition
+
+
+           "Drivers and passengers will access services that go well
+         beyond classical navigation.  These could range from remote
+          diagnostics to locating a teenager who has missed curfew."
+              - Axel Fuchs of Daimler-Benz on German car tech, SciAm
+             AUTOCAR! DIE JUNGLING IST MISSING CURFEW! *LOCATE* HIM!
+
+
+                               >> HARD NEWS <<
+                                 weak excuses
+
+         NETWORK SOLUTIONS, the US company you pay when you want a
+         .COM, .NET or .ORG domain name, took some heavy flak at the
+         start of the week. The Justice Dept launched an
+         investigation into their domain name monopoly (uncharitably
+         described as 'a UNIX script that outputs money'). Then, in
+         an unrelated incident, NS complied with a request to cancel
+         a domain name, a request that was a complete fake - and
+         thus almost bankrupted an innocent company. Next they were
+         roundly condemned by NASA for allowing NASA.COM to be
+         reserved by a hardcore pornography site. And finally - the
+         ultimate humiliation -  their *own* domain-name,
+         www.internic.net, was snuck from underneath them by hackers
+         and replaced with that of their arch-enemies
+         www.alternic.net. To start with, it looked like NS were
+         taking all this criticism calmly... but then...
+
+         On Thursday, at around 6.30AM, NETWORK SOLUTIONS went
+         completely insane. They trashed their own master database
+         of .COM and .NET net addresses. Then, drunk with lunatic
+         power and gibbering like baboons, they sent out the mangled
+         database to the main Internet name servers. Every .COM and
+         .NET on the planet effectively disappeared. For four hours
+         (and sporadically throughout the day), only sites whose
+         addresses were saved on local machines were accessible. NS
+         released a statement at 6PM, saying it was all due to
+         an error by a "system administrator", but that's clearly
+         rubbish. Yeah, like they'd trust their most important
+         responsibility to a single sysadmin. Like they'd not have
+         safeguards in place. And like they're not trying to launch
+         an IPO next month. No, only one explanation is possible:
+         Network Solutions have gone psycho. Picking through the Net
+         wreckage on Friday, a lot of commentators have been, once
+         again, heavily critical of Network Solutions'
+         "incompetence". We say: shut the fuck up! Don't get them
+         angry again!
+         http://www.netsol.com       (or 198.41.3.10) company motto:
+         - WE'RE MAD AS HELL, AND NOT GOING TO TAKE IT ANYMORE
+
+         And it looks like they're not the only ones. Somebody is
+         going around sticking giant spades (or 'backhoes' as JCBs
+         are called in the US) into every fibre optic cable they can
+         find. On Wednesday, fibre provider WorldCom lost 496 DS3s
+         (each carrying 45 Mbps of data) in a 'hoeing' incident
+         somewhere in the desert between Los Angeles and Vegas. Then
+         on Thursday, the same company lost over 100 DS3s in the New
+         York City area. The result for UK users was slow traffic
+         all across the US. Or it have would been had the DNS
+         servers not been so resolutely fritzed. Aaanyway, WorldCom
+         blame summer construction crews - often crews laying more
+         fibre, ironically. We, on the other hand, are beginning to
+         see a pattern. The NYC cut took place, sources indicated,
+         just half a mile from the National Security Agency
+         headquarters. And we don't have to remind regular NTK
+         conspiracy buffs of the NSA/NETWORK SOLUTIONS CONNECTION,
+         DO WE?
+         http://mediafilter.org/zk/conf/zkArch3.html      oh. We do?
+         - check out 'The Dark Side of Net Names'... FOR THE TRUTH
+
+         It gets creepier. On Wednesday, MICROSOFT announced their
+         second preview release of INTERNET EXPLORER 4.0. Within
+         minutes, Versace was dead. The new Explorer beta include:
+         Microsoft's new 'hyperlinky-look' desktop (single clicks to
+         run programs, horrific underlined text everywhere). Also,
+         if you're not careful, the new Explorer installs an 'Active
+         Desktop', a Web page that runs as though it was animated
+         desktop wallpaper. It was this complete disregard for the
+         personal customisation and tastes of the user that we
+         believe required Versace's 'silencing'. Following
+         Netscape's lead with Communicator 4, Microsoft's package
+         also includes a ruined e-mail client, and a 'push-channel'
+         feature that can be scheduled to crash in the background
+         without user intervention.
+         http://www.microsoft.com/ie40
+                          - police are looking for a repeat offender
+
+         In another arena, SONY showed they're not too worried about
+         the "PlayStation software glut" (current PSX titles: around
+         240, current N64: between 7 and 9), by snapping up
+         Cambridge-based softies MILLENNIUM, perhaps best known for
+         their James Pond platformers on the Amiga. Intriguingly,
+         the deal doesn't include a buyout of "sister company"
+         Cyberlife Technology, which provided Millennium with their
+         biggest hit for some time, the cute 'n' chirpy A-life sim
+         Creatures, released here a while back and currently
+         launching in the US. Last we heard, Cyberlife wanted to
+         adapt Creatures for numerous "intelligent agent" apps;
+         meanwhile Sony crow about buying a Cambridge base before
+         Microsoft have even got out their chequebook. Once again,
+         we warn them not to tease Mr Gates too often...
+         http://www.millennium.co.uk/      Millennium. Oh sorry, the
+         - "Sony Computer Entertainment Europe: Cambridge Studio"
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         Bill Gates $10 billion richer than any other human... first
+         anti-stalking rulings ban anti-vivisectionists, anti-hunt
+         supporters from Hyde Park... Apple's $56 million loss "less
+         than predicted"... Microsoft recruiting 2,600 new staff...
+         American arrested for shooting own PC... Mir crew close
+         ranks over "clumsy" astronaut (Our sick bet: it's Commander
+         Tsibliyev!)... Satellite uplink station jammed by nearby
+         car alarm... child was "too clever to live" warns Daily
+         Mail... Microsoft net income up 86% to $1.06 billion... UK
+         tax software gives "wrong answers", says accountant...
+         Future Publishing to extend standard computer mag template
+         to Cult TV, popular science, and the Ministry of Sound...
+         Bible Code finds Bill Gates in Book Of Revelations...
+
+
+                                >> CULTURE <<
+                         as in Iain M. Banks, right?
+
+         Just how anti-censorship are you, anyway? Find out at the
+         FREEDOM IN CYBERSPACE conference, taking place at the
+         London University Union on Tues 29/7/97. Expect the agenda
+         to be pretty hardcore: it's organised by the Campaign for
+         Internet Freedom, who frankly make the Electronic Frontier
+         Foundation look *squishy soft*. Check out their site for
+         arguments against PICS, *any* form of filtering software,
+         and some unfortunate slagging off of NTK pal and Serbian
+         death-camp exposer Ed Vulliamy. Err... which they have
+         every right to publish.
+         http://www.easynet.co.uk/cam/censorship/
+                                  - is our credibility still intact?
+
+         A somewhat more relaxed ambience, we suspect, at Neals Yard
+         Meeting Rooms, London (7.30pm, same day - 29/7/97) where
+         Dr. David Nichols, professor of medicinal chemistry and
+         molecular pharmacology at Purdue University, will be
+         speaking on drugs. Let's rephrase that. Dr Nichols did some
+         the early mechanistic studies of Ecstasy, and is the
+         creator of MBDB, a drug sometimes sold as Ecstasy. He's
+         interested in discussing both the technical and
+         philosophical aspects of psychedelic drugs. Tickets are
+         5UKP at the door.
+         http://www.ecstasy.org/dave.html
+                             - we doubt that includes any 'freebies'
+
+
+                                >> TRACKING <<
+                             our monkey curiosity
+
+         And where are the best UK Websites? Well, throw away your
+         bookmark files, because those wiseacres at WWW.YELL.CO.UK have
+         decided it all for you, in their "OFFICIAL" UK WEB AWARDS. A
+         casual observer might, perhaps, have expected a wider range of
+         winners - Amnesty International took two prizes, as did that 17
+         year-old's unofficial Spice Girls site, while design-your-own-
+         Mini got at least 2 (or 3?) nominations. And don't be sad if
+         you weren't invited to the glittering BAFTA presentation
+         ceremony, as highlights included a quote from Bill Gates about
+         how the Net is "the most significant invention since the wheel"
+         and some joker from The Computer Channel banging on about push
+         technology and 56k modems (as important as fire and arable
+         farming respectively, we imagine).
+         http://www.yell.co.uk/yell/yellawards/index.html
+         - at least there's some recognition for www.teletext.co.uk
+
+         You too can create sites like these, with the new beta
+         preview release of PC HTML editor, Hot Dog Professional 4.
+         The interface still looks like it was written by said dog,
+         but it'll look familiar if you've got a 'legacy' of working
+         with the mutt. There's a backpack of new features to try
+         too. Whoop.
+         http://www.sausage.com/   Sausage Software. "Professionals"
+
+         London listings mag TIME OUT seems very excited about an
+         upcoming drum and bass CD/CD-ROM that also provides
+         rudimentary DIY mix facilities via one of those clumsy
+         point-and-click-your-way-round-a-pre-rendered-room
+         Director-style interfaces. It's from Breakdown
+         Records/Suburban Base, it's called VIRTUAL DJ (as if you
+         hadn't guessed), and is available in both Drum & Bass and
+         Underground Garage flavours. Should be an improvement on
+         Pearson Multimedia's recent pseudo-interactive MUSIC
+         MACHINE, as at least you get a dance album for your 14
+         quid, though the low price only partly conceals the fact
+         that you could mix your own techno properly on a PC by
+         downloading a Tracker program and some WAV files - for
+         nothing!
+         http://www.subbase.com/breakdown/
+              - no info here, you could email them at sb@subbase.com
+         http://www.pne.co.uk/musicmachine/               old school
+         http://www.maz-sound.com/     where real "players" hang out
+                                 >> MEMEPOOL <<
+                          those nodal points in full
+
+         "ALIEN LOVE TRIANGLE"  - Scotland's 5th Element... gangster
+         tamagotchis... www.revolting.com (no, really this time)...
+         the return of TEXAS INSTRUMENTS... after Oasis Interactive
+         Songbook - PULP and BLUR... Apple and Wired looking for new
+         CEOs - what if they both pick Howard Rheingold?... Solaris
+         "ping o' suicide"... MAE-Mir... does the data protection
+         registrar have to register *their own* database?... Pentium
+         II? Mmm, maybe if it was a bit cheaper... REALDOLL... Cook
+         Island companies get .co.ck domains... SEINFELD to return
+         in BBC2 Tues double bill - BUT WHEN?... Strangely, the
+         nameserver run by the military *didn't* fall over...
+         Wormnerd!... AEON FLUX action figures... DEC ALPHA FP
+         bug?... Umami tastebud found - physical basis for hacker
+         MSG addiction... colour onomatography... hold the Minstrels
+         - pass the GIANT SMARTIES!
+
+
+                               >> MO' MEDIA <<
+                               in media hi-res
+
+         TV >> Find out if those "empty stadiums" rumours are true,
+         as U2 broadcast their oh-so-ironic POPMART LIVE (11.25pm,
+         Fri, BBC1) from Rotterdam, and (apparently) find enough
+         time off from rehearsals to co-host TOP OF THE POPS
+         (7.30pm, Fri, BBC1)... let's hope those continuity
+         announcers don't tempt fate when introducing the unusually
+         nightmarish psycho-thriller CANDYMAN (11.05pm, Fri, C4)...
+         cheeky eighties-fixated youngsters romp around foiling
+         unlikely crimes - an equally good description of both the
+         new series of BUGS (8.10pm, Sat, BBC1) and dirt-bike
+         classic BMX BANDITS (11am, Sat, BBC1)... Joe Dante's
+         INNERSPACE (5.55pm, Sat, BBC1) is a much worthier homage to
+         Fantastic Voyage than you'd thought... while Richard
+         Linklater's follow-up to Slacker is a rambling high-school
+         graduation drama, that, true to its title, appears both
+         DAZED AND CONFUSED (10.15pm, Sun, BBC2)... Bill Pullman
+         investigates the reality behind voodoo zombies in Wes
+         "Scream" Craven's THE SERPENT AND THE RAINBOW (11.55pm,
+         Tue, BBC1), and battles equivalent strangeness on the other
+         side from repeats of VIC REEVES' BIG NIGHT OUT (11pm, Tue,
+         C4)... the end of the "Colony" two-part episode of THE X
+         FILES (10.30pm, Wed, BBC1) is mysteriously scheduled
+         against the new (late-night) series of BABYLON 5 (10.40pm,
+         Wed, C4)... but no-one dares go up against the ratings
+         colossus that is a new 24-part (!) series of THIRD ROCK
+         FROM THE SUN (9pm, Thu, BBC2)...
+
+         MOVIES >> Hugely convincing animated creatures resent man's
+         intrusion into their complex ecosystem - but that's enough
+         about THE LADY AND THE TRAMP (Disney cartoon re-release)...
+         you want to know what, exactly, is wrong with THE LOST
+         WORLD (Jeff Goldblum, Julianne Moore, Pete
+         Postlethwaite)... well, we could start with the ending,
+         where the film grinds to a halt, then goes off on a totally
+         different tack - not even as good as the GODZILLA trailer
+         (out next Summer - www.godzilla.com) or current import
+         GAMERA... sure, the dinos are fun, but fail to make up for
+         the obligatory annoying kid, throwaway semi-explanatory
+         dialogue, a repeated bloodstained-water gimmick, PLUS
+         massive, gaping plot-holes (why don't the T-Rexes just push
+         the bloody truck over the cliff and finish the job?)... oh,
+         and the fact that the best scene involves Julianne Moore
+         and a great big piece of glass, and no dinosaurs at all...
+         on a high note, however, SWINGERS (as we recommended last
+         week, sight-unseen) is as excellent as we'd hoped. Check it
+         out.
+ 
+         BIO >> Sure, I've rubbished the view that marijuana
+         consumption can lead to heroin abuse. Who hasn't? But I can
+         stop any time I want. Especially now that scientists from
+         the US, Spain and Italy have produced evidence that
+         marijuana withdrawal causes the release of a hormone in the
+         brain which has already been linked to opiate, alcohol and
+         cocaine withdrawal. The implication is that smoking dope
+         can 'prime' you for other addictive drugs. On the other
+         hand, it just might be a general pleasure response. But...
+         hold on... that would imply that marijuana was in some way
+         enjoyable...  More news for addiction addicts: Swiss
+         neuroscientists have found that damage to a specific area
+         of the brain causes a craving for fine food and good wine.
+         Of course, it could simply be that such a liberal and open
+         country as Switzerland regards an appreciation of the finer
+         things in life as a medical disorder... And your monthly
+         Neanderthal update: If you were relieved by reports of
+         genetic studies suggesting  that humans and Neanderthals
+         never interbred, perhaps you should check yourself in the
+         mirror once more. The DNA analysed was *mitochondrial* DNA
+         which is strictly maternally inherited. Which means
+         that one of our male ancestors may still have been
+         Neanderthal. A fact which I'm sure many men would be very
+         proud of. I know *I* am.
+                                                  - doctor@spesh.com
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+          It is registered at the Post Office as "family-oriented".
+                      ( http://www.tomski.demon.co.uk/ )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@flirble.org with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@flirble.org with 'subscribe ntknow'.
+      NTK now is helped by VIRGIN MEDIA, VENUS INTERNET and FLIRBLE.ORG.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.

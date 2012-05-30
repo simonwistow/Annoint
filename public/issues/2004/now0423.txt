@@ -1,0 +1,279 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-04-23_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                               >> HARD NEWS <<
+                              poohing the poohs
+ 
+         LORD BIRT IN PORN SITE LINK, crows London's Metro this week,
+         aping sister paper The Mail on Sunday's expose of the old 
+         BBC director general ("LORD DIRT!") and his wicked ways. The
+         "link" in question turns out to be a mite tenuous, even for
+         the Mail. Birt is a director of PayPal, "a company that
+         processes payments for Internet pornography". Except, of
+         course, that it doesn't. Or tries not to, as poor old Jenni
+         "Cam" Ringley claimed led to the demise of her site. Still,
+         nice plug in the Metro for hangingbitches.com, a site that
+         you'd think Mail readers would be all for bringing back.
+  http://xrrf.blogspot.com/2004_04_18_xrrf_archive.html#108237737053765567
+       - scroll down or just http://www.ntk.net/2004/04/23/dohbirt.jpg 
+         http://www.petitiononline.com/nopaypal/petition.html
+                                      - Kinkycobbler Inc also hit hard     
+         http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=3189039958
+              - TOP MATHEMATICIAN LINKED WITH SHADY RED "ERDOS" FIGURE
+
+         Rather more unexpected was the confirmation of ALL (C)
+         INFRINGERS IN TERRORISM LINK, from the usually level-headed
+         Advertising Standards Authority. TRISTAN RODDIS, pissed off
+         at that Federation Against Copyright Theft cinema advert
+         where you stare at a branding iron while a voice tells
+         you that "Piracy funds terrorism", complained to the ASA.
+         The ASA, after some perusing of FACT's literature, declared
+         that, yes, piracy did fund terrorism. Slightly more
+         dubiously, they went on to concede that the ad's other
+         somewhat controversial statement - that piracy "will destroy
+         society", was not a misleading exaggeration. Given the high
+         odds, we sincerely hope that everyone now continues to
+         file-share on the free networks, thus beating down the price
+         of pirated material to zero, wiping out all that terrorist
+         income, and saving society with their warez.
+www.asa.org.uk/adjudications/show_adjudication.asp?adjudication_id=37673
+             - legal, decent, honest: well, one out of three isn't bad
+         http://www.aacp.org.uk/Proving-the-Connection.pdf
+               - see p.14 for that indubitable connection to terrorism
+http://newsite.screen-play.net/pipermail/bnmlist/2004-April/057358.html
+                  - "will destroy society" complaint originally upheld 
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "and I'm not coming out until you find that bloody tape": 
+         http://www.ntk.net/2004/04/23/dohcup.gif ... don't believe 
+         Edmonds' lies: http://www.ntk.net/2004/04/23/dohnoel.gif ... 
+         maybe that thing in Tony's mouth helps explain the confusion: 
+         http://www.ntk.net/2004/04/23/dohnow.gif ... clicking on the 
+         http://www.drc-gb.org/newsroom/website3.asp "Inaccessible web 
+         site" breadcrumb link goes to... what a difference a day 
+         makes: http://www.ntk.net/2004/04/23/dohden.gif ... hell, 
+         freezing over: http://www.ntk.net/2004/04/23/dohhoc.gif ... 
+         looks like something's started tainting the Amazon prefs 
+         database again: http://www.ntk.net/2004/04/23/dohsenn.gif , 
+         http://www.ntk.net/2004/04/23/dohmem.gif ... "Entrys"? Come 
+         *on*, Portsmouth!: http://www.upsu.net/doc.asp?doc=1934 ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Members of the audience will no doubt be asked to make sure 
+         they've left their cellphones switched *on* at next Thu's 
+         CYBERSALON MOBILE FUTURES (7pm, 2004-04-29, Dana International 
+         centre, Science Museum, London SW7, free but pre-register 
+         places at ticket@danacentre.org.uk), featuring presentations 
+         on bluejacking, that "Urban Tapestries" collaborative mapping 
+         thing, plus Orange Head of Group Strategy Paul Amery - 
+         presumably the real-life equivalent of the annoying Kevin 
+         Spacey lookalike in the Orange cinema ads they show just 
+         before the film? Interaction of a bafflingly non-electronic 
+         kind, however, will be the order of the day over at PILCHARD 
+         TEETH PRESENTS: COUNTER CULTURE (8pm, also Thu 2004-04-29, the 
+         ICA, London SW1Y, UKP6, ICA members free), as Adam "Surf ad" 
+         Buxton introduces a reprise of friend-of-NTK Ben Moor's social 
+         history of board games, their demented concepts of what used 
+         to pass for entertainment, plus what they're probably worth on 
+         eBay nowadays. And what will Will "TFI Friday" Macdonald be 
+         doing while all this is going on? Sort of standing behind Ben 
+         shrugging his shoulders and grinning?
+         http://www.ica.org.uk/index.cfm?articleid=13146
+                           - He's a mon-ster. A mon-ster, my friend...
+         http://www.cybersalon.org/info.html#mobilefutures
+                    - Barbrook to unveil new 802.11 access point beret
+         http://www.futuresonic.com/futuresonic/mobile_connections/
+              - futher "mad for (wireless) IT" in Manchester next week
+         http://www.spy.org.uk/ratblog/archives/000257.html
+           - Reclaim The Thames Beach tomorrow, Reverend Rat maintains
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         It looks like even more people are doing the "private P2P
+         file-synchronising network" thing than we thought (though
+         presumably secretly sharing the information with only their
+         most trusted friends). In the hope that somebody will romp
+         through these, pull out the best ideas of each, and create
+         an app that everyone will settle upon, we present:
+         CLEVERCACTUS, a NAT-friendly Java app (recommended by Jim
+         Hughes); the multi-platform SHINKURO - "Father of the 'net
+         and everything", says Ben Laurie of the DARPA-funded
+         project; then there's the sternly businesslike GROOVE by Ray
+         "beautiful hair" Ozzie's team (via Jim Morgan); and "How
+         about SPIKE?" says Simon Phipps, of Porchdogsoft's Windows
+         and Mac LAN clipboard sharer. For once we haven't tried any
+         of them (closed betas/no friends), so take your pick.
+         http://taint.org/2004/04/16/210206a.html
+                         - good summary by Justin "Spamassassin" Mason
+     http://www.financialcryptography.com/mt/archives/000115.html#more
+                                               - see, everyone's at it
+         https://www.clevercactus.com/share/login.process
+                                             - get some friends, quick
+         http://www.shinkuro.com/
+                           - "a strong interest in information sharing"
+         http://www.groove.net/
+                                 - feels like the new Marimba, somehow
+         http://www.porchdogsoft.com/products/spike/
+                                                        - yay zeroconf!
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         answers to everything except - wouldn't this be quicker if it 
+         was coded in JavaScript?: http://aeoe.freeshell.org/atose/ ... 
+         on thin ice with us already: http://isuparody.tripod.com/ ...
+         Dire Staits' "Money for Nothing" video - for the 21st century: 
+         http://www.bendawkins.pwp.blueyonder.co.uk/bogdan_qt.html 
+         (largish QuickTime, sorry)... Stock Photograph Goldfish dices 
+         with death once again: http://news.bbc.co.uk/2/3633439.stm vs 
+         http://news.bbc.co.uk/2/3040891.stm ... the war against the 
+         word "webinar"... naked eBay guy WLTM similar "night owl": 
+        http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=3092428344 
+         what the? http://www.jesus-action-figure.com/ - novelty action 
+         figures funny again? (.mpg video)... zany sales pitches less so: 
+       http://www.komplett.co.uk/k/k.asp?action=page&page=news&topic=yarrrr
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         TV>> the crack team of MONSTER GARAGE mechanics struggles to 
+         turn an old episode of "Salvage Squad" into something as 
+         inexplicably popular as "Scrapheap Challenge" (7.30pm, Fri, 
+         C4)... "from the makers of Banzai", boasts rabblemocking fake 
+         science candid camera EXPERIMENTAL (11.45pm, Fri, C4)... but 
+         we're more intrigued by the http://www.straightdope.com/ 
+         potential of C5's competing PUB AMMO (11.55pm, Fri, C5)... 
+         Robin Williams *is* Commander Data in cheesy Asimov travesty 
+         BICENTENNIAL MAN (5.30pm, Sun, C5) - now largely US-Robotics-
+         free: http://www.imdb.com/title/tt0182789/trivia ... not too 
+         many surprises in this week's tell-all celebrity revelations 
+         SEX, SECRETS AND FRANKIE HOWERD (9pm, Sat, C4), ROD HULL: A 
+         BIRD IN THE HAND (10pm, Sat, C4) and CHARLOTTE CHURCH - 
+         SPREADING HER WINGS (10.45pm, Wed, BBC2)... and it's almost 
+         as if Islam, Christianity and Judaism were codifications of 
+         regionalised societal customs rather than, say, literal 
+         interpretations of ethical teachings, ponders multi-faith 
+         musing CHILDREN OF ABRAHAM (8pm, Sun, C4), laying the 
+         foundations for - hopefully "Eurotrash" influenced - Islamic 
+         magazine show SHARIA TV (12.10am, Tue, C4)... regarding BORN 
+         RICH (11.05pm, Tue, C4): "How do you carve out a meaningful 
+         existence if you never have to work?", asks someone *whose job 
+         is reviewing TV programmes for the Radio Times*... Laurie 
+         "Roseanne" Metcalf steps in to become the third actress to 
+         play the psychiatrist's first wife in FRASIER (11.05pm, Wed, 
+         C4): http://amazingforums.com/forum2/FRASIER/117.html ... 
+         while BBC4 launches a DNA Week featuring DOUBLE HELIX: THE DNA 
+         YEARS (11.45pm, Wed and Thu, BBC4) and a RICHARD DAWKINS 
+         PROFILE (11.15pm, Wed, BBC4) with guaranteed ratings-grabber 
+         JOHN SULSTON - ONE MAN AND HIS WORM (12.25am, Tue, BBC4)... 
+         
+         FILM>> "the many continuity lapses and other apparent 
+         technical errors are a matter of deliberate stylistic choice 
+         in this pastiche of 1970s 'B' action movies" chuckles the IMDB 
+         over aimless more-of-the-same Tarantino yawn KILL BILL: VOLUME 
+         2 ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7573 :
+         an article on the production [...] includes the journalist's 
+         first-hand observations of chickens being tossed behind the 
+         moving car. The article also says that Thurman accidentally 
+         killed a chicken while struggling to drive a stick shift 
+         vehicle [...] We are rating Kill Bill Vol. 2 "Questionable") 
+         ... Angelina Jolie turns psychic profiler in the daft TAKING 
+         LIVES ( http://www.screenit.com/movies/2004/taking_lives.html :
+         [CAUTION, POPUPS] The "f" word is used sexually; [Ethan Hawke] 
+         shows up at [Angelina Jolie's] place. There's heavy breathing 
+         between the two and he opens her shirt or robe, exposing her 
+         bare breasts)... while presumably starting a tour of the UK's 
+         arthouse cinemas - and other "specialist" venues? - is what 
+         appears to be just the one print of surprisingly graphic pre-
+         WW2 retro adult compilation POLISSONS ET GALIPETTES/ THE GOOD 
+         OLD NAUGHTY DAYS ( http://www.bbfc.co.uk/ : Consumer advice is 
+         not supplied for the R18 category)... 
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> and top marks to ENDIE, the first to point out 
+         that it actually looked more like *Saruman* had been killed by 
+         the Israelis in http://www.ntk.net/2004/03/26/dohsaur.gif , 
+         not "Sauron", as we may have implied. Still, Sauron, Saruman, 
+         Dr Magneto and Slartibartfast - we always did get those ageing 
+         British character actor villains confused. JEZ SMITH didn't 
+         need "no dumb-ass program to remove all the Adobe Acrobat 
+         plugins and stop them from loading at start-up", as advocated 
+         by cheeky Rod Begbie (and us, admittedly) in NTK 2004-02-20, 
+         because he prefers to "just take 'em out of the plugin 
+         directory and put 'em into optional" - we're assuming he means 
+         "all of them"? - while PETER FERNE confirmed that listenable 
+         circuit-bending pioneer http://www.kidcarpet.co.uk/ can often 
+         be found "serving behind the bar at The Chelsea Inn, Bristol's 
+         Premier Wireless Boozer" [NTK 2004-03-26]... spookily, ROB 
+         BUCKLEY, CASPAR, and PAUL HAMMOND all came up with exactly the 
+         same example of "why not to trust theoretical physicists when 
+         talking about Maths" regarding DR PETER J. LOVE's theory that 
+         "every possible message occurs" in the decimal expansion of 
+         pi: http://www.ntk.net/index.cgi?b=02004-02-20&l=237#l . The 
+         number 1.01001000100001000001... (with one more zero each 
+         time) is infinite and non-repeating, they all agreed, but 
+         never features, say, the message "01010". "A better thing to 
+         say would be that Pi is 'normal'", suggested DAVE TAYLOR (in 
+         his best Pub Landlord voice), "except that no-one's ever 
+         proved that": http://mathworld.wolfram.com/NormalNumber.html 
+         ... former "Times Interface" regular ANNA SODERBLOM made a 
+         welcome return to these pages with the news that husband Ben 
+         Hammersley hadn't finished the Marathon Des Sables when we 
+         mentioned it last Friday, but has now, if you see what we 
+         mean, and should be back to full "blogging strength" soon. And 
+         RICH HERRING was so grateful for the London marathon sponsoring 
+         he received from generous NTK readers that he wondered if 
+         we/you'd be able to help in his next arbitrarily heroic task - 
+         the slaying of the Loch Ness monster, for which he requires 
+         the assistance of a local virgin. "I've already had one offer 
+         from an 18 year old man which wasn't really what I was 
+         thinking of", he confides, "but it might be my only shot": 
+         http://www.richardherring.com/warmingup/warmingup.php?id=498
+
+     
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+  "this guy clearly wasn't there - they were horizontal hold lines for a start"
+        http://www.3ammagazine.com/litarchives/2002_sep/clerkenwell.html
+        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

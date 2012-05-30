@@ -1,0 +1,310 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-04-28_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Playing violent video games like Doom, Wolfenstein 3D or
+         Mortal Combat [SIC] can increase aggressive thoughts,
+         feelings and behaviour, say researchers"
+     http://news.bbc.co.uk/hi/english/health/newsid_720000/720707.stm
+...largely out of irritation that you haven't got a more modern machine
+
+
+                                >> HARD NEWS <<
+                                  open wounds
+
+         We were worried we weren't going to have anything nasty to
+         say about BT's 40UKP ADSL July roll-out, at least not until
+         they actively start buggering it up on a case by case basis.
+         But, as ever, we misunderestimated them. If you, too, were
+         wondering how exactly "a hidden area" of the BTopenworld
+         site was "accessed" and the details of all those
+         pre-registering for the service passed on to "unauthorised
+         persons", we hope the links below help. In a nutshell: they
+         forgot to turn off directory browsing, and stored logs of
+         all the SQL transactions in the same directory as the PHP
+         scripts. Not that it'd have helped if they *had* turned off
+         directory browsing, because when the site's registration PHP
+         script crashed, it told you the "hidden" file names anyway.
+         BTopenworld's General Manager, Robert Salvoni assured the
+         potential customers that BT would be contacting those who
+         accessed this "hidden area" and get written confirmation
+         that they wouldn't spread the data. Um, Robert: I don't
+         think you get it. You don't have their addresses. They have
+         *yours*. Oh, and Mr E Sheldon of London? Thanks for
+         mentioning us in the "how did you hear about this" box...
+         http://www.ntk.net/2000/04/28/signuplist1.gif
+                                                  - how very "hidden"
+         http://www.ntk.net/2000/04/28/dohopenworld.gif
+                                          - either way you look at it
+
+         It's been implied (if only by the voices in our heads) that
+         only cranks are really opposed to the Regulation of
+         Investigatory Powers Bill. So, just to give you the latest
+         list of civil rights lunatics joining in opposition: well,
+         rather predictably, the Loyal Opposition themselves ("his
+         marvellous new technology should not be blighted by
+         overmighty Government interference."), followed neatly by
+         the ISPA and LINX ("When we consulted the ISPA and LINX
+         members, their statements have been uniformly negative, and
+         nearly all Internet traffic in the UK is carried by the
+         members of ISPA and LINX.") - oh, and the Data Protection
+         Commissioner ("The Commissioner takes the view that the
+         privacy of individuals can be compromised equally by the
+         interception of communications, surveillance, and access to
+         encrypted data. Indeed intrusive surveillance could be the
+         more invasive."). Third reading is on May 8th. Let's see if
+         the government can find someone who actually likes the new
+         law by then.
+         http://www.fipr.org/rip/
+                                         - strange bedfellows, indeed
+
+         Viewers of C4's DOTCOMEDY (Fridays, 11pm) will no doubt
+         already be impressed by the level of technical expertise on
+         display: the determination to show all pages in an ill-fitting
+         box that doesn't fill the screen; the swift collapse of their
+         own site after the first transmission; the casual use of the
+         term "MPEG" to describe any online video. Reassurance, of a
+         sort, comes in an email, apparently from one of dotcomedy's
+         researchers, received by retro-telly resource TVCREAM: "We
+         would like to use the theme from 'Roobarb' to go with a clip
+         on the show," the researcher explains. "I have downloaded the
+         clip from your website, but I need to clear the publishing for
+         use. Could you please advise me on how I go about doing this?"
+         You know, we think we saw a "researching a telly program"
+         FAQ page somewhere on one of these Web page things...
+         http://www.dotcomedytv.com/rig/
+                                      - as if you hadn't been insulted enough...
+         http://tv.cream.org
+                     - ner-ner-ner-ner, ner-ner-ner-ner, ner-ner-ner NER ner-ner
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         DAIKATANA "towering mediocrity" - Daily Radar ... JOHN
+         MARKOFF, famously trustworthy NYT journalist, leaks results
+         of Ars Electronica award - which he himself judged ... not
+         the stock option pack we were hoping for:
+         http://www.ntk.net/2000/04/28/dohstockex.gif ... EXCITE's
+         new free ISP forbids game servers, streaming video, fun:
+         http://www.thefreeinternet.net/service.htm ... COREL says
+         that if it's not allowed to take over BORLAND, it'll go
+         bust... DAIKATANA "sucks the sweat off of dogs balls" - Evil
+         Avatar ... INTERVAL LABS: a Paul "Falco" Allen special ...
+         http://www.dailyradar.com/features/game_feature_page_646_1.html
+         ... www.wallpaper.com is: exactly as you'd expect...
+         DAIKATANA "best game I ever wrote" - John Romero
+         http://www.oldmanmurray.com/realnews.wcs ... oh, and you
+         thought that CD-ROM of director's addresses was bad:
+         http://www.ntk.net/2000/04/28/dohscoot.gif ... oh, those
+         Jedi Mind Tricks: http://www.ntk.net/2000/04/28/dohamazon.jpg ...
+         IBM provides software with which to hang yourself:
+         http://m.doubleclick.net/viewad/342415-light_468x6010k3loopaaaa.gif
+
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Another fun-packed Bank Holiday for agitators everywhere,
+         with not just the much-advertised fight between rival
+         anarchist factions [see NTK 2000-03-31] at the FORTEAN TIMES
+         UNCONVENTION (2000-04-29/30, Kensington's Commonwealth
+         Institute, London), but also MAYDAY 2000 (from today, we
+         think, all across London) - a "Festival of Anti-Capitalist
+         Ideas And Action". The latter seems to be the one advertised
+         around town with stickers featuring that notorious stooge of
+         the military-industrial complex, Cartman - leading the
+         casual reader to perhaps misread the "Capitalism Sucks Ass!"
+         slogan as "Cartman Sucks Ass!", and to conclude that the
+         whole thing's some sort of misguided protest against South Park.
+         http://www.forteantimes.com/uncon/uncon2000/
+                           - unconventional lack of "index.html" page
+         http://www.freespeech.org/mayday2k/index2k.htm
+                  - now even the anarchists have a Flash "skip intro"
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The super-distributed super-distributing super-spamming MP3
+         glory that is Gnutella would be even more super, we feel, if
+         we could ever get it to work. Never fear: for lamers who
+         could never find a decent server to connect to, comes Cap'n
+         Bry's GNUTELLA WEB GATEWAY. Search the Gnutella Net for your
+         favourite, uh, backup copies, and download via simple URLs:
+         that's the theory. In practice, we couldn't get this to work
+         either, leading us to believe that either a) the latest
+         Gnutella clients don't allow anything but other Gnutella's
+         from grabbing files over HTTP, or b) its collective mind
+         hates us. Never mind: link included because it's fun to play
+         with, has the PHP source so you can tweak and copy, and
+         because it's also got a nifty affiliate link to myplay.com's
+         "music locker" service, so you don't even have to download
+         the files to your own machine. Particularly hilarious, given
+         MyPlay's CEO's recent dissing of Napster. "A business model
+         built on theft" is how Doug Camplejohn described his
+         competition to Red Herring, while MyPlay "operate this side
+         of the legal line". Line just got closer, Doug: whose side
+         are you on?
+         http://capnbry.dyndns.org/gnutella/gs.php
+                                                             - nutty!
+         http://www.artistdirect.com/metallica/
+                   - "this is Metallica, after all. They can take it"
+
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         inevitably: http://resumes.dice.com/mozilla ... the people's
+         AERON (altho not sure how many would want to sit on a Caper)
+         ... asking "does JEEVES have an evil twin?" ... SHATNER to
+         cover Numan's "Cars" ... that whole "anti-posers" thing?
+         surely just - A POSE! http://www.stevoland.co.uk/posers/
+         throw 'em a curve: http://www.enormicom.com/09.html ... PHIL
+         KATZ dies trying to compress world's alcohol into smallest
+         possible space ... Falco remix album by 'noisy noisenik' Kid
+         606... interesting Amazon recommendations for
+         http://www.amazon.com/exec/obidos/ASIN/0860914623/ ... it 
+         *is* 2000AD: http://www.newscientist.com/news/news_223622.html
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> after the over-literal interpretation of last week's 100
+         Greatest TV *Moments*, here's hoping they play each of THE 100
+         GREATEST TV ADS *in full* (9.05pm, Sat, C4) - they should do
+         100 Top TV Title Sequences next, we reckon... Cindy Crawford /
+         William Baldwin actioner FAIR GAME (11.10pm, Sat, ITV) has few
+         redeeming features - except Crawford's, Steven Berkoff's
+         terrible overacting, and a sex scene in which Baldwin shoots a
+         bad guy... and, continuing the "curse" of the actually OK-ish
+         THE CROW: CITY OF ANGELS (10.50pm, Sat, C5), we heard that
+         someone was once killed while inking the comic-book... after
+         last Sun's "Happy Birthday Shakespeare", this week's BBC1 9pm
+         Sunday evening 30-something nonsense starring Dervla Kirwan
+         and Amanda Holden is called HEARTS AND BONES, should you    
+         care... C5's supernatural chicks night, featuring original  
+         SMG-free movie BUFFY THE VAMPIRE SLAYER (9pm, Sun, C5), spills
+         over to infect Neve Campbell's unacknowledged "Charmed"
+         inspiration THE CRAFT (10pm, Sun, C4)... and child-genius
+         composer Daniel Pemberton mails to alert/warn readers of his
+         "speed metal theme from Dallas" contribution to DALLAS NIGHT
+         (from 8pm, Mon, C4)... chipping away at your natural
+         objections to "going digital", ITV2 starts running ultra-
+         recent episodes of topical uber-chat LATE SHOW WITH DAVID
+         LETTERMAN (11.50pm, Mon-Fri)... tough call though for anyone
+         who has to get up for animated STARSHIP TROOPERS (7am, Tue-
+         Fri, Sky1) - who just lost the "Heavy Gear" contract to the
+         Reboot guys http://www.roughneckchronicles.com/ ... while,
+         finally, good to see the genetic expertise acquired by Debra
+         Messing in PREY (1.30am, Thu, C4) going to good use in her new
+         ad for Clairol "Nice And Easy" hair colouring, in which she
+         attributes her "lovely auburn hair" to the superior genetic
+         heritage of "[her] mother"...
+
+         FILM>> "Far closer to the spirit of Trek fandom than many
+         actual Star Trek films" seems to paraphrase the general
+         feeling about surprisingly satisfying spoof GALAXY QUEST
+         (http://www.capalert.com/capreports/ : torture [some unseen
+         but heard]; monstrous alien with evil intent; death by weapon;
+         fantasy gore of spewing alien flesh; accusation of sexual
+         immorality in a bravado style; progressively exposing damage
+         to woman's clothing; at least 23 instances of excessive
+         cleavage) - Sigourney "Ghostbusters" Weaver hilarious as ever,
+         while Tim Allen does a better Shatner than even Shatner does
+         nowadays... "all bets are off" chortles Jenny McCarthy-killer
+         SCREAM 3 (http://www.capalert.com/capreports/ : fights;
+         firearms and gunfire to kill; a mannequin beheaded; reckless
+         driving to rescue; woman in shower; woman in towel only;
+         adults in underwear; vulgar accusation; story telling of
+         immoral sex), though even these self-referential teens have to
+         admit they won't win over many non Scream 1 & 2 viewers at
+         this late stage... otherwise there's the easily confused
+         arthouse ponderings of Jim Jarmusch's GHOST DOG: THE WAY OF
+         THE SAMURAI (imdb: independent-film / assassination / bird /
+         hip-hop / hitman / ice-cream / mafia / samurai)... Wim
+         Wenders' Bono-scripted THE MILLION DOLLAR HOTEL (imdb: sequel  
+         / murder / painting / retarded / suicide / video-footage /
+         detective / hooker / love / independent-film / misfit)... or,
+         for the real purists, Ralph Fiennes in the limited-release
+         "personal history of modern Hungary", spanning "150 years"
+         (Time Out) SUNSHINE (imdb: austria-hungary / independent-film
+         / epic / fencing / holocaust / jewish-culture)...
+
+         FOREIGN FOODS>> following NTK 2000-04-07's rallying call for
+         sightings of this year's new ice-cream crop, Finland's
+         MICHAEL WALSH wrote to say "The only thing new about WALLS
+         SOLERO ICE is that it's from Walls," going on to boast -
+         "We've had Solero Ice here for at least a couple of years.
+         It's basically a francised internationalised scam like
+         Magnum - only in the case of Solero it's orange ice with a
+         vanilla ice-cream filing on a stick. Sounds very much like
+         what you've been able to buy for years doesn't it?" Well,
+         now you mention it, yes it does - but there is, we're sure,
+         something "different" about the "ice" version. It's always
+         nice to get a fresh perspective from the Linus-homeland,
+         though - as proved by Michael's subsequent description of
+         the terrifying arrival of Weetabix BANANABIX in that
+         normally peaceable and progressive nation... elsewhere in
+         the Linux-branded edible world, SIMON HEWISON recommended
+         the import-only Penguin-branded caffeinated PEPPERMINTS from
+         http://www.peppermints.com/ - "ideal if you like Altoids and
+         coffee". "What's more," he adds, perhaps in reference to
+         their 'Warning: for use while driving or operating heavy
+         machinery', "the guys who make it seem rather bizarre"...
+         JAMES "CRAZYNET, CRAZY GUY" WALLIS spotted a "French-fry
+         vending machine with integral deep-fat fryer"
+         http://www.tastyfries.com/machine.cfm ... while music-hall
+         star ADAM ATKINSON spoke highly of New Zealand's
+         "bewilderingly large range of strange but wonderful
+         chocolate bars", including the "MORO ENERGY BAR - a revved
+         up plain chocolate Mars Bar"... but globe-trotting
+         confectionery kings of the month (and not just 'cos they
+         sent us a whole box of the stuff) are, indeed, "those guys
+         who do American snack imports" CYBERCANDY
+         http://www.cybercandy.co.uk . Imagine numerous weird,
+         alternate-reality analogues of familiar UK brands, (though
+         often divided into two small Bounty-like sub- bars, and
+         almost invariably featuring peanut butter), like: OH HENRY!
+         (fudgey Snickers), 3 MUSKETEERS (a rich, dark, giant Milky
+         Way, with "45% Less Fat Than Average Of The Leading
+         Chocolate Brands"), BABY RUTH (a curious, wafer-free Picnic
+         or Lion), 100 GRAND (Nestle Dairy Crunch?), ALMOND JOY
+         (self- explanatory Bounty-alike), and of course infinite
+         variations on REESE'S PIECES - with the promise of
+         Antipodean and Japanese sweets to come! Plus, they're the
+         only online food e-tailer we've seen to operate a
+         pay-you-in-chocolate affiliates scheme...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                 "gone native"
+                 http://www.icioregon.com/Personnel/OBrien.htm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

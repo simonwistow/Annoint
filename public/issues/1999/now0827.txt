@@ -1,0 +1,294 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-08-27_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+    "I can remember one occasion, taking a shower with my wife while
+     high, in which I had an idea on the origins and invalidities of
+     racism in terms of gaussian distribution curves,"
+              - CARL SAGAN provides rather more info than we required
+   http://dailynews.yahoo.com/h/ap/19990821/us/sagan_marijuana_1.html
+                ....and a whole new meaning to "butt-head astronomer"
+
+
+                                >> HARD NEWS <<
+                                  micro brews 
+
+         O'Reilly's OPEN SOURCE CONVENTION didn't end with a bombing,
+         which was a surprise - with the leading lights in Perl,
+         Python, Apache, and Sendmail all in the same hotel, sense
+         trigger-fingers in the Redmond silos must have been
+         twitching. Or else - every hacker's nightmare - they'd set
+         upon each other. Extending the invitation to speak to the
+         Emacs/GNU heartland to Bill "vi/Java" Joy didn't seem too
+         politic, for starters. And didn't anyone notice the start of
+         comp.lang.perl.misc's open season on Python programmers?
+         Even kindly Larry Wall shot off a few snipes, and given his
+         State Of The Onion theme ("chemicals") and the tear-gas
+         quantities of real chopped onion he released, you could see
+         it was only a short step to weedkiller and sugar. And adding
+         nitro to the glycerin: who invited Dave Winer? Proprietary
+         Dave set upon the free software like Carlos the Jackal at a
+         World Trade Organisation shin-dig. Open source, he
+         translated for Scriptiny News, was an "open sore", Brian
+         Behlendorf and co. were "dictators", ESR "an asshole", Perl
+         a "hacked-up language", and the "cheezy" Unix boxes in the
+         network room couldn't even do cut and paste properly (until
+         someone showed him how). Man, it was almost as if Tim
+         O'Reilly hired him to distract everyone from each other's
+         throats. Hey, wait a minute...
+         http://conferences.oreilly.com/ 
+- Tom Christiansen gets an award: gnu.misc regulars caught with semtex
+         http://davenet.userland.com/1999/08/22/readerProfiles     
+    - "manifestly full of shit" - John Perry Barlow (who should know)
+         http://davenet.userland.com/1995/06/19/thehypertextman
+- if we had Xanadu you'd realise how out of context all these quotes are
+
+         Along with all the other cyber-terrorist organisations that
+         peddle their hate-speech on the Net of Fear, we're still
+         fascinated by crusading Sunday Times journalist, JONATHAN
+         UNGOED-THOMAS and his mission to get the hang of
+         fakemailing. He's almost cracked it now, we think, with
+         "laura.jones@angelfire.com", who recently made contact with
+         those anarchist desperadoes The Legal Defence and Monitoring
+         Group. Ms Jones says she is "particularly violently opposed
+         to animal testing and genetically modified food", and "is
+         good with computers." Not quite good enough to go to the
+         LDMG's homepage, though, where she would have learned they
+         disbanded in October of last year. Double-plus, Ungoed - but
+         keep those e-mails coming! 
+         http://www.ntk.net/ungoed/
+         - compare and contrast
+http://www.sunday-times.co.uk/news/pages/sti/99/08/15/stinwenws01012.html?999
+         - Ungoed's recent article. Note expertise provided by mi2g
+         http://kumite.com/myths/opinion/thoughts/1999/
+         - and respect for mi2g held by rest of world. (May 29th)
+
+         With reports that an outbreak of syphilis in San Francisco
+         was traced to users meeting via a AOL chatroom, it's not the
+         most auspicious week for AOL to launch NETSCAPE ONLINE, a
+         free ISP targetted at "single young men". Still, there's
+         even weirder vibes emanating from other side of the Netscape
+         alliance. Take the invite Silicon Valley residents received
+         this week, advertising a special seminar by by Carol
+         Montgomery-Adams, Vice President of Customer Loyalty at the
+         Sun/Netscape Alliance. Intrigued? Then be sure to RSVP to
+         the reply address: The Church Of Scientology, Palo Alto
+         Mission. Now, we're not ones to slag off the Scientologists
+         (for compelling legal reasons), but it'd be fair to say that
+         the last thing anyone can teach them about is ensuring
+         customer loyalty, no?
+         http://www.ntk.net/dianetscape/
+         - You've got E-Meter
+     http://dailynews.yahoo.com/h/nm/19990824/wr/tech_syphilis_2.html 
+         - You've got ... well, it's not mail...
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+  
+         TELETEXT radically mutates "Men Are From Mars" movie pitch:
+         http://dailynews.yahoo.com/h/nm/19990823/re/film_gibson_2.html
+         - http://www.ntk.net/doh/990827mars.gif ... how do I get my
+         domain to "point to some web pages?" inquires net.veteran
+         DAVID BRAKE, on CIX... SEGA delay UK DREAMCAST launch for 3
+         weeks - till after creation of dedicated uk.* newsgroup?...
+         http://www.theweekly.co.uk now fortnightly... "If the rest
+         of this mail is in *computer language* [our emphasis], your
+         e-mail program is not capable of reading HTML mail" chirps
+         THE ECONOMIST's "Business This Week" newsletter... record
+         GCSE results - *again* (and only 3 or 4 deaths!)... CD-ROM
+         "loads up GREATXSCAPE onto your computer website", believes
+         http://www.telnetresidential.com/mainhtm/faqs.htm ... for
+         all our eyes only: http://www.colourspace.co.uk/ ... "spam
+         people to get traffic for your YAHOO store, but don't use
+         your Yahoo address to do so" is largely accurate paraphrase
+         of http://store.yahoo.com/vw/tracklink.html ...DAWN FRENCH
+         to voice cartoons featuring - fat women... BBC using GPS for
+         page formatting: http://www.ntk.net/doh/990827gps.gif ...
+         NTL pioneering "spit-second business" (- and first...?)
+         http://www.ntl.com/telecoms/bus-solutions/voice.asp ...
+  
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Still reeling from the postponement of Boston's GEEK PRIDE 
+         FESTIVAL from October to "Spring 2000"? Need *something* to 
+         drag you away from TIBERIAN SUN? Fortunately, next Thursday 
+         (7pm, 1999-09-02, University College London) sees the 
+         inaugural event of the conveniently acronymed SAGE-WISE 
+         (The "System Administrators Guild for Wales, Ireland, 
+         Scotland and England"), with a talk on how there's more to 
+         the job than just "making sure the printer is working and 
+         that the boss' daughter can access the Web" (though, in 
+         most places, that's a start). Admittedly, it's probably not 
+         the BOFH fanclub the world has been waiting for; we just 
+         like the phrase "System Administrators Guild" 'cos it 
+         sounds like the "Spacing Guild" in Dune... 
+         http://www.cs.ucl.ac.uk/external/sage-wise/ 
+         - unless they're face-dancers from the filthy Tleilaxu!
+         http://www.spacing-guild.com/
+         - Dune drinking game (if not a contradiction in terms)
+         http://www.geekpride.org/gp99/
+         - haven't updated their front page yet. The geeks. 
+         http://www.techiesday.org/main/index_m.jsp
+         - "[techies] acknowledge their contribution to our world"?
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Normally we don't feature software we haven't actually
+         tried, but since TOTALLY MAD (Windows CD-ROM, US$70) is a
+         7-disc archive of 564 complete back issues of Mad Magazine,
+         we feel we *have* been incrementally testing this product,
+         over the course of the last 46 years. "High-quality images
+         of low-quality humor" are promised, letting you view pages
+         with "startling (and disturbing) clarity".
+         http://new.shoptlc.com/product.asp?OID=4140851
+                - "totally mad" = world's most depressing search term
+ 
+         And, sounding like it should be a parody, but isn't: Ayn
+         Rand meets Sim City is the theme of yet-to-be-completed
+         ATLAS SHRUGGED INTERACTIVE - a bold attempt to adapt the
+         famed libertarian tract into videogame form. The inventor's
+         got the rights already; he just needs a few programmers,
+         artists, actors, actresses to help finish the project.
+         Obviously this will be via the rational expression of their
+         individual "will to power" - not the ever-present spectre
+         of encroaching collectivism!
+         http://www.colemancreative.com/atlas/news.html
+                           - excitingly, looks just like "Robotron X"
+
+                                                                     
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         David "Angel" Boreanaz as new BATMAN... asking JEEVES: "are
+         you gay?"... "FLIP ME!", as they say in ITV-edited movies:
+         http://www.wonderfullywacky.com/talkingspatula.htm ...
+         STARSHIP TROOPERS - the TV series... http://www.shush.com vs
+         www.shhh.com.org ... "some DIVINE INSIGHTS achieved":
+         http://ourworld.compuserve.com/homepages/cypselus/CVWeb.html
+         (what, only "some"?)... nah, nah, CASSINI - missed us!:
+         http://www.ozemail.com.au/~loomberah/Cassini.htm ... AMAZON
+         PURCHASE CIRCLE for Ireland features handy how-to's: "The
+         Unified Modeling Language User Guide" (no 10), "Design
+         Patterns: Elements of Reusable Object-Oriented Software" (no
+         7) and - no 1 with a bullet - "The Committee: Political
+         Assassination in Northern Ireland"... SUPERBUGS spreading
+         into wider population... "Over here, son - on me head!":
+         http://www.geocities.com/Colosseum/Base/2751/draw.htm ...
+         STREETMAP of the future http://visualroute.datametrics.com/ ...
+
+
+                               >> GEEK MEDIA << 
+                                 get out less 
+
+         TV>> attention observational comedians: JERRY SEINFELD LIVE 
+         ON BROADWAY (12am, Fri, BBC2) has "retired" all his old 
+         material - why can't you?... catch Michel Gondry's 
+         consummate camera trickery with Bjork, Massive Attack and 
+         "Lucas With The Lid Off" in MIRRORBALL (1.40am, Fri, C4) - 
+         but not that new Chemical Brothers one (or indeed "Music 
+         Sounds Better With You"), which he made afterwards... and 
+         some spurious anniversary seems to be the excuse for *yet 
+         another* WORLD WAR TWO WEEK on C4 (from 7pm, Sat), plus the 
+         BBC's backslapping celebration of themselves for employing 
+         a DJ who knows a bit about music: JOHN PEEL NIGHT (from 
+         6.20pm, Sun, BBC2)... Bank Holiday Monday perks up with two 
+         hacking movies: the still-matchless WARGAMES (11.10am, Mon, 
+         BBC1), and the franchise-killing SUPERMAN III (1.35pm, Mon, 
+         BBC1)... BBC2 devotes a day to what it loosely describes as 
+         "the weather" - including meteors, killer viruses, and THE 
+         DAY THE EARTH CAUGHT FIRE (2.05pm, Mon, BBC2)... and C5 
+         *must* be taking the piss with an entire afternoon themed 
+         around THE OSMONDS (from 1pm, Mon)... no, the idea of 
+         animated celebs having their problems solved doesn't sound 
+         at all like US import "Ask Dr Katz", right down to 
+         unconscious title-homage "All Aboard The *Cat* Bus" - just 
+         one idea that wasn't funny enough to get its own series, 
+         currently languishing in THE COMEDY LAB (11pm, Tue-Thu, 
+         C4)... and surely when the "real world" docu-soap clips are 
+         called REALITY BITES (12am, Tue-Thu, C4) in the Ben Stiller 
+         film of the same name, it's *supposed to be ironic*. Oh, 
+         never mind... 
+
+         FILM>> yes, we've already said more than enough about SOUTH 
+         PARK: BIGGER, LONGER AND UNCUT (imdb: sequel / devil / war 
+         / visions-of-hell / vulgarity) - see VCD section for 
+         technical review. Perhaps *too* big/ long etc, but when 
+         you're dealing with history's rudest musical ever, that 
+         kind of seems like nitpicking... plus, it's an unashamedly 
+         original alternative to Eddie Murphy's epic convict comedy 
+         LIFE (http://www.capalert.com/capreports/ : "Booze, 
+         cussing, more cussing, some brutality, and bloody murder by 
+         police. That's the first 56 minutes, anyway. And a couple 
+         [of] homosexual suggestions. That's about all I can say 
+         about the movie.")... or indeed Drew Barrymore's nerd 
+         makeover Wedding Singer re-tread NEVER BEEN KISSED 
+         (http://www.capalert.com/capreports/ : vulgar maneuvers; 
+         adult female in teen boys' locker room ; inhuman cruelty 
+         toward a "misfit" girl; posterior exposure - about 40% of 
+         each cheek)...
+         
+         FERROUS PARTICLES' DAY OFF - TECHNICAL REMARKS ON CURRENT
+         VCD WAREZ, OBTAINED "FOR RESEARCH PURPOSES ONLY">> as
+         suspected by legions of downloaders, those big patches of
+         colour in SOUTH PARK: BIGGER, LONGER AND UNCUT compress very
+         nicely; our version had added advantage of Oriental- looking
+         subtitles that you can attempt to cross-reference with the
+         regularly repeated expletives... constant camera- movement
+         in THE BLAIR WITCH PROJECT doesn't fare quite so well,
+         though no motion-sickness was reported, so that's one
+         advantage over the big screen... upcoming neo-Porky's comedy
+         AMERICAN PIE was slightly disappointing: proper aspect ratio
+         and no subtitles, but fuzzy picture, and muffled sound
+         distorting on louder scenes... pick of this bunch: a
+         subtitled EYES WIDE SHUT (1587M over 3CDs) - contrast way
+         better than some VCDs, sound near-perfect apart from barely
+         perceptible hum in (frequent) quiet, contemplative scenes.
+         Appears to be digitally censored US cinema print, comes in
+         professional-looking shrinkwrap with Chinese (?) text on it
+         plus catchy tag-line "After learning of his wife's
+         flirtatious behaviour, Dr William Harford goes on an odyssey
+         of his own"... in an (intended?) nod to the alpha-male of
+         gorilla tribes, the guy at the market called pressing-plant
+         output (like the Eyes Wide Shut copy) "silverbacks" to
+         differentiate from home-recorded CDROMS... conclusion:
+         certainly more reliable than pirate VHSs ("It's your
+         tracking, mate"), not too pricey to buy (usually UKP10 or 2
+         for UKP15) if you'd rather not pay for download times, and pay
+         no more than UKP35 for a PlayStation adaptor card:
+         http://www.surfers.demon.co.uk/stock.html
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+           "given Internet Magazine 'some stick' in their time"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

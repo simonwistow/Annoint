@@ -1,0 +1,339 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-02-14_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "The City Alert Texting System (Cats) will warn people where 
+         [terrorist] attacks are taking place and pass on information 
+         about what to do to people caught in an incident..."
+                                  http://news.bbc.co.uk/1/2757017.stm
+                        ...CATS: U HAVE NO CHANCE 2 SURVIV MK YR TIME
+
+
+                                >> HARD NEWS <<
+                               scooby dooby doos
+
+         In the eve of conflict, right before we're all drafted to
+         write shoot-'em-ups for our cool new military empire, all is
+         quiet. Too quiet, we say. Where are the voices we've come 
+         to depend on to pierce through the silence with their handy
+         suggestions of how this war should *really* be run? More
+         precisely: just where are JON KATZ and ERIC RAYMOND when
+         their country needs them? Rent-a-blather JonKatz appears to
+         have vanished from Slashdot some time last July (when he
+         uttered, pointedly, that even H.L. Mencken "wouldn't be able
+         to find work these days"). And while black-belt warlord ESR
+         is reputedly working on his Art of Unix book, his old site
+         at tuxedo.org has been transformed, in abstentia, into a
+         disrespectful flickbook of redirects to peacenik backsliders
+         like the Free Software Foundation and www.ethics.org. Could
+         it be too much to hope that ESR and Jon Katz might have been
+         the first casualties of war? Apparently so. From an
+         undisclosed location, an all-too-lively Raymond reports that
+         these Apache Weapons Of Mass Redirection are not his work,
+         are undetectable from his home machine, and therefore, North
+         Korean-fashion, DO NOT EXIST. Meanwhile, the reclusive JK
+         has, it seems, abandoned geek politics and indeed humanity,
+         having now tracked down a silent minority who don't talk
+         back when he's trying to speak for them. Yes, Anonymous
+         Cowards the world over will be relieved to know that JK now
+         writes exclusively about dogs. And so those words of
+         prophecy come home to haunt us all: "Human sacrifice, dogs
+         - and Katz - living together, mass hysteria!"
+         http://www.workingdogweb.com/Katz.htm
+                                             - the center cannot hold
+         http://www.catb.org/~esr/
+                         - esr hides out in his cathedral of solitude
+         http://www.tuxedo.org/
+                                      - even RedirectPermanent is not
+
+         Of course, marching round London is all very well, but what if 
+         you really want to hit the military-industrial-entertainment 
+         complex where it hurts? One ingenious - yet anonymous - NTK 
+         reader may have an answer, in the form of a breathtakingly 
+         realistic video cover he's created, pioneeringly depicting US 
+         President George W Bush as a fish-out-of-water idiot who just 
+         happens to find himself running the world's least accountable
+         superpower. What's more, the 1614k jpg is exactly the right size 
+         for responsibly-minded individuals to print it out in glossy 
+         inkjet colour, slide it into an empty DVD sleeve, and leave it 
+         in a prominent position in their local video library/ rental 
+         superstore, where, our correspondent hopes, "it should confuse 
+         and delight in equal measure". The section you leave it in - 
+         Comedy? Action? True Crime? - is entirely up to you.
+         http://www.ntk.net/2003/02/14/duhhhhv2.jpg
+                   - yes, we think we know who might be behind it too
+
+         Another sign we're hitting the end game - or the end of one
+         game, at least. DAVID BRABEN finally dropped the other shoe,
+         and obliged Christian Pinder to withdraw his meticulous
+         re-engineering of Elite, The New Kind - and all derivatives
+         (PocketPC, SGI, Linux, Windows, Palm, whatever) thereof. 
+         Naturally, 1980s videogame re-enactment societies the
+         world over were bereft. But amongst open brawling of the
+         warez hawks and copyright-appeasers of alt.fan.elite, only
+         Pinder emerges as a ruefully clear voice of sanity. Yes, he
+         did devote n+1 months of his life to reverse-engineering
+         Elite and implementing it in C. Yes, it is a shame that
+         Braben has now required him to withdraw TNK from
+         circulation. But no, the brave young coder doesn't have
+         much of a legal leg to stand on, so he's not bitter.
+         Besides, he's now working on a legacy-unencumbered Elite
+         sequel with Ian Bell, fittingly titled "Darkness Falls".
+         It's due out in March 2003 - if you can wait that long.
+         http://frontiernews.alioth.net/
+                                  - ooh, so that's what he looks like
+         http://www.darkkind.com/
+                          - or perhaps Elite IV will beat them to it?
+         http://www.frontier.co.uk/press/release/darxide-emplaunch.html
+     - Darxide versus Dark Kind. There's balance to the force for you
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         EVENING STANDARD will be paying congestion charge "when hell 
+         freezes over": http://www.ntk.net/2003/02/14/dohcc.gif ... OCR 
+         ahoy: http://www.google.com/search?q=%22ancient+and+modem%22 
+         ... no need for formality - it's just "Jess" to my friends: 
+         http://www.google.com/search?q=%22jess+christ%22 ... CAROLINA 
+         couples "rush to exchange vowels" (for what? consonants?): 
+         http://rdu.news14.com/content/headlines/?ArID=22574 ... 
+         tobacco ad irresponsibly advises spending UKP 416.00, saving 
+         UKP417.20: http://www.mapman.co.uk/shopping/cigarettes.htm ... 
+         unfortunate company names: http://www.geocities.com/condormob/ 
+         ... hey, romance isn't dead (unlike most of the characters in 
+         the film): http://www.ntk.net/2003/02/14/dohmoi.gif ... MS 
+         recommend typing with one hand, while "training your staff" 
+         with the other: http://www.ntk.net/2003/02/14/dohhand.gif ... 
+ 
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Yes, you've already missed the "Early Bird" discount for next 
+         week's UK UNIX USER GROUP WINTER CONFERENCE (from 9.30am, Tue 
+         2003-02-18, Institute of Physics, London W1, from UKP85 to 
+         members of UKUUG or a recognised national Unix user group), 
+         featuring Lindsay "Risks Digest" Marshall, a talk on "UK Law 
+         And The System Administrator" (would-be BOFHs, please note!), 
+         and hopefully some NTK t-shirts here and there. But if you (or 
+         your company) have got that sort of money to throw around, why 
+         not follow it up with a transatlantic trip to 2003's "premier 
+         event for P2P, Cypherpunk, and network/security application 
+         developers", CODECON 2.0 (from 12noon, Sat 2003-02-22, Club 
+         NV, San Francisco, US$95 - or just US$80 if you pre-register 
+         by the end of tomorrow, Sat 2003-02-15). It could be the only 
+         place you're going to see the "AmIHotOrNot" guys and Dan 
+         Kaminsky's Paketto Keiretsu on the same bill all year.
+         http://www.ukuug.org/events/winter2003/
+            - a slightly less rowdy event than the big summer blowout
+         http://codecon.info/
+              - vs http://www.ntk.net/index.cgi?b=02002-11-22&l=139#l
+         http://www.dorkbot.org/dorkbotlondon/
+                            - Dorkbot London back next Wed 2003-02-19
+http://www.indiemagazine.co.uk/cgi-bin/news.cgi?id=1121&section=1
+                        - next Fri: megastore mayhem for Miyamoto-san 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Now that the Tivo UK is dead, what are you going to do with
+         all that free time? Well, how about wasting it to build your
+         own PVR out of a sub-100UKP video capture card, a 500Mhz
+         Linux box and one of many open source digital recorder
+         projects filling the (carefully orchestrated) timetables of
+         idealistic young TV obsessives these days? Neither MYTHTV
+         nor FREEVO are ready for rolling out onto your grandparents'
+         settop boxen (unless your nan knows how to install MySql, or
+         hand-edit dodgy XML and Python config files). Both suffer
+         slightly from that post-Enlightenment open source
+         development strategy of coding until you hit a cool enough
+         screenshot, then moving on. But when you can get them to
+         work, they *do* work. And there is something enticing about
+         seeing live TV pause and rewind on your root window; seeing
+         the week's TV guide construct itself from thin air, Ananova,
+         and perl scripts; watching on-the-fly anti-aliased text fade
+         majestically over your digitally recorded programmes; and
+         controlling it all using your remote and serial-port IR
+         adaptor. TV just looks better when you're processing it at 
+         home.
+         http://freevo.sourceforge.net/screenshots.html
+                                     -  in TV land, it's all about...
+         http://www.mythtv.org/#features
+                                                - ... the screenshots
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         BUSH encourages hunt for "space aliens", in secret hope that 
+         they could be developing weapons of mass destruction as well: 
+        http://www.cbsnews.com/stories/2003/02/03/tech/main539116.shtml
+         ... 404 humour: http://www.coxar.pwp.blueyonder.co.uk/ vs 
+         http://www.panix.com/~hncl/HectorsJournal/archives/000109.html 
+         ... QVC channels must get more viewers than you'd thought: 
+         http://groups.msn.com/TimGoodwinFanclub/ ... DoCoMo 3G service 
+         FOMA: http://foma.nttdocomo.co.jp/english/fun/ imitates the 
+         "lies", "harmless untruths" of Vonnegut's "Cat's Cradle": 
+         http://www.cs.uni.edu/%7Ewallingf/personal/bokonon.html#words 
+         ... don't go breaking any more laws than absolutely necessary: 
+         http://www.ksrevenue.org/perstaxtypesdrug.htm ... humour in 
+         robots.txt: http://pigdog.org/robots.txt ... new "evirob" 
+         KUBRICK is "another standard" "the essence of weird life", 
+         "will make you too ill": http://www.evirob.org/ (needs Flash, 
+         sorry)... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Anglo-Caribbean tracing-your-roots docu MOTHERLAND - 
+         A GENETIC JOURNEY (9pm, Fri, BBC2) provides an interesting 
+         counterpoint to Mark Dacascos "Predator"-knockoff DNA (9pm, 
+         Fri, C5)... surveillance week sees ever-topical Will Smith 
+         CCTV thriller ENEMY OF THE STATE (9pm, Mon, C5) triumph over 
+         irritatingly whimsical Carrey vehicle THE TRUMAN SHOW (9.50pm, 
+         Sat, BBC1)... and it's unclear whether host Rhona Cameron will 
+         herself be eligible for any of THE LUVVIES - THE AWARDS THE 
+         STARS DON'T WANT (9.30pm, Sat, ITV)... Hugh Grant's romantic 
+         comedy persona seems ill-suited to "Coma"-style medical drama 
+         EXTREME MEASURES (9.30pm, Sat, C4)... a bunch of non X-Men 
+         mutants take on Matt "Max Headroom" Frewer in Marvel's made-
+         for-TV GENERATION X (1.25am, Sat, C5)... and it's Kirsten 
+         Dunst and Allison "The West Wing" Janney - together at last! - 
+         in grossout redneck beauty pageant spoof DROP DEAD GORGEOUS 
+         (10.55pm, Sun, BBC1)... an NTK reader reports that he has 
+         "started a weblog" http://www.24weblog.com/ for fans of the 
+         frankly time-consuming 24 (10pm, Sun, BBC2), while contributor 
+         Yoz Grahame hopes viewers in the London area may see an NTK 
+         shirt displayed on his monitor during BBC LONDON NEWS (6.30pm, 
+         Mon, BBC1)... you've a "95% chance of surviving" a crash if 
+         your plane doesn't go and catch fire for some reason, reports 
+         science and schadenfreude 3-parter AIRCRASH (9pm, Mon, C4)... 
+         Christopher Lambert fails to perform the expected fatality on 
+         largely successful videogame franchise MORTAL KOMBAT (12.25am, 
+         Tue, ITV)... and Rich "Otis Lee Crenshaw" Hall is the guest on 
+         inverted "Room 101" chatshow GOD ALMIGHTY (10.50pm, Tue, C5) 
+         ... there's a reassuring double-bill of THE UK'S WORST PET 
+         SHOP? (8pm, Wed, BBC1) with environmental health investigation 
+         THE FOOD POLICE (8.30pm, Wed, BBC1)... TROUBLE AT THE TOP 
+         (9.50pm, Thu, BBC2) revisits the well-trodden tale of the "New 
+         Coke" disaster http://www.snopes.com/cokelore/newcoke.asp ... 
+         not that they're spin-conscious or anything, but there was a 
+         film crew covering the "Cherigate" events, reveals THE CONMAN, 
+         HIS LOVER AND THE PRIME MINISTER'S WIFE (9pm, Thu, BBC1)... as 
+         Famke "Deep Rising" Janssen and Ali "Final Destination" Larter 
+         again find themselves battling B-movie monsters on an initially 
+         social visit to THE HOUSE ON HAUNTED HILL (10pm, Thu, C5)... 
+         
+         FILM>> considerably darker, more comic-like, and nuttier than 
+         "Spider-Man" - and introducing Frank Miller as "Man with pen 
+         in head" - comes the perfunctorily competent adaptation of 
+         DAREDEVIL ( http://www.screenit.com/movies/2003/daredevil.html :
+         [Jennifer "Alias" Garner] shows varying amounts of cleavage; 
+         Bullseye loudly belches; Bullseye wildly swerves through 
+         traffic on his motorcycle and then stands on top of it as it 
+         goes down the road)... "Deuce Bigalow" man-pimp Eddie Griffin 
+         plays blaxploitation "Citizen Smith" hero UNDERCOVER BROTHER 
+         ( http://www.capalert.com/capreports/undercoverbrother.htm : 
+         "Jesus Christ was a Black man"; strip fighting between 
+         [Aunjanue Ellis and Denise Richards] with three men watching 
+         for enjoyment; excessive cleavage throughout)... we might not 
+         be seeing many more non-CGI animated features from Disney, 
+         after the "curse of pirate movies" handicapped TREASURE PLANET 
+         ( http://www.screenit.com/movies/2002/treasure_planet.html : 
+         [David Hyde Pierce] repeatedly sings, "Go Delbert, Go Delbert, 
+         Go Delbert" while doing a little dance - kids might imitate 
+         that by inserting their own name into the chant)... set in a 
+         post-apocalyptic Liverpool - how can they tell? - there's an 
+         unsurprisingly limited release for Alex "Repo Man" Cox's 
+         Jacobean overacting-fest curio A REVENGER'S TRAGEDY (imdb: 
+         Christopher Eccleston, Eddie Izzard, Derek Jacobi and Sophie 
+         Dahl- together at last!)... while spotting the top character 
+         actresses playing suicidal lesbians ought to while away THE 
+         HOURS ( http://www.capalert.com/capreports/hours_the.htm : 
+         lifetime homosexual relationship; Virginia Woolf is portrayed 
+         as being both severely depressed and lesbian; death viewed as 
+         a release or escape, an ending rather than a beginning)... 
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> first up, apologies to all of you who were so 
+         distressed by our faltering attempts at an FAQ earlier this 
+         year. "When I was a lad, we didn't have any pansy crib-sheets 
+         to NTK, no York Notes - we had to read the damn thing, and 
+         decipher it ourselves", reminisced TOM ANDERSON; "This was the 
+         most boring NTK ever. Not knowing what the fuck you're on 
+         about is half (I lie: ALL) the fun!", agreed KARL DALLAS. And 
+         "Stop with your sentimental self-aggrandizing", commanded 
+         ADRIAN WARD, with just the lone voice of PAUL BLEZARD piping 
+         up "PS: Grateful for all the useful explanations in this 
+         week's edition". Once again, apologies (and especially to you, 
+         Paul) - it won't happen again... further controversy raged as 
+         JOSH ROULSTON pleaded "Stop it with the Google mis-spellings - 
+         they're rubbish", though ALEC BOWMAN describes them as "the 
+         best fun [he's] had for ages". The deciding vote - for now - 
+         goes to FIPR's crypto guru (and co-author of Locoscript for 
+         the Amstrad PCW) RICHARD CLAYTON, who gave the feature his 
+         critical imprimatur with the statistical analysis that 
+         http://www.google.com/search?q=cyrptographic is, at the moment, 
+         by far the most popular misspelling of the word. Richard 
+         went on to observe that, in a subtle variation on the "missing 
+         millions" gag, the BBC seem to have added an extra 0 to the 
+         number of CDs needed by AOL for data retention requirements 
+         http://www.ntk.net/index.cgi?b=02003-01-31 , as you can see by 
+         searching http://www.apig.org.uk/ispa_oral_evidence.htm for 
+         "36"... virtually all our other errors so far this year seem 
+         largely due to NTK's oh-so-parochial Britishness: DAVID THIEL 
+         was the first of many to claim that Americans, with their 
+         endearing literalism, "routinely refer" to stick insects as 
+         "walking sticks": http://www.ntk.net/2003/01/17/dohwalk.gif ; 
+         KATE MCDONNELL revealed "many Euro languages" use "biological" 
+         the same way we use "organic", hence our misunderstanding 
+         over: http://www.geocities.com/hotelannelies/ha2e.html - see 
+         also http://www.google.com/search?q=%22biological+cooking%22 ; 
+         SHARON DAVIDSON protested it was "Vancouver, Washington state" 
+         in http://www.prisonplanet.com/news_alert_011303_general.html 
+         - not Vancouver in Canada; and - finally - "Can I be the first 
+         to say that [NTK 2003-01-03] spelled Wehrmacht incorrectly?", 
+         inquired WILLIAM WILES, before signing off with the intriguing 
+         detail that he is "Chief sub-editor" of "Housing Today"... 
+         
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                  "reliable?"
+     http://media.guardian.co.uk/mediaguardian/story/0,7558,892214,00.html
+      
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+

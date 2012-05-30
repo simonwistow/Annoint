@@ -1,0 +1,264 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-12-03_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+          "Protecting e-risk is best seen in terms of the medieval
+          period because you require a range of defences, moats,
+          ramparts, portcullises, watch towers and alarms, guard dogs
+          and blood hounds. Similarly you need a bespoke security
+          architecture that can continually adapt to the rising
+          threat of hackers." 
+                           - our old friend, D.K.MATAI,  "Mi2j" (sic)
+                    http://www.zdnet.co.uk/news/1999/47/ns-11888.html 
+              ...illiterate priests to scare the serfs also available
+
+
+                                >> HARD NEWS <<
+                                   how wude!
+
+         It'd be tempting to demand - a la the Department of
+         Justice's rumoured plans for Microsoft - that BT be split
+         into completely separate companies, but frankly, they're
+         acting schizoid enough as it is. Good BT: The pricing for
+         ADSL finally came through, and it's ohhh-kay. 150UKP connect
+         fee, with a monthly cover of 30UKP charged to ISPs (boiling
+         down to around 50UKP a month when you include ISP add-ons).
+         Bad, *bad*, BT: Sir Iain Vallance, at a Brighton conference
+         for telco managers, said that ADSL wasn't ready for the
+         mainstream. Hell, he said the *Internet* wasn't ready for
+         the mainstream: "in its infancy, and not yet fit for
+         purpose", he said, adding that he felt like a "lollipop man
+         restraining over-exuberant children." "The computing world has a very
+         long way to go to match the standards of reliability and
+         ease of access of broadcasting and fixed telecommunications
+         worlds." Well, Iain, if you'd actually let them get on with it
+         rather than standing in the middle of the road like an
+         idiot, maybe we'd all get there a bit quicker.
+         http://www.zdnet.co.uk/news/1999/47/ns-11831.html
+            - cribbing from ZDNet? What is *wrong* with us this week?
+         http://www.anchordesk.co.uk/anchordesk/
+                                     - arrgh! arrgh! aaaaarrrggrgggh!
+
+         It's the quiet period... too quiet, it seems for those folk
+         at agency.com still waiting for their new stocks to vest. So
+         instead they amused themselves last week by staring at a
+         Excel spreadsheet, accidentally e-mailed to all, containing
+         the salary details of their fellow employees at the Web
+         shop^H^H^H^Had agency^H^H^H^Hstrategist hive-mind.  @NY has
+         the overdue diligence for those of you looking for Crimbo
+         pay review ammunition:
+ http://www.siliconalleydaily.com/issues/sar12011999.html#Headline2304
+ - apparently sender ran around trying to delete it from every machine
+ 
+         NSI - AN APOLOGY. In last week's NTK, we apologised for an
+         article which have suggested that NSI's modification to the
+         whois registry (to show registrars, not actual, useful,
+         contact addresses) might break existing whois utilities. NSI
+         protested that it wasn't their fault, and they were
+         maintaining an old-style system at
+         whois.networksolutions.com, which any sensible sysadmin could
+         easily switch to. On the day of the switchover, NSI's own
+         Web registration system broke. They were pointing to the
+         wrong server. NTK would like to apologise for the apology.
+         Sorry. 
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         NINFOMANIA fall for the old "fuck-you, fuck-me" joke ... how
+         lazy can you get? http://www.lazysoft.com/news.htm ...
+         HAMSTER DANCE heading for Christmas number one ... FREE PC -
+         FALCO! ... Microsoft SMS - FALCO! ... 27.7 million Americans
+         try Internet, decide "it's not for them" ... CHANNEL 5 gives
+         away computer with "64k of RAM" during Internet Night ...
+         GRAHAM NORTON fakes now so obvious, they're funny again ...
+         Samurai swordsman breaks into religious congregration and -
+         wait. Is this Snowcrash? ... CHANNEL 5 states "the 404 page
+         was invented in 1900 by Berners Lee" during Internet Night
+         ... MELANIE PHILLIPS claims in Sunday Times that "the latest
+         [video] games feature rape, torture and mass killing" -
+         rape? Is this the Quake groin gesture? ... great 3DFX
+         discounts at: http://www.outpost.com/entry?sku=A52003 ...
+         Take advantage of the low Canadian dollar at:
+         http://www.company57.com/exchange.html ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Representing, no doubt, the 4 "bases" of human DNA (adenine,
+         cytosine, thiamine, and, er, riboflavin) Brit would-be
+         ribofunkers MICHAEL "SPARES" MARSHALL SMITH, SIMON
+         "HEADLONG" INGS, JIM "HABITUS" FLINT, and HARI "WHO?" KUNZRU
+         will be intermingling their genetic material at the Biotech
+         Lounge, Lux Centre, London N1 from 8pm on Mon 1999-12-06 -
+         presumably to create one "super-author" who'll produce some
+         decent books for a change. In an ideal world, their
+         "enhanced" offspring would go on to be judged by JOHN DE
+         LANCIE (Q from ST: TNG) when he puts humanity on trial at
+         the signing of his new book, at 12noon that same Monday at
+         London's Forbidden Planet, New Oxford St.
+         http://www.lux.org.uk/
+                                         - Hari Kunzru vs Hari Seldon
+
+         Of course, those RTMark guys would *claim* to be appearing
+         at a discussion at the ICA tomorrow from 1300GMT to 1600GMT
+         to talk about the etoy.com controversy, and their attempted
+         GATT coup-de-cappuchino in The Battle For Seattle this week.
+         But you know how slippery these media pranksters can be. Whose
+         to say we haven't been compromised too? Other speakers
+         faking their so-called presence will be Kate Glazer, Heath
+         Bunting, Rachel Baker, James Stevens, George W. Bush and
+         someone who says he's from UNIT (the United Nations
+         Intelligence Taskforce in "Dr Who"). Entrance fee: 1.50UKP.
+         Ask vaguely for the thinktank/mindpool talk: it's part of
+         the Crash exhibition - confirmed to be not based on the
+         Primitives song of the same name.
+         http://www.ica.org.uk/education/thinktank/ 
+                                ...like we haven't compromised enough
+         
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         We *quite* like Backflip, in that "Website that does
+         something that we'd prefer to have a desktop app to do" way.
+         It lets you upload your bookmarks to a server, which'll
+         index them regularly, so you can search your own selection
+         of Webpages. We *quite* like Dialpad, a Windows-only
+         voice-over-IP system that lets you call any number in the US
+         for free (it's okay if you don't try using it during peak
+         hours). And we *quite* like e-tunnels, a MP3/ICQ/FTPish
+         system for people too lame to run their own servers. But
+         we'd wait until the first fifty-or-so "massive security
+         hole/privacy violations ahoy/new open source program does it
+         better" news stories before we'll use any of them, ta.
+         http://www.backflip.com/
+                                    - URLs here so you can go "cool!"
+         http://www.dialpad.com/
+         - then in six weeks look witheringly at the twentieth person
+         http://www.etunnels.com/
+                             - to show them to you. Unless that's us.
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         can't put "reebok" or US swearwords on your nike iD's
+         (www.nike.com) - will allow "slag" and "dontdoit" ...
+         http://abcnews.go.com/wire/US/reuters19991129_3333.html vs.
+         http://abcnews.go.com/wire/US/reuters19991119_2343.html ...
+         what is this earth emotion you call "filled with chocolaty
+         goodness"? http://www.emotioneric.com/ ... goldie capslocks:
+         http://www.macworld.co.uk/hot_reviews/nov99hr/kingofkey.cfm
+         ... Americanocentric RSAC ratings forbids "pasties" on
+         topless dancers ... lest we forget:
+         http://www.e-sheep.com/almostguy/30g.html ... let's hope
+         they're not counting the names of God:
+         http://stats.distributed.net/rc5-64/tmsummary.php3?team=237
+         ... tips for getting to Mars: never, ever, take the piss:
+ http://137.78.99.33/msss/mardi_hardware/releases/98_launch_release/edl4.gif
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+
+         TV>> hopefully, semi-reverential pomp rock tribute QUEEN FOR
+         A NIGHT (Sat, from 21:00, C4) will cover the peculiar
+         coincidence of Freddie Mercury dying at the same time as the
+         UK release of Nightmare On Elm Street VI, resulting in
+         cinemas across the country displaying celebratory "Freddie's
+         Dead" posters (and who would have won that epic "Battle of
+         the Dead Freddies", we wonder?)... C5 wheels out the
+         original pilot movie of KNIGHT RIDER (Sun, 17:40pm, C5),
+         which should at least clarify the bizarre "man who does not
+         exist" voiceover at the start of each episode... and tedious
+         anti-Japanese Michael Crichtoner RISING SUN (Sun, 22:00, C4)
+         features Sean Connery as future saviour of humanity "John
+         Connor"... Sue Lawley's CRIME SQUAD (Mon, 19:30, BBC1)
+         continues inventing threats where none exist, in a seasonal
+         round-up that includes bogus perfume street traders and "the
+         trade in stolen Christmas trees" (believed to be worth
+         billions every year, funding thousands of shed-based "chop
+         shop" operations)... 1970s sub-Edge Of Darkness nuke
+         eco-thriller DOOMWATCH (Tue, 21:00, C5) is revived on C5,
+         now featuring Amanda Ooms, last seen changing into a
+         werewolf in ITV's "Wilderness"...  TOTP2 (Wed, 18:00, BBC2)
+         devotes 45 minutes to Shania Twain's two UK hits to date...
+         while female RoboCop romp THE DEMOLITIONIST (Wed, 22:15, C5)
+         stars Nicole Eggert, formerly of "Baywatch" and "Charles In
+         Charge"...
+
+         FILM>> a rather more literal follow-up to "The Lawnmower
+         Man", David Lynch's hypnotically dull return-to-form OAP
+         weepie THE STRAIGHT STORY (imdb: road) apparently gets its
+         name because the mower the old guy is taking across America
+         has a massive turning circle, meaning he has to drive it in
+         a near-straight line through trailerparks, henhouses etc...
+         further smalltown wackiness in pseudo-gay Steve "Reality
+         Bites" Zahn, Jeremy "The Net" Northam stereotypical designer
+         indie mistaken identity caper HAPPY TEXAS (imdb: comedy) -
+         might be an improvement on the current glut of unremarkably
+         worthy mother/ daughter movies, all of which seem to star
+         Susan Sarandon... and finally, experts cite "2.4 Children"
+         and "Allo Allo" among the sitcoms people would rather see
+         made into movies than Rik Mayall/ Ade Edmondson's shamefully
+         anachronistic "Bottom" and, in that arena alone, dire
+         slapstick Fawlty Towers knock-off GUEST HOUSE PARADISO
+         (BBFC: Theme: Comedy, hotel; Language: Occasional strong,
+         some coarse; Sex: Frequent, moderate reference; Violence:
+         Frequent, comic) fails to disappoint. Suffice to say, it's
+         not the unofficial sequel to "Cinema Paradiso" that
+         international audiences had been hoping for...
+
+         TESTING POSITIVE FOR "ASTEROIDS">> last Saturday's RETRO
+         GAMES event http://users.powernet.co.uk/wibble/odyssey.htm
+         lived up to its almost medieval reputation, choosing a
+         location - Cranfield Agricultural College, in the heart of
+         rural Bedfordshire - no more than 20 or 30 muddy fields from
+         the nearest rail station.  Nonetheless, there was a fair
+         turnout of (clearly) dedicated individuals, mainly mourning
+         the recent loss of both Spectrum tape-mag OUTLET and
+         excellent Sinclair hacking zine THE ZX FILES, whose
+         publisher has, in a search for even more obscurely rarified
+         enjoyment, has moved into the still-thriving field of gaming
+         on the Z88: http://www.menaxus.demon.co.uk/z88/z88home.htm
+         ... still going strong: both RETROGAMER
+         http://retrogamer.merseyworld.com/ and pioneeringly
+         foul-mouthed Speccy/demo/porn scene zine CRASHED
+         http://website.lineone.net/~alchemistresearch/sinclair/news.htm
+         , which (we think) was responsible for the scoop that the
+         upcoming (unofficial) Spectrum conversion of TOMB RAIDER in
+         fact consists of screengrabs from the PlayStation version
+         presented in a "create your own graphic adventure"
+         package... it's all looking promising for next year's
+         "enthusiast only" get-together BRITMEET 2000
+         http://www.gyruss.demon.co.uk/ccnuk/britmeet98/ - to be
+         held, you've guessed it, somewhere in Bedfordshire...
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     Registered at the Post Office as "dashing young North London blades"
+  http://www.the-times.co.uk/news/pages/tim/99/11/29/timintint01013.html?999
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

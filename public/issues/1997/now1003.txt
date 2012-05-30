@@ -1,0 +1,296 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____03/10/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at: 
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o   www.spesh.com/cgi-bin/now
+
+
+          "It will be available within two weeks, or maybe sooner
+           than that..."
+            - Microsoft's Andrew Dixon, on a patch for new Excel bug
+          He'd be more precise, but the spreadsheet says -3.33 years
+
+
+                               >> HARD NEWS <<
+                               storms in brews
+
+         Once again taking their first name a little too seriously,
+         WORLDCOM this week swatted BRITISH TELECOM out of the way
+         and made a bid for MCI, the US long-distance telco that BT
+         craved so greatly earlier this year. If it succeeds,
+         WORLDCOM, who own UUNET-Pipex, the old Compuserve backbone,
+         and your mother, would then control around 60% of US
+         Internet traffic and be "a new world player in the telco
+         industry", according to our dictionary of unimaginative
+         tech-biz journo cliches. Similarly, BT were described by
+         all as "tight-lipped" and "shaken" by the move. Well, they
+         could have been stifling giggles of relief - despite all
+         the effort, the combined MCI/BT "Concert" was looking an
+         increasingly tough gig to pull off. Meanwhile, Worldcom's
+         CEO Bernard Ebbers told the excellent COMPUTERGRAM: "After
+         we have got a deal finished with MCI, we might acquire BT."
+         Hahaha ha ... hello? HELLO?
+         http://www.wcom.com/  - live from Bernard's underwater base
+         http://www.world.com/
+                   - Jesus : how much is *this* guy holding out for?
+
+         MICROSOFT INTERNET EXPLORER 4.0 was launched on Tuesday. By
+         Wednesday, it had almost finished loading. Reviews were
+         mixed, yet universally scared: impartial observer Marc
+         Andreessen described it on CNN as "a 60MB hairball" (as
+         opposed to those 30MB Netscape snowflakes, we guess).
+         Still, it wasn't a complete rout - and Microsoft's early
+         beta back in July may well have set the seeds for future
+         troubles: journalists were seen running from the launch to
+         test months-old security flaws they'd discovered then and
+         kept quiet about. Not us, mind. We joined the crowd
+         crashing it right there at the launch. Hey, you want beta-
+         testers, you pay us in T-shirts, okay?
+         http://www.yoz.com/ie40/
+         - includes not-so-dynamic HTML, inActiveX pages...
+         http://www.microsoft.com/ie40/
+         - see the all-new scaleable Windows NT 'Server Busy' errors
+
+         Amiga Inc designed the AMIGA - and was bought out by
+         Commodore. Commodore marketed the Amiga - and went bust.
+         Escom purchased the rights to the Amiga - then filed for
+         bankruptcy. GATEWAY 2000 purchased the Amiga from Escom,
+         and has just revealed plans to release the new AmigaOS 4.0
+         series within the next year, with an interim 3.5 release
+         before that. Promised goodies included extended graphics
+         card compatibility, and possibly a new machine with USB and
+         other goodies. Oh, and Gateway announced an expected
+         company loss for the third quarter of 1997, and this week,
+         as news of the Amiga return spread, sacked 500 workers,
+         with rumours of another 500 to go shortly. Gateway blame
+         inventory problems for their fall from grace, but, come on,
+         join the dots, guys - the Amiga's image test file is the
+         DEATHMASK OF TUTANKHAMUN, for God's sake! DUMP THE
+         CONTRACT. BURN THE MANUALS. SOW SALT IN THE SOIL OF THE
+         CURSED R&D'S CAMPUS BUILDING - WHILE YOU STILL CAN. Oh, and
+         there might be an embedded AmigaOS for industrial
+         applications, such as Web TV.
+         http://www.gw2k.com    it's called "going down the blitter"
+         http://www.nfinity.com/~amicom/auohsep97.html
+                   - Amiga announcement made to audience of over 20!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         INTERFACE section in THE TIMES describes "contraptions that
+         look like Captain Kirk's chair on the bridge of the USS
+         Enterprise" in arcade review... psychological profiling
+         actually next to useless... Government seems to be
+         distancing itself from Taskforce 2000... more column inches
+         written about Di than all of WWII... Moore's Law to fail
+         "perhaps as soon as 2017"... many stories in THE TIMES'
+         INTERFACE now adhere to template "X looks set to be
+         revolutionised by new product Y", followed by quote from
+         manufacturer... "We're still here", claim OLIVETTI... Sega
+         Saturn version of WIPEOUT 2097 lacks hip techno
+         soundtrack... CJD *is* somehow linked to BSE, after all!...
+         60% of businesses "overcharged by Web design agencies"
+         reports - A WEB DESIGN AGENCY... INTERFACE section (in THE
+         TIMES) recommends URLs www.thenametocome.com and
+         www.anothername.coming (sic)...
+
+
+                              >> EVENT QUEUE <<
+                           thy buffer overfloweth
+
+         The more tedious of the Nobel prizes are announced next
+         week, which can only mean - it's Ig Nobel time again.
+         Treats to be savoured at the awards ceremony (where Ig
+         Nobels are bestowed upon those whose achievements "cannot
+         or should not be reproduced") include an operatic version
+         of the Big Bang, "Il Kaboom Grosso" (featuring live
+         Laureates as sub-atomic particles), and the auction of
+         plaster casts of scientist/supermodel Symmetra's left foot.
+         Naturally, there's a live Webcast of the event, which
+         starts at 00.30 GMT, Thursday evening. You won't be able to
+         tell what's going on, but for once in a Webcast, this is
+         deliberate.
+         http://www.improb.com
+                            - check out the AIRhead 2000 project too
+         http://www.netwalk.com/~popev/paperair/ask1.htm
+                                            - the beautiful Symmetra
+
+         Well, we missed the actual start of the MC ESCHER
+         exhibition but, frankly, with his stuff, *who's gonna
+         know*? The show devoted to every Quake player's favourite
+         engraver continues at The Croydon Clocktower till 04/01/98,
+         complete with walk-through "giant models", "tessellations",
+         "moebius bands", and "optical paradoxes". Plans to link the
+         show with a Bach recital in Romford and a Godel
+         retrospective in Harrow (thus completing London's "Orbital
+         Golden Braid") are as yet unconfirmed.
+         http://www.croydon.gov.uk/cr-exhib.htm
+                                    - MC Hammer: Can't touch this...
+         http://www.donsplace.com/gallery/gallery.htm
+                                   - MC Escher: Can't *draw* this...
+
+         Music usually goes under NTK's "media" heading, but the
+         release of a new NEGATIVLAND album is invariably something
+         of an event as well, particularly for those in the legal
+          profession. This time the copyright-flaunting media junkies
+         (still reeling from that hilarious U2 lawsuit) have had
+         some decent professional advice, and aren't even spelling
+         the new album's name in full (pssst - it's DISPEPSI).
+         There's 13 tracks of "original music, songs, and collaged
+         advertising", creating "an unusually large serving of
+         carbonated controversy". Somewhat disappointingly, Pepsi
+         are reported to be "amused" by the whole business
+         and have "no plans to sue".
+         http://www.negativland.com/
+                    - for god's sake, no-one show them the Tango ads
+         http://www.addict.com/issues/3.09/html/lofi/Cover_Story/
+                  - hey Casey, what does "diddley shit" mean anyway?
+
+
+                                >> TRACKING <<
+                                clots of bots
+
+         Up until now, PC users could talk behind Mac users' backs
+         using ICQ, the original "Is my mate online? Oh no, he is,
+         better pretend to be out" buddy monitor and chat system. No
+         longer - Macintosh users now have a beta to pester their
+         "friends" with. And there's even a very rough-and-ready
+         Java version, so even the most anti-social and insolent
+         UNIX system administrator in your office can be forced to
+         join in. Now, if only they'd implement a brawl function.
+         http://www.mirabilis.com
+                           - platform will speak peace unto platform
+
+         Informal surveys show our readers to be mostly senior
+         executives in established firms, controlling an annual IT
+         budget of, on average, 6 million UKP, manage 100-200 staff
+         and plan to buy any product that they see advertised in NTK
+         ever. Or that's what you always write on those little
+         reader survey cards. What we know for sure is that you
+         *love* exploitative Star Wars merchandise. The demo of Dark
+         Forces II : Jedi Knight, LucasArt's Quake-a-like is now
+         out. 20Megabytes. Get one of your staff onto it.
+         http://www.lucasarts.com/static/jk/default.htm
+         - a million ftp servers cried out and were suddenly silenced
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         in the new Spice Girls video, are they *saving* the world
+         from a dystopian future dictatorship, or *actively
+         perpetuating it*?... recalled NINTENDO 64 power supplies
+         "may pose a safety risk" - not quite the "jolt pack" we
+         were expecting... USS Hopper... www.turnleft.com/apple/ ...
+         search for +"ball lightning" +"microwave oven"... Mariah
+         Carey video "could be" analogy for her escape from former
+         husband/Sony music boss Tommy Mottola... www.xybernaut.com
+         ... AIIEEEE!! pop artist ROY LICHTENSTEIN - DEAD!... hack
+         the Hewlett-Packard MOPy-fish: points stored in first two
+         bytes of brain.dat, little-endian format: set it to 0x0C,
+         0x80 for aphrodisiac... The Pope books Bob Dylan?... spam
+         pretending to be from wired.com... 3D Dilbert...
+
+
+                               >> MO' MEDIA <<
+           why don't you turn in and do something less interesting?
+
+         TV>> FRIENDS (9pm, Fri, C4) returns to form with more
+         Smelly Cat songs and Sherilyn "Twin Peaks" Fenn guesting as
+         an amputee - contrast with the consistently brilliant
+         romantic goofs from FRASIER (10pm, Fri, C4)... in a
+         surprising break with tradition, manga movie PATLABOR
+         (12mid, Fri, BBC2) features futuristic police, a nightmare
+         cyber-Tokyo, and *large robots*... tragically, only
+         Meridian and Anglia viewers may enjoy the new prime-time
+         series of CYBER CAFE (12.30pm, Sat, ITV regions only)...
+         CLIVE BARKER'S A-Z OF HORROR (11pm,Sat, BBC2) skips A-F
+         pretty quickly to get to serial killer Ed Gein, who partly
+         inspired (and presumably would have hugely enjoyed) the
+         movies Texas Chainsaw Massacre, Silence Of The Lambs, and
+         PSYCHO (11.55pm, Sat, BBC2)... apparently there's a fan
+         club entirely dedicated to Chris Reeve's otherwise
+         unremarkable time-travel romance, SOMEWHERE IN TIME
+         (3.40pm, Sun, BBC1)... startling doubts are cast on the so-
+         called "official" version of events in Oliver Stone's
+         interminable JFK (9pm, Sun, C5)... HERE AND NOW (7.30pm,
+         Mon, BBC1) tests the Church of England's new marriage
+         compatibility software; EQUINOX (9pm, Mon, C4) asks "What's
+         in a number?" (featuring a "scientific poet"!)... don't
+         expect any startling insights if you go delving into
+         MYSTERIES WITH CAROL VORDERMAN (8pm, Tue, BBC1), while
+         David Duchovny materialises on THE LARRY SANDERS SHOW
+         (11.40pm, Tue, BBC2)... the appallingly titled ANIMAL
+         PEOPLE (7pm, Wed, BBC1) has actually been really good so
+         far, and this week features Californian mountain lion
+         attacks and an "incredible moustache"... the new TOMORROW'S
+         WORLD (7.30pm, Wed, BBC1) takes some getting used to, but,
+         promisingly, plans to examine "the hype surrounding digital
+         TV"... HORIZON (9.25pm, Thu, BBC2) advises sending killer
+         viruses after antibiotic-resistant bacteria (is that
+         wise?)... FEAR OF A BLACK HAT (12.15am, Thu, C4) isn't
+         really "a rap Spinal Tap", but does have characters called
+         "Tone Def", "Ice Cold" and "Tasty Taste"...
+
+         MOVIES>> Disappointingly only released at "selected
+         cinemas", FIRST STRIKE (Motion Picture Association of
+         America rated: PG-13 - "for plentiful action/violence") is
+         exactly what you'd expect from Jackie Chan (alternative
+         titles: Police Story 4, Piece Of Cake, Story Of The CIA, or
+         Jing Cha Gu Shi IV: Jian Dan Ren Wu). Still, it's a
+         livelier James Bond spoof than, say, Austin Powers... Tommy
+         Lee Jones and Anne Heche (aka Mrs Ellen DeGeneres) battle
+         that hot LA lava in VOLCANO (MPAA: PG-13 - "for intense
+         depiction of urban disaster and related injuries"). An
+         improvement on Dante's Peak, but then again, so's being
+         burned alive... drowning's too good for Harvey Keitel and
+         Cameron Diaz in their Norwegian comedy thriller remake HEAD
+         ABOVE WATER (MPAA: R - "for language, nudity, violence, and
+         another hopeless performance by a former model" - yeah, I'm
+         making them up again, did you guess?)
+
+         COMPO>> Spot BILL GATES - win a prize! Okay, we admit, it's
+         not the competition we were planning (more on that, ahem,
+         next week) but Bill *is* in the country next week, and to
+         celebrate, we've arranged a contest that could earn you UKP
+         UKP UKP. Mr Gates is visiting Tony Blair at Downing Street
+         on Monday, then travelling up to speak at St John's
+         College, Cambridge on Tuesday afternoon. If you can furnish
+         photographic proof that you saw the Redmond giant during
+         this period, and are first to send it to us, we'll furnish
+         *you* with ten whole pounds and just some of the many
+         rubbish CDs that we get sent by fool PR agencies who think
+         we review music. Yes. Be impressed. Contestants who use
+         digerazzi-style rudeness will be summarily disqualified -
+         but there *is* an extra fiver in it for anyone who
+         *politely* asks him "I heard from a friend that you
+         promised to release the source to your original 4K
+         Microsoft Basic - are you?". You may not know what that's
+         about, but we do. And we want that code.
+
+
+                              >> SMALL PRINT <<
+       Need To Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "ditherated".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                  Archive - http://www.spesh.com/cgi-bin/now
+                      Excuses - http://www.spesh.com/ntk
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+         NTK is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Non-biz copying ok, but retain SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 
+
+

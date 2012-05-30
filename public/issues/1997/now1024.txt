@@ -1,0 +1,331 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____24/10/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                             "There is no fine; nobody pays a fine."
+           BILL GATES, on the threatened $1million-a-day DofJ charge
+         - this explains Seattle's mysterious "empty library" syndrome
+
+
+                               >> HARD NEWS <<
+                              singing the blues
+
+         It's the scandal they're already calling "Gatesgate" (and
+         if they're not, they should be): Janet Reno and her US
+         Department of Justice claimed that MICROSOFT put pressure
+         on COMPAQ and others to preinstall Internet Explorer on
+         their machines - and threatened to stop their Win95 license
+         if they didn't. (Forcing anyone to use Win3.1 is now
+         recognised as "cruel and unusual punishment" in many US
+         states.) Microsoft counter-claims that Explorer is actually
+         an integral part of the operating system, as anyone who's
+         tried to uninstall IE will confirm. Gates seems unconcerned
+         - to a lavish degree - with the prospect of a $1M per day
+         fine, but Microsoft are preparing for a real fight. For
+         starters, they've updated their mail filters: every time
+         something like this happens, reports the San Jose Mercury,
+         the company is besieged with "teasing, dire and merciless"
+         e-mails. "Have they taunted me? Yes. Of course," said one
+         nameless employee. "And I guess I've responded at their
+         level." That nameless employee could well have been Steve
+         Ballmer, Vice President of Marketing, who was heard yelling
+         "to heck with Janet Reno!" to anyone who'd listen. Expect
+         he'll include that in the deposition.
+         http://www.sjmercury.com/business/microsoft/react102297.htm
+                                - keep thinking "vesting party" guys
+         http://www.usdoj.gov/atr/cases3/micros2/1237.htm
+                - also available as a Wordperfect file - nice touch!
+
+         Pulling out all the special moves, and only just in time:
+         NINTENDO have dropped the price of the N64 by 50 quid to
+         UKP99 (as predicted in NTK 12/9/97, and effective from
+         today) - and if that's not incitement enough, they even
+         plan to bring out some games for it. Before the cut, the
+         PlayStation was said to be outselling the N64 by about 5:1,
+         sending a clear message to Nintendo management: make your
+         console more like the Sony - or else. So they've also
+         slashed the software to around UKP50 a throw, and - genre
+         fans will be pleased to hear - are also rushing out a load
+         of indistinguishable beat-'em-ups and racing games. SONY
+         maintain that they won't be copying the N64 price-point,
+         and that their new "Xmas package" (PlayStation + 2
+         controllers + memory card) will stay at UKP129. But don't
+         underestimate the power of a sub-100-quid console: last
+         time Nintendo pulled a stunt like this, they got loads of
+         free publicity - from all the "I just bought one and could
+         have saved a packet" complaints on Watchdog.
+         http://www.delaney.demon.co.uk/PSX/
+                   - PlayStation titles: around 300. N64: around 30?
+         http://www.geocities.com/WallStreet/4240/Beatles-Parodies.html
+              - but with customer loyalty like this, who's counting?
+         http://www.nintendo.com/product/n64/64dd.html
+         http://www.users.rapid.net.uk/ja88/V64PAGE.htm
+                  - see, N64 disk drives: JUST LIKE THE PLAYSTATION!
+
+         When COOL SITE OF THE DAY failed to announce an IPO in
+         1995, most people assumed it would go to the wall or,
+         worse, be bought out by AOL for $6million, then go to the
+         wall. But no - Glenn Davis' replacements are still trotting
+         out that eclectic pick of hard-to-download, impossible to
+         read, "ground-breaking" pages, and somebody, somewhere is
+         still reading them, nodding sagely and maybe even taking
+         notice of their COOL SITE OF THE YEAR AWARDS. By all
+         accounts a more muted affair than previously, this year's
+         prime sources of "Coolium" (their word) were declared on
+         Wednesday to be THE ONION, THE FRAY, SALON and BEZERK, with
+         REALVIDEO reaping the Cool Innovation title. GLASSDOG, THE
+         BIG GUN PROJECT, and WATER also won, but we haven't *quite*
+         got around to evaluating those sites yet, because we surf
+         with images off. BEZERK's YOU DON'T KNOW JACK WEBSHOW won
+         the overall Coolest Site - which just goes to prove that,
+         sooner or later, CD-ROMs were going to come back into
+         fashion.
+         http://cool.infi.net/  whatever happened to Mirsky's Worst?
+         http://www.fray.com/  disgruntled ex-employees of Wired Inc
+         http://www.bezerk.com/     we're still under NDA about this
+         http://www.salonmagazine.com/         quite good these days
+         http://www.theonion.com/               funny. We hate them.
+         http://www.glassdog.com/ "ground-breaking"/incomprehensible
+         http://www.kia.net/maggy/  Web diary _ GREAT FUCKING IDEA!!
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         Internet "failed less" this quarter, study says... HATE
+         SITES on the Web double in the past year, report seethes...
+         www.hmv.co.uk "does not allow you to buy records"...
+         MOTOROLA study shows 66% of parents believe it's
+         *computers* that are making their kids anti-social and
+         lazy... PRINCE CHARLES advocates alternative remedies,
+         ignores new evidence that they have "no effect"...
+         bookshop.co.uk sales up 90% - still makes loss... STOCK
+         MARKET "steered by greed", uncovers author... Internet
+         "popular in Japan"... BOND COVERS album "largely
+         terrible"... SEGA and MICROSOFT alliance: developers now
+         fist-fighting... Airline Pilots With Drunk Driving
+         Convictions Are More Likely To Have Accidents, find
+         scientists... prince.com case dropped... IBM offers
+         employees a "voluntary separation program"... Indian
+         Minister sprays 44,000 Goa citizens with DELTAMETHRIN,
+         claims heard about treatment "on the Net"...
+
+
+                              >> EVENT QUEUE <<
+                                  busy ports
+
+         When it comes to general practitioners of modern prose, the
+         doctors are *in*. Former Doctor Who TOM BAKER (also known
+         to radio listeners as the voice of Lionel Nimrod) winds
+         down his "Who On Earth Is Tom Baker?" signings tomorrow
+         (25/10/97) at Books Etc in Croydon and "Hammicks" in
+         Redhill, then concludes Monday at the Guilford Literary
+         Festival, University Of Surrey. As if regenerated into non-
+         fiction form, NTK contributor Matt Bacon will be at
+         London's Forbidden Planet on Sat to sign his coffee table
+         expose of the JIM HENSON CREATURE SHOP (as plugged in
+         current issue of The Face, along with a good bit of JC
+         Herz's upcoming Joystick Nation). And sewing up the whole
+         operation, would-be surgeon MARK LEYNER is, of course, "the
+         most intense, and, in a certain sense, the most significant
+         young prose writer in America." He's traversed the whole US
+         plugging his new novel, The Tetherballs Of Bougainville,
+         and seems to have abandoned his tour diary after just a
+         week. Yet there's more drama in those 7 days than most so-
+         called "novelist's" lifetimes.
+         http://www.dcs.ex.ac.uk/~dma/ProfX/
+                      - ask Tom which was his favourite "professor"_
+         www.nanothinc.com/Nanothinc/NanoPeople_Frames/npinfo/MattBacon.html
+                         - that's *Mr* Bacon to you nanotech weenies
+         http://www.spesh.com/leyner/
+         - "execute my father, get high, and have sex with the warden"
+
+         Hey! Ya Basta! Every desktop revolutionary's favourite
+         post-modern guerrillas, the Ejercito Zapatista de
+         Liberacion Nacional have a representative in town. Rosario
+         Ibarra de piedra is a well known spokesperson for the
+         Mexican Zapatistas, a presidential candidate and human
+         rights activist. She'll be speaking - at short notice -
+         today (Friday 24/10/97), 7pm GMT, at PRAXIS, Pott Street,
+         London.
+         www.eco.utexas.edu/Homepages/faculty/Cleaver/zapsincyber.html
+             - For those of you that get NTK at 9pm : it was *great*
+         http://www.streetmap.co.uk    you'll be wanting a map, then
+
+
+                                >> TRACKING <<
+                            upgrade your attitude
+
+         The Quake II demo is out. As ever, it gives only the barest
+         nuts-and-bolts glimmer of the glory that is to come. As
+         ever, the Quake team are changing the final design based on
+         people's comments on the test file. Before you say it, yes,
+         the gun's going to be moved. And the deaths will be longer
+         and noisier. THIS is what beta testing should be about.
+         http://www.gamesdomain.com/demos/demo/q2_test.html
+                               - drown out those bleating Riven fans
+
+         We do try out this stuff, you know. Well, almost always. We
+         can't give you a review of the new beta of EUDORA 4.0,
+         because the idea of handing our mail over to fresh software
+         gives us the heebie-jeebies (maybe it's that whole IE 4.0
+         beta disaster still creeping us out). However, if you
+         desperately need a usable IMAP client, or a better HTML
+         parser for your e-mail, or really want to spend time
+         learning a brand new interface re-think, by all means let
+         us know what happens. By phone, preferably.
+         http://www.eudora.com     a new look for mail conservatives
+
+         No interesting new software releases for Macs (everyone's
+         busy with Rhapsody and printing out their CVs right now),
+         but, hey, don't despair. Why not spend your time designing
+         a MacOS8 button? Come on, it's what you Mac users are
+         supposed to be *good* at.
+         http://www.larisoftware.com/lovemacos8/buttons.html
+                   - only bitter because we didn't spot this earlier
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         www.browse.net/techfelch/ ... STAR WARS Micro Fax(TM)
+         books... Soldier of Fortune (new A-Team clone) features
+         character based on CARMACK/ROMERO... www.3gcs.com/tron/ ...
+         Viacom to VIRGIN INTERACTIVE: the clock is ticking...
+         www.crocodile-clips.com/education/... there's now more data
+         traffic between SWEDEN and the US than voice... "Better to
+         keep BOROMIR alive, use him in later scenes"... average
+         life of Web page is 75 days... okay, now what happened to
+         ANDREW FLUEGELMAN?... MAX CLIFFORD moves into phonecards,
+         telcos... www.mrmedia.com/ .... superprogrammers... JOHN
+         DENVER was born in Roswell, New Mexico, 1943 - 
+         "experimental aircraft", hmm?... companies with millennium
+         bug IN THEIR NAMES: 2000AD, 20th Century Fox, Grecian
+         2000... "The Prion Series 5"... what the hell is ABRASH
+         doing working on the Word grammar checker?... new threat to
+         self-images of young women: RENDERBABES
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> satire is officially dead, as RORY BREMNER (10.30pm,
+         Fri, C4) returns with new material comparing Blair and
+         Hague to Beavis and Butthead, plus another series of the
+         same jokes every week in the (presumably rhetorical) HAVE I
+         GOT NEWS FOR YOU (10pm, Fri, BBC2)... this week's movie
+         title to try to slip unnoticed into office conversation is
+         Jackie Chan actioner THE YOUNG MASTER (12.45am, Fri, C4) -
+         as in "I notice sir is dining with the *young masters*
+         again tonight"... a lifetime of making superior trash like
+         HALLOWEEN (11.15pm, Sat, BBC2) seems to have sucked the
+         very life-force from director John Carpenter, one of
+         several loose pages in CLIVE BARKER'S A-Z OF HORROR
+         (10.30pm, Sat, BBC2)... it normally takes three hours to
+         watch THE GODFATHER (11.45pm, Sat, ITV), but now they're
+         showing it exactly when the clocks go back, so you can see
+         the whole thing in two!... a topical outing for crusading
+         journo classic ALL THE PRESIDENT'S MEN (11.25pm, Sun,
+         BBC1), preceded by an OMNIBUS docu about how they brought
+         down the Clinton, sorry, Nixon administration... so, can
+         laconic US comic Rich Hall save JACK DEE'S SUNDAY SERVICE
+         (10pm, Sun, ITV) from resembling an extended beer ad?...
+         pretty ladies are the only reasons to watch either "erotic
+         comedy" SIRENS (10pm, Sun, C4) or Brooke Shields' "sit-com"
+         SUDDENLY SUSAN (11.45pm, Sun, C4)... increased sun-spots
+         could interfere with electronics, weather systems etc, but
+         even they couldn't cause an interesting edition of EQUINOX
+         (9pm, Mon, C4)... shocked Unijet director discovers that
+         his holidays are terrible, in weirdly named In-At-The-Deep-
+         End-for-bosses series, BACK TO THE FLOOR (Tue, 9.50pm,
+         BBC2)... HOCUS POCUS (8pm, Wed, ITV) is as cursedly evil as
+         only a Disney version of The Witches Of Eastwick could be,
+         but fortunately the "alien oil" returns to lubricate the
+         clunky plots of THE X FILES (10pm, Wed, BBC1), in the two-
+         part "Tungusksa"...
+
+         MOVIES>> remarkably, we chose not to choose A LIFE LESS
+         ORDINARY (imdb: romance / comedy) - those Trainspotting
+         guys make a kidnapping-gone-wrong caper that's typically
+         off-beat, quirky etc, though not particularly funny. It's
+         even got angels in it, for heaven's sake... instead,
+         there's THE PEACEMAKER (imdb: thriller), with George "ER"
+         Clooney and Nicole "Batman Forever" Kidman battling an
+         attempt by Spielberg's new Dreamworks studio to make a
+         nuclear-sized bomb out of its effective, but unoriginal,
+         first feature. Still, plenty of explosions, and should
+         hopefully popularise the phrase "Take the shot!" as a
+         trendy alternative to "Go for it!" or "Carpe diem!"...
+
+         FEEBDACK >> RE: CASSINI - Lee <lee@wetware.demon.co.uk>
+         ponders "waitaminute, dangerous nuclear probe, satellites,
+         end of 1999 - why isn't Wim Wenders suing NASA over
+         copyright infringement?" A video/merchandising tie-in?...
+         RE: SURVIVAL RESEARCH LABORATORIES - Ben Moor
+         <aai11@dial.pipex.com> complains "Austria couldn't have
+         thought Serbia was invading, as they don't have a common
+         border" - well, just shows how scary SRL must be, then...
+         RE: FORMULA ONE '97 - Adrian Moulder <amould@hotmail.com>
+         asks "If they don't get the rights, will the game now just
+         be called '97?"... RE: STEPHEN FRY - James Coates
+         <shag@delic.org> writes: "*I* designed the Oscar Wilde
+         site, and we *have* got a CGI that produces witty epigrams
+         - in audio, too! And can I plug www.heaven.affection.net/
+         again?"... not now James, we're busy - and anyway, we meant
+         a CGI that produced *new* witty epigrams based on an
+         analysis of Oscar's existing work. Get to it...
+
+
+                             >>CHRISTMAS CHWIZ<<
+                                 ho ho hacks
+
+         Our seasonal foray into Other People's Websites continues.
+         Joy Jones <joy@corbeau.demon.co.uk> correctly identified
+         last week's URL (we'd tell you what it was, but then we'd
+         have to kill you). She wins a copy of Modified Chillas, the
+         new Neil Gaiman graphic novel, a stuffed, squeaking Fin Fin
+         and, naturally, an invite to our far-better-than-Cool-Site-
+         Of-The-Year .NOT Award Ceremony. This week, we are using
+         the limerick form, as perfected by Edward Lear and Frank
+         Carson.
+
+                    There once was a site with an URL
+                    whose first, an pejorative, is hurled
+                    at a genre begotten
+                    by the vicious and rotten
+                    but now heard all "round the world"
+
+         Remember, the site takes the form www.xxxx.com/now.html.
+         And, just to prove that people *are* sending in URLs, we
+         got this one last week. Thanks ...err, whoever. Full
+         details of the competition remain at
+         http://www.ntk.net/compo/ until the authorities catch on.
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+     It is registered at the Post Office as "read by government spooks".
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

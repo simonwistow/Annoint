@@ -1,0 +1,323 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-10-01_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "The *short*, perfectly creased suits running Nintendo were
+         always after the biggest action in the home console market.
+         It started with the Nintendo Entertainment System (NES) in
+         1985, five years later replaced it with the SNES and five
+         years after that with the Saturn (sic)." [our emphasis]
+               - TIM WAPSHOTT offers unprejudiced analysis of where
+                   Nintendo went wrong, Times Interface, 1999-09-29
+    ..."hey, these Oriental games companies all look the same to me"...
+
+
+                                >> HARD NEWS <<
+                                offers refused
+
+         Some feared the ancient tradition of expressing protest by
+         changing your website's background colour had been lost
+         forever, but not GREY DAY ( http://www.greyday.org ). Sadly,
+         their strategy of protecting online copyrights by making the
+         web more lynx-friendly didn't anticipate the registering of
+         similar (or more conventionally US spelled) domains - the
+         rather better-argued GRAY DAY ( http://www.grayday.org ),
+         for instance. The linked pages are equally self-defeating:
+         "Web Prestige" provides many appallingly designed logos
+         denouncing "bandwidth robbery" - the heinous sin of linking
+         to a graphic on someone else's server - plus an equal number
+         of exasperated complaints that *someone* has been linking to
+         these logos directly, ironically committing bandwidth
+         robbery in the course of ostensibly opposing it. And "Look,
+         But Don't Steal!" imaginatively selects, as an example of an
+         artist who shouldn't be copied, modified or spread online,
+         who else but... William Shakespeare! - a writer whose work
+         is a) indisputably in the public domain, and b) not exactly
+         noted for its strong anti-plagiarism stance.
+         http://www.widowsweb.com/widows/plea.html
+              - and here's the HTML you shouldn't use to link to them!
+         http://www.cometosilver.com/please.html
+                    - where's the biro drawings of PSI Judge Anderson?
+         http://www.angelfire.com/ma/duneguy/carol.html
+                                         - hey, it's no "Dune Guy Day"
+         http://www.ntk.net/grey.html
+                                - in case you missed our contribution
+
+         Is the Bastard Operator From Hell, patron saint of the Scary
+         Devil Monastery and all wrong-thinking technical folk,
+         really dead? Otherwise sour-faced IT staff have been
+         blubbing uncontrollably the past few weeks regarding the
+         whereabouts of the BOFH, whose regular column in Network
+         Week ended abruptly with the disappearence of the Web site,
+         the magazine, and indeed the Bastard himself (last seen
+         heading towards a liftshaft worryingly called
+         "Reichenbach"). Nobody, though, can be more upset than mag
+         magnates VNU, who had recently bought the Network Week
+         property from competitors CMP - chiefly, some say, so that
+         they could get hold of the rights to BOFH for their own
+         luser mags. Of course that was before CMP UK casually
+         informed them (after the deal was signed) that the BOFH's
+         author had kept hold of his copyright - and what's more,
+         refused to do any deals with the new owners, despite 300%
+         wage rises and a brand new set of Luser Attitude
+         Readjustment Tools. Now, committing suicide just to spite
+         management is *exactly* how the BOFH would have wanted to
+         go, but fear not: with the BOFH's own BOFH still owning the
+         rights, there's always the chance that he could return on
+         the Web. And how could Simon possibly decline the chance for
+         a Y2K comeback?
+         http://www.tetrion.com/~chameleo/bofh/
+                             - this archive wasn't important, was it?
+
+         Okay, so it's easy to knock TIMES INTERFACE, but surely we
+         can't have been the only ones who read their piece this week
+         that claimed, almost in passing, that Israel's WEIZMANN
+         INSTITUTE have built a "hand-held" quantum computing cracker
+         that can break RSA-512 in less than a second. Woah. Let's
+         just take a second to let that sink in. According to the
+         Times' unquotable sources, that means strong crypto is a
+         solved problem. Of course we're sceptical: sounds like the
+         spooks have, in their excitement, heard about Shamir's
+         TWINKLE prototype, got their photons tangled, and think
+         they've found the holy grail: a quantum computing solution
+         for *all* bit sizes. Perhaps the question is
+         not, how the hell did this happen, but why are the spooks
+         spreading this story now? Maybe they don't realise that the
+         protection against TWINKLE is to just up the bit size a
+         little bit?
+http://www.sunday-times.co.uk/news/pages/tim/99/09/29/timintint02001.html?999
+- most important IT story of the decade? Let's run it on the inside cover
+         http://www.newscientist.com/ns/19991002/quantumcon.html
+    - let's hope they're working as hard on quantum cryptography, eh?
+         http://www.stand.org.uk/ 
+                            - just when we were getting somewhere too
+      
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         "Jesux hoax uncovered" boasts ZIFF-DAVIS, the only people to
+         fall for it ... NICK ROSEN claims in GUARDIAN "everyone will
+         be important for fifteen minutes" (your fifteen minutes were
+         up a long time ago, Nick) ... boo.com gets hit with e-mail
+         virus: so at least stuff's getting *into* their systems ...
+         MARS CLIMATE OBSERVER error costs NASA 125 million dollars -
+         or is it pounds? ... DID - falco! ... I just wanted a beer -
+         http://www.ntk.net/doh/991001pub.gif not a gay beer, a jazz
+         beer, a soul beer, a real ale or, indeed, an afternoon
+         tipple with the charwoman ... BBC make dog's dinner out of
+         http://www.ntk.net/doh/991001woof.jpg ... new DEMON AUP bans
+         all "scanning software" - except their own
+         http://www.helpdesk.demon.net/aup/access.html ... RAZORFISH
+         sites using old NT version: bye-bye www.dome2000.co.uk,
+         www.oddbinns.co.uk, www.bae.co.uk ... no "comedy"
+         nominations at http://www.bafta.org/bafta/5_ie/5_NOMINEES.htm 
+         IN ACCORDANCE WITH NTK PROPHECY ...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Not much "National Techies Day" action in this country,
+         unless you count an appearance by WILLIAM "GIBBO" GIBSON at
+         London's Forbidden Planet (New Oxford St, 5.30pm, Mon
+         1999-10-04 - we think), signing his new book (wahey) "All
+         Tomorrow's Parties", apparently a sequel to "Virtual Light"
+         (oh well). The slow-talking Canadian cyber-prophet is also
+         booked for the Cheltenham Festival of Literature at 2pm, Sat
+         1999-10-09, Everyman Theatre, Regent St, b/o 01242 227979 -
+         along with the UK's very own "Case", Bill Thompson.
+         http://www.cheltenhamfestivals.co.uk/literature/
+                     - now Cheltenham: that's a real cyberpunk town...
+ 
+         Oddly, it's been a while since we've featured any of the
+         ICA's shameful "electronic art" efforts, but SYMPHONY NO.2
+         FOR DOT MATRIX PRINTERS sounds just low-tech enough to be
+         any good (12-6pm, 1999-10-05/07, ICA, London). Devised by -
+         more Canadians! - Thomas McIntosh and Emmanuel Madan, an
+         "orchestra" of a 12 dot matrix printers are "conducted" by a
+         network server through 12 "PCs", via the old trick of
+         different-characters-make-different-tones. Traditionally,
+         this sort of thing usually elicits a comment from us along
+         the lines of "it's 'Yankee Doodle' on the TRS-80 all over
+         again" and we see no reason why it shouldn't this time.
+         http://prixars.orf.at/press/musicwine.htm
+                     - not quite "The Matrix" Bill Gibson had in mind
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Nice to see the camberpunk's Microsoft-sponsored
+         anti-Tempest fonts [see NTK 1998-02-13] getting a commercial
+         airing in Demcom's STEGANOS II SECURITY SUITE. But wait,
+         there's more! The payware privacy pack also includes a
+         secure drive (vanquishable with just one keypress), a
+         password manager, and even a weird VRML file-management
+         system for your more Hollywood-driven paranoid fantasies.
+         Plus, of course, the eponymous steganographical features of
+         the old software - allowing you to invisibly hide data in
+         sound and images files. We still prefer SCRAMDISK (because
+         it's got a similar feature-set, comes with full source and
+         it's free), but, well, maybe you just love RC4 and want to
+         pay the license fees. It's German, so there are no export
+         restrictions on strength. Or there wouldn't be, if the
+         english ordering page didn't insist on sending you to a US
+         site. Hey, Fritz! We British are English too!
+         http://www.demcom.com/english/steganos/index.html
+         - ...although that's admittedly a very American thing to say
+         http://www.ntk.net/index.cgi?back=archive98/now0213.txt&line=54#l
+                                      - not what MS wanted, we recall 
+         http://www.scramdisk.clara.net/
+                 - the author's name must be hidden in here somewhere
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         PHP TLC: http://www.php.net/request.php3 ... right you lot -
+         OUTSIDE! http://www.takeitoffline.com ... let's hope she
+         never does porno: http://home.sol.no/~lexiplut/nwt/ ... just
+         when you've stopped having PICTURE BOX theme tune nightmares
+         http://www.fenton1944.freeserve.co.uk/schools.htm ... Jay &
+         Silent Bob to cameo in SCREAM 3 ... and don't get us started
+         on TETRIS http://www.mrdandy.com/nastyvid2.htm ... PERL and
+         Dean: http://www.brunching.com/toys/toy-adcode.html ...
+         http://www.hit-n-run.com/cgi-bin/binks.cgi ... the
+         alternative computing security paradigm for swingers
+         http://www.waterken.com/BeachSex/ ... so would this be FREE
+         ADSL? http://www.freeserve.net/highspeedtrial/ADSL.htm ...
+         CORGI introduce "Presidential Cars" range with *that* JFK
+         open-topped limo (but what will the others be?) ... and the
+         Oscar for best fake fan site goes to DREAMWORK'S
+         http://www.galaxyquest.com/ ... latest obviously-made-up
+         Dreamcast titles: TYPING OF THE DEAD, and SPACE CHANNEL FIVE
+         http://video.gamespot.co.uk/stories/dc/news/0,8323,2337056,00.html
+         ... guaranteed conversation piece: GONORRHEA boxers:
+         https://secure.pageplanet.com/healthmedia/infect.html ...
+         guess they're used to being accused of being "a bit quiet"
+         http://www.snipercountry.com/SniperCraft_OpenLetter.htm ...
+
+
+                               >> GEEK MEDIA << 
+                  the less rude http://www.ntk.net/tvgohome/
+
+         TV>> another trashy action import joins the C5 roster in the
+         form of movie spinoff LA FEMME NIKITA (10.50pm, Fri, C5) -
+         each week, they recruit a different junkie woman and train
+         her up into a lethal assassin - who then turns against
+         them!... Arnie sends himself up rather too well in
+         misunderstood po-mo Die Hard spoof THE LAST ACTION HERO
+         (9pm, Fri, ITV)... and apart from the long-overdue return
+         of the - now shopless - VIDS (rpt 1.15am, Mon, C4), there's
+         KYTV meets "The League Of Gentlemen" in hypnotically dark
+         genius news parody FOCUS NORTH (12.40am, Fri, C4)...
+         a four-way movie face-off on Sat, with beneath-the-radar
+         Baldwin brother sci-fi MIND BREAKERS (10.55pm, Sat, C5)
+         losing out to superlative '70s pod people remake INVASION OF
+         THE BODY SNATCHERS (11.35pm, Sat, BBC1) - scariest ending
+         *ever*?... but first, Playstation inspiration THE DRIVER
+         (10pm, Sat, C4) goes head-on against simple but effective
+         Arnie shoot-em-up PREDATOR (9.55pm, Sat, ITV) - also "stars"
+         Last Action Hero writer Shane Black, and recently elected
+         Governor of Minnesota Jesse "The Body" Ventura (does the
+         line "goddam sexual tyrannosaur - like me")... speaking of
+         which, Spielberg's dullsville lesbian allegory JURASSIC PARK
+         (6pm, Sun, BBC1) has frankly far less interest - and fewer
+         Star Wars quotes - than pacey Helen Hunt CGI weatherfest
+         TWISTER (8pm, Wed, ITV)... while the BBC get their money's
+         worth out of all those Softimage licences with not just THE
+         MAKING OF WALKING WITH DINOSAURS (8pm, Wed, BBC1), but also
+         of course WALKING WITH DINOSAURS itself (8.30pm, Mon, BBC1)
+         - showing, uncoincidentally, the same night that OMNIBUS
+         profiles proto-punk has-beens Blondie (10.40pm, Mon, BBC1)...
+
+         FILM>> yup, a soppy kiddie plot, but interesting casting -
+         Jon Stewart, a more thuggish than usual Adam Sandler, a Joey
+         Lauren "Chasing Amy" Adams who you don't immediately want to
+         hit - plus enthusiastically misanthropic lines like "There's
+         a bright side to being up before 11 - we can catch McDonalds
+         Breakfast" help save father-son slacker man-comedy BIG DADDY
+         (http://www.capalert.com/capreports/ : repeated public
+         urination; rudeness to the elderly; leaving a five year old
+         boy in the care of two male homosexuals; homosexual patting
+         of genitals; homosexual statues; a general licentious
+         disregard for that which is traditionally proper) -
+         presumably just the first of a Rocky-style trilogy
+         documenting the childhood, rise to fame, then tragic fall of
+         popular UK '70s wrestler, Big Daddy... and, at last! THE
+         FINAL CUT (imdb: drama) is the Brit-made Blair Witch-esque
+         drama- school-improvised cinema-verite luvvie swearing fest
+         the world clearly hasn't been waiting for, directed by the
+         blokes behind laugh-free TV mockumentary "Operation Good
+         Guys" and featuring Jude "Gattaca" Law, Sadie "Shopping"
+         Frost, and Ray "fucking" Winstone (maybe Kathy Burke wasn't
+         available)...
+
+         SHINY ENTERTAINMENT>> not too quick off the mark, but we've
+         been busy counting how many times the first OFFICIAL
+         DREAMCAST MAGAZINE uses the word "Dreamcast", and it comes
+         to: 407 - an impressive average of 3.5 per page. Sources say
+         Sega are currently censoring "gratuitous swearing" (to avoid
+         offending that notoriously prudish 18-30 male demographic)
+         plus any mention of the console's now-mythical online
+         capabilities... the usual crop of curiosities spotted by you
+         on the newsstands: October's ish of INTERNET MAGAZINE
+         advocates registering domains with underscores in their
+         names ("A better version of the domain name would be
+         www.against_mercy_killing.com . You could also register
+         www.against_mercy_killings.com" - p125) - though surely that
+         would be a .org?... the heavily publicised THE NET (with
+         Natalie Umbrella on the front) reports Playstation games on
+         sale online for the bargain price of UKP22 (p46) - from a
+         games store in Ohio (chipping/ NTSC conversion are usually
+         extra)... while the ever-vigilant LLOYD WOOD inquires over
+         the curious usage of "World Exclusive" pioneered by MACUSER
+         on its current G4 cover story, merely weeks after the rest
+         of the world reviewed it... reports indicate the debut of
+         James "DON'T CALL IT 'BIZARRE' - BUT ON THE NET" Wallis' new
+         mag CRAZYNET *will* be at last arriving in stores next Wed
+         (1999-10-06)... but surely the boldest launch of the month
+         must go to the brand new unironically titled AMIGA ACTIVE
+         magazine (UKP4.95 with CDROM), whose press deadline must
+         have just missed the latest batch of "Amiga Now *Officially*
+         Dead" news stories. "The Future Of Computing!" proclaims the
+         cover, in staunch denial of all available evidence, while
+         the editorial goes on to make - perhaps incautious - use of
+         the phrases "shallow publications", "abysmal quality" and -
+         of course - "dwindling market"... talking of incautious,
+         first they go mad slagging off their masters COMPUTER TRADE
+         SHOPPER's masthead [NTK 1998-05-15] - now they're trying to
+         auction all their blagged gear at http://www.concordeuk.com/
+         - sources deny that the "charity" who benefits is their
+         recently removed ex-editor...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+         "what they're surfing in the background behind Anne Robinson"
+                 http://www.bbc.co.uk/webguide/c09231999.shtml
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+               Unsubscribe? Mail ntknow-subscribe@lists.ntk.net
+               Subscribe? Mail ntknow-unsubscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

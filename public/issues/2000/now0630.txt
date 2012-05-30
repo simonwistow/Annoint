@@ -1,0 +1,324 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-06-30_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+        "And as for the 'I've got mine, you don't matter' attitude
+        Kakutani and Borsook describe, I'm finding it particularly
+        hard to reconcile with the new iBook sitting on my
+        desk - the one those hackers in Dearborn gifted me with
+        three days ago, throwing over $1,000 in the hat to do it
+        simply because they liked me and wanted me to be part of
+        their gang."
+                       - ESR on Kakutani's doh-laden NY Times article
+        http://www.salon.com/tech/feature/2000/06/28/kakutani/
+                   ...after five hours, $1000 is cheap to get rid of him
+        ( http://macweek.zdnet.com/2000/06/18/0622mhkeynote.html )
+
+
+                                >> HARD NEWS <<
+                           ataattagagaataaaa loosed
+
+         The HUMAN GENOME PROJECT announced its results on Monday, 
+         and across the world, scientists asked themselves "Can we 
+         play God? What hath we wrought? And where the hell is the
+         data?" The URL given out at the press conference led to a
+         "404 Helix Not Found", and in the days since the
+         announcement, nothing else turned up. Eventually the data slid
+         out late Thursday evening. Pretty disappointing, even when
+         you realise that this is only a beta of an unsorted pile of
+         source code, and they haven't even set up an anonymous CVS
+         server for patches. In the end, eager researchers were left
+         scrabbling around trying to find the final pieces in
+         unofficial archives. Yep: there are, apparently, zero-day
+         genomez sites.
+         http://www.ornl.gov/hgmis/     
+- delay due to cleaning up comments, removing proprietary Krebs cycle info
+         ftp://ncbi.nlm.nih.gov/refseq/H_sapiens/Contigs/
+                                         - a README, but no Makefile?
+
+         Ingenious of the TATE to make one of its first Web
+         commissions an *ingenious* "remix" of its own Flash-laden
+         site by "Harwood" of the Mongrel collective.  Much more
+         entertaining - and with more hits - is Nick Crowe's
+         unofficial www.tategallery.org.uk ("we're blowing the Dome
+         out of the water!!!"). Or his Turner Prize site (
+         http://www.turnerprize.org.uk - send your nominations to
+         Iwanttoshortlistsomeonefor2001@turnerprize.org.uk ), or any
+         of the twenty or so modern galleries, artists and
+         institutions he's registered so far. Nick says he'll give
+         the domains back to their similar-sounding owners in a
+         couple of months once the performance is fin. We're looking
+         forward to Nick's next work, which will apparently have
+         titles like "THE EMAIL FROM THE JOURNALIST AT THE NEW
+         STATESMEN TO THE WOMAN AT THE SERPENTINE ASKING IF SMOKING
+         IS PERMITTED ON THE PATIO".
+         http://www.tate.org.uk/webart/mongrel/home/default.htm
+                                                     - v. daring
+         http://www.tategallery.org.uk/
+                             - more accessible than the official site
+         http://www.nettime.org/nettime.w3archive/200006/msg00179.html
+- "do you hope this helps to find you a dealer?" asks Matthew Fuller, bitterly
+         http://www.pc.maricopa.edu/departments/art/fuller.html
+                                                             - hehehe
+
+         Our deadhead E-ENVOY finally responded to the hundreds of
+         complaints about RIP sent to his office, by talking to a
+         bunch of Americans about it. He said that some Britons were
+         worried that RIP allowed "snooping on all e-mail traffic",
+         and added the reality was "very different".  He also got the
+         name of the bill wrong, which may mean he's in a different
+         reality himself. Some clues to this parallel universe: the
+         same week, he told MPs that there was no reverse burden of
+         proof in the Bill. Which is odd, because days later Lord
+         Bassam gave an amendment which removed the nonexistent
+         reverse burden. There's still a lot of bugs in the bill,
+         very few of which are being sorted out by the government,
+         and most of which are being fixed by those "needlessly
+         concerned" peers. A thankless task, especially with MP
+         Andrew Miller's assertion in the other place that "the
+         people who oppose this Bill are playing right into the hands
+         of the most evil criminals on the planet". Good to know
+         we're not dupes of Skeletor. 
+         http://www.e-envoy.gov.uk/2000/SPEECHES/wwc26jun00.htm 
+                          - it's "regulation of investigatory powers"
+         http://www.fipr.org/rip/
+                                  - final report stage on 2000-07-10
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         UK starts turning SEALAND employees away at the airport ... 
+         you'll get those ADSLs just as soon as we've found
+         http://www.ntk.net/2000/06/30/adsldoh.gif ... whatever
+         you say, APPLE: http://www.ntk.net/2000/06/30/appledoh.gif ...
+http://www.nytimes.com/library/tech/00/06/biztech/articles/27note.html vs
+         http://www.mcsweeneys.net/1999/01/23michiko.html ... it *is* 2000AD
+http://news.bbc.co.uk/low/english/uk_politics/newsid_812000/812935.stm ...
+         what have we done? http://www.geocities.com/walters_mission/ 
+         ... is this the most self-referential FAQ? or is it this:
+         http://www.ctod.com/unhappy/faq.htm ? ... slow news day at
+         SLASHDOT: http://www.ntk.net/2000/06/30/slash-slow.png ...
+         for kids, designed by kids? http://www.georgewbush.com/youth/ ... 
+         registered users costing SEGA 100 UKP each in TV ad costs alone 
+         accidentally reveals http://www.green-moon.co.uk/sega/chuchu~3.htm
+         ... noooo! I said "Jon Katz *above* the 'actor who 
+         made periodic appearances on Seinfeld'":
+         http://www.flatoday.com/space/explore/stories/2000a/062500e.htm
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Well, we did nominate http://www.ntk.net/boldoh/ for "Best use
+         of multimedia", but looks like we'll have to settle for
+         mentions in "Best news story broken on the Net" and "Internet
+         journalist(s) of the year" at the EUROPEAN ONLINE JOURNALISM
+         AWARDS, part of NETMEDIA 2000 at City University, London EC1,
+         from Thursday 2000-07-06, UKP225 for both days (concessions
+         available). By way of demonstrating either our noted editorial
+         integrity or our famed aptitude for wrecking our chances at
+         the very last minute, after we last commented on the
+         incongruity of a "Shell Award for Best Investigative
+         Reporting", reader Fiona Campbell-Howes wished she'd nominated
+         "Urban 75 for their http://www.urban75.com/Action/boycott.html
+         or indeed http://www.oneworld.org/delta/ . Ho ho."
+         http://www.net-media.co.uk/eolja/shortlist.htm
+                            - yes, "the NTK Team". All ~15,000 of you...
+
+         Same place, a month later, but it's probably just too late to
+         register for TRANSVISION MM (also City University, London Sat-
+         Sun from 2000-07-15/16, UKP100 for both days), a gathering of
+         European transhumanists (a non-trademarked version of
+         Extropians?) rather than, say, fans of Wendy James' "I Want
+         Your Love" late '80s rock band. (Though, is it just us, or is 
+         there something really *mid-'90s* about that whole wacky
+         "faith in technology" schtick?) Meanwhile, a rather more
+         tongue-in-cheek enthusiasm for sci-fi manifests itself at   
+         "Literary Humour & Sci-Fi Convention" ALIENS STOLE MY HANDBAG
+         (this weekend, from 2000-06-30, Shepperton Moat House Hotel,
+         Middx), a thinly disguised excuse to equip Robert Rankin and  
+         fans with "military vehicles" and kick the asses of Douglas
+         Adams/ Terry Pratchett readers once and for all.
+         http://www.lostcarpark.com/aliensstolemyhandbag/military.html
+          - cool idea, but are they playing the humans, or the Martians?
+         http://www.itm-ed.de/tvamp/recordings/index.html
+                         - "Sex Kick". What the hell was that one about?
+         http://www.transhumanism.com/tv2k/
+                 - nice link to http://www.kevinwarwick.org.uk/ , though
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         No evidence that we've just got a new Visor here: it's
+         two years since SFCave zig-zagged its way out of Japan, and
+         it's still one of the most addictive (and small) games for
+         the Palm. It's 7K unzipped, needs only one button to
+         operate, and feels like Scramble on a coke-soaked arcade
+         console. For a taste, try Lab6's Java version. For a bit
+         of a travesty, try the original author's 3D version for
+         Windows.
+         http://www.lab6.com/sfcave.html 
+                                            - at last a game for Macs
+         http://www.pda.tucows.com/palm/preview/028-005-001-081C.html
+                              - a preview that's bigger than the game
+         http://www.bekkoame.ne.jp/~sunflat/win/3dcv2.html
+                                          - that difficult transition
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         now *that's* planning: whois www.arsedigita.com ... RSA in 900 
+         lines of JScript: http://my.netian.com/~dubs37/eng_cyber_rsa.htm 
+         ... Mitnick TAKEDOWN available in PAL Iceland: anyone want to
+         send us a copy? ... not quite what the ANNE RICE fans had in
+         mind: http://viscera.boners.com/ ... this week's "swearing at
+         tech support" http://www.whatisthematrix.org.uk/bti.html ...
+         /. RPG http://slashdot.org/comments.pl?sid=cyoa&threshold=-1 ...
+         "whoever [took the swearing out] really missed the fucking point" 
+         - the true story of http://www.adminspotting.org/ ... sod 
+         adcritic, here's: http://www.myvideogames.com/html/retrocorner.asp
+         ... absolut overclocked: http://www.exaflop.org/docs/x86still/ ...
+         nest o' Nathans: http://www.tvdinnersuk.com/about_us.html 
+         ... $10,000 buys all the filth you can handle
+         http://www.greatdomains.com/domains/details.asp?domid=802440 ...
+         CBS imitates that BRASS EYE "crime" episode:
+   http://play.rbn.com/?url=cbs/cbs/demand/20000627/fenton_cbs_britain_80.rm
+
+
+                               >> GEEK MEDIA <<
+                     the less rude http://www.tvgohome.com
+
+         TV>> Mel & "Light Lunch" Sue appear to be covering "I Know
+         Him So Well" from Chess in CELEBRITY STARS IN THEIR EYES 4
+         (8.05pm, Sat, ITV) - a source of endless amusement for kids
+         who've just discovered the usage of "know - in the Biblical
+         sense of the word"... Larry Clark's sensationalised teen
+         filth KIDS (11pm, Sat, C4) will be hopefully preceded by its
+         very own Adam & Joe stuffed animals spoof... and ITV seems
+         to be doing the whole trilogy with Jim Cameron's over-rated
+         running- through-corridors Titanic dry-run ALIENS (12.15am,
+         Sat, ITV)... on cable/ digital/ satellite, Sci-Fi appears to
+         have swiftly ditched its "not just for nerds" ad campaign
+         with a complete re-run of Lexx, plus exemplary '70s Brit
+         dystopia [THE] QUATERMASS [CONCLUSION] (12noon, Sun,
+         Sci-Fi)... no, you haven't just woken from a decade-long
+         coma - Robin Williams' above-average Oliver Sacks adaptation
+         AWAKENINGS (7pm, Sun, C5) gets its second outing in just
+         over 2 years... while, according to our memory implants,
+         Dick-fuelled Arnie/ Sharon Stone fantasy TOTAL RECALL (10pm,
+         Sun, C4) was last shown on ITV just under 3 months ago... in
+         the wake of the "Love Bug" virus, PANORAMA (10pm, Mon, BBC1)
+         carries out a well-reasoned risk-analysis of "Cyber
+         Attacks"... "one-off sketch show" (read: "uncommissioned
+         pilot") TV TO GO (10.50pm, Tue, BBC1) promises a "comic
+         slant on life's everyday problems, such as using mobile
+         phones"... a couple more docu-soap genres collide in hidden
+         electron-microscoper THE SECRET LIFE OF THE FAMILY (8pm,
+         Wed, BBC1)... and we *still* rate the beat-poetry and
+         butcher's shop montage from Mike Myers' pre-Austin Powers
+         SO, I MARRIED AN AXE MURDERER (11.30pm, Wed, ITV)...
+
+         FILM>> endorsing our plans for a "That'll Do Pig" chain of
+         "Babe"-themed restaurants, both Burger King (in the US) and
+         egg-distributors Stonegate Dairies are running potentially
+         ill-advised product tie-ins with laboriously over-rated
+         Aardman WW2 parody CHICKEN RUN (http://www.screenit.com/ : a
+         brief, but non-explicit moment includes the hens offering to
+         share their bunks with a visiting rooster; phrases: "Load of
+         tripe," "Poppycock," Rocky repeatedly calls Ginger "doll
+         face" despite her asking him not to, "Chicks" [for
+         women/hens], "Suck," "Shut up," "You Nancy," "You idiot,"
+         "Four eyes", "Bum" [for one's behind], and "Put your head
+         between your knees and kiss your bum goodbye")... Neve
+         "Scream" Campbell, Matthew "Chandler" Perry mug gamely
+         through - at last! - a feature-length movie version of that
+         "Friends" episode where everyone thinks Chandler's gay, in
+         inexplicably titled THREE TO TANGO (http://www.capalert.com/
+         : female mouth on male stomach; repeated homosexual
+         suggestions, admissions and presences; satanic punk
+         gathering)... otherwise a couple of limited-release curios:
+         Donald "Performance" Cammell's (re- cut?) Christopher Walken
+         cult WILD SIDE (http://www.cndb.com: "[Anne] Heche has a
+         great body - beautiful tits, perfect nipples and a nice
+         round ass. Rides Walken in the beginning and then has sex
+         with Joan [Twin Peaks] Chen. Anne is on top of Joan while
+         they make out and Joan freely fondles Anne's ass. Ellen is a
+         very lucky girl")... or behind-the-scenes wrestling tell-all
+         BEYOND THE MAT (http://www.screenit.com/ : kids may want to
+         imitate the many wrestling related moves, stunts and
+         fighting that occur in this film; one wrestler shows that he
+         can vomit on command; some male wrestlers occasionally wear
+         small tights during their matches)... and, believe us, the
+         "previews" are the only thing "special" about M:I2 (
+         http://www.pointlesswasteoftime.com/film/mi2.html )...
+
+         BONER BONANZA>> BOB SCHULZE foolishly attempted to correct
+         last week's use of "decimate" [NTK 2000-06-23] to describe
+         Deja ditching 10% of their audience, believing it means to
+         "reduce *to* 10%", not "by 10%". Bzzt! Sorry Bob, common
+         misconception: we were right all along, as are you when you
+         concede: *however* many percent it is, it's still a stupid
+         idea... genuine errors on our part, however, included blaming
+         NTK 2000-06-16's big-screen doh on "MacOS" - "It's a Director
+         error dialogue!", our Mac-familiar readers screamed before,
+         typically, noting that public MacOS crashes are "extremely
+         rare", at least compared to the recorded incidence of BSODs.
+         Hey guys, maybe no-one *uses* MacOS any more, or something...
+         while LEE HOLDEN helpfully provided the full ancestry of
+         Daphne And Celeste's "U.G.L.Y", having learned from "The Jo
+         Whiley Show" (of all places!) that it has "virtually the same
+         chorus as Fishbone's U.G.L.Y. from their self-titled debut
+         mini-album". "Members of Fishbone were recently on trial for
+         kidnapping their own (ex) guitarist and founder member," Lee
+         goes on to allege, so don't expect to see them purusing the
+         copyright on that one any time soon... but, biggest boner of
+         the bunch protruded from last week's complex Amazon gift
+         voucher hack, with anonymous respondents highlighting that
+         attempts to raise UKP100 in credit by signing up 20 friends to
+    http://www.amazon.co.uk/exec/obidos/subst/partners/friends/access.html
+         are hindered by the fact that only one UKP5 "return" voucher
+         can be used per sale, and that the system as described hinges
+         on the (largely unwarranted) assumption that you might want to
+         read Wilbur Smith's "Monsoon". Of course, you can't search
+         Amazon by price - though you can filter the search results
+         for, say, "Little Book" and list the top 450 in ascending
+         order of price, as now linked from http://www.ntk.net/books/
+         (fantastically transparent attempt at chart-fixing there,
+         Harry Harrison fans). Sure, the cut-off point should really be
+         UKP2.25, but then you risk missing out on some really good
+         stuff: imagine our disappointment at discovering that the
+         "Little Books" of "Farting", "Complete Bollocks" and "Crap"
+         appear to be a *totally different* franchise to the "Optimum
+         Nutrition" one...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+THEY STO7E  UR REVOLUTION  ur lamE  now were steaqling it baX0R!!!!!!!!11~~~~
+          http://www.rinkworks.com/dialect/dialectp.cgi?dialect=hckr
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

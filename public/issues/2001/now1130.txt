@@ -1,0 +1,359 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-11-30_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "[Net users] attend church more, join voluntary
+         organisations more, are more likely to have friends they can
+         rely on in times of troubles, read more books, and are not
+         less trusting of other people."
+ http://news.ft.com/ft/gx.cgi/ftc?pagename=View&c=Article&cid=FT3U04GAEUC
+            ... we've also learnt to lie on registration forms better
+
+
+                                >> HARD NEWS <<
+                                   two true
+
+         So what, exactly, went on with the latest "biggest ever"
+         kiddy porn crackdown? Most of the media tut-tutted about the
+         10,000 "IPs" who downloaded porn, the cleverness of the
+         National Crime Squad at detecting them, and the tragedy that
+         only 129 of them were traced. And thank God, of course, for
+         public-spirited Demon who agreed to let the police "image"
+         its news server, and handed over the IP addresses of
+         everyone accessing over 1500 newsgroups. Well, except that
+         Demon now deny this ever occurred, understandable given that
+         it'd be illegal under the DPA, and say that the police only
+         had the same access as anyone else to USENET postings, and
+         thus could only trace posters not readers. Normally we'd put
+         this down to woeful tech reporting: in this case though,
+         journalists were exercising the *other* skill they have -
+         copying press releases verbatim. The National Crime Squad
+         and its reps actively boasted that servers were imaged, and
+         the source of that "10,000 reader's IPs" statistic is from
+         the official statement on the matter. So what happened? Why
+         did the NCS - including, at some points, the Det. Super. in
+         charge of the investigation, insist on a story that Demon
+         now deny? Ignorance of their own methods? A misguided
+         attempt by Thus and NCS pointy-hairs to create a
+         high-publicity paedophile investigative coup, when all that
+         went on was a smart copper doing what anyone with a Demon
+         account and a Perl script could pull off in a week? Or did
+         Demon really pass on mass subscriber information to the NCS,
+         assuming at the time that the NCS wouldn't be so dumb as to
+         blab about how Thus'd happily hand over their subscribers'
+         mass traffic data? Guess we'll never know. Unless, of
+         course, you're a Demon subscriber and want to put in a
+         complaint to the Information Commissioner to find out what
+         *really* went on. Hint, hint.
+http://www.nationalcrimesquad.police.uk/Hot_off_the_press/2001/November/122.html
+     - we know computers! we know NNTP! we know - facial recognition?
+http://www.guardian.co.uk/Archive/Article/0,4273,4309815,00.html
+                                                - only 129 traceable?
+         http://news.bbc.co.uk/hi/english/uk/newsid_1680000/1680762.stm
+           - ah those bona fide, credit-card demanding newsgroups ...
+         http://globalarchive.ft.com/globalarchive/article.html?id=011129000794
+- while Demon apparently charges Mickey Mouse's credit card for a tenner a month
+
+         Mr Gates is due in the UK this week, patting Blair's head,
+         helping him find that Start button again, and charitably
+         offering a few hits of the XP subscription-only crack-pipe.
+         God help Bill, though, if gets collared by other more techy
+         European politicians. Windows XP just trashed the hard drive
+         of FRANCESCO COSSIGA, the 73-year ex-Presidente of Italy -
+         and he's out for vendetta. As semi-retired politicians who
+         do their own OS installs go, Cossiga is a tech support case
+         from hell: professor of Law, ex-investigating magistrate,
+         and since quitting the Presidency, a man with plenty of time
+         and who no longer gives a shit. This is a man who idly
+         tarried over details of St Thomas More's wishful dreams of a
+         menage a trois - at a Vatican press conference. He says
+         he's itching to take Microsoft to court. "In the tribunal,
+         we will be able to enjoy ourselves. I'm almost hoping they
+         won't be able to fix it!", he cackles. Worst of all for
+         anyone hoping for a quick fight: he's a radio ham. Capos
+         with callsigns: bad combination.
+         http://www.pcworld.com/news/article/0,aid,73304,tk,dn112701X,00.asp
+                                                    - IANAXPOI, but..
+         http://www.ntk.net/2001/11/30/presidente.html
+             - translation of I0FCG's rant courtesy bellissima Louise
+         http://www.pir.org/main2/Francesco_Cossiga.html
+                       - you see how it all fits together now? (java)
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         world's first "behind the scenes" content management docusoap:
+         http://www.yougov.com/news.jsp?news.id=10004523 ... Tony Blair
+         *is* BIG BROTHER: http://www.ntk.net/2001/11/30/dohbigb.png
+         ... new BBC news breakaway art movement - "you'll go blind!":
+http://newsvote.bbc.co.uk/hi/english/talking_point/newsid_1684000/1684474.stm
+         ... most sociable and successful net users the BBC could find:
+         http://news.bbc.co.uk/hi/english/uk/newsid_1674000/1674802.stm
+         ENCOM bankruptcy due to attack by SLIMER from "Ghostbusters":
+     http://news.bbc.co.uk/hi/english/business/newsid_1684000/1684503.stm
+         ... "Crisp, clear signals" illustrated by tube of PRINGLES:
+     http://news.bbc.co.uk/hi/english/uk/wales/newsid_1669000/1669226.stm
+         ... AOL shows " Power Of Digital Imaging" - with broken jpgs:
+        http://webmaster.info.aol.com/index.cfm?article=500000000000036
+        http://webmaster.info.aol.com/index.cfm?article=500000000000041
+         ... humble holding page, "which will not ever be seen by the
+         outside world" at last gets its big moment in the limelight:
+         http://harkinstheatres.moviefone.com/ ... "YOU ARE NOT ALONE"
+         whisper the scary shifting voices at http://www.sanonymous.org/
+         ... self-subverting TITLE tags - the "Dictionary of English
+         Useage": http://www.lineone.net/dictionaryof/englishusage/ vs
+         "Welcome To Russell Martin Language [Proofreading] Serrvices":
+         http://www.russell-martin.com/english/homeENG2.htm ...
+         GAMESPOT trip to Guilford hazy on definition of "villages with
+         cathedrals": http://gamespot.com/gamespot/features/pc/btg_bw/
+         ... http://www.audiogalaxy.com/list/index.php?&styleID=195
+         lists BRYAN ADAMS as "Adult alternative", no doubt because
+         he's from the *other* North American country...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Hoping to emulate just some of the toe-curling embarrassment
+         of that Buffy episode where they stumble across Giles singing
+         in a bar, NTK's set of "Acoustic Cover Versions of Synth Pop
+         Classics" has now joined the lineup at CHRISTMAS DORKBOT
+         LONDON (from 7pm, Wed 2001-12-05, The Boxing Club/ Limehouse
+         Town Hall, London E14, free). But we won't be on till later
+         (around 9?) as we've also agreed to speak at IS SPIN DYING? IS
+         THE INTERNET TO BLAME?, a "round table hosted by Voxpolitics
+         and the Social Market Foundation" (from 6pm, Wed 2001-12-05,
+         Warwick Room, The Social Market Foundation, Westminster,
+         London). We'll be violently disagreeing with the motion that
+         "Networked politics means people are getting smarter, more
+         organised, more likely to kick something" and, by doing so,
+         inadvertently helping them to prove their point.
+         http://www.voxpolitics.com/news/voxpub/story274.shtml
+                      - the most up-to-date event listing on the site
+         http://music.columbia.edu/cmc/dorkbot/dorkbotlondon/
+           - "we said Spinal Tap *above* Kim Hawtin from Consume.net"
+         http://www.strangeattractor.co.uk/talks.html
+                    - and it's science vs the supernatural on Tuesday
+
+         But before that, over the weekend, the usual saddoes will be
+         dressing up in ridiculous costumes to engage in a bit of
+         "fantasy role-playing" to enliven their otherwise pointless,
+         friendless lives. But that's enough about this year's EROTICA
+         2001 exhibition (from today, London Olympia, around UKP17) -
+         it's that time of year once again for some healthy tabletop
+         action over at DRAGONMEET 2001 (from 10am, Sat 2001-12-01,
+         UKP6, Kensington Town Hall, London - former location of World
+         Of Amiga '99). Among the treats promised by organiser James
+         Wallis are: Guest of honour John "Dork Tower" Kovalic (again),
+         auctioning the only set of Pokethulhu miniatures in the
+         country. The first UK sighting of the games biz's longest-
+         running piece of vapourware, the "Realms of Sorcery" hardback,
+         first described as "coming soon" in November 1986. Twice the
+         number of traders as last year. And a bar. And hot food. And
+         "complaining about the lack of clerics in the D&D movie until
+         we're pasty in the face". That's *pastier*, surely...
+         http://www.dragonmeet.com/
+                       - "please ignore the animated gifs", he pleads
+         http://www.erotica-uk.com/
+                                   - mmm, frames within frames. Sexy!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         We have been requested from several quarters to refrain from
+         the default "ooh look at its tiny wee footprint" reviews of
+         the famed GALEON 1.0 browser, on the basis that given that
+         it needs X, all the gnomelibs *and* a Mozilla installation,
+         it's not that bloody tiny. Certainly not, we'll agree,
+         compared to uIP, Adam Dunkel's TCP/IP stack that fits under
+         4KB, and runs on everything from a 6502 to an 8051 - or x86
+         if you want to be boring about it. Yes, yes, yes, they have
+         a Web server running off a Commodore 64. More originally,
+         someone's ported it (and the attached Webserver app) to the
+         H8S/2148 processor, which some may recognise as the
+         microcontroller found in snazzier notebook keyboards. Now
+         that's an app the FBI would pay good money for.
+         http://dunkels.com/adam/uip/
+                            - giving ideas to virus writers since 1997
+         http://www.ntk.net/index.cgi?b=2000/now0714.txt&l=130#l
+                                            - anyway, we saw it first
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         "Naughty Children To Be Registered As Potential Criminals":
+http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2001/11/25/ncrime25.xml
+         - information to be pooled with Interpol, FBI, Santa... show
+         that you care - Gifts For Laid-Off AMAZON.COM Employees:
+http://www.amazon.com/exec/obidos/tg/listmania/list-browse/-/2I7M6F36X8S10/
+         ... http://www.ananova.com/entertainment/story/sm_454843.html
+         vs http://www.williamshatner.com/ ... http://www.ratemypoo.com
+         vs http://www.idiotica.co.uk/guide/dogshit.htm ... naked JAVA
+         volleyball: http://tartarus.uwa.edu.au/%7Ewedgey/slime1/ ...
+         "A town full of variety and charm, spirit and art [...] ZAGREB
+         will surprise you with its hidden attractions and very high
+         standard and very low prices of dental treatments", invitates:
+         http://www.globtour.hr/hr/invitate/zg.htm#dental ... this
+         week's redirectable URL: http://www.buffyweb.com/ ... "Though
+         [...] their lifelines seem somewhat similar at first glance,
+         there are even more things completely different about them" -
+         who else could it be but MARK TWAIN and ROBERT A HEINLEIN?:
+         http://www.heliweb.de/herbsev/twhn.htm ... who is the SHORTEST
+         LINK: http://shorterlink.com/ vs http://makeashorterlink/ ?
+         ... they look like Lego, but they're more likely Kubrick MGS2
+         minifigs: http://www.coremagazine.com/news/5308.php3 ...
+         perfect for any owner of 20 decapitated ACTION MAN torsos:
+      http://www.mcphee.com/cgi-bin/mcphee/affiliate?id=NOV201&sku=M5757
+         ... it's just a shame they don't do TV ads for the "HOOAH!"
+         bar: http://www.sbccom.army.mil/products/food/perc.htm ...
+
+
+                                >> GEEK MEDIA <<
+           the less rude www.tvgohome.com, featuring TV GO HOME (TM)
+
+         TV>> a double bill of nun fun, with the simmering eroticism of
+         Powell and Pressburger's BLACK NARCISSUS (1.55pm, Sat, BBC2)
+         erupting into a "terrifying world of demonic possession" in
+         MONDO MACABRO: ALUCARDA (3.15am, Sat, C4)... I LOVE MONTY
+         PYTHON (from 9.15pm, Sat, BBC2) features erratic Lego
+         adaptation MONTY PYTHON AND THE HOLY GRAIL (10.25pm, Sat)
+       http://www.lego.com/studios/screening/movie.asp?title=montypython
+         and, somewhat tangentially, overrated production-design-fest
+         BRAZIL (11.50pm, Sat, BBC2)... while "Silent Hill 2" sponsors
+         C5's FRIGHT NIGHT (from 9.05pm, Sat, C5), including the first
+         six episodes of heavy-handedly surreal soap-opera spoof TWIN
+         PEAKS (12midnight, Sat, C5)... C5 proudly showcases the first
+         two movies in the FX: MURDER BY ILLUSION saga on consecutive
+         nights (9pm, Mon & Tue, C5) - mildly more entertaining than
+         Tony Scott's ponderously Tarantino-dialogue-heavy TRUE ROMANCE
+         (10pm, Mon, C4)... Queen Amidala work-experience assassin
+         classic LEON (10pm, Sun, C4) receives its annual airing on C4
+         ... that *is* Amy Allen from the A-Team in John Candy spoof
+         Western WAGONS EAST! (11.05pm, Tue, BBC1) - last shown Nov
+         2000 on C4... and Charlie Brooker's videogame-reviewing roots
+         shine through in incrementally upsetting website-adaptation
+         format parody TV GO HOME (11.10pm, Tue; 11.30pm, Thu, E4)...
+         of course antidepressants have negative side-effects, argues
+         three-part pharmo-drama SWALLOW (9pm, Wed, C4), though dishing
+         them out to patients who are suicidal in the first place tends
+         to confuse the figures... given her "Eastenders" character's
+         reputation, and the "remarkable skills" alluded to by the
+         Radio Times, there's no telling how far things will go when
+         TAMZIN OUTHWAITE GOES WILD WITH DOLPHINS (9pm, Thu, BBC1)...
+         and COMEDY LAB (11.35pm, Thu, C4) at last shows the "Knife and
+         Wife" animated pilot which http://www.bubblegun.com/ has been
+         documenting in excruciating detail for the last two years...
+
+         FILM>> it's a good week for fans of idiot odysseys which
+         feature SNL's Will Ferrell, as Ben Stiller teams with his wife
+         (Christine "Marcia Brady" Taylor) and his dad in his best film
+         since "Reality Bites" - the magnificently retarded male model
+         send-up ZOOLANDER (http://www.capalert.com/ : bitter rejection
+         of a father by a son; picture of homosexual orgy; suggestive
+         title of model agency; I wonder if there is any connection
+         between the poisonous traits of the Mugatu character and the
+         Mugatu creatures on Star Trek's "The Apple"?)... Will Ferrell
+         reprises a similar role - but chasing Shannon Elizabeth, Ali
+         Larter and Eliza Dushku - when Kevin Smith resurrects all his
+         old jokes and characters in the forgivably ramshackle JAY AND
+         SILENT BOB STRIKE BACK (http://www.cndb.com/ : You see [Jason
+         Mewes'] butt early in the film... big deal. It's really best
+         to enjoy this movie for the hilarious film it is. Unless you
+         have a huge crush on Jay, in which case more power to you)...
+         otherwise there's Natasha "Species" Henstridge, Ice "NWA"
+         Cube, Pam "Jackie Brown" Grier, Clea "The Faculty" DuVall and
+         Joanna "Blade Runner" Cassidy - together at last! - in John
+         Carpenter's frankly bizarre made-for-TV-style B-movie GHOSTS
+         OF MARS (http://www.capalert.com/capreports/ghostsofmars.htm :
+         insane desperation - multiple; drug induced hallucination -
+         repeatedly; wearing faces ripped off of others as masks) -
+         "Goths Of Mars", more like... for your arthouse crowd, Todd
+         "Happiness" Solondz enlists the diverse skills of Belle And
+         Sebastian and Selma "Legally Blonde" Blair in two-in-one
+         creativity-examining indie comedy STORYTELLING (imdb: college
+         / high-school / sex) - probably more laughs than Barry
+         Levinson's laboured feelgood heist romance BANDITS (imdb:
+         bank-robbery / bored-housewife / car-accident / chase /
+         disguise / flashback-sequence / fugitive / hypochondriac /
+         journalism / love-triangle / media-manipulation / prison-
+         escape / reward / shootout / special-effects / stuntman)...
+
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED
+         AS GOOFS">> RICHARD STALLMAN paused from counting his winnings
+         just long enough to tell us that the Takeda Award money, split
+         between three recipients, comes to $830,000 in total, not the
+         "100 million yen ($830,000) each" we (and MIT) reported last
+         week. He remained uncharacteristically silent, however, on the
+         matter of the "fsck /gnu/linux" t-shirt [also last week]
+         which, under the circumstances, we're tempted to take as some
+         sort of blessing... on the same story, "Is that journalism?",
+         asked original gadfly DAVE WINER, though presumably he'll be
+         happier now we've effectively slashed Stallman's windfall by
+         two-thirds... and "Hey dudes, I don't hate UNIX. I don't like
+         it, but I don't hate it", asserted THE INQUIRER's Andrew
+         Thomas [NTK 2001-10-26; 2001-11-23], before going for the
+         killer punchline: "Now, Linux - that I hate"... thanks to
+         everyone - OLLY BETTS being the first - who tried pointing NTK
+         2001-11-02's "Where Would Jesus Surf?" filter *at itself*:
+         http://www.wwjs.net/search/safe.cgi?url=http://www.wwjs.net ,
+         often finding "1 instances" of inappropriate language and
+         concluding "The Safe Connect filter has determined this site
+         to be of HIGH RISK! We recommend you hit your browser's back
+         button and choose another link"... HUGH PYLE found himself in
+         the unusual position of defending that 404-fixing BT banner ad
+         http://ad.uk.doubleclick.net/viewad/628472/1-bt_opendown5.gif
+         noting that "OpenWorld-hosted websites don't 404, they just
+         redirect": http://www.btinternet.com/~no.user/nothing.here ...
+         and GARETH OWEN punctured our "I'd like to report a power out-"
+         gag: http://www.fpl.com/report/contents/power_outage.shtml
+         [NTK 2001-10-19], by prophesying "far off days when small
+         'laptop' computers will be powered only by batteries. Well, a
+         man can dream"... yes, ANDY BRICE, we almost certainly did
+         mean "dispersion" rather than "diffraction" in our critique of
+         the http://www.paintthemoon.org/ project [NTK 2001-10-26] -
+         still didn't work though, did it?... BARRY DE LA ROSA
+         advocated the "beta of ICEOWS, the next generation version of
+         ARJFolder" [NTK 2001-11-09], recommending its "whole bunch
+         more formats (including Colin McRae 2!)" and "full folder
+         extraction as well". "But it's still French", he concedes...
+         and, finally, JOE WHITELEY, seemingly unaware of the net's
+         time-honoured "slash" tradition, felt we could be entrusted
+         with the red-hot info that "There's an online community thing
+         dedicated to writing new chapters for, say, Buffy, or Xena, in
+         which they have sex". But "Buffy isn't the most popular", Joe
+         confides - that honour goes to "Sabrina the Teenage Witch".
+         "One of those things, I guess", he shrugs. "Maybe the stories
+         feature the two aunts as well, that'd give it an edge"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+             "funny, like dotCOMagain, but doesn't explain things"
+                 http://www.gorjuss.com/archives/00000033.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

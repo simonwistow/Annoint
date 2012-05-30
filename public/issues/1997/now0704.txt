@@ -1,0 +1,280 @@
+ _   _ _____ _  __                4/07/97       NEED TO KNOW NOW
+| \ | |_   _| |/ /   _ __   _____      __ o Ack ack ack UK ack ack
+|  \| | | | | ' /   | '_ \ / _ \ \ /\ / / o ack ack geek ack ack
+| |\  | | | | . \   | | | | (_) \ V  V /  o tv ack ack movies ack
+|_| \_| |_| |_|\_\  |_| |_|\___/ \_/\_/   o ack news ack MARS! Ack!
+
+
+         "A 15-year-old Protestant in Holland is not the same as a
+         15-year-old Muslim in an Arab country."
+         - David Kerr, Internet Watch Foundation, on rating porn sites
+                the quality of some of those GIFs, it's hard to tell
+
+
+                               >> HARD NEWS <<
+                               for hard drives
+
+         INTERNET CONNECTIVITY to the States took an early weekend
+         last week: a construction crew cut through one of the
+         principal NY-Washington cables around 3pm BST on Fri
+         27/6/97; routing was fritzed for the rest of the afternoon.
+         That's okay, though, because UUNET-Pipex customers were
+         recovering from repeatedly engaged dialup lines the day
+         before, and Demon customers were still wondering what
+         happened to their DNS server on Wednesday.
+         http://www.internetweather.com
+         - "The only fault-tolerant part of the Net is its users."
+
+         A bittersweet week if you had deadpool bets on Jimmy
+         Stewart, Robert Mitchum - or APPLE COMPUTER. On Thursday a
+         block of 1.5 million Apple shares were sold - just
+         coincidentally the same amount as Steve Jobs owns. Or
+         owned. Then Apple clone-maker Power Computing stated that
+         they'd be expanding into the PC market. You know things are
+         bad when no-one wants to even compete with you... Stock
+         prices are currently at an 11-year low. Find out whether it
+         was an insider Jobs deal on Monday, when the SEC releases
+         full details.
+         http://www.apple.com
+               Remember: somebody bought those shares. Probably Woz.
+
+         Stock evaporation closer to home with Hampshire-based
+         SUPERSCAPE. Shares in the perennial 3D tools provider have
+         been sliding over the last four months from c.400p to the
+         current c.80p. Superscape boss John Chiplin says this is
+         due to the stockmarket's current anti-VR vibes, and the
+         mistaken belief that the Scapesters have been betting
+         everything on the Net. As opposed to that booming immersive
+         3D environment market?
+         http://www.superscape.com
+         - a far cry from their promising early Dragon 32 work
+
+         As reported in NTK (and if we didn't, we should have done,
+         because everyone kept telling us about it), Web ad agencies
+         ONLINE MAGIC and AGENCY.COM have teamed up. Online Magic
+         was based in London with an NY office, and Agency.com was
+         NY with a London office. Now Agency.com own a substantial
+         chunk of OM, so we guess they'll centralise operations in
+         Bermuda. Ahaha. Upshot: They'll look more impressive,
+         they'll do some bigger corporate sites, and if you know
+         HTML, you'll probably end up working for them. Move along
+         now. Entertaining Web bankruptcies come later this year.
+         http://www.agency.com      Look, just go read New Media Age
+         http://www.onlinemagic.com      or something, okay? Sheesh.
+
+         WINDOWS 98 got its first beta to around 100,000 'carefully-
+         selected' sites. Because of non-disclosure agreements, no-
+         one revealed to us that the upgrade contains an improved
+         (FAT32) filing system, support for faster (USB, DVD)
+         interfaces and some mildly cool macro/scripting language
+         support. No-one did this and no-one cares, because Windows
+         98 is dull, dull, dull. Everyone's waiting for the new
+         Internet Explorer 4 beta. Which, some say, is *very* close.
+         http://browserwatch.internet.com/news/news-current.html
+                                         - you'll hear it here first
+
+
+                               >> ANTI-NEWS <<
+                            news we knew you knew
+
+         New NT server bug... 'Pol Pot in hiding in Sweden' just a
+         net.rumour... 'MICROSOFT buying CBS' just a net.rumour...
+         '"Caesar the Geezer" going to jail' not a rumour at all...
+         The Spot closes down... MATSUSHITA M2 game console
+         pulled... "The Web May Be Killing Old-Fashioned CD-ROMs" -
+         DAILY SCOOP... "A Million Intranet and Internet sites Need
+         Microsoft Site Server", estimate - MICROSOFT... IT Managers
+         don't read e-mails, says NETWORK NEWS... MEN IN BLACK movie
+         webverts will "give users the impression the site they are
+         visiting has been sabotaged"... "Majority of small firms
+         not on-line" reports UK survey... new DOUGLAS ADAMS game to
+         feature the "Wild Squid of Shrdlu" and (oh, our sides) the
+         "Pulsating Inconvenience from Planet Sprod"...
+
+
+                                >> CULTURE <<
+
+
+         It's not often we'll cower from an expression of true geek
+         might but THE MIND SPORTS OLYMPIAD, taking over the Royal
+         Festival Hall from 17/8/97-24/8/97, has even us gibbering.
+         Imagine - eight days of continuous mental battle in the
+         ancient arts of Magic (the Gathering, that is), Continuo,
+         Hare and Tortoise, Mastermind, Stratego, and Twixt
+         (Twixt?). Also featured: challenges in Speed Reading and
+         Memory skills AND a computer programming contest with
+         categories for speed of writing, execution speed and code
+         compactness. Anyone can enter. There are special under-16
+         sections. We're leaving the country.
+         http://www.mindsports.co.uk/
+         - Who's got the TV rights? Don King must be kicking himself!
+
+         Not on our UK tellies yet but still worth looking forward
+         to: new US series of Egyptology-sci-fi STARGATE (featuring
+         Richard Dean "MacGyver" Anderson), TIMECOP, and Gene
+         Roddenberry's EARTH: FINAL CONFLICT (it's an old
+         Roddenberry script from before his death, not his Omen-
+         style return from beyond the grave). There's always a
+         downside, however, and this time it takes the form of a
+         fifth 22-episode season of BABYLON 5, plus *two* feature-
+         length spin-off movies next year. Like individual Bab-5
+         episodes weren't tough enough to follow...
+
+         How about this? We broke into Simon "Non-hacker, honest"
+         Gardner's mail account, ripped off this Saturday's ACCESS
+         ALL AREAS provisional running order, and posted it onto our
+         Website. Are we elite yet?
+         http://www.spesh.com/aaa/agenda.html
+                               - will trade for cracked copy of mIRC
+
+
+                                >> TRACKING <<
+                              good bot - fetch!
+
+         We knew you like your PC AUDIO CD PLAYING SOFTWARE heavy on
+         the obsessive features (like play statistics and automatic
+         Internet CD database interrogation) so we knew you'll like
+         DiscPlay 4. What we also knew is that you knew that
+         DiscPlay has been crashing on CD database look-ups and
+         pissing off the CDDB overlords. Well, we knew that you knew
+         too, but we also knew that there was a new one out. And
+         *that's* why we're called Need to Knew New.
+         http://www.obvion.com/discplay/                or something
+         http://www.cddb.com
+             - and if you don't know what CDDB is, it's time you did
+
+         Dull public service announcements a-go-go: geek wonks may
+         like to check out our copy of the LAW SOCIETY's reaction to
+         the (awful) DTI Proposals on Crypto Key Escrow. Executive
+         summary for lazy busy folk: they don't like it, they don't
+         want it, and (subtext) they smell a big fat MI5 rat.
+         http://www.spesh.com/crypto/lawsoc.html
+
+         Got NETSCAPE 4? Bored mindless with what to do with it? Why
+         not quickly peruse the freebie dynamic font add-ons of
+         HexMac? Then, for an encore, why not begin worrying about
+         how really slow BitStream is, and how maybe fonts weren't
+         what your design lacked after all...
+         http://www.hexmac.com/
+          - although we're getting pretty tired of courier ourselves
+
+
+                                >> MEMEPOOL <<
+                    Meme meme meme... all we think about 
+
+         Nissan Cars launch mobile phone division... vibrating
+         joysticks... US military say selling off of RF spectrum
+         means they don't have enough for war... Makers of Spam
+         intend to sue Sanford "Spamford" Wallace... Microsoft
+         Expedia will tie up with AT Mayes in the UK...
+         Tama*goth*i... No information without representation,
+         reckon webster.aip.org/physnews/preview/qinfo/...
+         Panasonic's latest Japan mobiles - 8 hours *talktime*,
+         32Kbps... Carmageddon developed on the peace-lovin' Mac...
+         Romana Machado stops charging; Jennicam starts... "Dream:
+         Le Magazine de la Micro Alternative"... Grant "Animal Man"
+         Morrison writing screenplay for LAWNMOWER MAN 3... Tasty
+         Buzz Taffy...
+
+
+                               >> MO' MEDIA <<
+                         caution! diversions ahead
+
+         TV >>  ITV may have ventured Into The Unknown, but the BBC
+         goes one better with A WEEKEND ON MARS (from 6.10pm, Fri,
+         BBC2), with live news of the NASA Pathfinder landing hosted
+         by Clive Anderson, who'll presumably be making lots of
+         topical Mars-related gags and constantly referring to his
+         baldness... probable highlights include sci-fi round-up
+         FEAR OF A RED PLANET (9.15pm, Sat, BBC2), technicolor
+         classics THE WAR OF THE WORLDS (12noon, Sat, BBC2) and
+         INVADERS FROM MARS (12.35am, Sat, BBC2), Mars-astronaut
+         selection docu MARS: DEATH OR GLORY? (8.30pm, Sat, BBC2),
+         plus exobiology speculation in THE NATURAL HISTORY OF AN
+         ALIEN (8.55pm, Sun, BBC2)... of course, it could all be
+         faked, as they then tacitly admit by showing conspiracy
+         thriller CAPRICORN ONE (11.20pm, Sun, BBC2)... elsewhere,
+         there's further outer-space fun with that cheery sextet of
+         surrogate FRIENDS (9pm, Fri, C4), back with the start of
+         their third series and already looking like an improvement
+         on the patchy second one, as Ross confides his secret
+         fantasy involving Princess Leia... SECRET HISTORY (9pm,
+         Mon, C4) gets a bit more technical in its behind the scenes
+         gossip about breaking the sound barrier in the 1940s... and
+         Whole-Earther Stewart Brand gets all anthropomorphic about
+          bricks and mortar (to the accompaniment of, you've guessed
+         it, Brian Eno) as he explores HOW BUILDINGS LEARN (7.30pm,
+         Thu, BBC2)...
+
+         MOVIES >> One-man action spectacular Jackie Chan
+         commemorates the return of Hong Kong to mainland China the
+         only way he knows how - with a series of loosely connected,
+         farcically complicated and, (in one case) genuinely ankle-
+         busting stunt spectaculars in the limited release of RUMBLE
+         IN THE BRONX (thank you, The Onion -
+         www.theonion.com/onion3120/index3120.html )... PREACHING TO
+         THE PERVERTED (no-one you've heard of) is a Brit-made S&M
+         smut comedy, which takes its title from an old Pop Will Eat
+         Itself song - this is not a recommendation... while ONE
+         FINE DAY (Michelle Pfeiffer, George Clooney) brings you
+         formulaic screwball romance enlivened by snappy mobile-
+         phone swapping - and, intriguingly, continues the tradition
+         of adapting song titles into films: the above-mentioned
+         Preaching To The Perverted, Pretty Woman, The Gambler,
+         David Cronenberg's Dead Ringers (For Love)...
+
+         MARS! MARS! MARS! >> Whooooooosh... blat.......boiiiiing.
+         Yup, it's time for another landing on Mars. Twenty years
+         ago, Viking went to Mars the old-fashioned way, parking in
+         a nice sedate orbit and sending in a cute little lander.
+         Mars Pathfinder is bombing in, blazing a trail across the
+         darkened Martian sky and coming down on a parachute --
+         until, that is, it inflates a load of giant beach balls and
+         bounces to a stop across the rubbly Martian plain. We'll
+         know at about 6.30BST on Friday evening whether it's
+         survived touchdown, and the first pictures will be beamed
+         back to Ops Control (as they now seem to call it) at JPL by
+         about 11pm... Pathfinder has a dinky little six-wheel rover
+         aboard called Sojourner (crazy name, crazy 'bot) which will
+         wander around the neighbourhood zapping rocks with a laser
+         and using a spectrometer to sniff the debris. Lander and
+         rover are expected to last about a month on the Martian
+         surface, barring horrendous sandstorms or removal to the
+         trophy halls of Barsoom. Expect some GREAT stereo QTVRs
+         within days. What Clive won't tell you: Sojourner's running
+         on a 2Mhz 80C85 (like in the Tandy Model 100) with 576KB of
+         RAM, 176KB nonvolatile RAM, and 16KB ROM. And apparently
+         the original proposal was for a big Mars buggy: after a
+         baad funding meeting, the dejected lads at JPL came back,
+         stared at their 1/8th scale model - and said "Hold on...."
+                                                   - mattb@spesh.com
+         http://www.audionet.com/events/nasa/mars/   live broadcasts
+         http://mpfwww.jpl.nasa.gov/webcams/marsroom.html- 'Ops' Cam
+         http://mpfwww.arc.nasa.gov/rover/faqs_sojourner.html
+         - FAQ with the really *tough* FAQs
+         - (like, what happens if it lands next to a huge rock?)
+         http://www.moron.com/~techno/model_100.html
+
+
+                              >> SMALL PRINT <<
+
+    Need to Know Now is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "increasingly self-indulgent".
+                            (Get well soon, Z.R.)
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                           http://www.spesh.com/ntk
+               
+       Unsubscribe? Mail now-l@spesh.com with 'unsubscribe' in the body.
+        Subscribe? Mail now-l@spesh.com with 'subscribe' in the body.
+      NTKnow is helped by VIRGIN MEDIA, VENUS INTERNET and FLIRBLE.ORG.
+             They worry about us, but we don't worry about them.
+
+    (K) 1997 Special Projects. Copy at will, but retain this SMALL PRINT.
+
+                   Tips, news and gossip to tips@spesh.com.
+ 

@@ -1,0 +1,369 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-02-22_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "This is really a noble pursuit. We shouldn't be ashamed of
+         asking our customers to help us fund the brilliant stuff we do
+         for them..."
+         - STEVE BOWBRICK of Another.com, whose "noble" calling enables
+                punters to pay UKP15 to have an email address ending in
+            @sexteacher.co.uk, @sexychristmas.co.uk, @shaggin-wagon.com,
+          @shagmebaby.co.uk, @sheepshagger.co.uk, and many, many more...
+           http://www.guardian.co.uk/online/story/0,3605,653291,00.html
+
+
+                                >> HARD NEWS <<
+                               unlicensed venues
+
+         No lunch, but plenty of Guinness: the perfect recipe for
+         Bram Cohen's CODECON 2002 at the DNA Lounge last weekend. 
+         Jamie Zawinski was the host, paid it seems in constant robust
+         on-stage Mozilla-dissings. But jwz chose to hold court only
+         in the shadowy infra-conference taking place on IRC between
+         802.11b-wielding audience members. Onstage activity was left
+         to a) handsome shoe-gazing hackers describing potentially
+         copyright-infringing ecosystems written while on the dole,
+         b) older attorneys grimfacedly pleading with them to never
+         openly mention any illicit activities, and c) grinning
+         ancient heroes irresponsibly gloating over past criminal
+         capers. In the first camp, Dan "effugas" Kaminsky's "batshit
+         things I've done with ssh to beat NAT" talk and Jonathan
+         Moore's self-organising, self-routing, self-aware port of
+         military-industrial Wifi tech MobileMesh scored the highest
+         cred points. In the second category, Fred von Lohrmann's
+         repeated attempts to prevent Peer To Peer To Prison
+         scenarios - including an overly cheery suggestion to have
+         your back-of-an-envelope network diagrams edited by legal
+         counsel - were soberly heeded. (He made some very good
+         points on avoiding live updates and freeloader-punishing,
+         too: lest the court make you update a network-killer, or
+         force you to punish *all* your users equally). Finally, in
+         the unrepentant good old boys' camp: one day you'll be as
+         old as Phil Zimmermann, who finally announced that he *did*
+         upload the PGP source to a world-readable location, or Eric
+         Hughes, who revealed it was he who posted the proprietary
+         RC4 encryption sourcecode to sci.crypt. But until you can
+         count the years and do the Statute of Limitations
+         calculation: keep schtum, and keep coding.
+         http://wiki.haven.sh/index.php/WikiWikiWan
+                                        - mobilemesh in the real world
+         http://www.ntk.net/index.cgi?b=02001-04-06#TRACKING
+                                - in accordance with hopeful prophecy
+         http://groups.google.com/groups?selm=3555ls%24fsv%40news.xs4all.nl
+                                              - cypherpunks post code
+         http://www.dnalounge.com/backstage/log/2002/02.html#21-feb-2002
+                                     - make every day asshole season!
+
+         Codecon's legal panel was a bit riling for the dirty
+         foreigners in the audience. The DMCA might be bad, they
+         reassured the audience, but some other countries' laws were
+         plain awful. "I heard the UK's law is very bad", said one
+         panelist, the unspoken "IANAL" hanging over his words. Well
+         - as one of the sources who publicised Britain's old-style
+         DMCA law - it's *bad*, as they say, but it's not *criminal*.
+         While the US feds can come and practically arrest you for
+         telling a friend how to change the region code on your DVD
+         player, a company still has to file a civil suit here in the 
+         UK. Of course, such namby-pambiness won't last for long.
+         Article 8(3) of the EUCD (to be part of British law by the
+         end of this year) will ensure that ISPs share liability for
+         allegedly copyright-infringing material. So even if your ISP
+         knows it's dumb to block Napster, or that your satire site is
+         free speech, they won't be able to risk getting done over by
+         the intellectual property barons. Who needs the police when
+         the Internet is "self-policing"? Also, it's goodbye to "fair
+         use": while the EUCD says that countries can include
+         exemptions for current practice, rumour has it that the UK
+         won't bother with uncrippled media for the disabled, archive
+         preservation or personal backups. The EUCD is bad in theory,
+         and could be much worse in implementation. Drag yourself to
+         Cambridge tomorrow to discuss how to fix it.
+         http://uk.eurorights.org/miniconf/
+                                      - like Codecon, but in a Colony
+         http://www.ntk.net/index.cgi?b=02001-10-05&l=15#l
+     - remind us not to be so light on American jurisprudence again
+     http://www.cptech.org/ecom/jurisdiction/whatyoushouldknow.html
+- also, the Hague Convention means *everyone* gets the globally worst laws
+
+         They say we're stuck in the past. But we like it there -
+         it's where the truth is. Or so it seems when one skims the
+         past as precisely fossilised by Alexa's Wayback Machine, and
+         compare it to the daily re-inventions of the live Web.
+         Compare and contrast, for instance, the current bio page of
+         of "Secretary of the US Army" Thomas E. White, stored at
+         http://www.army.mil/leaders/Secarmy/bio.htm , with the slightly
+         more Enron-oriented edition preserved forever at
+         http://web.archive.org/*/http://www.army.mil/leaders/Secarmy/bio.htm
+         Or with all those rumours about what really happened at Ars
+         Digita, why not read what Philip Greenspun had to say before:
+ http://web.archive.org/*/http://philip.greenspun.com/arsdigita/litigation-story
+         (see June 03, 2001) - and after the lawyers got to him:
+         http://philip.greenspun.com/arsdigita/litigation-story . Or
+         perhaps you just want to reassure yourself that you didn't
+         hallucinate that BBC URL you briefly spotted? For which, see
+         http://makeashorterlink.com/?V2B61327 . Who knows what evil
+         lurks in the hearts of men?
+         http://www.oreillynet.com/pub/a/webservices/2002/01/18/brewster.html
+                                              - Brewster Kahle knows!
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         US media still baffled by notion of all-Scottish GB team:
+         http://www.ntk.net/2002/02/22/dohuk.png ... must have mislaid
+         ENCARTA: http://www.ntk.net/2002/02/22/dohjob.png ... arsonist
+         didn't like Nirvana's music, "held grunge against tourists":
+    http://news.independent.co.uk/world/australasia/story.jsp?story=134554
+         ... MS avoid acronym for "Critical Update Notification Tool":
+    http://support.microsoft.com/directory/article.asp?ID=KB;EN-US;Q224420
+         ... BILLIE lookalike promoting debt relief for young brides of
+         unemployed DJs?: http://www.ntk.net/2002/02/22/dohdebt.png ...
+         http://www.freedom.co.uk/ "no longer open to the public" ...
+         "Dull, uninspiring desktop?" MBUK knows just how you feel:
+         http://www.mbuk.co.uk/wallpaper_page.asp ... webdesigners of
+         the week: http://www.kittmaster.com/webdesign.htm versus
+         http://website.lineone.net/~initiative.cafe/ (creator of
+         http://website.lineone.net/~initiative.cafe/scrnw.html ?)...
+         backing the theory that anthrax attacks were "an inside job":
+         http://www.ntk.net/2002/02/22/dohwhite.png ... oh, buy one
+         anyway: http://consumerwholesale.zoovy.com/product/2 ... that
+         old DIY spirit: http://www.blackanddecker.co.uk/scripts/ ...
+         http://www-cgsc.army.mil/milrev/English/DecFeb99/bowdish.htm
+         (final para) warns of "the specter of Orson Welles' 'big
+         brother'"... LESLIE BUNDER slams Ali G's cheap attempts "to get
+         attention", in cheap attention-seeking PR stunt of his own:
+         http://www.jewish.co.uk/editorial14.php3 ... "What's mean the
+         Click-Thrus?", ponders http://www.valuesponsor.com/faq.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Squaxx dek Thargo posse in the house! Yes, The Galaxy's
+         Greatest Comic will be spinning the zarjaz and ghafflebette
+         sounds at 2000AD's 25th ANNIVERSARY PARTY (from 7pm, Thu,
+         2002-02-28, the Ministry of Sound, London SE1), along with
+         live band Pitchshifter, writer and artist signings, X-Boxes
+         and manga videos. Apparently some of the proceeds go to
+         Amnesty International somehow, marking something of a change
+         of heart for one-man "judge, jury and executioner" uberfascist
+         Judge Dredd.
+         http://www.2000adonline.com
+        - UKP15 (Earth Money), and speaking of gun-toting radicals...
+         http://www.ukuug.org/events/ESR_20020227.shtml
+              - ...Eric S Raymond speaks at London City Uni on Wed 27
+         http://www.silicon-beach.com/events.html
+           - annoying clash with "Silicon Business" forum in Brighton
+
+         And concluding this special Cambridge-themed month of events,
+         PROFESSOR JOHN CONWAY, game theorist and inventor of "Life",
+         will be spontaneously regenerating in the appropriately shaped
+         surroundings of this year's DARWIN COLLEGE LECTURES (from
+         5.30pm, Fri 2002-03-01, Lady Mitchell Hall, Sidgwick Avenue,
+         Cambridge, free). Special request: if he's taking questions,
+         could someone ask him if, as legend has it, he specifically
+         devised "Mornington Crescent" as an example of an activity
+         which defies traditional game theoretic analysis, and whether
+         he thinks this accounts for its popularity on Radio 4's panel
+         quiz "I'm Sorry I Haven't A Clue"?
+         http://www.dar.cam.ac.uk/lectures/2002/JohnConway.html
+                 - Huey "The Power Of Love" Lewis sadly not available
+         http://hensel.lifepatterns.net/
+               - no, not the MB board game: "Lawyer's salary please!"
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         SPAMASSASSIN sits between you and your inbox, picking over
+         your mail and weighting it against over two hundred spam
+         indicators, like multiple exclamation marks, the phrase
+         "Trace anyone by social security number", and "This is not
+         spam". Mails that trip one too many sensors get tagged with
+         an indicator in the subject line and a detailed
+         justification for their punishment in the body. They can be
+         automatically bounced back to source, sent off to /dev/null
+         or reported to the authorities. If Spamassasin's barrel of
+         ingenious regexp tests wasn't enough, the author, official
+         NTK hero Justin Mason, has assimilated wider checks (Vipul's
+         razor, various blackhole databases) into the program, and
+         uses a genetic algorithm to regularly re-weigh the settings
+         - leading to a really very impressive hit rate. Out of
+         around 130 messages (or 677KB) of spam a day, v1.0
+         spamassassin let through only a handful of bad boys, and
+         imprisoned less than one legitimate mail a day. And Version
+         2.0's new auto-whitelist means that now even your most
+         spam-akin friends need only stop SHOUTING!!! for one posting
+         to be permanently allowed past. There's a standalone
+         assassin daemon for ISPs, and a great deal of contributed
+         activity with the prog. In the long run, we guess it may
+         just make the spammers smarter, but, hell, we'd be happy
+         with even that small evolutionary step. If you haven't got
+         it, take a look. And if you have - how did we score?
+         http://spamassassin.taint.org/
+       - of course this will only breed super-smart resistant spammers
+         http://spamassassin.taint.org/tests.html
+            - and we're always suspect because of our LINE OF YELLING
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         gotta recognise 'em all!: http://totl.net/VirusScanner/ ... a
+         joke, surely?: http://www.itcontractorsreunited.com vs fucked
+         employees reunited: http://www.globaldoublecrossing.com/ ...
+         bloody thumbnails: http://www.georgewgirls.com/ ... answering
+         the age-old question: who was Playmate Of The Month when you
+         were born?: http://lglandon.free.fr/pmpb/ ... paging Dr FREUD:
+         http://www.mcphee.com/bigindex/current/10884.html ... comedy
+         mods: http://www.afrotechmods.com/stupid/memory/memory.htm ...
+         still stained with the bitter tears of betrayed IBM idealism:
+     http://cgi.ebay.co.uk/aw-cgi/eBayISAPI.dll?ViewItem&item=1068077127
+         ... A cup of coffee? (because it's a good source of Brownian
+         motion?): http://uk.news.yahoo.com/020221/12/csplt.html ...
+         http://www.theonion.com/onion3806/infograph_3806.html imitates
+         http://www.satirewire.com/charts/chat.shtml ... "very special
+         [cover] version" places threatening-sounding GOD on the scene:
+         http://www.09112001.com/images/memorials/silentnight.htm ...
+         ENDEMOL making reality quiz show for C5, plan to call it "Need
+         To Know"... an enclave of bgcolor="#00FFFF" in a sea of black
+         and white: http://vwww.abo.fi/users/rpalmber/enclaves.htm ...
+         c'mon, somebody cough up that $8M for http://www.anywhere.com/
+         so they can afford to move out of "5 Cottons Gardens":
+     http://whois.geektools.com/cgi-bin/proxy.cgi?query=anywhere.com
+         ... enough about me - "What colour are your eyes?", enquires
+         http://www.vsj.co.uk/subscriptions/ , flirtatiously...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> it's all war, all the time, with GLADIATORS OF WORLD WAR
+         II: RAF FIGHTER COMMAND (8pm, Fri, C5) snapping at the heels
+         of Nazi celebrity recollection I MET ADOLF EICHMANN (9pm, Fri,
+         BBC2), the largely self-explanatory KAMIKAZE IN COLOUR (8pm,
+         Sun, C5), plus PANORAMA's (10.15pm, Sun, BBC1) topical look at
+         the Paras' peacekeeping role in Afghanistan, following their
+         expert handling of unarmed civilians in Northern Ireland...
+         low-budget horror goes head-to-head in a double bill of Abel
+         "Driller Killer" Ferrara's THE FUNERAL (11.35pm, Fri, BBC2)
+         and THE ADDICTION (1.10am, Fri, BBC2) up against John
+         Carpenter compilation BODY BAGS (1.25am, Fri, C4)... though
+         neither quite as upsetting as the self-injuring antics of MTV
+         import JACKASS (11.25pm, Fri, C4)... Brittany Murphy briefly
+         interrupts Mark Dacascos' incessant kickboxing in superhuman
+         road romp DRIVE (9pm, Sun, C5)... BBC starts stranding THE
+         SIMPSONS at 6pm every weekday in order to help build up a
+         fanbase for when they defect to C4 in 2004... choose Bill
+         Murray heist caper QUICK CHANGE (9pm, Mon, C5) over Welsh
+         "Trainspotting" knockoff TWIN TOWN (10pm, Mon, C4), though
+         it's a tough call against Johnny "On-Digital monkey" Vegas on
+         ROOM 101 (10pm, Mon, BBC2)... and Powerbook-compatible aliens
+         miss that vital CERT advisory on INDEPENDENCE DAY (9pm, Tue,
+         C5): http://www.storsand.net/humour/cert/ca199613.html ...
+         following the cult bootleg-scene success of "John's Not Mad"
+         http://www.cartelcommunique.co.uk/johnsnotmad.htm , further
+         source material is provided in Tourette's syndrome follow-up
+         docu THE BOY CAN'T HELP IT (9pm, Wed, BBC1) - a profanity-
+         packed "spoiler" for the start of the new series of ER (9pm,
+         Wed, C4)... and the ratings-grabbing continues on Thu, with
+         HORIZON (9pm, Thu, BBC2) illustrating the nature-vs-nurture
+         debate with bungled-circumcision "The Boy Who Was Turned Into
+         A Girl"... as TROUBLE AT THE TOP (9.50pm, Thu, BBC2) follows
+         its penetrating analysis of what went wrong with Bucks Fizz by
+         applying ISO 9000 standards to BBC soap flop "Eldorado"...
+
+         FILM>> the beauty of Russell Crowe's mathematics is somewhat
+         overshadowed by that of Jennifer Connelly's hair in staggered-
+         release part-spy-movie, part-cinematic-exploration-of-the
+         signal-detection-theory-model-of-schizophrenia, A BEAUTIFUL
+         MIND ( http://www.capalert.com/capreports/beautifulmind.htm :
+         delusional frenzy; rage against God; woman placing man's hand
+         on her chest; a man and woman in bed - clothed. Maybe the man
+         and woman in bed together were married in the movie but the
+         actor and actress were not) - loosely based on the paper
+         "Signal Detection Indices In Schizophrenia On A Visual,
+         Auditory, And Bimodal Continuous Performance Test" (L Mussgay
+         & R Hertwig, Schizophrenia Research 3, 1990)... Michael
+         Douglas and Famke Janssen struggle to extract a 6-digit number
+         - just 1,000,000 combinations! - from bonkers Brittany "Drive"
+         Murphy in surveillance psycho-thriller DON'T SAY A WORD
+         ( http://www.screenit.com/movies/2001/don't_say_a_word.html:
+         [Murphy] runs her hand up inside her shirt, fondling her own
+         breast; we briefly see [Murphy's] panties)... while Cate
+         Blanchett plays an undercover Zeta Reticulan in boring "Saving
+         Private Ryan"-style romance CHARLOTTE GRAY (imdb: based-on-
+         novel; french-resistance; wwii; first-aid-nursing-yeomanry;
+         special-operations-executive; spy)...
+
+         RED BOOK AUDIO>> just a brief selection of random pop
+         soundalikes this month, with PAUL TAYLOR leading the pack for
+         not only identifying that the chorus of A1's "Caught In The
+         Middle" is "a blatant rip-off" of Natalie Imbruglia's "Torn",
+         but that you can replicate it yourself by feeding "Torn"
+         through the "Female-To-Male" EAX effect on Creative Labs
+         soundcards. Regarding Samantha Mumba's "Baby Been Thinking
+         Bout You Lately", and The Stone Roses' "Made Of Stone" ("When
+         the streets are cold and lonely/ And the cars they burn below
+         me") - "It's the same song innit!", argued ANONYMOUS TIPSTER,
+         though RONAN WAIDE ventured into yet more obscure territory by
+         alleging that Stillwater's "Fever Dog" (from the soundtrack to
+         "Almost Famous") "carries the same drumbeat" as U2's "Bullet
+         The Blue Sky" while "the guitar is only lacking the steel
+         slide bits at the end of each power chord"... "Perhaps Jesus
+         Jones are supporting me at SXSW?" piped up TOBY SLATER,
+         referring to an earlier version of the festival line-up
+         http://www.sxsw.com/music/0festival/bands/ linked to from NTK
+         2002-02-08. "Or maybe I'm supporting them?", Toby continues,
+         "Maybe we can get The Soup Dragons and Candy Flip along as
+         well". Or maybe it might help explain the preponderance of
+         American brands in your jaunty would-be anticapitalist anthem,
+         "Consumption", Toby: http://www.tobyslater.com/consumption/ -
+         no wonder you "keep on buying so much [you] don't need" if
+         you're buying it from Pacific Bell, whose core business is
+         providing local telecommuncations services for the West Coast
+         of the USA... and finally, following NTK 2002-02-08's Buffy-
+         inspired suggestion that the stammering Pop Idol guy should
+         "just sing everything he says", ALAN CONNOR sympathetically
+         weighed in with a list of cover versions he could do - Paul
+         Hardcastle's "19", for instance - if he wanted to pursue a
+         separate career as "MC Stammer", with further possibilities at:
+       http://www.mankato.msus.edu/dept/comdis/kuster/media/songs.html .
+         But it was left to LLOYD WOOD to sneer Simon Cowell-style at
+         the whole idea, pointing out that "stammering results from
+         paying too much attention to what you say [...] whereas
+         singing is overlearned, rehearsed, speech". Lloyd claims he's
+         "pretty sure New Scientist covered this recently" - presumably
+         as part of their "The Science Of Pop Idol" pullout special?...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                "basic text"
+              http://pythoncard.sourceforge.net/samples2.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

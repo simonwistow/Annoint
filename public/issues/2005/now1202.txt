@@ -1,0 +1,172 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2005-12-02_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+[Being lazy until Friday January 13th shakes us out of our complacency]
+  
+
+                              >> HARD NEWS <<
+                             bewildering menus
+
+        Not to be confused with this week's 1,000th US death row
+        execution, some future digital rights criminal bravely put
+        his or her name down as the thousandth OPEN RIGHTS GROUP
+        founding member, thereby setting off alarm bells at
+        Pledgebank HQ, and prompting 100 of the UK 1K (plus American
+        imports Jimmy "Wikipedia" Wales, Jonathan "Eldred v.
+        Ashcroft" Zittrain, and David "Stupid Network" Isenberg) to
+        hunker down in a basement in Soho, and plot and machinate on
+        what to do next. Sue Sony? Lobby MEPs? Throw oneself under
+        horses in the name of supporting fair use? Or, as the
+        cream.org gang indelicately suggested before going a bit mad
+        with the trolling possibilities of an open meeting, plotting
+        to win over "the unhosed stupid masses"? Whatever happens,
+        the thousand ORG founding members begin their whip-round on
+        Monday. Four extra basic civil liberties to the first fifty
+        to stump up their money!
+        http://www.pledgebank.com/rights
+    - of course you know they're just going to bank it and go to Rio
+        http://www.digitalrights.ie/
+                          - on the 6th, ORG's sister in IE kicks off
+        http://skimmed.cream.org/?p=13
+                                  - thanks guys, that ought to do it
+
+
+                              >> EVENT QUEUE <<
+                        GOTOs considered non-harmful
+
+        Is it just us, or do HUGH MACLEOD's quirkily ultra-modern
+        business card doodles remind anyone of an illustrated version
+        of Carl Steadman's "99 Secrets" of about 7 years ago? Either
+        way, it may be hard to avoid the irrepressible Stormhoek wine-
+        promoter in the future, as he's speaking at next week's LES
+        BLOGS 2.0 (Mon and Tue 2005-12-05/06, "Negocia", 8 Avenue de
+        la Porte de Champerret, Paris, EUR 200 but sold out anyway), a
+        reassuringly US-dominated gathering of folks who still think
+        that blogs and wikis are a pretty neat idea. Hugh then lures
+        Microsoft "Technical Evangelist" ROBERT SCOBLE back to the UK
+        for another crowd-pulling GEEK DINNER (from 6pm, Sat 2005-12-
+        10, The Texas Embassy, 1 Cockspur Street, London SW1Y 3DQ,
+        UKP20 inc Tex-Mex buffet and maybe some free booze) - a 1900%
+        cost increase over the other events that Ian Forrester had in
+        the basement of that pub that time, but perhaps a small price
+        to pay for some of the spiciest autistic groupthink around!
+        http://lesblogs.typepad.com/blog/program/
+         - "How is ze blogging affecting ze corporations?" Ooh-la-la!
+        http://thehughpage.com/London_Geek_Dinner_With_Robert_Scoble
+         - vs...
+http://web.archive.org/web/*/http://cheesebro.nonexiste.net/misc/99secrets.txt
+        http://www.etceteratheatre.com/page.php?pageID=2#show5
+         - speaking of quirky, London run for friend-of-NTK Ben Moor
+
+
+                               >> ANTI-MEMES <<
+              there's smoke, flames, http://dohthehumanity.com/
+
+        A squirrel, yesterday: http://news.bbc.co.uk/1/4489792.stm -
+        and the same lethal species as seen in Hertfordshire just 6
+        weeks ago: http://news.bbc.co.uk/1/4365002.stm ... all-new
+        "not that I'm bitter": http://xooglers.blogspot.com/ ...
+        slightly "things you might see in ads" Google goofs o' the
+        month: http://www.google.com/search?q=%22central+hating%22 ,
+        http://www.google.co.uk/search?q=%22hated+towel+rail%22 ,
+        http://www.google.co.uk/search?q=%22minty+condition%22 ...
+        a vital step towards establishing any "causal relationship":
+        http://google.co.uk/search?q=%22causal+sex%22 ... this year's
+        http://www.ntk.net/index.cgi?b=02002-11-15&l=10#l -style
+        "risumi": http://www.google.co.uk/search?q=fagade+building ,
+        inevitably also affects other French words with cedilla
+        accents, eg http://www.google.co.uk/search?q=gargon+waiter
+        ... how the new Kraftwerk-sampling Coldplay single sounds,
+        with Kraftwerk mixed back into it: http://www.m-1.us/ (search
+        page for "Kraftwerk")...
+
+
+                               >> TRACKING <<
+              sufficiently advanced technology : the gathering
+
+        Okay, so this is a Tracking that's about something that's
+        not actually ready, as such. Or even usable. Or even (our
+        usual excuse) something requiring all-hacks-to-the-deck
+        contributions from NTK readers. But as we note more and more
+        PowerBook-wielding ex-Linux users beginning to twitch at the
+        jerky kernel-crashes of Tiger, feel a little burnt by the
+        whole "Oh, Did We Say Big-Endian?" switch to Intel, and keep
+        suffering repeated "interventions" at conferences by their
+        Debian-wielding friends, we thought we should fire a flare
+        for a project that's just *about* to get interesting. The
+        convoluted Chinese-walled reverse-engineering of the
+        Broadcom chipset used in Apple's Airport Extreme is now
+        getting to the point where it can fire and receive radio
+        packets, and the team is now hard at work at building a
+        software implementation of the MAC layer. They've had
+        success at scanning and associating, they have a plan for
+        syncing nicely with the latest Linux kernels, and soon -
+        perhaps as soon as next NTK, they may well have something
+        you can use on your PowerPC kit to let Linux connect
+        wirelessly. Just in time for Apple to upgrade from
+        Broadcom completely, of course - but isn't that always the way?
+        http://bcm-specs.sipsolutions.net/
+           - somebody writes the specs, someone else writes the code
+        http://bcm-specs.sipsolutions.net/irc-logs/?C=N;O=D
+                           - remember, IT STILL DOESN'T WORK. So shh!
+        http://softmac.sipsolutions.net/
+- still, if you are thinking of helping out, here's where the work should go
+
+
+                               >> GEEK MEDIA <<
+                                 get out less
+
+        FILM>> Roger Ebert complains that the Human Genome Project was
+        actually completed in 2003 - but maybe future researchers will
+        discover they "missed a bit", thus justifying lines like "10%
+        of the human genome has not yet been mapped. Some say it's the
+        soul" in the promisingly knuckleheaded videogame adaptation
+        DOOM ( http://capalert.com/capreports/doom.htm : At a rate of
+        58.8 examples of violence per hour, that is very near an
+        average of one example of violence per minute; relatively
+        "lite" sexual content; massive firearms, repeatedly)... then
+        it's a great big unconvincing CGI animal Christmas, with Peter
+        Jackson both directing and starring in the title role of KING
+        KONG ( http://cndb.com/movie.html?title=King+Kong+%281933%29 :
+        While many have microanalyzed the inspiration that Fay Wray
+        provides, few have bothered to note that King Kong is totally
+        naked throughout the movie)... as New Zealand's Middle Earth
+        scenery is hastily repurposed as the backdrop to THE LION, THE
+        WITCH AND THE WARDROBE (imdb keywords: talking animal/ faun/
+        1940s), raising hopes that Disney will go on to make films of
+        all the books, including "Prince Caspian" and - acknowledged
+        by fans as the best of the series - "The Narnia Engineers"...
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+                      Registered at the Post Office as
+                        "not 'obscenely' overweight"
+
+http://enjoyment.independent.co.uk/food_and_drink/features/article327908.ece
+
+
+                                NEED TO KNOW
+           THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+             Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                         (K) 2005 Special Projects.
+            Copying is fine, but include URL: http://www.ntk.net/
+        Full license at: http://creativecommons.org/licenses/by/1.0
+
+   Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+            All communication is for publication, unless you beg.
+    Remember: Your work email may be monitored if sending sensitive material.
+      Sending >500KB attachments is forbidden by the Geneva Convention.
+             Your country may be at risk if you fail to comply.
+

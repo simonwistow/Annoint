@@ -1,0 +1,294 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-12-19_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                               >> HARD NEWS <<
+                           more "aahs" than "oohs"
+
+         In the sequential access of our lives, the end-of-year
+         marker is fast approaching, and anti-spam laws are clunking
+         into place across the world, like big Thames Flood Barriers
+         made of sieves. In the transnational world of spam, it's
+         fascinating to note the regional differences in spam laws
+         and the responses to them. In the US, the FTC is mandated to
+         research spam "bounty hunting" for 20% of the civil reward.
+         Such "Bayesian Dogs" will surely wander the blasted SMTP
+         relays of our dystopian future, using their "electro-nux" to
+         trace IP addresses and dispense justice, under the watchful
+         eye of maverick frontier Justice Larry "Hang Em High" Lessig. 
+         http://www.siliconvalley.com/mld/siliconvalley/5725404.htm
+                                - it's section 11 of the law, stronts
+
+         In the UK, of course, things are rather more formal. Three
+         clicks deep in the Information Commissioner's website,
+         you'll find a Word Document file which contains instructions
+         on how to report illegal spam. After answering such
+         technical questions as "What is the number assigned to the
+         line you normally use to access this email account?" (they
+         don't really get this packet-switched thing, do they?), you
+         should print out your response, the offending spam with
+         headers, *FOLD IT CAREFULLY* then put it in envelope and
+         post it to the Information Commissioners office. Please
+         enclose a sample of the penis-enlarging ointment, if
+         purchased.
+       http://www.informationcommissioner.gov.uk/eventual.aspx?id=95
+                        - no, thanks. This is really helping. Cheers.
+
+         And no NTK next week (it's Boxing Day, for heaven's sake), 
+         though we'll probably be back with the web's last ever review 
+         of 2003 at the start of January. Until then, a quick look at 
+         this year's other "unfinished business": while the browser-
+         friendliness of MARKS AND SPENCER remains subject to debate, 
+         reader EDDY PARRIS was more concerned of his inability to 
+         access dabs.com with Mozilla since their "wonderful" rework a 
+         few months previously, lamenting that the site is (otherwise) 
+         "one of the best online computer stores (savastore.com is OK 
+         but not up to dabs' old standard)". RUSSELL CRONIN faces a 
+         chilly Christmas (or a trip to the Post Office) after finding 
+         his Mac can't access his BRITISH GAS house.co.uk bill online, 
+         "due to the operating systems used by Macintosh computers", a 
+         spokesman was kind enough to let him know. But there's light 
+         at the end of the tunnel, at reader TIM reported that the 
+         ROYAL MAIL have responded to scathing criticism of their poor 
+         site usability [see NTK 2003-08-22], and have provided a 
+         detailed (and accessible) Consignia site-map - apparently by 
+         accidentally deleting one of their index.jsp's.
+         http://www.house.co.uk/
+              - those G3s must give off a lot of heat though, surely?
+         http://www.royalmail.com/gear/consignia/portal/content/html/
+                 - grabbed at http://www.ntk.net/2003/12/19/dohpo.gif
+         http://www.ntk.net/index.cgi?b=02003-08-22&l=41#l
+           - of course they had a secret, usable version all the time
+  
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         danger! danger!: http://www.ntk.net/2003/12/19/dohbeag.gif ... 
+         impartial BBC: http://www.ntk.net/2003/12/19/dohhunt.gif ... 
+         Blue Peter viewers forthright in "what to do with Saddam" 
+         debate: http://www.ntk.net/2003/12/19/dohbp.gif ... Rumsfeld 
+         no stranger to persuasively repetitive interrogation technique: 
+         http://www.ntk.net/2003/12/19/dohprof.gif ... even easier than 
+         it looks: http://www.xfm.co.uk/Article.asp?id=12288 - vs: 
+      http://www2.xfm.co.uk/staticweb/EdFeatures/flipflopquiz/datastor.js
+         ... good advice: http://www.ntk.net/2003/12/19/dohhold.gif ... 
+         we're sure there's another one-man show in this somewhere: 
+         http://www.ntk.net/2003/12/19/dohgor.gif ... "Buyyyyyy Meee", 
+         backwards: http://www.ntk.net/2003/12/19/dohdev.gif ... fresh
+         hell is this: http://www.ntk.net/2003/12/19/dohbristol.gif ... 
+         MI2G "derives continuous inspiration" from famously stable old
+         contraption: http://www.mi2g.com/cgi/mi2g/press/171203kh.php - 
+         vs http://www.monbiot.com/dsp_article.cfm?article_id=628 ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Of course, one attends the major social events of the season 
+         not so much to see who's there, as to "be seen" - which 
+         presents something of a dilemma regarding tonight's INQUIRER 
+         OUT OF FOCUS GROUP (from 6ish, Fri 2003-12-19, The Marquis of 
+         Granby pub, 52 Chandos Place, London, WC2N) - if you'd like to 
+         get crossed off The Register's Christmas Card list - and THE 
+         LONDON 2600 XMAS PARTY (from 7.30pm, also Fri 2003-12-19, "Be 
+         The Reds" Korean-style cybercafe, 39 Whitfield Street, London 
+         W1T) - where one of the biggest gaffes imaginable is ignoring 
+         someone's "handle" and asking, "No, who are you *really*?"
+         http://www.oofg.com/gallery/
+                 - sufficiently *in* focus to identify many attendees
+         http://www.london2600.org.uk/
+            - used to be "Cyberia", for those with very long memories
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         CD installs OK, cut scenes are fine, the graphics engine 
+         impressive in places, but it looks like those hoity-toity PC 
+         programmers forgot just one little thing: something we old-
+         fashioned reviewers like to call "gameplay". Oh, hang on. Ah, 
+         right - this is actually a DVD compilation of some of the 
+         winning flicks from the MACHINIMA FILM FESTIVAL 2002 (they're 
+         not called "Quake Movies" any more from the looks of things, 
+         because, well, they're not all made with Quake, for a start). 
+         It's a broad snapshot of the state of the art at that time (so 
+         no Halo-based "Red Versus Blue", for instance), ranging from 
+         the crude 1999-era cop spoof "Rick Jones 2" (director's motto: 
+         never use a cut transition when a whip-pan will do), via some 
+         slightly wacky short features (plus director interviews and 
+         commentary), to clips of the feature-length cut-scene sci-fi 
+         re-assemblage "Anachronox" (more of a hit than the Ion Storm 
+         game it started off in?). The fact that they're easier to make 
+         than conventional animation can mean some of the output 
+         slightly overstays its welcome, but UKP15 (inc p&p, no region 
+         coding, PAL or NTSC) gets you about 90 mins of introduction to 
+         the sort of thing that's currently possible (at least till the 
+         full version of "Anachronox" comes out on disc). 
+         http://www.machinima.com/displayarticle2.php?article=380
+                            - or just download a gig's worth of mpg's
+         http://www.redvsblue.com/archives/000141.shtml
+         - a medium slightly more suited to the action genre, we feel
+         http://www.pressplayontape.com/default.asp?pid=front
+                    - ideal Xmas gift for the C64 game soundtrack fan
+        http://www.amazon.co.uk/exec/obidos/ASIN/B000163WGW/needtoknow0e
+          - and coming soon on DVD: complete series 1 of "Press Gang"
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         this Newtonmas, why not build someone an ELECTRONIC TUNNELLNG 
+         MICROSCOPE http://sxm4.uni-muenster.de/stm-en/ or a UWB radar:
+         http://www.uniroma2.it/fismed/faculty/Stadero/papers/osee.pdf
+         ... or for those who have everything, tell them how you really feel:
+         http://www.iglooworm.netfirms.com/formreallycool.html ... watch 
+         an old black and white film: http://ascii.mabot.com/ ... settle 
+         down in front of an old comedy repeat, like LIFE imitates ONION:
+         http://www.theage.com.au/articles/2003/12/09/1070732175663.html
+         vs http://www.theonion.com/onion3539/national_funk_congress.html
+         ... play a half-hearted, aging parlour game like random URL 
+         roulette: http://www.deepsea.force9.co.uk/tinyroulette.html ... 
+         sing the old songs: http://www.cthulhulives.org/Solstice/ (before 
+         ESR appropriates them as a critique of Christian Socialism: 
+         http://www.ibiblio.org/esrblog/index.php?m=200312#135 ) ... and 
+         stay sad: http://www.buttafly.com/originals/friendster2.php ...
+     but happy: http://homepage.ntlworld.com/leon.stringer/space-age-xmas.html
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> Charlie "TVGoHome" Brooker writes, directs - and no doubt 
+         chose to narrate - "How To Watch Television" on THE ART SHOW 
+         (7.30pm, Fri, C4)... the original FREAKY FRIDAY (2.30pm, Sat, 
+         ITV) hails from an era where the destruction of police cars 
+         was considered cutting-edge entertainment... Madonna goes all 
+         "Will and Grace" in THE NEXT BEST THING (11pm, Sat, BBC1)... 
+         and Kate Winslet writes novels, discovers cure for Alzheimer's 
+         disease as YOUNG IRIS MURDOCH (9.25pm, Sat, BBC2)... Arnie's 
+         role in JINGLE ALL THE WAY (3.30pm, Sun, ITV) seems unlikely 
+         to make his list of AFI'S 100 HEROES AND VILLAINS (9pm, Sun, 
+         C4)... and C4's list obsession continue with THE 100 GREATEST 
+         TV TREATS OF 2003 (9pm, Wed, C4) and THE 100 GREATEST MUSICALS 
+         (9pm, Boxing Day, C4)... we still shudder at the VR car chase 
+         in the book of Tom Clancy's NETFORCE (9pm, Mon, C5) - not sure 
+         if their "NF" logo will be such a hit over here... set your 
+         video for a fun double-bill of Sex Pistols hagiography THE 
+         FILTH AND THE FURY (12.15am, Mon, C4) and Ethan Hawke's HAMLET 
+         2000 (2.20am, Mon, C4)... then Russell Crowe takes a swing at 
+         Big Tobacco in the hard-hitting THE INSIDER (11.05pm, Tue, 
+         ITV), arguably the highlight of a bunch of movie premieres 
+         that includes tired Western-fu SHANGHAI NOON (9.55pm, Wed, 
+         BBC1), French animation BELLEVILLE RENDEZ-VOUS (7pm, Christmas 
+         Day, BBC2), the frankly irritating AMELIE (9.15pm, Christmas 
+         Day, C4), and yet more Owen Wilson in extended Emo Philips 
+         sketch MEET THE PARENTS (8.30pm, Boxing Day, BBC1)... the 
+         Cook'd and Bomb'd forum reveal what *really* happened to those 
+         "leaked" scripts for THE OFFICE (10.15pm, Boxing Day, BBC1) 
+         http://chilled.cream.org/forums/viewtopic.php?t=20038 ... as 
+         the season of goodwill staggers to a close with overdesigned 
+         1984-adaptation BRAZIL (1.30am, Sat, BBC1) plus affectionate 
+         sci-fi-fan satire GALAXY QUEST (6.50pm, Sat, BBC1)... 
+         
+         FILM>> so the public can't stand annoying CGI character Jar 
+         Jar Binks, but can't get enough of the (equally irritating) 
+         Gollum - another of the mysteries unresolved in the *3-hour-
+         plus* fighting fantasy LORD OF THE RINGS: RETURN OF THE KING 
+       ( http://www.capalert.com/capreports/lotr-returnoftheking.htm :
+         talking trees; tale of sorcery; excessive cleavage; frequent 
+         and repeated graphic views of many unholy creatures; sparse 
+         dress on male character, repeatedly)... Jamie Lee Curtis is 
+         funnier than you might expect in bodyswap remake FREAKY FRIDAY 
+         ( http://www.capalert.com/capreports/freakyfriday2003.htm : 
+         three young boys donning a teen girl's brassieres then one of 
+         them rubbing the cups saying "o-o-o, o-o-o"; on Anna's bedroom 
+         door she had a sign which read "Parental Advisory: Keep Out of 
+         My Room". Professionally prepared, of course. While the 
+         bedroom may be Anna's bedroom, it is her mother's house)... 
+         but Saturday Night Live's magnificently bonkers Molly Shannon 
+         heads the bill in daft dogs-from-space anthromorphism GOOD BOY 
+         ( http://www.capalert.com/capreports/goodboy.htm : flatulence; 
+         subtle homosexuality suggestions; dogs were intoxicated with 
+         laughing gas; The concept of dogs as superior or even equal to 
+         man is in direct violation of God's Word that clearly directs 
+         that He gave us dominion over the animals [Gen. 1:28]... such 
+         a portrayal is contaminating to the youthful development of an 
+         understanding His Will, even if we as adults might feel it 
+         ridiculous to think so. If you choose to go to see this movie 
+         with your kids I ask that you make sure your young ones first 
+         understand God's Will regarding dogs)... 
+         
+         CONFECTIONERY THEORY>> in the last two weeks, we've seen 
+         things you wouldn't believe over at http://www.snackspot.org/ 
+         - drinks made of Aloe Vera, Basil Brush Chicken Boom-Booms, an 
+         inexplicably unadvertised Cadbury's "Banoffi" bar. Yet who 
+         could have suspected that the boldest offence against nature 
+         would have come from one of our own - the pioneer known only 
+         as KAPTAIN KOROLEV who, wishing to see a "Mars Christmas" 
+         (like a standard Mars but with "marzipan replacing the toffee" 
+         and "fruit cake in place of the soft nougat"), took matters 
+         into his own hands - with shocking, yet appetising, results: 
+         http://www.snackspot.org/thread.php?story=0312100935sbc ... 
+         none of the "official" Xmas tie-in sightings are really in the 
+         same league (eg, LINDT CHRISTMAS CHOCOLATE, filled with 
+         "smooth hazelnut and a hint of cinnamon and coriander", or the 
+         pricey - yet pungently fragrant - SENSATIONS NUT CLUSTERS 
+         http://www.snackspot.org/thread.php?story=0310122250cas ), 
+         though McDonald's have revived their TERRY'S CHOCOLATE ORANGE 
+         MCFLURRY, and Starbucks have unveiled a range variously 
+         described as "truly indulgent" and "truly luxurious" - their 
+         choice euphemism for "no nutritional information provided": 
+  http://starbucks.co.uk/en-GB/_Favorite+Beverages/Christmas+Beverages.htm
+         ... non-seasonal innovations of the month have included the 
+         relaunch of FOX'S POPPETS as "Ballsy Little something or 
+         others", ORBIT PROFESSIONAL chewing gum (45p per futuristic 
+         pack of 10), and almost an entire week's worth of strawberry-
+         themed sightings from STUART CAMPBELL, including the new 
+         NESTLE STRAWBERRY MATCHMAKERS WITH "BLACK PEPPER" FLAVOURED 
+         PIECES: http://www.snackspot.org/index.php?offset=21 ... but 
+         this is also a time to look to the future as well as the past, 
+         with advance alerts being issued for HOBNOBS FLAPJACKS, KFC's 
+         SMOKEY BLUE TOWER BURGER, FANTA APPLE SPLASH, DIET COKE WITH 
+         LIME (US only?), ROBINSON'S SQUASH FOR MILK (a fruity squash 
+         you add to milk, obviously), and a still-rumoured UK launch of 
+         the allegedly all-too-colourful PEPSI BLUE - as our coverage 
+         enthusiastically concludes, "Start checking your stools today!":
+         http://www.snackspot.org/thread.php?story=0311031130daa#upcoming
+                           
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                  "presumably has no idea we always do this"
+                   http://www.chuzpe.us/archives/000208.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+
+

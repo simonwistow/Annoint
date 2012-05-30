@@ -1,0 +1,288 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-03-15_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "Star Wars star Natalie Portman says she felt like a 'whore'
+         while filming love scenes with Darth Vader."
+                     http://uk.imdb.com/PeopleNews/2002/20020314.html
+  ... slashdot troll community spontaneous combusts: PNG at eleven
+
+
+                                >> HARD NEWS <<
+                                  canal plus!
+
+         So, was there really a News Corps conspiracy to haxx0r
+         OnDigital smartcards? Well, much as we like sticking it to The
+         (Australian) Man, we vote, as ever, for cock-up. Or rather,
+         unauthorised zero-day warezing by boasting employees instead of
+         sinister multinational masterplan.
+
+         The core of Canal+ accusation is that News Corps leaked the
+         reverse-engineered ROM image of the Canal+ MediaGuard smartcard
+         to the underground back in 1999, deliberately creating the
+         clone market for Canal+ and later OnDigital cards. The court
+         case will doubtless reveal more evidence, but looking at the
+         exhibit A, the SECAROM.ZIP source, you can see why Canal+ might
+         be suspicious. The hexdump is marked "useless to us! carte was
+         used as a testbed pull", and is signed "das deutches
+         underground". Now, there aren't that many people in this world
+         with a st16CF54 "testbed", but News Corps' NDS smartcard
+         research unit in Israel is one of them. And there are even
+         fewer Germans who can't spell the name of their own country.
+
+         But even if it did come from NDS Israel, was it really a
+         sanctioned leak? NDS's press release implies that Canal+
+         have been trying to poach the employee they say leaked the
+         code; and it certainly looks like a one-man leak to us. Now,
+         the GUARDIAN's been working hard to link this SECAROM.ZIP
+         leak with the dodgy NDS financial transactions with a
+         separate cardcracking Website - implying a corporate-wide
+         plot. Of course, the truth is that *everybody's* a bit of a
+         grey-hat in the cryptocard community. That an NDS security
+         chief might have paid off a hacking site to rat on its users
+         (a theory confirmed by the chipping underground) is as
+         shocking to us as a single reverse-engineer going all
+         "information must be free" about his latest exploit. Still,
+         if any of these suppositions are true, it doesn't help NDS:
+         they're still responsible for rogue employees. But it's nice
+         to know that Murdoch isn't quite *that* machiavellian. Isn't it?
+         http://media.guardian.co.uk/news/story/0,7541,667040,00.html
+                 - funny that only the Grauniad's covering it, isn't it?
+         http://www.guardian.co.uk/online/story/0,3605,666690,00.html
+         - of course the Guardian would never link to cracks, right?
+                                     (see "Forget It", 3rd link down)
+         http://www.google.com/search?q=secarom
+                                  - oh sure *we'll* direct link to it.
+         http://www.nds.com/newspdfs/NDSStatement_120302.pdf
+                  - "why would they want to hire such a bad, bad, man?"
+
+         Of course, some smart cards are easier to crack than others.
+         Wandering, as every geek posse visiting our nation's capital
+         is wont to do, into the Trocadero, the combined office RFID
+         tags of the 2600 London posse were enough to set off one
+         store's anti-shoplifting alarms. Of course, the 2600 gang
+         are no strangers to tripwires (allegedly). But how bad,
+         wondered the curious group, will it get when the Underground
+         introduce their RFID-based contactless travel cards in the
+         Autumn? Well, looking through the tech specs, the London
+         Transport PRESTIGE cards look to be a bit more sophisticated
+         than a few coils of wire stuck up a CD. But not *much* more.
+         48-64 bit keys? Pah. Protected against replay attack? Young
+         man, London's finest will be taking these things home for
+         garage electron microscopy *every night*. Is the capital
+         heading for the age of free-rides-for-the-l33t "Haxx0red
+         Carriage"? And if so, which sinister corporation is going to
+         bankroll *this* research? Brighton Council? The AA?
+         http://www.spy.org.uk/london2600/01-03-02-zxnpp.htm
+                                       - ooh, DNScon confirmation too
+         http://www1.slb.com/smartcards/news/02/sct_london0801.html
+                                                     - ooh, new toys!
+
+         If you want cock-ups *and* conspiracies on an almost daily
+         basis, wander no further than the good old domain name
+         billing system. Why just today, if you were watching the
+         servers, you'd have seen Demon put "police.uk" (ie every cop
+         force in the country) "on hold" for not paying their domain
+         bill. That's rather akin to suspending the whole of co.uk
+         until Mr Co forks over his fiver. But that's not as bad -
+         let's face it, nothing is *ever* as bad - as NETWORK
+         SOLUTIONS. They just sent a bill to ARIN. For in-addr.arpa.
+         http://www.freesoft.org/CIE/Course/Section2/15.htm
+                  - long technical explanation of aforementioned joke
+http://www.netsol.com/cgi-bin/whois/whois?STRING=root-servers.net&SearchType=do
+                                     - 2003-07-05 could be a fun date
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         After "Developers, Developers", a new BALLMER catchphrase:
+         http://makeashorterlink.com/?O30C2698 ... "arrogance of science"
+         revealed: http://www.ananova.com/news/story/sm_493478.html vs
+         http://www.wired.com/news/technology/0,1282,50930,00.html ... Third
+         phase not looking good: http://www.ntk.net/2002/03/15/dohtony.gif
+         ... http://www.thermaltake.com/ chooses "TT BOY" as mascot, unaware
+         of sordid past: http://www.google.com/search?q=%22TT+Boy%22 ... oh
+         these popstar riders I: http://www.ntk.net/2002/03/15/dohbragg.gif
+         and II: http://www.ntk.net/2002/03/15/dohass.gif ... GAS: setting
+         your child on fire : http://www.cambridge-gas.co.uk ... then killing
+         the rest of your family: http://www.ntk.net/2002/03/15/dohgas.gif ...
+         those awful WEB BUGS: (hit View Source and page to the bottom)
+         http://news.bbc.co.uk/hi/english/sci/tech/newsid_1493000/1493152.stm
+         ... and ah, the unobtainable Fender Strat: (try clicking on form)
+   https://secure.room101.co.uk/turnkey.pl?item1=Fender+strat&price1=?0.01 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Thanks to everyone who's mailed with suggestions of what
+         they'd like to see at NTK's increasingly less hypothetical 5th
+         birthday convention: big-league speakers like "Gonzo-
+         Cluetrain-RageBoy-Locke" (Steve Johnston); "Wendy Grossman
+         appearing as a folksinger" (Anon); and, it goes almost without
+         saying, "DECENT BITTER in PEWTER TANKARDS" (J-P Stacey). We'd
+         estimate there's a fairly good chance of all three at the
+         potentially like-minded RICHARD STALLMAN event in Cambridge
+         the Monday after next (4.15pm, 2002-03-25) - the musical
+         element being Stallman himself who, it seems, can provide
+         impromptu performances of his "Free The Software" song at the
+         slightest provocation. "Software Patents - Obstacles To
+         Development" is the unapologetically partisan theme of the
+         talk, it's free to get in - RSVP to rmstalk@fipr.org to let
+         them know numbers - but it marks the launch of the "Friends of
+         FIPR" fundraising initiative so bring your cheque book. In the
+         spirit of defiance that the Foundation for Information Policy
+         Research is famous for, the venue is actually the "William
+         Gates Building" where, local legend has it, the spirit of
+         Microsoft is so powerful that even the dual-boot PCs
+         automatically revert back to Windows after half an hour.
+         http://www.fipr.org/stallman.html
+              - aka the "University of Cambridge Computer Laboratory"
+         http://graphics.stanford.edu/~eldridge/random/rms.html
+ - vs http://www-1.ibm.com/servers/eserver/linux/fun/freethecode.html
+
+         And the DECENT BITTER in PEWTER TANKARDS? Well, that'll be
+         consumed - metaphorically, if not literally - at THE
+         INQUIRER FIRST BIRTHDAY CELEBRATION (from 6pm, next Fri
+         2002-03-22, upstairs at the Coach and Horses, Poland St,
+         London W1). And no, we don't know if anyone from The
+         Register is going. NTK has never been at war with The Inquirer...
+         http://www.oofg.co.uk/OOFG_21_09_01/Images/Image11.jpg
+             - NTK is at war with The Register. Do try and keep up...
+         http://www.moralsupportonline.org/events.htm
+                         - assuming you get this before 8pm on Fri...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         "Found haiku" are lines         "haiku", a python
+         that match the five seven five  two point two script will parse your
+         syllable form of...             own text files for these.
+
+         ... japanese verse, but         to count syllables
+         which occur by accident         it needs both the cmu
+         in normal text files.           pronunciation
+
+         Most are quite ugly             word list and a great
+         and unpoetic; still now         deal of time. And yeah, we know
+         and then a gem shines.          they're not real haiku.
+
+                          Quit whinging, art boy:
+                          True art needs the human touch.
+                          Or python two three.
+
+         http://www.oblomovka.com/code/haiku.php3
+                                               - bad poetry; bad code
+         http://www.phenry.org/junkdrawer/haiku/
+                                                     - bad attitude
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         thank god: http://squeep.com/~fek/think-of-the-domokun.jpg ...
+         http://www.tamponhenge.co.uk/... let's play  hunt the BOEING:
+ http://www.asile.org/citoyens/numero13/pentagone/erreurs_en.htm vs found it!
+ http://www.multimap.com/map/photo.cgi?client=photomap&X=492000&Y=142000
+          ... http://www.digitalconsumer.org/bill.html : a nice start, but
+         maybe add these: http://maroney.org/CrowleyIntro/Texts/Book_77.html
+         ... photo then shop your pals: http://flashface.flashmaster.ru/ ...
+         clear infringement of Twisted Sister copyright, officer: nick 'em
+         http://members.aol.com/matt999h/PoliceReform.htm ... vote tit!
+         vote tat! vote for http://alfimp.port5.com/poll.shtml ...
+         www.tourettes.com fails to counterract www.tourettes.co.uk and
+         http://www.hare.yucom.be/Useless/Tourette/tourette.html ... latest
+         news from http://www.go2africa.com/kenya/amboseli/lake-chala/ ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> it's a big week for classic sci-fi movies whose memories
+         might otherwise be tainted by recent travesty remakes, with
+         1970s "2001"-style arthouse beat-em-up ROLLERBALL (11.15pm,
+         Fri, BBC1), 1960s technicolor treat THE TIME MACHINE (5.30pm,
+         Sat, BBC2), and, er, MORTAL KOMBAT (12.30am, Fri, ITV)...
+         innocent working-class teenagers are put through the most
+         degrading, horrifying experience imaginable, but that's enough
+         about Daisy Donovan's topical entertainment quiz DOES DOUG
+         KNOW? (10.30pm, Fri, C4) - BBC2 have also recreated the WW1
+         experience in pop-history reality show THE TRENCH (9pm, Fri,
+         BBC2)... and hopefully Michael Parkinson's 2001 TV MOMENTS
+         (9pm, Sat, BBC1) will include the "100 Greatest TV Treats Of
+         The Year" shown by C4 over Christmas... the camera may have
+         caught reader Jenny Colgan not wearing an NTK t-shirt during
+         phone-based docu-soap MOBILE LIVES (11.55pm, Sat, BBC2)...
+         CCTV "thriller" THE END OF VIOLENCE (12.55am, Sat, C4) is
+         leisurely even by Wim Wenders standards... Freud's relatives
+         imitate "They Live" in the history of subliminal consumerism
+         THE CENTURY OF THE SELF (8pm, Sun, BBC2)... while C5 provides
+         its own thought-provoking examination of the id in Sly
+         Stallone/ Teri Hatcher action trash TANGO AND CASH (9pm, Sun,
+         C5)... watch out for Simon Beaufoy's god-awful Syntegra ad in
+         the breaks during THE FULL MONTY (9.30pm, Sun, C5)... Monday
+         is "Blade Runner" alumni night, with bonkers Sean Young
+         psychothriller A KISS BEFORE DYING (9pm, Mon, C5) and Joanna
+         Cassidy home alone comedy DON'T TELL MOM THE BABYSITTER'S DEAD
+         (10pm, Mon, C4) - intriguingly scheduled *before* the vastly
+         superior Linda Fiorentino noir THE LAST SEDUCTION (12midnight,
+         Mon, C4)... tough choice between the first hour of Michael Bay
+         technocrane epic ARMAGEDDON (9pm, Tue, C5) and hints of Alan
+         Partridge in WHEN LOUIS MET KEITH HARRIS AND ORVILLE (9pm,
+         Tue, BBC2)... a single mum attends Burning Man in LOOKING FOR
+         KICKS (11.30pm, Tue, C4)... there'a a teen tearaway double-
+         bill on Wed, with Christian "American Psycho" Bale in WW2
+         Spielberg flop EMPIRE OF THE SUN (8pm, Wed, C5) followed by
+         John Leguizamo's freakish hispanic "Ferris Bueller" vehicle
+         THE PEST (10.50pm, Wed, C5)... as E4 transplant MAKE MY DAY
+         (10.30pm, Thu, C4) imitates TVGoHome's "Boom Goes Lovergirl":
+         http://www.tvgohome.com/3006-2000.html ...
+
+         FILM>> it's Bill Murray, Gwyneth Paltrow, Gene Hackman and the
+         kid who plays "Harris" in "Freaks and Geeks" - together at
+         last! - in the almost unbearably whimsical extended-"Rushmore"
+         curio THE ROYAL TENENBAUMS (imdb: bathtub-scene/ black-comedy/
+         deadbeat-dad/ dysfunctional-family/ incest/ off-beat/ sex/
+         bb-gun/ bird/ child-prodigy/ dalmatian/ delinquent/ divorce/
+         dog/ family-reunion/ high-blood-pressure/ hotel/ interracial-
+         relationship/ mice/ narrated/ playwright/ rat/ smoking/
+         tennis/ terminal-illness/ wealth/ wedding/ wooden-finger) -
+         and not as many jokes as "Not Another Teen Movie" either...
+         unfortunately, "from the makers of The House On Haunted Hill"
+         doesn't bode too well for CGI William Castle remake THIRTEEN
+         GHOSTS ( http://www.cndb.com/movie.html?title=Thirteen+Ghosts
+         I saw Shannon Elizabeth's name in the credits and assumed she
+         would be the one getting naked. Instead it was this ghost that
+         was painted in blue makeup. Granted, the ghost had nice
+         breasts, but it did not do anything for me)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "och, put your money away Wendy, this one's on the house"
+                  http://www.theinquirer.net/08030211.htm
+
+   NEED TO KNOW. THEY STOLE /  OUR REVOLUTION. NOW / WE'RE STEALING IT BACK.
+
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

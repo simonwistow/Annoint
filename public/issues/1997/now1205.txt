@@ -1,0 +1,330 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____05/12/97_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "It came as shock to learn that much of the system relies
+         on volunteers."
+             - Sally Tate, MD of Prince Plc, on the co-operative Net
+                           and people *pay* you to be this ignorant?
+
+ [On which note, apologies to anyone who received three times the
+ Knowledge last weekend. We'd like to claim all the credit, but actually
+ it was mostly down to a bunch of "professionals" radically
+ misconfiguring their mailserver further down the line from us. We've put
+ some safeguards in to stop it affecting the list in the future, but then
+ again, we're volunteers: what do we know?]
+
+
+                               >> HARD NEWS <<
+                               continuing sagas
+
+         The ONE IN A MILLION gamble that didn't come off: two kids,
+         just out of college, who thought they were on to a money-
+         spinner reselling domains like "spice-girls.net" and
+         "marksandspencer.com". Instead, they got billed 60,000UKP
+         legal costs this week, and banned from ever registering
+         domains again. What future have they left? Can we suggest
+         that they partner with some unscrupulous lawyers, and
+         pursue a career in nailing all the big companies that the
+         litigants conveniently ignored? Like RBR Group, perhaps, a
+         computer hardware reseller who unaccountably owns
+         scaryspice.co.uk? Or what about virginbrides.co.uk, owned
+         by "Associated Computing Ltd" but hosted by NetBenefit -
+         who also run virginet.co.uk (owned by the mysterious
+         Virginet Ltd)... Then there's Bijoux Accessories'
+         marksandspencers.co.uk and Megatronix' spice-girls.co.uk -
+         the "unofficial home of the Spice Girls on the Web"? Or
+         maybe even that irrepressible NetNames millionaire Ivan
+         Pope, who probably thinks he got out of domain-squatting
+         just in time, but still, we notice, has "nscape.com"?
+         http://www.ntk.net/names/uknames.zip (1.8MB)
+         - one week only! The complete "co.uk" list legal starter kit!
+
+         Ongoing confusion at MSN, who last week said they were
+         pulling out of content, and this week were said to be
+         packing in the ISP business. That pretty much leaves them
+         in charge of forwarding their customers' mail, so some
+         backtracking was in order. To get this straight: MSN UK and
+         US are "toning down" content, but still providing
+         connectivity. MSN France and the rest of the world are
+         pulling out of connectivity, not sure about content. In the
+         meantime, MSN employees must be looking enviously to
+         Redmond's cosying up to big-bandwidth providers, and
+         thinking "why did we end up in this Web backwater"?
+         http://www.msn.co.uk
+                            - well, that goes for all of us, I guess
+
+         Weird WIRED coincidences: one year ago, Wired Ventures,
+         after two failed IPOs, manages to get private funding -
+         presumably with strings attached. Six months later, after a
+         flurry of restructuring, colourful Wired founder Louis
+         Rossetto steps down as CEO; six months after *that* (this
+         week), there's another restructuring, and Rossetto quits
+         his publisher role too. Could it be that Wired Ventures
+         isn't hitting some performance milestones, and that
+         Rossetto's increasing distance from the centre of
+         operations are part of that deal? Au contraire - "I gave
+         myself a promotion", he told reporters at C|NET. Regarding
+         all these scurrilous stories, he added "what part of 'no
+         truth' do you not understand?". Tell you what Louis - we'll
+         admit not understanding your "no" if you admit losing
+         contact with "truth". Would that be fair?
+         http://www.weird.co.uk/
+               - other coincidences: we resume slagging off Wired...
+         http://www.spesh.com/danny/wireduk/
+            - days after they go to press with an NTK review. Spook!
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         PC GAMER gets exclusive Quake II review/coverdisk, after
+         running cover stories on 2 other Activision releases (Heavy
+         Gear, Dark Reign) earlier this year... BILL GATES "not
+         buying home in Notting Hill"... Campaign's REVOLUT!ON not
+         quite leaping off the newstands... "Schools Buying
+         Computers, With No Assurance Of Payoff" reveals NEW YORK
+         TIMES... EMAP give "Golden Joystick '97" awards to SUPER
+         MARIO 64, QUAKE, LARA CROFT - and three of their own
+         magazines... JANET stamping down on Quakeservers (they
+         account for >10% of some unis' Net traffic)... PLAYBOY to
+         launch CYBER BACHELOR PAD... BT "hamstrung by bureacracy",
+         uncovers expert report... producers admit to "homosexual
+         subtext" in XENA: WARRIOR PRINCESS... C4 will not be
+         recommissioning SPACE CADETS, HERE'S JOHNNY, BRASS EYE...
+         GUARDIAN reports software piracy in Russia at "an all-time
+         low" - of 91%... 2000AD features Blair droid... GILBERT &
+         GEORGE screensaver quite literally shit... non-tech workers
+         resent geek salaries, observes WALL STREET JOURNAL...
+
+
+                              >> EVENT QUEUE <<
+                             for the LaserJet Set
+
+         No big events this week (well, there's apparently some sort
+         of Java thing at the weekend, but everyone says that'll be
+         rubbish). Never mind: we have the perfect cheap date
+         instead. Pop out with your loved one between 4.30pm and 8pm
+         this weekend, and look up at the Moon. Surrounding it, you
+         should be able to spot Mercury, Venus, Mars, Jupiter and -
+         with a telescope or strong pair of binoculars, Uranus and
+         Neptune. If your partner hasn't got a Masters in
+         Astrophysics, you could probably even make out you spotted
+         Pluto. Tell him or her that the planets won't be lined up
+         like this for another century. Then go quiet and sigh.
+         You'll come across as deep, and will probably have saved at
+         least a tenner on food and entertainment costs.
+         http://www.cybersky.com/
+         - Wintel planetarium simulator, sans "Pink Floyd" evenings
+         http://www.lerc.nasa.gov/WWW/PAO/warp.htm
+         - meanwhile, re: warp - NASA asks "are we nearly there yet?"
+
+
+
+                                >> TRACKING <<
+                               really? for me?
+
+         There is a santy claus, after all - and his name is
+         Carmack. The final production copy of QUAKE II went to gold
+         on Monday, and is now being pressed ready for sale. CDs are
+         expected to hit the UK on the 12th, but those who aren't
+         afraid of premature spooge can peruse the online manual,
+         which has sneaked its way onto the Id servers. Trivia to be
+         gleaned: the Quake II theme song is by Rob Zombie (not, one
+         suspects, the name he was christened with), while
+         soundtrack is by Sonic Mayhem (who were asked that their
+         work should have a "Doom" feel to it). Net play hasn't yet
+         been tweaked for TCP/IP, although the much improved single-
+         player mode should allow Id breathing space to release a
+         suitably enhanced patch. Ah, who cares. Let the Yule
+         giblets fly!
+         http://satan.idsoftware.com/q2manual/
+                              - there's life in that OpenGL clan yet
+
+         Expect plenty of hoo-hah about I/O/D 4, the new piece by
+         net.art veteran MATTHEW FULLER and Escape. Critics will be
+         astounded to discover an artwork that actually does something,
+         rather than just some fat Director file padded out with
+         some school-of-ZX81 animation. But what *does* it do? Well,
+         as far as we can see, I/O/D 4 represents a ingenious
+         rediscovery of the concept of a net spider (exciting
+         concept circa 1994) in the form of a (Director) program
+         which grabs Web pages by repeatedly sucking up the HTML and
+         then searching through the hyperlinks while drawing pretty
+         patterns. The artists themselves believe this to be "an
+         astoundingly good program", which is dangerous talk about
+         something that a CS graduate could knock up in an evening.
+         Of course, we're sure CS graduates wouldn't understand the
+         deeper ramifications of the work.
+         http://www.backspace.org/iod/
+             - Nice interface though. We add, just as patronisingly.
+         http://www.polbox.com/a/aris/scene.htm
+           - *Real* astoundingly good programs. And better art, too.
+
+         INTERNET EXPLORER 4.01 is out. Lots of extras for deaf or
+         blind computer users (the only ones Microsoft believe
+         haven't yet installed the original), some tweaks for those
+         high publicity security flaws that no-one will ever
+         exploit, and improved functionality for those who "may have
+         experienced difficulties in installation". So this time
+         "hyper" Active Desktop won't completely trash our system so
+         we can't de-install? Oh, gimmee-gimmee.
+         http://www.microsoft.com/ie/
+               - where would you like to attempt to return to today?
+
+         And meanwhile, on the beta front: you can see the future
+         look of ICQ with C|Net's download.com preview release. Also
+         kicking about: the QuickTime 3.0 preview developer release.
+         http://www.download.com/  - ICQ 98 : it's in here somewhere
+         http://quicktime.apple.com/preview/     - those Apple guys.
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         www.handykey.com ... who owns trademark to "Internet
+         Explorer"? Hint: it's not Microsoft... alcopop market
+         collapses as teenyboppers move to port, cigars... a
+         staggering "1 out of every 130" Icelanders own footy sim
+         CHAMPIONSHIP MANAGER '97/98, estimates CTW... fanfic of the
+         week: www.geocities.com/SoHo/Studios/7708/... emulator page
+         o' the month: http://ds.dial.pipex.com/town/estate/dh69/
+         ... do Microsoft webservers serve Explorer clients
+         first?... www2.gol.com/users/zapkdarc/ ... amateur rocket
+         of the century: www.hafan.demon.co.uk/manhole.htm
+         ...playing the Beastie Boys' Sabotage over the opening
+         scene from STAR WARS (as Darth emerges from smoke)...
+         www.alexchiu.com ... www.fsc.fujitsu.com/language/home-e.html
+         ... 38,000 victims of Moldavian porn scam can claim
+         money back - if they dare... weapon of the millenium:
+         http://omnibus.uni-freiburg.de/~jepsen/thz/lassword.htm ...
+
+
+                               >> GEEK MEDIA <<
+                         i/o for those too tired to o
+
+         TV>> rivalling even BBC2's bizarre theme evenings, BBC1
+         dedicated today's daytime output to a celebrarion of "Red
+         Hair" (Fri, 9am-3.30pm), with a specially freckley Kilroy
+         and "links with asthma", but no really famous gingers - eg
+         Bonnie Langford, Chris Evans, Malcolm McLaren (or Malcolm
+         X)... Danish porn docu STORYVILLE (10pm, Sat, BBC2)
+         "contains some nudity and strong language" - thank you, the
+         Radio Times... Bristolian beatmasters Roni Size and Tricky
+         are (respectively) profiled in THE WORKS (7.30pm, Sat,
+         BBC2) and ARTHOUSE (11.05pm, Sun, C4) - Arthouse is maybe
+         the more prestigious slot, considering that The Works also
+         profiled Bush and Hughie Green... here's hoping for a
+         dramatic "-I'm Spartacus! -No, *I'm* Spartacus" end to the
+         horrifically entertaining I'M ALAN PARTRIDGE (10pm, Mon,
+         BBC2)... Tommy Lee Jones battles cook-turned-commando
+         Steven Seagal over how much they know about cartoons in
+         all-at-sea actioner UNDER SIEGE (9.30pm, Tue, BBC1)...
+         Scully faces brain cancer (caused by alien abduction, or
+         just a warning from the producers not to hold out for a
+         massive payrise?), and the Lone Gunmen return as true
+         heroes of THE X FILES (10.15pm, Wed, BBC1)... oh, and Steve
+         Martin's last *great* film, ROXANNE (9pm, Thu, C5) is
+         actually based on some French literature, and not the
+         Police/Puff Daddy song of the same name...
+
+         MOVIES>> basically a week of good ideas for movies spoiled
+         by ropey execution, whether it's the gripping casting of De
+         Niro, Stallone, Keitel - and Janeane Garofolo! - in latter-
+         day Western COPLAND (imdb: crime / drama / police /
+         vigilante / small-town / conspiracy)... or the Sister-Act-
+         On-The-River-Kwai singalong PARADISE ROAD (MPAA rated: R -
+         for "fairly graphic scenes of women being beaten and
+         tortured, as well as some nudity")... then there's 2
+         way-too-unpleasant crime thrillers: Billy Zane and Gina
+         Gershon in THIS WORLD, THEN THE FIREWORKS (imdb: crime /
+         incest / drama), or the remake of the inspiration for
+         Keitel's role in Pulp Fiction, CURDLED (MPAA rated: R - for
+         "violence/gore, and brief language")... big old John
+         Goodman and a semi-Britcom cast will warm the heart of any
+         Micro Machines fan in THE BORROWERS (MPAA rated: PG - for
+         "mild peril and some crude humor")... while for outright
+         seasonal sentiment, check your cynicism for the re-released
+         Capra classic IT'S A WONDERFUL LIFE (imdb: drama /
+         frustration / angel / suicide / christmas / bank / fantasy)
+         - not to be confused with Nikki Sinn's adult video homage,
+         TITS A WONDERFUL LIFE (imdb: sex / hardcore)...
+
+         "REAL" RADIO>> pompous discussions of the word "baggy" in I
+         WANNA BE ADORED (9pm, Sun, R1), as Radio 1 mourn the
+         passing of the Stone Roses *only* 14 months after they
+         split... this week, it's secret river bathing that's
+         apparently BETTER THAN SEX (9.15pm, Mon, R4) - well, for
+         Radio 4 listeners, maybe... sporting a pair of Harry Palmer
+         specs a decade before Jarvis, mad lo-fi veteran Jad Fair
+         twiddles Half Japanese's knobs in another session for JOHN
+         PEEL (8.40pm, Tue, R1)... they probably won't be
+         namechecking Sid and Hattie's "Wedded Bliss" agency in
+         Carry On Loving when THE NETWORK (8.30pm, Tue, R4) explores
+         the history of computer dating... foul-mouthed screenwriter
+         Kevin Smith gets 25 minutes to explain just *why* she had
+         that annoying squeaky voice, as the writer/director of
+         Clerks, Chasing Amy (but not Superman Lives) gets
+         interviewed in POSTSCRIPT (10pm, Wed, R3)... FINDING
+         FELLOWS (2.00pm, Thu, R4) is the bizarre title for another
+         of R4's seemingly endless supply of posh geek dramas, this
+         time about "identity on the net"... with Brass Eye
+         incredibly passed over (in favour of Whose Line Is It
+         Anyway) in C4's depressing democratic evening, Radio 1
+         continues to pass over BLUE JAM (12midnight, Thu, R1), just
+         in case anyone complains about those live reports from
+         crucifixions...
+
+
+                                 >> COMPO <<
+                  will swap "livelihood" for "shoddy gifts"
+
+         Only one more week to go in our increasingly perilous hack-
+         an-URL-win-a-prize contest (http://www.ntk.net/compo/ for
+         details and disclaimers). Last weeks' winner is David Cross
+         of... ahh, a government organisation. Congrats, David - you
+         win a "FIGHTING FORCE" disk for the PlayStation (no
+         instructions, but how complicated can it be?) and,
+         fittingly, a life-size poster of James Bond that we nicked
+         from a press launch. We have no idea how we're going to get
+         that it to you, though. Could you just send the boys
+         around?
+
+         This week's clue is for an URL in the form
+         http://www.********.co.uk, where the blank is filled with
+         the answer to this question:
+
+               What product "hyper"links pro golfer KARRIE WEBB with
+               ad agency LOWE HOWARD-SPINK?
+
+        (and you can't do this using normal search strings. We checked.)
+
+
+                              >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+      It is registered at the Post Office as "as seen on the Jennicam".
+                 ( http://www.jennicam.org/gallery/j31.jpg )
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1997 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+

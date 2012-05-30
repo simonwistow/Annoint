@@ -1,0 +1,337 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-08-03_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Ron Dick, head of the FBI's National Infrastructure
+         Protection Centre, says too many computer users regard their
+         systems as dumb appliances, not recognising that a computer
+         needs 'to be constantly monitored and maintained. It
+         functions like a living organism'."
+         http://www.ananova.co.uk/news/story/sm_363549.html
+- indeed my British counterpart at the National Hi-Tech Crime
+         Unit informs me that they are practically "electronic brains"
+
+
+                                >> HARD NEWS <<
+                               actually, no news
+
+         Despite fears of the usual authority-distrusting programmers
+         milling around in "what do we do now?" disarray, we're pleased
+         to report that, at time of writing, the UK's highest-profile
+         FREE SKLYAROV protest went without a hitch outside the US
+         embassy in London this lunchtime. Baffled onlookers and a van
+         full of riot police had Sklyarov's unjustifiable incarceration
+         [see previous NTKs] explained to them by means of leaflets,
+         placards, chanting, "street theatre" reconstructions of his
+         arrest, and impromptu filk versions of "YMCA" but with the
+         lyrics changed to be about the "DMCA" instead. Attendance was
+         estimated at "between 30 and 40" by organiser Dan Aykroyd, who
+         doesn't look like he does on the telly at all, and "refused to
+         be drawn" on why the other cast members of Sneakers couldn't
+         make it. Assuming no other railway stations blow up between
+         now and then, the whole thing should be on Newsnight at
+         10.30pm tonight, though we bet they just show the bit where
+         we're wandering round Hyde Park trying to work out where the
+         embassy is, with some smart-arse "geeks couldn't organise a
+         piss-up in a brewery" commentary from Paxman.
+         http://news.zdnet.co.uk/story/0,,t281-s2092269,00.html
+         - many from as far away as Cambridge and Underground Zone 4
+         http://www.xenoclast.org/freesklyarov/
+                                     - and a good time was had by all
+         http://www.google.com/search?q=dmca+ymca
+         - also thought this tune would go well with "My-S-Q-L"
+
+         Of course, this sort of decentralised direct action is all
+         very well in the short term, but as we all know, when you
+         absolutely must get the trains running on time, leadership
+         is vital. Or at least that was the muttering after July's
+         Open Source Convention; commentators like Dan Gillmor spoke
+         of how dignified Microsoft's Mundie was, compared to the
+         fractious, fractured free software zealots. And Webmonkey's
+         Jay Greenspan harkened back to a time when you could tell
+         who was *really* in charge by reading the name at the bottom
+         of the press release. Jay suggested that what was really
+         killing Free Software was that people was just doing what
+         they wanted without someone telling them what everyone
+         should do. He's right: and to get us in the mood for having
+         a boss again, here's a nice video of the Microsoft President
+         and CEO speaking to the troops. Think statesmanlike.
+         http://www.ntk.net/ballmer/dancemonkeyboy.mpg
+                                                          - Think WWF
+         http://www.ntk.net/ballmer/dancemonkeyboy.avi
+                                         - Think Monty Python's Gumby
+
+         We're sure we can't be the only ones to be horrified by the
+         hysterical overreaction to last week's BRASS EYE. Wherever
+         you look, you're faced with petitions, word-by-word
+         denunciations, and angry polemics by single-minded editors
+         with a track record of deceiving their audience, pandering
+         COOKDANDBOMBD's coverage, hey. Here's the other links you
+         sent in.
+   http://www.wadham.ox.ac.uk/~jstacey/cgi-bin/getarticle.cgi?art=01-07-30
+- just when we thought the sick disease of satirism was under control
+         http://www.brasseye.co.uk/testimonials1.htm
+                         - just another unfortunate namespace clash
+http://www.football365.com/content/fun/picturegags/fw_picturega_571100.htm
+                                 - this isn't going to go away is it?
+         http://www.cookdandbombd.co.uk/
+                           - hope they're not offended or anything
+         http://www.ananova.com/entertainment/story/sm_364207.html
+            - sidekick Richard Barry unfortunately out of the country
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Ealing bomb believed to be terrorism", speculates ANANOVA,
+         wildly: http://www.ananova.com/news/story/sm_366308.html ...
+         another busy day at "The WAP Store" (Eastleigh, Hampshire):
+         http://squid.smellsofpee.co.uk/photos/wapstore.jpg ... "the
+         contents of this document are confidential" fondly imagines:
+         http://home.intekom.com/google/Google%20results-protocols.htm
+         - bloody search engines... so they give you UKP2 to turn up?:
+  http://www.edfringe.com/cgi-bin/user/edfringe/detailshow.fcgi?id=EDINI
+         ... AMAZON decide that "Web Caching" is mere "kid's stuff":
+         http://www.amazon.co.uk/exec/obidos/ASIN/156592536X/ ...
+         "Welcome To Your Future" - and what looks like our past?:
+         http://www.itemus.com/ ... self-confessed astrologer "genius":
+         http://community-2.webtv.net/Archure/Genius/ provides handy
+         comparative review of "Idiots Guide"/"For Dummies" books:
+         http://community-2.webtv.net/Archure/Books/ ... "Updated Every
+         Minute Of Every Day" boasts http://news.bbc.co.uk - ie,
+         they've got a clock?... "Do you know where your property is?
+         We do": http://www.slysearch.com/services.html ... census-
+         takers now questioning everything about damn job (bottom of): 
+http://www.statistics.gov.uk/themes/population/surveys/survey_of_cqs.asp
+         ... "Enjoy the sun" advises weather report - from Mercury:
+         http://www.guardian.co.uk/breakingnews/UK/0,2478,1078874,00.html
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         The exasperatingly enigmatic TWENTYTHREE organisation had to
+         cancel their planned live event last week, and Tim O'Reilly
+         will unfortunately no longer be speaking at the UK UNIX USER
+         GROUP next Thu (though apparently VA Linux's Ted T'so might
+         well do a talk instead). But not even the death of star guest
+         Delia Derbyshire can halt the wailing of FORGOTTEN MUSICAL
+         TECHNOLOGIES, this month's presentation by Fortean funsters
+         Strange Attractor (7.30pm, Tue 2001-08-07, The Horse Hospital,
+         London WC1, UKP6). The primarily Theremin-based programme
+         features a screening of that "Theremin - An Electronic
+         Odyssey" documentary plus a number of live performances,
+         including live performances from Bruce "Buggles" Woolley, and
+         - of course - the theme from "Star Trek: The Original Series".
+         http://www.strangeattractor.co.uk/
+         - wow, an analogue synth with no resonance, cutoff, polyphony
+         http://www.ukuug.org/events/TOR_20010809.shtml
+                        - s/ Tim O'Reilly / http://thunk.org/tytso/ /g
+         http://www.artscatalyst.org/htm/saforum3.htm
+                               - they put one arts project into space;
+                                   why can't they send them all there?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         There's so many new features in the straight-outta-alpha VIM
+         6 BETA, a weaker, more partisan correspondent might be
+         tempted to gargle "bloat!", and return to nvi. But after a
+         while, I swear, it all makes such *sense*. So you can split
+         windows vertically, which sounds like the most shocking
+         Emacs frippery - until you see vimdiff, a beautiful
+         line-by-line realtime diff visualiser. Or the much-talked-of
+         folding: on first glance, one can only imagine using it to
+         create an outliner in Vim macros. But, oh my, when you see
+         you first Perl program with irrelevant subroutines
+         squirrelled away -as though you'd already deleted them! And
+         then there's the client/server system, which, just to
+         irritate the Emacs readers reading this far, sends commands
+         and files to a vim session, like emacsclient. How cool might
+         you be with that? Unicode, decent user manual: there's even
+         a single-mode GUI "easyvim" for spoony pico-lovers. As ever
+         with Vim, it's fun drunkenly stumbling around the updated
+         Vim help files, or maybe pressing buttons at random to see
+         what happens. If you upgrade one program this year, make it
+         Vim 6. Unless its emacs 21. Certainly can't imagine you'd
+         want to upgrade *both*.
+         http://vim.sf.net/
+                                     - discussions of a Ugandan nature
+         http://www.troubleshooters.com/projects/vimoutliner/
+           - not that there's anything wrong with vim macro outliners
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         calling ITV-DIGITAL hotline and saying you want to buy a
+         monkey - every 100th caller gets a free box? Riiight ... shaming
+         the SIRCAMmers: http://www.hartnup.net/pubcam/pubcam ... MILKY
+         BAR KID was strong and tough - but only THE LORD is good enough:
+         http://www.despatch.cth.com.au/DFL/dflAug022000.htm ... *your*
+         essential fluids could help prolong a celebrity's useless
+         existence!: http://www.blood.co.uk/flashAdvert1.htm ... life
+         imitates Kate Bush's "Babooshka" (or maybe Rupert Holmes'
+         "Escape"): http://www.ananova.com/news/story/sm_354103.html
+         ... weather - with attitude! (see under "Quirky Story 1-3"):
+         http://www.metcheck.com/ ... CRINGELY + GIBSON = conspiracy!:
+         http://www.pbs.org/cringely/pulpit/pulpit20010802.html ...
+         time for all those old "TOLKIEN may be Hobbit-forming" gags:
+www.skysports.com/skynews/storytemplate/storytoppic/0,,30200-1024895,00.html
+         ... "plastic bags can be cut into good raincoat for children"
+         recommends newly tourist-conscious Chinese government site:
+http://www.bjta.gov.cn/English/lvxing_zhishi/lvyou_baojian/1999.09.06.05.htm
+         ... "Lord Of The Dance" reclaims title from Michael Flatley:
+         http://www.dancedanceresurrection.i12.com ... cheer up MARIAH:
+       http://pub28.bravenet.com/guestbook/show.php?usernum=2365914404
+         ... all too-detailed recreation of the golden age of steam:
+       http://dailynews.yahoo.com/h/nm/20010730/ts/life_explosion_dc_5.html
+         ... hang on - isn't this what my HOTMAIL accounts are for?:
+         http://www.mailexpire.com/ ... it's the armed AMIHOTORNOT:
+         http://www.b3ta.com/kill/g.php?k=996488442 ... build your own:
+         http://chaos.greeny.org/~halluc/railgun/intro.html ...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> C4 picks up Fox's grippingly game-theory-influenced
+         reality horror TEMPTATION ISLAND (11.10pm, Fri, C4)... E4
+         interrupts its wall-to-wall Brass Eye repeats for the third
+         series of brutal prison drama OZ (11pm, Fri, E4), and for
+         anyone who gets E4 but mysteriously doesn't get MTV, a run of
+         surprisingly endearing self-injury fest JACKASS (10.35pm, Tue
+         & Wed, E4)... while TOMORROW'S WORLD (7pm, Wed, BBC1) flags
+         down the reality bandwagon as 75 passengers attempt to escape
+         from a burning Jumbo - live on TV!... building up to the final
+         episode (8pm, Mon), Sky are showing 8 hours of random (best
+         of?) STAR TREK: VOYAGER (from 1pm, Sat & Sun, Sky1)... the
+         curse of doing something hugely popular early in your career
+         then constantly trying to live up to it is doubly explored in
+         DOUGLAS ADAMS: OMNIBUS SPECIAL (8.10pm, Sat, BBC2) and Steve
+         Coogan on THE SOUTH BANK SHOW (11pm, Sun, ITV)... BEST OF
+         BANZAI (9.30pm, Sat, C4) is followed by The Clip Show Eating
+         Itself in the clumsily titled TV TO DIE FOR: THE BEST MUSIC
+         SHOW IN THE WORLD (10pm, Sat, C4), featuring highlights from
+         all last year's "Worst Music Moments From Hell" programmes...
+         but then you've a choice of star-studded sci-fi B-movies in
+         the form of flawed Gibson adaptation JOHNNY MNEMONIC (10.15pm,
+         Sat, BBC1) or Marg "CSI" Helgenberger making ingenious use of
+         an empath to advance the plot in space-sex nonsense SPECIES
+         (10.45pm, Sat, ITV)... Richard Dean Anderson fans can always
+         pretend that MACGYVER: LOST TREASURE OF ATLANTIS (3.55pm, Sun,
+         BBC1) is a feature-length STARGATE SG-1 (12.45pm, Sun, C4) if
+         the latter is cancelled due to cricket... "email isn't secure"
+         reveals the unintentionally hilarious THE FUTURE JUST HAPPENED
+         (7.45pm, Sun, BBC2): http://www.bbc.co.uk/future - click "Prog
+         2" on the left menu... take a drink every time Simon "Privacy
+         International" Davies pops up in THE HISTORY OF SURVEIILANCE
+         (8pm, Sun, C4)... there's another chance to see ape-make-up
+         docu-soap NEANDERTHAL (8pm, Mon, C4), described by Charlie
+         Brooker as "When Gallaghers Ruled The Earth"... Harrison
+         Ford's well-documented problems with air travel continue in
+         Anne Heche rom-com SIX DAYS SEVEN NIGHTS (9pm, Mon, C5) and
+         Tom Clancy fancy-shmancy CLEAR AND PRESENT DANGER (9pm, Tue,
+         BBC1)... look forward to the "Southerners have their own
+         rules" ad placement during harrowing Nam-allegory SOUTHERN
+         COMFORT (9pm, Thu, C5)... and, hopefully heeding Mark Leyner's
+         dictum that "all competition - active or potential - must be
+         neutralised", Carol Vorderman uses extensive testing to locate
+         and identify BRITAIN'S BRAINIEST KID (8.30pm, Thu, ITV)...
+
+         FILM>> "even better than the original" is the promising word
+         of mouth on Zhang "Crouching Tiger" Ziyi and Don "Swordfish"
+         Cheadle joining Jackie Chan and Chris Tucker in action-comedy
+         RUSH HOUR 2 (imdb: china / martial-arts / partner / police /
+         sequel / hong-kong)... otherwise Jeff "The Fly" Goldblum and
+         Elizabeth "Big" Perkins encounter further unnatural phenomena
+         in animatronic/CGI pet-fighting kiddie-chortle CATS AND DOGS
+         (http://www.capalert.com/capreports/catsanddogs.htm : dog
+         flatulence and urination; suggestion of inappropriate touch by
+         proximity; never has God placed the animals above or equal to
+         man)... *very* limited release previews of joke-free "Shrek"
+         remake FIGHTING FANTASY: THE SPIRITS WITHIN (imdb: computer-
+         animation / based-on-video-game)... or, in Bristol this
+         weekend, then around the country later in the month, it's the
+         return of STELLA SCREEN ON LOCATION: CINEMA UNDER THE STARS
+         http://www.stellascreen.co.uk/stellascreen/ - a "unique blend
+         of the great outdoors and the hypnotic magic of film", though
+         it must be a bit distracting if the screen really is suspended
+         tug-of-war-style between two horses, like in the TV ads...
+
+         BONERS, CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED
+         AS GOOFS">> going back a while, reader ANDREW HARTON boldly
+         accused us of mixing up the works of Neal Stephenson in NTK
+         2001-07-13, alleging "Perhaps you meant 'The Diamond Age',
+         which did indeed contain converted supertankers acting as
+         floating orphanages, rather than 'Snow Crash', which didn't".
+         No, we definitely meant "The Raft" in "Snow Crash" (and we
+         haven't read "The Diamond Age" anyway - is it any good?)...
+         someone calling themselves "PERICLES" believed our use of the
+         phrase "the hoi-polloi" [last week's NTK] was a "sly way of
+         resuscitating the career of 'The The'", because "hoi" means
+         "the" in Greek or something. The enthrallingly over-detailed
+         http://www.faqs.org/faqs/alt-usage-english-faq/ begs to
+         differ, however, noting that the "first 5 citations in the
+         OED, and the most famous use of this phrase in English (in
+         Gilbert and Sullivan's 'Iolanthe')" all put "the" in front of
+         it; plus, the other way round sounds stupid... also last week,
+         MARK WHITAKER astutely observed that our link to the thesis
+         "Bod: Sexuality and Surrealism", by one Peter Fenelon of the
+         "Heslington Institute for the Harmlessly Daft" was "clearly a
+         piss-take", though to his credit, he did include a link to the
+         (apparently for real) http://www.ncl.ac.uk/crif/stenger.htm
+         for comparison purposes... oh and SIMON JOBSON - "a solicitor
+         in the commercial propery department of a large city law firm"
+         - uncovered that "the Guardian aren't getting any money out of
+         [ http://195.182.183.18/auctions/lot.asp?PropertyID=215 ] -
+         since it's the freehold of their leased office which is for
+         sale", though conceded that it's a "nice idea"... regarding
+         genuine omissions of fact or judgement: KI SUK rightly queried
+         our 2001-03-16 claim that "'Defcon 1' means all-out war when,
+         in reality, 'Defcon 5' does", citing such compelling evidence
+         as http://www.fas.org/nuke/guide/usa/c3i/defcon.htm - but
+         apparently the audio commentary on the "WarGames" DVD still
+         maintains otherwise... WILLIAM KNOWLES was mightily reassured
+         by Google's attempts to correct the spelling of MTV UK's
+         apparently universal standard "non-frames" browser warning:
+http://www.google.com/search?q=somefing+has+gone+totally+tits+up&filter=0
+         "Did you mean: *something* has gone totally tits up?"... and
+         finally, some early editions of NTK 2001-07-13 playfully
+         confused scripting.com US web celeb "Dave Winer" with where-
+         is-he-now UK net evangelist "Dave[y] Winder" - NTK apologies
+         unreservedly for any offence caused to either of them...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               http://catless.ncl.ac.uk/Risks/21.51.html#subj11
+                  "not certain as to anything's authenticity"
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+         Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

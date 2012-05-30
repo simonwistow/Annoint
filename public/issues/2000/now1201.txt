@@ -1,0 +1,325 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-12-01_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "And how filthy is the display going to be in about a week? 
+          That poor son-of-a-HAL will be all covered with Frito grease..."
+        - so-called "experts" dismiss touch-screen-based supercomputer AI
+              ( http://www.wired.com/news/culture/0,1284,40398-2,00.html )
+          ...though then again, a greasy viewscreen might stop him 
+                 lipreading his human masters through the space-pod window
+ 
+
+                                >> HARD NEWS <<
+                                  gamers lose
+
+         Intended for the 6pm "Robot Wars" slot, touted by many as the 
+         last, best hope for mainstream TV videogaming, BBC2's BLEEDING 
+         THUMBS has, finally, haemorrhaged into oblivion - though, 
+         admittedly, life-signs had been ebbing for some time (viz: 
+         regular email press releases from London's Playing Fields 
+         enthusiastically relating how many pilots they were making). 
+         Some blame over-ambitious technical requirements (a CGI host 
+         called "Spank The Monkey"); some say it wasn't "televisual 
+         enough" (one treatment we saw promised Unreal Tournament 
+         deathmatches in real-world levels - "eg an Albert Square 
+         mission to frag as many Ian Beale-bots as possible, or perhaps 
+         a giant Dale Winton") - but we're tempted to blame the current 
+         "Curse Of Videogame TV Shows With The Word 'Thumb' In Them". 
+         Also residing in off-air limbo is Channel4's hour-long 
+         videogame history THUMB CANDY, which EDGE reported was due
+         "in October" but which dropped from the schedules in events 
+         perhaps not unconnected with presenter Iain Lee's last-minute 
+         disappearance from The 11 O'Clock Show. Unlike Bleeding 
+         Thumbs, Thumb Candy still seems likely to eventually see the 
+         light of day - and deservedly so, as it apparently consists of 
+         Lee asking, say, the inventor of Space Invaders: "It would be 
+         great honour for humble Westerner to play wise videogame 
+         creator". Then he beats him, and yells: "Skills! This makes me 
+         the best Space Invaders player ever! You're shit!"
+         http://www.pcgamer.co.uk/news/news_page.asp?news_id=3031
+                       - Sky's "Blam!" technically classed "as an ad"
+
+         Heavy breathing and shudders from the new media wing of
+         EXPRESS NEWSPAPERS, who've just been told by their new
+         Northern & Shell pornmeisters to "make the sites profitable,
+         or be shut down". An understandable - if fantasy-laden -
+         request from moguls of a sector that has traditionally done
+         rather well online. So, will we see a swift slide in Express
+         sites towards XXX photos and interactive Flash goatsex? Not
+         too easy - especially as the most successful and soft-porn
+         friendly of the Express Digital Media sites, the Daily
+         Star's MEGASTAR.CO.UK, was inexplicably left out of the
+         deal, and remains in Clive Hollick's own hairy palms. Given
+         that Megastar is principally a repackaging of the divested
+         Star's content (with even fewer words and more breasts),
+         what does Hollick have in mind? A reverse foray into the
+         porn business for United News & Media? A swift flogging of the URL
+         to Richard Desmond's even seedier competitors? Or a foreplay
+         sweetmeat for whoever's dumb enough to snap up LineOne, the
+         next overvalued UM Net asset to go up on ebay?
+         http://www.megastar.co.uk/
+                                                  - ooh! ah! ... umm!
+         http://www.express.co.uk/
+          - well, they could start by charging UN&M for all those ads
+         http://www.megastar.com/
+                           - Apache directories: naked and unashamed!
+         http://www.bigwilly.co.uk/ 
+                        - unexpected "front end" for signup.cix.co.uk
+
+         A day without Weblogs, huh? Well, given that most of our
+         subscribers are too lazy-busy to do Weblogs anyway (and NTK
+         is not a "blog". We are a "Telegraphic Gentleman's Weekly"),
+         we thought we'd celebrate a year's political inaction by
+         doing something visibly worthy instead. So, for those of you
+         who continue to pester about the lack of updates to STAND
+         post-RIP, allow us to invite you to the pre-launch of
+         FAXYOURMP.COM. It's the best bit of STAND - the automatic
+         Web-to-MP gateway - cunningly refactored so as to be of use
+         to any pressure group that wants its members to contact
+         their MP easily, or just for the everyday punter who wants
+         to reach that elusive representative. We'll run it at beta
+         for a week, then send out the press releases, so by all means
+         have a go at berating your MP on software patents, CCTV
+         proliferation, the poor accessibility of warez sites - and,
+         heck, why not, asking how they're celebrating World AIDS
+         day. It's probably the least you - and we - could do.
+         http://www.faxyourmp.com/
+                 - corrections and patches to info@faxyourmp.com, pls
+         http://www.bradlands.com/dww/
+     - rather than just usual outages at blogger, groksoup, port5.com
+         
+         
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "BRITISH ASSOCIATION OF WEB PROFESSIONALS" hacked last Thu: 
+      http://www.attrition.org/mirror/attrition/2000/11/23/www.bawp.co.uk/
+         - still down: http://www.bawp.co.uk/ ... RAILTRACK making up 
+         lost time somehow: http://www.ntk.net/2000/12/01/dohrail.jpg 
+         ... free cars from http://www.yourautochoice.com/ : '1.4I 3 
+         DOOR [AC]' option for HONDA CIVIC reduces price by UKP11,184 
+         ... BRAIN OF BRITAIN finalists didn't know "Who created the 
+         World Wide Web?"; answers included "Bill Gates" and "Martin 
+         Lambie-Nairn", creator of "Spitting Image"... shame of the 
+         GAMES BOSS homepages: http://www.jezsan.com ... *very* RETRO: 
+         http://www.ntk.net/2000/12/01/dohweez.gif ... Nooooo! They've 
+         registered bananana.com, banananana.com, bananananana.com - 
+         the *three most common* iterative misspellings of "banana"... 
+         "Hang on - this doesn't look like the FURBY HAPPY MEAL I asked 
+         for": http://dailypress.com/news/stories/87795sy0.htm ... cry 
+         for HELP: http://www.ntk.net/2000/12/01/dohinject.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Numerous "surprises" appear to be in store at PRIVACY 
+         INTERNATIONAL's UK BIG BROTHER AWARDS (7:15pm, London School 
+         of Economics, 2000-12-04), not least of which was our invite 
+         saying "Your names will be at the door" when we hadn't 
+         actually told them who we were. Oh well, maybe you get the 
+         chance to turn in your "plus one" instead. Annoyingly, it 
+         clashes with one of the most oddly-billed events of the year, 
+         the BRAVE YOUNG GUNSLINGERS business skills workshop being 
+         held at the equally brilliantly named INSTITUTE OF PHYSICS 
+         HEADQUARTERS (6.30pm, Portland Place, London, UKP3 - includes 
+         "refreshments and buzzwords"). The email we were forwarded 
+         about this makes several remarkable claims about techniques 
+         for "developing decicivenes [sic] and creativity", with "over 
+         UKP200 worth of Institute of Physics Publishing books" to be 
+         won by "the most striking performances", but sadly no mention 
+         of actual shoot-outs involving supercolliders and railguns. 
+         http://www.privacyinternational.org/bigbrother/uk2000/
+            - based on George Orwell's totalitarian classic, natch...
+         http://www.phys.ucl.ac.uk/mpl/iop/lse/2000w/london.html
+                  - ...rather than the recent prole-pacifying TV show
+         http://www.nubiantales.net/wavetwisters/
+         - Q*Bert's post-videogame movie career shaping up nicely too
+         
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         SPAM MIMIC is a simple CGI that takes your "activate sleeper
+         agent"-style short message, and converts it to the robotic
+         gibberings of your average unsolicited commercial mail. And
+         what, patient reader, is the point of that? Consider: what
+         better way to pass a note unnoticed across the networks than
+         to hide it in the background noise of spam? Additionally,
+         you can protect the identity of your true recipient by
+         mass-mailing it to thousands without suspicion. My God, what
+         are we saying? Beliefs about popular cryptography and
+         bulk-email preconceptions - fighting in our tiny minds!
+         Cannot process! Dump core!
+         http://www.spammimic.com/
+                    - there is no secret message concealed in the URL
+         http://www.theregister.co.uk/content/6/14855.html
+        - this goes for you lot too ('cept we don't have hushmail yet)
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         "I shall become more POWERFUL than you can possibly imagine": 
+         http://www.petitiononline.com/mod_perl/signed.cgi?ob1pc vs 
+         http://www.microsith.com/jedix-myths.php3 ... first result: 
+         http://www.google.com/search?q=tingly ... now, no PEEKING: 
+         http://2shortplanks.com/xmas/ ... new "Invasion Of The 
+         Bodysnatchers"-style WH SMITHS Christmas ads feature Nicholas 
+         Lyndhurst's face on body of a dog... life imitates ONION gravy:
+         http://news.bbc.co.uk/hi/english/uk/newsid_1047000/1047698.stm
+         ... folk CONNIE fanfic outdated by new AOL price structure: 
+     http://www.fortunecity.co.uk/cinerama/west/183/rachel_willis1.jpg 
+         ... original storyboards, handwritten Z80 code for 3D ANT 
+         ATTACK: http://www.sandywhite.fsnet.co.uk/ants/ants.htm ... 
+         "What would the characters in ATTACHMENTS need in order for 
+         them to seriously consider the claims of Jesus Christ?" asks 
+     http://www.damaris.org/online_resources/guides/2000/attachments.htm
+         - already commissioned second series implies "a pact with 
+         Satan"... http://www.semenex.com/ vs http://www.dolphinsex.org/ 
+         - but does it get rid of that overwhelming taste of TUNA?...
+
+
+                                >> GEEK MEDIA <<
+                         the less rude www.tvgohome.com
+
+         TV>> Danny "Judge Dredd" Cannon's prototypical '90s Britcrime 
+         caper THE YOUNG AMERICANS (11.05pm, Fri, BBC1) appears to be 
+         based on neither the Kevin Williamson Dawson's Creek spinoff, 
+         nor the David Bowie song of the same name... it's almost as if 
+         they made Glasnost-metaphor STAR TREK VI: THE UNDISCOVERED 
+         COUNTRY (2.55pm, Sun, BBC2) specifically to preserve the "even 
+         numbers good, odd numbers bad" mythology... and it's Dr David 
+         Banner vs The Mighty Thor in THE INCREDIBLE HULK RETURNS 
+         (5.10pm, Sun, C5)... Sky1 launches its BABES IN SPACE (9pm, 
+         Mon & Wed) strand with a saucy Deanna Troi episode of TNG... 
+         terrestrial-dwellers must make do with wild fossil-record 
+         suppositions about the NEANDERTHAL (9pm, Mon, C4) plus semi-
+         primitive rock-video gothfest THE CROW (10pm, Mon, C4)... 
+         while Dudley Moore makes his last public appearance before 
+         dying of a terminal neurodegenerative disease on OMNIBUS 
+         (10.35pm, Mon, BBC1) - unless, of course, this turns out to be 
+         an unusually cruel Peter Cook prank... C5 accidentally show a 
+         nudity-free documentary in the form of intriguing identity-
+         theft exploration ID (8pm, Tue)... Mulder and Scully team up 
+         with Millennium's Frank Black in a crossover X FILES (9pm, 
+         Wed, BBC2)... and some guy tries to make a profit by betting 
+         12 grand in pioneering new programme-finance model THE GAMBLER 
+         (10.35pm, Wed, C4) - his first "gamble" being getting child-
+         genius composer Daniel Pemberton to do the theme tune...
+         
+         FILM>> incredibly, it's *even lamer* than this year's "Mission 
+         To Mars", but big-screen sci-fi special effects and mild 
+         Carrie-Anne "The Matrix" Moss nudity may nonetheless justify a 
+         trip to the RED PLANET (http://www.cndb.com : Carrie-Anne's 
+         character takes a shower [...] There's a shot of her full-
+         length showing her great body, including her butt [...] A nice 
+         closer shot of her from the back left side showing most of her 
+         upper torso. Large breasts but no obvious nipple seen)... 
+         Woody Allen returns to some kind of erratic form in SMALL TIME 
+         CROOKS (http://www.capalert.com/capreports/smalltimecrooks.htm 
+         : planning crimes; illegal purchase of dynamite; development 
+         of immoral relationships; monologue of sexual matters; picture 
+         nudity)... the "Urban Legend" franchise goes all self-
+         referential on anyone who still cares in URBAN LEGEND 2: THE 
+         FINAL CUT (imdb: film-in-film/ murder/ axe/ sequel/ teenkill/ 
+         urban-legend)... and "Another Fond Childhood Memory Destroyed" 
+         is the Onion's verdict on Jim Carrey's very own "Battlefield: 
+         Earth", complex Fight-Club-style corporatisation critique THE 
+         GRINCH (http://www.capalert.com/capreports/howthegrinch.htm : 
+         long series of rudeness; eating a glass bottle; eating a live 
+         bat; yelling hatefully at a child by an authority figure; 
+         sensuous outfit on a woman; an outfit revealing the details of 
+         the Grinch's posterior; I know it seems like a h-u-g-e leap 
+         from How The Grinch Stole Christmas to Columbine, but is it 
+         really?)... 
+         
+         BUY ONE, SUBVERT THE MASS MEDIA, GET ONE FREE>> and the winner 
+         of the first proper round of our ongoing "Drily Ironic T-shirt 
+         Competition" is, you've guessed it, that guy called "Bruce" 
+         for his: I GOT UKP80MILLION IN VENTURE CAPITAL FOR MY .COM 
+         IDEA - AND ALL I HAVE LEFT IS THIS LOUSY T-SHIRT, which now 
+         heads up our full Winter collection at http://www.ntkmart.com .
+         The judges particularly enjoyed Bruce's repurposing of a 
+         popular slogan; use of a familiar, but not trademarked, font 
+         and colour scheme; and the fact that we could do it as a 
+         single colour print, which works out cheaper. Bruce receives 
+         UKP2 for each shirt sold... also joining the range this week 
+         is our first winner in the category for "4K Graphics Files 
+         (And Under)", which is kind of trickier to describe (oh just 
+         go to the site and have a look), which came from rogue NTK 
+         staffer LEE MAGUIRE, who has generously donated his design 
+         royalty to "fund future T-shirt research". New entries are 
+         continuing to flood in - our favourite so far being "No 
+         Preview Available" from http://www.guru.gg/ntk/tee/ ; time's 
+         running a bit short to get new designs printed and on sale 
+         before Christmas now, but we're going to need a fresh bunch to 
+         launch as our "Spring Collection" next year. We'd especially 
+         like to see some sort of blocky low-res non-copyrighted giant 
+         "Space Invaders" alien, or maybe a Designers Republic spoof... 
+         thanks to everyone who bought a T-shirt last week - if it 
+         hasn't arrived yet, it will do soon; we blame those usual 
+         e-commerce excuses of overwhelming demand, unprecedented 
+         popularity, scalable infrastructure etc (in fact, it's usually 
+         2 days' delivery if it's in stock, or 10 at the most if we 
+         need to print some more). So, to be absolutely sure of 
+         receiving your sarcastic NTK merchandise before Christmas (and 
+         what family gathering would be complete without it?), order 
+         before midnight December 11th to be on the safe side. Do you 
+         really want to risk having to explain to your tearful XL-sized 
+         child, partner, or other family member on Christmas morning 
+         that their NTK T-shirt is still in the print queue at a 
+         Brighton-based nonprofit "providing work opportunities for 
+         those who cannot compete in the open jobs market"? No sir, you 
+         do not... so: what if you've already bought yourself a "Viral 
+         Marketing" T-shirt but now find yourself tempted by the 
+         seductions of our two new designs? Well, you can either buy 
+         another one, you tightwad, or you can take advantage of our 
+         exclusive "Buy One, Subvert The Mass Media, Get One Free" 
+         deal, in which anyone prominently and recognisably displaying 
+         an NTK T-shirt in a national TV programme or print publication 
+         can claim another one, *free of charge* (bonus points for 
+         getting them in Times Interface or Wired). Offer limited to 
+         one shirt per person per appearance; the judges will favour 
+         applications which provide documentary evidence and/or advance 
+         notice of the shirt's appearance (contact NTK directly on this 
+         one by the way - Cybercandy will disavow all knowledge); and, 
+         finally, NTK does not advocate law-breaking or antisocial 
+         behaviour (for a change) - entrants who, for instance, commit 
+         a hideous felony then wear the shirt to the subsequent court 
+         case will be considered to be acting "outside the spirit" of 
+         the contest and disqualified at the judges' discretion... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                       "not a game - but a way of life"
+             http://www.thetimes.co.uk/article/0,,41690,00.html        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+      NTK is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

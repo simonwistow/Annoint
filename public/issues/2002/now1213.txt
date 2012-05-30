@@ -1,0 +1,263 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-12-13_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "In a statement to BBC News Online, eBay said it 'never asks
+         its users for their user ID and password'..."
+                      http://news.bbc.co.uk/1/hi/business/2564725.stm
+                            ...which can make logging in a bit tricky
+
+
+                                >> HARD NEWS <<
+                               inflammable trews
+
+         It's the trial of the century! And, look, over there, by
+         that fjord - another trial of the century! DMITRY SKLYAROV
+         and JON JOHANSEN are the coders in court this week, both
+         caught in the crossfire of the US DMCA. Though, as it
+         happens, neither are being prosecuted under it. Dmitry
+         isn't, because he had his case postponed in return for
+         testifying about his employers, Elcomsoft. Jon isn't,
+         because he's not even in the US (not that that helped
+         Elcomsoft). Jon is in Norway, and there, the state
+         prosecutors are insisting very hard that they're not after
+         him because US MPAA wanted him smacked down for DeCSS. No,
+         they're prosecuting him because - one dark, Norwegian night
+         - he did knowingly break into his own computer and steal
+         proprietary data (which he'd previously bought) right from
+         under his very own nose. Meanwhile, Dmitry is testifying in
+         a foreign country in a foreign case that accuses his
+         Moscow-based employers of wilfully breaking a law whose
+         jurisdiction is six thousand miles away. "Did you *care* you
+         were breaking US law?", asked the prosecutor of Dmitry,
+         damningly. "No. I didn't care.", said Dmitry, going on to
+         explain that, at the time, sitting in a Moscow flat working
+         for a Russian company, he was rather more concerned with
+         quaint local customs. A related Quebec case against
+         Elcomsoft for not publishing their program in French, and an
+         ongoing Saudi case against all women currently driving cars
+         in London, will be eagerly awaiting both court's
+         conclusions.
+         http://www.oblomovka.com/entries/2002/12/09#1039499520
+                           - from our court correspondent in San Jose
+         http://www.theinquirer.net/?article=6686
+   - the inquirer reports from their newspaper-reading Norwegian desk
+ 
+         We've seen Artificial Intelligence departments on fire, off 
+         the Cowgate underpass - this week's incineration of Edinburgh 
+         University's 80 South Bridge building is sad for many reasons: 
+         the loss of the AI library (possibly containing early copies 
+         of a proto-NTK-style newsletter - called "The Mighty Napkin" - 
+         we did there in 1991), plus the AI dept's undisputed position 
+         as one of the UK's few world-class computing facilities 
+         situated directly above an amusement arcade. On the plus side, 
+         no-one was injured, and if it *was* the work of a Terminator-
+         like freedom fighter from the future, attempting to prevent 
+         the creation of a sentient AI which would one day exterminate 
+         all mankind, then at least they missed the robotics facility, 
+         just up the road at Forrest Hill. We can think of no greater 
+         tribute to the staff and students' hardcore credentials than 
+         this last-ditch email sent by Head of Department Michael 
+         Fourman to anyone tempted to take advantage of the increased 
+         terminal availability: "There is a fire in South Bridge," he 
+         wrote, at around 11.30pm. "This message is intended to advise 
+         anyone who might be in the building. LEAVE IMMEDIATELY."
+         http://news.bbc.co.uk/1/hi/scotland/2558655.stm
+                                               - we can rebuild it...
+         http://www.theregister.co.uk/content/4/28531.html
+          - just weeks after the Twente NOC went up. You do the math.
+
+         Long time NTK subscriber and suspected agent provocateur
+         STEFAN MAGDALINSKI writes of the government's ongoing, near
+         invisible ID card consultation: "for those who don't enjoy
+         30 meg PDFs, I've htmled the doc and put it here." Where the
+         PDF is the UK government's 10 bazillion page consultation
+         doc on "Weapons of Card Entitlement". You've still got until
+         January 31st to read it, and perhaps change the government's
+         belief that their plans "have one backing from most of the
+         people who have given [us] their views". Oh, and the here
+         bit is... here.
+         http://www.isness.org/idcard
+                                  - no, no back there. You missed it.
+         http://www.homeoffice.gov.uk/dob/ecu.htm
+     - knows if you've been bad or good, so be good for goodness sake...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         special seasonal GOOGLE MISSPELLING - would you like a taste 
+         of my http://www.google.com/search?q=%22home+pate%22 ?... 
+         another brave attempt to transcribe those broad Scottish 
+         accents: http://www.air-scotland.com/main.asp ... they don't 
+         appear to be monks, and they're certainly not "fighting" 
+         either: http://www.amazon.co.uk/exec/obidos/ASIN/B00004CPQJ/ 
+         ... "and our customers? Hey, you leave them out of this": 
+         http://www.ntk.net/2002/12/13/dohbto.gif ... test data with a 
+         sense of humour: http://www.startribune.com/stories/1757/ ... 
+         to have one "blah" in your name is a misfortune, but two?: 
+         http://www.ntk.net/2002/12/13/dohblah.gif ... truth in 
+         filenames - first image under "Dance Lines and Cheer Teams": 
+     http://www.cord.edu/faculty/pyle/pedagogy/99410/team6/99410t6p04.htm
+         ... "those with a high-speed connection" surf net more, study 
+         says: http://news.bbc.co.uk/1/2562289.stm ... to go with your 
+         "poo salad": http://www.ntk.net/2002/12/13/dohpiss.gif ... 
+         
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         No info on whether they got that 48-port 100mbit switch they 
+         were asking for, but "day tickets" are still available for the 
+         G2002 BACK TO THE BUNKER LAN EXTRAVAGANZA (from 9am-8pm, Sat 
+         2002-12-14 to 2002-12-16, Kelvedon Hatch, Essex, UKP10 per 
+         day) - though, as we recall, the "tourist attraction" part of 
+         the facility remains open to the public during daylight hours 
+         anyway, providing bemused visitors with a sobering tableau of 
+         life after nuclear armageddon. Our suggested dress code for 
+         the event would be - as ever - United Nations Weapons 
+         Inspector (blue shirt, flak jacket, large white four-wheel-
+         drive vehicle), though you have to make more of an effort if 
+         you'd prefer to take part in this year's parade of the drunken 
+         Father Christmas's, aka SANTACON (Saturday 2002-12-14, mystery 
+         start time/ location somewhere in central London) - the 
+         cheaper and shoddier your Santa costume, the better.
+         http://g2002.bash.sh/
+                 - vs http://www.sciencemuseum.org.uk/home/gaming.asp
+         http://www.santacon.co.uk/
+         - Bloody Hotmail. Bloody secret meeting point. Ho Bloody Ho.
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Most multimedia management programs (iPhoto, etc)
+         concentrate on the arduous task of organising home
+         photography archives - naturally the largest repository of
+         visual data kept on hard drives. Uhuh, right. Thankfully,
+         trem0r's PORNVIEW has its priorities right. Pornview is an,
+         ahem, Linux image and multimedia previewing program
+         dedicated for those times when "tweaking", "rearranging",
+         and "touching up" a large cache of source images is both the
+         first and last thing on your mind. It doles out small but
+         legible thumbnails, has a big old preview space, and lets
+         you zoom, rotate and slideshow on the fly - heck, with one
+         hand tied behind your back. And its preview engine is
+         powered by the Xine library, which means it can cope with
+         many AVIs, MOVs and ASFs. It's fast and easy to use. While
+         it's only at 0.1.3 right now, it's pretty much ready for -
+         well, perhaps not the prime time. Friday night on Channel 
+         Five - maybe.
+         http://pornview.sourceforge.net/
+                            - or apt-get install -t unstable pornview
+         http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=171988
+                                       - Debian users show their kink
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         a new addition to the GPL: http://zynaddsubfx.sourceforge.net/
+         ... revealed at last, the usability secrets of goatse.cx:
+         http://www.amazon.com/exec/obidos/tg/detail/-/073571150X/ 
+         ... if you have four hours to kill, hate radio and yourself: 
+         http://wfmu.org/~davem/docs/radio.html ... they *can* draw
+         after all http://southparkstudios.com/behind/staffart.html
+         ... using http://www.jwz.org/gruntle/infographic.html ,
+         locate Zawinski on the http://www.brunching.com/geekhierarchy.html
+         ... elder gods attempting to breach USENET XP support forums:
+         http://groups.google.com/groups?q=%22signaling+halotrichite%22
+         ... nice to see Galileo getting the last word on that Papal
+         row: http://www.jpl.nasa.gov/galileo/finger.html ... life imitates
+         Kevin Warwick: http://news.bbc.co.uk/1/hi/health/2534689.stm ...
+         cleavage at http://news.bbc.co.uk/1/2546375.stm too unsubtle? 
+        try the virtual tour: http://news.bbc.co.uk/1/hi/uk/2551367.stm
+       ... local minima of funk: http://www.joannajordan.com/web_riders.mov
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> ITV, to their credit, are tongue-in-cheekily promoting 
+         SPEED 2: CRUISE CONTROL (8.30pm, Fri, ITV) as "the one without 
+         Keanu in it"... rhyming-rehab week continues with prison 
+         poetry drama SLAM (12.55am, Fri, C4), real karaoke convicts in 
+         FELTHAM SINGS (10.30pm, Tue, C4), plus the belated musical 
+         episode of BUFFY THE VAMPIRE SLAYER (6.45pm, Thu; 12.55am, 
+         Fri, BBC2) - not to be confused with Sheryl "Laura Palmer" Lee 
+         in JOHN CARPENTER'S VAMPIRE$ (10.55pm, Sat, C4)... in addition 
+         to the "repeated public urination" and McDonald's breakfast 
+         gag, Adam Sandler's BIG DADDY (6.10pm, Sat, BBC1) features an 
+         all-too-rare tolerable performance by Joey Lauren Adams from 
+         "Chasing Amy"... never mind the "gamma radiation", how did 
+         that freelance reporter guy ever make a living?, is among the 
+         mysteries not revealed by the pilot of THE INCREDIBLE HULK 
+         (6.10pm, Sun, C5)... as the same-every-year BRITISH COMEDY 
+         AWARDS (9pm, Sat, ITV) narrows its eyes to face off against A 
+         FISTFUL OF DOLLARS (9pm, Sat, C4), followed on Sun by FOR A 
+         FEW DOLLARS MORE (10pm, Sun, C4)... don't hold out for a happy 
+         ending for either terrorism docu 21ST CENTURY WAR (8pm, Sun, 
+         C4) or this series of the excellent "Homicide Street Blues" 
+         cop tragedy THE SHIELD (10.40pm, Sun, C5)... maybe a run 
+         presenting Anneka-free TREASURE HUNT (6pm, Mon-Fri, BBC2) will 
+         get Suzi Perry's stats up: http://www.suziperry.com/stats/ ... 
+         and a "bad trip" double-bill sees side-effects expose CANNABIS 
+         PSYCHOSIS (11.05pm, Mon, C4) followed by an Errol Morris FIRST 
+         PERSON (12.10am, Mon, C4) on a guy who stole his mum's 
+         cryonically frozen head... WIT (9pm, Tue, BBC2) is about Emma 
+         Thompson getting cancer, rather than the amusing Tom Sharpe 
+         farce with Griff Rhys Jones in it... DOOMWATCH (12.55am, Thu, 
+         BBC1) is the none-too-thrilling movie of the BBC environmental 
+         monitoring sci-fi show... though the title might be more 
+         accurately applied to god-awful Sean "Eastenders" Maguire US 
+         sitcom OFF CENTRE (4.20am, Thu, C4)...
+         
+         FILM>> sadly, no Naomi Klein quotes on the poster for juvenile 
+         Nike/NBA product placement orphanage wish-fulfilment LIKE MIKE 
+         ( http://www.capalert.com/capreports/likemike.htm : bully 
+         tactics; bad fall after electrical shock due to unwise risk-
+         taking; nothing of the sexual nature, a victory indeed)... 
+         bloody Audrey "Amelie" Tautou is back, hopefully bringing that 
+         same air of studied zaniness to gritty London-set organ-
+         legging thriller DIRTY PRETTY THINGS ( http://www.bbfc.co.uk/ :
+         contains strong language, moderate sex and grisly images)... 
+         and imdb "trivia" confirms it *is* Clint Poppie's "Requiem For 
+         A Dream" theme on the theatrical trailer for out-next-Wed THE 
+         LORD OF THE RINGS 2: THE TWO RONNIES ( http://www.bbfc.co.uk/ :
+         contains intense combat and fantasy horror scenes)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+           "the site has back issues? *Major* back issues, we'd say"
+                  http://www.dunx.org/persona/media-web.html         
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

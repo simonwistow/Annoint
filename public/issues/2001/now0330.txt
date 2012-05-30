@@ -1,0 +1,353 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-03-30_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Who ever thought that sending encrypted streams of data 
+         across the Internet could produce a map on the other end 
+         saying 'this is where your target is' or 'here's how to kill them'?"
+                  - PAUL BEAVER, of Jane's Defense Weekly, helps the NSA 
+                            explain all the porn sites in their logfiles
+       ( http://www.usatoday.com/life/cyber/tech/2001-02-05-binladen.htm )
+       ...because ICBM co-ordinates in your .sig never went out of style
+
+         
+                                >> HARD NEWS <<
+                             next: barcode tattoos
+
+         More cut-and-pasting from ukcrypto, Britain's last remaining 
+         form of parliamentary oversight. This week: the government's 
+         plans to require all security consultants to register with the 
+         authorities, and be strictly licensed afore passing on their 
+         forbidden, arcane wisdom. First the bad news: the bill in 
+         question, the PRIVATE SECURITY INDUSTRY BILL, is already at 
+         its Commons' Second Reading, and is set to be law in two 
+         months (barring those pesky elections). Now, the good news: at 
+         the reading, HO minister Charles "RIP" Clarke said it's mainly 
+         aimed at security guards and bouncers, not IT security 
+         consultants. Now, the bad news: he added the word "currently" 
+         - and, "currently", the Home Office says it *does* apply to 
+         computer consultants, but they won't get around to enforcing 
+         that until 2005. Now the good news: the main restriction on 
+         the license is that you mustn't have a serious criminal 
+         record. The bad news: hasn't *every* security consultant got 
+         at least a "Teenage Cyberthief Was Threat To World Security" 
+         headline under their belt? And if these badly-phrased tech 
+         laws keep on at this rate, we'll all be criminals by 2005. 
+         http://www.homeoffice.gov.uk/psib/
+                                        - that BOFH license in detail
+  http://www.chiark.greenend.org.uk/pipermail/ukcrypto/2001-March/015267.html
+- best read the whole thread, because we're sensationalising like crazy here
+         http://www.theregister.co.uk/content/50/17971.html
+    - we should point out that Mr Kuji was not convicted of any crime
+
+         It's a publicity-garnering April-Fools-style prank which we 
+         never quite got round to: announcing that NTK was splitting 
+         into two rival sarcastic technology newsletters, largely 
+         identical to each other (except one would have slightly more 
+         emphasis on confectionery reviews), and promising the 
+         irresistible spectacle of former friends and colleagues 
+         jovially slagging each other off in public. Annoyingly, as is 
+         so often the case nowadays, THE REGISTER has beaten us to it, 
+         with company figurehead Mike Magee's embryonic launch of THE 
+         INQUIRER, a somewhat similarly hardware-oriented news site. We 
+         believe (and, to be honest, fervently hope) that the imminent 
+         settlement between the two parties is more amicable than 
+         recent Silicon Investor postings imply: then again, given The 
+         Reg's long-standing hard-drinking two-fisted publish-and-be-
+         damned reputation, would you really want it any other way?
+http://www.siliconinvestor.com/stocktalk/msg_multireplies.gsp?msgid=15555885
+                                - leave it Mike, it's not worth it...
+         http://www.theregister.co.uk/content/5/17918.html
+                    - Reg writers still nursing nasty CeBIT "Hanover"
+         http://www.theinquirer.org/
+             - not quite "The Register" spoof site we were hoping for
+
+         News update time, this week cunningly combined with addenda
+         to last week's "Huh?" feebdack. The mysterious Zeddust,
+         whose true identity was revealed in court [NTK 2001-03-16]
+         after he slagged off the ISP Totalise, wrote to us, claiming
+         that there were *others* posting mysterious *positive*
+         defences of Totalise to the board. Follow the money, we
+         thought. Yeah, until we realised: how do we know this is the
+         *real* Zeddust? At that point, we started to get a headache.
+         Proper journalists: get to work. In similiar "Deep Throat"
+         fashion, we were urged, following our report on the feud
+         between Bishop Sean "Vampire Hunter" Manchester and the Rev.
+         Joe "Forteana" McNally, to find out "ALL the facts" - on an
+         URL conveniently held on the Bishop's own organisation's
+         Website. Happy to uncritically oblige. Warning: some readers
+         may find the choice of font size both eldritch and uncanny.
+         http://www.gothicpress.freeserve.co.uk/Sean%20Manchester.htm
+                            - remember: vampires have hypnotic powers
+         http://www.ntk.net/index.cgi?b=2001/now0302.txt&line=22#HARD_NEWS
+                                     - get back from whence you came!
+         http://www.ntk.net/index.cgi?b=2001/now0316.txt#HARD_NEWS
+                   - it's as much of a hint as we can afford, Zeddust
+
+         
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         JULIE MEYER speaks for "under UKP5,000" - how much to get her 
+         to shut up again? http://www.sfb.co.uk/speakers/juliemeyer/ 
+         ... making you work harder to get your hard-working money 
+         back: http://www.ntk.net/2001/03/30/dohbos.gif ... RANDAL 
+         SCHWARTZ slams London.pm's "Perl is my bitch" T-Shirt - odd, 
+         considering: http://www.stonehenge.com/perl/amihooternot/ ... 
+         LASTMINUTE.COM soon to announce departures from Kingston, 
+         Surrey... disproving the myth that old people can't HTML: 
+         http://www.thegreyparty.co.uk ... they're using JAVASCRIPT 
+         ENCRYPTION (phew!): http://www.biemme.co.uk/order.htm ... 
+         "blah blah blah blah blah blah blah", reports THE OBSERVER: 
+         http://www.local-government.net/lganet.htm ... "INTERNET" not 
+         recognised by http://www.worktrain.gov.uk/ "Find a job" search 
+         - "It may be mis-typed or not in our dictionary. Please type 
+         in a different job title"... COLT site powered by Matt's 
+         Script Archive: http://www.ntk.net/2001/03/30/doh-colt.png ... 
+         Carl Sagan's CONTACT now part of Diana/ Morrissey conspiracy: 
+         http://members.home.net/veganmozfan/part3 ... PEPSI.au site 
+         features "prominent tit" (Robbie Williams not available?): 
+         http://www.pepsi.com.au/v1/background/bluesun_1024.jpg ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         The UK's INTERNATIONAL CONFERENCE ON COLLABORATION AND 
+         OWNERSHIP IN THE DIGITAL ECONOMY kicks off this week in London 
+         and Cambridge with, irony of ironies, a book launch: a talk 
+         and a film and some music from Belgrade's B92 radio station to 
+         celebrate the publication of "This Is Serbia Calling" (Tue 
+         2001-04-03, The Foundry, maybe you should RSVP to make sure). 
+         Obviously the usual Nathan Barley warnings apply, though 
+         frankly it sounds a lot more palatable than the rantings of 
+         those "BACK THE NET" DAY clowns (also 2001-04-03), whose 
+         recipe to "help the Net regain its respect" includes spamming 
+         "this letter to 10 other people, or as many as you can" - 
+         somewhat akin to running a Reclaim The Streets event that also 
+         offers valet parking.
+         http://www.ellipsis.com/foundry/b92/
+          - maybe they transmitted pirate Spectrum games or something
+         http://www.iconocast.com/crusade/ 
+           - "Imagine the net without Yahoo or Amazon.com" (ie, 1993)
+         
+         On the subject of direct (or should that be "pie-rect"?) 
+         action, April 1st also marks the start of pie-throwing month, 
+         at least according to zany culture-jammers DESSERT STORM. 
+         Exactly how flinging flans at public figures helps undermine 
+         global capitalism isn't made entirely clear, but it sounds 
+         like fun - NTK, of course, regards the choice of target and 
+         associated legal risk a matter for the personal conscience of 
+         indvidual readers. 
+         http://www.dessertstorm.org/legal.html
+                                   - thanks guys, that ought to do it
+         
+         Oh, and ex-Wired supremos Louis Rossetto, Jane Metcalfe and 
+         John Battelle are attending NEW MEDIA PUBLISHING STRATEGIES 
+         2001 at the UC Berkeley Graduate School of Journalism next 
+         Friday. 
+         http://www.journalism.berkeley.edu/events/conference2001/
+               - raising the question: what *are* L&J up to nowadays?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Mozilla's birthday this Sunday: time for our annual
+         slagging! Except, after three years' coding, it looks like
+         bits stop rotting into Wordperfect-shaped silhouettes of
+         corpse fat, and start going all... well, all NASAish. No,
+         we don't know whether that's good or bad, and we'll admit
+         that this week's 0.8.1 release is still embarassingly buggy.
+         But the emerging 0.9 - with its rewritten-from-scratch
+         image library, rewritten-from-scratch caching system, and
+         rewritten-from-scratch-*again* renderer, is actually looking
+         pretty tough. Everybody sees Mozilla as the testcase Open
+         Source project, but it's turning out to be a demo of
+         something quite different. Namely: what happens if you stop
+         giving coders realistic deadlines, and let them actually
+         follow the spec that they so naively believed themselves
+         capable of at the start? And then, when they go "Ohhh... we
+         messed up. Can we have another year to fix it?" - what
+         happens if you let them? The answer isn't Navigator, and it
+         isn't IE, and, no matter what Netscape management read into
+         the Cathedral and the Bazaar in '98, it ain't ESR's
+         fetchmail either. To be honest with you, we don't know what
+         it is. But, come June, maybe we'll have an idea.
+         http://www.mozillazine.org/articles/article1884.html
+                                             - stick to the nightlies
+         http://www.pigdog.org/auto/software_jihad/link/2044.html
+                                              - stick to the purties!
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         JAMIE OLIVER HATING is new "All Your Base Are Belong To Us": 
+         http://www.hairytongue.com/gallery/fattongue.shtml ... rugby 
+         ANAL PROBE http://www.sportal.com.au/league.asp?i=news&id=9703 
+         controversy incorporates nightmarish ZAPRUDER-style footage: 
+     http://www.foxsports.com.au/common/imagedata/0,5001,136894,00.gif
+         ... UK forced to import American FOOT AND MOUTH gags, after 
+         concerns over local quality control: http://www.manbeef.com/ , 
+         http://www.satirewire.com/news/0103/outlook.shtml ... MR BEAN 
+         saves plane: http://allafrica.com/stories/200103240069.html 
+         ... MICROSOFT is suspicious beneficiary of dot-com crash: 
+         http://www.forbes.com/2001/03/19/0319karlgaard.html ... JESUS 
+         starts dating: http://www.jesus.com/ ... lamb born with HUMAN 
+         FACE: http://www.ananova.com/news/story/sm_253620.html ... 
+         greedy CORPORATES imitate http://rtmark.com/fundhigh.html#BABY :
+     http://www.abcnews.go.com/sections/sports/DailyNews/tattoos_010321.html
+         ...dance, you DOGS! http://aibohack.com/movies/apv_dances2b.mov 
+         vs http://lambdadance.spacebar.org/ ... and, rounding off this 
+         week's omens of the imminent apocalypse, BLAKE'S 7 - THE TV 
+         MOVIE: http://www.blakes7.com/ ... 
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> as if it wasn't obvious from the title, SEX BAR (1am, 
+         Fri, C4) is a one-off follow-up to previous CGI-satire show 
+         "Pen Monkeys", featuring giant mutated pop-offspring Lennon 
+         Gallagher and Brooklyn Beckham rampaging around London, in a 
+         tribute to The Goodies' "Kitten Kong"... after being trailed 
+         in last week's "Top Ten Guitar Heroes" on C4 comes arguably 
+         the funniest movie of all time, THIS IS SPINAL TAP (9.05pm, 
+         Sat, BBC2)... up against the usual suspects - Madonna, The 
+         Prodigy - and, more promisingly, 2 Live Crew and NWA, in TOP 
+         TEN: X-RATED (10pm, Sat, C4)... Iain Lee's "lost" video games 
+         docu THUMB CANDY (11.35pm, Sat, C4) hits terrestrial at last, 
+         with Matt "Manic Miner" Smith and Sir Clive Sinclair holding 
+         the legendary "White Spectrum"... while C5's especially poor 
+         "Savage Nature Weekend" line-up includes ARACHNOPHOBIA (9pm, 
+         Sat), Ally Sheedy dog-monster MAN'S BEST FRIEND (11.05pm, 
+         Sat), THE BEVERLY HILLBILLIES (6pm, Sat), plus CLASH OF THE 
+         TITANS (5.20pm, Sun)... SON OF GOD (9.10pm, Sun, BBC1) 
+         controversially reveals that Jesus looked like George Michael, 
+         or, from certain angles, Dom DeLuise... a Julia Roberts season 
+         begins with her likely career high, FLATLINERS (10pm, Mon, 
+         C4)... DOT-COM AND KOSHER (11.15pm, Mon, BBC1) is presumably 
+         the out-takes from that Ben Cohen "Trouble At The Top" of 3 
+         weeks ago... and David "Pitch Black" Twohy's sci-fi back 
+         catalogue throws up temporal tourist treat TIMESCAPE (11.50pm, 
+         Mon, BBC1)... following idle NTK speculation [2000-11-10] 
+         about KELLY'S HEROES (9pm, Tue, C5), reader Ian Watters 
+         recommended a book called "Nazi Gold" for the "real" story 
+         behind the Eastwood WW2 tank epic... it's not all stuffed 
+         toys, proves THE ADAM AND JOE SHOW (11.05pm, Wed, C4) spoofing 
+         new formats like "People Place", "The South Bank Show" and, 
+         later in the series, a hideously accurate MTV VJ... C5's 
+         indefinite Rutger Hauer season continues with BLIND FURY 
+         (10.15pm, Wed)... and if Travolta's PHENOMENON (9pm, Thu, C5) 
+         actually *is* supposed to be an ad for Scientology, surely he 
+         could have done a better job of it...
+         
+         FILM>> Robert De Niro fortnight continues with robust Cuba 
+         Gooding Jr WW2-era biopic MEN OF HONOR (imdb: african-american 
+         / hero / institutional-discrimination / navy / instructor / 
+         prejudice / rescue / racism / training / alcohol / submarine / 
+         amputee / amputation / bigotry / courtroom / biographical / 
+         deep-sea-diving / disabled-person / determination / disabled) 
+         ... similar themes - the racism, we mean, not the diving - 
+         resurface in Julia "10 Things I Hate About You" Stiles' smart 
+         teen romance SAVE THE LAST DANCE (http://www.capalert.com : 
+         arrogance against a father; dutiful homosexual mentions; God 
+         separated the races for a reason; vulgar dance, repeatedly)... 
+         of course, if Kate Hudson had won Best Supporting Actress as 
+         planned, crowds would be queuing up to go see her and Stuart 
+         "Shooting Fish" Townsend in quirky Oirish human chameleon 
+         rom-com ABOUT ADAM (http://www.bbfc.co.uk : strong language, 
+         moderate sex)... which is still a better bet than Simon "The 
+         Full Monty, that Cisco ad" Beaufoy's zany hairdressing farce 
+         BLOW DRY (http://www.screenit.com/ : several views of [Rachel 
+         "Hilary And Jackie" Griffiths'] bare breasts covered in paint 
+         and glitter; Heidi ["Spin City"] Klum plays a model who fools 
+         around with her brother-in-law and has him cut and dye her 
+         pubic hair)...
+         
+         FROZEN WITH FEAR>> in accordance with NTK prophecy [2000-10-
+         06] MARS have at last diversified into SKITTLES MINTS (29p), 
+         though, as reader BEN JEFFREYS points out, they've "been in 
+         Italy for a while", and "come in a lovely uber-Poppets-style 
+         box". Ben's verdict on the coolmint, peppermint, toffeemint, 
+         spearmint and sweetmint flavours? "Pretty nice - you can tell 
+         what flavour they're meant to be without looking at the 
+         colours first, which sets them apart from Fruit Skittles." 
+         "[The Italians] also have Liquorice Skittles," he concludes, 
+         "which I didn't try as I don't know what kind of variety that 
+         could offer"... continuing the continental theme, MARTYN 
+         WILKINSON claims that he "picked up some KIT-KAT BALLS" in 
+         France recently - small, dark chocolate spheres filled with 
+         "something which isn't quite wafer" which "pop when you put 
+         them in your mouth [...] utterly delicious"... and, to prove 
+         that we're not overly biased towards the exotic imports of 
+         http://www.cybercandy.co.uk/ (get your combined sweets and 
+         T-shirt orders in now by the way, as we'll be switching to a 
+         different shopping cart soon), CHRIS HEATHCOTE boasted that 
+         he'd bought "a tequila-flavoured lollipop, with a real tequila 
+         worm embedded in it, and a white chocolate covered scorpion" 
+         from http://www.todd-design.com/edible/ , though at time of 
+         writing he couldn't quite bring himself to eat the scorpion... 
+         not much other ambient-temperature action to report - no sign 
+         of KRAFT FOODS' COLA DIME BAR yet, though it should have been 
+         around for a week; KIT KAT CHUNKY ORANGE (30p) is due April 9 
+         - though we are looking forward to the UK arrival of Spanish 
+         popcorn-style microwaveable crisp snack import POP CRACKS 
+         (79p) http://www.nuevo-nuevo.com/product.php3?NumProd=878 
+         (available in "Classic crust, Star with flavor to Bacon and 
+         Parrilla with flavor to Species", Babelfish reveals)... so, 
+         it's fortunate that it's time for the ceremonial unveiling of 
+         the summer ice-cream line-ups, kicking off with MARS, taking 
+         on CADBURY'S poorly distributed range of luxury tubs with 
+         500ml versions of TWIX, SNICKERS, M&M, MARS, and BOUNTY ice-
+         cream, plus SNICKERS CONE (90p), JOOSTERS LOLLY (60p) and now 
+         discontinued Winner-Taco-alike M&M COOKIE (85p)... CADBURY 
+         TREBOR BASSETT hit back with their own hand-held CARAMEL ice-
+         cream (UKP1) and JELLY BABIES ICE LOLLIES, while NESTLE are 
+         launching the SMARTIES POP-UP (vanilla ice-cream with Smartie 
+         pieces and a mini-Smarties stick, 80p)... but, as ever, BIRDS 
+         EYE WALLS wear the new product development crown, with SOLERO 
+         TROPICAL SHOTS, the "tangerine and cranberry" SOLERO TRIBE, a 
+         fruity water ice called FRUIT 5, plus "a major technical 
+         breakthrough" in the form of CORNETTO WHIPPY, a soft-ice-
+         cream-style cone dispensed by a special machine "adapted so 
+         that only Cornetto products can work in it". We await your 
+         sightings of this unholy apparatus - and also of BRITVIC'S 
+         TANGO FISH vending machine, which apparently "mimics a fish 
+         tank" in some enticingly unspecified way...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                  "a bit more supportive, this time around"
+                         http://www.lwn.net/2001/0329/     
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+      NTK is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+           (last chance to buy sweets and t-shirts at the same time!)
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

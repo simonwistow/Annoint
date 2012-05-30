@@ -1,0 +1,275 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____20/11/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+                    
+         "I feel like Boies [the DOJ lawyer] was doing his best over
+         many, many long days to put words in my mouth."
+                  - BILL GATES on his performance in his video deposition
+          ...maybe he's pretending to be one of those autocorrect wizards? 
+
+
+                                >> HARD NEWS <<
+	                       strangely skewed                                
+         
+         The clips on the Net show it all - the wide-eyed child looking
+         on helpless: dragged away from everything that he knows,
+         transported to the byzantine world of the court, where
+         familiar, powerful figures debate whether he is yet too
+         powerful and must be... destroyed. Yes, we sense much fear
+         in BILL GATES. This week saw SUN using the force of law to
+         stop Windows 98 shipping with an incompatible Java VM, AOL
+         opening talks with Netscape, and the anti-trust trial judge
+         laughing out loud at Bill's soulful silences in the video
+         deposition. Meanwhile, Senator Ellison appears to be having
+         another one of his fits, in which he suggested that perhaps
+         Oracle servers could do without an full OS at all. Yeah,
+         let's just do it with a bunch of PEEKs and POKEs, Larry.
+         Sheesh, whose dark side are you on?
+ http://oracle.com/cgi-bin/press/printpr.cgi?file=981116.11652.html&mode=corp
+                               - Fear leads to suffering fools gladly
+         
+         Okay, so we've got two governments, both eager to encourage
+         the new media sector of their economy. Both decide to
+         commission a report. One goes to Vint Cerf, Don Heath, and
+         the chair of Bell Atlantic. The other goes to a DIGITAL
+         MEDIA ALLIANCE STEERING GROUP, including members of the
+         Arts Council, a CD-ROM company, a media consultant, and
+         someone from Channel 4. After some months, the first group
+         recommends privatising the local loop, flat-rate charges for
+         Net calls, and heavy investment in a public IP
+         infrastructure. Within days, a scared national telco
+         announces 33% cuts in Net phone charges, a flat-rate system
+         to be implemented in two months and a "competitively-priced"
+         DSL system by March. The other group recommends forming four
+         new committees - one of which, intriguingly, will be
+         called the "Alliance of Digital Media", and will initially
+         consist of the same people who commissioned the report. Oh,
+         and they also propose a special "zone" on the Web to
+         showcase new, "grassroots" talent. Our question is: who had
+         the prettier-looking report?
+         http://act.iol.ie/
+                  - still, good to see Web forums suck over there too
+         http://www.telecom.ie/cgi-bin/PressRelease.pl
+              - of course they're lying - but at least they're scared
+         http://www.artec.org.uk/dma/
+           - we'd get more bandwidth if they all lost these PDF files 
+         http://www.pact.co.uk/
+            - pretty shit-hot, these "Digital Media Alliance" leaders 
+
+         No news on the crypto front, thank God: this week's
+         WASSENAAR CRYPTO MEETING isn't happening, which is a good
+         sign. Wassenaar is the widely-signed international agreement
+         not to export weapons of mass destruction, dual-use
+         technologies and - say France, Russia, the US and (quietly)
+         the UK - strong cryptography. Apparently, most of European
+         countries disagreed so heavily with the anti-crypto US line,
+         that there was nothing to discuss. More no news, we hope on
+         Tuesday, when the Queen's speech will reveal whether the DTI
+         are leaving their own half-baked crypto controls in the oven
+         for just a little bit longer...
+         http://www.telepolis.de/tp/english/inhalt/te/1646/1.html
+                    - or maybe we should all move to Finland instead?
+         http://www.cyber-rights.org/crypto/wassenaar.htm
+        - skip this bit: the funny URLs and TV reviews are down there
+         
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+                   
+         www.eff.org down for a week: no-one notices... loss-leader
+         for gamesandvideos.com at http://www.ntk.net/doh/gandv981120.gif
+         ... Guardian's FOOTBALL UNLIMITED mailing list echoes
+         subscribers' "fuck off" messages... band calls itself HORACE
+         GOES SKIING... "None of us likes the idea of another strike
+         in the Middle East" (except us, who make seven grand a shot
+         out of it): http://www.viewpoint.com/gulfcrisis/ ...
+         Microsoft BARNEY "not a success"... couple more radomes
+         going up at MENWITH HILL... NICHOLAS NEGROPONTE writes his
+         last WIRED column: how long before *he* turns up on bloody
+         Slashdot?... http://www.yell.co.uk/ re-design far, far
+         worse than previous... ZDNET reveals the top buzz at COMDEX
+         is (drum roll) THE INTERNET... NETSCAPE buys NEWHOO (lucky
+         they changed the name, right?)... BILL GATES meets REBECCA
+         EISENBERG, describes her as "most offensive person I have
+         ever met"... Lee Maguire gets the AMIGA OS FALCO, for
+         correctly predicting the shift to QNX in *May*...
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+         
+         Normally when we hear the phrase "digital art", we reach for
+         our railgun, but San Jose web mag SWITCH seems to be
+         saluting the true cutting edge with its upcoming exhibition
+         Cracking The Maze: Game Plug-ins And Patches As Hacker Art
+         (submission deadline 10/12/98) - possibly to tie-in with
+         current tweakable releases Carmageddon 2: Carpocalypse Now
+         and Tomb Raider 3. It's either art-school lamers finally
+         realising that they're outclassed by real coders, or -
+         equally understandable - the world's most desperate trawl
+         for the semi-mythical, barely stable "Nude Raider" patch.
+         http://switch.sjsu.edu/web/v4n1/annmarie.html
+       - "It's nice to think of artists as hackers". Nice, but wrong.
+         http://www.planetquake.com/que/haiku/haiku.htm
+                                 - "Shimmering with hopes/ trembling,
+                             speeding toward you/ My rocket is yours." 
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         Tim Berners-Lee, as we recall, is always moaning about how
+         the Web was *supposed* to be annotatable - it should be as
+         easy to add and edit Web documents, he says, as it is to
+         browse them. To see what kind of mess that would have lead
+         to, you might like to check out the WIKI WIKI WEB, an easy
+         to set-up, easy-to-understand, impossible-to-administrate
+         "collaborative environment". In many ways, it's a
+         self-perpetuating mess (it took us half an hour to work out
+         how to get the source), but - like the Xanadu project it
+         superficially resembles - it can't help but gland a few key
+         geek hormones. The original Wiki is a tiny Perl script, but
+         versions now exist in Python, Squeak, and other places where
+         geeks do the Right Thing so much it becomes Wrong Again.
+         http://c2.com/cgi/wiki?WelcomeVisitors
+                                               - start here, we guess
+         http://c2.com/cgi/hp?WikiInHyperPerl
+                                                      - aha! found it
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         ROBBIE WILLIAMS' Antmusic... POKEY THE PENGUIN's dark side:
+         http://forbidden.dough.net/~archon/rwallace/ ... "favourite"
+         banner ads: http://www.microscope.com/ ... locking on target
+         market - fire! http://www.offcolor.com/blast-xy.html ... QT
+         goes open source - now who are we supposed to like?... KEN
+         CAMPBELL to adapt INFINITE JEST?... put your HANDS on the
+         CAR and YOUR BROWSER at http://www.apbonline.com/...
+         horizontal flies... all-new SCHNEWS moved along to
+         http://www.schnews.org.uk/ ... BEN STILLER is: Mr Furious -
+         GREG KINNEAR is: Captain Amazing... Truth in Advertising:
+         http://www.kvetch.com/ads/barnesandnoble.gif... FRANKIE says
+         http://www.geocities.com/SunsetStrip/Stadium/1123/ ...
+        
+
+                               >> GEEK MEDIA << 
+                       may contain strongly-typed language
+
+         TV>> celebrities in need of a good kicking, more like, with
+         the usual B-list nobodies and bands plugging Christmas
+         singles supposedly in aid of CHILDREN IN NEED (from 7pm,
+         Fri, BBC1)... maybe Simon "Alan Parker" Munnery and techno
+         uber-spoof The Pod can transcend the dire low-budget
+         limitations of COMEDY NATION (12.30am, Fri, BBBC2)... BOOKED
+         (8pm, Sat, C4) tries to establish if nature or nurture
+         produces pop-sci books like Richard Dawkins' new "Unweaving
+         The Rainbow"... and while they marketed Crichton thriller
+         DISCLOSURE (9pm, Sat, ITV) as the latest Michael Douglas
+         battle of the sexes romp, in fact it's a daft VR thriller
+         about the use of clean rooms in CDROM drive manufacture...
+         with b&w nuke parable THE DAY THE EARTH STOOD STILL (4.05pm,
+         Sun, C4) following last week's Forbidden Planet, looks like
+         Sunday afternoon is "scifi classic with a robot holding a
+         swooning girl on the poster" time. Oi! Channel 4! Klaatu
+         barada nikto!... still, better than F/X-lite Marvel
+         adaptation GENERATION X (9pm, Sun, C5) - for Matt "Max
+         Headroom" Frewer completists only... WORLD IN ACTION (8pm,
+         Mon, ITV) cynically targets parents of kids cynically
+         targeted by TV ads... and C5's porn schedule has a lot to
+         answer for, as WITNESS (9pm, Mon, C4) casually observes
+         naturists vs nudists, and BBC2 starts a pioneering series of
+         ugly people talking about their bodies while NAKED (9.50pm,
+         Wed, BBC2)... MODERN TIMES (9.30pm, Tue, BBC2) rides the
+         rollercoaster history of Alton Towers pleasure park...
+         across the ITV networks, an interdimensional portal has
+         opened - to reveal minor recent parallel universe movie
+         DOORWAYS (12.30am, Wed, ITV)... and: "I am *disgusted* to
+         notice that you've *completely* failed to take the piss out
+         of us Acorn users again," complains one self-loathing
+         RISC-taker over the non-existent Acorn Phoebe machine used
+         as a non-linear edit suite in extreme sports vehicle PIRATE
+         TV (around 1.40am, Thu/Fri, some ITV). See comp.sys.acorn.*
+         for further details...
+
+         FILM>> casting Matt Damon in virtually his Good Will Hunting
+         role again makes ROUNDERS (imdb: judge / law-school / mafia
+         / new-york / poker / prison) a bit of a gamble, but it's a
+         safe bet for fans of poker or John "The Last Seduction" Dahl
+         - and at least it's not the girls' version of baseball...
+         DEAD MAN'S CURVE (imdb: black-comedy / college / humor /
+         suicide / urban-legend) almost combines Scream humour (and
+         Hackers "star" Matthew Lillard) with student murder,
+         sub-Heathers-style... Roger Ebert hypothesises that the
+         mystery briefcase in lame De Niro nothing-to-do-with
+         Frank-Miller Euro yawn RONIN (imdb: betrayal) contains "the
+         briefcase from Pulp Fiction". Either that or an explanation
+         of whether the car chases are trying to re-enact a) Diana's
+         death crash, or b) Konami arcade game GTI Rally Cote
+         D'Azur... "miserable" accurately describes the cast, tedium,
+         song-free plot of LES MISERABLES (imdb: based-on-novel /
+         historical / paris) - Neeson! Thurman! Danes!... so probably
+         more laughs in taking your Heinlein-loving libertarian pals
+         to risible Ayn Rand re-release THE FOUNTAINHEAD (imdb:
+         architect / courtroom / heiress / newspaper / suicide)...
+
+         "OUT OF MY WAY, FANBOY", WITH LEE MAGUIRE AND BEN MOOR>> Top
+         of the pile is YOU ARE HERE (UKP15) by Kyle "Why I Hate
+         Saturn" Baker, an extension of some of the bits from Dark
+         Horse's much missed 'Instant Piano'... also in the comedy
+         section, Kevin Smith's slackfest JAY AND SILENT BOB finally
+         gets to its second issue - a good bet if you're interested
+         in the backstory of upcoming anti-religion comedy 'Dogma'.
+         Smith is also writing the only one of the new Marvel Knights
+         books nearly worth reading: DAREDEVIL. It's like reading a
+         teenager's essay titled "Does God Exist? And if He Does, Why
+         Does He Let Pretty Girls Get AIDS?" but with better pictures
+         (the Black Widow hasn't looked so great in years). Bullseye
+         returns next month: corny issue zero shockwave preview at
+         http://www.marvel.com/special_events/mknights/mknights.html
+         But best Smith-based book has to be: the manga Chasing Amy
+         (http://www.viewaskew.com/jsbstash/chasingamy.html#amymanga)
+         ... SPIDER-MAN's relaunch with two new number ones has been
+         welcomed with altogether controlled excitement in shops:
+         DC-heads are meanwhile coveting the hardcover, slipcased
+         limited edition of CRISIS ON INFINITE EARTHS, probably the
+         best maxi-series in superhero history and almost worth the
+         near infinite price of UKP75... but the toys for Christmas
+         have got to be the 6-inch SPY VS SPY action figures -
+         available in the next couple of weeks, around UKP10. They
+         each come with their own suitcases of bombs and hammers and,
+         brilliantly, you really need a pair. Buy! Fight! Spy! Vs!
+         Spy! Life's a riot, as they say...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+             It is registered at the Post Office as "real people" 
+       http://www.latimes.com/HOME/NEWS/SCIENCE/SCIENCE/t000104876.html
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.
+
+

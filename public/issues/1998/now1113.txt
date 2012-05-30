@@ -1,0 +1,303 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   ____13/11/98_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+       "We worked with [the movie's creators] to make the AOL
+          experience that you'll see in the movie something that our
+              members will see as realistic as possible"
+  - AOL's Wendy Goldberg on Hanks/Ryan vehicle YOU'VE GOT MAIL
+       http://www.news.com/News/Item/0,4,28358,00.html?st.ne.1.head
+       ...though maybe "Sling Blade" is a slightly closer metaphor...
+
+
+                                >> HARD NEWS <<
+                                nothing to lose
+
+         All the .com's disappeared again this Wednesday, but this
+         time NETWORK SOLUTIONS had an explanation. According to
+         David Holtzmann, NSI vice president of engineering, it
+         wasn't their fault: it was the "F" root nameserver that went
+         rogue. And that's run by Net legend, Paul Vixie.
+         Unfortunately, Holtzmann seems to have been confusing
+         Vixie's "F" rootserver, f.root-servers.net, and NSI's own
+         "F" rootserver, f.gtld-servers.net, which they recently
+         installed in Palo Alto (right next to Vixie's) to
+         considerable fanfare. As it happens, Vixie's server *was*
+         corrupted (NSI's machines messed up the file transfer), but
+         correctly told DNS servers that it was down.  Unfortunately,
+         NSI's F, J, or K servers were snafu'd too, and were proudly
+         insisting to the world that they were fine, just fine, and,
+         by the way, did you know every .com in the universe just
+         vanished? It's still not clear why NSI called their server
+         "F" after the same letter as Vixie's long-established
+         machine: some cynical voices suggested at the time that they
+         were trying to squeeze out the old boys. Or maybe they
+         just haven't got the hang of this whole "naming" business yet.
+         http://www.news.com/News/Item/0,4,28664,00.html
+            - update! original article may have regurgitated NSI line
+         http://www.merit.edu/~nanog/
+              - ratio of journo to sysadmins on NANOG now 2:1
+
+         Big surprise: JUSTIN PETERSEN, aka Agent Steal, aka Agent
+         Squeal, aka the one-legged guy with the big hair who informed
+         on Kevin Mitnick, has done a bunk. FBI marshalls have been
+         checking his usual haunts on Sunset Boulevard, nervous that
+         the running man won't be returning for his star witness
+         appearance in the Mitnick trial. Mail to 2600 mag's Emmanuel
+         Goldstein purporting to be from Petersen, claims he's
+         skipped the country to work for some "CIA-funded black ops".
+         Well, aren't we all? And will he be back for Mitnick? "Let
+         lying dogs sleep" says the... uh, unconfirmed report.
+         Meanwhile, we're wondering - wasn't it the *other* guy who
+         had an arm missing in the Fugitive?
+http://www.zdnet.com/zdtv/cybercrime/chaostheory/story/0,3700,2163907,00.html
+                                          - the "other Kevin" reports
+         http://www.justinpetersen.com/
+                    - pay your domain name bills before you go
+
+         TOMMY FLOWERS sounds like something from a Captain Britain
+         comic: the cheerful engineer sidekick of Turing and the
+         Bletchley Park eggheads. In reality, he was Dr Flowers, -
+         the man behind the design of Colossus, the electronic
+         processor that helped break German encrypted messages in
+         WWII. Colossus, if not the first computer, certainly counts
+         as one of the first electronic hacks: it was constructed
+         almost entirely from standard telephone parts. Flowers also
+         tweaked the cutting edge: he insisted on using fragile
+         vacuum tubes, rather than relays - his experience at the GPO
+         told him that if they just kept his machine turned on, the
+         tubes would rarely blow. Oh, and Flowers upped the speed of
+         the Colossus fivefold in two years, beating Moore's Law
+         before it even began. Dr Flowers was 92 when he passed away
+         earlier this month.
+         http://www.cranfield.ac.uk/ccc/bpark/colossus.htm
+                                                      - geek days out
+         http://www.dejanews.com/=dnt_lk/getdoc.xp?AN=407669146
+                                      - "the most brilliant engineer"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         oh God, JON KATZ has found Slashdot... WIRED "interactive"
+         news at http://www.ntk.net/doh/wired981109.html ... looks
+         like WEBMONKEY is learning on the job, too -
+         http://fuchs.stanford.edu/schtuff/monkey.gif ... BRITISH
+         PATENT "search engine" shows no hits for "Dyson".. DAVID
+         BRAKE now promoted to BBC OBITUARIES DEPARTMENT...
+         "Sun-Microsoft rivalry one of dislike", reveals USA TODAY...
+         REVOLUT!ON asks its online directory members to update their
+         details - by fax... AntiNews of the Year:
+         http://biz.yahoo.com/prnews/981106/wa_amazon__2.html ...
+         GEOFF BOYCOTT's "Hit For Six" game cancelled after he beat
+         up his partner, reckons THE SUN... ROBERT X CRINGELY fakes
+         professorship from Stanford: hell, next they'll be saying he
+         made up the name... BBC ad for Website suggests that a good
+         cure for running out of memory is to "close some of the
+         programs, and reboot" - what, just some of the programs?...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Oh, those swanky West Coast WEBZINE 98 guests may be living
+         the high life this weekend, quaffing the complimentary
+         Chardonnet and waving to their adoring crowds from their
+         large, specially-commissioned floats, but we know our roots.
+         We'll eating simpler fare at the ATARI COMPUTING CONVENTION
+         at Bingley Hall, The Staffordshire Show Centre, Stafford,
+         this Saturday 14/11/98 (1000-1600GMT). The simple bran of
+         the monochrome Atari ST: the healthy spring water of its
+         still cheery exponents. And we'll be breaking bread with the
+         Atari's traditional enemies, too. By a happy coincidence
+         the Atari Convention takes place at *exactly* the same time
+         and place as the ALL COMPUTER SHOW, which will be
+         chock-a-block with ageing Sinclair fans, Einstein
+         enthusiasts, Coleco Adam advocates and, we're sure, the
+         occasional Amiga loser. Entrance fee UKP3, and bring your
+         boots. There's still time for one more kicking.
+         http://www.sharward.co.uk/sproms.html
+                         - "but I've *OOF* got a *OOF* blitter *OOF*"
+         http://www.webzine98.com/
+                                        - Freaks. GET A JOB!!
+
+
+                                >> TRACKING <<
+                  making good use of the things that we find
+
+         JOHN WALKER is one of those luminaries who you know, even if
+         you don't recognise the name: his DEMORONISER is a program
+         that fixes symptoms you'll recognise even if you've never
+         known the disease. This Perl hack fixes HTML generated with
+         programs like PowerPoint and Microsoft Word, dropping back
+         the apostrophes and smart quotes which the apps otherwise
+         knacker beyond belief. As Walker points out, if you don't
+         fix the code, Web readers using Macs or Unix will think
+         you're an ungrammatical idiot or - worse - suspect you own
+         PowerPoint and Microsoft Word. Walker was also the founder
+         of AutoCad, and the guy in Rudy Rucker's THE HACKER AND THE
+         ANTS who tries to take over the world using an army of
+         super-intelligent ants hatched from his secret Switzerland
+         base. Allegedly.
+         http://www.fourmilab.ch/webtools/demoroniser/
+               - don't let the domain name put you off, little hacker
+         http://www.fourmilab.ch/documents/top10.html
+                                                 - ...he's one of us
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         offshore GORE PATCH for Carma players, all ages:
+         http://www.carpocalypse.com/ppfiles.htm ... now, this is
+         shit: http://www.doodie.com/ ... China recognises "MAGIC:
+         THE GATHERING" as an "official non-Olympic mind sport"...
+         http://www.scottmccloud.com/ ... random ICQ numbers in your
+         .sig, just to annoy people... they've got your number:
+         http://telephonesex.net/ ... EPISODE ONE trailer US debuts
+         next week - FRANK "Yoda" OZ comments: "Fucking incredible
+         [it is]"... tragic floods in CHINA delay delivery of BEAVIS
+         & BUTT-HEAD action figure collectibles...
+         http://www.leeandherring.com live tryouts start at
+         Riverside Studios next Thu 19/11... unfortunate title-bar
+         typo of the year: http://www.nukeproof.com/ ... SISTERS OF
+         MURPHYS ads annoy Irish goth tribute band of same name,
+         reports uk.people.gothic ... Brighton KILLER NET house burns
+         down, police suspect arson - by TV fans... IEE NEWS warns RF
+         streetlight interference "likely" - story has been on and
+         off so many times, it's causing interference of its own...
+
+
+                               >> GEEK MEDIA <<
+                      may contain strongly-typed language
+
+         TV>> very average character sketches/ spoofs that really
+         would have you muttering GOODNESS GRACIOUS ME (10pm, Fri,
+         BBC2) - if they weren't so excitingly, adventurously
+         Asian... but at least they haven't scheduled it against the
+         increasingly excellent sibling ribaldry of FRASIER (10pm,
+         Fri, C4)... plus plenty of self-confessed "macho bullshit" -
+         and a weirdly camp villain - in early Arnie guns-and-puns
+         fest COMMANDO (10.25pm, Fri, BBC1) - "I let him go!"... not
+         officially "girl power" night on the SciFi Channel, but
+         clearly something's fuelling immortal-female spin-off
+         HIGHLANDER: THE RAVEN (8.30pm, Fri, SciFi), the TOMB RAIDER
+         SPECIAL (9.30pm, Fri, SciFi), and that other post-feminist
+         (post-watchable?) icon TANK GIRL (10pm, Fri, SciFi)...
+         desperate Cilla tries to find *any romance at all* in the
+         lives of ex-contestants on THE BLIND DATE EXCLUSIVE (6.45pm,
+         Sat, ITV)... *surely* Iranian hostages docu 444 DAYS (10pm,
+         Sat, BBC2) will touch on the theory that Bush kept them
+         there till Carter lost to Reagan... and, inexplicably, C4 is
+         re-showing DARK SKIES (12.20am, Sat, C4; 11.50pm, Sun,
+         C4)... visible wires, painted f/x, straight-faced Leslie
+         Nielsen fail to detract from archetypal sci-fi classic
+         FORBIDDEN PLANET (5.20pm, Sun, C4)... a comprehensive look
+         back at the highlights of a month's digital TV in NOUGHTS
+         AND ONE (8.50pm-9pm, Sun, BBC2)... seen John Dahl's
+         neo-noirs Red Rock West or The Last Seduction? Then no need
+         to KILL ME AGAIN (10pm, Sun, C4)... especially when Luc
+         Besson is lamenting the uselessness of work experience
+         placements in rapid-fire assassin assignment LEON (10.10pm,
+         Sun, BBC2)... why should C5 viewers have all the fun, ask
+         competing channels with completely educational, not at all
+         sensation-seeking VICE - THE SEX TRADE (9pm, Mon, ITV), and
+         - just after, on the same night! - ANATOMY OF DESIRE (10pm,
+         Mon, C4)... 60 years of cereal box evolution compressed into
+         10 mins of brand-nostalgia 6-parter WRAPPERS (10.20pm, Tue,
+         BBC2) - part two free inside!... and it's rubbish sci-fi
+         rip-off week on C5 - again - with The Relic-alike DNA (9pm,
+         Tue, C5), and scary black contact-lens ad THE SILENCERS
+         (9pm, Wed, C5)... has Davina McCall *killed* Gaby Roslin to
+         take over all her old jobs, like THE REAL HOLIDAY SHOW
+         (8.30pm, Wed, C4)?... and, for comparison's sake, CARRY ON
+         CAMPING (11.15pm, Wed, BBC1) is followed by the second-worst
+         British sex comedy of all time, pseudo-sci-fi
+         penis-transplant sequel PERCY'S PROGRESS (12.40am, Wed,
+         BBC1)... 
+
+         FILM>> Buffy, Ultraviolet, Razor Blade Smile, John
+         Carpenter, and now Wesley Snipes in frenetic beat-'em-up
+         BLADE (imdb: based-on-comic / vampire) - just what have
+         people got against the undead again all of sudden? "The
+         whole film is bad right through," said the Jamaican Film
+         Board, then banned it... lovely Sandra Bullock plays the
+         local "Queen of Corn", directed by "King of Corn" Forest
+         Whitaker, in chick-flick by numbers HOPE FLOATS (imdb:
+         divorce / mother-daughter / old-age / photography /
+         small-town / talk-show) - and if she'd seen The Philadelphia
+         Experiment, she'd know not to trust that guy this time...
+         Matthau and Lemmon together again - like they ever work with
+         anyone else - in tottering THE ODD COUPLE II (imdb: divorce
+         / marriage / odd-couple / road-trip / sequel) - imagine
+         "Home Alone" with OAPs... and battle for the most
+         vomit-packed movie of the week: is it Hal Hartley's
+         limited-release touching scatological poetry web-publishing
+         romp HENRY FOOL (imdb: drama/ comedy) - sounds oddly like
+         John Waters' upcoming Pecker... or Terry Gilliam's
+         nauseating f/x fest - with Benicio "Bakersfield PD" Del
+         Toro, and Johnny Depp as what looks like a '70s Elton John -
+         to elicit both FEAR AND LOATHING IN LAS VEGAS (imdb: 1970s /
+         drugs / las-vegas / sequel). As Ben Moor puts it: To
+         describe it as 'Gonzo' journalism is to ignore the influence
+         of all the other muppets...
+
+         DEAD TREE MEDIA>> yeah, we know, we did "magazines"
+         recently, but we had to get the word out to someone: issue 1
+         of much-trumpeted Future Publishing multi-format mag ARCADE
+         (UKP1 launch price, due Tue 17/11/98) is, reportedly,
+         "awful". Symptoms include Total Film design,
+         ultra-impenetrable text (2000 words/page?), only 2 (out of
+         73) games getting "below average" scores, 20 pages of tips,
+         and a big cover close-up of Lara Croft's head with headline
+         "The New Face Of Videogames" - clearly not a usage of "New"
+         that we were previously familiar with. Intriguingly, the
+         press ads - a charming tableau of two blokes playing games,
+         chomping pizza, while bored girls look on - supports our
+         long-standing claim that the mag was going to be called
+         "Arcadia", as this is written on one of the joypads in black
+         marker pen, presumably to prevent them from being nicked
+         from the office... apparently the makers of Edge, OPM,
+         Frontiers, Decoration Cake and the (perhaps too literal)
+         Redline are also planning a "technology lifestyle mag",
+         called CODE, described as "like Wired - but not so up its
+         own arse" (and where did we hear that disclaimer before?)...
+         in more encouraging news, http://www.salonmagazine.com
+         reported that West Coast uberzine MIGHT is reincarnating as
+         MCSWEENEY'S, helmed by David Eggers, author of "Never Fucked
+         Anyone", the best bit in the Might book by far. Further info
+         now online at http://www.mcsweeneys.net ... oh, and
+         http://www.obscurestore.com is currently sheltering ultimate
+         temp nomad updates DISHWASHER #14 and #15... thanks to
+         everyone who pointed out that LLOYD MANGRAM not only never
+         edited Crash, but was also a made-up pseudonym who never
+         even existed... heck, even the ex-ed of Horticulture Week
+         can find themselves running a REVOLUT!ON nowadays:
+         http://www.demon.co.uk/eurojournalism/stovin/etcv.html ... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+    It is registered at the Post Office as "on time, for once in our lives"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+             NTK now is helped by THE ILLUMINATI and UNFORTU.NET.
+              They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                        but retain SMALL PRINT. Contact
+                terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

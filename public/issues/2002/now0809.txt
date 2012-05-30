@@ -1,0 +1,327 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-08-09_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "We no longer have to grapple with the idea of having two
+         forms of existence - the one that involves breathing, pissing
+         and fucking and the one that involves typing..."
+                          - Big Mouth Billy Bass Thompson, The Register
+                      http://www.theregister.co.uk/content/6/26612.html
+             ...lucky we held on to all those rubber Spectrum keyboards
+
+
+                                >> HARD NEWS <<
+                             they've come for you
+
+         The first shoe drops: the proposed UK implementation of the
+         dread EUROPEAN UNION COPYRIGHT DIRECTIVE has been published.
+         Dozens of befuddled geek minds are parsing its hairy
+         spaghetti as we speak. But here's the big picture: when this
+         becomes law, the "contract" you have with a copyright holder
+         will almost completely trump your right as a purchaser of
+         copyrighted material. And your contract is hereby defined by
+         the copy protection technologies the distributors stick on
+         your media. So if that CD doesn't play on your PC - well,
+         that's what you "agreed" to, and there's nothing you can do.
+         If you try and circumvent any the copy protection (or, in
+         the case of computer programs, explain how to do so to
+         anyone else), you can be punished as much as if you were
+         pirating the data yourself (Article 6). Heck, if you even
+         try to remove any of the tracking spyware, you'll be in
+         equal amounts of trouble (Article 7).
+         http://www.patent.gov.uk/about/consultations/eccopyright/
+                        - one day, laws like this will be hyperlinked
+         http://bugbear.blackfish.org.uk/~bruno/2001_29_ec.txt
+         - until that time, the brave will convert them to unprotected text
+
+         The proposed UK legislation chips away at your ex-rights in
+         bits and pieces; it'll take a while before the complete
+         picture appears. But while the amateur lawyers mull, the
+         "consultation period" starts ticking. Bear in mind that -
+         just like RIP - our poor legislators are hurrying this
+         through by Christmas. They'll consult, but be done by
+         October 31. To save time, they won't listen to any
+         complaints about the original EUCD document. And the raft of
+         provisions that they've chosen to omit (like the generous
+         but eminently ignorable list of fair use rights in the
+         original directive) aren't up for discussion either.
+         Welcome, kids, to the Euro-DMCA: and KNEEL BEFORE ZOD.
+         http://www.xenoclast.org/free-sklyarov-uk/2002-August/002868.html
+            - update next week, until then: keep watching the threads
+
+         Yes, we laughed along with last month's rec.humor.oracle.d
+         postings on some of the hardest-working printshop staff in the
+         Colorado Springs area, smiling away at these locations:
+             http://www.snappyprint.net/companyinfo/employees.html
+             http://www.graphicsplusco.com/companyinfo/employees.html
+             http://www.copyitonline.com/companyinfo/employees.html
+         ...and subsequently tracked to this website template supplier:
+             http://design4.printerpresence.com/companyinfo/employees.html
+         But spare a thought for the overworked tech-sector employees
+         of Northern Ireland, where cutbacks in BBC stock photography
+         budgets has seen them moonlighting for the likes of "Liberty
+         Information Technology" *and* "Audio Processing Technology":
+             http://www.ntk.net/2002/08/09/dohnimay.gif
+             http://www.ntk.net/2002/08/09/dohnijune.gif
+         It's not all bad news, though. Literally within days of being
+         laid off by Nortel, some workers appear to have been lucky
+         enough to be taken on by trend-bucking IT company Sx3 - to do
+         exactly the same job, in the same factory:
+             http://www.ntk.net/2002/08/09/dohnimay18.gif
+             http://www.ntk.net/2002/08/09/dohnimay22.gif
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         look closely - not the world's best ad for content management:
+         http://images-eu.amazon.com/images/P/076454862X.02.LZZZZZZZ.jpg
+         ... moving on to MILDLY IRONIC PUERILE GOOGLE MISSPELLINGS:
+         http://www.google.com/search?q=perfectionsit , "untied we stand"
+         plus the rather more Freudian "militarty", "your accunt",
+         "pubic transport" - and you love it, you filthy "conslutant":
+     http://www.gojobsite.co.uk/cgi-bin/vacdetails.pl?selection=910731921
+         ... INAPPROPRIATE BANNER ADS are back again, though of course
+         the really funny bit was watching him jump off the platform:
+         http://www.ntk.net/2002/08/09/dohtax.gif ... sure, the staff
+         are interactive alright - but not too full of original ideas:
+         http://www.interactiveideas.com/com_theteam.php3 ... "Our
+         Eudora Inbox just disappeared", reassure the professionals at
+         http://www.programmersguild.org/american.htm - vs mysterious
+         "hacking incident" suffered by INTERNET SOCIETY OF ENGLAND:
+         http://www.england.isoc.org/newsletter/Issue-03-May-02.rhtm
+         ... YAHOO Darius story wants to link you baby, one more time:
+         http://uk.music.yahoo.com/020804/140/d6oko.html ... "Babies
+         born under water could be at risk of drowning", doctors
+         reveal: http://news.bbc.co.uk/1/hi/health/2173451.stm ...
+
+
+                               >> EVENT QUEUE <<
+                         Edsger Dijkstra considered dead
+
+         Even if you can't make it to DNSCON (this weekend, Imperial
+         Hotel, Blackpool, from UKP15), CLASSIC GAMING EXPO (Sat 2002-
+         08-10, Las Vegas, from US$15), or indeed QUAKECON (Thu 2002-
+         08-15, Mesquite, Texas, free), you can still enjoy a spot of
+         urban exploration courtesy of STRANGE ATTRACTOR's "Underground
+         Installations" night (7.30pm, Tue, 2002-08-13, The Horse
+         Hospital, London WC1, UKP6), where a "Matt Williams" will
+         provide admissible video evidence of bunker busting exploits
+         in subterranean UK military facilities like Corsham Computer
+         Centre and RAF Rudloe Manor. The subversion continues on Sat,
+         when NTK reader and "Bizarre" contributor Iain Aitch presents
+         TROUBLE: ART AS A FORM OF CULTURAL RESISTANCE (7.30pm, Sat
+         2002-08-17, Horse Hospital again, UKP6) - basically a bunch of
+         short films which include the antics of anti-WTO impostors The
+         Yes Men, and that thing with all the drunken Santas that he
+         organised last year.
+         http://www.dnscon.org/
+                     - taking the tube: http://projectz.ath.cx/?id=66
+         http://www.cgexpo.com/
+                   - new Atari 2600 games, 400 empty boxes of Dig Dug
+         http://www.quakecon.org/
+                   - with added http://machinima.com/ , body-painting
+         http://www.strangeattractor.co.uk/
+                     - hey, isn't that top pic from Metal Gear Solid?
+         http://www.thehorsehospital.com/
+          - they don't still operate on horses there, disappointingly
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         When XML first came out [NTK 1998-02-13], we were sceptical
+         of it replacing HTML, "mostly because in order to do the
+         clever parse-and-display-as-old-fashioned-Webpage stuff
+         right now, you'll need to brush up on your SCHEME". What we
+         *seem* to have meant by that was you'd need to learn XSLT to
+         turn XML into something browsable. Well: four and half years
+         on, and the draft of XHTML 2.0, the first heavily backwards
+         incompatible successor to bog HTML has emerged. The road
+         from old and busted markup to new W3C hotness is laid out,
+         and merely awaits a decade or so of developers grudgingly
+         supporting it, while old browsers that choke even on the XML
+         mimetype refuse to die. Some good, if theoretical stuff in
+         the draft: nav bars get their own tags, Marc Andreessen's
+         IMGs are finally assimiliated into a more generic OBJECT
+         type, and every tag can put on an "href" attribute hat and
+         become a link. But perhaps most exciting: modern browsers
+         have grown so flexible that they can parse and display a 
+         XHTML2 page right now! Using XSL! Vindication!
+         http://w3future.com/weblog/2002/08/09.html#a119
+                                          - see the future come alive
+         http://www.w3.org/TR/2002/WD-xhtml2-20020805/
+                                     - the very far off future indeed
+         http://www.ntk.net/index.cgi?b=01998-02-13&l=169#l
+                                        - "the object-oriented LISP"?
+         http://www.w3.org/TR/WD-wwwicn
+                               - hey we all make mistakes &sadsmiley;
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         http://mdn.mainichi.co.jp/japano/0207/ice-cream/1.html - but
+         do the Japanese have anything to match ICE-T's POSSE POPS?:
+         http://www.virginmegamagazine.com/default.asp?aid=8C6 ...
+         Chechnyan independence movement apparently supported by
+         DEBIAN: http://www.taliban-news.com/topics.php ... BELKIN
+     http://catalog.belkin.com/IWCatProductPage.process?Product_Id=65997
+         imitates product descriptions at http://www.jpeterman.com/ ...
+         isn't this just a homophobic French Flash version of SABRE
+         WULF?: http://www.ournet.md/~igan/ ... more pointless 8-bit
+         nostalgia: http://www.monkeon.co.uk/moviechallenge/ ... When
+         Audiophiles Attack #4: http://www.belt.demon.co.uk/ (search
+         FAQ for "morphic resonance")... alarming "meme on the rise":
+         http://www.google.com/search?q=blogadelic ... not "dumbing
+         down": http://www.bbc.co.uk/info/report2002/pdf/simplified.pdf
+         ... one of these set members is not like the others, one of
+         these set members is: http://labs.google.com/sets?q1=wanking ,
+         and http://labs.google.com/sets?hl=en&q1=shit&q2=fuck ...
+         sharing the common values of "openness, curiosity, honesty,
+         tolerance, passion" - and having $4000 to throw around:
+         http://www.ted.com/theconference/2003/registration.html ...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "You've been X'ed!" chortle the protagonists, before
+         inevitably having to explain that they're talking about
+         patchily amusing "that Scream guy" candid camera show THE
+         JAMIE KENNEDY EXPERIMENT (11.40pm, Fri, C4)... the CGIs are
+         really starting to show their age in VR nonsense THE LAWNMOWER
+         MAN (11.10pm, Fri, BBC1)... so, if you want to, you can just
+         go ahead and watch oddly paced coding classic OFFICE SPACE
+         (1am, Fri, BBC2): http://www.virtualstapler.com/office_space/
+         ... among a somewhat random selection of grown-up relationship
+         movies - Harrison Ford place crash romance RANDOM HEARTS
+         (10.15pm, Sat, BBC1), Tom Hanks AIDS weepie PHILADELPHIA
+         (11.15pm, Sat, ITV), Jane "Je t'aime" Birkin nudity arthouser
+         BLOW UP (1.10am, Sat, BBC2) - and horror repeats - CARRIE
+         (12.20am, Sat, BBC1), DAMIEN: OMEN II (1.35am, Sat, ITV), plus
+         CANDYMAN (1.30am, Sat, C4) - don't overlook magnificent
+         Letterman vs Leno contractual shenangigans docudrama THE LATE
+         SHIFT (12.30am, Sat, C5)... hopefully CONSPIRACY THEORY: DID
+         WE LAND ON THE MOON? (8.05pm, Sun, C5) will consider "Maybe we
+         did land on the moon, but NASA touched up the pictures?"...
+         David "Friends" Schwimmer *is* Adolf Hitler in sedentary
+         Stephen King adaptation APT PUPIL (10pm, Sun, C4)... Kirstin
+         "Sex And The City" Davis still can't find a decent man on
+         board Rob Lowe's ATOMIC TRAIN (11.30pm, Sun, BBC1)... while
+         the once-raunchy BARBARELLA (11.30pm, Sun, BBC2) now appears
+         to be a pointless Euro-remake of "Flash Gordon"... DECISIVE
+         WEAPONS (8.35pm, Mon, BBC2) looks at 'Nam-movie staple the
+         Bell-Huey UH-1 helicopter... BBC Choice misses the ultimate
+         realtime opportunity by showing every episode of 24 (from 9pm,
+         Mon, BBC Choice) at different times on weekday evenings... if
+         there's any justice, WHO GOT BENNY HILL'S MILLIONS? (9pm, Tue,
+         C4) will feature sped-up footage of his would-be heirs chasing
+         each other around a park... just as Freestyle IIS-Patching
+         really ought to be among the charity sporting events televised
+         in the MICROSOFT CHALLENGE (7am, Sat; 2.30am, Thu, C4)...
+
+         FILM>> one theory suggests the special effects are *supposed*
+         to look fake - as part of the whole cheesy Tremors-style self-
+         parody of smalltown giant spider romp EIGHT LEGGED FREAKS
+         ( http://www.screenit.com/movies/2002/eight_legged_freaks.html
+         We see [Scarlett "Ghost World" Johansson] with just a bath
+         towel around her body; We see a male mannequin in a department
+         store that falls with its head landing in the crotch of a
+         female mannequin; The film could inspire some kids to go on a
+         spider and insect killing spree)... "[Robert] Rodriguez's best
+         film" is filmthreat.com's surprising verdict on as-you'd-
+         expect juvenile sequel SPY KIDS 2: THE ISLAND OF LOST DREAMS
+         ( http://www.bbfc.co.uk/ : Distributor chose to remove
+         dangerous imitable technique (head butt) in order to achieve a
+         U)... it's the combined acting skills of Dr Dre, Snoop Dogg,
+         Eminem and "DJ Pooh" - together at last - in 1976 "Car Wash"
+         remake THE WASH (imdb: african-american/ car-wash/ kidnapping/
+         poverty) - not to be confused with genre classics such as "The
+         Bikini Car Wash Company" I and II... and, despite it being the
+         best bit of "Run Lola Run", Tom Tykwer appears to have stopped
+         putting thumping techno soundtracks on his films, arguably to
+         the detriment of his latest dreamlike meditation on the
+         redemptiveness of love, HEAVEN (imdb: ascension/ bed-wetting/
+         bomb/ coincidence/ corrupt-police/ corruption/ dictaphone/
+         drugs/ english-teacher/ escalator/ prison-escape/ flight-
+         simulator/ guilt/ head-shaving/ helicopter/ innocence/
+         justice/ love/ murder/ on-the-run/ police/ redemption/ soul-
+         mates/ stylization/ widow/ carabineer)...
+
+         PHEAR, BEER, AND OTHER PEOPLE'S ROOT PASSWORDS with NTK's "My
+         first DEFCON" correspondent, "Crash Override", in Las Vegas>>
+         yeah, they say that DEFCON is now merely an adjunct to the
+         BlackHat Briefings, there to scare potential customers into
+         buying vendors' firewalls and IDS's as they gaze on the
+         assembled drunken freakery. And, sure, it has its moments,
+         from the remarkably impressive looking Capture The Flag
+         contest http://geeksyndicate.net/manic/dcx/Pages/52.html to
+         the unimaginably chaotic Hacker Jeopardy drinking quiz, ably
+         helped on its descent by the haphazard compering of poor old
+         WINN SCHWARTAU... true sportmanship triumphed here when the
+         rival strategies of SETEC (low alcohol drinks), 504 (sneaking
+         extra empties onto the table), and RRR (use of feminine wiles:
+         http://geeksyndicate.net/manic/dcx/Pages/183.html ) all lost
+         out to the cheating skillz of the DETROIT CREW (allegedly
+         photographed the slide showing the final answer during
+         rehearsals). And let's not forget the ongoing wireless network
+         sniffing challenge, where non-SSH-using lamers could find
+         their email/IM username plus password up on the WALL OF SHAME
+         for all to enjoy: http://www.techfreakz.org/defcon10/?slide=30
+         ... more serious highlights included: "Attacking Printers" by
+         DENNIS MATTISON - an often overlooked and surprisingly useful
+         target, some frankly shocking ways to treat networks in DAN
+         KAMINSKY's "Black Ops TCP/IP" http://www.doxpara.com/ , and
+         JOHN Q NEWMAN's counterarguments to the "Four Horsemen of the
+         Infocalypse", with pertinent advice to British attendees on
+         the weaknesses of National ID cards (hope David Blunkett's son
+         was listening carefully)... a couple of "miscellaneous"
+         sessions from the Sunday haven't received the post-Gweeds
+         coverage they deserve: hellNbak on how to, and how not to,
+         "sell out", featuring a quick plug for the new Open Source
+         Vulnerability Database http://www.osvdb.org - stressed to be
+         "Never For Profit" (a comment on the recent acquisition of
+         SecurityFocus?). Then GOBBLES' "Security Wolves Among Us" took
+         an erratic and amusing swipe at the likes of cDc, 2600,
+         w00w00, Snosoft, Theo De Raadt and OpenBSD, proposed a reverse
+         Honeynet Defacement Challenge, and speculated over new
+         vulnerabilities in ngrep and WU-FTP... so: going from reports
+         of other years, fewer projectile-vomiting teenagers than I'd
+         expected, probably due to the $75 entrance fee: maybe not
+         quite the reputation and tradition of previous events, but for
+         all the right reasons. And this year was, of course, the last
+         ever DefCon - though I thoroughly recommend that you attend
+         next year's last ever DefCon, which should be even better...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+       "c'mon Edge, you must have a less flattering pic of us than that"
+        http://www.everyonelovesjohnnettles.co.uk/graphics/edge_ntk.jpg
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

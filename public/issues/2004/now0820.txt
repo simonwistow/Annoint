@@ -1,0 +1,251 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-08-20_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+         
+
+        "I remember playing Doom while my teenage son watched over my 
+         shoulder and my wife sat quietly reading and drinking tea. 
+         A rocket exploding in my face caused both my son and I to 
+         simultaneously jump and scream which in turn resulted in the 
+         launching of my wife's tea! She is now my ex wife but happily 
+         both my son and I still play Doom I and II..."
+               - content-sharing agreement between somethingawful.com 
+                   and BBC News Online bears its first sinister fruit
+                    http://news.bbc.co.uk/1/hi/technology/3558248.stm
+
+
+                               >> HARD NEWS <<
+                                market debuts
+
+         GOOGLE is left feeling slightly unlucky (for values of
+         unlucky greater than 1.6 billion dollars). Secure hashes
+         aren't (but don't be too insecure, say the cryptographers,
+         frantically looking around for a new algorithm). Just what
+         is going on? We were assuming all that last-minute fumbling
+         at Mountain View was just the clever Google maths eggheads
+         (etc) carefully manipulating their price to make exactly
+         4,285,199,774 dooooooollars. Surely there's easier ways to
+         make some spare change? There's this June's "$10,000 for the
+         first MD5 hash collision" prize by CertainKey that still
+         looks unclaimed - even though they're turfing them out every
+         five minutes in China. Why not send them a copy of the
+         paper, and pick up your cheque? While you're at it, might it
+         be worth getting a bunch of CA certificates signed by
+         Verisign for sites like "wwv.paypan.com" - you know, just in
+         case you can bitflip it to something a little more lucrative
+         when the Chinese publish their results. It's an investment
+         in the future! 
+         http://www.rtfm.com/movabletype/archives/2004_08.html
+                             - the hash market crash explained gently
+         http://www.certainkey.com/md5challenge/
+- what do you mean, "not in the scientific spirit of the competition"?
+         https://www.eff.com/
+     - oho! MD5 signed certificate! Maybe we can turn it into egg.com!
+         http://www.xcom2002.com/doh/index.php?s=04081615pic
+                                                       - Google boner!
+
+         And on the subject of last-minute changes: Wikipedia founder 
+         JIMMY WALES is coming to the UK next Tuesday (2004-08-31), and 
+         would like to speak to any audience who'll have him in London 
+         that evening. Venue details are a little scarce at the moment 
+         because the "organisers" are actively still looking for one, 
+         though we're entirely confident that something will happen 
+         because they have, of course, already set up a wiki.
+         http://www.minty.org/cgi-bin/wp/wiki.pl?HomePage
+    - considered using Quicktopic, but just didn't seem right somehow
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         will none of the comments stand up for the poor beleaguered 
+         music biz? http://news.bbc.co.uk/1/3547788.stm#views - until 
+         you get to "Mat Morrisroe", who seems to share the same name 
+         as this guy: http://www.uksponsorship.com/music.htm ... all 
+         your favourites this week at http://dohthehumanity.com/ (Odeon 
+         Cheltenham introduces special "student surcharge" of 40p), 
+         culminating in a coldly commercial Google ad on this quite 
+         heartbreaking Falco: http://xcom2002.com/doh/?s=04081919apt 
+         ... Guardian Online decodes "PDC" in context of digital TV 
+         http://www.guardian.co.uk/online/story/0,3605,1285533,00.html 
+         as "Primary Domain Controller" ("Programme Delivery Control" 
+         not in their acronym dictionary?)... http://www.rejesus.org/ 
+         logo vs http://www.alliance-leicester.co.uk/ - by any chance 
+         related?... obvious "rollercoaster"-based designs, #252: 
+         http://www.gloucestershire.gov.uk/index.cfm?articleid=7425 
+         vs http://rctfi.tycoonplanet.com/svenska/rct2.htm ... 
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         "One to watch", "The coolest thing in the world at the 
+         moment", and "Like a bunch of crazed robots from Westworld 
+         invading your house and getting into your record collection, 
+         then fucking". No, these aren't reviews of skeptic, tech 
+         writer and folksinger WENDY GROSSMAN (playing this Sun, 2004-
+         08-22, Twickenham Folk Club, Cabbage Patch pub, 67 London 
+         Road, Twickenham TW1 3SZ, UKP7?), but of Bristol's pioneering 
+         circuit bender KID CARPET, currently embarking on a nationwide 
+         tour (see site for dates and venues) to promote his upcoming 
+         "Shit Dope" EP of electronic "toytronica" - and supporting 
+         multimedia whimsy-merchants The Trachtenburg Family Slideshow 
+         Players, with their quirky accompaniments to found photographs 
+         they discovered at jumble sales. 
+         http://www.slowgraffiti.com/
+                  - or elect-*wrong*-ica, as he's also been described
+         http://obsess.com/blog/000291.html 
+             - hit of the Fringe (we said Ben Moor *above* slide show)
+         http://www.pelicancrossing.net/folk.htm
+                                 - venue site reassuringly horrendous
+         http://www.burningman.com/
+         - mail burning@gooby.org to meet other NTKers at Burning Man
+ http://www.lonix.org.uk/cgi-bin/Lonix?CODE=searchMeeting&CURRENT=YES
+                   - London Linux install fest in Acton next Saturday
+          
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Last time we mentioned a utility for speedily searching
+         through your mail backlog, the whole company got bought by
+         Microsoft the week after. Not sure that will happen with
+         MAIRIX, given that it's for dirty unshaven mboxen, Maildir,
+         and MH folders. MAIRIX is damn faster than grep with the
+         searches, pretty flexible on what it can look for (words,
+         dates, not regexps), and incrementally adds new messages as
+         they arrive. It's got no external dependencies, and is as
+         Unixy as they come, which should keep it away from
+         Microsoft's mittens. Then again, did Microsoft know when
+         they bought Lookout they were just getting a wrapper around
+         Apache's open source Lucene text search engine?
+         http://www.cookcomputing.com/blog/archives/000386.html
+                                                 - it would appear so
+         http://www.rc0.org.uk/mairix/
+          - someone should do a Squirrelmail plugin and take on GMail
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         one for the International UseCrimes Tribunal - "Relive the 
+         emotion of previous Games by selecting a date or host city 
+         below": http://www.olympic.org/uk/games/index_uk.asp (bottom 
+         of page) - except the "year" and "city" timelines whizz past 
+         at different speeds, out of synchronisation, and occasionally 
+         in different directions... the return of "not that I'm 
+         bitter": http://www.v-2.org/displayArticle.php?article_num=790 
+         ... photoshop cover horror of the week (like being held at 
+         gunpoint by MC Escher): http://www.infernalaffairs.co.uk/ ... 
+         surfing http://mirrors.playboy.com "for the articles"... so 
+         far, no "Wanton Violence", "Impudence" or "Offense to God" 
+         categories: http://interglacial.com/rss/capalert_movies.rss 
+         ... by juxtaposing HP Lovecraft with the mundanity of everyday 
+         life, your expectations will be confounded; hilarity ensues: 
+         http://www.arthurwyatt.co.uk/comics/hplwct1.html ... 
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> it's "ageing thieves try to pull off one last job" week, 
+         with David Mamet directing Danny DeVito in HEIST (9pm, next 
+         Fri, C5) and Ed Norton's terrible "disabled" routine being the 
+         most heinous crime in THE SCORE (9.05pm, Sat, C4)... Kim 
+         Newman borrows the title of an old Ian Livingstone book for UK 
+         D&D commemoration DICING WITH DRAGONS (3.30pm, Sat, Radio4) - 
+         vs http://www.npr.org/features/feature.php?wfId=3858560 ... 
+         and backwoods horror JEEPERS CREEPERS (9pm, Sun, C4) appears 
+         only loosely based on the 1938 Harry Warren/ Johnny Mercer 
+         song of the same name... it's a shame they never made a "Not 
+         Safe For Work" sequel to Stephen Dorff slacker flop SFW 
+         (3.20am, Mon, C4)... 40 years on, C4 predicts we'll be 
+         futuristically referring to the planet Earth as TERRA 2050 
+         (7.55pm, Mon-Fri, C4)... while favourable-exchange-rate-
+         fuelled New York-London romance NY-LON (10pm, Tue, C4) raises 
+         the possibility of future episodes involving lovers from 
+         Marseilles in France (Mar-Lon), Pyatigorsk in Russia (Py-Lon), 
+         or a complex menage-a-quatre involving residents of Seville, 
+         Miami and Copenhagen (SeMi-CoLon)... 
+         
+         FILM>> the whole red/ yellow colour scheme seems to be a 
+         thinly-designed metaphor for the US Homeland Security threat 
+         level indicator, though that's not the only "surprise!" twist 
+         in the latest semi-scary M Night Shyamalan ding-dong THE 
+         VILLAGE ( http://www.capalert.com/capreports/village_the.htm : 
+         mischievous invasion of privacy; explosive startles, three; 
+         "Those we don't speak of", meaning the creatures in the 
+         forbidden forest, would be more correctly stated "Those of 
+         which we don't speak")... and the XBox tie-in first-person-
+         shooter has a few cheesy moments, but nothing like the 
+         rambling planet-hopping tedium of next week's fantastic-
+         looking CGI fest THE CHRONICLES OF RIDDICK (imdb: sequel/ 
+         prison-planet/ dagger/ fight/ gunfight/ leader/ planet/ 
+         spaceship/ space/ sunglasses/ sun)...
+
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> thanks to everyone who wrote in alerting us to 
+         this new-fangled musical trend of "sampling", with KASS 
+         SCHMITT, DAVE HAYDEN, MATT PETTY - and many, many more - 
+         pointing out that NTK 2004-07-23's "It's better to regret 
+         something you have done than to regret something that you 
+         haven't" quote from Orbital's "Satan" (as an ad for "Soltan") 
+         is actually "a sample from Sweat Loaf by the Butthole Surfers" 
+         - a fact we were dimly aware of, or assumed that they'd both 
+         sampled the same film or something. Disappointingly, no-one 
+         felt the need to comment on what terrible advice it is, given 
+         the wide range of viable counterexamples (ie, sticking your 
+         face in a fan)... still, to our credit, JUSTIN CORMACK seemed 
+         even more out of touch than we are, claiming The Orb "ripped 
+         off" the tune of "Little Fluffy Clouds" (as heard on the Shape 
+         yoghurt ad, ibid.) from Steve Reich's "Electric Counterpoint", 
+         musing "perhaps Danone is playing the original". In summary, 
+         Justin: it's just a sample of the guitar part and, no, that 
+         didn't seem to be what Danone were doing... DAVE HEMMING was 
+         amused to discover that NTK 2004-08-06's sophisticated web CV 
+         generator "works on fictional people, too", listing antichrist 
+         Damien Thorn as Head of Thorn Corporation and "Trusted Advisor 
+         To the President": http://qwer.org/DamienThornCV.html ... 
+         while IAN DOUGLAS possibly drew a line under the whole cinema 
+         listings controversy (for the moment), with the news that NTK 
+         2004-04-30 double-URLtendre the Labia Cinema "was named after 
+         some Princess Labia (from Latvia or wherever) who officially 
+         opened the place", adding that he gets "a lot of hits" on his 
+         page http://www.moviesite.co.za/ "from people searching for 
+         labia, since I carry their schedules on my site"...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+    "You know, just 'thanks for the t-shirt royalties' would have sufficed"
+                           http://www.antics.org.uk/
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

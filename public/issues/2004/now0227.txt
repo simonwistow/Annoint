@@ -1,0 +1,279 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-02-27_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "[What is] up with blogging, and why should you care?"
+                                http://qwer.org/ZDNetWhatIsUpMyMan.htm
+                    - story URL proves ZDNet hip to both blogging *and* 
+                     groovy street slang of recent "Whassup?" campaign
+
+
+                               >> HARD NEWS <<
+                              tightening screws
+  
+         All those stories about the RIAA intimidating 12-year olds
+         in the US look bad - but most people think it could never
+         happen in the UK. The rumour is that the British equivalents
+         are going to get the cops to do their dirty work for them
+         Seemingly as a way of reassuring ruffled corporate copyright
+         feathers, the government has been spreading word of a new "IP
+         Squad" they intend to launch in the next month: a dedicated
+         police force, a la the high-tech crime squad, devoted to
+         quashing evil pirates where'er they may be found. And why
+         should the police get involved in copyright enforcement -
+         traditionally a civil matter? Well, the level at which
+         copying (or even breaking copy protection) turns from
+         infringement to crime have been quietly dropping over the
+         last few years. And now, if the EUIP enforcement directive
+         gets through, the police will have the right to invade
+         homes, freeze bank accounts and seize assets of
+         non-commercial, unintentional infringers. Voting on the EUIP
+         happens on March 8th, full approval on the 11th. After that,
+         it's no more Mr Nice Record Executive.
+         http://action.eff.org/action/moreinfo.asp?item=2873
+                                 - EFF's rat-a-tat guide to the issues
+         http://www.fipr.org/copyright/draft-ipr-enforce.html
+                           - and for those with more time, FIPR's take
+
+         You know, apart from that minor detail about not being able to 
+         fit everyone into the venue, we'd say Monday's ETCon catchup 
+         CONCON UK actually came off surprisingly well - kudos to all 
+         who took part, especially whoever came up with the wifi video 
+         relay to the additional "spectator's gallery" in the room next 
+         door. Inevitably, it seems to have merely increased the 
+         appetite for a (slightly) less crowded event in the future - 
+         please add your thoughts to the wiki if you'd interested in 
+         attending, speaking, or pretty much anything (partly because 
+         this'd be in the spirit of spontaneous self-organisation, and 
+         partly because at least one of us has never been to the actual 
+         O'Reilly event, and so doesn't want to inadvertently propose a 
+         slavish cargo-cult imitation with wifi antennas made out of 
+         twigs and ceremonial masks of Donald A Norman). 
+         http://www.symbianwiki.com/ConConUK
+                       - and don't forget to put that "m" in "Symbian"
+         http://wiki.oreillynet.com/etech/csp?ConConUK
+             - looks like it was Will Macdonald and Jonathan Sanderson 
+         http://en.wikipedia.org/wiki/Cargo_cult
+                               - then the holy MT Plugins will come...
+
+         New thrill! Following previous NTK discussion of "*really* 
+         stupid mail filters", reader YOZ GRAHAME wonders if anyone can 
+         beat his experience with [a major UK games producer], who 
+         flagged a one-line email of his as a virus for containing the 
+         phrase "What's up?" (Yoz, it's actually "What is up?" nowadays 
+         - haven't you been reading ZDNet recently?) The IT dept 
+         mailsweeper at alternativenetworks.com bounced NTK 2004-01-30 
+         for (among other offences) containing the surname of outgoing 
+         Director-General of the BBC, Greg [Lesbian] - an achievement 
+         rivalled only by NTK 2004-02-06's tripping the "one in a 
+         million" false positive rate of Demon's Brightmail install. As 
+         one Usenet wag wondered, does that "count as only one false 
+         positive" (easily offset by Brightmail getting the next 
+         million emails right) or one for each Demon-using subscriber?
+    http://groups.google.com/groups?threadm=k8A65XQFdOKAFAdd%40highwayman.com
+           - vs www.demon.nl/eng/products/services/spamfilterfaq1.html
+         http://www.theregister.co.uk/content/22/35534.html
+                                - it decided our fate in a microsecond
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Tidgy Fridge" not for Amazon's "tidgy" customers, apparently: 
+         http://www.ntk.net/2004/02/27/dohtidg.gif ... see what they 
+         did here?: http://www.ntk.net/2004/02/27/dohrub.gif ... not so 
+         clever: http://www.ntk.net/2004/02/27/dohintent.gif ... PENTAX 
+         randomly deems self "Official Digital Camera Of The Internet": 
+         http://www.pentaxusa.com/news/news_display.cfm?pressid=182 ... 
+         the power of suggestion: http://anlp.org/when.asp ... all-new 
+         Widdecombe of the Week: http://qwer.org/UKWaterwaysMap.html 
+         ... pardon?: http://www.ntk.net/2004/02/27/dohbecks.gif ... 
+         well explained: http://www.ntk.net/2004/02/27/dohphp.gif ... 
+         got to admit, "Brian Blessed" would be a good name for an 
+         adult film star: http://www.ntk.net/2004/02/27/dohbless.gif 
+         ...old joke: http://news.google.com/news?q=%22cum+consumer%22 ,
+      http://www.google.com/search?q=%22cum+distillation%22 - not so sfw: 
+      http://www.google.com/search?q=%22like+a+cup+of+tea+and+a+bikkie%22
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Can we just say that we're not sure whether downloading new 
+         software to the (fairly well understood) Nintendo development 
+         environments via one of those (increasingly widely available) 
+         backup kits technically constitutes "hacking" them any more? 
+         That proviso aside, next Sat's (2004-03-06) free lectures on 
+         everything from circuit bending to demented super-softsynth 
+         Reaktor sound like - well, a squelching electronic nightmare 
+         of the most entertaining kind (11am-7pm, various locations, 
+         Royal Festival Hall, South Bank, London SE1, workshops UKP5, 
+         lectures and demos free). It marks the start of a month of 
+         experimental techno concerts at the venue, including Plaid, 
+         Tangerine "Babylon 5" Dream, Kraftwerk, Les Rhythms Digitales 
+         (off the famous Sunny Delight advert), plus an "Acid Brass"- 
+         style interpretation by the London Sinfonietta of works by 
+         Squarepusher and the Aphex Twin. 
+         http://www.rfh.org.uk/main/series/185.html
+                          - shout "Go on, do Didgeridoo" for an encore
+         http://www.ntk.net/2004/02/27/dohplaid.gif
+                         - and screens don't come much wider than that
+         http://members.cox.net/jsensebe/gba/
+             - then just run Ditty Editor on http://www.gbax.com/#xg ?
+         http://gllug.org.uk/meeting-20040228.html
+           - this Sat: talks + overhead projector debugging with GLLUG
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          No self-respecting Thinker Of Hard Thoughts these days is
+          without their own Deep Theory Of How To Do Version Control.
+          Now that Subversion has hit 1.0, it's time for the truly
+          neophilic to start scouting around these folk to find
+          something radically better than just a mended CVS - and then
+          foolishly entrust all their source to it. CODECON this week
+          showcased a couple. For the brave, there's the Cohen
+          Brothers (Bram "BitTorrent" and Ross) with Codeville.
+          Codeville's novelty comes down to a rethinking of what a
+          diff is. "If you want to know the complete accurate details
+          of how it works, I suggest reading the source", they say,
+          ending the rest of *that* explanation. If you're the sort 
+          of person who does that with 4200 lines of Python, then
+          Codeville is the sort of thing for you. For the lazier yet
+          ambitious, VESTA is an eon-old, stable GPL'd configuration
+          management system that was used to maintain 130MB of the
+          Digital Alpha dev team work. It detects dependencies
+          automatically by watching what processes load what files,
+          and guarantees binary-perfect reproducibility by sucking
+          *everything* into the versioning process: compilers,
+          libraries, your aunt, environment variables. It scary.
+          Version control all scary.
+          http://subversion.tigris.org/
+                                                  - version 1.0 saaafe
+          http://bitconjurer.org/codeville/
+                                                      - python cleeean
+          http://www.vestasys.org/
+                                    - big company's have own ecosystem
+          http://www.zooko.com/revision_control_quick_ref.html
+                            - zooko stared at all so you don't have to
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         MIDIs, not ringtones: http://www.burncopy.com/424/main.html 
+         ... www.butlerreview.org.uk/ vs http://www.butlerreview.org/ 
+         ... Hagbard Celine docks for wifi connection, posts comments 
+         to fnord BBC: http://news.bbc.co.uk/1/3513063.stm ... geek 
+         blinkers: http://www.ecost.com/ecost/shop/detail.asp?dpno=328 
+         ... Thai-lish ahoy: http://www.bjbrothers.com/faq/?wp=faq ... 
+         419ers getting a bit sick of all those "funny" replies now: 
+    http://www.poe-news.com/forums/sp.php?si=31&ti=1000654979&pi=1000654979 
+         ... RUMSFELD imitates Onion, vows will get bin Laden "one day": 
+     http://www.reuters.com/newsArticle.jhtml;?type=topNews&storyID=4444065
+         ... at last - SMS software that does unwanted syntax-checks: 
+         http://kudra.hates-software.com/2004/02/25/b21c9d6a.html ... 
+         "If you're over age 40, there's a good chance your computer 
+         isn't the problem": http://www.microsoft.com/enable/aging/ - 
+         modestly refrains from blaming your old version of Windows...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> BBC2 boldly replaces its interminable reruns of "The 
+         Fresh Prince Of Bel Air" with Damon Wayans black-family sitcom 
+         MY WIFE AND KIDS (6.25pm, Fri, BBC2)... in accordance with 
+         last week's RollingStone.com prophecy, tonight's is the jaw-
+         dropping "Magnetic Fields" episode of THE SHIELD (12.05am, 
+         Fri, C5), followed by nutty Asimovian rogue cyborg scifi 
+         AUTOMATIC (12.55am, Fri, C5)... and why don't they just 
+         nominate Busted for UK song contest EUROVISION - MAKING YOUR 
+         MIND UP (6.35pm, Sat, BBC1) and be done with it?... C4 is 
+         trailing this as the "lean" (ie non-"Redux") 1979 version of 
+         APOCALYPSE NOW (10.05pm, Sat, C4)... we'd rather see an 
+         extended director's cut of STARSHIP TROOPERS (9pm, Sun, C5)... 
+         and the question of whether all PCs give off a faint aroma of 
+         roasting human flesh (due to dead skin particles being sucked 
+         in by the fan) seems unlikely to crop up in the profile of 
+         that German computer engineer/ cannibal BODYSHOCK: THE MAN WHO 
+         ATE HIS LOVER (9pm, Mon, C4)... after previous campaigns on 
+         the state of Britain's toilets etc, http://www.bbc.co.uk/ican/ 
+         showcase BEE IN YOUR BONNET (7.30pm, Tue, BBC2) helps muster 
+         opposition to an energy-saving windfarm... to counter the 
+         ludicrously glamorised portrayal of con-artists in HUSTLE 
+         (9pm, Tue, BBC1), the makers of "This Life", "The Cops" and 
+         "Attachments" apply their trademark warts-and-all approach to 
+         the lives of nurses in NO ANGELS (10pm, Tue, C4) - can't wait 
+         till they get round to doing priests and nuns... Stephen "The 
+         Usual Suspects" Baldwin swaps bodies with Kyle "Dune Guy" 
+         MacLachlan in obvious "Face/Off" imposter XCHANGE (11.15pm, 
+         Wed, BBC1)... as HORIZON (9pm, Thu, BBC2) provides a near-
+         identical facsimile of last year's Wired piece on artificial 
+         diamonds: http://www.wired.com/wired/archive/11.09/diamond.html ...
+         
+         FILM>> on the suggestion of reader IAIN AITCH, this week's 
+         guest opinions are excerpted from PRE-REVIEW's largely 
+         trailer-based "Reviews Of Movies That Haven't Come Out Yet And 
+         The Reviewer Hasn't Seen Or Otherwise Have Any Idea About" - 
+         eg Ben Stiller/ Jennifer Aniston gross-out romance ALONG CAME 
+         POLLY ( http://homepage.mac.com/joester5/prereview/#Along : 
+         [Stiller] calls up the beautiful but unattainable girl from 
+         high school. Turns out she's wackier than a mule on crack!... 
+         There sure is "Something About Polly", whoops, I mean, Polly 
+         sure "Came Along")... don't make Jennifer Connelly angry, you 
+         wouldn't like her when she's angry, warns Channel-4-property-
+         show-gone-horribly-wrong actor-fest, THE HOUSE OF SAND AND FOG 
+         ( http://homepage.mac.com/joester5/prereview/#House : Gosh 
+         Jennifer Connelly is purdy! Even when... she's wearing a 
+         frumpy oversized pocket tee and unfashionable jeans)... Tommy 
+         Lee Jones and Kate Blanchet hit the Wild West for a tiresomely 
+         "moody adaptation of Jane Campion's The Piano", THE MISSING 
+         ( http://homepage.mac.com/joester5/prereview/#Missing : He 
+         helps find Kate's missing daughter or finger, either of which 
+         were stolen by Kate's big bad husband. Jones gives said 
+         daughter or Kate a lock of his hair, which she uses to make a 
+         "dream catcher" and the three live happily ever after, each 
+         adapting to the other's "exotic" ways)... or you can always 
+         wait for John Woo's (or Tsui Hark's?) inevitable toned-down 
+         English-language version of limited-release Cantonese actioner 
+         INFERNAL AFFAIRS (imdb: police/ undercover/ cop/ internal-
+         affairs / police-officer/ policeman/ undercover-cop)...
+                                                      
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                                   "not shy"
+                 http://www.kiwanonet.org/morpheus/?postid=138 
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+
+

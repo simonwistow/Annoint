@@ -1,0 +1,274 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-01-28_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                  Kidney Blunder Patient Is "Critical"
+                  -- http://uk.news.yahoo.com/000127/2/dxhg.html
+                         ..."Critical"? I'd be fricking furious!
+
+
+                                >> HARD NEWS <<
+                                 full of abuse 
+                                 
+         The REGISTER (who do proper research, with telephones and
+         insider contacts and astrological charts and everything)
+         found out this week that the Conservative Party's ISP, hosted at
+         tory.org, have managed to attract a total of 1200
+         subscribers. That may *sound* like a defeat to you, but
+         these mid-term service providers typically have a much lower
+         turnout, and don't reflect what would happen nationally in a
+         real general election. Besides, those figures hide what is
+         an booming trend at tory.org: the hoardes of small
+         businessman who are returning to the Party, thanks to its
+         innovative "open relay" policy at smtp.tory.org. Despite
+         *months* of warnings, and an appearance in the
+         occasionally-right ORBS blacklist, anyone, anywhere can use
+         the Tory party's own mailserver to send out spam. We
+         understand the Conservatives are the listening party: maybe
+         if the Socialist Workers took up their exciting offer,
+         they'd learn to listen a bit harder.
+         http://www.theregister.co.uk/000127-000009.html
+                     - who *wouldn't* want a tory.org e-mail address?
+         http://www.orbs.org/verify.cgi?address=212.67.133.2 
+                                  - helping people to help themselves
+         http://www.magee.demon.co.uk/ 
+                       - is this what they mean by "the Great Satan"?
+
+         Great news for you work-shy thickie students, with your
+         subsidised fat pipes and pretentious hats! Readers of the
+         BBC News site will already know of www.student-net.co.uk,
+         which, the Beeb reported, recently sold out to the American
+         "International Media Products Group" for an amazing ten
+         million pounds. We're always ready to believe in credulity
+         of venture capitalists (particularly regarding our own
+         chances), but something about this rang alarm bells. Even in
+         this dumbass-friendly investment frenzy, ten mill for a
+         "What's new in Nottingham" site seems a little
+         over-optimistic. Also: no mention on the curiously spelt
+         Website of their massive win. Additionally, as diarist and
+         man of letters LESLIE BUNDER noticed, International Media
+         Products doesn't appear to exist. Could it be that the BBC
+         have fell for a "rag jape"?
+         http://www.student-net.co.uk/
+                  - but what if it's true. Have we blown our chances?
+         http://news.bbc.co.uk/hi/english/business/newsid%5F618000/618268.stm 
+                      - well, at least someone's gullible around here
+
+         It's not always just the evil censors who have problems with
+         bad regexps. In one of the most moving newsgroup RFDs for
+         some time, the beleagured citizens of UK.LOCAL.ESSEX
+         (including the "increasing popular Lakeside regional
+         shopping centre") complain that some 50% of new postings are now
+         "predominantly advertising adult material or websites",
+         mainly due to spammers cross-posting to any newsgroup with
+         "(.*)sex(.*)" in it. The good people of Essex are now attempting to
+         rename their newsgroup uk.local.essx to combat this, and
+         hopefully get the sex content back to the correct ratio for
+         local county discussion. Like 90%-95%. Ahahha.
+         http://www.deja.com/=dnc/viewthread.xp?AN=577914160 
+                              - (.*) not an ASCII breast, by the way.
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         GUARDIAN Online "Webwatch" column reports "legal battle ...
+         has broken out over the domain name etoy.com", on day when
+         2-month conflict is finally resolved ...  public display is
+         mandatory: http://www.uksearcher.com/award.gif ... MISS BOO
+         sacks seventy workers, promises viewable site in March ...
+         machines in TELEHOUSE TF3 now reading 33C at the inlet,
+         water seen pouring from AC units ... anything less than 21"
+         is a toy: http://www.ntk.net/2000/01/28/dohqxl.gif  ... we
+         found where the MARS POLAR LANDER crashed:
+         http://www.jpl.nasa.gov/marsnews/mpl/status/ ... YAHOO
+         politics news being run by THE AVENGERS
+         http://uk.news.yahoo.com/000125/2/duym.html ... "This
+         security flaw is not the first for Microsoft," reveals
+         WILL KNIGHT: http://www.zdnet.co.uk/news/2000/3/ns-12942.html ...
+         
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         Fuelling speculation that those weirdos he interviews on
+         Channel4's "Disinfo Nation" are just a load of his mates, the
+         guest-list for Richard Metzger's "FIND THE OTHERS" DISINFO.CON
+         may sound oddly familiar: Robert "Illuminatus" Anton Wilson,
+         Genesis "Psychic TV" P Orridge, Howard "The Lucifer Principle"
+         Bloom, Douglas "Oh, *do* shut up" Rushkoff, and - in keeping
+         with that whole Mondo 2000 retro ambience - who else but RU
+         Sirius. The whole 11-hour Reality Studio-storming performance-
+         art/ lysergic-lecture shenanigan runs from 11am, Sat 2000-02-
+         19, in the Hammerstein Ballroom, New York, just a short walk
+         from the city's prestigious Port Authority Bus Station.
+         http://con2000.disinfo.com
+         - nothing on this week, and you might have to book a flight
+
+
+                                >> TRACKING <<
+                sufficiently advanced technology: the gathering
+
+         We opened a can of worms with our pre-Christmas [NTK
+         1999-12-24] plug of DOMINIC MORRIS's Z88 TCP/IP stack. Word
+         on the ( slow but picturesque) 8-bit streets is that MARK
+         RISON is miffed that we didn't mention his stack for the
+         Amstrad CPC first. So, for those of you who have one of
+         those machines sitting in a wardrobe, just *waiting* to
+         transform into a glorious PPP-compatible HTTP/0.9 Webserver
+         and telnet client, do check out CPCIP. A few features are
+         understandably missing (packet fragmentation, streaming
+         RealVideo, that kind of thing), and you'll need a Linux box
+         to cram the Z80-assembler into your old friend's tired
+         bones, but otherwise - it's with Amstrad into the future!
+         http://www.nenie.org/cpcip/ 
+         - Z88 vs CPC? Christ. How did we miss that platform war?
+         http://www.ntk.net/index.cgi?back=archive99/now1224.txt&line=155#l
+         - in case you missed it
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         pronouncing "meme" like Roadrunner does in the cartoon ...
+         Mac users: check out billgate's IDISK ... monthly pylon
+         flying circus http://www.pylonofthemonth.co.uk/ ... tackles
+         TVGOHOME withdrawal http://listen.to/swearing/ ... bouncy
+         media magnates: http://www.orgnet.com/netindustry.html ...
+         COMPUSERVE forums to be open to Web public in April: *now*
+         we'll see how great they are ... real-time ZX81 application:
+         http://members.xoom.com/windycom/zx81app.html ... hello?
+         IWF? we'd like to report http://www.internet-police.co.uk
+         for impersonating a police officer ... opt out of Double
+         Click, double quick: http://www.doubleclick.net/optout/ ...
+         http://www.latimes.com/news/front/20000125/t000007947.html
+         "God is so much bigger than religion has portrayed him") vs
+         http://www.thoughtshop.com/fundiemania.htm (trolling for
+         Jesus) ... some benchmarks are more useless than others:
+         http://www.tuatha.org/~mpk/devnull.html ... rare, funny
+         site sighting: http://www.emporiumoffruit.co.uk/ ...
+
+
+                                >> GEEK MEDIA <<
+                      the less rude http://www.tvgohome.com/
+
+         TV>> yeah, the underground base is pretty cool, but two-hours-
+         plus of filtering Michael Crichton's alien microbes is, indeed 
+         something of an ANDROMEDA STRAIN (12.15am, Fri, BBC1)... ITV 
+         continues its intermittent Woody Allen season with wry Michael 
+         Caine romance HANNAH AND HER SISTERS (10.55pm, Sat, ITV)... 
+         BBC2 schedules George Romero's debut zombie chiller NIGHT OF 
+         THE LIVING DEAD (1.15am, Sat, BBC2) at a time when only the 
+         undead will be watching - not to be confused with potentially 
+         back-from-the-grave corpse comedy WEEKEND AT BERNIE'S II 
+         (12am, Wed, ITV)... and C5 seems oddly pleased with its 
+         acquisition of the first Christopher Reeve SUPERMAN (4.30pm, 
+         Sun, C5), despite ITV having shown it at Christmas... an 
+         unofficial cross-channel junior Jodie Foster strand starts up 
+         with car-crash body-swapper FREAKY FRIDAY (3.30pm, Sun, BBC1), 
+         followed later in the week by the similarly auto-themed TAXI 
+         DRIVER (11.15pm, Tue, C4)... Aussie kids' filth-com ROUND THE 
+         TWIST (4.35pm, Mon, BBC1) ventures into virtual reality, 
+         following an episode last week in which a kid used his dick as 
+         a propeller in a swimming contest... and they missed a chance 
+         to combine this week's two Sidney Lumet / Al Pacino 
+         collaborations - SERPICO (9.05pm, Sat, BBC2) and DOG DAY 
+         AFTERNOON (9.35pm, Tue, C5) - into what could have been an 
+         excellent "Dog Day Afternoon Afternoon"...
+         
+         FILM>> just when you thought you'd had enough of the suburban 
+         underbelly, along comes hackneyed but professional "Reality 
+         Bites" meets "The Simpsons" laff riot AMERICAN BEAUTY 
+         (http://www.cndb.com : Kevin Spacey - "you could see his balls 
+         swing between his legs"; Mena Suvari - "I happen to like large 
+         nipples, and her pair really impressed me"; Wes Bentley - 
+         "brief buns while filming Thora Birch"; Thora Birch - "large, 
+         adolescent breasts, full and pendulous, with large nipples and 
+         a huge aureole that seems to cover a third of her ample 
+         bosoms"). Capalert reports some additional "Internet nudity", 
+         Spacey plays his usual comedy creepy guy... weary old Tommy 
+         Lee Jones sets off after nudity-prone Ashley "Heat" Judd in 
+         chick-friendly "The Fugitive" retread DOUBLE JEOPARDY 
+         (http://www.capalert.com/capreports/ : open mouth kissing; 
+         insults of parents; child participation in illegal games for 
+         money; husband staging his fake murder; reckless endangerment 
+         and destruction of private property to escape lawful 
+         prosecution), when in fact they should be chasing Ashley's 
+         lawyer - the actual legal principle is that you can't be tried 
+         twice for the same crime *committed at the same time and 
+         place*... the odds don't look good for lame Sharon Stone 
+         horsey Sam Shepard adaptation SIMPATICO (imdb: drama / 
+         comedy), but there's always African-American hybrid of adult / 
+         teen "Now And Then" and "American Pie" coming-of-ager THE WOOD 
+         (http://www.capalert.com/capreports/ : series of muffled foul 
+         language; references to gender-specific anatomy; tell-tale 
+         signs of unmarried cohabitation; robbery at gunpoint - without 
+         consequences) - an "African-American Pie", if you will... 
+
+         DEAD TREE PUBLISHING>> yes, that time of year when many of us
+         start looking for fresh newsstand fodder, particularly now
+         that both David Brake *and* Nick Rosen are believed to be
+         writing for REVOLUT!ON... fans of ex-OFFICIAL PLAYSTATION
+         staffer Stephen Pierce's uniquely turgid writing style will be
+         pleased to see him resurfacing on new "PlayStations and
+         lifestyle" mag PSW (UKP2.99 with free memory card), in a
+         feature about visiting Dixons. Hey, maybe the rest of the team
+         - including ex-EMAPper David "UpchURCH!" Upchurch - will let
+         him "edit" the letters page... PLAYSTATION POWER hit back with
+         their own, 20p cheaper, covermounted RAM card (for WH Smiths
+         customers only), plus the news that they're ditching the
+         "Playstation" part of their name, no doubt in preparation for
+         when the bottom drops out of the non-PS2 market in about 9
+         months' time... James Wallis reports that CRAZYNET is likely
+         to be coming back, though probably without him, and that its
+         (sole) UK issue - a British version of French mag "MicroDingo"
+         - was so crazily successful they're thinking of launching it
+         in France as well... members of ever-vigilant community
+         robotics monitoring group KEVIN WARWICK WATCH were swift to
+         alert us to the cyborg-master's moodily-lit appearance on the
+         latest cover of WIRED, "looking like Spock's brother or
+         something". Hope his real-life implants work better than the
+         lenticular lens gimmick... lively goings-on at PARAGON
+         PUBLISHING too (home of Practical Internet, Internet Made
+         Easy, Web Pages Made Easy, Mac Made Easy), as they
+         inadvertently made it all-too easy to mail their entire "Total
+         Games Network News" list while trying to unsubscribe,
+         resulting in a stock-crash-style vicious circle of users
+         sending "Why do I keep getting all these mails! Unsubscribe!"
+         to everyone else, inevitably provoking them to do the same...
+         and finally, thanks to everyone who sent in A Albert's recent
+         letter from the normally sane ECONOMIST, in which he lucidly
+         points out that "The numeral six corresponds to the Hebrew
+         letter 'Vav' or 'Waw', typically rendered as 'w' in the Latin
+         alphabet", and concludes that "www=666", giving a new
+         interpretation to that Revelations "number of the beast" quote
+         - "And that no man might buy or sell save he that had the
+         mark, or the name of the beast, or the number of his name" -
+         in the light of the recent boom in .com advertising...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+     Registered at the Post Office as "failing to cater to the entrepreneur"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+  Remember: Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

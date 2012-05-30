@@ -1,0 +1,346 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-07-27_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         "It is clear the state government will need to look at
+         changing the law in order to protect people too stupid to
+         protect themselves,"
+- IAIN EVANS, the Australian Environment minister banning "white shark petting"
+http://news.bbc.co.uk/hi/english/world/asia-pacific/newsid_1456000/1456831.stm
+      What about the Darwin Awards? Is there *no* facet of online
+      culture the Australians won't legislate away?
+
+
+                                >> HARD NEWS <<
+                                silence broods
+
+         "That's not a bug! That's a - " PLEASE CLEAR THE AREA AND
+         REPORT TO CONTROL. Even in the most open of projects,
+         MOZILLA, some matters are best hidden from the hoi-polloi.
+         Unless you've got the "appropriate permissions", it's ACCESS
+         DENIED these days to Bug report #90502 in the Bugzilla
+         database. But what possible horrific show-stopper could the
+         report hide? Is it the rumoured "SHIP YOU BUGGERS SHIP"
+         feature request? Or is it, as the fossilised comments on
+         Mozillazine indicate, an Windows XP user report that reveals
+         that Compaq plans to ship with the Mozilla pre-installed?
+         Will the rumoured AOL desktop really be including the Last
+         Greatest Hope to IE?  Could it be that Moz, which even
+         embittered losers like us agree is rather splendid these
+         days, will make the faintest of splashes after all?
+         http://bugzilla.mozilla.org/show_bug.cgi?id=90502
+                                      - it's the End of Netscape Boss
+         http://www.mozillazine.org/talkback.html?article=1967&message=23#23
+                  - whose side are you on? being the subtle hint here
+
+         "Nobody, twenty years ago, predicted the Internet",
+         wrong-foots BRYAN APPLEYARD in his *very first sentence* in
+         THE SUNDAY TIMES this week. Apart from, we guess, the few
+         thousand people who were using it at the time. And what
+         exactly was Bryan doing twenty years ago?  Well, in 1984
+         (close enough), he was shocked - *shocked* - at the
+         "dead-end world of techno porn" (read: computer magazines),
+         decrying "the hideous ads, the ghastly, breathless prose,"
+         and, most delightfully, "the do-it-yourself programming with
+         its relentless militarism". Five years ago, he was laying
+         into Wired, the Net and its oversimplistic utopianism. And
+         these days?  Cue Bryan's own new look: ghastly, breathless,
+         oversimplistic pro-Internet utopianism. "You won't have to
+         pluck up the courage to talk to that girl or boy you fancy
+         in the bar. Your device will do it for you." And what will
+         that device be, Bryan? "They will be internet devices rather
+         than phones and they will run at 2m bps and have colour
+         screens and cameras built in, making video conferencing
+         possible." I see. We're looking forward to the relentlessly
+         militaristic source to Bryan's version of Ms Pacman soon.
+         http://www.mjwilson.demon.co.uk/crash/17/editrl.htm
+- "self-disgust is born" - Crash Mag, guest editor: J.G. Ballard
+http://www.sunday-times.co.uk/news/pages/sti/2001/07/22/stimazmaz03004.html
+             - handy one-line CAPALERT-style guide to the movies, too
+
+         More news on DMITRY SKLYAROV, the Russian currently in a Las
+         Vegas jail over his PhD thesis (no, really - although he did
+         sell it on to Elcomsoft) on eBook security. The EFF has
+         wrangled an interview with the US Attorney's office today:
+         but it seems that current Attorney Mr Mueller has been
+         rather busy with his application to be Bush's FBI director ,
+         and knew very little of the case. One hopes he's prodding
+         his office not to pursue a doomed case at *just* the wrong
+         time in his confirmation hearings. Meanwhile, back in the
+         freedom-loving UK, a new mailing list has been started to
+         organise the sort of genteel demonstrations we pull off
+         here. Monday's the next date (the EFF is asking everyone to
+         hold off until their meeting finishes): they're leafleting
+         in the US, so may we suggest a fax enquiry to your local MP?
+         Either that, or we can all go out and turn over a few cars.
+         Up to you.
+     http://www.eff.org/IP/DMCA/US_v_Sklyarov/20010724_eff_mueller_letter.html
+         - we like the whole "you wouldn't like us when we're angry" tone
+     http://www.xenoclast.org/freesklyarov/
+                                         - unleash the mailman of war
+     http://www.faxyourmp.com/              - in case you'd forgotten
+     http://www.mailutilities.com/aee/
+ - heck, if they'd arrested an Elcomsoft employee for *this*, we'd be
+                                    all "bang him up and throw away the key"
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         "Only God Can Judge Us" claim http://www.hayezsquad.co.uk/ ,
+         though http://validator.w3.org/ has a couple of suggestions
+         ... GUARDIAN UNLIMITED urgently seeking new revenue streams:
+         http://195.182.183.18/auctions/lot.asp?PropertyID=215 ... "Top 
+         10 Celebs who live in Switzerland" #7 has been DEAD 4 YEARS:
+         http://switzerland.isyours.com/d/Beruehmtheiten/index.html ...
+         NME refuse to have a bad word said against trendy new band:
+         http://www.ntk.net/2001/07/27/dohnme.jpg ... ATARI founder "a
+         shit": http://homepage.tinet.ie/~morrikar/Library_BizWeek1.htm
+         (1st para)... reuniting bullies, victims and easy access to
+         automatic weapons: http://www.ntk.net/2001/07/27/dohclass.jpg
+         ...truth in search engines#4: do you mean "kill my coworkerS"?
+         http://www.google.com/search?q=kill+my+coworker ... FT.COM
+         still displaying story on hacked Consumer Association site:
+         http://ftyourmoney.ft.com/FTym/creditcardsloans , seem to be
+         having problems of their own: http://credit.ftyourmoney.com/
+         ... http://www.rangeva.com vs http://www.adobe.com ... sign up
+         for DIRECTORY ENQUIRIES ONLINE, get 2 fewer searches per day:
+         http://www.ntk.net/2001/07/27/dohuse.gif ... clearly not
+         doomed: http://www.paspic.com/index.php?page=about ... hey,
+         now everyone's a critic - the new album isn't *that* bad:
+         http://www.ntk.net/2001/07/27/dohu2.gif ... company "without
+         venture capital or an IPO" offering "up to UKP18 per annum":
+         http://www.reed.co.uk/cgi-bin/JobDetails.asp?JobID=736779 ...
+         we are stardust - but our phones seem to be something else:
+     http://store.europe.yahoo.com/carphonewarehouse-uk/o2oppsiem35.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         "The new economy isn't dead - it's just 'taking a breather'"
+         is the premise of TIM O'REILLY's talk to the UK UNIX User
+         Group and their friends, not this Thursday, but the Thursday
+         after next (2001-08-09, from 6.30pm, Cruciform Building
+         Lecture Theatre 1, University College, London WC1, free but
+         arrive early to make sure you get in). Tim is of course the
+         founder and president of O'Reilly Publications, and may even
+         be able to recommend some extensive technical reference works
+         that you could read while enjoying your surprise vacation.
+         Curiously, O'Reilly don't do a "Hitting The Metal On The C64,
+         MSX And Amiga" book, but if they did, they could probably
+         shift a few copies at THE ASSEMBLY demo party 2001 (from 2001-
+         -08-02, Hartwall-Areena, Helsinki, from 200mk), which this
+         year features an exclusive invitation-only "oldskool area"
+         separated off from the rest of the event - though for whose
+         protection isn't entirely clear...
+         http://www.ukuug.org/events/TOR_20010809.shtml
+         - or get him to sign your http://bofhcam.org/co-larters/ shirt
+         http://www.assembly.org/content/tickets/oldskool_info.html
+         - half the price, 4 times the power!
+         http://www.dnscon.org/dns4/
+         - also in Aug: Blackpool Beach Defacement and Social Engineering
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         EtherPEG was a program that sniffed for JPEGs passing by on
+         the AirPort networks at MacHack, and showing them on the
+         huge screen to shame people into a) turning the 802.11
+         encryption on, or b) reducing amount of pr0n they download
+         at weirdo Mac conventions. DRIFTNET can do the same for
+         *your* office, and make an attractive desktop accessory to
+         boot. The program promiscuously sniffs and decodes any JPEG
+         downloaded by anyone on your LAN, displaying it in an
+         attractive, ever changing mosaic of fluffy kittens,
+         oversized navigation buttons, and blurred images of Big
+         Brother Elizabeth fiddling. It's UNIX only. Your
+         sysadmin is undoubtedly running it already. So stop that. Now.
+         http://www.ex-parrot.com/~chris/driftnet/
+           - what the world needs is Windows software to snoop on sysadmins
+         http://natts.com/bb-liz.html
+- for those of you whose e-mail was too full of SirCam files to spot this
+
+
+                                >> MEMEPOOL <<
+                              roam o'er the teoma
+
+         "Get your stinking paws off me, you damned dirty MONTAGUE!":
+         http://www.gurubooks.com/catalog/gb3006.html ... USENET
+         posters understandably cautious about CC "robots" (1st reply):
+         http://groups.google.com/groups?hl=en&th=b2b1b60a9c84d598,3
+         ... as true today as it's always been - nobody likes a
+       smartarse: http://www.kingswoodweb.net/boomshankers/tossa.asp ,
+         http://web.ukonline.co.uk/laurenharries ... NTK does not
+         necessarily endorse: http://www.petitiononline.com/Archer/ ...
+         having problems distinguishing Christian sites and parodies
+         again: http://www.ship-of-fools.com/Features/Aslan.html ;
+         http://choir.faithweb.com/ ; "in *my* day, light was *much*
+         faster": http://www.freerepublic.com/forum/a38bc8996338f.htm
+         ...your taxes at work: http://star.pst.qub.ac.uk/~imc/bod.html
+         ... UNIX users: join the SirCam fun by "dd bs=512 skip=268"ing
+         those attachments... new thrill - "Widdecombe" of the week:
+http://www.cineworld.co.uk/cinemas/newsite.phtml?site=your%20local%20prison
+         ... visit our bright circular patch about 100m in diameter!:
+         http://www.thursdaysclassroom.com/24may01/trailmap.html ...
+         master of more than his domain: http://www.kramerformayor.com/
+         ... elastic bands as budget dental floss... worth every cent:
+http://www.ci.saint-paul.mn.us/depts/police/prostitution_photos_lastweek.html
+         ... it's back: http://www.newbiehacker.uk.co/main.php ... from
+         the folks who brought you "Effects Of Celery On Loose Elastic":
+         http://www.lileks.com/institute/gallery/500/ ... life imitates
+         (or fails to heed) GREG EGAN: http://www.oxfordancestors.com/ ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> supporting the theory that it's mainly watched by women
+         and gay men (who zanily share a flat together?), BIG BROTHER
+         (from 6pm, Fri, C4) alternates all night with recent repeats
+         of WILL AND GRACE (8pm & 10pm, Fri, C4) and an ALT-TV indie
+         docu about trainers (7.30pm, Fri, C4)... David "Friday Night
+         Armistice" Schneider, presenter of THE HORROR OF (7pm, Fri,
+         BBC1), handily used to be in a double act with the guy who
+         writes the "How To" bit in the Guardian Weekend magazine...
+         and we can't remember which bit of Lars Von Trier's "Twin
+         Peaks"-y hospital series THE KINGDOM II this is (1.05am, Fri,
+         BBC2), though they're all spookily interchangeable... Saturday
+         night's all right - for fighting! - once again with out-of-
+         nowhere random Simon Singh WW1-crypto repeat THE SCIENCE OF
+         SECRECY (6.45pm, Sat, C4), Benjamin Britten's WW2 opera OWEN
+         WINGRAVE (7.20pm, Sat, C4), '80s Nazi spy movie EYE OF THE
+         NEEDLE (9pm, Sat, C4), plus Stallone vs "Mi-24 Hind" gunships
+         (actually French-made Pumas) in RAMBO III (10pm, Sat, C5)...
+         Frank Miller's recycled "Elektra: Assassin" themes enliven
+         Nuke-addled sequel ROBOCOP 2 (10.45pm, Sat, ITV)... this
+         week's wacky web users include Robert "Citizen Smith" Lindsay
+         in HAWKINS (10.30pm, Sat, BBC1), the voyeuristic C programmer
+         who spies on Sharon Stone in SLIVER (10.30pm, Sat, BBC1), kids
+         who - get this! - appear cleverer than adults in THE FUTURE
+         JUST HAPPENED (7.25pm, Sun, BBC2) and a "cyber-geek" in
+         THROUGH THE EYES OF THE YOUNG (8.30pm, Wed, BBC1), featuring
+         poems and lyrics read by child-voiced Spice fool Mel C...
+         while KNIGHT RIDER 2000 (5.15pm, Sun, C5) is better than "Team
+         Knight Rider", but not a patch on "Knight Rider Classic" ...
+         Neve Campbell and Skeet Ulrich tackle some pre-"Scream"
+         relationship issues as Fairuza Balk does a hilarious Ruby Wax
+         impression in obvious "Charmed" inspiration THE CRAFT (9pm,
+         Sun, C4)... "One Flew Over The Cuckoo's Nest" meets care in
+         the community in mental ensemble comedy THE DREAM TEAM (9pm,
+         Sun, C5)... obviously the guidebook's voice is supposed to be
+         smug, but what was everyone else's excuse in repeated fake-CGI
+         "Dark Star" ripoff THE HITCH-HIKER'S GUIDE TO THE GALAXY?
+         (11.20pm, Mon-Thu, BBC2)... and, like we said last time it was
+         shown 2 years ago, the beginning bit of "based on a true
+         story" tosh ROSWELL (10.50pm, Mon, C4) - with Kyle MacLachlan
+         and pals badly made up as old men - means that the rest of the
+         film then takes place in flashback, rather than (say) being
+         about a bunch of guys badly made up as old men...
+
+         FILM>> "hacking film not technically accurate" reveals THE
+         REGISTER: http://www.theregister.co.uk/content/28/20611.html
+         - we'd counter-argue that, sure, it's rubbish, but well-made
+         entertaining rubbish that features some of the year's best
+         explosions in the course of the genuinely deranged plot of
+         SWORDFISH (http://www.cndb.com/movie.html?title=Swordfish : to
+         sum up, I had to take points off for the brevity and limited
+         number of views [of Halle Berry's breasts]; also for Sopranos
+         fans Drea De Mateo was in the movie although she only has one
+         scene wearing a bra lying on a bed for a split second near the
+         end)... must be the start of the school holidays or something,
+         with the release of Disney "Rugrats" ripoff RECESS - SCHOOL'S
+         OUT (http://www.capalert.com/capreports/recess_schoolsout.htm :
+         many examples of unwarranted - and unearned - adolescent
+         independence and autonomy)... and Eddie Murphy sequel DR
+         DOLITTLE 2 (http://www.capalert.com/capreports/drdolittle2.htm :
+         toilet humor such as a dog licking himself and a rat asking
+         another rat to lick his posterior; dogs urinating as a tool to
+         manipulate; I have no idea whether talking animals is a sin.
+         We are to be good stewards of the animals, which He placed to
+         serve us and our needs, but never are we to be servants of or
+         equals with animals. But this is a fantasy movie. Why can't
+         the animals talk? I can't see any harm in it, but there may
+         be)... or, for grown-ups, there's an adventurous choice for
+         a first-date movie, gritty kitchen-sink sex tragedy INTIMACY
+         (http://www.cndb.com/movie.html?title=Intimacy+(2001%29 : a
+         legitimate actress [Kerry "Shallow Grave" Fox] giving oral sex
+         on a legitimate film [...] I haven't seen it, and the idea of
+         real oral sex in a film kinda turns me off) - plus, it's not
+         even justified by the fact that the guy's trying to hack into
+         a Department of Defense computer system at the time...
+
+         RED BOOK AUDIO>> you know, we don't normally like applet-happy
+         band sites, but the Blade Runner references and Kubrick action
+         figures at http://www.themadcapsulemarkets.com kind of won us
+         over, along with the fact that they sound like an Atari
+         Teenage Riot tribute act from Japan. What's more, their latest
+         "Pulse" video (downloadable, somewhat confusingly, from
+         http://www.madcapsulemarkets.com/ ) appears to have been
+         variously influenced by first-person shooters, Aeon Flux and
+         Kim Wilde's "Kids In America". Two exoskeletal thumbs up!...
+         equally puzzlingly overlooked for this year's Mercury Prize
+         were rapper MC FRONTALOT http://www.emeraldrain.com/front/ ,
+         as recommended by reader SEAN D SOLLE on the strength of his
+         puerile "Lola for the 21th Century" track "Yellow Lasers"
+         ("met her at the star wars convention / did I mention, she was
+         looking for love"); the "INPUT 64" C64 retro game music album
+         http://motion.state51.co.uk/reviews/867.html (various artists)
+         "forwarded without comment" by CHRISTOPHER FRASER; plus of
+         course the 386DX-style speech-synth-and-general-MIDI covers at
+         http://www.dictionaraoke.com/ and the Christian song parodies
+         of http://www.ultranet.com/~mari/ , both of which have been on
+         Popbitch (and plastic.com?) but so many people sent them in
+         this week we thought they deserved another airing... in other
+         news, ADRIAN MOULDER took us to task for neglecting arguably
+         the "definitive" use of Defender samples in modern pop music -
+         the cover of Wham's "Last Christmas" by "Too Many DJs" Belgian
+         Pop-Will-Eat-Itself soundalikes SOULWAX, and for failing to
+         highlight the "obvious debt" owed by WEEZER's "Hash Pipe" to
+         "the start of the theme from The Munsters". PETER HIGGINS
+         joined the Duran Duran "Ordinary World" debate [NTK 2001-06-
+         22] by noting that BELLE AND SEBASTIAN's "I Fought In A War"
+         has a chorus which sounds exactly like it as well - "obviously
+         a very popular choice for uninspired song-writers"... and
+         finally, easily eclipsing the SUPER FURRY ANIMALS' attempt to
+         use a ZX-lookalike font on their latest publicity material
+         (it's only 8 pixels per character, you Celtic clowns), "Is it
+         me, or does the high-pitched chirping sound on BACKYARD DOG's
+         chart single 'Baddest Ruffest' sound like something from
+         'Escape from the Planet of the Robot Monsters', either a
+         weapon sound effect or the theme music?", pondered NICK DRAGE,
+         poignantly adding: "Of course I couldn't tell you what I had
+         for breakfast this morning, or what I need to do at work
+         tomorrow, but I can recall a sound snippet from an Atari ST
+         game I haven't played for ten to fifteen years"...
+
+
+                              >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                 "undermined by its poor presentation online"
+                        Computer Active Web Guide, p66
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,242 @@
+ __  __ _2000-08-25   _ _____ _  __      
+|  \/  (_)_ __ (_) \ | |_   _| |/ /    o Join! mail an empty message to
+| |\/| | | '_ \| |  \| | | | | ' /     o ntknow-subscribe@lists.ntk.net
+| |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+|_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+
+        "We will firewall Napster at source - we will block it at your 
+         cable company, we will block it at your phone company, we will 
+         block it at your [Internet-service provider]. We will firewall 
+         it at your PC." 
+          - "We will never surrender", promises SONY PICTURES Senior VP
+                   ( http://www.uwiretoday.com/computing081700001.html )
+        ...those PS2 "Trojan Horse" claims more worrying than we thought
+
+
+                                >> HARD NEWS <<
+                                 open to abuse
+
+         While roughly similar in actual physical dimensions, the real 
+         difference with a Mini-NTK is that we don't put as much effort 
+         into checking if the stories are actually true or not. So, for 
+         instance, wouldn't it be funny if BBC ONLINE really was "about 
+         to sign a deal" (as our source believes) for a customised 
+         version of the amusingly named ICQ-based chat/warez client 
+         POST-@ ? Post-@'s site promises "Expected" compatibility with 
+         AOL, Yahoo and MSN IM networks (and we know how keen they all 
+         are on that), plus a "Find files" facility that lets you 
+         "Search for files that other users have made public" - 
+         typically, your pre-existing "My Music" directory. After all, 
+         BBC radio has long pioneered its own CD-"sharing" protocol 
+         (permitting listeners to record streaming FM audio, often 
+         encouraging them to "request" specific tracks from a central 
+         server) - the last thing they want are upstarts like Napster 
+         coming along and stealing that entire market.
+         http://www.post-at.com/ 
+         - they've both got a commitment to public service broadcasting
+http://www.unmissableTV.com/tx/talkingtv/paper/article/1,6667,26457,00.html
+             - cash that could have been spent on more UKP100 TV shows!
+         
+         Dotcoms? We remember when this were all .nets and .orgs as 
+         far as the eye could see. Well, those imagined halcyon days 
+         returned briefly this week when a faulty update from NSI 
+         caused four of the net's root-servers to forget that .com ever 
+         existed - again [NTK 2000-08-04, NTK 1997-07-18]. Looks like 
+         the transition to gtld-servers.net isn't going quite as 
+         smoothly as you might expect. So with all the bad publicity, 
+         maybe now wouldn't be the best time to announce changes to the 
+         whole damn system - or would it? NSI have just announced a 
+         trial of a multilingual unicode-based domain system, hired 
+         from root-zone "competitors" i-DNS. What with all the ranting 
+         ICANN conspiracies (or ICANN-spiracies, if you will) of the 
+         post-Postel net, we've forgotten who we trust least.
+         http://www.i-dns.net/newsroom/news/I-US000823-01.html.en
+               - grab the amusing reverse encodings while you still can
+         http://members.icann.org/nom.html
+                 - low interest blamed on lack of ugly, drunken dwarves
+         
+         And what "slow news week" would be complete without another 
+         exotic AMAZON loophole? Amazon.co.uk are currently selling the 
+         top 5 CD singles for UKP1.99, which wouldn't be *that* 
+         exciting, except that the delivery charge on 2 CDs is a mere 
+         UKP1.77 + VAT (UKP2.08), bringing your grand total to UKP6.06. 
+         Combine this with the fact that, thanks to the way they deal 
+         with VAT, an Amazon UKP5 gift voucher [see NTKs 2000-06-23 & 
+         30] is, apparently, worth UKP5.88 against anything which is 
+         not a book (ie which includes VAT in its price), and you're 
+         looking at 2 CD singles for just 9 pence each! As with the 
+         previous "Wilbur Smith"-based scheme, the obvious flaw is the 
+         assumption that you'd be prepared to spend 18p on (at time of 
+         writing) two of: "Out Of Your Mind", "If This Ain't Love", 
+         "Rock DJ", "Music" or "I Turn To You" - though, of course, you 
+         can always send them to a friend, get another UKP5 voucher for 
+         yourself, and repeat the whole process ad infinitum. 
+         http://www.amazon.co.uk/exec/obidos/tg/feature/-/67325/
+            - hey, they haven't kicked us off their referral scheme yet
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         ALTAVISTA withdraws never-launched "free calls ISP", blames 
+         exactly the same market conditions that existed 6 months ago: 
+         http://www.foxglove.co.uk/terms_and_conditions.html ... 
+         GUARDIAN 2000-08-21's "Bluff Your Way Through Any New Media 
+         Conversation" guide contains curious references to "DoA 
+         (Denial of Access)" attacks, "Out of the box (thinking): 
+         analysts who need to get out more", and "The Need To Know 
+         network, a groovily retro HTML site for insiders: www.ntk.com" 
+         ... TIMES INTERFACE acquires a "debugged" Playstation 2 which, 
+         bafflingly, uses Japanese convention of "O" for Yes, "X" for 
+         No: http://www.the-times.co.uk/interface/insight/story802.html 
+         ... "Based on feedback from British Airways, CONCORDE flight 
+         dynamics at lower speeds have been enhanced" euphemises 
+        http://www.microsoft.com/games/fs2000/downloads_fs2000update.asp
+         ... DREAMCAST to hit UKP149 in Sep... estate agents strangely 
+         aroused when you move pointer over "Enquiry Form" button: 
+         http://www.pearsons.com ... STEVIE WONDER fans facing wait of 
+         11 years: http://www.amazon.co.uk/exec/obidos/ASIN/B00004TA39/ 
+         ... usual, perhaps excessive honesty from BIG BROTHER site: 
+         http://www.bigbrother.terra.com/news/news_main_old.html ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Most of the publicity opportunities leading up to the launch 
+         of KEVIN WARWICK's new book - "QI: The Quest For Intelligence" 
+         - have now passed without incident, no doubt partly thanks to 
+         community robotics monitoring group KEVIN WARWICK WATCH, who 
+         remained at "full readiness" during the entire period. The 
+         book itself can only be described as "reassuringly bonkers", 
+         and spends most of its time recounting amazing feats of 
+         intelligence from the animal kingdom, to demonstrate how it's 
+         possible to be smart without being any good at IQ tests. In 
+         which case, Warwick concludes, how do we know that robots 
+         aren't already cleverer than us - just in ways that we don't 
+         readily appreciate, with our all-too human biases favouring 
+         (say) the ability to fend for yourself, to effectively 
+         recognise a wide range of real-world objects, and/or move 
+         unassisted across a variety of terrains? Nice big writing, 
+         too, offering perhaps a hint of the professor's next target 
+         audience: the larval geeks of THE ROYAL INSTITUTION CHRISTMAS 
+         LECTURES (from 2000-12-14) which, with their usual emphasis on 
+         practical demonstrations, will hopefully feature several 
+         youngsters receiving live neuro-electrical implants, all the 
+         better to receive his wordless instructions to "rise up" 
+         against their fleshy human masters.
+         http://www.kevinwarwick.org.uk/
+                 - sorry, still processing the backlog of old sightings
+         http://www.ri.ac.uk/Christmas/details2000.html
+               - "Science fiction gives us ideas". No kidding, Kevin...
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         ELIZA software out-smarts AOL chat users (if you only read 
+         one, read "five"): http://fury.com/aoliza/ ... elitism-free 
+         NATHAN-only HOTMAIL clone http://131.111.234.28/~ro/faq/ 
+         accidentally reveals "Society"-style hideous, extendable, 
+         grasping arm: http://131.111.234.28/~ro/about/poster.html ... 
+         nothing sacred any more - TVGOHOME guy diversifies into 
+         symbiotic Radio Times parasite THE INNOVATIONS CATALOGUE: 
+         http://www.zeppotron.com/unnovations/ (and asks "please stop 
+         mailing me http://www.trollied.com/scooter.jpg ")... DANCING 
+         STAGE makes kids imitate Carlton from Fresh Prince Of Bel Air: 
+        http://www.ddrfreak.com/videos/Mel_B_-_Put_Your_Faith_in_Me.mpeg 
+         ... MS gives over-literal answer to "What's your handicap?": 
+  http://www.microsoft.com/presspass/features/2000/aug00/08-18gamers.asp
+         ... famed POWER OF GRAYSKULL hasn't faded as much you'd expect: 
+         http://www.he-man.org/fun_stuff/grayskull_tour/ ... GOD vs OPEN 
+         SOURCE: http://www.thedailybread.net/users/cudi/main.html ... 
+
+
+                                >> GEEK MEDIA <<
+                       the less sold-out www.tvgohome.com
+
+         TV>> the BBC begins its Bank Holiday bonanza with Rik Mayall, 
+         Jane "Tesco Ad" Horrocks and Danny Aiello - together at last! 
+         - in the notoriously poor BRING ME THE HEAD OF MAVIS DAVIS 
+         (10.20pm, Fri, BBC1) - we'd rather they Televised Mayall's 
+         Quad-Bike Head Injuries... C5 wheels out another of its "Sci-
+         Fi Weekends", with Christopher "Nigel Tufnel" Guest's 
+         misfiring remake ATTACK OF THE 50FT WOMAN (12.50am, Sat, C5), 
+         and a Gerry Anderson-a-thon incorporating old SPACE: 1999 
+         (12.40pm, Sun), JOE 90 (1.40pm, Sun), and STINGRAY (4.50pm, 
+         Sun)... up against, presumably, the "You're about to see some 
+         serious *stuff*" version of the first BACK TO THE FUTURE (1pm, 
+         Sun, BBC1) film, plus a bumper bunch of overrated sci-fi 
+         spoofs: THE ROCKY HORROR PICTURE SHOW (9.55pm, Sat, BBC2), 
+         David Cronenberg's SHIVERS: THE PARASITE MURDERS (11.30pm, 
+         Sat, BBC2), and Duran Duran-inspiring '60s soft-porn yawn 
+         BARBARELLA (11.55pm, Mon, BBC1)... bracketing these treats are 
+         a deja-vu-ish batch of semi-recent repeats, including Carrie-
+         Anne "The Matrix" Moss shoot-em-up SABOTAGE (9pm, Sat, C5), 
+         last shown September 1999; Christopher "Back To The Future" 
+         Lloyd's summer-camp comedy CAMP NOWHERE (10.35pm, Tue, ITV), 
+         last shown December 1997; comedy-free "Groundhog Day"-alike 
+         12:01 (1.45pm, Tue, C4), last shown August 1998; and HORIZON's 
+         "New Asteroid Danger" (9pm, Tue, BBC2) - well, maybe it was 
+         "New" when it was last shown in March 1999... genuine 
+         novelties include Heinz Wolff applying a little Germanic 
+         scientific rigour to his reports from the NOTTING HILL 
+         CARNIVAL (11.20pm, Mon, BBC2)... plus, inexplicably, a double 
+         tribute to CHARLES BRONSON: BRITAIN'S MOST DANGEROUS PRISONER 
+         (9pm, Thu, C4), and the rather less judgemental CHARLES 
+         BRONSON: BRITAIN'S HARDEST MAN (10.55pm, Tue, C5)... 
+         
+         FILM>> "not a particularly good Jackie Chan film, but not a 
+         bad Owen Wilson one" is the verdict on sub-Rush-Hour kung-fu 
+         comedy Western SHANGHAI NOON (http://www.capalert.com : 
+         urination in public; two men in bath tubs; sex "kittens"; 
+         pictograph of animal intercourse) - oddly, it doesn't feature 
+         the really big train explosion that's in the trailer, though 
+         there's a hint of the BBFC relaxing their famed anti-nunchuks 
+         stance http://www.dvd-debate.com/Archive/april3.shtml#17.04 
+         ... otherwise it's "battle of the post-modern teen slashers" 
+         with Joshua "Dawson's Creek" Jackson's bad-meme-rising GOSSIP 
+         (http://www.screenit.com : NORMAN REEDUS plays their other 
+         roommate, a multimedia artist who similarly goes along with 
+         the gossip plan, smokes, and drinks to the point of passing 
+         out)... and an intriguing reversal of Joe-Bob Briggs' 
+         "everyone who has sex must die" rule in the virgin-murdering 
+         CHERRY FALLS (imdb trivia: cuts include graphic sexual 
+         activity during the climactic orgy sequence and the death of a 
+         character named Annette - supposedly the longest in horror 
+         movie history)... and no killings - though you may find 
+         yourself wishing for some - in Robert Carlyle/ Ray Winstone/ 
+         Gina "Brass Eye" McKee's kids' footie fantasy THERE'S ONLY ONE 
+         JIMMY GRIMBLE (http://www.bbfc.co.uk/ : passed '12' for 
+         moderate violence and sex references)... 
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+      "the bar in Blackpool that looks like a Photoshop fake, but isn't"
+                    http://www.ntk.net/2000/08/25/bar.html
+                 
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

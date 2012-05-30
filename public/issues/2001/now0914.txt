@@ -1,0 +1,386 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-09-14_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "The software suggests a safe flight path. But the tempting
+         possibility of veering off towards the skyscrapers is obvious."
+- DAILY MAIL exposes the "extremely helpful to terrorists" MS FLIGHT SIMULATOR
+http://www.femail.co.uk/pages/standard/article.html?in_article_id=72138
+  ... weak-willed Mail hacks new chief suspects in ongoing investigation
+
+
+                                >> HARD NEWS <<
+                               endless re-views
+
+         In these terrible times, it's good to watch the tech
+         community put its problems aside, and supply what we were
+         all so desperately short of: plenty of wild unsolicited
+         opinions. After those first few hours of awful shocked
+         silence - what a relief to be interrupted by the CEO of
+         CoffeeCup Software, producers of an innocuous Windows HTML
+         editor, e-mailing his 1.2 million customer base to "call for
+         [the responsible] country's complete destruction and
+         annihilation". And at the end of that fateful day, noted
+         hacker Eric S. Raymond rained his thoughts like fresh water,
+         revealing that those who "disarmed all the non-terrorists on
+         those airplanes ... bear some moral responsibility". Thanks
+         too to BYTE's Jerry Pournelle, who slowly toughened his
+         demands from an early request that /usr/bin/laden be handed
+         over "bound and chained", to Thursday's demand that Nablus,
+         Gaza, Baghdad *and* Damascus be razed to the ground; to the
+         Evening Standard infowar expert who warned that "inflamed
+         young men" could escalate the conflict by releasing "cyber
+         viruses, crashing our computers ... from council houses in
+         Bradford"; and kindly John Keegan in the Telegraph, who
+         wrote that ISPs should ban encryption among their users, and
+         those who refused must be "destroyed with cruise
+         missiles". And on through the lonely nights, as net.folk on
+         chat traded credulous rumours and confused geopolitics, and
+         Nostradamus buffs mulled seriously over a quatrain that,
+         sadly, was probably invented by a skeptic to show how *any*
+         random phrase could end up a doomladen prophecy. But be
+         assured that the crisis is not yet over. Please help:
+         opinions are still desperately needed - and bloggers,
+         columnists and sleep-deprived newsreaders are running short
+         of ideas. So: do you have some minority you'd like to
+         haphazardly blame? Some half-arsed genocidal theory you'd
+         like to insist become global policy? Some simplistic
+         demonisation of a country's recent history that needs to be
+         waved in the faces of everyone you know? Mail it to our
+         hotline on devnull@spesh.com, and we'll pass it on to those
+         who must fill the useless silence which would otherwise be
+         wasted on slow, methodical grief.
+         http://www.coffeecup.com/attack/
+         - "many e-mails thanking me for removing the word 'annihilation'"
+http://www.adequacy.org/?op=displaystory;sid=2001/9/12/102423/271
+             - Why the Bombings Mean That We Must Support My Politics
+         http://www.jerrypournelle.com/war/whattodo.html
+                                       - "There may be other places."
+         http://www.dailytelegraph.co.uk/dt?pg=/01/9/14/do01.html
+          - also, if their contention ratio goes above twenty, nuke 'em
+ http://www.thisislondon.co.uk/dynamic/news/top_story.html?in_review_id=456910
+                  - no hidden meaning in using Bradford as an example
+http://www.google.com/search?q=cache:www.ed.brocku.ca/~nmarshal/nostradamus.htm
+                                              - search for "abstract"
+
+         Meanwhile what of America's fight against the true
+         enemy within: copyright scofflaws? The newly introduced,
+         Disney-sponsored SECURITY SYSTEMS STANDARDS AND
+         CERTIFICATION ACT has been praised - admittedly by Disney -
+         as "an exceedingly moderate and reasonable approach".
+         Assuming that's not some kind of Swiftian in-joke by their
+         counsel, that's better than it's been received by almost
+         everybody else. The SSSCA's Tomorrowland vision is this: any
+         "machine, device, product, software, or technology... that
+         is designed, marketed or used for the primary purpose of,
+         and that is capable of, storing, retrieving, processing,
+         performing, transmitting, receiving, or copying information
+         in digital form.", has to have copyright protection systems
+         built in. As Ron Rivest (the "R" in RSA encryption) points
+         out, this would include digital watches, bar-code scanners,
+         and digital rectal thermometers. We'd always assumed that
+         the companies that have done so well out of an open PC -
+         like Intel and Microsoft - would put a firm kibosh on
+         initiatives like this. But then we got to the bit about an
+         antitrust exemption, and started comparing the requirements
+         of the government-mandated protection system, and the
+         "Trusted PC" design Microsoft, Intel, IBM and Compaq/HP just
+         happen to have been working on for the last few years. Now,
+         all they need is some sort of national security excuse to
+         push this through...
+         http://cryptome.org/sssca.htm
+                                   - and in XYWrite too - the infamy!
+         http://www.trustedpc.org/home/home.htm
+                                       - trust us, we're monopolistic
+         http://research.microsoft.com/crypto/openbox.asp
+                                                     - "Lock it down!"
+         http://uazu.net/cd/
+                                     - and then they came for my MP3s
+
+         And finally, as befits the mood, a reminder that loose lips
+         sink ships: a lesson Suckster JOEY ANUFF of the increasingly
+         AUTOMATIC MEDIA might heed. When somebody posted to the
+         security list BUGTRAQ pointing out that anyone could read
+         the private messages of PLASTIC.COM (AUTOMATIC's last
+         remaining updated site, and the metafilter it's okay to
+         sneer at), Joey was right on the case. There's nothing we
+         can do, he said, because we have no money - "Plastic is
+         currently without either an engineer ... or even access to
+         our servers". Should he run it as a plastic.com story, he
+         wonders - but decides against it. "My fear is that
+         publicizing it without being able to fix it would just
+         heighten abuse", he writes. Thus counselling secrecy, he
+         then unfortunately cc:'s the reply to BugTraq itself.
+         BugTraq, of course, is the most haunt of hundreds if not
+         thousands of zero-day script kiddies. Is it reassuring or
+         upsetting that not one of them seemed that interested in
+         exploiting plastic.com? Or even in owning the box, fixing
+         the problem themselves, and maybe putting up some decent
+         content while they're there?
+         http://groups.google.com/groups?th=793181e4c1a9e087
+    - I dunno, maybe some more reposts from memepool.com or something
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         RADIO 1 emergency "banned" list includes Geri Halliwell's
+         "It's Raining Men", and (one would hope) Outkast's "Bombs
+         Over Baghdad"... "Take your own bite out of the Big Apple"
+         says Tue's LASTMINUTE newsletter... unfortunate TITLE tag:
+         http://www.wtc.org/ ... yup, those look like more "ideal
+         conditions" to us: http://www.hazecam.net/newark.html ...
+         the clampdown begins: http://www.usembassy.gr/error.htm ...
+         well, it's all very radical until someone actually does it:
+    http://www.washingtonpost.com/wp-dyn/articles/A19159-2001Sep12.html
+         - presumably the "5 Million Ways To Kill a CEO" track was a
+         misprint for "Kiss" or something?... epic, "world-changing"
+         event commemorated, as is now traditional, with spoof auction
+         on EBAY: http://www.ntk.net/2001/09/14/dohebay.gif ... NEW
+         ZEALAND stunned: http://www.ntk.net/2001/09/14/dohnz.gif ...
+         you know, it's times like this we kind of regret starting the
+         whole craze for "inappropriate banner ad and/or news story
+         juxtapositions": http://www.ntk.net/2001/09/14/dohwash.gif ,
+         http://www.ntk.net/2001/09/14/dohsky.jpg ... meanwhile, in
+         other news - if she comes near Basildon again, she's DEAD:
+         http://www.basildon.net/ ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Stuck in the US with a few days to kill before they introduce
+         martial law? Then why not pop along to the biggest weekend of
+         the year for retro arcade fans, CALIFORNIA EXTREME, which is
+         still going ahead from 11.30am tomorrow (2001-09-15) at the
+         San Jose Convention Center ($15/25 per day, $35 whole weekend,
+         free if you bring your own coin-ops). As well as the usual
+         "Defender" tournament and rooms full of pinball, they're
+         promising a demo of the famed MAME laser projector, which
+         enables you to play Atari classics on the side of your house
+         (as God intended) - and, by increasing the laser wattage, will
+         presumably form the basis of the planned US National Missile
+         Defense shield.
+         http://www.caextreme.com/2001-show/2001show.htm
+         - OK, so "Missile Command" wasn't a vector game. Fair point.
+         http://www.cthulhusex.com/info/party.html
+         - fun event for your spouse while you're setting up on Fri
+http://www.xenoclast.org/free-sklyarov-uk-announce/2001-August/000003.html
+         - FIPR still looking for tech-skilled volunteers. Send CVs!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Elwood Downey's XEPHEM is a heavily-featured planetarium
+         program for UNIX designed, writes our correspondent, to
+         "save you countless hours searching the skies for something
+         interesting, letting you more effectively use that time
+         cursing the alignment of your secondary reflecting mirror".
+         But (ZDNet stock review phrase incoming) it is in its tight
+         integration with the amazing "Inter-Net" that this program
+         truly shines. Xephem happily plunders dozens of astronomical
+         online databases for its info: you can grab tailored
+         photographic images for the night sky and map them onto your
+         current area of obsession, or meddle with the scripts to
+         pull in more specialised db's, like Asteroid collections or
+         the Tycho star catalogue. You can download the latest
+         positions of near-sky low-orbit objects  - including the
+         ISS, Hubble, Shuttle flights, and, it says on this dialogue
+         box, MIR (although in that case "near-sky" and "low-orbit"
+         must be somewhat euphemistic). Intriguing planets can be
+         examined using archive images distorted to fit the current
+         view of that object, so you can correlate what you see with
+         what God hath wrought. It lets you point the skymap at the
+         part of the sky your SETI@Home client is currently scanning.
+         You can even (presumably by swivelling your telescope around
+         180 degrees) see views of the Earth, with the projected
+         position of celestial objects mapped onto the surface, or
+         with the latest global weather images. It's free to download
+         (although expect some heavy Imake and Motif
+         library-wrangling), or $70 for a CD with a bunch of
+         databases thrown in. In short: it makes you feel like a
+         proper astronomer, without the obligation to buy a woolly
+         jumper and hip-flask.
+         http://www.clearskyinstitute.com/xephem/
+                                                - "scientific-grade"!
+         http://loke.as.arizona.edu/%7Eckulesa/xephem/
+   - RPMs : there are also fools slaving on MacOS X and OS/2 versions
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         "BIN LADEN agrees to come to New York - if 'fair trial' can be
+         guaranteed": http://www.chaser.com.au/default.asp ... life
+         imitates THE LONE GUNMEN: http://msnbc.com/news/628116.asp
+         ... god-fearin' Philadelphians imitate ASIMOV nuke story:
+http://dailynews.philly.com/content/daily_news/2001/09/13/local/DEVI13C.htm
+       vs http://homepage.mac.com/jenkins/Asimov/Stories/Story109.html
+         ... http://www.landoverbaptist.org/ redirect their spoof
+         http://www.whitehouse.org/ site to real thing, just in case...
+         "100 titles AMAZON.com customers couldn't live without":
+http://www.amazon.com/exec/obidos/subst/lists/best/amazon-bestsellers.html
+         vs current UK no 4: Posh Spice's guide to "Learning to Fly":
+http://www.amazon.co.uk/exec/obidos/subst/lists/best/amazon-bestsellers.html
+         ... MS denies Flight Simulator is actually *that* realistic:
+         http://www.ananova.com/news/story/sm_397549.html - Pro version
+         is merely "a PC-based flight training and proficiency aid":
+         http://www.microsoft.com/games/fs2000/features.asp ... digging
+         out the *really* bad news: http://www.rotten.com/news/ ...
+         while, in other stories: http://www.bnp.org.uk/tories.html
+         imitates http://www.thebrainstrust.co.uk/article.16.1993.html
+         ... High Priest of the Church of Satan reveals he likes
+         voluptuous women, the original "Planet Of The Apes", "Willy
+         Wonka And The Chocolate Factory", and has no "favourite Beatle":
+         http://www.satanosphere.com/story/2001/9/7/121041/3661 ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> http://www.radiotimes.beeb.com/content/schedule_updates/
+         makes interesting reading nowadays, with "not the scheduled
+         episodes" of NY-set sitcoms like WILL AND GRACE (9.30pm, Fri,
+         C4) and the complete disappearance this week of SEINFELD
+         (BBC2), SEX AND THE CITY (E4), and THE LATE SHOW WITH DAVID
+         LETTERMAN (ITV2)... we wouldn't hold out much hope for
+         Sylvester Stallone's messianic buried-alive Hudson Tunnel
+         thriller DAYLIGHT (9.15pm, Sat, ITV)... while the "20 seconds
+         to comply" scene might similarly endanger the excellent
+         ROBOCOP (10.15pm, Sat, C5) and superior Jennifer Connelly "The
+         Matrix" inspiration DARK CITY (12.20am, Sat, C5), in which a
+         load of buildings fall over... both were part of C5's "Sci
+         Five" weekend, which reverts to less controversial fare on
+         Sun, with PROJECT ALF (5.20pm, Sun, C5), first-contact
+         mockumentary WHAT IF ET? (8pm, Sun, C5) and a Mark "The Crow"
+         Dacascos straight-to-videoer, DNA (9pm, Sun, C5), that doesn't
+         even have Carrie-Anne Moss in it!... but by then BBC2 have got
+         the useless - and Times Square-featuring? - STRANGE DAYS
+         (10.10pm, Sat, BBC2) out of the way in time for STAR TREK
+         NIGHT (7.30pm, Sun, BBC2), which sees two huge whales being
+         transported forward in time from the 20th century - but that's
+         enough about Kirk and Scotty's weight problems in STAR TREK
+         IV: THE VOYAGE HOME (10.40pm, Sun, BBC2)... C4 pursues its
+         paedophile-pleasing reputation with two different movie
+         versions of LOLITA (1.25am, Sat, C4; 10pm, Sun, C4) - the
+         Kubrick one at 1.25 in the morning... "TOTP 2" meets the Fast
+         Show's "Jazz Club" sketch in THE OLD GREY WHISTLE TEST AT 30
+         (11.20pm, Mon, BBC2) ... Michael Crichton directs archetypical
+         medical thriller COMA (9pm, Thu, C5) - thankfully not based on
+         one of his terrible novels... assuming they even show it, C5
+         presumably thought the interminable extended TERMINATOR 2:
+         JUDGMENT DAY (9pm, Tue, C5) shouldn't go with the rest of
+         their Sci-Fi weekend - because, hey, it's already almost
+         "science fact"... speaking of which, HORIZON (9pm, Thu, BBC2)
+         dodges dumbing-down accusations with a new series featuring
+         notably unhackneyed topics such as "The Missing Link", "The
+         Real Atlantis", "Great Big Exploding Supernovas", "Cloning:
+         The Terrifying Truth" and, this week, the ground-breaking
+         "Mystery Of The Persian Mummy"...
+
+         FILM>> even before all this, we weren't really expecting a
+         nationwide release for Beat Takeshi crazy Japanese schoolkids-
+         killing-each-other actioner BATTLE ROYALE (imdb: adolescent /
+         body-count / castration / crossbow / decapitation / desolate-
+         island / despair / fascism / game / knife-through-the-neck /
+         knife / maniac / murder / perky-announcer / revenge / school-
+         uniform / scythe / teenager / unemployment / young-love)...
+         also commemorating "back to school" week is Rob "Daylight"
+         Cohen's "Point Break" tearaway car-chase remake THE FAST AND
+         THE FURIOUS (http://www.cndb.com/ : Just to repeat that I also
+         saw no [Jordana Brewster] left nipple flash as earlier
+         reported. No nudity in this film! [...] I have no doubt her
+         nudity in "Invisible Circus" is better). Also features the
+         lead doing a "woah, dude" Keanu Reeves impersonation and a
+         terrible wannabe-big-beat BT soundtrack... otherwise there's
+         homegrown comedy incompetence THE MARTINS (imdb: Lee Evans,
+         Ray Winstone, Kathy Burke, the writer of "The Ghostbusters of
+         East Finchley" - together at last!)... or Michael Caine beat-
+         em-up "Die Hard 2: Die Harder"-style unofficial "Shine" sequel
+         SHINER (http://www.bbfc.co.uk/ : contains coarse language and
+         strong bloody violence) - a film which has 2 separate entries
+         in the BBFC database, one 4 minutes shorter than the other...
+
+         "WHAT THE?" FEEBDACK>> a mixture of shock, bewilderment and
+         rage has come across in a lot of your recent mails to us - so
+         no change there: alluding to NTK 2001-08-03's advocacy of Vim
+         6, GRIFF PHILLIPS thanked us for the upgrade suggestion "which
+         passed the time splendidly on Monday morning" and confessed
+         "for once there was something in your 'Tracking' section that
+         I understood, which made me feel good about myself". We've
+         always suspected that NTK is primarily read by people who
+         enjoy operating at the very limits of their comprehension - a
+         sentiment we can heartily empathise with, considering some of
+         the stuff you send in... apparently confusing "Need To Know"
+         with some sort of general "Notes and Queries"-style historical
+         research facility, SHAUN MONTGOMERY asked "Does anyone know
+         who lived at 160 Fleet Street, London in 1872 and who or what
+         occupies those premises today?", and seemed genuinely pleased
+         with our reply that it was inhabited by the woollen-drapers
+         Scaife & Willis in 1794, as could easily be established by any
+         idiot with a search engine... reader JOHN KING thought we'd be
+         somehow reassured to know that he "always types in 'horse's
+         arse' whenever someone trumpets a new image search engine:
+         http://images.google.com/images?q=horse%27s+arse - Google wins
+         again!"... while MARC INGRAM intriguingly confused our
+         tips@spesh.com email address with the "Top Tips" page in Viz,
+         handily suggesting "If when walking down the street you are
+         embarrassed by tripping over a large curb stone, then take a
+         few moments to compose yourself before doing it again to show
+         that is wasn't an accident"... A CHEFFIE, to his credit,
+         helped articulate some of our own bafflement at the screenplay
+         section of http://www.anti-gay.com/scene16.htm [NTK 2001-08-
+         10], a page which the site illuminatingly describes as "Here's
+         a scene that disproves the notion that nothing is wrong with
+         homosexuality"... "What is 'slag off'?", asked ED SENGSTACKEN,
+         explaining, "It isn't in the California lexicon yet". Well Ed,
+         take a wild guess from the context: NTK 2001-03-30... while "I
+         was just wondering who 'they' were in the small print bit - ie
+         'They stole our revolution'" inquired MAX O'SHEA, entirely
+         reasonably, from a Hotmail account. No further questions, your
+         honour... finally, apologies to everyone whose spam (or
+         "sensitive content") filters were triggered by the proximity
+         of "porn", "hardcore" and "AOL" in NTK 2001-08-31 ("'Porn'
+         found! Mail has not been delivered! Mail has been archived!"
+         barked one particularly eager implementation of Chinese Wall),
+         but our favourite non-deliverable of the year so far remains
+         TOM AUSTIN of New Zealand, who tried to subscribe in the
+         normal way but whose workplace politely declines every issue,
+         revealing [our emphasis]: "Your attempt to contact a staff
+         member via email was unsuccessful *because this person does
+         not have Internet email facilities*". So, if anyone out there
+         knows Tom (or runs into him), could you let him know?...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                       "I said NTK *above* puppet show"
+     http://www.rathergood.com/ma/web_files/site_contents/essays/popbitch.htm
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

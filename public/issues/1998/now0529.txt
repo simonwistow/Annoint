@@ -1,0 +1,296 @@
+ 
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the UK>
+| \ | |_   _| |/ / _ __   ____29/05/98_ o Join! Mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@unfortu.net
+| |\  | | | | . \ | | | | (_) \ V  V /  o Website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+            "I tried to find a link back to sport but became trapped
+                         and, in the end, I had to turn the PC off."
+         IAN PARR, council official sacked for porn surfing,  gives his 
+                                                     excuses and leaves
+                            can't ... seem ... to reach ... back button
+
+
+                               >> HARD NEWS <<
+                               unpleasant ooze
+
+         British company CABLE & WIRELESS buying MCI's entire US
+         Internet backbone; @HOME, the cable modem ISP, to launch in
+         the UK; and a German COMPUSERVE manager being given two
+         year suspended sentences simply for being a German
+         Compuserve manager. A marvellous week for British Net
+         users. No? Well, maybe. The C&W deal looks like a clever
+         two-step to avoid raised eyebrows at the MCI/WorldCom
+         merger. MCI keep control of the transport for two years;
+         C&W get the routers, the ISP customers, and, it seems, Vint
+         Cerf and the guys. @Home's foray into the UK is with
+         ComTel, and will be in Swindon and Oxford only for 1999.
+         @Home's technology has 36Mbps to the home - but you'll be
+         sharing that bandwidth with up to 600 others. And the
+         Germany guy is bound to be let off. Even though we've got
+         *proof* he worked at Compuserve.
+         http://reports.guardian.co.uk/articles/1998/5/29/3632.html
+                            - "abused the medium" : sounds about right.
+         www.mci.com/mcisearch/aboutyou/interests/technology/ontech/
+                                                 - "Cerf's Up". Sheesh.
+         www.zdnet.co.uk/news/1998/20/ns-4531.html
+                                 - Mr Goodwin brings the good news home
+
+         Last time Microsoft gave ROSS ANDERSON money, he gave them
+         a system that would let them spy on Word users from a van
+         [NTK 13/2/98]. Now they've paid him and his friends a six-
+         figure sum to form the FOUNDATION FOR INFORMATION POLICY
+         RESEARCH, a woolly-sounding think-tank which will examine
+         "the effects of IT on society". So, has Bill managed to
+         farm off the Cambridge firebrand with a cushy desk job? Not
+         so : among all the fluffy social topics the FIPR is
+         investigating (Millennium bugfixes, IT for the poor,
+         preservation of public records) are the usual Anderson
+         hotspots: phantom bank withdrawals, overly restrictive
+         copyright laws, and our favourite topic, strong encryp- ah,
+         "issues regarding e-commerce". Except that now, when Ross
+         attacks dumb legislation, he'll be speaking for an industry
+         body that already has support from Demon, Poptel and
+         others. Thank God, ministers must be saying, that Caspar
+         Bowden from Scientists for Labour is involved to keep him
+         under control. But hold on - isn't that the same Caspar
+         Bowden who has been arguing against the government's own
+         crypto policy for the last few months? With Ross? For free?
+         http://www.ntk.net/fipr/
+               - others rewrite press releases. We post them wholesale.
+         http://www.fipr.org/
+                         - running Apache! How independent can you get?
+         http://www.ntk.net/index.cgi?back=a98/now0213.txt&line=53#l
+                                                   - what Ross did last
+         
+		 Our last "Life After Cliff" Demon story, we promise. All we
+         have, really, are questions. Why are people saying that the
+         new (Scottish Telecom-chosen) chairman, Rod Matthews, hates
+         the ex-MD and Father Of The UK Internet with a passion?
+         Hate cuddly Cliff? Can it be true? And why is chosen son
+         and Cliff protege, Roy Bliss, now being referred to as
+         "*acting* managing director"? Why are ex-Demon staff
+         beginning to pop up at Cliff's new concern with such
+         regularity? And can people believe Cliff when he says he's
+         been *banned* from the Demon offices?
+         http://www.demon.net/
+                                        - surely you jest, Mr Stanford!
+         http://www.internet-magazine.com/imo/marint.html
+                                                   - "no hurry to sell"
+
+
+                               >> ANTI-NEWS <<
+                             berating the obvious
+
+         Falco! BYTE to close print edition - Jerry Pournelle to
+         retaliate with home-made rail gun... microsoft.com error of
+         the week - www.ntk.net/doh/ms980530.gif ... OFFICIAL
+         PLAYSTATION survey reveals movie-watching habits of readers
+         - 15% watch "RPG", 15% watch "puzzle", and 6% watch films
+         in the genre of "flight sim"... "Ohmigod, they killed
+         *themselves*!" - first suicide to cite SOUTHPARK as
+         influence... "Older Americans more likely to be Sinatra
+         fans" reveals CNN... NINTENDO dumping SGI... TWO Airplane-
+         style TITANIC spoof movies en route... best FRANK headline:
+         "Industry Mourns Death of Sinatra as Public Demand Rockets"
+                  - hey, if they want rockets, *give 'em rockets!*...
+
+
+                              >> EVENT QUEUE <<
+                        goto's considered non-harmful
+
+         Phrases you don't see in NTK that often: "Attention all
+         theatregoers!" Believe it: Michael Frayn's COPENHAGEN is a
+         timely, implosive little drama about the historic WW2
+         meeting between top nuclear physicists Werner Heisenberg
+         and Niels Bohr, showing May-July 1998, at the National
+         Theatre, London SE1. Stop us if you've heard this one, but
+         the "Uncertainty" of Heisenberg's famous theory is mirrored
+         in the "uncertainty" of his own behaviour!!! Still, despite
+         the usual arty pseudo-science metaphors, a big thumbs-up
+         for being one of the few West End shows containing all the
+         info you'd need to build your own a-bomb.
+         http://www.nt-online.org/productions/copenhagen.html
+              - NB: does not feature any former cast from Blake's 7
+
+         Linus "Bigger than Elvis" Torvalds, accompanied by backing
+         singers Alan Cox and Jamie Zawinski, will be fighting off
+         the screaming teenage fans at Duke University's LINUX EXPO
+         '98 this weekend. You're not there, clearly, otherwise you
+         wouldn't be sober enough to read this. You can, however,
+         glean a vicarious buzz by reading the inevitable flurry of
+         announcements on the Website. Not least among them will be
+         the definitive answer to the "Emacs vs Vi" question
+         provided, not by a Magic Eightball, but by a magic
+         *Paintball* face-off. It's the only way.
+         http://www.linuxexpo.org/
+                                    - Linus! Linus! Marry me! MARRY ME!
+         http://www.linuxexpo.org/paintball.html
+                                       - looking forward to the cheers:
+               "H-J-K-L, what can we pipe through ispell? VI!"
+           "Give us a '(' - Give us another '('! Give us a '('!..."
+		 
+		                       >> TRACKING <<
+                                net tucker man
+
+         You know what we miss about DOS? It had renaming *smarts*.
+         You could type "REN *.FOO *.BAR", and it would go: "Gotcha
+         - renaming a whole bunch of shit," like it was born to it
+         or something. Hooray, then, for the Power Rename utility
+         which brings such mind-boggling sophistication to Windows
+         '95/NT - and more. You can search and replace filenames,
+         increment filenames numerically, change case, add text to
+         the filename or the extension - all without even glimpsing
+         a DOS shell. And I know that sounds boring *now*, but you
+         wait. One day, you'll be desperately searching through your
+         inbox for this URL. Then you'll thank us.
+         http://www.creativelement.com/software/poweren.html
+         - try searching for "dumb rename utility". That'll find it.
+
+         Ban this evil ECSTASY TESTING KIT! wail the tabloids. Damn
+         right: it only has enough solution for a few tests, and the
+         packaging is embarrassingly psychedelic. You're better off
+         with the Green Party's version, which - while a little
+         costlier - has enough reagent for 100-150 pills, is non-
+         profit-making, and comes with lots of informative leaflets.
+         And if you're feeling community-spirited, you could enter
+         your results into www.ecstasy.org's nifty online database.
+         Owning an Ecstasy testing kit is currently legal, but I'd
+         stash in a safe place with your old laser-pointers,
+         unmuzzled Rottweilers and that copy of Windows 98 beta, if
+         I were you.
+         http://www.ecstasy.org/testing/
+                                                   - Puritans vs Purity
+         http://news.bbc.co.uk/hi/english/uk/newsid%5F101000/101369.stm
+         - well, that's the "profiteering" complaint fixed, Mr Czar
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         engraving 33rpm grooves onto old CDs... from the people who
+         brought you emptywebsite.com, its Russian equivalent:
+         www.nichego.net ... O'REILLY goes LaPlante-baiting with new
+         title: Protecting Networks With SATAN...
+         www.straightdope.com ... GATES swears he's off-camera:
+         www.timecast.com/channels/comedy/shearer/found/... Troy
+         McClure - former actor... this week, Adam & Joe meet
+         MICROSERFS at www.legopolis.com/web_pages/personal/thomas/
+         ... we want: www.appliances.com/mmb142.html and we want
+         http://165.247.176.184/tigertoys/fishing.htm and we want
+         www.marchenoir.com/hotrings.html ... UNREAL - oh, my...
+         Chris Carter explains on hidden X Files soundtrack track...
+
+
+                               >> GEEK MEDIA <<
+                              fluoresce the best
+
+         TV>> if INVASION: EARTH (9.30pm, Fri, BBC1) is all a big
+         Microsoft metaphor, are the nD's actually *non-Disclosure*
+         agreements?... Daryl Hannah and director Christopher
+         "Spinal Tap" Guest trample the camp feminist hilarity of
+         the original ATTACK OF THE 50 FT WOMAN (12.15am, Sat,
+         BBC1)... NTK-sponsored TV-geek-monopolist Ben Moor takes no
+         hostages at CITY CENTRAL (8.10pm, Sat, BBC1)... while C4
+         hosts its own alien freak night, starting with "eclectic"
+         clip show THE SCI-FI FILES (8pm, Sat, C4) - starring genre
+         greats like William Gibson, Brian Aldiss, and, er, Tom
+         Baker off Dr Who... reshown Equinox THE REAL X-FILES (9pm,
+         Sat, C4) yawns through psychic channelling and remote
+         viewing, followed by Nancy "RoboCop" Allen in B-movie spoof
+         STRANGE INVADERS (not as good as *Spaced* Invaders, we
+		 reckon), freakish bio-experiment Melvyn Bragg reviews THE
+         SUNDAYS (the newspapers, not the band), and odd how bits
+         from Whitley Streiber's earlier novels turn up in "factual"
+         abduction classic COMMUNION (12.40am, Sat, C4)... then that
+         eerie "losing time" feeling as the alien visits continue in
+         EVERYMAN (10.25pm, Sun, BBC1), featuring the now-standard
+         "explanation" of "minor temporal lobe epilepsy"... of
+         course, true sci-fi purists will be cuddling up to TV-
+         series spin-off PROJECT: ALF (12noon; 6pm, Sat, Sky Movies
+         2), a made for (German) TV movie with music by Mark "X
+         Files" Snow... nuclear weapons show their value in feature-
+         length VOYAGE TO THE BOTTOM OF THE SEA (5.05pm, Sun, C4)...
+         epic manga nonsense takes flight on THE WINGS OF HONNEAMISE
+         (11.45pm, Sun, BBC2)... "Go on, just one more quick game of
+         'Misty'," is the line tragically not said by the proto-
+         Fatal Attraction Clint stalker in PLAY MISTY FOR ME
+         (11.15pm, Sun, BBC1)... oh, and a big day on Sky 1 with two
+         new THE SIMPSONS (6pm), hour-long FRIENDS (7pm), then
+         double THE X FILES (8pm) - basically the TV premiere of the
+         "Emily" video... is DC or AC better for electrocuting
+         people?, puzzled Edison and Tesla-powered Westinghouse in
+         SECRET HISTORY (9pm, Mon, C4)... oddly, the comic-book
+         stills are by far the best bit of TANK GIRL (10.55pm, Mon,
+         C5)... a virus double-bill swiftly spreads from BLACK
+         DEATH/ JERICHO FEVER (11.15pm, Tue, BBC1) to MILLENNIUM
+         (10pm, Wed, Sky1)... ALLY McBEAL (10pm, Wed, C4) is like
+         Bridget Jones, only funny... and more Diana conspiracy
+         treats from both DISPATCHES (9pm, Thu, C4), and the
+         excellently titled DIANA: THE SECRETS BEHIND THE CRASH
+         (9pm, Wed, ITV) - which sounds like it's going to be a
+         tell-all "the making of" special effects extravaganza...
+
+         FILM>> you thought The Crow was dark and scary (they did,
+         after all, kill the leading actor), but now the same
+         director's back with the fantastically extreme comic-book
+         Kafka of DARK CITY (imdb: sci-fi / mystery / thriller /
+         time-lapse / memories / city / beach / murder / inspector /
+         aliens / darkness / door / psychokinesis / space / sleep /
+         amnesia / psychiatry / clock / alien-abduction)... Nick "48
+         Hrs" Nolte - Lara Flynn "Twin Peaks" Boyle - Julie "Demon
+         Seed" Christie - and Johnny Lee "Hackers" Miller - are
+         together, at last, in cross-generational sex romp AFTERGLOW
+         (imdb: romance / comedy / drama)... while squelchy sci-fi
+         f/x and genre-star cameos shore up the shockingly standard
+         WES CRAVEN'S WISHMASTER (imdb: thriller / wish / genie /
+         horror)... else it's *yet another* Irish botched crime romp
+         THE GENERAL (imdb: also known as "I Once Had a Life"),
+         dull-o Henry James costumer WASHINGTON SQUARE (MPAA rated:
+         PG "for thematic elements including some sensuality, a
+         childbirth scene and brief mild language"), or John Hannah
+         in THE JAMES GANG (imdb: comedy / crime / fugitive) -
+         "possibly the worst British film yet" (a source)...
+
+         GIFS IN SPACE>> Very Large Telescope, Very Silly Name.
+         Could be worse: 18% of abcnews.com visitors want to call
+         the International Space Station "Babylon" ... Of course,
+         all this VLT vs Hubble competition is just press hype; it's
+         purest coincidence that the Very High Telescope guys have
+         managed to get a visual on a planet *this week* -
+         http://oposite.stsci.edu/pubinfo/pr/1998/19/ ... the pic we
+         want to see is the Sunday Times' "diamond as big as a
+         planet" - http://exosci.com/news/61.html ... although we'd
+         settle for funny monkey space GIFs  at www.ape-o-naut.org ...
+         Remember Kashpureff, guys: NASA launches Shuttle-hosted
+         Webserver, together with highly unofficial ".orb" domain:
+         techie graphs at www.spacehab.com/products/p_shucs.htm ...
+         Forget Deep Impact-scale disasters (ambiguous phrasing
+         deliberate) it's the Local Fluff you need to worry about :
+         www.eurekalert.org/releases/udel-cmcbebbe.html ...
+		 
+		                      >> SMALL PRINT <<
+
+      Need to Know is a useful and interesting UK digest of things that
+        happened last week or might happen next week. You can read it
+      on Friday afternoon or print it out then take it home if you have
+    nothing better to do. It is compiled by NTK from stuff they get sent.
+        It is registered at the Post Office as "powered by StarOffice"
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                        Archive - http://www.ntk.net/
+                     Excuses - http://www.spesh.com/ntk/
+
+      Unsubscribe? Mail majordomo@unfortu.net with 'unsubscribe ntknow'.
+        Subscribe? Mail majordomo@unfortu.net with 'subscribe ntknow'.
+       NTK now is helped by VIRGIN NET, VENUS INTERNET and UNFORTU.NET.
+             They worry about us, but we don't worry about them.
+
+           (K) 1998 Special Projects. Non-business copying is fine,
+                       but retain SMALL PRINT. Contact
+               terry@spesh.com for commercial license details.
+
+                   Tips, news and gossip to tips@spesh.com.

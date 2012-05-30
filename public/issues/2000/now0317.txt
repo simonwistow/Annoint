@@ -1,0 +1,348 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-03-17_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+      "This web site violates all the Internet rules. It is all text.
+         More material is available this way. The MIDI file 'Oh The
+         Blood Of Jesus' plays continuously on every page. Demons hate this."
+          - online exorcist Stanley Madrak at http://www.demonbuster.com/
+                  ...especially if they're browsing in a work environment
+
+
+                                >> HARD NEWS <<
+                                 and blue goo
+
+         Tip to Lastminute: the trick with these flotations is to
+         give a chance for your original investors to sell out before
+         the hoi-polloi take a look at the long-term prospects, then
+         run out of the market screaming. Indeed, the biggest problem
+         with lastminute's punt was that just how obviously they were
+         putting the boat out too early (obvious, except for maybe
+         hacks blinded by the instant human interest appeal of Martha
+         Lane Fox). For one thing, it was painted all over the
+         prospectus. As NTK subscriber Alex Balfour writes: "from the
+         prospectus details, and my calculations, at a minimal budget
+         of 5.5 million, Lastminute needs to make around 403,500
+         sales a year to make ends meet. Judging by their current
+         subscriber/purchase ratio, that requires 207,000 paying
+         users - or 15.8 million subscribers overall. If they carry
+         on spending 25 million a year, they need to sell 2 million items.
+         Which requires 78 million subscribers - or more than the
+         entire population of the UK." Actually, we're not too
+         worried about Lastminute surviving: but it's hardly the
+         ideal poster child for the British Net boom. And what makes
+         that scary is that it's the only UK floated Website that
+         we remember any of us actually *visiting*. 
+         http://www.lastminute.com/
+                      - poster child, like in that Vietnam napalm pic
+         http://www.ntk.net/2000/03/17/lastminute.gif
+                        - mind you, there's overpriced and overpriced
+
+         St Patrick's Day, and a fitting time to answer a few mails
+         we've had regarding the RIP Bill. Given, say our
+         correspondents, the new insecurities installed into ISPs by
+         the Bill would a solution be to log onto Irish ISPs, given
+         their government's more enlightened approach to preserving
+         privacy? Well, sadly no: thanks to a separate section of the
+         same bill, the Home Secretary has the right to request mass
+         monitoring of any "external communications", which is to
+         say, any packet passing over UK borders. So, unless you have
+         encryption on the phone line itself, this would actually
+         make it *easier* to loosen your own security. However, we
+         should point out that RIP might well be the perfect moment
+         for Dutch or Irish entrepreneurs to introduce a Freedom
+         server - which *does* provide point-to-point encryption - in
+         their own country, and then charge a modest fee for UK
+         users. Given that this is an area which, by RIP law, is now
+         a proscribed practice in this country, feel free to take
+         over this market. Emphasis on the word "free", there.
+         http://www.freedom.net/
+         - there we go, affecting the "economic well-being of the UK" again
+         http://www.statewatch.org/secreteurope.html
+          - on the other hand, we're all Europeans now, unfortunately
+         http://www.online.ie/technology/technoculture/index.adp?id=5916 
+               - last bastion of free speech. And weird HTMLification.
+
+         The latest Biblical curse to hit the racks at TELEHOUSE
+         EAST: showers of goo. A fault in what appears to be the fire
+         supressant system means that blue glycol has been dripping
+         from the ceiling onto the servers at TFM40. Fortunately, the company
+         was quick to alleviate the problem - by throwing over bits
+         of plastic sheeting. We should point out that 
+         co-location centers other than Telehouse suffer
+         problems; we only report Telehouse's because, well, they
+         always seem to be more amusing. For instance: what happens
+         when there really *is* a fire? Do the servers get instantly
+         drenched in this stuff?
+         http://www.telehouse.net/english/index_english.htm
+                                                     - don't look up!
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         MICROSOFT team up with REALNAMES, ANDERSEN CONSULTING: DOJ
+         fears Net monopoly of stupidity ...  unfortunate banner ad
+         placements, pt. 256: http://www.ntk.net/2000/03/17/beastwars.jpg 
+         ... "Sun Microsystems, the Silicon Valley company that
+         devised JavaScript", reports THE INDEPENDENT, putting the
+         doh into dot com ... TELEGRAPH runs old Salon "haiku error
+         messages" story, believes it to be true ... GAMESPOT GDC
+         coverage reveals Gates to be Darth Sidious:
+         http://www.ntk.net/2000/03/17/sithgates.jpg ... the importance
+         of correct spelling in search terms demonstrated by:
+         http://ads.freshmeat.net/spra0003en.gif ... use country code
+         "999" at http://www.primeris.com/fonefind/ for instant slack
+         ... PENTHOUSE goes after the anonymous coward market:
+         http://www.ntk.net/2000/03/17/slashhouse.jpg ... we hope
+         this *isn't* a doh: http://www.ntk.net/2000/03/17/dohinfront.jpg
+
+
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         A far-flung nation of rugged, but cheery, salt-of-the-earth
+         individuals, riven by sectarian divides, nonetheless come
+         together on one special day to raise a glass to their patron
+         saint - St Clive of Sinclair - to celebrate the 20TH
+         ANNIVERSARY OF THE ZX80. In fact, the only organised event
+         seems to be in Germany, where the ZX-TEAM will be partying
+         all weekend in Fulda (near Frankfurt) - but don't let that
+         stop you hosting your own, or perhaps just wearing your
+         "lucky" 4-MHz CPU. (Also, we've neglected to obtain precise
+         details of tomorrow's Kevin Warwick public lecture at
+         Reading Uni - if you're going, remember: Kevin Warwick
+         Watch's mission is only to *observe* this vital stage in
+         human history - never to interfere...)
+         http://home.t-online.de/home/p.liebert/zx-team.htm  
+            - we know, it was 3.something MHz, so don't write in, OK?
+         http://www.home-micros.freeserve.co.uk/zx80/zx80.html
+                              - or build your own and overclock it...
+
+         Quickie reminder: Scrambling for Safety 2000, the gathering
+         of great, the good, and the government to discuss the 
+         ramifications of the RIP Bill, is happening on Wednesday,
+         2000-03-22, at the New Theatre, LSE, from 13:30 to 17:45GMT.
+         Be there, and we'll promise to shut up about it for a bit.
+         http://www.fipr.org/sfs2000/
+                                             - say, seven days or Ro?
+         http://www.stand.org.uk/
+                                            - a thousand faxes served
+
+         We hit 10,000 official mail subscribers this week. In the
+         original NTK "business" "plan", this signals the beginning
+         of Phase II, which involved shutting the whole thing down
+         and moving to California. We've had to tweak this slightly,
+         as a) most of you don't subscribe now but read this on the
+         Website (can't you even take our terrible URL-to-HTML parser
+         as a hint?), and b) we're beginning to enjoy the bribes.
+         This week, it was a $20 dollar gift voucher from Amazon,
+         which guarantees our continuing use of their associate
+         program in the face of the ongoing anti-patent blockade. A
+         little out of character, perhaps, but easily remedied by
+         *EITHER* Tim O'Reilly sending us a complimentary copy of
+         Unix Power Tools, *OR* Dave Winer posting a hundred-"o"
+         Cooool to his front page. Your move, compadres. But never
+         let it be said that we don't stand by our principles. Danny
+         *is* moving to California, albeit in pursuit of some tryst
+         with a cute UI designer rather than the assassination of
+         entire Wired/Lycos board of directors, as expected. Farewell
+         party/lynch mob forms at the Mitre Pub, on Craven Terrace,
+         near Lancaster Gate tube, London at 7pm today. Free "lucky
+         dip" of his broken PDA collection for early attendees.
+ http://www.streetmap.co.uk/streetmap.dll?grid2map?X=526466&Y=180901&arrow=Y 
+                    - always assuming we get this out before midnight
+         http://www.ntk.net/books/
+                         - look, we're just too lazy right now, okay?
+         http://slashdot.org/index.pl?section=books
+                                   - and not the only ones, it seems.
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Napster, Napster, Napster, Nullsoft's GNUTELLA, and then
+         (shortly after AOL's management find out what their
+         subsidiary is doing) just Napster again. Do the
+         guys from Northeastern Uni have a monopoly on MP3 tradez?
+         Maybe: but at least their protocol is now open enough for
+         other interfaces to spring up. From the grabbag sent to us
+         by - oh we don't know, but his Napster handle appears to be
+         y0z: the Perl module for automated searching, written by
+         Lincoln "CGI.pm" Stein lets you cope with those automatic
+         mass gets. NapAmp is a WinAmp plugin to save you that tiring
+         Alt-Tabbing between applications. INapster lets you create a
+         Web interface to RIAA's most wanted (useful for dodging
+         those college firewalls). And finally, Nap, which is a text
+         only interface which - unlike the others we tried - appears
+         to actually work. No source though. Boo!
+         http://search.cpan.org/doc/LDS/MP3-Napster-0.96/Napster.pm
+         - "hard coded to search for Beatles songs"
+         http://members.optusnet.com.au/~iwade/inapster/
+         - Australian. Lot of experience with evading filters there.
+         http://www.gis.net/~nite/ 
+                 - it's a shame "we want our nap" isn't so MTV-catchy
+         http://napamp.cjb.net/
+                 - written by somebody from off ITV's Magpie, by the look of it
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         No-Archive-Not: http://archives.mfn.org/ ... DANCE, DOC-TOR!
+         http://rtf.kracked.com/drwho/ ... troll central:
+         http://www.baiting.org/ ... http://www.advogato.org/ ...
+         http://interactive.wsj.com/articles/SB953147051874046328.htm
+         vs http://www.blowthedotoutyourass.com/ ... THE SIMS movies:
+         http://www.wrongwaygoback.com/thesims/ ... ROBERT
+         AXELROD's next book covers LINUX ... searching for "cunt" at
+         another.com , while http://i.am/a.cunt points to ...
+         http://www.microsoft.eu.org ... http://www.dullmen.com/ vs
+         http://www.mundanebehavior.org/ ... disgruntled Webmaster
+         strikes back at cow orkers: http://www.cwp.org/staff.htm ...
+         probably not the best way to spread your revolutionary
+         theory: http://www.earthnewtheory.com.br ... CNN imitates
+         Onion http://www.cnn.com/2000/FOOD/news/03/13/got.beer.ap/
+         ... "The Backstreet Boys quickly learn that the curvaceous
+         interstellar visitor is on a dire mission to protect the
+         Earth from an approaching alien invasion. " - dire indeed,
+         Stan: http://www.backstreetproject.com/ ... life imitates
+         Stephen King : http://www.bergenrecord.com/news/dente200003154.htm 
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> expensive digital effects and dire sub-60s scripting take
+         Reeves and Mortimer further into that yawning middle-ground
+         between funny *ideas* and funny *shows*, in inexplicably
+         remade RANDALL AND HOPKIRK (DECEASED) (8.55pm, Sat, BBC1)...
+         Sandra Bullock's kooky charms fail to keep anyone awake in
+         soporific rom-com WHILE YOU WERE SLEEPING (9.55pm, Sat,
+         ITV)... and Total Film's Cam Winstanley blabs about filmstars'
+         porno pasts in Graham Norton's HOLLYWOOD UNZIPPED (10.30pm,
+         Sat, C4) - part of a "harrowing viewing" theme night which
+         includes THE RETURN OF A CLOCKWORK ORANGE (11.30pm, Sat, C4)
+         plus Aussie skinhead beat-em-up ROMPER STOMPER (12.40pm, Sat,
+         C4)... Howard Stern shows Chris Evans how zoo radio *should*
+         be done in PRIVATE PARTS (10pm, Sun, C4)... only the third
+         opportunity for Kevin Warwick to grace our screens in as many
+         days - see also CYBERWAR (9.30am, Sat, BBC2) and FUTURE WARS
+         (5.55pm, Sun, BBC2) - TECHNO GAMES (6ish, Mon-Fri, BBC2) is
+         actually a Robot Wars/ Great Egg Race hybrid, not a
+         Gladiators-style face-off between techno acts like 2 Unlimited
+         and ATB ... while "typically overlong misogynist Harrier ad"
+         is what we usually say about Jim Cameron Arnie actioner TRUE
+         LIES (9.35pm, Wed, BBC1) - and we see no reason to change it
+         now... Philippa Forrester presides over two possible Kevin
+         Warwick windows - Science Week's TOMORROW'S WORLD LIVE LAB
+         (8pm, Wed, BBC1) and the more promising ROBOCRITTERS (9.30pm,
+         Thu, BBC2)... DISPATCHES (9pm, Thu, C4) risks annoying ELSPA
+         and Quake players alike by claiming Doom-inspired Columbine-
+         style massacres "could soon happen here"... while that Chris
+         Morris dude drops the "Blue" element - and the post-midnight
+         timeslot - for the rather more prosaically titled "surreal
+         sketch show" JAM (10.30pm, Thu, C4)...
+
+         FILM>> another week of overrated arthouse bullshit, we're
+         afraid, dominated largely by Kubrick's stylish but vacuous
+         CLOCKWORK ORANGE (imdb: cult-favorite / based-on-novel /
+         psychological / futuristic / controversial / satire / music /
+         time-lapse-photography / eye / nazi / violence / rape /
+         william-tell-overture / writing / brainwash / stylization /
+         sexuality / juvenile-delinquent / surreal / black-comedy /
+         milk) - hey, it takes a real maestro to make a film about
+         ultra-violence this dull... yet another late-night 6th-form
+         conversation - "Yeah, what if you could climb inside someone
+         else's head? Yeah, think about it" - masquerading as a plot in
+         Spike "spoilt rich kid" Jonze's inventively disappointing
+         BEING JOHN MALKOVICH (imdb: body-swap / surreal / possession /
+         puppet-master / puppet-show / satire / adultery / independent-
+         film / chimpanzee / celebrity / identity-swap) - based on the
+         fallacious assumption that it's tough to make a living as a
+         puppeteer nowadays, when in fact the continued success of
+         Sooty, the Muppets and the Hula Hoop ad proves *they've never 
+         had it so good*... that said, either of the above is probably
+         a better bet than Michael Caine/ Charlize Theron's worthy
+         historo-issues-drama Oscar-bait THE CIDER HOUSE RULES
+         (http://www.capalert.com/capreports/ : knife attack with
+         injuries; a child kicking a man's car because of sadness;
+         promotion of sexual independence and autonomy; offering
+         abortion as a "cure" to the consequences of incest;
+         intercourse and other nudity with and by the "Mighty Joe
+         Young" girl - I don't care what her name is; the male version
+         of "Titanic"), which currently features the poster-quote
+         "Makes Going To The Movies A Joy!" (The Today Show) - as
+         opposed to the fricking chore it usually is, we imagine...
+
+         MILD DISTORTION AND HEAVY FEEBDACK>> constituting our largest
+         single-issue postbag since the time we (wrongly) claimed that
+         Jamie Lee Curtis was married to John Carpenter [NTK 2000-02-
+         05], thanks to the (almost 100) of you who indignantly wrote
+         to say that "Joan Of Arc" was of course recorded by OMD,
+         rather than Ultravox [NTK 2000-03-10] - or "fugging Ultravox
+         ... FAGS" as one (anonymous) reader felt the need to clarify.
+         "While the two are not always easy to distinguish," elaborated
+         harvard.edu's AARON MANDEL, "I've never had a prison inmate
+         call my radio show collect demanding to hear OMD, while
+         Ultravox received that honor sometime last year." NTK regrets
+         the error, though largely for the demographic insights it
+         inadvertently provided... still on Jamie Lee Curtis, IAN
+         WATTERS then accused the 'score' original soundtrack for
+         Beverly Hills Cop II of being "staggeringly similar to the
+         wonderful Escape From New York score", though unfortunately we
+         may have to drop that thread, Ian, after an anonymous tipster
+         advised "do not even think about trying to do music reviews
+         again", following NTK 2000-02-04's Ultravox-heavy round-up...
+         fear not, "Red Book Audio" will return when circumstances
+         warrant; meanwhile, just to clear up a couple of legacy
+         queries: "NICK DRAGE was not hallucinating about the Daphne
+         and Celeste video," confided another anonymous source [re NTK
+         2000-02-04], "it's just that after its third expected release
+         they really wanted to get the video right and decided to throw
+         more cash at it. Not that it came out any better", before
+         going on to warn the world that Billie "is about to start
+         recording her own TV show, in a similar vein to the
+         'Cleopatra' one. Same production team, same crew, same
+         scripts, still unfunny"... and finally, a better-than-usual
+         crop of reader's MP3s arrived this month, including: Alec
+         "Atari Teenage Riot" Empire meets Philip Glass on the set of
+         Police Squad megamix http://www.stub.org/mix1.html ; comedy
+         Spice race http://artists.mp3s.com/artists/93/jimmy_2000.html
+         ; plus industrial mac-users http://www.smallcreep.com . But
+         pick of the lot - if only because it follows *to the letter*
+         the spec for our Christmas Jingle compo [NTK 1899-12-31 - sic]
+         - is http://www.ntk.net/2000/03/17/ntk-jingle-long.mp3 from JOSH
+         ROULSTON. Well done, Josh, your obedience will be rewarded -
+         when your tune plays as NTK triumphantly takes the stage at
+         Boston's GEEK PRIDE http://www.geekpride.org/ at the end of the
+         month...
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+            Registered at the Post Office as "Now That's Knowledge!"
+                      http://tv.cream.org/gorilla/dg.htm
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

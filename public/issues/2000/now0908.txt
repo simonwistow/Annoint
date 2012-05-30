@@ -1,0 +1,343 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-09-08_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Microsoft could have incorporated effective security
+         measures as standard, but good sense prevailed. Security
+         systems have a nasty way of backfiring."
+             - RICK MAYBURY, in DOTCOM.TELEGRAPH's Boot Camp week 140
+        http://www.telegraph.co.uk:80/et?pg=/et/00/9/7/ecrcomp07.html
+       ...whereas insecure boxes end up exploding in *all* directions
+
+
+                                >> HARD NEWS <<
+                                  malheureuse
+
+         Elections for the ICANN nomination pool end today. And like
+         any other pool, it looks like the Germans got there first.
+         Thanks to a prolonged campaign by the German press (and less
+         assiduous Europeans' tendency not to not pogo-ing reload all
+         day on the ICANN registration form), the Teutonic tendency
+         has leapfrogged their European counterparts. Rest easy,
+         though, little Englander: the nominee uber alles so far
+         turns out to be ANDY MUELLER-MAGUHN, smartcard-cracking
+         speaker of the infamously pro-liberty CHAOS COMPUTER CLUB.
+         Ceterus paribus, and assuming constant apathy in the other
+         continents, the real election for the precious two board
+         seats should go to him and everyone-but-Microsoft's favourite
+         pet legal eagle LAWRENCE LESSIG. And while the real TLD
+         decisions will continue to be made by chuckling corporate
+         lawyers in closed hotel rooms and conference calls, at least
+         we'll have one member who has might just install Back
+         Orifice on their machines. In the interests of civic
+         transparency, naturlich.
+         http://librax.freeservers.com/txt/positionofhackers.htm
+                            - now here's a candidate we *can* support
+         http://members.icann.org/nom/cp/90.html
+                   - still, if Andy's not Little Englandish enough...
+
+         Continuing the jocular racism: what about those French, hey?
+         Blocking our ports and jamming our tunnels like the
+         overzealous firewall admins they so vividly resemble. As a
+         race. All of them. All the time. Anyway, after the French
+         stranded thousands of holidaymakers and effectively held
+         their own entire country to ransom, it's up to Britain's own
+         "Expo Protest Team" to show them some *real* direct action,
+         by disrupting Steve Job's keynote at the Paris Mac show next
+         week. The group says that they're pissed off at Apple's
+         treatment of its UK customers, pissed off at the legalling
+         of Mac gossip sites, pissed off that the London Apple show
+         was cancelled, and pissed off that Steve Jobs still wears a
+         cheesy grin when they're still forking over thousands for
+         the latest Apple glittercake. The causal link between the
+         last grievance and the rest appears not to have occurred to
+         them as yet. The group has its half-baking supporters: "If
+         Apple is just another corporation existing solely for the
+         purpose of making money, what is 'Think Different' all about
+         anyway?", wrote The Mac Junkie's Charles Moore, his own
+         penny slowly beginning to drop. But the protestors should
+         beware. Those "Steve Jobs Dancers" in the background may
+         look harmless, but everyone knows they can pole-ax a heckler
+         at fifty paces - as Wired News reports "the protesters may
+         be clubbed like baby seals if they dare to interrupt his
+         spiel".
+         http://www.themacjunkie.com/archives/moore.9.7.00.html
+                                                  - let them eat cube
+         http://www.wired.com/news/business/0%2c1367%2c38607%2c00.html
+                                              - Apple: think "snarky"
+
+         How's about this then, guys and gals? Someone seems to have
+         "fixed it" so that irrepressible Brit-comedy criticism site
+         SOME OF THE CORPSES ARE AMUSING has disappeared. Frankly, we
+         have no idea why, though readers of rec.arts.tv.uk.comedy
+         may recall that their forums were one of the very best
+         places to discuss the mysterious origins of the HOAX JIMMY
+         SAVILLE "HAVE I GOT NEWS FOR YOU" TRANSCRIPT that did the
+         rounds back in July. But, hey, SOTCAA's stringent (and now
+         mildly ironic) anti-censorship stance could have made them
+         any number of powerful enemies in the UK laughter-biz: who
+         could forget, for instance, their hard-hitting parody of the
+         Edinburgh Fringe programme, or the controversial
+         "congratulating" of Rich Herring for finally dating Julia
+         Sawalahalahalaha?
+http://www.guardianunlimited.co.uk/tv_and_radio/story/0,3604,345583,00.html
+                   - so fake, even THE GUARDIAN didn't fall for it...
+        http://www.deja.com/ - [ARTICLE NUMBER REMOVED]
+         - next, arrest all subscribers to "rec.arts.tv.uk.comedy"...
+        http://www.deja.com/ - [ARTICLE NUMBER REMOVED]
+     - ...no particular reason, we'd just sleep much better at nights
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         BBC News now offering free Webspace to employees:
+         http://www.bbc.co.uk/politics97/news/05/0511/keith/keith.shtml
+         ... slash fiction discovered by WIRED NEWS, now exactly 720 days
+         behind cutting edge... JACK VALENTI says new copying tech is
+         "to the American film producer and the American public as the
+         Boston Strangler is to the woman alone". In 1982. About VCRs:
+   http://www.nytimes.com/library/tech/00/09/biztech/articles/02napster.html
+         GREENHAM COMMON protesters all set to leave airbase at last:
+         http://news.bbc.co.uk/hi/english/uk/newsid_910000/910669.stm -
+         you know how long it takes women to get ready to go anywhere:
+         http://news.bbc.co.uk/hi/english/uk/wales/newsid_439000/439596.stm
+         ... FUTURE's sycophantically unofficial PSM2 mag quotes
+         director of LARA CROFT film (p8): "Everyone wants to be her,
+         or be her girlfriend". And that's just the boys!... WORD.COM
+         up! down! up! FALCO!... VIZZAVI.COM aims to be world's largest
+         mobile portal; launches in 3 weeks; just hired its WAP program
+         manager; FALC-... BURNING MAN drugs just starting to kick in:
+         http://www.newscientist.co.uk/features/features.jsp?id=ns225415
+         ... proof for all those who just knew that H2G2 *was* true:
+         http://www.bbchomevideo.com/bbchv.asp?WCI=Category&WCU=5 ...
+         DELL overclocks RAM: http://www.ntk.net/2000/09/08/delldoh.jpg
+         ... "I've been off on holiday jetting round the world, and
+         I've squandered a fortune!", chuckles MISS BOO, humiliating
+         herself for her new masters, like Princess Leia in that bra:
+         http://www.boo.com/large.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Disappointingly, Future's COMPUTER ARTS LIVE SHOW (Business
+         Design Center, Islington, from Tue 2000-09-12) isn't billing
+         itself as "the cheaper, less controversial alternative to
+         Apple Expo Paris" (see this week's news) - though you've got
+         to agree, as little as UKP18 (advance ticket price) for 3
+         days of software publishers flogging you half-arsed
+         "creativity tools" surely represents *remarkable* value for
+         money. Guests on the "main stage" are largely a bunch of
+         Nathanic has-beens - out-evolved organic graphics guru
+         WILLIAM LATHAM, pompous fools TOMATO - though we're pleased
+         to note the attendance of no less than *2* "PETER SCOTT"s:
+         one presumably the cheap CGI pioneer behind C5's "Too Much
+         TV"; the other the - even more famous? - dead proprietor of
+         the Slimbridge Wildfowl Trust.
+         https://www.futurenet.com/secure/arts/live/ca_stage.htm
+             - entire site appears to be SSL'd; hey, design is money!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Just when you thought they'd drowned for good, our favourite
+         low-tide low-technicians, Backspace.org, are back with a
+         brand new gig. As befits their more virtual status these
+         days, they working on a plan to jerry-rig a
+         dynamically-routed, 2400Mhz, 802.11 wireless network across
+         as much of London as they can muster. Judging from previous
+         efforts in this arena, it's not quite as simple project as
+         it looks - the 802.11b standard is a bit rubbish at coping
+         with bridges between wired networks, security is probably
+         going to require some messing around with IPsec, and
+         according to the letter of the law it's all a little bit
+         wayyy: a little bit tasty. Still, with the price of 2MB
+         wireless cards plummetting and with a few good people
+         already involved, maybe now's the time. They'll need help,
+         though. So if you're somebody with kernel driver-hacking
+         experience, or you can do more than pretend to understand
+         routing, or you've ever done things to your rig of which the
+         Radiocommunications Agency would not approve, or you simply
+         don't mind hiding a 486 laptop up on your roof give them a
+         buzz. If nothing else, the interference will piss off those
+         snooty Apple Airport owners. And that's all we can ask of
+         any community effort.
+         http://www.consume.net/
+         - these wlans are going to turn out cancerous too, aren't they?
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         leprechauns wreak revenge on family who stole their "LUCKY"
+         CHARMS: http://www.cnn.com/2000/US/08/28/parents.killed.ap/
+         ... some VERTICAL BLANK INTERRUPTS last longer than others:
+         http://www.mb21.co.uk/teletext/ceefax/evening/ ... hang on:
+         don't most SUPERHEROES owe their very existence to
+         unregulated genetic experimentation?
+         http://www.enviroweb.org/shag/ ...  typically, they're not
+         real "robots", but looks a lot more fun than ROBOT WARS:
+         http://www.boxerjocks.com/ ... TWIX launches groovy new
+         branding for US market: http://www.twix.com/ (where it still
+         tastes disgusting)... battling the CHUCKIE EGG Menace:
+         http://www.geocities.com/TimesSquare/Ring/6690/ ...  first
+         step to revitalising the SPACE PROGRAMME: bring back
+         http://home.epix.net/~tjwagner/tab.html ... heart of - well,
+         not glass, anyway: http://www.ucc.ac.uk/research/blondie/
+         ...  NASA accepts no responsibility for predicted asteroid
+         impacts: http://neo.jpl.nasa.gov/cgi-bin/db?name=2000+QW7 ...
+     poet's corner: http://www.linuxworld.com.au/news.php3?nid=200&tid=1
+     http://www.hacktree.org/fcgi-bin/ref-hacktree?command=view&group_id=9
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> Zoe Ball, aptly enough, presents the convolutedly
+         titled 100 GREATEST TV MOMENTS FROM HELL (9pm, Sat, C4)...
+         Carrie Fisher declares I LOVE 1977 (9pm, Sat, BBC2), fondly
+         recalling "Saturday Night Fever", "Star Wars" and, on a more
+         personal level, vast quantities of cocaine... and for the
+         meme-complex who wrote in complaining it "kept missing"
+         Richard Dawkins' MIND BITES on Saturday mornings, there's a
+         repeat of his 5- minute musings on science fiction (10am,
+         Sat, BBC2)... TWENTY FOUR SEVEN (10pm, Sun, BBC2) answers
+         the largely unasked question "What would 'Fight Club' be
+         like if had it starred Bob Hoskins and been set in
+         Nottingham?"... a double-dose of Victor Lewis-Smith infects
+         both ADS INFINITUM (9.50pm, Mon, BBC2) and nerd garbologist
+         docu SCANDAL IN THE BINS (10pm, Mon, C4)... C4 spins its
+         "Monday Night Nam Movie" chamber and - click! - it's THE
+         DEER HUNTER (11.05pm, Mon, C4)... while Sky, as is their
+         wont, stick all their new shows into an undistinguished
+         weeknight slot: HARRY ENFIELD'S BRAND SPANKING NEW SHOW
+         (10pm, Sky1, Mon); Al Murray's TIME GENTLEMEN PLEASE
+         (10.30pm, Sky1) - "the best thing [Rich Herring] has ever
+         written"; and critically acclaimed import TITUS (11pm, Sky1)
+         - which is the sitcom that last week's Anthony Hopkins movie
+         isn't based on, or vice-versa... frankly we're more excited
+         about about the return of STARSHIP TROOPERS: THE ANIMATED
+         SERIES (7am & 3pm, Mon-Fri, Sky1)... supporting the theory
+         that they've accidentally swapped movie schedules, C5 are
+         showing nice-but-dull GROSSE POINT BLANK (9pm, Tue, C5)
+         while C4 woos its arthouse crowd with SCANNER COP (2.35am,
+         Sat, C4) - which spawned its own short-lived franchise, in
+         the form of "Scanner Cop II: Volkin's Revenge"... and in
+         another piece of genius acquistion, C4 commence showing
+         shockingly good Buffy spin-off ANGEL (6pm, Fri) - here's
+         hoping they somehow manage to sync up those vital crossover
+         episodes with BBC2...
+
+         FILM>> meticulously spoofing the "Scream" films, right down
+         to losing it about half-way through, comes the impressively
+         rude SCARY MOVIE (http://www.screenit.com : spoilers for
+         most of the gags, http://www.cndb.com : "Carmen Electra runs
+         through a water sprinkler in her bra and panties in slow
+         motion [...] Luckily she decided to wear a thong for this
+         awesome scene. So we see her nice ass!"; "[shower-scene]
+         girl (unknown) revels her breasts after taking off her
+         towel"; "only one scene comes close to nudity for the
+         incredibly cute [Anna] Faris [...] you see her bare butt
+         [...] huge torrent of her boyfriend's semen [...] it's
+         possible this is a dummy, or maybe even a stunt/ body double
+         [...] We'll have to wait for the DVD to find out for
+         sure")... which, frankly, should see off the competition
+         from Barry Levinson's rather less graphic 1950s-set Jewish-
+         American coming-of-ager LIBERTY HEIGHTS (imdb: /
+         independent- film / anti-semitism / baltimore /
+         numbers-racket / premature- ejaculation / race-relations)...
+         some Oirish romantic nonsense THE CLOSER YOU GET
+         (http://www.screenit.com/ : Profanity is rated as heavy due
+         to 1 use of the "f" word)... plus John Turturro, Emily
+         Watson and Vladimir Nabokov - together at last! - in THE
+         LUZHIN DEFENCE (imdb comment: A brilliant, visually stunning
+         film about the madness of big time chess)...
+
+         FEAR OF A BLANK NAPSTER>> rapidly developing a taste in MP3s
+         that can only be described as "near-random", unofficial NTK
+         music critic ADRIAN MOULDER has compiled an epic list of
+         recent pop soundalikes, attributing RICHARD ASHCROFT's
+         "C'mon People" to "Reach Out (I'll Be There)" by The Four
+         Tops, DAVID GRAY's "Babylon" to "Breakfast At Tiffany's" by
+         Deep Blue Something and, perhaps most improbably of all,
+         "the new STEPS single" to Europe's "The Final Countdown". He
+         goes on to plead for "a reassessment of pioneering '90s
+         girl-popsters SHAMPOO", having "invented both the expression
+         'Girl Power' and, in their song 'Delicious', BILLIE's
+         catchphrase 'Because We Want To'" - a defence, you've got to
+         admit, it would be tempting to try in Billie's current
+         court-case: "Why did you say you'd have my client killed?
+         Because I wanted to! Because I wanted to!"... we've been
+         investigating the hypocritical world of TV/ radio
+         censorship, noting that foul-mouthed Yanks EMINEM and THE
+         BLOODHOUND GANG don't seem to be allowed to say "ass" (eg in
+         the Bloodhounds' new "Ballad Of Chasey Lain"), even though
+         cheeky Brit ROBBIE WILLIAMS has been (eg in "Let Me
+         Entertain You"), and now gets away with "Give no head, no
+         backstage passes" in "Rock DJ". It doesn't seem to be
+         entirely pro- British, however, as the BBC cut promotional
+         references to "Channel 4" and "MTV" from Richard Blackwood's
+         recent "Who The Man", while permitting the
+         ever-controversial Bloodhound Gang to extensively plug The
+         Discovery Channel on their previous single. Evidently,
+         clearer guidelines are required!... and, finally, an answer
+         for MARTIN WHITE who, after reading our "Where Are They
+         Now?" on Zero Magazine back in NTK 2000-03-10, wrote to say
+         that "[child techno genius] DANIEL PEMBERTON came round my
+         house one day six years ago and promised me he'd write the
+         music for my first film.  Do you know how I can get in touch
+         with him?" Well, he mails us all the time, Martin - about a
+         month ago with the startling revelation that "the whole Big
+         Brother thing is a scam - it's never actually been on TV in
+         these other countries before". "The whole thing is
+         scripted," Pembo alleges, "[and] will start off quite normal
+         [...] but it's going to end one week early in a horrific
+         bloodbath as one of them goes nuts with the kitchen knife
+         killing three of the remainding people and then himself -
+         ALL ON 'LIVE' TV! Everyone will think it's real - C4 will
+         only announce the next week it wasn't." "I didn't tell you
+         this," he concludes, "but trust me: this is the new 'Ghostwatch'".
+         As a composer widely respected by the Space: 1999 fan community
+         http://www.newsgate.co.uk/uk/uk.media.tv.sf.misc/msg00050.html
+         Daniel's media credentials are, of course, impeccable -
+         though we haven't seen this "Big Brother" show ourselves, so
+         please do let us know if it ends in some hideous bloodbath,
+         just in case the mainstream media miss that episode or
+         something...
+
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                   "second generation HTML these days, mate"
+               http://www.lesmania.com/sputniklinkslesmania.htm
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

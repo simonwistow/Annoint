@@ -1,0 +1,303 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-08-15_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                               >> HARD NEWS <<
+                                  you choose
+
+         We're not just letting off steam with this "unilaterally
+         redesign a viciously bad website competition", you know -
+         we're also finding out some useful demographics about our
+         subscriber base. The average NTK reader, it seems, uses
+         Sourceforge on a suicidal basis: "Why oh why are there a
+         million clicks before you get to the download page?", writes
+         one devotee. They are regular, embittered, users of the postal
+         system (with the Post Office's postcode finder not helping:
+         "an appallingly bad site that could be really useful" says
+         Hugh Parker). And at the end of their short, angry days, our 
+         readers will often use alcohol to numb the pain. Or they
+         would if the Oddbins' site would let them in. Oh, and they
+         travel around in... ah, we're out of time.  Tune in next
+         week for the (perfectly obvious) winner of Potentially
+         Useful Site Figgered Up Beyond All Recognition By A
+         Consultant And What Appears To Be His Two-Year-Old Designer Nephew.
+         http://www.osdir.com/article102.html
+                                       - why source forge still sucks
+         http://www.royalmail.com/
+                                                         - can't look
+         http://www.oddbins.com/
+                       - if you use Mozilla or Opera, drink two shots
+
+         Just to remind those who have lost all will to live what the
+         point of this is: we'll be encouraging people to recode the
+         site by scraping the information and fixing it. You know,
+         like Alan Taylor's Amazon rejig. Or Jonty's WAP interface to 
+         the play.com DVD/Game price list (so you can check prices 
+         while out shopping). Or, at a stretch, the BBC's final
+         capitulation to our regular complaint that they should 
+         publish their reports in something other than PDF format: 
+         handing the problem over to Adobe's PDF to text service. 
+         http://www.kokogiak.com/amazon/default.asp
+                                                       - old but good
+         http://www.bbc.co.uk/info/report2003/
+                                                            - cheeky!
+         http://www.electrichamster.net/wap.cgi
+      - it's a cruel world when we use WAP as an example of usability
+
+         And it's amazing what we can achieve when we all work 
+         together. Concluding our "turned out OK in the end" Japanese-
+         English slogan competition, PAUL BLEZARD doesn't get a prize 
+         for pointing out "There is a Japanese motorcycle magazine 
+         called 'Goggle' whose slogan is 'Magazine for Windy Bikers'", 
+         but RIK HAYNES, European editor of LOGIN magazine, does for 
+         sending in the following NTK-relevant gems from his latest 
+         issue: "Scoop A Go! Go!"; "Technology & entertainment on 
+         computer for hobby"; and "Monsters of the new appearance are 
+         introduced". Rik receives an shinkwrapped copy of TVGoHome's 
+         "Unnovations" book, as do readers JAMES BOYDEN, for "Touching 
+         together is for great happiness. In this little time, we are 
+         touching fewer. NTK touches for you!", and "H" for the pithy 
+         "We The Theme Produce of Mode". But the outright winners - 
+         receiving both a book and a t-shirt (if they want one) - begin 
+         with DAVID GENTLE, who combined quantity and quality in his 
+         "Technical goons are alight: fire-stains left by overboys!", 
+         "Earth to space experts; journeying with tap-tap machine", and 
+         "All persons in awareness of NTK love-finger. Sitting all day 
+         fetish. Is 'grooved'? Yes grooved!". But even he could not 
+         match the output of JOSH PARSONS, whose freely downloadable 
+         cgi script generates authentically deranged constructions 
+         every time you refresh. Or as it itself might put it: "My 
+         night? Your sensation worries strange to that team's heart". 
+         http://ahpc-jp30.st-and.ac.uk/~josh/witters/engrish.cgi
+            - see also http://www.channel4.com/4later/bits/manga.html
+         http://www-unix.oit.umass.edu/~thoureau/japanese.html
+                            - doesn't pass as conversational Japanese
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         MSN enthusiastically embracing new role as consumer's friend: 
+         http://www.ntk.net/2003/08/15/dohscam.gif ... the surreal side 
+         of spamdexing the search terms from your referrer logs: 
+         http://maps.nethopper.com/atlas_pasta_machine.html ... keeping 
+         them as fresh and exciting as when you asked the first time: 
+http://www.sxetc.org/askexperts/genAskExpertsFAQList.asp?pid=1313&tid=1313
+         ... those dual-CPU machines are the devil's work, I tell ye: 
+         http://www.google.com/search?q=%22viewing+on+a+single+CPU%22 
+         ... BBC comedy captioners diversifying into image alt tags:
+         http://www.ntk.net/2003/08/15/dohmike.gif ... old jokes still 
+         the best though: http://www.ntk.net/2003/08/15/dohsado.gif ... 
+         not everyone quite so pleased about new Banksy exhibition: 
+http://www.ntk.net/2003/08/15/bank1.jpg , www.ntk.net/2003/08/15/bank2.jpg 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Another year, another DNSCON BLACKPOOL (from 9pm tonight, Fri 
+         2003-08-15, The Empress Hotel, Blackpool FY1, from UKP15 for 
+         "Newbie"-level attendance on the door, includes "Newbie badge 
+         which you must wear") - though this year the tantalising 
+         attractions include ASMag's GEDDON giving "A Talk By Geddon", 
+         and occasional GSM critic GUS giving "A Talk By..." - well, 
+         you get the idea. The alcohol-consuming theme continues with 
+         next weekend's BEWDLEY BEER FESTIVAL (from 12noon Fri 2003-08-
+         22, St George's Hall, Bewdley, near Kidderminster, free?), an 
+         event co-organised by NTK reader Adam Naylor, who promises "an 
+         internet cafe, webcams and a bubble machine (controllable from 
+         the internet, of course) - at least watch us drinking our 
+         lives away even if you aren't able to turn up".
+         http://www.dnscon.org/dns6/
+         - this year: Dr Hackenphreaks' all-new AOL coaster challenge
+         http://www.bewdleybeerfestival.co.uk/
+                       - implies it takes place in a car park. Class!
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Though first-person shooter fans the world over are firing 
+         their BFGs into the wall in frustration over the delays to 
+         Half-Life 2 and Doom III, we're not too concerned; each week 
+         brings more free Half-Life mods than you can wave a crowbar 
+         at. Alongside the ever-popular-but-a-tad-derivative favourites 
+         such as Counter-Strike and Day of Defeat sit slightly more 
+         original uses for the HL engine, ranging from scarily-
+         professional sports sims (INTERNATIONAL ONLINE SOCCER, HALF-
+         LIFE RALLY) to surreal corporate espionage (SCIENCE & 
+         INDUSTRY). Currently eating most of our precious blog-reading 
+         time is the Aliens-alike NATURAL SELECTION, which lays an 
+         engaging dollop of strategic plasma over team-based blasting 
+         (imagine Starcraft bursting out of Team Fortress's stomach). 
+         The recent 2.0 release features enough changes to make 
+         everyone a newbie again, so now's a great time to jump in. Our 
+         favourite concept, however, is BOXWAR, which greatly appeals 
+         to our senses of fair play and extreme paranoia: You (a crate) 
+         have to stalk other players (also crates) across various 
+         levels (covered in crates). Given all the above plus the many 
+         single-player mods on offer, you shouldn't have to pay for 
+         another big commercial title until... someone finally releases 
+         one.
+         http://www.moddb.com/
+                    - all the mods we listed, plus a few hundred more
+      http://www.planethalflife.com/news/search.asp?search=videogames
+         - "no comment" = "it's probably not a problem... probably..."
+         http://www.halflife2d.com/
+            - ...unless your game comes out *after* the Flash tribute
+         http://oldmanmurray.com/features/39.html
+                                             - don't give in to crate
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         new http://www.phrack.org/ ... still having problems attracting
+         women to demo parties? http://fa.xmunkki.org/ ... I LOVE
+         YOU. I REALLY LOVE YOU: http://www.regularsreunited.co.uk/
+         ... can't wait to see their data protection registry entry:
+         http://www.middlelanemorons.co.uk/ ... what your memoirs
+         will sound like: http://www.keble.clara.net/ic_memories/ ...
+         squeaking by our "no such thing as a funny ebay auction" rule:
+         http://www.than.org/3621549033.html ... one of these pics is
+         not like the others: http://images.google.co.uk/images?q=toaster 
+         ... your grandad's browser: http://david-lu.net/v4/work/phonedial/ 
+         ... thanks everyone, that ought to do it: http://boycottcity.org
+         ... inevitably: http://www.technicola.com/flashmugging/ ...          
+         oh no, DHTML Lemmings: http://www.xs4all.nl/~crisp/lemmings/
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> "Big Brother" producer Peter Bazalgette wallows in a 
+         different kind of filth in a repeat of his GREAT STINK (8pm, 
+         Fri, C5)... BBC1 unveils an all-too-missable hour of new 
+         comedy with Liverpudlian bingo hall EYES DOWN (9pm, Fri, BBC1) 
+         and Andy "Drop The Dead Donkey" Hamilton's TREVOR'S WORLD OF 
+         SPORT (9.30pm, Fri, BBC1)... but if it's anything near as good 
+         as last week's opener, THE BEST OF THE NEW TOM GREEN SHOW 
+         (11.45pm, Fri, C4) may be the best thing on TV this year... 
+         some of Charlize Theron's "best ever" unclothed scenes enliven 
+         2 DAYS IN THE VALLEY (11.35pm, Fri, BBC2)... according to the 
+         innovative reviewing style of "the Gordonator", Jamie Lee 
+         Curtis plays an ordinary, brunette woman with "ample chest and 
+         buttocks" in all-at-sea cyber-nonsense VIRUS (11pm, Sat, BBC1) 
+         http://www.allscifi.com/Topics/Info_17959.asp ... while 
+         Cusack/ Bob Thornton geek face-off PUSHING TIN (9pm, Sat, 
+         BBC3) provides an even less reassuring portrait of air-traffic 
+         controllers than the last of CROWDED SKIES (9pm, Sun, BBC2)... 
+         the testosterone keeps on bubbling in stockbroker containment 
+         drama BOILER ROOM (10pm, Sun, BBC2) and, to a lesser extent, 
+         radio time-travel strangeloop FREQUENCY (10.20pm, Sun, BBC1) 
+         ... Ruby Wax ruins another potentially watchable profile of 
+         BEN STILLER (AND PARENTS) (10.35pm, Mon, BBC1)... Monday is 
+         especially harrowing with female circumcision docu THE DAY I 
+         WILL NEVER FORGET (9pm, Mon, C4) followed by Antonio Banderas' 
+         DESPERADO (10.30pm, Mon, C4)... and what promises to be the 
+         absolute cutting edge of corporate coolhunter nonsense is 
+         perpetuated by STREET ANTHROPOLOGY (7.55pm, Tue & Wed, C4) 
+         http://www.geneseo.edu/~anthro/hot_asset.php ... 
+         
+         FILM>> as almost 90% of the total running time now consists of 
+         hit-and-miss Seann William Scott set-pieces, the "Pie" trilogy 
+         lurches to a largely satisfactory conclusion in AMERICAN WEDDING 
+         ( http://www.cndb.com/movie.html?title=American+Wedding : Nikki 
+         ["Playboy's Miss September 1997"] Ziering Bares Her Breasts As 
+         Officer Krystal At The Pre Bachelor Party For Jim. She Is Very 
+         Sexy In The Black Leather Suit She Is Wearing, Until It Comes 
+         Off Of Course)... sadly it's not West End legends Mercury vs 
+         Donovan in disappointing who-cares? slasher faceoff FREDDY VS 
+         JASON ( http://www.cndb.com/movie.html?title=Freddy+vs+Jason : 
+         Katharine ["Ginger Snaps"] Isabelle is reported to go topless 
+         in this horror film which will open on August 15, the scene is 
+         actually a classical shower scene with breast exposure, 
+         followed by a murder scene. Top classic horror!)... or it's 
+         Elizabeth "Showgirls" Berkley, Jennifer "Flashdance" Beals, 
+         and Isabella Rossellini - together at last! - in limited-
+         release LaBute-esque seduction "masterclass" ROGER DODGER 
+        ( http://www.cndb.com/movie.html?title=Roger+Dodger+%282002%29 :
+         Very nice scene. You get to see [Flora Diaz's] boobs while she 
+         is laying on a bed)...
+         
+         BONERS: CORRECTIONS, CLARIFICATIONS, AND "INCORRECTLY REGARDED 
+         AS GOOFS">> first off, thanks to the audiophiles who pointed 
+         out that, if Steve Jobs said the G5 was "twice as quiet" as 
+         the G4 http://www.ntk.net/index.cgi?b=02003-06-27&l=75#l then 
+         "Half the volume = -6dB" (PHILIP ASTON), or "He could have 
+         meant that the new shiny box is 'subjectively' half as loud as 
+         the old shiny box. This would relate to approximately a 10dB 
+         lower sound pressure level, confirmed via a quick squizz at 
+         BS4142: 1997: Method for Rating Industrial Noise Affecting 
+         Mixed Residential and Industrial Areas" (JON STUMP)... but 
+         only DOUGLAS PIERCE-PRICE loudly objected to NTK 2003-08-01's 
+         labelling of "'80s technogoths" Curve, arguing that "'90s 
+         technogoths" would be more accurate, given the release dates 
+         at http://www.stack.nl/~conrad/curve/discography/all.html , 
+         while MARKYB was the sole plaintiff over NTK 2003-07-18's 
+         transformation of "Kim Jong Il" (ie, kim jong il) into "Kim 
+         Jong II", exclaiming "Sweet baby Jesus! I thought you guys 
+         were perfectionists?!". With your help, Marky, we're getting 
+         there... no such luck, however, for the likes of GRAHAM LALLY, 
+         one of several to miss the (perhaps over-subtle point) that 
+         http://tvgohome.com/ does indeed link to "not quite the Nathan 
+         Barley joke we'd been hoping for", rather than the actual 
+         archives at http://www.tvgohome.com/ ... and MARK CHITTY 
+         reopened the can of worms we were trying to close over 
+         "Ironic" by Alanis Morisette [NTK 2003-07-18], arguing that 
+         "Surely a song that contains continuous references to irony 
+         which are, in actual fact not ironic at all, is in actual fact 
+         extremely ironic?" Yes, except for the fact that we were 
+         saying that the situations in the song *are* technically 
+         ironic, so it's more ironic that people who accuse it of not 
+         being ironic must be unaware of this definition of "irony": 
+         http://www.geocities.com/Hollywood/Picture/7379/byrne.html 
+         ("select all" to see Ed Byrne's entire white-text-on-white-
+         background routine)... GORDON JOLY helped further human 
+         knowledge by revealing that the cosmic 26 hour days enjoyed by 
+         http://www.glastonburyfestivals.co.uk/+soundandvision/+tv/ 
+         were an artefact of the "6am to 5:59am" timeframes used by 
+         Broadcast Data Services schedules - and, finally, A CHEFFIE 
+         was sufficiently inspired by the "sexual position notation" of 
+         http://www.maths.tcd.ie/~icecube/cgi-bin/index.php?page=sex to 
+         ask us to "scroll down to SEXUAL POSITION COMPONENTS" on the 
+         page http://www.geocities.com/openlcc/2se601.html to marvel at 
+         their "system of representing sexual positions without visual 
+         diagrams or photographs" - though it does appear to require at 
+         least one blue and one pink-coloured felt-tip... 
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                     "a penchant for vomit-covered carpet"
+         http://www.beerintheevening.com/pubs/show.shtml/1583/#comments
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

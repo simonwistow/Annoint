@@ -1,0 +1,347 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-05-18_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+          "The Genius, like the other store sales staff, is not your
+          typical retail employee, Johnson emphasized. The workers
+          must have 'Apple-Mac in their bones,' a 'sincere service
+          orientation' and 'interesting hobbies,' he said."
+ - RON JOHNSON, on Apple's bid to be the swanky, unprofitable Dixons
+                    http://news.cnet.com/news/0-1006-200-5938890.html
+                                 ...SIMON QUINLANK, KING OF MACINTOSH
+
+
+                                >> HARD NEWS <<
+                                  postage due
+
+         Back into the Useless Net Awards season - tellingly muted
+         this year, as sponsors, nominees, and award-giving bodies
+         pray to remain solvent until the ceremonies. Especially
+         quiet this year is NEW MEDIA AGE, whose effectiveness awards
+         have been made a bit less effective by that 78UKP fee, it
+         seems. A battered LESLIE BUNDER protested on UKNM that not
+         only did they not tell him he wasn't nominated, they're not
+         telling *anyone* who the shortlists are, because "the judges
+         felt ... that some of the entries were very weak and that
+         having a shortlist in advance will give away who the winners
+         are". But we all know on the Internet, information wants to
+         be free (or at the very least, a bit bloody cheaper than
+         78UKP). Have you been nominated by NEW MEDIA AGE? Let us
+         know, and we'll publish the full list ourselves, dammit. And
+         if it's as obvious as they say, we'll give out the awards
+         early too. Then you can ask for your money back...
+         http://www.nma.co.uk/
+                                     - it's probably here *somewhere*
+         http://www.bunderlife.com/
+                        - Leslie, of course, provides value for money
+
+         While we whine and gripe, others go off and do. Or moan and
+         gripe at the right people, anyway. JASON KITCAT, disturbed
+         as we by GATEWAY.GOV.UK's Unix-hippy-refusing policy [NTK
+         2001-02-23], applied under the Freedom of Information Act to
+         discover the reason. As is often the case with these
+         requests, though, we're left with more questions than when
+         we started. Excluding Unix machines continues to be a little
+         odd (no API for accessing X.509 certificates on
+         non-Windows/Mac platforms? Hunh?). Yet, while the fancy
+         digital signature bit won't work with open source browsers,
+         it turns out there was no reason to exclude them from the
+         whole site, especially as that bit isn't working much yet
+         anyway. "This [restriction] will be relaxed shortly", they
+         say  - how shortly?. Meanwhile, the document reveals,
+         there's now one more govt. sanctioned Public Key
+         Infrastructure provider - Equifax. Yeah, the credit agency.
+         We can't work out if they're evilly escrowing keys like the
+         other official PKI, Entrust, yet. But we do know that for
+         twenty-five quid, they'll id you for the government by
+         grabbing your personal details, and cross-referencing them
+         with your credit record. Not a sentence with many of our
+         favourite words in it, that. The other (better) bit of news
+         is the e-envoy is looking for an open source alternative to
+         both these companies. Those nice netproject people got the
+         contract to research this: Doc Andrew Findlay has the helm,
+         if you'd like to get involved.
+         http://www.free-project.org/writings/foia-1.html
+                                         - full story on Jason's site
+         http://www.ntk.net/index.cgi?b=2001/now0223.txt&l=40#l
+                  - we know this is dull: think of it like those bits
+         http://www.andrew.findlay.org/
+                         - about Lockerbie in the back of Private Eye
+
+         Not to be confused with NESTLE'S KITCAT of course, one of the
+         multinational brands indirectly causing trouble for Bristol-
+         based "video activists" I-CONTACT. In a posting to noted agit-
+         prop forum The Mark Thomas Mailing List, someone claiming to
+         be from I-Contact says they were promised "full editorial
+         control" over a short film they were making for Channel4 -
+         control which did not, however, appear to extend to annoying
+         specific corporations or encouraging breaking the law. Since
+         the film covered Adbusters-style subvertising and billboard
+         modification, that counted out their planned coverage of the
+         likes of http://www.subvertise.org/politics/spol0012m.html ,
+         http://www.subvertise.org/corporations/scor0010m.html , or
+         even http://www.subvertise.org/revolution/grev0019m.html ,
+         plus footage of a billboard being pulled down, and ultimately
+         led to I-Contact's withdrawal of the film (or whatever was
+         left of it). What puzzles us is why they didn't follow the
+         example of the BAFTA-award-winning "So Graham Norton" who,
+         when faced with a mildly contentious or hard-to-clear website,
+         ingeniously faked their entire coverage of it.
+         http://www.videonetwork.org/
+         - last updated in those heady days of January 2000
+         http://www.ntk.net/index.cgi?back=archive99/now0402.txt&line=44#l
+         - yeah, still going on about this; apparently that's not all...
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         for news of the Oscars - and people called Oscar too!
+         http://uk.fc.yahoo.com/photos/o/oscars.html ... Liam finds
+         new direction: http://www.ntk.net/2001/05/18/dohasis.jpg ...
+         "funny" election sites now outnumber registered voters ...
+         tested it: do we get the job? http://www.bbc.co.uk/jobs/e50235.shtml
+         ... all the smart money's in biotech these days, they say:
+         http://www.ntk.net/2001/05/18/dohbio.gif ... SUNDAY TIMES showing
+         slight pre-election bias: http://www.ntk.net/2001/05/18/dohbias.jpg
+         ... use a MOREOVER feed, make your site more attractive to tourists!
+         http://www.ntk.net/2001/05/18/dohtour.jpg ... picture library
+         has it in for http://uk.imdb.com/Name?Cobain,+Kurt ... but
+         what if my official title is "Supreme Overlord"?:
+         https://www.britishairways.com/execclub/yourdetails_row.jsp ...
+         Scotland now in different time zone from  - Liverpool?
+         http://www.circ.uab.edu/nypldr/1time/standard.htm#2 ... putting "no"
+       into nokia: http://page.auctions.yahoo.com/uk/show/qanda?aID=50933065
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         As predicted last week, this year's ARTHUR C CLARKE UK
+         SCIENCE FICTION NOVEL AWARDS (from 2pm, Sat 2001-05-19,
+         the Science Museum, UKP7.95, free after 4.30pm), will have
+         slightly more of a campaigning element, as nominees and
+         interested parties (including Stephen Baxter, Ken MacLeod,
+         Paul McAuley, Roz Kaveney and Jon Courtenay Grimwood) will be
+         joining core NTK personnel in order to analyse and apportion
+         blame for the precise shortfalls between the tech-level
+         depicted in the movie 2001 and the actual year 2001 that we
+         live in. Who's to blame? Clarke? Kubrick? Sci-fi authors in
+         general? An undemanding public? Those lazy grant-obsessed
+         boffins for not building more space stations? Or, as event
+         organiser Pat Cadigan theorises, the star-people themselves,
+         for hiding the first two monoliths so successfully that we
+         (and our monkey ancestors) never found either of them?
+         http://www.sciencemuseum.org.uk/visitors/scifi_festival.asp
+                           - my god, it's full of (literary) stars...
+         http://www.csrc.lse.ac.uk/cambridge.htm
+                        - annoying clash with CSRC Cambridge roadshow
+         http://c-level.cc/tekken/
+               - as well as world's first "Tekken Torture Tournament"
+         http://www.wlv.ac.uk/no-future
+    - what if there was *no* future (and we're already living in it)?
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         It's sickening but no surprise to us that MINDGUARD, the
+         handy anti-psychotronic warfare utility, has finally caught
+         the eye of the Powers That Be. That said, we *had* expected
+         retaliatory strikes from liberati-controlled IR-enabled
+         spy-satellites, not a sniffy letter from lawyers of Kortech,
+         current commercial exploiters of the Roswell-derived
+         mind-control ray patent. However "softee softee catchee
+         monkee" the hegemony strikes, it's still only a matter of
+         time before the NANOG Cabal take down Zapato's original
+         distribution. Accordingly, we can only hope that someone
+         mirrors this program, which remeains the only Amiga and Unix
+         app for deciphering, jamming - and potentially, hackers,
+         rebroadcasting - beamed messages from the UN, CIA, FBI, and
+         the Antartic Relay, as well as signals from the transmitter
+         array occupying the apparent territory of the non-existent
+         "decoy" state of Belgium (independently-minded Douglas Adams
+         fans mourning his seemingly accidental death: thinker
+         harder, you gulls). Source is available under Mindguard's
+         own MPL: potential redistributors should audit the Mindguard
+         program carefully, not only for signs of tampering, but also
+         amazing revelations about the true nature of the 'rand()'
+         function.
+         http://zapatopi.net/mindguard.html
+                                           - get this to Mojo Nation!
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         GEORGE LUCAS to retaliate with his "funny version" of DOGMA:
+         http://www.theforce.net/episode1/index.html#10575 ... so,
+         under the data protection act, BT could find out what their
+         nickname is? http://www.geocities.com/videonetwrk/censor.html
+         ... not the WAKEYWAKEY.COM tribute site we'd been hoping for:
+         http://www.wankywanky.com ... FLASH-free Prescott satire - at
+         last!: http://www.urbanreflex.com/prescott.html ... reality,
+         as ever, even stranger than satire - SINN FEIN, I choose YOU!:
+         http://www.bbc.co.uk/newsround/election/factfiles/votemon.shtml
+         vs "Blair Witch" http://uk.news.yahoo.com/010515/80/bq3r8.html
+         ... more creative CYBERSQUATTING: http://www.sunglasseshut.com
+         ... http://www.halfbakery.com/idea/amihotornot_20breeder vs
+         http://www.crankymediaguy.com/ ... shut up I'm TRYING TO READ:
+         http://users.aber.ac.uk/sdt8/dissertation/contents.html ...
+         the new BONSAIKITTENS: http://www.boring.ch/childsoldiers/ ,
+         http://www.banbreastfeeding.com/ ... yes, what price MONKEYS
+         nowadays?: http://www.ananova.com/news/story/sm_294723.html vs
+http://news.bbc.co.uk/hi/english/world/middle_east/newsid_1311000/1311090.stm
+         ... http://www.cubanboys.co.uk/ BATTLE OF THE PLANETS mix...
+         GIRLS proven evil: http://www.nyx.net/~keking/girls.jpg ...
+         plus, to make matters worse, "The pornography you are looking
+         for is currently unavailable": http://www.phancy.com/404.html ...
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> it's a relaxing end to the week with "Happiness"-style
+         sick French farce SITCOM (12.05am, Fri, C4), plus Charles
+         Bronson's "Gladiator"-inspiration DEATH WISH (11.10pm, Fri,
+         BBC1)... people behave exactly as experimenters predict when
+         all normal context is removed, reveals pop-psych fakery HUMAN
+         ZOO (10.30pm, Fri, ITV)... while Saturdays now kick off with
+         "Dawson's Creek" spinoff YOUNG AMERICANS (5.55pm, Sat, C5) -
+         based on neither the Danny Cannon movie nor the David Bowie
+         song of the same name - plus ARE YOU CAPTAIN CORELLI, OR NOT?
+         (7pm, Sat, BBC2)... Willis battles deteriorating trilogy
+         quality in DIE HARD 2: DIE HARDER (9pm, Sat, ITV)... Alan
+         Rickman reappears as RASPUTIN (10.30pm, Sat, BBC2) - based on
+         neither the Boney M song nor the Richard Herring musical of
+         the same name... and, with a new album out soon, what better
+         time to celebrate the sub-standard solo output of one of The
+         Beatles' less talented members, in PAUL MCCARTNEY: WINGSPAN
+         (10pm, Sat, C4)... the slightly freakier side of cybersex is
+         explored in SEX, LIES AND CYBERSPACE (11.35pm, Sat, C4)... the
+         success of director Boaz Yakin's recent "Remember The Titans"
+         prompts a revival of his scorchingly amoral teen chess
+         gangsterfest FRESH (2.10am, Sat, C4)... and Sunday is Nazi
+         conspiracy night once again, with THE SECRET RULERS OF THE
+         WORLD (9pm, Sun, C4), two-part war trial reconstruction
+         NUREMBERG (10pm, Sun, C4), and 'Nam MK-Ultra thriller JACOB'S
+         LADDER (12.20am, Sun, ITV)... now-yearly showings of Arnie's
+         THE RUNNING MAN (9pm, Mon, C5) provide a useful yardstick for
+         just how closely real gameshows are coming to resemble it...
+         Jeri "Seven of Nine" Ryan graces the pilot of new US sci-fi
+         Timecop/ Quantum Leap hybrid SEVEN DAYS (6pm, Tue, BBC2) - not
+         based around the Craig David song of the same name... Brett
+         "Lawnmower Man" Leonard returns to cyberspace in RS232 killer
+         VIRTUOSITY (10.40pm, Tue, BBC1)... and John "WarGames" Badham
+         makes a gimmicky real-time kidnap thriller when he could have
+         depicted an intergalactic prison planet populated with Daleks,
+         cybermen and other Gallifreyan arch-enemies, and called it:
+         Dr Who And The NICK OF TIME (10.50pm, Wed, BBC1)...
+
+         FILM>> The Rock, Rachel Weisz's usual sounds-fake-but-is-
+         actually-her-real-accent, and more Patricia Velazquez body-
+         paint nudity enliven extended CGI showreel sequel THE MUMMY
+         RETURNS (http://www.capalert.com/capreports/mummyreturns.htm :
+         not a particularly sexual movie; John Hannah appears to be
+         using a woman as a sex toy; a couple of flashes of posterior
+         flesh in the combat between Nefertiri and Anck-Su-Namun; many
+         unholy manifestations; open mouth kissing between a woman and
+         a decayed body)... otherwise we can't imagine a widespread
+         release for any out of: Joel Schumacher's unknown-actors "Full
+         Metal Jacket" remake TIGERLAND (http://www.cndb.com : the head
+         of this nice-looking [Clifton Collins Jr's] penis is shown; we
+         see exactly how hot [Colin "Ballykissangel" Farrell's] butt
+         is)... critcally acclaimed dog-based sex-Mex farce AMORES
+         PERROS (http://www.cndb.com : There are two shots of [Vanessa
+         Bauche's] breasts during a sex scene. Both shots are quite
+         brief, but they're very clear and close up)... or indeed
+         Johnny Ball, Philippa Forrester and Sarah "Neighbours,
+         Hollyoaks, Fully Booked" Vandenbergh - together at last! - in
+         low-budget digi-video "The Young Ones" campus catastrophe
+         INBETWEENERS (imdb: not, from the looks of things, based on
+         the Sleeper song of nearly the same name)...
+
+         THE WORSE YOU DRESS, THE SMARTER THEY'LL THINK YOU ARE>> and
+         the exciting news is that leisurewear-starved US citizens can
+         now purchase official NTK merchandise from our intermittently
+         updated http://www.ntkmart.com/ e-commerce site, a process
+         which has been nominally beta-tested by Geekpride Bostonian
+         TIM MCEACHERN (or "Foot and Mouth Tim", as he now expects to
+         be known). Australians, New Zealanders and South Africans can
+         confidently expect to be next in our international expansion -
+         though isn't it winter over there or something? Wrap up warm,
+         for heaven's sake!... admittedly, we've fallen slightly behind
+         on our intended "new t-shirt every month" schedule - for a
+         start, we had to punish Cybercandy for that nasty accidental
+         spamming incident - but we aim to make up for that with the
+         first competition winner in our SUMMER COLLECTION 2001: the
+         face of "a well-known usability guru", wearing glasses and a
+         beret, with the word "Usability!" graffitied underneath
+         (really, it makes more sense when you see it), as submitted by
+         famed Yahoo Serious lookalike (without the afro) MATT JONES
+         http://news.bbc.co.uk/hi/english/uk/newsid_1334000/1334092.stm .
+         Matt has nobly offered to donate his UKP2 royalty from each
+         shirt to an organisation that promotes web accessibility and
+         usability, but we haven't heard back from them yet about
+         whether they're OK with their name appearing on the site, so
+         you'll have to trust us on that one. Incidentally, we've
+         already raised more than UKP400 for the Redundant Technology
+         Initiative through sales of the "Elite" and "ILoveYou.VBS"
+         designs, part of which they want to spend on printing some
+         shirts of their own, of which more later... completely missing
+         the point (but in a good way), CHRISTIAN PINDER wrote to say
+         "thanks for creating an Elite - The New Kind (Elite-TNK)
+         t-shirt", referring of course to his similarly acronymed C
+         port: http://home.clara.net/cjpinder/elite.html , while MARTIN
+         RODGERS wanted to know if we were "using sweatshops" to
+         produce any of our products, and did not seem reassured by our
+         initial response that they're all made by the respected US
+         brand Fruit Of The Loom, so "No worries there!". Though this
+         helped: http://www.umn.edu/humanrts/links/fruitoftheloom.html
+         ... finally, keep your entries coming, both for the "Buy One,
+         Subvert The Mass Media, Get One Free" competition (full round-
+         up coming soon), as well as the "Design Your Own Merchandise"
+         contest, and let us know if you particularly like any out of:
+         http://www.nepalesetemple.com/ntk/ript2.gif (by "PETE") - the
+         idea is sound, but could be more a bit more visual we reckon;
+         a whole bunch of sometimes sketchy concepts (VARIOUS ARTISTS)
+         for a Redundant Technology Initiative "Skip Raider" t-shirt
+         http://www.daveg.dial.pipex.com/images/skip.html ; or ANDY
+         MCFARLAND's pithy (and currently text-only) "I Spend All Day
+         Bitching About You On IRC Channels You Can't See". Truly, this
+         is consumer e-democracy in action...
+
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as 
+                     "concerned with the Internet itself"
+ http://groups.google.com/groups?ic=1&q=msgid:3AF17197.FD503DF0%40ee.ed.ac.uk
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+

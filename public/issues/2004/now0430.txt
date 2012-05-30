@@ -1,0 +1,253 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-04-30_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Film and computer superheroes, such as Keanu Reeves in the 
+         Matrix, may not help either. Girls may want to go out with 
+         Reeves but they don't necessarily want to fight interplanetary 
+         wars for a living. Another factor could be the increasing move 
+         towards hiring IT staff with computer science degrees..."
+              - lack of women in IT blamed on unwillingness to "fight 
+            interplanetary wars", choice of degree also a possibility?
+         http://www.guardian.co.uk/online/story/0,3605,1205146,00.html
+
+
+                               >> HARD NEWS <<
+                               bubbling fondues
+ 
+         Mr Blunkett's publicity campaign to gee Britons to get
+         inky-fingered, red-eyed and funky with their biometric
+         entitlement cards continued this week. "This is about true
+         identity," he said on Breakfast with Frost, in an apparent
+         attempt to win over the Vernor Vinge fans. "Being known,
+         being checkable, being used in order to ensure we know who's
+         in the country, what they're entitled to and whether they're
+         up to no good". And if that first mention of the cards'
+         unique "Santa Claus" capability to discern moral failings
+         in carriers isn't terrifying enough, you really should read
+         the government's new 160 page opus on how they'll be running
+         the show. It's not about the ID cards: it's about the huge
+         centralised biometric database the government is planning to
+         smuggle in on the back of it. Couldn't they just put the
+         biometrics on the card where we can see them, and then store
+         a comparison hash or some other translucent database
+         technique centrally? Of course not. Terrorists would win.
+         Feel free to add your own comments to the consultation,
+         which requires replies by July 20th. And we're *so* sure
+         they'll count all the responses correctly this time.
+         http://www.homeoffice.gov.uk/docs3/identitycardsconsult.pdf
+                - consultation. "Vindicated" by bomb plot, apparently:
+         http://news.bbc.co.uk/1/hi/uk_politics/3607141.stm
+              - vs http://www.spy.org.uk/spyblog/archives/000251.html
+http://www.libdems.org.uk/index.cfm/page.homepage/section.home/article.6599
+               - why not print them out + carry with you at all times?
+
+         Regarding February's revelations about eBay-advertised pyramid 
+         schemes: "Hi wonderful NTK people, Just read your article on 
+         matrix scams", writes a reader whose name we'll omit for the 
+         time being. "It's a Ponzi scheme. They're illegal. End of", he 
+         continues (in fact, pyramid selling and other "endless chains" 
+         don't seem to be illegal in the UK yet, though they are in 
+         California), before kind of spoiling the whole thing by asking 
+         "Why aren't lawmakers getting ebay to remove these ads? Decent 
+         people working in legitimate network marketing companies (for 
+         instance me) are getting tarred with the same brush as these 
+         bastards". "Legitimate network marketing companies"? We really 
+         don't want to know. 
+         http://qwer.org/ebayUKiPodsByPrice.html
+        - a lot less of them nowadays, due to possible eBay clampdown?
+       http://search.ebay.com/search/search.dll?query=positive+feedback
+        - also: guaranteed "positive feedback" from only 99c. Bargain.
+         http://www.newscientist.com/news/news.jsp?id=ns99994783
+          - in other recent story updates: Nanniebots - terminated...
+         http://www.fairplay-campaign.co.uk/fruit/news.htm
+             - ...fruit machines now slightly fairer than ever before?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         flu-like symptoms are "just flu", Chinese astronauts maintain: 
+         http://www.ntk.net/2004/04/30/dohsars.gif ... "I'm Halle 
+         Berry, and as the first black woman to win 'Best Actress', my 
+         PDA has to be": http://www.ntk.net/2004/04/30/dohberry.gif ... 
+         http://www.ntk.net/2004/04/30/dohrolf.gif - who's a clever pet 
+         then? *who's* a clever pet?... "perfect" cat clone still some 
+         way off: http://www.ntk.net/2004/04/30/dohlou.gif ... Widdy of 
+         the week - if only fade-in text (top right) said "News from 
+         the...": http://www.itvregions.com/index.php?region=Genital 
+         ... one way to pacify that "hairier and heavier foe": 
+         http://www.ntk.net/2004/04/30/dohfoe.gif ... not all that
+         Mr Sterling can get on one page from the looks of things: 
+         http://www.ntk.net/2004/04/30/dohbru.gif ... another satisfied 
+         customer: http://www.ntk.net/2004/04/30/dohc++.gif ... mmm, 
+         crunchy: http://www.ntk.net/2004/04/30/dohcoal.gif ... 
+         
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Slightly fewer "unofficial" May Day demonstrations this year, 
+         possibly to avoid one of those awkward "Which should I go to?" 
+         clashes with appearances by former Computer Shopper columnist/ 
+         Perl programmer turned sci-fi author CHARLIE STROSS (plus the 
+         now living in the UK CORY DOCTOROW) at "fannish" SF con PLOTKA 
+         3.0 (from 11am Sat-Mon 2004-05-01/03, Chequers Hotel, Newbury 
+         RG14, day membership from UKP10). Hopefully remaining outside 
+         the realms of science fiction, however, are plans to launch a 
+         a tethered "cloud" of helium balloons under the curious name 
+         of SKY EAR (7pm, Tue 2004-05-04, Maritime Museum, London SE10, 
+         free?) - balloons which you can contact via your mobile phone 
+         and which change colour according to the electromagnetic 
+         environment. In other words, all the ingredients (with the 
+         possible addition of an unexpected bolt of lightning) for the 
+         creation of humanity's first self-aware electromagnetic flying 
+         brain-swarm, which will then proceed to hunt down horrified 
+         onlookers like the sentinels in "The Prisoner" or something. 
+         http://www.schnews.org.uk/pap/guide.htm#may 
+                          - "genuinely just an anti-capitalist picnic"
+         http://www.plokta.com/plokta.con/programme.html
+             - plus Belly Dancing/ Dance Dance Revolution masterclass
+         http://www.haque.co.uk/skyear/information.html
+             - just hope those carbon fibre tethers are strong enough
+         http://www.corsair-records.com/
+              - free boot-friendly label launch in East London on Sat
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         DIRAC looks to be the BBC equivalent of a skunkworks
+         operation: hidden away, hardly documented - yet public
+         service and, in its own way, rather subversive. It's an
+         experimental video codec released by Beeb R&D onto a
+         sourceforge site under a GPL-compatible license. Now, what 
+         we know about video encoding could be compressed into
+         a negative size bytestream, so we can't speak for its
+         viability. Off the top of our heads, its mention of
+         arithmetic coding is worrying, given how patent-encumbered
+         that area is. But still, an open source streaming protocol
+         with an eye to production video, and even a hint of a chance
+         of being adopted by a large media organisation *cough*.
+         If could even give Ogg Theora a bit of a kick, and that's 
+         got to be a worthy way of spending your license fee.
+         http://www.bbc.co.uk/rd/projects/dirac
+                                  - well compared to "Pet TV", anyway
+         http://xparam.sf.net/
+          - you'll need this (it's getopt on OOP steroids) to compile
+         http://www.theora.org/
+                                         - due last year, coming soon!
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         usecrime in progress - British Sign Language for the 
+         *extremely dedicated*: http://www.learnbsl.org/index2.html ... 
+         US orchestras not playing at Proms this year - because BBC 
+         couldn't clear webcast rights?... one for the "tinfoil wallet" 
+         brigade: http://www.spy.org.uk/spyblog/archives/000198.html - 
+         more to the point, how many previous journeys can newsagents 
+         read off your Oystercard?... the ultimate goal of all true 
+         revolutionaries - dental insurance *everyone* can afford: 
+         http://www.hyperdictionary.com/dictionary/political+activism 
+         ... double URL-tendres of the month: http://bendertimes.com/ 
+         http://www.muffinfilms.com/ , http://www.munters.at/ , 
+         http://www.labia.co.za/ ... more seamless Beeb photoshoppery: 
+     http://www.bbc.co.uk/berkshire/features/2004/01/gervais_streetname.shtml
+         ... swap http://www.skip.org.uk/ hardware for the interface of  
+     http://www.localliberty.com/swap/TubeSearch.aspx?cityName=London&cityID=1
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         TV>> amount spent promoting healthy eating in the UK = less 
+         than individual food companies' annual advertising budgets, 
+         reveals the "Fat Pushers" edition of new current affairs slot 
+         30 MINUTES (6pm, Sat, C4)... C4 follows a repeat of its 100 
+         GREATEST SEXY MOMENTS (9pm, Sat, C4) with number 64 entry 
+         CRASH (1am, Sat, C4) - beating off Bollywood taboo-breaker 
+         "Jism" at number 92... and then appears to be cynically 
+         targeting its own viewers with I LIKE TO WATCH (11.05pm, Thu, 
+         C4), a hard-hitting documentary on all forms of voyeurism... 
+         Rome wasn't built in a day, but London can be cobbled together 
+         in a couple of hours, argues part-CGI reconstruction LONDON: 
+         THE GREATEST CITY (4.05pm, Mon, C4)... the D-Day landings were 
+         conveniently scheduled over the Bank Holiday weekend, imply 
+         anniversary showings of D-DAY: THE ULTIMATE CONFLICT (9pm, 
+         Mon, C5), DESTINATION D-DAY (8pm, Wed, BBC1) and Michael Bay's 
+         vacuous yet visually entertaining PEARL HARBOUR (8.30pm, Mon, 
+         BBC1)... or there's a double bill of talking canine companions 
+         in Chris Morris' MY WRONGS #8245-8249 & 117 (2.30am, Mon, C4) 
+         and Don Johnson's post-apocalyptic A BOY AND HIS DOG (2.45am, 
+         Mon, C4)... estate agents, banks - and self-righteous 
+         investigative reporters? - are among the main objections of 
+         BRASSED OFF BRITAIN (7pm, Tue & Thu, BBC1)... child hothousing 
+         horrorshow IN SEARCH OF GENIUS (9pm & 11.20pm, Wed, BBC2) is 
+         hosted by Tony Buzan - almost the UK's own Edward de Bono, and 
+         not in a good way... and among the means examined of obtaining 
+         REVENGE: GETTING EVEN WITH YOUR EX (10pm, Wed, C5) is what the 
+         Radio Times can only describe as "a repulsive pie"...
+         
+         FILM>> Michel Gondry extracts convincing performances from 
+         Winslet and Carrey, wheels out the best of his mind-boggling 
+         video effects http://www.director-file.com/gondry/D.html in 
+         heartfelt Charlie Kaufman romantic head trip ETERNAL SUNSHINE 
+         OF THE SPOTLESS MIND ( http://www.cndb.com/ : [Kirsten Dunst] 
+         dancing in a see through white shirt and in pink panties; 
+         [Mark Ruffalo] puts on his underwear but the shot is always 
+         cut to give us no more than the top part. Perhaps we'll get a 
+         better view in the widescreen version on DVD)... nothing else 
+         even comes close this week, though word is that Stephen King 
+         got the rights to "Kingdom Hospital" in some sort of "swap" 
+         for 12A-cert Johnny Depp short story adaptation SECRET WINDOW 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7565 : 
+         includes a morbid depiction of violence against an animal as 
+         well as mild action involving a mouse and a squirrel)... it's 
+         Orlando "Legolas" Bloom, Ronni "Big Impression" Ancona, and 
+         Billie "bloody" Piper - together at last! - in Brit fish-out-
+         of-water comedy THE CALCIUM KID ( imdb keywords: milkman/ 
+         boxer/ boxing/ champion/ england/ mockumentary)... while Drew 
+         "50 First Dates" Barrymore and Ben "Along Came Polly" Stiller 
+         are imaginatively teamed in fortunately-not-based-on-the-
+         Madness-song mad old nightmare neighbour contrivance OUR HOUSE 
+         ( http://www.ahafilm.info/movies/moviereviews.phtml?fid=7538 : 
+         a scene of mild action involving dogs and one with a mouse)... 
+
+     
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+               "using the exclusive NTK Science Scoring System"
+       http://www.peerview-institute.org/ntk/ntk.nsf/html/ntkscience.html
+        
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

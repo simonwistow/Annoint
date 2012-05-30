@@ -1,0 +1,374 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2000-12-08_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Sad people choose an online woman (cue stereotypes of air
+         hostess, barmaid and school teacher) and then exchange
+         flirtatious emails with what is really a computer program.
+         Alan Turing, where are you when we need you?"
+        - "Heroes and Zeroes" column, MACUSER, Friday 2000-12-08
+...actually, Turing kind of preferred the motorcycle cop, the American
+                               Indian, and the construction worker...
+
+
+                                >> HARD NEWS <<
+                                 up the wazoo
+
+         The Sexual Offences Amendment, introduced to bring the gay
+         age of consent in line with those notorious heterosexuals,
+         is now law, but the riveting Lords debate on the topic
+         continues at the very home of frank sexual argy-bargy -  THE
+         WEB! Welcome to www.ageofconsent.org.uk, our favourite
+         Baroness Thornton's own exercise in on-line democracy, where
+         you too can vote on the controversial topic of what is
+         scaring the peer's horses these days. There are, we should
+         say, something a bit skewiff here. The explanation of
+         exactly what you're voting for on the site is very
+         confusing, with strong encouragements to vote with the good
+         Baroness, whatever you originally thought. Also, they keep
+         on saying the word "buggery", to the point where we began to
+         forget what it meant. Finally, details of the individuals
+         behind the site are strangely vague, apart from the credit
+         to "the group who voted in favour of the House of Lords
+         amendment". Although it would be nice to imagine that it's
+         actually the Baroness who wrote the ColdFusion back-end
+         (oops-la!), this does make it tricky to discover who to
+         contact - should, say, you wish to query about the use of
+         the site's personal data under the Data Protection Act
+         (helpfully linked from their homepage in place of a proper
+         privacy statement). That's certainly pertinent, given that
+         in order to vote, you have to give your name, postcode - and
+         your sexual orientation. Those of us who are a mite
+         concerned about handing over a lucrative,
+         geographically-detailed, pink pound marketing database to
+         the Baroness shouldn't worry: One call to the Lords later,
+         and we find it was the oddly reticent INTERACTIVE BUREAU who
+         manage the site.  Unfortunately, as of "press send" time,
+         they hadn't given us the precise details of the fat "data
+         controller" contact required by law. So, in accordance with
+         the data registrar's own recommendations, do send your firm,
+         manly, request to have your most private recesses unhanded
+         this instant to IAB's chief exec: RODNEY TYLER, INTERACTIVE
+         BUREAU LONDON, HOLBORN GATE, 26 SOUTHAMPTON BUILDINGS,
+         LONDON WC2A 1PJ.  We'll update that address as soon as they
+         pull their finger out. Ahem.
+         http://www.ageofconsent.org.uk/
+                  - notice our restrained use of double-entendre here
+         http://wood.ccta.gov.uk/dpr/dpdoc.nsf
+                                      - form letter under Your Rights
+http://194.128.65.4/pa/ld199900/ldhansrd/pdvn/lds00/text/01113-06.htm
+                        - "the position is quite different for girls"
+
+         Surprises came thick and fast at this year's BIG BROTHER
+         AWARDS: the absence of Mark Thomas (on "a sting" somewhere);
+         Simon Davies and David Shayler taking the stage as "Men In
+         Black"; endearingly amateurish home movies of Privacy
+         International delivering awards to winners who couldn't make
+         the ceremony. But the biggest turn-up for the bookies came
+         when out-of-nowhere outsiders ENVISION TV LICENSING swept
+         ahead of established favourites - including 192.com/ InfoDisc
+         proprietors i-CD Publishing, automated face-recognition
+         pioneers Visionics and, of course, Amazon.co.uk - to take
+         "Most Invasive Company", thanks to their national database of
+         26 million addresses plus what Davies described as "constantly
+         hounding TV-free households to explain why they don't have a
+         TV". To which we'd add: and requiring retailers, by law, to
+         provide them with the names and addresses of anyone buying or
+         renting a TV, digital set-top box, VCR, PC tuner card or
+         "TV-enabled computer" in the UK, making the sale of Orwell's
+         "telescreens" more strictly regulated here than, say, rifles
+         and shotguns in the state of Florida. Now, we don't recall
+         ever explicitly handing over these details when buying a telly
+         (unless they get them direct from your credit card or bank),
+         but if you're purchasing some TV-enabled consumer goods this
+         Christmas, why not take along a large sum of cash and perhaps
+         a "new" address as well, and do let us know how you get on...
+         http://www.privacyinternational.org/bigbrother/uk2000/
+        - Jack Straw re-nominated "for the astonishing achievement of
+             being consistently more authoritarian than Michael Howard"
+         http://www.tv-l.co.uk/retailers/retailers.html
+             - TVs, rifles, shotguns: which "urban pacifier" is next?
+
+         Celebrity gossip time: WHICH spicy e-mail newsletter
+         attempts to avoid legal action by keeping its scandalous
+         gossip as "blind items"? BUT is these days getting shopped
+         by its own online FORUM, who insist on putting names to EVEN
+         THE WORST ACCUSATIONS regarding hitherto NAMELESS TV
+         PRESENTERS, to the point where they've had to (temporarily,
+         we hope) shut it down? But who, have nevertheless, pointed
+         their fans to forum on another site, which presumably will
+         have to shut itself down too, and so on infinitum? Hmm?
+         http://www.popbitch.com/
+                                              - no, you idiots, not us
+http://www.google.com/search?q=cache:www.popbitch.com/data/guestbook.html
+                                                     - damn missed it
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         http://www.cokeauctions.co.uk/ doesn't strip HTML from
+         usernames, letting you close </td>'s at will... "By 1988
+         online porn sites had established themselves as a major
+         presence on the World Wide Web" reveals Sex Industry survey in
+         TIME OUT (p17)... "In engineering terms, IndraNet is a fourth
+         generation wireless broadband multimedia tridimensional
+         fractal communication mesh network technology endowed with
+         advanced computing capabilities" - and in bullshit terms?
+http://www.indranet-technologies.com/technology/core-technology.asp ...
+         hey, ours works fine: http://df9.clanpages.com/bt-ad[1].gif
+         ... implying the two stories with headlines are completely
+         made up: http://www.gyford.com/images/macweekdoh.gif ... with
+         these salaries, they're going to be searching for some time:
+         http://194.205.126.134/cgi-bin/JobDetails.asp?JobID=445391 ...
+         someone's got have a crack for: http://www.crackzilla.com/ ...
+         view "ideavirus" propagation, live, before your very eyes!:
+         http://www.ideavirus.com/stats/webalizer/ ... after several
+         days of web server downtime, CIX redefine "user support":
+         http://x54.deja.com/getdoc.xp?AN=699574262 ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         OK, so we'll do a big KEVIN WARWICK WATCH update next week, as
+         the Professor appears to be commemorating the start of his
+         Royal Institution Christmas Children's Lectures (from 2000-12-
+         14, London) with a fresh burst of publicity for bizarre
+         cybersexual experiments involving his wife. (Remember: Watch
+         operatives are forbidden from interfering at this crucial
+         stage of human evolution, in accordance with our First Law: "A
+         operative may not injure Kevin Warwick, or, through inaction,
+         allow Kevin Warwick to come to harm"). Also currently taxing
+         NTK's busy "Operations" division is the imminent prospect of
+         our NEWTONMAS 2000 party, which now seems almost certain to
+         take place on the evening of Saturday 2000-12-23, and to be
+         some kind of tie-in with those groovy VXSLAB guys and LONDON
+         2600 (who helped choose the date, explaining "Almost none of
+         our lot are likely to be up to their elbows in family Xmas
+         preparations"). Exactly *where* it's going to be - well,
+         that's where you come in: if you know of, frequent, or own any
+         reasonably central London venue that could accommodate up to
+         several hundred geeks singing Cthulhu Christmas carols, do get
+         in touch. Same applies if you have any video projection kit
+         that you'd like to supervise at the event - or it'll be OHP
+         acetates at Webshack or The Foundry again, you Scrooges...
+         http://www.ri.ac.uk/Christmas/details2000.html
+            - soundtrack to TV version composed by... Daniel Pemberton
+         http://www.cnn.com/2000/TECH/computing/12/07/robot.man/
+         - also guesting on "Start The Week", 9am (&9.30pm), Mon, Radio 4
+         http://www.nmk.co.uk/events_diary/events.cfm?ItemID=2466
+                    - vs http://www.atheists.org/flash.line/dildo2.htm
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         AUDIOGALAXY SATELLITE isn't your standard Napster clone.
+         It's principal advantage is that almost all the UI is run
+         from their own Website; you pick out the tracks you want
+         queued for download, and the stubby little client merely
+         chats occasionally to find out what's to be downloaded,
+         where from, and who wants to upload. There are no
+         permanently open ports, the client automatically
+         auto-resumes downloads, and the CPU usage is miniscule. The
+         Windows version (yes, there's a 200K CLI Linux client) even
+         has bandwidth throttling. Meanwhile, that Audiogalaxy Web UI
+         is *lovely*: it automatically sorts songs by artist, and
+         does its best to eliminate broken files and consolidate good
+         versions. It keeps track of files that have appeared in the
+         past on the network, so you can select and queue them 
+         for when they reappear. And because the selection and
+         downloading process are separated, you can pick your tracks
+         away from home, and have them auto-download remotely to your
+         home machine. Heck, as an journalistic experiment, we even
+         managed to set up a public repository of songs using a
+         client running on a Webserver. It's exactly how Napster
+         should be done - and there's even a potential revenue model
+         for AG with banner ads and CD purchases. If wasn't for the
+         fact that it's slightly more centralised than the Nap
+         (making for some scaling issues), non-free (natch), and
+         fucking doomed to be smashed into pieces by those RIAA folk,
+         we'd say it's the future of MP3 distribution. As it is,
+         we'll say that it's the all-too-brief present, and wait for
+         the writs to fly.
+         http://www.audiogalaxy.com/satellite/
+                         -  very tempted to keep quiet about this one
+http://ultimate.infopop.com/~rageagainst/ubb/Forum19/HTML/000009.html
+                              - raging with the help of some machines
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         "I am sorry, but as of November 2000, I will no longer respond
+         to questions about the U.P.C and the New Testamant" - due
+         presumably to the forthcoming BARCODE ARMAGEDDON -
+         http://members.aol.com/productupc/666quest.html ... REBOOT:
+         THE MUSICAL? ... http://www.wherearethetoonsnow.com/ ... who's
+         your fave HAYEK? http://www.csun.edu/~dgw61315/dgwhayek.html
+         ... tetanizing beam weapons ... http://www.nic.mu versus
+         http://www.hot.mu ... help spammers: change your name to
+         <subst string=first_name> ... they can't *all* be bots, surely?
+         http://www.attrition.org/hosted/sexchart/current.txt ...
+         http://www.quintessentially.com/guest/ - oh, fuck *off* ...
+  http://www.salon.com/tech/feature/2000/11/21/virtual_suicide/index3.html
+         - pulled out a gun from where? ... traumatised by CALL ME KENNETH:
+         http://dailynews.yahoo.com/h/zd/20001120/tc/death_by_robot_1.html
+         ... nope, i we think *this* has to be THE WEAKEST LINK:
+         http://www.diffusionuk.freeserve.co.uk/weakest.htm ... re-record,
+        not fade away: http://www.studio2.freeserve.co.uk/tapes/tapes.htm ...
+     BBC ims TVGH: http://www.bbc.co.uk/choice/microtv/fifteen/15films3.shtml
+
+
+                                >> GEEK MEDIA <<
+                                 get out less
+
+         TV>> the Liberal Democrats present their reactions to THE
+         QUEEN'S SPEECH (10.35pm, Fri, BBC1) - not to be confused with
+         FREDDIE MERCURY: THE UNTOLD STORY immediately after (10.40pm)
+         - that's "Untold to anyone who hasn't watched any TV for the
+         last 9 years", presumably... itself followed by unpretentious
+         giant-worm movie followup TREMORS 2: AFTERSHOCKS (11.40pm,
+         Fri, BBC1)... Saturday sees a long-overdue tribute to a much-
+         loved entertainer whose image is constantly being reinvented
+         to consistently challenge the status quo. But enough about
+         DAVID FROST NIGHT (from 8.10pm, BBC2; likely highlight WHEN
+         FROST MET MUHAMMAD ALI, 11.35pm) - C4 are also celebrating
+         ailing pop has-been MADONNA (from 9pm, supposed "highlight"
+         DESPERATELY SEEKING SUSAN, 11.20pm)... we suspect that COMIC
+         TALES WITH ALAN MOORE (2.55am, Sat, C4) may be an extended
+         profile from 4later's upcoming history of Brit sci-fi - rather
+         than our dream "bearded Alan" line-up of getting him and Alan
+         Cox to interview each other... we still maintain that "Life Of
+         Brian" is the only watchable Python film, as opposed to
+         Spectrum-game adaptation MONTY PYTHON AND THE HOLY GRAIL
+         http://www.theonion.com/onion3636/holy_grail_quotes.html ,
+         http://www.geocities.co.jp/Hollywood/9060/holye.html (9pm,
+         Sun, BBC2)... and the Sunday night movie ratings battle
+         continues with Ang Lee's Oscar-winning kung-fu-free SENSE AND
+         SENSIBILITY (9pm, Sun, C4) up against Molly Ringwald/ Michael
+         Ironside '80s trash SPACEHUNTER: ADVENTURES IN THE FORBIDDEN
+         ZONE (9pm, Sun, C5) - launching a perfect run of terrible C5
+         films which include ROBIN HOOD: MEN IN TIGHTS (9pm, Mon);
+         Kevin Spacey disability comedy SEE NO EVIL, HEAR NO EVIL (9pm,
+         Tue - "and try not to set yourself on fire, Mr Pryor"); plus
+         Phil Collins' train robber romance BUSTER (9pm, Wed), which
+         "competes" with Spielberg's appalling THE LOST WORLD: JURASSIC
+         PARK (8pm, Wed, ITV)... the big beneficiary of the dot.com
+         bust, as covered in CUTTING EDGE (9pm, Tue, C4) seems to be
+         Daniel Pemberton, who does the soundtrack music for all of
+         them... C4's Graham Hancock gets some sort of comeback among
+         the widespread debunking of his preposterous "lost mysteries
+         of the ancients" theories in HORIZON: ATLANTIS REBORN AGAIN
+         (9pm, Thu, BBC2) http://www.grahamhancock.com/intro.php ...
+         not quite as plausible as alien global-warming sub-They-Live-
+         alike sci-fi THE ARRIVAL (12.10am, Thu, BBC1), which shares
+         the intriguing premise, general menace, and shoddy special
+         effects of director David Twohy's subsequent "Pitch Black"...
+
+         FILM>> "Charlie's Angels" still the best thing out there,
+         unless you're at all tempted by yet another superformulaic
+         Wesley Snipes actioner in the form of THE ART OF WAR (imdb
+         trivia: [co-star] Michael Biehn reads a copy of Sun Tzu's "Art
+         of War" in the film "K2"; Wesley Snipes' character was reading
+         "The Art of War" on the plane in "Passenger 57")... otherwise
+         it's a kids' version of the behavioural modification therapy
+         of "A Clockwork Orange" in uninspired sequel 102 DALMATIANS
+         (http://www.capalert.com/capreports/102dalmatians.htm : use of
+         "6660"; reckless vehicular endangerment; human sent into
+         baking oven; serving as cause for adding the reminder of our
+         God-ordained superiority over animals in Gen. 1:26, one of the
+         characters says "Dogs are people, too")... or Liza "Teenage
+         Health Freak" Walker, Stuart "Shooting Fish" Townsend, and
+         Keith "sodding" Allen - together at last! - in Hanif
+         Kureishi's mid-life fantasy THE ESCORT (imdb: also known as
+         "Mauvaise Passe", "The Wrong Blonde")... while John Waters
+         takes "guerrilla film-making" to its natural conclusion in
+         amateurishly scattershot Hollywood satire CECIL B DEMENTED
+         (http://www.screenit.com/movies/2000/cecil_b_demented.html :
+         the theater manager is looking through a porno magazine with
+         the title, "Hershey Highway" and then gets [Alicia "Dune,
+         Cybill" Witt] to sign a box of "Sticky Bunz" - a sex toy
+         presumably molded after her rear end [...] Back in the porno
+         movie, she suggestively asks, "Why is it that men only want my
+         ass?" She then kisses a gerbil that she's holding, but it gets
+         away and it's implied that it then crawls up her butt [...]
+         Meanwhile, there's more masturbatory behavior from the viewers
+         in the audience)...
+
+         TRANSATLANTIC T-SHIRT TERROR>> OK, just one more week of this
+         ceaseless corporate merchandising, then we'll shut up about it
+         (for a start, if you haven't ordered your NTK T-shirts from
+         http://www.ntkmart.com by midnight Monday 2000-12-11, then you
+         might not get them before Christmas, assuming that was what
+         you had in mind in the first place). Anyway, we've had
+         reassuringly few complaints so far, all of which have been
+         from either Americans or women. A "surprised and disgruntled"
+         BRUCE STERLING led the US delegation, moaning that the "USA
+         isn't even afforded on the pull-down menu!", while another
+         citizen confessed to concerns about ordering via a proxy in
+         the UK, that proxy being his "mother's septugenarian penpal
+         from before the war". Sorry guys, this wasn't meant as a slur
+         on your fine young nation; we genuinely thought you might have
+         had enough of consumer items on that extensive landmass of
+         yours. We did look into some lame cafepress.com alternative,
+         but their print area is only 8" by 10", and our logos are all
+         about 11" square. But we will let you know if we secure some
+         sort US distributor and, if you are female, see if any of
+         http://www.linkz.freeserve.co.uk/Babeshirts.htm look like your
+         kind of size. Take as long as you like - we'll be in Dixons...
+         thanks also for the exceptional entries which readers have
+         continued to mail us, often in clear violation of one or more
+         of our most basic rules. As a reminder: 1. Be careful with
+         images that are copyrighted or of unknown provenance - eg:
+         http://www.gyford.com/images/ntk_shirt.jpg , to avoid nasty
+         http://www.mememachine.net/ -style litigation. However,
+         clearing your parody with the copyright-holders first, as at
+         http://bofhcam.org/images/NTK.tif shows admirable initiative
+         (though does anyone have any ideas for funny animals that we
+         could use instead of the crowbar?)... and 2. Try and put the
+         images on your own site, then send us the URLs, instead of
+         just mailing us gigantic BMP files, which, if we didn't know
+         someone who had a Windows machine, we wouldn't be able to
+         read. Though some of the "4K and under" ones have been so good
+         http://www.ntk.net/2000/12/08/small.html - that we'll let them
+         off (just this once)... and finally, after NTK 2000-09-01's
+         iconoclastic http://www.cafepress.com/moose2000/ , TIM AIDLEY
+         corrected his friend's oversight with the more (or less?)
+         Stallman-friendly http://www.cafepress.com/fuckgnulinux/ . NTK
+         fervently hopes that opportunities for sending us further
+         variations on this particular theme are now closed...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                    "like Christmas (1997) all over again"
+               http://ccmail.freemans.com/samples/isapi/drop.htm
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+   NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2000 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

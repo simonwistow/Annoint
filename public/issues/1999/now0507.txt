@@ -1,0 +1,339 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __1999-05-07_ o join! mail 'subscribe ntknow'
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o  to majordomo@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+        
+
+        "Smart-gun technology uses either magnetic coding,
+         fingerprints, or radio signals to allow only the registered
+         owner of the gun to shoot."
+                                         - POLLY SPRENGER, Wired News
+...but only the Chief Judge knows about the DNA imprint on the bullets!
+         [ http://www.wired.com/news/news/politics/story/19421.html ]
+
+
+                                >> HARD NEWS <<
+                                 worn with use
+     
+         So now we're being stampeded by ISP gift horses, all hiding
+         their mouths behind dainty little hankies. Just a week after
+         Tempo's revenue-defying free calls service, AOL
+         "accidentally" leaks news that they, too, are trialling a
+         flat-rate 0800 Internet service. An incredible money vacuum
+         if implemented - but who needs to do that when just the
+         rumour is keeping AOLers from bucking off to the freebie
+         ISPs? Sneaky? Even AOL can't compete on those stakes with
+         Freecall UK, who've been spamming their 0800 net access
+         offer across the uk.* newsgroups. A special, high-cost kind
+         of "free", this: in order to access the service, you have
+         to register four friends. Who, naturally, have to register
+         four of their friends who... Yes, it's nothing more than a
+         pyramid scheme for sucking up e-mail addresses. Well, at
+         least they've got a business plan.
+         http://www.freecall-uk.com/
+                         - although they nicked it off sixdegrees.com
+         http://www.zdnet.co.uk/news/1999/17/ns-8008.html
+                               - they'll limit the hours. Won't they? 
+         http://www.vfree.com/
+                               - no such thing as a free school lunch
+
+         Meanwhile, as the BT ADSL trial grinds on (latest excuse:
+         "we haven't got enough people"), those little guinea-pigs
+         are beginning to squeal. These days BT are spending so much
+         time tweaking their firewall to prevent home owners setting
+         up their own Web sites, they've seemingly forgotten a
+         firewall's original purpose: to protect its users. So as
+         their experimental subjects are raked by port scans and
+         exploits from the .edu e1eet cr3wz, so BT's competitors
+         quietly announce *their* full commercial rollout. As of
+         this week, you should be able to pick up a 512KB cable modem
+         ISP connection in Guildford for around 50UKP a month,
+         courtesy of cableco NTL. The company plans similar deals in
+         the rest of its franchise areas. Sure, we know they're just
+         charging people to trial their hardware (an extra 130UKP -
+         no Sky deals here) - but at least they're not actively trying
+         to shoot themselves in the foot.
+         http://www.ntl.com/cablemodems/qanda.htm
+         - Northern Ireland to get flat rates before London. Chortle!
+         http://www.singnet.com.sg/news/pscanning.html
+                  - hey, maybe it's the Home Office doing the hacking
+
+         UNCLE CLIVE says he wants to create a portable Linux machine
+         to take on the Microsoft hegemony, and who are we to stand 
+         in his way? But don't get too excited too soon. Firstly,
+         despite all the excitement, Mr Sinclair (aged 58) is still
+         keeping an eye on his other, equally viable developments: a
+         new kind of folding bicycle and an idea for a personal
+         flying machine. Also, as Clive did not know that Linux
+         existed until a few weeks ago, he does have some catching up
+         to do. But mainly, we'll wait because the man who told him
+         about Linux was reputedly Chris Bidmead, veteran tech journo
+         and - more importantly, author of Logopolis, the Dr
+         Who episode that killed off Tom Baker. And if he can do that
+         for one geek hero...
+         http://www.zdnet.co.uk/news/kw/diaries/11121998c.html
+            - "This is the end, but the moment has been prepared for"
+         http://www.ntk.net/linuzx/
+                         - our artist's impression of the new machine
+         http://www.wired.com/news/news/technology/story/19502.html
+                                         - Microdrive finally working
+
+
+                                >> ANTI-NEWS << 
+                             berating the obvious
+
+         US "TACO BELL locations will be transformed into Tatooine,
+         PIZZA HUT will be turned into Coruscant, and each KFC will
+         turn into Naboo"... TV ad for ROVER 400 claims car is
+         "catecholamine" agonist - what, like amphetamines and
+         cocaine?... SHAMIR beats own 512 bit crypto... AUSTRALIAN
+         phone-in sick day calls in a month late...  "OVERWEIGHT
+         children can shed pounds by watching less television"
+         reports study... SKY giving away "free digibox" - which
+         secretly "phones home" at night... FUTURE PUBLISHING buys 
+         bit of itself back from own founder - hope someone got a 
+         good deal... "PALMPILOT damages handwriting" myth spread 
+         by orange-containing-THC hoaxsters, SOUTH TO THE FUTURE:
+         http://www.sfbg.com/wire/ ... guardians of the future,
+         REGISTER.COM offering $299 per "medical" .md domain...
+         www8.org Website - done in PAGEMILL... tip to JONATHAN 
+         ROSS: plugging the Mac in helps... who *are* these people?
+      http://www.marketingcomputers.com/issue/june98/mediarep/q2904.asp
+         ... WIPO defends the helpless victims of cybersquatting:
+         global multinationals... FALCO! http://www.britstuff.com ...
+         EXPLOSION ravages heart of Soho, net obviously to blame:
+      http://news.bbc.co.uk/hi/english/uk/newsid_330000/330357.stm ...
+
+                               
+                               >> EVENT QUEUE << 
+                         goto's considered non-harmful
+
+         From the looks of things, it's a *different* Peter Molyneux
+         who wrote to the Telegraph Connected section this week
+         bemoaning videogames' implicit message that "you will solve
+         any problem and obtain quick justice with a bullet" - fans of
+         Populous, Magic Carpet, and Dungeon Keeper will know that real
+         long-term solutions lie in accumulating "mana" and ruling your
+         village like a ruthless god. The "real" ex-Bullfrog MD
+         meanwhile continues his non-stop world tour of any remotely
+         game-related event at next week's E3 EXPO (from Thu 1999-05-
+         13, Los Angeles Convention Center), thrilling to such ground-
+         breaking treats as Star Wars Epsisode 1 games, Grand Turismo
+         2, a Dreamcast with a built-in modem, plus the narcoleptic
+         unveiling of not just Tomb Raider 4, but also the latest 
+         dead-eyed non-entity to play the role of Lara Croft at public
+         functions.
+         http://www.e3expo.com/
+             - Tomb Raider/Witchblade reprints now UKP1.99. Phwoar, eh?
+         
+         And if you can't afford the UKP300 entry fee for NetProject's
+         Nuremberg-style rally LINUX: THE WAY FORWARD (Tue 1999-05-11),
+         why not do what we do, and simply hide under the seats at the
+         end of each previous Linux gig at the Commonwealth Institute,
+         to emerge, blinking in the daylight, at the start of the next
+         one - usually not more than two or three weeks later? Luring
+         us out from our new-found troglodyte civilisation this time
+         are Mexican GNOME hacker Miguel de Icanza, the UK's Alan Cox
+         lecturing on e-commerce (what the!?! d'y'think he'll wear a
+         suit?), plus one of the few forms of popular entertainment
+         that can truly be said to be Open Source: a - hopefully
+         improvisational - jazz band.
+         http://www.netproject.com/Linux_Conf_Agenda_May99.html
+                 - "MS", Riversoft: "The Jazz band was pretty good too"
+                 
+
+                                >> TRACKING <<
+                  making good use of the things that we find 
+
+         You see, he *has* been busy. Jwz's definitive eye-candy,
+         XSCREENSAVER just hit its own little milestone: at last it
+         can do a mock green-screen terminal with phosphor-fade and
+         clunky fonts. Your choice of text, naturally. Plee-us: a
+         rendition of the latest HollywoodOS, using the effects
+         implemented by whoever's *really* Keanu Reeves' sysadmin in
+         The Matrix.
+         http://www.jwz.org/xscreensaver/
+               - good to see him getting back to the important stuff
+
+
+                                >> MEMEPOOL << 
+                              hasta la altavista
+
+         court throws out CRYPTO EXPORT LAW: deep cracks appear at
+         http://www.shmoo.com/~pablos/Cracking_DES/ ... MEP
+         CHRISTINE "Oddy Report" ODDY mysteriously resigns...
+         http://www.alltheweb.com/ run by http://www.fast.no/ , which
+         doesn't bode well for their scalability... hacking the
+         OpenGL driver to play QUAKE3 in wireframe... this "ripped,
+         hung and gay-curious" STEVE AUSTIN site *seems* unofficial:
+         http://www.majorrepairjob.com ... rips off NATIONAL LAMPOON
+         too: http://www.theweekly.co.uk ... DAVID BRAKE recommends
+         http://www.denizine.com/features/wank/intro.htm ... *compelled* 
+         to do a tribute site (complete with link to parent company):
+         http://www.jilldando.co.uk/ ... ABANDONWARE... POEMS from 
+         the revolution: http://artcontext.com/activism/linux.html
+         ... COMPUTATIONAL MATTER... this ain't going to help the IPO:
+         http://ph1sh.fsn.net/antionline-mini-howto.txt ... PIXAR to 
+         do TRON sequel?... whatever happened to OGGSQUISH?... 
+
+
+                               >> GEEK MEDIA << 
+                                 get out less
+                   
+         TV>> Richard Nixon, Nicolai Ceaucescu, and now Noel Edmonds
+         joins the ranks of evil power-mongers who've used advanced
+         surveillance to monitor their subjects in THE WORLD OF THE
+         HIDDEN CAMERA (8.30pm, Fri, BBC1)... SOUTH PARK series 2
+         (9.30pm, Fri, C4) returns with "Cartman's Mom Is *Still* A
+         Dirty Slut"... and the instant-gratification society of
+         Logan's Run gets a little closer now you can phone in and
+         bid to go out with the individuals parading themselves on
+         DIAL A DATE (12.30am, Fri, most ITV as far as we can see)...
+         the US version of WHOSE LINE IS IT ANYWAY? (10.03pm, Sat,
+         C4) is apparently the same show but with more Americans in
+         it - like you'd notice... here's hoping the first,
+         ever-pertinent ROBOCOP (10pm, Sat, ITV) isn't also the last
+         big-budget hard s/f film ever made... and "speed is just a
+         question of money - how fast do you want to go?" inquires
+         first-and-best aimless Scalextric smash-up MAD MAX (11.55pm,
+         Sat, ITV)... the "evil supernatural force" battling Greg
+         Evigan in ESCAPE TO NOWHERE (9pm, Sun, C5) turns out not to
+         be gravity after all... Mad Max director George Miller edges
+         closer to the Babe franchise in the form of THE NEVERENDING
+         STORY II: THE NEXT CHAPTER (5.55pm, Sun, C5)... or maybe he
+         could do a more action-packed sequel to Cronenberg's new
+         one, and call it Existenz II: Beyond VIDEODROME (10.30pm,
+         Sun, BBC2)... EQUINOX (9pm, Mon, C4) investigates sensitives
+         who can detect earthquakes many miles away - and not by
+         tuning to CNN... one assumes that the hopefuls in Cannes
+         indie-doc WAITING FOR HARVEY (9.30pm, Tue, BBC2) are
+         anticipating Miramax exec Harvey Weinstein, not the giant
+         invisible rabbit of the same name... and the MAKING OUT
+         (11.30pm, Tue, C4) aspired to by 7 Nottingham 20somethings
+         is "making their mark on the world", rather than - say -
+         copping off with each other... Louis Theroux returns for
+         another run of WEIRD WEEKENDS (9.30pm, Wed, BBC2)... someone
+         please stop giving Matt "George Dawes" Lucas cack-handed
+         comedy commissions like SIR BERNARD'S STATELY HOMES
+         (10.20pm, Wed, BBC2)... and after this week's "Last Rites",
+         Wednesday is clearly Tom Berenger night on C5, with the
+         B-list beefcake stumbling through the endless spotlights and
+         dry ice brought in by Ridley Scott to justify Mimi Rogers
+         hiring SOMEONE TO WATCH OVER ME (9pm, Wed, C5)...
+
+         FILM>> this year, Danny "Young Americans / Judge Dredd"
+         Cannon is mainly watching his career go down the pan, in the
+         form of uninspired Jennifer Love Hewitt slasher yawn I STILL
+         KNOW WHAT YOU DID LAST SUMMER (imdb: island / hook / storm /
+         sequel / teen / karaoke). Of course, the "What You Did"
+         refers to the same thing as the first film, but this takes
+         place a year later, so they should really have stuck with
+         the more technically correct "I Know What You Did Two
+         Summers Ago"... together at last: Ben Affleck, bonkers
+         Sandra Bullock, and the director of "Harriet The Spy",
+         making FORCES OF NATURE (MPAA: Rated PG-13 for sensuality,
+         language and a scene of drug use) not a major improvement on
+         those other extreme-metreology / romantic comedy road-movies
+         like Twister or Trains, Planes And Automobiles (that's
+         assuming the film doesn't get pulled 'cos of those people
+         getting killed in that hurricane)... disappointingly, Alexei
+         Sayle / Lisa Stansfield sax 'n' violence saga SWING (imdb:
+         comedy) doesn't seem to be a sequel to 1993's notoriously
+         poor "Swing Kids" about jazz dancers vs the Nazis... the
+         current imdb "comment of choice" describes Peter Mullan's
+         Glaswegian bereavement-farce ORPHANS as "Another Scottish
+         wee-drama" - unintentionally giving the impression it's a
+         drama about "wee"...so, on video: continuing the
+         straight-to-tape tradition of Robot Jox, Salute Of The
+         Jugger - and the still quite good Rollerball and Death Race
+         2000 - comes generically named-after-2000AD-voting-category
+         FUTURE SPORT (imdb: made for TV) - featuring usual
+         high-quality hallmarks Vanessa Williams, Wesley Snipes, Dean
+         "New Adventures Of Superman" Cain... and finally, not a wide
+         cinema release for untimely Yugoslav gypsy slapstick BLACK
+         CAT, WHITE CAT, but how could we resist imdb keywords like:
+         nouveaux-riches / train-robbery / train / pig /
+         arranged-marriage / river / drugs / cocaine / wedding /
+         love-at-first-sight / corruption / grotesque / shit-house /
+         sun-flower / body / money / geese / danube / cat / gypsy?...
+         
+         HARD LIT [ "buy now" links at http://www.ntk.net/books/ ]>>
+         just to flaunt our revenue-busting editorial integrity, this
+         month: books we've previously recommended now available at
+         knock-down remainder prices (specifically at London's
+         "BookHouse" - branches in Charing Cross, Islington,
+         Greenwich)... I AM SPOCK (RRP 5.99, Amazon 4.79, Now 3.99) is
+         of course Leonard Nimoy's dialectical rebuke to his earlier,
+         better-known "I Am Not Spock". Comprehensive on Nimoy's post-
+         ST:TOS career, contains many alarming internal monologues
+         between him and the fictional character he played, fatal flaw:
+         constant repetition of the word "Spock" every other sentence
+         like some sacred Vulcan mantra... movie ubercritic Joe Queenan
+         plunges deep into pop culture's deepest cesspools in AMERICA
+         (RRP 6.99, Amazon 5.59, Now 1.99) - relentless one-note
+         misanthropy for anyone who loved The Unkindest Cut or If
+         You're Talking To Me Your Career Must Be In Trouble... and,
+         according to NTK 1997-07-25, "we didn't hate digital
+         travelogue HARD SOFT & WET (RRP 7.99, Amazon 6.39, Now 3.99)
+         anywhere near as much as we wanted to". Mildly overwritten
+         tell-all tales of the young Daniel Pemberton from occasional
+         Independent Network contributor Melanie McGrath - not as
+         terrible as journo Indra Sinha's surf-the-net, leave-your-wife
+         chronicle, THE CYBERGYPSIES (RRP 9.99, Amazon 7.99, not
+         remaindered yet - give it a while)... back with full price,
+         Freeman Dyson's THE SUN, THE GENOME AND THE INTERNET (RRP
+         15.99, Amazon 12.24) has the Old Man showing George and Esther
+         how futurism's done: Fluff adroitly switches gear from the old
+         space evangelism, and sticks the boot into biotech: quit
+         whining about grants, he chides, and get hacking DNA
+         sequencers out of cheap household appliances... and finally,
+         you gotta love the fair-use-emphasising title of THE SCIENCE
+         OF STAR WARS: AN ASTROPHYSICIST'S INDEPENDENT EXAMINATION OF
+         SPACE TRAVEL, ALIENS, PLANETS AND ROBOTS AS PORTRAYED IN THE
+         STAR WARS FILMS (RRP $22, Amazon 12.24), but you could
+         probably cobble the content together yourself from fan
+         sites... which can't be said of the envelope-pushing new
+         edition of THE STAR TREK COOKBOOK (RRP 12.99, Amazon 10.39) -
+         mouth-watering Federation, Klingon (and Borg?) recipes from
+         TOS, TNG, DS9...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                    It is registered at the Post Office as 
+               "Britain's primary source of anagram poetry about
+                       queueing for 'The Phantom Menace':
+
+                             Cheap Anthem To Men
+                             -------------------
+                             Month men ate cheap.
+                             Epoch at the Mann? Me?
+                             Ah, netcam. Open them
+                             Then encamp at home!
+                             Chant the name! Poem!
+                             The canon. The map. Me.
+                             Match teen hope, man! "
+                             
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+                      Excuses - http://www.spesh.com/ntk/
+     Unsubscribe? Mail majordomo@lists.ntk.net with 'unsubscribe ntknow'.
+       Subscribe? Mail majordomo@lists.ntk.net with 'subscribe ntknow'.
+    NTK now is supported by UNFORTU.NET, and by you: http://www.ntk.net/books/
+
+                          (K) 1999 Special Projects. 
+             Copying is fine, but include URL: http://www.ntk.net/
+
+            Tips, news and gossip to tips@spesh.com - remember your
+          work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

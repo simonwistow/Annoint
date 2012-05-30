@@ -1,0 +1,274 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-05-03_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "It wasn't even dignified layoffs -- it just fell apart. 
+                            We squandered a lot of the energy..."
+         http://www.wired.com/news/culture/0,1284,52239,00.htm
+                  ...and the money! You squandered a lot of THE MONEY!
+
+
+                                 >> HARD NEWS <<
+                                 what's to lose?
+
+         Thanks to everyone who chipped in or turned out for Monday's
+         meeting on the EUROPEAN UNION COPYRIGHT DIRECTIVE, which we
+         will continue call a "poorly localised version of the ever-
+         popular US Digital Millennium Copyright Act" until it becomes
+         actively illegal for us to do so. ALAN COX and self-effacing
+         support act Martin Keegan spoke to a packed auditorium,
+         everyone agreed that the EUCD was bad (including for some new
+         reasons which most of us hadn't even dreamed of), and no-one
+         attempted to hijack the discussion by bringing up software
+         patenting. Unfortunately, the only question they didn't have
+         time to answer (something to do with the organisers requiring
+         urgent access to the refreshments) was: is there anything any
+         of us can do about it? Well, as usual, you can write to - or
+         fax - your MP; Slashdot, as is their wont, has proposed
+         joining your local equivalent of the EFF, where available. In
+         the UK, the closest thing may well be the Campaign for Digital
+         Rights' "Free-sklyarov" mailing list where, you'll be pleased
+         to hear, the discussion often moves on from trolls about 
+         whether the music industry are "asking for it" to more practical 
+         matters, like maybe organising some more events or something...
+http://mailman.xenoclast.org/cgi-bin/mailman/listinfo/free-sklyarov-uk/
+                         - see also http://colon.colondot.net/~mbm/cdr/ ,
+                                        http://www.odl.qmul.ac.uk/eucd/
+         http://slashdot.org/article.pl?sid=02/04/30/1922231&mode=thread
+         - of course, the EFF (and Linux) is their answer to everything
+         http://www.faxyourmp.com/
+                                                     - and this, ours
+
+         To Amsterdam, and RIPE 42, where ICANN's Stuart Lynn is
+         explaining, in Powerpoint slides of one syllable, why ICANN
+         has failed, and why he should therefore (as CEO of said
+         failed organisation) have more power. At one point, in one
+         of those room misreadings that can change history, he
+         jokingly offered to let recent ICANN critic and kernel
+         hacker Randy Bush handle all the ICANN heavy
+         responsibilities for free, if he felt he was up to it.
+         Several rounds of unexpected applause later, and you could
+         see people seriously considering: "Sure, Randy's a bit of a
+         ranter: but he's cheap, and, hell, anything's better than
+         this. So, Randy - what about it? A triumvirate of you, Karl
+         Auerbach and Michael Froomkin? And after that, the fight to 
+         become Caesar!"
+         http://www.icannwatch.org/article.php?sid=566
+                                            - the fight in a nutshell
+         http://www.psg.com/~randy/
+                         - finally, Fidonet's revenge on the Internet
+         http://www.ripe.net/ripe/meetings/archive/ripe-42/presentations/
+                          - not exactly choc-a-block with hard detail
+
+         Couple of late sonar echoes from last week's fast-sinking
+         topics. JOEY HESS, gentleman farmer, crackmonkey, and
+         Debianista, reports that The Man Who'd Rather Not Be Named
+         On Exim-Users did indeed try to get his name excised from
+         the Debian mailing lists last year. Oh, how they laughed.
+         And just when you thought that everyone on uk.telecom was
+         dead, dozens wrote to a) say that you could always remove
+         the last number dialled by calling Ringback on 17070, b)
+         reveal that this, it appears, is exactly what the new 1475
+         feature does - a rare case of BT using a neat hack to solve
+         an overcomplex problem, and c) ask how exactly does the
+         Information Commissioner plan to remove old numbers on
+         external caller display boxes - "Start clandestine issuing
+         warrants for people to sneak into my flat and take the
+         batteries out"?  Silence, commissioned! The Information
+         Commissioner KNOWS ALL!
+         http://www.ntk.net/2002/04/26/#HARD_NEWS
+             - new readers start here; give up shortly thereafter
+         http://www.crackmonkey.org/pipermail/crackmonkey/2002q2/030035.html
+                                    - quick tour of the dark side
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         MICROSOFT to take action against partner organisations for 
+         supplying "legal software", in revealing Freudian slip: 
+         http://www.ntk.net/2002/05/03/dohleg.gif ... READERS DIGEST 
+         fantasises US government resembles "Fellowship of the Ring": 
+         http://www.ntk.net/2002/05/03/dohelf.gif ... good CEO for 
+         scaring up money: http://www.q9.com/aboutq9/management.html 
+         ... this week's "spot the clue" poorly-thought-out online 
+         quiz: http://www.wisc.edu/agjourn/dcfm/farmmarket/quizV.htm 
+         ... "new kind of pirate" stalks net, armed with joss sticks: 
+     http://news.bbc.co.uk/hi/english/sci/tech/newsid_1951000/1951231.stm
+         ... taking toe-counting, peek-a-boo a bit far (see synopsis): 
+         http://www.amazon.co.uk/exec/obidos/ASIN/B00005YXR8/ ... this 
+         week's lazy web designers (311,000 at time of going to press): 
+         http://www.google.com/search?q=%22Welcome+to+Adobe+GoLive+%22 
+         ... strident anti-censorship campaigners at BBC News Online 
+http://news.bbc.co.uk/hi/english/entertainment/newsid_1191000/1191129.stm
+         currently linking to [CAUTION]: http://www.baisemoilesite.com/ 
+         ... only THE SUN's Smarties have the (remarkably wrong) 
+         answer: http://www.ntk.net/2002/05/03/dohsmart.gif ... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         You're at a strange, isolated hotel, surrounded by unearthly
+         characters who eat too many fruit pies and keep muttering
+         incomprehensible incantations about "logs". You're either at
+         hacker get-together BRUMCON (12noon, tomorrow Sat 2002-05-04,
+         Britannia Hotel, Birmingham, suggested donation UKP3-5), or
+         Twin Peaks fan-fest DAMN FINE CONVENTION (from 6pm today, Fri
+         2002-05-03, the Shepperton Moat House Hotel, Surrey, UKP30).
+         Fortunately, it's trivial to tell them apart in every other
+         respect: organised by the folks behind "Aliens Stole My
+         Handbag", one features (perhaps inevitably) Robert Rankin, BB
+         gun shooting, Lynchian lawnmower racing, a Cross Dressing Law
+         Enforcement Disco, and lets Norwegians in for free. And, yes,
+         the other one is a Twin Peaks Convention...
+         http://www.damnfineconvention.org.uk/
+                        - annoying clash with http://party.cream.org/
+         http://www.brum2600.net/brumcon2/
+                                                  - Fire Wall With Me
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         I-4A RENAME's single bulging dialog is reminiscent of "Back
+         Orifice for Space Shuttles", but if you're MP3-dealing,
+         yEnc-posting, P2P-sharing, Windows download kid, this might
+         be for you. Despite appearences, much of Rename's
+         paraphenalia do make sense in situ, when you're struggling
+         with a pile of Audiogalaxy booty or trying to categorise
+         your extensive collection celebrity's heads on naked animal
+         jpegs. Expert options (accessible by pressing F2, of course,
+         you *idiot*) and hidden macros - such as the automatic
+         insertion of the current Stardate - just confirm this as
+         some kind of Borland Emacs of Rename. Next time you're stuck
+         with a weird but commonplace renaming problem, give this
+         320KB zip a go. Because you want to know the scariest thing
+         about this program? It's that regexps are scarier.
+         http://www.1-4a.com/rename/example_overview0.gif
+    - "Where's ROT13? Oh, I bet that's what 'shift' does", writes Tim
+         http://www.1-4a.com/rename/
+    - "I want to reverse the filename 'jackson.wav' => 'noskcaj.wav'"
+         http://www.ntk.net/1998/05/29/#TRACKING
+- Power Rename; from when we reviewed shareware and ecstasy test kits
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         MR T ate my nationwide poll (see Harry Sacks' contribition): 
+         http://www.labour.ie/public_holidays/pollviews.tmpl ... the 
+         catfood can reviews were our favourite bit on "Takeover TV" 
+         too: http://www.ashleypomeroy.com/notcat.html ... saluting all 
+         the magnificent "Nathans" of the world - Nathan Damianos: 
+         http://www.ificandream.com/crew/crew.html ; Nathan Horrocks: 
+       http://www.observer.co.uk/magazine/story/0,11913,706301,00.html 
+         (- under heading "The player")... this week's "When Memes 
+         Collide": http://www.echo23.com/domokun/ ... like interviewers 
+         aren't already praying for "good candidates" during most job 
+         interviews: http://www.wisecounselonline.com/hot_topics.htm#2 
+         ... "perfectly captures the essence of its inspiration": 
+       http://www.geocities.com/Hollywood/Lot/6200/waitingforgodot.html
+         ... another fan site we really should get round to updating: 
+         http://www.audible.com/wiretap/ ... GOOGLE insults - only $4: 
+         https://answers.google.com/answers/main?cmd=threadview&id=6658 
+         ... when MARK SHUTTLEWORTH returns to earth, everyone pretend 
+         he's John Glenn and we haven't heard the joke before ...
+        
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> bloody Tim Burton again, whose ED WOOD (12.30am, Fri, C4)
+         features a famously anachronistic use of "various members of
+         the Helvetica family next to vintage headlines apparently
+         taken from real newspapers (mostly Erbar Light, 1934)", and,
+         even more implausibly, some of them are optically distorted!:
+         http://www.ms-studio.com/typecasting.html ... fellow "Batman"
+         franchise veterans Clooney and Pfeiffer play the mobile-phone-
+         swap movie meet-cute in ONE FINE DAY (9pm, Sat, C4)... and
+         Robert "Terminator 2" Patrick takes on a man made of metal in
+         THE X FILES (10.30pm, Sun, BBC2), tastefully preceded by
+         BELGIUM'S X FILES (7.15pm, Sun, BBC2), an investigation into a
+         European paedophile ring... Clooney's back on Bank Holiday Mon
+         in the reassuringly violent Euro-nuke thriller THE PEACEMAKER
+         (9pm, Mon, BBC1)... Julia "Seinfeld" Louis-Dreyfus doubles up
+         in Rob Reiner atrocity NORTH (10am, Mon, C4) plus a "Babe"-
+         style unnecessary animatronic adaptation of ANIMAL FARM
+         (6.10pm, Mon, C4)... while frankly the controversy over the
+         pronunciation of RING (11.40pm, Mon, C4) is the scariest thing
+         about it: http://www.ntk.net/index.cgi?b=02000-10-20&l=300#l
+         ... the castaways on ROUGH SCIENCE (7.30pm, Tue, BBC2)
+         struggle to fashion a crude map, recording device and
+         entertaining popular science programme... C4 gives up and
+         admits that those late-night documentaries are basically just
+         a load of SEX ON TV (10pm, Tue, C4)... brief Jennifer Connelly
+         nudity enlivens period potboiler INVENTING THE ABBOTTS
+         (12.15am, Wed, ITV)... Sandra Bullock is tragically miscast as
+         the young Ernest Hemingway in IN LOVE AND WAR (8pm, Wed, C5)
+         ... and, complementing the success of two-letter titles AI and
+         PI, there is indeed a movie about the text-editing private
+         detective VI (9pm, Thu, C5) - "VI Warshawski", that is...
+
+         FILM>> it's basically David Fincher's cool CGI camera tricks
+         from "Fight Club", but this time with some sort of plot, in
+         old-fashioned "Alien"-style containment thriller PANIC ROOM
+         ( http://www.screenit.com/movies/2002/panic_room.html : [Jodie
+         Foster] shows some cleavage, particularly when briefly on her
+         hands and knees)... following our popular "Ali G and his
+         Heckler and Koch submachineguns" debate [NTK 2002-03-29],
+         reader ALASTAIR PENNEY enthuses that the villains' access to
+         the futuristic firepower of the "Space Marine's Heavy Bolter"
+         (from "Warhammer 40K") appears to be a major plot point in
+         cheesy Murphy/De Niro/Russo/Shatner reality-cop-parody
+         SHOWTIME ( http://www.capalert.com/capreports/showtime.htm :
+         knife attack; shark attack with victim in its mouth with
+         blood; gun battles, long; some manner of potty mouth comes at
+         you at more than 60 times per hour!)... or there's a couple of
+         quite different takes on the old "Thelma and Louise" legend,
+         with Stockard "The West Wing" Channing and Julia "10 Things I
+         Hate About You" Stiles in what seems to be a female companion
+         piece to "In The Company Of Men", THE BUSINESS OF STRANGERS
+         (imdb: assault/ business-woman/ businesswomen/ drugged-drink/
+         female-bonding/ female-executive/ hotel/ psychological-drama/
+         psychological-thriller/ rape-attempt/ rape/ reconciliation/
+         revenge)... and the somewhat more confrontational French porn
+         shocker BAISE-MOI ( http://www.bbfc.co.uk/ : Cut required to
+         an explicit close-up shot of a penis penetrating a vagina
+         during a violent rape sequence)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+      "while the world's Dan O'Briens are out being murdered with axes..."
+                    http://www.ntk.net/2002/05/03/dohswan.gif
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

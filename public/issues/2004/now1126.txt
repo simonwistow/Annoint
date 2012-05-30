@@ -1,0 +1,236 @@
+
+ _   _ _____ _  __ <*the* week^H^H^H^Hfortnightly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2004-11-26_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+        "Once installed the ['Skulls' malware] replaces all the icons 
+         on the main page with skulls and replaces all the working 
+         applications, such as contacts, calendar, notebook etc with 
+         non-working versions so the phone becomes almost useless. 
+         
+         The only thing the phone can do is *make and take calls*..."
+                   http://news.bbc.co.uk/1/4033231.stm [our emphasis]
+                       - Nokia users, eh? Are they *never* satisfied?
+
+
+                               >> HARD NEWS <<
+                               merci beaucoups
+
+         The app that we've always dreamed of - the one that goes
+         around the Internet, finds every embarassing mention of you
+         ever, and then magically deletes it - may finally be
+         available. Attorney General LORD GOLDSMITH, in his role as
+         the Peer who goes "Shhhh!", reminded the newspapers that
+         they couldn't talk about current court cases without being
+         in contempt of court. Then, going all futuristic cyber-Lord
+         Justice Dredd on us, he added that if newspapers had any
+         articles in their online archives about people in the case,
+         published *before the case even existed*, they should delete
+         them for the duration of the trial. To repeat that for the
+         hard of believing: you can't stop jurors from using Google,
+         so the entire media should modify their online history, or
+         risk contempt of court proceedings. How will this work
+         exactly? A juror googles a defendant's name, clicks on the
+         first link and then says "Well, this blog links to a Times
+         story with the tag 'dog raper still in the news', but the
+         link leads to a 404, SO NOTHING HAPPENED?". I mean, we all
+         knew that the blogosphere was beneath contempt: but will
+         that now actually be a defence in the eyes of the law?
+         http://www.timesonline.co.uk/article/0,,2-1375365,00.html
+          - go through Google News to see this without a subscription
+  http://www.spy.org.uk/spyblog/archives/2004/11/attorney_genera.html
+       - or see it here permanently recorded (you see how this works?)
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Obviously we're sceptical about events promising "amazing 
+         insights into how search engines actually work", but we guess 
+         it's not so bad when they're actually being run by Google - in 
+         this case, under the inspirationally generic title of GOOGLE 
+         TECH TALK (7pm, Monday 2004-11-29, Huxley Lecture Theatre 311, 
+         Imperial College, London SW7 2BZ, free but looks like you have 
+         to RSVP). Plus, there's also the opportunity to talk to the 
+         company's VP of Operations, Urs Hoelzle (anag.), about 
+         "exciting jobs in engineering", if you know what they mean. 
+         For those hoping to construct their own category-killing 
+         search site, however, we are assured that there are "a few" 
+         places left at December's LONDON PERL WORKSHOP (Sat 2004-12-
+         11, Imperial College Student Union, London SW7 2BB, free but 
+         you have to pre-register on the site) - featuring streams on 
+         both "Advanced" and "Learning" Perl, the latter introduced by 
+         NTK's own "Dave Green", possibly with a song, should that be 
+         likely to swing it for you one way or the other.
+         http://dev.pulsegroup.com/google/gl0262
+              - not quite where NotCon was, but just round the corner?
+         http://www.google.co.uk/jobs/culture.html
+           - "typical day" apparently involves everything except work
+         http://london.pm.org/lpw/signup.html
+                 - looks like you have to just fill in the survey now
+         http://www.no2id.net/events/brixton.html
+                 - Stop Press: No2ID public meeting in Brixton on Tue
+         http://www.buynothingday.co.uk/
+                 - and don't forget not to buy anything this Saturday
+         http://www.nmk.co.uk/event/2004/12/14/Christmas-Lecture
+        - not even tickets for Eva Pascoe's Christmas Lecture, Dec 14
+         http://www.pirateutopia.org/
+       - or more Open Source theatre at Norwich Arts Centre next week
+          
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+        "More than 80% of male members who visited Japan to see 
+         Japanese women in July 2004 became a couple and started a 
+         serious relationship": http://www.destinajapan.us/ ... oldie 
+       but goodie: http://dictionary.reference.com/search?q=recursively
+         ... another triumph for "international product naming" dept: 
+         http://countrystore.tabasco.com/index_category.cfm?tlcatid=299 
+         ... starting to see why author "wishes to remain anonymous": 
+         http://www1.us.ioccc.org/2004/anonymous.hint ... moderately 
+         seasonal/ management-themed Google goofs of the month: 
+         http://google.com/search?q=%22office+manger%22 (and variants), 
+         http://www.google.com/search?q=%22mythical+man+moth%22, plus 
+         http://www.google.com/search?q=%22pubic+domain%22 ... new 
+         thrill! surreally inapproriate (yet SFW) Google imagewhacks: 
+         http://images.google.be/images?q=erotic+angels+of+rock , 
+         http://images.google.com/images?q=Dick+Cheney+Costume ... 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+        "Most broadcasters are today standing about the equivalent
+         of one mile from Mount St Helens. When it blows, frankly, it
+         will be too late to run." Yet another of these P2P peers,
+         this time Lord Currie, chairman of OFCOM, fretting about
+         smug broadcasters getting blasted into oblivion by big fat
+         pipes and bigger hard disks. Well, stirring up the lava last
+         week was Lazyweb founder, Sahara multi-marathon running
+         maniac and all round Edwardian gentleman BEN HAMMERSLEY, who
+         from the comfort of his Florentine apartments has brewed up
+         RADIOPOD, a fistful of Perl glue code which you stick in a
+         cronjob, hand over some radio times as arguments, and watch
+         it chop up a Realplayer feed into individual programmes.
+         Marvel then as it saves them as MP3s and spits out a a
+         Podcast-friendly RSS2.0 feed. Then, we imagine, we just sit
+         around and roast some marshmallows.
+http://www.benhammersley.com/weblog/2004/11/14/releasing_radiopod.html
+                                - brave enough to flaunt copyright...
+http://sourceforge.net/projects/radiopod/
+                - cheeky enough to start a SF project for a 4K script
+http://www.rts.org.uk/Information_page_+_3_pic_det.asp?id=3587&sec_id=503-
+  - blah blah regulatory environment blah blah ARGH! FEET ARE MELTING!
+         http://blogtorrent.com/
+                                    - some more stuff to loosely join
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> it seems like something of a special "songwriters" 
+         season, with Lennon and McCartney deconstructed in HOWARD 
+         GOODALL'S 20TH CENTURY GREATS (7pm, Sat, C4), ELTON JOHN: AN 
+         IVOR NOVELLO TRIBUTE (8pm, Sun, BBC1), CLOSE TO YOU: THE STORY 
+         OF THE CARPENTERS (8pm, Sun, ITV3), plus IMAGINE: BRIAN 
+         WILSON'S SMILE (10.35pm, Wed, BBC1)... John Cleese is unlikely 
+         to be introducing many of his own starring roles in the-usual-
+         suspects-but-in-a-slightly-different-(based-on-UK-box-office-
+         takings)-order THE ULTIMATE FILM (9pm, Sat; 8pm, Sun, C4)... 
+         and the characters don't really go anywhere, but really that's 
+         just nitpicking as LITTLE BRITAIN NIGHT (from 9pm, Sun, BBC3) 
+         offers (numerous?) "too hot for terrestrial" bits before 
+         they're cut for BBC1 http://news.bbc.co.uk/1/3964995.stm 
+         (9.30pm, next Fri)... Arnie suggests a no-doubt popular 
+         alternative to "hunting with dogs" in THE RUNNING MAN (9pm, 
+         Sun, C5)... the winner of Brit "Spelling Bee" HARD SPELL (7pm, 
+         Mon, BBC1) gets the chance to virtually firebomb civilian 
+         populations in a pro-celebrity BOMBER CREW (9pm, Mon, C4)... 
+         while, despite the recollections of EMPIRE WARRIORS (9pm, Fri, 
+         BBC2), capitalism seems to kill far more people than terrorism
+         is ever going to, implies ONE NIGHT IN BHOPAL (9pm, Wed, BBC1)...
+         
+         FILM>> great CGI hair, fabrics, action scenes etc, but isn't 
+         the post-"Watchmen" plot basically "Spy Kids" featuring "The 
+         Fantastic Four"?, we feel compelled to ask of THE INCREDIBLES 
+         ( http://www.capalert.com/capreports/incredibles_the.htm : 
+         adolescent mischief with arrogant defense of it; smacking on 
+         the bottom, twice; dressing to maximize the [cartoon] female 
+         form)... still, following the recent poster quote advising 
+         that "You Must See 'Saw'", at least there haven't been any 
+         suggesting that you "Remember To Check Out" Julianne Moore 
+         sub-PKD memory-tweaking NSA nonsense THE FORGOTTEN (imdb: 
+         abduction; conspiracy; experiment; dutch-angle; shot-in-the-
+         back)... or even that you'll "[Heart]" David "Three Kings" O 
+         Russell's ostensibly existential ensemble self-indulgence 
+         I [HEART] HUCKABEES (imdb: sudanese; absurdism; vulgarity; 
+         breast-suckling; topless; self-abuse; dinner-scene)... 
+
+         AVAILABLE IN A WIDE RANGE OF BLACK>> and it's crazy Christmas 
+         clearout time over at http://www.ntkmart.co.uk/ , as what may 
+         be the last of the current incarnations of the "404: /Shirt 
+         /Tie: Not Found" and "Hey Hey 16K" designs are joined by a 
+         loosely law-enforcement themed selection identifying the 
+         wearer as either "Network Security" (as proposed by the guys 
+         over at PC Extreme magazine), opposed to ID cards (courtesy of 
+         the http://www.no2id.net/ campaign), or simply "Police Aware" 
+         (as originally nominated by reader ALEX TEUGELS just slightly 
+         over three years ago - see NTK 2001-09-21)... as that time 
+         delay implies, we're kind of doing OK for t-shirt concepts at 
+         the moment, with favourites including Scott Keir's lonely 
+         flashmob-wear http://www.scottkeir.com/solitary/solitary.png - 
+         but could whoever sent in the "It's not Asperger's Syndrome" 
+         slogan please get in touch? Still, we're always interested in 
+         any ideas that are perhaps slightly more original than RICHARD 
+         BEER's suggestion: "Any chance you can just copy some of the 
+         excellent Thinkgeek ones? I'm not sure if they can copyright a 
+         couple of words of text" - unless perhaps he's confusing us 
+         with somebody else... which just leaves the celebrity-packed 
+         results of this year's "Buy One, Subvert The Mass Media, Get 
+         One Free" competition, with TV's PHILL JUPITUS and AL 
+         Digital's ADAM LAURIE both losing points for locating their 
+         illicit product placement in comparatively obscure media 
+         outlets (The Yorkshire Evening Post and BBC News 24's "Click 
+         Online", respectively http://www.ntkmart.co.uk/images/ ). 
+         Congratulations therefore to our old Wired UK nemesis HARI 
+         KUNZRU, for sneaking a (mildly) fictionalised version of the 
+         old "iloveyou.vbs" design onto page 61 his new novel 
+         "Transmission" - Hari wins a free t-shirt of his choice, just 
+         as soon as he sends us a pic of the mention that we can put 
+         on the site, or the book officially comes out in paperback in 
+         2005, whichever happens first...
+          
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                               "maximal in brain"
+              http://www.pnas.org/cgi/content/abstract/91/11/4975
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

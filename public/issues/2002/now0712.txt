@@ -1,0 +1,279 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2002-07-12_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         "Other designers too, such as Lateral chairman Jon Bains, say
+         online design rip-offs are common. 'A lot of the stuff we
+         did for Levi's is now being abused,' he says."
+             - some of us remember abusing it fairly heavily at the time
+      http://media.guardian.co.uk/mediaguardian/story/0,7558,751048,00.html
+
+
+                                >> HARD NEWS <<
+                               in powers of two
+
+         Nice to see, in the midst of all these scandals, Yahoo
+         turning a healthy profit. But as other companies fiddle the
+         figures, Yahoo's been busy instead with fiddling its own
+         users' private correspondence. In a fantastically clumsy
+         attempt to prevent cross-site scripting attacks, the free
+         e-mail wing of the sprawling giant has long been replacing
+         complete English words in the text of HTML mail sent to its
+         users. Mention "mocha" in an HTML mail to a friend with a
+         @yahoo.com account, and your choice in coffee will be
+         silently switched to "espresso". Talk about "free
+         expression", and your recipient will think you said "free
+         statement". Here's the full list of swaperoos:
+         http://www.ntk.net/2002/07/12/yahoo.txt
+                                 - try not to mail it to your friends
+
+         This fiddling has been going on now for over a year year
+         (the ever vigilant RISKS digest noted it back in March
+         2001). But because of Yahoo's underhand methods, very few
+         people have spotted the turnabout - certainly far fewer than
+         if Yahoo had done the sensible thing and, say, "**"'ed out
+         the vowels in the word, or, God forbid, written a smarter
+         parser. But the sneakier you are, the wider the damage
+         spreads. The word "medieval" (since it contains the
+         javascript command "eval") is converted in Yahoo mail to
+         "medireview". Google now shows over 640 sites (and 1,150
+         separate instances) of the word "medireview" being used as a
+         synonym for medieval. University papers, bibliographies and
+         book reviews, Indian newspaper columnists, and endless
+         enthusiast sites drop it unseen into texts. People have
+         begun to ask where it originally came from, and does it have
+         a subtler meaning beyond "medieval"? Is Yahoo ever going to
+         fix its filters? Or is it time we pushed to get the first
+         regexp-obfuscated word into the Oxford English Dictionary?
+         http://catless.ncl.ac.uk/Risks/21.34.html
+           - does anyone still at Yahoo even know how to turn it off?
+         http://www.google.com/search?q=medireview
+                          - NTK now entirely filled with google links
+
+         That's not to say the e-commerce sector is any better with
+         the numeric wing of alphanumerics. Rivalling last week's $3
+         billion bill for a Google text ad campaign, two NTK readers
+         spotted AMAZON.CO.UK apparently "writing off" sums in the
+         region of 900 trillion pounds as "Totals before VAT" on
+         purchases as innocuous as a RedHat CD-ROM and DVDs of "Brass
+         Eye" and "The Simpsons". It's possible an older evil may be
+         at work here: both incidents follow an occasion when an
+         unsuspecting customer appeared to have been charged a cool 3
+         million for a copy of "Cthulhu By Gaslight", and the
+         uncountable horrors contained therein. On a lighter note,
+         we have one unconfirmed report of NATWEST taking a leaf out
+         of Dr Evil's book on Thu 2002-06-27, when its automated
+         credit card phone system would cheerfully announce recent
+         transactions such as "8th March: One Hundred Billion Pounds.
+         8th March: Eight Pounds 47. 8th March: One Hundred Billion
+         Pounds." If that's not a boost to consumer confidence, we
+         really don't know what is.
+         http://www.ntk.net/2002/07/12/doham1.gif
+         http://www.ntk.net/2002/07/12/doham2.gif
+         http://www.ntk.net/2002/07/12/doham3.gif
+                                 - you want loyalty points with that?
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         now in its third incredible month, PUERILE GOOGLE MISSPELLINGS
+         AHOY: http://www.google.com/search?q=%22pubic+holiday%22 -
+         plus "pubic convenience", "open to the pubic", "cumputer",
+         http://www.google.co.uk/search?q=FP_DumpError%20strErrorUrl ,
+         "wank to know", and the perhaps not-particularly-clairvoyant:
+     http://www.google.com/search?num=1&query=%22remember+to+edit+this%22
+         ... one of these "men's pants" is not like the others...:
+         http://www.ntk.net/2002/07/12/dohdeb.gif ... Nathan Barley
+         Outfitters Ltd: http://www.ntk.net/2002/07/12/dohgit.gif ...
+         "Casual footwear can mean casual attitudes", President warns:
+         http://www.ntk.net/2002/07/12/dohsan.gif ... ... first paragraph
+         of http://news.bbc.co.uk/hi/english/NTKisSkill/2094374.stm
+         imitates the last of: http://physicsweb.org/article/world/11/2/9/1
+         ... VENABLES "under the microscope" - a microscope ON DRUGS:
+         http://www.bbc.co.uk/leeds/news/072002/08/venables_quiz.shtml ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         It's the epic NTK vs "EDGE" showdown that's been brewing since 
+         the dawn of time - plus C64 tribute band PRESS PLAY ON TAPE, 
+         JOHNNY BALL, WILL SELF, and the KLF's BILL DRUMMOND. Well, not 
+         all on the same bill, disappointingly, but contributing to 
+         different events during the course of THE CLERKENWELL LITERARY 
+         FESTIVAL (from Tue 2002-07-16, area around Farringdon tube 
+         station, London EC1). We particularly recommend: NTK's "DAVE 
+         GREEN" perversely opposing the motion CAN COMPUTERS TELL 
+         STORIES? (6.30pm, Tue 2002-07-16, Tardis Studios, 54 Turnmill 
+         St, UKP5), versus the likes of CHARLES "Revolution Software" 
+         CECIL, JAMES "Hogshead" WALLIS and the guy from Edge - also 
+         features sale of old NTK t-shirt stock at amazing knock-down 
+         prices. Wed is C64 night, with BEN "Gremlin Graphics" DAGLISH 
+         introducing the sensual sounds of the SID chip, as recreated 
+         by Swedish cover maestros PRESS PLAY ON TAPE (6pm, Wed 2002-
+         07-17, The Gallery, 77 Cowcross St, UKP10 - includes, while 
+         stocks last, free posters, bags and CDs). Then you are 
+         instructed to "bunk off early" for THE HISTORY OF COMPUTER 
+         GAMES PUB QUIZ (4pm, Fri 2002-07-19, The Surprise, 28-32 
+         Bowling Green Lane, free), hosted by ADAM "The Adam And Joe 
+         Show" BUXTON, and featuring NTK's vocal impersonations of 
+         classic videogaming moments, plus your chance to win that 
+         timeless icon of retro-credibility, the Sony PlayStation 2.
+         http://www.idler.co.uk/html/frontsection/events.htm
+                       - Theremins! Board games! And "Is God A Cunt?"
+         http://www.ntk.net/index.cgi?b=01998-06-26&l=95#l
+         http://www.ntk.net/index.cgi?b=01997-10-17&l=145#l
+                                         - ah, those were the days...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The world is divided between those who keep their mail on
+         the server, and those who frantically POP3 it down as soon
+         as they hear a TCP/IP dial-tone. And no-one is happy,
+         because the serveroids are screwed whenever they'ree
+         offline, and the POPpers are fisted whenever they stray from
+         their local copies. And God help those of us in-between,
+         frantically trying to sync their IMAP folders with their
+         local copies.  And so God has, in His mysterious way.
+         OFFLINEIMAP is a great IMAP synching program written in
+         Python 2.2.  Point it at an IMAP account, and it'll
+         bidirectionally sync every folder it can find with a local
+         copy. That means you can happily gulp down all your mail to
+         your laptop, reply, delete, transfer, and flag them offline,
+         and at the next sync your IMAP folder will reflect the new
+         truths. The only downside is that offlineimap saves the
+         local copy in Dan "Closer to God than thou" Bernstein'ss
+         Maildir format. Very secure, but a bit scantily supported by
+         mail readers. Mutt will do it, as will Balsa and (we think)
+         Pine. For others, you may want to consider running
+         courier-imap and using your local machine as your new IMAP
+         server.  Twisted, but we're sure God would approve.
+         http://gopher.quux.org:70/devel/offlineimap
+- bloody-mindedly gopher-compatible. May be Satan. May eat your mail.
+
+
+                                >> MEMEPOOL <<
+                ceci n'est pas une http://www.gagpipe.com/
+
+         http://www.framleyexaminer.com/ book deal... When Audiophiles
+         Attack #3 - digital interconnects *don't* all sound the same:
+ http://www.hifichoice.co.uk/review_list.asp?category=CAB&subcategory=DIGTL
+         ... (intentionally humorous) Open Source development How-To:
+         http://slashdot.org/comments.pl?sid=35668&cid=3851076 ... vs
+         Linux advocacy How-To: http://24.221.230.253/ ... proudly
+         naturist "TIVO logo should never be depicted wearing clothing
+         or costumes (like Santa hats or Hawaiian skirts)", rules reveal:
+         http://www.tivo.com/flash.asp?page=entertain_wallpaper ...
+       http://media.guardian.co.uk/broadcast/story/0,7493,754228,00.html
+         imitates: http://www.theonion.com/onion3218/gaymuppet.html ...
+         because it seems like literally weeks since we last ran one of
+         these: http://www.classicgaming.com/blackeyesoftware/pr0n/ ...
+         Orange or Blue? O2 or O-Town? T-Mobile or N-Sync? Three or
+         Five? Is it just us, or is it getting harder to tell the
+         difference between mobile networks and boy bands nowadays?...
+
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> ANNA IN WONDERLAND (10.30pm, Fri, BBC Choice) meets the
+         "Furries" which, as we all know, is not a fetish, but a valid
+         lifestyle: http://www.theregister.co.uk/content/35/25807.html
+         ... brief Drew Barrymore nudity enlivens female-bonding Whoopi
+         Goldberg/ Mary-Louise Parker road trip BOYS ON THE SIDE
+         (12.20am, Fri, BBC2)... and crikey, mates, it's DEADLY DRAGONS
+         WITH STEVE IRWIN (1.10pm, Sat, ITV)... a winning mix of mild
+         titillation and TV nostalgia constitutes SPORT RELIEF (from
+         7pm, Sat, BBC1)... alternative fund-raising suggestions come
+         courtesy of docu-drama THE GREAT DOME ROBBERY (9.55pm, Sat,
+         C5)... and a local swami makes fun of the protagonist's
+         hairgel in an even more self-referential than usual ANGEL
+         (10.35pm, Sat, C4)... plenty of plot holes, factual errors,
+         cheesy Kirk acting in STAR TREK: GENERATIONS (1pm, Sun, BBC1):
+         http://uk.imdb.com/Goofs?0111280 ... there's alleged full-
+         frontal nudity from both David Bowie and Rip "Larry Sanders
+         Show" Torn in the glacially unwatchable THE MAN WHO FELL TO
+         EARTH (11.30pm, Sun, BBC2)... Sunday night is shaping up as a
+         popular slot for supposed "making of" electronic press kit
+         promos like SEEING THE FUTURE: SPIELBERG'S MINORITY REPORT
+         (11.40pm, Sun, C4) - but with added Philip K Dick craziness...
+         and a stubborn local mayor ignores warnings, refuses to cancel
+         festivities in METERORITES! (10.50am, Mon, BBC2)... Kyle "Dune
+         Guy" MacLachlan inadvertently remakes "Big John, Little John"
+         in made-for-TV movie THE SPRING (9pm, Mon, C5)... Iain Lee -
+         who knows a thing or two about career-limiting moves - hosts
+         MY WORST WEEK (10.35pm, Tue, BBC1) on George Michael's brief
+         return to the public eye... and of course OJ Simpson had to be
+         "discredited" after spilling the beans about the faked moon
+         landings in CAPRICORN ONE (11pm, Tue, ITV)... THE WATERBOY
+         (9pm, Tue, C5) is one of the few retarded Adam Sandler movies
+         not parodied by the startling http://www.kerrap.co.uk/ ... NTK
+         reader Stevan Keane maintains there's an innuendo about "Oriel
+         Six" in the largely tedious early episodes of STAR TREK:
+         ENTERPRISE (6pm, Wed & Thu, C4)... and set your videos for
+         amusing RIAA remix soundbites in The Money Programme's
+         typically unsensationalised ATTACK OF THE CYBER PIRATES
+         (7.30pm, Wed, BBC2)...
+
+         FILM>> Paul "Mortal Kombat, Event Horizon" Anderson resurrects
+         a competent but uninspired adaptation - right down to the bad
+         acting and dialogue - of survival horror original RESIDENT
+         EVIL ( http://www.cndb.com/movie.html?title=Resident+Evil :
+         a very brief shot of [Milla Jovovich's] nipple near the
+         beginning as she gets out of a tub. At the very end she gets
+         up off a table with a little white gown covering her front and
+         back, as she kneels down you see some lower nudity [...] This
+         makes the DVD a must buy)... Anthony Hopkins is reunited with
+         the "it puts the lotion on its skin" girl, Chris Rock notably
+         fails to comment on Hopkins being called "Gaylord" in jovial
+         "Beverley Hills Cop"/ "The Sum Of All Fears" spy hybrid BAD
+         COMPANY ( http://www.capalert.com/capreports/badcompany.htm :
+         women as sex toys; picture nudity; female nudity behind
+         steamed shower doors; multiple deaths by gunfire; illegal
+         sales, scalping)... "Gattaca's" Ethan Hakwe and Uma Thurman
+         team up again in Richard "Slacker" Linklater's experimental
+         digging-up-the-past containment drama TAPE (imdb: date-rape/
+         film-maker/ human-relationship/ motel/ highschool/ obsession/
+         reunion/ secret)... making this week's surprise recommendation
+         the reassuringly unreverential part-CGI remake SCOOBY DOO
+         ( http://www.screenit.com/movies/2002/scooby-doo.html : [Sarah
+         Michelle Gellar] and [Isla "Home And Away" Fisher] show
+         varying amounts of cleavage; [LINDA "Freaks And Geeks"
+         Cardellini] briefly also shows a moderate amount of cleavage;
+         Scrappy Doo - a small talking dog - urinates on Daphne's
+         clothing; kids could be enticed to talk like Scooby-Doo)...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                             "poetically licensed"
+           http://www.perl.com/pub/a/2002/07/p6pdigest/20020702.html
+
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+ NTK now is supported by UNFORTU.NET, and by you: http://www.geekstyle.co.uk/
+
+                          (K) 2002 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.

@@ -1,0 +1,218 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-07-09_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+         
+         "We must also work to change a number of customer perceptions, 
+          including the views that older versions of Office and Windows 
+          are good enough..."
+                - Steve Ballmer sets a target even Microsoft can meet
+                        http://zdnet.com.com/2100-1104_2-5259001.html
+
+
+                               >> HARD NEWS <<
+                              visiting the zoos
+
+          Oh, so we'll probably continue our "holiday service" for 
+          just a while longer (it's nice here), but Danny has been
+          biting his tongue all week about the Tiger MacOS X thing.
+          From his ink-sodden beach blanket, he writes: "Why have so
+          few people noticed the key element of Tiger? Dashboard
+          provides javascript access to some safe operating system
+          stuff, like drawing primitives on the window canvas. And 
+          then, when you load the gadgets up *in Safari*, you get
+          the same access. Meanwhile, Apple made a deal with Opera and
+          Mozilla the same week to add enough to the browser plugin
+          API to provide the same javascript objects on other
+          platforms and browsers. And they all forked off from the W3C
+          last month to set their own standard committee, WHAT-WG. For
+          creating web applications. Just like Joel Spolsky was asking
+          them to do. So we have low-level (but not insecure)
+          javascript access to the desktop, an open (but non-W3C)
+          standard, and cross-platform plugins to support it. DON'T
+          YOU PEOPLE UNDERSTAND? It's BROWSER WARS II - ELECTRIC
+          BOOGALOO!". Now you see why we need these holidays so badly.
+    http://weblogs.mozillazine.org/hyatt/archives/2004_07.html#005928
+            - ooh, the SVG boys aren't going to be happy with "canvas"
+          http://www.whatwg.org/
+                       - Committee For The Extension of The Blink Tag
+          http://ln.hixie.ch/?start=1088526392&count=1
+                 - good backgrounder (and why it's not called WHAT-TF)
+
+          But where, you may be asking, do the "dohs" go while NTK is 
+          on holiday? And, just as pertinently, is there not some more 
+          convenient way of perusing their broken web page hilarity, 
+          perhaps making use of these new-fangled "inline" <img src=> 
+          tags? Fear not, the text-only purity of the newsletter will 
+          remain sacrosanct against such modern abominations, but you 
+          can now browse the highlights of the last few weeks over at 
+          our new DOH, THE HUMANITY! spinoff site (and, who knows, maybe 
+          upload a few of your own, with less fear of getting rejected 
+          for sending in giant BMPs, horribly compressed JPGs, or losing 
+          them completely as seems to happen with some Outlook OLE 
+          attachments). Yes, the design and the RSS feed are a bit ropey 
+          at the moment, but just be thankful we didn't pursue an 
+          earlier concept whereby site contributors were dubbed 
+          "Duncan's Doh-Nuts" and fictional host character "Duncan" 
+          introduced the site with the words: If you're "nuts" about 
+          "dohs", then we've got the "dohs" you'll go "nuts" for!
+          http://www.xcom2002.com/doh/index.php?s=04061517mis
+             - with all your favourites: missing decimals/millions...
+          http://www.xcom2002.com/doh/index.php?s=04051822oth
+                               - ...miscellaneous (yet topical) typos
+          http://www.xcom2002.com/doh/index.php?s=04062323oth
+                    - ...placeholder text tributes to professionalism
+          http://www.xcom2002.com/doh/index.php?s=04062121eco
+                                 - ...and "E-commerce e-diocy" (sorry)
+        
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+          from our special "what *are* Orange up to at Glasto this 
+          year?" correspondent: http://news.bbc.co.uk/1/3841819.stm , 
+          http://news.bbc.co.uk/1/3843491.stm ... not securing their 
+          site against Widdecombes, obviously: http://tinyurl.com/ytamh 
+          ... why you might not want to mirror Amazon's reader reviews: 
+          http://www.web-design-is.us/FREEBIE/free2.php?&asin=0971339899 
+          (scroll down)... near-sentient spamdexing - thanks for 
+          clearing that up: http://www.mapsym.co.uk/debt+collector.htm 
+          ... and fewer dohs means all the more space for PUERILE GOOGLE 
+          GOOFS: http://www.google.com/search?q=%22sale+of+gods%22 , 
+          "Christian Diety", "Jesus Christ Supertar", "Ivy Legue", "Golf 
+          of Mexico", Gazza+Palestine, "Edios Interactive", "45 minuets" 
+          Powerfuk, "Abode Photoshop", "Blackbum Rovers", "Bertie Ahem" 
+          ... University course uses "principles of design and analysis" 
+          to guarantee "the highest standard" of "you work" [sic]: 
+          http://www.gre.ac.uk/courses/under/sch/cms/webtech_bsc.html ...
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+          Thanks to everyone who helped out, came along, and was 
+          generally very understanding about last month's NOTCON, an 
+          event whose organisation has so far been described as 
+          somewhere on the scale between "refreshingly haphazard" and 
+          "boastfully shoddy" - notes, online reports and extensive (and 
+          remarkably high quality) video are now on the site. Something 
+          else we weren't expecting quite such an overwhelming response 
+          to was NTK 2004-05-21's plea for some sort of UK TECH-RELATED 
+          EVENTS AGGREGATOR, which so many people have written in about 
+          that we're wondering whether it's worth getting them all 
+          together with a view to either collaboration (or rival 
+          elimination) - post a comment to SteveC's blog if you're 
+          interested, and we'll see what we can "aggregate" out of that. 
+          Sadly, it probably won't be ready in time to announce the 
+          latest tour by NTK-tipped '80s throwback GARY LE STRANGE, 
+          which begins this weekend at the Etcetera Theatre, Camden 
+          (from 9pm, Fri-Sun 9/11-07-2004, above Oxford Arms, 265 Camden 
+          High St, London NW1, UKP7.50, 6.50 concessions), tying in with 
+          the release of his retro-futuristic new album, "Face Academy".
+          http://www.xcom2002.com/nc04/
+               - getting as much use out of that old domain as we can
+       http://www.fractalus.com/steve/blog/steve/archives/000850.html
+               - vs http://www.ntk.net/index.cgi?b=02004-05-21&l=54#l
+          http://homepage.ntlworld.com/kate.darby/page9.html
+            - featuring the hits "Electric Dance" and "Heart of Tears" 
+          
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+          LOOKOUT used to be the funny thing the fat and bearded ones
+          said when they were referring to MICROSOFT OUTLOOK. Now
+          it'll be the thing that fat and bearded ones *install* when
+          they're forced to use the thing. It is, at bloody last, a
+          search engine for Outlook folders, letting you find things
+          in the global cruft repository that is Outlook's .PST files
+          as fast as you can say "Gmail". Googlish syntax (you can do
+          +foo and -bar) and indexing of IMAP accounts and public
+          folders makes it useful. And the free preview period means 
+          you can try it before you splash out the $29.95 for the final
+          edition.
+          http://www.lookoutsoft.com/Lookout/
+- grepmail! Tiger spotlight! will be consumed by a future M'soft product!
+ 
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+          US military's contest to get the most unusual name into a news 
+          story continues, with early lead from Rear Admiral Stufflebeam 
+          http://news.bbc.co.uk/1/1618187.stm - now threatened by Lt 
+          Commander Flex Plexico http://news.bbc.co.uk/1/3753967.stm , 
+          and of course Guantanamo Bay's very own "Lt Mike Kafka": 
+          http://www.theregister.co.uk/2004/06/23/guantanamo_worster/ ... 
+          thanks everyone, that ought to do it: http://www.novote.org.uk ,
+          http://www.petitiononline.com/mod_perl/signed.cgi?whedon&1 , 
+          http://www.petitiononline.com/googhtml/petition.html , and - 
+          somewhat more realistically - http://www.reagangothic.com/ 
+          ... unexpected Photoshop fetish of the month - those special 
+          "Mission: Impossible" moments: http://www.closetmonster.net/ 
+          (via http://images.google.com/images?q=slim-fast&safe=off ) 
+          ... quiz is a bit lame (duh), but just quite liked the design:
+          http://davidguy.brinkster.net/quiz/n3taquiz.html ...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+          TV>> still not too sure about the musical numbers, but heavy 
+          rotation of THE MIGHTY BOOSH (8pm, weeknights from Fri, BBC3) 
+          offers another chance to catch the cheese-headed "Jungle" 
+          episode on Monday... watch out for http://tv.cream.org/ 
+          staffers largely escaping the blame in WHO KILLED SATURDAY 
+          NIGHT TV? (9.50pm, Sat, C4), a clearly rhetorical inquiry 
+          considering that very evening's entertainment also offers 
+          cheery charity-athon BBC SPORT RELIEF 2004 (from 7pm, Sat, 
+          BBC1) and Woody Allen's favourite Nazi occu-docu THE SORROW 
+          AND THE PITY (7pm, Sat, BBC4)... while TIME MACHINE (8pm, Sun, 
+          BBC1) showcases the very latest in timelapse CGI... Suzi Perry 
+          continues her bid to be the Pam Ayres of tech television as 
+          the remarkably low-budget THE GADGET SHOW (7.30pm, Mon, C5) 
+          looks at wi-fi... "Science fiction Oliver" has his moments 
+          but, let's face it, he's no "Geoff" in this new series of 
+          COUPLING (9pm, Mon, BBC2)... Thursday is sexual subtext night 
+          with both demented Renny Harlin F1 romp DRIVEN (8pm, Thu, C5) 
+          http://dir.salon.com/ent/movies/review/2001/04/27/driven/ and 
+          - presumably the non-Director's Cut of? - ALIEN (10.15pm, Thu, 
+          C5)... and we're enjoying these re-runs of THE PRISONER 
+          (11.25pm, Fridays, BBC4) as much as anyone, though the word 
+          among fans suggests that some of them are taking it a bit too 
+          seriously: http://www.sixofone-info.co.uk/pointsofview.htm ... 
+
+              
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                   "too much NTK will get you - in the end" 
+http://mjr.towers.org.uk/blog/2004-5.html#notcon04@2004-5.mjr.dsl.pipex.com
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+

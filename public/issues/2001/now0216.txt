@@ -1,0 +1,344 @@
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2001-02-16_ o join! mail an empty message to
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o ntknow-subscribe@lists.ntk.net
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+         Q: Will the virus impact my Macintosh if I am using a
+            non-Microsoft e-mail program, such as Eudora?
+
+         A: If you are using a Macintosh e-mail program that is not
+            from Microsoft, we recommend checking with that particular
+            company.  But most likely other e-mail programs like Eudora
+            are not designed to enable virus replication.
+
+    http://www.microsoft.com/mac/products/office/2001/virus_alert.asp
+...email client not spreading viruses properly? Upgrade to Outlook today!
+
+
+                                >> HARD NEWS <<
+                              set filters to "rude"
+
+         Make $$$ on the Internet, part n+1: for many webmasters, it's
+         a dream come true - after your URL (say, cult hit "Things My
+         Girlfriend and I Have Argued About") appears in the Guardian
+         Editor (2001-02-02), another newspaper rings up and asks if
+         they can publish the content for UKP800, to tie in with the
+         split between Kidman and Cruise. But... it's The Mail On
+         Sunday, and you say "no". But... they go ahead and print it
+         anyway, now with different names (a bit like that time The
+         Graham Norton Show faked the call with the guy behind the Joan
+         Collins glove fetish page). When confronted over this
+         remarkable liberty-taking, the Mail then guiltily offer you
+         twice the original sum (make $$$, remember!), but you're left
+         wondering: is this penance enough, especially when your
+         colleagues (at "The Weekly") include those scourges of big-IP-
+         thievery, Jonathan Nash and Stuart Campbell, who successfully
+         sued EMAP in early 1998 for putting their entire website on
+         the coverdisk of a rival magazine?
+         http://homepage.ntlworld.com/mil.millington/things.html
+         - vs http://www.theweekly.co.uk/mail_on_sunday.gif
+     http://www.ntk.net/index.cgi?back=archive98/now0904.txt&line=293#l
+         - one thing Millington and his girlfriend *can* agree on
+     http://www.ntk.net/index.cgi?back=archive99/now0402.txt&line=44#l
+         - now immortalised on Norton's "Best Of" video and DVD
+     http://www.ntk.net/index.cgi?back=archive98/now0123.txt&line=68#l
+         - also alleged that they "sniff cat's bums for thrills"
+
+         The US government hearings on the behaviour of ICANN
+         continued, with a proud Senate declaring that they were
+         probably the best people to guard the needs of the entire
+         Net community. "We think of the United States as cutting
+         edge.", said Senator Boxer, "If we don't take the ball and
+         run with it I don't know what would happen!" she said. Well,
+         the rest of the world play football with our *feet*,
+         senator, but that's by the by. We look forward to US govt's
+         swift justice regarding two oddly underreported stories of
+         DNS-related high-jinks this week. Firstly, NSI's amazingly
+         brazen flogging of its whois data: "The VeriSign/Network
+         Solutions domain registration database", they say, "is
+         available for the first time ever. Approximately 6 million
+         unique customers, sliced and diced for you to target
+         prospects". Nice. There's an opt out, written in invisible
+         ink and hidden under one of the root servers: you might want
+         to read the PRIVACY DIGEST's full report to find out what
+         is. And secondly, after n+1 years of being peculiarly banned
+         from registrations (largely, in true Queen Victoria stylee,
+         because Jon Postel didn't like the idea), fuck.com was
+         finally snatched (as was another word that's semantically
+         related to "snatched"). Wasn't that kind of arbitrary? And
+         isn't this the sort of thing which ICANN is supposed to
+         equably resolve? Come on, Senators, where's your "cutting
+         edge" now?
+         http://www.vortex.com/privacy/priv.10.03
+     - information on how to unslice and undice your personal details
+         http://networksolutions.com/cgi-bin/whois/whois?STRING=fuck.com
+                                       - we meant cunt.com, of course
+         http://www.links.net/webpub/fuck.com.html
+                                - Sue for lost earnings, Justin!
+http://194.128.65.4/pa/cm200001/cmselect/cmcumeds/161/u161-602.htm
+                          - like we do any better - search for "giga"
+
+         So what does the Premier Plus service mean for Thus users?
+         Well, this week it meant over twelve hours outage - making
+         Valentine's day particularly isolating for the average
+         Demonite. To make matters worse, though - or at least
+         vaguely different for Demon - tech support was similarly
+         borked, so that none of their staff could actually hear the
+         customers complaining. Apparently they'd just pick up the
+         phone, say "Hello? Hello? Is there anyone there?", then hang
+         up, tutting solicitously. How much more lonely could you
+         make these people feel?
+         http://www.demon.net/helpdesk/status/status2.shtml
+                   - YOUR NETWORK'S BROKEN, DEAR! YOUR N-E-T-W-O-R-K!
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         FALCO six FUTURE mags, including DCUK and MP3 MAGAZINE - in
+         accordance with NTK prophecy [2000-04-14]... "Son of Satan -
+         Suck That Black Worm Jism" not the corporate byline the P's
+         had hoped for: http://www.ars.org.uk/View.shtml ... Reg's
+         KIEREN MCCARTHY again proves sensitivity in "matters of the
+         heart": http://www.theregister.co.uk/content/28/16903.html ...
+         German to English http://babel.altavista.com/ translation of
+         http://www.amazon.de/exec/obidos/ASIN/B000056HS5/ reveals
+         adventures of "Buffy The IrishIrish Irish Slayer", and her
+         boyfriend, "Fishing Rod"... he should've REMOTE VIEWED 'em:
+         http://www.psitech.net/news/legal/lawsuit.htm ... what's wrong
+         with this: http://www.1callnow.com (hint: "Order Now" goes to:
+     http://pc2pc.virtualave.net/1CallNow_com%20-%20Sign%20Up%20Form.htm
+         - harvests cc info via unencrypted frontpage extension)...
+         *another* low-earth satellite constellation burns up in FALCO:
+         http://biz.yahoo.com/prnews/010208/va_orbcomm.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Following an unsubstantiated incident in which he "put instant
+         coffee in a microwave oven and almost went back in time",
+         surreal deadpan king (and "Super Sounds of the Seventies" DJ
+         in Reservoir Dogs) STEVEN WRIGHT has now rescheduled his UK
+         tour to take in the LONDON DOMINION THEATRE (Sun 2001-02-18
+         and 25), BRIGHTON CORN EXCHANGE (Mon 2001-02-19), WULFRUN HALL
+         WOLVERHAMPTON (Wed 2001-02-21) and the LIVERPOOL ROYAL COURT
+         THEATRE (Fri 2001-02-23). Wright postponed the gigs from last
+         November due to a "severe ear infection", despite having
+         previously alleged: "You know when you're rocking in a rocking
+         chair, and you go so far that you almost fall over backwards,
+         but at the last instant you catch yourself? That's how I feel
+         all the time."
+         http://www.soloagency.com/html/Steven_Wright.htm
+         - what actually happens: http://www.kilty.com/coffee.htm
+         http://www.potato.org.uk/chipweek/
+         - the British Potato Council present: National Chip Week 2001
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The perl5-porters and their monkish acolytes huddle around
+         camp fires at the base of Mount Imparseable, where Larry
+         convenes with the spirit of The More Than One Way. If
+         absolute peace is maintained, he will soon return with the
+         Three-Hundred-And-Sixty-One Tablets of Perl 6. But as they
+         wait, in the pre-dawn East the sickly glow of RUBY grows
+         stronger. Yes, Ruby, the language that says it's like
+         Smalltalk (but is really cleaner Perlish syntax with
+         better-than-Python-OOP and Satherish iteration) has
+         traditionally been trapped in Japan by the Great Font
+         Divide, unable to vex its Western ancestor. But no more. The
+         rods are cast in twain; Addison-Wesley have a book out.
+         They've open sourced the reference section, and Dr. Dobbs,
+         that gullible old gatekeeper, has even written a tutorial in
+         January's issue. Larry is wise, and strong. But remember how
+         his one regret was he didn't get to a Christian missionary?
+         Guess what Ruby's creator used to be? A missionary in
+         Hiroshima, Larry. In Hiroshima.
+         http://www.perl.com/pub/2001/02/14/p6p.html
+         - ""What *is* going on over there, anyway?", cries ESR
+         http://www.pragmaticprogrammer.com/ruby/downloads/refman.html
+               - the missionary stuff is in comp.lang.ruby (deja RIP)
+         http://www.ddj.com/articles/2001/0101/0101b/0101b.htm
+                             - only DDJ would do their URLs in binary
+
+
+                                >> MEMEPOOL <<
+                              hasta la altavista
+
+         they put a man on the moon, but what do they put in the COFFEE?
+         http://dailynews.yahoo.com/h/wjla/20010212/lo/20010212002.html
+         ... http://bbspot.com/toys/slashtitle/ - promising, but can it
+         also generate "Homoerotic Slashdot Post Of The Week"?:
+         http://slashdot.org/comments.pl?sid=01/02/11/216225&cid=21 ...
+         ... THE SCOUTS http://www.scoutbase.org.uk/hq-info/image/ get
+         their http://www.enormicon.com/08.html badge at last... now,
+         please wash your hands before taping CHUCK D's fave show for
+         him: http://www.publicenemy.com/terrordome.php?item=27 - he's 
+         a rebel without a pause (button)... where's KEVIN? #1:
+         http://www.contentville.com/expert/e_index_magazine.asp ...
+         so, will PS2 and X-BOX do authentic 2D sprites and attribute
+         clash? http://www.computerandvideogames.com/story.cfm?sid=2201
+         ... we promise, we'll never run another "funny name" meme
+         again: http://www.sis.gov.eg/egyptinf/culture/html/mmm.htm ...
+         ... WOMBLING somewhat more complex than previously suspected:
+         http://www.biomedware.com/Help/GEM/About_wombling.htm ... wha-
+         ssup, DOC-TOR? http://rtf.kracked.com/shite/drwhotrue.avi ...
+         where's KEVIN? #2: http://tv.cream.org/gorilla/winkery/ ...
+         CHRIS MORRIS imitates NATHAN BARLEY imitating - oh, never
+         mind: http://www.warprecords.com/bluejam/barguide/ ...
+
+
+                                >> GEEK MEDIA <<
+                        the less rude www.tvgohome.com
+
+         TV>> OK, so our much-vaunted appearance on RIGHT TO REPLY
+         (7.30pm, Fri, C4) was basically a more "serious" adaptation of
+        http://www.guardian.co.uk/Archive/Article/0,4273,4118407,00.html
+         with most of the jokes taken out - but, hey, Warren Ellis!...
+         Sky once again prove their scheduling mastery with back-to-
+         back crossover episodes of BUFFY (8pm, Fri, Sky1) and ANGEL
+         (9pm)... and the rest of the week it's Nazis, Nazis, Nazis -
+         again - with the paratrooper invasion of Crete in TIMEWATCH
+         (9pm, Fri, BBC2), Operation Barbarossa in THE WORLD AT WAR
+         (8.05pm, Sun, BBC2), Rudolph Hess in HITLER'S HENCHMEN (8pm,
+         Sun, C5), subtly-titled three-part docu NAZI WOMEN (9pm, Mon,
+         C4) plus, of course, the still jaw-dropping anti-sci-fi epic
+         STARSHIP TROOPERS (9pm, Tue, C5) - part of an unofficial
+         Verhoeven season which also includes his "lost masterpiece",
+         SHOWGIRLS (10pm, Sun, C4)... giant insects similarly roam
+         through average George "A-Team" Peppard '70s post-apocalypser
+         DAMNATION ALLEY (12.20am, Sat, BBC1) - great truck, though:
+         http://www.geocities.com/Baja/Desert/7445/thelandmaster.htm
+         ... other themes of the week include '80s brat-pack movies,
+         with C5 counterprogramming CLASS (11.40pm, Sat) against the
+         end of THE BREAKFAST CLUB (10.50pm, Sat, BBC2), itself
+         followed by DINER (12.20am, Sat, BBC2)... and cannibalism, in
+         pre-Hannibal Miami Vice Radiophonic Workshop workout MANHUNTER
+         (10pm, Mon, C4), new docu series CANNIBAL (10pm, Tue, C4) -
+         intriguingly scheduled against a "Sausage Wars" episode of
+         BLOOD ON THE CARPET (9.50pm, Tue, BBC2) - plus NATIONAL VELVET
+         (3.35pm, Sat, BBC2), which features a horse tantalisingly
+         named "The Pie"... THE SHAPE OF THINGS THAT HUM (2.20am, Sun,
+         C4) squelches over the Roland TB-303... Matthew "Scream"
+         Lillard and Keri "Felicity" Russell enliven urban-myth teen-
+         killer DEAD MAN'S CURVE (11.15pm, Wed, BBC1)... while Douglas
+         Rushkoff is this week's goggle-eyed guest on DISINFO NATION
+         (1.10am, Thu, C4), apparently explaining "media viruses" and
+         why there's no "us" and "them" any more. No Doug, nowadays
+         it's just "us" and "you"...
+
+         FILM>> nice visuals, but Ridley Scott, as usual, forgets to
+         check if what he's filming has any kind of plot, in graphic
+         sub-standard Silence sequel HANNIBAL (http://www.screenit.com :
+         we see [Gary Oldman] [...] with his pants around his ankles
+         - and a very brief, but disorienting shot of what looks like
+         the lower part of [Oldman's] bare butt)... David Mamet cuts
+         back on the swearing in magic-of-moviemaking Waiting For
+         Guffman-esque goof-off STATE AND MAIN (http://www.screenit.com :
+         we see a great deal of [Sarah Jessica Parker's] nude leg
+         [...] and it's heavily implied that the rest of her is nude as
+         well)... while reader Lloyd Wood - who, we imagine, has no
+         reason to lie - attests that he saw the word "Minging" in a
+         bus ad for David Spade Disney feelgooder THE EMPEROR'S NEW
+         GROOVE (http://www.capalert.com : Thank you, Disney. You did
+         good ... this time. It is, however, a bitter pill to swallow
+         knowing you have done things like Kids, Chasing Amy, and Pulp
+         Fiction [Hebr. 5:14])... otherwise it's the titanic faceoff
+         between two hotly awaited CCG/RPG game adaptations: Pokemon-
+         but-in-The-Matrix-universe knock-off DIGIMON - THE MOVIE
+         (http://www.screenit.com : we hear a farting sound from a
+         young Digimon and then see some excrement on the floor below
+         it - this is later repeated; in the short film preceding the
+         main attraction, several animated characters hit or throw
+         things that hit a robot)... or Jeremy "Die Hard 3" Irons,
+         Marlon "Scary Movie" Wayans, Tom "Dr Who" Baker, Richard "The
+         Crystal Maze" O'Brien and Thora "Songs Of Praise" Birch -
+         together at last! - in cleric-free CGI-packed effects-fest
+         DUNGEONS AND DRAGONS (http://www.capalert.com : many, many
+         images of a form fitting breastplate - female; snakelike
+         parasite crawling under skin and coming out ears, repeatedly;
+         decayed human remains talking and giving instructions; open
+         mouth kissing; portrayal of magic as the "Force" - ref: Star
+         Wars(tm) - giving balance to all things)...
+
+         THE "VICTORIAN AFFECTATION" (being our new catch-all term
+         for books, magazines, or other print-based entertainment)>>
+         you know how it is: we rewrite our bestselller-analysing
+         script, then Amazon UK go and stop doing email updates and
+         put all their sales reports on the web like Amazon US.
+         Anyway, a snapshot of what you were buying until the start
+         of last week persists at http://www.ntk.net/books/ ,
+         complete with automated attempts to locate UK books on the
+         US site (note occasional "guesses" at US equivalents, where
+         exact matches may not be immediately apparent). Oh, and the
+         reporting software appears to have elided several different
+         episodes of the wildly popular THE ADVENTURES OF ROBINSON
+         CRUSOE (DVD or VHS); no such explanation appears to account
+         for the three separate purchases of KIDS FROM FAME
+         [SOUNDTRACK], making this jaunty '80s stage-school
+         Popstars-alike NTK Readers' Favourite Album Of All Time...
+         the rest of the chart continues to be dominated by
+         contemporary fiction, programming manuals and, of course,
+         Neal Stephenson, making us duty-bound to highlight the
+         rerelease of his ebullient 1980s campus-caper debut THE BIG U
+         http://www.amazon.co.uk/exec/obidos/ASIN/0380816032/needtoknow0e
+         - oh, and word on the international intelligence grapevine
+         is that James Bamford's sequel to THE PUZZLE PALACE is out
+         in April, snappily titled "Body of Secrets: Anatomy of the
+         Ultra- Secret National Security Agency: From the Cold War
+         Through the Dawn of a New Century" which, Star Trek-style,
+         would surely benefit from a flash on the cover saying "NOT
+         Officially Endorsed By The Ultra-Secret NSA!"... stuff we
+         *have* read includes: BRUCE STERLING's greatest Spice-Girls
+         -meet-nettime-meets-a-bunch-of-Turks-in-a-dark-alley
+         novel yet, ZEITGEIST (hardcover, UKP17.08), a futuristic glimpse
+         at the really big issues of 1997. Damn that publishing lagtime!...
+         GLYN MOODY revives an old Wired UK article - which became
+         http://www.wired.com/wired/archive/5.08/linux.html - for the
+         core of Penguin's REBEL CODE: LINUX AND THE OPEN SOURCE
+         REVOLUTION (RRP12.99) - starts well, with loads of Linus/
+         Sinclair QL/ Prince Of Persia scene-setting, though the
+         second half just regurgitates open-source press releases...
+         and, finally, a reader known only as "H0L" brought us bang
+         up to date, while maintaining the Victorian connection, by
+         planning to buy an ebook solely "to read all the great old
+         literature they have on http://www.blackmask.com ". Titles
+         include Sir Samuel Baker's THE RIFLE AND THE HOUND IN CEYLON
+         http://www.blackmask.com/books18c/rifledex.htm , an upbeat
+         travelogue containing invaluable big-game tourism advice
+         like "From the peculiar formation of the head, it is almost
+         impossible to kill a bull elephant by the forehead shot".
+         It's the stuff Rough Guides just don't tell you...
+
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+     "your power is no match against our patented P2P screengrab technology"
+                  http://www.ntk.net/2001/02/16/dohdave.jpg
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe? Mail ntknow-unsubscribe@lists.ntk.net
+                Subscribe? Mail ntknow-subscribe@lists.ntk.net
+     NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2001 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+              Press releases from naive PR people to pr@spesh.com
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,205 @@
+ _   _ _____ _  __ <*the* week^H^H^H^Hnow-monthly tech update for the uk>
+| \ | |_   _| |/ / _ __   __2006-06-09_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+Tips, news & gossip to tips@spesh.com - with NTK in subject line, cheers.
+
+
+                               >> HARD NEWS <<
+                         more They-Build-For-You's
+        
+         Understandably overlooked in the recent furore over John 
+         Prescott's "grace and favour" extravagances: the near-250K 
+         dropped by the Office of the Deputy Prime Minister in 2004 to 
+         help fund MySociety, the UK's premier purchaser of web domains 
+         consisting of combinations of the words "Them/ They", "Write", 
+         "Work", "For", "To" and "You". Apparently, they've got "a 
+         little bit" of that (among other) cash left over, and are 
+         therefore once again calling for proposals for projects that 
+         are "Founded on electronic networks", have a "Real world 
+         impact on democratic and community aspects of people's lives", 
+         and "Low or zero cost scalability", which ought to narrow it 
+         down from your usual late-night rambles about "LazyWebs". 
+         There isn't actually a disclaimer to this effect, but we 
+         suspect that, by entering, you're kind of waiving any personal 
+         ownership of your idea - and we don't think the "winner" 
+         actually gets any of the money themselves (unless they 
+         subsequently persuade MySociety to employ them as some sort of 
+         specialist contractor, which - by our limited understanding - 
+         is sometimes what spending public money is all about).
+         http://www.mysociety.org/proposals2006/about
+          - view "other people's proposals" for a decent starting point
+         http://www.mysociety.org/?p=217
+            - deadline extended to midnight June 16, especially for you
+         http://iawiki.net/LazyWeb
+                 - you'll run out of stack space if you recurse too far
+         
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         Reasons We Like The World Cup #1: pubs which aren't showing 
+         the matches will be temporarily transformed into temperate 
+         sanctuaries of calm and contemplation, where one can sit in a 
+         quiet corner with a cold glass of "Turbo Shandy", thoughtfully 
+         inscribing pencil notes in the margins of an O'Reilly manual 
+         or two. Or, if you like things a little livelier, there's also 
+         next Sat's @MEDIA SOCIAL (from 1pm, Sat 2006-06-17, The Livery 
+         Bar, 130 Wood Street, nr St Paul's, London EC2V 6DL, free but 
+         buy your own drinks and food) - a fringe event to this week's 
+         @Media web design conference, and featuring a "best of" lineup 
+         from this year's London Geek Dinners, including Molly "Web 
+         Standards Project" Holzschlag and Dave "CSS Zen Garden" Shea. 
+         Specific get-togethers are scheduled for particular fields 
+         (2pm CSS, 3pm Accessibility, 4pm JavaScript etc) during the 
+         afternoon, a thoroughly civilised arrangement which bodes 
+         somewhat better than some "fringe" events we've been to 
+         recently, not least because they've relaxed that usual daft 
+         "Geek Dinner" criterion of having to pay in advance for a 
+         variable-quality pub buffet. 
+         http://www.vivabit.com/atmedia2006/social
+                           - warning: page contains embedded Google map
+         http://spy.typepad.com/reporting/2006/05/wemediafringe.html
+                 - "Alan Connor [...] was very engaging"; others not so
+         http://www.wnc.co.uk/tg/turboshandy.html
+               - or a Vodka Mule or Lemon Bacardi Breezer, if available
+         http://www.andfinally.com/geek.html
+           - this June 18: Bill T still promising "6 [punts] per person"
+         
+         Something else on which we and cheeky Nico Macdonald (however 
+         reluctantly) agree: we wouldn't put money on the "ad-hoc un-
+         conference" concept of BARCAMP LONDON actually happening 
+         "sometime in June/July" now - unless they're referring to the 
+         "June/July" of a different year. Perversely picking one of the 
+         less summery months for *their* annual "off-site", however, is 
+         the BURNING-DORK DORKING-BURN DORKBOT-LONDON CAMP (Bentley 
+         Copse Scout Camp, nr Dorking, Sep 2006-09-01/04, probably some 
+         sort of small accommodation charge), the ideal opportunity to 
+         finally get your badge for GPS Open-Mapping, Self-Sufficient 
+         Electric Animal Constructing, or other traditional "People 
+         Doing Strange Things Without Mains Electricity" activities.
+         http://dorkbot.org/dorkbotlondon/camp06/
+                   - vs http://www.ica.org.uk/index.cfm?articleid=15015
+         http://barcamp.org/BarCampLondon
+                   - Brit bloggers : un-conference :: piss-up : brewery
+         
+
+                                >> ANTI-MEMES <<
+               there's smoke, flames, http://dohthehumanity.com/
+
+         BBC News Online: where science fiction becomes... science 
+         captions - "The circuits in existing iPods will not work with 
+         nano-transistors": http://news.bbc.co.uk/1/4768323.stm , vs 
+         "Cloaking devices are a staple of science fiction stories": 
+         http://news.bbc.co.uk/1/5016068.stm ... good-enough-to-eat 
+         Google goofs: http://google.com/search?q=%22web-basted%22 , 
+         http://www.google.co.uk/search?q=%22diary%20farmers%22 , 
+         http://www.google.co.uk/search?q=%22investment+baking%22 , 
+         http://www.google.com/search?q=%22please+beer+with+me%22 , 
+         http://google.com/search?q=%22kentucky+friend+chicken%22 , 
+         http://www.google.co.uk/search?q=%22lime+manager%22 , plus 
+         http://google.com/search?q=%22cafe+rogue%22 - favoured eating 
+         place of http://www.ntk.net/index.cgi?b=02003-03-07&l=99#l 's 
+         "Rouge Trooper"... go to http://google.co.uk/search?q=SOCKS , 
+         click top-left Sponsored Link, weary-sounding lxdirect.com 
+         announces "Your search for 'cocks' was spell-corrected to 
+         'socks' and produced 31 results"...
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         If you want to be truly loved, write a data recovery utility. 
+         We can't imagine there's a day when Christophe Grenier isn't 
+         swathed by offers of beers, steak dinners and marriage for 
+         TESTDISK and PHOTOREC, his two open source disk and file 
+         recovery utilities. The test TestDisk gives is sort of a final 
+         exam for your futzed partition block, quizzing your unreadable 
+         drive for tell-tale NTFS, HFS+, Ext3 or what-have-you data, 
+         and cribbing the lost partition data from what it finds. 
+         PHOTOREC gives up on such fripperies as a filing system and 
+         instead grubs directly on the drive for file data, spotting 
+         beginnings for popular file formats and having a stab at where 
+         their ends might be hanging. PHOTOREC, as the name suggests, 
+         started as a utility for clawing back pictures from bit-rotten 
+         flash cards, but can now sniff out files from Ogg Vorbis to 
+         Microsoft Powerpoint. Both utilities will run on Mac, DOs, 
+         Windows, Linux, and probably vegetable oil for that matter. 
+         Forget about them for now - when you need them, you'll find 
+         them.
+         http://www.cgsecurity.org/wiki/TestDisk_Download
+             - though you'll waste an hour searching NTK for "olive oil"
+         http://www.flickr.com/photos/manuelidades/113461346/
+                   - voila! c'est un web deux point zero shot de screen
+
+         
+                                >> GEEK MEDIA <<
+                                  get out less
+         
+         TV FEEBDACK>> Reasons We Like The World Cup #2: eventually the 
+         BBC will stop showing that appallingly contrived "stupid 
+         foreigners taken commentating metaphors literally" promo 
+         http://www.duncans.tv/2006/bbc-fifa-world-cup - "The stadium 
+         has come to life!" (you see what they've done there?). Still, 
+         you're relatively safe on ITV4 - even though they've run out 
+         of "Larry Sanders", there's still another 40 or so episodes of 
+         DREAM ON (0.25am, Tue, ITV), they're re-repeating UFO (6pm and 
+         1.55am, Tue, ITV4 - the "Mindbender" one where Straker 
+         hallucinates he's on a film set being a particular highlight), 
+         plus they're just coming up to the acclaimed "Sniper" story in 
+         HOMICIDE: LIFE ON THE STREET (9pm, Fri and Sun, ITV)... 
+         
+         Elsewhere, the Radio Times anticipates interviews with "bands 
+         who made it big on the back on rave culture" in SUMMER OF - 
+         RAVE, 1989 (9.10pm, Sat, BBC2) - likely to include The Shamen, 
+         who were releasing "remix it yourself" CDs as far back as 
+         1991: http://discogs.com/release/58164 . Noel Edmonds takes on 
+         the football with prime-time bouts of DEAL OR NO DEAL (around 
+         8pm, Mon-Fri, C4), but this week's Freeview finds remain 
+         skateboarding docu DOGTOWN AND Z-BOYS (9pm, Tue, More4), and 
+         the imminent second season of Robbie Coltrane psycho-profiling 
+         classic CRACKER (11pm, Thu, ITV3)... 
+         
+         Which just leaves, in the wake of last month's comments on the 
+         overuse of "H128" in Irwin Allen's "City Beneath The Sea" 
+         (almost every minute at around 0:45, peaking at once every 10-
+         15 seconds), ANDY TRIBBLE's allegation as follows: "When Jon 
+         Pertwee was the Doctor he was stranded on a planet along with 
+         some Daleks and humans [...] in search of some magic element 
+         that could stop a plague", an element which Terry Nation had 
+         mischievously named "Perineum". So, "Jon had to run about 
+         saying things like 'If only we could get our hands on the 
+         Perineum' etc etc". In fact it was spelled "Parrinium", Andy 
+         http://google.com/search?q=daleks+parrinium - a fact we record 
+         here primarily to preserve any other readers from the eye-
+         opening results of Googling for perineum + "doctor who"... 
+
+          
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last month or might happen next month. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as           
+                         "hospitable, but music-free"
+         http://www.theregister.co.uk/2006/06/07/another_effing_own_goal/
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2006 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+    Tips, news and gossip to tips@spesh.com - with NTK in the subject, cheers.
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+

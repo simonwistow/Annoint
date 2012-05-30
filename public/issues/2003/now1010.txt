@@ -1,0 +1,274 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-10-10_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "Lewis said [VeriSign] needs to make money from new services 
+         such as Site Finder, or it will not be able to protect the 
+         Net's critical infrastructure. He cited a hacker's attack on 
+         the domain name system last year, in which VeriSign servers 
+         remained relatively unscathed - largely because of the 
+         'substantial amount of capital we've had to invest,' he said."
+                         http://news.com.com/2100-1038_3-5087139.html 
+            ...Nice internet you've got here. Be a shame if something 
+                                                  "happened" to it...
+
+
+                               >> HARD NEWS <<
+                             no cause to enthuse
+
+         Well, we're into those last precious days of freedom before
+         the EUCD gets implemented in the UK. The final
+         implementation, signed off by Parliament last Friday (yes,
+         we missed it too), now makes time-shifting TV shows only
+         legal "for domestic use", bans practically anything else,
+         and puts the DMCA-like clampers on breaking copyright
+         protection. Except, that is, for "the purposes of research
+         into cryptography" - which just goes to show that even the
+         government is scared of Ross Anderson's wrath. Even then,
+         you're doomed if you affect "prejudicially the rights of the
+         copyright owner". Clearing out the cupboards, then, here's
+         that code we mentioned last week that shows the weakness of
+         Network Solution's whois captcha tech. And if they can't
+         protect the public's domain database, can we really trust
+         them with its misspellings?
+         http://www.patent.gov.uk/copy/notices/2003/copy_direct3.htm
+                                    - worse to tell you on this topic
+         http://www.ntk.net/2003/10/10/whoisnt.tar.gz
+                               - last hurrahs not indicative of guilt
+         http://www.theregister.co.uk/content/6/33322.html
+         - it's the shift key! press the SHIFT K-          NO CARRIER
+
+         Highlight of this week's LONDON LINUX EXPO (well, apart from 
+         the guy who'd signed in as something like "IP enforcement 
+         officer, SCO") - all the dedicated Linux evangelists who'd got 
+         as far as persuading their mums to use Mozilla, only to find 
+         them subsequently thrown out of respectable high-street store 
+         sites like Marks and Spencer ("optimised for use with the most 
+         popular browsers - IE5, Netscape 6.1, AOL browser version 5.0 
+         and above"). Even less excusable - as it's directly funded by 
+         your taxes - is this month's new contender for a Usability 
+         Makeover: the Department for Work and Pensions JOBCENTRE PLUS, 
+         whose Jobsearch feature is variously described by Yosser 
+         Hughes-like NTK readers as "a horrible attempt to reinvent the 
+         wheel" and "breaking Moz, Firebird, perhaps Opera too?". 
+         Though unemployed layabout ASHLEY POMEROY spoiled it somewhat 
+         by going on to point out that "The Welsh language version is 
+         amusing because Welsh looks like Klingon, and the thought of 
+         unemployed Klingons working behing the counter at Tesco makes 
+         me smile, and I shall put this to the people in Tesco next 
+         time I go there, yes I shall, I shall liken them to Klingons". 
+    http://www.jobcentreplus.gov.uk/cms.asp?Page=/Home/Customers/SearchforaJob
+             - vs http://www.jobcentreplus.gov.uk/cms.asp?Page=/Welsh
+         http://www.marksandspencer.com/disallowed.html
+                 - do the shops still not accept credit cards either?
+         http://www.reverendrat.com/
+            - apparently he does something similar "at all the shows"
+
+         Though to be honest, our current favourite Webscraper has to be
+         PUBLIC WHIP, which is what happens when you slam Hansard and
+         MATLAB together very hard. Find out the latest votes, how your
+         MP voted, their attendance record, watch for backbench
+         rebellions, and then see them all crammed into little
+         behavioural clusters via a compact java applet. Apart from the
+         cheap thrill for us of recommending some obsessive-compulsive
+         hack-the-democracy site that hasn't just been slapped up by our
+         mates, it should also prove invaluable for those who don't want
+         to see another EUCD sneak by without a whisper of complaint.
+         Now all it needs is other people to scrape it for their own
+         single-issue obsessed sites. Power to the meta-meta-people!
+         http://www.publicwhip.org.uk/
+                  - information wants to be plotted in colour doodads
+http://www.news24.com/News24/South_Africa/News/0,,2-7-1442_1427869,00.html
+                     - if you tolerate this: your pizza could be next
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         (also a popular Google goof) "And about time too - she's 
+         hideous!": http://www.ntk.net/2003/10/10/dohbeaut.gif vs 
+         http://www.google.com/search?q=beatification+beautification 
+         ... not the best week for Reebok to be running its WHODUNIT? 
+         campaign: http://www.b3ta.com/board/2118710 ... not what footy 
+         needs right now: http://www.ntk.net/2003/10/10/dohpubic.gif 
+         ... more placeholder hilarity: http://www.proscript.co.uk/ ... 
+         crack http://www.encrypta.com/company.htm 's secret message 
+         (bottom of page)... help ROBIN COOK choose his favourite 
+         integers: http://www.robincook.org.uk/cook/rc_pollstn.asp ... 
+         2x missing millions: http://www.ntk.net/2003/10/10/doh15v1.gif 
+         vs http://www.ntk.net/2003/10/10/doh15v2.gif ... excessive 
+         emphasising (from "Important" on) implies it's all YOUR fault: 
+         http://www.easyjet4insurance.com/brand/easyjet/products.htm 
+         ... hit "Cancel" to teach child of their insignificance in 
+         wider scheme of things: http://www.toweroflondontour.com/kids/ 
+         ... http://forum.edge-online.com/ flaunts insider credentials 
+         ... http://www.joinarnold.com/en/agenda/arnoldsviews.php#hh1 - 
+         VY DIDDEN YOU LISTEN DER FIRST TIME?... 
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Now located - without a hint of irony - in one of the old SGI 
+         buildings on Shoreline Blvd, the Mountain View Computer 
+         History Museum hosts its sixth VINTAGE COMPUTER FESTIVAL AND 
+         BOOK SALE this weekend (9.30am-6pm, Sat & Sun 2003-10-11 & 12, 
+         corner of Highway 101 and Shoreline, California 94043, $5). 
+         Highlights include "operating Xerox Altos and D* machines", a 
+         "retro-code videogame programming challenge" (Atari 800, C64, 
+         and Apple 2), plus "over 15" computer history lectures, though 
+         the scariest thing we saw when we were there was the (non-
+         functioning) Cray 2 cooled by fluorinert, a liquid also used 
+         as an artificial substitute for human blood plasma. Somewhat 
+         closer to home, NTK reader/ former PC games reviewer MIL 
+         MILLINGTON will be launching his followup to "Things My 
+         Girlfriend And I Have Argued About", neurological rom-com 
+         novel A CERTAIN CHEMISTRY at his local Wolverhampton branch of 
+         Waterstones (7pm, Mon 2003-10-10, 13-15 Victoria Street, 
+         Wolverhampton, UKP3, "for Tickets, phone: 01902 427219") - a 
+         gesture of defiance to all those modern multimedia artists who 
+         just waltz into a month-long residency at the ICA without 
+         working their way up through the Northern working men's 
+         galleries and book readings like you had to in the old days. 
+http://www.amazon.co.uk/exec/obidos/tg/stores/static/-/waterstones/events/
+             - introduced/ interrupted by NTK's very own "Dave Green"
+         http://www.richardherring.com/gigs/
+                      - Rich Herring also gets his book out, from Tue
+         http://www.computerhistory.org/events/vcf6/
+           - hey, http://www.vintage.org/2003/main/ seemed to be down
+         http://www.fipr.org/sfs7.html
+           - another Scrambling for Safety event in a couple of weeks
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         Although YAML's Perlish originators might choke on the idea,
+         this standard looks to be the Python of markup. Designed to
+         be human-readable and human-editable, it eschews all those
+         pointy bracketed, no whitespace, entity-escaping of those
+         weird SGML mongrels. Instead, it's all indents and
+         linebreaks - perfect for configuration files and data-
+         dumping. There are now YAML writers and parsers for Perl, 
+         Python, Java, Ruby and C. And it's about as rebellious as 
+         markups get.
+         http://www.yaml.org/
+                                       - YAML ain't a Markup Language
+         http://whytheluckystiff.net/syck/
+                                         - but syck is, in fact, syck
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         Speccy emulator - for ZX81: http://www.chuntey.com/SP81/ ... 
+         thanks, that ought to do it: http://www.blaine-appeal.co.uk/ 
+         ... Mmm, cookie - accepted!: http://www.jibble.org/cookies.php 
+         - vs "I used the iterator once [...] and it [doesn't] seem to 
+         work": http://www.c2.com/cgi/wiki?ExternalIterator ... time to 
+         start the petition for "Star Wars kid" as the next "Dr Who": 
+         http://www.livejournal.com/users/internetsdairy/24125.html ... 
+         technicolor phrenology ... this week's Amazon insomnia-cure: 
+         http://www.amazon.com/exec/obidos/tg/detail/-/9992154705/ ... 
+         this week's WWW insomnia-cure: www.britishparking.co.uk/ ... 
+         http://www.montalk.net/potter.html : "Harry Potter - An 
+         Introduction Into 4th Density?" - apparently from the site 
+         that brought you "TELETUBBIES: Nazi Hybrid Greys in Disguise": 
+         http://www.angelfire.com/mt/montalk/teletubbies.html ... fresh 
+         from Museum of Techno - surely can't be Paul Oakenfold, can 
+         it?: http://www.ntk.net/2003/10/10/superstarsremix.mp3 (4 meg 
+         MP3, long breakdown section believed to be space for Madonna's 
+         "Vogue"-style rap: "Daley Thompson, and Geoff Capes/ Officials 
+         with their measuring tapes")...
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> worried that bad guys might start to recognise him from 
+         off the telly, MACINTYRE UK UNDERCOVER (9pm, Fri, C5) sends 
+         Donal's similar-looking brother into residential care homes - 
+         not to be confused with would-be "Colditz" remake P.O.W. (9pm, 
+         Fri, ITV)... GRUMPY OLD MEN (9.50pm, Fri, BBC2) appears to be 
+         a celebrity talking heads version of "Room 101" featuring Bob 
+         Geldof, John Peel, Will Self etc, who should ideally conclude 
+         the show by following the example of the original fuel-tax 
+         protestors in CONVOY (12.15am, Fri, BBC1)... as the "American" 
+         sequence of films - "Psycho", "Beauty", "Pie", "Gigolo", 
+         "Graffiti", "Werewolf In London" - takes an even more violent 
+         turn in Ed Norton's AMERICAN HISTORY X (10.55pm, Sat, C4)... 
+         FIGHTBOX (7.30pm, Mon-Fri, BBC3) is "the new Robot Wars", from 
+         EC1-based web design house Bomb.co.uk... fans of adolescent 
+         inanity are well-catered to by the likes of "too hot for 
+         school's programmes" TEEN BIG BROTHER: THE EXPERIMENT (10pm, 
+         Mon-Fri, C4), Adam Sandler golfing goof-off HAPPY GILMORE 
+         (11.25pm, Mon, ITV), plus feature-length workplace health and 
+         safety violation COYOTE UGLY (9pm, Wed, ITV)... while both 
+         Marisa "Freddy Got Fingered" Coughlan memetic slasher GOSSIP 
+         (11.10pm, Mon, C4) and Brittany Murphy virgin-murderer CHERRY 
+         FALLS (11.15pm, Wed, BBC1) came out the very same week in the 
+         UK: http://www.ntk.net/index.cgi?b=02000-08-25&l=198#l ... the 
+         "Wife Swap" format goes intriguingly off the rails in WHEN 
+         MICHAEL PORTILLO BECAME A SINGLE MUM (9pm, Wed, BBC2) - while 
+         the single mum in question is off being MP for Kensington and 
+         Chelsea?... the author of Quatermass is profiled in THE KNEALE 
+         TAPES (9.30pm, Wed, BBC4), followed by psychometric sci-fi THE 
+         STONE TAPE (10.10pm, Wed, BBC4)... though only Londoners get 
+         to see RACE AROUND THE UNDERGOUND (7.30pm, Thu, ITV), an 
+         attempt at the tube-traversing challenge documented, in vivid 
+         detail, by that guy who does the unofficial Fox's biscuits fan 
+         page: http://www.geofftech.co.uk/tubechallenge/ ... 
+         
+         FILM>> good enough for you to forgive both the smaller breasts 
+         in "Knick Knack" http://www.metafilter.com/mefi/26116 *and* a 
+         mildly annoying performance from Ellen DeGeneres, it's FINDING 
+         NEMO ( http://www.capalert.com/capreports/findingnemo.htm : 
+         series of posterior references and jokes/comments by young 
+         adolescents; adolescent defiance; suggestion of flatulence)... 
+         otherwise a shamefully limited release for low-budget social-
+         mobility-myth braces-and-glasses junior geek docu SPELLBOUND 
+         ( http://www.bbfc.co.uk/ : contains one use of mild language) 
+         ... in contrast with relatively unreconstructed 1980s-style 
+         necrotising fasciitis cheapo backwoods horror CABIN FEVER 
+         ( http://www.cndb.com/movie.html?title=Cabin+Fever+(2003) : 
+         Cerina Vincent the always nude girl from Not Another Teen 
+         Movie, does it again; after, she shaves her legs with 
+         interesting results, then is literally torn apart by this 
+         crazy German Shepherd mix)... 
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+             "Originated the idea for using figlet" - for anything!
+                       http://www.b3ta.com/board/2072396
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
+
+

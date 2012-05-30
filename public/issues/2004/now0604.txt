@@ -1,0 +1,213 @@
+   __  __ _2004-06-04   _________  __
+  |  \/  (_)_ __ (_) \ | |_   _| |/ /    o Subscribe via the beauty of
+  | |\/| | | '_ \| |  \| | | | | ' /     o   http://lists.ntk.net/
+  | |  | | | | | | | |\  | | | | . \     o Website (+ archive) lives at:
+  |_|  |_|_|_| |_|_|_| \_| |_| |_|\_\    o      http://www.ntk.net/
+
+          [ NTK is on its June "Geeks Go Comatose!" Summer break, but
+          we're interrupting that to give you this, the final outline
+          of NOTCON, this Sunday's improvisational gabberfest. We're
+          quite excited, though whether that's because it will turn
+          out to be a watershed moment in the UK digital scene or
+          because the prospect of imminent chaos always gets us hot,
+          is as yet unclear.
+
+          Turn up early, pay four quid (three if you can give us the
+          URL of your RSS feed, or are in some other way pitied by
+          normal society), and partake of the following: ]
+
+
+                                  >> NOTCON <<
+                            http://www.notcon04.com/
+
+          OBLIGATORY LAST MINUTE PLEA: Got an LCD projector? Want to
+          bring it along to NotCon? Email projectors@ejhp.net . And if
+          you have a nice long length of Cat-5, please bring that
+          along too. (As if you wouldn't.) Mail cat5@ejhp.net to boast
+          its imminent arrival. Ta!
+
+     NotCon '04 is an informal, low-cost, one-day conference on things
+     that technologies were perhaps not intended to do. It spans
+     11am-7pm on Sunday June 6th, 2004.
+
+     You can get to it by going to Imperial College Union, Beit Quad,
+     Prince Consort Road, South Kensington SW7 2BB (nearest tubes
+     South Kensington and Gloucester Road - NB: Piccadilly line only
+     at weekend, no service on Circle line, no District line between
+     Whitechapel and Earls Court). Some food (vending machines etc) 
+     will beavailable at the venue but you are advised to visit local
+     retailers and hostelries for more substantial fare.
+     http://streetmap.co.uk/newmap.srf?x=526559&y=179497 
+                               - lat: 51:29:58N, lon: 0:10:39W (approx)
+     http://www.xcom2002.com/nc04/venue.php
+                                        - directions + local amenities
+
+
+                                 >> SPEAKERS <<
+
+     Please note that places will be limited by the size of the venue;
+     tickets will be on sale from 10.50am and doors open at 11am, so
+     basically turn up as early as you can. 
+
+     11.30am-12.30pm:                  11.40am-12.30pm:
+     Intro and Life Hacks              Geolocation
+     10 min introduction to the        Chair: Chris Lightfoot
+     event followed by...
+                                       Urban Tapestries: Building a
+     Life Hacks: Tech Secrets of       Space-based App Without
+     Overprolific Alpha Geeks          Thinking About Technology
+     - Dan O'Brien                     - Nick West
+                                       Creating stress/excitement
+                                       maps of London
+                                       - Christian Nold
+                                       Creating Collaborative City
+                                       Guides with OpenGuides
+                                       - Earle Martin
+                                       Dealing With The Top 10
+                                       Worst Situations In Urban
+                                       Exploration
+                                       - ProjectZ
+
+     12.30pm-1.30pm:                   12.30pm-1.30pm:
+     Hardware                          Politics OF the net
+     Chair: Matt Jones                 Chair: Tom Steinberg
+
+     Telling the time (not very        The Consensus view
+     accurately) using a Marks &       - Cory Doctorow
+     Spencer prawn sandwich and a      The Neo-con Net
+     BBC micro                         - Bill Thompson
+     - James Larsson                   Sociological perspectives
+     New hardware/software             - Will Davies
+     developments on the Sinclair
+     Spectrum
+     - Matt Westcott
+     Why Interactive telly isn't
+     the Web, why it never will
+     be, and why that's good
+     - George Wright
+     How to Email Your Video (and
+     other things to make your
+     home come alive - literally)
+     - Steven Goodwin
+     Camera-Phones: the only
+     remote control you'll ever
+     need
+     - Anil Madhavapeddy
+
+     1.30pm-2pm:                       1.30pm-2pm:
+     Break                             Wireless interlude
+     [Possible seating                 Bristol Wireless - a quick
+     re-arrangement]                   overview
+                                       - Peter Ferne
+                                       Network commons - legal
+                                       aspects of open public
+                                       networks
+                                       - .nbco, Bruce M Simpson &
+                                       .vortex
+
+     2pm-2.50pm:                       2pm-2.50pm:
+     Copyright pt 1                    Mashups and MP3s
+                                       Chair: Will Head
+
+     Universal access to human         Panel discussion:
+     knowledge                         - Lionel Vinyl
+     - Brewster Kahle                  - Wendy Seltzer, Chilling
+                                       Effects
+
+                                       Why we built Audioscrobbler
+                                       - Richard Jones
+
+     3pm-4pm:                          3pm-4pm:
+     Copyright pt 2                    Social software
+     Chair: Dan O'Brien                Chair: Wendy Grossman
+
+     Goodbye (Project) Gutenberg?      Flox: An Open Source Social
+     What's the new world of IP        Network
+     doing to plaintext?               - Simon Cozens
+                                       Editing text for live gabba
+     Panel discussion:                 techno performance
+     - Brewster Kahle, The             - Alex McLean
+     Internet Archive                  4rthur.com: organically
+     - Rob Hamadi, The Publishers      grown social software
+     Association                       - Scott Matthews
+     - David Tannenbaum, Union for     Open Webcasting and
+     the Public Domain                 Collaborative Scheduling
+     - James Wallis, niche             - Gavin Starks
+     publisher and author
+     - Cory Doctorow, Boing Boing
+
+     4pm-4.30pm:                       4pm-4.30pm:
+     Break                             Business break
+     [Last chance to enter "My         Chair: Steve Bowbrick
+     Worst Blog Post" competition
+     - either post your entries to     Shit I'm A Manager
+     the wiki or print them out        - Tom Dolan
+     and bring them on the day]        Mediocrities of Scale
+                                       - Pete Windle
+
+     4.30pm-5.20pm:                    4.30pm-5.20pm:
+     Blogging with a point             Peer-to-peer pt 1
+     Chair: Dave Green                 Chair: Christopher Soghoian
+
+     A controlled study on the         Free as in "Freenet"
+     impacts of blogging within a      - Ian Clarke
+     defined geographical location
+     - Richard Holmes, BBC
+     Scotland Interactive
+     MPs and Weblogs
+     - Tim Ireland
+
+     5.30pm-6.20pm:                    5.30pm-6.20pm:
+     Politics ON the net               Peer-to-peer review
+     Chair: Tom Steinberg              Chair: Paula Le Dieu
+
+     Unveiling of a new project        Anonymous P2P services
+     from the people behind            - Christopher Soghoian
+     FaxYourMP and PublicWhip          P2PQ: From Local Knowledge
+                                       to Selling $tuff
+                                       - Akin O. Fernandez
+                                       A Darker BitTorrent
+                                       - Ash Argent-Katwala
+                                       Gmail, Search and Content
+                                       Discovery
+                                       - Peter Jones
+
+     6.30pm-6.45pm:
+     Any other business/ closing remarks
+     Announcement of winners for
+     "My Worst Blog Post"
+     competition
+
+     Final lineup may - nay, will - be subject to alteration due to
+     circumstances beyond our control.
+
+
+                                >> SMALL PRINT <<
+
+        Need to Know is a useful and interesting UK digest of things that
+          happened last week or might happen next week. You can read it
+        on Friday afternoon or print it out then take it home if you have
+      nothing better to do. It is compiled by NTK from stuff they get sent.
+                        Registered at the Post Office as
+             "could be worse, we could have Marc Andreessen keynote"
+                             http://www.web2con.com/
+
+
+                                  NEED TO KNOW
+             THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                          Archive - http://www.ntk.net/
+               Unsubscribe or subscribe at http://lists.ntk.net/
+  NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                           (K) 2004 Special Projects.
+              Copying is fine, but include URL: http://www.ntk.net/
+          Full license at: http://creativecommons.org/licenses/by/1.0
+
+   Tips, news and gossip to tips@spesh.com - with "NTK" in the subject line.
+              All communication is for publication, unless you beg.
+    Remember: Your work email may be monitored if sending sensitive material.
+        Sending >500KB attachments is forbidden by the Geneva Convention.
+               Your country may be at risk if you fail to comply.
+
+
+

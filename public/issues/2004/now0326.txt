@@ -1,0 +1,253 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2004-03-26_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+        "As a first step, the BPI yesterday unveiled a campaign to 
+         make people aware that file-sharing was illegal. A message 
+         will automatically appear on the computer of anyone illegally 
+         downloading music that will warn them that they are in breach 
+         of copyright law and could face legal action..."
+http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2004/03/26/ndown26.xml
+             - further transgressions will activate the BPI's patented 
+                           USB 2.0 wrist-slapping device (if installed)
+
+
+                               >> HARD NEWS <<
+                              boiled into glues
+ 
+         Actual intelligence on the "artificial" intelligence shown by 
+         the much-lauded NannieBot continued to leak out this week, 
+         with a new chat transcript placing the bot in the unusual 
+         position of trying to convince cynics that it's actually a 
+         computer (via a handy "error:beginning core dump::modRecover" 
+         "accidental" bug report and the semi-convincing can't-parse-
+         that excuse "i know food, beer and music! not much else!"). A 
+         lot of the criticism seems to hinge on the fact that the AI 
+         can't be as intelligent as it appears, though no-one's proved 
+         this isn't an artefact of (say) probabilistic Markov chaining 
+         of typical chatroom replies. Our tip for the next person to 
+         put it to the test: try asking it things it couldn't derive 
+         from existing chat transcripts (What's the first letter of the 
+         word "Cat"? What do you think will be in the news tomorrow?) 
+         or, heck, even the "Please write me a sonnet on the subject of 
+         the Forth Bridge" that Turing originally had in mind.
+         http://www.waxy.org/archive/2004/03/23/nanniebo.shtml
+         - (Comment) "A friend and I spent some time trying to come up 
+             with a neural net chess-playing program... To make a long 
+                                           story short, it didn't work"
+   http://www.cs.nott.ac.uk/~gxk/courses/g5aiai/002history/turing_test.htm
+             - vs http://www.alicebot.org/articles/wallace/turing.html
+
+         Junk science, junk faxes, junk mail. Microsoft quaintly
+         received news of Wednesday's EU497 million bill for Windows
+         Media Player by fax (we imagine attempts to send it by
+         Outlook mysteriously bounced). The company spent a few
+         minutes with the currency calculator before chucking it in
+         the "due to pay after five years of appeals" folder. Funnily
+         enough, Gates spoke last month about trying to find a way of
+         reducing the $52.8 billion dollars of cash that the company
+         currently sits on. "There will come a point... where we
+         probably will change the balance sheet of the company, and
+         make it more pure", he said. A quote that works a lot better
+         if you say it with a German accent.
+         http://forbes.com/reuters/newswire/2004/02/26/rtr1277828.html
+                   - or as General Jack D Ripper from "Dr Strangelove"
+
+         Continuing in that accent, deceptively British spamgilantes
+         SPAMHAUS finally crumbled to the "my solution to spam is
+         unstoppable!" tendency by launching a bid for a .mail
+         domain. The domain will be restricted to only the finest,
+         most pure mail servers (please to fax $2000 bond to
+         domainmaster@nic.mail). Global whitelists do appear to be
+         the new black right now. Even the good old RBL reverse-DNS
+         systems are being reversed for listing the IPs of known good
+         guys - witness this week's launch of ISIPP's "Accreditation
+         Database" of known opt-in-all-the-trimmings mass mailers.
+         Only ten bucks: but is that what it's going to take to get
+         past the filters these days?
+         http://www.clickz.com/news/article.php/3325981
+                                                        - (rhetorical)
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         high on own supply?: http://www.coffeeaddict.co.uk/search.php3 
+         ...old thrill revisited - case of the missing superscript tag: 
+         http://www.ntk.net/2004/03/26/dohpeta.gif ... Dublin model 
+         village, that is: http://www.ntk.net/2004/03/26/dohmil.gif ... 
+         holding terrifyingly obsessive conversations - with herself: 
+         http://www.frogger.uklinux.net/_forums/?n=Ann%20Widdecombe ... 
+         perceptively, how sports reporting sounds to the rest of us: 
+         http://www.ntk.net/2004/03/26/dohlivi.gif ... Straw to avenge 
+         Sauron's death: http://www.ntk.net/2004/03/26/dohsaur.gif ... 
+         you wanna see a "Privacy Policy"? I got your "Privacy Policy" 
+         right here: http://www.ntk.net/2004/03/26/dohtick.gif ... non-
+         alarmist advice from MS's now defunct small business support: 
+       http://www.google.com/search?q=%22once+a+hacker+has+locked+onto%22
+       ... new OS strategy: http://www.ntk.net/2004/03/19/dohpowerpc.gif
+... love that "retro" styling: http://www.ntk.net/2004/03/26/dohintelli.gif
+
+
+                               >> EVENT QUEUE <<
+                         GOTOs considered non-harmful
+
+         You can save as much as 100 quid if you pre-register for THE 
+         SECOND INTERNATIONAL CONFERENCE ON APPLIANCE DESIGN before 
+         April 1st (Tue-Thu 2004-05-11/13, HP Labs, Bristol) - it still 
+         costs upwards of UKP199 (student rate) if you do so, though 
+         that covers both a robot football tournament *and* Alan "Xerox 
+         PARC" Kay. Plus, you could even save on accommodation: 
+         ConConUK attendee Pete Ferne rashly promises that he's got 
+         "plenty of floor space, settees and mattresses in a largeish 
+         house in central Bristol" and - answering your very next 
+         question - "wireless broadband access throughout", though an 
+         undertaking to "sample the delights of Bristol" may constitute 
+         your side of this Faustian deal. 
+         http://wiki.oreillynet.com/etech/hosted.conf?MoreUkGatherings
+        - seriously, isn't http://www.kidcarpet.co.uk from round there
+         http://wtfcon.org/
+        - considerably cheaper opinions on appliances etc this weekend
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         The biggest problems afflicting Social Networking websites
+         are that a) they cause you to spray your personal
+         information around like an overeager dog marking its
+         territory, b) they're all centralised and therefore Tools Of
+         The Man, and b) they are quite, quite useless. Maciej "Blog
+         Census" Ceglowski and Joshua "von memepool und del.icio.us"
+         Schachter have come up with a scheme that might fix all of
+         that. LOAF is private. It's decentralised. It fights spam!
+         LOAF revolves around a blob of data which you can pass
+         around your friends. The blob can reveal (via the usual
+         cryptomagical foo-fah) whether you know someone, but can't
+         reveal the complete list of who you know. In other words,
+         with Joshua's LOAF, you can ask "does Joshua know
+         larry@wall.org?" and the blob has enough info to say yes. But
+         as it's just a mess of hashes and bitmasks, you can't pull
+         out everybody Joshua knows. Giving a friend your LOAF lets
+         them find out whether a stranger knows you or not, letting
+         them build their own goddamn social networks. Application?
+         When you get an incoming email, quickly scan your friends'
+         LOAFs to see if they've met the sender. If they have, up the
+         score. If they haven't, treat with slight disdain. Blob
+         reader, writer and anti-spam mail integration are all in
+         Maciej's and Joshua's preliminary beta. At last, an excuse
+         to open attachments again.
+         http://loaf.cantbedone.org/
+                                                 - Bloom Filter County
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         missing only the former Viz catchphrase "I made my excuses and 
+         left": http://cheerleader.yoz.com/archives/001867.html ... 
+         important safety tip - keep the writers *away* from Photoshop: 
+         http://www.smh.com.au/articles/2004/03/25/1079939761567.html 
+         ... Birmingham - one of "the leading spoof departments in this 
+         field": http://www.cryptozoology.bham.ac.uk/ ... life imitates 
+         novelty RFCs: http://www.notes.co.il/benbasat/5240.asp - also, 
+         surely Israel must have a few M1 battle tanks kicking around?: 
+         http://www.faqs.org/rfcs/rfc1217.html ... scroll to end for #2 
+         comment: http://www.faqs.org/rfcs/rfc2616.html ... presumably 
+         http://toothycat.net/wiki/wiki.pl?ChipAndPin is going to make 
+         cloning cards harder, skimming PINs substantially easier?... 
+         http://www.nomadrugs.com/ vs http://www.nomoredrugs.com/ ... 
+         http://news.bbc.co.uk/1/3524838.stm reveals MRSA inspiration 
+         for http://www.telewest.co.uk / blueyonder logo... 
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> there's a chance to "compare and contrast" mob comedy 
+         ANALYZE THIS (9pm, Fri, C5) with precursor NATIONAL LAMPOON'S 
+         THE DON'S ANALYST (12.15am, Wed, BBC1)... Rich Herring says 
+         he's "both appalled and delighted" to have whacked another 
+         rower with an oar in THE OTHER BOAT RACE (6.05pm, Sat, BBC1) 
+         http://www.richardherring.com/warmingup/warmingup.php?id=468 
+         ... and a double bill of more comedians tackling unexpected 
+         straight roles sees Mike Myers disco-era romp 54 (11.25pm, 
+         Sat, BBC2) followed by Jim Carrey quirk-fest MAN ON THE MOON 
+         (10.30pm, Sun, BBC2)... two different looks at the undead in 
+         the not-as-bad-as-"Evolution" GHOSTBUSTERS II (5.35pm, Sat, 
+         C4) - "Is the atomic weight of cobalt 58.9?" - and a DAWN OF 
+         THE DEAD SPECIAL (11.40pm, Sat, C4) on the current remake of a 
+         1970s film which, Aintitcool reveals, was "also about zombies" 
+         http://www.aintitcool.com/display.cgi?id=17222 - Sarah "Go" 
+         Polley also pops up in wintry Western THE CLAIM (11.20pm, Tue, 
+         BBC2)... and James Nesbitt plays a man plagued with guilt over 
+         his niece's bad haircut in PASSER BY (9pm, Sun, BBC1)... ZERO 
+         TO HERO (4.05pm, Sun, C4) will ideally take a "The Authority"-
+         style look at the responsibilities of turning yourself into a 
+         technologically advanced superhero... Jeri "Seven of Nine" 
+         Ryan and Colleen "Vitamin C" Fitzpatrick are among the "three 
+         wives" of DRACULA 2000 (11.10pm, Sun, BBC1)... Donal Macintyre 
+         appears just one step away from reviving Arnie's "The Running 
+         Man" in his BIG STING (8pm, Tue, C5) crim-catching gameshow... 
+         and not many obvious April Fool's candidates on April 1st, 
+         unless C4 are really pushing the boundaries with their HAPPY 
+         BIRTHDAY THALIDOMIDE (9pm, Thu, C4)...
+         
+         FILM>> it's clearly had more money thrown at it than "28 Days 
+         Later", but not much seems to have landed on the script of 
+         unsophisticated A-Team B-movie remake gorefest DAWN OF THE 
+         DEAD ( http://www.capalert.com/capreports/dawnofthedead.htm : 
+         gunfire gore, repeatedly, frequent with tops/backs of heads 
+         blown off; "When there is no more room in Hell, the dead will 
+         walk the Earth." Hell will never be too full; vulgar/offensive 
+         [Richard Cheese] song in background; resurrection from death 
+         due to bites throughout)... slightly less likely to feature a 
+         trailer for "Shaun of The Dead" is Mel Gibson's brutal deus ex 
+         machina nail-'em-up vanity project THE PASSION OF THE CHRIST 
+( www.cndb.com/movie.html?title=Passion+of+the+Christ+%282004%29%2C+The :
+         Was it my imagination, or when the Roman soldier ripped JC's 
+         cloak off, did we get a brief outline of his wee-wee?)... the 
+         trailer implies that similar unrelenting punishment is handed 
+         out to "The Rock" in Christoper Walken/ Stifler/ Arnie cameo 
+         action nonsense THE WELCOME TO THE JUNGLE ( www.bbfc.co.uk/ :
+         Abridged version of work previously known as THE RUNDOWN for 
+         which cuts to scenes of violence were made in order to 
+         accommodate requested 12A category)... while the Tusken 
+         Raiders' further adventures on Tatooine are sadly not the 
+         subject of holiday-home makeover movie UNDER THE TUSCAN SUN 
+         ( http://www.capalert.com/capreports/underthetuscansun.htm : 
+         [Diane "Judge Dredd" Lane] in underwear making out in bed; 
+         lesbian pair to be "parents"; as reportedly almost all gay/
+         lesbian relationships go, this one fails)... 
+                                                               
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                   "not as funny as Private Eye used to be"
+                   http://www.guardian.co.uk/life/badscience
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2004 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+

@@ -1,0 +1,281 @@
+
+ _   _ _____ _  __ <*the* weekly high-tech sarcastic update for the uk>
+| \ | |_   _| |/ / _ __   __2003-10-24_ o       join! sign up at
+|  \| | | | | ' / | '_ \ / _ \ \ /\ / / o    http://lists.ntk.net/
+| |\  | | | | . \ | | | | (_) \ v  v /  o website (+ archive) lives at:
+|_| \_| |_| |_|\_\|_| |_|\___/ \_/\_/   o     http://www.ntk.net/
+
+
+                               >> HARD NEWS <<
+                                junk from SW2
+
+         There we were, getting our hopes up about the ALL PARTY
+         INTERNET GROUP, watching them catch on that spam was a
+         serious problem, seeing them beetle off to Washington to
+         hobnob with experts on the matter, cheering on the boyish
+         enthusiasm of chairman DEREK WYATT MP for the topic. Derek,
+         unfortunately, appears to be fighting the good fight with
+         the Shield of Wholesale Technical Misunderstanding and the
+         U-Shaped Gun Of Shooting One's Own Mouth Off. This week, he
+         sent out a press release announcing his own proposed
+         solution to spam. Postcodes. No, no, hear him out: Wyatt
+         proposes that every UK address have the postcode of the
+         recipient prepended between the domain and the .co.uk. So,
+         he explains, "derekwyatt@aol.com" would become
+         "derekwyatt@aol.swiaoaa.co.uk". Those who don't want to
+         give out their postcode could use a six-digit code ("plus a
+         pin number which would be held by the Information
+         Commissioner's Office"). "Addresses ending .com", he adds,
+         as an afterthought, "would need to identify their country of
+         origin, such as .com.uk". Yes. Yes, they would, Derek. Mr
+         Wyatt is soliciting feedback at wyattd@parliament.uk. Could
+         you do it? We're busy banging our heads against this tree.
+         http://www.derekwyattmp.co.uk/dereks_work/viewtopic.php?t=201
+                   - just in case you thought he was being joe-jobbed
+         http://www.apig.org.uk/
+                                - and it was all looking so promising
+         http://www.hexkey.co.uk/lee/log/2003/05/22/
+                                  - the NTK campaign to Save Our SMTP
+
+         You wait all year for the some decent political Net hackery,
+         and then three come along at once. First publicwhip - and
+         now from the unlikely auspices of the BBC, iCan, their
+         scarily large-scale political involvement engine. iCan looks
+         to be Meetup meets Friendster meets Moveon meets those bits
+         in the Archers where they used to give you useful
+         agricultural advice - but in a good way. It's still in beta,
+         so it's all empty pages and new website smell right now. But
+         you should at least take a whack at it before the government
+         shuts it all down. Or at least before all the cool low
+         numbered campaigns fill up with be "fake-prop" ragweek
+         silliness and hard-working organisations devoted to freeing
+         the "testinghellotessting123".
+         http://www.bbc.co.uk/dna/ican/
+                                           - the third is yet to come
+
+
+                                >> ANTI-NEWS <<
+                             berating the obvious
+
+         just one step up: http://www.ntk.net/2003/10/24/dohbin.gif ... 
+         another of those seamless print-to-web publicity transitions: 
+         http://www.ntk.net/2003/10/24/dohhut.gif ...net less resilient 
+         than solutions: http://www.ntk.net/2003/10/24/dohresi.gif ... 
+         Hewlett Packard monitors to survive nuclear conflict - but 
+         still worth investing in post-apocalyptic next-day tech 
+         support: http://www.dabs.com/uk/productView.htm?quicklinx=166J 
+         ... demo crew just love the new ZX81 with 24-channel 44kHz 
+         audio: http://www.trsi.org/machines/other.asp ... "Bowleg 
+         throwing" appears to be even more viral than they'd thought: 
+         http://www.lycos.co.uk/viral/ ... hey, better late than never: 
+         http://www.latesaversfrance.co.uk/ ... in accordance with 
+         prophecy, new comedy mag features - angry, unsympathetic agony 
+         aunt!: http://www.sourmashmagazine.com/sourlives.html ...
+
+
+                               >> EVENT QUEUE <<
+                         goto's considered non-harmful
+
+         Triumphing over both a recently broken arm and user groups 
+         which he can't speak to because they haven't used the proper 
+         "GNU/Linux" designation in their names, RICHARD "RMS" STALLMAN 
+         will be sampling the UK's native cuisine *and* speaking about 
+         software patents (he's against them, apparently) this very 
+         weekend (1pm Sat 2003-10-25, Stoddart building, Sheffield 
+         Hallam University; 2.30pm, Sun 2003-10-26, Cavendish Campus, 
+         University of Westminster, London, both free - as in "freedom" 
+         - but pre-registration advised). For an arguably less 
+         confrontational approach to solving the world's problems, you 
+         need look no further than Canada's WORLD ROCK PAPER SCISSORS 
+         CHAMPIONSHIPS (7.30pm, Sat 2003-10-25, Kool Haus 132 Queens 
+         Quay East, Toronto, Spectator tickets $15 on the door), whose 
+         UK contenders reveal - we hope not foolhardily - many of their 
+         tactics on their own hastily assembled website, including such 
+         gems as "You need nerves of steel to throw three papers in a 
+         row, as it's regarded as the most docile move and is 
+         particularly vulnerable to an opponent who's using the 
+         'toolbox' gambit (three scissors)."
+         http://www.ukrpsteam.com/
+         - swiftly corporate-hijacked, just like with Extreme Ironing
+         http://www.sheflug.co.uk/meeting.html
+                       - claims RMS to be a "friendly little monkey"?
+         http://www.nickhill.co.uk/rms-speech-status.html
+           - Sheffield venue appears to be just down the road from...
+         http://www.ntkmart.co.uk/images/
+              - ...NTK t-shirt exhibition (*must* close next Friday!)
+         http://homepage.ntlworld.com/speccyverse/orsam.htm
+              - next weekend: Norwich's biggest Spectrum and SAM Show 
+
+
+                                >> TRACKING <<
+               sufficiently advanced technology : the gathering
+
+         THE REGEX COACH is a utility for Windows and Linux for
+         testing out and walking through Perl-style regular
+         expressions. You can interactively try out regexs on test
+         data, find out which bits of the expression match what, view
+         a graphical version parse tree, and get a confusing
+         rendition of what the expression does in convoluted english.
+         It's a minor miracle for anyone learning regular
+         expressions, and will be a frequent timesaver even for those
+         who have slashes on each side of their brain. And, of
+         course, it's written in Common Lisp. What *is* it with
+         everyone taunting the Perl guys these days?
+         http://www.weitz.de/regex-coach/
+    - guess they drop the "p" in "regexp" because it's not a question
+         http://dev.perl.org/perl6/exegesis/E05.html
+                                            - cometh the perl6::rules
+
+
+                                >> MEMEPOOL <<
+                contains a source of http://snackspot.org/
+
+         http://qwer.org/synth.html channels The Onion's Smoove B: 
+         http://www.theonion.com/archive/archive_smooveb.php - "Demo 
+         CDs may also be provided"... submitting comedy "Oxo tower" 
+         reviews http://www.london-eating.co.uk/2252.htm (see 10/10/03) 
+         is the new "Martin Wank prank Amazon writeups"... putting all 
+         our old Google misspellings/ OCR artefacts ("bum victims" etc) 
+         into Amazon.com's new full text search... not like the others 
+         #17: http://images.google.com/images?q=%22deanna+troi%22 ... 
+         increasing professionalism killing the amateur spirit of eBay: 
+         http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=2761443653
+         ... roll d6 for muggings: http://www.chooseyourownny.com/ ... 
+         the Guardian - giving you both sides of the very same story: 
+        http://www.guardian.co.uk/business/story/0,3604,1067446,00.html vs
+        http://media.guardian.co.uk/newmedia/story/0,7496,1067224,00.html
+         
+
+                                >> GEEK MEDIA <<
+                                  get out less
+
+         TV>> inexplicably, all the published listings describe last 
+         week's plot for tonight's last-in-this-series episode of PEEP 
+         SHOW (10.40pm, Fri, C4)... Welsh "Jackass"-alike DIRTY SANCHEZ 
+         (11.45pm, Fri, C4) is, one hopes, the rudest TV title of all 
+         time... and nothing kicks Saturday night off with more of a 
+         bang than 1970s assassination thriller THE DAY OF THE JACKAL 
+         (6.45pm, Sat, BBC2)... comedian Jimmy Carr and former "body 
+         of Darth Vader" Dave Prowse serve up C4 viewers' THE 100 
+         GREATEST SCARY MOMENTS (9.05pm, Sat & Sun, C4) - in a week 
+         of Halloween movies that includes unexpected influence on US 
+         aerial-photo-interpretation THE OMEN (11.25pm, Sat, BBC1) 
+http://www.austinchronicle.com/issues/dispatch/2003-10-24/pols_naked6.html ,
+         German psycho-thriller THE EXPERIMENT (9pm, Sat, BBC4), arms-
+         biz suburban nightmare FALLING DOWN (10.55pm, Sun, BBC1), plus 
+         karaoke comedy DUETS (11.30pm, Sun, BBC2) - featuring Gwyneth 
+         Paltrow butchering "Bette Davis Eyes"... yet another "Matrix 
+         night" (from 9pm, Sun, C5) features both DECODED: THE MAKING 
+         OF MATRIX REVOLUTIONS (11.40pm, Sun, C5) and enough clues in 
+         ANIMATRIX: SECOND RENAISSANCE (12.10am, Sun, C5) to make the 
+         "mother of all spoilers" oh *so* obvious to true devotees: 
+http://www.netalive.org/stuff/matrix-revolutions_mother-of-all-spoilers.txt
+         ... BBC2 fills an inconvenient gap in its regular snooker 
+         coverage with the jumped-the-shark-in-the-musical last-ever 
+         series of BUFFY THE VAMPIRE SLAYER (6.45pm, Tue-Thu, BBC2)... 
+         and we still like this opening "Merlin" anecdote from the 
+         director of revenge classic POINT BLANK (11.45pm, Tue, BBC1) 
+       http://books.guardian.co.uk/review/story/0,12084,1040562,00.html
+         ... the BBC's entirely unpatronising Asian season climaxes 
+         with THE JOY OF CURRY (8pm, Wed, BBC2)... there's even an 
+         Asian lead in one-sided mobile phone drama YOU'RE BREAKING UP 
+         (11.20pm, Wed, BBC2)... but it's nuclear annihilation night on 
+         digital with a triple-bill of APOCALYPSE NOW - AND THEN (10pm, 
+         Wed, BBC4), tedious "protect and survive" counter-propaganda 
+         THREADS (10.40pm, Wed, BBC4) and an-all-too literal Hiroshima 
+         edition of DAYS THAT SHOOK THE WORLD (12.35pm, Wed, BBC4)... 
+         
+         FILM>> half-term arrives with junior David Lynch-style prison 
+         weirdness HOLES ( http://www.capalert.com/capreports/holes.htm :
+         unsafe rock climbing; flatulence; rudeness to many; lies)... 
+         outdoor Caine/ Duvall/ Osment family feelgooder SECONDHAND 
+         LIONS ( http://www.bbfc.co.uk/ : Distributor chose to remove 
+         sight of illegal weapons (flick knives) and instructional use 
+         of knife)... or a somewhat limited release for extended Daft 
+         Punk anime video INTERSTELLA 5555: THE 5TORY OF THE 5ECRET 
+         5TAR 5YSTEM ( http://www.bbfc.co.uk/ : contains mild fantasy 
+         violence)... George Clooney and Catherine Zeta-Jones attempt 
+         to broaden the mainstream appeal of the intolerable Coen 
+         brothers' still undeniably quirky rom-com INTOLERABLE CRUELTY 
+         ( http://www.capalert.com/capreports/intolerablecruelty.htm : 
+         lusting after nudity; series of sexual antics, including 
+         perversion; multiple divorces; cheapening the wrongness of 
+         adultery)... while hardly anywhere at all appears to be 
+         showing Vin Diesel-free infidelity drama "XXX" prequel XX/XY 
+         ( http://www.cndb.com/movie.html?title=XX%2FXY : we see Mark 
+         [Ruffalo] swimming in a pool underwater, and the trunks he's 
+         wearing are very very loose and pushed down very low at the 
+         back with the pressure of the water thus revealing about 3/4 
+         of his ass)... 
+         
+         AVAILABLE IN A WIDE RANGE OF BLACK, DESATURATED RED, AND DARK 
+         GREY>> yes, muted earth tones are "in" to celebrate the 
+         official arrival of autumn over at http://www.ntkmart.co.uk/ . 
+         Hot this month: our mock Japanese writing design consisting of 
+         semi-random kanji and katakana characters, interspersed with 
+         English phrases like "random japanese text" and "computer 
+         hobby", plus one of those one of those freaking Internet 
+         Explorer alert boxes on top of the whole thing, advising "To 
+         display this shirt correctly you need to download: Japanese 
+         Text Display Support", and so on. It's available in black, 
+         charcoal (dark grey) and steel (turquoise blue), 50p from each 
+         sale goes to recent Japlish contest winner DAVID GENTLE (for 
+         suggesting the phrases "tap-tap machine" and "Is 'grooved'? 
+         Yes grooved!"), while reader RONAN WAIDE has already confirmed 
+         that the big writing up at the top does seem to mean something 
+         like "to know [something] thing" and/or "shiru (to know) 
+         hitsuyousei (necessity)" - hey, as long as it's nothing rude: 
+       http://www.engrish.com/category_index.php?category=Adult%20Engrish
+         ... "Memes don't exist/ Tell your friends" is also back at 
+         last, "404 /shirt/tie not found" is additionally available in 
+         tan (light brown/ dark yellow) and cedar (desaturated red), 
+         but new reader designs continue to tickle our fancy, including 
+         NONEMORENEGATIVE's refreshingly baffling "jumper setting" gag: 
+     http://www.nonemorenegative.pwp.blueyonder.co.uk/jumpers/jumpers.asp .
+         JON PETERSON appeared to be promoting a radically pro-blog 
+         position in http://www.snowdrift.org/images/blog1.gif , JOHN 
+         MORTON implied that Richard Stallman is the new Che Guevara 
+         http://kaos.org.nz/misc/jshirts/index.php#gnu , but many of 
+         this month's top submissions were in text-only form, including 
+         LLOYD WOOD borrowing "yet another cynical goth programmer" 
+         from http://www.livejournal.com/users/cyn_goth_prog/ , and 
+         DANIEL BARLOW's yet-more-succinct "within$ ssh system shutdown 
+         -i0 -g0 -y". Don't forget to vote for your favourites by 
+         mailing us at the usual NTK address, ideally including the 
+         disclaimer "I am not a friend or colleague of the person who 
+         originally sent the design in, though obviously have no way of 
+         proving this". Speaking of which, tune in next time for the 
+         results of our ground-breaking competition to find the UK's 
+         most convincing email impersonation of TV's very own IAIN LEE: 
+         http://www.ntk.net/index.cgi?b=02003-08-29&l=291#l ... 
+                  
+
+                               >> SMALL PRINT <<
+
+       Need to Know is a useful and interesting UK digest of things that
+         happened last week or might happen next week. You can read it
+       on Friday afternoon or print it out then take it home if you have
+     nothing better to do. It is compiled by NTK from stuff they get sent.
+                       Registered at the Post Office as
+                "not quite the opinion we're forming over here"
+          http://conferences.oreillynet.com/cs/et2004/view/e_spkr/1661
+
+                                 NEED TO KNOW
+            THEY STOLE OUR REVOLUTION. NOW WE'RE STEALING IT BACK.
+                         Archive - http://www.ntk.net/
+              Unsubscribe or subscribe at http://lists.ntk.net/
+ NTK now is supported by UNFORTU.NET, and by you: http://www.ntkmart.com/
+
+                          (K) 2003 Special Projects.
+             Copying is fine, but include URL: http://www.ntk.net/
+         Full license at: http://creativecommons.org/licenses/by/1.0
+
+                    Tips, news and gossip to tips@spesh.com
+             All communication is for publication, unless you beg.
+     Remember: Your work email may be monitored if sending sensitive material.
+       Sending >500KB attachments is forbidden by the Geneva Convention.
+              Your country may be at risk if you fail to comply.
+
+
+
+
