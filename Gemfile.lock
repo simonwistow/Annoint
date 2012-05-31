@@ -85,6 +85,7 @@ PLATFORMS
 DEPENDENCIES
   all-your-base
   datamapper
+  dm-serializer
   dm-sqlite-adapter
   dm-types
   json

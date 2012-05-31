@@ -1,7 +1,9 @@
 require 'controllers/issue_controller'
 require 'controllers/comment_controller'
+require 'models/comment'
 
 DataMapper.finalize
+Comment.auto_upgrade!
 
 class Annoint::Application < Sinatra::Base
   set :static, true

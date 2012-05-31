@@ -2,6 +2,7 @@ source "http://rubygems.org"
 
 gem 'all-your-base'
 gem 'datamapper'
+gem 'dm-serializer'
 gem 'dm-sqlite-adapter'
 gem 'dm-types'
 gem 'json'
