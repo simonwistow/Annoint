@@ -1,6 +1,10 @@
 class Annoint::Application < Sinatra::Base
   @@issue_cache = {}
   
+  get '/' do
+    call env.merge("PATH_INFO" => "/issue/#{Annoint::INDEX.keys.sort[0]}")
+  end
+  
   get '/issue/:year/:month/:day' do |year, month, day|
     year   = 1900+year.to_i if year.to_i < 100
     @date  = DateTime.new(year.to_i, month.to_i, day.to_i)

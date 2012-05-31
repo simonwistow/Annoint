@@ -1,0 +1,6 @@
+<ul class='toc'>
+<% Annoint::INDEX.keys.sort.each do |date| %>
+  <% info = Annoint::INDEX[date] %>
+  <li><a href="/issue/<%= date %>"><%= info[:title] %></a><br/><%= info[:blurb] %></li>
+<% end %>
+</ul>

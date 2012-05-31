@@ -3,5 +3,5 @@ Annoint
 
 Get it running with
 
-  % bundle install
-  % rackup 
+    % bundle install
+    % rackup 
